@@ -11,10 +11,12 @@ URL = "https://www.beurs.nl/nieuws"
 # Logging voor o.a. GitHub Actions
 logging.basicConfig(level=logging.INFO, format="%(message)s")
 
+# Creërt een uniek ID voor elk item
 def make_id(title, link):
     raw = (title + link).encode("utf-8")
     return hashlib.md5(raw).hexdigest()
 
+# Scrapet de items van de site
 def scrape_beursnieuws():
     logging.info("Scraper gestart...")
 
@@ -30,7 +32,7 @@ def scrape_beursnieuws():
     items = []
     seen_ids = set()
 
-    # Elk nieuwsitem staat in een <li class="timelist__item">
+    # Voor elk nieuwsitem uit <li class="timelist__item">
     for li in soup.select("li.timelist__item"):
         # Categorie
         cat_el = li.select_one(".tag")
@@ -70,6 +72,13 @@ def scrape_beursnieuws():
     logging.info(f"Gevonden items: {len(items)}")
     return items
 
+# Het sorteren van de opgehaalde Items op recente eerst
+def sort_items(items):
+    return sorted(
+        items,
+        key=lambda x: x.get("published_at") or "",
+        reverse=True
+    )
 
 if __name__ == "__main__":
     data = scrape_beursnieuws()
