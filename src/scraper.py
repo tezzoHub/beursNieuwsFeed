@@ -1,7 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime
+from datetime import datetime, date
+import hashlib
 
 URL = "https://www.beurs.nl/nieuws/default.aspx"
 
