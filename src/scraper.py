@@ -80,7 +80,12 @@ if __name__ == "__main__":
 
     # 3 — Nooit een lege JSON wegschrijven
     if not data:
-        logging.error("WAARSCHUWING: Geen items gevonden — oude JSON behouden.")
+        logging.error("WAARSCHUWING: Geen items gevonden — foutmelding JSON geschreven.")
+
+        error_json = {
+            "error": "BeursNieuwsFeed niet gemaakt, check de Github"
+            "scraped_at": datetime.utcnow().isoformat()
+        }
         exit(0)
 
     with open("data/nieuws.json", "w", encoding="utf-8") as f:
