@@ -1,12 +1,21 @@
 [
   {
+    "id": "7a5258f622200776d2b573cc74196cf7",
+    "categorie": "Beursnieuws",
+    "titel": "KLM staakt vluchten naar Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/850950/KLM-staakt-vluchten-naar-Midden-Oosten.aspx",
+    "intro": "KLM vliegt voorlopig \"uit voorzorg\" niet op een aantal bestemmingen in het Midden-Oosten. Dit meldde de Nederlandse tak van Air France-KLM zaterdag.",
+    "published_at": "2026-01-24 14:18",
+    "scraped_at": "2026-01-24T13:23:20.131169"
+  },
+  {
     "id": "fd92ee354245f3fd747e203d8e05e09e",
     "categorie": "Beursnieuws",
     "titel": "Verition Fund Management meldt groter belang in OCI",
     "link": "https://www.beurs.nl/Nieuws/850949/Verition-Fund-Management-meldt-groter-belang-in-OCI.aspx",
     "intro": "Verition Fund Management heeft een groter belang in OCI genomen. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 21 januari 2026.",
     "published_at": "2026-01-24 13:57",
-    "scraped_at": "2026-01-24T13:09:43.968279"
+    "scraped_at": "2026-01-24T13:23:20.131169"
   },
   {
     "id": "b38ef20ae0ebe3467769c002173f7658",
@@ -15,6 +24,6 @@
     "link": "https://www.beurs.nl/Nieuws/850948/Capital-Research-heeft-kleiner-stemrecht-in-ING.aspx",
     "intro": "Capital Research and Management heeft zijn stemrecht in ING Groep verkleind. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 21 januari 2026.",
     "published_at": "2026-01-24 13:51",
-    "scraped_at": "2026-01-24T13:09:43.968601"
+    "scraped_at": "2026-01-24T13:23:20.131169"
   }
 ]
