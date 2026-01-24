@@ -8,7 +8,7 @@ from urllib.parse import urljoin
 
 URL = "https://www.beurs.nl/nieuws"
 
-# Logging instellen voor GitHub Actions
+# Logging voor o.a. GitHub Actions
 logging.basicConfig(level=logging.INFO, format="%(message)s")
 
 def make_id(title, link):
@@ -20,6 +20,7 @@ def scrape_beursnieuws():
 
     try:
         response = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
+        response.raise_for_status()
     except Exception as e:
         logging.error(f"FOUT: Kon de pagina niet ophalen: {e}")
         return []
@@ -31,7 +32,6 @@ def scrape_beursnieuws():
 
     # Elk nieuwsitem staat in een <li class="timelist__item">
     for li in soup.select("li.timelist__item"):
-        
         # Categorie
         cat_el = li.select_one(".tag")
         categorie = cat_el.get_text(strip=True) if cat_el else None
@@ -47,13 +47,9 @@ def scrape_beursnieuws():
         titel = title_el.get_text(strip=True)
         link = urljoin(URL, title_el.get("href", ""))
 
-        # Intro (verbeterde extractie)
+        # Intro (verbeterd)
         intro_el = li.select_one("p.timelist__intro")
-        if intro_el:
-            # Soms zit de tekst in een <a> binnen de <p>
-            intro = intro_el.get_text(strip=True)
-        else:
-            intro = None
+        intro = intro_el.get_text(strip=True) if intro_el else None
 
         # ID
         uid = make_id(titel, link)
@@ -78,14 +74,14 @@ def scrape_beursnieuws():
 if __name__ == "__main__":
     data = scrape_beursnieuws()
 
-    # 3 — Nooit een lege JSON wegschrijven
     if not data:
-        logging.error("WAARSCHUWING: Geen items gevonden — foutmelding JSON geschreven.")
-
+        logging.error("WAARSCHUWING: Geen items gevonden — foutmelding JSON wordt geschreven.")
         error_json = {
-            "error": "BeursNieuwsFeed niet gemaakt, check de Github"
+            "error": "beursNieuwsFeed is niet gegenereerd, kijk naar je GitHub Actions logs",
             "scraped_at": datetime.utcnow().isoformat()
         }
+        with open("data/nieuws.json", "w", encoding="utf-8") as f:
+            json.dump(error_json, f, ensure_ascii=False, indent=2)
         exit(0)
 
     with open("data/nieuws.json", "w", encoding="utf-8") as f:
