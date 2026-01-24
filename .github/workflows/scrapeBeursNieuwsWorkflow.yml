@@ -34,3 +34,4 @@ jobs:
           git add data/nieuws.json
           git commit -m "Update nieuws.json" || exit 0
           git push origin HEAD:main
+
