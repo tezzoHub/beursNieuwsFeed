@@ -1,7 +1,7 @@
 # beursNieuwsFeed
 Scrapes the newsitems from beurs.nl
 
-# Structure
+# structure
 beursNieuwsFeed/
 │
 ├── src/
