@@ -1,7 +1,6 @@
 # beursNieuwsFeed
 Scrapes the newsitems from beurs.nl
 
-# beursNieuwsFeed
 Automatische scraper voor het ophalen van nieuwsitems van https://www.beurs.nl/nieuws/default.aspx.  
 De scraper draait via GitHub Actions en publiceert de output als JSON via GitHub Pages.
 
