@@ -82,6 +82,7 @@ def sort_items(items):
 
 if __name__ == "__main__":
     data = scrape_beursnieuws()
+    data = sort_items(data)
 
     if not data:
         logging.error("WAARSCHUWING: Geen items gevonden — foutmelding JSON wordt geschreven.")
