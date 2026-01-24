@@ -3,15 +3,27 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 import hashlib
+import logging
+from urllib.parse import urljoin
 
-URL = "https://www.beurs.nl/nieuws/"
+URL = "https://www.beurs.nl/nieuws"
+
+# Logging instellen voor GitHub Actions
+logging.basicConfig(level=logging.INFO, format="%(message)s")
 
 def make_id(title, link):
     raw = (title + link).encode("utf-8")
     return hashlib.md5(raw).hexdigest()
 
 def scrape_beursnieuws():
-    response = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
+    logging.info("Scraper gestart...")
+
+    try:
+        response = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
+    except Exception as e:
+        logging.error(f"FOUT: Kon de pagina niet ophalen: {e}")
+        return []
+
     soup = BeautifulSoup(response.text, "html.parser")
 
     items = []
@@ -33,11 +45,15 @@ def scrape_beursnieuws():
         if not title_el:
             continue
         titel = title_el.get_text(strip=True)
-        link = title_el["href"]
+        link = urljoin(URL, title_el.get("href", ""))
 
-        # Intro
+        # Intro (verbeterde extractie)
         intro_el = li.select_one("p.timelist__intro")
-        intro = intro_el.get_text(strip=True) if intro_el else None
+        if intro_el:
+            # Soms zit de tekst in een <a> binnen de <p>
+            intro = intro_el.get_text(strip=True)
+        else:
+            intro = None
 
         # ID
         uid = make_id(titel, link)
@@ -55,12 +71,25 @@ def scrape_beursnieuws():
             "scraped_at": datetime.utcnow().isoformat()
         })
 
+    logging.info(f"Gevonden items: {len(items)}")
     return items
 
 
 if __name__ == "__main__":
     data = scrape_beursnieuws()
-    with open("data/nieuws.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"Scraped {len(data)} nieuwsitems.")
+    # 3 — Nooit een lege JSON wegschrijven
+    if not data:
+    logging.error("WAARSCHUWING: Geen items gevonden — foutmelding JSON wordt geschreven.")
+
+    error_json = {
+        "error": "beursNieuwsFeed is niet gegenereerd, kijk naar je GitHub Scraper & Actions logs",
+        "scraped_at": datetime.utcnow().isoformat()
+    }
+
+    with open("data/nieuws.json", "w", encoding="utf-8") as f:
+        json.dump(error_json, f, ensure_ascii=False, indent=2)
+
+    exit(0)
+
+    logging.info(f"Scraped {len(data)} nieuwsitems.")
