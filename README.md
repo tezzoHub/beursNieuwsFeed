@@ -26,3 +26,22 @@ beursNieuwsFeed/
 │
 ├── README.md
 └── requirements.txt
+
+
+## 🚀 Automatisering (GitHub Actions)
+
+De scraper wordt automatisch uitgevoerd via een workflow (scrape.yml) die:
+- de website bezoekt
+- nieuwsitems verzamelt
+- `data/nieuws.json` bijwerkt
+- wijzigingen commit naar de repository
+- de JSON-feed publiceert via GitHub Pages
+
+(Workflow wordt toegevoegd in stap 4.)
+
+## 📝 Toekomstige uitbreidingen
+
+- Validatie van dubbele items  
+- RSS‑achtige output  
+- WordPress shortcode integratie  
+- Caching en diff‑detectie
