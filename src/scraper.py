@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 import hashlib
 
-URL = "https://www.beurs.nl/nieuws/default.aspx"
+URL = "https://www.beurs.nl/nieuws/"
 
 def make_id(title, link):
     raw = (title + link).encode("utf-8")
