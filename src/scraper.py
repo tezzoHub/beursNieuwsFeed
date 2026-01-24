@@ -80,14 +80,10 @@ if __name__ == "__main__":
 
     # 3 — Nooit een lege JSON wegschrijven
     if not data:
-    logging.error("WAARSCHUWING: Geen items gevonden — foutmelding JSON wordt geschreven.")
-
-    error_json = {
-        "error": "beursNieuwsFeed is niet gegenereerd, kijk naar je GitHub Scraper & Actions logs",
-        "scraped_at": datetime.utcnow().isoformat()
-    }
+        logging.error("WAARSCHUWING: Geen items gevonden — oude JSON behouden.")
+        exit(0)
 
     with open("data/nieuws.json", "w", encoding="utf-8") as f:
-        json.dump(error_json, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
-    exit(0)
+    logging.info(f"Scraped {len(data)} nieuwsitems.")
