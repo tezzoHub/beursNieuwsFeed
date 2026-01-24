@@ -6,9 +6,7 @@ De scraper draait via GitHub Actions en publiceert de output als JSON via GitHub
 
 ## 📡 Live JSON Feed
 De actuele nieuwsfeed is publiek beschikbaar via GitHub Pages:
-
 **https://tezzohub.github.io/beursNieuwsFeed/data/nieuws.json**
-
 Deze URL kan worden gebruikt in WordPress of andere systemen om de nieuwsitems automatisch in te laden.
 
 ## 📁 Repository structuur
@@ -22,7 +20,7 @@ beursNieuwsFeed/
 │
 ├── .github/
 │   └── workflows/
-│       └── scrape.yml     (komt in stap 4)
+│       └── scrapeBeursNieuwsWorkflow.yml
 │
 ├── README.md
 └── requirements.txt
@@ -30,14 +28,32 @@ beursNieuwsFeed/
 
 ## 🚀 Automatisering (GitHub Actions)
 
-De scraper wordt automatisch uitgevoerd via een workflow (scrape.yml) die:
+De scraper wordt automatisch uitgevoerd via een workflow (scrapeBeursNieuwsWorkflow.yml) die:
 - de website bezoekt
 - nieuwsitems verzamelt
 - `data/nieuws.json` bijwerkt
 - wijzigingen commit naar de repository
 - de JSON-feed publiceert via GitHub Pages
 
-(Workflow wordt toegevoegd in stap 4.)
+## 🔄 GitHub Actions workflow
+
+De scraper draait automatisch:
+- elke 30 minuten via cron
+- handmatig via “Run workflow”
+
+De workflow:
+- installeert Python
+- installeert dependencies
+- draait `scraper.py`
+- commit & pusht wijzigingen naar `main`
+- publiceert de JSON via GitHub Pages
+
+## 🌐 JSON-feed gebruiken in WordPress
+
+De JSON-feed kan worden ingeladen in WordPress via een shortcode of custom plugin.  
+Voorbeeld shortcode (nog te implementeren):
+
+
 
 ## 📝 Toekomstige uitbreidingen
 
