@@ -1,4 +1,4 @@
-:name: scrapeBeursNieuwsWorkflow
+name: scrapeBeursNieuwsWorkflow
 
 on:
   schedule:
