@@ -110,9 +110,10 @@ def scrape_beursnieuws():
 #----------------------------
 
 if __name__ == "__main__":
+    scraped_at = datetime.utcnow().isoformat()
     data = scrape_beursnieuws()
     data = sort_items(data)
-    data = [normalize_item(i) for i in data] 
+    data = [normalize_item(i) | {"scraped_at": scraped_at} for i in data] 
     
     if not data:
         logging.error("WAARSCHUWING: Geen items gevonden — foutmelding JSON wordt geschreven.")
