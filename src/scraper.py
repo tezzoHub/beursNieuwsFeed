@@ -6,15 +6,48 @@ import hashlib
 import logging
 from urllib.parse import urljoin
 
+# -------------------------
+# Configuratie
+# -------------------------
+
 URL = "https://www.beurs.nl/nieuws"
 
 # Logging voor o.a. GitHub Actions
 logging.basicConfig(level=logging.INFO, format="%(message)s")
 
-# Creërt een uniek ID voor elk item
+
+#----------------------------
+# Helper functions
+#----------------------------
+
+# Creates an ID for each item;
 def make_id(title, link):
     raw = (title + link).encode("utf-8")
     return hashlib.md5(raw).hexdigest()
+
+# Sorting the items;
+def sort_items(items):
+    return sorted(
+        items,
+        key=lambda x: x.get("published_at") or "",
+        reverse=True
+    )
+
+# Normalize the items
+def normalize_item(item):
+    return {
+        "id": item.get("id"),
+        "categorie": item.get("categorie"),
+        "titel": item.get("titel"),
+        "link": item.get("link"),
+        "intro": item.get("intro"),
+        "published_at": item.get("published_at"),
+        "scraped_at": item.get("scraped_at")
+    }
+
+#----------------------------
+# Main function - Scraper
+#----------------------------
 
 # Scrapet de items van de site
 def scrape_beursnieuws():
@@ -72,18 +105,15 @@ def scrape_beursnieuws():
     logging.info(f"Gevonden items: {len(items)}")
     return items
 
-# Het sorteren van de opgehaalde Items op recente eerst
-def sort_items(items):
-    return sorted(
-        items,
-        key=lambda x: x.get("published_at") or "",
-        reverse=True
-    )
+#----------------------------
+# Main console execute
+#----------------------------
 
 if __name__ == "__main__":
     data = scrape_beursnieuws()
     data = sort_items(data)
-
+    data = [normalize_item(i) for i in data] 
+    
     if not data:
         logging.error("WAARSCHUWING: Geen items gevonden — foutmelding JSON wordt geschreven.")
         error_json = {
