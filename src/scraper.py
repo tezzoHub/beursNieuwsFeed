@@ -98,8 +98,7 @@ def scrape_beursnieuws():
             "titel": titel,
             "link": link,
             "intro": intro,
-            "published_at": published_at,
-            "scraped_at": datetime.utcnow().isoformat()
+            "published_at": published_at
         })
 
     logging.info(f"Gevonden items: {len(items)}")
