@@ -12,7 +12,7 @@ from urllib.parse import urljoin
 
 URL = "https://www.beurs.nl/nieuws"
 
-# Logging voor o.a. GitHub Actions
+# Logging o.a. GitHub Actions
 logging.basicConfig(level=logging.INFO, format="%(message)s")
 
 
