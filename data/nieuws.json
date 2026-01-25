@@ -1,12 +1,21 @@
 [
   {
+    "id": "f1f18b67e2f689eb39e418b0a6d453a9",
+    "categorie": "Beursnieuws",
+    "titel": "Trump dreigt Canada met importheffingen van 100 procent",
+    "link": "https://www.beurs.nl/Nieuws/850956/Trump-dreigt-Canada-met-importheffingen-van-100-procent.aspx",
+    "intro": "De Verenigde Staten zullen Canada importheffingen van 100 procent opleggen, als het buurland een deal sluit met China. Hiermee dreigde de Amerikaanse president Donald Trump zaterdag op Truth Social.",
+    "published_at": "2026-01-24 18:09",
+    "scraped_at": "2026-01-25T08:56:28.207661"
+  },
+  {
     "id": "7a5258f622200776d2b573cc74196cf7",
     "categorie": "Beursnieuws",
     "titel": "KLM staakt vluchten naar Midden-Oosten",
     "link": "https://www.beurs.nl/Nieuws/850950/KLM-staakt-vluchten-naar-Midden-Oosten.aspx",
     "intro": "KLM vliegt voorlopig \"uit voorzorg\" niet op een aantal bestemmingen in het Midden-Oosten. Dit meldde de Nederlandse tak van Air France-KLM zaterdag.",
     "published_at": "2026-01-24 14:18",
-    "scraped_at": "2026-01-24T13:35:42.915065"
+    "scraped_at": "2026-01-25T08:56:28.207661"
   },
   {
     "id": "fd92ee354245f3fd747e203d8e05e09e",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/850949/Verition-Fund-Management-meldt-groter-belang-in-OCI.aspx",
     "intro": "Verition Fund Management heeft een groter belang in OCI genomen. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 21 januari 2026.",
     "published_at": "2026-01-24 13:57",
-    "scraped_at": "2026-01-24T13:35:42.915065"
+    "scraped_at": "2026-01-25T08:56:28.207661"
   },
   {
     "id": "b38ef20ae0ebe3467769c002173f7658",
@@ -24,6 +33,6 @@
     "link": "https://www.beurs.nl/Nieuws/850948/Capital-Research-heeft-kleiner-stemrecht-in-ING.aspx",
     "intro": "Capital Research and Management heeft zijn stemrecht in ING Groep verkleind. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 21 januari 2026.",
     "published_at": "2026-01-24 13:51",
-    "scraped_at": "2026-01-24T13:35:42.915065"
+    "scraped_at": "2026-01-25T08:56:28.207661"
   }
 ]
