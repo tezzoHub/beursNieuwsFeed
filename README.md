@@ -1,16 +1,18 @@
-# beursNieuwsFeed
-
-Automatische scraper voor het ophalen van nieuwsitems van  
+📈 beursNieuwsFeed
+Automated scraper for collecting financial news items from
 https://www.beurs.nl/nieuws.
-De scraper draait via GitHub Actions en publiceert de output als JSON via GitHub Pages.
+
+The scraper runs on GitHub Actions and publishes its output as a JSON feed via GitHub Pages.
+This feed can be consumed by WordPress or any other system that supports JSON.
 
 ---
 
 ## 📡 Live JSON Feed
 
-De actuele nieuwsfeed is publiek beschikbaar via GitHub Pages:
-**https://tezzohub.github.io/beursNieuwsFeed/data/nieuws.json**
-Deze URL kan worden gebruikt in WordPress of andere systemen om de nieuwsitems automatisch in te laden.
+📡 Live JSON Feed
+The latest news feed is publicly available via GitHub Pages:
+https://tezzohub.github.io/beursNieuwsFeed/data/nieuws.json
+This endpoint is updated automatically every x minutes and can be used directly inside WordPress or external applications.
 
 ---
 
@@ -33,61 +35,153 @@ beursNieuwsFeed/
 
 ---
 
+🚀 Automation (GitHub Actions)
+The scraper is executed automatically through the workflow
+scrapeBeursNieuwsWorkflow.yml, which:
+
+* visits the target website
+* extracts the latest news items
+* updates data/nieuws.json
+* commits changes back to the repository
+* publishes the JSON feed via GitHub Pages  
 
 ---
 
-## 🚀 Automatisering (GitHub Actions)
+🔄 Workflow Schedule
+The scraper runs:
+* every x minutes via cron
+* on demand via “Run workflow” in GitHub Actions
 
-De scraper wordt automatisch uitgevoerd via een workflow (`scrapeBeursNieuwsWorkflow.yml`) die:
-
-- de website bezoekt  
-- nieuwsitems verzamelt  
-- `data/nieuws.json` bijwerkt  
-- wijzigingen commit naar de repository  
-- de JSON-feed publiceert via GitHub Pages  
-
----
-
-## 🔄 GitHub Actions workflow
-
-De scraper draait automatisch:
-
-- elke 30 minuten via cron  
-- handmatig via “Run workflow”
-
-De workflow:
-
-1. installeert Python  
-2. installeert dependencies  
-3. draait `scraper.py`  
-4. commit & pusht wijzigingen naar `main`  
-5. publiceert de JSON via GitHub Pages  
+Workflow steps:
+* Install Python
+* Install dependencies
+* Execute scraper.py
+* Commit & push updated JSON to main
+* Publish the feed through GitHub Pages  
 
 ---
 
-## 📦 JSON Schema
-
-Elk nieuwsitem in `nieuws.json` heeft de volgende structuur:
+📦 JSON Schema
+Each news item in nieuws.json follows this structure:
 
 {
-  "id": "string",               // Unieke hash van titel + link
-  "categorie": "string",        // Categorie van het nieuwsitem
-  "titel": "string",            // Titel van het artikel
-  "link": "string",             // Absolute URL naar het artikel
-  "intro": "string",            // Korte intro van het artikel
-  "published_at": "string",     // Datum + tijd van publicatie (ISO)
-  "scraped_at": "string"        // Centrale timestamp van de scraper-run (ISO)
+  "id": "string",               // Unique hash based on title + link
+  "categorie": "string",        // Category of the news item
+  "titel": "string",            // Article title
+  "link": "string",             // Absolute URL to the article
+  "intro": "string",            // Short introduction text
+  "published_at": "string",     // Publication timestamp (ISO)
+  "scraped_at": "string"        // Timestamp of the scraper run (ISO)
 }
 
+---
 
-## 🌐 JSON-feed gebruiken in WordPress
+🌐 Using the JSON Feed in WordPress
+This project includes a lightweight WordPress integration that consumes the JSON feed and renders it using native WordPress RSS‑block
+styling. The integration is implemented as a shortcode that can be placed inside any post, page, or theme block.
 
-De JSON-feed kan worden ingeladen in WordPress via een shortcode of custom plugin.  
-Voorbeeld shortcode (nog te implementeren): [beursnieuws limit="10"]
+// Fetching the JSON feed (add the following to your theme's functions.php)
+function beursnieuws_get_data() {
+    $cache_key = 'beursnieuws_cache';
+    $cached = get_transient($cache_key);
 
+// Return cached data if available
+    if ($cached !== false) {
+        return $cached;
+    }
 
+  $url = 'https://tezzohub.github.io/beursNieuwsFeed/data/nieuws.json';
+  $response = wp_remote_get($url, ['timeout' => 10]);
+    
+  // Handle request errors
+    if (is_wp_error($response)) {
+        return [];
+    }
 
-## 📝 Toekomstige uitbreidingen
+  $body = wp_remote_retrieve_body($response);
+  $data = json_decode($body, true);
+
+  // Validate JSON structure
+    if (!is_array($data)) {
+        return [];
+    }
+
+  // Cache for 5 minutes
+    set_transient($cache_key, $data, 5 * MINUTE_IN_SECONDS);
+
+  return $data;
+}
+
+// SHORTCODE:
+function beursnieuws_shortcode($atts) {
+    $atts = shortcode_atts([
+      'limit' => 20,
+      'view'  => 'full' // options full,telex
+], $atts);
+
+  $items = beursnieuws_get_data();
+  $items = array_slice($items, 0, intval($atts['limit']));
+
+  if (empty($items)) {
+      return '<p>Geen nieuws beschikbaar.</p>';
+  }
+
+  ob_start();
+
+  
+// TELEX VIEW (Only titles, WP-rss CSS style)
+  if ($atts['view'] === 'telex') {
+
+  echo '<ul class="wp-block-rss">';
+
+  foreach ($items as $item) {
+            echo '<li class="wp-block-rss__item">';
+            echo '<a class="wp-block-rss__item-title" href="' . esc_url($item['link']) . '" target="_blank" rel="noopener">';
+            echo esc_html($item['titel']);
+            echo '</a>';
+            echo '</li>';
+        }
+
+  echo '</ul>';
+
+  return ob_get_clean();
+  }
+
+// FULL VIEW (Standard)
+echo '<div class="beursnieuws-list">';
+
+foreach ($items as $item) {
+    ?>
+    <article class="beursnieuws-item">
+       <h3 class="beursnieuws-title">
+         <a href="<?php echo esc_url($item['link']); ?>" target="_blank" rel="noopener">
+             <?php echo esc_html($item['titel']); ?>
+         </a>
+       </h3>
+
+  <p class="beursnieuws-meta">
+      <?php echo esc_html($item['categorie']); ?> —
+      <?php echo esc_html($item['published_at']); ?>
+  </p>
+
+  <?php if (!empty($item['intro'])): ?>
+   <p class="beursnieuws-intro">
+                    <?php echo esc_html($item['intro']); ?>
+                </p>
+            <?php endif; ?>
+        </article>
+        <?php
+    }
+
+  echo '</div>';
+
+  return ob_get_clean();
+}
+add_shortcode('beursnieuws', 'beursnieuws_shortcode');
+
+---
+
+📝 Toekomstige uitbreidingen
 
 - Validatie van dubbele items  
 - RSS‑achtige output  
