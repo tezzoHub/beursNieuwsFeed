@@ -14,7 +14,7 @@ This endpoint is updated automatically every x minutes and can be used directly 
 
 ---
 
-## 📁 Repository structuur
+📁 Repository structuur
 
 beursNieuwsFeed/
 │
@@ -117,33 +117,33 @@ function beursnieuws_shortcode($atts) {
       'view'  => 'full' // options full,telex
 ], $atts);
 
-  $items = beursnieuws_get_data();
-  $items = array_slice($items, 0, intval($atts['limit']));
+$items = beursnieuws_get_data();
+$items = array_slice($items, 0, intval($atts['limit']));
 
-  if (empty($items)) {
-      return '<p>Geen nieuws beschikbaar.</p>';
-  }
+if (empty($items)) {
+    return '<p>Geen nieuws beschikbaar.</p>';
+}
 
-  ob_start();
+ob_start();
 
   
 // TELEX VIEW (Only titles, WP-rss CSS style)
-  if ($atts['view'] === 'telex') {
+if ($atts['view'] === 'telex') {
 
-  echo '<ul class="wp-block-rss">';
+echo '<ul class="wp-block-rss">';
 
-  foreach ($items as $item) {
-            echo '<li class="wp-block-rss__item">';
-            echo '<a class="wp-block-rss__item-title" href="' . esc_url($item['link']) . '" target="_blank" rel="noopener">';
+foreach ($items as $item) {
+          echo '<li class="wp-block-rss__item">';
+          echo '<a class="wp-block-rss__item-title" href="' . esc_url($item['link']) . '" target="_blank" rel="noopener">';
             echo esc_html($item['titel']);
             echo '</a>';
             echo '</li>';
         }
 
-  echo '</ul>';
+echo '</ul>';
 
-  return ob_get_clean();
-  }
+return ob_get_clean();
+}
 
 // FULL VIEW (Standard)
 echo '<div class="beursnieuws-list">';
@@ -157,23 +157,23 @@ foreach ($items as $item) {
          </a>
        </h3>
 
-  <p class="beursnieuws-meta">
-      <?php echo esc_html($item['categorie']); ?> —
-      <?php echo esc_html($item['published_at']); ?>
-  </p>
+<p class="beursnieuws-meta">
+    <?php echo esc_html($item['categorie']); ?> —
+    <?php echo esc_html($item['published_at']); ?>
+</p>
 
-  <?php if (!empty($item['intro'])): ?>
-   <p class="beursnieuws-intro">
-                    <?php echo esc_html($item['intro']); ?>
-                </p>
-            <?php endif; ?>
+<?php if (!empty($item['intro'])): ?>
+<p class="beursnieuws-intro">
+                  <?php echo esc_html($item['intro']); ?>
+</p>
+        <?php endif; ?>
         </article>
         <?php
     }
 
-  echo '</div>';
+echo '</div>';
 
-  return ob_get_clean();
+return ob_get_clean();
 }
 add_shortcode('beursnieuws', 'beursnieuws_shortcode');
 
@@ -181,8 +181,5 @@ add_shortcode('beursnieuws', 'beursnieuws_shortcode');
 
 📝 Toekomstige uitbreidingen
 
-- Validatie van dubbele items  
-- RSS‑achtige output  
-- WordPress shortcode integratie  
-- Caching en diff‑detectie
+- In shortcode replace IF to Switch
 - Source toevoegen aan item (to be discussed)
