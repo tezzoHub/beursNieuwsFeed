@@ -7,8 +7,6 @@ This feed can be consumed by WordPress or any other system that supports JSON.
 
 ---
 
-## 📡 Live JSON Feed
-
 📡 Live JSON Feed
 The latest news feed is publicly available via GitHub Pages:
 https://tezzohub.github.io/beursNieuwsFeed/data/nieuws.json
