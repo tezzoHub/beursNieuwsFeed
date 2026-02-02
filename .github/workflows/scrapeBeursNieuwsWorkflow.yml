@@ -1,9 +1,9 @@
-name: scrapeBeursNieuwsWorkflow
-
 on:
   schedule:
     - cron: "*/30 * * * *"   # elke 30 minuten
   workflow_dispatch:         # handmatig starten
+  
+name: scrapeBeursNieuwsWorkflow
 
 permissions:
   contents: write
