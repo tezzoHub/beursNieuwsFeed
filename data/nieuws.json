@@ -1,38 +1,542 @@
 [
   {
-    "id": "f1f18b67e2f689eb39e418b0a6d453a9",
+    "id": "88869aa4a38d47283840f4e7c13e8856",
     "categorie": "Beursnieuws",
-    "titel": "Trump dreigt Canada met importheffingen van 100 procent",
-    "link": "https://www.beurs.nl/Nieuws/850956/Trump-dreigt-Canada-met-importheffingen-van-100-procent.aspx",
-    "intro": "De Verenigde Staten zullen Canada importheffingen van 100 procent opleggen, als het buurland een deal sluit met China. Hiermee dreigde de Amerikaanse president Donald Trump zaterdag op Truth Social.",
-    "published_at": "2026-01-24 18:09",
-    "scraped_at": "2026-01-25T09:53:43.214317"
+    "titel": "Media: Elon Musk combineert SpaceX en xAI voor megabeursgang",
+    "link": "https://www.beurs.nl/Nieuws/852008/Media-Elon-Musk-combineert-SpaceX-en-xAI-voor-megabeursgang.aspx",
+    "intro": "Elon Musk voegt raketbouwer SpaceX samen met zijn AI-startup xAI. De fusie werd aangekondigd in een blogpost van SpaceX. Dit melden verschillende media maandagavond.",
+    "published_at": "2026-02-02 23:07",
+    "scraped_at": "2026-02-02T23:56:16.699954"
   },
   {
-    "id": "7a5258f622200776d2b573cc74196cf7",
+    "id": "fc1fcc65abe95da709de8f8901577386",
     "categorie": "Beursnieuws",
-    "titel": "KLM staakt vluchten naar Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/850950/KLM-staakt-vluchten-naar-Midden-Oosten.aspx",
-    "intro": "KLM vliegt voorlopig \"uit voorzorg\" niet op een aantal bestemmingen in het Midden-Oosten. Dit meldde de Nederlandse tak van Air France-KLM zaterdag.",
-    "published_at": "2026-01-24 14:18",
-    "scraped_at": "2026-01-25T09:53:43.214317"
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/852007/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-02-02 22:53",
+    "scraped_at": "2026-02-02T23:56:16.699954"
   },
   {
-    "id": "fd92ee354245f3fd747e203d8e05e09e",
+    "id": "85101f571f913537eee953f7fe8584f8",
     "categorie": "Beursnieuws",
-    "titel": "Verition Fund Management meldt groter belang in OCI",
-    "link": "https://www.beurs.nl/Nieuws/850949/Verition-Fund-Management-meldt-groter-belang-in-OCI.aspx",
-    "intro": "Verition Fund Management heeft een groter belang in OCI genomen. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 21 januari 2026.",
-    "published_at": "2026-01-24 13:57",
-    "scraped_at": "2026-01-25T09:53:43.214317"
+    "titel": "NXP Semiconductors ziet herstel in vraag en groeit verder",
+    "link": "https://www.beurs.nl/Nieuws/852006/NXP-Semiconductors-ziet-herstel-in-vraag-en-groeit-verder.aspx",
+    "intro": "NXP Semiconductors heeft in het vierde kwartaal een stijgende omzet gerealiseerd en verwacht deze groei door te zetten. Het management constateerde een verbetering in de marktvraag, zo bleek maandagavond uit de gepubliceerde cijfers van het bedrijf.",
+    "published_at": "2026-02-02 22:49",
+    "scraped_at": "2026-02-02T23:56:16.699954"
   },
   {
-    "id": "b38ef20ae0ebe3467769c002173f7658",
+    "id": "2fdd3b6dcdb4e01af3e08fb01698cf75",
     "categorie": "Beursnieuws",
-    "titel": "Capital Research heeft kleiner stemrecht in ING",
-    "link": "https://www.beurs.nl/Nieuws/850948/Capital-Research-heeft-kleiner-stemrecht-in-ING.aspx",
-    "intro": "Capital Research and Management heeft zijn stemrecht in ING Groep verkleind. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 21 januari 2026.",
-    "published_at": "2026-01-24 13:51",
-    "scraped_at": "2026-01-25T09:53:43.214317"
+    "titel": "Palantir overtreft verwachtingen en outlook",
+    "link": "https://www.beurs.nl/Nieuws/852003/Palantir-overtreft-verwachtingen-en-outlook.aspx",
+    "intro": "Palantir Technologies heeft indrukwekkende kwartaalcijfers gepresenteerd die alle verwachtingen overtroffen. Dit bleek maandagavond uit de publicatie van het bedrijf.",
+    "published_at": "2026-02-02 22:35",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "79e4406f13887cdf13e057cc8e0762a9",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street start februari optimistisch",
+    "link": "https://www.beurs.nl/Nieuws/851998/Wall-Street-start-februari-optimistisch.aspx",
+    "intro": "De Amerikaanse beurzen zijn februari positief begonnen, waarbij beleggers de recente klappen in edelmetalen en bitcoin naast zich neerlegden en onder meer steun kregen van sterke macro-economische cijfers.",
+    "published_at": "2026-02-02 22:15",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "ee91b1994f8b1e8b3542d0a265c6ca7f",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen flink lager gesloten de-escalatie VS en Iran",
+    "link": "https://www.beurs.nl/Nieuws/851997/Olieprijzen-flink-lager-gesloten-de-escalatie-VS-en-Iran.aspx",
+    "intro": "Olieprijzen zijn maandag flink lager gesloten, na uitspraken van president Trump over gesprekken met Iran. Ook een sterkere dollar en mildere weersvoorspellingen drukten de prijzen.",
+    "published_at": "2026-02-02 21:08",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "d2fa87acb45d554f276c35bc1b10d2f3",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Franse begroting goedgekeurd na overwinning premier",
+    "link": "https://www.beurs.nl/Nieuws/851994/Media-Franse-begroting-goedgekeurd-na-overwinning-premier.aspx",
+    "intro": "Het Franse parlement heeft een begroting voor 2026 vastgesteld nadat premier Sébastien Lecornu twee moties van wantrouwen had overleefd. Daarmee kwam er een einde aan maanden van politieke onrust die het vertrouwen van beleggers in het land had ondermijnd. Dit melde persbureau Bloomberg maandagavond.",
+    "published_at": "2026-02-02 20:41",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "09de55f9830ba471993c11b4de6e9681",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Marjan Rintel langer CEO van KLM",
+    "link": "https://www.beurs.nl/Nieuws/743583/Update-Marjan-Rintel-langer-CEO-van-KLM.aspx",
+    "intro": "De raad van bestuur van Air France-KLM heeft Marjan Rintel voor vier jaar herbenoemd als CEO en president-directeur van KLM. Dit werd maandagavond bekend.",
+    "published_at": "2026-02-02 19:54",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "36cc3618b1236f8c836882a615fcbbb4",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street kleurt groen",
+    "link": "https://www.beurs.nl/Nieuws/851993/Wall-Street-kleurt-groen.aspx",
+    "intro": "De Amerikaanse aandelen stegen maandag aan het begin van een nieuwe handelsmaand, waarbij beleggers de recente klappen in edelmetalen en bitcoin naast zich neer leken te leggen.",
+    "published_at": "2026-02-02 19:51",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "d2054e6b7187263e3451323cbffa7743",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Amerikaans banenrapport uitgesteld door shutdown",
+    "link": "https://www.beurs.nl/Nieuws/851992/Media-Amerikaans-banenrapport-uitgesteld-door-shutdown.aspx",
+    "intro": "Het Amerikaanse banenrapport dat gepland staat voor komende vrijdag, wordt uitgesteld vanwege de gedeeltelijke shutdown van de overheid in Washington. Dit meldden diverse media maandagavond, waaronder Bloomberg en The Wall Street Journal, op basis van een verklaring van het Amerikaanse ministerie van Arbeid,",
+    "published_at": "2026-02-02 18:59",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "3f688fea6163cca451019dedb2c07e2d",
+    "categorie": "Beursnieuws",
+    "titel": "Optimistische maandstart op de Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/851989/Optimistische-maandstart-op-de-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen zijn maandag hoger gesloten, geholpen door sterke macro-economische cijfers waardoor de brede Stoxx Europe 600 index zijn recordstand verder wist aan te scherpen.",
+    "published_at": "2026-02-02 18:51",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "9ebaa09c4ba63767f24561602b64943e",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Trump wil strategische voorraad kritieke mineralen aanleggen",
+    "link": "https://www.beurs.nl/Nieuws/851988/Media-Trump-wil-strategische-voorraad-kritieke-mineralen-aanleggen.aspx",
+    "intro": "De Amerikaanse president Donald Trump is van plan om een strategische voorraad van kritieke mineralen aan te leggen met een startkapitaal van 12 miljard dollar om fabrikanten te beschermen tegen schokken in de toelevering. Dit meldde persbureau Bloomberg maandag op basis van bronnen.",
+    "published_at": "2026-02-02 18:44",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "1af11310a2d20b2024c0ac2a8d74b38c",
+    "categorie": "Beursnieuws",
+    "titel": "Trump kondigt handelsdeal met India aan",
+    "link": "https://www.beurs.nl/Nieuws/851985/Trump-kondigt-handelsdeal-met-India-aan.aspx",
+    "intro": "De Verenigde Staten hebben een handelsakkoord met India gesloten. Dit zei de Amerikaanse president Donald Trump maandag op Truth Social.",
+    "published_at": "2026-02-02 18:24",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "2311f0c81248634483c804d275fd84e1",
+    "categorie": "Beursnieuws",
+    "titel": "Marjan Rintel langer CEO van KLM",
+    "link": "https://www.beurs.nl/Nieuws/851983/Marjan-Rintel-langer-CEO-van-KLM.aspx",
+    "intro": "De raad van bestuur van Air France-KLM heeft Marjan Rintel voor vier jaar herbenoemd als CEO en president-directeur van KLM. Dit werd maandagavond bekend.",
+    "published_at": "2026-02-02 18:12",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "881d636b42f8032650b8c9b1f3919e81",
+    "categorie": "Beursnieuws",
+    "titel": "Havas doet Spaanse overname",
+    "link": "https://www.beurs.nl/Nieuws/851982/Havas-doet-Spaanse-overname.aspx",
+    "intro": "Havas heeft een meerderheidsbelang verworven in het Spaanse adviesbureau Acento Public Affairs. Dit meldde het in Amsterdam genoteerde reclamebureau maandag nabeurs.",
+    "published_at": "2026-02-02 17:58",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "28b747190c33748a0119f24af11da75b",
+    "categorie": "Beursnieuws",
+    "titel": "Groen slot AEX dankzij herstel bij de chippers",
+    "link": "https://www.beurs.nl/Nieuws/851980/Groen-slot-AEX-dankzij-herstel-bij-de-chippers.aspx",
+    "intro": "De Amsterdamse beurs is maandag toch hoger geëindigd, na een opleving tijdens de middagsessie.",
+    "published_at": "2026-02-02 17:50",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "f2a1d6dd08870d7aac53b2e1abee8545",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/851975/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 10 februari 2026:",
+    "published_at": "2026-02-02 16:32",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "eb94645ad392ab58c46368f740402c81",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/851976/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 10 februari 2026:",
+    "published_at": "2026-02-02 16:32",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "1b30f6a3cc68db580f10e47e23c15cc0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/851974/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 10 februari 2026:",
+    "published_at": "2026-02-02 16:31",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "56e7e5d4c0f212df662edfa4a470a38a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: lagere resultaten AkzoNobel verwacht",
+    "link": "https://www.beurs.nl/Nieuws/851969/Beursblik-lagere-resultaten-AkzoNobel-verwacht.aspx",
+    "intro": "AkzoNobel heeft in het vierde kwartaal van 2025 vermoedelijk een lagere omzet en ook een lager aangepast resultaat geboekt. Dat blijkt uit een consensusverwachting van analisten die het bedrijf publiceerde.",
+    "published_at": "2026-02-02 16:17",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "67d3eb7c7a43ba337504d310ceae037a",
+    "categorie": "Beursnieuws",
+    "titel": "ISM: Amerikaanse industrie groeit onverwacht",
+    "link": "https://www.beurs.nl/Nieuws/851964/ISM-Amerikaanse-industrie-groeit-onverwacht.aspx",
+    "intro": "De Amerikaanse industrie is in januari onverwacht gegroeid. Dit bleek maandag uit cijfers van het Institute for Supply Management.",
+    "published_at": "2026-02-02 16:10",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "0e1def5236cc4a0193306f46c23adb03",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse industrie groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/851961/Amerikaanse-industrie-groeit-harder.aspx",
+    "intro": "De industrie in de Verenigde Staten is in januari harder gegroeid dan in de maand ervoor. Dit bleek maandag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-02-02 15:55",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "fc7af5048746940e98e972d1f7875bd7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verhoogt koersdoel Aalberts",
+    "link": "https://www.beurs.nl/Nieuws/851959/Beursblik-Jefferies-verhoogt-koersdoel-Aalberts.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Aalberts licht verhoogd, van 40,00 naar 42,00 euro, met een herhaling van het koopadvies, in aanloop naar de jaarcijfers waarmee het bedrijf eind deze maand komt. Dit bleek maandag uit een rapport van de zakenbank.",
+    "published_at": "2026-02-02 15:43",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "d37c185291caaa500101d77b400de182",
+    "categorie": "Beursnieuws",
+    "titel": "Opnieuw megafusie in Amerikaanse energiesector",
+    "link": "https://www.beurs.nl/Nieuws/851954/Opnieuw-megafusie-in-Amerikaanse-energiesector.aspx",
+    "intro": "Het Amerikaanse energiebedrijf Devon Energy gaat fuseren met sectorgenoot Coterra Energy, waardoor een bedrijf ontstaat met een waarde van 58 miljard dollar. Dit meldden beide bedrijven maandagmiddag.",
+    "published_at": "2026-02-02 15:21",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "270bc92c7796870eed37e616a9df5a5d",
+    "categorie": "Beursnieuws",
+    "titel": "Oracle haalt tot 50 miljard dollar op met aandelen en schuldpapier",
+    "link": "https://www.beurs.nl/Nieuws/851953/Oracle-haalt-tot-50-miljard-dollar-op-met-aandelen-en-schuldpapier.aspx",
+    "intro": "Oracle verwacht dit jaar 45 miljard tot 50 miljard dollar op te halen om de snelle groei van zijn divisie cloud-infrastructuur te financieren. Dit bleek maandag uit een document die het bedrijf indiende bij de Amerikaanse beurswaakhond SEC.",
+    "published_at": "2026-02-02 15:09",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "978dcd990b96f986ca88bf7454b17f0c",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht rode opening door nieuwe zorgen over AI",
+    "link": "https://www.beurs.nl/Nieuws/851952/Wall-Street-wacht-rode-opening-door-nieuwe-zorgen-over-AI.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, terwijl de zorgen over de hoge investeringen in AI weer oplaaien.",
+    "published_at": "2026-02-02 14:51",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "5801effba093ec43cac77d37ef807d68",
+    "categorie": "Beursnieuws",
+    "titel": "Fors minder winst voor Tyson Foods",
+    "link": "https://www.beurs.nl/Nieuws/851943/Fors-minder-winst-voor-Tyson-Foods.aspx",
+    "intro": "Tyson Foods heeft in het afgelopen kwartaal een bescheiden winst geboekt, maar afgezien van bijzondere posten viel de daling mee, terwijl ook de omzet meeviel, nadat de prijzen van rundvlees fors omhoog gingen. Dit bleek maandag uit de kwartaalcijfers van de Amerikaanse vleesproducent.",
+    "published_at": "2026-02-02 13:49",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "02a334c9aea6c849d9c84839b9542744",
+    "categorie": "Beursnieuws",
+    "titel": "Flink meer winst voor streamingdiensten van Disney",
+    "link": "https://www.beurs.nl/Nieuws/851938/Flink-meer-winst-voor-streamingdiensten-van-Disney.aspx",
+    "intro": "De streamingdiensten van Disney zijn in het eerste kwartaal van het lopende boekjaar flink gegroeid, terwijl de sportzenders juist minder inkomsten behaalden. Dit meldde het Amerikaanse entertainmentconcern maandagmiddag.",
+    "published_at": "2026-02-02 13:25",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "f951f393746d3ca70dde7c55c6e82c5e",
+    "categorie": "Beursnieuws",
+    "titel": "Update: dollar herstelt na kandidatuur Warsh voor Fed",
+    "link": "https://www.beurs.nl/Nieuws/851920/Update-dollar-herstelt-na-kandidatuur-Warsh-voor-Fed.aspx",
+    "intro": "De dollar deed het maandag rustig aan, maar is de afgelopen dagen wel hersteld nadat president Donald Trump Kevin Warsh nomineerde als nieuwe voorzitter van de Federal Reserve.",
+    "published_at": "2026-02-02 13:02",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "85fdbfce5404574f0b0b13d89c308154",
+    "categorie": "Lange termijn adviezen",
+    "titel": "Van records naar herstelzones: crypto zoekt houvast",
+    "link": "https://www.tostrams.nl/artikel/851917/Van-records-naar-herstelzones-crypto-zoekt-houvast.aspx",
+    "intro": "Hoewel sommigen de term 'crash' liever niet gebruiken, laat de recente ontwikkeling weinig ruimte voor optimisme. Crypto heeft terrein verloren en het vertrouwen staat onder druk. Los van de discussie over de plaats van digitale valuta in het financiële stelsel zien de plaatjes en gesprekken er heel anders uit dan een halfjaar terug.",
+    "published_at": "2026-02-02 13:00",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "b63d6407ca5b2fa918c4f4eba92651ea",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen lagere opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/851933/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, terwijl de zorgen over de hoge investeringen in AI weer oplaaien.",
+    "published_at": "2026-02-02 12:44",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "df9bf971963ad369f3405ff96c32d614",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen veren op",
+    "link": "https://www.beurs.nl/Nieuws/851932/Europese-beurzen-veren-op.aspx",
+    "intro": "De Europese beurzen noteerden maandag rond het middaguur licht hoger, opkrabbelend na een lagere opening.",
+    "published_at": "2026-02-02 12:31",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "d2261a80c855d0c44c644997ccbca35b",
+    "categorie": "Beursnieuws",
+    "titel": "Barclays verlaagt koersdoelen Wolters Kluwer en RELX",
+    "link": "https://www.beurs.nl/Nieuws/851925/Barclays-verlaagt-koersdoelen-Wolters-Kluwer-en-RELX.aspx",
+    "intro": "Barclays heeft maandag de koersdoelen voor Wolters Kluwer en RELX verlaagd. Dit bleek uit een sectorrapport van de Britse bank.",
+    "published_at": "2026-02-02 12:20",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "8a711d595d30c3ccd8127ca81c926ecd",
+    "categorie": "Beursnieuws",
+    "titel": "Obligatie: Nederland haalt 4 miljard euro op",
+    "link": "https://www.beurs.nl/Nieuws/851921/Obligatie-Nederland-haalt-4-miljard-euro-op.aspx",
+    "intro": "Nederland heeft met de veiling van twee korte leningen 4,0 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën maandag bekend.",
+    "published_at": "2026-02-02 11:52",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "f1ce5fdabfe351dc2e13e9f81faa738b",
+    "categorie": "Beursnieuws",
+    "titel": "AEX in het rood maar Europa hoger",
+    "link": "https://www.beurs.nl/Nieuws/851915/AEX-in-het-rood-maar-Europa-hoger.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandag rond elf uur in het rood, terwijl de omringende beurzen juist kleine winsten lieten zien.",
+    "published_at": "2026-02-02 11:10",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "6e5a54a5fdacd85667a6749e013f9efb",
+    "categorie": "Beursnieuws",
+    "titel": "Britse industrie groeit stevig door",
+    "link": "https://www.beurs.nl/Nieuws/851909/Britse-industrie-groeit-stevig-door.aspx",
+    "intro": "De industrie in het Verenigd Koninkrijk is in januari harder gegroeid. Dit bleek maandag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-02-02 10:39",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "559e132b829f659daea371a02de9701b",
+    "categorie": "Beursnieuws",
+    "titel": "Industrie in de eurozone krimpt minder sterk",
+    "link": "https://www.beurs.nl/Nieuws/851901/Industrie-in-de-eurozone-krimpt-minder-sterk.aspx",
+    "intro": "De industrie in de eurozone is in januari minder sterk gekrompen. Dit bleek maandag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-02-02 10:07",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "bcb5375e54374ab72788bdf673fa95a9",
+    "categorie": "IEXProfs",
+    "titel": "Must read: Nieuwe regering koopt vooral wapens",
+    "link": "https://www.iexprofs.nl/artikel/851523/Must-read-Nieuwe-regering-koopt-vooral-wapens.aspx",
+    "intro": "Plus: de sterke beleggingscase van landbouwgrond, sell-off goud, zilver en bitcoin, koop aandelen EM is logisch, digitale euro staat voor de deur, en meer.",
+    "published_at": "2026-02-02 10:00",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "44e1aea1096889e797aa2726847fba73",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse industrie richting groei",
+    "link": "https://www.beurs.nl/Nieuws/851898/Duitse-industrie-richting-groei.aspx",
+    "intro": "De industrie in Duitsland is in januari opnieuw gekrompen, maar groei is weer in zicht. Dit bleek maandag uit cijfers van SP Global.",
+    "published_at": "2026-02-02 09:59",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "fcf9797dc700ed5378b1eb8f85054429",
+    "categorie": "Beursnieuws",
+    "titel": "Franse industrie groeit in hoger tempo",
+    "link": "https://www.beurs.nl/Nieuws/851897/Franse-industrie-groeit-in-hoger-tempo.aspx",
+    "intro": "De Franse industrie is in januari in een hoger tempo gegroeid. Dit bleek maandag uit definitieve cijfers van SP Global en Hamburg Commercial Bank.",
+    "published_at": "2026-02-02 09:53",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "89b4cf66c9c186dcbc97b98015913d29",
+    "categorie": "Beursnieuws",
+    "titel": "Krimp in Italiaanse industrie houdt aan",
+    "link": "https://www.beurs.nl/Nieuws/851895/Krimp-in-Italiaanse-industrie-houdt-aan.aspx",
+    "intro": "De industrie in Italië is in januari opnieuw gekrompen. Dit bleek maandag uit cijfers van SP Global.",
+    "published_at": "2026-02-02 09:50",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "70893c6f4c7f6004c4935100ed29b5f6",
+    "categorie": "Beursnieuws",
+    "titel": "Opnieuw krimp voor Spaanse industrie",
+    "link": "https://www.beurs.nl/Nieuws/851893/Opnieuw-krimp-voor-Spaanse-industrie.aspx",
+    "intro": "De Spaanse industrie is in januari opnieuw gekrompen. Dit bleek maandag uit cijfers van SP Global.",
+    "published_at": "2026-02-02 09:27",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "35515ddea3012bfd8d674c90a4bd1c69",
+    "categorie": "Beursnieuws",
+    "titel": "AEX in het rood van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/851889/AEX-in-het-rood-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 1,1 procent lager naar 990,52 punten, terwijl de Midkap 0,9 procent prijs moest geven.",
+    "published_at": "2026-02-02 09:13",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "888f6574493a605165618bc16871b352",
+    "categorie": "Beursnieuws",
+    "titel": "BAM verkoopt honderden woningen in Amsterdam",
+    "link": "https://www.beurs.nl/Nieuws/851885/BAM-verkoopt-honderden-woningen-in-Amsterdam.aspx",
+    "intro": "Het Bouwinvest Residential Fund heeft 933 nieuwbouwwoningen in de nieuwe stadswijk Eleven Square in Amsterdam-Zuidoost gekocht van ontwikkelaars AM en Ballast Nedam Development. Dit maakte bouwer BAM maandag voorbeurs bekend, zonder financiële details vrij te geven.",
+    "published_at": "2026-02-02 08:56",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "202f076817dc969515e32acdf18b127d",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse detailhandel stabiel in december",
+    "link": "https://www.beurs.nl/Nieuws/851883/Duitse-detailhandel-stabiel-in-december.aspx",
+    "intro": "De Duitse detailhandelsverkopen waren in december op maandbasis vrijwel stabiel. Dit bleek maandag uit cijfers van het Duitse statistiekbureau Destatis.",
+    "published_at": "2026-02-02 08:51",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "090f590edefb050c41942711f4f9a6f2",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies: uitstel goedkeuring FDA teleurstelling voor Pharming",
+    "link": "https://www.beurs.nl/Nieuws/851881/Jefferies-uitstel-goedkeuring-FDA-teleurstelling-voor-Pharming.aspx",
+    "intro": "Jefferies verwacht dat Pharming uiteindelijk goedkeuring zal krijgen voor het gebruik van zijn middel Joenja bij kinderen, omdat de Amerikaanse toezichthouder FDA geen zorgen heeft over de werkzaamheid van het middel, maar de vraag vanuit de Amerikaanse toezichthouder naar extra gegevens is wel een tegenvaller. Dit stelden analisten van zakenbank Jefferies maandag in een rapport.",
+    "published_at": "2026-02-02 08:47",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "d89f6a73513ea257b9290ebec6b8294b",
+    "categorie": "Voorbeurs",
+    "titel": "Morning call: olie, goud, zilver, crypto én (tech)aandelen door het putje",
+    "link": "https://www.beurs.nl/Artikel/851870/Morning-call-olie-goud-zilver-crypto-en-techaandelen-door-het-putje.aspx",
+    "intro": "De techsector stond vannacht flink onder druk in Azië. Het grootste spektakel zien we in de grondstoffen- en cryptomarkten.",
+    "published_at": "2026-02-02 08:30",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "86d282ceb83e05984dd9ef0e4a96334d",
+    "categorie": "Beursnieuws",
+    "titel": "Berenberg: gepensioneerden zouden aandelen ASR en NN moeten kopen",
+    "link": "https://www.beurs.nl/Nieuws/851878/Berenberg-gepensioneerden-zouden-aandelen-ASR-en-NN-moeten-kopen.aspx",
+    "intro": "Gepensioneerden in Nederland zouden aandelen van de levensverzekeraars ASR en NN Group moeten kopen, als bron van inflatiebestendig inkomen. Dat stelden analisten van Berenberg maandag in een rapport.",
+    "published_at": "2026-02-02 08:14",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "faa8a89f62070831e058e3556c8350f1",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start stevig lager door zorgen over AI-investeringen en edelmetalen",
+    "link": "https://www.beurs.nl/Nieuws/851875/AEX-start-stevig-lager-door-zorgen-over-AI-investeringen-en-edelmetalen.aspx",
+    "intro": "De Amsterdamse beurs maakt zich maandag op voor een flink lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,3 procent.",
+    "published_at": "2026-02-02 08:04",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "44e13db4882c242f0ce3cc41012d90f2",
+    "categorie": "Beursnieuws",
+    "titel": "Economisch beeld Nederland iets verslechterd",
+    "link": "https://www.beurs.nl/Nieuws/851874/Economisch-beeld-Nederland-iets-verslechterd.aspx",
+    "intro": "Het conjunctuurbeeld in Nederland was in januari iets negatiever dan in december. Dit bleek maandag uit een bericht van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-02-02 08:01",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "8d58a16a35b0a62a9f1bcf8d979f6c44",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verlaagt koersdoel Signify",
+    "link": "https://www.beurs.nl/Nieuws/851871/Citi-verlaagt-koersdoel-Signify.aspx",
+    "intro": "Citi Research heeft maandag het koersdoel voor Signify verlaagd van 30,00 naar 26,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-02-02 07:44",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "4ff9c59209cfc058ec17a891cf48f195",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen kleuren donkerrood",
+    "link": "https://www.beurs.nl/Nieuws/851868/Aziatische-beurzen-kleuren-donkerrood.aspx",
+    "intro": "De Aziatische beurzen noteerden maandagochtend stevig in het rood. In Hongkong daalde de Hang Seng index bijna 3 procent, terwijl de KOSPI-index in Seoel zelfs 4,6 procent prijs moest geven. In Sydney en Tokio bleven de verliezen beperkt tot ongeveer 1 procent.",
+    "published_at": "2026-02-02 07:32",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "12f5c1b51c66801a6ce5d10a7823c12f",
+    "categorie": "Beursnieuws",
+    "titel": "Nederlandse industrie groeit nog maar nauwelijks",
+    "link": "https://www.beurs.nl/Nieuws/851867/Nederlandse-industrie-groeit-nog-maar-nauwelijks.aspx",
+    "intro": "De industrie in Nederland is in januari nog slechts minimaal gegroeid. Dit bleek maandag uit de inkoopmanagersindex van NEVI.",
+    "published_at": "2026-02-02 07:29",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "59889a25ba8bdda5ab7ee89da830a8ca",
+    "categorie": "Beursnieuws",
+    "titel": "Detailhandel groeide ook in december",
+    "link": "https://www.beurs.nl/Nieuws/851865/Detailhandel-groeide-ook-in-december.aspx",
+    "intro": "De Nederlandse detailhandel heeft in december 2025 meer omgezet dan in dezelfde periode een jaar eerder. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-02-02 07:10",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "e0856295f77e89e0a4c0a8b0910ab9d9",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen waarschijnlijk flink lager",
+    "link": "https://www.beurs.nl/Nieuws/851864/Europese-beurzen-openen-waarschijnlijk-flink-lager.aspx",
+    "intro": "De Europese beurzen gaan maandag een rode opening tegemoet, in afwachting van inkoopcijfers voor de mondiale industrie en na stevige verliezen in Azië, vooral voor techaandelen. IG voorziet een openingsverlies van 248 punten voor de Duitse DAX en een min van 74 punten voor de Franse CAC 40. De Britse FTSE lijkt 66 punten lager te zullen openen.",
+    "published_at": "2026-02-02 07:03",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "74c5b7ac63f139821eaa7bd66ac43f86",
+    "categorie": "Beursnieuws",
+    "titel": "Chinese industrie groeit iets harder",
+    "link": "https://www.beurs.nl/Nieuws/851862/Chinese-industrie-groeit-iets-harder.aspx",
+    "intro": "De Chinese industrie is in januari iets harder gegroeid. Dit bleek maandag uit cijfers van SP Global en RatingDog.",
+    "published_at": "2026-02-02 06:52",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "154a70273e327fba3938ffb05335b989",
+    "categorie": "Beursnieuws",
+    "titel": "Japanse industrie groeit weer",
+    "link": "https://www.beurs.nl/Nieuws/851859/Japanse-industriegroeit-weer.aspx",
+    "intro": "De industrie in Japan is in januari weer gegroeid, nadat in december al een einde kwam aan vijf maanden van krimp. Dit bleek maandag uit de inkoopmanagersindex van SP Global.",
+    "published_at": "2026-02-02 06:46",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "720e554b1cc778586200979bb41eaea5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/851857/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 9 februari 2026:",
+    "published_at": "2026-02-02 06:41",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "0d9c4eceb41ad089f3ef1c84c943b29b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/851855/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 9 februari 2026:",
+    "published_at": "2026-02-02 06:40",
+    "scraped_at": "2026-02-02T23:56:16.699954"
+  },
+  {
+    "id": "1a6b83d1a8be8b02b2b53276aff6c1d8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/851856/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 9 februari 2026:",
+    "published_at": "2026-02-02 06:40",
+    "scraped_at": "2026-02-02T23:56:16.699954"
   }
 ]
