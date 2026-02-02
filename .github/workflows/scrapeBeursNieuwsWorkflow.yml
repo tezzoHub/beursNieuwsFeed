@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "*/15 * * * *"   # elke 20 minuten
+    - cron: "*/25 * * * *"
   workflow_dispatch:         # handmatig dreuk starten
   
 name: scrapeBeursNieuwsWorkflow
