@@ -1,12 +1,75 @@
 [
   {
+    "id": "c8b923c38f3168620891d986a84989ef",
+    "categorie": "Beursnieuws",
+    "titel": "Disney presenteert nieuwe CEO",
+    "link": "https://www.beurs.nl/Nieuws/852101/Disney-presenteert-nieuwe-CEO.aspx",
+    "intro": "Walt Disney heeft een nieuwe topman. Dit bleek dinsdag uit een persbericht van het Amerikaanse entertainmentbedrijf.",
+    "published_at": "2026-02-03 15:00",
+    "scraped_at": "2026-02-03T14:33:45.656239"
+  },
+  {
+    "id": "89a8945ecc09c567c349027991c53c59",
+    "categorie": "Beursnieuws",
+    "titel": "Groene start voor Wall Street onder aanvoering van Palantir",
+    "link": "https://www.beurs.nl/Nieuws/852100/Groene-start-voor-Wall-Street-onder-aanvoering-van-Palantir.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, geholpen door de koerswinst voor Palantir.",
+    "published_at": "2026-02-03 14:59",
+    "scraped_at": "2026-02-03T14:33:45.656239"
+  },
+  {
+    "id": "ee8eae0da58e826863c99f815125a0c9",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuwe CEO voor PayPal na tegenvallend kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/852094/Nieuwe-CEO-voor-PayPal-na-tegenvallend-kwartaal.aspx",
+    "intro": "PayPal heeft de groei fors zien vertragen in het vierde kwartaal, en benoemt Enrique Lores per 1 maart tot de nieuwe CEO, om het bedrijf weer op de rails te krijgen. Dit maakte de Amerikaanse rivaal van de Amsterdamse betaalspecialist Adyen dinsdagmiddag bekend.",
+    "published_at": "2026-02-03 14:08",
+    "scraped_at": "2026-02-03T14:33:45.656239"
+  },
+  {
+    "id": "06ae61a47b9440cfe92c874443c29938",
+    "categorie": "Beursnieuws",
+    "titel": "Pfizer boekt verlies",
+    "link": "https://www.beurs.nl/Nieuws/852091/Pfizer-boekt-verlies.aspx",
+    "intro": "Pfizer heeft in het vierde kwartaal zijn omzetdaling beperkt, maar eindigde wel in de rode cijfers. Dit bleek dinsdag uit de resultaten van de Amerikaanse farmaceut.",
+    "published_at": "2026-02-03 13:36",
+    "scraped_at": "2026-02-03T14:33:45.656239"
+  },
+  {
+    "id": "492c8c7fc2fba91bc92cdef6ecbc1ea4",
+    "categorie": "Beursnieuws",
+    "titel": "Groene start op Wall Street verwacht",
+    "link": "https://www.beurs.nl/Nieuws/852088/Groene-start-op-Wall-Street-verwacht.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, geholpen door de koerswinst voor Palantir.",
+    "published_at": "2026-02-03 13:26",
+    "scraped_at": "2026-02-03T14:33:45.656239"
+  },
+  {
+    "id": "2b56df4f0fdd42258ef9922c288e3dab",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen blijven dicht bij huis",
+    "link": "https://www.beurs.nl/Nieuws/852082/Europese-beurzen-blijven-dicht-bij-huis.aspx",
+    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur verdeeld, nadat de verkoopgolf van goud en andere edelmetalen omsloeg naar een hernieuwde stijging.",
+    "published_at": "2026-02-03 13:07",
+    "scraped_at": "2026-02-03T14:33:45.656239"
+  },
+  {
+    "id": "204f603d8ed1a9e6151c365c618d85fe",
+    "categorie": "Beursnieuws",
+    "titel": "Meevallende winst voor Merck",
+    "link": "https://www.beurs.nl/Nieuws/852081/Meevallende-winst-voor-Merck.aspx",
+    "intro": "Merck heeft in 2025 de eigen omzetverwachting gehaald, terwijl de winst zelfs hoger dan verwacht uitkwam.  Dit meldde de Amerikaanse farmaceut dinsdag voorbeurs.",
+    "published_at": "2026-02-03 13:01",
+    "scraped_at": "2026-02-03T14:33:45.656239"
+  },
+  {
     "id": "82acf37a9319aa5ff8976aef80b3d2c5",
     "categorie": "Beursnieuws",
     "titel": "TenneT verkoopt kwart TenneT Duitsland aan Berlijn",
     "link": "https://www.beurs.nl/Nieuws/852076/TenneT-verkoopt-kwart-TenneT-Duitsland-aan-Berlijn.aspx",
     "intro": "TenneT Holding verkoopt een aandelenbelang van 25,1 procent in TenneT Duitsland voor 3,3 miljard aan de Duitse staat. Dat maakte de netbeheerder dinsdag bekend.",
     "published_at": "2026-02-03 12:34",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "fe54c4e378bd88306772416645f8ac31",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/852075/PepsiCo-boekt-hogere-omzet.aspx",
     "intro": "PepsiCo heeft in het vierde kwartaal van 2025 een hogere omzet geboekt, waardoor de winst een miljard dollar hoger uitviel. Dit bleek dinsdag uit cijfers van de Amerikaanse gigant in frisdranken en snacks.",
     "published_at": "2026-02-03 12:27",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "758d5a40e8a14f1f349eb5088e73da9a",
@@ -24,7 +87,7 @@
     "link": "https://www.beurs.nl/Nieuws/852065/ING-en-ABN-voorkomen-verlies-AEX-niet.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het rood, ondanks de koerswinsten voor ING en ABN AMRO.",
     "published_at": "2026-02-03 11:52",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "20ba219923df40a4ce5298c6b51605b9",
@@ -33,7 +96,7 @@
     "link": "https://www.beurs.nl/Nieuws/852052/Fastned-geeft-opnieuw-obligaties-uit.aspx",
     "intro": "Fastned wil tot maximaal 100 miljoen euro ophalen met de uitgifte van nieuwe obligaties. Dit maakte het snellaadbedrijf dinsdagochtend bekend.",
     "published_at": "2026-02-03 10:29",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "3b36f04577264767a24459b7ed344001",
@@ -42,7 +105,7 @@
     "link": "https://www.iexprofs.nl/artikel/851884/Must-read-Herstel-prijzen-goud-en-zilver-is-logisch.aspx",
     "intro": "Plus: beleg in satellieten, Chinese aandelen zijn wel/niet koopwaardig, ook op Spaanse beurs schijnt de zon, Nederlandse huurmarkt in crisis, en meer.",
     "published_at": "2026-02-03 10:00",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "e82052e195cd5139461306050e047393",
@@ -51,7 +114,7 @@
     "link": "https://www.beurs.nl/Nieuws/852046/Franse-inflatie-verder-gedaald.aspx",
     "intro": "De Franse inflatie is in januari opnieuw gedaald. Dit bleek dinsdag uit voorlopige cijfers van het Franse statistiekbureau Insee.",
     "published_at": "2026-02-03 09:44",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "f5b0c605954138a88a9c8e2fed072088",
@@ -60,7 +123,7 @@
     "link": "https://www.beurs.nl/Nieuws/852043/AEX-hoger-van-start-gegaan-onder-aanvoering-van-ING-en-de-chippers.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong 0,5 procent hoger naar 1.014,57 punten, terwijl de Midkap ruim een half procent won.",
     "published_at": "2026-02-03 09:16",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "0fdc37a8923429e712e3fb3c04d938af",
@@ -69,7 +132,7 @@
     "link": "https://www.beurs.nl/Nieuws/852039/Beursblik-matig-jaareinde-voor-AkzoNobel.aspx",
     "intro": "AkzoNobel kende een matig eind van 2025. Dit concludeerden analisten van Citi Research dinsdag in een rapport naar aanleiding van de kwartaalrapportage voorbeurs.",
     "published_at": "2026-02-03 09:00",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "fcc6fbb59521451b252a7480651352ec",
@@ -78,7 +141,7 @@
     "link": "https://www.beurs.nl/Nieuws/852040/Beursblik-optimistische-outlook-Pharming.aspx",
     "intro": "De omzetverwachting van Pharming voor 2026 ligt boven de verwachting van Jefferies en de analistenconsensus. Dit schreven analisten van de zakenbank dinsdag, naar aanleiding van de afgegeven outlook vanochtend in aanloop naar een beleggersdag van het biotechbedrijf later vandaag.",
     "published_at": "2026-02-03 09:00",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "e773e55c625fc23a02446d5180bd56d7",
@@ -87,7 +150,7 @@
     "link": "https://www.beurs.nl/Nieuws/852036/Sanofi-kondigt-omvangrijk-aandeleninkoopprogramma-aan.aspx",
     "intro": "Sanofi heeft een omvangrijk aandeleninkoopprogramma aangekondigd ter waarde van 1 miljard euro. Dit maakte de Frans farmaceut dinsdagochtend bekend.",
     "published_at": "2026-02-03 08:39",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "151060eb3fac0d1bf213e17582c56794",
@@ -96,7 +159,7 @@
     "link": "https://www.beurs.nl/Nieuws/852035/Deutsche-Bank-zet-ING-op-de-kooplijst.aspx",
     "intro": "Deutsche Bank heeft dinsdag het advies voor ING Groep verhoogd van Houden naar Kopen. Het koersdoel werd daarbij bijgesteld van 25,00 naar 28,00 euro. Dit bleek uit een rapport van analist Benjamin Goy.",
     "published_at": "2026-02-03 08:37",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "fd66f42860d6107be0748b4c63f79588",
@@ -105,7 +168,7 @@
     "link": "https://www.beurs.nl/Nieuws/852031/AEX-maakt-zich-op-voor-hogere-opening.aspx",
     "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,5 procent.",
     "published_at": "2026-02-03 08:02",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "f3d2389d578d6d3aa9e0eed6b38123c4",
@@ -114,7 +177,7 @@
     "link": "https://www.beurs.nl/Nieuws/852026/Pharming-rekent-op-omzetgroei-in-2026.aspx",
     "intro": "Pharming Group rekent in 2026 op een groei van de omzet. Dit meldde het Leidse biotechbedrijf dinsdag voorbeurs in aanloop naar een beleggersdag, waarbij het ook een update geeft van zijn klinische pijplijn voor zeldzame ziekten.",
     "published_at": "2026-02-03 07:22",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "b2ed7c92be7356aa86c6fc0e2d635392",
@@ -123,7 +186,7 @@
     "link": "https://www.beurs.nl/Nieuws/852025/Beurzen-in-Tokio-Seoel-en-Mumbai-kleuren-donkergroen.aspx",
     "intro": "De Aziatische beurzen vonden dinsdagochtend overtuigend de weg omhoog. In Tokio koerste de Nikkei index met een winst van 4 procent naar de hoogste stand ooit, terwijl de Indiase beurs bijna 3 procent won. De techgevoelige beurs in Seoel won zelfs meer dan 6 procent, dankzij een herstel van onder meer Samsung en SK Hynix.",
     "published_at": "2026-02-03 07:17",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "c6fb75d68326ce94cefaa254e7865d27",
@@ -132,7 +195,7 @@
     "link": "https://www.beurs.nl/Nieuws/852024/Tegenvallende-prestaties-bij-AkzoNobel.aspx",
     "intro": "AkzoNobel heeft in het vierde kwartaal van 2025 tegenvallende gepresteerd. Dit bleek uit cijfers die het bedrijf dinsdag voorbeurs publiceerde.",
     "published_at": "2026-02-03 07:13",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "79e4406f13887cdf13e057cc8e0762a9",
@@ -141,7 +204,7 @@
     "link": "https://www.beurs.nl/Nieuws/851998/Wall-Street-start-februari-optimistisch.aspx",
     "intro": "De Amerikaanse beurzen zijn februari positief begonnen, waarbij beleggers de recente klappen in edelmetalen en bitcoin naast zich neerlegden en onder meer steun kregen van sterke macro-economische cijfers.",
     "published_at": "2026-02-03 07:10",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "fca2a395b12fbd3e0af6e68b5db6974f",
@@ -150,7 +213,7 @@
     "link": "https://www.beurs.nl/Nieuws/852023/Europese-beurzen-openen-hoger.aspx",
     "intro": "De Europese beurzen gaan dinsdag een groene opening tegemoet, terwijl in Azië techaandelen het goed doen, en namen als Samsung en SK Hynix stevige winsten boeken na de koersdalingen van maandag.",
     "published_at": "2026-02-03 07:00",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "d35cf9f3484e480ae2e850809e436186",
@@ -159,7 +222,7 @@
     "link": "https://www.beurs.nl/Nieuws/852020/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 10 februari 2026:",
     "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "685a8b930e7ded92f26f6245cbaef522",
@@ -168,7 +231,7 @@
     "link": "https://www.beurs.nl/Nieuws/852021/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 10 februari 2026:",
     "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   },
   {
     "id": "45acc25e5210e28de6bcbd9f648441d1",
@@ -177,6 +240,6 @@
     "link": "https://www.beurs.nl/Nieuws/852022/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 10 februari 2026:",
     "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-03T11:55:59.901562"
+    "scraped_at": "2026-02-03T14:33:45.656239"
   }
 ]
