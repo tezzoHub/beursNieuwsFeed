@@ -1,12 +1,75 @@
 [
   {
+    "id": "20ba219923df40a4ce5298c6b51605b9",
+    "categorie": "Beursnieuws",
+    "titel": "Fastned geeft opnieuw obligaties uit",
+    "link": "https://www.beurs.nl/Nieuws/852052/Fastned-geeft-opnieuw-obligaties-uit.aspx",
+    "intro": "Fastned wil tot maximaal 100 miljoen euro ophalen met de uitgifte van nieuwe obligaties. Dit maakte het snellaadbedrijf dinsdagochtend bekend.",
+    "published_at": "2026-02-03 10:29",
+    "scraped_at": "2026-02-03T10:06:11.633666"
+  },
+  {
+    "id": "3b36f04577264767a24459b7ed344001",
+    "categorie": "IEXProfs",
+    "titel": "Must read: Herstel prijzen goud en zilver is logisch",
+    "link": "https://www.iexprofs.nl/artikel/851884/Must-read-Herstel-prijzen-goud-en-zilver-is-logisch.aspx",
+    "intro": "Plus: beleg in satellieten, Chinese aandelen zijn wel/niet koopwaardig, ook op Spaanse beurs schijnt de zon, Nederlandse huurmarkt in crisis, en meer.",
+    "published_at": "2026-02-03 10:00",
+    "scraped_at": "2026-02-03T10:06:11.633666"
+  },
+  {
+    "id": "e82052e195cd5139461306050e047393",
+    "categorie": "Beursnieuws",
+    "titel": "Franse inflatie verder gedaald",
+    "link": "https://www.beurs.nl/Nieuws/852046/Franse-inflatie-verder-gedaald.aspx",
+    "intro": "De Franse inflatie is in januari opnieuw gedaald. Dit bleek dinsdag uit voorlopige cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-02-03 09:44",
+    "scraped_at": "2026-02-03T10:06:11.633666"
+  },
+  {
+    "id": "f5b0c605954138a88a9c8e2fed072088",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger van start gegaan onder aanvoering van ING en de chippers",
+    "link": "https://www.beurs.nl/Nieuws/852043/AEX-hoger-van-start-gegaan-onder-aanvoering-van-ING-en-de-chippers.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,5 procent hoger naar 1.014,57 punten, terwijl de Midkap ruim een half procent won.",
+    "published_at": "2026-02-03 09:16",
+    "scraped_at": "2026-02-03T10:06:11.633666"
+  },
+  {
+    "id": "0fdc37a8923429e712e3fb3c04d938af",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: matig jaareinde voor AkzoNobel",
+    "link": "https://www.beurs.nl/Nieuws/852039/Beursblik-matig-jaareinde-voor-AkzoNobel.aspx",
+    "intro": "AkzoNobel kende een matig eind van 2025. Dit concludeerden analisten van Citi Research dinsdag in een rapport naar aanleiding van de kwartaalrapportage voorbeurs.",
+    "published_at": "2026-02-03 09:00",
+    "scraped_at": "2026-02-03T10:06:11.633666"
+  },
+  {
+    "id": "fcc6fbb59521451b252a7480651352ec",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: optimistische outlook Pharming",
+    "link": "https://www.beurs.nl/Nieuws/852040/Beursblik-optimistische-outlook-Pharming.aspx",
+    "intro": "De omzetverwachting van Pharming voor 2026 ligt boven de verwachting van Jefferies en de analistenconsensus. Dit schreven analisten van de zakenbank dinsdag, naar aanleiding van de afgegeven outlook vanochtend in aanloop naar een beleggersdag van het biotechbedrijf later vandaag.",
+    "published_at": "2026-02-03 09:00",
+    "scraped_at": "2026-02-03T10:06:11.633666"
+  },
+  {
     "id": "e773e55c625fc23a02446d5180bd56d7",
     "categorie": "Beursnieuws",
     "titel": "Sanofi kondigt omvangrijk aandeleninkoopprogramma aan",
     "link": "https://www.beurs.nl/Nieuws/852036/Sanofi-kondigt-omvangrijk-aandeleninkoopprogramma-aan.aspx",
     "intro": "Sanofi heeft een omvangrijk aandeleninkoopprogramma aangekondigd ter waarde van 1 miljard euro. Dit maakte de Frans farmaceut dinsdagochtend bekend.",
     "published_at": "2026-02-03 08:39",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
+  },
+  {
+    "id": "151060eb3fac0d1bf213e17582c56794",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank zet ING op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/852035/Deutsche-Bank-zet-ING-op-de-kooplijst.aspx",
+    "intro": "Deutsche Bank heeft dinsdag het advies voor ING Groep verhoogd van Houden naar Kopen. Het koersdoel werd daarbij bijgesteld van 25,00 naar 28,00 euro. Dit bleek uit een rapport van analist Benjamin Goy.",
+    "published_at": "2026-02-03 08:37",
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "fd66f42860d6107be0748b4c63f79588",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/852031/AEX-maakt-zich-op-voor-hogere-opening.aspx",
     "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,5 procent.",
     "published_at": "2026-02-03 08:02",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "f3d2389d578d6d3aa9e0eed6b38123c4",
@@ -24,7 +87,7 @@
     "link": "https://www.beurs.nl/Nieuws/852026/Pharming-rekent-op-omzetgroei-in-2026.aspx",
     "intro": "Pharming Group rekent in 2026 op een groei van de omzet. Dit meldde het Leidse biotechbedrijf dinsdag voorbeurs in aanloop naar een beleggersdag, waarbij het ook een update geeft van zijn klinische pijplijn voor zeldzame ziekten.",
     "published_at": "2026-02-03 07:22",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "b2ed7c92be7356aa86c6fc0e2d635392",
@@ -33,7 +96,7 @@
     "link": "https://www.beurs.nl/Nieuws/852025/Beurzen-in-Tokio-Seoel-en-Mumbai-kleuren-donkergroen.aspx",
     "intro": "De Aziatische beurzen vonden dinsdagochtend overtuigend de weg omhoog. In Tokio koerste de Nikkei index met een winst van 4 procent naar de hoogste stand ooit, terwijl de Indiase beurs bijna 3 procent won. De techgevoelige beurs in Seoel won zelfs meer dan 6 procent, dankzij een herstel van onder meer Samsung en SK Hynix.",
     "published_at": "2026-02-03 07:17",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "c6fb75d68326ce94cefaa254e7865d27",
@@ -42,7 +105,7 @@
     "link": "https://www.beurs.nl/Nieuws/852024/Tegenvallende-prestaties-bij-AkzoNobel.aspx",
     "intro": "AkzoNobel heeft in het vierde kwartaal van 2025 tegenvallende gepresteerd. Dit bleek uit cijfers die het bedrijf dinsdag voorbeurs publiceerde.",
     "published_at": "2026-02-03 07:13",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "79e4406f13887cdf13e057cc8e0762a9",
@@ -51,7 +114,7 @@
     "link": "https://www.beurs.nl/Nieuws/851998/Wall-Street-start-februari-optimistisch.aspx",
     "intro": "De Amerikaanse beurzen zijn februari positief begonnen, waarbij beleggers de recente klappen in edelmetalen en bitcoin naast zich neerlegden en onder meer steun kregen van sterke macro-economische cijfers.",
     "published_at": "2026-02-03 07:10",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "fca2a395b12fbd3e0af6e68b5db6974f",
@@ -60,7 +123,7 @@
     "link": "https://www.beurs.nl/Nieuws/852023/Europese-beurzen-openen-hoger.aspx",
     "intro": "De Europese beurzen gaan dinsdag een groene opening tegemoet, terwijl in Azië techaandelen het goed doen, en namen als Samsung en SK Hynix stevige winsten boeken na de koersdalingen van maandag.",
     "published_at": "2026-02-03 07:00",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "d35cf9f3484e480ae2e850809e436186",
@@ -69,7 +132,7 @@
     "link": "https://www.beurs.nl/Nieuws/852020/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 10 februari 2026:",
     "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "685a8b930e7ded92f26f6245cbaef522",
@@ -78,7 +141,7 @@
     "link": "https://www.beurs.nl/Nieuws/852021/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 10 februari 2026:",
     "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   },
   {
     "id": "45acc25e5210e28de6bcbd9f648441d1",
@@ -87,6 +150,6 @@
     "link": "https://www.beurs.nl/Nieuws/852022/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 10 februari 2026:",
     "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-03T07:53:21.897417"
+    "scraped_at": "2026-02-03T10:06:11.633666"
   }
 ]
