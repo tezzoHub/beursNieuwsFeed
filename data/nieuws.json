@@ -1,12 +1,129 @@
 [
   {
-    "id": "78182a12d10e8a40c22ee0d1cc4ad1cd",
+    "id": "eeddd01fa30bdb139631eefda18379a4",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verlaagt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/852209/Beursblik-Deutsche-Bank-verlaagt-koersdoel-Adyen.aspx",
+    "titel": "Britse dienstensector groeit hard door",
+    "link": "https://www.beurs.nl/Nieuws/852236/Britse-dienstensector-groeit-hard-door.aspx",
+    "intro": "De dienstensector in het Verenigd Koninkrijk is in januari veel harder gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-02-04 10:37",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "090fab4d71a9fc61deb4625b3c958eef",
+    "categorie": "Beursnieuws",
+    "titel": "Onward Medical kondigt inclusie van eerste deelnemer aan in nieuwe studie",
+    "link": "https://www.beurs.nl/Nieuws/852234/Onward-Medical-kondigt-inclusie-van-eerste-deelnemer-aan-in-nieuwe-studie.aspx",
+    "intro": "Onward Medical heeft woensdag de inclusie aangekondigd van de eerste deelnemer in een wereldwijde studie naar het ARC-IM-systeem voor bloeddrukinstabiliteit na ruggenmergletsel.",
+    "published_at": "2026-02-04 10:22",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "1efaa44839c327f77da539a57571c5f2",
+    "categorie": "Beursnieuws",
+    "titel": "Dienstensector eurozone blijft groeien",
+    "link": "https://www.beurs.nl/Nieuws/852233/Dienstensector-eurozone-blijft-groeien.aspx",
+    "intro": "De dienstensector in de eurozone is in januari minder hard gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-02-04 10:15",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "67031fb5ae897b10e4689cc7ebfa94ce",
+    "categorie": "IEXProfs",
+    "titel": "Must read: Dealen met een zwakke dollar",
+    "link": "https://www.iexprofs.nl/artikel/851979/Must-read-Dealen-met-een-zwakke-dollar.aspx",
+    "intro": "Plus: waarom bankaandelen het zo goed doen, koopkans voor mijnbouwaandelen, stijgende Japanse en Amerikaanse rentebetalingen, Nederlandse inflatie daalt verder, en meer.",
+    "published_at": "2026-02-04 10:10",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "5a8b4ebaee306dceed1255d3e94e15c7",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse dienstensector groeit iets minder hard",
+    "link": "https://www.beurs.nl/Nieuws/852231/Duitse-dienstensector-groeit-iets-minder-hard.aspx",
+    "intro": "De dienstensector in Duitsland is in januari iets minder hard gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-02-04 10:03",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "f77d13a03f0cace27788ed0f8ad0a5a4",
+    "categorie": "Beursnieuws",
+    "titel": "Krimp in Franse dienstensector",
+    "link": "https://www.beurs.nl/Nieuws/852229/Krimp-in-Franse-dienstensector.aspx",
+    "intro": "De dienstensector in Frankrijk is in januari gekrompen. Dit bleek woensdag uit de cijfers van SP Global.",
+    "published_at": "2026-02-04 10:01",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "3be6db57e739fac25f8b4c9a36efddce",
+    "categorie": "Beursnieuws",
+    "titel": "Italiaanse dienstensector groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/852228/Italiaanse-dienstensector-groeit-harder.aspx",
+    "intro": "De dienstensector in Italië is in januari in een hoger tempo gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-02-04 09:55",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "8800235c830b461f9ec86c3368e9c768",
+    "categorie": "Beursnieuws",
+    "titel": "KBC Securities verlaagt koersdoel AkzoNobel",
+    "link": "https://www.beurs.nl/Nieuws/852223/KBC-Securities-verlaagt-koersdoel-AkzoNobel.aspx",
+    "intro": "KBC Securities heeft woensdag het koersdoel voor AkzoNobel verlaagd van 65,00 naar 63,00 euro bij handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-02-04 09:42",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "495bdb1029d40e613fff264bba305e10",
+    "categorie": "Beursnieuws",
+    "titel": "Spaanse dienstensector groeit in lager tempo",
+    "link": "https://www.beurs.nl/Nieuws/852221/Spaanse-dienstensector-groeit-in-lager-tempo.aspx",
+    "intro": "De dienstensector in Spanje is in januari in een lager tempo gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-02-04 09:25",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "40fcd5c6e7e4f44f084e7afecacb8c2d",
+    "categorie": "Beursnieuws",
+    "titel": "AEX iets hoger geopend",
+    "link": "https://www.beurs.nl/Nieuws/852217/AEX-iets-hoger-geopend.aspx",
+    "intro": "De Amsterdamse beurs is woensdag licht hoger geopend. Kort na opening van de handel, koerste de AEX 0,2 procent hoger op 996,33 punten.",
+    "published_at": "2026-02-04 09:10",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "99be0dfdc20dfce4007dfe84bb7efab6",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine omzetdaling voor Novartis in vierde kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/852213/Kleine-omzetdaling-voor-Novartis-in-vierde-kwartaal.aspx",
+    "intro": "De omzet van Novartis is in vierde kwartaal met 1 procent gedaald. Dit maakte de Zwitserse farmareus woensdagochtend bekend.",
+    "published_at": "2026-02-04 08:55",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "f35a7cbe8532f329789058cb7e581860",
+    "categorie": "Beursnieuws",
+    "titel": "Intrinsieke waarde Value8 stijgt flink",
+    "link": "https://www.beurs.nl/Nieuws/852212/Intrinsieke-waarde-Value8-stijgt-flink.aspx",
+    "intro": "Value8 heeft in 2025 de intrinsieke waarde per aandeel met 14,7 procent zien stijgen naar 11,31 euro. Dit maakte de investeringsmaatschappij woensdag bekend op basis van voorlopige jaarcijfers.",
+    "published_at": "2026-02-04 08:48",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "2aacfb9684a7b7c5c8f4cb386c6620ad",
+    "categorie": "Beursnieuws",
+    "titel": "UBS koopt voor miljarden aan eigen aandelen in",
+    "link": "https://www.beurs.nl/Nieuws/852210/UBS-koopt-voor-miljarden-aan-eigen-aandelen-in.aspx",
+    "intro": "UBS is van plan om voor 3 miljard dollar aan eigen aandelen in te kopen dit jaar en verwacht dat het daar niet bij zal blijven. Dit maakte de Zwitserse bank woensdagochtend bekend.",
+    "published_at": "2026-02-04 08:47",
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "c35b7f62625d1df0f138becf6e879366",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/852209/Deutsche-Bank-verlaagt-koersdoel-Adyen.aspx",
     "intro": "Deutsche Bank heeft woensdag het koersdoel voor Adyen verlaagd van 1.760 naar 1.683 euro, maar met handhaving van het koopadvies. Dit bleek uit een sectorrapport van analist Nooshin Nejati.",
     "published_at": "2026-02-04 08:37",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "4b3aa8f134f7d2ee540fc0f6948b1056",
@@ -15,7 +132,16 @@
     "link": "https://www.beurs.nl/Nieuws/852205/Ryanair-vervoert-meer-passagiers.aspx",
     "intro": "Ryanair heeft in januari 2 procent meer passagiers vervoerd dan in dezelfde maand een jaar eerder. Dit bleek woensdag uit cijfers van de Ierse prijsvechter.",
     "published_at": "2026-02-04 08:21",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
+  },
+  {
+    "id": "9b181abb9454f03d0837d42ff3b73047",
+    "categorie": "Beursnieuws",
+    "titel": "Licht hogere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/852202/Licht-hogere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een licht hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,2 procent in het groen. Dinsdag eindigde de hoofdgraadmeter nog 1,5 procent lager op 993,99 punten.",
+    "published_at": "2026-02-04 08:17",
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "e972b2d2a4f80999cc14851e3ef52384",
@@ -24,7 +150,7 @@
     "link": "https://www.beurs.nl/Nieuws/852199/Omzetdaling-bij-Infineon-conform-verwachting.aspx",
     "intro": "Infineon Technologies heeft in het afgelopen kwartaal minder omzet behaald, in lijn met de eigen outlook. Dit maakte de Duitse chipmaker woensdagochtend bekend.",
     "published_at": "2026-02-04 08:09",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "9c8a2b8f3d646fe6bed5cb56ad3d66f9",
@@ -33,7 +159,7 @@
     "link": "https://www.beurs.nl/Nieuws/852188/Verdeeld-beeld-op-Aziatische-beurzen.aspx",
     "intro": "De Aziatische beurzen lieten woensdag een verdeeld beeld zien.",
     "published_at": "2026-02-04 07:30",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "5295dc4c3828e1278220c495cc5f718a",
@@ -42,7 +168,7 @@
     "link": "https://www.beurs.nl/Nieuws/852182/Update-Chinese-dienstensector-groeit-iets-harder.aspx",
     "intro": "De Chinese dienstensector is in januari iets harder gegroeid dan in december. Dit bleek woensdag uit definitieve cijfers van SP Global en RatingDog.",
     "published_at": "2026-02-04 07:22",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "8d3e781cdd777855c076d6fcafa22a21",
@@ -51,7 +177,7 @@
     "link": "https://www.beurs.nl/Nieuws/852187/Tegenvaller-bij-TomTom-ondanks-zwarte-cijfers.aspx",
     "intro": "TomTom heeft in het vierde kwartaal van 2025 winst geboekt, ondanks dat de omzet op jaarbasis iets daalde, maar de cijfers bleven wel achter op de verwachtingen van analisten, net als de outlook voor dit jaar.",
     "published_at": "2026-02-04 07:17",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "0ba73e38584c4f102a847b221be4a7aa",
@@ -60,7 +186,7 @@
     "link": "https://www.beurs.nl/Nieuws/852186/Inflatie-in-Nederland-gedaald.aspx",
     "intro": "De inflatie in Nederland is in januari gedaald. Dit bleek woensdag uit een eerste raming van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-02-04 07:15",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "31d841ac5f1048f241d89f6bce158f39",
@@ -69,7 +195,7 @@
     "link": "https://www.beurs.nl/Nieuws/852185/Europese-beurzen-openen-hoger.aspx",
     "intro": "De Europese beurzen gaan woensdag een groene opening tegemoet, waarbij de focus zal liggen op het banenrapport van loonstrookjesverwerker ADP, nu het officiële Amerikaanse banenrapport van komende vrijdag is uitgesteld vanwege opnieuw een shutdown van de overheid, die inmiddels wel weer is beëindigd. Verder staan woensdag inkoopcijfers voor de mondiale dienstensector op de rol.",
     "published_at": "2026-02-04 07:00",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "6daeddce393511688e6ef910448766b2",
@@ -78,7 +204,7 @@
     "link": "https://www.beurs.nl/Nieuws/852183/Japanse-dienstensector-groeit-veel-harder.aspx",
     "intro": "De Japanse dienstensector is in januari in een veel hoger tempo gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-02-04 06:56",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "e801c2ca82ed6b850e9984c47dc71ad4",
@@ -87,7 +213,7 @@
     "link": "https://www.beurs.nl/Nieuws/852178/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 11 februari 2026:",
     "published_at": "2026-02-04 06:49",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "40824137350d21850547deb218095f2c",
@@ -96,7 +222,7 @@
     "link": "https://www.beurs.nl/Nieuws/852179/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 11 februari 2026:",
     "published_at": "2026-02-04 06:49",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   },
   {
     "id": "b7a3a655996f3572cae7ab7a02213e46",
@@ -105,6 +231,6 @@
     "link": "https://www.beurs.nl/Nieuws/852180/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 11 februari 2026:",
     "published_at": "2026-02-04 06:49",
-    "scraped_at": "2026-02-04T07:54:45.573042"
+    "scraped_at": "2026-02-04T10:10:18.452454"
   }
 ]
