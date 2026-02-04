@@ -1,434 +1,110 @@
 [
   {
-    "id": "a5c326a2b13ca5912f6ccadbb17c09aa",
+    "id": "78182a12d10e8a40c22ee0d1cc4ad1cd",
     "categorie": "Beursnieuws",
-    "titel": "Media: shutdown Amerikaanse overheid beëindigd",
-    "link": "https://www.beurs.nl/Nieuws/852163/Media-shutdown-Amerikaanse-overheid-beeindigd.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft dinsdag een wetsvoorstel ondertekend waarmee een einde komt aan de vier dagen durende gedeeltelijke sluiting van de overheid in de Verenigde Staten. Dit meldde onder meer The Wall Street Journal dinsdagavond.",
-    "published_at": "2026-02-03 22:58",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "titel": "Beursblik: Deutsche Bank verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/852209/Beursblik-Deutsche-Bank-verlaagt-koersdoel-Adyen.aspx",
+    "intro": "Deutsche Bank heeft woensdag het koersdoel voor Adyen verlaagd van 1.760 naar 1.683 euro, maar met handhaving van het koopadvies. Dit bleek uit een sectorrapport van analist Nooshin Nejati.",
+    "published_at": "2026-02-04 08:37",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "86f48f8311c1588a5ac52c4e3d063ed6",
+    "id": "4b3aa8f134f7d2ee540fc0f6948b1056",
     "categorie": "Beursnieuws",
-    "titel": "AMD onderuit ondanks sterke cijfers en outlook",
-    "link": "https://www.beurs.nl/Nieuws/852160/AMD-onderuit-ondanks-sterke-cijfers-en-outlook.aspx",
-    "intro": "Het aandeel van Advanced Micro Devices stond dinsdag nabeurs op Wall Street onder druk, hoewel de resultaten beter waren dan verwacht en ook de outlook hoger uitkwam dan de markt had voorzien.",
-    "published_at": "2026-02-03 22:36",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "titel": "Ryanair vervoert meer passagiers",
+    "link": "https://www.beurs.nl/Nieuws/852205/Ryanair-vervoert-meer-passagiers.aspx",
+    "intro": "Ryanair heeft in januari 2 procent meer passagiers vervoerd dan in dezelfde maand een jaar eerder. Dit bleek woensdag uit cijfers van de Ierse prijsvechter.",
+    "published_at": "2026-02-04 08:21",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "af3b50eb3a63f0f22eab38f0da511f0c",
+    "id": "e972b2d2a4f80999cc14851e3ef52384",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/852159/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn twee van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten. ING en Shell hielden de schade voor de index beperkt.",
-    "published_at": "2026-02-03 22:16",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "titel": "Omzetdaling bij Infineon conform verwachting",
+    "link": "https://www.beurs.nl/Nieuws/852199/Omzetdaling-bij-Infineon-conform-verwachting.aspx",
+    "intro": "Infineon Technologies heeft in het afgelopen kwartaal minder omzet behaald, in lijn met de eigen outlook. Dit maakte de Duitse chipmaker woensdagochtend bekend.",
+    "published_at": "2026-02-04 08:09",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "f9f6fe1d4bc61238a99f280ebb401577",
+    "id": "9c8a2b8f3d646fe6bed5cb56ad3d66f9",
     "categorie": "Beursnieuws",
-    "titel": "Techaandelen trekken Wall Street in het rood",
-    "link": "https://www.beurs.nl/Nieuws/852158/Techaandelen-trekken-Wall-Street-in-het-rood.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag lager geëindigd, waarbij Big Tech onder druk stond. De indices sloten wel boven het laagste punt van de dag.",
-    "published_at": "2026-02-03 22:10",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "titel": "Verdeeld beeld op Aziatische beurzen",
+    "link": "https://www.beurs.nl/Nieuws/852188/Verdeeld-beeld-op-Aziatische-beurzen.aspx",
+    "intro": "De Aziatische beurzen lieten woensdag een verdeeld beeld zien.",
+    "published_at": "2026-02-04 07:30",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "ada1edcea4616b670437bf6d86a19928",
+    "id": "5295dc4c3828e1278220c495cc5f718a",
     "categorie": "Beursnieuws",
-    "titel": "Update: Banco Santander betaalt miljarden voor Webster Financial",
-    "link": "https://www.beurs.nl/Nieuws/852145/Update-Banco-Santander-betaalt-miljarden-voor-Webster-Financial.aspx",
-    "intro": "Banco Santander neemt het Amerikaanse Webster Financial over in een transactie van aandelen en contanten met een totale waarde van 12,3 miljard dollar. Dit werd dinsdagavond bekend.",
-    "published_at": "2026-02-03 21:15",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "titel": "Update: Chinese dienstensector groeit iets harder",
+    "link": "https://www.beurs.nl/Nieuws/852182/Update-Chinese-dienstensector-groeit-iets-harder.aspx",
+    "intro": "De Chinese dienstensector is in januari iets harder gegroeid dan in december. Dit bleek woensdag uit definitieve cijfers van SP Global en RatingDog.",
+    "published_at": "2026-02-04 07:22",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "00abb76bb1f6819b995e44df9d16b7dd",
+    "id": "8d3e781cdd777855c076d6fcafa22a21",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs herstelt deels",
-    "link": "https://www.beurs.nl/Nieuws/852153/Olieprijs-herstelt-deels.aspx",
-    "intro": "De olieprijs is dinsdag deels hersteld van de flinke daling een dag eerder. De settlement van West Texas Intermediate was 63,21 dollar, waarmee een vat 1,7 procent duurder werd dan maandag, toen de prijs nog met 4,7 procent daalde.",
-    "published_at": "2026-02-03 20:57",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "titel": "Tegenvaller bij TomTom ondanks zwarte cijfers",
+    "link": "https://www.beurs.nl/Nieuws/852187/Tegenvaller-bij-TomTom-ondanks-zwarte-cijfers.aspx",
+    "intro": "TomTom heeft in het vierde kwartaal van 2025 winst geboekt, ondanks dat de omzet op jaarbasis iets daalde, maar de cijfers bleven wel achter op de verwachtingen van analisten, net als de outlook voor dit jaar.",
+    "published_at": "2026-02-04 07:17",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "737540b8ceb7704168846ed41f60bc5c",
+    "id": "0ba73e38584c4f102a847b221be4a7aa",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street flink in het rood na stroom aan cijfers",
-    "link": "https://www.beurs.nl/Nieuws/852144/Wall-Street-flink-in-het-rood-na-stroom-aan-cijfers.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag lager met nog een paar uur handel te gaan.",
-    "published_at": "2026-02-03 19:40",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "titel": "Inflatie in Nederland gedaald",
+    "link": "https://www.beurs.nl/Nieuws/852186/Inflatie-in-Nederland-gedaald.aspx",
+    "intro": "De inflatie in Nederland is in januari gedaald. Dit bleek woensdag uit een eerste raming van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-02-04 07:15",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "a66b2230ca26f703b635272936b62b50",
-    "categorie": "Beursnieuws",
-    "titel": "HP en PayPal onderuit na machtswisseling",
-    "link": "https://www.beurs.nl/Nieuws/852137/HP-en-PayPal-onderuit-na-machtswisseling.aspx",
-    "intro": "Bruce Broussard is met onmiddellijke ingang aangesteld als CEO van HP Inc, ter vervanging van de vertrekkende Enrique Lores, die bij PayPal aan de slag gaat. Dit meldde het Amerikaanse techbedrijf dinsdag.",
-    "published_at": "2026-02-03 19:07",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "b1833f8e3d44fec76f236dd88f9f34cd",
-    "categorie": "Beursnieuws",
-    "titel": "Databedrijven afgestraft op Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/852134/Databedrijven-afgestraft-op-Europese-beurzen.aspx",
-    "intro": "De Europese aandelenmarkten zijn dinsdag uiteindelijk dicht bij huis gebleven, nadat de winsten van eerder op de dag werden ingeleverd.",
-    "published_at": "2026-02-03 18:39",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "0ddf6ff1fd8d5b0bad32c896fd7ff7c1",
-    "categorie": "Beursnieuws",
-    "titel": "KPN geeft voor 500 miljoen euro aan obligaties uit",
-    "link": "https://www.beurs.nl/Nieuws/852133/KPN-geeft-voor-500-miljoen-euro-aan-obligaties-uit.aspx",
-    "intro": "KPN heeft voor 500 miljoen euro aan ongedekte obligaties uitgegeven, met een looptijd tot mei 2034. Dit meldde het telecombedrijf dinsdag nabeurs.",
-    "published_at": "2026-02-03 18:23",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "2967ffb6aec22c721068e9db370ffa4d",
-    "categorie": "Beursnieuws",
-    "titel": "Novo Nordisk verwacht dit jaar krimp",
-    "link": "https://www.beurs.nl/Nieuws/852131/Novo-Nordisk-verwacht-dit-jaar-krimp.aspx",
-    "intro": "Novo Nordisk heeft in 2025 een hogere omzet geboekt, ondanks een zwak vierde kwartaal, maar rekent voor dit jaar op een flinke krimp. Dit bleek dinsdagavond nabeurs uit een update van de Deense farmareus.",
-    "published_at": "2026-02-03 18:16",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "e618f3989d3a35880244b00fed953f27",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Databedrijven en chippers trekken AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/852128/Update-Databedrijven-en-chippers-trekken-AEX-in-het-rood.aspx",
-    "intro": "De AEX is dinsdag na een hogere opening toch fors lager gesloten. Dit was vooral te danken aan de chippers en de databedrijven RELX en Wolters Kluwer, die flinke klappen kregen.",
-    "published_at": "2026-02-03 17:58",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "f09c2ac718d7464bee2f78811c5d311e",
-    "categorie": "Beursnieuws",
-    "titel": "Databedrijven en chippers trekken AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/852126/Databedrijven-en-chippers-trekken-AEX-in-het-rood.aspx",
-    "intro": "De AEX is dinsdag na een hogere opening toch fors lager gesloten. Dit was vooral te danken aan de chippers en de databedrijven RELX en Wolters Kluwer, die flinke klappen kregen.",
-    "published_at": "2026-02-03 17:50",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "1a285bc8ab29098a8bed48379f14afd5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: ArcelorMittal weer in de zwarte cijfers",
-    "link": "https://www.beurs.nl/Nieuws/852122/Beursblik-ArcelorMittal-weer-in-de-zwarte-cijfers.aspx",
-    "intro": "ArcelorMittal zal donderdag een bescheiden winst melden over het vierde kwartaal van 2025, die ongeveer gelijk zal zijn aan het nettoverlies van vorig jaar. Dat blijkt uit een consensusverwachting van analisten die het staalbedrijf bekendmaakte.",
-    "published_at": "2026-02-03 17:14",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "e711f08aa5b2a1949d2ab1de1ac8ed6c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/852116/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 11 februari 2026:",
-    "published_at": "2026-02-03 16:34",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "a57a274db7534962a4c71381d756d669",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/852114/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 11 februari 2026:",
-    "published_at": "2026-02-03 16:33",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "ceb725cc2a369faf34f4ea83adee7f0c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/852115/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 11 februari 2026:",
-    "published_at": "2026-02-03 16:33",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "6e92dd1e90e753de297b2c5e327849f4",
-    "categorie": "Beursnieuws",
-    "titel": "Ajax trekt Argentijnse vleugelaanvaller Maher Carrizo aan",
-    "link": "https://www.beurs.nl/Nieuws/852111/Ajax-trekt-Argentijnse-vleugelaanvaller-Maher-Carrizo-aan.aspx",
-    "intro": "Ajax heeft overeenstemming bereikt met CA Vélez en Maher Carrizo over de transfer van de vleugelaanvaller naar de Amsterdamse voetbalclub. Dit werd dinsdag bekend.",
-    "published_at": "2026-02-03 16:32",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "14a901d1ce939c3f2cd668906802bcfa",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: opkomende markten teleurstellend voor Unilever in 2025",
-    "link": "https://www.beurs.nl/Nieuws/852112/Beursblik-opkomende-markten-teleurstellend-voor-Unilever-in-2025.aspx",
-    "intro": "De groei van Unilever in de opkomende markten kwam in 2025 niet van de grond en zal de laagste zijn in decennia, maar herstel in 2026 lijkt goed mogelijk. Dit stelden analisten van Barclays dinsdag in een rapport over het levensmiddelenconcern.",
-    "published_at": "2026-02-03 16:29",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "6dcc4176e3fce95245c21fd81f3f53fc",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: lagere winst verwacht bij Shell",
-    "link": "https://www.beurs.nl/Nieuws/852109/Beursblik-lagere-winst-verwacht-bij-Shell.aspx",
-    "intro": "Shell heeft in het vierde kwartaal van 2025 naar verwachting minder winst geboekt dan een jaar eerder, terwijl de operationele kasstroom ook daalde. Dit blijkt uit de consensusverwachting van Vara Research op de website van de energiereus.",
-    "published_at": "2026-02-03 16:11",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "6af27331077f8ed9a1ba6f733174c057",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: TomTom op weg naar zwarte cijfers",
-    "link": "https://www.beurs.nl/Nieuws/852104/Beursblik-TomTom-op-weg-naar-zwarte-cijfers.aspx",
-    "intro": "TomTom heeft in het vierde kwartaal van dit jaar vermoedelijk winst geboekt, terwijl de omzet op jaarbasis iets daalde. Dit bleek uit een consensusverwachting van analisten die werd samengesteld door de navigatiespecialist zelf.",
-    "published_at": "2026-02-03 15:28",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "c8b923c38f3168620891d986a84989ef",
-    "categorie": "Beursnieuws",
-    "titel": "Disney presenteert nieuwe CEO",
-    "link": "https://www.beurs.nl/Nieuws/852101/Disney-presenteert-nieuwe-CEO.aspx",
-    "intro": "Walt Disney heeft een nieuwe topman. Dit bleek dinsdag uit een persbericht van het Amerikaanse entertainmentbedrijf.",
-    "published_at": "2026-02-03 15:00",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "89a8945ecc09c567c349027991c53c59",
-    "categorie": "Beursnieuws",
-    "titel": "Groene start voor Wall Street onder aanvoering van Palantir",
-    "link": "https://www.beurs.nl/Nieuws/852100/Groene-start-voor-Wall-Street-onder-aanvoering-van-Palantir.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, geholpen door de koerswinst voor Palantir.",
-    "published_at": "2026-02-03 14:59",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "ee8eae0da58e826863c99f815125a0c9",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe CEO voor PayPal na tegenvallend kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/852094/Nieuwe-CEO-voor-PayPal-na-tegenvallend-kwartaal.aspx",
-    "intro": "PayPal heeft de groei fors zien vertragen in het vierde kwartaal, en benoemt Enrique Lores per 1 maart tot de nieuwe CEO, om het bedrijf weer op de rails te krijgen. Dit maakte de Amerikaanse rivaal van de Amsterdamse betaalspecialist Adyen dinsdagmiddag bekend.",
-    "published_at": "2026-02-03 14:08",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "06ae61a47b9440cfe92c874443c29938",
-    "categorie": "Beursnieuws",
-    "titel": "Pfizer boekt verlies",
-    "link": "https://www.beurs.nl/Nieuws/852091/Pfizer-boekt-verlies.aspx",
-    "intro": "Pfizer heeft in het vierde kwartaal zijn omzetdaling beperkt, maar eindigde wel in de rode cijfers. Dit bleek dinsdag uit de resultaten van de Amerikaanse farmaceut.",
-    "published_at": "2026-02-03 13:36",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "492c8c7fc2fba91bc92cdef6ecbc1ea4",
-    "categorie": "Beursnieuws",
-    "titel": "Groene start op Wall Street verwacht",
-    "link": "https://www.beurs.nl/Nieuws/852088/Groene-start-op-Wall-Street-verwacht.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, geholpen door de koerswinst voor Palantir.",
-    "published_at": "2026-02-03 13:26",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "2b56df4f0fdd42258ef9922c288e3dab",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen blijven dicht bij huis",
-    "link": "https://www.beurs.nl/Nieuws/852082/Europese-beurzen-blijven-dicht-bij-huis.aspx",
-    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur verdeeld, nadat de verkoopgolf van goud en andere edelmetalen omsloeg naar een hernieuwde stijging.",
-    "published_at": "2026-02-03 13:07",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "204f603d8ed1a9e6151c365c618d85fe",
-    "categorie": "Beursnieuws",
-    "titel": "Meevallende winst voor Merck",
-    "link": "https://www.beurs.nl/Nieuws/852081/Meevallende-winst-voor-Merck.aspx",
-    "intro": "Merck heeft in 2025 de eigen omzetverwachting gehaald, terwijl de winst zelfs hoger dan verwacht uitkwam.  Dit meldde de Amerikaanse farmaceut dinsdag voorbeurs.",
-    "published_at": "2026-02-03 13:01",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "82acf37a9319aa5ff8976aef80b3d2c5",
-    "categorie": "Beursnieuws",
-    "titel": "TenneT verkoopt kwart TenneT Duitsland aan Berlijn",
-    "link": "https://www.beurs.nl/Nieuws/852076/TenneT-verkoopt-kwart-TenneT-Duitsland-aan-Berlijn.aspx",
-    "intro": "TenneT Holding verkoopt een aandelenbelang van 25,1 procent in TenneT Duitsland voor 3,3 miljard aan de Duitse staat. Dat maakte de netbeheerder dinsdag bekend.",
-    "published_at": "2026-02-03 12:34",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "fe54c4e378bd88306772416645f8ac31",
-    "categorie": "Beursnieuws",
-    "titel": "PepsiCo boekt hogere omzet",
-    "link": "https://www.beurs.nl/Nieuws/852075/PepsiCo-boekt-hogere-omzet.aspx",
-    "intro": "PepsiCo heeft in het vierde kwartaal van 2025 een hogere omzet geboekt, waardoor de winst een miljard dollar hoger uitviel. Dit bleek dinsdag uit cijfers van de Amerikaanse gigant in frisdranken en snacks.",
-    "published_at": "2026-02-03 12:27",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "758d5a40e8a14f1f349eb5088e73da9a",
-    "categorie": "Beursnieuws",
-    "titel": "ING en ABN voorkomen verlies AEX niet",
-    "link": "https://www.beurs.nl/Nieuws/852065/ING-en-ABN-voorkomen-verlies-AEX-niet.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het rood, ondanks de koerswinsten voor ING en ABN AMRO.",
-    "published_at": "2026-02-03 11:52",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "20ba219923df40a4ce5298c6b51605b9",
-    "categorie": "Beursnieuws",
-    "titel": "Fastned geeft opnieuw obligaties uit",
-    "link": "https://www.beurs.nl/Nieuws/852052/Fastned-geeft-opnieuw-obligaties-uit.aspx",
-    "intro": "Fastned wil tot maximaal 100 miljoen euro ophalen met de uitgifte van nieuwe obligaties. Dit maakte het snellaadbedrijf dinsdagochtend bekend.",
-    "published_at": "2026-02-03 10:29",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "3b36f04577264767a24459b7ed344001",
-    "categorie": "IEXProfs",
-    "titel": "Must read: Herstel prijzen goud en zilver is logisch",
-    "link": "https://www.iexprofs.nl/artikel/851884/Must-read-Herstel-prijzen-goud-en-zilver-is-logisch.aspx",
-    "intro": "Plus: beleg in satellieten, Chinese aandelen zijn wel/niet koopwaardig, ook op Spaanse beurs schijnt de zon, Nederlandse huurmarkt in crisis, en meer.",
-    "published_at": "2026-02-03 10:00",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "e82052e195cd5139461306050e047393",
-    "categorie": "Beursnieuws",
-    "titel": "Franse inflatie verder gedaald",
-    "link": "https://www.beurs.nl/Nieuws/852046/Franse-inflatie-verder-gedaald.aspx",
-    "intro": "De Franse inflatie is in januari opnieuw gedaald. Dit bleek dinsdag uit voorlopige cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-02-03 09:44",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "f5b0c605954138a88a9c8e2fed072088",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start gegaan onder aanvoering van ING en de chippers",
-    "link": "https://www.beurs.nl/Nieuws/852043/AEX-hoger-van-start-gegaan-onder-aanvoering-van-ING-en-de-chippers.aspx",
-    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,5 procent hoger naar 1.014,57 punten, terwijl de Midkap ruim een half procent won.",
-    "published_at": "2026-02-03 09:16",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "0fdc37a8923429e712e3fb3c04d938af",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: matig jaareinde voor AkzoNobel",
-    "link": "https://www.beurs.nl/Nieuws/852039/Beursblik-matig-jaareinde-voor-AkzoNobel.aspx",
-    "intro": "AkzoNobel kende een matig eind van 2025. Dit concludeerden analisten van Citi Research dinsdag in een rapport naar aanleiding van de kwartaalrapportage voorbeurs.",
-    "published_at": "2026-02-03 09:00",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "fcc6fbb59521451b252a7480651352ec",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: optimistische outlook Pharming",
-    "link": "https://www.beurs.nl/Nieuws/852040/Beursblik-optimistische-outlook-Pharming.aspx",
-    "intro": "De omzetverwachting van Pharming voor 2026 ligt boven de verwachting van Jefferies en de analistenconsensus. Dit schreven analisten van de zakenbank dinsdag, naar aanleiding van de afgegeven outlook vanochtend in aanloop naar een beleggersdag van het biotechbedrijf later vandaag.",
-    "published_at": "2026-02-03 09:00",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "e773e55c625fc23a02446d5180bd56d7",
-    "categorie": "Beursnieuws",
-    "titel": "Sanofi kondigt omvangrijk aandeleninkoopprogramma aan",
-    "link": "https://www.beurs.nl/Nieuws/852036/Sanofi-kondigt-omvangrijk-aandeleninkoopprogramma-aan.aspx",
-    "intro": "Sanofi heeft een omvangrijk aandeleninkoopprogramma aangekondigd ter waarde van 1 miljard euro. Dit maakte de Frans farmaceut dinsdagochtend bekend.",
-    "published_at": "2026-02-03 08:39",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "151060eb3fac0d1bf213e17582c56794",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank zet ING op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/852035/Deutsche-Bank-zet-ING-op-de-kooplijst.aspx",
-    "intro": "Deutsche Bank heeft dinsdag het advies voor ING Groep verhoogd van Houden naar Kopen. Het koersdoel werd daarbij bijgesteld van 25,00 naar 28,00 euro. Dit bleek uit een rapport van analist Benjamin Goy.",
-    "published_at": "2026-02-03 08:37",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "fd66f42860d6107be0748b4c63f79588",
-    "categorie": "Beursnieuws",
-    "titel": "AEX maakt zich op voor hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/852031/AEX-maakt-zich-op-voor-hogere-opening.aspx",
-    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,5 procent.",
-    "published_at": "2026-02-03 08:02",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "f3d2389d578d6d3aa9e0eed6b38123c4",
-    "categorie": "Beursnieuws",
-    "titel": "Pharming rekent op omzetgroei in 2026",
-    "link": "https://www.beurs.nl/Nieuws/852026/Pharming-rekent-op-omzetgroei-in-2026.aspx",
-    "intro": "Pharming Group rekent in 2026 op een groei van de omzet. Dit meldde het Leidse biotechbedrijf dinsdag voorbeurs in aanloop naar een beleggersdag, waarbij het ook een update geeft van zijn klinische pijplijn voor zeldzame ziekten.",
-    "published_at": "2026-02-03 07:22",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "b2ed7c92be7356aa86c6fc0e2d635392",
-    "categorie": "Beursnieuws",
-    "titel": "Beurzen in Tokio, Seoel en Mumbai kleuren donkergroen",
-    "link": "https://www.beurs.nl/Nieuws/852025/Beurzen-in-Tokio-Seoel-en-Mumbai-kleuren-donkergroen.aspx",
-    "intro": "De Aziatische beurzen vonden dinsdagochtend overtuigend de weg omhoog. In Tokio koerste de Nikkei index met een winst van 4 procent naar de hoogste stand ooit, terwijl de Indiase beurs bijna 3 procent won. De techgevoelige beurs in Seoel won zelfs meer dan 6 procent, dankzij een herstel van onder meer Samsung en SK Hynix.",
-    "published_at": "2026-02-03 07:17",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "c6fb75d68326ce94cefaa254e7865d27",
-    "categorie": "Beursnieuws",
-    "titel": "Tegenvallende prestaties bij AkzoNobel",
-    "link": "https://www.beurs.nl/Nieuws/852024/Tegenvallende-prestaties-bij-AkzoNobel.aspx",
-    "intro": "AkzoNobel heeft in het vierde kwartaal van 2025 tegenvallende gepresteerd. Dit bleek uit cijfers die het bedrijf dinsdag voorbeurs publiceerde.",
-    "published_at": "2026-02-03 07:13",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "79e4406f13887cdf13e057cc8e0762a9",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street start februari optimistisch",
-    "link": "https://www.beurs.nl/Nieuws/851998/Wall-Street-start-februari-optimistisch.aspx",
-    "intro": "De Amerikaanse beurzen zijn februari positief begonnen, waarbij beleggers de recente klappen in edelmetalen en bitcoin naast zich neerlegden en onder meer steun kregen van sterke macro-economische cijfers.",
-    "published_at": "2026-02-03 07:10",
-    "scraped_at": "2026-02-04T05:01:11.213885"
-  },
-  {
-    "id": "fca2a395b12fbd3e0af6e68b5db6974f",
+    "id": "31d841ac5f1048f241d89f6bce158f39",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen openen hoger",
-    "link": "https://www.beurs.nl/Nieuws/852023/Europese-beurzen-openen-hoger.aspx",
-    "intro": "De Europese beurzen gaan dinsdag een groene opening tegemoet, terwijl in Azië techaandelen het goed doen, en namen als Samsung en SK Hynix stevige winsten boeken na de koersdalingen van maandag.",
-    "published_at": "2026-02-03 07:00",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "link": "https://www.beurs.nl/Nieuws/852185/Europese-beurzen-openen-hoger.aspx",
+    "intro": "De Europese beurzen gaan woensdag een groene opening tegemoet, waarbij de focus zal liggen op het banenrapport van loonstrookjesverwerker ADP, nu het officiële Amerikaanse banenrapport van komende vrijdag is uitgesteld vanwege opnieuw een shutdown van de overheid, die inmiddels wel weer is beëindigd. Verder staan woensdag inkoopcijfers voor de mondiale dienstensector op de rol.",
+    "published_at": "2026-02-04 07:00",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "d35cf9f3484e480ae2e850809e436186",
+    "id": "6daeddce393511688e6ef910448766b2",
+    "categorie": "Beursnieuws",
+    "titel": "Japanse dienstensector groeit veel harder",
+    "link": "https://www.beurs.nl/Nieuws/852183/Japanse-dienstensector-groeit-veel-harder.aspx",
+    "intro": "De Japanse dienstensector is in januari in een veel hoger tempo gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-02-04 06:56",
+    "scraped_at": "2026-02-04T07:54:45.573042"
+  },
+  {
+    "id": "e801c2ca82ed6b850e9984c47dc71ad4",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/852020/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 10 februari 2026:",
-    "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "link": "https://www.beurs.nl/Nieuws/852178/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 11 februari 2026:",
+    "published_at": "2026-02-04 06:49",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "685a8b930e7ded92f26f6245cbaef522",
+    "id": "40824137350d21850547deb218095f2c",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/852021/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 10 februari 2026:",
-    "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "link": "https://www.beurs.nl/Nieuws/852179/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 11 februari 2026:",
+    "published_at": "2026-02-04 06:49",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   },
   {
-    "id": "45acc25e5210e28de6bcbd9f648441d1",
+    "id": "b7a3a655996f3572cae7ab7a02213e46",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/852022/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 10 februari 2026:",
-    "published_at": "2026-02-03 06:49",
-    "scraped_at": "2026-02-04T05:01:11.213885"
+    "link": "https://www.beurs.nl/Nieuws/852180/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 11 februari 2026:",
+    "published_at": "2026-02-04 06:49",
+    "scraped_at": "2026-02-04T07:54:45.573042"
   }
 ]
