@@ -1,12 +1,30 @@
 [
   {
+    "id": "2fa5020d9111477daff4c619a37ec09d",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs weer omlaag",
+    "link": "https://www.beurs.nl/Nieuws/852501/Olieprijs-weer-omlaag.aspx",
+    "intro": "De olieprijs is donderdag gedaald, in afwachting van gesprekken vrijdag in Oman tussen de VS en Iran. Dit vooruitzicht wist de eerdere prijsstijgingen uit, die het gevolg waren van opgelopen geopolitieke onzekerheid.",
+    "published_at": "2026-02-05 21:24",
+    "scraped_at": "2026-02-05T21:04:46.423123"
+  },
+  {
+    "id": "f0b2ae7a1194852678a4707affc0d8d5",
+    "categorie": "Beursnieuws",
+    "titel": "Tech-exodus op Wall Street houdt aan",
+    "link": "https://www.beurs.nl/Nieuws/852500/Tech-exodus-op-Wall-Street-houdt-aan.aspx",
+    "intro": "De Amerikaanse beurzen stonden donderdag in het rood, terwijl de verkoopgolf van technologie-aandelen aanhield, na zwakke cijfers over de arbeidsmarkt. De verliezen werden breed gedeeld.",
+    "published_at": "2026-02-05 20:43",
+    "scraped_at": "2026-02-05T21:04:46.423123"
+  },
+  {
     "id": "8d37bbe26eeb3cef67447e85726691c8",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten in het rood na twijfels rond Alphabet",
     "link": "https://www.beurs.nl/Nieuws/852491/Europese-beurzen-sluiten-in-het-rood-na-twijfels-rond-Alphabet.aspx",
     "intro": "De Europese beurzen zijn donderdag lager gesloten, nadat de verliezen in de loop van de middag opliepen, door forse verliezen voor banken en autofabrikanten.",
     "published_at": "2026-02-05 18:54",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "00fecdb183a8244e61e1fa3adabfce16",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/852483/Prosus-heeft-geen-plannen-voor-grote-overnames.aspx",
     "intro": "Prosus wil de komende tijd de groei en winstgevendheid stimuleren en heeft geen plannen voor grote fusies of overnames. Dit schreef CEO Fabricio Bloisi donderdag in een brief aan de aandeelhouders van de internetinvesteerder.",
     "published_at": "2026-02-05 17:58",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "0f3da5b8bdf784e5a867deea4958a413",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/852481/Shell-en-financials-drukken-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is donderdag lager geëindigd, nadat zwaargewicht Shell onder druk stond. Ook de financiële waarden kenden een slechte dag, terwijl databedrijven in het groen eindigden.",
     "published_at": "2026-02-05 17:52",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "10fa4c1aa719258ed170df9f342cc2a1",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/852467/Update-Hims-Hers-lanceert-goedkope-afslankpil.aspx",
     "intro": "Hims  Hers heeft een nieuwe afslankpil gelanceerd. Dit maakte het Amerikaanse digitale zorgplatform donderdag bekend.",
     "published_at": "2026-02-05 17:16",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "8d1d9db874193d2d17821e7a39ac7269",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/852477/Rio-Tinto-ziet-af-van-overname-Glencore.aspx",
     "intro": "Rio Tinto heeft bevestigd dat het bedrijf afziet van een overname van Glencore, omdat geen akkoord kon worden bereikt over de voorwaarden van een deal. Dit maakte het Britse mijnbouwbedrijf donderdag bekend.",
     "published_at": "2026-02-05 17:03",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "0d45caea387e90e6eebd6630c9175556",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/852474/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 13 februari 2026:",
     "published_at": "2026-02-05 16:36",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "623e0e4e5ccd2a4fb0eb4f4d49c5f3e7",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/852475/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 13 februari 2026:",
     "published_at": "2026-02-05 16:36",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "6afd3f0096f2de7d233f21f8a65f58cb",
@@ -69,7 +87,7 @@
     "link": "https://www.beurs.nl/Nieuws/852473/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 13 februari 2026:",
     "published_at": "2026-02-05 16:35",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "862ea23802c70e716b679df124830109",
@@ -78,7 +96,7 @@
     "link": "https://www.beurs.nl/Nieuws/852471/Beursblik-winstgevendheid-Aperamstaatonder-druk.aspx",
     "intro": "Aperam heeft in het vierde kwartaal de winstgevendheid waarschijnlijk zien dalen. Dit verwachten 12 analisten die bijdroegen aan de consensus in aanloop naar cijfers van de roestvrij staalreus op vrijdag.",
     "published_at": "2026-02-05 16:18",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "57cd27e11f62649692b3f9300fd3aafb",
@@ -87,7 +105,7 @@
     "link": "https://www.beurs.nl/Nieuws/852469/Aantal-vacatures-in-VS-daalt-sterk.aspx",
     "intro": "Het aantal vacatures in de Verenigde Staten is in december fors gedaald ten opzichte van een jaar eerder. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-02-05 16:07",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "fdded420d05238d328720414fecac5f6",
@@ -96,7 +114,7 @@
     "link": "https://www.beurs.nl/Nieuws/852468/ECB-maakt-zich-weinig-zorgen-over-sterke-euro.aspx",
     "intro": "De Europese Centrale Bank lijkt zich vooralsnog weinig zorgen te maken over de sterke euro en de impact hiervan is al verwerkt in de basisscenario's van de centrale bank. Dit zei voorzitter Christine Lagarde donderdag in een toelichting op het rentebesluit van de ECB.",
     "published_at": "2026-02-05 16:05",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "0435f886aa5664c96bd9f9b4f47bc716",
@@ -105,7 +123,7 @@
     "link": "https://www.beurs.nl/Nieuws/852454/Amerikaanse-futures-kleuren-rood.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een terughoudende opening tegemoet. Ruim een half uur voor opening noteerden de futures op de SP 0,5 procent lager, terwijl de Nasdaq-futures 0,8 procent daalden. De Dow Jones index koerst vooralsnog af op een 0,3 procent lagere opening.",
     "published_at": "2026-02-05 14:48",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "aa715adbce4e1d1df7cd5d598c2f7b0e",
@@ -114,7 +132,7 @@
     "link": "https://www.beurs.nl/Nieuws/852293/Update-ECB-handhaaft-rente-opnieuw.aspx",
     "intro": "De Europese Centrale Bank heeft de belangrijkste rentestanden gehandhaafd. Dit bleek donderdag uit het rentebesluit van de ECB.",
     "published_at": "2026-02-05 14:48",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "0a4634450bf05c46e2475fa88f6998c9",
@@ -123,7 +141,7 @@
     "link": "https://www.beurs.nl/Nieuws/852453/Beursblik-verdeelde-BoE-verlaagt-drempel-voor-renteverlaging-in-maart.aspx",
     "intro": "De Bank of England heeft de rente donderdag conform de verwachting gehandhaafd op 3,75 procent, maar de verdeeldheid onder de bestuurders was opnieuw groot, volgens ING, en hiermee wordt de drempel verlaagd voor een renteverlaging in maart.",
     "published_at": "2026-02-05 14:47",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "6b58d2bbd4aa29e03d4f844047419203",
@@ -132,7 +150,7 @@
     "link": "https://www.beurs.nl/Nieuws/852452/Nieuwe-steunaanvragen-in-de-VS-gestegen.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-02-05 14:42",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "a6fc7885b2086c759eec1477f54cc12e",
@@ -141,7 +159,7 @@
     "link": "https://www.beurs.nl/Nieuws/852451/ECB-handhaaft-rente-opnieuw.aspx",
     "intro": "De Europese Centrale Bank heeft de belangrijkste rentestanden gehandhaafd. Dit bleek donderdag uit het rentebesluit van de ECB.",
     "published_at": "2026-02-05 14:18",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "beab743813227b1cbdf55ca1bedebfca",
@@ -150,7 +168,7 @@
     "link": "https://www.beurs.nl/Nieuws/852295/Update-Bank-of-England-handhaaft-rente.aspx",
     "intro": "De Bank of England heeft de rente donderdag conform de verwachting laten staan op 3,75 procent, na een verlaging van 25 basispunten in december. Dit bleek vanmiddag uit het Britse rentebesluit.",
     "published_at": "2026-02-05 13:25",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "99605a55da805b959a729e30bfe10feb",
@@ -159,7 +177,7 @@
     "link": "https://www.beurs.nl/Nieuws/852442/Winst-ConocoPhillips-schiet-tekort.aspx",
     "intro": "ConocoPhillips heeft in het vierde kwartaal van 2025 een lagere winst geboekt dan verwacht. Dit bleek donderdag uit cijfers van het Amerikaanse oliebedrijf.",
     "published_at": "2026-02-05 13:24",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "341cd9c0bfa1af4aff9ec26e9ab14c89",
@@ -168,7 +186,7 @@
     "link": "https://www.beurs.nl/Nieuws/852433/Bank-of-England-handhaaft-rente.aspx",
     "intro": "De Bank of England heeft de rente donderdag conform de verwachting laten staan op 3,75 procent, na een verlaging van 25 basispunten in december. Dit bleek vanmiddag uit het Britse rentebesluit.",
     "published_at": "2026-02-05 13:05",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "0f45b5619c18af76443afc918a14c437",
@@ -177,7 +195,7 @@
     "link": "https://www.beurs.nl/Nieuws/852432/Barrick-zet-beursgang-gouddivisie-door.aspx",
     "intro": "Barrick Mining zet zijn plannen door om de Noord-Amerikaanse goudactiviteiten een eigen beursnotering te geven, waarin het mijnbouwbedrijf zelf een controlerend belang houdt. Dit maakte het Canadese bedrijf donderdag bekend, tegelijk met nieuwe kwartaalcijfers.",
     "published_at": "2026-02-05 13:01",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "50852525cb23dd8680c8fb4d981654c5",
@@ -186,7 +204,7 @@
     "link": "https://www.beurs.nl/Nieuws/852429/Futures-voorspellen-voorzichtige-opening-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een voorzichtige opening tegemoet. Rond lunchtijd noteerden de futures op de SP fractioneel in het groen, terwijl de Nasdaq-futures 0,2 procent stegen. De Dow Jones index koerst voorlopig af op een licht lagere opening.",
     "published_at": "2026-02-05 12:31",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "1700f8c456255b775bc2d33c3985e48f",
@@ -195,7 +213,7 @@
     "link": "https://www.beurs.nl/Nieuws/852427/Europese-beurzen-noteren-lager.aspx",
     "intro": "De Europese beurzen noteerden donderdag rond het middaguur overwegend lager.",
     "published_at": "2026-02-05 12:12",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "fea7e877db70711edf92ffd5d4c4571d",
@@ -204,7 +222,7 @@
     "link": "https://www.beurs.nl/Nieuws/852419/Herstel-RELX-en-Wolters-Kluwer-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdag licht hoger. Rond de klok van elf uur won de AEX 0,3 procent op 993,47 punten.",
     "published_at": "2026-02-05 11:16",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "834fac325eac88f692f270933662d1c6",
@@ -213,7 +231,7 @@
     "link": "https://www.beurs.nl/Nieuws/852417/Dalende-detailhandelsverkopen-in-de-eurozone.aspx",
     "intro": "De detailhandelsverkopen in de eurozone zijn in december gedaald. Dit bleek donderdag uit voorlopige cijfers van het Europese statistiekbureau Eurostat.",
     "published_at": "2026-02-05 11:07",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "d71b3f4d1d1dc747a180cf8556b763bf",
@@ -222,7 +240,7 @@
     "link": "https://www.beurs.nl/Nieuws/852415/Beursblik-EBITDA-bij-ArcelorMittal-iets-beter-dan-verwacht.aspx",
     "intro": "ArcelorMittal heeft in het vierde kwartaal van 2025 de EBITDA iets hoger zien uitvallen dan verwacht. Dit concludeerden analisten van UBS donderdag in een rapport.",
     "published_at": "2026-02-05 10:44",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "aa4577b3e2399267494dc3382c28dee4",
@@ -231,7 +249,7 @@
     "link": "https://www.beurs.nl/Nieuws/852412/Citi-Aantrekkelijk-instapmoment-bij-Adyen.aspx",
     "intro": "Na een forse daling van het aandeel is er een aantrekkelijk koopmoment ontstaan bij Adyen. Dit stelden analisten van Citi donderdag in een rapport.",
     "published_at": "2026-02-05 10:29",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "f4149d14bd7c907e45209d3da72b3a70",
@@ -240,7 +258,7 @@
     "link": "https://www.beurs.nl/Nieuws/852411/Beursblik-Citi-verhoogt-koersdoel-Alphabet-na-sterke-kwartaalcijfers.aspx",
     "intro": "Citi Research heeft donderdag het koersdoel voor Alphabet verhoogd van 350 naar 390 dollar met handhaving van het koopadvies na de sterke resultaten over het vierde kwartaal van 2025. Dit bleek uit een rapport van analist Ronald Josey.",
     "published_at": "2026-02-05 10:23",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "82673f37ee88e6d1da2c256962077397",
@@ -249,7 +267,7 @@
     "link": "https://www.iexprofs.nl/artikel/852207/Must-read-Winstontwikkeling-is-duidelijk-het-probleem-niet.aspx",
     "intro": "Plus: duurzaam beleggen fundamenteel veranderd, Claude zet juridische wereld op zijn kop, bitcoin bereikt 3 grenzen, schuivende beleggersvoorkeuren en meer.",
     "published_at": "2026-02-05 10:00",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "12f9f248dc7536670b38bf1817f5a85d",
@@ -258,7 +276,7 @@
     "link": "https://www.beurs.nl/Nieuws/852406/Beursblik-uitdagend-kwartaal-voor-Shell.aspx",
     "intro": "Het vierde kwartaal was voor Shell uitdagender dan de markt had verwacht, en dat terwijl de verwachtingen al flink neerwaarts waren bijgesteld na de voorlopige update van de energiereus enkele weken geleden. Dit concludeerden analisten van Citi Research donderdag in een rapport.",
     "published_at": "2026-02-05 09:51",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "1d2a97e72da933ded95b22c3c6d54899",
@@ -267,7 +285,7 @@
     "link": "https://www.beurs.nl/Nieuws/852400/Beursblik-Sligro-toont-indrukwekkende-vrije-kasstroom.aspx",
     "intro": "Sligro heeft in 2025 een indrukwekkende vrije kasstroom gerealiseerd, waardoor de schuld sterker dan verwacht terugliep. Dit stelde analist Fernand de Boer van Degroof Petercam donderdag in een rapport.",
     "published_at": "2026-02-05 09:36",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "ed5bd3a4d242c68db47ef13e83e2b92d",
@@ -276,7 +294,7 @@
     "link": "https://www.beurs.nl/Nieuws/852398/AEX-licht-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong 0,2 procent hoger naar 992,82 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
     "published_at": "2026-02-05 09:14",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "46d4ba12ca17b9c7acc979a9d5ea71d8",
@@ -285,7 +303,7 @@
     "link": "https://www.beurs.nl/Nieuws/852395/Industriele-productie-in-Frankrijk-onder-druk.aspx",
     "intro": "De industriële productie in Frankrijk staat onder druk. Dit bleek donderdag uit cijfers van het Franse statistiekbureau Insee.",
     "published_at": "2026-02-05 09:07",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "858396c1585d8893f264f4d976cb4df7",
@@ -294,7 +312,7 @@
     "link": "https://www.beurs.nl/Nieuws/852387/CMcom-werkt-samen-met-VOLT-aan-AI-omgeving.aspx",
     "intro": "CM.com is een strategische samenwerking aangegaan met AI-infrastructuurontwikkelaar VOLT. Dit maakte CM.com donderdag bekend.",
     "published_at": "2026-02-05 08:19",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "f2b59959d7b8eae60c0dc8e0e9a83314",
@@ -303,7 +321,7 @@
     "link": "https://www.beurs.nl/Nieuws/852386/Daling-operationele-kasstroom-Shell-valt-mee.aspx",
     "intro": "Shell heeft in het vierde kwartaal van 2025 minder winst geboekt dan een jaar eerder, terwijl de operationele kasstroom ook daalde, maar veel minder sterk dan gevreesd. Dit bleek donderdag voorbeurs uit de kwartaalcijfers die de energiereus presenteerde.",
     "published_at": "2026-02-05 08:18",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "7c453a2c3e9fc0e03a205f733c6e10c7",
@@ -312,7 +330,7 @@
     "link": "https://www.beurs.nl/Nieuws/852379/Duitse-fabrieksorders-hard-gestegen.aspx",
     "intro": "De Duitse fabrieksorders zijn in december in een flink tempo gestegen. Dit bleek donderdag uit cijfers van statistiekbureau Destatis.",
     "published_at": "2026-02-05 08:06",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "ad82b4f5825387d4d5adf6f1b90e7df8",
@@ -321,7 +339,7 @@
     "link": "https://www.beurs.nl/Nieuws/852380/AEX-vermoedelijk-afwachtend-van-start-na-aanhoudende-sectorrotatie-op-Wall-Street.aspx",
     "intro": "De Amsterdamse beurs maakt zich donderdag op voor een min of meer neutrale opening.",
     "published_at": "2026-02-05 08:05",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "9d15beec7b734f93dd3f4ba525cc7532",
@@ -330,7 +348,7 @@
     "link": "https://www.beurs.nl/Nieuws/852375/Sligro-ziet-resultaten-aantrekken.aspx",
     "intro": "Sligro heeft in 2025 de resultaten zien aantrekken, dankzij een voorzichtig herstel van de afzetmarkten en betere grip op de kosten. Dit bleek donderdag uit cijfers van de groothandelaar, waarin ook een dividendverhoging en een aandeleninkoopprogramma werden aangekondigd.",
     "published_at": "2026-02-05 07:50",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "58d6e154f1b52ece75c0666a8263a0ae",
@@ -339,7 +357,7 @@
     "link": "https://www.beurs.nl/Nieuws/852376/Omzet-en-winst-BNP-Paribas-flink-in-de-lift.aspx",
     "intro": "BNP Paribas heeft in het vierde kwartaal van 2025 recordresultaten geboekt, met een forse stijging van de nettowinst. Dit bleek donderdag uit de kwartaalrapportage van de Franse bank.",
     "published_at": "2026-02-05 07:48",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "6a04441916ac41a5e198f818b7065e25",
@@ -348,7 +366,7 @@
     "link": "https://www.beurs.nl/Nieuws/852373/Fagron-krijgt-groen-licht-voor-overname-van-het-Braziliaanse-Vepakum.aspx",
     "intro": "Fagron heeft goedkeuring van de lokale autoriteiten ontvangen voor de overname van Vepakum in Brazilië en rondde de acquisitie van Magilab in Hongarije af. Dit maakte de magistrale bereider donderdagochtend bekend.",
     "published_at": "2026-02-05 07:31",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "83b989e34f5a8d3ce8cfec02a8032b2b",
@@ -357,7 +375,7 @@
     "link": "https://www.beurs.nl/Nieuws/852372/ArcelorMittal-boekt-bescheiden-winst.aspx",
     "intro": "ArcelorMittal heeft in het vierde kwartaal een grofweg stabiele omzet en een iets lagere EBITDA geboekt, terwijl er onder de streep weer zwarte cijfers werden geschreven, zoals ook werd verwacht. Dit bleek donderdagochtend uit de cijfers van de staalreus met een notering aan het Damrak.",
     "published_at": "2026-02-05 07:28",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "d138421c1cdb360c4d2ae92cc8c19d34",
@@ -366,7 +384,7 @@
     "link": "https://www.beurs.nl/Nieuws/852370/Omzet-Siemens-Healthineers-onder-druk.aspx",
     "intro": "Siemens Healthineers heeft in het afgelopen kwartaal de omzet zien dalen, maar op vergelijkbare basis zat de omzet wel in de lift. Dit bleek donderdag uit cijfers van de Duitse fabrikant van medische apparatuur, een concurrent van Philips.",
     "published_at": "2026-02-05 07:20",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "b4b85f2be7af670fefc44de0add6d01c",
@@ -375,7 +393,7 @@
     "link": "https://www.beurs.nl/Nieuws/852371/Aziatische-beurzen-noteren-in-het-rood.aspx",
     "intro": "De Aziatische beurzen gaven donderdagochtend terrein prijs. In Tokio daalde de Nikkei index met iets minder dan een procent, terwijl Sydney en Shanghai ongeveer een half procent prijs moesten geven.",
     "published_at": "2026-02-05 07:20",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "45829fe38a83c39a2fe6bd3efa932a57",
@@ -384,7 +402,7 @@
     "link": "https://www.beurs.nl/Nieuws/852368/Europese-beurzen-openen-in-het-rood.aspx",
     "intro": "De Europese beurzen gaan donderdag een lagere opening tegemoet, in afwachting van de rentebesluiten van de Europese Centrale Bank en de Bank of England.",
     "published_at": "2026-02-05 06:44",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "84eb792916864caed08f586be04b5810",
@@ -393,7 +411,7 @@
     "link": "https://www.beurs.nl/Nieuws/852364/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 12 februari 2026:",
     "published_at": "2026-02-05 06:37",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "3f1b659e395acdd906be1ad467b7f50c",
@@ -402,7 +420,7 @@
     "link": "https://www.beurs.nl/Nieuws/852365/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 12 februari 2026:",
     "published_at": "2026-02-05 06:37",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   },
   {
     "id": "bd02c6cddf23c199722eed8b978c25a2",
@@ -411,6 +429,6 @@
     "link": "https://www.beurs.nl/Nieuws/852366/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 12 februari 2026:",
     "published_at": "2026-02-05 06:37",
-    "scraped_at": "2026-02-05T19:50:27.057271"
+    "scraped_at": "2026-02-05T21:04:46.423123"
   }
 ]
