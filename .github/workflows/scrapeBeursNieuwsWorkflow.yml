@@ -29,6 +29,11 @@ jobs:
       - name: Run scraper
         run: python src/scraper.py
 
+      - name: Keep only latest 10 items
+        run: |
+          jq '.[0:10]' data/nieuws.json > data/nieuws_trimmed.json
+          mv data/nieuws_trimmed.json data/nieuws.json
+        
       - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
