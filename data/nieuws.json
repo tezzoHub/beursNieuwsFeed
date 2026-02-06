@@ -1,12 +1,30 @@
 [
   {
+    "id": "caa0dd9efe32b0de5f05736f6e3ddedf",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/852662/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-02-06 22:24",
+    "scraped_at": "2026-02-06T21:57:19.331954"
+  },
+  {
     "id": "d781b31e19a4314237d816dc4acb611b",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen hoger het weekend in",
     "link": "https://www.beurs.nl/Nieuws/852652/Olieprijzen-hoger-het-weekend-in.aspx",
     "intro": "De olieprijzen zijn vrijdag hoger gesloten, onder meer omdat beleggers vrezen dat onderhandelingen tussen Iran en de Verenigde Staten niet genoeg vooruitgang boeken om een militair conflict te voorkomen.",
     "published_at": "2026-02-06 21:25",
-    "scraped_at": "2026-02-06T21:02:40.429297"
+    "scraped_at": "2026-02-06T21:57:19.331954"
+  },
+  {
+    "id": "7d7cc318d826073b8ea416e7139bf3b6",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenkrediet VS verder gestegen",
+    "link": "https://www.beurs.nl/Nieuws/852651/Consumentenkrediet-VS-verder-gestegen.aspx",
+    "intro": "Het consumentenkrediet in de Verenigde Staten is in december verder gestegen dan in de maand ervoor. Dit maakte de Federal Reserve vrijdagavond bekend.",
+    "published_at": "2026-02-06 21:13",
+    "scraped_at": "2026-02-06T21:57:19.331954"
   },
   {
     "id": "d81fd8fce2ca25d6cfe11b68d4c76fe0",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/852650/Media-Amerikaanse-Justitie-onderzoekt-Netflix-bij-Warner-overname.aspx",
     "intro": "Het Amerikaanse ministerie van Justitie onderzoekt of Netflix zich schuldig maakt aan concurrentiebeperkend gedrag bij de voorgenomen overname van de studio's en streamingdienst HBO Max van Warner Discovery. Dit meldde The Wall Street Journal nadat men de dagvaarding had ingezien.",
     "published_at": "2026-02-06 20:58",
-    "scraped_at": "2026-02-06T21:02:40.429297"
+    "scraped_at": "2026-02-06T21:57:19.331954"
   },
   {
     "id": "cb9e901981718b7cc153d2410a1381db",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/852647/Dow-Jones-nadert-mijlpaal-van-50000-punten.aspx",
     "intro": "Amerikaanse technologieaandelen veerden vrijdag krachtig op na dagen van zware verkoopdruk, terwijl bitcoin zich herstelde van een dramatische koersval die de cryptomunt tijdelijk meer dan 50 procent lager bracht. De Dow Jones Index naderde daarbij zijn recordniveau en de mijlpaal van 50.000 punten.",
     "published_at": "2026-02-06 19:41",
-    "scraped_at": "2026-02-06T21:02:40.429297"
+    "scraped_at": "2026-02-06T21:57:19.331954"
   },
   {
     "id": "11b2cd090528866118d3661e990d9a20",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/852644/Europese-beurzen-sluiten-beweeglijke-week-positief-af.aspx",
     "intro": "De Europese beurzen zijn vrijdag hoger gesloten en daarmee kwam er een positief einde aan een beweeglijke week, met veel verschillen op index- en sectorniveau.",
     "published_at": "2026-02-06 18:48",
-    "scraped_at": "2026-02-06T21:02:40.429297"
+    "scraped_at": "2026-02-06T21:57:19.331954"
   },
   {
     "id": "00141be055fbca9c78969e3779804ed8",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/852637/Euronext-meldt-veel-hogere-volumes.aspx",
     "intro": "De handelsvolumes van contante effecten op Euronext zijn in januari flink hersteld, na twee maanden van dalingen. Dit maakte de Europese beursuitbater vrijdagavond bekend.",
     "published_at": "2026-02-06 18:11",
-    "scraped_at": "2026-02-06T21:02:40.429297"
+    "scraped_at": "2026-02-06T21:57:19.331954"
   },
   {
     "id": "f3f3d1fee3c7fa406d2fc4841bb6df29",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/852635/Staalbedrijven-en-chippers-in-trek-op-groen-Damrak.aspx",
     "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, met steun van de staalaandelen en de halfgeleidersector, terwijl databedrijven Wolters Kluwer en RELX opnieuw hard wegzakten.",
     "published_at": "2026-02-06 17:53",
-    "scraped_at": "2026-02-06T21:02:40.429297"
+    "scraped_at": "2026-02-06T21:57:19.331954"
   },
   {
     "id": "3f51e33d4b538271461bc17e446bdf65",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/852630/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 16 februari 2026:",
     "published_at": "2026-02-06 16:31",
-    "scraped_at": "2026-02-06T21:02:40.429297"
+    "scraped_at": "2026-02-06T21:57:19.331954"
   },
   {
     "id": "3cf935aa48fb9104671cb8faf2126399",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/852628/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 16 februari 2026:",
     "published_at": "2026-02-06 16:30",
-    "scraped_at": "2026-02-06T21:02:40.429297"
-  },
-  {
-    "id": "065ba65bd6658288b708f14c8b9d6252",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/852629/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 16 februari 2026:",
-    "published_at": "2026-02-06 16:30",
-    "scraped_at": "2026-02-06T21:02:40.429297"
-  },
-  {
-    "id": "18fa1f608917cd88bb8eedd712ecd128",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen VS verder gestegen",
-    "link": "https://www.beurs.nl/Nieuws/852626/Consumentenvertrouwen-VS-verder-gestegen.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in de eerste dagen van februari nog meer toegenomen, terwijl de inflatieverwachting juist verder daalde. Dit bleek vrijdag uit voorlopige cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-02-06 16:06",
-    "scraped_at": "2026-02-06T21:02:40.429297"
+    "scraped_at": "2026-02-06T21:57:19.331954"
   }
 ]
