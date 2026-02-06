@@ -1,12 +1,39 @@
 [
   {
-    "id": "9a959779a291d50e484d8c33cc259477",
+    "id": "ec2d47cb4ca35f57db335e9047d17e74",
     "categorie": "Beursnieuws",
-    "titel": "CM.com lanceert nieuwe dataplatform",
-    "link": "https://www.beurs.nl/Nieuws/852579/CMcom-lanceert-nieuwe-dataplatform.aspx",
+    "titel": "Europese beurzen hoger ondanks koersval Stellantis",
+    "link": "https://www.beurs.nl/Nieuws/852598/Europese-beurzen-hoger-ondanks-koersval-Stellantis.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden vrijdag overwegend hoger, waarbij de aandelen van autofabrikanten werden afgestraft na een waarschuwing van Stellantis.",
+    "published_at": "2026-02-06 12:31",
+    "scraped_at": "2026-02-06T11:51:15.145014"
+  },
+  {
+    "id": "a3c0dad59728f6f81553cfb782efd86a",
+    "categorie": "Beursnieuws",
+    "titel": "Exor onderuit op vlak Damrak",
+    "link": "https://www.beurs.nl/Nieuws/852587/Exor-onderuit-op-vlak-Damrak.aspx",
+    "intro": "De Amsterdamse beurs doet het vrijdag rustig aan, met een klein verlies van 0,1 procent voor de AEX, die richting het einde van de ochtend noteerde op 984,15 punten.",
+    "published_at": "2026-02-06 11:37",
+    "scraped_at": "2026-02-06T11:51:15.145014"
+  },
+  {
+    "id": "dfeb4fae10533aa957734f106ef6b946",
+    "categorie": "Beursnieuws",
+    "titel": "UBS houdt vast aan gedurfd koopadvies voor Stellantis",
+    "link": "https://www.beurs.nl/Nieuws/852586/UBS-houdt-vast-aan-gedurfd-koopadvies-voor-Stellantis.aspx",
+    "intro": "Stellantis meldde vrijdag dat het een afschrijving van 22 miljard euro moet doen en bezig is aan een herstructurering, waardoor er geen dividend wordt uitgekeerd; nieuws dat een forse negatieve koersreactie veroorzaakte, maar op termijn toch positief kan zijn voor het bedrijf en het aandeel. Dit oordeelde UBS in een analistenrapport.",
+    "published_at": "2026-02-06 11:23",
+    "scraped_at": "2026-02-06T11:51:15.145014"
+  },
+  {
+    "id": "2ea6fdfa760c7901b594a891a6c87fac",
+    "categorie": "Beursnieuws",
+    "titel": "CM.com lanceert nieuw dataplatform",
+    "link": "https://www.beurs.nl/Nieuws/852579/CMcom-lanceert-nieuw-dataplatform.aspx",
     "intro": "CM.com heeft een volledig nieuw dataplatform gelanceerd dat organisaties helpt hun data zo te organiseren dat AI meer waarde kan leveren in onder meer klantcontact en gepersonaliseerde communicatie. Dit maakte het bedrijf uit Breda vrijdag bekend.",
-    "published_at": "2026-02-06 10:48",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "published_at": "2026-02-06 10:50",
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "1fccc93e76d720a6f740aa7fb1266ad0",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/852572/Beursblik-Aperam-heeft-dieptepunt-achter-zich.aspx",
     "intro": "Aperam heeft in het vierde kwartaal aan de verwachtingen voldaan en \"het dieptepunt is nu achter de rug\". Dit schreef analist Frank Claassen van Degroof Petercam vrijdag in een rapport.",
     "published_at": "2026-02-06 10:11",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "4a40cc464d458057a4fc1b2b54dc3f27",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/852562/Duitse-export-veert-op-in-december.aspx",
     "intro": "De Duitse export is in december gestegen, na een daling in november. Dit bleek vrijdag uit cijfers van het Duitse statistiekbureau Destatis.",
     "published_at": "2026-02-06 09:51",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "b27de44bf5b180441049f4ca5e7c2639",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/852561/Productie-Duitse-industrie-gedaald-na-maanden-van-stijgingen.aspx",
     "intro": "De productie van de Duitse industrie is in december gedaald, na maanden van stijgingen. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-02-06 09:44",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "dddac0d3f5862c99d7a002f7a2946210",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/852552/AEX-lager-van-start-gegaan-met-RELX-en-Wolters-Kluwer-opnieuw-onderaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong 0,3 procent lager op 981,82 punten. Ook de Midkap daalde 0,3 procent.",
     "published_at": "2026-02-06 09:11",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "f2edf5fc6c546511ae4929d103fbf34d",
@@ -51,7 +78,7 @@
     "link": "https://www.iexprofs.nl/artikel/852541/Must-read-Big-tech-geeft-miljarden-uit-en-dat-maakt-beleggers-bang.aspx",
     "intro": "Er gaan dit jaar honderden miljarden naar AI. Van Amazon schrokken beleggers in ieder geval. Plus: een slappe dollar is geen probleem en wanneer gaat Apple door de helft?",
     "published_at": "2026-02-06 09:00",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "6bf9616b1a06d38a4c2e434678228b11",
@@ -60,7 +87,7 @@
     "link": "https://www.beurs.nl/Nieuws/852550/Deutsche-Bank-verhoogt-koersdoel-ArcelorMittal.aspx",
     "intro": "Deutsche Bank heeft vrijdag het koersdoel voor ArcelorMittal verhoogd van 47,00 naar 57,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Bastian Synagowitz.",
     "published_at": "2026-02-06 08:58",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "7db6eb7af909cc7897276aa752236091",
@@ -69,7 +96,7 @@
     "link": "https://www.beurs.nl/Nieuws/852542/Stellantis-levert-meer-autos-af.aspx",
     "intro": "Stellantis heeft in het vierde kwartaal van 2025 meer auto's afgeleverd. Dit bleek vrijdag uit de verkoopcijfers van de fabrikant van onder meer Fiat, Chrysler en Peugeot.",
     "published_at": "2026-02-06 08:38",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "c3561baa72c6eef152791a33512a13d7",
@@ -78,7 +105,7 @@
     "link": "https://www.beurs.nl/Nieuws/852539/Berenberg-haalt-Signify-van-de-kooplijst.aspx",
     "intro": "Berenberg heeft het advies voor Signify verlaagd van Kopen naar Houden en het koersdoel ging van 29,00 naar 21,00 euro. Dit bleek vrijdag uit een rapport van de zakenbank.",
     "published_at": "2026-02-06 08:20",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "6aaeb82dbec7ce04a6b9308550437fe2",
@@ -87,7 +114,7 @@
     "link": "https://www.beurs.nl/Nieuws/852536/AEX-start-handelsdag-afwachtend-na-terugval-op-Wall-Street.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer vlakke opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,1 procent.",
     "published_at": "2026-02-06 08:13",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "026e910a24bcf7fb45a1dbe387efb0a4",
@@ -96,7 +123,7 @@
     "link": "https://www.beurs.nl/Nieuws/852531/Aperam-houdt-dividend-op-peil.aspx",
     "intro": "Aperam heeft vrijdag voorgesteld om het basisdividend onveranderd te houden op 2,00 euro per aandeel.",
     "published_at": "2026-02-06 07:47",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "ccbdf37785d1e14f552578ccbdbbc3de",
@@ -105,7 +132,7 @@
     "link": "https://www.beurs.nl/Nieuws/852530/Consumptie-huishoudens-groeit-opnieuw.aspx",
     "intro": "In december 2025 hebben Nederlandse huishoudens 0,8 procent meer geconsumeerd dan in dezelfde periode een jaar eerder. Dit meldde het CBS vrijdagochtend.",
     "published_at": "2026-02-06 07:42",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "996eeb8ba536a7a9c329f95bda7f86ac",
@@ -114,7 +141,7 @@
     "link": "https://www.beurs.nl/Nieuws/852528/Aziatische-beurzen-noteren-overwegend-in-het-rood.aspx",
     "intro": "De Aziatische beurzen lieten vrijdagochtend een verdeeld beeld zien. In Tokio en Shanghai wonnen de hoofdindexen tot een half procent, terwijl de techgevoelige beurs in Seoel ongeveer twee procent prijs moest geven. In Hongkong, waar ook veel techbedrijven zijn genoteerd, liep het verlies op tot 0,8 procent.",
     "published_at": "2026-02-06 07:31",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "5f339dd54bffa26dac91eebbd5899999",
@@ -123,7 +150,7 @@
     "link": "https://www.beurs.nl/Nieuws/852525/Weinig-verrassende-cijfers-Aperam.aspx",
     "intro": "Aperam heeft in het vierde kwartaal de winstgevendheid conform verwachting zien dalen, maar rekent voor het lopende kwartaal op een herstel. Dit bleek vrijdagochtend uit de cijfers die de roestvrij staalreus presenteerde.",
     "published_at": "2026-02-06 07:15",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "e7553a66686d13e67f10a4d3c2d668d5",
@@ -132,7 +159,7 @@
     "link": "https://www.beurs.nl/Nieuws/852524/Europese-beurzen-openen-waarschijnlijk-verdeeld.aspx",
     "intro": "De Europese beurzen gaan vrijdag een verdeelde opening tegemoet. Het Amerikaanse banenrapport dat vanmiddag zou verschijnen, is uitgesteld naar volgende week.",
     "published_at": "2026-02-06 07:00",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "89436b6d763283a8f4a25aa52661423a",
@@ -141,7 +168,7 @@
     "link": "https://www.beurs.nl/Nieuws/852520/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 13 februari 2026:",
     "published_at": "2026-02-06 06:53",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "e28abacfa42c0393294090a4a4be8cf5",
@@ -150,7 +177,7 @@
     "link": "https://www.beurs.nl/Nieuws/852521/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 13 februari 2026:",
     "published_at": "2026-02-06 06:53",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   },
   {
     "id": "182d19c2d5ee23480312c729e70d453f",
@@ -159,6 +186,6 @@
     "link": "https://www.beurs.nl/Nieuws/852522/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 13 februari 2026:",
     "published_at": "2026-02-06 06:53",
-    "scraped_at": "2026-02-06T10:08:16.976359"
+    "scraped_at": "2026-02-06T11:51:15.145014"
   }
 ]
