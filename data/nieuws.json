@@ -1,92 +1,11 @@
 [
   {
-    "id": "caa0dd9efe32b0de5f05736f6e3ddedf",
+    "id": "60c2342f6010efbd3a28ce44acdeb833",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/852662/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-02-06 22:24",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "699bc433a127ca988af6d224f1ce69bf",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street flink hoger gesloten",
-    "link": "https://www.beurs.nl/Nieuws/852661/Wall-Street-flink-hoger-gesloten.aspx",
-    "intro": "De Amerikaanse aandelenmarkten zijn vrijdag flink hoger gesloten, terwijl de stijgingen over een breed front plaatsvonden en technologieaandelen opveerde na dagen van zware verkoopdruk. De Dow Jones Index bereikte daardoor een slotstand boven de mijlpaal van 50.000 punten.",
-    "published_at": "2026-02-06 22:17",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "d781b31e19a4314237d816dc4acb611b",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen hoger het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/852652/Olieprijzen-hoger-het-weekend-in.aspx",
-    "intro": "De olieprijzen zijn vrijdag hoger gesloten, onder meer omdat beleggers vrezen dat onderhandelingen tussen Iran en de Verenigde Staten niet genoeg vooruitgang boeken om een militair conflict te voorkomen.",
-    "published_at": "2026-02-06 21:25",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "7d7cc318d826073b8ea416e7139bf3b6",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenkrediet VS verder gestegen",
-    "link": "https://www.beurs.nl/Nieuws/852651/Consumentenkrediet-VS-verder-gestegen.aspx",
-    "intro": "Het consumentenkrediet in de Verenigde Staten is in december verder gestegen dan in de maand ervoor. Dit maakte de Federal Reserve vrijdagavond bekend.",
-    "published_at": "2026-02-06 21:13",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "d81fd8fce2ca25d6cfe11b68d4c76fe0",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Amerikaanse Justitie onderzoekt Netflix bij Warner-overname",
-    "link": "https://www.beurs.nl/Nieuws/852650/Media-Amerikaanse-Justitie-onderzoekt-Netflix-bij-Warner-overname.aspx",
-    "intro": "Het Amerikaanse ministerie van Justitie onderzoekt of Netflix zich schuldig maakt aan concurrentiebeperkend gedrag bij de voorgenomen overname van de studio's en streamingdienst HBO Max van Warner Discovery. Dit meldde The Wall Street Journal nadat men de dagvaarding had ingezien.",
-    "published_at": "2026-02-06 20:58",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "cb9e901981718b7cc153d2410a1381db",
-    "categorie": "Beursnieuws",
-    "titel": "Dow Jones nadert mijlpaal van 50.000 punten",
-    "link": "https://www.beurs.nl/Nieuws/852647/Dow-Jones-nadert-mijlpaal-van-50000-punten.aspx",
-    "intro": "Amerikaanse technologieaandelen veerden vrijdag krachtig op na dagen van zware verkoopdruk, terwijl bitcoin zich herstelde van een dramatische koersval die de cryptomunt tijdelijk meer dan 50 procent lager bracht. De Dow Jones Index naderde daarbij zijn recordniveau en de mijlpaal van 50.000 punten.",
-    "published_at": "2026-02-06 19:41",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "11b2cd090528866118d3661e990d9a20",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten beweeglijke week positief af",
-    "link": "https://www.beurs.nl/Nieuws/852644/Europese-beurzen-sluiten-beweeglijke-week-positief-af.aspx",
-    "intro": "De Europese beurzen zijn vrijdag hoger gesloten en daarmee kwam er een positief einde aan een beweeglijke week, met veel verschillen op index- en sectorniveau.",
-    "published_at": "2026-02-06 18:48",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "00141be055fbca9c78969e3779804ed8",
-    "categorie": "Beursnieuws",
-    "titel": "Euronext meldt veel hogere volumes",
-    "link": "https://www.beurs.nl/Nieuws/852637/Euronext-meldt-veel-hogere-volumes.aspx",
-    "intro": "De handelsvolumes van contante effecten op Euronext zijn in januari flink hersteld, na twee maanden van dalingen. Dit maakte de Europese beursuitbater vrijdagavond bekend.",
-    "published_at": "2026-02-06 18:11",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "f3f3d1fee3c7fa406d2fc4841bb6df29",
-    "categorie": "Beursnieuws",
-    "titel": "Staalbedrijven en chippers in trek op groen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/852635/Staalbedrijven-en-chippers-in-trek-op-groen-Damrak.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, met steun van de staalaandelen en de halfgeleidersector, terwijl databedrijven Wolters Kluwer en RELX opnieuw hard wegzakten.",
-    "published_at": "2026-02-06 17:53",
-    "scraped_at": "2026-02-07T10:57:36.740336"
-  },
-  {
-    "id": "3f51e33d4b538271461bc17e446bdf65",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/852630/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 16 februari 2026:",
-    "published_at": "2026-02-06 16:31",
-    "scraped_at": "2026-02-07T10:57:36.740336"
+    "titel": "AEX verliest grip op 1.000 punten door AI-zorgen",
+    "link": "https://www.beurs.nl/Nieuws/852681/AEX-verliest-grip-op-1000-punten-door-AI-zorgen.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week onder de 1.000 punten gezakt, als gevolg van de toenemende zorgen over de impact van kunstmatige intelligentie op de activiteiten van software- en databedrijven, maar ook de torenhoge investeringen in AI die de grote Amerikaanse techreuzen aankondigden.",
+    "published_at": "2026-02-07 12:25",
+    "scraped_at": "2026-02-07T11:44:35.472007"
   }
 ]
