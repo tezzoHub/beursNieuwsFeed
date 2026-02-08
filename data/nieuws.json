@@ -1,20 +1,11 @@
 [
   {
-    "id": "15c36ff7552a6d779927b625997d8b75",
+    "id": "e273cdf0c6d290647a0355316e09594a",
     "categorie": "Beursnieuws",
-    "titel": "Focus op uitgesteld Amerikaans banenrapport en inflatiecijfer",
-    "link": "https://www.beurs.nl/Nieuws/852684/Focus-op-uitgesteld-Amerikaans-banenrapport-en-inflatiecijfer.aspx",
-    "intro": "De komende beursweek staat vooral in het teken van een stroom aan bedrijfscijfers uit binnen- en buitenland, terwijl het op macro-economisch vlak allemaal wat rustiger is. Wel staat komende woensdag het Amerikaanse banenrapport op de agenda. Het rapport werd afgelopen week nog uitgesteld vanwege een kortstondige shutdown in de VS.",
-    "published_at": "2026-02-07 12:58",
-    "scraped_at": "2026-02-08T07:51:33.943799"
-  },
-  {
-    "id": "60c2342f6010efbd3a28ce44acdeb833",
-    "categorie": "Beursnieuws",
-    "titel": "AEX verliest grip op 1.000 punten door AI-zorgen",
-    "link": "https://www.beurs.nl/Nieuws/852681/AEX-verliest-grip-op-1000-punten-door-AI-zorgen.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week onder de 1.000 punten gezakt, als gevolg van de toenemende zorgen over de impact van kunstmatige intelligentie op de activiteiten van software- en databedrijven, maar ook de torenhoge investeringen in AI die de grote Amerikaanse techreuzen aankondigden.",
-    "published_at": "2026-02-07 12:25",
-    "scraped_at": "2026-02-08T07:51:33.943799"
+    "titel": "Pijnlijke week voor databedrijven en chippers",
+    "link": "https://www.beurs.nl/Nieuws/852695/Pijnlijke-week-voor-databedrijven-en-chippers.aspx",
+    "intro": "De techzware AEX verloor afgelopen week de grip op de 1.000 punten, vanwege de zorgen over de impact van kunstmatige intelligentie die bestaande software zou kunnen vervangen, terwijl ook de gigantische investeringen in AI voor twijfels zorgden.",
+    "published_at": "2026-02-08 09:44",
+    "scraped_at": "2026-02-08T09:01:58.406874"
   }
 ]
