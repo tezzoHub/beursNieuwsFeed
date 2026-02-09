@@ -1,12 +1,57 @@
 [
   {
+    "id": "9aae07ff1f78c57cdd0b8e72568b5ee9",
+    "categorie": "Beursnieuws",
+    "titel": "Licht lagere opening van Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/852824/Licht-lagere-opening-van-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een vlakke tot licht lagere opening tegemoet, na de sterke winsten van vorige week vrijdag.",
+    "published_at": "2026-02-09 14:56",
+    "scraped_at": "2026-02-09T14:41:20.225091"
+  },
+  {
+    "id": "1f35439ad736f80323942f00802763d9",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: vertrouwen in outlook Philips",
+    "link": "https://www.beurs.nl/Nieuws/852818/Beursblik-vertrouwen-in-outlook-Philips.aspx",
+    "intro": "Philips heeft in 2025 de eigen outlook gehaald, zo verwachten analisten die bijdroegen aan de bedrijfsconsensus.",
+    "published_at": "2026-02-09 14:08",
+    "scraped_at": "2026-02-09T14:41:20.225091"
+  },
+  {
+    "id": "80408dc19b29c885e2bbc9ded8043226",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street wijzen omlaag",
+    "link": "https://www.beurs.nl/Nieuws/852814/Futures-Wall-Street-wijzen-omlaag.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een licht lagere opening tegemoet, na de sterke winsten van vorige week vrijdag.",
+    "published_at": "2026-02-09 13:17",
+    "scraped_at": "2026-02-09T14:41:20.225091"
+  },
+  {
+    "id": "95710311fc10f8a8ee19dd3ec6474ace",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse justitie staakt onderzoek tegen Symrise",
+    "link": "https://www.beurs.nl/Nieuws/852811/Amerikaanse-justitie-staakt-onderzoek-tegen-Symrise.aspx",
+    "intro": "Het Amerikaanse ministerie van Justitie heeft een onderzoek naar het Duitse Symrise gestaakt, dat verband hield met kartelvorming. Dit meldde de geurenproducent maandag.",
+    "published_at": "2026-02-09 13:07",
+    "scraped_at": "2026-02-09T14:41:20.225091"
+  },
+  {
+    "id": "d1cf113c08d9aaec3465cc39029b0e06",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen voorzichtig rond lunchtijd",
+    "link": "https://www.beurs.nl/Nieuws/852806/Europese-beurzen-voorzichtig-rond-lunchtijd.aspx",
+    "intro": "De aandelenmarkten in Europa bleven maandag rond lunchtijd dicht bij huis, na een weinig spannende ochtend.",
+    "published_at": "2026-02-09 12:41",
+    "scraped_at": "2026-02-09T14:41:20.225091"
+  },
+  {
     "id": "14578047e03f98d3054f4bea2606b626",
     "categorie": "Beursnieuws",
     "titel": "Adyen versterkt samenwerking met Uber",
     "link": "https://www.beurs.nl/Nieuws/852799/Adyen-versterkt-samenwerking-met-Uber.aspx",
     "intro": "Adyen en Uber breiden hun wereldwijde samenwerking uit om de betalingsverwerking in de belangrijkste regio's van Uber te ondersteunen. Dit maakte het Amsterdamse betaalbedrijf maandag bekend.",
     "published_at": "2026-02-09 12:02",
-    "scraped_at": "2026-02-09T11:13:55.020232"
+    "scraped_at": "2026-02-09T14:41:20.225091"
   },
   {
     "id": "e5a9c0485e5fd4c7b1f5cc90c3516148",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/852797/Valuta-euro-sterker-na-verkiezingsoverwinning-Takaichi.aspx",
     "intro": "De euro steeg maandag tegenover de Amerikaanse dollar, na de afgetekende verkiezingsoverwinning voor de coalitie van de Japanse premier Sanae Takaichi.",
     "published_at": "2026-02-09 11:30",
-    "scraped_at": "2026-02-09T11:13:55.020232"
+    "scraped_at": "2026-02-09T14:41:20.225091"
   },
   {
     "id": "b18ed3b25dff70cd48b07bb4b74d7b91",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/852789/InPost-en-DSM-bepalen-beeld-op-vlak-Damrak.aspx",
     "intro": "De Amsterdamse AEX deed het maandagochtend rustig aan. De hoofdindex daalde met 0,1 procent naar 994,01 punten, waarbij de koerswinst voor InPost opviel, net als de daling van DSM-Firmenich.",
     "published_at": "2026-02-09 11:12",
-    "scraped_at": "2026-02-09T11:13:55.020232"
+    "scraped_at": "2026-02-09T14:41:20.225091"
   },
   {
     "id": "b697bdf198887d14d11531b67ea5b1ea",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/852782/Beursblik-overnamebod-op-InPost-biedt-premie-van-50-procent.aspx",
     "intro": "Het overnamebod op InPost van 15,60 euro per aandeel door een consortium van Advent, FedEx, AR en PPF biedt een premie van 50 procent op de koers voordat er sprake was van een overname. Dat stelde Jefferies maandag in een rapport.",
     "published_at": "2026-02-09 10:30",
-    "scraped_at": "2026-02-09T11:13:55.020232"
+    "scraped_at": "2026-02-09T14:41:20.225091"
   },
   {
     "id": "76e2709964650469bcb035caa269c7a8",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/852777/Beursblik-desinvestering-Animal-Nutrition-door-DSM-Firmenich-zorgt-voor-teleurstelling.aspx",
     "intro": "De verkoop van de divisies Animal Nutrition and Health is vermoedelijk niet de 'trigger' waarop de markt wachtte. Dit stelden analisten van Citi Research maandag in een rapport.",
     "published_at": "2026-02-09 10:16",
-    "scraped_at": "2026-02-09T11:13:55.020232"
-  },
-  {
-    "id": "e8813c3d5c16355f1282fc0012c679ee",
-    "categorie": "IEXProfs",
-    "titel": "Must read: Japanse premier Sanae Takaichi heeft gegokt en gewonnen",
-    "link": "https://www.iexprofs.nl/artikel/852768/Must-read-Japanse-premier-Sanae-Takaichi-heeft-gegokt-en-gewonnen.aspx",
-    "intro": "Plus: van greenwashing naar greenhushing, China wil einde aan dollardominantie, het gaat verkeerd met de Amerikaanse arbeidsmarkt, Robeco houdt vast aan thema's, en veel meer.",
-    "published_at": "2026-02-09 10:00",
-    "scraped_at": "2026-02-09T11:13:55.020232"
-  },
-  {
-    "id": "01d8b7649c0813c21b26cf973ae87802",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: resultaten NX Filtration iets beter dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/852775/Beursblik-resultaten-NX-Filtration-iets-beter-dan-verwacht.aspx",
-    "intro": "NX Filtration heeft iets beter dan verwacht gepresteerd, na de omzetwaarschuwing van december vorig jaar. Dit bleek maandag uit een analistenrapport.",
-    "published_at": "2026-02-09 09:58",
-    "scraped_at": "2026-02-09T11:13:55.020232"
-  },
-  {
-    "id": "172a3bb5f099553796f60b2bbbc4bb6d",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies: opbrengst desinvestering DSM-Firmenich onzeker",
-    "link": "https://www.beurs.nl/Nieuws/852769/Jefferies-opbrengst-desinvestering-DSM-Firmenich-onzeker.aspx",
-    "intro": "De desinvestering van de diervoedingstak van DSM-Firmenich is positief, stelden analisten van Jefferies, maar de beperkte directe betaling en de relatief grote earn-out kan vragen oproepen over de gerealiseerde waarde.",
-    "published_at": "2026-02-09 09:12",
-    "scraped_at": "2026-02-09T11:13:55.020232"
-  },
-  {
-    "id": "9699c394b7805d9d093542ef11e9a0cd",
-    "categorie": "Beursnieuws",
-    "titel": "InPost uitblinker op groen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/852766/InPost-uitblinker-op-groen-Damrak.aspx",
-    "intro": "De AEX index koerste maandag kort na de beursgong 0,1 procent hoger naar 996,28 punten, terwijl de Midkap 0,3 procent won.",
-    "published_at": "2026-02-09 09:10",
-    "scraped_at": "2026-02-09T11:13:55.020232"
-  },
-  {
-    "id": "b96e4408dbcb4c0efa2559c4c0416fd7",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel Aperam fors",
-    "link": "https://www.beurs.nl/Nieuws/852765/Deutsche-Bank-verhoogt-koersdoel-Aperam-fors.aspx",
-    "intro": "Deutsche Bank heeft maandag het koersdoel voor Aperam verhoogd van 42,00 naar 62,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Bastian Synagowitz.",
-    "published_at": "2026-02-09 08:59",
-    "scraped_at": "2026-02-09T11:13:55.020232"
+    "scraped_at": "2026-02-09T14:41:20.225091"
   }
 ]
