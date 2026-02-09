@@ -1,11 +1,92 @@
 [
   {
-    "id": "e273cdf0c6d290647a0355316e09594a",
+    "id": "ca55fe73d10cfd2c00323caf98257caa",
     "categorie": "Beursnieuws",
-    "titel": "Pijnlijke week voor databedrijven en chippers",
-    "link": "https://www.beurs.nl/Nieuws/852695/Pijnlijke-week-voor-databedrijven-en-chippers.aspx",
-    "intro": "De techzware AEX verloor afgelopen week de grip op de 1.000 punten, vanwege de zorgen over de impact van kunstmatige intelligentie die bestaande software zou kunnen vervangen, terwijl ook de gigantische investeringen in AI voor twijfels zorgden.",
-    "published_at": "2026-02-08 09:44",
-    "scraped_at": "2026-02-09T05:49:05.165904"
+    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel Aperam fors",
+    "link": "https://www.beurs.nl/Nieuws/852765/Beursblik-Deutsche-Bank-verhoogt-koersdoel-Aperam-fors.aspx",
+    "intro": "Deutsche Bank heeft maandag het koersdoel voor Aperam verhoogd  van 42,00 naar 62,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Bastian Synagowitz.",
+    "published_at": "2026-02-09 08:59",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "4f84dba46aaf4c25f66011fb63bd8623",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Deutsche Bank haalt Unilever van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/852762/Beursblik-Deutsche-Bank-haalt-Unilever-van-de-kooplijst.aspx",
+    "intro": "Deutsche Bank heeft maandag het advies voor Unilever verlaagd van Kopen naar Houden. Het koersdoel bleef ongewijzigd op 51,50 Britse pond. Dit bleek uit een rapport van analist Tom Sykes.",
+    "published_at": "2026-02-09 08:48",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "175c6ad89f65bbe0cc34734bc3a4b4e3",
+    "categorie": "Voorbeurs",
+    "titel": "Vlak beursje en lege agenda, maar breaking nieuws over DSM-Firmenich en InPost",
+    "link": "https://www.beurs.nl/Artikel/852743/Vlak-beursje-en-lege-agenda-maar-breaking-nieuws-over-DSM-Firmenich-en-InPost.aspx",
+    "intro": "Openingsindicatie: +0,1%. Techrally in Azië, breaking nieuws over DSM-Firmenich en InPost, ASML ex-dividend en goud en zilver weer in de lift.",
+    "published_at": "2026-02-09 08:25",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "43a1a33b8444872c66c5f280d7d70d9c",
+    "categorie": "Beursnieuws",
+    "titel": "GBL investeert in Rayner",
+    "link": "https://www.beurs.nl/Nieuws/852756/GBL-investeert-in-Rayner.aspx",
+    "intro": "Groep Brussel Lambert heeft definitieve overeenkomsten ondertekend voor de overname van een 45 procent 'co-controlerend belang' in Rayner, een toonaangevende producent van intraoculaire lenzen en aanverwante producten. Dit meldde GBL maandag voorbeurs.",
+    "published_at": "2026-02-09 08:14",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "7edd8dfbb9435195441b4dd7e10be7fa",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsweek vermoedelijk in het groen",
+    "link": "https://www.beurs.nl/Nieuws/852750/AEX-start-handelsweek-vermoedelijk-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag naar verwachting hoger van start. Futures op de AEX-index wezen ongeveer een uur voor de beursgong op een winst van 0,4 procent.",
+    "published_at": "2026-02-09 08:01",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "813c8231e09f37d21de97f4c5e95bb03",
+    "categorie": "Beursnieuws",
+    "titel": "NX Filtration verkleint verlies",
+    "link": "https://www.beurs.nl/Nieuws/852747/NX-Filtration-verkleint-verlies.aspx",
+    "intro": "NX Filtration heeft de omzetgroei in de tweede helft van het jaar zien versnellen, terwijl het operationele verlies daalde. Dit maakte het nanofilterbedrijf maandagochtend bekend, toevoegend dat het op koers ligt voor de doelen op middellange termijn",
+    "published_at": "2026-02-09 07:44",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "841f9511384a1160c7b0b5902fa2ae9a",
+    "categorie": "Beursnieuws",
+    "titel": "Bod van 15,60 euro per aandeel InPost",
+    "link": "https://www.beurs.nl/Nieuws/852746/Bod-van-1560-euro-per-aandeel-InPost.aspx",
+    "intro": "InPost heeft een overnamebod ontvangen van 15,60 euro per aandeel. Dit maakte het Poolse bedrijf in pakketkluisjes met een notering aan het Amsterdamse Damrak maandag voorbeurs bekend.",
+    "published_at": "2026-02-09 07:37",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "b5b8e1cdab72fce4d3de4a37641d32ec",
+    "categorie": "Beursnieuws",
+    "titel": "Japanse beurs op recordstand na verkiezingsoverwinning Takaichi",
+    "link": "https://www.beurs.nl/Nieuws/852741/Japanse-beurs-op-recordstand-na-verkiezingsoverwinning-Takaichi.aspx",
+    "intro": "De Aziatische beurzen koersten maandagochtend overtuigend in het groen. In Sydney en Hongkong wonnen de hoofdindices tot twee procent, terwijl de Nikkei index in Tokio de absolute uitblinker was met een koersstijging van 4,4 procent.",
+    "published_at": "2026-02-09 07:19",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "162f7b2e18d748d665c72cfed3ec7a39",
+    "categorie": "Beursnieuws",
+    "titel": "DSM-Firmenich verkoopt diervoedingstak aan CVC",
+    "link": "https://www.beurs.nl/Nieuws/852740/DSM-Firmenich-verkoopt-diervoedingstak-aan-CVC.aspx",
+    "intro": "DSM-Firmenich heeft een akkoord bereikt met CVC Capital Partners over de verkoop van de divisie Animal Nutrition  Health voor een ondernemingswaarde van 2,2 miljard euro. Dit maakte DSM-Firmenich maandag voorbeurs bekend.",
+    "published_at": "2026-02-09 07:14",
+    "scraped_at": "2026-02-09T08:05:56.364038"
+  },
+  {
+    "id": "10337d5ac147ef282e30399e2dcc462e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen waarschijnlijk hoger",
+    "link": "https://www.beurs.nl/Nieuws/852738/Europese-beurzen-openen-waarschijnlijk-hoger.aspx",
+    "intro": "De Europese beurzen gaan maandag een groene opening tegemoet, terwijl het cijferseizoen doordendert en beleggers woensdag veel aandacht zullen hebben voor de uitgestelde officiële banencijfers van de VS. IG voorziet een openingswinst van 98 punten voor de Duitse DAX en een plus van 37 punten voor de Franse CAC 40. De Britse FTSE lijkt 45 punten hoger te zullen openen.",
+    "published_at": "2026-02-09 07:00",
+    "scraped_at": "2026-02-09T08:05:56.364038"
   }
 ]
