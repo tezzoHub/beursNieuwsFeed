@@ -1,12 +1,66 @@
 [
   {
+    "id": "0507b86953fb4ba61433f8a13083fc17",
+    "categorie": "Beursnieuws",
+    "titel": "Overnamebod geeft InPost een impuls in lichtgroene AEX",
+    "link": "https://www.beurs.nl/Nieuws/852853/Overnamebod-geeft-InPost-een-impuls-in-lichtgroene-AEX.aspx",
+    "intro": "De Amsterdamse beurs is de nieuwe week rustig begonnen, waarbij bedrijfsnieuws individuele aandelen in beweging zette.",
+    "published_at": "2026-02-09 17:51",
+    "scraped_at": "2026-02-09T17:39:32.458749"
+  },
+  {
+    "id": "1e9a548d5dc15ae2830a491f8ca71339",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/852845/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 17 februari 2026:",
+    "published_at": "2026-02-09 16:27",
+    "scraped_at": "2026-02-09T17:39:32.458749"
+  },
+  {
+    "id": "19e93ad2fd2eaee420e82193fada0eed",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/852844/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 17 februari 2026:",
+    "published_at": "2026-02-09 16:27",
+    "scraped_at": "2026-02-09T17:39:32.458749"
+  },
+  {
+    "id": "e9b16d918ddd631a8965e72eea9735f1",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/852843/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 17 februari 2026:",
+    "published_at": "2026-02-09 16:26",
+    "scraped_at": "2026-02-09T17:39:32.458749"
+  },
+  {
+    "id": "8d71e62f4abb19aa12ae4a56c0574c67",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: iets meer omzet voor Ahold maar lagere marge verwacht",
+    "link": "https://www.beurs.nl/Nieuws/852839/Beursblik-iets-meer-omzet-voor-Ahold-maar-lagere-marge-verwacht.aspx",
+    "intro": "Ahold Delhaize heeft in het vierde kwartaal van 2025 naar verwachting iets meer omzet behaald, maar de marge zou op jaarbasis zijn gedaald. Dit blijkt uit de analistenconsensus die het supermarktbedrijf zelf samenstelde en publiceerde in aanloop naar de kwartaalcijfers op woensdagochtend.",
+    "published_at": "2026-02-09 15:52",
+    "scraped_at": "2026-02-09T17:39:32.458749"
+  },
+  {
+    "id": "72e063f89f344cc97cd5a52bf0a46ac2",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Alfen haalt eigen outlook net",
+    "link": "https://www.beurs.nl/Nieuws/852833/Beursblik-Alfen-haalt-eigen-outlook-net.aspx",
+    "intro": "Alfen heeft in 2025 de eigen outlook gehaald, maar kwam wel uit aan de onderkant van de afgegeven bandbreedtes. Dit bleek uit een consensusverwachting van analisten die het bedrijf verzamelde.",
+    "published_at": "2026-02-09 15:39",
+    "scraped_at": "2026-02-09T17:39:32.458749"
+  },
+  {
     "id": "9aae07ff1f78c57cdd0b8e72568b5ee9",
     "categorie": "Beursnieuws",
     "titel": "Licht lagere opening van Wall Street voorzien",
     "link": "https://www.beurs.nl/Nieuws/852824/Licht-lagere-opening-van-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een vlakke tot licht lagere opening tegemoet, na de sterke winsten van vorige week vrijdag.",
     "published_at": "2026-02-09 14:56",
-    "scraped_at": "2026-02-09T14:41:20.225091"
+    "scraped_at": "2026-02-09T17:39:32.458749"
   },
   {
     "id": "1f35439ad736f80323942f00802763d9",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/852818/Beursblik-vertrouwen-in-outlook-Philips.aspx",
     "intro": "Philips heeft in 2025 de eigen outlook gehaald, zo verwachten analisten die bijdroegen aan de bedrijfsconsensus.",
     "published_at": "2026-02-09 14:08",
-    "scraped_at": "2026-02-09T14:41:20.225091"
+    "scraped_at": "2026-02-09T17:39:32.458749"
   },
   {
     "id": "80408dc19b29c885e2bbc9ded8043226",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/852814/Futures-Wall-Street-wijzen-omlaag.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een licht lagere opening tegemoet, na de sterke winsten van vorige week vrijdag.",
     "published_at": "2026-02-09 13:17",
-    "scraped_at": "2026-02-09T14:41:20.225091"
+    "scraped_at": "2026-02-09T17:39:32.458749"
   },
   {
     "id": "95710311fc10f8a8ee19dd3ec6474ace",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/852811/Amerikaanse-justitie-staakt-onderzoek-tegen-Symrise.aspx",
     "intro": "Het Amerikaanse ministerie van Justitie heeft een onderzoek naar het Duitse Symrise gestaakt, dat verband hield met kartelvorming. Dit meldde de geurenproducent maandag.",
     "published_at": "2026-02-09 13:07",
-    "scraped_at": "2026-02-09T14:41:20.225091"
-  },
-  {
-    "id": "d1cf113c08d9aaec3465cc39029b0e06",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen voorzichtig rond lunchtijd",
-    "link": "https://www.beurs.nl/Nieuws/852806/Europese-beurzen-voorzichtig-rond-lunchtijd.aspx",
-    "intro": "De aandelenmarkten in Europa bleven maandag rond lunchtijd dicht bij huis, na een weinig spannende ochtend.",
-    "published_at": "2026-02-09 12:41",
-    "scraped_at": "2026-02-09T14:41:20.225091"
-  },
-  {
-    "id": "14578047e03f98d3054f4bea2606b626",
-    "categorie": "Beursnieuws",
-    "titel": "Adyen versterkt samenwerking met Uber",
-    "link": "https://www.beurs.nl/Nieuws/852799/Adyen-versterkt-samenwerking-met-Uber.aspx",
-    "intro": "Adyen en Uber breiden hun wereldwijde samenwerking uit om de betalingsverwerking in de belangrijkste regio's van Uber te ondersteunen. Dit maakte het Amsterdamse betaalbedrijf maandag bekend.",
-    "published_at": "2026-02-09 12:02",
-    "scraped_at": "2026-02-09T14:41:20.225091"
-  },
-  {
-    "id": "e5a9c0485e5fd4c7b1f5cc90c3516148",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: euro sterker na verkiezingsoverwinning Takaichi",
-    "link": "https://www.beurs.nl/Nieuws/852797/Valuta-euro-sterker-na-verkiezingsoverwinning-Takaichi.aspx",
-    "intro": "De euro steeg maandag tegenover de Amerikaanse dollar, na de afgetekende verkiezingsoverwinning voor de coalitie van de Japanse premier Sanae Takaichi.",
-    "published_at": "2026-02-09 11:30",
-    "scraped_at": "2026-02-09T14:41:20.225091"
-  },
-  {
-    "id": "b18ed3b25dff70cd48b07bb4b74d7b91",
-    "categorie": "Beursnieuws",
-    "titel": "InPost en DSM bepalen beeld op vlak Damrak",
-    "link": "https://www.beurs.nl/Nieuws/852789/InPost-en-DSM-bepalen-beeld-op-vlak-Damrak.aspx",
-    "intro": "De Amsterdamse AEX deed het maandagochtend rustig aan. De hoofdindex daalde met 0,1 procent naar 994,01 punten, waarbij de koerswinst voor InPost opviel, net als de daling van DSM-Firmenich.",
-    "published_at": "2026-02-09 11:12",
-    "scraped_at": "2026-02-09T14:41:20.225091"
-  },
-  {
-    "id": "b697bdf198887d14d11531b67ea5b1ea",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: overnamebod op InPost biedt premie van 50 procent",
-    "link": "https://www.beurs.nl/Nieuws/852782/Beursblik-overnamebod-op-InPost-biedt-premie-van-50-procent.aspx",
-    "intro": "Het overnamebod op InPost van 15,60 euro per aandeel door een consortium van Advent, FedEx, AR en PPF biedt een premie van 50 procent op de koers voordat er sprake was van een overname. Dat stelde Jefferies maandag in een rapport.",
-    "published_at": "2026-02-09 10:30",
-    "scraped_at": "2026-02-09T14:41:20.225091"
-  },
-  {
-    "id": "76e2709964650469bcb035caa269c7a8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: desinvestering Animal Nutrition door DSM-Firmenich zorgt voor teleurstelling",
-    "link": "https://www.beurs.nl/Nieuws/852777/Beursblik-desinvestering-Animal-Nutrition-door-DSM-Firmenich-zorgt-voor-teleurstelling.aspx",
-    "intro": "De verkoop van de divisies Animal Nutrition and Health is vermoedelijk niet de 'trigger' waarop de markt wachtte. Dit stelden analisten van Citi Research maandag in een rapport.",
-    "published_at": "2026-02-09 10:16",
-    "scraped_at": "2026-02-09T14:41:20.225091"
+    "scraped_at": "2026-02-09T17:39:32.458749"
   }
 ]
