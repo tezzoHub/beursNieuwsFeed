@@ -1,12 +1,84 @@
 [
   {
+    "id": "d796d44c421485fecd034173deded8b9",
+    "categorie": "Beursnieuws",
+    "titel": "Havas betreedt Scandinavische markt",
+    "link": "https://www.beurs.nl/Nieuws/852922/Havas-betreedt-Scandinavische-markt.aspx",
+    "intro": "Havas heeft een meerderheidsbelang in Ctrl Digital genomen en betreedt hiermee de Zweedse en Scandinavische markt. Dit meldde het Franse bedrijf met een notering aan Euronext Amsterdam dinsdagochtend.",
+    "published_at": "2026-02-10 08:49",
+    "scraped_at": "2026-02-10T08:08:49.325342"
+  },
+  {
+    "id": "f257c01e5adb41aa6254ec9d43d8c0bc",
+    "categorie": "Beursnieuws",
+    "titel": "BP schort aandeleninkopen op",
+    "link": "https://www.beurs.nl/Nieuws/852916/BP-schort-aandeleninkopen-op.aspx",
+    "intro": "BP gaat in 2026 minder investeren en schort zijn aandeleninkoopprogramma op. Dit bleek dinsdag uit de cijfers van het Britse energieconcern.",
+    "published_at": "2026-02-10 08:27",
+    "scraped_at": "2026-02-10T08:08:49.325342"
+  },
+  {
+    "id": "309483c959ecb6fad3a595efc446d179",
+    "categorie": "Beursnieuws",
+    "titel": "Exclusief: CEO Roy Jakobs licht jaarcijfers en outlook Philips toe",
+    "link": "https://www.beurs.nl/Nieuws/852915/Exclusief-CEO-Roy-Jakobs-licht-jaarcijfers-en-outlook-Philips-toe.aspx",
+    "intro": "Philips heeft dinsdag meevallende cijfers over 2025 gepresenteerd met onder meer een marge die hoger uitviel dan verwacht.",
+    "published_at": "2026-02-10 08:25",
+    "scraped_at": "2026-02-10T08:08:49.325342"
+  },
+  {
+    "id": "f2e06a9f0ab6ffffa14bb5b1f90eac6f",
+    "categorie": "Beursnieuws",
+    "titel": "Gucci-moeder Kering krimpt iets minder hard",
+    "link": "https://www.beurs.nl/Nieuws/852910/Gucci-moeder-Kering-krimpt-iets-minder-hard.aspx",
+    "intro": "Kering is in het vierde kwartaal van 2025 iets minder hard gekrompen, terwijl de omzet op jaarbasis afnam. Dit bleek dinsdagochtend uit de cijfers van het Franse moederbedrijf van onder meer Gucci.",
+    "published_at": "2026-02-10 07:57",
+    "scraped_at": "2026-02-10T08:08:49.325342"
+  },
+  {
+    "id": "17fc23970caeaf234693c6f7931b8b1d",
+    "categorie": "Beursnieuws",
+    "titel": "AEX maakt zich op voor terughoudende opening",
+    "link": "https://www.beurs.nl/Nieuws/852908/AEX-maakt-zich-op-voor-terughoudende-opening.aspx",
+    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een min of meer vlakke opening.",
+    "published_at": "2026-02-10 07:52",
+    "scraped_at": "2026-02-10T08:08:49.325342"
+  },
+  {
+    "id": "63c0a779dc3939a8c149292fc94beca3",
+    "categorie": "Beursnieuws",
+    "titel": "Wereldhave verslaat eigen verwachting",
+    "link": "https://www.beurs.nl/Nieuws/852895/Wereldhave-verslaat-eigen-verwachting.aspx",
+    "intro": "Wereldhave heeft in 2025 meer huurinkomsten gerealiseerd, terwijl het directe resultaat per aandeel harder steeg dan verwacht. Dit bleek dinsdag uit cijfers van het vastgoedbedrijf, waarbij het dividend ook werd verhoogd.",
+    "published_at": "2026-02-10 07:20",
+    "scraped_at": "2026-02-10T08:08:49.325342"
+  },
+  {
+    "id": "2e8a8d79919b3bdd90083e377bb7b07a",
+    "categorie": "Beursnieuws",
+    "titel": "Japanse beurs zet opmars voort",
+    "link": "https://www.beurs.nl/Nieuws/852896/Japanse-beurs-zet-opmars-voort.aspx",
+    "intro": "De Aziatische beurzen noteerden dinsdagochtend overwegend in het groen, met als positieve uitschieter de Nikkei index in Tokio met een winst van 2,5 procent.",
+    "published_at": "2026-02-10 07:20",
+    "scraped_at": "2026-02-10T08:08:49.325342"
+  },
+  {
+    "id": "4d2c5f64c7a086b3becccf3943a0fc3a",
+    "categorie": "Beursnieuws",
+    "titel": "Philips boekt meevallende marge",
+    "link": "https://www.beurs.nl/Nieuws/852894/Philips-boekt-meevallende-marge.aspx",
+    "intro": "Philips heeft in 2025 de eigen outlook overtroffen, wat analisten niet hadden verwacht. Dit bleek dinsdag voorbeurs uit cijfers van het Amsterdamse medtechbedrijf.",
+    "published_at": "2026-02-10 07:14",
+    "scraped_at": "2026-02-10T08:08:49.325342"
+  },
+  {
     "id": "c040891b6d8b9dd49493a3cca14cb699",
     "categorie": "Beursnieuws",
     "titel": "Stevige omzetgroei voor TSMC",
     "link": "https://www.beurs.nl/Nieuws/852891/Stevige-omzetgroei-voor-TSMC.aspx",
     "intro": "TSMC heeft in januari veel meer omzet geboekt dan in de maand ervoor, terwijl de stijging op jaarbasis nog groter was. Dit bleek dinsdagochtend uit cijfers van de Taiwanese chipgigant.",
     "published_at": "2026-02-10 06:43",
-    "scraped_at": "2026-02-10T05:55:35.086764"
+    "scraped_at": "2026-02-10T08:08:49.325342"
   },
   {
     "id": "3fb3a690698f6f74fe6010d5f9185493",
@@ -15,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/852890/Productie-Nederlandse-industrie-groeit-harder.aspx",
     "intro": "De productie van de Nederlandse industrie is in december harder gestegen dan in november. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-02-10 06:35",
-    "scraped_at": "2026-02-10T05:55:35.086764"
-  },
-  {
-    "id": "5b8ea5df0c62ef948fc66dd22d55ea90",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen vlak",
-    "link": "https://www.beurs.nl/Nieuws/852889/Europese-beurzen-openen-vlak.aspx",
-    "intro": "De Europese beurzen gaan dinsdag een min of meer vlakke opening tegemoet.",
-    "published_at": "2026-02-10 06:23",
-    "scraped_at": "2026-02-10T05:55:35.086764"
-  },
-  {
-    "id": "38bc0765844377ac9ab7502e2b6aac6c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/852887/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 17 februari 2026:",
-    "published_at": "2026-02-10 06:18",
-    "scraped_at": "2026-02-10T05:55:35.086764"
-  },
-  {
-    "id": "8d3c5cebb91be7ab9ce378808391bb4a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/852888/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 17 februari 2026:",
-    "published_at": "2026-02-10 06:18",
-    "scraped_at": "2026-02-10T05:55:35.086764"
-  },
-  {
-    "id": "80b1a7ea800773518b3aa899ad12963b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/852886/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 17 februari 2026:",
-    "published_at": "2026-02-10 06:17",
-    "scraped_at": "2026-02-10T05:55:35.086764"
+    "scraped_at": "2026-02-10T08:08:49.325342"
   }
 ]
