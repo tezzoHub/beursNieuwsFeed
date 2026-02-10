@@ -1,12 +1,66 @@
 [
   {
+    "id": "6676afa82fd34d3455cbffbf9d882ba6",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet en winst voor Gilead",
+    "link": "https://www.beurs.nl/Nieuws/853051/Meer-omzet-en-winst-voor-Gilead.aspx",
+    "intro": "Gilead Sciences boekte in het afgelopen kwartaal fors meer winst, geholpen door omzetgroei voor zijn behandelingen van hiv- en leverziekte. Dat bleek dinsdag nabeurs.",
+    "published_at": "2026-02-10 22:54",
+    "scraped_at": "2026-02-10T22:03:31.892482"
+  },
+  {
+    "id": "8f4d3271305b245d3e9008a2552d25b9",
+    "categorie": "Beursnieuws",
+    "titel": "Ford beperkt omzetdaling",
+    "link": "https://www.beurs.nl/Nieuws/853050/Ford-beperkt-omzetdaling.aspx",
+    "intro": "Ford heeft in het afgelopen kwartaal de omzetdaling beperkt kunnen houden, terwijl de winst teleurstelde, maar de autofabrikant voorziet dit voor het nieuwe jaar een beter resultaat te voorzien. Dat bleek dinsdag uit de kwartaalcijfers.",
+    "published_at": "2026-02-10 22:42",
+    "scraped_at": "2026-02-10T22:03:31.892482"
+  },
+  {
+    "id": "4054ccdaf27fd8f1ecb8d1088f5e5178",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/853049/Wall-Street-sluit-overwegend-lager.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend lager gesloten, na druk op financiële aandelen en resultaten van onder andere Coca-Cola, Spotify en TSMC.",
+    "published_at": "2026-02-10 22:33",
+    "scraped_at": "2026-02-10T22:03:31.892482"
+  },
+  {
+    "id": "2de10be94dbb0300afbd38ea7a71a0f7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/853048/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten en drie lager. RELX was de sterkste daler.",
+    "published_at": "2026-02-10 22:11",
+    "scraped_at": "2026-02-10T22:03:31.892482"
+  },
+  {
+    "id": "7bc6d32a61a1a3a49d32896a3356c4df",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt",
+    "link": "https://www.beurs.nl/Nieuws/853046/Olieprijs-daalt.aspx",
+    "intro": "De olieprijs is dinsdag gedaald, in een markt die wachtte op verdere gesprekken tussen de Verenigde Staten en Iran, terwijl de Israëlische premier Netanyahu een bezoek bracht aan Washington om Israëls positie duidelijk te maken.",
+    "published_at": "2026-02-10 21:20",
+    "scraped_at": "2026-02-10T22:03:31.892482"
+  },
+  {
+    "id": "077db7213094e5b5eacc4b90f7a27299",
+    "categorie": "Beursnieuws",
+    "titel": "Weinig beweging op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/853045/Weinig-beweging-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen bleven dinsdag dicht bij huis, terwijl beleggers resultaten van onder andere Coca-Cola, Spotify en TSMC verwerkten.",
+    "published_at": "2026-02-10 20:52",
+    "scraped_at": "2026-02-10T22:03:31.892482"
+  },
+  {
     "id": "400684931c2f908051be91addf681464",
     "categorie": "Beursnieuws",
     "titel": "Alfen haalt eigen outlook net",
     "link": "https://www.beurs.nl/Nieuws/853043/Alfen-haalt-eigen-outlook-net.aspx",
     "intro": "Alfen heeft in 2025 de eigen outlook gehaald, maar kwam daarbij wel uit aan de onderkant van de afgegeven bandbreedtes. Dit bleek dinsdagavond uit cijfers die het bedrijf publiceerde.",
     "published_at": "2026-02-10 19:25",
-    "scraped_at": "2026-02-10T19:42:04.869221"
+    "scraped_at": "2026-02-10T22:03:31.892482"
   },
   {
     "id": "a9e3640ddb9a0e7890cd05a4c26eefe5",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853042/Europese-beurzen-blijven-dicht-bij-huis.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag vlak tot licht lager gesloten, na een stroom bedrijfscijfers tijdens de ochtendhandel, met de nodige koersuitschieters omhoog en omlaag. Spotify was een grote winnaar, terwijl BP en TUI onder druk stonden.",
     "published_at": "2026-02-10 19:10",
-    "scraped_at": "2026-02-10T19:42:04.869221"
+    "scraped_at": "2026-02-10T22:03:31.892482"
   },
   {
     "id": "99e0cc39e9e58c06f0773cf45acbae6b",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Artikel/852986/Slotcall-AEX-is-beste-jongetje-van-de-Europese-klas-met-dank-aan-Philips-IMCD-en-DSM-Firmenich.aspx",
     "intro": "AEX eindigt 0,5% hoger op 1.004 punten. Chemiesector trekt in heel Europa de kar. Cijfers Philips goed ontvangen. Wisselend beeld op Wall Street en bitcoin zet glijvlucht voort.",
     "published_at": "2026-02-10 18:00",
-    "scraped_at": "2026-02-10T19:42:04.869221"
+    "scraped_at": "2026-02-10T22:03:31.892482"
   },
   {
     "id": "62a1005cc980b3dcf10df35ae87ce717",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853026/Philips-grootste-uitblinker-op-groen-Damrak.aspx",
     "intro": "De Amsterdamse beurs is dinsdag met een nette winst gesloten, onder aanvoering van Philips, dat met dubbele cijfers steeg.",
     "published_at": "2026-02-10 17:56",
-    "scraped_at": "2026-02-10T19:42:04.869221"
-  },
-  {
-    "id": "e71bb64d63e517fc0d9b270b4aeae53c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: winstgroei voorzien bij ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/853020/Beursblik-winstgroei-voorzien-bij-ABN-AMRO.aspx",
-    "intro": "ABN AMRO heeft in het vierde kwartaal van 2025 meer winst geboekt, dankzij hogere fee-inkomsten en lagere kosten, hoewel de rentebaten daalden en de voorzieningen voor oninbare leningen iets opliepen. Dit blijkt uit een consensusverwachting van analisten op de website van de bank.",
-    "published_at": "2026-02-10 17:13",
-    "scraped_at": "2026-02-10T19:42:04.869221"
-  },
-  {
-    "id": "e7cba21bc42cbc129a5ea9e6ac7b3bda",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/853012/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 18 februari 2026:",
-    "published_at": "2026-02-10 16:37",
-    "scraped_at": "2026-02-10T19:42:04.869221"
-  },
-  {
-    "id": "8253404d34e4e102540a1adcaa7a6d2c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/853013/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 februari 2026:",
-    "published_at": "2026-02-10 16:37",
-    "scraped_at": "2026-02-10T19:42:04.869221"
-  },
-  {
-    "id": "b6a648df9bb018e6955e324499edfa34",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/853014/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 februari 2026:",
-    "published_at": "2026-02-10 16:37",
-    "scraped_at": "2026-02-10T19:42:04.869221"
-  },
-  {
-    "id": "e6f8734e0be25e07cc2b5a8890f97025",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: omzet en volumes Heineken vermoedelijk onder druk",
-    "link": "https://www.beurs.nl/Nieuws/853011/Beursblik-omzet-en-volumes-Heineken-vermoedelijk-onder-druk.aspx",
-    "intro": "Heineken heeft in het vierde kwartaal van 2025 de volumes en de omzet zien dalen. Dit blijkt uit een consensusverwachting op de website van de brouwer.",
-    "published_at": "2026-02-10 16:34",
-    "scraped_at": "2026-02-10T19:42:04.869221"
-  },
-  {
-    "id": "8d4e5f7765047743b073f1c777ab9d3f",
-    "categorie": "Beursnieuws",
-    "titel": "Lichte toename Amerikaanse bedrijfsvoorraden",
-    "link": "https://www.beurs.nl/Nieuws/853009/Lichte-toename-Amerikaanse-bedrijfsvoorraden.aspx",
-    "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in november iets harder gestegen. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
-    "published_at": "2026-02-10 16:09",
-    "scraped_at": "2026-02-10T19:42:04.869221"
+    "scraped_at": "2026-02-10T22:03:31.892482"
   }
 ]
