@@ -1,92 +1,56 @@
 [
   {
-    "id": "766348af91474c42b265bcb0cd317016",
+    "id": "c040891b6d8b9dd49493a3cca14cb699",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/852874/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-02-09 22:26",
-    "scraped_at": "2026-02-10T00:03:09.766523"
+    "titel": "Stevige omzetgroei voor TSMC",
+    "link": "https://www.beurs.nl/Nieuws/852891/Stevige-omzetgroei-voor-TSMC.aspx",
+    "intro": "TSMC heeft in januari veel meer omzet geboekt dan in de maand ervoor, terwijl de stijging op jaarbasis nog groter was. Dit bleek dinsdagochtend uit cijfers van de Taiwanese chipgigant.",
+    "published_at": "2026-02-10 06:43",
+    "scraped_at": "2026-02-10T05:55:35.086764"
   },
   {
-    "id": "59c64d5be8668cc50bb3401fe270b3d3",
+    "id": "3fb3a690698f6f74fe6010d5f9185493",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street hoger gesloten en record Dow Jones aangescherpt",
-    "link": "https://www.beurs.nl/Nieuws/852873/Wall-Street-hoger-gesloten-en-record-Dow-Jones-aangescherpt.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag hoger gesloten, met technologieaandelen als uitblinkers. De Dow Jones scherpte intussen zijn recordstand verder aan.",
-    "published_at": "2026-02-09 22:13",
-    "scraped_at": "2026-02-10T00:03:09.766523"
+    "titel": "Productie Nederlandse industrie groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/852890/Productie-Nederlandse-industrie-groeit-harder.aspx",
+    "intro": "De productie van de Nederlandse industrie is in december harder gestegen dan in november. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-02-10 06:35",
+    "scraped_at": "2026-02-10T05:55:35.086764"
   },
   {
-    "id": "18eed0bb0c42d43bbe64cc46520f2687",
+    "id": "5b8ea5df0c62ef948fc66dd22d55ea90",
     "categorie": "Beursnieuws",
-    "titel": "Minder inkomsten voor Mediobanca",
-    "link": "https://www.beurs.nl/Nieuws/852870/Minder-inkomsten-voor-Mediobanca.aspx",
-    "intro": "Mediobanca heeft in de zes maanden tot 31 december 2025 minder inkomsten geboekt en meer kosten gemaakt, waardoor het nettoresultaat flink daalde. Dit bleek maandagavond uit cijfers van de Italiaanse bank.",
-    "published_at": "2026-02-09 21:40",
-    "scraped_at": "2026-02-10T00:03:09.766523"
+    "titel": "Europese beurzen openen vlak",
+    "link": "https://www.beurs.nl/Nieuws/852889/Europese-beurzen-openen-vlak.aspx",
+    "intro": "De Europese beurzen gaan dinsdag een min of meer vlakke opening tegemoet.",
+    "published_at": "2026-02-10 06:23",
+    "scraped_at": "2026-02-10T05:55:35.086764"
   },
   {
-    "id": "1877970e20b6b1dcc7206c657a570182",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen hoger gesloten door waarschuwing aan scheepvaart",
-    "link": "https://www.beurs.nl/Nieuws/852867/Olieprijzen-hoger-gesloten-door-waarschuwing-aan-scheepvaart.aspx",
-    "intro": "De olieprijzen zijn maandag hoger gesloten nadat de Verenigde Staten scheepvaart in de wateren nabij Iran als riskant hebben bestempeld.",
-    "published_at": "2026-02-09 21:05",
-    "scraped_at": "2026-02-10T00:03:09.766523"
-  },
-  {
-    "id": "72829508b01a05d390d095d29908f9bf",
-    "categorie": "Beursnieuws",
-    "titel": "Technologie in trek op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/852860/Technologie-in-trek-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag hoger, vooral gestimuleerd door technologieaandelen.",
-    "published_at": "2026-02-09 19:47",
-    "scraped_at": "2026-02-10T00:03:09.766523"
-  },
-  {
-    "id": "53f9478b3845e0abc8615a2ece84df66",
-    "categorie": "Beursnieuws",
-    "titel": "Sterke weekstart voor Europese beurzen met record voor Stoxx 600",
-    "link": "https://www.beurs.nl/Nieuws/852858/Sterke-weekstart-voor-Europese-beurzen-met-record-voor-Stoxx-600.aspx",
-    "intro": "De Europese beurzen zijn maandag optimistisch aan de nieuwe week begonnen, terwijl beleggers zich voorbereiden op verdere winstcijfers van bedrijven en uitkijken naar Amerikaanse economische data voor een beeld van het mogelijke toekomstige beleid van de Federal Reserve.",
-    "published_at": "2026-02-09 18:40",
-    "scraped_at": "2026-02-10T00:03:09.766523"
-  },
-  {
-    "id": "0507b86953fb4ba61433f8a13083fc17",
-    "categorie": "Beursnieuws",
-    "titel": "Overnamebod geeft InPost een impuls in lichtgroene AEX",
-    "link": "https://www.beurs.nl/Nieuws/852853/Overnamebod-geeft-InPost-een-impuls-in-lichtgroene-AEX.aspx",
-    "intro": "De Amsterdamse beurs is de nieuwe week rustig begonnen, waarbij bedrijfsnieuws individuele aandelen in beweging zette.",
-    "published_at": "2026-02-09 17:51",
-    "scraped_at": "2026-02-10T00:03:09.766523"
-  },
-  {
-    "id": "1e9a548d5dc15ae2830a491f8ca71339",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/852845/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 17 februari 2026:",
-    "published_at": "2026-02-09 16:27",
-    "scraped_at": "2026-02-10T00:03:09.766523"
-  },
-  {
-    "id": "19e93ad2fd2eaee420e82193fada0eed",
+    "id": "38bc0765844377ac9ab7502e2b6aac6c",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/852844/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/852887/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 17 februari 2026:",
-    "published_at": "2026-02-09 16:27",
-    "scraped_at": "2026-02-10T00:03:09.766523"
+    "published_at": "2026-02-10 06:18",
+    "scraped_at": "2026-02-10T05:55:35.086764"
   },
   {
-    "id": "e9b16d918ddd631a8965e72eea9735f1",
+    "id": "8d3c5cebb91be7ab9ce378808391bb4a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/852888/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 17 februari 2026:",
+    "published_at": "2026-02-10 06:18",
+    "scraped_at": "2026-02-10T05:55:35.086764"
+  },
+  {
+    "id": "80b1a7ea800773518b3aa899ad12963b",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/852843/Beursagenda-Nederlandse-bedrijven.aspx",
+    "link": "https://www.beurs.nl/Nieuws/852886/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 17 februari 2026:",
-    "published_at": "2026-02-09 16:26",
-    "scraped_at": "2026-02-10T00:03:09.766523"
+    "published_at": "2026-02-10 06:17",
+    "scraped_at": "2026-02-10T05:55:35.086764"
   }
 ]
