@@ -1,12 +1,57 @@
 [
   {
+    "id": "400684931c2f908051be91addf681464",
+    "categorie": "Beursnieuws",
+    "titel": "Alfen haalt eigen outlook net",
+    "link": "https://www.beurs.nl/Nieuws/853043/Alfen-haalt-eigen-outlook-net.aspx",
+    "intro": "Alfen heeft in 2025 de eigen outlook gehaald, maar kwam daarbij wel uit aan de onderkant van de afgegeven bandbreedtes. Dit bleek dinsdagavond uit cijfers die het bedrijf publiceerde.",
+    "published_at": "2026-02-10 19:25",
+    "scraped_at": "2026-02-10T19:42:04.869221"
+  },
+  {
+    "id": "a9e3640ddb9a0e7890cd05a4c26eefe5",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen blijven dicht bij huis",
+    "link": "https://www.beurs.nl/Nieuws/853042/Europese-beurzen-blijven-dicht-bij-huis.aspx",
+    "intro": "De aandelenmarkten in Europa zijn dinsdag vlak tot licht lager gesloten, na een stroom bedrijfscijfers tijdens de ochtendhandel, met de nodige koersuitschieters omhoog en omlaag. Spotify was een grote winnaar, terwijl BP en TUI onder druk stonden.",
+    "published_at": "2026-02-10 19:10",
+    "scraped_at": "2026-02-10T19:42:04.869221"
+  },
+  {
+    "id": "99e0cc39e9e58c06f0773cf45acbae6b",
+    "categorie": "Beurs vandaag",
+    "titel": "Slotcall: AEX is beste jongetje van de Europese klas, met dank aan Philips, IMCD en DSM-Firmenich",
+    "link": "https://www.beurs.nl/Artikel/852986/Slotcall-AEX-is-beste-jongetje-van-de-Europese-klas-met-dank-aan-Philips-IMCD-en-DSM-Firmenich.aspx",
+    "intro": "AEX eindigt 0,5% hoger op 1.004 punten. Chemiesector trekt in heel Europa de kar. Cijfers Philips goed ontvangen. Wisselend beeld op Wall Street en bitcoin zet glijvlucht voort.",
+    "published_at": "2026-02-10 18:00",
+    "scraped_at": "2026-02-10T19:42:04.869221"
+  },
+  {
+    "id": "62a1005cc980b3dcf10df35ae87ce717",
+    "categorie": "Beursnieuws",
+    "titel": "Philips grootste uitblinker op groen Damrak",
+    "link": "https://www.beurs.nl/Nieuws/853026/Philips-grootste-uitblinker-op-groen-Damrak.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag met een nette winst gesloten, onder aanvoering van Philips, dat met dubbele cijfers steeg.",
+    "published_at": "2026-02-10 17:56",
+    "scraped_at": "2026-02-10T19:42:04.869221"
+  },
+  {
+    "id": "e71bb64d63e517fc0d9b270b4aeae53c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: winstgroei voorzien bij ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/853020/Beursblik-winstgroei-voorzien-bij-ABN-AMRO.aspx",
+    "intro": "ABN AMRO heeft in het vierde kwartaal van 2025 meer winst geboekt, dankzij hogere fee-inkomsten en lagere kosten, hoewel de rentebaten daalden en de voorzieningen voor oninbare leningen iets opliepen. Dit blijkt uit een consensusverwachting van analisten op de website van de bank.",
+    "published_at": "2026-02-10 17:13",
+    "scraped_at": "2026-02-10T19:42:04.869221"
+  },
+  {
     "id": "e7cba21bc42cbc129a5ea9e6ac7b3bda",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/853012/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 18 februari 2026:",
     "published_at": "2026-02-10 16:37",
-    "scraped_at": "2026-02-10T15:46:56.121664"
+    "scraped_at": "2026-02-10T19:42:04.869221"
   },
   {
     "id": "8253404d34e4e102540a1adcaa7a6d2c",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/853013/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 februari 2026:",
     "published_at": "2026-02-10 16:37",
-    "scraped_at": "2026-02-10T15:46:56.121664"
+    "scraped_at": "2026-02-10T19:42:04.869221"
   },
   {
     "id": "b6a648df9bb018e6955e324499edfa34",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853014/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 februari 2026:",
     "published_at": "2026-02-10 16:37",
-    "scraped_at": "2026-02-10T15:46:56.121664"
+    "scraped_at": "2026-02-10T19:42:04.869221"
   },
   {
     "id": "e6f8734e0be25e07cc2b5a8890f97025",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/853011/Beursblik-omzet-en-volumes-Heineken-vermoedelijk-onder-druk.aspx",
     "intro": "Heineken heeft in het vierde kwartaal van 2025 de volumes en de omzet zien dalen. Dit blijkt uit een consensusverwachting op de website van de brouwer.",
     "published_at": "2026-02-10 16:34",
-    "scraped_at": "2026-02-10T15:46:56.121664"
+    "scraped_at": "2026-02-10T19:42:04.869221"
   },
   {
     "id": "8d4e5f7765047743b073f1c777ab9d3f",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853009/Lichte-toename-Amerikaanse-bedrijfsvoorraden.aspx",
     "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in november iets harder gestegen. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-02-10 16:09",
-    "scraped_at": "2026-02-10T15:46:56.121664"
-  },
-  {
-    "id": "1d2513fd26d7013281a5703dce93d872",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op licht lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/853000/Wall-Street-koerst-af-op-licht-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag naar verwachting licht lager openen, terwijl beleggers vandaag weer een groot aantal bedrijfscijfers en macro-economische data kregen te verwerken.",
-    "published_at": "2026-02-10 15:04",
-    "scraped_at": "2026-02-10T15:46:56.121664"
-  },
-  {
-    "id": "c23b28bff72edf7c6913e9f008e58b30",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse arbeidskosten iets minder hard gestegen",
-    "link": "https://www.beurs.nl/Nieuws/852999/Amerikaanse-arbeidskosten-iets-minder-hard-gestegen.aspx",
-    "intro": "De arbeidskosten in de Verenigde Staten zijn in het vierde kwartaal iets minder hard gestegen. Dit bleek dinsdag uit de cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-02-10 14:41",
-    "scraped_at": "2026-02-10T15:46:56.121664"
-  },
-  {
-    "id": "312f1fde8c27c0ace5ad7b657c633d8e",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse detailhandelsverkopen stijgen minder hard",
-    "link": "https://www.beurs.nl/Nieuws/852998/Amerikaanse-detailhandelsverkopen-stijgen-minder-hard.aspx",
-    "intro": "De verkopen in de Amerikaanse detailhandel zijn in december gestegen, maar minder hard dan in de maand ervoor. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-02-10 14:39",
-    "scraped_at": "2026-02-10T15:46:56.121664"
-  },
-  {
-    "id": "a3ef7be58fc6fdbf892cf7fc63c6637f",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse importprijzen licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/852997/Amerikaanse-importprijzen-licht-gestegen.aspx",
-    "intro": "De Amerikaanse importprijzen zijn in december licht gestegen, waar een ongewijzigd prijsniveau werd verwacht. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
-    "published_at": "2026-02-10 14:38",
-    "scraped_at": "2026-02-10T15:46:56.121664"
-  },
-  {
-    "id": "3d8cd43497a4f633a412f45271aa38d9",
-    "categorie": "IEX Beleggersdag",
-    "titel": "IEX Beleggersdag met Roy Jakobs, CEO van Philips – kaartverkoop is gestart!",
-    "link": "https://www.beurs.nl/Artikel/852990/IEX-Beleggersdag-met-Roy-Jakobs-CEO-van-Philips-kaartverkoop-is-gestart.aspx",
-    "intro": "Ook de CEO's van The Magnum Ice Cream Company en Triodos, de president-directeur van Shell Nederland en CBS-hoofdeconoom Peter Hein van Mulligen maken hun opwachting.",
-    "published_at": "2026-02-10 14:25",
-    "scraped_at": "2026-02-10T15:46:56.121664"
+    "scraped_at": "2026-02-10T19:42:04.869221"
   }
 ]
