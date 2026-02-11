@@ -1,38 +1,92 @@
 [
   {
-    "id": "cd8bae5c7a708fe7d241050c49bcfc33",
+    "id": "788689f36535de16c0e3585f92525fa4",
     "categorie": "Beursnieuws",
-    "titel": "Chinese inflatie loopt flink terug",
-    "link": "https://www.beurs.nl/Nieuws/853070/Chinese-inflatie-loopt-flink-terug.aspx",
-    "intro": "De Chinese consumentenprijzen zijn in januari veel minder hard gestegen. Dit bleek woensdag uit overheidscijfers.",
-    "published_at": "2026-02-11 06:44",
-    "scraped_at": "2026-02-11T05:48:56.995173"
+    "titel": "Beursblik: rommelig kwartaal voor ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/853093/Beursblik-rommelig-kwartaal-voor-ABN-AMRO.aspx",
+    "intro": "ABN AMRO heeft een rommelig vierde kwartaal achter de rug, met enkele eenmalige posten, hogere voorzieningen en wat tegenvallende inkomsten. Dit stelden analisten van Jefferies woensdag in een rapport.",
+    "published_at": "2026-02-11 08:40",
+    "scraped_at": "2026-02-11T08:05:14.371131"
   },
   {
-    "id": "46d6a402875a7f253e425310e98eee74",
+    "id": "99d731c464d2ef55c2274a988cf412a1",
     "categorie": "Beursnieuws",
-    "titel": "Nederlandse export blijft stijgen",
-    "link": "https://www.beurs.nl/Nieuws/853069/Nederlandse-export-blijft-stijgen.aspx",
-    "intro": "De Nederlandse export is in december nog verder gestegen. Dit bleek woensdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-02-11 06:39",
-    "scraped_at": "2026-02-11T05:48:56.995173"
+    "titel": "Beursblik: Heineken geeft conservatieve outlook voor 2026",
+    "link": "https://www.beurs.nl/Nieuws/853092/Beursblik-Heineken-geeft-conservatieve-outlook-voor-2026.aspx",
+    "intro": "Heineken heeft goede cijfers over 2025 overlegd, maar de focus zal liggen op de outlook voor 2026. Dit stelde analist Edward Mundy van zakenbank Jefferies woensdag in een rapport.",
+    "published_at": "2026-02-11 08:35",
+    "scraped_at": "2026-02-11T08:05:14.371131"
   },
   {
-    "id": "395e518db8da1cec5b0490ed9da43c3d",
+    "id": "aad7f37de8b3c5bfec0c171a325965a5",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/853067/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 februari 2026:",
-    "published_at": "2026-02-11 06:33",
-    "scraped_at": "2026-02-11T05:48:56.995173"
+    "titel": "Hogere omzet en winst voor Siemens Energy",
+    "link": "https://www.beurs.nl/Nieuws/853089/Hogere-omzet-en-winst-voor-Siemens-Energy.aspx",
+    "intro": "Siemens Energy is 2026 goed begonnen. Dit bleek woensdagochtend uit cijfers die het Duitse bedrijf publiceerde.",
+    "published_at": "2026-02-11 08:25",
+    "scraped_at": "2026-02-11T08:05:14.371131"
   },
   {
-    "id": "e5062debd10c83a34d88891fa31786ab",
+    "id": "f0cd397a06d87d5278b61cdd18e9d2b1",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/853068/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 februari 2026:",
-    "published_at": "2026-02-11 06:33",
-    "scraped_at": "2026-02-11T05:48:56.995173"
+    "titel": "Beursblik: wachten op groei bij Alfen",
+    "link": "https://www.beurs.nl/Nieuws/853090/Beursblik-wachten-op-groei-bij-Alfen.aspx",
+    "intro": "Alfen heeft in 2025 min of meer zoals verwacht gepresteerd, hoewel er een kleine misser was met de EBITDA, terwijl de balans aansterkte door een afname van de schuld. Dit concludeerde analist James Carmichael van Berenberg in een rapport op woensdag.",
+    "published_at": "2026-02-11 08:23",
+    "scraped_at": "2026-02-11T08:05:14.371131"
+  },
+  {
+    "id": "071048b73d26576b2856dabf4760035d",
+    "categorie": "Beursnieuws",
+    "titel": "Vlakke tot licht hogere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/853086/Vlakke-tot-licht-hogere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een vlakke tot licht hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,1 procent in het groen. Dinsdag eindigde de hoofdgraadmeter al 0,5 procent hoger op 1.004,14 punten.",
+    "published_at": "2026-02-11 08:14",
+    "scraped_at": "2026-02-11T08:05:14.371131"
+  },
+  {
+    "id": "913b0c2722de9ae924ae37c52db3a088",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verhoogt koersdoel Aperam",
+    "link": "https://www.beurs.nl/Nieuws/853085/Beursblik-Jefferies-verhoogt-koersdoel-Aperam.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Aperam verhoogd van 37,00 naar 47,00 euro, met handhaving van het Houden advies. Dit bleek woensdagochtend uit een rapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-02-11 08:03",
+    "scraped_at": "2026-02-11T08:05:14.371131"
+  },
+  {
+    "id": "a2a2099a310233b1271699830c2e7cc6",
+    "categorie": "Beursnieuws",
+    "titel": "Ahold Delhaize boekt licht hogere omzet",
+    "link": "https://www.beurs.nl/Nieuws/853084/Ahold-Delhaize-boekt-licht-hogere-omzet.aspx",
+    "intro": "Ahold Delhaize heeft in het vierde kwartaal van 2025 een licht hogere omzet en marge geboekt. Dit bleek woensdagochtend uit cijfers van de supermarktketen.",
+    "published_at": "2026-02-11 07:56",
+    "scraped_at": "2026-02-11T08:05:14.371131"
+  },
+  {
+    "id": "d9a38a4a7b240fa54930c9a43cf4f149",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen overwegend hoger",
+    "link": "https://www.beurs.nl/Nieuws/853079/Aziatische-beurzen-overwegend-hoger.aspx",
+    "intro": "De Aziatische beurzen koersten woensdag overwegend in het groen, terwijl de Japanse beurs de deuren gesloten hield.",
+    "published_at": "2026-02-11 07:43",
+    "scraped_at": "2026-02-11T08:05:14.371131"
+  },
+  {
+    "id": "aa89fc05c30ca26440859cc7cd8dcf9c",
+    "categorie": "Beursnieuws",
+    "titel": "Randstad weet marge op peil te houden",
+    "link": "https://www.beurs.nl/Nieuws/853078/Randstad-weet-marge-op-peil-te-houden.aspx",
+    "intro": "Randstad heeft in het vierde kwartaal van 2025 min of meer zoals verwacht gepresteerd, hoewel de autonome krimp per dag wel iets sterker was dan voorzien, maar de marge op peil bleef. Dit bleek woensdagochtend uit cijfers van het concern.",
+    "published_at": "2026-02-11 07:40",
+    "scraped_at": "2026-02-11T08:05:14.371131"
+  },
+  {
+    "id": "372dfc4059867d257d152e59905386ab",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere winst voor ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/853076/Hogere-winst-voor-ABN-AMRO.aspx",
+    "intro": "ABN AMRO heeft in het vierde kwartaal meer winst geboekt, nadat de fee-inkomsten flink stegen. Dit bleek woensdag voorbeurs uit cijfers van de bank.",
+    "published_at": "2026-02-11 07:24",
+    "scraped_at": "2026-02-11T08:05:14.371131"
   }
 ]
