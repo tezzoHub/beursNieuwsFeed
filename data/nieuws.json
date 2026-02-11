@@ -1,92 +1,38 @@
 [
   {
-    "id": "36fa9e47963d791ddbc01c65be8bddfa",
+    "id": "cd8bae5c7a708fe7d241050c49bcfc33",
     "categorie": "Beursnieuws",
-    "titel": "Update: Wall Street sluit overwegend lager",
-    "link": "https://www.beurs.nl/Nieuws/853054/Update-Wall-Street-sluit-overwegend-lager.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend lager gesloten, nadat de zorgen bij beleggers over toekomstige AI-toepassingen zich uitbreidden naar de verdienmodellen van financiële dienstverleners.",
-    "published_at": "2026-02-10 23:36",
-    "scraped_at": "2026-02-11T00:04:21.123152"
+    "titel": "Chinese inflatie loopt flink terug",
+    "link": "https://www.beurs.nl/Nieuws/853070/Chinese-inflatie-loopt-flink-terug.aspx",
+    "intro": "De Chinese consumentenprijzen zijn in januari veel minder hard gestegen. Dit bleek woensdag uit overheidscijfers.",
+    "published_at": "2026-02-11 06:44",
+    "scraped_at": "2026-02-11T05:48:56.995173"
   },
   {
-    "id": "0ef88c933582c57e52d8985d246d53f4",
+    "id": "46d6a402875a7f253e425310e98eee74",
     "categorie": "Beursnieuws",
-    "titel": "Robinhood kondigt hogere kosten aan",
-    "link": "https://www.beurs.nl/Nieuws/853053/Robinhood-kondigt-hogere-kosten-aan.aspx",
-    "intro": "Het aandeel Robinhood daalde dinsdag na sluiting van de beurs, nadat voorzichtigheid rond cryptohandel de omzet van de beursapp drukte in het afgelopen kwartaal, en het bedrijf hogere uitgaven aankondigde.",
-    "published_at": "2026-02-10 23:11",
-    "scraped_at": "2026-02-11T00:04:21.123152"
+    "titel": "Nederlandse export blijft stijgen",
+    "link": "https://www.beurs.nl/Nieuws/853069/Nederlandse-export-blijft-stijgen.aspx",
+    "intro": "De Nederlandse export is in december nog verder gestegen. Dit bleek woensdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-02-11 06:39",
+    "scraped_at": "2026-02-11T05:48:56.995173"
   },
   {
-    "id": "c59bc24d66b08f17c5ea9df477ee3a7b",
+    "id": "395e518db8da1cec5b0490ed9da43c3d",
     "categorie": "Beursnieuws",
-    "titel": "Aandeel Lyft keldert na tegenvallend aantal ritten",
-    "link": "https://www.beurs.nl/Nieuws/853052/Aandeel-Lyft-keldert-na-tegenvallend-aantal-ritten.aspx",
-    "intro": "Het aandeel Lyft ging dinsdag nabeurs hard onderuit, nadat het taxi-app-bedrijf teleurstelde met zijn omzet en het aantal ritten. Dat bleek uit de kwartaalcijfers.",
-    "published_at": "2026-02-10 23:04",
-    "scraped_at": "2026-02-11T00:04:21.123152"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/853067/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 februari 2026:",
+    "published_at": "2026-02-11 06:33",
+    "scraped_at": "2026-02-11T05:48:56.995173"
   },
   {
-    "id": "6676afa82fd34d3455cbffbf9d882ba6",
+    "id": "e5062debd10c83a34d88891fa31786ab",
     "categorie": "Beursnieuws",
-    "titel": "Meer omzet en winst voor Gilead",
-    "link": "https://www.beurs.nl/Nieuws/853051/Meer-omzet-en-winst-voor-Gilead.aspx",
-    "intro": "Gilead Sciences boekte in het afgelopen kwartaal fors meer winst, geholpen door omzetgroei voor zijn behandelingen van hiv- en leverziekte. Dat bleek dinsdag nabeurs.",
-    "published_at": "2026-02-10 22:54",
-    "scraped_at": "2026-02-11T00:04:21.123152"
-  },
-  {
-    "id": "8f4d3271305b245d3e9008a2552d25b9",
-    "categorie": "Beursnieuws",
-    "titel": "Ford beperkt omzetdaling",
-    "link": "https://www.beurs.nl/Nieuws/853050/Ford-beperkt-omzetdaling.aspx",
-    "intro": "Ford heeft in het afgelopen kwartaal de omzetdaling beperkt kunnen houden, terwijl de winst teleurstelde, maar de autofabrikant voorziet dit voor het nieuwe jaar een beter resultaat te voorzien. Dat bleek dinsdag uit de kwartaalcijfers.",
-    "published_at": "2026-02-10 22:42",
-    "scraped_at": "2026-02-11T00:04:21.123152"
-  },
-  {
-    "id": "4054ccdaf27fd8f1ecb8d1088f5e5178",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit overwegend lager",
-    "link": "https://www.beurs.nl/Nieuws/853049/Wall-Street-sluit-overwegend-lager.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend lager gesloten, na druk op financiële aandelen en resultaten van onder andere Coca-Cola, Spotify en TSMC.",
-    "published_at": "2026-02-10 22:33",
-    "scraped_at": "2026-02-11T00:04:21.123152"
-  },
-  {
-    "id": "2de10be94dbb0300afbd38ea7a71a0f7",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/853048/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten en drie lager. RELX was de sterkste daler.",
-    "published_at": "2026-02-10 22:11",
-    "scraped_at": "2026-02-11T00:04:21.123152"
-  },
-  {
-    "id": "7bc6d32a61a1a3a49d32896a3356c4df",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt",
-    "link": "https://www.beurs.nl/Nieuws/853046/Olieprijs-daalt.aspx",
-    "intro": "De olieprijs is dinsdag gedaald, in een markt die wachtte op verdere gesprekken tussen de Verenigde Staten en Iran, terwijl de Israëlische premier Netanyahu een bezoek bracht aan Washington om Israëls positie duidelijk te maken.",
-    "published_at": "2026-02-10 21:20",
-    "scraped_at": "2026-02-11T00:04:21.123152"
-  },
-  {
-    "id": "077db7213094e5b5eacc4b90f7a27299",
-    "categorie": "Beursnieuws",
-    "titel": "Weinig beweging op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/853045/Weinig-beweging-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen bleven dinsdag dicht bij huis, terwijl beleggers resultaten van onder andere Coca-Cola, Spotify en TSMC verwerkten.",
-    "published_at": "2026-02-10 20:52",
-    "scraped_at": "2026-02-11T00:04:21.123152"
-  },
-  {
-    "id": "400684931c2f908051be91addf681464",
-    "categorie": "Beursnieuws",
-    "titel": "Alfen haalt eigen outlook net",
-    "link": "https://www.beurs.nl/Nieuws/853043/Alfen-haalt-eigen-outlook-net.aspx",
-    "intro": "Alfen heeft in 2025 de eigen outlook gehaald, maar kwam daarbij wel uit aan de onderkant van de afgegeven bandbreedtes. Dit bleek dinsdagavond uit cijfers die het bedrijf publiceerde.",
-    "published_at": "2026-02-10 19:25",
-    "scraped_at": "2026-02-11T00:04:21.123152"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/853068/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 februari 2026:",
+    "published_at": "2026-02-11 06:33",
+    "scraped_at": "2026-02-11T05:48:56.995173"
   }
 ]
