@@ -1,12 +1,57 @@
 [
   {
+    "id": "d2a6d52ce279a4ca521d9212e8fd4269",
+    "categorie": "Beursnieuws",
+    "titel": "Cisco onderuit na cijfers",
+    "link": "https://www.beurs.nl/Nieuws/853206/Cisco-onderuit-na-cijfers.aspx",
+    "intro": "Cisco Systems heeft in het vierde kwartaal fors meer winst geboekt dankzij aanhoudend sterke vraag naar AI-infrastructuur, maar het aandeel daalde hard in reactie op de cijfers. Dat bleek woensdag nabeurs bij de kwartaalupdate van de Amerikaanse verkoper van netwerkapparatuur.",
+    "published_at": "2026-02-11 22:51",
+    "scraped_at": "2026-02-11T22:00:32.401874"
+  },
+  {
+    "id": "20b980599af8c48ef701eeaacf28451b",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit lager na sterk banenrapport",
+    "link": "https://www.beurs.nl/Nieuws/853205/Wall-Street-sluit-lager-na-sterk-banenrapport.aspx",
+    "intro": "De Amerikaanse beurzen zijn woensdag vlak tot licht lager gesloten, na een verrassend sterk banenrapport. Diverse aandelen wijzigden na opening abrupt van richting na een hogere of lagere start.",
+    "published_at": "2026-02-11 22:31",
+    "scraped_at": "2026-02-11T22:00:32.401874"
+  },
+  {
+    "id": "38ee9ae5fa77392c56e3ab7412450eac",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/853200/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-02-11 22:19",
+    "scraped_at": "2026-02-11T22:00:32.401874"
+  },
+  {
+    "id": "e80f4697576152cc0d1b9e24d389f47c",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs sluit hoger",
+    "link": "https://www.beurs.nl/Nieuws/853197/Olieprijs-sluit-hoger.aspx",
+    "intro": "De olieprijs is woensdag hoger gesloten, op zorgen over de olieproductie in Kazachstan en afzetmarkt voor Russische olie na het Indiase handelsakkoord met de Amerikanen.",
+    "published_at": "2026-02-11 21:29",
+    "scraped_at": "2026-02-11T22:00:32.401874"
+  },
+  {
+    "id": "23930999a43818282193248f805f7a72",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street verdeeld na verrassend sterk banencijfer",
+    "link": "https://www.beurs.nl/Nieuws/853194/Wall-Street-verdeeld-na-verrassend-sterk-banencijfer.aspx",
+    "intro": "De Amerikaanse beurzen stonden woensdagavond hoger, na een verrassend sterk banenrapport. Opvallend veel aandelen waar nieuws te melden was, wijzigden na de opening abrupt van koers, na een sterk hogere of lagere start.",
+    "published_at": "2026-02-11 20:47",
+    "scraped_at": "2026-02-11T22:00:32.401874"
+  },
+  {
     "id": "456ae9edf8c31121702a4fd835e602c3",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten verdeeld",
     "link": "https://www.beurs.nl/Nieuws/853187/Europese-beurzen-sluiten-verdeeld.aspx",
     "intro": "De Europese beurzen zijn woensdag verdeeld gesloten na meevallende Amerikaanse banencijfers.",
     "published_at": "2026-02-11 18:59",
-    "scraped_at": "2026-02-11T20:03:48.347597"
+    "scraped_at": "2026-02-11T22:00:32.401874"
   },
   {
     "id": "1c34f44c7d859dd40afcf7cdacfe0aed",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/853180/Beursblik-Jefferies-verhoogt-koersdoel-Ahold-Delhaize.aspx",
     "intro": "Jefferies heeft woensdag het koersdoel voor Ahold Delhaize verhoogd, na de goed ontvangen kwartaalcijfers van de supermarktuitbater.",
     "published_at": "2026-02-11 18:10",
-    "scraped_at": "2026-02-11T20:03:48.347597"
+    "scraped_at": "2026-02-11T22:00:32.401874"
   },
   {
     "id": "d9e61654eed460c57a566c8418d87724",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853177/Grote-koersbewegingen-in-hoger-gesloten-AEX.aspx",
     "intro": "De Amsterdamse hoofdgraadmeter is woensdag hoger gesloten, terwijl beleggers veel bedrijfscijfers en het banenrapport uit de VS kregen te verwerken.",
     "published_at": "2026-02-11 17:50",
-    "scraped_at": "2026-02-11T20:03:48.347597"
+    "scraped_at": "2026-02-11T22:00:32.401874"
   },
   {
     "id": "ced947c96c9cba8c620b6e4ac4fa02dd",
@@ -33,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/853174/Slotcall-Ahold-Delhaize-steekt-er-met-kop-en-schouders-bovenuit.aspx",
     "intro": "Na de opening van Wall Street viel de AEX weg, maar herstelde toch knap richting het slot van vandaag.",
     "published_at": "2026-02-11 17:35",
-    "scraped_at": "2026-02-11T20:03:48.347597"
+    "scraped_at": "2026-02-11T22:00:32.401874"
   },
   {
     "id": "f0d1190b2bc4ac4383f63527647d94bd",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853175/Beursblik-outlook-van-Fagron-oogt-haalbaar.aspx",
     "intro": "Fagron heeft vorig jaar de omzet en het EBITDA-resultaat minder sterk zien stijgen dan in 2024, vooral in de Amerika's, terwijl Europa beter presteerde. Dat is de gemiddelde verwachting van analisten, volgens een consensusverwachting gepubliceerd door het bedrijf zelf.",
     "published_at": "2026-02-11 17:12",
-    "scraped_at": "2026-02-11T20:03:48.347597"
-  },
-  {
-    "id": "f90848f72b1c099a5d8c948e6a24c86f",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden fors gestegen",
-    "link": "https://www.beurs.nl/Nieuws/853172/Amerikaanse-olievoorraden-fors-gestegen.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week fors gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-02-11 16:41",
-    "scraped_at": "2026-02-11T20:03:48.347597"
-  },
-  {
-    "id": "e86d0abb91fb91a229ad42699e6a195e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: omzetdaling DSM-Firmenich houdt aan",
-    "link": "https://www.beurs.nl/Nieuws/853171/Beursblik-omzetdaling-DSM-Firmenich-houdt-aan.aspx",
-    "intro": "DSM-Firmenich heeft in het vierde kwartaal vermoedelijk de omzet zien dalen, maar haalde volgens de analisten wel de outlook voor heel 2025. Dit is de verwachting van analisten die bijdroegen aan de consensus van Vara Research.",
-    "published_at": "2026-02-11 16:34",
-    "scraped_at": "2026-02-11T20:03:48.347597"
-  },
-  {
-    "id": "224d0260f842c0f0ba345d22f3a01aed",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/853167/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 19 februari 2026:",
-    "published_at": "2026-02-11 16:13",
-    "scraped_at": "2026-02-11T20:03:48.347597"
-  },
-  {
-    "id": "d4929b378e885f541038a2c2af1106f1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/853168/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 19 februari 2026:",
-    "published_at": "2026-02-11 16:13",
-    "scraped_at": "2026-02-11T20:03:48.347597"
-  },
-  {
-    "id": "13b433f83b4e50bc97f93744f962a1cf",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/853169/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 19 februari 2026:",
-    "published_at": "2026-02-11 16:13",
-    "scraped_at": "2026-02-11T20:03:48.347597"
+    "scraped_at": "2026-02-11T22:00:32.401874"
   }
 ]
