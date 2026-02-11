@@ -1,12 +1,39 @@
 [
   {
+    "id": "36fa9e47963d791ddbc01c65be8bddfa",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Wall Street sluit overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/853054/Update-Wall-Street-sluit-overwegend-lager.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend lager gesloten, nadat de zorgen bij beleggers over toekomstige AI-toepassingen zich uitbreidden naar de verdienmodellen van financiële dienstverleners.",
+    "published_at": "2026-02-10 23:36",
+    "scraped_at": "2026-02-11T00:04:21.123152"
+  },
+  {
+    "id": "0ef88c933582c57e52d8985d246d53f4",
+    "categorie": "Beursnieuws",
+    "titel": "Robinhood kondigt hogere kosten aan",
+    "link": "https://www.beurs.nl/Nieuws/853053/Robinhood-kondigt-hogere-kosten-aan.aspx",
+    "intro": "Het aandeel Robinhood daalde dinsdag na sluiting van de beurs, nadat voorzichtigheid rond cryptohandel de omzet van de beursapp drukte in het afgelopen kwartaal, en het bedrijf hogere uitgaven aankondigde.",
+    "published_at": "2026-02-10 23:11",
+    "scraped_at": "2026-02-11T00:04:21.123152"
+  },
+  {
+    "id": "c59bc24d66b08f17c5ea9df477ee3a7b",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel Lyft keldert na tegenvallend aantal ritten",
+    "link": "https://www.beurs.nl/Nieuws/853052/Aandeel-Lyft-keldert-na-tegenvallend-aantal-ritten.aspx",
+    "intro": "Het aandeel Lyft ging dinsdag nabeurs hard onderuit, nadat het taxi-app-bedrijf teleurstelde met zijn omzet en het aantal ritten. Dat bleek uit de kwartaalcijfers.",
+    "published_at": "2026-02-10 23:04",
+    "scraped_at": "2026-02-11T00:04:21.123152"
+  },
+  {
     "id": "6676afa82fd34d3455cbffbf9d882ba6",
     "categorie": "Beursnieuws",
     "titel": "Meer omzet en winst voor Gilead",
     "link": "https://www.beurs.nl/Nieuws/853051/Meer-omzet-en-winst-voor-Gilead.aspx",
     "intro": "Gilead Sciences boekte in het afgelopen kwartaal fors meer winst, geholpen door omzetgroei voor zijn behandelingen van hiv- en leverziekte. Dat bleek dinsdag nabeurs.",
     "published_at": "2026-02-10 22:54",
-    "scraped_at": "2026-02-10T22:03:31.892482"
+    "scraped_at": "2026-02-11T00:04:21.123152"
   },
   {
     "id": "8f4d3271305b245d3e9008a2552d25b9",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/853050/Ford-beperkt-omzetdaling.aspx",
     "intro": "Ford heeft in het afgelopen kwartaal de omzetdaling beperkt kunnen houden, terwijl de winst teleurstelde, maar de autofabrikant voorziet dit voor het nieuwe jaar een beter resultaat te voorzien. Dat bleek dinsdag uit de kwartaalcijfers.",
     "published_at": "2026-02-10 22:42",
-    "scraped_at": "2026-02-10T22:03:31.892482"
+    "scraped_at": "2026-02-11T00:04:21.123152"
   },
   {
     "id": "4054ccdaf27fd8f1ecb8d1088f5e5178",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/853049/Wall-Street-sluit-overwegend-lager.aspx",
     "intro": "De Amerikaanse beurzen zijn dinsdag overwegend lager gesloten, na druk op financiële aandelen en resultaten van onder andere Coca-Cola, Spotify en TSMC.",
     "published_at": "2026-02-10 22:33",
-    "scraped_at": "2026-02-10T22:03:31.892482"
+    "scraped_at": "2026-02-11T00:04:21.123152"
   },
   {
     "id": "2de10be94dbb0300afbd38ea7a71a0f7",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/853048/Beursupdate-AEX-op-Wall-Street.aspx",
     "intro": "Op Wall Street zijn dinsdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten en drie lager. RELX was de sterkste daler.",
     "published_at": "2026-02-10 22:11",
-    "scraped_at": "2026-02-10T22:03:31.892482"
+    "scraped_at": "2026-02-11T00:04:21.123152"
   },
   {
     "id": "7bc6d32a61a1a3a49d32896a3356c4df",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853046/Olieprijs-daalt.aspx",
     "intro": "De olieprijs is dinsdag gedaald, in een markt die wachtte op verdere gesprekken tussen de Verenigde Staten en Iran, terwijl de Israëlische premier Netanyahu een bezoek bracht aan Washington om Israëls positie duidelijk te maken.",
     "published_at": "2026-02-10 21:20",
-    "scraped_at": "2026-02-10T22:03:31.892482"
+    "scraped_at": "2026-02-11T00:04:21.123152"
   },
   {
     "id": "077db7213094e5b5eacc4b90f7a27299",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/853045/Weinig-beweging-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen bleven dinsdag dicht bij huis, terwijl beleggers resultaten van onder andere Coca-Cola, Spotify en TSMC verwerkten.",
     "published_at": "2026-02-10 20:52",
-    "scraped_at": "2026-02-10T22:03:31.892482"
+    "scraped_at": "2026-02-11T00:04:21.123152"
   },
   {
     "id": "400684931c2f908051be91addf681464",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853043/Alfen-haalt-eigen-outlook-net.aspx",
     "intro": "Alfen heeft in 2025 de eigen outlook gehaald, maar kwam daarbij wel uit aan de onderkant van de afgegeven bandbreedtes. Dit bleek dinsdagavond uit cijfers die het bedrijf publiceerde.",
     "published_at": "2026-02-10 19:25",
-    "scraped_at": "2026-02-10T22:03:31.892482"
-  },
-  {
-    "id": "a9e3640ddb9a0e7890cd05a4c26eefe5",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen blijven dicht bij huis",
-    "link": "https://www.beurs.nl/Nieuws/853042/Europese-beurzen-blijven-dicht-bij-huis.aspx",
-    "intro": "De aandelenmarkten in Europa zijn dinsdag vlak tot licht lager gesloten, na een stroom bedrijfscijfers tijdens de ochtendhandel, met de nodige koersuitschieters omhoog en omlaag. Spotify was een grote winnaar, terwijl BP en TUI onder druk stonden.",
-    "published_at": "2026-02-10 19:10",
-    "scraped_at": "2026-02-10T22:03:31.892482"
-  },
-  {
-    "id": "99e0cc39e9e58c06f0773cf45acbae6b",
-    "categorie": "Beurs vandaag",
-    "titel": "Slotcall: AEX is beste jongetje van de Europese klas, met dank aan Philips, IMCD en DSM-Firmenich",
-    "link": "https://www.beurs.nl/Artikel/852986/Slotcall-AEX-is-beste-jongetje-van-de-Europese-klas-met-dank-aan-Philips-IMCD-en-DSM-Firmenich.aspx",
-    "intro": "AEX eindigt 0,5% hoger op 1.004 punten. Chemiesector trekt in heel Europa de kar. Cijfers Philips goed ontvangen. Wisselend beeld op Wall Street en bitcoin zet glijvlucht voort.",
-    "published_at": "2026-02-10 18:00",
-    "scraped_at": "2026-02-10T22:03:31.892482"
-  },
-  {
-    "id": "62a1005cc980b3dcf10df35ae87ce717",
-    "categorie": "Beursnieuws",
-    "titel": "Philips grootste uitblinker op groen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/853026/Philips-grootste-uitblinker-op-groen-Damrak.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag met een nette winst gesloten, onder aanvoering van Philips, dat met dubbele cijfers steeg.",
-    "published_at": "2026-02-10 17:56",
-    "scraped_at": "2026-02-10T22:03:31.892482"
+    "scraped_at": "2026-02-11T00:04:21.123152"
   }
 ]
