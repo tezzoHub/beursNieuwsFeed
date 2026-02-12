@@ -1,92 +1,92 @@
 [
   {
-    "id": "ea8193e553501d7f8e59dea730a5ad44",
+    "id": "7dda641c5a0e12614fbac37967389ac5",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam zet Fagron op favorietenlijst",
-    "link": "https://www.beurs.nl/Nieuws/853312/Beursblik-Degroof-Petercam-zet-Fagron-op-favorietenlijst.aspx",
+    "titel": "Beursblik: bemoedigend kwartaal voor CVC",
+    "link": "https://www.beurs.nl/Nieuws/853333/Beursblik-bemoedigend-kwartaal-voor-CVC.aspx",
+    "intro": "CVC Capital Partners heeft in het vierde kwartaal opnieuw sterke resultaten geboekt, en een positieve marktreactie verrast dan ook niet, zeker omdat het aandeel in aanloop naar de kwartaalupdate wat zwak presteerde. Dit stelde Citigroup donderdag in een analistenrapport.",
+    "published_at": "2026-02-12 15:31",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "52e28570ffc51c1abf3940ea0c0c7a09",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street staat licht hogere opening te wachten",
+    "link": "https://www.beurs.nl/Nieuws/853328/Wall-Street-staat-licht-hogere-opening-te-wachten.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa en half uur voor opening tot 0,2 procent in het groen.",
+    "published_at": "2026-02-12 14:55",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "ee55d99e3572b10e8a1af7fc04c528f2",
+    "categorie": "Beursnieuws",
+    "titel": "Minder nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/853325/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week licht gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-02-12 14:34",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "fbfaa4d7e5072a6fbdf3a7651d299bc6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: RELX kan het tij keren in AI-debat",
+    "link": "https://www.beurs.nl/Nieuws/853323/Beursblik-RELX-kan-het-tij-keren-in-AI-debat.aspx",
+    "intro": "Het binnenhalen van nieuwe contracten door verschillende onderdelen van RELX kan het tij helpen keren in het debat over de impact van AI op de lange termijn. Dit stelde Bank of America in een analistenrapport naar aanleiding van de jaarcijfers van het databedrijf.",
+    "published_at": "2026-02-12 14:01",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "90c60826ca36505fcc008a5f641e3540",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel Heineken",
+    "link": "https://www.beurs.nl/Nieuws/853321/Deutsche-Bank-verhoogt-koersdoel-Heineken.aspx",
+    "intro": "Deutsche Bank heeft donderdag het koersdoel voor Heineken verhoogd van 86,00 naar 93,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Duitse bank.",
+    "published_at": "2026-02-12 13:51",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "3186fcd3a503c475255d5073e62833f3",
+    "categorie": "Beursnieuws",
+    "titel": "AFM blokkeert beursgang Treasury",
+    "link": "https://www.beurs.nl/Nieuws/853320/AFM-blokkeert-beursgang-Treasury.aspx",
+    "intro": "Een reverse listing van Treasury BV via MKB Nedsense NV vindt geen doorgang. Dit meldde MKB Nedsense donderdag.",
+    "published_at": "2026-02-12 13:47",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "867cb1653f9c2ddcdfb840c478942b4a",
+    "categorie": "Beursnieuws",
+    "titel": "Verkoop Burger King China drukt winst Restaurant Brands",
+    "link": "https://www.beurs.nl/Nieuws/853318/Verkoop-Burger-King-China-drukt-winst-Restaurant-Brands.aspx",
+    "intro": "Restaurant Brands International, eigenaar van Burger King, Popeyes en Tim Hortons, heeft in het vierde kwartaal een sterker dan verwachte omzet geboekt. De winst daalde wel, door een boekverlies op de verkoop van de Chinese Burger King-restaurants. Dat bleek donderdag uit de kwartaalcijfers.",
+    "published_at": "2026-02-12 13:25",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "f6b2fc3f26eea9a469b27ec56685ae5d",
+    "categorie": "Beursnieuws",
+    "titel": "McDonald's profiteert van prijsverlagingen",
+    "link": "https://www.beurs.nl/Nieuws/853315/McDonalds-profiteert-van-prijsverlagingen.aspx",
+    "intro": "McDonald's heeft afgelopen kwartaal weten te profiteren van de prijsverlagingen die de fastfoodketen doorvoerde. Dit bleek uit de cijfers die McDonald's woensdagavond publiceerde.",
+    "published_at": "2026-02-12 13:21",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "1db3da08b21b311562fabf3faa2e3bf4",
+    "categorie": "Beursnieuws",
+    "titel": "Licht hogere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/853313/Licht-hogere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd tot 0,3 procent in het groen.",
+    "published_at": "2026-02-12 12:52",
+    "scraped_at": "2026-02-12T15:10:55.131345"
+  },
+  {
+    "id": "133055ce2669984b584e077f6c601c6b",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof Petercam zet Fagron op favorietenlijst",
+    "link": "https://www.beurs.nl/Nieuws/853312/Degroof-Petercam-zet-Fagron-op-favorietenlijst.aspx",
     "intro": "Degroof Petercam heeft het koersdoel voor Fagron verhoogd van 25,00 naar 27,00 euro. De bank zet het aandeel op zijn favorietenlijst met behoud van het koopadvies, na de \"gezonde\" resultaten, die de positieve houding van de analisten over dit aandeel bevestigen. Dit bleek donderdag uit een rapport van de bank.",
     "published_at": "2026-02-12 12:51",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "b82040a7310be73f1e5cf8e2d1447fe3",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen stijgen",
-    "link": "https://www.beurs.nl/Nieuws/853309/Europese-beurzen-stijgen.aspx",
-    "intro": "De Europese beurzen noteerden donderdag rond het middaguur hoger, met enig herstel voor softwarebedrijven en financials, na recente verliezen, terwijl Amsterdam zich negatief onderscheidde met een paar aandelen die stevige tikken kregen.",
-    "published_at": "2026-02-12 12:31",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "b0a0f44f4445b1ec717601d8c9dcce46",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaans Nuveen koopt Britse vermogensbeheerder Schroders",
-    "link": "https://www.beurs.nl/Nieuws/853302/Amerikaans-Nuveen-koopt-Britse-vermogensbeheerder-Schroders.aspx",
-    "intro": "De Amerikaanse beheerder van beleggingsfondsen Nuveen koopt vermogensbeheerder Schroders voor 9,9 miljard Britse pond. Dit maakten de Amerikanen donderdag bekend.",
-    "published_at": "2026-02-12 11:52",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "735a3a67292677513390e6dd203269aa",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam verlaagt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/853301/Beursblik-Degroof-Petercam-verlaagt-koersdoel-Adyen.aspx",
-    "intro": "Degroof Petercam heeft donderdag het koersdoel voor Adyen verlaagd van 1.500 naar 1.300 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-02-12 11:42",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "f2ac7fd6cc307442ad5fcab9cd4ba583",
-    "categorie": "Beursnieuws",
-    "titel": "Magnum en Adyen onderuit in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/853295/Magnum-en-Adyen-onderuit-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagochtend lager. Rond de klok van elf uur daalde de AEX met 0,8 procent tot 1.000,84 punten.",
-    "published_at": "2026-02-12 11:21",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "3019e821c7618f7920726d5c6bb47651",
-    "categorie": "Beursnieuws",
-    "titel": "Kepler promoveert Fugro naar de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/853291/Kepler-promoveert-Fugro-naar-de-kooplijst.aspx",
-    "intro": "Kepler Cheuvreux heeft donderdag het advies voor Fugro verhoogd van Houden naar Kopen, waarbij het koersdoel opwaarts werd bijgesteld van 9,00 naar 14,50 euro. Dit bleek uit een rapport van analist Philip Ngotho.",
-    "published_at": "2026-02-12 11:04",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "7cde2ceddaf8ea1098f43f2612ecc8c9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: solide prestaties bij RELX",
-    "link": "https://www.beurs.nl/Nieuws/853290/Beursblik-solide-prestaties-bij-RELX.aspx",
-    "intro": "RELX heeft een solide 2025 achter de rug en de outlook voor 2026 oogt positief. Dit stelden analisten van UBS donderdag in een rapport.",
-    "published_at": "2026-02-12 10:53",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "dba2b4127c3cba53342aaf149f1cc015",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam verlaagt koersdoel DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/853288/Beursblik-Degroof-Petercam-verlaagt-koersdoel-DSM-Firmenich.aspx",
-    "intro": "Degroof Petercam heeft donderdag het koersdoel voor DSM-Firmenich verlaagd van 111,00 naar 100,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-02-12 10:31",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "6dbcb3db6cb977c9fcf7d4306ca96b61",
-    "categorie": "Beursnieuws",
-    "titel": "KBC zet NX Filtration op de verkooplijst",
-    "link": "https://www.beurs.nl/Nieuws/853287/KBC-zet-NX-Filtration-op-de-verkooplijst.aspx",
-    "intro": "KBC Securities heeft donderdag een verkoopadvies gegeven voor NX Filtration met een verlaging van het koersdoel van 2,40 naar 1,80 euro. Dit bleek vanochtend uit een analistenrapport van de bank.",
-    "published_at": "2026-02-12 10:30",
-    "scraped_at": "2026-02-12T12:05:10.962356"
-  },
-  {
-    "id": "759bb9764ac889cd02ab17a7ad7e7cd2",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: weinig verrassingen bij Unilever",
-    "link": "https://www.beurs.nl/Nieuws/853283/Beursblik-weinig-verrassingen-bij-Unilever.aspx",
-    "intro": "Unilever heeft in 2025 grofweg conform de verwachtingen gepresteerd en veel verbetering valt er in 2026 niet te verwachten. Dit oordeelde analist Fernand de Boer van Degroof Petercam donderdag in een rapport.",
-    "published_at": "2026-02-12 09:54",
-    "scraped_at": "2026-02-12T12:05:10.962356"
+    "scraped_at": "2026-02-12T15:10:55.131345"
   }
 ]
