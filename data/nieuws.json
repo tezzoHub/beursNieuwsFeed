@@ -1,12 +1,39 @@
 [
   {
+    "id": "f357dde2d47d77b1b90ab6d292fbd30c",
+    "categorie": "Beursnieuws",
+    "titel": "Keurig Dr Pepper stelt twee nieuwe bestuurders aan",
+    "link": "https://www.beurs.nl/Nieuws/853390/Keurig-Dr-Pepper-stelt-twee-nieuwe-bestuurders-aan.aspx",
+    "intro": "Keurig Dr Pepper stelt twee nieuwe onafhankelijke bestuurders aan. Dit meldde het Amerikaanse bedrijf, dat JDE Peet's wil overnemen, donderdagavond laat.",
+    "published_at": "2026-02-12 23:10",
+    "scraped_at": "2026-02-12T23:01:16.981617"
+  },
+  {
+    "id": "41fb0b7d0a517c8ba7081b42d7a74036",
+    "categorie": "Beursnieuws",
+    "titel": "Investeringen drukken winst Airbnb",
+    "link": "https://www.beurs.nl/Nieuws/853389/Investeringen-drukken-winst-Airbnb.aspx",
+    "intro": "Airbnb heeft in het vierde kwartaal van 2025 een hogere omzet geboekt, terwijl de winst daalde omdat investeringen de kosten opdreven. Dit bleek donderdagavond uit de kwartaalcijfers van het Amerikaanse vakantieverhuurbedrijf.",
+    "published_at": "2026-02-12 22:58",
+    "scraped_at": "2026-02-12T23:01:16.981617"
+  },
+  {
+    "id": "999cf481772d26452d7c9152fa7ac647",
+    "categorie": "Beursnieuws",
+    "titel": "Gemengde resultaten voor Coinbase",
+    "link": "https://www.beurs.nl/Nieuws/853384/Gemengde-resultaten-voor-Coinbase.aspx",
+    "intro": "Cryptobeurs Coinbase heeft in het vierde kwartaal van 2025 gemengde resultaten geboekt, maar wist de verwachting voor de aangepaste winst wel te verslaan. Dit bleek donderdagavond laat uit de resultaten van het Amerikaanse bedrijf.",
+    "published_at": "2026-02-12 22:45",
+    "scraped_at": "2026-02-12T23:01:16.981617"
+  },
+  {
     "id": "fe06f5db1f04cfd496bb087d2f6a5f8a",
     "categorie": "Beursnieuws",
     "titel": "Applied Materials profiteert van AI",
     "link": "https://www.beurs.nl/Nieuws/853382/Applied-Materials-profiteert-van-AI.aspx",
     "intro": "Applied Materials heeft in het eerste kwartaal van zijn lopende boekjaar de eigen verwachtingen verslagen en kwam met een sterke outlook. Dit bleek donderdagavond uit de cijfers van het Amerikaanse bedrijf dat apparatuur, diensten en software levert voor de productie van halfgeleiderchips en een belang heeft in het Nederlandse Besi.",
     "published_at": "2026-02-12 22:31",
-    "scraped_at": "2026-02-12T21:51:48.727149"
+    "scraped_at": "2026-02-12T23:01:16.981617"
   },
   {
     "id": "d0648c26c335e00a555817b67a2dd43a",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/853379/Beursupdate-AEX-op-Wall-Street.aspx",
     "intro": "Op Wall Street zijn donderdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. RELX boekte wel een flinke winst.",
     "published_at": "2026-02-12 22:15",
-    "scraped_at": "2026-02-12T21:51:48.727149"
+    "scraped_at": "2026-02-12T23:01:16.981617"
   },
   {
     "id": "0c75f63a641d622958a7a73a1600f430",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/853374/SP-500-verspeelt-jaarwinst-op-donkerrood-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen zijn donderdag lager geëindigd, waarbij de Dow Jones index weer onder de 50.000 punten zakte.",
     "published_at": "2026-02-12 22:10",
-    "scraped_at": "2026-02-12T21:51:48.727149"
+    "scraped_at": "2026-02-12T23:01:16.981617"
   },
   {
     "id": "8fe9d31d3f266be93e65dc293a25bd9e",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/853371/Oliemarkten-blijven-bezorgd-over-aanbod.aspx",
     "intro": "De olieprijs is donderdag flink gedaald, in het spoor van de aandelenmarkten, waar het sentiment pessimistisch was.",
     "published_at": "2026-02-12 21:04",
-    "scraped_at": "2026-02-12T21:51:48.727149"
+    "scraped_at": "2026-02-12T23:01:16.981617"
   },
   {
     "id": "344adb62e44715199343b5ab8db831e9",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853368/EU-start-nieuw-mededingingsonderzoek-naar-Google.aspx",
     "intro": "De Europese Unie is een nieuw onderzoek gestart naar Google om te achterhalen of het bedrijf illegaal de kosten van advertenties op zijn zoekmachine zou manipuleren. Dit meldde persbureau Bloomberg donderdagavond op basis van een brief van de Europese Commissie.",
     "published_at": "2026-02-12 20:25",
-    "scraped_at": "2026-02-12T21:51:48.727149"
+    "scraped_at": "2026-02-12T23:01:16.981617"
   },
   {
     "id": "74209a4c1aacc7ec1d13593cd9592945",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/853367/Jefferies-verlaagt-koersdoel-DSM-Firmenich-flink.aspx",
     "intro": "Jefferies heeft het koersdoel voor DSM-Firmenich donderdag flink verlaagd, van 96,00 naar 77,00 euro, hoewel het koopadvies bleef staan. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
     "published_at": "2026-02-12 20:01",
-    "scraped_at": "2026-02-12T21:51:48.727149"
+    "scraped_at": "2026-02-12T23:01:16.981617"
   },
   {
     "id": "37ceebbbd53542d6aa83bd2598074abc",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853366/Wall-Street-koerst-flink-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag flink lager met nog een paar uur handel te gaan.",
     "published_at": "2026-02-12 19:41",
-    "scraped_at": "2026-02-12T21:51:48.727149"
-  },
-  {
-    "id": "522980e4a11326c4f63ebe168fb86dd6",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verspelen winst",
-    "link": "https://www.beurs.nl/Nieuws/853361/Europese-beurzen-verspelen-winst.aspx",
-    "intro": "De Europese aandelenmarkten zijn donderdag overwegend lager geëindigd, nadat eerdere winsten verdampten na een zwakke opening op Wall Street, waar technologie-aandelen opnieuw onder druk stonden.",
-    "published_at": "2026-02-12 18:49",
-    "scraped_at": "2026-02-12T21:51:48.727149"
-  },
-  {
-    "id": "e7df2e9f0360bcc38d4b9ee830b866b7",
-    "categorie": "Beursnieuws",
-    "titel": "L'Oreal groeit harder maar komt net tekort",
-    "link": "https://www.beurs.nl/Nieuws/853358/LOreal-groeit-harder-maar-komt-net-tekort.aspx",
-    "intro": "L'Oréal heeft in 2025 een iets hogere omzet geboekt, maar die kwam wel onder de marktverwachting uit, ondanks dat de cosmeticareus de groei wel wist op te voeren. Dit bleek donderdagavond uit de resultaten van het Franse bedrijf.",
-    "published_at": "2026-02-12 18:30",
-    "scraped_at": "2026-02-12T21:51:48.727149"
-  },
-  {
-    "id": "a76216f782e5fbf859deacbb21ecee43",
-    "categorie": "Beursnieuws",
-    "titel": "Recordresultaat voor Hydratec ondanks lagere omzet",
-    "link": "https://www.beurs.nl/Nieuws/853352/Recordresultaat-voor-Hydratec-ondanks-lagere-omzet.aspx",
-    "intro": "Hydratec heeft in 2025 een recordresultaat geboekt, terwijl de omzet daalde. Dit meldde het bedrijf uit Amersfoort donderdagavond.",
-    "published_at": "2026-02-12 18:09",
-    "scraped_at": "2026-02-12T21:51:48.727149"
+    "scraped_at": "2026-02-12T23:01:16.981617"
   }
 ]
