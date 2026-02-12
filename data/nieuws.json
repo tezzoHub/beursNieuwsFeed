@@ -1,12 +1,57 @@
 [
   {
-    "id": "dd8bc5ce4e258fa325eaaf73bc741a1c",
+    "id": "ea8193e553501d7f8e59dea730a5ad44",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Kepler promoveert Fugro naar de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/853291/Beursblik-Kepler-promoveert-Fugro-naar-de-kooplijst.aspx",
+    "titel": "Beursblik: Degroof Petercam zet Fagron op favorietenlijst",
+    "link": "https://www.beurs.nl/Nieuws/853312/Beursblik-Degroof-Petercam-zet-Fagron-op-favorietenlijst.aspx",
+    "intro": "Degroof Petercam heeft het koersdoel voor Fagron verhoogd van 25,00 naar 27,00 euro. De bank zet het aandeel op zijn favorietenlijst met behoud van het koopadvies, na de \"gezonde\" resultaten, die de positieve houding van de analisten over dit aandeel bevestigen. Dit bleek donderdag uit een rapport van de bank.",
+    "published_at": "2026-02-12 12:51",
+    "scraped_at": "2026-02-12T12:05:10.962356"
+  },
+  {
+    "id": "b82040a7310be73f1e5cf8e2d1447fe3",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen stijgen",
+    "link": "https://www.beurs.nl/Nieuws/853309/Europese-beurzen-stijgen.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur hoger, met enig herstel voor softwarebedrijven en financials, na recente verliezen, terwijl Amsterdam zich negatief onderscheidde met een paar aandelen die stevige tikken kregen.",
+    "published_at": "2026-02-12 12:31",
+    "scraped_at": "2026-02-12T12:05:10.962356"
+  },
+  {
+    "id": "b0a0f44f4445b1ec717601d8c9dcce46",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaans Nuveen koopt Britse vermogensbeheerder Schroders",
+    "link": "https://www.beurs.nl/Nieuws/853302/Amerikaans-Nuveen-koopt-Britse-vermogensbeheerder-Schroders.aspx",
+    "intro": "De Amerikaanse beheerder van beleggingsfondsen Nuveen koopt vermogensbeheerder Schroders voor 9,9 miljard Britse pond. Dit maakten de Amerikanen donderdag bekend.",
+    "published_at": "2026-02-12 11:52",
+    "scraped_at": "2026-02-12T12:05:10.962356"
+  },
+  {
+    "id": "735a3a67292677513390e6dd203269aa",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Degroof Petercam verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/853301/Beursblik-Degroof-Petercam-verlaagt-koersdoel-Adyen.aspx",
+    "intro": "Degroof Petercam heeft donderdag het koersdoel voor Adyen verlaagd van 1.500 naar 1.300 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-02-12 11:42",
+    "scraped_at": "2026-02-12T12:05:10.962356"
+  },
+  {
+    "id": "f2ac7fd6cc307442ad5fcab9cd4ba583",
+    "categorie": "Beursnieuws",
+    "titel": "Magnum en Adyen onderuit in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/853295/Magnum-en-Adyen-onderuit-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend lager. Rond de klok van elf uur daalde de AEX met 0,8 procent tot 1.000,84 punten.",
+    "published_at": "2026-02-12 11:21",
+    "scraped_at": "2026-02-12T12:05:10.962356"
+  },
+  {
+    "id": "3019e821c7618f7920726d5c6bb47651",
+    "categorie": "Beursnieuws",
+    "titel": "Kepler promoveert Fugro naar de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/853291/Kepler-promoveert-Fugro-naar-de-kooplijst.aspx",
     "intro": "Kepler Cheuvreux heeft donderdag het advies voor Fugro verhoogd van Houden naar Kopen, waarbij het koersdoel opwaarts werd bijgesteld van 9,00 naar 14,50 euro. Dit bleek uit een rapport van analist Philip Ngotho.",
     "published_at": "2026-02-12 11:04",
-    "scraped_at": "2026-02-12T10:30:00.808525"
+    "scraped_at": "2026-02-12T12:05:10.962356"
   },
   {
     "id": "7cde2ceddaf8ea1098f43f2612ecc8c9",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/853290/Beursblik-solide-prestaties-bij-RELX.aspx",
     "intro": "RELX heeft een solide 2025 achter de rug en de outlook voor 2026 oogt positief. Dit stelden analisten van UBS donderdag in een rapport.",
     "published_at": "2026-02-12 10:53",
-    "scraped_at": "2026-02-12T10:30:00.808525"
+    "scraped_at": "2026-02-12T12:05:10.962356"
   },
   {
     "id": "dba2b4127c3cba53342aaf149f1cc015",
@@ -24,16 +69,16 @@
     "link": "https://www.beurs.nl/Nieuws/853288/Beursblik-Degroof-Petercam-verlaagt-koersdoel-DSM-Firmenich.aspx",
     "intro": "Degroof Petercam heeft donderdag het koersdoel voor DSM-Firmenich verlaagd van 111,00 naar 100,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-02-12 10:31",
-    "scraped_at": "2026-02-12T10:30:00.808525"
+    "scraped_at": "2026-02-12T12:05:10.962356"
   },
   {
-    "id": "863ef92f46400663b50ecbd191e49a65",
+    "id": "6dbcb3db6cb977c9fcf7d4306ca96b61",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: KBC zet NX Filtration op de verkooplijst",
-    "link": "https://www.beurs.nl/Nieuws/853287/Beursblik-KBC-zet-NX-Filtration-op-de-verkooplijst.aspx",
+    "titel": "KBC zet NX Filtration op de verkooplijst",
+    "link": "https://www.beurs.nl/Nieuws/853287/KBC-zet-NX-Filtration-op-de-verkooplijst.aspx",
     "intro": "KBC Securities heeft donderdag een verkoopadvies gegeven voor NX Filtration met een verlaging van het koersdoel van 2,40 naar 1,80 euro. Dit bleek vanochtend uit een analistenrapport van de bank.",
     "published_at": "2026-02-12 10:30",
-    "scraped_at": "2026-02-12T10:30:00.808525"
+    "scraped_at": "2026-02-12T12:05:10.962356"
   },
   {
     "id": "759bb9764ac889cd02ab17a7ad7e7cd2",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853283/Beursblik-weinig-verrassingen-bij-Unilever.aspx",
     "intro": "Unilever heeft in 2025 grofweg conform de verwachtingen gepresteerd en veel verbetering valt er in 2026 niet te verwachten. Dit oordeelde analist Fernand de Boer van Degroof Petercam donderdag in een rapport.",
     "published_at": "2026-02-12 09:54",
-    "scraped_at": "2026-02-12T10:30:00.808525"
-  },
-  {
-    "id": "4afd125f0f35b2454b6248dd3ca942f8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: koersval Adyen levert goed instapmoment op",
-    "link": "https://www.beurs.nl/Nieuws/853281/Beursblik-koersval-Adyen-levert-goed-instapmoment-op.aspx",
-    "intro": "De outlook voor 2026 van Adyen kan wat teleurstellen, maar lijkt vooral een poging van het fintechbedrijf om voorzichtig uit de hoek te willen komen. Dit stelden analisten van Citi Research donderdag in een rapport.",
-    "published_at": "2026-02-12 09:46",
-    "scraped_at": "2026-02-12T10:30:00.808525"
-  },
-  {
-    "id": "62b301806371d935258a40e52c0f5998",
-    "categorie": "Beursnieuws",
-    "titel": "ForFarmers zet joint venture op in Polen",
-    "link": "https://www.beurs.nl/Nieuws/853279/ForFarmers-zet-joint-venture-op-in-Polen.aspx",
-    "intro": "ForFarmers heeft een overeenkomst getekend met KPS Food Group voor de oprichting van een joint venture in Polen, waarmee de diervoederproducent zijn positie in de groeiende Poolse pluimveemarkt versterkt. Dit maakte het bedrijf donderdagochtend bekend.",
-    "published_at": "2026-02-12 09:30",
-    "scraped_at": "2026-02-12T10:30:00.808525"
-  },
-  {
-    "id": "b416de99b867b77ceca1c745d9627b52",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: cijfers Flow Traders nipt beter dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/853278/Beursblik-cijfers-Flow-Traders-nipt-beter-dan-verwacht.aspx",
-    "intro": "Flow Traders heeft in het vierde kwartaal iets beter gepresteerd dan verwacht. Dit stelde anaist Thomas Couvreur van KBC Securities donderdag in een rapport.",
-    "published_at": "2026-02-12 09:26",
-    "scraped_at": "2026-02-12T10:30:00.808525"
-  },
-  {
-    "id": "b78c7bebaa5939258dd2d3394639971c",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start maar met grote koersuitslagen",
-    "link": "https://www.beurs.nl/Nieuws/853273/AEX-lager-van-start-maar-met-grote-koersuitslagen.aspx",
-    "intro": "De AEX index koerste donderdagochtend na een cijferregen 0,6 procent lager op 1.002,27 punten, terwijl de Midkap 0,6 procent won.",
-    "published_at": "2026-02-12 09:20",
-    "scraped_at": "2026-02-12T10:30:00.808525"
-  },
-  {
-    "id": "af6fb315d4132591bccbc4a6a1f555b2",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Magnum Ice ziet omzet autonoom groeien",
-    "link": "https://www.beurs.nl/Nieuws/853257/Update-Magnum-Ice-ziet-omzet-autonoom-groeien.aspx",
-    "intro": "The Magnum Ice Cream Company heeft in 2025 de omzet op autonome basis zien groeien en rekent op een min of meer zelfde groei in 2026, maar met een aantrekkende marge. Dit bleek donderdag uit de ijsfabrikant, die is afgesplitst van Unilever.",
-    "published_at": "2026-02-12 09:17",
-    "scraped_at": "2026-02-12T10:30:00.808525"
+    "scraped_at": "2026-02-12T12:05:10.962356"
   }
 ]
