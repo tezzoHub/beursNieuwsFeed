@@ -1,12 +1,66 @@
 [
   {
+    "id": "63bc2c6d10fc4b324d44ec34020cc864",
+    "categorie": "Beursnieuws",
+    "titel": "RELX blinkt uit in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/853502/RELX-blinkt-uit-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, waarbij RELX uitblonk en ook de halfgeleideraandelen goede zaken deden.",
+    "published_at": "2026-02-13 17:51",
+    "scraped_at": "2026-02-13T17:28:54.044109"
+  },
+  {
+    "id": "04dcf9dbc6d9bc9547d47a96ab2d1a09",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/853489/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 23 februari 2026:",
+    "published_at": "2026-02-13 16:35",
+    "scraped_at": "2026-02-13T17:28:54.044109"
+  },
+  {
+    "id": "6777e7d47f23e80771dd43ecab166d48",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/853491/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 23 februari 2026:",
+    "published_at": "2026-02-13 16:35",
+    "scraped_at": "2026-02-13T17:28:54.044109"
+  },
+  {
+    "id": "bbaefd635c42f0a39262ac26e6b56796",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/853492/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 23 februari 2026:",
+    "published_at": "2026-02-13 16:35",
+    "scraped_at": "2026-02-13T17:28:54.044109"
+  },
+  {
+    "id": "a87392ab9dbd58aadea55b9c9edba261",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verlaagt koersdoel RELX",
+    "link": "https://www.beurs.nl/Nieuws/853493/Beursblik-Bank-of-America-verlaagt-koersdoel-RELX.aspx",
+    "intro": "Bank of America heeft het koersdoel voor RELX vrijdag verlaagd van 45,00 tot 37,00 Britse pond, maar wel met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-02-13 16:32",
+    "scraped_at": "2026-02-13T17:28:54.044109"
+  },
+  {
+    "id": "ffbb7fc95759530e1505f3c82cce2aba",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke outlook van Heijmans",
+    "link": "https://www.beurs.nl/Nieuws/853485/Beursblik-sterke-outlook-van-Heijmans.aspx",
+    "intro": "Heijmans heeft in 2025 goed gepresteerd en slaagde erin om de margedoelstelling voor 2027 al te halen. Dit concludeerde analist Martijn den Drijver van ABN AMRO Oddo vrijdag in een rapport.",
+    "published_at": "2026-02-13 16:16",
+    "scraped_at": "2026-02-13T17:28:54.044109"
+  },
+  {
     "id": "f6d262eac6633a94a13611e00860be49",
     "categorie": "Beurs vandaag",
     "titel": "Op deze dagen zijn de belangrijkste beurzen in 2026 gesloten",
     "link": "https://www.beurs.nl/Artikel/852942/Op-deze-dagen-zijn-de-belangrijkste-beurzen-in-2026-gesloten.aspx",
     "intro": "Maandag zijn de beurzen van Hongkong, Shanghai, Seoul en Taipei gesloten. Ook op Wall Street kunt u een speld horen vallen. Dit zijn de feestdagen op de 13 belangrijkste beurzen in 2026.",
     "published_at": "2026-02-13 15:15",
-    "scraped_at": "2026-02-13T14:29:11.671503"
+    "scraped_at": "2026-02-13T17:28:54.044109"
   },
   {
     "id": "677d0d7ca9ae0fed8f7344660dc7c981",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853480/Pentagon-wil-Alibaba-op-zwarte-lijst.aspx",
     "intro": "Het Amerikaanse Pentagon is van plan om een aantal Chinese bedrijven op de zwarte lijst te plaatsen, waaronder techbedrijf Alibaba. Dit meldde persbureau Reuters vrijdagmiddag op basis van twee bronnen.",
     "published_at": "2026-02-13 15:08",
-    "scraped_at": "2026-02-13T14:29:11.671503"
+    "scraped_at": "2026-02-13T17:28:54.044109"
   },
   {
     "id": "8a9a99f7e3895370f2699656187ea188",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/853477/Wall-Street-kleurt-groen-na-meevallende-inflatiecijfers.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel in New York 0,1 procent hoger.",
     "published_at": "2026-02-13 15:05",
-    "scraped_at": "2026-02-13T14:29:11.671503"
+    "scraped_at": "2026-02-13T17:28:54.044109"
   },
   {
     "id": "70f3fd738d28d4158b438639636549d0",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853475/Inflatie-VS-koelt-meer-af-dan-verwacht.aspx",
     "intro": "De consumentenprijzen in de Verenigde Staten zijn in januari nog iets minder sterk gestegen dan vooraf werd verwacht. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-02-13 14:46",
-    "scraped_at": "2026-02-13T14:29:11.671503"
-  },
-  {
-    "id": "e48fe5c3f1cf7d5ef7519a1b4924b3b1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: RELX blijft koopwaardig ondanks alle onzekerheid",
-    "link": "https://www.beurs.nl/Nieuws/853466/Beursblik-RELX-blijft-koopwaardig-ondanks-alle-onzekerheid.aspx",
-    "intro": "RELX is nog steeds koopwaardig, ondanks de toegenomen onzekerheid die wordt veroorzaakt door de impact van AI. Dit stelde UBS vrijdag in een analistenrapport in navolging van de cijfers van het databedrijf op donderdag, waarbij het koersdoel door de Zwitserse bank werd verlaagd van 45,70 tot 36,00 Britse pond.",
-    "published_at": "2026-02-13 14:08",
-    "scraped_at": "2026-02-13T14:29:11.671503"
-  },
-  {
-    "id": "a63e6bafa8745cc3245083631194baec",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street voorzichtig in afwachting van inflatiecijfers",
-    "link": "https://www.beurs.nl/Nieuws/853463/Wall-Street-voorzichtig-in-afwachting-van-inflatiecijfers.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,4 procent lager.",
-    "published_at": "2026-02-13 12:57",
-    "scraped_at": "2026-02-13T14:29:11.671503"
-  },
-  {
-    "id": "92394c79455e93523cc14d18ed6ca6c3",
-    "categorie": "Beursnieuws",
-    "titel": "Europese goedkeuring voor UMG inzake overname Downtown Music",
-    "link": "https://www.beurs.nl/Nieuws/853461/Europese-goedkeuring-voor-UMG-inzake-overname-Downtown-Music.aspx",
-    "intro": "De Europese Unie heeft de overname van Downtown Music door Universal Music Group voorwaardelijk goedgekeurd, nu de twee bedrijven bereid zijn concessies te doen. Dit maakte de Europese Commissie vrijdag bekend.",
-    "published_at": "2026-02-13 12:14",
-    "scraped_at": "2026-02-13T14:29:11.671503"
-  },
-  {
-    "id": "49b88c7fc62b607cf992217ba88d2ba3",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen wachten op inflatiecijfers",
-    "link": "https://www.beurs.nl/Nieuws/853460/Europese-beurzen-wachten-op-inflatiecijfers.aspx",
-    "intro": "De aandelenmarkten in Europa bleven vrijdag rond het middaguur dicht bij huis, in afwachting van nieuwe Amerikaanse inflatiecijfers later op de dag.",
-    "published_at": "2026-02-13 12:08",
-    "scraped_at": "2026-02-13T14:29:11.671503"
-  },
-  {
-    "id": "47f6c4e6df0e8680d6dc7b6c6c4fed3c",
-    "categorie": "Beursnieuws",
-    "titel": "Europese export steeg flink eind 2025",
-    "link": "https://www.beurs.nl/Nieuws/853444/Europese-export-steeg-flink-eind-2025.aspx",
-    "intro": "De Europese export is in december flink gestegen. Dit bleek vrijdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
-    "published_at": "2026-02-13 11:08",
-    "scraped_at": "2026-02-13T14:29:11.671503"
-  },
-  {
-    "id": "b3dd53e46372b7bab859a298df9e36d6",
-    "categorie": "Beursnieuws",
-    "titel": "Economie eurozone groeit in stabiel tempo",
-    "link": "https://www.beurs.nl/Nieuws/853445/Economie-eurozone-groeit-in-stabiel-tempo.aspx",
-    "intro": "De economie in de eurozone is in het vierde kwartaal in een stabiel tempo gegroeid. Dit meldde het statistiekbureau Eurostat vrijdagochtend.",
-    "published_at": "2026-02-13 11:08",
-    "scraped_at": "2026-02-13T14:29:11.671503"
+    "scraped_at": "2026-02-13T17:28:54.044109"
   }
 ]
