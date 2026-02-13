@@ -1,12 +1,66 @@
 [
   {
+    "id": "f6d262eac6633a94a13611e00860be49",
+    "categorie": "Beurs vandaag",
+    "titel": "Op deze dagen zijn de belangrijkste beurzen in 2026 gesloten",
+    "link": "https://www.beurs.nl/Artikel/852942/Op-deze-dagen-zijn-de-belangrijkste-beurzen-in-2026-gesloten.aspx",
+    "intro": "Maandag zijn de beurzen van Hongkong, Shanghai, Seoul en Taipei gesloten. Ook op Wall Street kunt u een speld horen vallen. Dit zijn de feestdagen op de 13 belangrijkste beurzen in 2026.",
+    "published_at": "2026-02-13 15:15",
+    "scraped_at": "2026-02-13T14:29:11.671503"
+  },
+  {
+    "id": "677d0d7ca9ae0fed8f7344660dc7c981",
+    "categorie": "Beursnieuws",
+    "titel": "'Pentagon wil Alibaba op zwarte lijst'",
+    "link": "https://www.beurs.nl/Nieuws/853480/Pentagon-wil-Alibaba-op-zwarte-lijst.aspx",
+    "intro": "Het Amerikaanse Pentagon is van plan om een aantal Chinese bedrijven op de zwarte lijst te plaatsen, waaronder techbedrijf Alibaba. Dit meldde persbureau Reuters vrijdagmiddag op basis van twee bronnen.",
+    "published_at": "2026-02-13 15:08",
+    "scraped_at": "2026-02-13T14:29:11.671503"
+  },
+  {
+    "id": "8a9a99f7e3895370f2699656187ea188",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street kleurt groen na meevallende inflatiecijfers",
+    "link": "https://www.beurs.nl/Nieuws/853477/Wall-Street-kleurt-groen-na-meevallende-inflatiecijfers.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel in New York 0,1 procent hoger.",
+    "published_at": "2026-02-13 15:05",
+    "scraped_at": "2026-02-13T14:29:11.671503"
+  },
+  {
+    "id": "70f3fd738d28d4158b438639636549d0",
+    "categorie": "Beursnieuws",
+    "titel": "Inflatie VS koelt meer af dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/853475/Inflatie-VS-koelt-meer-af-dan-verwacht.aspx",
+    "intro": "De consumentenprijzen in de Verenigde Staten zijn in januari nog iets minder sterk gestegen dan vooraf werd verwacht. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-02-13 14:46",
+    "scraped_at": "2026-02-13T14:29:11.671503"
+  },
+  {
+    "id": "e48fe5c3f1cf7d5ef7519a1b4924b3b1",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: RELX blijft koopwaardig ondanks alle onzekerheid",
+    "link": "https://www.beurs.nl/Nieuws/853466/Beursblik-RELX-blijft-koopwaardig-ondanks-alle-onzekerheid.aspx",
+    "intro": "RELX is nog steeds koopwaardig, ondanks de toegenomen onzekerheid die wordt veroorzaakt door de impact van AI. Dit stelde UBS vrijdag in een analistenrapport in navolging van de cijfers van het databedrijf op donderdag, waarbij het koersdoel door de Zwitserse bank werd verlaagd van 45,70 tot 36,00 Britse pond.",
+    "published_at": "2026-02-13 14:08",
+    "scraped_at": "2026-02-13T14:29:11.671503"
+  },
+  {
+    "id": "a63e6bafa8745cc3245083631194baec",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street voorzichtig in afwachting van inflatiecijfers",
+    "link": "https://www.beurs.nl/Nieuws/853463/Wall-Street-voorzichtig-in-afwachting-van-inflatiecijfers.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,4 procent lager.",
+    "published_at": "2026-02-13 12:57",
+    "scraped_at": "2026-02-13T14:29:11.671503"
+  },
+  {
     "id": "92394c79455e93523cc14d18ed6ca6c3",
     "categorie": "Beursnieuws",
     "titel": "Europese goedkeuring voor UMG inzake overname Downtown Music",
     "link": "https://www.beurs.nl/Nieuws/853461/Europese-goedkeuring-voor-UMG-inzake-overname-Downtown-Music.aspx",
     "intro": "De Europese Unie heeft de overname van Downtown Music door Universal Music Group voorwaardelijk goedgekeurd, nu de twee bedrijven bereid zijn concessies te doen. Dit maakte de Europese Commissie vrijdag bekend.",
     "published_at": "2026-02-13 12:14",
-    "scraped_at": "2026-02-13T11:56:20.237017"
+    "scraped_at": "2026-02-13T14:29:11.671503"
   },
   {
     "id": "49b88c7fc62b607cf992217ba88d2ba3",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853460/Europese-beurzen-wachten-op-inflatiecijfers.aspx",
     "intro": "De aandelenmarkten in Europa bleven vrijdag rond het middaguur dicht bij huis, in afwachting van nieuwe Amerikaanse inflatiecijfers later op de dag.",
     "published_at": "2026-02-13 12:08",
-    "scraped_at": "2026-02-13T11:56:20.237017"
+    "scraped_at": "2026-02-13T14:29:11.671503"
   },
   {
     "id": "47f6c4e6df0e8680d6dc7b6c6c4fed3c",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/853444/Europese-export-steeg-flink-eind-2025.aspx",
     "intro": "De Europese export is in december flink gestegen. Dit bleek vrijdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-02-13 11:08",
-    "scraped_at": "2026-02-13T11:56:20.237017"
+    "scraped_at": "2026-02-13T14:29:11.671503"
   },
   {
     "id": "b3dd53e46372b7bab859a298df9e36d6",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853445/Economie-eurozone-groeit-in-stabiel-tempo.aspx",
     "intro": "De economie in de eurozone is in het vierde kwartaal in een stabiel tempo gegroeid. Dit meldde het statistiekbureau Eurostat vrijdagochtend.",
     "published_at": "2026-02-13 11:08",
-    "scraped_at": "2026-02-13T11:56:20.237017"
-  },
-  {
-    "id": "4b335f5882898ffe6caf8531a1b666c2",
-    "categorie": "Beursnieuws",
-    "titel": "RELX in trek in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/853442/RELX-in-trek-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdag hoger, onder meer geholpen door de koerswinsten bij RELX, Wolters Kluwer en de halfgeleiders.",
-    "published_at": "2026-02-13 10:58",
-    "scraped_at": "2026-02-13T11:56:20.237017"
-  },
-  {
-    "id": "c3ced8dc5aa7e6fba8d2e96c2b78f274",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verlaagt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/853441/UBS-verlaagt-koersdoel-Adyen.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor Adyen verlaagd van 2.000 naar 1.600 euro, maar met handhaving van het koopadvies. Dit bleek uit een rapport van de Zwitserse zakenbank.",
-    "published_at": "2026-02-13 10:34",
-    "scraped_at": "2026-02-13T11:56:20.237017"
-  },
-  {
-    "id": "0c8e2a1036c6266b56b2c4e51c9d5753",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: beperkt opwaarts potentieel bij Aedifica",
-    "link": "https://www.beurs.nl/Nieuws/853440/Beursblik-beperkt-opwaarts-potentieel-bij-Aedifica.aspx",
-    "intro": "Kepler Cheuvreux heeft het koopadvies op Aedifica herhaald, ondanks het beperkte opwaartse potentieel tot het koersdoel van 76,00 euro. Dit bleek vrijdagmorgen uit een rapport van de zakenbank.",
-    "published_at": "2026-02-13 10:32",
-    "scraped_at": "2026-02-13T11:56:20.237017"
-  },
-  {
-    "id": "558772fdb70984ce28d4a476c16ddb4c",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam zet Adyen op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/853436/Degroof-Petercam-zet-Adyen-op-de-kooplijst.aspx",
-    "intro": "Degroof Petercam heeft vrijdag het advies voor Adyen verhoogd van Houden naar Kopen met een herhaling van het koersdoel op 1.300 euro. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-02-13 09:46",
-    "scraped_at": "2026-02-13T11:56:20.237017"
-  },
-  {
-    "id": "3e1b4057be92302f2c691ed84bbcfdae",
-    "categorie": "IEXProfs",
-    "titel": "Must read: Beleggers moeten software(bedrijven) niet afschrijven",
-    "link": "https://www.iexprofs.nl/artikel/853425/Must-read-Beleggers-moeten-softwarebedrijven-niet-afschrijven.aspx",
-    "intro": "Software zal belangrijk blijven. Plus; suiker is uit, Amundi verlaagt exposure naar de VS en Noord-Korea krijgt een vrouwelijke leider in de toekomst.",
-    "published_at": "2026-02-13 09:40",
-    "scraped_at": "2026-02-13T11:56:20.237017"
-  },
-  {
-    "id": "a50c819f441f22dd1dc960ef9da96d43",
-    "categorie": "Beursnieuws",
-    "titel": "Spaanse inflatie verder gedaald",
-    "link": "https://www.beurs.nl/Nieuws/853434/Spaanse-inflatie-verder-gedaald.aspx",
-    "intro": "De Spaanse inflatie is in januari opnieuw gedaald. Dit bleek vrijdag uit cijfers van het Spaanse statistiekbureau Ine.",
-    "published_at": "2026-02-13 09:27",
-    "scraped_at": "2026-02-13T11:56:20.237017"
+    "scraped_at": "2026-02-13T14:29:11.671503"
   }
 ]
