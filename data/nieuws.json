@@ -1,38 +1,92 @@
 [
   {
-    "id": "d12d11b1c394a5fd56c25f60240cd20f",
+    "id": "b3beae87a688a9ef3cbf1bb796e4d1ef",
     "categorie": "Beursnieuws",
-    "titel": "Amerikaanse groei en PCE in de schijnwerpers komende beursweek",
-    "link": "https://www.beurs.nl/Nieuws/853555/Amerikaanse-groei-en-PCE-in-de-schijnwerpers-komende-beursweek.aspx",
-    "intro": "De komende beursweek begint vermoedelijk rustig vanwege President's Day in de Verenigde Staten, waardoor Wall Street maandag gesloten blijft.",
-    "published_at": "2026-02-15 15:01",
-    "scraped_at": "2026-02-16T05:44:13.043481"
+    "titel": "Beursblik: Berenberg verlaagt koersdoel Adyen stevig",
+    "link": "https://www.beurs.nl/Nieuws/853605/Beursblik-Berenberg-verlaagt-koersdoel-Adyen-stevig.aspx",
+    "intro": "Berenberg heeft maandag het koersdoel voor Adyen stevig verlaagd, van 1.550 naar 1.000 euro, terwijl het Houden advies bleef staan. Dit bleek vanochtend uit een rapport van de Duitse zakenbank.",
+    "published_at": "2026-02-16 08:35",
+    "scraped_at": "2026-02-16T08:03:52.977687"
   },
   {
-    "id": "b9106eece0535b611b062f105217c242",
-    "categorie": "Beursnieuws",
-    "titel": "Hapag-Lloyd bevestigt interesse in Israelische concurrent",
-    "link": "https://www.beurs.nl/Nieuws/853552/Hapag-Lloyd-bevestigt-interesse-in-Israelische-concurrent.aspx",
-    "intro": "Hapag-Lloyd voert vergevorderde onderhandelingen over een mogelijke overname van zijn Israëlische concurrent Zim Integrated Shipping Services. Dit bevestigde de Duitse containervervoerder zondag na mediaberichten.",
-    "published_at": "2026-02-15 13:00",
-    "scraped_at": "2026-02-16T05:44:13.043481"
+    "id": "b8dba5d4fc6a5c3f96044eef5c409578",
+    "categorie": "Voorbeurs",
+    "titel": "Lichtgroene opening beursweek in het verschiet, meer spektakel bij goud en zilver",
+    "link": "https://www.beurs.nl/Artikel/853584/Lichtgroene-opening-beursweek-in-het-verschiet-meer-spektakel-bij-goud-en-zilver.aspx",
+    "intro": "Openingsindicatie: +0,2%. Goud, zilver en bitcoin koersen zuidwaarts. Het is stilte voor de storm: later in de week veel cijfers.",
+    "published_at": "2026-02-16 08:20",
+    "scraped_at": "2026-02-16T08:03:52.977687"
   },
   {
-    "id": "88c255485d4e8d4b75c8bbaff6ea1a42",
+    "id": "8890a4b93e3ec5d782862e89c25a9fe5",
     "categorie": "Beursnieuws",
-    "titel": "Media: Uber breidt verder uit in Europa",
-    "link": "https://www.beurs.nl/Nieuws/853550/Media-Uber-breidt-verder-uit-in-Europa.aspx",
-    "intro": "Uber gaat zijn bezorgdiensten dit jaar uitbreiden naar zeven nieuwe Europese landen. Dit meldde The Financial Times zondag.",
-    "published_at": "2026-02-15 12:50",
-    "scraped_at": "2026-02-16T05:44:13.043481"
+    "titel": "AEX start handelsweek afwachtend",
+    "link": "https://www.beurs.nl/Nieuws/853601/AEX-start-handelsweek-afwachtend.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag naar verwachting een min of meer neutrale opening tegemoet.",
+    "published_at": "2026-02-16 08:03",
+    "scraped_at": "2026-02-16T08:03:52.977687"
   },
   {
-    "id": "b43533e8fdf318c2eed196035564863f",
+    "id": "bb042b25ce1a24099b9743a3cfe9a163",
     "categorie": "Beursnieuws",
-    "titel": "Winnaars en verliezen op Damrak na cijfers",
-    "link": "https://www.beurs.nl/Nieuws/853548/Winnaars-en-verliezen-op-Damrak-na-cijfers.aspx",
-    "intro": "De Amsterdamse beurs stond afgelopen week licht onder druk, onder meer door de aanhoudende zorgen over AI, maar ook doordat individuele aandelen de index in het rood trokken.",
-    "published_at": "2026-02-15 11:39",
-    "scraped_at": "2026-02-16T05:44:13.043481"
+    "titel": "Berenberg haalt DSM-Firmenich van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/853598/Berenberg-haalt-DSM-Firmenich-van-de-kooplijst.aspx",
+    "intro": "Berenberg heeft het advies voor DSM-Firmenich verlaagd van Kopen naar Houden, terwijl het koersdoel omlaag ging van 82,00 naar 70,00 euro. Dit bleek maandag uit een rapport van de zakenbank.",
+    "published_at": "2026-02-16 07:35",
+    "scraped_at": "2026-02-16T08:03:52.977687"
+  },
+  {
+    "id": "965c11a149ed5896d21f89b03284c51c",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen noteren nipt hoger bij aanvang feestweek",
+    "link": "https://www.beurs.nl/Nieuws/853596/Aziatische-beurzen-noteren-nipt-hoger-bij-aanvang-feestweek.aspx",
+    "intro": "De Aziatische beurzen koersten maandagochtend licht hoger.",
+    "published_at": "2026-02-16 07:26",
+    "scraped_at": "2026-02-16T08:03:52.977687"
+  },
+  {
+    "id": "6b8649b624cd7c81665468d179e03513",
+    "categorie": "Beursnieuws",
+    "titel": "Weinig verrassende resultaten bij Retail Estates",
+    "link": "https://www.beurs.nl/Nieuws/853594/Weinig-verrassende-resultaten-bij-Retail-Estates.aspx",
+    "intro": "Retail Estates heeft in de eerste negen maanden van het boekjaar 2025-2026 min of meer stabiele resultaten geboekt en herhaalde de dividendverwachting voor dit jaar. Dit maakte het vastgoedbedrijf maandag voorbeurs bekend.",
+    "published_at": "2026-02-16 07:22",
+    "scraped_at": "2026-02-16T08:03:52.977687"
+  },
+  {
+    "id": "56cd8045f89b2b72537de4356d4863d2",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/853591/Europese-beurzen-openen-verdeeld.aspx",
+    "intro": "De Europese beurzen gaan maandag per saldo een hogere opening tegemoet, terwijl Wall Street vandaag de deuren gesloten houdt in verband met 'President’s Day'.",
+    "published_at": "2026-02-16 07:01",
+    "scraped_at": "2026-02-16T08:03:52.977687"
+  },
+  {
+    "id": "a937c234b9b9b6928d90a15896a88c48",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/853587/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 23 februari 2026:",
+    "published_at": "2026-02-16 06:51",
+    "scraped_at": "2026-02-16T08:03:52.977687"
+  },
+  {
+    "id": "8f85b2d33e2e54c3ec60a785126d4a5e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/853589/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 23 februari 2026:",
+    "published_at": "2026-02-16 06:51",
+    "scraped_at": "2026-02-16T08:03:52.977687"
+  },
+  {
+    "id": "5c6233fc7f3cd403dbf7e7f36392b58a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/853590/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 23 februari 2026:",
+    "published_at": "2026-02-16 06:51",
+    "scraped_at": "2026-02-16T08:03:52.977687"
   }
 ]
