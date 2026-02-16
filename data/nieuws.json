@@ -1,92 +1,92 @@
 [
   {
-    "id": "b3beae87a688a9ef3cbf1bb796e4d1ef",
+    "id": "d51a176cd0f9535ce150c9bd529bf75f",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Berenberg verlaagt koersdoel Adyen stevig",
-    "link": "https://www.beurs.nl/Nieuws/853605/Beursblik-Berenberg-verlaagt-koersdoel-Adyen-stevig.aspx",
+    "titel": "Beursblik: hogere marge en resultaat Arcadis verwacht",
+    "link": "https://www.beurs.nl/Nieuws/853637/Beursblik-hogere-marge-en-resultaat-Arcadis-verwacht.aspx",
+    "intro": "Arcadis heeft in het vierde kwartaal van 2025 vermoedelijk een hoger resultaat geboekt, terwijl de marge licht is gestegen. Dit is de verwachting van de analistenconsensus in aanloop naar de cijfers, komende donderdag.",
+    "published_at": "2026-02-16 11:30",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "f133d053fa4755eaf4a2197097865db9",
+    "categorie": "Beursnieuws",
+    "titel": "Industriële productie eurozone omlaag",
+    "link": "https://www.beurs.nl/Nieuws/853633/Industriele-productie-eurozone-omlaag.aspx",
+    "intro": "De industriële productie in de eurozone is in december gedaald. Dit bleek maandag uit voorlopige cijfers van Eurostat, het statistiekbureau van de EU.",
+    "published_at": "2026-02-16 11:05",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "47f666083a8665ec543598b0086bfb73",
+    "categorie": "Beursnieuws",
+    "titel": "Rustige ochtend in Amsterdam: winst voor Adyen, verlies voor DSM-Firmenich",
+    "link": "https://www.beurs.nl/Nieuws/853630/Rustige-ochtend-in-Amsterdam-winst-voor-Adyen-verlies-voor-DSM-Firmenich.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandag licht hoger, maar bleef onder de 1.000 punten, bij een gebrek aan impulsen door feestdagen in China en de Verenigde Staten.",
+    "published_at": "2026-02-16 10:51",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "094a3234ffe92bf6dc823b970be5ee01",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: ASR genereerde naar verwachting meer kapitaal",
+    "link": "https://www.beurs.nl/Nieuws/853628/Beursblik-ASR-genereerde-naar-verwachting-meer-kapitaal.aspx",
+    "intro": "ASR Nederland zal bij de jaarcijfers woensdag voorbeurs naar verwachting een hogere kapitaalaanwas rapporteren en een dito solvabiliteitsratio. Dat blijkt uit een consensusverwachting die de verzekeraar op zijn website publiceerde.",
+    "published_at": "2026-02-16 10:46",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "e6f366b4b7f8cc2f061526e439ade305",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/853624/UBS-verlaagt-koersdoel-Adyen.aspx",
+    "intro": "UBS heeft het koersdoel voor Adyen verlaagd van 2.000 naar 1.600 euro, maar handhaafde wel het koopadvies voor de Amsterdamse betaalspecialist. Dit bleek maandag uit een rapport van analist Justin Forsythe.",
+    "published_at": "2026-02-16 10:24",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "d2b31b7a0b4ef1f42d6af30fabb13ec1",
+    "categorie": "Beursnieuws",
+    "titel": "Valuta: dunne handel door feestdag in de VS",
+    "link": "https://www.beurs.nl/Nieuws/853622/Valuta-dunne-handel-door-feestdag-in-de-VS.aspx",
+    "intro": "De euro/dollar kwam maandagochtend nauwelijks van zijn plaats en noteerde op 1,1863, in een dunne handel vanwege President's Day in de Verenigde Staten, waardoor Wall Street de deuren gesloten houdt. In China zijn de markten gesloten vanwege de viering van Chinees Nieuwjaar.",
+    "published_at": "2026-02-16 10:21",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "959f57dbad127e6c2af9f54770ccaee8",
+    "categorie": "Beursnieuws",
+    "titel": "Kepler verhoogt koersdoel Heijmans stevig",
+    "link": "https://www.beurs.nl/Nieuws/853621/Kepler-verhoogt-koersdoel-Heijmans-stevig.aspx",
+    "intro": "Kepler Cheuvreux heeft maandag het koersdoel voor Heijmans verhoogd van 68,00 naar 100,00 euro, terwijl het koopadvies bleef staan. Dit bleek uit een analistenrapport van de bank.",
+    "published_at": "2026-02-16 10:03",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "97b3fdb549c8fd40b1e6206babba4037",
+    "categorie": "IEXProfs",
+    "titel": "Must read: Tekort geheugenchips is steeds groter economisch probleem",
+    "link": "https://www.iexprofs.nl/artikel/853249/Must-read-Tekort-geheugenchips-is-steeds-groter-economisch-probleem.aspx",
+    "intro": "Plus: goud en zilver bieden amper inflatiebescherming, beurzen terug naar roaring twenties, Europese aandelen zijn wel/niet koopwaardig, economen voor eurobonds, en méér.",
+    "published_at": "2026-02-16 10:00",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "0dcba0176773d662a308b3abf19b21f7",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/853611/AEX-licht-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 0,2 procent hoger naar 995,31 punten, terwijl de Midkap 0,5 procent won.",
+    "published_at": "2026-02-16 09:16",
+    "scraped_at": "2026-02-16T11:10:43.206224"
+  },
+  {
+    "id": "daa7d2f7fb5b1646100645c72b8d5dd9",
+    "categorie": "Beursnieuws",
+    "titel": "Berenberg verlaagt koersdoel Adyen stevig",
+    "link": "https://www.beurs.nl/Nieuws/853605/Berenberg-verlaagt-koersdoel-Adyen-stevig.aspx",
     "intro": "Berenberg heeft maandag het koersdoel voor Adyen stevig verlaagd, van 1.550 naar 1.000 euro, terwijl het Houden advies bleef staan. Dit bleek vanochtend uit een rapport van de Duitse zakenbank.",
     "published_at": "2026-02-16 08:35",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "b8dba5d4fc6a5c3f96044eef5c409578",
-    "categorie": "Voorbeurs",
-    "titel": "Lichtgroene opening beursweek in het verschiet, meer spektakel bij goud en zilver",
-    "link": "https://www.beurs.nl/Artikel/853584/Lichtgroene-opening-beursweek-in-het-verschiet-meer-spektakel-bij-goud-en-zilver.aspx",
-    "intro": "Openingsindicatie: +0,2%. Goud, zilver en bitcoin koersen zuidwaarts. Het is stilte voor de storm: later in de week veel cijfers.",
-    "published_at": "2026-02-16 08:20",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "8890a4b93e3ec5d782862e89c25a9fe5",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsweek afwachtend",
-    "link": "https://www.beurs.nl/Nieuws/853601/AEX-start-handelsweek-afwachtend.aspx",
-    "intro": "De Amsterdamse beurs gaat maandag naar verwachting een min of meer neutrale opening tegemoet.",
-    "published_at": "2026-02-16 08:03",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "bb042b25ce1a24099b9743a3cfe9a163",
-    "categorie": "Beursnieuws",
-    "titel": "Berenberg haalt DSM-Firmenich van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/853598/Berenberg-haalt-DSM-Firmenich-van-de-kooplijst.aspx",
-    "intro": "Berenberg heeft het advies voor DSM-Firmenich verlaagd van Kopen naar Houden, terwijl het koersdoel omlaag ging van 82,00 naar 70,00 euro. Dit bleek maandag uit een rapport van de zakenbank.",
-    "published_at": "2026-02-16 07:35",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "965c11a149ed5896d21f89b03284c51c",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren nipt hoger bij aanvang feestweek",
-    "link": "https://www.beurs.nl/Nieuws/853596/Aziatische-beurzen-noteren-nipt-hoger-bij-aanvang-feestweek.aspx",
-    "intro": "De Aziatische beurzen koersten maandagochtend licht hoger.",
-    "published_at": "2026-02-16 07:26",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "6b8649b624cd7c81665468d179e03513",
-    "categorie": "Beursnieuws",
-    "titel": "Weinig verrassende resultaten bij Retail Estates",
-    "link": "https://www.beurs.nl/Nieuws/853594/Weinig-verrassende-resultaten-bij-Retail-Estates.aspx",
-    "intro": "Retail Estates heeft in de eerste negen maanden van het boekjaar 2025-2026 min of meer stabiele resultaten geboekt en herhaalde de dividendverwachting voor dit jaar. Dit maakte het vastgoedbedrijf maandag voorbeurs bekend.",
-    "published_at": "2026-02-16 07:22",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "56cd8045f89b2b72537de4356d4863d2",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/853591/Europese-beurzen-openen-verdeeld.aspx",
-    "intro": "De Europese beurzen gaan maandag per saldo een hogere opening tegemoet, terwijl Wall Street vandaag de deuren gesloten houdt in verband met 'President’s Day'.",
-    "published_at": "2026-02-16 07:01",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "a937c234b9b9b6928d90a15896a88c48",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/853587/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 23 februari 2026:",
-    "published_at": "2026-02-16 06:51",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "8f85b2d33e2e54c3ec60a785126d4a5e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/853589/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 23 februari 2026:",
-    "published_at": "2026-02-16 06:51",
-    "scraped_at": "2026-02-16T08:03:52.977687"
-  },
-  {
-    "id": "5c6233fc7f3cd403dbf7e7f36392b58a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/853590/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 23 februari 2026:",
-    "published_at": "2026-02-16 06:51",
-    "scraped_at": "2026-02-16T08:03:52.977687"
+    "scraped_at": "2026-02-16T11:10:43.206224"
   }
 ]
