@@ -1,12 +1,57 @@
 [
   {
-    "id": "d603cf8c68205009adfa5cb2973335a8",
+    "id": "37f1f838b6ead77e093cb0cc110ddd1a",
     "categorie": "Beursnieuws",
-    "titel": "Geen handel op Wall Street door President's Day",
-    "link": "https://www.beurs.nl/Nieuws/853662/Geen-handel-op-Wall-Street-door-Presidents-Day.aspx",
+    "titel": "Envipco wordt enige leverancier Portugees statiegeldsysteem",
+    "link": "https://www.beurs.nl/Nieuws/853674/Envipco-wordt-enige-leverancier-Portugees-statiegeldsysteem.aspx",
+    "intro": "Envipco is aangewezen als de exclusieve leverancier van grootschalige inzamelsystemen voor de Portugese statiegeldexploitant SDR Portugal. Dit maakte het bedrijf maandag bekend.",
+    "published_at": "2026-02-16 16:35",
+    "scraped_at": "2026-02-16T16:26:01.141068"
+  },
+  {
+    "id": "80e768b397ca5c8b63a0249bd43d6ce5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/853668/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 24 februari 2026:",
+    "published_at": "2026-02-16 16:03",
+    "scraped_at": "2026-02-16T16:26:01.141068"
+  },
+  {
+    "id": "1cac1df5e702e726426988bc43e3721e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/853670/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 24 februari 2026:",
+    "published_at": "2026-02-16 16:03",
+    "scraped_at": "2026-02-16T16:26:01.141068"
+  },
+  {
+    "id": "836bdf1a1648edd78fde082fc57f0b66",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/853671/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 24 februari 2026:",
+    "published_at": "2026-02-16 16:03",
+    "scraped_at": "2026-02-16T16:26:01.141068"
+  },
+  {
+    "id": "94f907de69b7456584f991696a3147f8",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Volkswagen wil flink in de kosten snijden",
+    "link": "https://www.beurs.nl/Nieuws/853666/Media-Volkswagen-wil-flink-in-de-kosten-snijden.aspx",
+    "intro": "Volkswagen wil tegen eind 2028 de kosten met 20 procent verlagen. Dit meldde Manager Magazin maandag.",
+    "published_at": "2026-02-16 15:30",
+    "scraped_at": "2026-02-16T16:26:01.141068"
+  },
+  {
+    "id": "41a6bdfe05b9add06efa2a6fcc77930d",
+    "categorie": "Beursnieuws",
+    "titel": "Geen handel op Wall Street vanwege President's Day",
+    "link": "https://www.beurs.nl/Nieuws/853662/Geen-handel-op-Wall-Street-vanwege-Presidents-Day.aspx",
     "intro": "Wall Street blijft maandag gesloten, vanwege President's Day in de Verenigde Staten.",
     "published_at": "2026-02-16 14:44",
-    "scraped_at": "2026-02-16T14:14:12.913734"
+    "scraped_at": "2026-02-16T16:26:01.141068"
   },
   {
     "id": "8db32d51dab73db95a2aca5d2741876e",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/853649/Update-beursblik-stabiele-cijfers-voor-Aegon-voorzien.aspx",
     "intro": "Aegon heeft in de tweede helft van 2025 naar verwachting een stabiele kapitaalaanwas geboekt, met een licht lagere solvabiliteit. Dat is de gemiddelde verwachting van analisten, volgens een consensusverwachting die werd samengesteld door Aegon.",
     "published_at": "2026-02-16 14:10",
-    "scraped_at": "2026-02-16T14:14:12.913734"
+    "scraped_at": "2026-02-16T16:26:01.141068"
   },
   {
     "id": "812fae65915b54c129028a01e8a25d93",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853644/Obligatie-Nederland-haalt-bijna-37-miljard-euro-op.aspx",
     "intro": "Nederland heeft met de veiling van twee korte leningen 3,68 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën maandag bekend.",
     "published_at": "2026-02-16 12:13",
-    "scraped_at": "2026-02-16T14:14:12.913734"
+    "scraped_at": "2026-02-16T16:26:01.141068"
   },
   {
     "id": "f220e72763d23b04443bd05885d1cade",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/853643/Europese-beurzen-kleuren-groen-rond-middaguur.aspx",
     "intro": "De Europese aandelenmarkten noteerden maandag rond het middaguur in het groen, ondanks een gebrek aan impulsen.",
     "published_at": "2026-02-16 12:08",
-    "scraped_at": "2026-02-16T14:14:12.913734"
+    "scraped_at": "2026-02-16T16:26:01.141068"
   },
   {
     "id": "bfd9b69a080ae4c3bfdc236071a98d27",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853642/Beursblik-bescheiden-groei-bij-IMCD-verwacht.aspx",
     "intro": "IMCD heeft in het vierde kwartaal en in heel 2025 vermoedelijk een lager resultaat geboekt, terwijl de groei bescheiden was in de laatste maanden van het jaar. Dit is de verwachting van Jefferies en de analistenconsensus.",
     "published_at": "2026-02-16 12:04",
-    "scraped_at": "2026-02-16T14:14:12.913734"
-  },
-  {
-    "id": "d51a176cd0f9535ce150c9bd529bf75f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: hogere marge en resultaat Arcadis verwacht",
-    "link": "https://www.beurs.nl/Nieuws/853637/Beursblik-hogere-marge-en-resultaat-Arcadis-verwacht.aspx",
-    "intro": "Arcadis heeft in het vierde kwartaal van 2025 vermoedelijk een hoger resultaat geboekt, terwijl de marge licht is gestegen. Dit is de verwachting van de analistenconsensus in aanloop naar de cijfers, komende donderdag.",
-    "published_at": "2026-02-16 11:30",
-    "scraped_at": "2026-02-16T14:14:12.913734"
-  },
-  {
-    "id": "f133d053fa4755eaf4a2197097865db9",
-    "categorie": "Beursnieuws",
-    "titel": "Industriële productie eurozone omlaag",
-    "link": "https://www.beurs.nl/Nieuws/853633/Industriele-productie-eurozone-omlaag.aspx",
-    "intro": "De industriële productie in de eurozone is in december gedaald. Dit bleek maandag uit voorlopige cijfers van Eurostat, het statistiekbureau van de EU.",
-    "published_at": "2026-02-16 11:05",
-    "scraped_at": "2026-02-16T14:14:12.913734"
-  },
-  {
-    "id": "47f666083a8665ec543598b0086bfb73",
-    "categorie": "Beursnieuws",
-    "titel": "Rustige ochtend in Amsterdam: winst voor Adyen, verlies voor DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/853630/Rustige-ochtend-in-Amsterdam-winst-voor-Adyen-verlies-voor-DSM-Firmenich.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandag licht hoger, maar bleef onder de 1.000 punten, bij een gebrek aan impulsen door feestdagen in China en de Verenigde Staten.",
-    "published_at": "2026-02-16 10:51",
-    "scraped_at": "2026-02-16T14:14:12.913734"
-  },
-  {
-    "id": "094a3234ffe92bf6dc823b970be5ee01",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: ASR genereerde naar verwachting meer kapitaal",
-    "link": "https://www.beurs.nl/Nieuws/853628/Beursblik-ASR-genereerde-naar-verwachting-meer-kapitaal.aspx",
-    "intro": "ASR Nederland zal bij de jaarcijfers woensdag voorbeurs naar verwachting een hogere kapitaalaanwas rapporteren en een dito solvabiliteitsratio. Dat blijkt uit een consensusverwachting die de verzekeraar op zijn website publiceerde.",
-    "published_at": "2026-02-16 10:46",
-    "scraped_at": "2026-02-16T14:14:12.913734"
-  },
-  {
-    "id": "e6f366b4b7f8cc2f061526e439ade305",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verlaagt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/853624/UBS-verlaagt-koersdoel-Adyen.aspx",
-    "intro": "UBS heeft het koersdoel voor Adyen verlaagd van 2.000 naar 1.600 euro, maar handhaafde wel het koopadvies voor de Amsterdamse betaalspecialist. Dit bleek maandag uit een rapport van analist Justin Forsythe.",
-    "published_at": "2026-02-16 10:24",
-    "scraped_at": "2026-02-16T14:14:12.913734"
+    "scraped_at": "2026-02-16T16:26:01.141068"
   }
 ]
