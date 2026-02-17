@@ -1,12 +1,66 @@
 [
   {
+    "id": "b7cc837040ff3fb9c34017cbbf3c9141",
+    "categorie": "Beursnieuws",
+    "titel": "Goudprijs duikt onder 5.000 dollar",
+    "link": "https://www.beurs.nl/Nieuws/853821/Goudprijs-duikt-onder-5000-dollar.aspx",
+    "intro": "De goudprijs is dinsdag onder de 5.000 dollar gedoken, terwijl zilver minder dan 75 dollar waard werd.",
+    "published_at": "2026-02-17 20:39",
+    "scraped_at": "2026-02-17T20:00:29.227859"
+  },
+  {
+    "id": "0f098d0e32f7bdbffd1df745acd8eca7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Citi plakt koopadvies op ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/853820/Beursblik-Citi-plakt-koopadvies-op-ABN-AMRO.aspx",
+    "intro": "Citi Research heeft de opvolging voor ABN AMRO hervat met een koopadvies en een koersdoel van 36,60 euro. Dit bleek dinsdag uit een rapport van Citi, dat ABN AMRO ook weer als 'top pick' heeft onder de banken uit de Benelux.",
+    "published_at": "2026-02-17 20:18",
+    "scraped_at": "2026-02-17T20:00:29.227859"
+  },
+  {
+    "id": "7b2f9c1f8f80b2594c91ffedbac5e730",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst lager",
+    "link": "https://www.beurs.nl/Nieuws/853819/Wall-Street-koerst-lager.aspx",
+    "intro": "De Amerikaanse beurzen noteerden dinsdag licht lager met nog een paar uur handel te gaan.",
+    "published_at": "2026-02-17 19:30",
+    "scraped_at": "2026-02-17T20:00:29.227859"
+  },
+  {
+    "id": "2bc7218f47c72afc11378f89fbaa7871",
+    "categorie": "Beursnieuws",
+    "titel": "Bayer bevestigt nieuwe Roundup-schikkingen",
+    "link": "https://www.beurs.nl/Nieuws/853818/Bayer-bevestigt-nieuwe-Roundup-schikkingen.aspx",
+    "intro": "Bayer wil opnieuw voor miljarden dollars schikken in rechtszaken met betrekking tot onkruidverdelger Roundup, die kanker zou veroorzaken. Dit bevestigde het Duitse bedrijf dinsdag na eerdere berichtgeving van Bloomberg.",
+    "published_at": "2026-02-17 19:10",
+    "scraped_at": "2026-02-17T20:00:29.227859"
+  },
+  {
     "id": "c465041827c348568bcc7573a49a1ccf",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen houden goed stand",
     "link": "https://www.beurs.nl/Nieuws/853811/Europese-beurzen-houden-goed-stand.aspx",
     "intro": "De Europese aandelenmarkten zijn dinsdag hoger geëindigd, ondanks de nervositeit op Wall Street na een lang weekend.",
     "published_at": "2026-02-17 18:41",
-    "scraped_at": "2026-02-17T18:05:51.663160"
+    "scraped_at": "2026-02-17T20:00:29.227859"
+  },
+  {
+    "id": "930be531cdb07a4c8f765f513081253d",
+    "categorie": "Beursnieuws",
+    "titel": "Theon International haalt nieuwe orders binnen",
+    "link": "https://www.beurs.nl/Nieuws/853809/Theon-International-haalt-nieuwe-orders-binnen.aspx",
+    "intro": "Theon International, de op Euronext Amsterdam genoteerde producent van nachtzichtapparatuur, heeft nieuwe vaste orders ter waarde van circa 41 miljoen euro binnengehaald van Europese NAVO-lidstaten en landen in het Midden-Oosten. De orders omvatten nachtzichtbrillen en thermische opzetstukken. Dit meldde het bedrijf dinsdag nabeurs.",
+    "published_at": "2026-02-17 18:22",
+    "scraped_at": "2026-02-17T20:00:29.227859"
+  },
+  {
+    "id": "096c183aa8f9d2595837249bb6158fc3",
+    "categorie": "Beursnieuws",
+    "titel": "Havas overtreft eigen groeiverwachting",
+    "link": "https://www.beurs.nl/Nieuws/853807/Havas-overtreft-eigen-groeiverwachting.aspx",
+    "intro": "Reclame- en communicatieconcern Havas heeft zijn omzetdoel voor 2025 overtroffen, maar werd in zijn vooruitblik naar het nieuwe jaar iets voorzichtiger. Dit bleek dinsdag nabeurs uit de jaarcijfers van het Parijse reclamebureau met een notering in Amsterdam.",
+    "published_at": "2026-02-17 18:12",
+    "scraped_at": "2026-02-17T20:00:29.227859"
   },
   {
     "id": "b34686f20f5df9589192ebb65d6d731f",
@@ -15,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/853774/IEX-slotcall-Zeer-verdeelde-AEX-sluit-alsnog-hoger.aspx",
     "intro": "",
     "published_at": "2026-02-17 18:00",
-    "scraped_at": "2026-02-17T18:05:51.663160"
+    "scraped_at": "2026-02-17T20:00:29.227859"
   },
   {
     "id": "a6792de70680c5536f5162761c8dc8e9",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/853806/Herstel-Adyen-helpt-AEX-omhoog.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, dankzij brede stijgingen en herstel bij Adyen, terwijl de belangstelling voor roomijs wegsmolt.",
     "published_at": "2026-02-17 17:59",
-    "scraped_at": "2026-02-17T18:05:51.663160"
+    "scraped_at": "2026-02-17T20:00:29.227859"
   },
   {
     "id": "3c7d56750859de07b5a4b8460cd520e3",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853796/Media-Fed-bestuurder-Goolsbee-ziet-kans-op-renteverlagingen.aspx",
     "intro": "Chicago Fed-president Austan Goolsbee ziet ruimte voor meerdere renteverlagingen in 2026, mits de inflatie overtuigend richting de doelstelling van 2 procent beweegt. Dat zei hij dinsdag in een interview met CNBC.",
     "published_at": "2026-02-17 16:52",
-    "scraped_at": "2026-02-17T18:05:51.663160"
-  },
-  {
-    "id": "59ef3c39d4e91b8ff29d18f941b31fdf",
-    "categorie": "Beursnieuws",
-    "titel": "\"Bayer trekt opnieuw miljarden uit voor Roundup-schikkingen\"",
-    "link": "https://www.beurs.nl/Nieuws/853793/Bayer-trekt-opnieuw-miljarden-uit-voor-Roundup-schikkingen.aspx",
-    "intro": "Bayer is bereid om voor een bedrag van 10,5 miljard dollar te schikken om lopende en toekomstige rechtszaken rond onkruidverdelger Roundup af te handelen. Dit meldde persbureau Bloomberg dinsdag op basis van bronnen.",
-    "published_at": "2026-02-17 16:47",
-    "scraped_at": "2026-02-17T18:05:51.663160"
-  },
-  {
-    "id": "8bb332588e382c3e5a26d2a0ab124bc1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/853788/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 25 februari 2026:",
-    "published_at": "2026-02-17 16:31",
-    "scraped_at": "2026-02-17T18:05:51.663160"
-  },
-  {
-    "id": "9aff83f80697390c3a35d74b9c42587a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/853789/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 25 februari 2026:",
-    "published_at": "2026-02-17 16:31",
-    "scraped_at": "2026-02-17T18:05:51.663160"
-  },
-  {
-    "id": "e8c9655d6b139edc8e6b5777b3470575",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/853790/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 25 februari 2026:",
-    "published_at": "2026-02-17 16:31",
-    "scraped_at": "2026-02-17T18:05:51.663160"
-  },
-  {
-    "id": "4c69f31f5e51c292c8f34a7d03e42be7",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen Amerikaanse huizenbouwers licht gedaald",
-    "link": "https://www.beurs.nl/Nieuws/853786/Vertrouwen-Amerikaanse-huizenbouwers-licht-gedaald.aspx",
-    "intro": "Het vertrouwen onder Amerikaanse huizenbouwers is in februari licht gedaald. Dit bleek dinsdag uit data van de National Association of Home Builders.",
-    "published_at": "2026-02-17 16:08",
-    "scraped_at": "2026-02-17T18:05:51.663160"
-  },
-  {
-    "id": "250c64b90a1b9beda3ca8a4e9df42cf0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: meer omzet voor Euronext",
-    "link": "https://www.beurs.nl/Nieuws/853781/Beursblik-meer-omzet-voor-Euronext.aspx",
-    "intro": "Euronext heeft in het vierde kwartaal van 2025 naar verwachting een hogere omzet geboekt ten opzichte van een jaar eerder, terwijl ook het resultaat steeg, maar de marge vermoedelijk daalde. Dit blijkt uit de analistenconsensus die in aanloop naar de cijfers op de website van de beursuitbater is gepubliceerd.",
-    "published_at": "2026-02-17 15:58",
-    "scraped_at": "2026-02-17T18:05:51.663160"
+    "scraped_at": "2026-02-17T20:00:29.227859"
   }
 ]
