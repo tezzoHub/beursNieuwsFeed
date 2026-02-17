@@ -1,12 +1,48 @@
 [
   {
+    "id": "b1a9693c130b611b482e506ecc69841d",
+    "categorie": "Beursnieuws",
+    "titel": "Meta koopt miljoenen chips van Nvidia",
+    "link": "https://www.beurs.nl/Nieuws/853833/Meta-koopt-miljoenen-chips-van-Nvidia.aspx",
+    "intro": "Meta Platforms gaat miljoenen chips van Nvidia kopen, om de verdere uitrol van zijn AI-infrastructuur te ondersteunen. Dit meldden de twee bedrijven dinsdagavond.",
+    "published_at": "2026-02-17 22:35",
+    "scraped_at": "2026-02-17T21:51:37.503391"
+  },
+  {
+    "id": "3e84de125ce9a0aa3733a8caa32040c4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/853828/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-02-17 22:15",
+    "scraped_at": "2026-02-17T21:51:37.503391"
+  },
+  {
+    "id": "3331168c3195f21862f12eb8a2ea17cb",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street blijft nerveus over AI",
+    "link": "https://www.beurs.nl/Nieuws/853827/Wall-Street-blijft-nerveus-over-AI.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag licht hoger geëindigd na een volatiele sessie, die de nervositeit kenmerkte onder beleggers na een lang weekend.",
+    "published_at": "2026-02-17 22:10",
+    "scraped_at": "2026-02-17T21:51:37.503391"
+  },
+  {
+    "id": "22be249de6bfacabd7394410e22a2daa",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs onder druk terwijl VS en Iran onderhandelen",
+    "link": "https://www.beurs.nl/Nieuws/853824/Olieprijs-onder-druk-terwijl-VS-en-Iran-onderhandelen.aspx",
+    "intro": "De olieprijs is dinsdag gedaald. De settlement van West Texas Intermediate was 62,33 dollar, waarmee een vat bijna een procent goedkoper werd.",
+    "published_at": "2026-02-17 20:56",
+    "scraped_at": "2026-02-17T21:51:37.503391"
+  },
+  {
     "id": "b7cc837040ff3fb9c34017cbbf3c9141",
     "categorie": "Beursnieuws",
     "titel": "Goudprijs duikt onder 5.000 dollar",
     "link": "https://www.beurs.nl/Nieuws/853821/Goudprijs-duikt-onder-5000-dollar.aspx",
     "intro": "De goudprijs is dinsdag onder de 5.000 dollar gedoken, terwijl zilver minder dan 75 dollar waard werd.",
     "published_at": "2026-02-17 20:39",
-    "scraped_at": "2026-02-17T20:00:29.227859"
+    "scraped_at": "2026-02-17T21:51:37.503391"
   },
   {
     "id": "0f098d0e32f7bdbffd1df745acd8eca7",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/853820/Beursblik-Citi-plakt-koopadvies-op-ABN-AMRO.aspx",
     "intro": "Citi Research heeft de opvolging voor ABN AMRO hervat met een koopadvies en een koersdoel van 36,60 euro. Dit bleek dinsdag uit een rapport van Citi, dat ABN AMRO ook weer als 'top pick' heeft onder de banken uit de Benelux.",
     "published_at": "2026-02-17 20:18",
-    "scraped_at": "2026-02-17T20:00:29.227859"
+    "scraped_at": "2026-02-17T21:51:37.503391"
   },
   {
     "id": "7b2f9c1f8f80b2594c91ffedbac5e730",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/853819/Wall-Street-koerst-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag licht lager met nog een paar uur handel te gaan.",
     "published_at": "2026-02-17 19:30",
-    "scraped_at": "2026-02-17T20:00:29.227859"
+    "scraped_at": "2026-02-17T21:51:37.503391"
   },
   {
     "id": "2bc7218f47c72afc11378f89fbaa7871",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853818/Bayer-bevestigt-nieuwe-Roundup-schikkingen.aspx",
     "intro": "Bayer wil opnieuw voor miljarden dollars schikken in rechtszaken met betrekking tot onkruidverdelger Roundup, die kanker zou veroorzaken. Dit bevestigde het Duitse bedrijf dinsdag na eerdere berichtgeving van Bloomberg.",
     "published_at": "2026-02-17 19:10",
-    "scraped_at": "2026-02-17T20:00:29.227859"
+    "scraped_at": "2026-02-17T21:51:37.503391"
   },
   {
     "id": "c465041827c348568bcc7573a49a1ccf",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/853811/Europese-beurzen-houden-goed-stand.aspx",
     "intro": "De Europese aandelenmarkten zijn dinsdag hoger geëindigd, ondanks de nervositeit op Wall Street na een lang weekend.",
     "published_at": "2026-02-17 18:41",
-    "scraped_at": "2026-02-17T20:00:29.227859"
+    "scraped_at": "2026-02-17T21:51:37.503391"
   },
   {
     "id": "930be531cdb07a4c8f765f513081253d",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853809/Theon-International-haalt-nieuwe-orders-binnen.aspx",
     "intro": "Theon International, de op Euronext Amsterdam genoteerde producent van nachtzichtapparatuur, heeft nieuwe vaste orders ter waarde van circa 41 miljoen euro binnengehaald van Europese NAVO-lidstaten en landen in het Midden-Oosten. De orders omvatten nachtzichtbrillen en thermische opzetstukken. Dit meldde het bedrijf dinsdag nabeurs.",
     "published_at": "2026-02-17 18:22",
-    "scraped_at": "2026-02-17T20:00:29.227859"
-  },
-  {
-    "id": "096c183aa8f9d2595837249bb6158fc3",
-    "categorie": "Beursnieuws",
-    "titel": "Havas overtreft eigen groeiverwachting",
-    "link": "https://www.beurs.nl/Nieuws/853807/Havas-overtreft-eigen-groeiverwachting.aspx",
-    "intro": "Reclame- en communicatieconcern Havas heeft zijn omzetdoel voor 2025 overtroffen, maar werd in zijn vooruitblik naar het nieuwe jaar iets voorzichtiger. Dit bleek dinsdag nabeurs uit de jaarcijfers van het Parijse reclamebureau met een notering in Amsterdam.",
-    "published_at": "2026-02-17 18:12",
-    "scraped_at": "2026-02-17T20:00:29.227859"
-  },
-  {
-    "id": "b34686f20f5df9589192ebb65d6d731f",
-    "categorie": "Redactioneel",
-    "titel": "IEX slotcall: Zeer verdeelde AEX sluit alsnog hoger",
-    "link": "https://www.iex.nl/artikel/853774/IEX-slotcall-Zeer-verdeelde-AEX-sluit-alsnog-hoger.aspx",
-    "intro": "",
-    "published_at": "2026-02-17 18:00",
-    "scraped_at": "2026-02-17T20:00:29.227859"
-  },
-  {
-    "id": "a6792de70680c5536f5162761c8dc8e9",
-    "categorie": "Beursnieuws",
-    "titel": "Herstel Adyen helpt AEX omhoog",
-    "link": "https://www.beurs.nl/Nieuws/853806/Herstel-Adyen-helpt-AEX-omhoog.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, dankzij brede stijgingen en herstel bij Adyen, terwijl de belangstelling voor roomijs wegsmolt.",
-    "published_at": "2026-02-17 17:59",
-    "scraped_at": "2026-02-17T20:00:29.227859"
-  },
-  {
-    "id": "3c7d56750859de07b5a4b8460cd520e3",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Fed-bestuurder Goolsbee ziet kans op renteverlagingen",
-    "link": "https://www.beurs.nl/Nieuws/853796/Media-Fed-bestuurder-Goolsbee-ziet-kans-op-renteverlagingen.aspx",
-    "intro": "Chicago Fed-president Austan Goolsbee ziet ruimte voor meerdere renteverlagingen in 2026, mits de inflatie overtuigend richting de doelstelling van 2 procent beweegt. Dat zei hij dinsdag in een interview met CNBC.",
-    "published_at": "2026-02-17 16:52",
-    "scraped_at": "2026-02-17T20:00:29.227859"
+    "scraped_at": "2026-02-17T21:51:37.503391"
   }
 ]
