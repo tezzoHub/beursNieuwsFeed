@@ -1,83 +1,92 @@
 [
   {
+    "id": "cc6911518bba5237af880e2c11c58dea",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine daling Duitse ZEW-index",
+    "link": "https://www.beurs.nl/Nieuws/853746/Kleine-daling-Duitse-ZEW-index.aspx",
+    "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in februari iets gedaald, maar hield de winst van januari grotendeels vast. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
+    "published_at": "2026-02-17 11:41",
+    "scraped_at": "2026-02-17T11:10:08.553640"
+  },
+  {
+    "id": "39b36af079cc23be8696f89454e5bd32",
+    "categorie": "Beursnieuws",
+    "titel": "RELX aan de leiding in Amsterdam",
+    "link": "https://www.beurs.nl/Nieuws/853742/RELX-aan-de-leiding-in-Amsterdam.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdag rond elf uur licht in het groen, aangevoerd door de databedrijven, maar gedrukt door de halfgeleiders.",
+    "published_at": "2026-02-17 11:19",
+    "scraped_at": "2026-02-17T11:10:08.553640"
+  },
+  {
+    "id": "d1a2e992b3954244f7ceffc029e6c46c",
+    "categorie": "Beursnieuws",
+    "titel": "ABU: uren in uitzendbranche ook onder druk bij start 2026",
+    "link": "https://www.beurs.nl/Nieuws/853729/ABU-uren-in-uitzendbranche-ook-onder-druk-bij-start-2026.aspx",
+    "intro": "Het aantal gewerkte uren in de Nederlandse uitzendsector is in periode 1 van 2026 gedaald, terwijl de omzet iets steeg. Dit bleek dinsdag uit cijfers van brancheorganisatie ABU.",
+    "published_at": "2026-02-17 10:12",
+    "scraped_at": "2026-02-17T11:10:08.553640"
+  },
+  {
+    "id": "7ba9d772eb058f10fa6ab712f1d26c52",
+    "categorie": "IEXProfs",
+    "titel": "Must read: Gouden tijden voor aandelen EM herleven",
+    "link": "https://www.iexprofs.nl/artikel/853608/Must-read-Gouden-tijden-voor-aandelen-EM-herleven.aspx",
+    "intro": "Plus: wat nieuwe kabinet wél moet doen, stijging koperprijs is logisch, pas op met softwarebedrijven, huizenprijzen verschillen enorm per regio, en meer.",
+    "published_at": "2026-02-17 10:00",
+    "scraped_at": "2026-02-17T11:10:08.553640"
+  },
+  {
+    "id": "b74b0fc52301dc00e4747733cd60f588",
+    "categorie": "Beursnieuws",
+    "titel": "Kepler verhoogt koersdoel Aperam",
+    "link": "https://www.beurs.nl/Nieuws/853723/Kepler-verhoogt-koersdoel-Aperam.aspx",
+    "intro": "Kepler Cheuvreux heeft dinsdag het koersdoel voor Aperam verhoogd van 34,90 naar 41,60 euro, maar handhaafde het advies op Houden.",
+    "published_at": "2026-02-17 09:43",
+    "scraped_at": "2026-02-17T11:10:08.553640"
+  },
+  {
+    "id": "969bec38dd84592585897928569a6cfd",
+    "categorie": "Beursnieuws",
+    "titel": "Kepler haalt Unilever van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/853721/Kepler-haalt-Unilever-van-de-kooplijst.aspx",
+    "intro": "Kepler Cheuvreux heeft het advies voor Unilever verlaagd van Kopen naar Houden, maar stelde het koersdoel licht opwaarts bij van 58,00 naar 59,00 Britse pond. Dit bleek dinsdag uit een rapport van analist Karel Zoete.",
+    "published_at": "2026-02-17 09:34",
+    "scraped_at": "2026-02-17T11:10:08.553640"
+  },
+  {
+    "id": "e94f6d2da10f2dc7cc6b819b1548d5f9",
+    "categorie": "Beursnieuws",
+    "titel": "Stijging Britse werkloosheid",
+    "link": "https://www.beurs.nl/Nieuws/853719/Stijging-Britse-werkloosheid.aspx",
+    "intro": "De Britse werkloosheid is in het vierde kwartaal van 2025 gestegen naar 5,2 procent. Dit bleek dinsdag uit cijfers van het Britse statistiekbureau ONS.",
+    "published_at": "2026-02-17 09:19",
+    "scraped_at": "2026-02-17T11:10:08.553640"
+  },
+  {
+    "id": "d8786257215f120e8d7898b0b471bc2f",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine winst voor de AEX",
+    "link": "https://www.beurs.nl/Nieuws/853717/Kleine-winst-voor-de-AEX.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,1 procent hoger op 993,91 punten, terwijl de Midkap vlak noteerde.",
+    "published_at": "2026-02-17 09:10",
+    "scraped_at": "2026-02-17T11:10:08.553640"
+  },
+  {
     "id": "a7da67d136888e2506c7ca8f7f7e88b4",
     "categorie": "Beursnieuws",
     "titel": "Stijging koperprijs stuwt winst BHP",
     "link": "https://www.beurs.nl/Nieuws/853714/Stijging-koperprijs-stuwt-winst-BHP.aspx",
     "intro": "BHP Group heeft in de eerste helft van zijn gebroken boekjaar de winst flink zien stijgen, dankzij vooral een sterke stijging van de koperprijzen en een hogere productie. Dit bleek dinsdag uit cijfers van het van oorsprong Australische mijnbouwbedrijf.",
     "published_at": "2026-02-17 08:38",
-    "scraped_at": "2026-02-17T08:00:24.281425"
+    "scraped_at": "2026-02-17T11:10:08.553640"
   },
   {
-    "id": "06f39ffa3634b92430dc877f90034c4d",
+    "id": "cde4ec92205d11e3c7107ffee47b236c",
     "categorie": "Beursnieuws",
-    "titel": "AEX maakt zich op voor een terughoudende opening",
-    "link": "https://www.beurs.nl/Nieuws/853710/AEX-maakt-zich-op-voor-een-terughoudende-opening.aspx",
-    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,4 procent.",
-    "published_at": "2026-02-17 08:03",
-    "scraped_at": "2026-02-17T08:00:24.281425"
-  },
-  {
-    "id": "82c8c2b56d445c154abbf9c83606512f",
-    "categorie": "Beursnieuws",
-    "titel": "Overdracht deelnemingen MKB Nedsense aan Value8 gaat niet door",
-    "link": "https://www.beurs.nl/Nieuws/853708/Overdracht-deelnemingen-MKB-Nedsense-aan-Value8-gaat-niet-door.aspx",
-    "intro": "De overdracht van de deelnemingen van MKB Nedsense aan Value8 gaat niet door. Dit maakte de investeerder maandagavond bekend.",
-    "published_at": "2026-02-17 07:58",
-    "scraped_at": "2026-02-17T08:00:24.281425"
-  },
-  {
-    "id": "8238064279c027a758e790492f370e6c",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse beurs geeft terrein prijs",
-    "link": "https://www.beurs.nl/Nieuws/853703/Japanse-beurs-geeft-terrein-prijs.aspx",
-    "intro": "De Nikkei index in Tokio koerste dinsdagochtend bijna een procent in het rood, terwijl de Australische beurs nipt in het groen noteerde.",
-    "published_at": "2026-02-17 07:23",
-    "scraped_at": "2026-02-17T08:00:24.281425"
-  },
-  {
-    "id": "9792f1f57bd3565abcd45d8c085ab3fd",
-    "categorie": "Beursnieuws",
-    "titel": "DSM-Firmenich geeft nieuwe obligatie uit",
-    "link": "https://www.beurs.nl/Nieuws/853701/DSM-Firmenich-geeft-nieuwe-obligatie-uit.aspx",
-    "intro": "DSM-Firmenich heeft een nieuwe obligatie gelanceerd waarmee het 1,5 miljard euro wil ophalen. Dit maakte het bedrijf dinsdag voorbeurs bekend.",
-    "published_at": "2026-02-17 07:22",
-    "scraped_at": "2026-02-17T08:00:24.281425"
-  },
-  {
-    "id": "b730b98d5f2398f674206ab53637b70c",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen naar verwachting lager",
-    "link": "https://www.beurs.nl/Nieuws/853699/Europese-beurzen-openen-naar-verwachting-lager.aspx",
-    "intro": "De Europese beurzen gaan dinsdag een rode opening tegemoet, na een tamme handelssessie op maandag. IG voorziet een openingsverlies van 109 punten voor de Duitse DAX, een daling van 39 punten voor de Franse CAC 40. De Britse FTSE lijkt 24 punten in het rood te zullen openen.",
-    "published_at": "2026-02-17 06:59",
-    "scraped_at": "2026-02-17T08:00:24.281425"
-  },
-  {
-    "id": "32d44803a08a5dece5e3bbcc58da4699",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/853695/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 24 februari 2026:",
-    "published_at": "2026-02-17 06:54",
-    "scraped_at": "2026-02-17T08:00:24.281425"
-  },
-  {
-    "id": "e0faeec9fe96e7f0450df7da60dda930",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/853697/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 24 februari 2026:",
-    "published_at": "2026-02-17 06:54",
-    "scraped_at": "2026-02-17T08:00:24.281425"
-  },
-  {
-    "id": "0ddebe1ce730ec84b2f7dacc2a2ef1b6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/853698/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 24 februari 2026:",
-    "published_at": "2026-02-17 06:54",
-    "scraped_at": "2026-02-17T08:00:24.281425"
+    "titel": "Stijging Duitse inflatie bevestigd",
+    "link": "https://www.beurs.nl/Nieuws/853712/Stijging-Duitse-inflatie-bevestigd.aspx",
+    "intro": "De Duitse inflatie is in januari weer gestegen, na een stevige daling in december. Dit bevestigden definitieve cijfers van Destatis, het Duitse bureau voor de statistiek, op dinsdag",
+    "published_at": "2026-02-17 08:07",
+    "scraped_at": "2026-02-17T11:10:08.553640"
   }
 ]
