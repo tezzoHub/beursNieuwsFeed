@@ -1,92 +1,92 @@
 [
   {
-    "id": "613fff26c54b8451a0dc02ba83824bc8",
+    "id": "2360f81ce12a046d727208f6f01d92ac",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/853898/Beursblik-Deutsche-Bank-verhoogt-koersdoel-ABN-AMRO.aspx",
+    "titel": "Beursblik: grondportefeuille positief voor solvabiliteit ASR",
+    "link": "https://www.beurs.nl/Nieuws/853927/Beursblik-grondportefeuille-positief-voor-solvabiliteit-ASR.aspx",
+    "intro": "UBS is niet verrast door de licht positieve reactie op de resultaten van ASR Nederland, vanwege de hoger dan verwachte solvabiliteit, die volgens de analisten van de zakenbank deels aan marktbewegingen en deels aan de methodologie is te danken.",
+    "published_at": "2026-02-18 11:11",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "a1d71f760814a57dd20e8c144bb374e6",
+    "categorie": "Beursnieuws",
+    "titel": "IMCD onderuit na cijfers op groene beurs",
+    "link": "https://www.beurs.nl/Nieuws/853926/IMCD-onderuit-na-cijfers-op-groene-beurs.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdagochtend hoger. Rond de klok van elf uur won de AEX 0,6 procent op 1.002,02 punten.",
+    "published_at": "2026-02-18 11:05",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "842686d8e67138d234c7bf6409e6b81f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: geen grote verrassingen bij ASR",
+    "link": "https://www.beurs.nl/Nieuws/853920/Beursblik-geen-grote-verrassingen-bij-ASR.aspx",
+    "intro": "De jaarresultaten van ASR Nederland toonden geen grote verrassingen, met iets meer dan verwacht gegenereerd kapitaal en een iets hoger dan verwacht operationeel resultaat. Dit stelde Citi Research woensdag in een analistenrapport.",
+    "published_at": "2026-02-18 10:27",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "709eb50415355186b8fc81f67db217cc",
+    "categorie": "Beursnieuws",
+    "titel": "Theon meldt verlenging opdracht Amerikaanse Korps Mariniers",
+    "link": "https://www.beurs.nl/Nieuws/853915/Theon-meldt-verlenging-opdracht-Amerikaanse-Korps-Mariniers.aspx",
+    "intro": "Theon International heeft een nieuwe opdracht ontvangen van het Amerikaanse Korps Mariniers voor diens Squad Binocular Night Vision Goggles. Dit maakte het Griekse defensiebedrijf met een notering in Amsterdam woensdag bekend zonder financiële details te geven.",
+    "published_at": "2026-02-18 10:00",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "db28f79c08991c9eb4a8bf91f0bb3448",
+    "categorie": "IEXProfs",
+    "titel": "Must read: Geconcentreerde portefeuilles zijn vooral erg link",
+    "link": "https://www.iexprofs.nl/artikel/853656/Must-read-Geconcentreerde-portefeuilles-zijn-vooral-erg-link.aspx",
+    "intro": "Plus: Impactbeleggen vraagt extra skill-set, 10 verrassende maar denkbare scenario's, Europese ETF-belegger stapt niet uit, Meta maakt gebruikers onsterfelijk en meer.",
+    "published_at": "2026-02-18 09:50",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "04e0f814c3854702331ca0ac33c98664",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet voor BAE Systems",
+    "link": "https://www.beurs.nl/Nieuws/853905/Meer-omzet-voor-BAE-Systems.aspx",
+    "intro": "BAE Systems heeft vorig jaar 10 procent meer omzet behaald, dankzij grote orders voor zijn Eurofighter Typhoon straaljagers, fregatten en gevechtsvoertuigen van Europese regeringen. Dat maakte de Londense fabrikant van vliegtuigen en defensiemateriaal woensdag bekend.",
+    "published_at": "2026-02-18 09:32",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "d5cc7c299705747d37d2ae970148eb36",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof Petercam verlaagt koersdoel IMCD",
+    "link": "https://www.beurs.nl/Nieuws/853906/Degroof-Petercam-verlaagt-koersdoel-IMCD.aspx",
+    "intro": "Degroof Petercam heeft woensdag het koersdoel voor IMCD verlaagd van 115 naar 100 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van analist Luuk van Beek.",
+    "published_at": "2026-02-18 09:29",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "fcabd2915483d7ace174083e15e5b404",
+    "categorie": "Beursnieuws",
+    "titel": "IMCD onderuit na cijfers in lichtgroene AEX",
+    "link": "https://www.beurs.nl/Nieuws/853901/IMCD-onderuit-na-cijfers-in-lichtgroene-AEX.aspx",
+    "intro": "De Amsterdamse beurs is woensdag licht hoger geopend. Kort na opening won de AEX 0,2 procent op 997,58 punten.",
+    "published_at": "2026-02-18 09:12",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "ac6168f045fa703dbfe4b9ce24b596f0",
+    "categorie": "Beursnieuws",
+    "titel": "Franse inflatie daalt fors",
+    "link": "https://www.beurs.nl/Nieuws/853899/Franse-inflatie-daalt-fors.aspx",
+    "intro": "De Franse inflatie is in januari sterk gedaald. Dit bleek woensdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-02-18 08:59",
+    "scraped_at": "2026-02-18T10:30:23.852011"
+  },
+  {
+    "id": "e55588697a1283e96947b5df2db16b76",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/853898/Deutsche-Bank-verhoogt-koersdoel-ABN-AMRO.aspx",
     "intro": "Deutsche Bank heeft het koersdoel voor ABN AMRO verhoogd van 27,00 naar 28,00 euro na de kwartaalcijfers, met behoud van het Houden advies. Dat bleek woensdag uit een analistenrapport.",
     "published_at": "2026-02-18 08:47",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "947e4076e41da83678113cd210053f55",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel Theon",
-    "link": "https://www.beurs.nl/Nieuws/853897/Beursblik-Deutsche-Bank-verhoogt-koersdoel-Theon.aspx",
-    "intro": "Deutsche Bank heeft het koersdoel voor Theon International verhoogd van 35,00 naar 36,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Sriram Krishnan.",
-    "published_at": "2026-02-18 08:44",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "b3087b47435c0d61cb525f41cdb674ee",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: teleurstellende kwartaalcijfers van IMCD",
-    "link": "https://www.beurs.nl/Nieuws/853896/Beursblik-teleurstellende-kwartaalcijfers-van-IMCD.aspx",
-    "intro": "IMCD heeft in het vierde kwartaal teleurstellend gepresteerd, waarbij er geen zicht is op herstel. Dit oordeelde analist David Kerstens van Jefferies woensdag in een rapport.",
-    "published_at": "2026-02-18 08:42",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "cea83233d2544793dc7afadc22fd644b",
-    "categorie": "Voorbeurs",
-    "titel": "Lichtgroene futures, oplopende zilverprijs en let straks op ASR Nederland en IMCD",
-    "link": "https://www.beurs.nl/Artikel/853716/Lichtgroene-futures-oplopende-zilverprijs-en-let-straks-op-ASR-Nederland-en-IMCD.aspx",
-    "intro": "Openingsindicatie: +0,2%. Plussen bij ASR, dividendverlaging IMCD, strijd rond Warner Bros nog niet gestreden en focus op Fed-notulen.",
-    "published_at": "2026-02-18 08:25",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "7f9cbad35d7bcc487789ed0e6bd0d3e6",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere omzet Carrefour maar wisselkoersen drukken op winstgevendheid",
-    "link": "https://www.beurs.nl/Nieuws/853891/Hogere-omzet-Carrefour-maar-wisselkoersen-drukken-op-winstgevendheid.aspx",
-    "intro": "Carrefour heeft 2025 afgesloten met een stijging van de omzet met 2,8 procent op vergelijkbare basis. Dit bleek dinsdagavond uit een persbericht van de Franse supermarktketen.",
-    "published_at": "2026-02-18 08:23",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "4cc4932ab3b4e6457f5b7b943a8a8b9e",
-    "categorie": "Beursnieuws",
-    "titel": "Britse inflatie koelt af",
-    "link": "https://www.beurs.nl/Nieuws/853890/Britse-inflatie-koelt-af.aspx",
-    "intro": "De consumentenprijzen in het Verenigd Koninkrijk zijn in januari minder hard gestegen. Dit bleek woensdag uit cijfers van het Britse statistiekbureau ONS.",
-    "published_at": "2026-02-18 08:13",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "f562e62641e5ded71c229272057ccfb7",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/853884/Hogere-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,4 procent in het groen. Dinsdag eindigde de hoofdgraadmeter al 0,3 procent hoger op 995,80 punten.",
-    "published_at": "2026-02-18 08:02",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "9f2c2af0c75c4f467a5d03ad94d15900",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse beurs overtuigend hoger",
-    "link": "https://www.beurs.nl/Nieuws/853878/Japanse-beurs-overtuigend-hoger.aspx",
-    "intro": "De Japanse beurs liet woensdagochtend een flinke winst zien, terwijl de Chinese aandelenmarkten nog steeds de deuren gesloten hielden in verband met de viering van het Chinese Nieuwjaar.",
-    "published_at": "2026-02-18 07:32",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "44a1a08bdfb32f8edcb601d6a5938008",
-    "categorie": "Beursnieuws",
-    "titel": "Sterke stijging solvabiliteit ASR Nederland",
-    "link": "https://www.beurs.nl/Nieuws/853876/Sterke-stijging-solvabiliteit-ASR-Nederland.aspx",
-    "intro": "ASR Nederland heeft in het afgelopen jaar, zoals verwacht, de kapitaalaanwas zien stijgen, terwijl de solvabiliteitsratio sterker steeg dan voorzien. Dat bleek woensdag uit de jaarcijfers van de verzekeraar.",
-    "published_at": "2026-02-18 07:30",
-    "scraped_at": "2026-02-18T08:02:06.428136"
-  },
-  {
-    "id": "cfb25a2a3f90b2a01a6d45cba30b4969",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet voor IMCD maar resultaat onder druk",
-    "link": "https://www.beurs.nl/Nieuws/853868/Meer-omzet-voor-IMCD-maar-resultaat-onder-druk.aspx",
-    "intro": "IMCD heeft in 2025 een hogere omzet geboekt, maar het operationele resultaat stond onder druk en het dividend werd verlaagd. Dit bleek woensdag voorbeurs uit de cijfers van de distributeur van chemicaliën en ingrediënten.",
-    "published_at": "2026-02-18 07:23",
-    "scraped_at": "2026-02-18T08:02:06.428136"
+    "scraped_at": "2026-02-18T10:30:23.852011"
   }
 ]
