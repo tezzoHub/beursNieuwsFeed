@@ -1,92 +1,92 @@
 [
   {
+    "id": "2d9f67ab33e027bdd6d3aa6869851258",
+    "categorie": "Beursnieuws",
+    "titel": "Sterkere productiestijging Amerikaanse industrie",
+    "link": "https://www.beurs.nl/Nieuws/853993/Sterkere-productiestijging-Amerikaanse-industrie.aspx",
+    "intro": "De industriële productie in de Verenigde Staten is in januari harder gestegen dan in december. Dit bleek woensdag uit cijfers van de Federal Reserve.",
+    "published_at": "2026-02-18 16:06",
+    "scraped_at": "2026-02-18T15:08:53.125595"
+  },
+  {
+    "id": "4fd2019fd5fa960f9eb45a2e7b8f88e2",
+    "categorie": "Beursnieuws",
+    "titel": "Liberty Global brengt Ziggo naar Beursplein 5",
+    "link": "https://www.beurs.nl/Nieuws/853978/Liberty-Global-brengt-Ziggo-naar-Beursplein-5.aspx",
+    "intro": "Liberty Global koopt van Vodafone Group het belang van 50 procent in VodafoneZiggo, en wil de activiteiten in de Benelux volgend jaar onder de naam Ziggo Group een aparte beursnotering in Amsterdam geven. Dit maakte VodafoneZiggo woensdag bekend.",
+    "published_at": "2026-02-18 15:13",
+    "scraped_at": "2026-02-18T15:08:53.125595"
+  },
+  {
+    "id": "a4f5f31b89057a31e20bbb589354a1fc",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/853977/Wall-Street-wacht-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,3 procent in het groen.",
+    "published_at": "2026-02-18 14:52",
+    "scraped_at": "2026-02-18T15:08:53.125595"
+  },
+  {
+    "id": "b964fa29318b8f8e3f31248c6fe380ee",
+    "categorie": "Beursnieuws",
+    "titel": "Meer woningen in aanbouw genomen in VS",
+    "link": "https://www.beurs.nl/Nieuws/853972/Meer-woningen-in-aanbouw-genomen-in-VS.aspx",
+    "intro": "Het aantal in aanbouw genomen woningen in de VS is in december sterker dan verwacht gestegen, terwijl ook het aantal afgegeven bouwvergunningen hoger uitviel dan verwacht. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-02-18 14:38",
+    "scraped_at": "2026-02-18T15:08:53.125595"
+  },
+  {
+    "id": "543eefda17fab9bfa1be4177e8a7f60b",
+    "categorie": "Beursnieuws",
+    "titel": "Minder orders voor duurzame goederen in VS",
+    "link": "https://www.beurs.nl/Nieuws/853971/Minder-orders-voor-duurzame-goederen-in-VS.aspx",
+    "intro": "De orders voor duurzame goederen in de VS zijn in december gedaald. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-02-18 14:35",
+    "scraped_at": "2026-02-18T15:08:53.125595"
+  },
+  {
+    "id": "3bc92da349106597ce4131b7b8f5f9df",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: margedoel BAM oogt haalbaar",
+    "link": "https://www.beurs.nl/Nieuws/853957/Beursblik-margedoel-BAM-oogt-haalbaar.aspx",
+    "intro": "BAM zal zijn margedoel van minimaal 5 procent in 2025 hebben gehaald. Dit verwachten analisten die bijdroegen aan de bedrijfsconsensus in aanloop naar cijfers van de bouwer op donderdagochtend.",
+    "published_at": "2026-02-18 13:35",
+    "scraped_at": "2026-02-18T15:08:53.125595"
+  },
+  {
+    "id": "843c31f4abc5f83cfdd234a75f0d8efc",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/853955/Wall-Street-wacht-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerde rond lunchtijd 0,4 procent in het groen.",
+    "published_at": "2026-02-18 13:12",
+    "scraped_at": "2026-02-18T15:08:53.125595"
+  },
+  {
+    "id": "5e1b913f94534de6eaa84be903b92969",
+    "categorie": "Beursnieuws",
+    "titel": "Lager resultaat bij Glencore",
+    "link": "https://www.beurs.nl/Nieuws/853952/Lager-resultaat-bij-Glencore.aspx",
+    "intro": "Glencore heeft vorig jaar minder winst geboekt, maar presteerde in het tweede halfjaar wel beter dan in de eerste helft. Dit bleek woensdag uit de kwartaalcijfers van de Britse mijnbouwreus.",
+    "published_at": "2026-02-18 12:59",
+    "scraped_at": "2026-02-18T15:08:53.125595"
+  },
+  {
     "id": "a727503a813972c6f48f52631e71204b",
     "categorie": "Beursnieuws",
     "titel": "Defensie zet Europese beurzen hoger",
     "link": "https://www.beurs.nl/Nieuws/853947/Defensie-zet-Europese-beurzen-hoger.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger, gesteund door aanhoudende winsten voor defensiebedrijven, na sterke cijfers van BAE Systems.",
     "published_at": "2026-02-18 12:34",
-    "scraped_at": "2026-02-18T12:03:31.808237"
+    "scraped_at": "2026-02-18T15:08:53.125595"
   },
   {
-    "id": "94d78d5ba138e8869f98c63e34b2dfa5",
+    "id": "534499b1880aee22375ccd700362beae",
     "categorie": "Beursnieuws",
-    "titel": "Berkshire schroeft belangen in Apple en Amazon terug",
-    "link": "https://www.beurs.nl/Nieuws/853946/Berkshire-schroeft-belangen-in-Apple-en-Amazon-terug.aspx",
-    "intro": "Berkshire Hathaway heeft zijn posities in Apple, Bank of America en Amazon teruggebracht, terwijl hij tegelijk een nieuwe positie innam in New York Times ter waarde van 350 miljoen dollar. Dit bleek uit documenten die werden ingediend bij de Amerikaanse toezichthouder SEC.",
-    "published_at": "2026-02-18 12:14",
-    "scraped_at": "2026-02-18T12:03:31.808237"
-  },
-  {
-    "id": "005b70e53224d5f3b095256e3b101f9c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: aantrekkende omzet Air France-KLM voorzien",
-    "link": "https://www.beurs.nl/Nieuws/853936/Beursblik-aantrekkende-omzet-Air-France-KLM-voorzien.aspx",
-    "intro": "Air France-KLM heeft in het vierde kwartaal van 2025 vermoedelijk een hogere omzet geboekt, terwijl de operationele winst onder druk stond. Dat blijkt uit een consensusverwachting van analisten die de luchtvaartmaatschappij op zijn website plaatste.",
-    "published_at": "2026-02-18 11:53",
-    "scraped_at": "2026-02-18T12:03:31.808237"
-  },
-  {
-    "id": "b102c6d1f7cdf34147290ee1a14c3326",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel Besi",
-    "link": "https://www.beurs.nl/Nieuws/853933/Bank-of-America-verhoogt-koersdoel-Besi.aspx",
-    "intro": "Bank of America heeft het koersdoel voor BE Semiconductor Industries verhoogd van 214 naar 224 euro en handhaafde het koopadvies. Dit bleek woensdag uit een rapport van analist Didier Scemama.",
-    "published_at": "2026-02-18 11:37",
-    "scraped_at": "2026-02-18T12:03:31.808237"
-  },
-  {
-    "id": "2360f81ce12a046d727208f6f01d92ac",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: grondportefeuille positief voor solvabiliteit ASR",
-    "link": "https://www.beurs.nl/Nieuws/853927/Beursblik-grondportefeuille-positief-voor-solvabiliteit-ASR.aspx",
-    "intro": "UBS is niet verrast door de licht positieve reactie op de resultaten van ASR Nederland, vanwege de hoger dan verwachte solvabiliteit, die volgens de analisten van de zakenbank deels aan marktbewegingen en deels aan de methodologie is te danken.",
-    "published_at": "2026-02-18 11:11",
-    "scraped_at": "2026-02-18T12:03:31.808237"
-  },
-  {
-    "id": "a1d71f760814a57dd20e8c144bb374e6",
-    "categorie": "Beursnieuws",
-    "titel": "IMCD onderuit na cijfers op groene beurs",
-    "link": "https://www.beurs.nl/Nieuws/853926/IMCD-onderuit-na-cijfers-op-groene-beurs.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend hoger. Rond de klok van elf uur won de AEX 0,6 procent op 1.002,02 punten.",
-    "published_at": "2026-02-18 11:05",
-    "scraped_at": "2026-02-18T12:03:31.808237"
-  },
-  {
-    "id": "842686d8e67138d234c7bf6409e6b81f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: geen grote verrassingen bij ASR",
-    "link": "https://www.beurs.nl/Nieuws/853920/Beursblik-geen-grote-verrassingen-bij-ASR.aspx",
-    "intro": "De jaarresultaten van ASR Nederland toonden geen grote verrassingen, met iets meer dan verwacht gegenereerd kapitaal en een iets hoger dan verwacht operationeel resultaat. Dit stelde Citi Research woensdag in een analistenrapport.",
-    "published_at": "2026-02-18 10:27",
-    "scraped_at": "2026-02-18T12:03:31.808237"
-  },
-  {
-    "id": "709eb50415355186b8fc81f67db217cc",
-    "categorie": "Beursnieuws",
-    "titel": "Theon meldt verlenging opdracht Amerikaanse Korps Mariniers",
-    "link": "https://www.beurs.nl/Nieuws/853915/Theon-meldt-verlenging-opdracht-Amerikaanse-Korps-Mariniers.aspx",
-    "intro": "Theon International heeft een nieuwe opdracht ontvangen van het Amerikaanse Korps Mariniers voor diens Squad Binocular Night Vision Goggles. Dit maakte het Griekse defensiebedrijf met een notering in Amsterdam woensdag bekend zonder financiële details te geven.",
-    "published_at": "2026-02-18 10:00",
-    "scraped_at": "2026-02-18T12:03:31.808237"
-  },
-  {
-    "id": "db28f79c08991c9eb4a8bf91f0bb3448",
-    "categorie": "IEXProfs",
-    "titel": "Must read: Geconcentreerde portefeuilles zijn vooral erg link",
-    "link": "https://www.iexprofs.nl/artikel/853656/Must-read-Geconcentreerde-portefeuilles-zijn-vooral-erg-link.aspx",
-    "intro": "Plus: Impactbeleggen vraagt extra skill-set, 10 verrassende maar denkbare scenario's, Europese ETF-belegger stapt niet uit, Meta maakt gebruikers onsterfelijk en meer.",
-    "published_at": "2026-02-18 09:50",
-    "scraped_at": "2026-02-18T12:03:31.808237"
-  },
-  {
-    "id": "04e0f814c3854702331ca0ac33c98664",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet voor BAE Systems",
-    "link": "https://www.beurs.nl/Nieuws/853905/Meer-omzet-voor-BAE-Systems.aspx",
-    "intro": "BAE Systems heeft vorig jaar 10 procent meer omzet behaald, dankzij grote orders voor zijn Eurofighter Typhoon straaljagers, fregatten en gevechtsvoertuigen van Europese regeringen. Dat maakte de Londense fabrikant van vliegtuigen en defensiemateriaal woensdag bekend.",
-    "published_at": "2026-02-18 09:32",
-    "scraped_at": "2026-02-18T12:03:31.808237"
+    "titel": "Palo Alto verhoogt omzetdoel",
+    "link": "https://www.beurs.nl/Nieuws/853956/Palo-Alto-verhoogt-omzetdoel.aspx",
+    "intro": "Palo Alto Networks heeft de omzetverwachting voor het lopende gebroken boekjaar verhoogd, maar de winstverwachtingen verlaagd, ondanks dat de winst in het tweede kwartaal steeg dankzij een aanhoudende vraag naar cybersecurity. Dit bleek uit cijfers van het Amerikaanse techbedrijf.",
+    "published_at": "2026-02-18 12:30",
+    "scraped_at": "2026-02-18T15:08:53.125595"
   }
 ]
