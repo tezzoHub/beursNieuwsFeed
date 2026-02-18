@@ -1,12 +1,48 @@
 [
   {
+    "id": "a727503a813972c6f48f52631e71204b",
+    "categorie": "Beursnieuws",
+    "titel": "Defensie zet Europese beurzen hoger",
+    "link": "https://www.beurs.nl/Nieuws/853947/Defensie-zet-Europese-beurzen-hoger.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger, gesteund door aanhoudende winsten voor defensiebedrijven, na sterke cijfers van BAE Systems.",
+    "published_at": "2026-02-18 12:34",
+    "scraped_at": "2026-02-18T12:03:31.808237"
+  },
+  {
+    "id": "94d78d5ba138e8869f98c63e34b2dfa5",
+    "categorie": "Beursnieuws",
+    "titel": "Berkshire schroeft belangen in Apple en Amazon terug",
+    "link": "https://www.beurs.nl/Nieuws/853946/Berkshire-schroeft-belangen-in-Apple-en-Amazon-terug.aspx",
+    "intro": "Berkshire Hathaway heeft zijn posities in Apple, Bank of America en Amazon teruggebracht, terwijl hij tegelijk een nieuwe positie innam in New York Times ter waarde van 350 miljoen dollar. Dit bleek uit documenten die werden ingediend bij de Amerikaanse toezichthouder SEC.",
+    "published_at": "2026-02-18 12:14",
+    "scraped_at": "2026-02-18T12:03:31.808237"
+  },
+  {
+    "id": "005b70e53224d5f3b095256e3b101f9c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: aantrekkende omzet Air France-KLM voorzien",
+    "link": "https://www.beurs.nl/Nieuws/853936/Beursblik-aantrekkende-omzet-Air-France-KLM-voorzien.aspx",
+    "intro": "Air France-KLM heeft in het vierde kwartaal van 2025 vermoedelijk een hogere omzet geboekt, terwijl de operationele winst onder druk stond. Dat blijkt uit een consensusverwachting van analisten die de luchtvaartmaatschappij op zijn website plaatste.",
+    "published_at": "2026-02-18 11:53",
+    "scraped_at": "2026-02-18T12:03:31.808237"
+  },
+  {
+    "id": "b102c6d1f7cdf34147290ee1a14c3326",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of America verhoogt koersdoel Besi",
+    "link": "https://www.beurs.nl/Nieuws/853933/Bank-of-America-verhoogt-koersdoel-Besi.aspx",
+    "intro": "Bank of America heeft het koersdoel voor BE Semiconductor Industries verhoogd van 214 naar 224 euro en handhaafde het koopadvies. Dit bleek woensdag uit een rapport van analist Didier Scemama.",
+    "published_at": "2026-02-18 11:37",
+    "scraped_at": "2026-02-18T12:03:31.808237"
+  },
+  {
     "id": "2360f81ce12a046d727208f6f01d92ac",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: grondportefeuille positief voor solvabiliteit ASR",
     "link": "https://www.beurs.nl/Nieuws/853927/Beursblik-grondportefeuille-positief-voor-solvabiliteit-ASR.aspx",
     "intro": "UBS is niet verrast door de licht positieve reactie op de resultaten van ASR Nederland, vanwege de hoger dan verwachte solvabiliteit, die volgens de analisten van de zakenbank deels aan marktbewegingen en deels aan de methodologie is te danken.",
     "published_at": "2026-02-18 11:11",
-    "scraped_at": "2026-02-18T10:30:23.852011"
+    "scraped_at": "2026-02-18T12:03:31.808237"
   },
   {
     "id": "a1d71f760814a57dd20e8c144bb374e6",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/853926/IMCD-onderuit-na-cijfers-op-groene-beurs.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend hoger. Rond de klok van elf uur won de AEX 0,6 procent op 1.002,02 punten.",
     "published_at": "2026-02-18 11:05",
-    "scraped_at": "2026-02-18T10:30:23.852011"
+    "scraped_at": "2026-02-18T12:03:31.808237"
   },
   {
     "id": "842686d8e67138d234c7bf6409e6b81f",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/853920/Beursblik-geen-grote-verrassingen-bij-ASR.aspx",
     "intro": "De jaarresultaten van ASR Nederland toonden geen grote verrassingen, met iets meer dan verwacht gegenereerd kapitaal en een iets hoger dan verwacht operationeel resultaat. Dit stelde Citi Research woensdag in een analistenrapport.",
     "published_at": "2026-02-18 10:27",
-    "scraped_at": "2026-02-18T10:30:23.852011"
+    "scraped_at": "2026-02-18T12:03:31.808237"
   },
   {
     "id": "709eb50415355186b8fc81f67db217cc",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/853915/Theon-meldt-verlenging-opdracht-Amerikaanse-Korps-Mariniers.aspx",
     "intro": "Theon International heeft een nieuwe opdracht ontvangen van het Amerikaanse Korps Mariniers voor diens Squad Binocular Night Vision Goggles. Dit maakte het Griekse defensiebedrijf met een notering in Amsterdam woensdag bekend zonder financiële details te geven.",
     "published_at": "2026-02-18 10:00",
-    "scraped_at": "2026-02-18T10:30:23.852011"
+    "scraped_at": "2026-02-18T12:03:31.808237"
   },
   {
     "id": "db28f79c08991c9eb4a8bf91f0bb3448",
@@ -42,7 +78,7 @@
     "link": "https://www.iexprofs.nl/artikel/853656/Must-read-Geconcentreerde-portefeuilles-zijn-vooral-erg-link.aspx",
     "intro": "Plus: Impactbeleggen vraagt extra skill-set, 10 verrassende maar denkbare scenario's, Europese ETF-belegger stapt niet uit, Meta maakt gebruikers onsterfelijk en meer.",
     "published_at": "2026-02-18 09:50",
-    "scraped_at": "2026-02-18T10:30:23.852011"
+    "scraped_at": "2026-02-18T12:03:31.808237"
   },
   {
     "id": "04e0f814c3854702331ca0ac33c98664",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/853905/Meer-omzet-voor-BAE-Systems.aspx",
     "intro": "BAE Systems heeft vorig jaar 10 procent meer omzet behaald, dankzij grote orders voor zijn Eurofighter Typhoon straaljagers, fregatten en gevechtsvoertuigen van Europese regeringen. Dat maakte de Londense fabrikant van vliegtuigen en defensiemateriaal woensdag bekend.",
     "published_at": "2026-02-18 09:32",
-    "scraped_at": "2026-02-18T10:30:23.852011"
-  },
-  {
-    "id": "d5cc7c299705747d37d2ae970148eb36",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verlaagt koersdoel IMCD",
-    "link": "https://www.beurs.nl/Nieuws/853906/Degroof-Petercam-verlaagt-koersdoel-IMCD.aspx",
-    "intro": "Degroof Petercam heeft woensdag het koersdoel voor IMCD verlaagd van 115 naar 100 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van analist Luuk van Beek.",
-    "published_at": "2026-02-18 09:29",
-    "scraped_at": "2026-02-18T10:30:23.852011"
-  },
-  {
-    "id": "fcabd2915483d7ace174083e15e5b404",
-    "categorie": "Beursnieuws",
-    "titel": "IMCD onderuit na cijfers in lichtgroene AEX",
-    "link": "https://www.beurs.nl/Nieuws/853901/IMCD-onderuit-na-cijfers-in-lichtgroene-AEX.aspx",
-    "intro": "De Amsterdamse beurs is woensdag licht hoger geopend. Kort na opening won de AEX 0,2 procent op 997,58 punten.",
-    "published_at": "2026-02-18 09:12",
-    "scraped_at": "2026-02-18T10:30:23.852011"
-  },
-  {
-    "id": "ac6168f045fa703dbfe4b9ce24b596f0",
-    "categorie": "Beursnieuws",
-    "titel": "Franse inflatie daalt fors",
-    "link": "https://www.beurs.nl/Nieuws/853899/Franse-inflatie-daalt-fors.aspx",
-    "intro": "De Franse inflatie is in januari sterk gedaald. Dit bleek woensdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-02-18 08:59",
-    "scraped_at": "2026-02-18T10:30:23.852011"
-  },
-  {
-    "id": "e55588697a1283e96947b5df2db16b76",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/853898/Deutsche-Bank-verhoogt-koersdoel-ABN-AMRO.aspx",
-    "intro": "Deutsche Bank heeft het koersdoel voor ABN AMRO verhoogd van 27,00 naar 28,00 euro na de kwartaalcijfers, met behoud van het Houden advies. Dat bleek woensdag uit een analistenrapport.",
-    "published_at": "2026-02-18 08:47",
-    "scraped_at": "2026-02-18T10:30:23.852011"
+    "scraped_at": "2026-02-18T12:03:31.808237"
   }
 ]
