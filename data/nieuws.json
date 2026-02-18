@@ -1,12 +1,48 @@
 [
   {
+    "id": "016fcc91512be7e27d763969a1394403",
+    "categorie": "Beursnieuws",
+    "titel": "eBay overtreft verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/854049/eBay-overtreft-verwachtingen.aspx",
+    "intro": "eBay heeft in het vierde kwartaal zowel de omzet- als winstverwachtingen van analisten overtroffen en kondigde tegelijkertijd een overname aan van tweedehandsplatform Depop voor 1,2 miljard dollar. Dit bleek woensdagavond uit de gepubliceerde cijfers van het bedrijf.",
+    "published_at": "2026-02-18 22:48",
+    "scraped_at": "2026-02-18T21:55:22.062372"
+  },
+  {
+    "id": "c8ac411420985e36764c842fb6fb7852",
+    "categorie": "Beursnieuws",
+    "titel": "Resultaten DoorDash blijven achter bij de verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/854048/Resultaten-DoorDash-blijven-achter-bij-de-verwachtingen.aspx",
+    "intro": "DoorDash heeft in het vierde kwartaal zowel de omzet- als winstverwachtingen van analisten niet weten te halen. Dit bleek woensdagavond nabeurs uit de gepubliceerde cijfers van het Amerikaanse maaltijdbezorgbedrijf.",
+    "published_at": "2026-02-18 22:40",
+    "scraped_at": "2026-02-18T21:55:22.062372"
+  },
+  {
+    "id": "8a1a01c4a0d95f31c5ba1c7090b9bd41",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street hoger gesloten ondanks rente onzekerheid",
+    "link": "https://www.beurs.nl/Nieuws/854047/Wall-Street-hoger-gesloten-ondanks-rente-onzekerheid.aspx",
+    "intro": "Fed notulen signaleerden grote verdeeldheid.",
+    "published_at": "2026-02-18 22:23",
+    "scraped_at": "2026-02-18T21:55:22.062372"
+  },
+  {
+    "id": "4b4780974d935706abfd3f3d8516df93",
+    "categorie": "Beursnieuws",
+    "titel": "Toenemende geopolitieke spanningen zetten olieprijzen flink hoger",
+    "link": "https://www.beurs.nl/Nieuws/854040/Toenemende-geopolitieke-spanningen-zetten-olieprijzen-flink-hoger.aspx",
+    "intro": "De olieprijzen zijn woensdag flink hoger gesloten nu de geopolitieke spanningen tussen de VS en Iran weer lijken toe te nemen, terwijl een doorbraak tijdens gesprekken tussen Rusland en de Oekraïne uitbleef.",
+    "published_at": "2026-02-18 21:07",
+    "scraped_at": "2026-02-18T21:55:22.062372"
+  },
+  {
     "id": "0836afb2b64e78f466cfb9741d803e31",
     "categorie": "Beursnieuws",
     "titel": "Grote verdeeldheid binnen Fed over renteverlagingen-Notulen",
     "link": "https://www.beurs.nl/Nieuws/854037/Grote-verdeeldheid-binnen-Fed-over-renteverlagingen-Notulen.aspx",
     "intro": "De functionarissen van de Federal Reserve waren tijdens de laatste beleidsvergadering op 27 en 28 januari verdeeld over mogelijke renteverlagingen later dit jaar. Dit bleek woensdag uit de notulen van de bijeenkomst.",
     "published_at": "2026-02-18 20:40",
-    "scraped_at": "2026-02-18T20:06:25.019672"
+    "scraped_at": "2026-02-18T21:55:22.062372"
   },
   {
     "id": "ef1afec46ec3d29d1722f0589b92bb84",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854031/Wall-Street-hoger-in-aanloop-naar-Fed-notulen.aspx",
     "intro": "De Amerikaanse aandelenbeurzen stegen woensdag mede door winsten in belangrijke technologieaandelen, terwijl beleggers wachten op de publicatie van de notulen van de meest recente beleidsvergadering van de Federal Reserve.",
     "published_at": "2026-02-18 19:39",
-    "scraped_at": "2026-02-18T20:06:25.019672"
+    "scraped_at": "2026-02-18T21:55:22.062372"
   },
   {
     "id": "a61a45198a1b6078a55d397891d1a4dc",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854030/Nieuwe-recordstanden-op-meerdere-Europese-beurzen.aspx",
     "intro": "De Europese beurzen zijn woensdag flink hoger gesloten en verschillende indexen bereikten nieuwe recordstanden.",
     "published_at": "2026-02-18 19:02",
-    "scraped_at": "2026-02-18T20:06:25.019672"
+    "scraped_at": "2026-02-18T21:55:22.062372"
   },
   {
     "id": "85e1040715a1e5a7aa71c537be168151",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854026/Euronext-boekt-recordresultaat-in-2025.aspx",
     "intro": "Euronext heeft in 2025 een recordomzet geboekt, dankzij licht meevallende resultaten in het vierde kwartaal. Dit bleek woensdag nabeurs uit de cijfers van de pan-Europese beursuitbater.",
     "published_at": "2026-02-18 18:34",
-    "scraped_at": "2026-02-18T20:06:25.019672"
+    "scraped_at": "2026-02-18T21:55:22.062372"
   },
   {
     "id": "f6d6ba69e86a5da89723124e858e8811",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854021/AEX-sluit-boven-de-1000-punten.aspx",
     "intro": "De Amsterdamse beurs is woensdag met een stevige winst gesloten. De AEX steeg met 1,5 procent naar 1.010,54 punten.",
     "published_at": "2026-02-18 17:53",
-    "scraped_at": "2026-02-18T20:06:25.019672"
+    "scraped_at": "2026-02-18T21:55:22.062372"
   },
   {
     "id": "c9f12a1fdf96d50c6eac9a0da0049729",
@@ -51,42 +87,6 @@
     "link": "https://www.iex.nl/artikel/854017/Slotcall-comfortabele-dag-voor-AEX-minder-voor-IMCD.aspx",
     "intro": "Als je naar het koersenbord kijkt, zie je een hele mooie lineaire lijn omhoog. Met de wind in de rug ging de AEX richting de 1.010 punten en hield dat niveau mooi vast richting het slot.",
     "published_at": "2026-02-18 17:35",
-    "scraped_at": "2026-02-18T20:06:25.019672"
-  },
-  {
-    "id": "cf14dca57aeba4ac59234632a43b9ba0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/854007/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 26 februari 2026:",
-    "published_at": "2026-02-18 16:30",
-    "scraped_at": "2026-02-18T20:06:25.019672"
-  },
-  {
-    "id": "932d921faaa42ad8d42c8836272f7b1c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/854006/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 26 februari 2026:",
-    "published_at": "2026-02-18 16:29",
-    "scraped_at": "2026-02-18T20:06:25.019672"
-  },
-  {
-    "id": "74e125b330e5f00f46c730249f94760b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/854005/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 26 februari 2026:",
-    "published_at": "2026-02-18 16:28",
-    "scraped_at": "2026-02-18T20:06:25.019672"
-  },
-  {
-    "id": "536fe924205726fb9a43338effe4e15c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: ogen gericht op outlook Besi",
-    "link": "https://www.beurs.nl/Nieuws/853996/Beursblik-ogen-gericht-op-outlook-Besi.aspx",
-    "intro": "BE Semiconductor Industries komt donderdag voorbeurs met cijfers, maar of die nog heel spannend zijn, is de vraag na een ongeplande update halverwege januari.",
-    "published_at": "2026-02-18 16:09",
-    "scraped_at": "2026-02-18T20:06:25.019672"
+    "scraped_at": "2026-02-18T21:55:22.062372"
   }
 ]
