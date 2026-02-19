@@ -1,12 +1,84 @@
 [
   {
+    "id": "5a6451a22facae6e685bd7f4a3a579ac",
+    "categorie": "Beursnieuws",
+    "titel": "Rode cijfers voor Klarna",
+    "link": "https://www.beurs.nl/Nieuws/854175/Rode-cijfers-voor-Klarna.aspx",
+    "intro": "Klarna heeft in het vierde kwartaal verlies geboekt, ondanks een flinke stijging van de omzet dankzij onder meer een verdubbeling van het aantal bankklanten. Dit bleek donderdag uit cijfers van de betaalreus.",
+    "published_at": "2026-02-19 14:56",
+    "scraped_at": "2026-02-19T15:10:42.918909"
+  },
+  {
+    "id": "d5b26d9bc0c970d789371ee1830cd38d",
+    "categorie": "Beursnieuws",
+    "titel": "Lagere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/854173/Lagere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, nadat de opleving van techaandelen afzwakte en na een paar sterke economische cijfers. Ebay en DoorDash waren in trek, terwijl Avis en Carvana onderuit gingen.",
+    "published_at": "2026-02-19 14:50",
+    "scraped_at": "2026-02-19T15:10:42.918909"
+  },
+  {
+    "id": "07fc1349cda0186f387fd2d5ad27c5c9",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaans handelstekort weer gestegen",
+    "link": "https://www.beurs.nl/Nieuws/854167/Amerikaans-handelstekort-weer-gestegen.aspx",
+    "intro": "Het tekort op de Amerikaanse handelsbalans is in december verder opgelopen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-02-19 14:39",
+    "scraped_at": "2026-02-19T15:10:42.918909"
+  },
+  {
+    "id": "9c6f296f2f530e815dca71f5757c861f",
+    "categorie": "Beursnieuws",
+    "titel": "Minder nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/854165/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-02-19 14:35",
+    "scraped_at": "2026-02-19T15:10:42.918909"
+  },
+  {
+    "id": "eefba765f14240528d44207a3e9cdfee",
+    "categorie": "Beursnieuws",
+    "titel": "Philadelphia Fed index stijgt verder",
+    "link": "https://www.beurs.nl/Nieuws/854164/Philadelphia-Fed-index-stijgt-verder.aspx",
+    "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in februari verder gestegen. Dit bleek donderdag uit de zogeheten Philly Fed index.",
+    "published_at": "2026-02-19 14:34",
+    "scraped_at": "2026-02-19T15:10:42.918909"
+  },
+  {
+    "id": "09903e222c3532e602f5a4c7830c5663",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/854160/Citi-verlaagt-koersdoel-Adyen.aspx",
+    "intro": "Citi Research heeft donderdag het koersdoel voor Adyen verlaagd van 2.100 naar 1.800 euro, maar met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-02-19 14:08",
+    "scraped_at": "2026-02-19T15:10:42.918909"
+  },
+  {
+    "id": "cf8d9dcae0fdc6b47a09f4e49dba6841",
+    "categorie": "Beursnieuws",
+    "titel": "Sterke omzetgroei bij Walmart",
+    "link": "https://www.beurs.nl/Nieuws/854158/Sterke-omzetgroei-bij-Walmart.aspx",
+    "intro": "Walmart heeft in het afgelopen kwartaal een sterke omzetgroei gerealiseerd, dankzij hogere bezoekersaantallen, zowel in de winkels als online. Dit bleek donderdag uit cijfers van de Amerikaanse supermarktketen.",
+    "published_at": "2026-02-19 13:32",
+    "scraped_at": "2026-02-19T15:10:42.918909"
+  },
+  {
+    "id": "4d9b381bac2ec4f602eaf345ab5a8e28",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street wijzen omlaag",
+    "link": "https://www.beurs.nl/Nieuws/854156/Futures-Wall-Street-wijzen-omlaag.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, nadat de opleving van techaandelen afzwakte.",
+    "published_at": "2026-02-19 13:17",
+    "scraped_at": "2026-02-19T15:10:42.918909"
+  },
+  {
     "id": "24102be95873e80c38172d06b60c9778",
     "categorie": "Beursnieuws",
     "titel": "Deere verhoogt winstverwachting ondanks lager resultaat",
     "link": "https://www.beurs.nl/Nieuws/854155/Deere-verhoogt-winstverwachting-ondanks-lager-resultaat.aspx",
     "intro": "Deere heeft in het eerste kwartaal van 2026 ondanks een hogere omzet het resultaat zien dalen, wat het bedrijf er niet van weerhield om de outlook voor het hele jaar te verhogen. Dit bleek donderdag uit cijfers van de Amerikaanse fabrikant van tractoren en ander zwaar materieel.",
     "published_at": "2026-02-19 12:59",
-    "scraped_at": "2026-02-19T12:04:29.838085"
+    "scraped_at": "2026-02-19T15:10:42.918909"
   },
   {
     "id": "a57527e6a89da66525b7440c24a9ac40",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854149/Europese-beurzen-doen-stap-terug.aspx",
     "intro": "De Europese beurzen noteerden donderdag rond het middaguur lager, nadat beleggers een stap terug deden en winst namen nadat woensdag nieuwe toppen werden bereikt. Air France-KLM blonk uit, maar Airbus ging onderuit na cijfers.",
     "published_at": "2026-02-19 12:25",
-    "scraped_at": "2026-02-19T12:04:29.838085"
-  },
-  {
-    "id": "e24ad00268858b7f0d0f95273c62f511",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Bank of America en UBS passen koersdoel voor IMCD aan",
-    "link": "https://www.beurs.nl/Nieuws/854142/Beursblik-Bank-of-America-en-UBS-passen-koersdoel-voor-IMCD-aan.aspx",
-    "intro": "Bank of America heeft donderdag het koersdoel voor IMCD verlaagd, terwijl UBS juist een kleine verhoging doorvoerde. Dit bleek uit analistenrapporten van de banken.",
-    "published_at": "2026-02-19 12:13",
-    "scraped_at": "2026-02-19T12:04:29.838085"
-  },
-  {
-    "id": "9ca09b548ea399dfa738b0e4cd8faff6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke groei bij Euronext",
-    "link": "https://www.beurs.nl/Nieuws/854139/Beursblik-sterke-groei-bij-Euronext.aspx",
-    "intro": "De prestaties van Euronext in het vierde kwartaal waren solide. Dit stelde analist Thomas Couvreur van KBC Securities donderdag in een rapport.",
-    "published_at": "2026-02-19 11:49",
-    "scraped_at": "2026-02-19T12:04:29.838085"
-  },
-  {
-    "id": "4c0d9aa366f9fe12863bb01fa09a3356",
-    "categorie": "Beursnieuws",
-    "titel": "Bedrijfscijfers wisselvallig onthaald op overwegend rood Damrak",
-    "link": "https://www.beurs.nl/Nieuws/854125/Bedrijfscijfers-wisselvallig-onthaald-op-overwegend-rood-Damrak.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdag wat lager, waarbij een lawine aan nieuwe bedrijfsresultaten wisselend werd ontvangen. Rond de klok van elf uur daalde de AEX met 0,3 procent tot 1.007,57 punten.",
-    "published_at": "2026-02-19 11:21",
-    "scraped_at": "2026-02-19T12:04:29.838085"
-  },
-  {
-    "id": "1aac0271656f568d82e35087d2b7a7cf",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: rommelig cijferrapport van Aegon",
-    "link": "https://www.beurs.nl/Nieuws/854121/Beursblik-rommelig-cijferrapport-van-Aegon.aspx",
-    "intro": "De resultaten van Aegon over de tweede helft van 2025 waren rommelig, met veel eenmalige posten, en omdat de risico's in de VS niet verder werden verlaagd zullen beleggers negatief reageren. Dit stelde de Zwitserse zakenbank UBS donderdag in een analistenrapport.",
-    "published_at": "2026-02-19 10:45",
-    "scraped_at": "2026-02-19T12:04:29.838085"
-  },
-  {
-    "id": "512a90b83a8fe3e49f703d59798f9315",
-    "categorie": "IEXProfs",
-    "titel": "Must read: Nederlandse belegger verdiende vorig jaar 7,8%",
-    "link": "https://www.iexprofs.nl/artikel/853883/Must-read-Nederlandse-belegger-verdiende-vorig-jaar-78.aspx",
-    "intro": "Plus: beleggen in kinderwelzijn, elk aandeel is een memestock, professionele belegger terughoudend met tech, de quantum computer komt eraan en meer,",
-    "published_at": "2026-02-19 10:00",
-    "scraped_at": "2026-02-19T12:04:29.838085"
-  },
-  {
-    "id": "dcdfa1cc18c9c1152f9353b7b9463d7c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: zwak vierde kwartaal voor Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/854110/Beursblik-zwak-vierde-kwartaal-voor-Arcadis.aspx",
-    "intro": "Arcadis heeft een zwak vierde kwartaal achter de rug. Dit stelde analist Luuk van Beek van Degroof Petercam donderdag in een rapport.",
-    "published_at": "2026-02-19 09:55",
-    "scraped_at": "2026-02-19T12:04:29.838085"
-  },
-  {
-    "id": "6425713ae3f42ecf591f4b66fc56921a",
-    "categorie": "Beursnieuws",
-    "titel": "SAP verhoogt dividend",
-    "link": "https://www.beurs.nl/Nieuws/854109/SAP-verhoogt-dividend.aspx",
-    "intro": "SAP keert over 2025 circa 2,9 miljard euro van de winst uit in dividend. Dit maakte het Duitse softwarebedrijf donderdagochtend bekend.",
-    "published_at": "2026-02-19 09:46",
-    "scraped_at": "2026-02-19T12:04:29.838085"
-  },
-  {
-    "id": "50b4d4a9a2ae3b3e2a1d0cc9946b6a3d",
-    "categorie": "Beursnieuws",
-    "titel": "Rio Tinto boekt lagere jaarwinst",
-    "link": "https://www.beurs.nl/Nieuws/854107/Rio-Tinto-boekt-lagere-jaarwinst.aspx",
-    "intro": "Rio Tinto heeft in 2025 een fors lagere nettowinst geboekt, maar hield het dividend voor aandeelhouders op peil. Dit maakte Brits-Australische mijnbouwgigant donderdag bekend.",
-    "published_at": "2026-02-19 09:45",
-    "scraped_at": "2026-02-19T12:04:29.838085"
+    "scraped_at": "2026-02-19T15:10:42.918909"
   }
 ]
