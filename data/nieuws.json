@@ -1,12 +1,30 @@
 [
   {
+    "id": "3fead29253bd9b17fcc75f040a222408",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen stijgen door hernieuwde Amerikaanse dreiging richting Iran",
+    "link": "https://www.beurs.nl/Nieuws/854217/Olieprijzen-stijgen-door-hernieuwde-Amerikaanse-dreiging-richting-Iran.aspx",
+    "intro": "De olieprijs is donderdag flink gestegen. De settlement van West Texas Intermediate was 66,43 dollar, waarmee een vat 1,9 procent duurder werd ten opzichte van woensdag.",
+    "published_at": "2026-02-19 21:02",
+    "scraped_at": "2026-02-19T21:03:51.510014"
+  },
+  {
+    "id": "aadf2ebfb9f7537623458a92697f68f4",
+    "categorie": "Beursnieuws",
+    "titel": "Lichte omzetstijging voor MotorK",
+    "link": "https://www.beurs.nl/Nieuws/854214/Lichte-omzetstijging-voor-MotorK.aspx",
+    "intro": "MotorK heeft in 2025 een licht hogere omzet geboekt, terwijl het resultaat flink verbeterde op jaarbasis. Dit meldde de Britse softwareproducent met een notering in Amsterdam donderdagavond in een update.",
+    "published_at": "2026-02-19 20:57",
+    "scraped_at": "2026-02-19T21:03:51.510014"
+  },
+  {
     "id": "7b2e1781b92e390f407abd77a9f8ad42",
     "categorie": "Beursnieuws",
     "titel": "Media: Netflix kan bod op Warner verder verhogen",
     "link": "https://www.beurs.nl/Nieuws/854209/Media-Netflix-kan-bod-op-Warner-verder-verhogen.aspx",
     "intro": "Netflix heeft de financiële flexibiliteit om het bod op Warner Bros. Discovery te verhogen als concurrent Paramount Skydance zijn bod op Warner ook verhoogt. Dit meldde persbureau Reuters donderdag op basis van bronnen.",
     "published_at": "2026-02-19 20:25",
-    "scraped_at": "2026-02-19T19:54:52.029953"
+    "scraped_at": "2026-02-19T21:03:51.510014"
   },
   {
     "id": "a69fe4763ec1f6757f3401ea54d1bf34",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854206/Wall-Street-koerst-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag lager met nog een paar uur handel te gaan, nu de spanningen tussen de VS en Iran weer oplopen.",
     "published_at": "2026-02-19 19:48",
-    "scraped_at": "2026-02-19T19:54:52.029953"
+    "scraped_at": "2026-02-19T21:03:51.510014"
   },
   {
     "id": "01927afd8893b3edfeb78affbc940e12",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854201/Spanningen-rond-Iran-drukken-stemming-in-Europa.aspx",
     "intro": "De Europese aandelenmarkten zijn donderdag lager geëindigd, nu gevreesd wordt dat de VS Iran toch zullen aanvallen. Verder lag de focus op een nieuwe stroom aan kwartaalcijfers en ander bedrijfsnieuws.",
     "published_at": "2026-02-19 18:35",
-    "scraped_at": "2026-02-19T19:54:52.029953"
+    "scraped_at": "2026-02-19T21:03:51.510014"
   },
   {
     "id": "59a8f03e64a0c4593b8ff77e6a7d9927",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854200/Flinke-daling-Amerikaanse-olievoorraden.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week flink gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-02-19 18:06",
-    "scraped_at": "2026-02-19T19:54:52.029953"
+    "scraped_at": "2026-02-19T21:03:51.510014"
   },
   {
     "id": "a5a22acec75834730b5eb4f341eab819",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854197/Besi-en-Aegon-trekken-AEX-nipt-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is donderdag met een klein verlies gesloten, maar de AEX wist wel boven de 1.000 punten te blijven.",
     "published_at": "2026-02-19 17:51",
-    "scraped_at": "2026-02-19T19:54:52.029953"
+    "scraped_at": "2026-02-19T21:03:51.510014"
   },
   {
     "id": "a66936d9763aa0fec786a7a8f4e4d0a2",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854187/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 27 februari 2026:",
     "published_at": "2026-02-19 16:35",
-    "scraped_at": "2026-02-19T19:54:52.029953"
+    "scraped_at": "2026-02-19T21:03:51.510014"
   },
   {
     "id": "2b8ef97a9319130cefae70d350cdc16c",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854185/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 27 februari 2026:",
     "published_at": "2026-02-19 16:34",
-    "scraped_at": "2026-02-19T19:54:52.029953"
+    "scraped_at": "2026-02-19T21:03:51.510014"
   },
   {
     "id": "e8e617aa85b314f89f18dc87d34149f4",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854186/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 27 februari 2026:",
     "published_at": "2026-02-19 16:34",
-    "scraped_at": "2026-02-19T19:54:52.029953"
-  },
-  {
-    "id": "e69becc2c2d9e994b96b8ee1c541685b",
-    "categorie": "Beursnieuws",
-    "titel": "Daling aanstaande woningverkopen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/854184/Daling-aanstaande-woningverkopen-in-de-VS.aspx",
-    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in januari op zowel maand- als jaarbasis gedaald. Dit bleek donderdag uit cijfers van makelaarsorganisatie NAR.",
-    "published_at": "2026-02-19 16:28",
-    "scraped_at": "2026-02-19T19:54:52.029953"
-  },
-  {
-    "id": "7ba8994fdbee07c938c83a188ab2ab80",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen eurozone verbetert licht",
-    "link": "https://www.beurs.nl/Nieuws/854183/Consumentenvertrouwen-eurozone-verbetert-licht.aspx",
-    "intro": "Het consumentenvertrouwen in de eurozone is in februari licht verbeterd. Dit bleek donderdagmiddag uit voorlopige cijfers van de Europese Commissie.",
-    "published_at": "2026-02-19 16:17",
-    "scraped_at": "2026-02-19T19:54:52.029953"
+    "scraped_at": "2026-02-19T21:03:51.510014"
   }
 ]
