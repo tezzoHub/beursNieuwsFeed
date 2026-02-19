@@ -1,12 +1,48 @@
 [
   {
-    "id": "fe20cb5e4015f2beb321125c1e6888eb",
+    "id": "24102be95873e80c38172d06b60c9778",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: bedrijfscijfers wisselvallig onthaald op overwegend rood Damrak",
-    "link": "https://www.beurs.nl/Nieuws/854125/Beursupdate-bedrijfscijfers-wisselvallig-onthaald-op-overwegend-rood-Damrak.aspx",
+    "titel": "Deere verhoogt winstverwachting ondanks lager resultaat",
+    "link": "https://www.beurs.nl/Nieuws/854155/Deere-verhoogt-winstverwachting-ondanks-lager-resultaat.aspx",
+    "intro": "Deere heeft in het eerste kwartaal van 2026 ondanks een hogere omzet het resultaat zien dalen, wat het bedrijf er niet van weerhield om de outlook voor het hele jaar te verhogen. Dit bleek donderdag uit cijfers van de Amerikaanse fabrikant van tractoren en ander zwaar materieel.",
+    "published_at": "2026-02-19 12:59",
+    "scraped_at": "2026-02-19T12:04:29.838085"
+  },
+  {
+    "id": "a57527e6a89da66525b7440c24a9ac40",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen doen stap terug",
+    "link": "https://www.beurs.nl/Nieuws/854149/Europese-beurzen-doen-stap-terug.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur lager, nadat beleggers een stap terug deden en winst namen nadat woensdag nieuwe toppen werden bereikt. Air France-KLM blonk uit, maar Airbus ging onderuit na cijfers.",
+    "published_at": "2026-02-19 12:25",
+    "scraped_at": "2026-02-19T12:04:29.838085"
+  },
+  {
+    "id": "e24ad00268858b7f0d0f95273c62f511",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America en UBS passen koersdoel voor IMCD aan",
+    "link": "https://www.beurs.nl/Nieuws/854142/Beursblik-Bank-of-America-en-UBS-passen-koersdoel-voor-IMCD-aan.aspx",
+    "intro": "Bank of America heeft donderdag het koersdoel voor IMCD verlaagd, terwijl UBS juist een kleine verhoging doorvoerde. Dit bleek uit analistenrapporten van de banken.",
+    "published_at": "2026-02-19 12:13",
+    "scraped_at": "2026-02-19T12:04:29.838085"
+  },
+  {
+    "id": "9ca09b548ea399dfa738b0e4cd8faff6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke groei bij Euronext",
+    "link": "https://www.beurs.nl/Nieuws/854139/Beursblik-sterke-groei-bij-Euronext.aspx",
+    "intro": "De prestaties van Euronext in het vierde kwartaal waren solide. Dit stelde analist Thomas Couvreur van KBC Securities donderdag in een rapport.",
+    "published_at": "2026-02-19 11:49",
+    "scraped_at": "2026-02-19T12:04:29.838085"
+  },
+  {
+    "id": "4c0d9aa366f9fe12863bb01fa09a3356",
+    "categorie": "Beursnieuws",
+    "titel": "Bedrijfscijfers wisselvallig onthaald op overwegend rood Damrak",
+    "link": "https://www.beurs.nl/Nieuws/854125/Bedrijfscijfers-wisselvallig-onthaald-op-overwegend-rood-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste donderdag wat lager, waarbij een lawine aan nieuwe bedrijfsresultaten wisselend werd ontvangen. Rond de klok van elf uur daalde de AEX met 0,3 procent tot 1.007,57 punten.",
     "published_at": "2026-02-19 11:21",
-    "scraped_at": "2026-02-19T10:29:59.551869"
+    "scraped_at": "2026-02-19T12:04:29.838085"
   },
   {
     "id": "1aac0271656f568d82e35087d2b7a7cf",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854121/Beursblik-rommelig-cijferrapport-van-Aegon.aspx",
     "intro": "De resultaten van Aegon over de tweede helft van 2025 waren rommelig, met veel eenmalige posten, en omdat de risico's in de VS niet verder werden verlaagd zullen beleggers negatief reageren. Dit stelde de Zwitserse zakenbank UBS donderdag in een analistenrapport.",
     "published_at": "2026-02-19 10:45",
-    "scraped_at": "2026-02-19T10:29:59.551869"
+    "scraped_at": "2026-02-19T12:04:29.838085"
   },
   {
     "id": "512a90b83a8fe3e49f703d59798f9315",
@@ -24,7 +60,7 @@
     "link": "https://www.iexprofs.nl/artikel/853883/Must-read-Nederlandse-belegger-verdiende-vorig-jaar-78.aspx",
     "intro": "Plus: beleggen in kinderwelzijn, elk aandeel is een memestock, professionele belegger terughoudend met tech, de quantum computer komt eraan en meer,",
     "published_at": "2026-02-19 10:00",
-    "scraped_at": "2026-02-19T10:29:59.551869"
+    "scraped_at": "2026-02-19T12:04:29.838085"
   },
   {
     "id": "dcdfa1cc18c9c1152f9353b7b9463d7c",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854110/Beursblik-zwak-vierde-kwartaal-voor-Arcadis.aspx",
     "intro": "Arcadis heeft een zwak vierde kwartaal achter de rug. Dit stelde analist Luuk van Beek van Degroof Petercam donderdag in een rapport.",
     "published_at": "2026-02-19 09:55",
-    "scraped_at": "2026-02-19T10:29:59.551869"
+    "scraped_at": "2026-02-19T12:04:29.838085"
   },
   {
     "id": "6425713ae3f42ecf591f4b66fc56921a",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854109/SAP-verhoogt-dividend.aspx",
     "intro": "SAP keert over 2025 circa 2,9 miljard euro van de winst uit in dividend. Dit maakte het Duitse softwarebedrijf donderdagochtend bekend.",
     "published_at": "2026-02-19 09:46",
-    "scraped_at": "2026-02-19T10:29:59.551869"
+    "scraped_at": "2026-02-19T12:04:29.838085"
   },
   {
     "id": "50b4d4a9a2ae3b3e2a1d0cc9946b6a3d",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854107/Rio-Tinto-boekt-lagere-jaarwinst.aspx",
     "intro": "Rio Tinto heeft in 2025 een fors lagere nettowinst geboekt, maar hield het dividend voor aandeelhouders op peil. Dit maakte Brits-Australische mijnbouwgigant donderdag bekend.",
     "published_at": "2026-02-19 09:45",
-    "scraped_at": "2026-02-19T10:29:59.551869"
-  },
-  {
-    "id": "103f2cc95328428aef1448924fe2365d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: solide tweede halfjaar voor Aegon",
-    "link": "https://www.beurs.nl/Nieuws/854108/Beursblik-solide-tweede-halfjaar-voor-Aegon.aspx",
-    "intro": "Aegon heeft in de tweede helft van 2025 solide resultaten geboekt, maar blikte voorzichtiger vooruit naar 2026. Dit stelde KBC Securities donderdag in een rapport.",
-    "published_at": "2026-02-19 09:42",
-    "scraped_at": "2026-02-19T10:29:59.551869"
-  },
-  {
-    "id": "0c9865bf4fe26793041e2737851451a5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: KBC Securities verhoogt koersdoel Besi",
-    "link": "https://www.beurs.nl/Nieuws/854104/Beursblik-KBC-Securities-verhoogt-koersdoel-Besi.aspx",
-    "intro": "KBC Securities heeft donderdag het koersdoel voor BE Semiconductor Industries verhoogd van 125,00 naar 150,00 euro met een herhaling van het Houden advies. Dit bleek uit een rapport van analist Thibault Leneeuw na de jaarcijfers die Besi vanochtend publiceerde.",
-    "published_at": "2026-02-19 09:23",
-    "scraped_at": "2026-02-19T10:29:59.551869"
-  },
-  {
-    "id": "f3d8d6d38d734dc5242a8ed016741862",
-    "categorie": "Beursnieuws",
-    "titel": "Flinke volatiliteit op het Damrak na cijfers Besi en Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/854103/Flinke-volatiliteit-op-het-Damrak-na-cijfers-Besi-en-Arcadis.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 0,1 procent hoger op 1.011,37 punten, terwijl de Midkap 0,4 procent prijs moest geven.",
-    "published_at": "2026-02-19 09:22",
-    "scraped_at": "2026-02-19T10:29:59.551869"
-  },
-  {
-    "id": "365ea045b1684baadf776887ae216c4f",
-    "categorie": "Beursnieuws",
-    "titel": "Tekort aan motoren speelt Airbus parten",
-    "link": "https://www.beurs.nl/Nieuws/854100/Tekort-aan-motoren-speelt-Airbus-parten.aspx",
-    "intro": "De winst van Airbus zit in de lift, maar de outlook voor 2026 is terughoudend. Dit kwam donderdag naar voren uit de cijfers van de Europese vliegtuigbouwer.",
-    "published_at": "2026-02-19 09:08",
-    "scraped_at": "2026-02-19T10:29:59.551869"
+    "scraped_at": "2026-02-19T12:04:29.838085"
   }
 ]
