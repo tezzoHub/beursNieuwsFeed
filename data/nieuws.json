@@ -1,83 +1,92 @@
 [
   {
-    "id": "a8f479f4feafa122068dcae892ea7222",
+    "id": "e58a2069288f2b6d8293c81da2954491",
     "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag vermoedelijk in het groen",
-    "link": "https://www.beurs.nl/Nieuws/854266/AEX-start-handelsdag-vermoedelijk-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,4 procent.",
-    "published_at": "2026-02-20 08:11",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "titel": "Britse economie groeit nog iets harder",
+    "link": "https://www.beurs.nl/Nieuws/854292/Britse-economie-groeit-nog-iets-harder.aspx",
+    "intro": "De economische activiteit in het Verenigd Koninkrijk is in februari nog iets verder aangetrokken, na een sterke stijging in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-02-20 10:34",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   },
   {
-    "id": "6cd4c51a81c88faac7f1a0ba73bb4c94",
+    "id": "9dec7ef76dc47e8e2faf0007e82a5827",
     "categorie": "Beursnieuws",
-    "titel": "Brunel ziet tekenen van stabilisering",
-    "link": "https://www.beurs.nl/Nieuws/854263/Brunel-ziet-tekenen-van-stabilisering.aspx",
-    "intro": "Brunel heeft in het vierde kwartaal van 2025 de omzet en winst onder druk zien staan, maar het bedrijf sprak zelf van een stabilisering van de resultaten. Dit bleek vrijdag voorbeurs uit cijfers van de specialistische detacheerder.",
-    "published_at": "2026-02-20 08:05",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "titel": "UBS verlaagt koersdoel Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/854291/UBS-verlaagt-koersdoel-Arcadis.aspx",
+    "intro": "UBS heeft vrijdag het koersdoel voor Arcadis verlaagd van 40,00 naar 34,50 euro met een onveranderd Neutraal advies. Dit bleek uit een rapport van analist Natasha Brilliant.",
+    "published_at": "2026-02-20 10:27",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   },
   {
-    "id": "82c9266f75b6ec5775132e6fd4ca803c",
+    "id": "bb72a59339da346af618f661ad6a2f1d",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen overwegend lager",
-    "link": "https://www.beurs.nl/Nieuws/854257/Aziatische-beurzen-overwegend-lager.aspx",
-    "intro": "De beurs in Seoel scherpte vrijdagochtend zijn hoogste stand ooit aan, terwijl de andere Aziatische beurzen een stap terug deden. In Hongkong opende de beurs na drie rustdagen weer de deuren, met een verlies voor de Hang Seng index van meer dan een half procent.",
-    "published_at": "2026-02-20 07:19",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "titel": "Europese industrie groeit eindelijk weer",
+    "link": "https://www.beurs.nl/Nieuws/854289/Europese-industrie-groeit-eindelijk-weer.aspx",
+    "intro": "De economische groei in de eurozone is in februari aangetrokken, waarbij de industrie in lange tijd weer groei kon laten zien. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
+    "published_at": "2026-02-20 10:08",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   },
   {
-    "id": "6844b7862ae998666e55bcd4f128c5f7",
-    "categorie": "Beursnieuws",
-    "titel": "Opnieuw flinke daling Nederlandse investeringen",
-    "link": "https://www.beurs.nl/Nieuws/854255/Opnieuw-flinke-daling-Nederlandse-investeringen.aspx",
-    "intro": "De Nederlandse investeringen zijn in december opnieuw flink gedaald. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-02-20 07:10",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "id": "8543f460a65e3c4230d30d961b1a5c7c",
+    "categorie": "IEXProfs",
+    "titel": "Must Read: Haalt Chinese tech Amerika in?",
+    "link": "https://www.iexprofs.nl/artikel/854157/Must-Read-Haalt-Chinese-tech-Amerika-in.aspx",
+    "intro": "De Chinezen versnellen hun technische inspanningen. Plus: consumentenvertrouwen verslechtert, 15 aantrekkelijke dividendaandelen, goud opnieuw boven $5000 en meer.",
+    "published_at": "2026-02-20 09:50",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   },
   {
-    "id": "eec961a1ba371840a6e90505ef740172",
+    "id": "a7feb748fd075722ae128ca8b76b9592",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/854254/Europese-beurzen-openen-in-het-groen.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet, in aanloop naar een drukke dag qua macro-economische cijfers.",
-    "published_at": "2026-02-20 06:57",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "titel": "Duitse economie groeit in hoger tempo",
+    "link": "https://www.beurs.nl/Nieuws/854284/Duitse-economie-groeit-in-hoger-tempo.aspx",
+    "intro": "De groei van de Duitse economie is in februari verder versneld, na al een goede jaarstart in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
+    "published_at": "2026-02-20 09:37",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   },
   {
-    "id": "91a44f7459c1375fd56b3676fe286903",
+    "id": "a4c90189b236ef169d5f9cfc788d1a9c",
     "categorie": "Beursnieuws",
-    "titel": "Japanse economie trekt verder aan",
-    "link": "https://www.beurs.nl/Nieuws/854253/Japanse-economie-trekt-verder-aan.aspx",
-    "intro": "De Japanse economie is 2026 goed begonnen en zette deze trend in februari door. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-02-20 06:50",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "titel": "Groei Franse industrie alweer ten einde",
+    "link": "https://www.beurs.nl/Nieuws/854281/Groei-Franse-industrie-alweer-ten-einde.aspx",
+    "intro": "De Franse economie heeft het ook in februari moeilijk, na al een lastige jaarstart in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
+    "published_at": "2026-02-20 09:22",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   },
   {
-    "id": "a9b4c1036a4a8b9af2d2688e7c187991",
+    "id": "8a8c54b678c7a6dfc69dba790155edea",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/854249/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 27 februari 2026:",
-    "published_at": "2026-02-20 06:44",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "titel": "AEX licht hoger van start gegaan, onder aanvoering van Besi",
+    "link": "https://www.beurs.nl/Nieuws/854277/AEX-licht-hoger-van-start-gegaan-onder-aanvoering-van-Besi.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent hoger op 1.009,84 punten, terwijl de Midkap juist 0,2 procent prijs moest geven.",
+    "published_at": "2026-02-20 09:14",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   },
   {
-    "id": "f179e2b690bbe013553294aef78eeed5",
+    "id": "9662713255ede6ed53b1d1bfee1ebd45",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/854250/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 27 februari 2026:",
-    "published_at": "2026-02-20 06:44",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "titel": "IMCD koopt Willows Ingredients",
+    "link": "https://www.beurs.nl/Nieuws/854276/IMCD-koopt-Willows-Ingredients.aspx",
+    "intro": "IMCD heeft een akkoord bereikt voor de overname van Willows Ingredients. Dit bleek vrijdagochtend uit een persbericht van het Rotterdamse bedrijf.",
+    "published_at": "2026-02-20 09:12",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   },
   {
-    "id": "7a1b8abd83d08c0141a850870a4986a6",
+    "id": "c74179a9d54fe2f86c3e885997bc1ca6",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/854251/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 27 februari 2026:",
-    "published_at": "2026-02-20 06:44",
-    "scraped_at": "2026-02-20T07:54:50.049573"
+    "titel": "Deutsche Bank verhoogt koersdoel Besi",
+    "link": "https://www.beurs.nl/Nieuws/854274/Deutsche-Bank-verhoogt-koersdoel-Besi.aspx",
+    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 190 naar 215 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Robert Sanders.",
+    "published_at": "2026-02-20 09:03",
+    "scraped_at": "2026-02-20T10:03:52.654180"
+  },
+  {
+    "id": "1aaa4d4a0e1ad2b5930c390e07e99550",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere omzet en winst in 2025 voor Danone",
+    "link": "https://www.beurs.nl/Nieuws/854273/Hogere-omzet-en-winst-in-2025-voor-Danone.aspx",
+    "intro": "Danone heeft het boekjaar 2025 afgesloten met een hogere omzet en dito winst. Dit maakte de Franse multinational vrijdagochtend bekend.",
+    "published_at": "2026-02-20 08:54",
+    "scraped_at": "2026-02-20T10:03:52.654180"
   }
 ]
