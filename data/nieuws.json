@@ -1,12 +1,39 @@
 [
   {
+    "id": "191382b006a2855aee738c2d51da5739",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: JPMorgan verlaagt koersdoel Wolters Kluwer stevig",
+    "link": "https://www.beurs.nl/Nieuws/854313/Beursblik-JPMorgan-verlaagt-koersdoel-Wolters-Kluwer-stevig.aspx",
+    "intro": "JPMorgan Research heeft vrijdag het koersdoel voor Wolters Kluwer verlaagd van 107,00 naar 73,00 euro, met een onveranderd Neutraal advies. Dit bleek uit een analistenrapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-02-20 12:34",
+    "scraped_at": "2026-02-20T11:49:07.787709"
+  },
+  {
+    "id": "3f683e520bc80e5ba81a2035f630e047",
+    "categorie": "Beursnieuws",
+    "titel": "Herstel voor Besi, niet voor Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/854307/Herstel-voor-Besi-niet-voor-Arcadis.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend licht in het groen, aangevoerd door een koersherstel bij BE Semiconductor Industries.",
+    "published_at": "2026-02-20 11:57",
+    "scraped_at": "2026-02-20T11:49:07.787709"
+  },
+  {
+    "id": "2a5a91cd45fecbe6b945de16dfe95ec7",
+    "categorie": "Beursnieuws",
+    "titel": "Defensiespecialist CSG sluit groot contract met NAVO-land",
+    "link": "https://www.beurs.nl/Nieuws/854299/Defensiespecialist-CSG-sluit-groot-contract-met-NAVO-land.aspx",
+    "intro": "Czechoslovak Group heeft een groot contract getekend met het ministerie van Defensie van een NAVO-lidstaat in West-Europa voor de levering van artillerie- en mortiermunitie. Dit meldde het Tsjechische defensiebedrijf, dat sinds een maand een notering heeft in Amsterdam, vrijdagochtend.",
+    "published_at": "2026-02-20 11:21",
+    "scraped_at": "2026-02-20T11:49:07.787709"
+  },
+  {
     "id": "e58a2069288f2b6d8293c81da2954491",
     "categorie": "Beursnieuws",
     "titel": "Britse economie groeit nog iets harder",
     "link": "https://www.beurs.nl/Nieuws/854292/Britse-economie-groeit-nog-iets-harder.aspx",
     "intro": "De economische activiteit in het Verenigd Koninkrijk is in februari nog iets verder aangetrokken, na een sterke stijging in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-02-20 10:34",
-    "scraped_at": "2026-02-20T10:03:52.654180"
+    "scraped_at": "2026-02-20T11:49:07.787709"
   },
   {
     "id": "9dec7ef76dc47e8e2faf0007e82a5827",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854291/UBS-verlaagt-koersdoel-Arcadis.aspx",
     "intro": "UBS heeft vrijdag het koersdoel voor Arcadis verlaagd van 40,00 naar 34,50 euro met een onveranderd Neutraal advies. Dit bleek uit een rapport van analist Natasha Brilliant.",
     "published_at": "2026-02-20 10:27",
-    "scraped_at": "2026-02-20T10:03:52.654180"
+    "scraped_at": "2026-02-20T11:49:07.787709"
   },
   {
     "id": "bb72a59339da346af618f661ad6a2f1d",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854289/Europese-industrie-groeit-eindelijk-weer.aspx",
     "intro": "De economische groei in de eurozone is in februari aangetrokken, waarbij de industrie in lange tijd weer groei kon laten zien. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-02-20 10:08",
-    "scraped_at": "2026-02-20T10:03:52.654180"
+    "scraped_at": "2026-02-20T11:49:07.787709"
   },
   {
     "id": "8543f460a65e3c4230d30d961b1a5c7c",
@@ -33,7 +60,7 @@
     "link": "https://www.iexprofs.nl/artikel/854157/Must-Read-Haalt-Chinese-tech-Amerika-in.aspx",
     "intro": "De Chinezen versnellen hun technische inspanningen. Plus: consumentenvertrouwen verslechtert, 15 aantrekkelijke dividendaandelen, goud opnieuw boven $5000 en meer.",
     "published_at": "2026-02-20 09:50",
-    "scraped_at": "2026-02-20T10:03:52.654180"
+    "scraped_at": "2026-02-20T11:49:07.787709"
   },
   {
     "id": "a7feb748fd075722ae128ca8b76b9592",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854284/Duitse-economie-groeit-in-hoger-tempo.aspx",
     "intro": "De groei van de Duitse economie is in februari verder versneld, na al een goede jaarstart in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-02-20 09:37",
-    "scraped_at": "2026-02-20T10:03:52.654180"
+    "scraped_at": "2026-02-20T11:49:07.787709"
   },
   {
     "id": "a4c90189b236ef169d5f9cfc788d1a9c",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854281/Groei-Franse-industrie-alweer-ten-einde.aspx",
     "intro": "De Franse economie heeft het ook in februari moeilijk, na al een lastige jaarstart in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-02-20 09:22",
-    "scraped_at": "2026-02-20T10:03:52.654180"
+    "scraped_at": "2026-02-20T11:49:07.787709"
   },
   {
     "id": "8a8c54b678c7a6dfc69dba790155edea",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854277/AEX-licht-hoger-van-start-gegaan-onder-aanvoering-van-Besi.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent hoger op 1.009,84 punten, terwijl de Midkap juist 0,2 procent prijs moest geven.",
     "published_at": "2026-02-20 09:14",
-    "scraped_at": "2026-02-20T10:03:52.654180"
-  },
-  {
-    "id": "9662713255ede6ed53b1d1bfee1ebd45",
-    "categorie": "Beursnieuws",
-    "titel": "IMCD koopt Willows Ingredients",
-    "link": "https://www.beurs.nl/Nieuws/854276/IMCD-koopt-Willows-Ingredients.aspx",
-    "intro": "IMCD heeft een akkoord bereikt voor de overname van Willows Ingredients. Dit bleek vrijdagochtend uit een persbericht van het Rotterdamse bedrijf.",
-    "published_at": "2026-02-20 09:12",
-    "scraped_at": "2026-02-20T10:03:52.654180"
-  },
-  {
-    "id": "c74179a9d54fe2f86c3e885997bc1ca6",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel Besi",
-    "link": "https://www.beurs.nl/Nieuws/854274/Deutsche-Bank-verhoogt-koersdoel-Besi.aspx",
-    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 190 naar 215 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Robert Sanders.",
-    "published_at": "2026-02-20 09:03",
-    "scraped_at": "2026-02-20T10:03:52.654180"
-  },
-  {
-    "id": "1aaa4d4a0e1ad2b5930c390e07e99550",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere omzet en winst in 2025 voor Danone",
-    "link": "https://www.beurs.nl/Nieuws/854273/Hogere-omzet-en-winst-in-2025-voor-Danone.aspx",
-    "intro": "Danone heeft het boekjaar 2025 afgesloten met een hogere omzet en dito winst. Dit maakte de Franse multinational vrijdagochtend bekend.",
-    "published_at": "2026-02-20 08:54",
-    "scraped_at": "2026-02-20T10:03:52.654180"
+    "scraped_at": "2026-02-20T11:49:07.787709"
   }
 ]
