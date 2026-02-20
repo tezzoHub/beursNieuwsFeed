@@ -1,92 +1,83 @@
 [
   {
-    "id": "83b4705f68408017046adc5423573c01",
+    "id": "a8f479f4feafa122068dcae892ea7222",
     "categorie": "Beursnieuws",
-    "titel": "Galapagos stelt nieuwe bestuurder aan",
-    "link": "https://www.beurs.nl/Nieuws/854225/Galapagos-stelt-nieuwe-bestuurder-aan.aspx",
-    "intro": "Galapagos heeft Dr. Paulo Fontoura aangesteld als niet-uitvoerend onafhankelijk bestuurder. Dit meldde het Belgisch-Nederlandse biotechbedrijf donderdagavond.",
-    "published_at": "2026-02-19 22:25",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "AEX start handelsdag vermoedelijk in het groen",
+    "link": "https://www.beurs.nl/Nieuws/854266/AEX-start-handelsdag-vermoedelijk-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,4 procent.",
+    "published_at": "2026-02-20 08:11",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   },
   {
-    "id": "7ef48b86dd192bff18428fc1db4fdb6e",
+    "id": "6cd4c51a81c88faac7f1a0ba73bb4c94",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/854224/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-02-19 22:18",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "Brunel ziet tekenen van stabilisering",
+    "link": "https://www.beurs.nl/Nieuws/854263/Brunel-ziet-tekenen-van-stabilisering.aspx",
+    "intro": "Brunel heeft in het vierde kwartaal van 2025 de omzet en winst onder druk zien staan, maar het bedrijf sprak zelf van een stabilisering van de resultaten. Dit bleek vrijdag voorbeurs uit cijfers van de specialistische detacheerder.",
+    "published_at": "2026-02-20 08:05",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   },
   {
-    "id": "d137325161b9961f83eca99f95ea4cdc",
+    "id": "82c9266f75b6ec5775132e6fd4ca803c",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street onder druk terwijl spanningen rond Iran oplopen",
-    "link": "https://www.beurs.nl/Nieuws/854221/Wall-Street-onder-druk-terwijl-spanningen-rond-Iran-oplopen.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdag lager geëindigd, nadat de spanningen tussen de VS en Iran weer opliepen.",
-    "published_at": "2026-02-19 22:12",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "Aziatische beurzen overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/854257/Aziatische-beurzen-overwegend-lager.aspx",
+    "intro": "De beurs in Seoel scherpte vrijdagochtend zijn hoogste stand ooit aan, terwijl de andere Aziatische beurzen een stap terug deden. In Hongkong opende de beurs na drie rustdagen weer de deuren, met een verlies voor de Hang Seng index van meer dan een half procent.",
+    "published_at": "2026-02-20 07:19",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   },
   {
-    "id": "3fead29253bd9b17fcc75f040a222408",
+    "id": "6844b7862ae998666e55bcd4f128c5f7",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen stijgen door hernieuwde Amerikaanse dreiging richting Iran",
-    "link": "https://www.beurs.nl/Nieuws/854217/Olieprijzen-stijgen-door-hernieuwde-Amerikaanse-dreiging-richting-Iran.aspx",
-    "intro": "De olieprijs is donderdag flink gestegen. De settlement van West Texas Intermediate was 66,43 dollar, waarmee een vat 1,9 procent duurder werd ten opzichte van woensdag.",
-    "published_at": "2026-02-19 21:02",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "Opnieuw flinke daling Nederlandse investeringen",
+    "link": "https://www.beurs.nl/Nieuws/854255/Opnieuw-flinke-daling-Nederlandse-investeringen.aspx",
+    "intro": "De Nederlandse investeringen zijn in december opnieuw flink gedaald. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-02-20 07:10",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   },
   {
-    "id": "aadf2ebfb9f7537623458a92697f68f4",
+    "id": "eec961a1ba371840a6e90505ef740172",
     "categorie": "Beursnieuws",
-    "titel": "Lichte omzetstijging voor MotorK",
-    "link": "https://www.beurs.nl/Nieuws/854214/Lichte-omzetstijging-voor-MotorK.aspx",
-    "intro": "MotorK heeft in 2025 een licht hogere omzet geboekt, terwijl het resultaat flink verbeterde op jaarbasis. Dit meldde de Britse softwareproducent met een notering in Amsterdam donderdagavond in een update.",
-    "published_at": "2026-02-19 20:57",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "Europese beurzen openen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/854254/Europese-beurzen-openen-in-het-groen.aspx",
+    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet, in aanloop naar een drukke dag qua macro-economische cijfers.",
+    "published_at": "2026-02-20 06:57",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   },
   {
-    "id": "7b2e1781b92e390f407abd77a9f8ad42",
+    "id": "91a44f7459c1375fd56b3676fe286903",
     "categorie": "Beursnieuws",
-    "titel": "Media: Netflix kan bod op Warner verder verhogen",
-    "link": "https://www.beurs.nl/Nieuws/854209/Media-Netflix-kan-bod-op-Warner-verder-verhogen.aspx",
-    "intro": "Netflix heeft de financiële flexibiliteit om het bod op Warner Bros. Discovery te verhogen als concurrent Paramount Skydance zijn bod op Warner ook verhoogt. Dit meldde persbureau Reuters donderdag op basis van bronnen.",
-    "published_at": "2026-02-19 20:25",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "Japanse economie trekt verder aan",
+    "link": "https://www.beurs.nl/Nieuws/854253/Japanse-economie-trekt-verder-aan.aspx",
+    "intro": "De Japanse economie is 2026 goed begonnen en zette deze trend in februari door. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-02-20 06:50",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   },
   {
-    "id": "a69fe4763ec1f6757f3401ea54d1bf34",
+    "id": "a9b4c1036a4a8b9af2d2688e7c187991",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst lager",
-    "link": "https://www.beurs.nl/Nieuws/854206/Wall-Street-koerst-lager.aspx",
-    "intro": "De Amerikaanse beurzen noteerden donderdag lager met nog een paar uur handel te gaan, nu de spanningen tussen de VS en Iran weer oplopen.",
-    "published_at": "2026-02-19 19:48",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/854249/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 27 februari 2026:",
+    "published_at": "2026-02-20 06:44",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   },
   {
-    "id": "01927afd8893b3edfeb78affbc940e12",
+    "id": "f179e2b690bbe013553294aef78eeed5",
     "categorie": "Beursnieuws",
-    "titel": "Spanningen rond Iran drukken stemming in Europa",
-    "link": "https://www.beurs.nl/Nieuws/854201/Spanningen-rond-Iran-drukken-stemming-in-Europa.aspx",
-    "intro": "De Europese aandelenmarkten zijn donderdag lager geëindigd, nu gevreesd wordt dat de VS Iran toch zullen aanvallen. Verder lag de focus op een nieuwe stroom aan kwartaalcijfers en ander bedrijfsnieuws.",
-    "published_at": "2026-02-19 18:35",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/854250/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 27 februari 2026:",
+    "published_at": "2026-02-20 06:44",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   },
   {
-    "id": "59a8f03e64a0c4593b8ff77e6a7d9927",
+    "id": "7a1b8abd83d08c0141a850870a4986a6",
     "categorie": "Beursnieuws",
-    "titel": "Flinke daling Amerikaanse olievoorraden",
-    "link": "https://www.beurs.nl/Nieuws/854200/Flinke-daling-Amerikaanse-olievoorraden.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week flink gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-02-19 18:06",
-    "scraped_at": "2026-02-20T05:09:15.681647"
-  },
-  {
-    "id": "a5a22acec75834730b5eb4f341eab819",
-    "categorie": "Beursnieuws",
-    "titel": "Besi en Aegon trekken AEX nipt in het rood",
-    "link": "https://www.beurs.nl/Nieuws/854197/Besi-en-Aegon-trekken-AEX-nipt-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs is donderdag met een klein verlies gesloten, maar de AEX wist wel boven de 1.000 punten te blijven.",
-    "published_at": "2026-02-19 17:51",
-    "scraped_at": "2026-02-20T05:09:15.681647"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/854251/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 27 februari 2026:",
+    "published_at": "2026-02-20 06:44",
+    "scraped_at": "2026-02-20T07:54:50.049573"
   }
 ]
