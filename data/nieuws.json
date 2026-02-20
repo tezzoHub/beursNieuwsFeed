@@ -1,12 +1,39 @@
 [
   {
+    "id": "6b4b6eda5de3aaee9c62fe99ed5a732e",
+    "categorie": "Beursnieuws",
+    "titel": "Virgin rondt overname van Downtown Music af",
+    "link": "https://www.beurs.nl/Nieuws/854367/Virgin-rondt-overname-van-Downtown-Music-af.aspx",
+    "intro": "Virgin Music heeft de overname van Downtown Music afgerond, nadat er vorige week goedkeuring kwam van de Europese Commissie. Dit meldde moederbedrijf Universal Music Group vrijdagavond.",
+    "published_at": "2026-02-20 18:50",
+    "scraped_at": "2026-02-20T18:05:38.038282"
+  },
+  {
+    "id": "268c42ab64c941796a8431f26929c1a3",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten hoger na afwijzing Trump-tarieven",
+    "link": "https://www.beurs.nl/Nieuws/854366/Europese-beurzen-sluiten-hoger-na-afwijzing-Trump-tarieven.aspx",
+    "intro": "De Europese beurzen zijn vrijdag hoger gesloten, mede doordat het Amerikaanse Hooggerechtshof de door Trump ingestelde importheffingen ongeldig heeft verklaard.",
+    "published_at": "2026-02-20 18:42",
+    "scraped_at": "2026-02-20T18:05:38.038282"
+  },
+  {
+    "id": "57c1a568fb9334c614ceedf6714b8f63",
+    "categorie": "Beursnieuws",
+    "titel": "Record voor AEX onder aanvoering van Besi",
+    "link": "https://www.beurs.nl/Nieuws/854360/Record-voor-AEX-onder-aanvoering-van-Besi.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag met winst gesloten. De AEX steeg met 1,0 procent naar 1.017,66 punten en dat was de hoogste slotstand ooit. Op weekbasis won de hoofdgraadmeter ook flink terrein.",
+    "published_at": "2026-02-20 17:51",
+    "scraped_at": "2026-02-20T18:05:38.038282"
+  },
+  {
     "id": "e9e71b5da64e5edeb12e0298ae1f7b88",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: groeicijfers VS vertekend maar scheefgroei dreigt",
     "link": "https://www.beurs.nl/Nieuws/854354/Beursblik-groeicijfers-VS-vertekend-maar-scheefgroei-dreigt.aspx",
     "intro": "De Amerikaanse economie zal vermoedelijk herstellen, nadat de groei in het vierde kwartaal tegenviel als gevolg van de shutdown in het najaar. Dit stelde ING vrijdag in een rapport na de cijfers.",
     "published_at": "2026-02-20 16:51",
-    "scraped_at": "2026-02-20T16:04:59.620323"
+    "scraped_at": "2026-02-20T18:05:38.038282"
   },
   {
     "id": "627e56a05d7a1d9410ad1efc81616b2a",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854352/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 2 maart 2026:",
     "published_at": "2026-02-20 16:34",
-    "scraped_at": "2026-02-20T16:04:59.620323"
+    "scraped_at": "2026-02-20T18:05:38.038282"
   },
   {
     "id": "0263df1b0301be7152a1b96aabe1791e",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854353/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 2 maart 2026:",
     "published_at": "2026-02-20 16:34",
-    "scraped_at": "2026-02-20T16:04:59.620323"
+    "scraped_at": "2026-02-20T18:05:38.038282"
   },
   {
     "id": "2e7518fe0b0c1e584a64ada733bfb761",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854351/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 2 maart 2026:",
     "published_at": "2026-02-20 16:33",
-    "scraped_at": "2026-02-20T16:04:59.620323"
+    "scraped_at": "2026-02-20T18:05:38.038282"
   },
   {
     "id": "ce18d0719954f673c26a047f02585e10",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854347/Amerikaans-Hooggerechtshof-zet-streep-door-wereldwijde-importheffingen-Trump.aspx",
     "intro": "Het Amerikaanse Hooggerechtshof is van mening dat de wereldwijde importheffingen die president Donald Trump heeft opgelegd, onrechtmatig zijn. Dit bleek vrijdag uit een advies van de hoogste rechter in de Verenigde Staten.",
     "published_at": "2026-02-20 16:29",
-    "scraped_at": "2026-02-20T16:04:59.620323"
+    "scraped_at": "2026-02-20T18:05:38.038282"
   },
   {
     "id": "a443f5a6c460c439fd9274f5e24332b3",
@@ -51,42 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/854343/Nieuwe-woningverkopen-VS-gedaald.aspx",
     "intro": "Er zijn in december minder nieuwe eengezinswoningen verkocht in de Verenigde Staten dan in de maand ervoor. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-02-20 16:07",
-    "scraped_at": "2026-02-20T16:04:59.620323"
+    "scraped_at": "2026-02-20T18:05:38.038282"
   },
   {
-    "id": "f2bc6d90a1108c005a4ad51385b035f8",
+    "id": "ee0e268c67a4480e1c7f2144c73db56f",
     "categorie": "Beursnieuws",
-    "titel": "Amerikaanse industrie groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/854338/Amerikaanse-industrie-groeit-minder-hard.aspx",
-    "intro": "De industrie in de Verenigde Staten is in februari minder sterk gegroeid, terwijl de activiteit in de Amerikaanse dienstensector ook iets minder hard groeide. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-02-20 15:53",
-    "scraped_at": "2026-02-20T16:04:59.620323"
-  },
-  {
-    "id": "126a258920c745f04332b8cdeca59b00",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: stabilisering bij Brunel maar nog lastige kwartalen voor de boeg",
-    "link": "https://www.beurs.nl/Nieuws/854336/Beursblik-stabilisering-bij-Brunel-maar-nog-lastige-kwartalen-voor-de-boeg.aspx",
-    "intro": "De kwartaalupdate van Brunel liet vrijdag een verbetering op kwartaalbasis zien, maar ook een flinke dividendverlaging en meer kostenbesparingen. Zo vatte analist Konrad Zomer van ABN AMRO Oddo de resultaten in een rapport samen.",
-    "published_at": "2026-02-20 15:03",
-    "scraped_at": "2026-02-20T16:04:59.620323"
-  },
-  {
-    "id": "d3b4d292cb6dd48378ee58cc8c7c18b6",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street levert winst in na zwakke groeicijfers",
-    "link": "https://www.beurs.nl/Nieuws/854335/Wall-Street-levert-winst-in-na-zwakke-groeicijfers.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een rode opening tegemoet, na flink tegenvallende groeicijfers uit de VS en inflatiecijfers die een stijgende trend lieten zien.",
-    "published_at": "2026-02-20 15:01",
-    "scraped_at": "2026-02-20T16:04:59.620323"
-  },
-  {
-    "id": "2128e88106a12642dfd05be7d3b45829",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse groei flink vertraagd",
-    "link": "https://www.beurs.nl/Nieuws/854330/Amerikaanse-groei-flink-vertraagd.aspx",
-    "intro": "De Amerikaanse economie is in het vierde kwartaal van 2025 veel minder sterk gegroeid dan vooraf werd geschat. Dit bleek vrijdag uit voorlopige cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-02-20 14:43",
-    "scraped_at": "2026-02-20T16:04:59.620323"
+    "titel": "Consumentenvertrouwen VS stagneert",
+    "link": "https://www.beurs.nl/Nieuws/854340/Consumentenvertrouwen-VS-stagneert.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in februari nauwelijks toegenomen, terwijl eerder nog een duidelijke stijging werd gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-02-20 16:07",
+    "scraped_at": "2026-02-20T18:05:38.038282"
   }
 ]
