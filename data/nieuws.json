@@ -1,12 +1,84 @@
 [
   {
-    "id": "191382b006a2855aee738c2d51da5739",
+    "id": "126a258920c745f04332b8cdeca59b00",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: JPMorgan verlaagt koersdoel Wolters Kluwer stevig",
-    "link": "https://www.beurs.nl/Nieuws/854313/Beursblik-JPMorgan-verlaagt-koersdoel-Wolters-Kluwer-stevig.aspx",
+    "titel": "Beursblik: stabilisering bij Brunel maar nog lastige kwartalen voor de boeg",
+    "link": "https://www.beurs.nl/Nieuws/854336/Beursblik-stabilisering-bij-Brunel-maar-nog-lastige-kwartalen-voor-de-boeg.aspx",
+    "intro": "De kwartaalupdate van Brunel liet vrijdag een verbetering op kwartaalbasis zien, maar ook een flinke dividendverlaging en meer kostenbesparingen. Zo vatte analist Konrad Zomer van ABN AMRO Oddo de resultaten in een rapport samen.",
+    "published_at": "2026-02-20 15:03",
+    "scraped_at": "2026-02-20T14:12:18.695560"
+  },
+  {
+    "id": "d3b4d292cb6dd48378ee58cc8c7c18b6",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street levert winst in na zwakke groeicijfers",
+    "link": "https://www.beurs.nl/Nieuws/854335/Wall-Street-levert-winst-in-na-zwakke-groeicijfers.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een rode opening tegemoet, na flink tegenvallende groeicijfers uit de VS en inflatiecijfers die een stijgende trend lieten zien.",
+    "published_at": "2026-02-20 15:01",
+    "scraped_at": "2026-02-20T14:12:18.695560"
+  },
+  {
+    "id": "2128e88106a12642dfd05be7d3b45829",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse groei flink vertraagd",
+    "link": "https://www.beurs.nl/Nieuws/854330/Amerikaanse-groei-flink-vertraagd.aspx",
+    "intro": "De Amerikaanse economie is in het vierde kwartaal van 2025 veel minder sterk gegroeid dan vooraf werd geschat. Dit bleek vrijdag uit voorlopige cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-02-20 14:43",
+    "scraped_at": "2026-02-20T14:12:18.695560"
+  },
+  {
+    "id": "76ed965841ccff82eb9957c5ccdf695c",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse kerninflatie komt hoger uit",
+    "link": "https://www.beurs.nl/Nieuws/854331/Amerikaanse-kerninflatie-komt-hoger-uit.aspx",
+    "intro": "De kerninflatie in de Verenigde Staten is in december opgelopen, hetgeen ook werd voorzien. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-02-20 14:43",
+    "scraped_at": "2026-02-20T14:12:18.695560"
+  },
+  {
+    "id": "a1f92ef64d7745a2448ed19903eeba54",
+    "categorie": "Crypto",
+    "titel": "Dogecoin kraakt onder verkoopdruk: 40% risico op de loer",
+    "link": "https://www.beurs.nl/Artikel/854323/Dogecoin-kraakt-onder-verkoopdruk-40-risico-op-de-loer.aspx",
+    "intro": "Waar aandelenindices en grondstoffen zich kranig houden, verkeert de cryptomarkt al geruime tijd in zwaar weer. Ook Dogecoin, ooit hét symbool van speculatieve euforie, ontkomt niet aan die malaise. Het technische plaatje is verzwakt en de rek lijkt er voorlopig uit.",
+    "published_at": "2026-02-20 14:15",
+    "scraped_at": "2026-02-20T14:12:18.695560"
+  },
+  {
+    "id": "23d9509c284cb5b25656a46c67a01a68",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: winstgevendheid PostNL iets verbeterd",
+    "link": "https://www.beurs.nl/Nieuws/854319/Beursblik-winstgevendheid-PostNL-iets-verbeterd.aspx",
+    "intro": "PostNL heeft in het vierde kwartaal van 2025 vermoedelijk meer omzet behaald en de winstgevendheid zien aantrekken. Dit is de verwachting van analisten die bijdroegen aan de consensus die het postbedrijf publiceerde.",
+    "published_at": "2026-02-20 13:35",
+    "scraped_at": "2026-02-20T14:12:18.695560"
+  },
+  {
+    "id": "293a72f2bb1d457aa8202d5870f82f6b",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht op groeicijfers en PCE-inflatie",
+    "link": "https://www.beurs.nl/Nieuws/854315/Wall-Street-wacht-op-groeicijfers-en-PCE-inflatie.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet, in afwachting van enkele belangrijke macrodata later op de middag.",
+    "published_at": "2026-02-20 12:55",
+    "scraped_at": "2026-02-20T14:12:18.695560"
+  },
+  {
+    "id": "a9728c5cc4f3a182da8bed5a32012664",
+    "categorie": "Beursnieuws",
+    "titel": "JPMorgan verlaagt koersdoel Wolters Kluwer stevig",
+    "link": "https://www.beurs.nl/Nieuws/854313/JPMorgan-verlaagt-koersdoel-Wolters-Kluwer-stevig.aspx",
     "intro": "JPMorgan Research heeft vrijdag het koersdoel voor Wolters Kluwer verlaagd van 107,00 naar 73,00 euro, met een onveranderd Neutraal advies. Dit bleek uit een analistenrapport van de Amerikaanse zakenbank.",
     "published_at": "2026-02-20 12:34",
-    "scraped_at": "2026-02-20T11:49:07.787709"
+    "scraped_at": "2026-02-20T14:12:18.695560"
+  },
+  {
+    "id": "6a827db97b3ade2cc89f73535b091483",
+    "categorie": "Beursnieuws",
+    "titel": "Luxebedrijven aan kop in Europa",
+    "link": "https://www.beurs.nl/Nieuws/854311/Luxebedrijven-aan-kop-in-Europa.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond het middaguur hoger, gesteund door de luxebedrijven die profiteerden van de resultaten van het Italiaanse Moncler, die flink werden beloond.",
+    "published_at": "2026-02-20 12:07",
+    "scraped_at": "2026-02-20T14:12:18.695560"
   },
   {
     "id": "3f683e520bc80e5ba81a2035f630e047",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854307/Herstel-voor-Besi-niet-voor-Arcadis.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend licht in het groen, aangevoerd door een koersherstel bij BE Semiconductor Industries.",
     "published_at": "2026-02-20 11:57",
-    "scraped_at": "2026-02-20T11:49:07.787709"
-  },
-  {
-    "id": "2a5a91cd45fecbe6b945de16dfe95ec7",
-    "categorie": "Beursnieuws",
-    "titel": "Defensiespecialist CSG sluit groot contract met NAVO-land",
-    "link": "https://www.beurs.nl/Nieuws/854299/Defensiespecialist-CSG-sluit-groot-contract-met-NAVO-land.aspx",
-    "intro": "Czechoslovak Group heeft een groot contract getekend met het ministerie van Defensie van een NAVO-lidstaat in West-Europa voor de levering van artillerie- en mortiermunitie. Dit meldde het Tsjechische defensiebedrijf, dat sinds een maand een notering heeft in Amsterdam, vrijdagochtend.",
-    "published_at": "2026-02-20 11:21",
-    "scraped_at": "2026-02-20T11:49:07.787709"
-  },
-  {
-    "id": "e58a2069288f2b6d8293c81da2954491",
-    "categorie": "Beursnieuws",
-    "titel": "Britse economie groeit nog iets harder",
-    "link": "https://www.beurs.nl/Nieuws/854292/Britse-economie-groeit-nog-iets-harder.aspx",
-    "intro": "De economische activiteit in het Verenigd Koninkrijk is in februari nog iets verder aangetrokken, na een sterke stijging in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-02-20 10:34",
-    "scraped_at": "2026-02-20T11:49:07.787709"
-  },
-  {
-    "id": "9dec7ef76dc47e8e2faf0007e82a5827",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verlaagt koersdoel Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/854291/UBS-verlaagt-koersdoel-Arcadis.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor Arcadis verlaagd van 40,00 naar 34,50 euro met een onveranderd Neutraal advies. Dit bleek uit een rapport van analist Natasha Brilliant.",
-    "published_at": "2026-02-20 10:27",
-    "scraped_at": "2026-02-20T11:49:07.787709"
-  },
-  {
-    "id": "bb72a59339da346af618f661ad6a2f1d",
-    "categorie": "Beursnieuws",
-    "titel": "Europese industrie groeit eindelijk weer",
-    "link": "https://www.beurs.nl/Nieuws/854289/Europese-industrie-groeit-eindelijk-weer.aspx",
-    "intro": "De economische groei in de eurozone is in februari aangetrokken, waarbij de industrie in lange tijd weer groei kon laten zien. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
-    "published_at": "2026-02-20 10:08",
-    "scraped_at": "2026-02-20T11:49:07.787709"
-  },
-  {
-    "id": "8543f460a65e3c4230d30d961b1a5c7c",
-    "categorie": "IEXProfs",
-    "titel": "Must Read: Haalt Chinese tech Amerika in?",
-    "link": "https://www.iexprofs.nl/artikel/854157/Must-Read-Haalt-Chinese-tech-Amerika-in.aspx",
-    "intro": "De Chinezen versnellen hun technische inspanningen. Plus: consumentenvertrouwen verslechtert, 15 aantrekkelijke dividendaandelen, goud opnieuw boven $5000 en meer.",
-    "published_at": "2026-02-20 09:50",
-    "scraped_at": "2026-02-20T11:49:07.787709"
-  },
-  {
-    "id": "a7feb748fd075722ae128ca8b76b9592",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse economie groeit in hoger tempo",
-    "link": "https://www.beurs.nl/Nieuws/854284/Duitse-economie-groeit-in-hoger-tempo.aspx",
-    "intro": "De groei van de Duitse economie is in februari verder versneld, na al een goede jaarstart in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
-    "published_at": "2026-02-20 09:37",
-    "scraped_at": "2026-02-20T11:49:07.787709"
-  },
-  {
-    "id": "a4c90189b236ef169d5f9cfc788d1a9c",
-    "categorie": "Beursnieuws",
-    "titel": "Groei Franse industrie alweer ten einde",
-    "link": "https://www.beurs.nl/Nieuws/854281/Groei-Franse-industrie-alweer-ten-einde.aspx",
-    "intro": "De Franse economie heeft het ook in februari moeilijk, na al een lastige jaarstart in januari. Dit bleek vrijdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
-    "published_at": "2026-02-20 09:22",
-    "scraped_at": "2026-02-20T11:49:07.787709"
-  },
-  {
-    "id": "8a8c54b678c7a6dfc69dba790155edea",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht hoger van start gegaan, onder aanvoering van Besi",
-    "link": "https://www.beurs.nl/Nieuws/854277/AEX-licht-hoger-van-start-gegaan-onder-aanvoering-van-Besi.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent hoger op 1.009,84 punten, terwijl de Midkap juist 0,2 procent prijs moest geven.",
-    "published_at": "2026-02-20 09:14",
-    "scraped_at": "2026-02-20T11:49:07.787709"
+    "scraped_at": "2026-02-20T14:12:18.695560"
   }
 ]
