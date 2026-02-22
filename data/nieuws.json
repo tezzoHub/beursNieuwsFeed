@@ -1,11 +1,29 @@
 [
   {
+    "id": "3095da97022523a830928ddeaa0383b2",
+    "categorie": "Beursnieuws",
+    "titel": "Komende week vooral aandacht voor cijfers Nvidia",
+    "link": "https://www.beurs.nl/Nieuws/854405/Komende-week-vooral-aandacht-voor-cijfers-Nvidia.aspx",
+    "intro": "De komende beursweek staat vooral in het teken van de resultaten van zwaargewicht Nvidia, terwijl de macro-economische agenda minder spannend is.",
+    "published_at": "2026-02-22 15:32",
+    "scraped_at": "2026-02-22T14:57:28.296600"
+  },
+  {
+    "id": "e40586b8b856b301f72aa8519128ebdf",
+    "categorie": "",
+    "titel": "Tarievenspel weer op de wagen en zorgen Nvidia, AMG en Fugro voor koersspektakel?",
+    "link": "https://www.iex.nl/artikel/854320/Tarievenspel-weer-op-de-wagen-en-zorgen-Nvidia-AMG-en-Fugro-voor-koersspektakel.aspx",
+    "intro": "",
+    "published_at": "2026-02-22 14:45",
+    "scraped_at": "2026-02-22T14:57:28.296600"
+  },
+  {
     "id": "3c28a856d7c6c8f89b91c42ed38ba143",
     "categorie": "Beursnieuws",
     "titel": "Week van herstel voor Adyen",
     "link": "https://www.beurs.nl/Nieuws/854403/Week-van-herstel-voor-Adyen.aspx",
     "intro": "De Amsterdamse beurs wist zijn hoogste slotstand ooit afgelopen week eindelijk weer eens aan te scherpen, met behulp van gunstig nieuws rond de Amerikaanse importheffingen.",
     "published_at": "2026-02-22 13:04",
-    "scraped_at": "2026-02-22T13:55:36.697617"
+    "scraped_at": "2026-02-22T14:57:28.296600"
   }
 ]
