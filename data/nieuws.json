@@ -1,12 +1,39 @@
 [
   {
+    "id": "9c9e034134c1247162d6fef43576fbb1",
+    "categorie": "Beursnieuws",
+    "titel": "Vastned keert meer dividend uit",
+    "link": "https://www.beurs.nl/Nieuws/854552/Vastned-keert-meer-dividend-uit.aspx",
+    "intro": "Vastned heeft in 2025 een EPRA-resultaat geboekt dat iets hoger uitkwam dan men zelf voorspelde, terwijl verder de balans verbeterde. Dit bleek maandag nabeurs uit de gepubliceerde jaarcijfers van het vastgoedbedrijf, dat ook het dividend verhoogde.",
+    "published_at": "2026-02-23 18:31",
+    "scraped_at": "2026-02-23T17:48:30.026552"
+  },
+  {
+    "id": "c65352f184ae692464e5ef986776aaec",
+    "categorie": "Beursnieuws",
+    "titel": "Tarievenchaos duwt AEX weer onder record",
+    "link": "https://www.beurs.nl/Nieuws/854547/Tarievenchaos-duwt-AEX-weer-onder-record.aspx",
+    "intro": "De Amsterdamse beurs is maandag licht lager geëindigd, terwijl de onzekerheid die is ontstaan rond het Amerikaanse tarievenbeleid het sentiment domineerde.",
+    "published_at": "2026-02-23 17:58",
+    "scraped_at": "2026-02-23T17:48:30.026552"
+  },
+  {
+    "id": "0ace6f769296b32cb4e2a11c04f69ec9",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel PayPal schiet omhoog op overnamespeculatie",
+    "link": "https://www.beurs.nl/Nieuws/854545/Aandeel-PayPal-schiet-omhoog-op-overnamespeculatie.aspx",
+    "intro": "Het aandeel PayPal schoot maandag omhoog na overnamegeruchten.",
+    "published_at": "2026-02-23 17:50",
+    "scraped_at": "2026-02-23T17:48:30.026552"
+  },
+  {
     "id": "4d0d95e248e8574c14da8c068af04b5f",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/854527/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 3 maart 2026:",
     "published_at": "2026-02-23 16:37",
-    "scraped_at": "2026-02-23T16:38:35.119917"
+    "scraped_at": "2026-02-23T17:48:30.026552"
   },
   {
     "id": "e72f299a2d08c2d50de23af5122f6efc",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854524/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 3 maart 2026:",
     "published_at": "2026-02-23 16:35",
-    "scraped_at": "2026-02-23T16:38:35.119917"
+    "scraped_at": "2026-02-23T17:48:30.026552"
   },
   {
     "id": "170a1a4cdd9d5af5865dd03e5072d3ef",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854526/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 3 maart 2026:",
     "published_at": "2026-02-23 16:35",
-    "scraped_at": "2026-02-23T16:38:35.119917"
+    "scraped_at": "2026-02-23T17:48:30.026552"
   },
   {
     "id": "cc39e95486ef74e187f8fe3ebe06aca2",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854522/Trump-gaat-Congres-niet-om-goedkeuring-importheffingen-vragen.aspx",
     "intro": "President Donald Trump vindt niet dat hij terug moet naar het Amerikaanse Congres om goedkeuring te krijgen voor zijn wereldwijde invoerheffingen, nadat die vrijdag door het Hooggerechtshof in de VS als onrechtmatig werden bestempeld. Dit stelde Trump maandag op Truth Social.",
     "published_at": "2026-02-23 16:15",
-    "scraped_at": "2026-02-23T16:38:35.119917"
+    "scraped_at": "2026-02-23T17:48:30.026552"
   },
   {
     "id": "b96c7037c32e7bc258d3da6a8c7dae63",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854521/Amerikaanse-fabrieksorders-gedaald.aspx",
     "intro": "De Amerikaanse fabrieksorders zijn in december gedaald, na een stijging in de maand ervoor. Dit bleek maandag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-02-23 16:05",
-    "scraped_at": "2026-02-23T16:38:35.119917"
+    "scraped_at": "2026-02-23T17:48:30.026552"
   },
   {
     "id": "232242796e43ae1e9a9190571cc88cc4",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854514/Reuters-doorbraak-ASML-met-EUV-lichtbronnen-die-meer-chips-opleveren.aspx",
     "intro": "ASML heeft een manier gevonden om de kracht van de lichtbron in zijn belangrijke chipmachine te vergroten, waardoor tegen het einde van het decennium tot 50 procent meer chips kunnen worden geproduceerd. Dit meldde persbureau Reuters maandag op basis van een interview met ASML's voornaamste techneut op dit gebied.",
     "published_at": "2026-02-23 15:31",
-    "scraped_at": "2026-02-23T16:38:35.119917"
+    "scraped_at": "2026-02-23T17:48:30.026552"
   },
   {
     "id": "f22689b77dceba359947ac8d68cd10e4",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854511/Beursblik-hogere-resultaten-voor-AMG-verwacht.aspx",
     "intro": "AMG Critical Materials heeft in 2025 vermoedelijk een hogere omzet geboekt, terwijl er onder de streep weer winst in de boeken kwam. Dit blijkt uit de consensus van Vara Research, waarnaar AMG verwijst op de eigen website.",
     "published_at": "2026-02-23 15:11",
-    "scraped_at": "2026-02-23T16:38:35.119917"
-  },
-  {
-    "id": "4ffb03f051c667e97af02b0cee363fa7",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street terughoudend van start door tarievenchaos",
-    "link": "https://www.beurs.nl/Nieuws/854505/Wall-Street-terughoudend-van-start-door-tarievenchaos.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet. Futures op de SP 500 index noteerden ongeveer een half uur voor de openingsbel tot 0,4 procent in het rood. Ook de Dow Jones index en Nasdaq gaan vooralsnog een lagere opening tegemoet.",
-    "published_at": "2026-02-23 14:57",
-    "scraped_at": "2026-02-23T16:38:35.119917"
-  },
-  {
-    "id": "daaeddc181d6d373d3c8bc7ae760dc3d",
-    "categorie": "Beursnieuws",
-    "titel": "Chicago Fed index stijgt naar positief terrein",
-    "link": "https://www.beurs.nl/Nieuws/854502/Chicago-Fed-index-stijgt-naar-positief-terrein.aspx",
-    "intro": "De Chicago Fed National Activity Index is in januari verbeterd naar positief terrein. Dit maakte de centrale bank van Chicago maandagmiddag bekend.",
-    "published_at": "2026-02-23 14:36",
-    "scraped_at": "2026-02-23T16:38:35.119917"
-  },
-  {
-    "id": "e126683eae9eb2b14964184895eab1ab",
-    "categorie": "Beursnieuws",
-    "titel": "Fed-bestuurder Waller kan rentepauze steunen als arbeidsmarkt stabiliseert",
-    "link": "https://www.beurs.nl/Nieuws/854499/Fed-bestuurder-Waller-kan-rentepauze-steunen-als-arbeidsmarkt-stabiliseert.aspx",
-    "intro": "Als de arbeidsmarkt in de Verenigde Staten de komende tijd een stabilisatie laat zien, dan zal gouverneur van de Federal Reserve Christopher Waller een verdere rentepauze steunen. Dit zei hij maandag in een toespraak tijdens een conferentie van de National Association for Business Economics in Washington.",
-    "published_at": "2026-02-23 14:23",
-    "scraped_at": "2026-02-23T16:38:35.119917"
+    "scraped_at": "2026-02-23T17:48:30.026552"
   }
 ]
