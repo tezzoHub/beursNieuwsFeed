@@ -1,12 +1,39 @@
 [
   {
+    "id": "cc39e95486ef74e187f8fe3ebe06aca2",
+    "categorie": "Beursnieuws",
+    "titel": "Trump gaat Congres niet om goedkeuring importheffingen vragen",
+    "link": "https://www.beurs.nl/Nieuws/854522/Trump-gaat-Congres-niet-om-goedkeuring-importheffingen-vragen.aspx",
+    "intro": "President Donald Trump vindt niet dat hij terug moet naar het Amerikaanse Congres om goedkeuring te krijgen voor zijn wereldwijde invoerheffingen, nadat die vrijdag door het Hooggerechtshof in de VS als onrechtmatig werden bestempeld. Dit stelde Trump maandag op Truth Social.",
+    "published_at": "2026-02-23 16:15",
+    "scraped_at": "2026-02-23T15:34:30.590289"
+  },
+  {
+    "id": "b96c7037c32e7bc258d3da6a8c7dae63",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse fabrieksorders gedaald",
+    "link": "https://www.beurs.nl/Nieuws/854521/Amerikaanse-fabrieksorders-gedaald.aspx",
+    "intro": "De Amerikaanse fabrieksorders zijn in december gedaald, na een stijging in de maand ervoor. Dit bleek maandag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-02-23 16:05",
+    "scraped_at": "2026-02-23T15:34:30.590289"
+  },
+  {
+    "id": "61e26ed08292f0a42f524fb8d597ad5b",
+    "categorie": "Beursnieuws",
+    "titel": "Media: doorbraak ASML met EUV-lichtbronnen die meer chips opleveren",
+    "link": "https://www.beurs.nl/Nieuws/854514/Media-doorbraak-ASML-met-EUV-lichtbronnen-die-meer-chips-opleveren.aspx",
+    "intro": "ASML heeft een manier gevonden om de kracht van de lichtbron in zijn belangrijke chipmachine te vergroten, waardoor tegen het einde van het decennium tot 50 procent meer chips kunnen worden geproduceerd. Dit meldde persbureau Reuters maandag op basis van een interview met ASML's voornaamste techneut op dit gebied.",
+    "published_at": "2026-02-23 15:31",
+    "scraped_at": "2026-02-23T15:34:30.590289"
+  },
+  {
     "id": "f22689b77dceba359947ac8d68cd10e4",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: hogere resultaten voor AMG verwacht",
     "link": "https://www.beurs.nl/Nieuws/854511/Beursblik-hogere-resultaten-voor-AMG-verwacht.aspx",
     "intro": "AMG Critical Materials heeft in 2025 vermoedelijk een hogere omzet geboekt, terwijl er onder de streep weer winst in de boeken kwam. Dit blijkt uit de consensus van Vara Research, waarnaar AMG verwijst op de eigen website.",
     "published_at": "2026-02-23 15:11",
-    "scraped_at": "2026-02-23T14:29:18.567495"
+    "scraped_at": "2026-02-23T15:34:30.590289"
   },
   {
     "id": "4ffb03f051c667e97af02b0cee363fa7",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854505/Wall-Street-terughoudend-van-start-door-tarievenchaos.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet. Futures op de SP 500 index noteerden ongeveer een half uur voor de openingsbel tot 0,4 procent in het rood. Ook de Dow Jones index en Nasdaq gaan vooralsnog een lagere opening tegemoet.",
     "published_at": "2026-02-23 14:57",
-    "scraped_at": "2026-02-23T14:29:18.567495"
+    "scraped_at": "2026-02-23T15:34:30.590289"
   },
   {
     "id": "daaeddc181d6d373d3c8bc7ae760dc3d",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854502/Chicago-Fed-index-stijgt-naar-positief-terrein.aspx",
     "intro": "De Chicago Fed National Activity Index is in januari verbeterd naar positief terrein. Dit maakte de centrale bank van Chicago maandagmiddag bekend.",
     "published_at": "2026-02-23 14:36",
-    "scraped_at": "2026-02-23T14:29:18.567495"
+    "scraped_at": "2026-02-23T15:34:30.590289"
   },
   {
     "id": "e126683eae9eb2b14964184895eab1ab",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854499/Fed-bestuurder-Waller-kan-rentepauze-steunen-als-arbeidsmarkt-stabiliseert.aspx",
     "intro": "Als de arbeidsmarkt in de Verenigde Staten de komende tijd een stabilisatie laat zien, dan zal gouverneur van de Federal Reserve Christopher Waller een verdere rentepauze steunen. Dit zei hij maandag in een toespraak tijdens een conferentie van de National Association for Business Economics in Washington.",
     "published_at": "2026-02-23 14:23",
-    "scraped_at": "2026-02-23T14:29:18.567495"
+    "scraped_at": "2026-02-23T15:34:30.590289"
   },
   {
     "id": "9225498ed51184b7a5c3f36467ba8ae3",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854489/Bank-of-America-zet-ABN-AMRO-op-de-kooplijst.aspx",
     "intro": "Bank of America heeft het advies voor ABN AMRO verhoogd van neutraal naar kopen, na een verhoging van het koersdoel van 25,80 naar 36,30 euro.",
     "published_at": "2026-02-23 13:00",
-    "scraped_at": "2026-02-23T14:29:18.567495"
+    "scraped_at": "2026-02-23T15:34:30.590289"
   },
   {
     "id": "57095840ad4d3db6efb007798ea95ad0",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854485/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een licht lagere opening tegemoet. Futures op de SP 500 index noteerden rond lunchtijd tot 0,3 procent in het rood. Ook de Dow Jones index en Nasdaq gaan vooralsnog een rode opening tegemoet.",
     "published_at": "2026-02-23 12:48",
-    "scraped_at": "2026-02-23T14:29:18.567495"
+    "scraped_at": "2026-02-23T15:34:30.590289"
   },
   {
     "id": "d346d8fd4f2ed38c8edba4931daae133",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854479/Europese-beurzen-overwegend-lager.aspx",
     "intro": "De Europese beurzen noteerden maandag rond het middaguur overwegend lager, door onzekerheid over de handelsafspraken na een uitspraak van het Amerikaanse Hooggerechtshof, en vrees voor een militaire confrontatie tussen de VS en Iran.",
     "published_at": "2026-02-23 12:10",
-    "scraped_at": "2026-02-23T14:29:18.567495"
-  },
-  {
-    "id": "ccee2bd9bce8d2667d08cf114622b72d",
-    "categorie": "Beursnieuws",
-    "titel": "Goldman Sachs: onzekerheid houdt aan voor IMCD en Azelis",
-    "link": "https://www.beurs.nl/Nieuws/854469/Goldman-Sachs-onzekerheid-houdt-aan-voor-IMCD-en-Azelis.aspx",
-    "intro": "Op de korte termijn houdt de onzekerheid voor speciaalchemiebedrijven IMCD en Azelis aan als gevolg van macro-economische factoren en hoge rentetarieven, en dus gaan de taxaties en koersdoelen omlaag, maar op middellange termijn ziet het plaatje er beter uit en dus blijven de aandelen op de kooplijst. Dit stelde Goldman Sachs maandag in een sectorrapport.",
-    "published_at": "2026-02-23 11:52",
-    "scraped_at": "2026-02-23T14:29:18.567495"
-  },
-  {
-    "id": "f25ca9f3b81ac731b4dc9e8dc31dee91",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: cijfers Wolters Kluwer ondergeschikt aan zorgen over AI",
-    "link": "https://www.beurs.nl/Nieuws/854468/Beursblik-cijfers-Wolters-Kluwer-ondergeschikt-aan-zorgen-over-AI.aspx",
-    "intro": "De resultaten waarmee Wolters Kluwer aanstaande woensdag komt, hebben mogelijk minder impact dan eventuele uitspraken over de gevolgen van kunstmatige intelligentie voor de activiteiten van het bedrijf, waarover beleggers zich steeds meer zorgen maken.",
-    "published_at": "2026-02-23 11:51",
-    "scraped_at": "2026-02-23T14:29:18.567495"
-  },
-  {
-    "id": "6737192dc18075af78f6c09fe720b7d4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: margeverbetering bij Corbion verwacht",
-    "link": "https://www.beurs.nl/Nieuws/854467/Beursblik-margeverbetering-bij-Corbion-verwacht.aspx",
-    "intro": "Corbion heeft in 2025 vermoedelijk een hoger aangepast resultaat geboekt, met daarbij een hogere marge, terwijl de omzet licht zou zijn gedaald. Dit blijkt uit een analistenconsensus op de website van de producent van biologische ingrediënten en biochemicaliën.",
-    "published_at": "2026-02-23 11:43",
-    "scraped_at": "2026-02-23T14:29:18.567495"
+    "scraped_at": "2026-02-23T15:34:30.590289"
   }
 ]
