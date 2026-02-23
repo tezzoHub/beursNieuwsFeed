@@ -1,12 +1,21 @@
 [
   {
+    "id": "61a83fd7f4d9cd156fad562761ede9a3",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street in de rode cijfers",
+    "link": "https://www.beurs.nl/Nieuws/854558/Wall-Street-in-de-rode-cijfers.aspx",
+    "intro": "De Amerikaanse beurzen noteerden maandag met nog een paar uur handel te gaan in het rood. Beleggers reageerden nerveus op Trumps reactie na de uitspraak van het Hooggerechtshof, terwijl zorgen over een mogelijke escalatie tussen de VS en Iran en een nieuwe uitverkoop van software-aandelen het sentiment verder drukten.",
+    "published_at": "2026-02-23 19:46",
+    "scraped_at": "2026-02-23T19:47:58.608181"
+  },
+  {
     "id": "519027a13efad1855c5b04ca222244bf",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen struikelen over tarievenchaos",
     "link": "https://www.beurs.nl/Nieuws/854553/Europese-beurzen-struikelen-over-tarievenchaos.aspx",
     "intro": "De Europese beurzen zijn de week negatief begonnen. Beleggers reageerden nerveus op president Trumps reactie na de uitspraak van het Amerikaanse Hooggerechtshof, terwijl zorgen over een mogelijke escalatie tussen de VS en Iran en een nieuwe uitverkoop van software-aandelen het sentiment verder drukten.",
     "published_at": "2026-02-23 18:57",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   },
   {
     "id": "9c9e034134c1247162d6fef43576fbb1",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/854552/Vastned-keert-meer-dividend-uit.aspx",
     "intro": "Vastned heeft in 2025 een EPRA-resultaat geboekt dat iets hoger uitkwam dan men zelf voorspelde, terwijl verder de balans verbeterde. Dit bleek maandag nabeurs uit de gepubliceerde jaarcijfers van het vastgoedbedrijf, dat ook het dividend verhoogde.",
     "published_at": "2026-02-23 18:31",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   },
   {
     "id": "c65352f184ae692464e5ef986776aaec",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854547/Tarievenchaos-duwt-AEX-weer-onder-record.aspx",
     "intro": "De Amsterdamse beurs is maandag licht lager geëindigd, terwijl de onzekerheid die is ontstaan rond het Amerikaanse tarievenbeleid het sentiment domineerde.",
     "published_at": "2026-02-23 17:58",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   },
   {
     "id": "0ace6f769296b32cb4e2a11c04f69ec9",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854545/Aandeel-PayPal-schiet-omhoog-op-overnamespeculatie.aspx",
     "intro": "Het aandeel PayPal schoot maandag omhoog na overnamegeruchten.",
     "published_at": "2026-02-23 17:50",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   },
   {
     "id": "4d0d95e248e8574c14da8c068af04b5f",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854527/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 3 maart 2026:",
     "published_at": "2026-02-23 16:37",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   },
   {
     "id": "e72f299a2d08c2d50de23af5122f6efc",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854524/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 3 maart 2026:",
     "published_at": "2026-02-23 16:35",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   },
   {
     "id": "170a1a4cdd9d5af5865dd03e5072d3ef",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854526/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 3 maart 2026:",
     "published_at": "2026-02-23 16:35",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   },
   {
     "id": "cc39e95486ef74e187f8fe3ebe06aca2",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854522/Trump-gaat-Congres-niet-om-goedkeuring-importheffingen-vragen.aspx",
     "intro": "President Donald Trump vindt niet dat hij terug moet naar het Amerikaanse Congres om goedkeuring te krijgen voor zijn wereldwijde invoerheffingen, nadat die vrijdag door het Hooggerechtshof in de VS als onrechtmatig werden bestempeld. Dit stelde Trump maandag op Truth Social.",
     "published_at": "2026-02-23 16:15",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   },
   {
     "id": "b96c7037c32e7bc258d3da6a8c7dae63",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854521/Amerikaanse-fabrieksorders-gedaald.aspx",
     "intro": "De Amerikaanse fabrieksorders zijn in december gedaald, na een stijging in de maand ervoor. Dit bleek maandag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-02-23 16:05",
-    "scraped_at": "2026-02-23T18:43:22.256699"
-  },
-  {
-    "id": "232242796e43ae1e9a9190571cc88cc4",
-    "categorie": "Beursnieuws",
-    "titel": "Reuters: doorbraak ASML met EUV-lichtbronnen die meer chips opleveren",
-    "link": "https://www.beurs.nl/Nieuws/854514/Reuters-doorbraak-ASML-met-EUV-lichtbronnen-die-meer-chips-opleveren.aspx",
-    "intro": "ASML heeft een manier gevonden om de kracht van de lichtbron in zijn belangrijke chipmachine te vergroten, waardoor tegen het einde van het decennium tot 50 procent meer chips kunnen worden geproduceerd. Dit meldde persbureau Reuters maandag op basis van een interview met ASML's voornaamste techneut op dit gebied.",
-    "published_at": "2026-02-23 15:31",
-    "scraped_at": "2026-02-23T18:43:22.256699"
+    "scraped_at": "2026-02-23T19:47:58.608181"
   }
 ]
