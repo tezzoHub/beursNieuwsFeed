@@ -1,47 +1,92 @@
 [
   {
-    "id": "1749f64fe9bfe10f66ed9a4b253f89ac",
+    "id": "94de955abedb9989ca4d080b4710113f",
     "categorie": "Beursnieuws",
-    "titel": "EU verwacht dat VS handelsverplichtingen nakomt",
-    "link": "https://www.beurs.nl/Nieuws/854409/EU-verwacht-dat-VS-handelsverplichtingen-nakomt.aspx",
-    "intro": "De Europese Commissie vraagt volledige duidelijkheid over de maatregelen die de Verenigde Staten van plan zijn te nemen naar aanleiding van de uitspraak van het Hooggerechtshof afgelopen vrijdag dat de handelstarieven van president Donald Trump onrechtmatig zijn. Dit bleek zondag uit een verklaring van de Commissie.",
-    "published_at": "2026-02-22 20:28",
-    "scraped_at": "2026-02-23T05:21:56.373468"
+    "titel": "Allfunds gaat data en analysetools MSCI aanbieden",
+    "link": "https://www.beurs.nl/Nieuws/854443/Allfunds-gaat-data-en-analysetools-MSCI-aanbieden.aspx",
+    "intro": "Allfunds gaat zijn klanten data en analyses van MSCI aanbieden om zijn vermogensbeheerplatform meer breedte en diepgang te geven. Dit maakte het vermogensbeheerplatform met een notering in Amsterdam maandag bekend.",
+    "published_at": "2026-02-23 08:47",
+    "scraped_at": "2026-02-23T08:03:08.572906"
   },
   {
-    "id": "e8d9765908f548cbef65afa5b21d5086",
+    "id": "a91efcf334795651caa72a326144c0bb",
     "categorie": "Beursnieuws",
-    "titel": "EU kan ratificatieproces Amerikaanse handelsdeal bevriezen",
-    "link": "https://www.beurs.nl/Nieuws/854408/EU-kan-ratificatieproces-Amerikaanse-handelsdeal-bevriezen.aspx",
-    "intro": "De handelschef van het Europees Parlement zal maandag voorstellen om het ratificatieproces van de handelsovereenkomst tussen de Europese Unie en de VS te bevriezen, nu er onduidelijkheid is ontstaan over de importheffingen van de Amerikaanse president Donald Trump, na het oordeel van het Hooggerechtshof vrijdag dat de tarieven onrechtmatig zijn.",
-    "published_at": "2026-02-22 20:18",
-    "scraped_at": "2026-02-23T05:21:56.373468"
+    "titel": "Beursblik: Jefferies verlaagt koersdoel Arcadis stevig",
+    "link": "https://www.beurs.nl/Nieuws/854441/Beursblik-Jefferies-verlaagt-koersdoel-Arcadis-stevig.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Arcadis verlaagd van 60,00 naar 48,00 euro, maar met behoud van het koopadvies, nadat de jaarcijfers aanleiding gaven tot een reorganisatie. Dit bleek maandag uit een analistenrapport.",
+    "published_at": "2026-02-23 08:38",
+    "scraped_at": "2026-02-23T08:03:08.572906"
   },
   {
-    "id": "3095da97022523a830928ddeaa0383b2",
+    "id": "9d38c50fdd8b8704f4a6c4d82ded243c",
     "categorie": "Beursnieuws",
-    "titel": "Komende week vooral aandacht voor cijfers Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/854405/Komende-week-vooral-aandacht-voor-cijfers-Nvidia.aspx",
-    "intro": "De komende beursweek staat vooral in het teken van de resultaten van zwaargewicht Nvidia, terwijl de macro-economische agenda minder spannend is.",
-    "published_at": "2026-02-22 15:32",
-    "scraped_at": "2026-02-23T05:21:56.373468"
+    "titel": "Beursblik: JPMorgan verhoogt koersdoel Besi",
+    "link": "https://www.beurs.nl/Nieuws/854437/Beursblik-JPMorgan-verhoogt-koersdoel-Besi.aspx",
+    "intro": "JPMorgan Research heeft maandag het koersdoel voor BE Semiconductor Industries verhoogd van 172 naar 204 euro met een herhaling van het Overwogen advies. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-02-23 08:31",
+    "scraped_at": "2026-02-23T08:03:08.572906"
   },
   {
-    "id": "e40586b8b856b301f72aa8519128ebdf",
-    "categorie": "",
-    "titel": "Tarievenspel weer op de wagen en zorgen Nvidia, AMG en Fugro voor koersspektakel?",
-    "link": "https://www.iex.nl/artikel/854320/Tarievenspel-weer-op-de-wagen-en-zorgen-Nvidia-AMG-en-Fugro-voor-koersspektakel.aspx",
-    "intro": "",
-    "published_at": "2026-02-22 14:45",
-    "scraped_at": "2026-02-23T05:21:56.373468"
+    "id": "885a450f1a632a46d1a3c6c94e3c73f7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: goede cijfers bij deelneming van Theon",
+    "link": "https://www.beurs.nl/Nieuws/854436/Beursblik-goede-cijfers-bij-deelneming-van-Theon.aspx",
+    "intro": "Het aandeel Theon zal maandag mogelijk profiteren van de cijfers die het Franse Exosens voorbeurs heeft gepubliceerd.",
+    "published_at": "2026-02-23 08:20",
+    "scraped_at": "2026-02-23T08:03:08.572906"
   },
   {
-    "id": "3c28a856d7c6c8f89b91c42ed38ba143",
+    "id": "ff1dcde50438abd724c571a9dfbb5dde",
+    "categorie": "Voorbeurs",
+    "titel": "Tarievenchaos is compleet, goudprijs stijgt en let vandaag op PostNL",
+    "link": "https://www.beurs.nl/Artikel/854413/Tarievenchaos-is-compleet-goudprijs-stijgt-en-let-vandaag-op-PostNL.aspx",
+    "intro": "Openingsindicatie: +0,2%. Grote onzekerheid over Amerikaanse importheffingen. PostNL: sterk Q4, maar dividend omlaag. Goudprijs in de lift, bitcoin onderuit.",
+    "published_at": "2026-02-23 08:20",
+    "scraped_at": "2026-02-23T08:03:08.572906"
+  },
+  {
+    "id": "b09c1f51762b5ed625a5f012d095eb39",
     "categorie": "Beursnieuws",
-    "titel": "Week van herstel voor Adyen",
-    "link": "https://www.beurs.nl/Nieuws/854403/Week-van-herstel-voor-Adyen.aspx",
-    "intro": "De Amsterdamse beurs wist zijn hoogste slotstand ooit afgelopen week eindelijk weer eens aan te scherpen, met behulp van gunstig nieuws rond de Amerikaanse importheffingen.",
-    "published_at": "2026-02-22 13:04",
-    "scraped_at": "2026-02-23T05:21:56.373468"
+    "titel": "Sterk kwartaal voor Nederlandse detailhandel",
+    "link": "https://www.beurs.nl/Nieuws/854435/Sterk-kwartaal-voor-Nederlandse-detailhandel.aspx",
+    "intro": "De Nederlandse detailhandel heeft in het vierde kwartaal 3,5 procent meer omgezet dan een jaar eerder, geholpen door prijsstijgingen en hogere volumes, en ondernemers in de sector waren voor het eerst in jaren weer positief over de vooruitzichten. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-02-23 08:16",
+    "scraped_at": "2026-02-23T08:03:08.572906"
+  },
+  {
+    "id": "d4b8efedfbbe09daa1f5499571dee6ed",
+    "categorie": "Beursnieuws",
+    "titel": "Rode opening op Damrak verwacht",
+    "link": "https://www.beurs.nl/Nieuws/854433/Rode-opening-op-Damrak-verwacht.aspx",
+    "intro": "De Amsterdamse beurs zal maandag met verlies van start gaan. Rond acht uur noteerde de future op de AEX 0,3 procent in het rood.",
+    "published_at": "2026-02-23 08:03",
+    "scraped_at": "2026-02-23T08:03:08.572906"
+  },
+  {
+    "id": "9904ee5888efc2f98388a97a0f5182a8",
+    "categorie": "Beursnieuws",
+    "titel": "Nederlandse koopwoningen ruim 5 procent duurder",
+    "link": "https://www.beurs.nl/Nieuws/854432/Nederlandse-koopwoningen-ruim-5-procent-duurder.aspx",
+    "intro": "De prijzen van bestaande koopwoningen zijn in januari opnieuw gestegen. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
+    "published_at": "2026-02-23 07:54",
+    "scraped_at": "2026-02-23T08:03:08.572906"
+  },
+  {
+    "id": "a8e2e05cd24420305b36550ccd813da9",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet en hogere winstgevendheid voor PostNL",
+    "link": "https://www.beurs.nl/Nieuws/854431/Meer-omzet-en-hogere-winstgevendheid-voor-PostNL.aspx",
+    "intro": "PostNL heeft in het vierde kwartaal van 2025 meer omzet behaald en de winstgevendheid zien aantrekken. Dit bleek maandag voorbeurs uit de kwartaalcijfers van het postbedrijf.",
+    "published_at": "2026-02-23 07:27",
+    "scraped_at": "2026-02-23T08:03:08.572906"
+  },
+  {
+    "id": "3bc39f1bb74ffddd3566507b50ab0e37",
+    "categorie": "Beursnieuws",
+    "titel": "Mooie koerswinsten in Hongkong",
+    "link": "https://www.beurs.nl/Nieuws/854427/Mooie-koerswinsten-in-Hongkong.aspx",
+    "intro": "In Azië is het vanochtend rustig met China dat nog altijd de deuren gesloten houdt en in Tokio een vrije dag.",
+    "published_at": "2026-02-23 07:09",
+    "scraped_at": "2026-02-23T08:03:08.572906"
   }
 ]
