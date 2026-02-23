@@ -1,12 +1,30 @@
 [
   {
+    "id": "57095840ad4d3db6efb007798ea95ad0",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen lagere opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/854485/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een licht lagere opening tegemoet. Futures op de SP 500 index noteerden rond lunchtijd tot 0,3 procent in het rood. Ook de Dow Jones index en Nasdaq gaan vooralsnog een rode opening tegemoet.",
+    "published_at": "2026-02-23 12:48",
+    "scraped_at": "2026-02-23T11:57:22.259660"
+  },
+  {
+    "id": "d346d8fd4f2ed38c8edba4931daae133",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/854479/Europese-beurzen-overwegend-lager.aspx",
+    "intro": "De Europese beurzen noteerden maandag rond het middaguur overwegend lager, door onzekerheid over de handelsafspraken na een uitspraak van het Amerikaanse Hooggerechtshof, en vrees voor een militaire confrontatie tussen de VS en Iran.",
+    "published_at": "2026-02-23 12:10",
+    "scraped_at": "2026-02-23T11:57:22.259660"
+  },
+  {
     "id": "ccee2bd9bce8d2667d08cf114622b72d",
     "categorie": "Beursnieuws",
     "titel": "Goldman Sachs: onzekerheid houdt aan voor IMCD en Azelis",
     "link": "https://www.beurs.nl/Nieuws/854469/Goldman-Sachs-onzekerheid-houdt-aan-voor-IMCD-en-Azelis.aspx",
     "intro": "Op de korte termijn houdt de onzekerheid voor speciaalchemiebedrijven IMCD en Azelis aan als gevolg van macro-economische factoren en hoge rentetarieven, en dus gaan de taxaties en koersdoelen omlaag, maar op middellange termijn ziet het plaatje er beter uit en dus blijven de aandelen op de kooplijst. Dit stelde Goldman Sachs maandag in een sectorrapport.",
     "published_at": "2026-02-23 11:52",
-    "scraped_at": "2026-02-23T11:10:44.178062"
+    "scraped_at": "2026-02-23T11:57:22.259660"
   },
   {
     "id": "f25ca9f3b81ac731b4dc9e8dc31dee91",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854468/Beursblik-cijfers-Wolters-Kluwer-ondergeschikt-aan-zorgen-over-AI.aspx",
     "intro": "De resultaten waarmee Wolters Kluwer aanstaande woensdag komt, hebben mogelijk minder impact dan eventuele uitspraken over de gevolgen van kunstmatige intelligentie voor de activiteiten van het bedrijf, waarover beleggers zich steeds meer zorgen maken.",
     "published_at": "2026-02-23 11:51",
-    "scraped_at": "2026-02-23T11:10:44.178062"
+    "scraped_at": "2026-02-23T11:57:22.259660"
   },
   {
     "id": "6737192dc18075af78f6c09fe720b7d4",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854467/Beursblik-margeverbetering-bij-Corbion-verwacht.aspx",
     "intro": "Corbion heeft in 2025 vermoedelijk een hoger aangepast resultaat geboekt, met daarbij een hogere marge, terwijl de omzet licht zou zijn gedaald. Dit blijkt uit een analistenconsensus op de website van de producent van biologische ingrediënten en biochemicaliën.",
     "published_at": "2026-02-23 11:43",
-    "scraped_at": "2026-02-23T11:10:44.178062"
+    "scraped_at": "2026-02-23T11:57:22.259660"
   },
   {
     "id": "fbd408a35389934a3e787a9c550d0722",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854459/Tegenvaller-voor-afslankmiddel-Novo-Nordisk.aspx",
     "intro": "Het aandeel van Novo Nordisk stond maandagochtend fors onder druk, nadat de Deense farmareus teleurstellende onderzoeksresultaten presenteerde van zijn experimentele obesitasmedicijn CagriSema.",
     "published_at": "2026-02-23 11:21",
-    "scraped_at": "2026-02-23T11:10:44.178062"
+    "scraped_at": "2026-02-23T11:57:22.259660"
   },
   {
     "id": "771660380df1b4d63422627bd799a3a8",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854460/Rode-AEX-ondanks-koerswinsten-financials.aspx",
     "intro": "De Amsterdamse beurs noteerde maandag licht lager, met verliezen voor de chipsector, nadat de hoop op lagere importheffingen in het weekend de kop werd ingedrukt door de Amerikaanse president Donald Trump.",
     "published_at": "2026-02-23 11:20",
-    "scraped_at": "2026-02-23T11:10:44.178062"
+    "scraped_at": "2026-02-23T11:57:22.259660"
   },
   {
     "id": "3dca13a3112ae5e6f4c36346e909be57",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854455/Duitse-Ifo-index-omhoog.aspx",
     "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in februari gestegen. Dit bleek maandag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
     "published_at": "2026-02-23 10:45",
-    "scraped_at": "2026-02-23T11:10:44.178062"
+    "scraped_at": "2026-02-23T11:57:22.259660"
   },
   {
     "id": "94b3517116e554e2228267a1e3cb7fd0",
@@ -60,7 +78,7 @@
     "link": "https://www.iexprofs.nl/artikel/853963/Must-read-Het-lijstje-goedkope-techaandelen-begint-lang-te-worden.aspx",
     "intro": "Plus: de échte AI-kansen voor beleggers, Fed kan niet verlagen, nieuwe handelschaos, het enorme succes van actieve ETF's, en meer.",
     "published_at": "2026-02-23 10:00",
-    "scraped_at": "2026-02-23T11:10:44.178062"
+    "scraped_at": "2026-02-23T11:57:22.259660"
   },
   {
     "id": "2be99a34459b180a88539258f9be80be",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854452/KBC-Securities-verlaagt-koersdoel-Arcadis.aspx",
     "intro": "KBC Securities heeft maandag het koersdoel voor Arcadis verlaagd van 51,00 naar 35,00 euro met een onveranderd Houden advies. Dit bleek uit een rapport van Kristof Samoy.",
     "published_at": "2026-02-23 09:53",
-    "scraped_at": "2026-02-23T11:10:44.178062"
-  },
-  {
-    "id": "e5b0ee6e89542cc19703ae99fbc1655e",
-    "categorie": "Beursnieuws",
-    "titel": "KBC Securities verhoogt koersdoel Ahold Delhaize",
-    "link": "https://www.beurs.nl/Nieuws/854451/KBC-Securities-verhoogt-koersdoel-Ahold-Delhaize.aspx",
-    "intro": "KBC Securities heeft het koersdoel voor Ahold Delhaize verhoogd van 38,00 naar 43,00 euro, maar haalde het aandeel van zijn kooplijst. Dit bleek maandag uit een analistenrapport.",
-    "published_at": "2026-02-23 09:48",
-    "scraped_at": "2026-02-23T11:10:44.178062"
-  },
-  {
-    "id": "0339a85ef758dd8592dc118553f5f061",
-    "categorie": "Beursnieuws",
-    "titel": "Beursbik: postbezorging redt PostNL",
-    "link": "https://www.beurs.nl/Nieuws/854449/Beursbik-postbezorging-redt-PostNL.aspx",
-    "intro": "Het vierde kwartaal van PostNL was sterker dan voorzien, geholpen door de briefpostbezorging. Dit concludeerde analist Frank Claassen van Degroof Petercam.",
-    "published_at": "2026-02-23 09:22",
-    "scraped_at": "2026-02-23T11:10:44.178062"
+    "scraped_at": "2026-02-23T11:57:22.259660"
   }
 ]
