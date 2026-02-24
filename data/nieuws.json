@@ -1,12 +1,48 @@
 [
   {
+    "id": "524d6b4b14c91fe2df4b149279eca15c",
+    "categorie": "Beursnieuws",
+    "titel": "Paramount verhoogt bod op Warner Bros. Discovery",
+    "link": "https://www.beurs.nl/Nieuws/854684/Paramount-verhoogt-bod-op-Warner-Bros-Discovery.aspx",
+    "intro": "Paramount Skydance heeft het overnamebod op Warner Bros. Discovery verhoogd. Dit bevestigde Warner dinsdagmiddag.",
+    "published_at": "2026-02-24 14:34",
+    "scraped_at": "2026-02-24T14:00:28.937042"
+  },
+  {
+    "id": "3e23d8faaf2c8cdc3a5e8dbf0727b253",
+    "categorie": "Beursnieuws",
+    "titel": "Zwakke outlook van Hims & Hers",
+    "link": "https://www.beurs.nl/Nieuws/854679/Zwakke-outlook-van-Hims-Hers.aspx",
+    "intro": "Het aandeel van Hims  Hers komt dinsdag onder druk te staan, nadat het Amerikaanse digitale zorgplatform maandagavond met een tegenvallende outlook kwam.",
+    "published_at": "2026-02-24 14:25",
+    "scraped_at": "2026-02-24T14:00:28.937042"
+  },
+  {
+    "id": "12dcb56ca74faf26b3c8793a6470ea59",
+    "categorie": "Beursnieuws",
+    "titel": "Keurig Dr Pepper profiteert van hogere prijzen",
+    "link": "https://www.beurs.nl/Nieuws/854661/Keurig-Dr-Pepper-profiteert-van-hogere-prijzen.aspx",
+    "intro": "Keurig Dr Pepper heeft in het vierde kwartaal van 2025 weer winst geboekt, terwijl de omzet steeg dankzij hogere prijzen. Dit meldde de Amerikaanse frisdrankenproducent, die JDE Peet's wil overnemen, dinsdagmiddag.",
+    "published_at": "2026-02-24 13:38",
+    "scraped_at": "2026-02-24T14:00:28.937042"
+  },
+  {
+    "id": "c276991d93ecad922609cc1b2ec49099",
+    "categorie": "Beursnieuws",
+    "titel": "Meta breidt samenwerking met AMD uit",
+    "link": "https://www.beurs.nl/Nieuws/854662/Meta-breidt-samenwerking-met-AMD-uit.aspx",
+    "intro": "Meta heeft besloten om zijn strategische samenwerking met AMD uit te breiden. Dit meldde AMD dinsdagmiddag.",
+    "published_at": "2026-02-24 13:38",
+    "scraped_at": "2026-02-24T14:00:28.937042"
+  },
+  {
     "id": "061320cc1fabdedc653d7cee1bb8cfbb",
     "categorie": "De keus van de redactie",
     "titel": "Stem nu voor de Gouden Stier Publieksprijs",
     "link": "https://www.beurs.nl/Artikel/854616/Stem-nu-voor-de-Gouden-Stier-Publieksprijs.aspx",
     "intro": "Wie neemt straks de publieksprijs voor beste beleggingsinstelling van 2025 mee naar huis? Dat bepaalt u.",
     "published_at": "2026-02-24 13:25",
-    "scraped_at": "2026-02-24T12:30:35.662755"
+    "scraped_at": "2026-02-24T14:00:28.937042"
   },
   {
     "id": "c739c53b01a78049edc2b16f0bce234d",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854657/Beursblik-lichte-verbetering-resultaatVopakvoorzien.aspx",
     "intro": "Vopak heeft naar verwachting in het vierde kwartaal een licht hoger resultaat geboekt op een vrijwel vlakke omzet, wanneer de belangen in joint ventures en dochterbedrijven naar proportie worden meegeteld. Dat blijkt uit een analistenconsensus die is ingezien door ABM Financial News.",
     "published_at": "2026-02-24 13:09",
-    "scraped_at": "2026-02-24T12:30:35.662755"
+    "scraped_at": "2026-02-24T14:00:28.937042"
   },
   {
     "id": "99800c56bf5ac2cfe0b037f0dacccc53",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854652/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een licht herstel tegemoet. Futures op de SP 500 noteerden rond lunchtijd tot 0,2 procent hoger.",
     "published_at": "2026-02-24 12:49",
-    "scraped_at": "2026-02-24T12:30:35.662755"
+    "scraped_at": "2026-02-24T14:00:28.937042"
   },
   {
     "id": "0fc08918704fcb86f31f11b483ee1ee8",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854651/Home-Depot-herhaalt-outlook-voor-2026.aspx",
     "intro": "Home Depot heeft in 2025 de eigen verwachtingen gehaald en rekent voor 2026 op verdere groei. Dit bleek dinsdag uit de cijfers van de Amerikaanse doe-het-zelfketen.",
     "published_at": "2026-02-24 12:38",
-    "scraped_at": "2026-02-24T12:30:35.662755"
+    "scraped_at": "2026-02-24T14:00:28.937042"
   },
   {
     "id": "bab8834470bc0d373f228698e0fa6bd9",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854647/Europese-beurzen-terughoudend-rond-lunchtijd.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur licht lager, terwijl de zorgen over de impact van AI opnieuw de kop opstaken.",
     "published_at": "2026-02-24 12:08",
-    "scraped_at": "2026-02-24T12:30:35.662755"
+    "scraped_at": "2026-02-24T14:00:28.937042"
   },
   {
     "id": "0636e9be61032dcd44b376bf803061e6",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854635/Banken-onderuit-in-nagenoeg-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdag nagenoeg vlak, met verliezen voor de bankensector vanwege de angst voor vervanging van duurbetaalde diensten door AI.",
     "published_at": "2026-02-24 11:01",
-    "scraped_at": "2026-02-24T12:30:35.662755"
-  },
-  {
-    "id": "bca9068bfd5fae60d3114c9d2a5f9dbe",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel ASR",
-    "link": "https://www.beurs.nl/Nieuws/854632/UBS-verhoogt-koersdoel-ASR.aspx",
-    "intro": "UBS heeft het koersdoel voor ASR Nederland verhoogd van 63,00 naar 66,50 euro, maar met handhaving van het Neutraal advies. Dit bleek dinsdag uit een rapport van de Zwitserse zakenbank.",
-    "published_at": "2026-02-24 10:29",
-    "scraped_at": "2026-02-24T12:30:35.662755"
-  },
-  {
-    "id": "a99baa9ae2d607fce31828e3be01f48b",
-    "categorie": "Beursnieuws",
-    "titel": "Defensiebedrijf MTU Aero Engines positief gestemd",
-    "link": "https://www.beurs.nl/Nieuws/854627/Defensiebedrijf-MTU-Aero-Engines-positief-gestemd.aspx",
-    "intro": "MTU Aero Engines rekent voor 2026 op een hogere omzet, dankzij groei in alle segmenten, en verhoogde het dividend stevig. Dit maakte de Duitse vliegtuigmotorenfabrikant dinsdagochtend bekend.",
-    "published_at": "2026-02-24 10:05",
-    "scraped_at": "2026-02-24T12:30:35.662755"
-  },
-  {
-    "id": "62bd15b6f32a82498297f978f137c0ef",
-    "categorie": "IEXProfs",
-    "titel": "Must read: Amerikaanse tarievenchaos is compleet",
-    "link": "https://www.iexprofs.nl/artikel/854406/Must-read-Amerikaanse-tarievenchaos-is-compleet.aspx",
-    "intro": "Plus: aandelen EM hebben wind vol in de rug, securitisatie is toch de oplossing, nieuwe vermogensbelasting is echt een slecht idee, cryptohandel is verslavend, en meer.",
-    "published_at": "2026-02-24 10:00",
-    "scraped_at": "2026-02-24T12:30:35.662755"
-  },
-  {
-    "id": "82c2a6be2c76e8b7dbd26b48e9dabc98",
-    "categorie": "Beursnieuws",
-    "titel": "Ajax boekt winst dankzij hogere transferopbrengsten",
-    "link": "https://www.beurs.nl/Nieuws/854624/Ajax-boekt-winst-dankzij-hogere-transferopbrengsten.aspx",
-    "intro": "Ajax heeft in de eerste helft van het seizoen 2025/2026 een nettowinst geboekt van 16,4 miljoen euro. Dit bleek dinsdag uit de halfjaarcijfers van de beursgenoteerde Amsterdamse voetbalclub.",
-    "published_at": "2026-02-24 09:32",
-    "scraped_at": "2026-02-24T12:30:35.662755"
+    "scraped_at": "2026-02-24T14:00:28.937042"
   }
 ]
