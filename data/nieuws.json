@@ -1,12 +1,39 @@
 [
   {
+    "id": "79ef63970486cc4b2571499d2a9027a0",
+    "categorie": "Beursnieuws",
+    "titel": "Arrowstreet meldt belang in Pharming",
+    "link": "https://www.beurs.nl/Nieuws/854612/Arrowstreet-meldt-belang-in-Pharming.aspx",
+    "intro": "Arrowstreet Capital heeft voor het eerst een belang in Pharming Group gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 20 februari.",
+    "published_at": "2026-02-24 08:28",
+    "scraped_at": "2026-02-24T07:40:27.005243"
+  },
+  {
+    "id": "d0522ce8f45104059b0110ef16b1de31",
+    "categorie": "Beursnieuws",
+    "titel": "ACEA: Europese autoverkoop begint 2026 zwak",
+    "link": "https://www.beurs.nl/Nieuws/854609/ACEA-Europese-autoverkoop-begint-2026-zwak.aspx",
+    "intro": "De verkoop van nieuwe personenauto's in Europa is in januari zwak van start gegaan, na juist een sterk jaareinde in december. Dit meldde de Europese brancheorganisatie voor de auto-industrie ACEA dinsdag.",
+    "published_at": "2026-02-24 08:15",
+    "scraped_at": "2026-02-24T07:40:27.005243"
+  },
+  {
+    "id": "412b0a69b40089999d792f0a3e71bca1",
+    "categorie": "Beursnieuws",
+    "titel": "Licht hogere opening op het Damrak verwacht",
+    "link": "https://www.beurs.nl/Nieuws/854607/Licht-hogere-opening-op-het-Damrak-verwacht.aspx",
+    "intro": "De Amsterdamse beurs zal dinsdag naar verwachting met een kleine plus gaan openen, ondanks de stevige verliezen op Wall Street.",
+    "published_at": "2026-02-24 08:03",
+    "scraped_at": "2026-02-24T07:40:27.005243"
+  },
+  {
     "id": "68268db1f6c7737f6a9e6dda8864ee81",
     "categorie": "Beursnieuws",
     "titel": "Gemengd beeld op Aziatische beurzen",
     "link": "https://www.beurs.nl/Nieuws/854603/Gemengd-beeld-op-Aziatische-beurzen.aspx",
     "intro": "(ABM FN-Dow Jones) De Aziatische aandelenmarkten noteerden dinsdag verdeeld. Beleggers zijn voorzichtig door de nieuwe tarievenchaos van president Donald Trump en de zorgen over de impact van kunstmatige intelligentie op softwarebedrijven.",
     "published_at": "2026-02-24 07:34",
-    "scraped_at": "2026-02-24T06:42:35.494587"
+    "scraped_at": "2026-02-24T07:40:27.005243"
   },
   {
     "id": "6f2d1d00e2e6f67ecf12f24b68e74c3f",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854572/Wall-Street-flink-lager-gesloten.aspx",
     "intro": "De Amerikaanse beurzen zijn maandag flink lager gesloten, met name doordat beleggers worstelden met aanhoudende angst voor de ontwrichting van diverse sectoren door kunstmatige intelligentie en met het besluit van president Donald Trump om zijn wereldwijde importheffingen te verhogen.",
     "published_at": "2026-02-24 07:20",
-    "scraped_at": "2026-02-24T06:42:35.494587"
+    "scraped_at": "2026-02-24T07:40:27.005243"
   },
   {
     "id": "7ad8ee4f55d806395398941fe2ee3aa7",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854601/Prijzen-stuwen-omzet-JDE-Peets.aspx",
     "intro": "JDE Peet's heeft in 2025 meer omzet behaald dankzij stijgende prijzen, terwijl de volumes onder druk stonden. Dit maakte de koffiespecialist dinsdag voorbeurs bekend.",
     "published_at": "2026-02-24 07:19",
-    "scraped_at": "2026-02-24T06:42:35.494587"
+    "scraped_at": "2026-02-24T07:40:27.005243"
   },
   {
     "id": "4869ab02191461b7865b284dae52e5d6",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854600/Nedap-verhoogt-dividend-na-sterk-jaar.aspx",
     "intro": "Nedap heeft een sterk jaar achter de rug met een forse stijging van het bedrijfsresultaat en omzetgroei in alle sleutelmarkten, waardoor ook het dividend flink omhoog kon. Dit bleek dinsdag uit de jaarcijfers van het technologiebedrijf uit Groenlo.",
     "published_at": "2026-02-24 07:18",
-    "scraped_at": "2026-02-24T06:42:35.494587"
+    "scraped_at": "2026-02-24T07:40:27.005243"
   },
   {
     "id": "9554a41b6bd25f7f5e35284013025b54",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854597/Europese-beurzen-openen-naar-verwachting-iets-hoger.aspx",
     "intro": "De Europese beurzen gaan dinsdag een iets hogere opening tegemoet.",
     "published_at": "2026-02-24 06:54",
-    "scraped_at": "2026-02-24T06:42:35.494587"
+    "scraped_at": "2026-02-24T07:40:27.005243"
   },
   {
     "id": "a4f9ebbeeff17e1be53b354f42b92b27",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854593/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 3 maart 2026:",
     "published_at": "2026-02-24 06:48",
-    "scraped_at": "2026-02-24T06:42:35.494587"
+    "scraped_at": "2026-02-24T07:40:27.005243"
   },
   {
     "id": "fad00123b0283d00859ff848fb895ccb",
@@ -60,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854595/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 3 maart 2026:",
     "published_at": "2026-02-24 06:48",
-    "scraped_at": "2026-02-24T06:42:35.494587"
-  },
-  {
-    "id": "eafc351781b0f1ed7cb2bc659d4358fe",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/854596/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 3 maart 2026:",
-    "published_at": "2026-02-24 06:48",
-    "scraped_at": "2026-02-24T06:42:35.494587"
+    "scraped_at": "2026-02-24T07:40:27.005243"
   }
 ]
