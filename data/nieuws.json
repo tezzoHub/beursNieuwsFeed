@@ -1,21 +1,12 @@
 [
   {
-    "id": "bc7655bc66ef79141126d6eda873f4cb",
+    "id": "68268db1f6c7737f6a9e6dda8864ee81",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/854576/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-02-23 23:07",
-    "scraped_at": "2026-02-24T05:48:42.774095"
-  },
-  {
-    "id": "700f60f49ba3b10b64f042ea4fa29bed",
-    "categorie": "Beursnieuws",
-    "titel": "Galapagos boekt hogere winst",
-    "link": "https://www.beurs.nl/Nieuws/854575/Galapagos-boekt-hogere-winst.aspx",
-    "intro": "Galapagos heeft in 2025 een hogere omzet en winst behaald en verwacht eind 2026 kasstroomneutraal tot positief te zijn. Dit bleek maandagavond uit de jaarcijfers van het biotechbedrijf met beursnoteringen in Amsterdam en Brussel.",
-    "published_at": "2026-02-23 22:57",
-    "scraped_at": "2026-02-24T05:48:42.774095"
+    "titel": "Gemengd beeld op Aziatische beurzen",
+    "link": "https://www.beurs.nl/Nieuws/854603/Gemengd-beeld-op-Aziatische-beurzen.aspx",
+    "intro": "(ABM FN-Dow Jones) De Aziatische aandelenmarkten noteerden dinsdag verdeeld. Beleggers zijn voorzichtig door de nieuwe tarievenchaos van president Donald Trump en de zorgen over de impact van kunstmatige intelligentie op softwarebedrijven.",
+    "published_at": "2026-02-24 07:34",
+    "scraped_at": "2026-02-24T06:42:35.494587"
   },
   {
     "id": "6f2d1d00e2e6f67ecf12f24b68e74c3f",
@@ -23,70 +14,61 @@
     "titel": "Wall Street flink lager gesloten",
     "link": "https://www.beurs.nl/Nieuws/854572/Wall-Street-flink-lager-gesloten.aspx",
     "intro": "De Amerikaanse beurzen zijn maandag flink lager gesloten, met name doordat beleggers worstelden met aanhoudende angst voor de ontwrichting van diverse sectoren door kunstmatige intelligentie en met het besluit van president Donald Trump om zijn wereldwijde importheffingen te verhogen.",
-    "published_at": "2026-02-23 22:37",
-    "scraped_at": "2026-02-24T05:48:42.774095"
+    "published_at": "2026-02-24 07:20",
+    "scraped_at": "2026-02-24T06:42:35.494587"
   },
   {
-    "id": "85e5c1254cb20c3de4b7c90304d9e356",
+    "id": "7ad8ee4f55d806395398941fe2ee3aa7",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen licht lager gesloten",
-    "link": "https://www.beurs.nl/Nieuws/854563/Olieprijzen-licht-lager-gesloten.aspx",
-    "intro": "De olieprijzen zijn maandag licht gedaald. Nieuwe tariefverhogingen van president Donald Trump wierpen een schaduw over de markt, terwijl de aankomende nucleaire gesprekken tussen de VS en Iran voor onzekerheid zorgden.",
-    "published_at": "2026-02-23 20:59",
-    "scraped_at": "2026-02-24T05:48:42.774095"
+    "titel": "Prijzen stuwen omzet JDE Peet's",
+    "link": "https://www.beurs.nl/Nieuws/854601/Prijzen-stuwen-omzet-JDE-Peets.aspx",
+    "intro": "JDE Peet's heeft in 2025 meer omzet behaald dankzij stijgende prijzen, terwijl de volumes onder druk stonden. Dit maakte de koffiespecialist dinsdag voorbeurs bekend.",
+    "published_at": "2026-02-24 07:19",
+    "scraped_at": "2026-02-24T06:42:35.494587"
   },
   {
-    "id": "6248efe4d73dbf843c1baf269382ca09",
+    "id": "4869ab02191461b7865b284dae52e5d6",
     "categorie": "Beursnieuws",
-    "titel": "Amazon investeert miljarden dollar in Louisiana",
-    "link": "https://www.beurs.nl/Nieuws/854560/Amazon-investeert-miljarden-dollar-in-Louisiana.aspx",
-    "intro": "Amazon heeft aangekondigd 12 miljard dollar te investeren in de Amerikaanse staat Louisiana voor de bouw van nieuwe datacentercampussen. De campussen in Caddo en Bossier Parish moeten cloudcomputingtechnologie en kunstmatige intelligentie ondersteunen. Dit maakte de de Amerikaanse e-commerce- en clouddienstengigant maandag bekend.",
-    "published_at": "2026-02-23 20:45",
-    "scraped_at": "2026-02-24T05:48:42.774095"
+    "titel": "Nedap verhoogt dividend na sterk jaar",
+    "link": "https://www.beurs.nl/Nieuws/854600/Nedap-verhoogt-dividend-na-sterk-jaar.aspx",
+    "intro": "Nedap heeft een sterk jaar achter de rug met een forse stijging van het bedrijfsresultaat en omzetgroei in alle sleutelmarkten, waardoor ook het dividend flink omhoog kon. Dit bleek dinsdag uit de jaarcijfers van het technologiebedrijf uit Groenlo.",
+    "published_at": "2026-02-24 07:18",
+    "scraped_at": "2026-02-24T06:42:35.494587"
   },
   {
-    "id": "61a83fd7f4d9cd156fad562761ede9a3",
+    "id": "9554a41b6bd25f7f5e35284013025b54",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street in de rode cijfers",
-    "link": "https://www.beurs.nl/Nieuws/854558/Wall-Street-in-de-rode-cijfers.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag met nog een paar uur handel te gaan in het rood. Beleggers reageerden nerveus op Trumps reactie na de uitspraak van het Hooggerechtshof, terwijl zorgen over een mogelijke escalatie tussen de VS en Iran en een nieuwe uitverkoop van software-aandelen het sentiment verder drukten.",
-    "published_at": "2026-02-23 19:46",
-    "scraped_at": "2026-02-24T05:48:42.774095"
+    "titel": "Europese beurzen openen naar verwachting iets hoger",
+    "link": "https://www.beurs.nl/Nieuws/854597/Europese-beurzen-openen-naar-verwachting-iets-hoger.aspx",
+    "intro": "De Europese beurzen gaan dinsdag een iets hogere opening tegemoet.",
+    "published_at": "2026-02-24 06:54",
+    "scraped_at": "2026-02-24T06:42:35.494587"
   },
   {
-    "id": "519027a13efad1855c5b04ca222244bf",
+    "id": "a4f9ebbeeff17e1be53b354f42b92b27",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen struikelen over tarievenchaos",
-    "link": "https://www.beurs.nl/Nieuws/854553/Europese-beurzen-struikelen-over-tarievenchaos.aspx",
-    "intro": "De Europese beurzen zijn de week negatief begonnen. Beleggers reageerden nerveus op president Trumps reactie na de uitspraak van het Amerikaanse Hooggerechtshof, terwijl zorgen over een mogelijke escalatie tussen de VS en Iran en een nieuwe uitverkoop van software-aandelen het sentiment verder drukten.",
-    "published_at": "2026-02-23 18:57",
-    "scraped_at": "2026-02-24T05:48:42.774095"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/854593/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 3 maart 2026:",
+    "published_at": "2026-02-24 06:48",
+    "scraped_at": "2026-02-24T06:42:35.494587"
   },
   {
-    "id": "9c9e034134c1247162d6fef43576fbb1",
+    "id": "fad00123b0283d00859ff848fb895ccb",
     "categorie": "Beursnieuws",
-    "titel": "Vastned keert meer dividend uit",
-    "link": "https://www.beurs.nl/Nieuws/854552/Vastned-keert-meer-dividend-uit.aspx",
-    "intro": "Vastned heeft in 2025 een EPRA-resultaat geboekt dat iets hoger uitkwam dan men zelf voorspelde, terwijl verder de balans verbeterde. Dit bleek maandag nabeurs uit de gepubliceerde jaarcijfers van het vastgoedbedrijf, dat ook het dividend verhoogde.",
-    "published_at": "2026-02-23 18:31",
-    "scraped_at": "2026-02-24T05:48:42.774095"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/854595/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 3 maart 2026:",
+    "published_at": "2026-02-24 06:48",
+    "scraped_at": "2026-02-24T06:42:35.494587"
   },
   {
-    "id": "c65352f184ae692464e5ef986776aaec",
+    "id": "eafc351781b0f1ed7cb2bc659d4358fe",
     "categorie": "Beursnieuws",
-    "titel": "Tarievenchaos duwt AEX weer onder record",
-    "link": "https://www.beurs.nl/Nieuws/854547/Tarievenchaos-duwt-AEX-weer-onder-record.aspx",
-    "intro": "De Amsterdamse beurs is maandag licht lager geëindigd, terwijl de onzekerheid die is ontstaan rond het Amerikaanse tarievenbeleid het sentiment domineerde.",
-    "published_at": "2026-02-23 17:58",
-    "scraped_at": "2026-02-24T05:48:42.774095"
-  },
-  {
-    "id": "0ace6f769296b32cb4e2a11c04f69ec9",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel PayPal schiet omhoog op overnamespeculatie",
-    "link": "https://www.beurs.nl/Nieuws/854545/Aandeel-PayPal-schiet-omhoog-op-overnamespeculatie.aspx",
-    "intro": "Het aandeel PayPal schoot maandag omhoog na overnamegeruchten.",
-    "published_at": "2026-02-23 17:50",
-    "scraped_at": "2026-02-24T05:48:42.774095"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/854596/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 3 maart 2026:",
+    "published_at": "2026-02-24 06:48",
+    "scraped_at": "2026-02-24T06:42:35.494587"
   }
 ]
