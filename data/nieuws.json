@@ -1,12 +1,21 @@
 [
   {
+    "id": "bab8834470bc0d373f228698e0fa6bd9",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen terughoudend rond lunchtijd",
+    "link": "https://www.beurs.nl/Nieuws/854647/Europese-beurzen-terughoudend-rond-lunchtijd.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur licht lager, terwijl de zorgen over de impact van AI opnieuw de kop opstaken.",
+    "published_at": "2026-02-24 12:08",
+    "scraped_at": "2026-02-24T11:29:32.107586"
+  },
+  {
     "id": "0636e9be61032dcd44b376bf803061e6",
     "categorie": "Beursnieuws",
     "titel": "Banken onderuit in nagenoeg vlakke AEX",
     "link": "https://www.beurs.nl/Nieuws/854635/Banken-onderuit-in-nagenoeg-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdag nagenoeg vlak, met verliezen voor de bankensector vanwege de angst voor vervanging van duurbetaalde diensten door AI.",
     "published_at": "2026-02-24 11:01",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   },
   {
     "id": "bca9068bfd5fae60d3114c9d2a5f9dbe",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/854632/UBS-verhoogt-koersdoel-ASR.aspx",
     "intro": "UBS heeft het koersdoel voor ASR Nederland verhoogd van 63,00 naar 66,50 euro, maar met handhaving van het Neutraal advies. Dit bleek dinsdag uit een rapport van de Zwitserse zakenbank.",
     "published_at": "2026-02-24 10:29",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   },
   {
     "id": "a99baa9ae2d607fce31828e3be01f48b",
@@ -24,16 +33,16 @@
     "link": "https://www.beurs.nl/Nieuws/854627/Defensiebedrijf-MTU-Aero-Engines-positief-gestemd.aspx",
     "intro": "MTU Aero Engines rekent voor 2026 op een hogere omzet, dankzij groei in alle segmenten, en verhoogde het dividend stevig. Dit maakte de Duitse vliegtuigmotorenfabrikant dinsdagochtend bekend.",
     "published_at": "2026-02-24 10:05",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   },
   {
     "id": "62bd15b6f32a82498297f978f137c0ef",
     "categorie": "IEXProfs",
     "titel": "Must read: Amerikaanse tarievenchaos is compleet",
     "link": "https://www.iexprofs.nl/artikel/854406/Must-read-Amerikaanse-tarievenchaos-is-compleet.aspx",
-    "intro": "Plus: aandelen EM hebben wind vol in de rug, securitisatie is toch de oplossing, nieuwe vermogensbelasting is echt een slecht idee, crypothandel is verslavend, en meer.",
+    "intro": "Plus: aandelen EM hebben wind vol in de rug, securitisatie is toch de oplossing, nieuwe vermogensbelasting is echt een slecht idee, cryptohandel is verslavend, en meer.",
     "published_at": "2026-02-24 10:00",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   },
   {
     "id": "82c2a6be2c76e8b7dbd26b48e9dabc98",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854624/Ajax-boekt-winst-dankzij-hogere-transferopbrengsten.aspx",
     "intro": "Ajax heeft in de eerste helft van het seizoen 2025/2026 een nettowinst geboekt van 16,4 miljoen euro. Dit bleek dinsdag uit de halfjaarcijfers van de beursgenoteerde Amsterdamse voetbalclub.",
     "published_at": "2026-02-24 09:32",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   },
   {
     "id": "1909db839b47f708cf329c89f7d8cc4b",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854621/Winst-voor-de-AEX.aspx",
     "intro": "De Amsterdamse beurs is dinsdag met kleine winst van start gegaan. Kort na de openingsgong noteerde de AEX een plus van 0,3 procent.",
     "published_at": "2026-02-24 09:15",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   },
   {
     "id": "c5481deec4bbc10d41a6ad177b412818",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854618/Vertrouwen-Franse-ondernemers-gedaald.aspx",
     "intro": "Het vertrouwen van Franse ondernemers in de economie is in februari gedaald. Dit bleek dinsdag uit data van statistiekbureau Insee.",
     "published_at": "2026-02-24 08:57",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   },
   {
     "id": "ffd4f8483f3c627d7c7b84e46582a89d",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854614/Signify-wijzigt-raad-van-commissarissen.aspx",
     "intro": "Signify heeft wijzigingen in de samenstelling van zijn raad van commissarissen voorgesteld. Dit maakte het verlichtingsbedrijf uit Eindhoven dinsdagochtend bekend.",
     "published_at": "2026-02-24 08:40",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   },
   {
     "id": "79ef63970486cc4b2571499d2a9027a0",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854612/Arrowstreet-meldt-belang-in-Pharming.aspx",
     "intro": "Arrowstreet Capital heeft voor het eerst een belang in Pharming Group gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 20 februari.",
     "published_at": "2026-02-24 08:28",
-    "scraped_at": "2026-02-24T10:33:39.084972"
-  },
-  {
-    "id": "d0522ce8f45104059b0110ef16b1de31",
-    "categorie": "Beursnieuws",
-    "titel": "ACEA: Europese autoverkoop begint 2026 zwak",
-    "link": "https://www.beurs.nl/Nieuws/854609/ACEA-Europese-autoverkoop-begint-2026-zwak.aspx",
-    "intro": "De verkoop van nieuwe personenauto's in Europa is in januari zwak van start gegaan, na juist een sterk jaareinde in december. Dit meldde de Europese brancheorganisatie voor de auto-industrie ACEA dinsdag.",
-    "published_at": "2026-02-24 08:15",
-    "scraped_at": "2026-02-24T10:33:39.084972"
+    "scraped_at": "2026-02-24T11:29:32.107586"
   }
 ]
