@@ -1,12 +1,57 @@
 [
   {
+    "id": "6a1da6d7022f0b2c847a650524cbc0e6",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen VS beter dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/854702/Consumentenvertrouwen-VS-beter-dan-verwacht.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in februari onverwacht gestegen. Dit bleek dinsdag uit cijfers van The Conference Board.",
+    "published_at": "2026-02-24 16:11",
+    "scraped_at": "2026-02-24T15:14:17.436597"
+  },
+  {
+    "id": "47acde11883d7bc2cadcaa3bcdd4feec",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse groothandelsvoorraden stijgen licht",
+    "link": "https://www.beurs.nl/Nieuws/854701/Amerikaanse-groothandelsvoorraden-stijgen-licht.aspx",
+    "intro": "ABM FN-Dow Jones) De groothandelsvoorraden in de Verenigde Staten zijn in december opnieuw licht toegenomen. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-02-24 16:05",
+    "scraped_at": "2026-02-24T15:14:17.436597"
+  },
+  {
+    "id": "61e8356bc41df990b84265c18ad6fb0a",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse huizenprijzen stijgen iets minder hard",
+    "link": "https://www.beurs.nl/Nieuws/854687/Amerikaanse-huizenprijzen-stijgen-iets-minder-hard.aspx",
+    "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in december iets minder hard gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
+    "published_at": "2026-02-24 15:25",
+    "scraped_at": "2026-02-24T15:14:17.436597"
+  },
+  {
+    "id": "e1e9ef1795faaa1b3e105c528ff8dc2b",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht voorzichtig herstel",
+    "link": "https://www.beurs.nl/Nieuws/854685/Wall-Street-wacht-voorzichtig-herstel.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een voorzichtig herstel tegemoet. Futures op de SP 500 noteerden in aanloop naar de openingsbel in New York licht in het groen.",
+    "published_at": "2026-02-24 14:52",
+    "scraped_at": "2026-02-24T15:14:17.436597"
+  },
+  {
+    "id": "a08e107034771662f0813dff9fa554f4",
+    "categorie": "Redactioneel",
+    "titel": "Stem nu op uw favoriete AEX-aandeel voor maart",
+    "link": "https://www.belegger.nl/artikel/854678/Stem-nu-op-uw-favoriete-AEX-aandeel-voor-maart.aspx",
+    "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van maart? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
+    "published_at": "2026-02-24 14:40",
+    "scraped_at": "2026-02-24T15:14:17.436597"
+  },
+  {
     "id": "524d6b4b14c91fe2df4b149279eca15c",
     "categorie": "Beursnieuws",
     "titel": "Paramount verhoogt bod op Warner Bros. Discovery",
     "link": "https://www.beurs.nl/Nieuws/854684/Paramount-verhoogt-bod-op-Warner-Bros-Discovery.aspx",
     "intro": "Paramount Skydance heeft het overnamebod op Warner Bros. Discovery verhoogd. Dit bevestigde Warner dinsdagmiddag.",
     "published_at": "2026-02-24 14:34",
-    "scraped_at": "2026-02-24T14:00:28.937042"
+    "scraped_at": "2026-02-24T15:14:17.436597"
   },
   {
     "id": "3e23d8faaf2c8cdc3a5e8dbf0727b253",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854679/Zwakke-outlook-van-Hims-Hers.aspx",
     "intro": "Het aandeel van Hims  Hers komt dinsdag onder druk te staan, nadat het Amerikaanse digitale zorgplatform maandagavond met een tegenvallende outlook kwam.",
     "published_at": "2026-02-24 14:25",
-    "scraped_at": "2026-02-24T14:00:28.937042"
+    "scraped_at": "2026-02-24T15:14:17.436597"
   },
   {
     "id": "12dcb56ca74faf26b3c8793a6470ea59",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854661/Keurig-Dr-Pepper-profiteert-van-hogere-prijzen.aspx",
     "intro": "Keurig Dr Pepper heeft in het vierde kwartaal van 2025 weer winst geboekt, terwijl de omzet steeg dankzij hogere prijzen. Dit meldde de Amerikaanse frisdrankenproducent, die JDE Peet's wil overnemen, dinsdagmiddag.",
     "published_at": "2026-02-24 13:38",
-    "scraped_at": "2026-02-24T14:00:28.937042"
+    "scraped_at": "2026-02-24T15:14:17.436597"
   },
   {
     "id": "c276991d93ecad922609cc1b2ec49099",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854662/Meta-breidt-samenwerking-met-AMD-uit.aspx",
     "intro": "Meta heeft besloten om zijn strategische samenwerking met AMD uit te breiden. Dit meldde AMD dinsdagmiddag.",
     "published_at": "2026-02-24 13:38",
-    "scraped_at": "2026-02-24T14:00:28.937042"
+    "scraped_at": "2026-02-24T15:14:17.436597"
   },
   {
     "id": "061320cc1fabdedc653d7cee1bb8cfbb",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Artikel/854616/Stem-nu-voor-de-Gouden-Stier-Publieksprijs.aspx",
     "intro": "Wie neemt straks de publieksprijs voor beste beleggingsinstelling van 2025 mee naar huis? Dat bepaalt u.",
     "published_at": "2026-02-24 13:25",
-    "scraped_at": "2026-02-24T14:00:28.937042"
-  },
-  {
-    "id": "c739c53b01a78049edc2b16f0bce234d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: lichte verbetering resultaat Vopak voorzien",
-    "link": "https://www.beurs.nl/Nieuws/854657/Beursblik-lichte-verbetering-resultaatVopakvoorzien.aspx",
-    "intro": "Vopak heeft naar verwachting in het vierde kwartaal een licht hoger resultaat geboekt op een vrijwel vlakke omzet, wanneer de belangen in joint ventures en dochterbedrijven naar proportie worden meegeteld. Dat blijkt uit een analistenconsensus die is ingezien door ABM Financial News.",
-    "published_at": "2026-02-24 13:09",
-    "scraped_at": "2026-02-24T14:00:28.937042"
-  },
-  {
-    "id": "99800c56bf5ac2cfe0b037f0dacccc53",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen lichtgroene opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/854652/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een licht herstel tegemoet. Futures op de SP 500 noteerden rond lunchtijd tot 0,2 procent hoger.",
-    "published_at": "2026-02-24 12:49",
-    "scraped_at": "2026-02-24T14:00:28.937042"
-  },
-  {
-    "id": "0fc08918704fcb86f31f11b483ee1ee8",
-    "categorie": "Beursnieuws",
-    "titel": "Home Depot herhaalt outlook voor 2026",
-    "link": "https://www.beurs.nl/Nieuws/854651/Home-Depot-herhaalt-outlook-voor-2026.aspx",
-    "intro": "Home Depot heeft in 2025 de eigen verwachtingen gehaald en rekent voor 2026 op verdere groei. Dit bleek dinsdag uit de cijfers van de Amerikaanse doe-het-zelfketen.",
-    "published_at": "2026-02-24 12:38",
-    "scraped_at": "2026-02-24T14:00:28.937042"
-  },
-  {
-    "id": "bab8834470bc0d373f228698e0fa6bd9",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen terughoudend rond lunchtijd",
-    "link": "https://www.beurs.nl/Nieuws/854647/Europese-beurzen-terughoudend-rond-lunchtijd.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur licht lager, terwijl de zorgen over de impact van AI opnieuw de kop opstaken.",
-    "published_at": "2026-02-24 12:08",
-    "scraped_at": "2026-02-24T14:00:28.937042"
-  },
-  {
-    "id": "0636e9be61032dcd44b376bf803061e6",
-    "categorie": "Beursnieuws",
-    "titel": "Banken onderuit in nagenoeg vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/854635/Banken-onderuit-in-nagenoeg-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag nagenoeg vlak, met verliezen voor de bankensector vanwege de angst voor vervanging van duurbetaalde diensten door AI.",
-    "published_at": "2026-02-24 11:01",
-    "scraped_at": "2026-02-24T14:00:28.937042"
+    "scraped_at": "2026-02-24T15:14:17.436597"
   }
 ]
