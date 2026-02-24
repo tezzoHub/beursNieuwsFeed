@@ -1,12 +1,21 @@
 [
   {
+    "id": "1d8df166073e1ce059e81503f85f56c4",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen blijven dicht bij huis",
+    "link": "https://www.beurs.nl/Nieuws/854727/Europese-beurzen-blijven-dicht-bij-huis.aspx",
+    "intro": "De aandelenmarkten in Europa bleven dinsdag dicht bij huis en sloten verdeeld, nadat zorgen over de impact van AI opnieuw de kop opstaken.",
+    "published_at": "2026-02-24 19:04",
+    "scraped_at": "2026-02-24T18:40:34.425506"
+  },
+  {
     "id": "fe561f0fac2140009b26283db8bc6c8a",
     "categorie": "Beursnieuws",
     "titel": "AEX naar nieuw record met databedrijven aan kop",
     "link": "https://www.beurs.nl/Nieuws/854725/AEX-naar-nieuw-record-met-databedrijven-aan-kop.aspx",
     "intro": "De Amsterdamse beurs is dinsdag naar een nieuw record gestegen, met databedrijven Wolters Kluwer en RELX aan kop.",
     "published_at": "2026-02-24 17:58",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   },
   {
     "id": "42d8cc0b43c9ecc65cc378c0e4f351ac",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/854720/Ahold-Delhaize-wil-door-met-CFO.aspx",
     "intro": "De raad van commissarissen van Ahold Delhaize wil Jolanda Poots-Bijl voordragen voor herbenoeming als CFO bij de aankomende jaarvergadering. Dit maakte het supermarktbedrijf dinsdagmiddag bekend.",
     "published_at": "2026-02-24 17:32",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   },
   {
     "id": "d09c34393b8907e734179d0ea0aff6b3",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854712/Beursblik-Nvidia-groeit-door.aspx",
     "intro": "Nvidia heeft in het vierde kwartaal van 2025 naar verwachting hogere resultaten geboekt en ook voor het lopende kwartaal wordt een verdere groei verwacht.",
     "published_at": "2026-02-24 16:48",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   },
   {
     "id": "fa406d860cd6e152d4a3afcf3f972ae7",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854709/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 4 maart 2026:",
     "published_at": "2026-02-24 16:44",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   },
   {
     "id": "62386923e0a1a75faf295de9ac64b957",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854710/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 4 maart 2026:",
     "published_at": "2026-02-24 16:44",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   },
   {
     "id": "5aab7c2c536a49bb9c165186cab37dca",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854708/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 4 maart 2026:",
     "published_at": "2026-02-24 16:43",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   },
   {
     "id": "6a1da6d7022f0b2c847a650524cbc0e6",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854702/Consumentenvertrouwen-VS-beter-dan-verwacht.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in februari onverwacht gestegen. Dit bleek dinsdag uit cijfers van The Conference Board.",
     "published_at": "2026-02-24 16:11",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   },
   {
     "id": "47acde11883d7bc2cadcaa3bcdd4feec",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854701/Amerikaanse-groothandelsvoorraden-stijgen-licht.aspx",
     "intro": "ABM FN-Dow Jones) De groothandelsvoorraden in de Verenigde Staten zijn in december opnieuw licht toegenomen. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-02-24 16:05",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   },
   {
     "id": "61e8356bc41df990b84265c18ad6fb0a",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854687/Amerikaanse-huizenprijzen-stijgen-iets-minder-hard.aspx",
     "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in december iets minder hard gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
     "published_at": "2026-02-24 15:25",
-    "scraped_at": "2026-02-24T17:45:10.131620"
-  },
-  {
-    "id": "e1e9ef1795faaa1b3e105c528ff8dc2b",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht voorzichtig herstel",
-    "link": "https://www.beurs.nl/Nieuws/854685/Wall-Street-wacht-voorzichtig-herstel.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een voorzichtig herstel tegemoet. Futures op de SP 500 noteerden in aanloop naar de openingsbel in New York licht in het groen.",
-    "published_at": "2026-02-24 14:52",
-    "scraped_at": "2026-02-24T17:45:10.131620"
+    "scraped_at": "2026-02-24T18:40:34.425506"
   }
 ]
