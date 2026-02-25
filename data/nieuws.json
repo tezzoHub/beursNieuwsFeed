@@ -1,12 +1,30 @@
 [
   {
+    "id": "8ef36558beca6f90aa6ec8c373ede6f6",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet en winst voor Wolters Kluwer",
+    "link": "https://www.beurs.nl/Nieuws/854781/Meer-omzet-en-winst-voor-Wolters-Kluwer.aspx",
+    "intro": "Wolters Kluwer heeft in 2025 de omzet en de winst zien stijgen, in lijn met de prestaties in de eerste negen maanden, en voorziet voor 2026 verdere omzetgroei en verbetering van de marges. Dit bleek woensdag voorbeurs uit cijfers van het databedrijf dat de afgelopen weken flink onder druk stond door zorgen onder beleggers over de impact van AI.",
+    "published_at": "2026-02-25 08:24",
+    "scraped_at": "2026-02-25T07:41:46.595187"
+  },
+  {
+    "id": "c7dee39fde9297773c55ef31acb16ded",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen kleuren groen",
+    "link": "https://www.beurs.nl/Nieuws/854773/Aziatische-beurzen-kleuren-groen.aspx",
+    "intro": "De Aziatische beurzen koersten woensdag overtuigend hoger, waarbij vooral de winst voor de Nikkei-index opviel.",
+    "published_at": "2026-02-25 07:46",
+    "scraped_at": "2026-02-25T07:41:46.595187"
+  },
+  {
     "id": "34b46d8646cfab2b22142cfea517ea67",
     "categorie": "Beursnieuws",
     "titel": "Vopak gaat aandeelhouders meer belonen",
     "link": "https://www.beurs.nl/Nieuws/854769/Vopak-gaat-aandeelhouders-meer-belonen.aspx",
     "intro": "Vopak is van plan om tot 2030 circa 1,7 miljard euro uit te keren aan de aandeelhouders, nadat het tankopslagbedrijf in 2025 een recordresultaat boekte. Dit bleek woensdag voorbeurs uit cijfers die het bedrijf presenteerde.",
     "published_at": "2026-02-25 07:28",
-    "scraped_at": "2026-02-25T06:36:54.502389"
+    "scraped_at": "2026-02-25T07:41:46.595187"
   },
   {
     "id": "68ffca543792f56b9c5d94b718eef8ec",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854764/Europese-beurzen-openen-hoger.aspx",
     "intro": "De Europese beurzen gaan woensdag een hogere opening tegemoet, na winst op Wall Street en een positief sentiment vanochtend op de Aziatische beurzen.",
     "published_at": "2026-02-25 07:01",
-    "scraped_at": "2026-02-25T06:36:54.502389"
+    "scraped_at": "2026-02-25T07:41:46.595187"
   },
   {
     "id": "132a3654a8f2030d2c4454ed0a1d956a",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854763/Trump-verdedigt-economisch-beleid-tijdens-State-of-the-Union.aspx",
     "intro": "President Donald Trump heeft dinsdag tijdens zijn State of the Union-toespraak een nieuw tijdperk van economische welvaart aangekondigd, maar erkende niet de economische angst die veel Amerikanen voelen.",
     "published_at": "2026-02-25 06:55",
-    "scraped_at": "2026-02-25T06:36:54.502389"
+    "scraped_at": "2026-02-25T07:41:46.595187"
   },
   {
     "id": "82c055aadeff2c966e73cb1ca79d3fd8",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854759/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 4 maart 2026:",
     "published_at": "2026-02-25 06:48",
-    "scraped_at": "2026-02-25T06:36:54.502389"
+    "scraped_at": "2026-02-25T07:41:46.595187"
   },
   {
     "id": "a212aaf016bd6d0625fc259e6173a2c5",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854760/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 4 maart 2026:",
     "published_at": "2026-02-25 06:48",
-    "scraped_at": "2026-02-25T06:36:54.502389"
+    "scraped_at": "2026-02-25T07:41:46.595187"
   },
   {
     "id": "88b71c619b9338e7a140e0d73aa4ad2d",
@@ -51,6 +69,6 @@
     "link": "https://www.beurs.nl/Nieuws/854761/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 4 maart 2026:",
     "published_at": "2026-02-25 06:48",
-    "scraped_at": "2026-02-25T06:36:54.502389"
+    "scraped_at": "2026-02-25T07:41:46.595187"
   }
 ]
