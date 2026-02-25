@@ -1,12 +1,30 @@
 [
   {
+    "id": "99942b2a96e872aa260e2e68413cb804",
+    "categorie": "Beursnieuws",
+    "titel": "ENGIE neemt UK Power Networks over",
+    "link": "https://www.beurs.nl/Nieuws/854900/ENGIE-neemt-UK-Power-Networks-over.aspx",
+    "intro": "ENGIE heeft een akkoord bereikt over de overname van UK Power Networks (UKPN), de grootste elektriciteitsnetbeheerder van het Verenigd Koninkrijk. Dit maakte het Franse energiebedrijf woensdagavond bekend.",
+    "published_at": "2026-02-25 20:36",
+    "scraped_at": "2026-02-25T19:41:46.754401"
+  },
+  {
+    "id": "f2b88df127208166611a155521bc2282",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street breidt winsten verder uit",
+    "link": "https://www.beurs.nl/Nieuws/854893/Wall-Street-breidt-winsten-verder-uit.aspx",
+    "intro": "De Amerikaanse beurzen breidde woensdag met een paar uur handel te gaan de openingswinsten verder uit, terwijl beleggers uitkijken naar de cijfers van Nvidia die nabeurs bekend worden gemaakt.",
+    "published_at": "2026-02-25 19:57",
+    "scraped_at": "2026-02-25T19:41:46.754401"
+  },
+  {
     "id": "959bb33e934f37814a56946700d2dc5c",
     "categorie": "Beursnieuws",
     "titel": "Meerdere Europese beurzen op nieuwe records gesloten",
     "link": "https://www.beurs.nl/Nieuws/854887/Meerdere-Europese-beurzen-op-nieuwe-records-gesloten.aspx",
     "intro": "De aandelenmarkten in Europa zijn woensdag overwegend hoger gesloten, waarbij onder meer de Stoxx Europe 600, de CAC 40 en de beurs in Milaan hun records wisten aan te scherpen.",
     "published_at": "2026-02-25 19:05",
-    "scraped_at": "2026-02-25T18:43:51.126003"
+    "scraped_at": "2026-02-25T19:41:46.754401"
   },
   {
     "id": "3e66eea16cb717eaaee1ab643126a5f7",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854884/AMG-heeft-outlook-voor-2025-ruim-gehaald.aspx",
     "intro": "AMG Critical Materials heeft in 2025 de winstgevendheid flink zien aantrekken, maar verwacht niet dat dit in 2026 ook zo zal zijn. Dit maakte het op het Damrak genoteerde grondstoffenbedrijf woensdag nabeurs bekend.",
     "published_at": "2026-02-25 18:51",
-    "scraped_at": "2026-02-25T18:43:51.126003"
+    "scraped_at": "2026-02-25T19:41:46.754401"
   },
   {
     "id": "0a3af7c732e82ffb423b6694f70bb284",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854878/RELX-en-Wolters-Kluwer-helpen-Damrak-aan-winst.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger gesloten, nadat de resultaten en plannen van Wolters Kluwer uiteindelijk positief werden ontvangen en sectorgenoot RELX het sterkst profiteerde van de afnemende zorgen over de impact van AI.",
     "published_at": "2026-02-25 18:02",
-    "scraped_at": "2026-02-25T18:43:51.126003"
+    "scraped_at": "2026-02-25T19:41:46.754401"
   },
   {
     "id": "cf7289303247ca194ab4abd5ee6b180c",
@@ -33,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/854856/Slotcall-AEX-goedgemutst-richting-cijfers-van-AI-boegbeeld-Nvidia.aspx",
     "intro": "De AEX sluit 1,1% hoger op 1.030 punten en eindigt daarmee in de Europese kopgroep. Vanochtend werd opnieuw een record aangetikt en het momentum hield de hele dag aan.",
     "published_at": "2026-02-25 17:35",
-    "scraped_at": "2026-02-25T18:43:51.126003"
+    "scraped_at": "2026-02-25T19:41:46.754401"
   },
   {
     "id": "5cc09bad54a8174215acf176c971693a",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854869/Meer-winst-voor-NEPI-Rockcastle.aspx",
     "intro": "NEPI Rockcastle heeft in 2025 de netto huurinkomsten en de uitkeerbare winst zien stijgen, terwijl de waarde van de vastgoedportefeuille opliep tot 8,2 miljard euro. Dai maakte het in Amsterdam gevestigde Europese vastgoedbedrijf woensdag bekend.",
     "published_at": "2026-02-25 17:16",
-    "scraped_at": "2026-02-25T18:43:51.126003"
+    "scraped_at": "2026-02-25T19:41:46.754401"
   },
   {
     "id": "0e51e4b1d7a8295a9032cd97089fccf6",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854867/Beursblik-SBM-Offshore-haalt-eigen-outlook.aspx",
     "intro": "SBM Offshore heeft in 2025 vermoedelijk de eigen outlook gehaald. Dat blijkt uit een analistenconsensus die de oliedienstverlener zelf samenstelde.",
     "published_at": "2026-02-25 16:56",
-    "scraped_at": "2026-02-25T18:43:51.126003"
+    "scraped_at": "2026-02-25T19:41:46.754401"
   },
   {
     "id": "a35ae03d61fa64ba40b37a2a794e63e2",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854863/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 5 maart 2026:",
     "published_at": "2026-02-25 16:49",
-    "scraped_at": "2026-02-25T18:43:51.126003"
+    "scraped_at": "2026-02-25T19:41:46.754401"
   },
   {
     "id": "fc0b85858868736d25d3b110edfa2401",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854862/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 5 maart 2026:",
     "published_at": "2026-02-25 16:48",
-    "scraped_at": "2026-02-25T18:43:51.126003"
-  },
-  {
-    "id": "70c820c21481572431efb1e4d8add2e2",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/854860/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 5 maart 2026:",
-    "published_at": "2026-02-25 16:47",
-    "scraped_at": "2026-02-25T18:43:51.126003"
-  },
-  {
-    "id": "006818b23c771dd60fce9cebe65a50e0",
-    "categorie": "Beursnieuws",
-    "titel": "Forse toename Amerikaanse olievoorraden",
-    "link": "https://www.beurs.nl/Nieuws/854859/Forse-toename-Amerikaanse-olievoorraden.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week veel sterker dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-02-25 16:46",
-    "scraped_at": "2026-02-25T18:43:51.126003"
+    "scraped_at": "2026-02-25T19:41:46.754401"
   }
 ]
