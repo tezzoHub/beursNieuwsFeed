@@ -1,12 +1,30 @@
 [
   {
+    "id": "50d471d8cdc1f08c7d1ea24dd82dd16a",
+    "categorie": "Beursnieuws",
+    "titel": "HSBC ziet winst fors aantrekken",
+    "link": "https://www.beurs.nl/Nieuws/854810/HSBC-ziet-winst-fors-aantrekken.aspx",
+    "intro": "HSBC heeft in het vierde kwartaal de winst fors zien stijgen, dankzij hogere rentebaten en eenmalige boekwinsten op desinvesteringen. Dit bleek woensdag uit cijfers van de bank.",
+    "published_at": "2026-02-25 11:30",
+    "scraped_at": "2026-02-25T10:36:25.122805"
+  },
+  {
+    "id": "9eef36a97b78a64a8af1bb777806ff21",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: Vopak fors hoger op groen Damrak",
+    "link": "https://www.beurs.nl/Nieuws/854807/Beursupdate-Vopak-fors-hoger-op-groen-Damrak.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdag hoger. Rond de klok van elf uur won de AEX 0,7 procent op 1.027,30 punten.",
+    "published_at": "2026-02-25 11:13",
+    "scraped_at": "2026-02-25T10:36:25.122805"
+  },
+  {
     "id": "b7f75324ea565f83a0a1d7bc8dc9c028",
     "categorie": "IEXProfs",
     "titel": "Must read: Stijging olieprijs is logisch",
     "link": "https://www.iexprofs.nl/artikel/854486/Must-read-Stijging-olieprijs-is-logisch.aspx",
     "intro": "Plus: voedseltransitie is een grote beleggingskans, ook het Vaticaan heeft een beleggingsstrategie, 13 innovatietoppers, grote angst onder werkenden voor AI, de duurste auto ooit, en meer.",
     "published_at": "2026-02-25 10:00",
-    "scraped_at": "2026-02-25T09:38:29.905559"
+    "scraped_at": "2026-02-25T10:36:25.122805"
   },
   {
     "id": "4a49930aeee046400026eb9bb4df5d39",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854794/Diageo-verlaagt-outlook.aspx",
     "intro": "Diageo heeft de outlook voor het lopende gebroken boekjaar verlaagd, mede door zwakke resultaten in de VS. Dit bleek woensdag uit een update van de distillateur.",
     "published_at": "2026-02-25 09:42",
-    "scraped_at": "2026-02-25T09:38:29.905559"
+    "scraped_at": "2026-02-25T10:36:25.122805"
   },
   {
     "id": "75ac550c1945eb03aef065af8c0490a6",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854792/KBC-Securities-Wolters-Kluwer-presteert-conform-verwachting.aspx",
     "intro": "Wolters Kluwer heeft in 2025 conform verwachting gepresteerd. Dit stelde analist Thomas Couvreur van KBC Securities woensdag in een rapport.",
     "published_at": "2026-02-25 09:31",
-    "scraped_at": "2026-02-25T09:38:29.905559"
+    "scraped_at": "2026-02-25T10:36:25.122805"
   },
   {
     "id": "0e28b0f0154b3bd15239982d6e20515c",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854790/RELX-aan-kop-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger geopend. Kort na opening van de beurs, koerste de AEX 0,5 procent hoger op 1.025,26 punten.",
     "published_at": "2026-02-25 09:12",
-    "scraped_at": "2026-02-25T09:38:29.905559"
+    "scraped_at": "2026-02-25T10:36:25.122805"
   },
   {
     "id": "4aea01ea0c4cdb145b13a09dbb598c09",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854788/Vopak-verwacht-grofweg-vlak-resultaat-in-2026.aspx",
     "intro": "Vopak voorziet dat de proportionele EBITDA in 2026 grofweg stabiel zal zijn ten opzichte van het resultaat in 2025. Deze outlook gaf het tankopslagbedrijf woensdag af bij publicatie van de jaarcijfers.",
     "published_at": "2026-02-25 09:01",
-    "scraped_at": "2026-02-25T09:38:29.905559"
+    "scraped_at": "2026-02-25T10:36:25.122805"
   },
   {
     "id": "8c0f1b5865456e31b5d050bdc813b4c1",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854787/Sprucegrove-iets-kleiner-in-Vopak.aspx",
     "intro": "Sprucegrove Investment Management heeft een kleiner belang in Vopak gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 23 februari 2026.",
     "published_at": "2026-02-25 08:52",
-    "scraped_at": "2026-02-25T09:38:29.905559"
+    "scraped_at": "2026-02-25T10:36:25.122805"
   },
   {
     "id": "8519ad0eccad300834a669124a3d7a27",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854784/Jefferies-cijfers-Vopak-conform-verwachting.aspx",
     "intro": "Vopak heeft in 2025 conform verwachting gepresteerd. Dit oordeelde analist David Kerstens van Jefferies woensdag in een rapport.",
     "published_at": "2026-02-25 08:46",
-    "scraped_at": "2026-02-25T09:38:29.905559"
+    "scraped_at": "2026-02-25T10:36:25.122805"
   },
   {
     "id": "afb0841f1cd9f5d820468a997c784959",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Artikel/854750/Wolters-en-Vopak-gaan-aandeelhouder-belonen-en-nagelbijten-tot-cijfers-Nvidia.aspx",
     "intro": "Openingsindicatie: +0,4%. Wolters Kluwer en Vopak gaan ieder voor half miljard euro aan aandelen inkopen en dividend verhogen. En spanning stijgt in aanloop naar cijfers Nvidia.",
     "published_at": "2026-02-25 08:35",
-    "scraped_at": "2026-02-25T09:38:29.905559"
-  },
-  {
-    "id": "8ef36558beca6f90aa6ec8c373ede6f6",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet en winst voor Wolters Kluwer",
-    "link": "https://www.beurs.nl/Nieuws/854781/Meer-omzet-en-winst-voor-Wolters-Kluwer.aspx",
-    "intro": "Wolters Kluwer heeft in 2025 de omzet en de winst zien stijgen, in lijn met de prestaties in de eerste negen maanden, en voorziet voor 2026 verdere omzetgroei en verbetering van de marges. Dit bleek woensdag voorbeurs uit cijfers van het databedrijf dat de afgelopen weken flink onder druk stond door zorgen onder beleggers over de impact van AI.",
-    "published_at": "2026-02-25 08:24",
-    "scraped_at": "2026-02-25T09:38:29.905559"
-  },
-  {
-    "id": "cb5845d1e7297aa2d9d47bf22309846d",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/854776/Hogere-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,4 procent in het groen. Dinsdag eindigde de hoofdgraadmeter al 0,3 procent hoger op 1.019,87 punten.",
-    "published_at": "2026-02-25 08:07",
-    "scraped_at": "2026-02-25T09:38:29.905559"
+    "scraped_at": "2026-02-25T10:36:25.122805"
   }
 ]
