@@ -1,12 +1,21 @@
 [
   {
+    "id": "f19186d6daad2c750f59f37493d04ae1",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of America verhoogt koersdoel ASMI fors",
+    "link": "https://www.beurs.nl/Nieuws/854844/Bank-of-America-verhoogt-koersdoel-ASMI-fors.aspx",
+    "intro": "Bank of America heeft woensdag het koersdoel voor ASMI verhoogd van 792 naar 858 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
+    "published_at": "2026-02-25 14:34",
+    "scraped_at": "2026-02-25T13:59:24.955058"
+  },
+  {
     "id": "43440a1a5ce15c18396497ca2250f918",
     "categorie": "Beursnieuws",
     "titel": "Obligatie: Nederland wil tot 4 miljard euro ophalen",
     "link": "https://www.beurs.nl/Nieuws/854833/Obligatie-Nederland-wil-tot-4-miljard-euro-ophalen.aspx",
     "intro": "De Nederlandse Staat wil maandag 2 maart tot 4 miljard euro ophalen met twee korte leningen. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
     "published_at": "2026-02-25 13:13",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   },
   {
     "id": "2c0a91de4712648b3eb85e7ca63f4776",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/854832/Licht-hogere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet, in afwachting van de resultaten van Nvidia nabeurs. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,3 procent in het groen.",
     "published_at": "2026-02-25 13:04",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   },
   {
     "id": "85dba4171af91d9b7fa46ef142c1294e",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854827/Lowes-ziet-omzet-aantrekken.aspx",
     "intro": "Lowe's heeft in het vierde kwartaal meer omzet geboekt, doordat sterke resultaten bij de divisie voor professionele klanten de zwakte in het consumentensegment opvingen. Dit bleek woensdag uit cijfers van de Amerikaanse doe-het-zelfketen.",
     "published_at": "2026-02-25 12:38",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   },
   {
     "id": "ed24b883d5a88e701aaf8ccc35e6b941",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854826/Europese-beurzen-in-het-groen-na-State-of-the-Union.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger, in navolging van stijgende markten in de VS en Azië, met hulp van sterke resultaten van HSBC en mijnbouwers in Londen.",
     "published_at": "2026-02-25 12:35",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   },
   {
     "id": "8f68f459bc532f82e501165ada27feac",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854822/DoorDash-trekt-zich-terug-uit-vier-landen-in-Azie.aspx",
     "intro": "DoorDash trekt zich terug uit Qatar, Singapore, Japan en Oezbekistan, na een strategische herbeoordeling van de maaltijdbezorger als gevolg van toegenomen concurrentie. Dit maakte de bezorgreus woensdag bekend.",
     "published_at": "2026-02-25 12:14",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   },
   {
     "id": "9f740ce21f3c92adc67ddfd71771b2a6",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854816/Worldline-verkoopt-Indiase-betaaldienst-aan-Billdesk.aspx",
     "intro": "Worldline heeft zijn Indiase betaalbedrijf verkocht aan het Indiase BillDesk voor circa 60 miljoen euro. Dat maakte het betaalbedrijf uit Parijs woensdag bekend.",
     "published_at": "2026-02-25 11:56",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   },
   {
     "id": "50d471d8cdc1f08c7d1ea24dd82dd16a",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854810/HSBC-ziet-winst-fors-aantrekken.aspx",
     "intro": "HSBC heeft in het vierde kwartaal de winst fors zien stijgen, dankzij hogere rentebaten en eenmalige boekwinsten op desinvesteringen. Dit bleek woensdag uit cijfers van de bank.",
     "published_at": "2026-02-25 11:30",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   },
   {
     "id": "be228410cbb937ede4340235af1073b7",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854807/Vopak-fors-hoger-op-groen-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste woensdag hoger. Rond de klok van elf uur won de AEX 0,7 procent op 1.027,30 punten.",
     "published_at": "2026-02-25 11:13",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   },
   {
     "id": "c250a38ec177202a06f79f8ca5bf8baf",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854805/Inflatie-eurozone-daalt.aspx",
     "intro": "De inflatie in de eurozone is in januari gedaald. Dit bleek woensdag uit definitieve cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-02-25 11:07",
-    "scraped_at": "2026-02-25T12:30:32.893069"
-  },
-  {
-    "id": "b7f75324ea565f83a0a1d7bc8dc9c028",
-    "categorie": "IEXProfs",
-    "titel": "Must read: Stijging olieprijs is logisch",
-    "link": "https://www.iexprofs.nl/artikel/854486/Must-read-Stijging-olieprijs-is-logisch.aspx",
-    "intro": "Plus: voedseltransitie is een grote beleggingskans, ook het Vaticaan heeft een beleggingsstrategie, 13 innovatietoppers, grote angst onder werkenden voor AI, de duurste auto ooit, en meer.",
-    "published_at": "2026-02-25 10:00",
-    "scraped_at": "2026-02-25T12:30:32.893069"
+    "scraped_at": "2026-02-25T13:59:24.955058"
   }
 ]
