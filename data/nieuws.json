@@ -1,21 +1,48 @@
 [
   {
+    "id": "8f68f459bc532f82e501165ada27feac",
+    "categorie": "Beursnieuws",
+    "titel": "DoorDash trekt zich terug uit vier landen in Azië",
+    "link": "https://www.beurs.nl/Nieuws/854822/DoorDash-trekt-zich-terug-uit-vier-landen-in-Azie.aspx",
+    "intro": "DoorDash trekt zich terug uit Qatar, Singapore, Japan en Oezbekistan, na een strategische herbeoordeling van de maaltijdbezorger als gevolg van toegenomen concurrentie. Dit maakte de bezorgreus woensdag bekend.",
+    "published_at": "2026-02-25 12:14",
+    "scraped_at": "2026-02-25T11:28:42.371811"
+  },
+  {
+    "id": "9f740ce21f3c92adc67ddfd71771b2a6",
+    "categorie": "Beursnieuws",
+    "titel": "Worldline verkoopt Indiase betaaldienst aan Billdesk",
+    "link": "https://www.beurs.nl/Nieuws/854816/Worldline-verkoopt-Indiase-betaaldienst-aan-Billdesk.aspx",
+    "intro": "Worldline heeft zijn Indiase betaalbedrijf verkocht aan het Indiase BillDesk voor circa 60 miljoen euro. Dat maakte het betaalbedrijf uit Parijs woensdag bekend.",
+    "published_at": "2026-02-25 11:56",
+    "scraped_at": "2026-02-25T11:28:42.371811"
+  },
+  {
     "id": "50d471d8cdc1f08c7d1ea24dd82dd16a",
     "categorie": "Beursnieuws",
     "titel": "HSBC ziet winst fors aantrekken",
     "link": "https://www.beurs.nl/Nieuws/854810/HSBC-ziet-winst-fors-aantrekken.aspx",
     "intro": "HSBC heeft in het vierde kwartaal de winst fors zien stijgen, dankzij hogere rentebaten en eenmalige boekwinsten op desinvesteringen. Dit bleek woensdag uit cijfers van de bank.",
     "published_at": "2026-02-25 11:30",
-    "scraped_at": "2026-02-25T10:36:25.122805"
+    "scraped_at": "2026-02-25T11:28:42.371811"
   },
   {
-    "id": "9eef36a97b78a64a8af1bb777806ff21",
+    "id": "be228410cbb937ede4340235af1073b7",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Vopak fors hoger op groen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/854807/Beursupdate-Vopak-fors-hoger-op-groen-Damrak.aspx",
+    "titel": "Vopak fors hoger op groen Damrak",
+    "link": "https://www.beurs.nl/Nieuws/854807/Vopak-fors-hoger-op-groen-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste woensdag hoger. Rond de klok van elf uur won de AEX 0,7 procent op 1.027,30 punten.",
     "published_at": "2026-02-25 11:13",
-    "scraped_at": "2026-02-25T10:36:25.122805"
+    "scraped_at": "2026-02-25T11:28:42.371811"
+  },
+  {
+    "id": "c250a38ec177202a06f79f8ca5bf8baf",
+    "categorie": "Beursnieuws",
+    "titel": "Inflatie eurozone daalt",
+    "link": "https://www.beurs.nl/Nieuws/854805/Inflatie-eurozone-daalt.aspx",
+    "intro": "De inflatie in de eurozone is in januari gedaald. Dit bleek woensdag uit definitieve cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-02-25 11:07",
+    "scraped_at": "2026-02-25T11:28:42.371811"
   },
   {
     "id": "b7f75324ea565f83a0a1d7bc8dc9c028",
@@ -24,7 +51,7 @@
     "link": "https://www.iexprofs.nl/artikel/854486/Must-read-Stijging-olieprijs-is-logisch.aspx",
     "intro": "Plus: voedseltransitie is een grote beleggingskans, ook het Vaticaan heeft een beleggingsstrategie, 13 innovatietoppers, grote angst onder werkenden voor AI, de duurste auto ooit, en meer.",
     "published_at": "2026-02-25 10:00",
-    "scraped_at": "2026-02-25T10:36:25.122805"
+    "scraped_at": "2026-02-25T11:28:42.371811"
   },
   {
     "id": "4a49930aeee046400026eb9bb4df5d39",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854794/Diageo-verlaagt-outlook.aspx",
     "intro": "Diageo heeft de outlook voor het lopende gebroken boekjaar verlaagd, mede door zwakke resultaten in de VS. Dit bleek woensdag uit een update van de distillateur.",
     "published_at": "2026-02-25 09:42",
-    "scraped_at": "2026-02-25T10:36:25.122805"
+    "scraped_at": "2026-02-25T11:28:42.371811"
   },
   {
     "id": "75ac550c1945eb03aef065af8c0490a6",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854792/KBC-Securities-Wolters-Kluwer-presteert-conform-verwachting.aspx",
     "intro": "Wolters Kluwer heeft in 2025 conform verwachting gepresteerd. Dit stelde analist Thomas Couvreur van KBC Securities woensdag in een rapport.",
     "published_at": "2026-02-25 09:31",
-    "scraped_at": "2026-02-25T10:36:25.122805"
+    "scraped_at": "2026-02-25T11:28:42.371811"
   },
   {
     "id": "0e28b0f0154b3bd15239982d6e20515c",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854790/RELX-aan-kop-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger geopend. Kort na opening van de beurs, koerste de AEX 0,5 procent hoger op 1.025,26 punten.",
     "published_at": "2026-02-25 09:12",
-    "scraped_at": "2026-02-25T10:36:25.122805"
+    "scraped_at": "2026-02-25T11:28:42.371811"
   },
   {
     "id": "4aea01ea0c4cdb145b13a09dbb598c09",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854788/Vopak-verwacht-grofweg-vlak-resultaat-in-2026.aspx",
     "intro": "Vopak voorziet dat de proportionele EBITDA in 2026 grofweg stabiel zal zijn ten opzichte van het resultaat in 2025. Deze outlook gaf het tankopslagbedrijf woensdag af bij publicatie van de jaarcijfers.",
     "published_at": "2026-02-25 09:01",
-    "scraped_at": "2026-02-25T10:36:25.122805"
-  },
-  {
-    "id": "8c0f1b5865456e31b5d050bdc813b4c1",
-    "categorie": "Beursnieuws",
-    "titel": "Sprucegrove iets kleiner in Vopak",
-    "link": "https://www.beurs.nl/Nieuws/854787/Sprucegrove-iets-kleiner-in-Vopak.aspx",
-    "intro": "Sprucegrove Investment Management heeft een kleiner belang in Vopak gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 23 februari 2026.",
-    "published_at": "2026-02-25 08:52",
-    "scraped_at": "2026-02-25T10:36:25.122805"
-  },
-  {
-    "id": "8519ad0eccad300834a669124a3d7a27",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies: cijfers Vopak conform verwachting",
-    "link": "https://www.beurs.nl/Nieuws/854784/Jefferies-cijfers-Vopak-conform-verwachting.aspx",
-    "intro": "Vopak heeft in 2025 conform verwachting gepresteerd. Dit oordeelde analist David Kerstens van Jefferies woensdag in een rapport.",
-    "published_at": "2026-02-25 08:46",
-    "scraped_at": "2026-02-25T10:36:25.122805"
-  },
-  {
-    "id": "afb0841f1cd9f5d820468a997c784959",
-    "categorie": "Voorbeurs",
-    "titel": "Wolters en Vopak gaan aandeelhouder belonen en nagelbijten tot cijfers Nvidia",
-    "link": "https://www.beurs.nl/Artikel/854750/Wolters-en-Vopak-gaan-aandeelhouder-belonen-en-nagelbijten-tot-cijfers-Nvidia.aspx",
-    "intro": "Openingsindicatie: +0,4%. Wolters Kluwer en Vopak gaan ieder voor half miljard euro aan aandelen inkopen en dividend verhogen. En spanning stijgt in aanloop naar cijfers Nvidia.",
-    "published_at": "2026-02-25 08:35",
-    "scraped_at": "2026-02-25T10:36:25.122805"
+    "scraped_at": "2026-02-25T11:28:42.371811"
   }
 ]
