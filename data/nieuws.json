@@ -1,12 +1,39 @@
 [
   {
+    "id": "c13138448233b1922252759cf90fe3f0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: jaarcijfers CTP conform verwachting",
+    "link": "https://www.beurs.nl/Nieuws/854973/Beursblik-jaarcijfers-CTP-conform-verwachting.aspx",
+    "intro": "CTP heeft in 2025 grofweg conform verwachting gepresteerd. Dit oordeelde Wim Lewi van KBC Securities donderdag in een rapport.",
+    "published_at": "2026-02-26 09:21",
+    "scraped_at": "2026-02-26T08:29:59.147470"
+  },
+  {
+    "id": "310a96d247d3ec602b30a9d1dff9d563",
+    "categorie": "Beursnieuws",
+    "titel": "AEX vlak van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/854972/AEX-vlak-van-start-gegaan.aspx",
+    "intro": "De Amsterdamse beurs is donderdag vlak geopend. Kort na opening van de beurs, koerste de AEX krap een 0,1 procent lager op 1.029,18 punten.",
+    "published_at": "2026-02-26 09:09",
+    "scraped_at": "2026-02-26T08:29:59.147470"
+  },
+  {
+    "id": "abfb2ab3a09de17f6ca0c69a7b049bc4",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verlaagt koersdoel Wolters Kluwer",
+    "link": "https://www.beurs.nl/Nieuws/854967/Deutsche-Bank-verlaagt-koersdoel-Wolters-Kluwer.aspx",
+    "intro": "Deutsche Bank heeft donderdag het koersdoel voor Wolters Kluwer verlaagd van 125 naar 100 euro, maar met herhaling van het koopadvies. Dit bleek uit een rapport van Silvia Cuneo.",
+    "published_at": "2026-02-26 08:50",
+    "scraped_at": "2026-02-26T08:29:59.147470"
+  },
+  {
     "id": "e7616f3f55b0af0328265c091fa0c5da",
     "categorie": "Beursnieuws",
     "titel": "Azerion boekt recordkwartaal",
     "link": "https://www.beurs.nl/Nieuws/854960/Azerion-boekt-recordkwartaal.aspx",
     "intro": "Azerion heeft in het vierde kwartaal van 2025 de hoogste omzet en de hoogste aangepaste EBITDA ooit behaald in zijn platformsegment, hoewel het resultaat voor de hele groep daalde door de verkoop van Whow Games. Dit bleek donderdag uit de jaarcijfers van het Nederlandse platform voor digital advertising en entertainment.",
     "published_at": "2026-02-26 08:18",
-    "scraped_at": "2026-02-26T07:31:11.874740"
+    "scraped_at": "2026-02-26T08:29:59.147470"
   },
   {
     "id": "7eb6c49379fd217109f92947ec191052",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854958/Vlakke-opening-AEX-voorzien-na-cijfers-Nvidia.aspx",
     "intro": "De Amsterdamse beurs gaat donderdag een vlakke opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong fractioneel in het rood. Woensdag eindigde de hoofdgraadmeter nog 1,0 procent hoger op 1.030,06 punten.",
     "published_at": "2026-02-26 08:15",
-    "scraped_at": "2026-02-26T07:31:11.874740"
+    "scraped_at": "2026-02-26T08:29:59.147470"
   },
   {
     "id": "7db9f1e19ebef24ce60987ca527edd1e",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854956/Stijging-jaarwinst-voor-Van-Lanschot-Kempen.aspx",
     "intro": "Van Lanschot Kempen heeft in 2025 meer winst geboekt, terwijl het beheerde vermogen stevig groeide, ondanks een fors lager koersresultaat. Dit bleek donderdag uit de jaarcijfers van de bank.",
     "published_at": "2026-02-26 08:10",
-    "scraped_at": "2026-02-26T07:31:11.874740"
+    "scraped_at": "2026-02-26T08:29:59.147470"
   },
   {
     "id": "6fbbae4c1f35025b2209760996e11e77",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854955/Resultaten-Aalberts-onder-druk.aspx",
     "intro": "Aalberts heeft in 2025 de resultaten onder druk zien staan. Dit maakte het bedrijf donderdagochtend bekend.",
     "published_at": "2026-02-26 07:52",
-    "scraped_at": "2026-02-26T07:31:11.874740"
+    "scraped_at": "2026-02-26T08:29:59.147470"
   },
   {
     "id": "22a187a2eb876545a6d6efbdc5019c7c",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854953/Corbion-voert-winstgevendheid-flink-op.aspx",
     "intro": "Corbion heeft in 2025 een hoger aangepast resultaat geboekt, met daarbij een hogere marge, terwijl de omzet licht daalde. Dit bleek donderdagochtend uit cijfers van de producent van biologische ingrediënten en biochemicaliën.",
     "published_at": "2026-02-26 07:46",
-    "scraped_at": "2026-02-26T07:31:11.874740"
+    "scraped_at": "2026-02-26T08:29:59.147470"
   },
   {
     "id": "aafcc84bf6aa618ba8ed3f105981f8ab",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854950/Resultaten-SBM-Offshore-onder-druk.aspx",
     "intro": "SBM Offshore heeft in 2025 de resultaten onder druk zien staan, maar presteerde op veel vlakken in de prik. Dit bleek donderdag uit cijfers van de oliedienstverlener.",
     "published_at": "2026-02-26 07:35",
-    "scraped_at": "2026-02-26T07:31:11.874740"
+    "scraped_at": "2026-02-26T08:29:59.147470"
   },
   {
     "id": "5eec0fd40d114effa6c7e1ee9fc23560",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854946/Flinke-stijging-huurinkomsten-CTP.aspx",
     "intro": "CTP heeft in het vierde kwartaal van dit jaar de huurinkomsten zien stijgen en dit vertaalde zich in een hogere aangepaste winst. Dit bleek donderdag uit een update van de logistieke vastgoedinvesteerder met een notering in Amsterdam.",
     "published_at": "2026-02-26 07:21",
-    "scraped_at": "2026-02-26T07:31:11.874740"
-  },
-  {
-    "id": "4429d56666fe6cc9da6890c49311de26",
-    "categorie": "Beursnieuws",
-    "titel": "Verdeeld beeld op Aziatische beurzen",
-    "link": "https://www.beurs.nl/Nieuws/854944/Verdeeld-beeld-op-Aziatische-beurzen.aspx",
-    "intro": "De Aziatische beurzen laten donderdag een verdeeld beeld zien, waarbij de Nikkei op dagbasis wel de records wist aan te scherpen tot boven de 59.000 punten.",
-    "published_at": "2026-02-26 07:14",
-    "scraped_at": "2026-02-26T07:31:11.874740"
-  },
-  {
-    "id": "6dfc0e014f2da295a5ac0b1c22232617",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen naar verwachting lager",
-    "link": "https://www.beurs.nl/Nieuws/854939/Europese-beurzen-openen-naar-verwachting-lager.aspx",
-    "intro": "De Europese beurzen gaan donderdag naar verwachting een lichtrode opening tegemoet, terwijl beleggers weer een lawine aan bedrijfscijfers krijgen te verwerken.",
-    "published_at": "2026-02-26 06:42",
-    "scraped_at": "2026-02-26T07:31:11.874740"
-  },
-  {
-    "id": "f9e98cc8d1454ba35fd54dd30f744bec",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/854935/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 5 maart 2026:",
-    "published_at": "2026-02-26 06:36",
-    "scraped_at": "2026-02-26T07:31:11.874740"
+    "scraped_at": "2026-02-26T08:29:59.147470"
   }
 ]
