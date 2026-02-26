@@ -1,12 +1,30 @@
 [
   {
+    "id": "c4fb3e5161efc8ab9722d26a11e66313",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/855122/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten, waaronder Shell en Unilever.",
+    "published_at": "2026-02-26 22:12",
+    "scraped_at": "2026-02-26T21:50:30.435375"
+  },
+  {
+    "id": "befd21ce3e5f006815dfcc30e2bba7ff",
+    "categorie": "Beursnieuws",
+    "titel": "Nvidia overtuigt niet en duwt Wall Street in het rood",
+    "link": "https://www.beurs.nl/Nieuws/855121/Nvidia-overtuigt-niet-en-duwt-Wall-Street-in-het-rood.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag overwegend lager geëindigd, maar sloten wel boven het laagste punt van de dag. Halfgeleideraandelen waren de gebeten hond na de cijfers van Nvidia, die beleggers niet konden overtuigen.",
+    "published_at": "2026-02-26 22:10",
+    "scraped_at": "2026-02-26T21:50:30.435375"
+  },
+  {
     "id": "53bc37781bdd23db1c0950e98bda1b32",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs zakt weg na positieve berichten rond Iran",
     "link": "https://www.beurs.nl/Nieuws/855120/Olieprijs-zakt-weg-na-positieve-berichten-rond-Iran.aspx",
     "intro": "De olieprijs noteerde donderdag een groot deel van de dag hoger, maar zakte richting de settlement weg toen bekend werd dat de Verenigde Staten en Iran volgende week de nucleaire besprekingen op technisch niveau zullen voortzetten in Wenen.",
     "published_at": "2026-02-26 21:16",
-    "scraped_at": "2026-02-26T21:00:16.828237"
+    "scraped_at": "2026-02-26T21:50:30.435375"
   },
   {
     "id": "d6c0e050e9a84bd12cd5488d8eba4cec",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855113/VS-en-Iran-praten-volgende-week-verder-in-Wenen.aspx",
     "intro": "De Verenigde Staten en Iran zullen volgende week de nucleaire besprekingen op technisch niveau voortzetten in Wenen. Dit meldde de Omaanse minister van Buitenlandse Zaken Badr bin Hamad Al Busaidi donderdagavond op X.",
     "published_at": "2026-02-26 20:21",
-    "scraped_at": "2026-02-26T21:00:16.828237"
+    "scraped_at": "2026-02-26T21:50:30.435375"
   },
   {
     "id": "256add34eaab3beed3967a5c9327b5fe",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855107/Tech-onderuit-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag flink lager, waarbij vooral techaandelen de gebeten hond waren na de cijfers van Nvidia, die niet voldoende konden overtuigen.",
     "published_at": "2026-02-26 19:36",
-    "scraped_at": "2026-02-26T21:00:16.828237"
+    "scraped_at": "2026-02-26T21:50:30.435375"
   },
   {
     "id": "c50f0713e3c5b4798c4ef8a28b42606e",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855106/Fagron-neemt-Pharmavit-Europe-over.aspx",
     "intro": "Fagron heeft de \"strategische\" overname afgerond van Pharmavit Europe, een Europese distributeur van nutraceutische grondstoffen. Dit meldde de magistrale bereider donderdagavond.",
     "published_at": "2026-02-26 19:00",
-    "scraped_at": "2026-02-26T21:00:16.828237"
+    "scraped_at": "2026-02-26T21:50:30.435375"
   },
   {
     "id": "f42e0a07a45bca0b9864df8f9b274a98",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855105/Europese-beurzen-sluiten-hoger-maar-Stoxx-600-onder-druk.aspx",
     "intro": "De Europese aandelenmarkten zijn donderdag overwegend hoger geëindigd, met nieuwe records in Parijs en Londen.",
     "published_at": "2026-02-26 18:50",
-    "scraped_at": "2026-02-26T21:00:16.828237"
+    "scraped_at": "2026-02-26T21:50:30.435375"
   },
   {
     "id": "c4044fec2aacbd1c140c867fb3230537",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855085/Chippers-duwen-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is donderdag met verlies gesloten. De ‘chippers’ kregen rake klappen, nadat de resultaten en outlook van Nvidia gewogen en te licht werden bevonden.",
     "published_at": "2026-02-26 17:51",
-    "scraped_at": "2026-02-26T21:00:16.828237"
+    "scraped_at": "2026-02-26T21:50:30.435375"
   },
   {
     "id": "ed3da6f1d6ba7070640cd04bc84abbde",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855070/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 6 maart 2026:",
     "published_at": "2026-02-26 16:31",
-    "scraped_at": "2026-02-26T21:00:16.828237"
+    "scraped_at": "2026-02-26T21:50:30.435375"
   },
   {
     "id": "980707d478f86fb548e3360967a472fd",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855071/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 6 maart 2026:",
     "published_at": "2026-02-26 16:31",
-    "scraped_at": "2026-02-26T21:00:16.828237"
-  },
-  {
-    "id": "cbe92fc1fc1ad86d686898e1dc1eee21",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/855069/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 6 maart 2026:",
-    "published_at": "2026-02-26 16:30",
-    "scraped_at": "2026-02-26T21:00:16.828237"
-  },
-  {
-    "id": "93946f3a0bee4fba27f6042fc7de1c40",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: resultaten Fugro onder druk",
-    "link": "https://www.beurs.nl/Nieuws/855057/Beursblik-resultaten-Fugro-onder-druk.aspx",
-    "intro": "Fugro heeft in 2025 de resultaten onder druk zien staan, wat niet mag verrassen na drie winstwaarschuwingen op rij.",
-    "published_at": "2026-02-26 15:44",
-    "scraped_at": "2026-02-26T21:00:16.828237"
+    "scraped_at": "2026-02-26T21:50:30.435375"
   }
 ]
