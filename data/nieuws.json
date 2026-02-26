@@ -1,12 +1,66 @@
 [
   {
+    "id": "bfde1b30441c5d85e914c8439773143b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: UBS verlaagt koersdoel Wolters Kluwer stevig",
+    "link": "https://www.beurs.nl/Nieuws/854987/Beursblik-UBS-verlaagt-koersdoel-Wolters-Kluwer-stevig.aspx",
+    "intro": "UBS heeft donderdag het koersdoel voor Wolters Kluwer verlaagd van 117 naar 75 euro met een onveranderd Neutraal advies. Dit bleek uit een rapport van analist Jo Barnet-Lamb.",
+    "published_at": "2026-02-26 10:15",
+    "scraped_at": "2026-02-26T09:34:23.885372"
+  },
+  {
+    "id": "df65c4a3821c2434adb99c208dfd9f30",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: SBM sluit 2025 solide af",
+    "link": "https://www.beurs.nl/Nieuws/854985/Beursblik-SBM-sluit-2025-solide-af.aspx",
+    "intro": "SBM Offshore heeft een solide jaar 2025 achter de rug. Dit stelde analist Luuk van Beek van Degroof Petercam donderdag in een rapport, waarin het koersdoel voor de oliedienstverlener van 25,00 naar 32,00 euro ging.",
+    "published_at": "2026-02-26 10:12",
+    "scraped_at": "2026-02-26T09:34:23.885372"
+  },
+  {
+    "id": "fd5bd58bffce5f643d3d03f16be35d74",
+    "categorie": "Beursnieuws",
+    "titel": "Update: AMG doet Duitse overname",
+    "link": "https://www.beurs.nl/Nieuws/854511/Update-AMG-doet-Duitse-overname.aspx",
+    "intro": "AMG Critical Materials neemt het Duitse AURA Technologie over voor een totaalbedrag van 10 miljoen euro. Dit maakte het bedrijf bekend.",
+    "published_at": "2026-02-26 09:58",
+    "scraped_at": "2026-02-26T09:34:23.885372"
+  },
+  {
+    "id": "51f90fc4de4cb40146627983f0a60d27",
+    "categorie": "IEXProfs",
+    "titel": "Must read: Nee, AI is juist positief voor softwarebedrijven",
+    "link": "https://www.iexprofs.nl/artikel/854630/Must-read-Nee-AI-is-juist-positief-voor-softwarebedrijven.aspx",
+    "intro": "Plus: Discount aandelen EM veel te groot, goud en zilver bieden amper inflatiebescherming, Nederlandse huishoudens laten veel winst liggen, veilig beleggen in de Safe Seven en meer.",
+    "published_at": "2026-02-26 09:55",
+    "scraped_at": "2026-02-26T09:34:23.885372"
+  },
+  {
+    "id": "ac7ad28b3a930a8c899f86c6dc697e73",
+    "categorie": "Beursnieuws",
+    "titel": "AMG doet Duitse overname",
+    "link": "https://www.beurs.nl/Nieuws/854980/AMG-doet-Duitse-overname.aspx",
+    "intro": "AMG Critical Materials neemt het Duitse AURA Technologie over voor een totaalbedrag van 10 miljoen euro. Dit maakte het bedrijf bekend.",
+    "published_at": "2026-02-26 09:45",
+    "scraped_at": "2026-02-26T09:34:23.885372"
+  },
+  {
+    "id": "29c1aeccd37138437cf94e0edb88b2e3",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: cijfers Aalberts conform verwachting",
+    "link": "https://www.beurs.nl/Nieuws/854978/Beursblik-cijfers-Aalberts-conform-verwachting.aspx",
+    "intro": "Aalberts heeft in 2025 grofweg conform verwachting de resultaten onder druk zien staan. Dit stelde analist David Kerstens van Jefferies donderdag in een rapport.",
+    "published_at": "2026-02-26 09:38",
+    "scraped_at": "2026-02-26T09:34:23.885372"
+  },
+  {
     "id": "c13138448233b1922252759cf90fe3f0",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: jaarcijfers CTP conform verwachting",
     "link": "https://www.beurs.nl/Nieuws/854973/Beursblik-jaarcijfers-CTP-conform-verwachting.aspx",
     "intro": "CTP heeft in 2025 grofweg conform verwachting gepresteerd. Dit oordeelde Wim Lewi van KBC Securities donderdag in een rapport.",
     "published_at": "2026-02-26 09:21",
-    "scraped_at": "2026-02-26T08:29:59.147470"
+    "scraped_at": "2026-02-26T09:34:23.885372"
   },
   {
     "id": "310a96d247d3ec602b30a9d1dff9d563",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854972/AEX-vlak-van-start-gegaan.aspx",
     "intro": "De Amsterdamse beurs is donderdag vlak geopend. Kort na opening van de beurs, koerste de AEX krap een 0,1 procent lager op 1.029,18 punten.",
     "published_at": "2026-02-26 09:09",
-    "scraped_at": "2026-02-26T08:29:59.147470"
+    "scraped_at": "2026-02-26T09:34:23.885372"
   },
   {
     "id": "abfb2ab3a09de17f6ca0c69a7b049bc4",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854967/Deutsche-Bank-verlaagt-koersdoel-Wolters-Kluwer.aspx",
     "intro": "Deutsche Bank heeft donderdag het koersdoel voor Wolters Kluwer verlaagd van 125 naar 100 euro, maar met herhaling van het koopadvies. Dit bleek uit een rapport van Silvia Cuneo.",
     "published_at": "2026-02-26 08:50",
-    "scraped_at": "2026-02-26T08:29:59.147470"
+    "scraped_at": "2026-02-26T09:34:23.885372"
   },
   {
     "id": "e7616f3f55b0af0328265c091fa0c5da",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854960/Azerion-boekt-recordkwartaal.aspx",
     "intro": "Azerion heeft in het vierde kwartaal van 2025 de hoogste omzet en de hoogste aangepaste EBITDA ooit behaald in zijn platformsegment, hoewel het resultaat voor de hele groep daalde door de verkoop van Whow Games. Dit bleek donderdag uit de jaarcijfers van het Nederlandse platform voor digital advertising en entertainment.",
     "published_at": "2026-02-26 08:18",
-    "scraped_at": "2026-02-26T08:29:59.147470"
-  },
-  {
-    "id": "7eb6c49379fd217109f92947ec191052",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke opening AEX voorzien na cijfers Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/854958/Vlakke-opening-AEX-voorzien-na-cijfers-Nvidia.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag een vlakke opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong fractioneel in het rood. Woensdag eindigde de hoofdgraadmeter nog 1,0 procent hoger op 1.030,06 punten.",
-    "published_at": "2026-02-26 08:15",
-    "scraped_at": "2026-02-26T08:29:59.147470"
-  },
-  {
-    "id": "7db9f1e19ebef24ce60987ca527edd1e",
-    "categorie": "Beursnieuws",
-    "titel": "Stijging jaarwinst voor Van Lanschot Kempen",
-    "link": "https://www.beurs.nl/Nieuws/854956/Stijging-jaarwinst-voor-Van-Lanschot-Kempen.aspx",
-    "intro": "Van Lanschot Kempen heeft in 2025 meer winst geboekt, terwijl het beheerde vermogen stevig groeide, ondanks een fors lager koersresultaat. Dit bleek donderdag uit de jaarcijfers van de bank.",
-    "published_at": "2026-02-26 08:10",
-    "scraped_at": "2026-02-26T08:29:59.147470"
-  },
-  {
-    "id": "6fbbae4c1f35025b2209760996e11e77",
-    "categorie": "Beursnieuws",
-    "titel": "Resultaten Aalberts onder druk",
-    "link": "https://www.beurs.nl/Nieuws/854955/Resultaten-Aalberts-onder-druk.aspx",
-    "intro": "Aalberts heeft in 2025 de resultaten onder druk zien staan. Dit maakte het bedrijf donderdagochtend bekend.",
-    "published_at": "2026-02-26 07:52",
-    "scraped_at": "2026-02-26T08:29:59.147470"
-  },
-  {
-    "id": "22a187a2eb876545a6d6efbdc5019c7c",
-    "categorie": "Beursnieuws",
-    "titel": "Corbion voert winstgevendheid flink op",
-    "link": "https://www.beurs.nl/Nieuws/854953/Corbion-voert-winstgevendheid-flink-op.aspx",
-    "intro": "Corbion heeft in 2025 een hoger aangepast resultaat geboekt, met daarbij een hogere marge, terwijl de omzet licht daalde. Dit bleek donderdagochtend uit cijfers van de producent van biologische ingrediënten en biochemicaliën.",
-    "published_at": "2026-02-26 07:46",
-    "scraped_at": "2026-02-26T08:29:59.147470"
-  },
-  {
-    "id": "aafcc84bf6aa618ba8ed3f105981f8ab",
-    "categorie": "Beursnieuws",
-    "titel": "Resultaten SBM Offshore onder druk",
-    "link": "https://www.beurs.nl/Nieuws/854950/Resultaten-SBM-Offshore-onder-druk.aspx",
-    "intro": "SBM Offshore heeft in 2025 de resultaten onder druk zien staan, maar presteerde op veel vlakken in de prik. Dit bleek donderdag uit cijfers van de oliedienstverlener.",
-    "published_at": "2026-02-26 07:35",
-    "scraped_at": "2026-02-26T08:29:59.147470"
-  },
-  {
-    "id": "5eec0fd40d114effa6c7e1ee9fc23560",
-    "categorie": "Beursnieuws",
-    "titel": "Flinke stijging huurinkomsten CTP",
-    "link": "https://www.beurs.nl/Nieuws/854946/Flinke-stijging-huurinkomsten-CTP.aspx",
-    "intro": "CTP heeft in het vierde kwartaal van dit jaar de huurinkomsten zien stijgen en dit vertaalde zich in een hogere aangepaste winst. Dit bleek donderdag uit een update van de logistieke vastgoedinvesteerder met een notering in Amsterdam.",
-    "published_at": "2026-02-26 07:21",
-    "scraped_at": "2026-02-26T08:29:59.147470"
+    "scraped_at": "2026-02-26T09:34:23.885372"
   }
 ]
