@@ -1,12 +1,30 @@
 [
   {
-    "id": "776c647f327d6f59147fa2f90ac1e2cc",
+    "id": "15fdc6ffe041674ff58817753c7fc059",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: flinke uitslagen na cijfers in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/854996/Beursupdate-flinke-uitslagen-na-cijfers-in-vlakke-AEX.aspx",
+    "titel": "Beursblik: Kepler halveert koersdoel Wolters Kluwer",
+    "link": "https://www.beurs.nl/Nieuws/855022/Beursblik-Kepler-halveert-koersdoel-Wolters-Kluwer.aspx",
+    "intro": "Kepler Cheuvreux heeft donderdag het koersdoel voor Wolters Kluwer verlaagd van 183,00 naar 90,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-02-26 12:14",
+    "scraped_at": "2026-02-26T11:29:17.215687"
+  },
+  {
+    "id": "c30750df55936c471740c24f4707fbcc",
+    "categorie": "Beursnieuws",
+    "titel": "Econocom neemt Franse Back IT over",
+    "link": "https://www.beurs.nl/Nieuws/854998/Econocom-neemt-Franse-Back-IT-over.aspx",
+    "intro": "Econocom Factory, een onderdeel van Econocom Group dat zich richt op het opknappen en circulaire hergebruik van digitale apparatuur, neemt het Franse Back IT over. Dat maakte Econocom donderdag bekend, zonder financiële details te vermelden.",
+    "published_at": "2026-02-26 11:36",
+    "scraped_at": "2026-02-26T11:29:17.215687"
+  },
+  {
+    "id": "7907e358d33c3c0a4b714e78eee35019",
+    "categorie": "Beursnieuws",
+    "titel": "Flinke uitslagen na cijfers in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/854996/Flinke-uitslagen-na-cijfers-in-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs bleef donderdag dicht bij huis, maar op individueel niveau waren er stevige uitschieters na cijfers. Rond de klok van half twaalf steeg de AEX fractioneel tot 1.030,22 punten.",
     "published_at": "2026-02-26 11:24",
-    "scraped_at": "2026-02-26T10:31:33.120453"
+    "scraped_at": "2026-02-26T11:29:17.215687"
   },
   {
     "id": "4657d0bc437988824a33cd6f521a1458",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/854994/Consumentenvertrouwen-eurozone-verbetert-licht.aspx",
     "intro": "Het consumentenvertrouwen in de eurozone is in februari licht verbeterd. Dit bleek donderdagmiddag uit definitieve cijfers van de Europese Commissie.",
     "published_at": "2026-02-26 11:11",
-    "scraped_at": "2026-02-26T10:31:33.120453"
+    "scraped_at": "2026-02-26T11:29:17.215687"
   },
   {
     "id": "65c806623c3c8c3777175e6651fceda1",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/854993/Mondiale-staalproductie-blijft-dalen.aspx",
     "intro": "De mondiale staalproductie is in januari opnieuw gedaald. Dit bleek donderdag uit cijfers van brancheorganisatie World Steel Association.",
     "published_at": "2026-02-26 11:07",
-    "scraped_at": "2026-02-26T10:31:33.120453"
+    "scraped_at": "2026-02-26T11:29:17.215687"
   },
   {
     "id": "16171cd3b74520bc70d7c7cd0e66b373",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/854992/Bersblik-gemengd-beeld-bij-Corbion.aspx",
     "intro": "Corbion heeft gemengde resultaten geboekt in het vierde kwartaal met sterke volumes, maar tegenvallende prijzen. Dit stelde analist Fernand de Boer van Degroof Petercam donderdag in een analistenrapport.",
     "published_at": "2026-02-26 11:01",
-    "scraped_at": "2026-02-26T10:31:33.120453"
+    "scraped_at": "2026-02-26T11:29:17.215687"
   },
   {
     "id": "76132d2799f85f403bae4975ca403d65",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/854990/Beursblik-Degroof-Petercam-verhoogt-koersdoel-Aalberts.aspx",
     "intro": "Degroof Petercam heeft donderdag het koersdoel voor Aalberts verhoogd van 33,00 naar 36,00 euro, maar met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-02-26 10:42",
-    "scraped_at": "2026-02-26T10:31:33.120453"
+    "scraped_at": "2026-02-26T11:29:17.215687"
   },
   {
     "id": "bfde1b30441c5d85e914c8439773143b",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/854987/Beursblik-UBS-verlaagt-koersdoel-Wolters-Kluwer-stevig.aspx",
     "intro": "UBS heeft donderdag het koersdoel voor Wolters Kluwer verlaagd van 117 naar 75 euro met een onveranderd Neutraal advies. Dit bleek uit een rapport van analist Jo Barnet-Lamb.",
     "published_at": "2026-02-26 10:15",
-    "scraped_at": "2026-02-26T10:31:33.120453"
+    "scraped_at": "2026-02-26T11:29:17.215687"
   },
   {
     "id": "df65c4a3821c2434adb99c208dfd9f30",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/854985/Beursblik-SBM-sluit-2025-solide-af.aspx",
     "intro": "SBM Offshore heeft een solide jaar 2025 achter de rug. Dit stelde analist Luuk van Beek van Degroof Petercam donderdag in een rapport, waarin het koersdoel voor de oliedienstverlener van 25,00 naar 32,00 euro ging.",
     "published_at": "2026-02-26 10:12",
-    "scraped_at": "2026-02-26T10:31:33.120453"
+    "scraped_at": "2026-02-26T11:29:17.215687"
   },
   {
     "id": "fd5bd58bffce5f643d3d03f16be35d74",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/854511/Update-AMG-doet-Duitse-overname.aspx",
     "intro": "AMG Critical Materials neemt het Duitse AURA Technologie over voor een totaalbedrag van 10 miljoen euro. Dit maakte het bedrijf bekend.",
     "published_at": "2026-02-26 09:58",
-    "scraped_at": "2026-02-26T10:31:33.120453"
-  },
-  {
-    "id": "51f90fc4de4cb40146627983f0a60d27",
-    "categorie": "IEXProfs",
-    "titel": "Must read: Nee, AI is juist positief voor softwarebedrijven",
-    "link": "https://www.iexprofs.nl/artikel/854630/Must-read-Nee-AI-is-juist-positief-voor-softwarebedrijven.aspx",
-    "intro": "Plus: Discount aandelen EM veel te groot, goud en zilver bieden amper inflatiebescherming, Nederlandse huishoudens laten veel winst liggen, veilig beleggen in de Safe Seven en meer.",
-    "published_at": "2026-02-26 09:55",
-    "scraped_at": "2026-02-26T10:31:33.120453"
-  },
-  {
-    "id": "ac7ad28b3a930a8c899f86c6dc697e73",
-    "categorie": "Beursnieuws",
-    "titel": "AMG doet Duitse overname",
-    "link": "https://www.beurs.nl/Nieuws/854980/AMG-doet-Duitse-overname.aspx",
-    "intro": "AMG Critical Materials neemt het Duitse AURA Technologie over voor een totaalbedrag van 10 miljoen euro. Dit maakte het bedrijf bekend.",
-    "published_at": "2026-02-26 09:45",
-    "scraped_at": "2026-02-26T10:31:33.120453"
+    "scraped_at": "2026-02-26T11:29:17.215687"
   }
 ]
