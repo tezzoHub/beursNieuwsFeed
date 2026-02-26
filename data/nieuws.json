@@ -1,12 +1,48 @@
 [
   {
+    "id": "ed3da6f1d6ba7070640cd04bc84abbde",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/855070/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 6 maart 2026:",
+    "published_at": "2026-02-26 16:31",
+    "scraped_at": "2026-02-26T16:01:25.903231"
+  },
+  {
+    "id": "980707d478f86fb548e3360967a472fd",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/855071/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 6 maart 2026:",
+    "published_at": "2026-02-26 16:31",
+    "scraped_at": "2026-02-26T16:01:25.903231"
+  },
+  {
+    "id": "cbe92fc1fc1ad86d686898e1dc1eee21",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/855069/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 6 maart 2026:",
+    "published_at": "2026-02-26 16:30",
+    "scraped_at": "2026-02-26T16:01:25.903231"
+  },
+  {
     "id": "93946f3a0bee4fba27f6042fc7de1c40",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: resultaten Fugro onder druk",
     "link": "https://www.beurs.nl/Nieuws/855057/Beursblik-resultaten-Fugro-onder-druk.aspx",
     "intro": "Fugro heeft in 2025 de resultaten onder druk zien staan, wat niet mag verrassen na drie winstwaarschuwingen op rij.",
     "published_at": "2026-02-26 15:44",
-    "scraped_at": "2026-02-26T14:58:27.300350"
+    "scraped_at": "2026-02-26T16:01:25.903231"
+  },
+  {
+    "id": "dcbf5c2a43a209163ae7249721a3556b",
+    "categorie": "Beursnieuws",
+    "titel": "Vlakke opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/855055/Vlakke-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een vlakke tot licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden kort voor opening tot 0,1 procent in het groen. Ook de Nasdaq lijkt bij aanvang van de handel 0,1 procent te stijgen.",
+    "published_at": "2026-02-26 15:27",
+    "scraped_at": "2026-02-26T16:01:25.903231"
   },
   {
     "id": "e493f578b1412d13d52f259ac1457316",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855049/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-02-26 14:37",
-    "scraped_at": "2026-02-26T14:58:27.300350"
+    "scraped_at": "2026-02-26T16:01:25.903231"
   },
   {
     "id": "c95077c3e1930461e5d805b0b41a042c",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855045/CEO-Nvidia-AI-zal-software-niet-vervangen.aspx",
     "intro": "CEO Jensen Huang van Nvidia stelt dat beleggers de impact van AI overschatten. Dit zei hij in gesprek met de Amerikaanse zakenzender CNBC, na de verkoopgolf van softwareaandelen.",
     "published_at": "2026-02-26 14:18",
-    "scraped_at": "2026-02-26T14:58:27.300350"
+    "scraped_at": "2026-02-26T16:01:25.903231"
   },
   {
     "id": "775037ccfa116ff7acd5d9734a1dcce1",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855041/Warner-Bros-Discovery-halveert-verlies.aspx",
     "intro": "Warner Bros Discovery heeft in het vierde kwartaal minder omzet geboekt bij alle divisies, wat resulteerden in een fors lager aangepast EBITDA-resultaat. Desondanks halveerde het nettoverlies. Dit bleek donderdag uit de resultaten van het Amerikaanse entertainmentbedrijf.",
     "published_at": "2026-02-26 13:46",
-    "scraped_at": "2026-02-26T14:58:27.300350"
+    "scraped_at": "2026-02-26T16:01:25.903231"
   },
   {
     "id": "4c8f29cb85d12e39861c287ee52409b7",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855038/Reuters-Technip-ziet-weinig-vraag-naar-drijvende-windturbines.aspx",
     "intro": "Technip Energies ziet veel minder vraag naar drijvende windturbines dan drie tot vijf jaar geleden was voorzien. Dat meldde persbureau Reuters donderdag.",
     "published_at": "2026-02-26 13:37",
-    "scraped_at": "2026-02-26T14:58:27.300350"
+    "scraped_at": "2026-02-26T16:01:25.903231"
   },
   {
     "id": "35edbf72fa1f21710b3ac5189c5c1e2b",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855035/Resultaten-Baidu-onder-druk.aspx",
     "intro": "Baidu heeft in het vierde kwartaal minder omzet geboekt en de winst zo fors zien dalen. Dit maakte de Chinese zoekmachine donderdag bekend.",
     "published_at": "2026-02-26 13:19",
-    "scraped_at": "2026-02-26T14:58:27.300350"
-  },
-  {
-    "id": "fbd7b531099f4a99c27a68deda21a399",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht vlakke opening",
-    "link": "https://www.beurs.nl/Nieuws/855026/Wall-Street-wacht-vlakke-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een vlakke tot licht lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,1 procent in het rood. Ook de Nasdaq lijkt bij aanvang van de handel 0,1 procent in te leveren.",
-    "published_at": "2026-02-26 12:59",
-    "scraped_at": "2026-02-26T14:58:27.300350"
-  },
-  {
-    "id": "7a8cbb49b0eceef0649c668f256877e7",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Kepler verlaagt koersdoel Brunel",
-    "link": "https://www.beurs.nl/Nieuws/855025/Beursblik-Kepler-verlaagt-koersdoel-Brunel.aspx",
-    "intro": "Kepler Cheuvreux heeft donderdag het koersdoel voor Brunel verlaagd van 12,00 naar 9,80 euro, maar handhaafde het koopadvies. Dit bleek uit een analistenrapport van Kepler.",
-    "published_at": "2026-02-26 12:41",
-    "scraped_at": "2026-02-26T14:58:27.300350"
-  },
-  {
-    "id": "86ad4427c11f56335f67256d4adc8deb",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verhoogt koersdoel AMG",
-    "link": "https://www.beurs.nl/Nieuws/855024/Degroof-Petercam-verhoogt-koersdoel-AMG.aspx",
-    "intro": "Degroof Petercam heeft het koersdoel voor AMG verhoogd van 29,00 naar 38,00 euro, en handhaafde het Houden advies, na de resultaten over het vierde kwartaal. Dat bleek donderdag uit een analistenrapport.",
-    "published_at": "2026-02-26 12:31",
-    "scraped_at": "2026-02-26T14:58:27.300350"
-  },
-  {
-    "id": "258265c4fb0fa51aaf0d81fca1c95300",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen vinden weg omhoog",
-    "link": "https://www.beurs.nl/Nieuws/855023/Europese-beurzen-vinden-weg-omhoog.aspx",
-    "intro": "De Europese beurzen noteerden donderdag rond het middaguur overwegend hoger.",
-    "published_at": "2026-02-26 12:25",
-    "scraped_at": "2026-02-26T14:58:27.300350"
+    "scraped_at": "2026-02-26T16:01:25.903231"
   }
 ]
