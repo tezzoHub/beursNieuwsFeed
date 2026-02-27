@@ -1,12 +1,48 @@
 [
   {
+    "id": "9c7cfc74253c35850b1b99f67fea1d6b",
+    "categorie": "Beursnieuws",
+    "titel": "Morefield boekt meer omzet",
+    "link": "https://www.beurs.nl/Nieuws/855183/Morefield-boekt-meer-omzet.aspx",
+    "intro": "Morefield Group heeft in 2025 de omzet flink zien stijgen. Dit bleek vrijdag uit voorlopige cijfers van het bedrijf.",
+    "published_at": "2026-02-27 08:55",
+    "scraped_at": "2026-02-27T07:59:53.742265"
+  },
+  {
+    "id": "048b992c3cb9ad65e0446b5d380e7a59",
+    "categorie": "Beursnieuws",
+    "titel": "Netflix trekt zich terug uit biedingsstrijd om Warner",
+    "link": "https://www.beurs.nl/Nieuws/855180/Netflix-trekt-zich-terug-uit-biedingsstrijd-om-Warner.aspx",
+    "intro": "Netflix heeft zich teruggetrokken in de biedingsstrijd om Warner Bros. Discovery, waarmee Paramount Skydance vrij baan heeft om het bedrijf over te nemen. Dit werd vannacht bekendgemaakt.",
+    "published_at": "2026-02-27 08:38",
+    "scraped_at": "2026-02-27T07:59:53.742265"
+  },
+  {
+    "id": "2be9e221e7c10f340fe616c9d92aecd6",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent licht hoger en hoe gaan beleggers cijfers Fugro en vertrek CFO recenseren?",
+    "link": "https://www.beurs.nl/Artikel/855150/AEX-opent-licht-hoger-en-hoe-gaan-beleggers-cijfers-Fugro-en-vertrek-CFO-recenseren.aspx",
+    "intro": "Openingsindicatie: +0,3%. Fugro meldt fors lagere cijfers en CFO stapt op. Kendrion trekt dividend fors op. En de winnaar van de strijd om Warner Bros is... niet Netflix.",
+    "published_at": "2026-02-27 08:30",
+    "scraped_at": "2026-02-27T07:59:53.742265"
+  },
+  {
+    "id": "6296779dce3a92c6fd4589d3e04983b8",
+    "categorie": "Beursnieuws",
+    "titel": "Licht hogere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/855174/Licht-hogere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat vrijdag een licht hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,2 procent in het groen. Donderdag eindigde de hoofdgraadmeter nog 0,7 procent lager op 1.022,40 punten.",
+    "published_at": "2026-02-27 08:15",
+    "scraped_at": "2026-02-27T07:59:53.742265"
+  },
+  {
     "id": "236ffed345cdea0210a166f51af85972",
     "categorie": "Beursnieuws",
     "titel": "CFO Fugro stapt op",
     "link": "https://www.beurs.nl/Nieuws/855166/CFO-Fugro-stapt-op.aspx",
     "intro": "CFO Barbara Geelen van Fugro stapt per 23 april op. Dit maakte de bodemonderzoeker vrijdag bekend.",
     "published_at": "2026-02-27 07:53",
-    "scraped_at": "2026-02-27T07:16:03.242206"
+    "scraped_at": "2026-02-27T07:59:53.742265"
   },
   {
     "id": "9e9b2f0b9f6a6d8380cb0a479c311446",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855167/Kendrionhaalt-margedoel-en-verhoogt-dividend.aspx",
     "intro": "Kendrion heeft in 2025 de margeverwachting een jaar eerder dan gepland gehaald. Dit bleek vrijdag voorbeurs uit de cijfers van de specialist in elektromagneten.",
     "published_at": "2026-02-27 07:53",
-    "scraped_at": "2026-02-27T07:16:03.242206"
+    "scraped_at": "2026-02-27T07:59:53.742265"
   },
   {
     "id": "4071b687f26d021e4091817a45b877b2",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855163/Aziatische-beurzen-in-het-groen.aspx",
     "intro": "De Aziatische beurzen lieten vrijdag per saldo bescheiden winsten zien.",
     "published_at": "2026-02-27 07:34",
-    "scraped_at": "2026-02-27T07:16:03.242206"
+    "scraped_at": "2026-02-27T07:59:53.742265"
   },
   {
     "id": "d97dd98bb4243a12278a7d3e05c9fdb3",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855160/Resultaten-Fugro-flink-onder-druk.aspx",
     "intro": "Fugro heeft in het vierde kwartaal de resultaten flink onder druk zien staan. Dit bleek vrijdag uit jaarresultaten van de bodemonderzoeker.",
     "published_at": "2026-02-27 07:21",
-    "scraped_at": "2026-02-27T07:16:03.242206"
+    "scraped_at": "2026-02-27T07:59:53.742265"
   },
   {
     "id": "7eeb5a8ceeca34a648e3d08806b1c199",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855156/Europese-beurzen-openen-licht-hoger.aspx",
     "intro": "De Europese beurzen gaan vrijdag een voorzichtig hogere opening tegemoet.",
     "published_at": "2026-02-27 07:00",
-    "scraped_at": "2026-02-27T07:16:03.242206"
+    "scraped_at": "2026-02-27T07:59:53.742265"
   },
   {
     "id": "78ece69a656a01423f00507ca6e30a2f",
@@ -51,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855152/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 6 maart 2026:",
     "published_at": "2026-02-27 06:56",
-    "scraped_at": "2026-02-27T07:16:03.242206"
-  },
-  {
-    "id": "43c8faa825c4aabc06090659d11ef2b3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/855153/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 6 maart 2026:",
-    "published_at": "2026-02-27 06:56",
-    "scraped_at": "2026-02-27T07:16:03.242206"
-  },
-  {
-    "id": "77a503755913857ceb5d82c0b2a9d1a3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/855154/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 6 maart 2026:",
-    "published_at": "2026-02-27 06:56",
-    "scraped_at": "2026-02-27T07:16:03.242206"
+    "scraped_at": "2026-02-27T07:59:53.742265"
   }
 ]
