@@ -1,12 +1,57 @@
 [
   {
+    "id": "76b84554dd157ff67a9b3ffb02ef66d4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/855251/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 9 maart 2026:",
+    "published_at": "2026-02-27 16:33",
+    "scraped_at": "2026-02-27T15:55:28.466175"
+  },
+  {
+    "id": "228ba4d0c424b3af087b03eb023add99",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/855252/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 9 maart 2026:",
+    "published_at": "2026-02-27 16:33",
+    "scraped_at": "2026-02-27T15:55:28.466175"
+  },
+  {
     "id": "fe9d9dbf7457a3f94a2609c2d3f8b3c3",
     "categorie": "Beursnieuws",
     "titel": "'OpenAI haalt ruim $100 miljard op'",
     "link": "https://www.beurs.nl/Nieuws/855241/OpenAI-haalt-ruim-100-miljard-op.aspx",
     "intro": "OpenAI heeft een financieringsronde van 110 miljard dollar afgerond, meer dan het dubbele van de vorige ronde een jaar geleden, dat toen nog een record was. Dit meldde de Amerikaanse zakenzender CNBC vrijdagmiddag.",
-    "published_at": "2026-02-27 15:10",
-    "scraped_at": "2026-02-27T15:02:40.903888"
+    "published_at": "2026-02-27 16:10",
+    "scraped_at": "2026-02-27T15:55:28.466175"
+  },
+  {
+    "id": "a3d540a5e42100c6fbf6cb29973b8f38",
+    "categorie": "Beursnieuws",
+    "titel": "Iets meer omzet voor Ctac",
+    "link": "https://www.beurs.nl/Nieuws/855245/Iets-meer-omzet-voor-Ctac.aspx",
+    "intro": "Ctac heeft in 2025 iets meer omzet behaald, maar wist dit niet te vertalen naar een hoger nettoresultaat. Dit bleek vrijdag uit de cijfers van het IT-bedrijf uit 's-Hertogenbosch.",
+    "published_at": "2026-02-27 16:08",
+    "scraped_at": "2026-02-27T15:55:28.466175"
+  },
+  {
+    "id": "52d2e70e6d4d47d43c6e22a44a856feb",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse bouwuitgaven stijgen harder dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/855244/Amerikaanse-bouwuitgaven-stijgen-harder-dan-verwacht.aspx",
+    "intro": "De bouwuitgaven in de Verenigde Staten zijn in december iets harder gestegen dan verwacht. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-02-27 16:05",
+    "scraped_at": "2026-02-27T15:55:28.466175"
+  },
+  {
+    "id": "4d24feeb02ddaeadefd58c581d793bcc",
+    "categorie": "Beursnieuws",
+    "titel": "Activiteit rond Chicago laat sterkere groei zien",
+    "link": "https://www.beurs.nl/Nieuws/855243/Activiteit-rond-Chicago-laat-sterkere-groei-zien.aspx",
+    "intro": "De economische activiteit in de industrie rond Chicago is in februari sterker toegenomen dan in januari. Dit meldde het Institute for Supply Management vrijdag.",
+    "published_at": "2026-02-27 16:00",
+    "scraped_at": "2026-02-27T15:55:28.466175"
   },
   {
     "id": "c28b61db2194ebb4d467e64d519a9502",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855239/Wall-Street-koerst-af-op-rode-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, nadat de SP 500 donderdag lager eindigde door onder meer de flinke koersval van Nvidia.",
     "published_at": "2026-02-27 14:58",
-    "scraped_at": "2026-02-27T15:02:40.903888"
+    "scraped_at": "2026-02-27T15:55:28.466175"
   },
   {
     "id": "007e390fdbf896621249ffc8c37121a6",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855237/Amerikaanse-producentenprijzen-iets-sterker-gestegen.aspx",
     "intro": "De producentenprijzen in de Verenigde Staten zijn in januari iets harder gestegen dan in december. Dit meldde het Amerikaanse ministerie van Arbeid vrijdag.",
     "published_at": "2026-02-27 14:41",
-    "scraped_at": "2026-02-27T15:02:40.903888"
+    "scraped_at": "2026-02-27T15:55:28.466175"
   },
   {
     "id": "d223499550504d47df30c5d941ad2fa4",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855234/Belgische-toezichthouder-stelt-onderzoek-naar-Google-in.aspx",
     "intro": "De Belgische Mededingingsautoriteit BMA opent een formeel onderzoek naar Google vanwege mogelijke schending van de mededingingsregels in de markt voor online advertenties. Dit werd vrijdag bekendgemaakt.",
     "published_at": "2026-02-27 14:25",
-    "scraped_at": "2026-02-27T15:02:40.903888"
+    "scraped_at": "2026-02-27T15:55:28.466175"
   },
   {
     "id": "d4cbc5843fa6a2990b064279e00c39aa",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855231/Duitse-inflatie-gedaald.aspx",
     "intro": "De Duitse inflatie is in februari gedaald. Dit bleek vrijdag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-02-27 14:09",
-    "scraped_at": "2026-02-27T15:02:40.903888"
-  },
-  {
-    "id": "6502054108fa57a001274d659eb258f2",
-    "categorie": "Beursnieuws",
-    "titel": "Exclusief: nog te vroeg voor verhoging doelstellingen Kendrion",
-    "link": "https://www.beurs.nl/Nieuws/855230/Exclusief-nog-te-vroeg-voor-verhoging-doelstellingenKendrion.aspx",
-    "intro": "Kendrion heeft een \"cruciaal\" jaar achter de rug, maar dat was nog geen reden om de verwachtingen voor de komende jaren naar boven bij te stellen. Dit bleek vrijdag uit een gesprek van ABM Financial News met de onderneming.",
-    "published_at": "2026-02-27 14:07",
-    "scraped_at": "2026-02-27T15:02:40.903888"
-  },
-  {
-    "id": "8bf6a2bd2c7211e0019927ab86bc25ad",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/855226/Futures-Wall-Street-signaleren-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, nadat de SP 500 donderdag lager eindigde door onder meer een flinke koersval van Nvidia. Vrijdag is de laatste handelsdag van februari, een turbulente maand waarin technologieaandelen flink werden opgeschud door de angst voor de ontwrichting door AI.",
-    "published_at": "2026-02-27 13:19",
-    "scraped_at": "2026-02-27T15:02:40.903888"
-  },
-  {
-    "id": "13293ea70977a5baa4c5a2e4e5eb8bab",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen doen het kalm aan",
-    "link": "https://www.beurs.nl/Nieuws/855223/Europese-beurzen-doen-het-kalm-aan.aspx",
-    "intro": "De Europese beurzen bleven vrijdag rond lunchtijd dicht bij huis.",
-    "published_at": "2026-02-27 12:56",
-    "scraped_at": "2026-02-27T15:02:40.903888"
-  },
-  {
-    "id": "2748ba65338d3e728ed1cf2750454be8",
-    "categorie": "Beursnieuws",
-    "titel": "BASF komt met teleurstellende outlook",
-    "link": "https://www.beurs.nl/Nieuws/855220/BASF-komt-met-teleurstellende-outlook.aspx",
-    "intro": "BASF heeft een teleurstellend outlook afgegeven. Dit stelden analisten van UBS vrijdag, die spraken van een \"zwakke jaarstart\".",
-    "published_at": "2026-02-27 12:45",
-    "scraped_at": "2026-02-27T15:02:40.903888"
-  },
-  {
-    "id": "41c689fef829c1280ddfe2f678b48df2",
-    "categorie": "Beursnieuws",
-    "titel": "Koersval Fugro maar Kendrion beloond op lichtgroen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/855206/Koersval-Fugro-maar-Kendrion-beloond-op-lichtgroen-Damrak.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdagochtend licht hoger. Rond de klok van elf uur won de AEX 0,3 procent op 1.025,06 punten.",
-    "published_at": "2026-02-27 11:01",
-    "scraped_at": "2026-02-27T15:02:40.903888"
+    "scraped_at": "2026-02-27T15:55:28.466175"
   }
 ]
