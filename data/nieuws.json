@@ -1,12 +1,21 @@
 [
   {
+    "id": "fe9d9dbf7457a3f94a2609c2d3f8b3c3",
+    "categorie": "Beursnieuws",
+    "titel": "'OpenAI haalt ruim $100 miljard op'",
+    "link": "https://www.beurs.nl/Nieuws/855241/OpenAI-haalt-ruim-100-miljard-op.aspx",
+    "intro": "OpenAI heeft een financieringsronde van 110 miljard dollar afgerond, meer dan het dubbele van de vorige ronde een jaar geleden, dat toen nog een record was. Dit meldde de Amerikaanse zakenzender CNBC vrijdagmiddag.",
+    "published_at": "2026-02-27 15:10",
+    "scraped_at": "2026-02-27T15:02:40.903888"
+  },
+  {
     "id": "c28b61db2194ebb4d467e64d519a9502",
     "categorie": "Beursnieuws",
     "titel": "Wall Street koerst af op rode opening",
     "link": "https://www.beurs.nl/Nieuws/855239/Wall-Street-koerst-af-op-rode-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, nadat de SP 500 donderdag lager eindigde door onder meer de flinke koersval van Nvidia.",
     "published_at": "2026-02-27 14:58",
-    "scraped_at": "2026-02-27T14:07:50.492697"
+    "scraped_at": "2026-02-27T15:02:40.903888"
   },
   {
     "id": "007e390fdbf896621249ffc8c37121a6",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/855237/Amerikaanse-producentenprijzen-iets-sterker-gestegen.aspx",
     "intro": "De producentenprijzen in de Verenigde Staten zijn in januari iets harder gestegen dan in december. Dit meldde het Amerikaanse ministerie van Arbeid vrijdag.",
     "published_at": "2026-02-27 14:41",
-    "scraped_at": "2026-02-27T14:07:50.492697"
+    "scraped_at": "2026-02-27T15:02:40.903888"
   },
   {
     "id": "d223499550504d47df30c5d941ad2fa4",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855234/Belgische-toezichthouder-stelt-onderzoek-naar-Google-in.aspx",
     "intro": "De Belgische Mededingingsautoriteit BMA opent een formeel onderzoek naar Google vanwege mogelijke schending van de mededingingsregels in de markt voor online advertenties. Dit werd vrijdag bekendgemaakt.",
     "published_at": "2026-02-27 14:25",
-    "scraped_at": "2026-02-27T14:07:50.492697"
+    "scraped_at": "2026-02-27T15:02:40.903888"
   },
   {
     "id": "d4cbc5843fa6a2990b064279e00c39aa",
@@ -33,7 +42,16 @@
     "link": "https://www.beurs.nl/Nieuws/855231/Duitse-inflatie-gedaald.aspx",
     "intro": "De Duitse inflatie is in februari gedaald. Dit bleek vrijdag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-02-27 14:09",
-    "scraped_at": "2026-02-27T14:07:50.492697"
+    "scraped_at": "2026-02-27T15:02:40.903888"
+  },
+  {
+    "id": "6502054108fa57a001274d659eb258f2",
+    "categorie": "Beursnieuws",
+    "titel": "Exclusief: nog te vroeg voor verhoging doelstellingen Kendrion",
+    "link": "https://www.beurs.nl/Nieuws/855230/Exclusief-nog-te-vroeg-voor-verhoging-doelstellingenKendrion.aspx",
+    "intro": "Kendrion heeft een \"cruciaal\" jaar achter de rug, maar dat was nog geen reden om de verwachtingen voor de komende jaren naar boven bij te stellen. Dit bleek vrijdag uit een gesprek van ABM Financial News met de onderneming.",
+    "published_at": "2026-02-27 14:07",
+    "scraped_at": "2026-02-27T15:02:40.903888"
   },
   {
     "id": "8bf6a2bd2c7211e0019927ab86bc25ad",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855226/Futures-Wall-Street-signaleren-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, nadat de SP 500 donderdag lager eindigde door onder meer een flinke koersval van Nvidia. Vrijdag is de laatste handelsdag van februari, een turbulente maand waarin technologieaandelen flink werden opgeschud door de angst voor de ontwrichting door AI.",
     "published_at": "2026-02-27 13:19",
-    "scraped_at": "2026-02-27T14:07:50.492697"
+    "scraped_at": "2026-02-27T15:02:40.903888"
   },
   {
     "id": "13293ea70977a5baa4c5a2e4e5eb8bab",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855223/Europese-beurzen-doen-het-kalm-aan.aspx",
     "intro": "De Europese beurzen bleven vrijdag rond lunchtijd dicht bij huis.",
     "published_at": "2026-02-27 12:56",
-    "scraped_at": "2026-02-27T14:07:50.492697"
+    "scraped_at": "2026-02-27T15:02:40.903888"
   },
   {
     "id": "2748ba65338d3e728ed1cf2750454be8",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855220/BASF-komt-met-teleurstellende-outlook.aspx",
     "intro": "BASF heeft een teleurstellend outlook afgegeven. Dit stelden analisten van UBS vrijdag, die spraken van een \"zwakke jaarstart\".",
     "published_at": "2026-02-27 12:45",
-    "scraped_at": "2026-02-27T14:07:50.492697"
+    "scraped_at": "2026-02-27T15:02:40.903888"
   },
   {
     "id": "41c689fef829c1280ddfe2f678b48df2",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855206/Koersval-Fugro-maar-Kendrion-beloond-op-lichtgroen-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagochtend licht hoger. Rond de klok van elf uur won de AEX 0,3 procent op 1.025,06 punten.",
     "published_at": "2026-02-27 11:01",
-    "scraped_at": "2026-02-27T14:07:50.492697"
-  },
-  {
-    "id": "4826a0130b945e7014fad9161f9a81a5",
-    "categorie": "IEXProfs",
-    "titel": "Must read: tech is nu goedkoper dan ons dagelijks brood",
-    "link": "https://www.iexprofs.nl/artikel/855056/Must-read-tech-is-nu-goedkoper-dan-ons-dagelijks-brood.aspx",
-    "intro": "Magnificent 7-aandelen zijn nu goedkoper dan aandelen consumptiegoederen. Plus: AI vreet geheugenchips op, de angst van werknemers en Netflix geeft de strijd op.",
-    "published_at": "2026-02-27 10:45",
-    "scraped_at": "2026-02-27T14:07:50.492697"
-  },
-  {
-    "id": "41ced1b4a751c1adef3c228d75c1112c",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt koersdoel Aalberts",
-    "link": "https://www.beurs.nl/Nieuws/855204/Jefferies-verhoogt-koersdoel-Aalberts.aspx",
-    "intro": "Jefferies heeft vrijdag het koersdoel voor Aalberts verhoogd van 42,00 naar 45,00 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist David Kerstens volgend op de jaarcijfers die Aalberts eerder deze week presenteerde.",
-    "published_at": "2026-02-27 10:43",
-    "scraped_at": "2026-02-27T14:07:50.492697"
+    "scraped_at": "2026-02-27T15:02:40.903888"
   }
 ]
