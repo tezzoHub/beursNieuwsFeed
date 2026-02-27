@@ -1,12 +1,30 @@
 [
   {
+    "id": "1fcf521bb5111d816e97f7ef34540bbc",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Berenberg zet beursnieuweling CSG op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/855200/Beursblik-Berenberg-zet-beursnieuweling-CSG-op-de-kooplijst.aspx",
+    "intro": "Berenberg is vrijdag gestart met het volgen van beursnieuweling CSG met een koopadvies en een koersdoel van 35,00 euro. Dit bleek uit een rapport van de zakenbank.",
+    "published_at": "2026-02-27 10:23",
+    "scraped_at": "2026-02-27T09:43:49.440179"
+  },
+  {
+    "id": "39f0d1ee04d9c64601e852a523094090",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel Fugro",
+    "link": "https://www.beurs.nl/Nieuws/855197/Beursblik-Degroof-Petercam-verhoogt-koersdoel-Fugro.aspx",
+    "intro": "Degroof Petercam heeft vrijdag het koersdoel voor Fugro verhoogd van 11,00 naar 14,00 euro maar met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-02-27 10:06",
+    "scraped_at": "2026-02-27T09:43:49.440179"
+  },
+  {
     "id": "9003534245173fe8ab7ce2674dd693e0",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: indrukwekkend vierde kwartaal voor Kendrion",
     "link": "https://www.beurs.nl/Nieuws/855194/Beursblik-indrukwekkend-vierde-kwartaal-voor-Kendrion.aspx",
     "intro": "Kendrion heeft een uitermate sterk vierde kwartaal achter de rug, wat ruimte biedt om het koersdoel te verhogen van 16,50 naar 20,00 euro. Dit bleek vrijdag uit een rapport van analist Frank Claassen van Degroof Petercam, waarin het koopadvies werd herhaald.",
     "published_at": "2026-02-27 09:48",
-    "scraped_at": "2026-02-27T08:55:02.413974"
+    "scraped_at": "2026-02-27T09:43:49.440179"
   },
   {
     "id": "186973d560b7b73e7940995517cda905",
@@ -15,7 +33,16 @@
     "link": "https://www.beurs.nl/Nieuws/855192/Beursblik-zwak-vierde-kwartaal-voor-Fugro.aspx",
     "intro": "Fugro heeft conform verwachting een zwak vierde kwartaal achter de rug. Dit stelde analist Kristof Samoy van KBC Securities donderdag in een rapport.",
     "published_at": "2026-02-27 09:40",
-    "scraped_at": "2026-02-27T08:55:02.413974"
+    "scraped_at": "2026-02-27T09:43:49.440179"
+  },
+  {
+    "id": "433cd0fd6eafd8c549bd1de1574baab4",
+    "categorie": "Beursnieuws",
+    "titel": "Franse inflatie stevig omhoog",
+    "link": "https://www.beurs.nl/Nieuws/855191/Franse-inflatie-stevig-omhoog.aspx",
+    "intro": "De Franse inflatie is in februari weer sterk opgeveerd, na de daling in januari. Dit bleek vrijdag uit voorlopige cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-02-27 09:37",
+    "scraped_at": "2026-02-27T09:43:49.440179"
   },
   {
     "id": "3b623d45da07f570f3465e4b7b2b3ff2",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855190/Berenberg-start-volgen-Magnum-Ice-met-Houden-advies.aspx",
     "intro": "Berenberg is vrijdag gestart met het volgen van The Magnum Ice Company met een Houden advies en een koersdoel van 14,60 euro. Dit bleek uit een rapport van de zakenbank.",
     "published_at": "2026-02-27 09:29",
-    "scraped_at": "2026-02-27T08:55:02.413974"
+    "scraped_at": "2026-02-27T09:43:49.440179"
   },
   {
     "id": "dc11793ddd642e6faa3f96ce7badc1f4",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855186/Fugro-onderuit-in-vlakke-markt.aspx",
     "intro": "De Amsterdamse beurs is vrijdag min of meer vlak geopend. Kort na opening, koerste de AEX fractioneel lager op 1.022,34 punten.",
     "published_at": "2026-02-27 09:10",
-    "scraped_at": "2026-02-27T08:55:02.413974"
+    "scraped_at": "2026-02-27T09:43:49.440179"
   },
   {
     "id": "b05df0db476c5419b774998da33f1e1d",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855185/Opnieuw-grote-Portugese-opdracht-voor-Envipco.aspx",
     "intro": "Envipco heeft een grote opdracht in Portugal binnengesleept. Dit meldde de fabrikant van statiegeldmachines vrijdag voorbeurs.",
     "published_at": "2026-02-27 09:03",
-    "scraped_at": "2026-02-27T08:55:02.413974"
+    "scraped_at": "2026-02-27T09:43:49.440179"
   },
   {
     "id": "9c7cfc74253c35850b1b99f67fea1d6b",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855183/Morefield-boekt-meer-omzet.aspx",
     "intro": "Morefield Group heeft in 2025 de omzet flink zien stijgen. Dit bleek vrijdag uit voorlopige cijfers van het bedrijf.",
     "published_at": "2026-02-27 08:55",
-    "scraped_at": "2026-02-27T08:55:02.413974"
+    "scraped_at": "2026-02-27T09:43:49.440179"
   },
   {
     "id": "048b992c3cb9ad65e0446b5d380e7a59",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855180/Netflix-trekt-zich-terug-uit-biedingsstrijd-om-Warner.aspx",
     "intro": "Netflix heeft zich teruggetrokken in de biedingsstrijd om Warner Bros. Discovery, waarmee Paramount Skydance vrij baan heeft om het bedrijf over te nemen. Dit werd vannacht bekendgemaakt.",
     "published_at": "2026-02-27 08:38",
-    "scraped_at": "2026-02-27T08:55:02.413974"
-  },
-  {
-    "id": "2be9e221e7c10f340fe616c9d92aecd6",
-    "categorie": "Voorbeurs",
-    "titel": "AEX opent licht hoger en hoe gaan beleggers cijfers Fugro en vertrek CFO recenseren?",
-    "link": "https://www.beurs.nl/Artikel/855150/AEX-opent-licht-hoger-en-hoe-gaan-beleggers-cijfers-Fugro-en-vertrek-CFO-recenseren.aspx",
-    "intro": "Openingsindicatie: +0,3%. Fugro meldt fors lagere cijfers en CFO stapt op. Kendrion trekt dividend fors op. En de winnaar van de strijd om Warner Bros is... niet Netflix.",
-    "published_at": "2026-02-27 08:30",
-    "scraped_at": "2026-02-27T08:55:02.413974"
-  },
-  {
-    "id": "6296779dce3a92c6fd4589d3e04983b8",
-    "categorie": "Beursnieuws",
-    "titel": "Licht hogere opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/855174/Licht-hogere-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat vrijdag een licht hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,2 procent in het groen. Donderdag eindigde de hoofdgraadmeter nog 0,7 procent lager op 1.022,40 punten.",
-    "published_at": "2026-02-27 08:15",
-    "scraped_at": "2026-02-27T08:55:02.413974"
-  },
-  {
-    "id": "236ffed345cdea0210a166f51af85972",
-    "categorie": "Beursnieuws",
-    "titel": "CFO Fugro stapt op",
-    "link": "https://www.beurs.nl/Nieuws/855166/CFO-Fugro-stapt-op.aspx",
-    "intro": "CFO Barbara Geelen van Fugro stapt per 23 april op. Dit maakte de bodemonderzoeker vrijdag bekend.",
-    "published_at": "2026-02-27 07:53",
-    "scraped_at": "2026-02-27T08:55:02.413974"
+    "scraped_at": "2026-02-27T09:43:49.440179"
   }
 ]
