@@ -1,12 +1,39 @@
 [
   {
+    "id": "8bf6a2bd2c7211e0019927ab86bc25ad",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street signaleren lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/855226/Futures-Wall-Street-signaleren-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, nadat de SP 500 donderdag lager eindigde door onder meer een flinke koersval van Nvidia. Vrijdag is de laatste handelsdag van februari, een turbulente maand waarin technologieaandelen flink werden opgeschud door de angst voor de ontwrichting door AI.",
+    "published_at": "2026-02-27 13:19",
+    "scraped_at": "2026-02-27T13:03:45.509904"
+  },
+  {
+    "id": "13293ea70977a5baa4c5a2e4e5eb8bab",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen doen het kalm aan",
+    "link": "https://www.beurs.nl/Nieuws/855223/Europese-beurzen-doen-het-kalm-aan.aspx",
+    "intro": "De Europese beurzen bleven vrijdag rond lunchtijd dicht bij huis.",
+    "published_at": "2026-02-27 12:56",
+    "scraped_at": "2026-02-27T13:03:45.509904"
+  },
+  {
+    "id": "2748ba65338d3e728ed1cf2750454be8",
+    "categorie": "Beursnieuws",
+    "titel": "BASF komt met teleurstellende outlook",
+    "link": "https://www.beurs.nl/Nieuws/855220/BASF-komt-met-teleurstellende-outlook.aspx",
+    "intro": "BASF heeft een teleurstellend outlook afgegeven. Dit stelden analisten van UBS vrijdag, die spraken van een \"zwakke jaarstart\".",
+    "published_at": "2026-02-27 12:45",
+    "scraped_at": "2026-02-27T13:03:45.509904"
+  },
+  {
     "id": "41c689fef829c1280ddfe2f678b48df2",
     "categorie": "Beursnieuws",
     "titel": "Koersval Fugro maar Kendrion beloond op lichtgroen Damrak",
     "link": "https://www.beurs.nl/Nieuws/855206/Koersval-Fugro-maar-Kendrion-beloond-op-lichtgroen-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagochtend licht hoger. Rond de klok van elf uur won de AEX 0,3 procent op 1.025,06 punten.",
     "published_at": "2026-02-27 11:01",
-    "scraped_at": "2026-02-27T11:50:11.966084"
+    "scraped_at": "2026-02-27T13:03:45.509904"
   },
   {
     "id": "4826a0130b945e7014fad9161f9a81a5",
@@ -15,7 +42,7 @@
     "link": "https://www.iexprofs.nl/artikel/855056/Must-read-tech-is-nu-goedkoper-dan-ons-dagelijks-brood.aspx",
     "intro": "Magnificent 7-aandelen zijn nu goedkoper dan aandelen consumptiegoederen. Plus: AI vreet geheugenchips op, de angst van werknemers en Netflix geeft de strijd op.",
     "published_at": "2026-02-27 10:45",
-    "scraped_at": "2026-02-27T11:50:11.966084"
+    "scraped_at": "2026-02-27T13:03:45.509904"
   },
   {
     "id": "41ced1b4a751c1adef3c228d75c1112c",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855204/Jefferies-verhoogt-koersdoel-Aalberts.aspx",
     "intro": "Jefferies heeft vrijdag het koersdoel voor Aalberts verhoogd van 42,00 naar 45,00 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist David Kerstens volgend op de jaarcijfers die Aalberts eerder deze week presenteerde.",
     "published_at": "2026-02-27 10:43",
-    "scraped_at": "2026-02-27T11:50:11.966084"
+    "scraped_at": "2026-02-27T13:03:45.509904"
   },
   {
     "id": "bedd703a14bb024cea1bddfa7f2aad2d",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855202/Beperkte-daling-Duitse-werkloosheid.aspx",
     "intro": "Het aantal werklozen in Duitsland is in februari licht gedaald. Dit bleek vrijdag uit overheidscijfers.",
     "published_at": "2026-02-27 10:37",
-    "scraped_at": "2026-02-27T11:50:11.966084"
+    "scraped_at": "2026-02-27T13:03:45.509904"
   },
   {
     "id": "00c49d3ea1ec4fba7231d790079bfb72",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855200/Berenberg-zet-beursnieuweling-CSG-op-de-kooplijst.aspx",
     "intro": "Berenberg is vrijdag gestart met het volgen van beursnieuweling CSG met een koopadvies en een koersdoel van 35,00 euro. Dit bleek uit een rapport van de zakenbank.",
     "published_at": "2026-02-27 10:23",
-    "scraped_at": "2026-02-27T11:50:11.966084"
+    "scraped_at": "2026-02-27T13:03:45.509904"
   },
   {
     "id": "39f0d1ee04d9c64601e852a523094090",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855197/Beursblik-Degroof-Petercam-verhoogt-koersdoel-Fugro.aspx",
     "intro": "Degroof Petercam heeft vrijdag het koersdoel voor Fugro verhoogd van 11,00 naar 14,00 euro maar met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-02-27 10:06",
-    "scraped_at": "2026-02-27T11:50:11.966084"
+    "scraped_at": "2026-02-27T13:03:45.509904"
   },
   {
     "id": "9003534245173fe8ab7ce2674dd693e0",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855194/Beursblik-indrukwekkend-vierde-kwartaal-voor-Kendrion.aspx",
     "intro": "Kendrion heeft een uitermate sterk vierde kwartaal achter de rug, wat ruimte biedt om het koersdoel te verhogen van 16,50 naar 20,00 euro. Dit bleek vrijdag uit een rapport van analist Frank Claassen van Degroof Petercam, waarin het koopadvies werd herhaald.",
     "published_at": "2026-02-27 09:48",
-    "scraped_at": "2026-02-27T11:50:11.966084"
-  },
-  {
-    "id": "186973d560b7b73e7940995517cda905",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: zwak vierde kwartaal voor Fugro",
-    "link": "https://www.beurs.nl/Nieuws/855192/Beursblik-zwak-vierde-kwartaal-voor-Fugro.aspx",
-    "intro": "Fugro heeft conform verwachting een zwak vierde kwartaal achter de rug. Dit stelde analist Kristof Samoy van KBC Securities donderdag in een rapport.",
-    "published_at": "2026-02-27 09:40",
-    "scraped_at": "2026-02-27T11:50:11.966084"
-  },
-  {
-    "id": "433cd0fd6eafd8c549bd1de1574baab4",
-    "categorie": "Beursnieuws",
-    "titel": "Franse inflatie stevig omhoog",
-    "link": "https://www.beurs.nl/Nieuws/855191/Franse-inflatie-stevig-omhoog.aspx",
-    "intro": "De Franse inflatie is in februari weer sterk opgeveerd, na de daling in januari. Dit bleek vrijdag uit voorlopige cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-02-27 09:37",
-    "scraped_at": "2026-02-27T11:50:11.966084"
-  },
-  {
-    "id": "3b623d45da07f570f3465e4b7b2b3ff2",
-    "categorie": "Beursnieuws",
-    "titel": "Berenberg start volgen Magnum Ice met Houden advies",
-    "link": "https://www.beurs.nl/Nieuws/855190/Berenberg-start-volgen-Magnum-Ice-met-Houden-advies.aspx",
-    "intro": "Berenberg is vrijdag gestart met het volgen van The Magnum Ice Company met een Houden advies en een koersdoel van 14,60 euro. Dit bleek uit een rapport van de zakenbank.",
-    "published_at": "2026-02-27 09:29",
-    "scraped_at": "2026-02-27T11:50:11.966084"
+    "scraped_at": "2026-02-27T13:03:45.509904"
   }
 ]
