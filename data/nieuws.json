@@ -1,12 +1,21 @@
 [
   {
+    "id": "a992aea5e7259e897f40e85e04676c44",
+    "categorie": "Beursnieuws",
+    "titel": "Warner en Paramount bevestigen overname",
+    "link": "https://www.beurs.nl/Nieuws/855297/Warner-en-Paramount-bevestigen-overname.aspx",
+    "intro": "Warner Bros. Discovery wordt overgenomen door Paramount Skydance voor 31 dollar per aandeel. Dit bevestigden de twee bedrijven vrijdagavond.",
+    "published_at": "2026-02-27 22:59",
+    "scraped_at": "2026-02-27T22:47:05.293619"
+  },
+  {
     "id": "3d3ce3a9c1ac8ea4f066d5890d86c298",
     "categorie": "Beursnieuws",
     "titel": "Trump doet Anthropic in de ban",
     "link": "https://www.beurs.nl/Nieuws/855296/Trump-doet-Anthropic-in-de-ban.aspx",
     "intro": "De federale overheid in de Verenigde Staten zal niet langer samenwerken met AI-bedrijf Anthropic. Dit meldde president Donald Trump vrijdag op Truth Social.",
     "published_at": "2026-02-27 22:39",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   },
   {
     "id": "5264e5e10f6586906b9f1713b7eb6ea7",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/855295/Beursupdate-AEX-op-Wall-Street.aspx",
     "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
     "published_at": "2026-02-27 22:17",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   },
   {
     "id": "8fdd21a7e9fb30f54201f97efb25a832",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855294/Wall-Street-onderuit-aan-einde-van-zwakke-februarimaand.aspx",
     "intro": "De Amerikaanse beurzen zijn vrijdag lager geëindigd, terwijl de drie indices ook op maandbasis terrein verloren.",
     "published_at": "2026-02-27 22:10",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   },
   {
     "id": "3d7850c5069981dcce2abb3e6b100b45",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855293/Media-Paramount-koopt-Netflix-af-voor-overname-Warner.aspx",
     "intro": "Paramount Skydance heeft vrijdag de zogeheten 'break-up free' van 2,8 miljard dollar betaald aan Netflix om de eerder gesloten fusieovereenkomst tussen de streamingdienst en Warner Bros. Discovery te beëindigen. Dit meldde persbureau Bloomberg op basis van bronnen.",
     "published_at": "2026-02-27 21:17",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   },
   {
     "id": "af52f245dabe66f98797279083f54f11",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855292/Olie-opnieuw-duurder-in-februari.aspx",
     "intro": "De olieprijs is richting het weekend gestegen naar het hoogste niveau sinds begin augustus. Op maandbasis werd WTI 2,8 procent duurder bij een settlement van 67,02 dollar op vrijdag. In januari steeg de olieprijs ook al.",
     "published_at": "2026-02-27 21:07",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   },
   {
     "id": "ad820023b5bf86dc9638a9e8a4c93b85",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855289/Techaandelen-zetten-Wall-Street-opnieuw-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag lager met nog een paar uur handel te gaan. Op maandbasis dreigen ook verliezen voor de drie indices.",
     "published_at": "2026-02-27 19:46",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   },
   {
     "id": "51c42b520faa5b87f9e369bd2691ed11",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855283/Europese-beurzen-verdeeld-aan-einde-van-recordmaand.aspx",
     "intro": "De Europese aandelenmarkten zijn vrijdag verdeeld geëindigd, maar februari was wel een recordmaand voor de beurzen.",
     "published_at": "2026-02-27 18:41",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   },
   {
     "id": "54792e9bb61cfcdc7ad0ba0faab0345c",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855272/AEX-met-winst-het-weekend-in-ondanks-koersdruk-financials.aspx",
     "intro": "De Amsterdamse beurs is vrijdag met een kleine winst geëindigd, ondanks de koersverliezen voor de financials.",
     "published_at": "2026-02-27 17:52",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   },
   {
     "id": "46f2d7ff23b5475a22f6b9475108a95f",
@@ -78,15 +87,6 @@
     "link": "https://www.iex.nl/artikel/855250/Slotcall-AEX-gaat-het-weekend-in-met-een-aangenaam-plusje.aspx",
     "intro": "De AEX bleef vandaag de hele dag rond het slot van donderdag hangen, maar richting het slot perst de AEX er nog een klein eindsprintje uit.",
     "published_at": "2026-02-27 17:35",
-    "scraped_at": "2026-02-27T22:01:27.693762"
-  },
-  {
-    "id": "76b84554dd157ff67a9b3ffb02ef66d4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/855251/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 9 maart 2026:",
-    "published_at": "2026-02-27 16:33",
-    "scraped_at": "2026-02-27T22:01:27.693762"
+    "scraped_at": "2026-02-27T22:47:05.293619"
   }
 ]
