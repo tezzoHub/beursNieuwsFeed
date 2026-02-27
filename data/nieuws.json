@@ -1,12 +1,57 @@
 [
   {
+    "id": "9003534245173fe8ab7ce2674dd693e0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: indrukwekkend vierde kwartaal voor Kendrion",
+    "link": "https://www.beurs.nl/Nieuws/855194/Beursblik-indrukwekkend-vierde-kwartaal-voor-Kendrion.aspx",
+    "intro": "Kendrion heeft een uitermate sterk vierde kwartaal achter de rug, wat ruimte biedt om het koersdoel te verhogen van 16,50 naar 20,00 euro. Dit bleek vrijdag uit een rapport van analist Frank Claassen van Degroof Petercam, waarin het koopadvies werd herhaald.",
+    "published_at": "2026-02-27 09:48",
+    "scraped_at": "2026-02-27T08:55:02.413974"
+  },
+  {
+    "id": "186973d560b7b73e7940995517cda905",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: zwak vierde kwartaal voor Fugro",
+    "link": "https://www.beurs.nl/Nieuws/855192/Beursblik-zwak-vierde-kwartaal-voor-Fugro.aspx",
+    "intro": "Fugro heeft conform verwachting een zwak vierde kwartaal achter de rug. Dit stelde analist Kristof Samoy van KBC Securities donderdag in een rapport.",
+    "published_at": "2026-02-27 09:40",
+    "scraped_at": "2026-02-27T08:55:02.413974"
+  },
+  {
+    "id": "3b623d45da07f570f3465e4b7b2b3ff2",
+    "categorie": "Beursnieuws",
+    "titel": "Berenberg start volgen Magnum Ice met Houden advies",
+    "link": "https://www.beurs.nl/Nieuws/855190/Berenberg-start-volgen-Magnum-Ice-met-Houden-advies.aspx",
+    "intro": "Berenberg is vrijdag gestart met het volgen van The Magnum Ice Company met een Houden advies en een koersdoel van 14,60 euro. Dit bleek uit een rapport van de zakenbank.",
+    "published_at": "2026-02-27 09:29",
+    "scraped_at": "2026-02-27T08:55:02.413974"
+  },
+  {
+    "id": "dc11793ddd642e6faa3f96ce7badc1f4",
+    "categorie": "Beursnieuws",
+    "titel": "Fugro onderuit in vlakke markt",
+    "link": "https://www.beurs.nl/Nieuws/855186/Fugro-onderuit-in-vlakke-markt.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag min of meer vlak geopend. Kort na opening, koerste de AEX fractioneel lager op 1.022,34 punten.",
+    "published_at": "2026-02-27 09:10",
+    "scraped_at": "2026-02-27T08:55:02.413974"
+  },
+  {
+    "id": "b05df0db476c5419b774998da33f1e1d",
+    "categorie": "Beursnieuws",
+    "titel": "Opnieuw grote Portugese opdracht voor Envipco",
+    "link": "https://www.beurs.nl/Nieuws/855185/Opnieuw-grote-Portugese-opdracht-voor-Envipco.aspx",
+    "intro": "Envipco heeft een grote opdracht in Portugal binnengesleept. Dit meldde de fabrikant van statiegeldmachines vrijdag voorbeurs.",
+    "published_at": "2026-02-27 09:03",
+    "scraped_at": "2026-02-27T08:55:02.413974"
+  },
+  {
     "id": "9c7cfc74253c35850b1b99f67fea1d6b",
     "categorie": "Beursnieuws",
     "titel": "Morefield boekt meer omzet",
     "link": "https://www.beurs.nl/Nieuws/855183/Morefield-boekt-meer-omzet.aspx",
     "intro": "Morefield Group heeft in 2025 de omzet flink zien stijgen. Dit bleek vrijdag uit voorlopige cijfers van het bedrijf.",
     "published_at": "2026-02-27 08:55",
-    "scraped_at": "2026-02-27T07:59:53.742265"
+    "scraped_at": "2026-02-27T08:55:02.413974"
   },
   {
     "id": "048b992c3cb9ad65e0446b5d380e7a59",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855180/Netflix-trekt-zich-terug-uit-biedingsstrijd-om-Warner.aspx",
     "intro": "Netflix heeft zich teruggetrokken in de biedingsstrijd om Warner Bros. Discovery, waarmee Paramount Skydance vrij baan heeft om het bedrijf over te nemen. Dit werd vannacht bekendgemaakt.",
     "published_at": "2026-02-27 08:38",
-    "scraped_at": "2026-02-27T07:59:53.742265"
+    "scraped_at": "2026-02-27T08:55:02.413974"
   },
   {
     "id": "2be9e221e7c10f340fe616c9d92aecd6",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Artikel/855150/AEX-opent-licht-hoger-en-hoe-gaan-beleggers-cijfers-Fugro-en-vertrek-CFO-recenseren.aspx",
     "intro": "Openingsindicatie: +0,3%. Fugro meldt fors lagere cijfers en CFO stapt op. Kendrion trekt dividend fors op. En de winnaar van de strijd om Warner Bros is... niet Netflix.",
     "published_at": "2026-02-27 08:30",
-    "scraped_at": "2026-02-27T07:59:53.742265"
+    "scraped_at": "2026-02-27T08:55:02.413974"
   },
   {
     "id": "6296779dce3a92c6fd4589d3e04983b8",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855174/Licht-hogere-opening-AEX-voorzien.aspx",
     "intro": "De Amsterdamse beurs gaat vrijdag een licht hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,2 procent in het groen. Donderdag eindigde de hoofdgraadmeter nog 0,7 procent lager op 1.022,40 punten.",
     "published_at": "2026-02-27 08:15",
-    "scraped_at": "2026-02-27T07:59:53.742265"
+    "scraped_at": "2026-02-27T08:55:02.413974"
   },
   {
     "id": "236ffed345cdea0210a166f51af85972",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855166/CFO-Fugro-stapt-op.aspx",
     "intro": "CFO Barbara Geelen van Fugro stapt per 23 april op. Dit maakte de bodemonderzoeker vrijdag bekend.",
     "published_at": "2026-02-27 07:53",
-    "scraped_at": "2026-02-27T07:59:53.742265"
-  },
-  {
-    "id": "9e9b2f0b9f6a6d8380cb0a479c311446",
-    "categorie": "Beursnieuws",
-    "titel": "Kendrion haalt margedoel en verhoogt dividend",
-    "link": "https://www.beurs.nl/Nieuws/855167/Kendrionhaalt-margedoel-en-verhoogt-dividend.aspx",
-    "intro": "Kendrion heeft in 2025 de margeverwachting een jaar eerder dan gepland gehaald. Dit bleek vrijdag voorbeurs uit de cijfers van de specialist in elektromagneten.",
-    "published_at": "2026-02-27 07:53",
-    "scraped_at": "2026-02-27T07:59:53.742265"
-  },
-  {
-    "id": "4071b687f26d021e4091817a45b877b2",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/855163/Aziatische-beurzen-in-het-groen.aspx",
-    "intro": "De Aziatische beurzen lieten vrijdag per saldo bescheiden winsten zien.",
-    "published_at": "2026-02-27 07:34",
-    "scraped_at": "2026-02-27T07:59:53.742265"
-  },
-  {
-    "id": "d97dd98bb4243a12278a7d3e05c9fdb3",
-    "categorie": "Beursnieuws",
-    "titel": "Resultaten Fugro flink onder druk",
-    "link": "https://www.beurs.nl/Nieuws/855160/Resultaten-Fugro-flink-onder-druk.aspx",
-    "intro": "Fugro heeft in het vierde kwartaal de resultaten flink onder druk zien staan. Dit bleek vrijdag uit jaarresultaten van de bodemonderzoeker.",
-    "published_at": "2026-02-27 07:21",
-    "scraped_at": "2026-02-27T07:59:53.742265"
-  },
-  {
-    "id": "7eeb5a8ceeca34a648e3d08806b1c199",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen licht hoger",
-    "link": "https://www.beurs.nl/Nieuws/855156/Europese-beurzen-openen-licht-hoger.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een voorzichtig hogere opening tegemoet.",
-    "published_at": "2026-02-27 07:00",
-    "scraped_at": "2026-02-27T07:59:53.742265"
-  },
-  {
-    "id": "78ece69a656a01423f00507ca6e30a2f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/855152/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 6 maart 2026:",
-    "published_at": "2026-02-27 06:56",
-    "scraped_at": "2026-02-27T07:59:53.742265"
+    "scraped_at": "2026-02-27T08:55:02.413974"
   }
 ]
