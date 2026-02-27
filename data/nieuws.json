@@ -1,12 +1,39 @@
 [
   {
+    "id": "8fdd21a7e9fb30f54201f97efb25a832",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street onderuit aan einde van zwakke februarimaand",
+    "link": "https://www.beurs.nl/Nieuws/855294/Wall-Street-onderuit-aan-einde-van-zwakke-februarimaand.aspx",
+    "intro": "De Amerikaanse beurzen zijn vrijdag lager geëindigd, terwijl de drie indices ook op maandbasis terrein verloren.",
+    "published_at": "2026-02-27 22:10",
+    "scraped_at": "2026-02-27T21:15:44.524030"
+  },
+  {
+    "id": "3d7850c5069981dcce2abb3e6b100b45",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Paramount koopt Netflix af voor overname Warner",
+    "link": "https://www.beurs.nl/Nieuws/855293/Media-Paramount-koopt-Netflix-af-voor-overname-Warner.aspx",
+    "intro": "Paramount Skydance heeft vrijdag de zogeheten 'break-up free' van 2,8 miljard dollar betaald aan Netflix om de eerder gesloten fusieovereenkomst tussen de streamingdienst en Warner Bros. Discovery te beëindigen. Dit meldde persbureau Bloomberg op basis van bronnen.",
+    "published_at": "2026-02-27 21:17",
+    "scraped_at": "2026-02-27T21:15:44.524030"
+  },
+  {
+    "id": "af52f245dabe66f98797279083f54f11",
+    "categorie": "Beursnieuws",
+    "titel": "Olie opnieuw duurder in februari",
+    "link": "https://www.beurs.nl/Nieuws/855292/Olie-opnieuw-duurder-in-februari.aspx",
+    "intro": "De olieprijs is richting het weekend gestegen naar het hoogste niveau sinds begin augustus. Op maandbasis werd WTI 2,8 procent duurder bij een settlement van 67,02 dollar op vrijdag. In januari steeg de olieprijs ook al.",
+    "published_at": "2026-02-27 21:07",
+    "scraped_at": "2026-02-27T21:15:44.524030"
+  },
+  {
     "id": "ad820023b5bf86dc9638a9e8a4c93b85",
     "categorie": "Beursnieuws",
     "titel": "Techaandelen zetten Wall Street opnieuw lager",
     "link": "https://www.beurs.nl/Nieuws/855289/Techaandelen-zetten-Wall-Street-opnieuw-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag lager met nog een paar uur handel te gaan. Op maandbasis dreigen ook verliezen voor de drie indices.",
     "published_at": "2026-02-27 19:46",
-    "scraped_at": "2026-02-27T20:49:07.585196"
+    "scraped_at": "2026-02-27T21:15:44.524030"
   },
   {
     "id": "51c42b520faa5b87f9e369bd2691ed11",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855283/Europese-beurzen-verdeeld-aan-einde-van-recordmaand.aspx",
     "intro": "De Europese aandelenmarkten zijn vrijdag verdeeld geëindigd, maar februari was wel een recordmaand voor de beurzen.",
     "published_at": "2026-02-27 18:41",
-    "scraped_at": "2026-02-27T20:49:07.585196"
+    "scraped_at": "2026-02-27T21:15:44.524030"
   },
   {
     "id": "54792e9bb61cfcdc7ad0ba0faab0345c",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855272/AEX-met-winst-het-weekend-in-ondanks-koersdruk-financials.aspx",
     "intro": "De Amsterdamse beurs is vrijdag met een kleine winst geëindigd, ondanks de koersverliezen voor de financials.",
     "published_at": "2026-02-27 17:52",
-    "scraped_at": "2026-02-27T20:49:07.585196"
+    "scraped_at": "2026-02-27T21:15:44.524030"
   },
   {
     "id": "46f2d7ff23b5475a22f6b9475108a95f",
@@ -33,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/855250/Slotcall-AEX-gaat-het-weekend-in-met-een-aangenaam-plusje.aspx",
     "intro": "De AEX bleef vandaag de hele dag rond het slot van donderdag hangen, maar richting het slot perst de AEX er nog een klein eindsprintje uit.",
     "published_at": "2026-02-27 17:35",
-    "scraped_at": "2026-02-27T20:49:07.585196"
+    "scraped_at": "2026-02-27T21:15:44.524030"
   },
   {
     "id": "76b84554dd157ff67a9b3ffb02ef66d4",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855251/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 9 maart 2026:",
     "published_at": "2026-02-27 16:33",
-    "scraped_at": "2026-02-27T20:49:07.585196"
+    "scraped_at": "2026-02-27T21:15:44.524030"
   },
   {
     "id": "228ba4d0c424b3af087b03eb023add99",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855252/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 9 maart 2026:",
     "published_at": "2026-02-27 16:33",
-    "scraped_at": "2026-02-27T20:49:07.585196"
+    "scraped_at": "2026-02-27T21:15:44.524030"
   },
   {
     "id": "8c5047276e87f567393ffe9a659238e6",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855248/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 9 maart 2026:",
     "published_at": "2026-02-27 16:32",
-    "scraped_at": "2026-02-27T20:49:07.585196"
-  },
-  {
-    "id": "fe9d9dbf7457a3f94a2609c2d3f8b3c3",
-    "categorie": "Beursnieuws",
-    "titel": "'OpenAI haalt ruim $100 miljard op'",
-    "link": "https://www.beurs.nl/Nieuws/855241/OpenAI-haalt-ruim-100-miljard-op.aspx",
-    "intro": "OpenAI heeft een financieringsronde van 110 miljard dollar afgerond, meer dan het dubbele van de vorige ronde een jaar geleden, dat toen nog een record was. Dit meldde de Amerikaanse zakenzender CNBC vrijdagmiddag.",
-    "published_at": "2026-02-27 16:10",
-    "scraped_at": "2026-02-27T20:49:07.585196"
-  },
-  {
-    "id": "a3d540a5e42100c6fbf6cb29973b8f38",
-    "categorie": "Beursnieuws",
-    "titel": "Iets meer omzet voor Ctac",
-    "link": "https://www.beurs.nl/Nieuws/855245/Iets-meer-omzet-voor-Ctac.aspx",
-    "intro": "Ctac heeft in 2025 iets meer omzet behaald, maar wist dit niet te vertalen naar een hoger nettoresultaat. Dit bleek vrijdag uit de cijfers van het IT-bedrijf uit 's-Hertogenbosch.",
-    "published_at": "2026-02-27 16:08",
-    "scraped_at": "2026-02-27T20:49:07.585196"
-  },
-  {
-    "id": "52d2e70e6d4d47d43c6e22a44a856feb",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse bouwuitgaven stijgen harder dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/855244/Amerikaanse-bouwuitgaven-stijgen-harder-dan-verwacht.aspx",
-    "intro": "De bouwuitgaven in de Verenigde Staten zijn in december iets harder gestegen dan verwacht. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-02-27 16:05",
-    "scraped_at": "2026-02-27T20:49:07.585196"
+    "scraped_at": "2026-02-27T21:15:44.524030"
   }
 ]
