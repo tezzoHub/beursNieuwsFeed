@@ -1,12 +1,30 @@
 [
   {
+    "id": "148b9a9351004fffc0aec72c65093e5d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/855489/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-03-02 22:26",
+    "scraped_at": "2026-03-02T21:54:17.666847"
+  },
+  {
+    "id": "c08f9409527a1d4537b8346c6f0fe9f0",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street herpakt zich na zwakke opening",
+    "link": "https://www.beurs.nl/Nieuws/855488/Wall-Street-herpakt-zich-na-zwakke-opening.aspx",
+    "intro": "De Amerikaanse aandelenmarkten hebben maandag de stevige openingsverliezen weggewerkt, terwijl beleggers de gevolgen beoordeelden van de Amerikaanse en Israëlische aanvallen op Iran, evenals de daaropvolgende tegenaanvallen.",
+    "published_at": "2026-03-02 22:19",
+    "scraped_at": "2026-03-02T21:54:17.666847"
+  },
+  {
     "id": "ab0d0741072679f1a01914dfb4dbc335",
     "categorie": "Beursnieuws",
     "titel": "Media: Iran sluit Straat van Hormuz",
     "link": "https://www.beurs.nl/Nieuws/855487/Media-Iran-sluit-Straat-van-Hormuz.aspx",
     "intro": "Iran heeft de Straat van Hormuz gesloten voor scheepvaart. De commandant van de Revolutionaire Garde dreigde maandag elk schip dat de straat probeert te passeren in brand te steken. Dit meldde Reuters op basis van berichten in de Iraanse media.",
     "published_at": "2026-03-02 21:21",
-    "scraped_at": "2026-03-02T21:19:18.837472"
+    "scraped_at": "2026-03-02T21:54:17.666847"
   },
   {
     "id": "b0392644e8f88632b367c1868bdde7b7",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855486/Conflict-Midden-Oosten-jaagt-olieprijzen-omhoog.aspx",
     "intro": "De olieprijzen zijn maandag flink hoger gesloten, nadat de gezamenlijke Amerikaans-Israëlische aanvallen op Iran de vrees voor grootschalige verstoringen van de olieaanvoer aanwakkerden.",
     "published_at": "2026-03-02 21:04",
-    "scraped_at": "2026-03-02T21:19:18.837472"
+    "scraped_at": "2026-03-02T21:54:17.666847"
   },
   {
     "id": "fd754f449942bc21ccdd4a1275d2bf95",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855484/Media-Topman-grootste-Amerikaanse-bank-waarschuwt-voor-cyberaanvallen.aspx",
     "intro": "JPMorgan Chase-topman Jamie Dimon verwacht een toename van cyberaanvallen en terroristische aanslagen als gevolg van de Amerikaans-Israëlische aanvallen op Iran. Dit zei Dimon maandag in een interview met CNBC.",
     "published_at": "2026-03-02 20:46",
-    "scraped_at": "2026-03-02T21:19:18.837472"
+    "scraped_at": "2026-03-02T21:54:17.666847"
   },
   {
     "id": "0031b0df8c37c59aecd0c91a6a2138ff",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855480/Wall-Street-herstelt-van-forse-openingsverliezen.aspx",
     "intro": "De Amerikaanse aandelenmarkten zijn maandag met nog een paar uur handel te gaan, sterk hersteld van de eerdere openingsverliezen. Deze verliezen werden veroorzaakt door de escalatie in het Midden-Oosten.",
     "published_at": "2026-03-02 19:43",
-    "scraped_at": "2026-03-02T21:19:18.837472"
+    "scraped_at": "2026-03-02T21:54:17.666847"
   },
   {
     "id": "79fd563eae93ded36e5348db1a6f2772",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855475/Europese-aandelen-flink-lager-gesloten-door-escalatie-Midden-Oosten.aspx",
     "intro": "De Europese aandelenmarkten zijn maandag flink lager gesloten in reactie op de escalatie in het Midden- Oosten en bijbehorende onzekerheden. Goud, olie en bitcoin wisten daarentegen juist te stijgen.",
     "published_at": "2026-03-02 18:50",
-    "scraped_at": "2026-03-02T21:19:18.837472"
+    "scraped_at": "2026-03-02T21:54:17.666847"
   },
   {
     "id": "74ae62bd841b431cbf7f1b9d54fd09c7",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855469/Shell-helpt-AEX-schade-te-beperken.aspx",
     "intro": "De Amsterdamse beurs is maandag lager geëindigd, hoewel de AEX dankzij Shell wel beter de dag doorkwam dan omringende beurzen, waar de verliezen groter waren.",
     "published_at": "2026-03-02 17:51",
-    "scraped_at": "2026-03-02T21:19:18.837472"
+    "scraped_at": "2026-03-02T21:54:17.666847"
   },
   {
     "id": "c2d75bd9f41d54cb6757b2fd064bf055",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855468/Nvidia-investeert-miljarden-in-optische-technologie.aspx",
     "intro": "Nvidia investeert 4 miljard dollar in twee bedrijven die fotonicatechnologie ontwikkelen, om zo zijn onderzoekspijplijn en toeleveringsketen voor AI-infrastructuur te versterken. Dit maakte het Amerikaanse chipbedrijf maandag bekend.",
     "published_at": "2026-03-02 17:43",
-    "scraped_at": "2026-03-02T21:19:18.837472"
+    "scraped_at": "2026-03-02T21:54:17.666847"
   },
   {
     "id": "ea61428fb29c84d5e29b5c4522a6fb28",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855458/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 10 maart 2026:",
     "published_at": "2026-03-02 16:32",
-    "scraped_at": "2026-03-02T21:19:18.837472"
-  },
-  {
-    "id": "8d39e96b8a7cc84c73d3d65c7cafa365",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/855460/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 10 maart 2026:",
-    "published_at": "2026-03-02 16:32",
-    "scraped_at": "2026-03-02T21:19:18.837472"
-  },
-  {
-    "id": "bcd0d75862e73c7b5d749e1821963545",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/855457/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 10 maart 2026:",
-    "published_at": "2026-03-02 16:32",
-    "scraped_at": "2026-03-02T21:19:18.837472"
+    "scraped_at": "2026-03-02T21:54:17.666847"
   }
 ]
