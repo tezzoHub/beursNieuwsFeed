@@ -1,12 +1,21 @@
 [
   {
+    "id": "85c257e59be732bc557683c4713c74d8",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse industrie groeit minder hard",
+    "link": "https://www.beurs.nl/Nieuws/855453/Amerikaanse-industrie-groeit-minder-hard.aspx",
+    "intro": "De industrie in de Verenigde Staten is in februari minder hard gegroeid dan in de maand ervoor. Dit bleek maandag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-03-02 15:50",
+    "scraped_at": "2026-03-02T15:04:29.227972"
+  },
+  {
     "id": "b1e6e2f9c02b37144608d7f0f1e1c873",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht rode opening na aanvallen op Iran",
     "link": "https://www.beurs.nl/Nieuws/855443/Wall-Street-wacht-rode-opening-na-aanvallen-op-Iran.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, in reactie op de aanvallen op Iran afgelopen weekend, die een bredere oorlog in de regio dreigen te ontketenen. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel een procent in het rood.",
     "published_at": "2026-03-02 14:56",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   },
   {
     "id": "0cbbfef6f44aa09b0a4c50e1fac839bb",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/855430/Beursblik-stabiele-omzet-en-hogere-marge-UMG-verwacht.aspx",
     "intro": "Universal Music Group heeft in het vierde kwartaal van 2025 vermoedelijk een vrijwel stabiele omzet geboekt, terwijl de marge verbeterde. Dit is de verwachting van Deutsche Bank in aanloop naar de cijfers die donderdagavond verschijnen.",
     "published_at": "2026-03-02 13:41",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   },
   {
     "id": "9c77de6681ae3dcf6f59c5fa235a42a9",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855424/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, in reactie op de aanvallen op Iran afgelopen weekend, die een bredere oorlog in de regio dreigen te ontketenen. Futures op de SP 500 noteerden rond lunchtijd een procent in het rood.",
     "published_at": "2026-03-02 12:50",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   },
   {
     "id": "d34dc35dbb316b1a07dffc1d010ade99",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855417/Europese-beurzen-in-het-rood-na-aanvallen-op-Iran.aspx",
     "intro": "De Europese beurzen noteerden maandag rond het middaguur flink lager in reactie op de Amerikaanse en Israëlische luchtaanvallen op Iran, die de olieprijs omhoog en de aandelenkoersen wereldwijd omlaag joegen.",
     "published_at": "2026-03-02 12:17",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   },
   {
     "id": "c914e7db04b339ceff39f613d4bb6b0b",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855407/Valuta-dollar-in-de-lift-na-militaire-aanval-op-Iran.aspx",
     "intro": "De dollar steeg maandag, na de Amerikaanse en Israëlische luchtaanvallen op Iran, die de Iraanse leider Khamenei doodden, maar de Zwitserse frank schommelde vooral en de vlucht naar deze twee munten, die bekend staan als veilige havens, bleef per saldo beperkt.",
     "published_at": "2026-03-02 11:48",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   },
   {
     "id": "2ce225937e366378533e1f82b1211ae7",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855406/Obligatie-Nederland-haalt-bijna-34-miljard-euro-op.aspx",
     "intro": "Nederland heeft met de veiling van twee korte leningen 3,37 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën maandag bekend.",
     "published_at": "2026-03-02 11:47",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   },
   {
     "id": "926764852732f7fa4cd372ee93a6ad74",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855405/Kepler-promoveert-Aalberts-naar-de-kooplijst.aspx",
     "intro": "Kepler Cheuvreux heeft maandag het advies voor Aalberts verhoogd van Houden naar Kopen, na een koersdoelverhoging van 33,00 naar 44,00 euro. Dit bleek uit een analistenrapport van Kepler.",
     "published_at": "2026-03-02 11:35",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   },
   {
     "id": "49f59774bbe64f333bede10cddcd2678",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855397/Shell-beperkt-verlies-AEX.aspx",
     "intro": "De Amsterdamse beurs stond maandagochtend onder druk na de aanvallen afgelopen weekend op Iran, maar mede dankzij de koerswinst voor Shell viel het verlies mee.",
     "published_at": "2026-03-02 10:57",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   },
   {
     "id": "acd5a83a66af91098f4909bf9e962b78",
@@ -78,15 +87,6 @@
     "link": "https://www.iexprofs.nl/artikel/854843/Must-read-Oorlog-tegen-Iran-destabiliseert-energiemarkt.aspx",
     "intro": "Plus: IEX Profs slaat nieuwe weg in, AI maakt dus ook slachtoffers, Amerikaanse consument blijft geld uitgeven, Nederlandse beleggers verlaten Wall Street, en meer.",
     "published_at": "2026-03-02 10:45",
-    "scraped_at": "2026-03-02T14:10:51.078465"
-  },
-  {
-    "id": "68e563fefb8a7ca5e2edb5f72c90d2dd",
-    "categorie": "Beursnieuws",
-    "titel": "Britse industrie groeit stevig door",
-    "link": "https://www.beurs.nl/Nieuws/855393/Britse-industrie-groeit-stevig-door.aspx",
-    "intro": "De industrie in het Verenigd Koninkrijk is in februari blijven groeien. Dit bleek maandag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-03-02 10:33",
-    "scraped_at": "2026-03-02T14:10:51.078465"
+    "scraped_at": "2026-03-02T15:04:29.227972"
   }
 ]
