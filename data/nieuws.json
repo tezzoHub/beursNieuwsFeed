@@ -1,12 +1,21 @@
 [
   {
+    "id": "79fd563eae93ded36e5348db1a6f2772",
+    "categorie": "Beursnieuws",
+    "titel": "Europese aandelen flink lager gesloten door escalatie Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/855475/Europese-aandelen-flink-lager-gesloten-door-escalatie-Midden-Oosten.aspx",
+    "intro": "De Europese aandelenmarkten zijn maandag flink lager gesloten in reactie op de escalatie in het Midden- Oosten en bijbehorende onzekerheden. Goud, olie en bitcoin wisten daarentegen juist te stijgen.",
+    "published_at": "2026-03-02 18:50",
+    "scraped_at": "2026-03-02T18:02:00.872539"
+  },
+  {
     "id": "74ae62bd841b431cbf7f1b9d54fd09c7",
     "categorie": "Beursnieuws",
     "titel": "Shell helpt AEX schade te beperken",
     "link": "https://www.beurs.nl/Nieuws/855469/Shell-helpt-AEX-schade-te-beperken.aspx",
     "intro": "De Amsterdamse beurs is maandag lager geëindigd, hoewel de AEX dankzij Shell wel beter de dag doorkwam dan omringende beurzen, waar de verliezen groter waren.",
     "published_at": "2026-03-02 17:51",
-    "scraped_at": "2026-03-02T17:09:19.849647"
+    "scraped_at": "2026-03-02T18:02:00.872539"
   },
   {
     "id": "c2d75bd9f41d54cb6757b2fd064bf055",
@@ -15,7 +24,34 @@
     "link": "https://www.beurs.nl/Nieuws/855468/Nvidia-investeert-miljarden-in-optische-technologie.aspx",
     "intro": "Nvidia investeert 4 miljard dollar in twee bedrijven die fotonicatechnologie ontwikkelen, om zo zijn onderzoekspijplijn en toeleveringsketen voor AI-infrastructuur te versterken. Dit maakte het Amerikaanse chipbedrijf maandag bekend.",
     "published_at": "2026-03-02 17:43",
-    "scraped_at": "2026-03-02T17:09:19.849647"
+    "scraped_at": "2026-03-02T18:02:00.872539"
+  },
+  {
+    "id": "ea61428fb29c84d5e29b5c4522a6fb28",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/855458/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 10 maart 2026:",
+    "published_at": "2026-03-02 16:32",
+    "scraped_at": "2026-03-02T18:02:00.872539"
+  },
+  {
+    "id": "8d39e96b8a7cc84c73d3d65c7cafa365",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/855460/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 10 maart 2026:",
+    "published_at": "2026-03-02 16:32",
+    "scraped_at": "2026-03-02T18:02:00.872539"
+  },
+  {
+    "id": "bcd0d75862e73c7b5d749e1821963545",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/855457/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 10 maart 2026:",
+    "published_at": "2026-03-02 16:32",
+    "scraped_at": "2026-03-02T18:02:00.872539"
   },
   {
     "id": "516f6b9c435c283cffc21b0579a6b49d",
@@ -24,7 +60,16 @@
     "link": "https://www.beurs.nl/Nieuws/855455/Aandeelhouders-JDE-Peets-akkoord-met-overname-door-Keurig-Dr-Pepper.aspx",
     "intro": "De aandeelhouders van JDE Peet's hebben maandag tijdens een buitengewone aandeelhoudersvergadering ingestemd met alle voorstellen rond de overname door het Amerikaanse Keurig Dr Pepper. Dit meldde JDE Peet's na afloop van de bijeenkomst.",
     "published_at": "2026-03-02 16:13",
-    "scraped_at": "2026-03-02T17:09:19.849647"
+    "scraped_at": "2026-03-02T18:02:00.872539"
+  },
+  {
+    "id": "043633631de999088a9efa1cfcb4fee3",
+    "categorie": "Beursnieuws",
+    "titel": "ISM: Amerikaanse industrie groeit iets minder hard",
+    "link": "https://www.beurs.nl/Nieuws/855454/ISM-Amerikaanse-industrie-groeit-iets-minder-hard.aspx",
+    "intro": "De Amerikaanse industrie is in februari iets minder hard gegroeid dan in de maand ervoor. Dit bleek maandag uit cijfers van het Institute for Supply Management.",
+    "published_at": "2026-03-02 16:07",
+    "scraped_at": "2026-03-02T18:02:00.872539"
   },
   {
     "id": "85c257e59be732bc557683c4713c74d8",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855453/Amerikaanse-industrie-groeit-minder-hard.aspx",
     "intro": "De industrie in de Verenigde Staten is in februari minder hard gegroeid dan in de maand ervoor. Dit bleek maandag uit definitieve cijfers van SP Global.",
     "published_at": "2026-03-02 15:50",
-    "scraped_at": "2026-03-02T17:09:19.849647"
+    "scraped_at": "2026-03-02T18:02:00.872539"
   },
   {
     "id": "b1e6e2f9c02b37144608d7f0f1e1c873",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855443/Wall-Street-wacht-rode-opening-na-aanvallen-op-Iran.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, in reactie op de aanvallen op Iran afgelopen weekend, die een bredere oorlog in de regio dreigen te ontketenen. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel een procent in het rood.",
     "published_at": "2026-03-02 14:56",
-    "scraped_at": "2026-03-02T17:09:19.849647"
-  },
-  {
-    "id": "0cbbfef6f44aa09b0a4c50e1fac839bb",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: stabiele omzet en hogere marge UMG verwacht",
-    "link": "https://www.beurs.nl/Nieuws/855430/Beursblik-stabiele-omzet-en-hogere-marge-UMG-verwacht.aspx",
-    "intro": "Universal Music Group heeft in het vierde kwartaal van 2025 vermoedelijk een vrijwel stabiele omzet geboekt, terwijl de marge verbeterde. Dit is de verwachting van Deutsche Bank in aanloop naar de cijfers die donderdagavond verschijnen.",
-    "published_at": "2026-03-02 13:41",
-    "scraped_at": "2026-03-02T17:09:19.849647"
-  },
-  {
-    "id": "9c77de6681ae3dcf6f59c5fa235a42a9",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen lagere opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/855424/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, in reactie op de aanvallen op Iran afgelopen weekend, die een bredere oorlog in de regio dreigen te ontketenen. Futures op de SP 500 noteerden rond lunchtijd een procent in het rood.",
-    "published_at": "2026-03-02 12:50",
-    "scraped_at": "2026-03-02T17:09:19.849647"
-  },
-  {
-    "id": "d34dc35dbb316b1a07dffc1d010ade99",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen in het rood na aanvallen op Iran",
-    "link": "https://www.beurs.nl/Nieuws/855417/Europese-beurzen-in-het-rood-na-aanvallen-op-Iran.aspx",
-    "intro": "De Europese beurzen noteerden maandag rond het middaguur flink lager in reactie op de Amerikaanse en Israëlische luchtaanvallen op Iran, die de olieprijs omhoog en de aandelenkoersen wereldwijd omlaag joegen.",
-    "published_at": "2026-03-02 12:17",
-    "scraped_at": "2026-03-02T17:09:19.849647"
-  },
-  {
-    "id": "c914e7db04b339ceff39f613d4bb6b0b",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: dollar in de lift na militaire aanval op Iran",
-    "link": "https://www.beurs.nl/Nieuws/855407/Valuta-dollar-in-de-lift-na-militaire-aanval-op-Iran.aspx",
-    "intro": "De dollar steeg maandag, na de Amerikaanse en Israëlische luchtaanvallen op Iran, die de Iraanse leider Khamenei doodden, maar de Zwitserse frank schommelde vooral en de vlucht naar deze twee munten, die bekend staan als veilige havens, bleef per saldo beperkt.",
-    "published_at": "2026-03-02 11:48",
-    "scraped_at": "2026-03-02T17:09:19.849647"
-  },
-  {
-    "id": "2ce225937e366378533e1f82b1211ae7",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland haalt bijna 3,4 miljard euro op",
-    "link": "https://www.beurs.nl/Nieuws/855406/Obligatie-Nederland-haalt-bijna-34-miljard-euro-op.aspx",
-    "intro": "Nederland heeft met de veiling van twee korte leningen 3,37 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën maandag bekend.",
-    "published_at": "2026-03-02 11:47",
-    "scraped_at": "2026-03-02T17:09:19.849647"
+    "scraped_at": "2026-03-02T18:02:00.872539"
   }
 ]
