@@ -1,12 +1,48 @@
 [
   {
+    "id": "af89f144e8bb64be8e267dd1c4b521e8",
+    "categorie": "Beursnieuws",
+    "titel": "Voorzichtig herstel in Spaanse industrie",
+    "link": "https://www.beurs.nl/Nieuws/855373/Voorzichtig-herstel-in-Spaanse-industrie.aspx",
+    "intro": "De Spaanse industrie is in februari niet langer gekrompen. Dit bleek maandag uit cijfers van SP Global.",
+    "published_at": "2026-03-02 09:19",
+    "scraped_at": "2026-03-02T08:27:49.011985"
+  },
+  {
+    "id": "73c5f38c6dc4047c8ee3d9bb266b9301",
+    "categorie": "Beursnieuws",
+    "titel": "Shell uitblinker in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/855372/Shell-uitblinker-in-rode-AEX.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 0,9 procent lager op 1.018,58 punten, terwijl de Midkap ruim anderhalf procent prijs moest geven. De Euro Stoxx 50 index daalde met meer dan 2 procent.",
+    "published_at": "2026-03-02 09:16",
+    "scraped_at": "2026-03-02T08:27:49.011985"
+  },
+  {
+    "id": "97a3df8442bcd4fc691f0adefcc67c28",
+    "categorie": "Beursnieuws",
+    "titel": "Polishouders Achmea stemmen in met woekerpolisakkoord",
+    "link": "https://www.beurs.nl/Nieuws/855365/Polishouders-Achmea-stemmen-in-met-woekerpolisakkoord.aspx",
+    "intro": "De overeenkomst van Achmea met belangenorganisaties in de woekerpoliszaak is definitief, nu meer dan 90 procent van de aangesloten polishouders akkoord is gegaan met hun individuele voorstel voor een tegemoetkoming. Dit maakte Achmea maandagochtend bekend.",
+    "published_at": "2026-03-02 08:52",
+    "scraped_at": "2026-03-02T08:27:49.011985"
+  },
+  {
+    "id": "9f9048b8f824500ce52c7e2fb91ff9b2",
+    "categorie": "Beursnieuws",
+    "titel": "ING start aandeleninkoop van €100 miljoen",
+    "link": "https://www.beurs.nl/Nieuws/855362/ING-start-aandeleninkoop-van-100-miljoen.aspx",
+    "intro": "ING heeft maandag de lancering aangekondigd van een aandeleninkoopprogramma ter waarde van 100 miljoen euro.",
+    "published_at": "2026-03-02 08:34",
+    "scraped_at": "2026-03-02T08:27:49.011985"
+  },
+  {
     "id": "37483f239685e3c0d91b595be8bb7de0",
     "categorie": "Voorbeurs",
     "titel": "Impact Operation Epic Fury in Iran zichtbaar: donkerrode beursopening en olieprijzen +8%",
     "link": "https://www.beurs.nl/Artikel/855331/Impact-Operation-Epic-Fury-in-Iran-zichtbaar-donkerrode-beursopening-en-olieprijzen-8.aspx",
     "intro": "Openingsindicatie: -1,4% na aanval VS en Israël op Iran. Voorspelbare reacties: olieprijzen schieten de lucht in, goud en dollar in de lift.",
     "published_at": "2026-03-02 08:15",
-    "scraped_at": "2026-03-02T07:39:55.084342"
+    "scraped_at": "2026-03-02T08:27:49.011985"
   },
   {
     "id": "52555f4460aa911ae1a3359e0fca72b2",
@@ -15,16 +51,16 @@
     "link": "https://www.beurs.nl/Nieuws/855355/AEX-start-handelsweek-flink-in-het-rood-na-aanvallen-op-Iran.aspx",
     "intro": "De Amsterdamse beurs maakt zich maandag op voor een stevig lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,5 procent.",
     "published_at": "2026-03-02 07:59",
-    "scraped_at": "2026-03-02T07:39:55.084342"
+    "scraped_at": "2026-03-02T08:27:49.011985"
   },
   {
-    "id": "8ea80751e40844612c0de13326aa16e7",
+    "id": "9e1b53743236513d563bcfbb7d7455b5",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: drie scenario's voor de oliemarkt na de aanval op Iran",
-    "link": "https://www.beurs.nl/Nieuws/855354/Beursblik-drie-scenarios-voor-de-oliemarkt-na-de-aanval-op-Iran.aspx",
+    "titel": "Berenberg: drie scenario's voor de oliemarkt na de aanval op Iran",
+    "link": "https://www.beurs.nl/Nieuws/855354/Berenberg-drie-scenarios-voor-de-oliemarkt-na-de-aanval-op-Iran.aspx",
     "intro": "De oorlog in Iran zorgt voor grote onzekerheid in de markten en voor olieproducenten. Dit stelde analist Henry Tarr van Berenberg.",
     "published_at": "2026-03-02 07:55",
-    "scraped_at": "2026-03-02T07:39:55.084342"
+    "scraped_at": "2026-03-02T08:27:49.011985"
   },
   {
     "id": "9cf9afeea9e447ea8b80c15786ade262",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855352/Aziatische-beurzen-reageren-ingetogen-op-escalatie-in-het-Midden-Oosten.aspx",
     "intro": "De Aziatische beurzen noteerden maandagochtend grotendeels in het rood, na de start van een langverwachte gezamenlijke militaire operatie van de Verenigde Staten en Israël op Iran afgelopen zaterdag, waarbij onder meer de opperste geestelijke leider van Iran, ayatollah Ali Khamenei, werd gedood.",
     "published_at": "2026-03-02 07:25",
-    "scraped_at": "2026-03-02T07:39:55.084342"
+    "scraped_at": "2026-03-02T08:27:49.011985"
   },
   {
     "id": "82c9f5cb925fa29d52e096f7e4601837",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855348/Omzet-detailhandel-groeide-ook-in-januari.aspx",
     "intro": "De Nederlandse detailhandel heeft in januari 2026 meer omgezet dan in dezelfde periode een jaar eerder. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-03-02 07:16",
-    "scraped_at": "2026-03-02T07:39:55.084342"
+    "scraped_at": "2026-03-02T08:27:49.011985"
   },
   {
     "id": "b4a68f08779aeb7471734b219efc171e",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855345/Nederlandse-industrie-groeit-iets-harder.aspx",
     "intro": "De industrie in Nederland is in februari iets harder gegroeid. Dit bleek maandag uit de inkoopmanagersindex van NEVI.",
     "published_at": "2026-03-02 07:07",
-    "scraped_at": "2026-03-02T07:39:55.084342"
-  },
-  {
-    "id": "4fc1bc1a8bf69f32bfcd48f1fd3400aa",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lijken stevig lager te openen",
-    "link": "https://www.beurs.nl/Nieuws/855342/Europese-beurzen-lijken-stevig-lager-te-openen.aspx",
-    "intro": "De Europese beurzen gaan maandag een donkerrode opening tegemoet, nadat afgelopen weekend de VS en Israël aanvallen uitvoerden op Iran, waarbij ayatollah Ali Khamenei is omgekomen. De olieprijs stijgt met circa 7 procent en ook de goudprijs zit in de lift.",
-    "published_at": "2026-03-02 06:59",
-    "scraped_at": "2026-03-02T07:39:55.084342"
-  },
-  {
-    "id": "11bd63c2a0c044051954886c96791e9c",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse industrie groeit in flink hoger tempo",
-    "link": "https://www.beurs.nl/Nieuws/855339/Japanse-industriegroeit-in-flink-hoger-tempo.aspx",
-    "intro": "De industrie in Japan is in februari opnieuw gegroeid, en ook in een veel hoger tempo. Dit bleek maandag uit de inkoopmanagersindex van SP Global.",
-    "published_at": "2026-03-02 06:49",
-    "scraped_at": "2026-03-02T07:39:55.084342"
-  },
-  {
-    "id": "26dd0944ed63d97aefe198d748819e08",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/855334/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 9 maart 2026:",
-    "published_at": "2026-03-02 06:44",
-    "scraped_at": "2026-03-02T07:39:55.084342"
-  },
-  {
-    "id": "a553d104c4c4b179052c6633e11a2286",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/855336/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 9 maart 2026:",
-    "published_at": "2026-03-02 06:44",
-    "scraped_at": "2026-03-02T07:39:55.084342"
+    "scraped_at": "2026-03-02T08:27:49.011985"
   }
 ]
