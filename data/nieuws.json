@@ -1,38 +1,65 @@
 [
   {
-    "id": "2d40aa8387f864c1f9a1eeb6ef300d36",
+    "id": "9cf9afeea9e447ea8b80c15786ade262",
     "categorie": "Beursnieuws",
-    "titel": "OPEC+ verhoogt olieproductie sterker dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/855325/OPEC-verhoogt-olieproductie-sterker-dan-verwacht.aspx",
-    "intro": "OPEC+ heeft besloten tot een sterkere productieverhoging dan verwacht. Dit bleek zondag na afloop van een vergadering van acht leden.",
-    "published_at": "2026-03-01 14:39",
-    "scraped_at": "2026-03-02T05:41:30.861072"
+    "titel": "Aziatische beurzen reageren ingetogen op escalatie in het Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/855352/Aziatische-beurzen-reageren-ingetogen-op-escalatie-in-het-Midden-Oosten.aspx",
+    "intro": "De Aziatische beurzen noteerden maandagochtend grotendeels in het rood, na de start van een langverwachte gezamenlijke militaire operatie van de Verenigde Staten en Israël op Iran afgelopen zaterdag, waarbij onder meer de opperste geestelijke leider van Iran, ayatollah Ali Khamenei, werd gedood.",
+    "published_at": "2026-03-02 07:25",
+    "scraped_at": "2026-03-02T06:39:10.882846"
   },
   {
-    "id": "13fc8c10122e1c70888f7ab2e247ef2b",
+    "id": "82c9f5cb925fa29d52e096f7e4601837",
     "categorie": "Beursnieuws",
-    "titel": "Focus op oliemarkt na aanval op Iran",
-    "link": "https://www.beurs.nl/Nieuws/855321/Focus-op-oliemarkt-na-aanval-op-Iran.aspx",
-    "intro": "De komende beursweek staat in het teken van de aanval van de VS en Israël op Iran, waarbij ayatollah Ali Khamenei is omgekomen.",
-    "published_at": "2026-03-01 11:43",
-    "scraped_at": "2026-03-02T05:41:30.861072"
+    "titel": "Omzet detailhandel groeide ook in januari",
+    "link": "https://www.beurs.nl/Nieuws/855348/Omzet-detailhandel-groeide-ook-in-januari.aspx",
+    "intro": "De Nederlandse detailhandel heeft in januari 2026 meer omgezet dan in dezelfde periode een jaar eerder. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-03-02 07:16",
+    "scraped_at": "2026-03-02T06:39:10.882846"
   },
   {
-    "id": "31617b2798a6d982dacb849b3cea5751",
+    "id": "4fc1bc1a8bf69f32bfcd48f1fd3400aa",
     "categorie": "Beursnieuws",
-    "titel": "Ayatollah Ali Khamenei dood verklaard",
-    "link": "https://www.beurs.nl/Nieuws/855319/Ayatollah-Ali-Khameneidood-verklaard.aspx",
-    "intro": "Ayatollah Ali Khamenei van Iran is omgekomen bij de aanvallen van de de VS en Israël. Dit bevestigden Iraanse media vannacht.",
-    "published_at": "2026-03-01 11:25",
-    "scraped_at": "2026-03-02T05:41:30.861072"
+    "titel": "Europese beurzen lijken stevig lager te openen",
+    "link": "https://www.beurs.nl/Nieuws/855342/Europese-beurzen-lijken-stevig-lager-te-openen.aspx",
+    "intro": "De Europese beurzen gaan maandag een donkerrode opening tegemoet, nadat afgelopen weekend de VS en Israël aanvallen uitvoerden op Iran, waarbij ayatollah Ali Khamenei is omgekomen. De olieprijs stijgt met circa 7 procent en ook de goudprijs zit in de lift.",
+    "published_at": "2026-03-02 06:59",
+    "scraped_at": "2026-03-02T06:39:10.882846"
   },
   {
-    "id": "3ce9a4ed845df303dac7ad0654346531",
+    "id": "11bd63c2a0c044051954886c96791e9c",
     "categorie": "Beursnieuws",
-    "titel": "Sterke week voor databedrijven",
-    "link": "https://www.beurs.nl/Nieuws/855317/Sterke-week-voor-databedrijven.aspx",
-    "intro": "De Amsterdamse beurs wist afgelopen week verder te stijgen, met zelfs een nieuw record voor de AEX, ondanks de aanhoudende zorgen over de gevolgen van AI in bepaalde sectoren, terwijl ook de handelsperikelen het sentiment bepaalden.",
-    "published_at": "2026-03-01 10:53",
-    "scraped_at": "2026-03-02T05:41:30.861072"
+    "titel": "Japanse industrie groeit in flink hoger tempo",
+    "link": "https://www.beurs.nl/Nieuws/855339/Japanse-industriegroeit-in-flink-hoger-tempo.aspx",
+    "intro": "De industrie in Japan is in februari opnieuw gegroeid, en ook in een veel hoger tempo. Dit bleek maandag uit de inkoopmanagersindex van SP Global.",
+    "published_at": "2026-03-02 06:49",
+    "scraped_at": "2026-03-02T06:39:10.882846"
+  },
+  {
+    "id": "26dd0944ed63d97aefe198d748819e08",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/855334/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 9 maart 2026:",
+    "published_at": "2026-03-02 06:44",
+    "scraped_at": "2026-03-02T06:39:10.882846"
+  },
+  {
+    "id": "a553d104c4c4b179052c6633e11a2286",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/855336/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 9 maart 2026:",
+    "published_at": "2026-03-02 06:44",
+    "scraped_at": "2026-03-02T06:39:10.882846"
+  },
+  {
+    "id": "4f957f759d88c15e2f9da32865b04bd5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/855337/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 9 maart 2026:",
+    "published_at": "2026-03-02 06:44",
+    "scraped_at": "2026-03-02T06:39:10.882846"
   }
 ]
