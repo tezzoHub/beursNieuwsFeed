@@ -1,12 +1,30 @@
 [
   {
+    "id": "06f12e18e48edd954c3ae114a9f4050a",
+    "categorie": "Beursnieuws",
+    "titel": "Valuta: klassieke vlucht naar veilige havens zet euro verder onder druk",
+    "link": "https://www.beurs.nl/Nieuws/855551/Valuta-klassieke-vlucht-naar-veilige-havens-zet-euro-verder-onder-druk.aspx",
+    "intro": "De euro stond dinsdagochtend verder onder druk en zakte richting de 1,16 dollar, terwijl de \"klassieke vlucht naar veilige havens\" doorzet vanwege de escalatie in het Midden-Oosten, zo zag marktanalist Barry van der Laan van Monex Europe.",
+    "published_at": "2026-03-03 10:32",
+    "scraped_at": "2026-03-03T09:45:19.290407"
+  },
+  {
+    "id": "f2ca41707a737b842c097724f444780b",
+    "categorie": "IEXProfs",
+    "titel": "Must read: Hoe als belegger te reageren op de situatie in de Golfregio?",
+    "link": "https://www.iex.nl/artikel/855308/Must-read-Hoe-als-belegger-te-reageren-op-de-situatie-in-de-Golfregio.aspx",
+    "intro": "Plus: welkom op IEX Impact, de voor- en nadelen van AI, Triodos verruilt windmolens voor batterijen en meer.",
+    "published_at": "2026-03-03 10:00",
+    "scraped_at": "2026-03-03T09:45:19.290407"
+  },
+  {
     "id": "1d118e3c85d8e8e85005137695352ef2",
     "categorie": "Beursnieuws",
     "titel": "Degroof Petercam verlaagt koersdoel DSM-Firmenich",
     "link": "https://www.beurs.nl/Nieuws/855545/Degroof-Petercam-verlaagt-koersdoel-DSM-Firmenich.aspx",
     "intro": "Degroof Petercam heeft het koersdoel voor DSM-Firmenich verlaagd van 100 naar 85 euro, terwijl het koopadvies bleef staan. Dit bleek dinsdag uit een rapport van analist Fernand de Boer.",
     "published_at": "2026-03-03 09:42",
-    "scraped_at": "2026-03-03T08:55:12.172735"
+    "scraped_at": "2026-03-03T09:45:19.290407"
   },
   {
     "id": "3907500a7a9001ac36c41dd02ce2187d",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855541/Ryanair-vervoert-meer-passagiers.aspx",
     "intro": "Ryanair heeft in februari 6 procent meer passagiers vervoerd dan in dezelfde maand een jaar eerder. Dit bleek dinsdag uit cijfers van de Ierse prijsvechter.",
     "published_at": "2026-03-03 09:24",
-    "scraped_at": "2026-03-03T08:55:12.172735"
+    "scraped_at": "2026-03-03T09:45:19.290407"
   },
   {
     "id": "21f386b197cd6a6937429257edd68fe8",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855537/AEX-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong 1,1 procent lager naar 1.005.30 punten, terwijl de Midkap 1,7 procent prijs gaf.",
     "published_at": "2026-03-03 09:13",
-    "scraped_at": "2026-03-03T08:55:12.172735"
+    "scraped_at": "2026-03-03T09:45:19.290407"
   },
   {
     "id": "e456698aed3a3e8a7695d51b6aa25282",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855535/Geruststellende-cijfers-Allfunds.aspx",
     "intro": "Allfunds heeft dinsdagochtend \"geruststellende\" cijfers gepresenteerd. Dit stelden analisten van Jefferies na de publicatie.",
     "published_at": "2026-03-03 09:01",
-    "scraped_at": "2026-03-03T08:55:12.172735"
+    "scraped_at": "2026-03-03T09:45:19.290407"
   },
   {
     "id": "0e11e68fe2bb3620e9e2e57d37a38a9a",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855533/Basic-Fit-koopt-vervroegde-aflossing-converteerbare-obligatie-af.aspx",
     "intro": "Basic-Fit heeft een akkoord bereikt met een institutionele belegger om geen gebruik te maken van diens optie om een converteerbare obligatie vervroegd te laten aflossen. Dit meldde de fitnessketen dinsdagochtend.",
     "published_at": "2026-03-03 08:57",
-    "scraped_at": "2026-03-03T08:55:12.172735"
+    "scraped_at": "2026-03-03T09:45:19.290407"
   },
   {
     "id": "c1fce2170648e0d2ce7d6965bcc543a9",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855532/Moneta-flink-kleiner-in-Sif.aspx",
     "intro": "Moneta Asset Management heeft een flink kleiner belang in Sif gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 24 februari 2026.",
     "published_at": "2026-03-03 08:33",
-    "scraped_at": "2026-03-03T08:55:12.172735"
+    "scraped_at": "2026-03-03T09:45:19.290407"
   },
   {
     "id": "67fcef77dc19d961cdf446bb5cf6c53e",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855531/Beiersdorf-groeit-in-2025-in-een-vertragende-markt.aspx",
     "intro": "Beiersdorf is in 2025 blijven groeien ondanks een vertragende markt. Dit maakte het Duitse cosmeticabedrijf, bekend van merken als Nivea, Labello en Hansaplast, dinsdagmorgen bekend.",
     "published_at": "2026-03-03 08:32",
-    "scraped_at": "2026-03-03T08:55:12.172735"
+    "scraped_at": "2026-03-03T09:45:19.290407"
   },
   {
     "id": "69e7b8546e9a74d1cf8ff530307102a5",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855526/ING-rondt-klein-aandeleninkoopprogramma-af.aspx",
     "intro": "ING heeft bijna 3 miljoen eigen aandelen ingekocht voor zijn werknemersbeloning. Dit meldde de bank dinsdagochtend, nadat het programma maandag werd aangekondigd.",
     "published_at": "2026-03-03 08:15",
-    "scraped_at": "2026-03-03T08:55:12.172735"
-  },
-  {
-    "id": "fdd721ba2c96e7efca2b2ff986c1a34f",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag in het rood terwijl energieprijzen blijven stijgen",
-    "link": "https://www.beurs.nl/Nieuws/855524/AEX-start-handelsdag-in-het-rood-terwijl-energieprijzen-blijven-stijgen.aspx",
-    "intro": "De Amsterdamse beurs gaat dinsdag naar verwachting lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,5 procent.",
-    "published_at": "2026-03-03 08:10",
-    "scraped_at": "2026-03-03T08:55:12.172735"
-  },
-  {
-    "id": "bb6e9d981b2263115c07d7418a87e57b",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere omzet en winst Thales in 2025",
-    "link": "https://www.beurs.nl/Nieuws/855523/Hogere-omzet-en-winst-Thales-in-2025.aspx",
-    "intro": "Thales heeft het boekjaar 2025 afgesloten met een hogere omzet en winst, terwijl de ordergroei stabiliseerde. Dit bleek dinsdagmorgen uit het jaarbericht van het Franse defensiebedrijf.",
-    "published_at": "2026-03-03 07:58",
-    "scraped_at": "2026-03-03T08:55:12.172735"
+    "scraped_at": "2026-03-03T09:45:19.290407"
   }
 ]
