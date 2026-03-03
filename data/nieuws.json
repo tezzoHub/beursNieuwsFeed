@@ -1,12 +1,48 @@
 [
   {
+    "id": "c1fce2170648e0d2ce7d6965bcc543a9",
+    "categorie": "Beursnieuws",
+    "titel": "Moneta flink kleiner in Sif",
+    "link": "https://www.beurs.nl/Nieuws/855532/Moneta-flink-kleiner-in-Sif.aspx",
+    "intro": "Moneta Asset Management heeft een flink kleiner belang in Sif gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 24 februari 2026.",
+    "published_at": "2026-03-03 08:33",
+    "scraped_at": "2026-03-03T07:58:12.401152"
+  },
+  {
+    "id": "67fcef77dc19d961cdf446bb5cf6c53e",
+    "categorie": "Beursnieuws",
+    "titel": "Beiersdorf groeit in 2025 in een vertragende markt",
+    "link": "https://www.beurs.nl/Nieuws/855531/Beiersdorf-groeit-in-2025-in-een-vertragende-markt.aspx",
+    "intro": "Beiersdorf is in 2025 blijven groeien ondanks een vertragende markt. Dit maakte het Duitse cosmeticabedrijf, bekend van merken als Nivea, Labello en Hansaplast, dinsdagmorgen bekend.",
+    "published_at": "2026-03-03 08:32",
+    "scraped_at": "2026-03-03T07:58:12.401152"
+  },
+  {
+    "id": "69e7b8546e9a74d1cf8ff530307102a5",
+    "categorie": "Beursnieuws",
+    "titel": "ING rondt klein aandeleninkoopprogramma af",
+    "link": "https://www.beurs.nl/Nieuws/855526/ING-rondt-klein-aandeleninkoopprogramma-af.aspx",
+    "intro": "ING heeft bijna 3 miljoen eigen aandelen ingekocht voor zijn werknemersbeloning. Dit meldde de bank dinsdagochtend, nadat het programma maandag werd aangekondigd.",
+    "published_at": "2026-03-03 08:15",
+    "scraped_at": "2026-03-03T07:58:12.401152"
+  },
+  {
+    "id": "fdd721ba2c96e7efca2b2ff986c1a34f",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsdag in het rood terwijl energieprijzen blijven stijgen",
+    "link": "https://www.beurs.nl/Nieuws/855524/AEX-start-handelsdag-in-het-rood-terwijl-energieprijzen-blijven-stijgen.aspx",
+    "intro": "De Amsterdamse beurs gaat dinsdag naar verwachting lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,5 procent.",
+    "published_at": "2026-03-03 08:10",
+    "scraped_at": "2026-03-03T07:58:12.401152"
+  },
+  {
     "id": "bb6e9d981b2263115c07d7418a87e57b",
     "categorie": "Beursnieuws",
     "titel": "Hogere omzet en winst Thales in 2025",
     "link": "https://www.beurs.nl/Nieuws/855523/Hogere-omzet-en-winst-Thales-in-2025.aspx",
     "intro": "Thales heeft het boekjaar 2025 afgesloten met een hogere omzet en winst, terwijl de ordergroei stabiliseerde. Dit bleek dinsdagmorgen uit het jaarbericht van het Franse defensiebedrijf.",
     "published_at": "2026-03-03 07:58",
-    "scraped_at": "2026-03-03T07:13:00.731879"
+    "scraped_at": "2026-03-03T07:58:12.401152"
   },
   {
     "id": "8b262a944ee4ca4138f96b22480179c5",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855519/ER-Capital-geinteresseerd-in-kantoorpark-in-Maastricht.aspx",
     "intro": "ER Capital heeft interesse in de aankoop van Businesspark Geusselt in Maastricht ter invulling van één van de toekomstige vastgoedfondsen van ER Capital. Dit bleek uit een persbericht van de vastgoedonderneming uit Rotterdam.",
     "published_at": "2026-03-03 07:48",
-    "scraped_at": "2026-03-03T07:13:00.731879"
+    "scraped_at": "2026-03-03T07:58:12.401152"
   },
   {
     "id": "e20eaeac0d6baa108aa72fbb3e22870e",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855520/Beheerd-vermogen-Allfunds-neemt-toe.aspx",
     "intro": "Allfunds heeft in 2025 een hogere omzet geboekt, terwijl het vermogen onder beheer nog harder groeide. Dit bleek dinsdag uit cijfers van het Spaanse fintechbedrijf met een notering in Amsterdam.",
     "published_at": "2026-03-03 07:47",
-    "scraped_at": "2026-03-03T07:13:00.731879"
+    "scraped_at": "2026-03-03T07:58:12.401152"
   },
   {
     "id": "098a660b52aa4d39ff0668bb09986080",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855513/Nederlandse-inflatie-onveranderd.aspx",
     "intro": "De Nederlandse consumentenprijzen zijn in februari net zo hard gestegen als in januari. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-03-03 07:27",
-    "scraped_at": "2026-03-03T07:13:00.731879"
+    "scraped_at": "2026-03-03T07:58:12.401152"
   },
   {
     "id": "87325599704f972d5d544953cdf96160",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855512/Japanse-beurs-scherp-lager-door-stijgende-energieprijzen.aspx",
     "intro": "De Japanse beurs koerste dinsdagochtend bijna 3 procent in het rood, terwijl Sydney en Mumbai meer dan 1 procent prijs moesten geven. In China bleven de verliezen beperkt tot ruim een half procent.",
     "published_at": "2026-03-03 07:20",
-    "scraped_at": "2026-03-03T07:13:00.731879"
+    "scraped_at": "2026-03-03T07:58:12.401152"
   },
   {
     "id": "656ea23aa8740d52c3a9a11de88ddd22",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855511/Wereldhave-herfinanciert-doorlopend-krediet.aspx",
     "intro": "Wereldhave heeft een doorlopend krediet van 250 miljoen euro geherfinancierd. Dit meldde het vastgoedbedrijf dinsdagochtend.",
     "published_at": "2026-03-03 07:18",
-    "scraped_at": "2026-03-03T07:13:00.731879"
-  },
-  {
-    "id": "efd42652fdfa41396f74a3c85b727f31",
-    "categorie": "Beursnieuws",
-    "titel": "Fagron voltooit overname van Vepakum",
-    "link": "https://www.beurs.nl/Nieuws/855510/Fagron-voltooit-overname-van-Vepakum.aspx",
-    "intro": "Fagron heeft de overname van Vepakum in Latijns-Amerika succesvol afgerond. Dit maakte de magistrale bereider dinsdagochtend bekend.",
-    "published_at": "2026-03-03 07:15",
-    "scraped_at": "2026-03-03T07:13:00.731879"
-  },
-  {
-    "id": "c08f9409527a1d4537b8346c6f0fe9f0",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street herpakt zich na zwakke opening",
-    "link": "https://www.beurs.nl/Nieuws/855488/Wall-Street-herpakt-zich-na-zwakke-opening.aspx",
-    "intro": "Amerikaanse aandelenmarkten hebben maandag de stevige openingsverliezen weggewerkt, terwijl beleggers de gevolgen beoordeelden van de Amerikaanse en Israëlische aanvallen op Iran, evenals de daaropvolgende tegenaanvallen.",
-    "published_at": "2026-03-03 07:00",
-    "scraped_at": "2026-03-03T07:13:00.731879"
-  },
-  {
-    "id": "c75a3780fdeebf24835c98466e7c7d55",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen naar verwachting in het rood",
-    "link": "https://www.beurs.nl/Nieuws/855506/Europese-beurzen-openen-naar-verwachting-in-het-rood.aspx",
-    "intro": "De Europese beurzen gaan dinsdag een rode opening tegemoet, na een flink lager slot op maandag en rode koersen in Azië vanochtend.",
-    "published_at": "2026-03-03 06:57",
-    "scraped_at": "2026-03-03T07:13:00.731879"
-  },
-  {
-    "id": "cd733036b9b5d8862d63aca77016f767",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/855505/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 10 maart 2026:",
-    "published_at": "2026-03-03 06:50",
-    "scraped_at": "2026-03-03T07:13:00.731879"
+    "scraped_at": "2026-03-03T07:58:12.401152"
   }
 ]
