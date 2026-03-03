@@ -1,12 +1,30 @@
 [
   {
+    "id": "3bdd23ee626bc441cce97412d3bd7c09",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/855647/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten, aangevoerd door ArcelorMittal. Alleen Shell verloor terrein.",
+    "published_at": "2026-03-03 22:32",
+    "scraped_at": "2026-03-03T22:31:51.253249"
+  },
+  {
+    "id": "e8d12019933e7c962b7bdfe79e19849c",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street beperkt verlies ondanks dure olie",
+    "link": "https://www.beurs.nl/Nieuws/855646/Wall-Street-beperkt-verlies-ondanks-dure-olie.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdagavond lager gesloten, na zorgen over de duur van de oorlog in het Midden-Oosten, maar beperkten wel hun verliezen na uitspraken van president Trump die de gestegen olieprijs tijdelijk omlaag drukten. Resultaten van retailers Best Buy en Target boden lichtpuntjes voor beleggers.",
+    "published_at": "2026-03-03 22:27",
+    "scraped_at": "2026-03-03T22:31:51.253249"
+  },
+  {
     "id": "4653382d7619e447c0fbcefd5fbdc3fd",
     "categorie": "Beursnieuws",
     "titel": "Trump belooft verzekering en escorte olietankers",
     "link": "https://www.beurs.nl/Nieuws/855642/Trump-belooft-verzekering-en-escorte-olietankers.aspx",
     "intro": "De olieprijs is dinsdag sterk hoger gesloten, maar zag de prijsstijging vervolgens weer afkalven nadat de Amerikaanse president Donald Trump zei dat de Amerikaanse marine zo nodig tankers zal begeleiden door de Straat van Hormoez.",
     "published_at": "2026-03-03 21:33",
-    "scraped_at": "2026-03-03T21:52:31.647223"
+    "scraped_at": "2026-03-03T22:31:51.253249"
   },
   {
     "id": "5feb5bee310615ee00bbf65777013012",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855636/Wall-Street-beperkt-verliezen.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdagavond lager, door aanhoudende zorgen over de oorlogstoestand in het Midden-Oosten na de Amerikaanse en Israëlische luchtaanvallen op Iran, maar beperkten hun verliezen in de loop van de handelsdag.",
     "published_at": "2026-03-03 20:48",
-    "scraped_at": "2026-03-03T21:52:31.647223"
+    "scraped_at": "2026-03-03T22:31:51.253249"
   },
   {
     "id": "4af05dbfbd7a8b6b7e53c5226ef732b6",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855635/Update-Europese-beurzen-sluiten-diep-in-het-rood.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag fors gedaald, terwijl de energieprijzen verder opliepen als gevolg van het voortdurende oorlogsgeweld in het Midden-Oosten.",
     "published_at": "2026-03-03 20:04",
-    "scraped_at": "2026-03-03T21:52:31.647223"
+    "scraped_at": "2026-03-03T22:31:51.253249"
   },
   {
     "id": "4f594d95865759842bbeddf997ad5f87",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855632/Acomo-draagt-Jan-Piet-Valk-voor-als-nieuwe-voorzitter.aspx",
     "intro": "Acomo draagt Jan Piet Valk voor als nieuwe voorzitter van de raad van commissarissen, in de plaats van Bernard Stuivinga, die geen nieuwe termijn ambieert. Dat maakte het handelshuis dinsdag bekend.",
     "published_at": "2026-03-03 19:46",
-    "scraped_at": "2026-03-03T21:52:31.647223"
+    "scraped_at": "2026-03-03T22:31:51.253249"
   },
   {
     "id": "a67a257ba07cad20fde33e0655651873",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855631/Europese-beurzen-sluiten-diep-in-het-rood.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag fors gedaald, terwijl de energieprijzen verder opliepen als gevolg van het voortdurende oorlogsgeweld in het Midden-Oosten.",
     "published_at": "2026-03-03 19:19",
-    "scraped_at": "2026-03-03T21:52:31.647223"
+    "scraped_at": "2026-03-03T22:31:51.253249"
   },
   {
     "id": "aa912d26a22bfc9f64e472289ba9f818",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855625/Vooruitzichten-ASMI-overtreffen-verwachtingen.aspx",
     "intro": "ASMI rekent op een sterkere omzetgroei in de eerste helft van 2026 dan analisten hadden verwacht. Dit bleek dinsdagavond uit de jaarcijfers van de halfgeleiderspecialist.",
     "published_at": "2026-03-03 18:20",
-    "scraped_at": "2026-03-03T21:52:31.647223"
+    "scraped_at": "2026-03-03T22:31:51.253249"
   },
   {
     "id": "b6e4812d1ae1d48f11f7ca9e209d10e6",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855620/AEX-fors-lager-gesloten.aspx",
     "intro": "De Amsterdamse beurs is dinsdag fors lager geëindigd, nu beleggers vrezen dat het conflict in het Midden-Oosten langer zal duren dan eerder gedacht.",
     "published_at": "2026-03-03 17:47",
-    "scraped_at": "2026-03-03T21:52:31.647223"
+    "scraped_at": "2026-03-03T22:31:51.253249"
   },
   {
     "id": "639cef646867a0fed1b8732283774269",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855614/Obligatie-Nederland-haalt-bijna-7-miljard-euro-op.aspx",
     "intro": "Nederland heeft met de veiling van een nieuwe tienjaarslening 6,99 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën dinsdag bekend.",
     "published_at": "2026-03-03 17:16",
-    "scraped_at": "2026-03-03T21:52:31.647223"
-  },
-  {
-    "id": "9ceb5c98436606a52d00afe946b1ee6e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/855607/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 11 maart 2026:",
-    "published_at": "2026-03-03 16:14",
-    "scraped_at": "2026-03-03T21:52:31.647223"
-  },
-  {
-    "id": "44039aef2bd9679ab08c8fc6dee33757",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/855609/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 11 maart 2026:",
-    "published_at": "2026-03-03 16:14",
-    "scraped_at": "2026-03-03T21:52:31.647223"
+    "scraped_at": "2026-03-03T22:31:51.253249"
   }
 ]
