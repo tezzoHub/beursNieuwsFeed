@@ -1,12 +1,21 @@
 [
   {
+    "id": "aa912d26a22bfc9f64e472289ba9f818",
+    "categorie": "Beursnieuws",
+    "titel": "Vooruitzichten ASMI overtreffen verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/855625/Vooruitzichten-ASMI-overtreffen-verwachtingen.aspx",
+    "intro": "ASMI rekent op een sterkere omzetgroei in de eerste helft van 2026 dan analisten hadden verwacht. Dit bleek dinsdagavond uit de jaarcijfers van de halfgeleiderspecialist.",
+    "published_at": "2026-03-03 18:20",
+    "scraped_at": "2026-03-03T18:02:49.300212"
+  },
+  {
     "id": "b6e4812d1ae1d48f11f7ca9e209d10e6",
     "categorie": "Beursnieuws",
     "titel": "AEX fors lager gesloten",
     "link": "https://www.beurs.nl/Nieuws/855620/AEX-fors-lager-gesloten.aspx",
     "intro": "De Amsterdamse beurs is dinsdag fors lager geëindigd, nu beleggers vrezen dat het conflict in het Midden-Oosten langer zal duren dan eerder gedacht.",
     "published_at": "2026-03-03 17:47",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   },
   {
     "id": "639cef646867a0fed1b8732283774269",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/855614/Obligatie-Nederland-haalt-bijna-7-miljard-euro-op.aspx",
     "intro": "Nederland heeft met de veiling van een nieuwe tienjaarslening 6,99 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën dinsdag bekend.",
     "published_at": "2026-03-03 17:16",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   },
   {
     "id": "9ceb5c98436606a52d00afe946b1ee6e",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855607/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 11 maart 2026:",
     "published_at": "2026-03-03 16:14",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   },
   {
     "id": "44039aef2bd9679ab08c8fc6dee33757",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855609/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 11 maart 2026:",
     "published_at": "2026-03-03 16:14",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   },
   {
     "id": "b59e174a8ae418511cc0f1fc372a8bcf",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855610/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 11 maart 2026:",
     "published_at": "2026-03-03 16:14",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   },
   {
     "id": "ac6ced4cd52b9d7c14d9b6c8585131d2",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855594/Wall-Street-wacht-moeizame-dag.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een flink lagere opening tegemoet. Futures op de SP 500 verloren ongeveer een half uur voor de openingsbel 1,4 procent. De Nasdaq-future daalde met 1,9 procent.",
     "published_at": "2026-03-03 14:47",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   },
   {
     "id": "10a665c7acdf7f369ec211afb049b801",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855591/Elliott-investeert-1-miljard-dollar-in-Pinterest.aspx",
     "intro": "Pinterest heeft een investering van 1 miljard dollar ontvangen van Elliott Investment Management. Dit maakte Pinterest dinsdag bekend.",
     "published_at": "2026-03-03 14:34",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   },
   {
     "id": "d837edeba8768b4ed9e21f5872270ecb",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855580/CVC-verkoopt-WWEX-Group-aan-Thoma-Bravo.aspx",
     "intro": "CVC Capital Partners heeft samen met consortium aan investeerders de logistiek dienstverlener WWEX Group verkocht aan technologie-investeerder Thoma Bravo. Dat maakten de partijen dinsdag bekend.",
     "published_at": "2026-03-03 13:57",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   },
   {
     "id": "74454f665abd3d3c6ac66ca418c3f005",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855579/Best-Buy-boekt-hogere-winst-ondanks-tegenvallende-omzet.aspx",
     "intro": "Best Buy heeft in het afgelopen kwartaal een lagere omzet geboekt dan analisten hadden verwacht, maar de winstgevendheid verbeterde flink en bleek ook beter dan voorzien. Dat bleek dinsdagmiddag uit de kwartaalcijfers van de Amerikaanse retailer.",
     "published_at": "2026-03-03 13:39",
-    "scraped_at": "2026-03-03T17:09:42.482902"
-  },
-  {
-    "id": "694545a2b23537bf50fe24fb3dd8b600",
-    "categorie": "Beursnieuws",
-    "titel": "Bestuursvoorzitter Sawiris van OCI vertrekt bij komende jaarvergadering",
-    "link": "https://www.beurs.nl/Nieuws/855578/Bestuursvoorzitter-Sawiris-van-OCI-vertrekt-bij-komende-jaarvergadering.aspx",
-    "intro": "Nassef Sawiris zal bij de komende jaarvergadering opstappen als bestuursvoorzitter van OCI. Dit meldde het bedrijf dinsdag.",
-    "published_at": "2026-03-03 13:28",
-    "scraped_at": "2026-03-03T17:09:42.482902"
+    "scraped_at": "2026-03-03T18:02:49.300212"
   }
 ]
