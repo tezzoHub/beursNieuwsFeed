@@ -1,12 +1,39 @@
 [
   {
+    "id": "9ceb5c98436606a52d00afe946b1ee6e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/855607/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 11 maart 2026:",
+    "published_at": "2026-03-03 16:14",
+    "scraped_at": "2026-03-03T16:04:51.631327"
+  },
+  {
+    "id": "44039aef2bd9679ab08c8fc6dee33757",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/855609/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 11 maart 2026:",
+    "published_at": "2026-03-03 16:14",
+    "scraped_at": "2026-03-03T16:04:51.631327"
+  },
+  {
+    "id": "b59e174a8ae418511cc0f1fc372a8bcf",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/855610/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 11 maart 2026:",
+    "published_at": "2026-03-03 16:14",
+    "scraped_at": "2026-03-03T16:04:51.631327"
+  },
+  {
     "id": "ac6ced4cd52b9d7c14d9b6c8585131d2",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht moeizame dag",
     "link": "https://www.beurs.nl/Nieuws/855594/Wall-Street-wacht-moeizame-dag.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een flink lagere opening tegemoet. Futures op de SP 500 verloren ongeveer een half uur voor de openingsbel 1,4 procent. De Nasdaq-future daalde met 1,9 procent.",
     "published_at": "2026-03-03 14:47",
-    "scraped_at": "2026-03-03T15:09:42.285349"
+    "scraped_at": "2026-03-03T16:04:51.631327"
   },
   {
     "id": "10a665c7acdf7f369ec211afb049b801",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855591/Elliott-investeert-1-miljard-dollar-in-Pinterest.aspx",
     "intro": "Pinterest heeft een investering van 1 miljard dollar ontvangen van Elliott Investment Management. Dit maakte Pinterest dinsdag bekend.",
     "published_at": "2026-03-03 14:34",
-    "scraped_at": "2026-03-03T15:09:42.285349"
+    "scraped_at": "2026-03-03T16:04:51.631327"
   },
   {
     "id": "d837edeba8768b4ed9e21f5872270ecb",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855580/CVC-verkoopt-WWEX-Group-aan-Thoma-Bravo.aspx",
     "intro": "CVC Capital Partners heeft samen met consortium aan investeerders de logistiek dienstverlener WWEX Group verkocht aan technologie-investeerder Thoma Bravo. Dat maakten de partijen dinsdag bekend.",
     "published_at": "2026-03-03 13:57",
-    "scraped_at": "2026-03-03T15:09:42.285349"
+    "scraped_at": "2026-03-03T16:04:51.631327"
   },
   {
     "id": "74454f665abd3d3c6ac66ca418c3f005",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855579/Best-Buy-boekt-hogere-winst-ondanks-tegenvallende-omzet.aspx",
     "intro": "Best Buy heeft in het afgelopen kwartaal een lagere omzet geboekt dan analisten hadden verwacht, maar de winstgevendheid verbeterde flink en bleek ook beter dan voorzien. Dat bleek dinsdagmiddag uit de kwartaalcijfers van de Amerikaanse retailer.",
     "published_at": "2026-03-03 13:39",
-    "scraped_at": "2026-03-03T15:09:42.285349"
+    "scraped_at": "2026-03-03T16:04:51.631327"
   },
   {
     "id": "694545a2b23537bf50fe24fb3dd8b600",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855578/Bestuursvoorzitter-Sawiris-van-OCI-vertrekt-bij-komende-jaarvergadering.aspx",
     "intro": "Nassef Sawiris zal bij de komende jaarvergadering opstappen als bestuursvoorzitter van OCI. Dit meldde het bedrijf dinsdag.",
     "published_at": "2026-03-03 13:28",
-    "scraped_at": "2026-03-03T15:09:42.285349"
+    "scraped_at": "2026-03-03T16:04:51.631327"
   },
   {
     "id": "7f625ae26c2812756c57b480149f9ee2",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855575/Prosus-leidt-investeringsronde-voor-Flink.aspx",
     "intro": "Flink, aanbieder van flitsbezorging in Duitsland en Nederland, heeft circa 100 miljoen dollar aan nieuw groeikapitaal opgehaald. Dit maakte Prosus dinsdag bekend in een persbericht.",
     "published_at": "2026-03-03 13:12",
-    "scraped_at": "2026-03-03T15:09:42.285349"
+    "scraped_at": "2026-03-03T16:04:51.631327"
   },
   {
     "id": "5bc9bc778e3b19bf0fef088a1054ed22",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855574/Target-beloond-voor-outlook.aspx",
     "intro": "Target heeft min of meer zoals verwacht gepresteerd en rekent voor 2026 op meer omzet en winst. Dit bleek dinsdag uit cijfers van de Amerikaanse retailer.",
     "published_at": "2026-03-03 13:06",
-    "scraped_at": "2026-03-03T15:09:42.285349"
-  },
-  {
-    "id": "1eccda2dca9363d4a479a9812d4dea8b",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen donkerrode opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/855569/Futures-voorspellen-donkerrode-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een flink lagere opening tegemoet. Futures op de SP 500 verloren rond lunchtijd bijna 2 procent. De Nasdaq-future daalde zelfs met 2,5 procent.",
-    "published_at": "2026-03-03 12:36",
-    "scraped_at": "2026-03-03T15:09:42.285349"
-  },
-  {
-    "id": "5d2bb5d8aa9b696c31658a934449eff2",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hard onderuit rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/855568/Europese-beurzen-hard-onderuit-rond-middaguur.aspx",
-    "intro": "De aandelenmarkten in Europa gingen dinsdag rond het middaguur hard onderuit, terwijl de energieprijzen verder opliepen te midden van de oorlog in het Midden-Oosten.",
-    "published_at": "2026-03-03 12:02",
-    "scraped_at": "2026-03-03T15:09:42.285349"
-  },
-  {
-    "id": "8dab21c4ed45b12d59b17b092b38d32e",
-    "categorie": "Beursnieuws",
-    "titel": "\"Ogen gericht op outlook ASMI\"",
-    "link": "https://www.beurs.nl/Nieuws/855557/Ogen-gericht-op-outlook-ASMI.aspx",
-    "intro": "De kwartaalcijfers die ASMI vanavond publiceert, zullen geen grote verrassing meer zijn na de voorlopige cijfers van medio januari, waardoor de markt nog meer zal letten op de outlook.",
-    "published_at": "2026-03-03 11:11",
-    "scraped_at": "2026-03-03T15:09:42.285349"
+    "scraped_at": "2026-03-03T16:04:51.631327"
   }
 ]
