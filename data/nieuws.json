@@ -1,12 +1,21 @@
 [
   {
+    "id": "ba0c86f3afdefce7c06db5306cf01449",
+    "categorie": "Beursnieuws",
+    "titel": "Eurocommercial Properties koopt winkelcentrum Zweden",
+    "link": "https://www.beurs.nl/Nieuws/855803/Eurocommercial-Properties-koopt-winkelcentrum-Zweden.aspx",
+    "intro": "Eurocommercial Properties heeft het Avion Shopping Centre in het Zweedse Umeå overgenomen van Ingka Centres voor circa 110 miljoen euro. Dit maakte het vastgoedfonds woensdag bekend.",
+    "published_at": "2026-03-04 18:03",
+    "scraped_at": "2026-03-04T18:00:42.240659"
+  },
+  {
     "id": "e0414a1db07dd7ac72032c2f2d682d50",
     "categorie": "Beursnieuws",
     "titel": "AEX sluit nipt boven 1.000 punten",
     "link": "https://www.beurs.nl/Nieuws/855797/AEX-sluit-nipt-boven-1000-punten.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger gesloten, net als de beurzen in de omringende landen, die herstelden na twee dagen van koersdruk vanwege de situatie rondom Iran.",
     "published_at": "2026-03-04 17:49",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   },
   {
     "id": "4b312cf5e85af2baba622fee56d98567",
@@ -15,7 +24,7 @@
     "link": "https://www.iex.nl/artikel/855794/Slotcall-het-Damrak-herstelt-knap-na-het-pak-slaag-van-gisteren.aspx",
     "intro": "De AEX heeft de tik van gisteren van zich afgeschud. De hoofdindex sluit zojuist 1% hoger op 1.000,02 punten.",
     "published_at": "2026-03-04 17:35",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   },
   {
     "id": "94288ca14c78a49af85b8c4080e5a16e",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855792/Amerikaanse-olievoorraden-nemen-toe.aspx",
     "intro": "(ABM FN-Dow Jones) De voorraden ruwe olie in de Verenigde Staten zijn vorige week sterker dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-03-04 16:42",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   },
   {
     "id": "596f93837cbdc7b583b0cc2a7f13d9ab",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855786/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 12 maart 2026:",
     "published_at": "2026-03-04 16:14",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   },
   {
     "id": "de8c0108b9974c89f49378cc58ceafa9",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855787/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 12 maart 2026:",
     "published_at": "2026-03-04 16:14",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   },
   {
     "id": "09f2c412080990ed324bb8090eb19d80",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855788/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 12 maart 2026:",
     "published_at": "2026-03-04 16:14",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   },
   {
     "id": "b2e94f2bcb7fd023660a162c5f404022",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855785/ISM-groei-Amerikaanse-dienstensector-versnelt.aspx",
     "intro": "De Amerikaanse dienstensector is in februari sneller gegroeid dan een maand eerder. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-03-04 16:12",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   },
   {
     "id": "2db6cd941135f84ad95b4d9a001edf2e",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855784/Update-SP-Amerikaanse-dienstensector-groeit-minder-hard.aspx",
     "intro": "De groei in de Amerikaanse dienstensector is in februari gedaald. Dit bleek woensdag uit cijfers van SP Global.",
     "published_at": "2026-03-04 16:00",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   },
   {
     "id": "0a39b3590165bff7a0e0df139b33b6d2",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855783/SP-Amerikaanse-dienstensector-stijgt-minder-hard.aspx",
     "intro": "De groei in de Amerikaanse dienstensector is in februari minder hard gestegen dan verwacht. Dit bleek woensdag uit cijfers van SP Global.",
     "published_at": "2026-03-04 15:54",
-    "scraped_at": "2026-03-04T17:05:34.084605"
-  },
-  {
-    "id": "406298b2173cc8be43b665b3d76cd034",
-    "categorie": "Beursnieuws",
-    "titel": "Licht hogere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/855774/Licht-hogere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening tot 0,3 procent in het groen.",
-    "published_at": "2026-03-04 14:48",
-    "scraped_at": "2026-03-04T17:05:34.084605"
+    "scraped_at": "2026-03-04T18:00:42.240659"
   }
 ]
