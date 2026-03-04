@@ -1,12 +1,21 @@
 [
   {
+    "id": "b20ee6a78398eaadac1dfcda20720f69",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street kijkt voorzichtig omhoog",
+    "link": "https://www.beurs.nl/Nieuws/855744/Wall-Street-kijkt-voorzichtig-omhoog.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,3 procent in het groen.",
+    "published_at": "2026-03-04 12:49",
+    "scraped_at": "2026-03-04T12:25:48.608244"
+  },
+  {
     "id": "5b31402ab8dd7c26f6edc9b8a5a8524f",
     "categorie": "Beursnieuws",
     "titel": "Hersteldag op Europese beurzen",
     "link": "https://www.beurs.nl/Nieuws/855733/Hersteldag-op-Europese-beurzen.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger.",
     "published_at": "2026-03-04 12:15",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   },
   {
     "id": "e57192496ddb45887f8157bc4b6a6b4b",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/855726/Halfgeleiders-zetten-AEX-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend overtuigend hoger, na twee dagen van flinke dalingen.",
     "published_at": "2026-03-04 11:19",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   },
   {
     "id": "e72d583afd5171a5021b4258f2f7a365",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855725/Producentenprijzen-eurozone-gestegen-in-januari.aspx",
     "intro": "De producentenprijzen in de eurozone zijn in januari gestegen. Dit bleek woensdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-03-04 11:09",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   },
   {
     "id": "a5358feadc4014da0ee0db182de0e06d",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855724/Werkloosheid-in-de-eurozone-iets-omlaag.aspx",
     "intro": "De werkloosheid in de eurozone is in januari licht gedaald. Dit bleek woensdag uit cijfers van Eurostat.",
     "published_at": "2026-03-04 11:07",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   },
   {
     "id": "0df187a4a924d3ef71784f9a4270d5db",
@@ -42,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/855481/Must-read-Wat-als-de-oorlog-met-Iran-langer-duurt.aspx",
     "intro": "Plus: obligaties blijven een must have, experts tippen drie Nederlandse herstelkandidaten, minder risico met impactobligaties, Chinese AI-bedrijven willen de wereld veroveren, en meer.",
     "published_at": "2026-03-04 10:50",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   },
   {
     "id": "59f5f8c7f4590749c32d298a3e35f27a",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855722/Britse-dienstensector-groeit-in-stabiel-tempo.aspx",
     "intro": "De dienstensector in het Verenigd Koninkrijk is in februari in een stabiel tempo gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
     "published_at": "2026-03-04 10:44",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   },
   {
     "id": "d70026a77594e6721f09b5272f88df97",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855718/Dassault-boekt-hogere-omzet.aspx",
     "intro": "Dassault Aviation heeft in 2025 de omzet sterker zien aantrekken dan verwacht, aangejaagd door de vraag naar de Falcon-privéjets van het bedrijf. Dit bleek woensdag uit cijfers van de Franse bouwer van onder meer jets en legervliegtuigen.",
     "published_at": "2026-03-04 10:26",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   },
   {
     "id": "5e19d1d0df21e3d2dcfd340d1b606123",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855717/Dienstensector-eurozone-blijft-groeien.aspx",
     "intro": "De dienstensector in de eurozone is in februari harder gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
     "published_at": "2026-03-04 10:07",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   },
   {
     "id": "c31368ce0a9e4725c699ed21cbf4814b",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855716/Duitse-dienstensector-groeit-in-hoger-tempo.aspx",
     "intro": "De dienstensector in Duitsland is in februari harder gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
     "published_at": "2026-03-04 10:02",
-    "scraped_at": "2026-03-04T11:49:04.410379"
-  },
-  {
-    "id": "5e0f64672add3d765563be0941135634",
-    "categorie": "Beursnieuws",
-    "titel": "Minder krimp in Franse dienstensector",
-    "link": "https://www.beurs.nl/Nieuws/855714/Minder-krimp-in-Franse-dienstensector.aspx",
-    "intro": "De dienstensector in Frankrijk is in februari minder hard gekrompen. Dit bleek woensdag uit de cijfers van SP Global.",
-    "published_at": "2026-03-04 09:56",
-    "scraped_at": "2026-03-04T11:49:04.410379"
+    "scraped_at": "2026-03-04T12:25:48.608244"
   }
 ]
