@@ -1,12 +1,66 @@
 [
   {
+    "id": "4ae2e9a52c65009ad8946f126b2a792a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: KBC Securities verhoogt koersdoel ASMI",
+    "link": "https://www.beurs.nl/Nieuws/855706/Beursblik-KBC-Securities-verhoogt-koersdoel-ASMI.aspx",
+    "intro": "KBC Securities heeft woensdag het koersdoel voor ASMI verhoogd van 567 naar 658 euro, maar verlaagde wel het advies van Accumuleren naar Houden. Dit bleek uit een analistenrapport, nadat ASMI dinsdagavond met cijfers kwam.",
+    "published_at": "2026-03-04 09:16",
+    "scraped_at": "2026-03-04T08:20:42.652173"
+  },
+  {
+    "id": "0eeefe703af7ae30a208b186b1cf2026",
+    "categorie": "Beursnieuws",
+    "titel": "ASMI en Wolters Kluwer helpen AEX in het groen",
+    "link": "https://www.beurs.nl/Nieuws/855705/ASMI-en-Wolters-Kluwer-helpen-AEX-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs is woensdag hoger geopend, geholpen door de koerswinsten van Wolters Kluwer en ASMI.",
+    "published_at": "2026-03-04 09:10",
+    "scraped_at": "2026-03-04T08:20:42.652173"
+  },
+  {
+    "id": "4c3a651b8f155a41ebcf77943fb4001c",
+    "categorie": "Beursnieuws",
+    "titel": "Bayer ziet verlies toenemen",
+    "link": "https://www.beurs.nl/Nieuws/855700/Bayer-ziet-verlies-toenemen.aspx",
+    "intro": "Bayer heeft in het vierde kwartaal een groter verlies geboekt, waarbij juridische kosten gerelateerd aan onkruidverdelger Roundup op de resultaten drukten. Dit bleek woensdag uit cijfers van het Duitse bedrijf.",
+    "published_at": "2026-03-04 08:41",
+    "scraped_at": "2026-03-04T08:20:42.652173"
+  },
+  {
+    "id": "3ef56f189c78b240b54ba21af35de20f",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank zet AMG op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/855701/Deutsche-Bank-zet-AMG-op-de-kooplijst.aspx",
+    "intro": "Deutsche Bank heeft woensdag het advies voor AMG verhoogd van Houden naar Kopen, waarbij het koersdoel met een euro werd verhoogd naar 42,00 euro. Dit bleek uit een rapport van analist Michael Kuhn.",
+    "published_at": "2026-03-04 08:37",
+    "scraped_at": "2026-03-04T08:20:42.652173"
+  },
+  {
+    "id": "fde699cb157188dd17debbf6d1e14ff1",
+    "categorie": "Beursnieuws",
+    "titel": "Adidas realiseert recordomzet in 2025",
+    "link": "https://www.beurs.nl/Nieuws/855698/Adidas-realiseert-recordomzet-in-2025.aspx",
+    "intro": "De operationele winst steeg met 54 procent tot 2,06 miljard euro, de operationele marge nam met 2,6 procentpunten toe tot 8,3 procent.",
+    "published_at": "2026-03-04 08:30",
+    "scraped_at": "2026-03-04T08:20:42.652173"
+  },
+  {
+    "id": "6c1bd22a617182e6a33f0d14fcc21a5e",
+    "categorie": "Voorbeurs",
+    "titel": "Kospi keldert met 12%, VIX piekt, maar vormt ASMI lichtpuntje?",
+    "link": "https://www.beurs.nl/Artikel/855667/Kospi-keldert-met-12-VIX-piekt-maar-vormt-ASMI-lichtpuntje.aspx",
+    "intro": "Openingsindicatie: +0,4%. Beurs Zuid-Korea hard onderuit, Nikkei -3,6%, VIX-index loopt op, net als olie en goud. En verder: cijfers ASMI en vanavond Broadcom.",
+    "published_at": "2026-03-04 08:30",
+    "scraped_at": "2026-03-04T08:20:42.652173"
+  },
+  {
     "id": "6a577d4091b5bf463cf278bc36c484d9",
     "categorie": "Beursnieuws",
     "titel": "Beveiligingsprobleem met IT van Cabka",
     "link": "https://www.beurs.nl/Nieuws/855696/Beveiligingsprobleem-met-IT-van-Cabka.aspx",
     "intro": "Cabka heeft een probleem vastgesteld in zijn IT-beveiliging. Dit maakte het in Amsterdam genoteerde bedrijf woensdagochtend bekend.",
     "published_at": "2026-03-04 08:20",
-    "scraped_at": "2026-03-04T07:28:16.780361"
+    "scraped_at": "2026-03-04T08:20:42.652173"
   },
   {
     "id": "a2bda8fd393294d38f3f6066efe7c977",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855694/Voorzichtige-opening-AEX-voorzien.aspx",
     "intro": "De Amsterdamse beurs gaat woensdag een min of meer vlakke opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,1 procent in het groen. Dinsdag sloot de hoofdgraadmeter nog 2,5 procent lager op 990,24 punten.",
     "published_at": "2026-03-04 08:10",
-    "scraped_at": "2026-03-04T07:28:16.780361"
+    "scraped_at": "2026-03-04T08:20:42.652173"
   },
   {
     "id": "d8cff6ed1261745a9e68d6b0475ad1f3",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855692/Beursblik-sterke-outlook-bij-ASMI.aspx",
     "intro": "ASMI is dinsdagavond met een sterk kwartaalrapport gekomen. Dit concludeerde analist Andrew Gardiner van Citi Research in een rapport.",
     "published_at": "2026-03-04 07:52",
-    "scraped_at": "2026-03-04T07:28:16.780361"
+    "scraped_at": "2026-03-04T08:20:42.652173"
   },
   {
     "id": "a5a9ad27f553505dfd98a0c36af011fc",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855686/Aziatische-beurzen-opnieuw-onderuit.aspx",
     "intro": "De Aziatische beurzen stonden ook woensdag weer flink onder druk, vanwege de aanhoudende geopolitieke zorgen.",
     "published_at": "2026-03-04 07:31",
-    "scraped_at": "2026-03-04T07:28:16.780361"
-  },
-  {
-    "id": "3f9d8b5a76a6a2a6a27b56781adefb7b",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen terughoudend",
-    "link": "https://www.beurs.nl/Nieuws/855679/Europese-beurzen-openen-terughoudend.aspx",
-    "intro": "De Europese beurzen gaan woensdag een terughoudende opening tegemoet. Na enkele stevige verliesdagen op rij, lijkt er vanochtend sprake van enige stabilisatie, terwijl de seinen in Azië nog donkerrood zijn.",
-    "published_at": "2026-03-04 07:10",
-    "scraped_at": "2026-03-04T07:28:16.780361"
-  },
-  {
-    "id": "f80e4d1a03a2cfc385a80c694828cc45",
-    "categorie": "Beursnieuws",
-    "titel": "China groeit in veel hoger tempo",
-    "link": "https://www.beurs.nl/Nieuws/855678/China-groeit-in-veel-hoger-tempo.aspx",
-    "intro": "De Chinese economie is in februari veel harder gegroeid dan in januari. Dit bleek woensdag uit definitieve cijfers van SP Global en RatingDog.",
-    "published_at": "2026-03-04 07:05",
-    "scraped_at": "2026-03-04T07:28:16.780361"
-  },
-  {
-    "id": "23344cc003af4d8b4f052f47f9112ba5",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse dienstensector groeit nog iets harder",
-    "link": "https://www.beurs.nl/Nieuws/855677/Japanse-dienstensector-groeit-nog-iets-harder.aspx",
-    "intro": "De Japanse dienstensector is in februari in een nog iets hoger tempo gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-03-04 06:55",
-    "scraped_at": "2026-03-04T07:28:16.780361"
-  },
-  {
-    "id": "8141341f2dafab35134539e48ee8cb7c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/855674/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 11 maart 2026:",
-    "published_at": "2026-03-04 06:50",
-    "scraped_at": "2026-03-04T07:28:16.780361"
-  },
-  {
-    "id": "bb39affb94814c9053f4fb883cc295e8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/855675/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 11 maart 2026:",
-    "published_at": "2026-03-04 06:50",
-    "scraped_at": "2026-03-04T07:28:16.780361"
-  },
-  {
-    "id": "0a8ae7b7586831af26efd054692f9b5f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/855673/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 11 maart 2026:",
-    "published_at": "2026-03-04 06:49",
-    "scraped_at": "2026-03-04T07:28:16.780361"
+    "scraped_at": "2026-03-04T08:20:42.652173"
   }
 ]
