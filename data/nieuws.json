@@ -1,12 +1,21 @@
 [
   {
+    "id": "406298b2173cc8be43b665b3d76cd034",
+    "categorie": "Beursnieuws",
+    "titel": "Licht hogere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/855774/Licht-hogere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening tot 0,3 procent in het groen.",
+    "published_at": "2026-03-04 14:48",
+    "scraped_at": "2026-03-04T14:28:15.908053"
+  },
+  {
     "id": "a8c78dd171d912eb717e048240967c59",
     "categorie": "Beursnieuws",
     "titel": "Media: Vopak stelt investeringsbesluit LNG-terminal Zuid-Afrika uit",
     "link": "https://www.beurs.nl/Nieuws/855767/Media-Vopak-stelt-investeringsbesluit-LNG-terminal-Zuid-Afrika-uit.aspx",
     "intro": "Vopak heeft het definitieve investeringsbesluit voor de eerste LNG-terminal van Zuid-Afrika uitgesteld tot het eerste kwartaal van 2028. Dit meldde persbureau Reuters op basis van uitspraken van een senior bestuurder van het bedrijf.",
     "published_at": "2026-03-04 14:21",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   },
   {
     "id": "ae07b246d451c51886f9b14dd7cc9c4e",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/855768/ADP-sterke-banengroei-in-private-sector-VS.aspx",
     "intro": "De werkgelegenheid in de private sector in de Verenigde Staten is in februari harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van loonstrookjesverwerker ADP.",
     "published_at": "2026-03-04 14:21",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   },
   {
     "id": "6c5716cd7c5c17771483e76cff53680f",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855762/Media-Bessent-kondigt-invoering-15-procent-tarief-aan.aspx",
     "intro": "Het wereldwijde importtarief van 15 procent dat de Amerikaanse president Donald Trump onlangs aankondigde, gaat deze week in. Dit zei minister van Financiën Scott Bessent woensdag in een interview met CNBC.",
     "published_at": "2026-03-04 13:45",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   },
   {
     "id": "7341a05180e98a7fcffe01f5a3e7a3f8",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855761/IMCD-wijst-commercieel-directeur-aan.aspx",
     "intro": "IMCD heeft Andreas Igerl voorgedragen als commercieel directeur en lid van de raad van bestuur. Dit maakte het Rotterdamse chemiebedrijf woensdag bekend.",
     "published_at": "2026-03-04 13:32",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   },
   {
     "id": "da853fef58fe40f7d3f2881948bccd33",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/855760/Beursblik-TKH-presteerde-in-tweede-jaarhelft-vermoedelijk-beter.aspx",
     "intro": "TKH Group heeft in de tweede helft van 2025 waarschijnlijk beter gepresteerd dan in de eerste zes maanden, conform de outlook van het bedrijf. Dit bleek in aanloop naar de jaarcijfers van het technologiebedrijf uit Haaksbergen op donderdag.",
     "published_at": "2026-03-04 13:31",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   },
   {
     "id": "b20ee6a78398eaadac1dfcda20720f69",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855744/Wall-Street-kijkt-voorzichtig-omhoog.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,3 procent in het groen.",
     "published_at": "2026-03-04 12:49",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   },
   {
     "id": "5b31402ab8dd7c26f6edc9b8a5a8524f",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855733/Hersteldag-op-Europese-beurzen.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger.",
     "published_at": "2026-03-04 12:15",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   },
   {
     "id": "e57192496ddb45887f8157bc4b6a6b4b",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855726/Halfgeleiders-zetten-AEX-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend overtuigend hoger, na twee dagen van flinke dalingen.",
     "published_at": "2026-03-04 11:19",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   },
   {
     "id": "e72d583afd5171a5021b4258f2f7a365",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855725/Producentenprijzen-eurozone-gestegen-in-januari.aspx",
     "intro": "De producentenprijzen in de eurozone zijn in januari gestegen. Dit bleek woensdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-03-04 11:09",
-    "scraped_at": "2026-03-04T13:45:02.635281"
-  },
-  {
-    "id": "a5358feadc4014da0ee0db182de0e06d",
-    "categorie": "Beursnieuws",
-    "titel": "Werkloosheid in de eurozone iets omlaag",
-    "link": "https://www.beurs.nl/Nieuws/855724/Werkloosheid-in-de-eurozone-iets-omlaag.aspx",
-    "intro": "De werkloosheid in de eurozone is in januari licht gedaald. Dit bleek woensdag uit cijfers van Eurostat.",
-    "published_at": "2026-03-04 11:07",
-    "scraped_at": "2026-03-04T13:45:02.635281"
+    "scraped_at": "2026-03-04T14:28:15.908053"
   }
 ]
