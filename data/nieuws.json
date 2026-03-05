@@ -1,12 +1,57 @@
 [
   {
+    "id": "f47f368a9a9eec7c00530e785a9f5335",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/855960/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 13 maart 2026:",
+    "published_at": "2026-03-05 16:39",
+    "scraped_at": "2026-03-05T16:07:54.026000"
+  },
+  {
+    "id": "1b8b3fd9ebee348826d54f2293fb65d6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/855962/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 13 maart 2026:",
+    "published_at": "2026-03-05 16:39",
+    "scraped_at": "2026-03-05T16:07:54.026000"
+  },
+  {
+    "id": "4331f28eeb13e3532f72123943a1580e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/855963/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 13 maart 2026:",
+    "published_at": "2026-03-05 16:39",
+    "scraped_at": "2026-03-05T16:07:54.026000"
+  },
+  {
+    "id": "d8981cf6e3a5f69de3d4e91a2e511081",
+    "categorie": "Beursnieuws",
+    "titel": "ECB-notulen: modellen blind voor risico's goedkope Chinese import",
+    "link": "https://www.beurs.nl/Nieuws/855959/ECB-notulen-modellen-blind-voor-risicos-goedkope-Chinese-import.aspx",
+    "intro": "Goedkope import uit China geldt in de beschikbare macro-economische modellen als gunstig voor de welvaart in Europa, omdat consumenten hierdoor meer kunnen kopen, terwijl die modellen de nadelen niet zien. Dat blijkt uit de notulen van de vorige monetaire beleidsvergadering van de Europese Centrale Bank, die donderdag werden gepubliceerd.",
+    "published_at": "2026-03-05 16:34",
+    "scraped_at": "2026-03-05T16:07:54.026000"
+  },
+  {
+    "id": "3f867119140d646225d28013a1c8db4a",
+    "categorie": "Beursnieuws",
+    "titel": "Video: nog geen paniek in de oliemarkt",
+    "link": "https://www.beurs.nl/Nieuws/855958/Video-nog-geen-paniek-in-de-oliemarkt.aspx",
+    "intro": "Er is nog geen sprake van paniek in de oliemarkt. Dit zei energie-econoom Hans van Cleef van EqoLibrium voor de camera tegen ABM Financial News.",
+    "published_at": "2026-03-05 16:20",
+    "scraped_at": "2026-03-05T16:07:54.026000"
+  },
+  {
     "id": "3d4d2d9f6da8d70525341882fa0d616d",
     "categorie": "Beursnieuws",
     "titel": "Kroger rekent op tragere omzetgroei in 2026",
     "link": "https://www.beurs.nl/Nieuws/855955/Kroger-rekent-op-tragere-omzetgroei-in-2026.aspx",
     "intro": "Kroger heeft in het vierde kwartaal van 2025 meer winst en omzet geboekt, maar voorspelt voor 2026 een tragere omzetgroei, terwijl het bedrijf focust op een betere klantervaring, lagere kosten en hogere productiviteit. Dit bleek donderdag uit de kwartaalcijfers van de Amerikaanse supermarktketen.",
     "published_at": "2026-03-05 15:59",
-    "scraped_at": "2026-03-05T15:10:12.700593"
+    "scraped_at": "2026-03-05T16:07:54.026000"
   },
   {
     "id": "071b8bf1db4525c46740e806085fc68d",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855951/Wall-Street-op-weg-naar-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, nadat de Verenigde Staten en Iran lieten blijken dat ze bereid zijn om hun militaire conflict verder te escaleren.",
     "published_at": "2026-03-05 15:05",
-    "scraped_at": "2026-03-05T15:10:12.700593"
+    "scraped_at": "2026-03-05T16:07:54.026000"
   },
   {
     "id": "32dd52885d7fce9973920658f7f8dfcd",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855948/Amerikaanse-arbeidskosten-lopen-op.aspx",
     "intro": "De arbeidskosten in de Verenigde Staten zijn in het vierde kwartaal van 2025 sterker dan verwacht gestegen. Dit bleek donderdag uit de cijfers van de Amerikaanse overheid.",
     "published_at": "2026-03-05 14:46",
-    "scraped_at": "2026-03-05T15:10:12.700593"
+    "scraped_at": "2026-03-05T16:07:54.026000"
   },
   {
     "id": "d03f7546205860f4dc7ad1847b8edec5",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855947/Maaltijdbezorging-zorgt-voor-rode-cijfers-bij-JDcom.aspx",
     "intro": "JD.com heeft voor het eerst in vier jaar een kwartaalverlies geleden, mede door de uitdagende markt voor maaltijdbezorging in China. Dit bleek donderdag uit cijfers van de Chinese e-commercereus.",
     "published_at": "2026-03-05 14:42",
-    "scraped_at": "2026-03-05T15:10:12.700593"
+    "scraped_at": "2026-03-05T16:07:54.026000"
   },
   {
     "id": "3c6bf84ab4c5c7c4f75c938848a7e284",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855945/Steunvragen-in-de-VS-ongewijzigd.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gelijk gebleven. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-03-05 14:35",
-    "scraped_at": "2026-03-05T15:10:12.700593"
-  },
-  {
-    "id": "8f5710d3196072b63a0c174449207378",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse importprijzen licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/855946/Amerikaanse-importprijzen-licht-gestegen.aspx",
-    "intro": "De Amerikaanse importprijzen zijn in januari licht gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
-    "published_at": "2026-03-05 14:35",
-    "scraped_at": "2026-03-05T15:10:12.700593"
-  },
-  {
-    "id": "90a06ae4f1168c857314f7e3941b8e78",
-    "categorie": "Beursnieuws",
-    "titel": "BAM gaat ProRail-kantoren beheren",
-    "link": "https://www.beurs.nl/Nieuws/855936/BAM-gaat-ProRail-kantoren-beheren.aspx",
-    "intro": "BAM gaat de komende jaren meer dan dertig kantoren en andere locaties van ProRail in Nederland beheren en onderhouden. Het bouwbedrijf maakte dat donderdag bekend, zonder financiële details te melden.",
-    "published_at": "2026-03-05 13:39",
-    "scraped_at": "2026-03-05T15:10:12.700593"
-  },
-  {
-    "id": "9f4e526b7bc595225d727e94b66c7cec",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke futures op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/855934/Vlakke-futures-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een vlakke opening tegemoet, waarbij de olieprijs verder steeg, nadat de Verenigde Staten en Iran lieten blijken dat ze bereid zijn hun militaire conflict verder te escaleren.",
-    "published_at": "2026-03-05 13:15",
-    "scraped_at": "2026-03-05T15:10:12.700593"
-  },
-  {
-    "id": "0d634dd38cf4b2a1fff248510a1b33b0",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel ASMI",
-    "link": "https://www.beurs.nl/Nieuws/855931/Bank-of-America-verhoogt-koersdoel-ASMI.aspx",
-    "intro": "Bank of America heeft donderdag het koersdoel voor ASMI verhoogd van 858 naar 882 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
-    "published_at": "2026-03-05 12:15",
-    "scraped_at": "2026-03-05T15:10:12.700593"
-  },
-  {
-    "id": "1bfe0d6165ed4347170fb159116b6c39",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/855930/Europese-beurzen-in-het-groen.aspx",
-    "intro": "De Europese beurzen noteerden donderdag rond het middaguur hoger.",
-    "published_at": "2026-03-05 12:13",
-    "scraped_at": "2026-03-05T15:10:12.700593"
+    "scraped_at": "2026-03-05T16:07:54.026000"
   }
 ]
