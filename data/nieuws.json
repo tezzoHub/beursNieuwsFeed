@@ -1,12 +1,30 @@
 [
   {
+    "id": "1adf6cfafe9d4fd375dfa07fb88dc8b6",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Oracle wil duizenden banen schrappen",
+    "link": "https://www.beurs.nl/Nieuws/856019/Media-Oracle-wil-duizenden-banen-schrappen.aspx",
+    "intro": "Oracle is van plan om duizenden banen te schrappen als onderdeel van maatregelen om een liquiditeitsprobleem als gevolg van de enorme uitbreiding van AI-datacenters het hoofd te bieden. Dit meldde onder meer persbureau Bloomberg donderdag op basis van bronnen.",
+    "published_at": "2026-03-05 20:12",
+    "scraped_at": "2026-03-05T19:42:35.060045"
+  },
+  {
+    "id": "c2efed0327485bc2b0e9b1a7c1579220",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street onder druk terwijl olieprijs verder stijgt",
+    "link": "https://www.beurs.nl/Nieuws/856018/Wall-Street-onder-druk-terwijl-olieprijs-verder-stijgt.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag flink lager met nog een paar uur handel te gaan.",
+    "published_at": "2026-03-05 19:38",
+    "scraped_at": "2026-03-05T19:42:35.060045"
+  },
+  {
     "id": "5c80e8396a931d6309590f8855db9751",
     "categorie": "Beursnieuws",
     "titel": "Triple Finance rondt binnenkort eerste kapitaalronde af",
     "link": "https://www.beurs.nl/Nieuws/856013/Triple-Finance-rondt-binnenkort-eerste-kapitaalronde-af.aspx",
     "intro": "Triple Finance Group zal in de komende weken naar verwachting een eerste kapitaalronde afronden van ongeveer 25 miljoen euro. Dit meldde het voormalige Lavide donderdag in een strategische update.",
     "published_at": "2026-03-05 19:10",
-    "scraped_at": "2026-03-05T18:24:40.937000"
+    "scraped_at": "2026-03-05T19:42:35.060045"
   },
   {
     "id": "1a6aae4771fa2d63f153bfdd5252f979",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856010/New-Sources-Energy-mogelijk-aan-de-slag-in-Italie.aspx",
     "intro": "New Sources Energy heeft met het Italiaanse Hydro Drilling een intentieovereenkomst ondertekend voor een mogelijke strategische samenwerking in Pisa. Dit meldde New Sources Energy donderdagavond.",
     "published_at": "2026-03-05 18:59",
-    "scraped_at": "2026-03-05T18:24:40.937000"
+    "scraped_at": "2026-03-05T19:42:35.060045"
   },
   {
     "id": "fa2f782933818d989e657880eb63892e",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856007/Europese-beurzen-toch-weer-hard-onderuit.aspx",
     "intro": "De Europese aandelenmarkten zijn donderdag lager geëindigd tijdens de zesde dag van de oorlog in het Midden-Oosten. Het herstel van een dag eerder kreeg geen vervolg.",
     "published_at": "2026-03-05 18:51",
-    "scraped_at": "2026-03-05T18:24:40.937000"
+    "scraped_at": "2026-03-05T19:42:35.060045"
   },
   {
     "id": "07fee0393f7a6c85fdccd8993f99d019",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856002/Hogere-resultaten-voor-Banijay.aspx",
     "intro": "Banijay heeft in 2025 de winstgevendheid harder zien stijgen dan de omzet, die slechts licht steeg. Dit maakte het bedrijf in contentproductie met een online gokplatform voor sportwedstrijden donderdagavond bekend.",
     "published_at": "2026-03-05 18:40",
-    "scraped_at": "2026-03-05T18:24:40.937000"
+    "scraped_at": "2026-03-05T19:42:35.060045"
   },
   {
     "id": "e24b18c0d0ac560574a3b66f96a62143",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855998/Stijgend-resultaat-voor-Eurocommercial-Properties.aspx",
     "intro": "Eurocommercial Properties zag afgelopen jaar het directe beleggingsresultaat stijgen, dankzij stijgende huurinkomsten, en rekent voor 2026 op een verdere verbetering. Dat bleek donderdag uit de update van het vastgoedbedrijf.",
     "published_at": "2026-03-05 18:28",
-    "scraped_at": "2026-03-05T18:24:40.937000"
+    "scraped_at": "2026-03-05T19:42:35.060045"
   },
   {
     "id": "6c3a6ff1bbf5ed752075a8556cb725c2",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855997/MotorK-positief-gestemd-voor-2026.aspx",
     "intro": "MotorK heeft in 2025 een licht hogere omzet geboekt, terwijl het resultaat flink verbeterde op jaarbasis, waardoor het bedrijf ook positief gestemd is voor het nieuwe jaar. Dit meldde de Britse softwareproducent met een notering in Amsterdam donderdagavond, nadat het in februari al met voorlopige cijfers was gekomen.",
     "published_at": "2026-03-05 18:22",
-    "scraped_at": "2026-03-05T18:24:40.937000"
+    "scraped_at": "2026-03-05T19:42:35.060045"
   },
   {
     "id": "824f96cc3b8b053830fc5ee438291f78",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855996/UMG-ziet-voorlopig-af-van-Amerikaanse-notering.aspx",
     "intro": "Universal Music Group heeft in het vierde kwartaal van 2025 een hogere omzet geboekt, terwijl de marge licht verbeterde en de streamingactiviteiten weer groeiden. Dit bleek donderdagavond uit de cijfers van het muziekbedrijf.",
     "published_at": "2026-03-05 18:10",
-    "scraped_at": "2026-03-05T18:24:40.937000"
+    "scraped_at": "2026-03-05T19:42:35.060045"
   },
   {
     "id": "0ab47aa5fb232808c1165f940721842c",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855993/AEX-sluit-in-het-rood-door-oplopende-olieprijs.aspx",
     "intro": "De Amsterdamse beurs is donderdag lager gesloten, nadat de olieprijs verder opliep onder invloed van het militaire conflict in het Midden-Oosten.",
     "published_at": "2026-03-05 17:54",
-    "scraped_at": "2026-03-05T18:24:40.937000"
-  },
-  {
-    "id": "4827b3fc986f21c5388d3e24ee59c0bc",
-    "categorie": "Beursnieuws",
-    "titel": "Wolters Kluwer kondigt samenwerking met Copilot van Microsoft aan",
-    "link": "https://www.beurs.nl/Nieuws/855965/Wolters-Kluwer-kondigt-samenwerking-met-Copilot-van-Microsoft-aan.aspx",
-    "intro": "Wolters Kluwer Health heeft donderdag een samenwerking met Microsoft aangekondigd voor UpToDate.",
-    "published_at": "2026-03-05 17:03",
-    "scraped_at": "2026-03-05T18:24:40.937000"
-  },
-  {
-    "id": "50fe521e1d9e5b435c4c2400bc7b65a3",
-    "categorie": "Beursnieuws",
-    "titel": "Grootaandeelhouder halveert belang in Corbion",
-    "link": "https://www.beurs.nl/Nieuws/855964/Grootaandeelhouder-halveert-belang-in-Corbion.aspx",
-    "intro": "Inclusive Capital heeft zijn belang in Corbion gehalveerd. Dit bleek uit cijfers die de Autoriteit Financiële Markten onlangs publiceerde.",
-    "published_at": "2026-03-05 16:42",
-    "scraped_at": "2026-03-05T18:24:40.937000"
+    "scraped_at": "2026-03-05T19:42:35.060045"
   }
 ]
