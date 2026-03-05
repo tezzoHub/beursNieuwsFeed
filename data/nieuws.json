@@ -1,12 +1,30 @@
 [
   {
-    "id": "7e7adc9770598ae250910fbdb9444ec1",
+    "id": "49839370af07942e37a462bab9cd9064",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Besi en ASMI tillen AEX in het groen",
-    "link": "https://www.beurs.nl/Nieuws/855919/Beursupdate-Besi-en-ASMI-tillen-AEX-in-het-groen.aspx",
+    "titel": "Beursblik: Bank of America verhoogt koersdoel ASMI",
+    "link": "https://www.beurs.nl/Nieuws/855931/Beursblik-Bank-of-America-verhoogt-koersdoel-ASMI.aspx",
+    "intro": "Bank of America heeft donderdag het koersdoel voor ASMI verhoogd van 858 naar 882 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
+    "published_at": "2026-03-05 12:15",
+    "scraped_at": "2026-03-05T11:22:49.567693"
+  },
+  {
+    "id": "1bfe0d6165ed4347170fb159116b6c39",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/855930/Europese-beurzen-in-het-groen.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur hoger.",
+    "published_at": "2026-03-05 12:13",
+    "scraped_at": "2026-03-05T11:22:49.567693"
+  },
+  {
+    "id": "db5685df68763f09656939c02b59f90a",
+    "categorie": "Beursnieuws",
+    "titel": "Besi en ASMI tillen AEX in het groen",
+    "link": "https://www.beurs.nl/Nieuws/855919/Besi-en-ASMI-tillen-AEX-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagochtend hoger, onder aanvoering van Besi en ASMI. Rond de klok van elf uur won de AEX 0,6 procent op 1.005,68 punten.",
     "published_at": "2026-03-05 11:15",
-    "scraped_at": "2026-03-05T10:41:49.545064"
+    "scraped_at": "2026-03-05T11:22:49.567693"
   },
   {
     "id": "51be4690700c2e0c4eeb44e675696322",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/855918/Kleine-daling-detailhandelsverkopen-in-de-eurozone.aspx",
     "intro": "De detailhandelsverkopen in de eurozone zijn in januari licht gedaald. Dit bleek donderdag uit voorlopige cijfers van het Europese statistiekbureau Eurostat.",
     "published_at": "2026-03-05 11:12",
-    "scraped_at": "2026-03-05T10:41:49.545064"
+    "scraped_at": "2026-03-05T11:22:49.567693"
   },
   {
     "id": "c84c6ad7cfbd18017fef15ce55128187",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/855910/Outlook-DHL-voor-2026-stelt-teleur.aspx",
     "intro": "DHL Group verwacht dat de winst dit jaar zal aantrekken, ondanks de aanhoudende economische uitdagingen. Dit stelde DHL donderdag in het jaarrapport.",
     "published_at": "2026-03-05 10:47",
-    "scraped_at": "2026-03-05T10:41:49.545064"
+    "scraped_at": "2026-03-05T11:22:49.567693"
   },
   {
     "id": "6910a753452280a06454b164a7e21c1f",
@@ -33,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/855773/Must-read-Koop-wederom-de-dip.aspx",
     "intro": "Plus: oorlog met Iran kan wel eens langer duren, China zet in op humanoid robots, schaarste bitcoin neemt juist toe, aandelen EM nu nog goedkoper en meer.",
     "published_at": "2026-03-05 10:00",
-    "scraped_at": "2026-03-05T10:41:49.545064"
+    "scraped_at": "2026-03-05T11:22:49.567693"
   },
   {
     "id": "1c403776c41d9ed175ba934dfa607f32",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855899/DegroofPetercamverhoogt-koersdoel-TKH.aspx",
     "intro": "Degroof Petercam heeft donderdag het koersdoel voor TKH Group verhoogd van 46,00 naar 48,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Michael Roeg, nadat het bedrijf uit Haaksbergen voorbeurs met de jaarcijfers kwam.",
     "published_at": "2026-03-05 09:41",
-    "scraped_at": "2026-03-05T10:41:49.545064"
+    "scraped_at": "2026-03-05T11:22:49.567693"
   },
   {
     "id": "af47e975aec451d6c9339835b3a47cdc",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855897/Beursblik-Jefferies-zet-beursnieuweling-CSG-op-de-kooplijst.aspx",
     "intro": "Jefferies heeft donderdag het aandeel CSG op de kooplijst gezet met een koersdoel van 35,00 euro. Dit bleek uit een rapport van de zakenbank.",
     "published_at": "2026-03-05 09:29",
-    "scraped_at": "2026-03-05T10:41:49.545064"
+    "scraped_at": "2026-03-05T11:22:49.567693"
   },
   {
     "id": "e2bb3bf719c83c94bffd3463a0f4414c",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855893/AEX-vlak-van-start-gegaan.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong vrijwel onveranderd rond de 1.000 punten, terwijl de Midkap 0,4 procent prijs moest geven.",
     "published_at": "2026-03-05 09:11",
-    "scraped_at": "2026-03-05T10:41:49.545064"
+    "scraped_at": "2026-03-05T11:22:49.567693"
   },
   {
     "id": "f2c0f8a5f5ec058e25ec4c8bc2c5c90b",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855894/Beursblik-Berenberg-en-Deutsche-verhogen-hun-koersdoel-voor-ASMI.aspx",
     "intro": "Berenberg en Deutsche Bank hebben donderdag hun koersdoelen voor ASMI verhoogd en het aandeel daarbij gehandhaafd op hun kooplijsten. Dit bleek uit de analistenrapporten van de twee banken.",
     "published_at": "2026-03-05 09:11",
-    "scraped_at": "2026-03-05T10:41:49.545064"
-  },
-  {
-    "id": "b8bb7d908cfd0c988ec15ef50eeef3a0",
-    "categorie": "Beursnieuws",
-    "titel": "Citi verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/855891/Citi-verhoogt-koersdoel-ING.aspx",
-    "intro": "Citi Research heeft donderdag het koersdoel voor ING verhoogd van 28,50 naar 29,30 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Shrey Sriastava.",
-    "published_at": "2026-03-05 08:58",
-    "scraped_at": "2026-03-05T10:41:49.545064"
-  },
-  {
-    "id": "73695eadc85288d4704d9ee21a91a97d",
-    "categorie": "Beursnieuws",
-    "titel": "Cabka ziet verlies wat afnemen",
-    "link": "https://www.beurs.nl/Nieuws/855889/Cabka-ziet-verlies-wat-afnemen.aspx",
-    "intro": "Cabka heeft in 2025 het verlies wat zien afnemen. Dit bleek donderdag voorbeurs uit een trading update van de recyclingspecialist.",
-    "published_at": "2026-03-05 08:43",
-    "scraped_at": "2026-03-05T10:41:49.545064"
+    "scraped_at": "2026-03-05T11:22:49.567693"
   }
 ]
