@@ -1,12 +1,57 @@
 [
   {
+    "id": "f6a8b529b919ef5db6c1e3825a08963a",
+    "categorie": "Beursnieuws",
+    "titel": "Omzet en winst Acomo in de lift",
+    "link": "https://www.beurs.nl/Nieuws/855881/Omzet-en-winst-Acomo-in-de-lift.aspx",
+    "intro": "Acomo heeft in 2025 de omzet en winst zien aantrekken. Dit bleek donderdag uit cijfers van de handelsonderneming in specerijen, noten, eetbare zaden, thee en voedingsingrediënten.",
+    "published_at": "2026-03-05 08:03",
+    "scraped_at": "2026-03-05T07:12:47.937775"
+  },
+  {
+    "id": "30cd8e9961e03ae48fd36da1ca387f84",
+    "categorie": "Beursnieuws",
+    "titel": "Oprichters TomTom stappen op",
+    "link": "https://www.beurs.nl/Nieuws/855874/Oprichters-TomTom-stappen-op.aspx",
+    "intro": "De oprichters van TomTom, onder wie CEO Harold Goddijn, vertrekken bij de navigatiespecialist. Dit werd donderdag bekendgemaakt.",
+    "published_at": "2026-03-05 07:52",
+    "scraped_at": "2026-03-05T07:12:47.937775"
+  },
+  {
+    "id": "8bdf5b8d30e98f9bd8b4f3ad270bd919",
+    "categorie": "Beursnieuws",
+    "titel": "Ferrari Group presteert conform eigen verwachting",
+    "link": "https://www.beurs.nl/Nieuws/855867/Ferrari-Group-presteert-conform-eigen-verwachting.aspx",
+    "intro": "Ferrari Group heeft in 2025 de omzet conform eigen verwachting zien stijgen. Dit maakte het logistiekbedrijf in luxegoederen met een notering aan het Damrak donderdagochtend bekend.",
+    "published_at": "2026-03-05 07:20",
+    "scraped_at": "2026-03-05T07:12:47.937775"
+  },
+  {
+    "id": "67512b3b512db5db4a5793290945ca8b",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen in het groen en olieprijs stijgt door",
+    "link": "https://www.beurs.nl/Nieuws/855868/Aziatische-beurzen-in-het-groen-en-olieprijs-stijgt-door.aspx",
+    "intro": "De Aziatische beurzen vonden donderdagochtend overtuigend de weg omhoog.",
+    "published_at": "2026-03-05 07:18",
+    "scraped_at": "2026-03-05T07:12:47.937775"
+  },
+  {
+    "id": "b72f9927bc917ff65fa4ac1bd4cddf99",
+    "categorie": "Beursnieuws",
+    "titel": "TKH presteerde beter in tweede jaarhelft",
+    "link": "https://www.beurs.nl/Nieuws/855866/TKH-presteerde-beter-in-tweede-jaarhelft.aspx",
+    "intro": "TKH Group heeft in de tweede helft van 2025 beter gepresteerd dan in de eerste zes maanden, conform de outlook van het bedrijf. Dit bleek donderdag voorbeurs uit de jaarcijfers van het technologiebedrijf uit Haaksbergen.",
+    "published_at": "2026-03-05 07:15",
+    "scraped_at": "2026-03-05T07:12:47.937775"
+  },
+  {
     "id": "a943577a2cd0319d1250f11e0b8011b1",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen openen per saldo lager",
     "link": "https://www.beurs.nl/Nieuws/855862/Europese-beurzen-openen-per-saldo-lager.aspx",
     "intro": "De Europese beurzen gaan donderdag een verdeelde opening tegemoet.",
     "published_at": "2026-03-05 06:57",
-    "scraped_at": "2026-03-05T06:05:18.296454"
+    "scraped_at": "2026-03-05T07:12:47.937775"
   },
   {
     "id": "6d66a0e8293803e2aeb8477050225f45",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855860/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 12 maart 2026:",
     "published_at": "2026-03-05 06:49",
-    "scraped_at": "2026-03-05T06:05:18.296454"
+    "scraped_at": "2026-03-05T07:12:47.937775"
   },
   {
     "id": "cd8af67fd2e058163d43fbab7a071677",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855859/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 12 maart 2026:",
     "published_at": "2026-03-05 06:48",
-    "scraped_at": "2026-03-05T06:05:18.296454"
+    "scraped_at": "2026-03-05T07:12:47.937775"
   },
   {
     "id": "aeef8520339a39c56add189a61314aea",
@@ -33,6 +78,6 @@
     "link": "https://www.beurs.nl/Nieuws/855858/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 12 maart 2026:",
     "published_at": "2026-03-05 06:47",
-    "scraped_at": "2026-03-05T06:05:18.296454"
+    "scraped_at": "2026-03-05T07:12:47.937775"
   }
 ]
