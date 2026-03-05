@@ -1,12 +1,57 @@
 [
   {
+    "id": "071b8bf1db4525c46740e806085fc68d",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street op weg naar lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/855951/Wall-Street-op-weg-naar-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, nadat de Verenigde Staten en Iran lieten blijken dat ze bereid zijn om hun militaire conflict verder te escaleren.",
+    "published_at": "2026-03-05 15:05",
+    "scraped_at": "2026-03-05T14:10:00.329715"
+  },
+  {
+    "id": "32dd52885d7fce9973920658f7f8dfcd",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse arbeidskosten lopen op",
+    "link": "https://www.beurs.nl/Nieuws/855948/Amerikaanse-arbeidskosten-lopen-op.aspx",
+    "intro": "De arbeidskosten in de Verenigde Staten zijn in het vierde kwartaal van 2025 sterker dan verwacht gestegen. Dit bleek donderdag uit de cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-03-05 14:46",
+    "scraped_at": "2026-03-05T14:10:00.329715"
+  },
+  {
+    "id": "d03f7546205860f4dc7ad1847b8edec5",
+    "categorie": "Beursnieuws",
+    "titel": "Maaltijdbezorging zorgt voor rode cijfers bij JD.com",
+    "link": "https://www.beurs.nl/Nieuws/855947/Maaltijdbezorging-zorgt-voor-rode-cijfers-bij-JDcom.aspx",
+    "intro": "JD.com heeft voor het eerst in vier jaar een kwartaalverlies geleden, mede door de uitdagende markt voor maaltijdbezorging in China. Dit bleek donderdag uit cijfers van de Chinese e-commercereus.",
+    "published_at": "2026-03-05 14:42",
+    "scraped_at": "2026-03-05T14:10:00.329715"
+  },
+  {
+    "id": "3c6bf84ab4c5c7c4f75c938848a7e284",
+    "categorie": "Beursnieuws",
+    "titel": "Steunvragen in de VS ongewijzigd",
+    "link": "https://www.beurs.nl/Nieuws/855945/Steunvragen-in-de-VS-ongewijzigd.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gelijk gebleven. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-03-05 14:35",
+    "scraped_at": "2026-03-05T14:10:00.329715"
+  },
+  {
+    "id": "8f5710d3196072b63a0c174449207378",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse importprijzen licht gestegen",
+    "link": "https://www.beurs.nl/Nieuws/855946/Amerikaanse-importprijzen-licht-gestegen.aspx",
+    "intro": "De Amerikaanse importprijzen zijn in januari licht gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-03-05 14:35",
+    "scraped_at": "2026-03-05T14:10:00.329715"
+  },
+  {
     "id": "90a06ae4f1168c857314f7e3941b8e78",
     "categorie": "Beursnieuws",
     "titel": "BAM gaat ProRail-kantoren beheren",
     "link": "https://www.beurs.nl/Nieuws/855936/BAM-gaat-ProRail-kantoren-beheren.aspx",
     "intro": "BAM gaat de komende jaren meer dan dertig kantoren en andere locaties van ProRail in Nederland beheren en onderhouden. Het bouwbedrijf maakte dat donderdag bekend, zonder financiële details te melden.",
     "published_at": "2026-03-05 13:39",
-    "scraped_at": "2026-03-05T13:05:41.863793"
+    "scraped_at": "2026-03-05T14:10:00.329715"
   },
   {
     "id": "9f4e526b7bc595225d727e94b66c7cec",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855934/Vlakke-futures-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een vlakke opening tegemoet, waarbij de olieprijs verder steeg, nadat de Verenigde Staten en Iran lieten blijken dat ze bereid zijn hun militaire conflict verder te escaleren.",
     "published_at": "2026-03-05 13:15",
-    "scraped_at": "2026-03-05T13:05:41.863793"
+    "scraped_at": "2026-03-05T14:10:00.329715"
   },
   {
     "id": "0d634dd38cf4b2a1fff248510a1b33b0",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855931/Bank-of-America-verhoogt-koersdoel-ASMI.aspx",
     "intro": "Bank of America heeft donderdag het koersdoel voor ASMI verhoogd van 858 naar 882 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
     "published_at": "2026-03-05 12:15",
-    "scraped_at": "2026-03-05T13:05:41.863793"
+    "scraped_at": "2026-03-05T14:10:00.329715"
   },
   {
     "id": "1bfe0d6165ed4347170fb159116b6c39",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855930/Europese-beurzen-in-het-groen.aspx",
     "intro": "De Europese beurzen noteerden donderdag rond het middaguur hoger.",
     "published_at": "2026-03-05 12:13",
-    "scraped_at": "2026-03-05T13:05:41.863793"
+    "scraped_at": "2026-03-05T14:10:00.329715"
   },
   {
     "id": "db5685df68763f09656939c02b59f90a",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855919/Besi-en-ASMI-tillen-AEX-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagochtend hoger, onder aanvoering van Besi en ASMI. Rond de klok van elf uur won de AEX 0,6 procent op 1.005,68 punten.",
     "published_at": "2026-03-05 11:15",
-    "scraped_at": "2026-03-05T13:05:41.863793"
-  },
-  {
-    "id": "51be4690700c2e0c4eeb44e675696322",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine daling detailhandelsverkopen in de eurozone",
-    "link": "https://www.beurs.nl/Nieuws/855918/Kleine-daling-detailhandelsverkopen-in-de-eurozone.aspx",
-    "intro": "De detailhandelsverkopen in de eurozone zijn in januari licht gedaald. Dit bleek donderdag uit voorlopige cijfers van het Europese statistiekbureau Eurostat.",
-    "published_at": "2026-03-05 11:12",
-    "scraped_at": "2026-03-05T13:05:41.863793"
-  },
-  {
-    "id": "c84c6ad7cfbd18017fef15ce55128187",
-    "categorie": "Beursnieuws",
-    "titel": "Outlook DHL voor 2026 stelt teleur",
-    "link": "https://www.beurs.nl/Nieuws/855910/Outlook-DHL-voor-2026-stelt-teleur.aspx",
-    "intro": "DHL Group verwacht dat de winst dit jaar zal aantrekken, ondanks de aanhoudende economische uitdagingen. Dit stelde DHL donderdag in het jaarrapport.",
-    "published_at": "2026-03-05 10:47",
-    "scraped_at": "2026-03-05T13:05:41.863793"
-  },
-  {
-    "id": "6910a753452280a06454b164a7e21c1f",
-    "categorie": "Redactioneel",
-    "titel": "Must read: Koop (wederom) de dip!",
-    "link": "https://www.iex.nl/artikel/855773/Must-read-Koop-wederom-de-dip.aspx",
-    "intro": "Plus: oorlog met Iran kan wel eens langer duren, China zet in op humanoid robots, schaarste bitcoin neemt juist toe, aandelen EM nu nog goedkoper en meer.",
-    "published_at": "2026-03-05 10:00",
-    "scraped_at": "2026-03-05T13:05:41.863793"
-  },
-  {
-    "id": "1c403776c41d9ed175ba934dfa607f32",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verhoogt koersdoel TKH",
-    "link": "https://www.beurs.nl/Nieuws/855899/DegroofPetercamverhoogt-koersdoel-TKH.aspx",
-    "intro": "Degroof Petercam heeft donderdag het koersdoel voor TKH Group verhoogd van 46,00 naar 48,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Michael Roeg, nadat het bedrijf uit Haaksbergen voorbeurs met de jaarcijfers kwam.",
-    "published_at": "2026-03-05 09:41",
-    "scraped_at": "2026-03-05T13:05:41.863793"
-  },
-  {
-    "id": "af47e975aec451d6c9339835b3a47cdc",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies zet beursnieuweling CSG op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/855897/Beursblik-Jefferies-zet-beursnieuweling-CSG-op-de-kooplijst.aspx",
-    "intro": "Jefferies heeft donderdag het aandeel CSG op de kooplijst gezet met een koersdoel van 35,00 euro. Dit bleek uit een rapport van de zakenbank.",
-    "published_at": "2026-03-05 09:29",
-    "scraped_at": "2026-03-05T13:05:41.863793"
+    "scraped_at": "2026-03-05T14:10:00.329715"
   }
 ]
