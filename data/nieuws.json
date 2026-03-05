@@ -1,12 +1,57 @@
 [
   {
+    "id": "53da96d0588082c78ee5ab0a93190aac",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel TKH",
+    "link": "https://www.beurs.nl/Nieuws/855899/Beursblik-DegroofPetercamverhoogt-koersdoel-TKH.aspx",
+    "intro": "Degroof Petercam heeft donderdag het koersdoel voor TKH Group verhoogd van 46,00 naar 48,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Michael Roeg, nadat het bedrijf uit Haaksbergen voorbeurs met de jaarcijfers kwam.",
+    "published_at": "2026-03-05 09:41",
+    "scraped_at": "2026-03-05T08:56:18.050309"
+  },
+  {
+    "id": "af47e975aec451d6c9339835b3a47cdc",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies zet beursnieuweling CSG op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/855897/Beursblik-Jefferies-zet-beursnieuweling-CSG-op-de-kooplijst.aspx",
+    "intro": "Jefferies heeft donderdag het aandeel CSG op de kooplijst gezet met een koersdoel van 35,00 euro. Dit bleek uit een rapport van de zakenbank.",
+    "published_at": "2026-03-05 09:29",
+    "scraped_at": "2026-03-05T08:56:18.050309"
+  },
+  {
+    "id": "e2bb3bf719c83c94bffd3463a0f4414c",
+    "categorie": "Beursnieuws",
+    "titel": "AEX vlak van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/855893/AEX-vlak-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong vrijwel onveranderd rond de 1.000 punten, terwijl de Midkap 0,4 procent prijs moest geven.",
+    "published_at": "2026-03-05 09:11",
+    "scraped_at": "2026-03-05T08:56:18.050309"
+  },
+  {
+    "id": "f2c0f8a5f5ec058e25ec4c8bc2c5c90b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Berenberg en Deutsche verhogen hun koersdoel voor ASMI",
+    "link": "https://www.beurs.nl/Nieuws/855894/Beursblik-Berenberg-en-Deutsche-verhogen-hun-koersdoel-voor-ASMI.aspx",
+    "intro": "Berenberg en Deutsche Bank hebben donderdag hun koersdoelen voor ASMI verhoogd en het aandeel daarbij gehandhaafd op hun kooplijsten. Dit bleek uit de analistenrapporten van de twee banken.",
+    "published_at": "2026-03-05 09:11",
+    "scraped_at": "2026-03-05T08:56:18.050309"
+  },
+  {
+    "id": "4d0d8d0549751f5cdbf6ba35838f1e2a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Citi verhoogt koersdoel ING",
+    "link": "https://www.beurs.nl/Nieuws/855891/Beursblik-Citi-verhoogt-koersdoel-ING.aspx",
+    "intro": "Citi Research heeft donderdag het koersdoel voor ING verhoogd van 28,50 naar 29,30 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Shrey Sriastava.",
+    "published_at": "2026-03-05 08:58",
+    "scraped_at": "2026-03-05T08:56:18.050309"
+  },
+  {
     "id": "73695eadc85288d4704d9ee21a91a97d",
     "categorie": "Beursnieuws",
     "titel": "Cabka ziet verlies wat afnemen",
     "link": "https://www.beurs.nl/Nieuws/855889/Cabka-ziet-verlies-wat-afnemen.aspx",
     "intro": "Cabka heeft in 2025 het verlies wat zien afnemen. Dit bleek donderdag voorbeurs uit een trading update van de recyclingspecialist.",
     "published_at": "2026-03-05 08:43",
-    "scraped_at": "2026-03-05T07:57:56.109270"
+    "scraped_at": "2026-03-05T08:56:18.050309"
   },
   {
     "id": "c08d72b23ddf852cbc4fb66823a7357f",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/855883/AEX-vermoedelijk-licht-hoger-van-start-terwijl-olieprijs-oploopt.aspx",
     "intro": "De Amsterdamse beurs maakt zich donderdag op voor een licht hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,3 procent.",
     "published_at": "2026-03-05 08:12",
-    "scraped_at": "2026-03-05T07:57:56.109270"
+    "scraped_at": "2026-03-05T08:56:18.050309"
   },
   {
     "id": "f6a8b529b919ef5db6c1e3825a08963a",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/855881/Omzet-en-winst-Acomo-in-de-lift.aspx",
     "intro": "Acomo heeft in 2025 de omzet en winst zien aantrekken. Dit bleek donderdag uit cijfers van de handelsonderneming in specerijen, noten, eetbare zaden, thee en voedingsingrediënten.",
     "published_at": "2026-03-05 08:03",
-    "scraped_at": "2026-03-05T07:57:56.109270"
+    "scraped_at": "2026-03-05T08:56:18.050309"
   },
   {
     "id": "30cd8e9961e03ae48fd36da1ca387f84",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/855874/Oprichters-TomTom-stappen-op.aspx",
     "intro": "De oprichters van TomTom, onder wie CEO Harold Goddijn, vertrekken bij de navigatiespecialist. Dit werd donderdag bekendgemaakt.",
     "published_at": "2026-03-05 07:52",
-    "scraped_at": "2026-03-05T07:57:56.109270"
+    "scraped_at": "2026-03-05T08:56:18.050309"
   },
   {
     "id": "8bdf5b8d30e98f9bd8b4f3ad270bd919",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/855867/Ferrari-Group-presteert-conform-eigen-verwachting.aspx",
     "intro": "Ferrari Group heeft in 2025 de omzet conform eigen verwachting zien stijgen. Dit maakte het logistiekbedrijf in luxegoederen met een notering aan het Damrak donderdagochtend bekend.",
     "published_at": "2026-03-05 07:20",
-    "scraped_at": "2026-03-05T07:57:56.109270"
-  },
-  {
-    "id": "67512b3b512db5db4a5793290945ca8b",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen in het groen en olieprijs stijgt door",
-    "link": "https://www.beurs.nl/Nieuws/855868/Aziatische-beurzen-in-het-groen-en-olieprijs-stijgt-door.aspx",
-    "intro": "De Aziatische beurzen vonden donderdagochtend overtuigend de weg omhoog.",
-    "published_at": "2026-03-05 07:18",
-    "scraped_at": "2026-03-05T07:57:56.109270"
-  },
-  {
-    "id": "b72f9927bc917ff65fa4ac1bd4cddf99",
-    "categorie": "Beursnieuws",
-    "titel": "TKH presteerde beter in tweede jaarhelft",
-    "link": "https://www.beurs.nl/Nieuws/855866/TKH-presteerde-beter-in-tweede-jaarhelft.aspx",
-    "intro": "TKH Group heeft in de tweede helft van 2025 beter gepresteerd dan in de eerste zes maanden, conform de outlook van het bedrijf. Dit bleek donderdag voorbeurs uit de jaarcijfers van het technologiebedrijf uit Haaksbergen.",
-    "published_at": "2026-03-05 07:15",
-    "scraped_at": "2026-03-05T07:57:56.109270"
-  },
-  {
-    "id": "a943577a2cd0319d1250f11e0b8011b1",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen per saldo lager",
-    "link": "https://www.beurs.nl/Nieuws/855862/Europese-beurzen-openen-per-saldo-lager.aspx",
-    "intro": "De Europese beurzen gaan donderdag een verdeelde opening tegemoet.",
-    "published_at": "2026-03-05 06:57",
-    "scraped_at": "2026-03-05T07:57:56.109270"
-  },
-  {
-    "id": "6d66a0e8293803e2aeb8477050225f45",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/855860/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 12 maart 2026:",
-    "published_at": "2026-03-05 06:49",
-    "scraped_at": "2026-03-05T07:57:56.109270"
-  },
-  {
-    "id": "cd8af67fd2e058163d43fbab7a071677",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/855859/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 12 maart 2026:",
-    "published_at": "2026-03-05 06:48",
-    "scraped_at": "2026-03-05T07:57:56.109270"
+    "scraped_at": "2026-03-05T08:56:18.050309"
   }
 ]
