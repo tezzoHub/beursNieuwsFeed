@@ -1,12 +1,48 @@
 [
   {
-    "id": "4009ee73c1df5a078e9802b2e74d5871",
+    "id": "1b064abf7f979dc1ae3ea233a4b84ce1",
+    "categorie": "IEX Beleggersdag",
+    "titel": "Peter ter Kulve op de IEX Beleggersdag!",
+    "link": "https://www.beurs.nl/Artikel/856098/Peter-ter-Kulve-op-de-IEX-Beleggersdag.aspx",
+    "intro": "Ook de CEO's van Philips en Triodos, de president-directeur van Shell Nederland en CBS-hoofdeconoom Peter Hein van Mulligen maken hun opwachting.",
+    "published_at": "2026-03-06 10:15",
+    "scraped_at": "2026-03-06T09:24:04.568018"
+  },
+  {
+    "id": "7cca0ef4b0ad6bdc5161b831801a0414",
+    "categorie": "Redactioneel",
+    "titel": "Must read: van belastingparadijs naar gevarenzone",
+    "link": "https://www.iex.nl/artikel/855943/Must-read-van-belastingparadijs-naar-gevarenzone.aspx",
+    "intro": "Komt er een crash aan op de aandelenmarkt? Lloyd Blankfein, voormalig baas van Goldman Sachs, denkt van wel. Plus: olieprijzen stijgen, hoe raakt de oorlog in Iran onze economie, winst van de Dow is weg en Dubai van belastingparadijs naar gevarenzone.",
+    "published_at": "2026-03-06 10:00",
+    "scraped_at": "2026-03-06T09:24:04.568018"
+  },
+  {
+    "id": "0ce41485970d0638bf88679e63e614f2",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Besi onderuit in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/856086/Beursupdate-Besi-onderuit-in-vlakke-AEX.aspx",
+    "titel": "Beursblik: Degroof Petercam zet Eurocommercial op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/856095/Beursblik-Degroof-Petercam-zet-Eurocommercial-op-de-kooplijst.aspx",
+    "intro": "Degroof Petercam heeft vrijdag het advies voor Eurocommercial Properties verhoogd van Houden naar Kopen, terwijl het koersdoel van 30,00 naar 32,00 euro ging. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-03-06 09:46",
+    "scraped_at": "2026-03-06T09:24:04.568018"
+  },
+  {
+    "id": "6fa2d8f0b79e9506d153ad77c79dd3f3",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Besi onderuit na twijfels over hybrid bonding",
+    "link": "https://www.beurs.nl/Nieuws/856096/Beursblik-Besi-onderuit-na-twijfels-over-hybrid-bonding.aspx",
+    "intro": "Het aandeel BE Semiconductor Industries gaat vrijdag, bij hoge volumes, hard onderuit.",
+    "published_at": "2026-03-06 09:43",
+    "scraped_at": "2026-03-06T09:24:04.568018"
+  },
+  {
+    "id": "26177297d8e36a41899e94c0985273f5",
+    "categorie": "Beursnieuws",
+    "titel": "Besi onderuit in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/856086/Besi-onderuit-in-vlakke-AEX.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong vrijwel onveranderd op 995,60 punten, terwijl de Midkap 0,4 procent won.",
     "published_at": "2026-03-06 09:13",
-    "scraped_at": "2026-03-06T08:41:01.618162"
+    "scraped_at": "2026-03-06T09:24:04.568018"
   },
   {
     "id": "6b87d80f88ea9cbd6f6fa02497981bd8",
@@ -15,16 +51,16 @@
     "link": "https://www.beurs.nl/Nieuws/856084/Resultaten-NIBC-onder-druk.aspx",
     "intro": "NIBC heeft in 2025 de resultaten onder druk zien staan. Dit bleek vrijdag uit cijfers van de bank, die wordt overgenomen door ABN AMRO.",
     "published_at": "2026-03-06 09:00",
-    "scraped_at": "2026-03-06T08:41:01.618162"
+    "scraped_at": "2026-03-06T09:24:04.568018"
   },
   {
-    "id": "8f7135fbb63397b6c33aa6e64ae0f3f4",
+    "id": "91e30729b4b6ffa8665e4d412de1a680",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel Euronext",
-    "link": "https://www.beurs.nl/Nieuws/856083/Beursblik-Deutsche-Bank-verhoogt-koersdoel-Euronext.aspx",
+    "titel": "Deutsche Bank verhoogt koersdoel Euronext",
+    "link": "https://www.beurs.nl/Nieuws/856083/Deutsche-Bank-verhoogt-koersdoel-Euronext.aspx",
     "intro": "Deutsche Bank heeft vrijdag het koersdoel voor Euronext verhoogd van 164 naar 170 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Benjamin Goy.",
     "published_at": "2026-03-06 08:53",
-    "scraped_at": "2026-03-06T08:41:01.618162"
+    "scraped_at": "2026-03-06T09:24:04.568018"
   },
   {
     "id": "9abf150b540a3c5872a91f8a9d6d03c1",
@@ -33,16 +69,16 @@
     "link": "https://www.beurs.nl/Nieuws/856079/Deutsche-Bank-verlaagt-koersdoel-UMG.aspx",
     "intro": "Deutsche Bank heeft vrijdag het koersdoel voor Universal Music Group verlaagd van 31,00 naar 29,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een rapport van de Duitse bank.",
     "published_at": "2026-03-06 08:41",
-    "scraped_at": "2026-03-06T08:41:01.618162"
+    "scraped_at": "2026-03-06T09:24:04.568018"
   },
   {
-    "id": "f9782930ee6956b669e608abef4711d4",
+    "id": "0c79357f9eb17da00202dde6f1acca3a",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: solide resultaten bij Eurocommercial",
-    "link": "https://www.beurs.nl/Nieuws/856078/Beursblik-solide-resultaten-bij-Eurocommercial.aspx",
+    "titel": "Solide resultaten bij Eurocommercial",
+    "link": "https://www.beurs.nl/Nieuws/856078/Solide-resultaten-bij-Eurocommercial.aspx",
     "intro": "Eurocommercial Properties heeft in 2025 solide resultaten geboekt. Dit stelde analist Kai Klose van Berenberg vrijdag in een rapport.",
     "published_at": "2026-03-06 08:23",
-    "scraped_at": "2026-03-06T08:41:01.618162"
+    "scraped_at": "2026-03-06T09:24:04.568018"
   },
   {
     "id": "bfb2b1061195bf55e4e7f38db2570434",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856077/Jefferies-verhoogt-koersdoel-Vopak.aspx",
     "intro": "Jefferies heeft vrijdag het koersdoel voor Vopak verhoogd van 40,00 naar 45,00 euro, maar met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-03-06 08:16",
-    "scraped_at": "2026-03-06T08:41:01.618162"
-  },
-  {
-    "id": "9abf5baa9fba492b9d53d39c32f6ab88",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag in het groen",
-    "link": "https://www.beurs.nl/Nieuws/856067/AEX-start-handelsdag-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van circa een half procent.",
-    "published_at": "2026-03-06 08:06",
-    "scraped_at": "2026-03-06T08:41:01.618162"
-  },
-  {
-    "id": "b42460101e09c32f8dd9ba04e3188606",
-    "categorie": "Beursnieuws",
-    "titel": "Lufthansa boekt recordomzet",
-    "link": "https://www.beurs.nl/Nieuws/856066/Lufthansa-boekt-recordomzet.aspx",
-    "intro": "Lufthansa heeft in 2025 een recordomzet geboekt. Dit bleek vrijdag uit cijfers van de Duitse luchtvaartmaatschappij.",
-    "published_at": "2026-03-06 07:49",
-    "scraped_at": "2026-03-06T08:41:01.618162"
-  },
-  {
-    "id": "fa9968eda3f4c917708895c1d7542c94",
-    "categorie": "Beursnieuws",
-    "titel": "Verdeeld beeld op Aziatische beurzen",
-    "link": "https://www.beurs.nl/Nieuws/856061/Verdeeld-beeld-op-Aziatische-beurzen.aspx",
-    "intro": "De Aziatische beurzen lieten vrijdagochtend een verdeeld beeld zien. In Sydney daalde de grondstofgevoelige ASX 200 index met een procent, terwijl de Hang Seng index in Hongkong juist meer dan anderhalf procent won.",
-    "published_at": "2026-03-06 07:18",
-    "scraped_at": "2026-03-06T08:41:01.618162"
-  },
-  {
-    "id": "d4b2d6bcf1bbfdf1380124bb5c51ed19",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen flink hoger",
-    "link": "https://www.beurs.nl/Nieuws/856059/Europese-beurzen-openen-flink-hoger.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een donkergroene opening tegemoet, in afwachting van het Amerikaanse banenrapport later op de dag, terwijl de oorlog in het Midden-Oosten zijn zevende dag ingaat.",
-    "published_at": "2026-03-06 07:00",
-    "scraped_at": "2026-03-06T08:41:01.618162"
+    "scraped_at": "2026-03-06T09:24:04.568018"
   }
 ]
