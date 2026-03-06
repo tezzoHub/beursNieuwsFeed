@@ -1,12 +1,39 @@
 [
   {
+    "id": "86f516f228f322108084b6f5ef29ac8e",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street opent flink lager na tegenvallend banenrapport",
+    "link": "https://www.beurs.nl/Nieuws/856150/Wall-Street-opent-flink-lager-na-tegenvallend-banenrapport.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een flink lagere opening tegemoet, nadat het Amerikaanse banenrapport een tegenvaller was.",
+    "published_at": "2026-03-06 14:58",
+    "scraped_at": "2026-03-06T14:25:37.637548"
+  },
+  {
+    "id": "39534421e3e2019c46fa55057b4c786e",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse detailhandelsverkopen gedaald",
+    "link": "https://www.beurs.nl/Nieuws/856138/Amerikaanse-detailhandelsverkopen-gedaald.aspx",
+    "intro": "De verkopen in de Amerikaanse detailhandel zijn in januari gedaald. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-03-06 14:40",
+    "scraped_at": "2026-03-06T14:25:37.637548"
+  },
+  {
+    "id": "920b7431fa5f5db1365b07508189666b",
+    "categorie": "Beursnieuws",
+    "titel": "Minder Amerikaanse banen in februari",
+    "link": "https://www.beurs.nl/Nieuws/856134/Minder-Amerikaanse-banen-in-februari.aspx",
+    "intro": "Er zijn in februari 92.000 Amerikaanse banen verdwenen, terwijl economen op een groei van 50.000 banen hadden gerekend. Dit bleek vrijdag uit het banenrapport van de Amerikaanse overheid.",
+    "published_at": "2026-03-06 14:36",
+    "scraped_at": "2026-03-06T14:25:37.637548"
+  },
+  {
     "id": "7da1827e8a1d55335212fc83e8855e12",
     "categorie": "Beursnieuws",
     "titel": "Media: Qatar waarschuwt voor olieprijs van 150 dollar",
     "link": "https://www.beurs.nl/Nieuws/856126/Media-Qatar-waarschuwt-voor-olieprijs-van-150-dollar.aspx",
     "intro": "De olieprijs is vrijdag gestegen naar het hoogste niveau sinds de zomer van 2024.",
     "published_at": "2026-03-06 13:32",
-    "scraped_at": "2026-03-06T13:32:12.561543"
+    "scraped_at": "2026-03-06T14:25:37.637548"
   },
   {
     "id": "fc1efd7828498b38997c07d3421ea301",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856123/Wall-Street-richting-rode-opening.aspx",
     "intro": "De Amerikaanse beurzen lijken vrijdag met verliezen van start te gaan, in afwachting van het banenrapport.",
     "published_at": "2026-03-06 12:56",
-    "scraped_at": "2026-03-06T13:32:12.561543"
+    "scraped_at": "2026-03-06T14:25:37.637548"
   },
   {
     "id": "431ec01807f13b0f0ad58932c150ecc2",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856120/Beursblik-UBS-haalt-Infineon-van-de-kooplijst.aspx",
     "intro": "UBS heeft het advies voor Infineon verlaagd van Kopen naar Houden met een nieuw koersdoel van 45,00 euro, 2 euro lager dan het oude koersdoel. Dit bleek vrijdag uit een analistenrapport.",
     "published_at": "2026-03-06 12:16",
-    "scraped_at": "2026-03-06T13:32:12.561543"
+    "scraped_at": "2026-03-06T14:25:37.637548"
   },
   {
     "id": "c986782d7121f49e0c0987590b5abedf",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856117/Moment-van-rust-op-Europese-beurzen.aspx",
     "intro": "Vrijdag, aan het einde van de ochtend, was er sprake van een relatieve rust op de Europese beursvloeren.",
     "published_at": "2026-03-06 11:49",
-    "scraped_at": "2026-03-06T13:32:12.561543"
+    "scraped_at": "2026-03-06T14:25:37.637548"
   },
   {
     "id": "bf04fefb41223fbf4d9d1f1cf06eb3e0",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856111/Economie-eurozone-groeit-in-stabiel-tempo.aspx",
     "intro": "De economie in de eurozone is in het vierde kwartaal in een min of meer stabiel tempo gegroeid. Dit meldde het statistiekbureau Eurostat vrijdagochtend.",
     "published_at": "2026-03-06 11:06",
-    "scraped_at": "2026-03-06T13:32:12.561543"
+    "scraped_at": "2026-03-06T14:25:37.637548"
   },
   {
     "id": "d64f424460b2a11aecfd285fcc02ff5c",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856105/Besi-hard-onderuit-in-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs bleef vrijdagochtend dicht bij huis. Rond de klok van half elf daalde de AEX met 0,3 procent tot 991,56 punten.",
     "published_at": "2026-03-06 10:40",
-    "scraped_at": "2026-03-06T13:32:12.561543"
+    "scraped_at": "2026-03-06T14:25:37.637548"
   },
   {
     "id": "1b064abf7f979dc1ae3ea233a4b84ce1",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Artikel/856098/Peter-ter-Kulve-op-de-IEX-Beleggersdag.aspx",
     "intro": "Ook de CEO's van Philips en Triodos, de president-directeur van Shell Nederland en CBS-hoofdeconoom Peter Hein van Mulligen maken hun opwachting.",
     "published_at": "2026-03-06 10:15",
-    "scraped_at": "2026-03-06T13:32:12.561543"
-  },
-  {
-    "id": "7cca0ef4b0ad6bdc5161b831801a0414",
-    "categorie": "Redactioneel",
-    "titel": "Must read: van belastingparadijs naar gevarenzone",
-    "link": "https://www.iex.nl/artikel/855943/Must-read-van-belastingparadijs-naar-gevarenzone.aspx",
-    "intro": "Komt er een crash aan op de aandelenmarkt? Lloyd Blankfein, voormalig baas van Goldman Sachs, denkt van wel. Plus: olieprijzen stijgen, hoe raakt de oorlog in Iran onze economie, winst van de Dow is weg en Dubai van belastingparadijs naar gevarenzone.",
-    "published_at": "2026-03-06 10:00",
-    "scraped_at": "2026-03-06T13:32:12.561543"
-  },
-  {
-    "id": "0ce41485970d0638bf88679e63e614f2",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam zet Eurocommercial op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/856095/Beursblik-Degroof-Petercam-zet-Eurocommercial-op-de-kooplijst.aspx",
-    "intro": "Degroof Petercam heeft vrijdag het advies voor Eurocommercial Properties verhoogd van Houden naar Kopen, terwijl het koersdoel van 30,00 naar 32,00 euro ging. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-03-06 09:46",
-    "scraped_at": "2026-03-06T13:32:12.561543"
-  },
-  {
-    "id": "6fa2d8f0b79e9506d153ad77c79dd3f3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Besi onderuit na twijfels over hybrid bonding",
-    "link": "https://www.beurs.nl/Nieuws/856096/Beursblik-Besi-onderuit-na-twijfels-over-hybrid-bonding.aspx",
-    "intro": "Het aandeel BE Semiconductor Industries gaat vrijdag, bij hoge volumes, hard onderuit.",
-    "published_at": "2026-03-06 09:43",
-    "scraped_at": "2026-03-06T13:32:12.561543"
+    "scraped_at": "2026-03-06T14:25:37.637548"
   }
 ]
