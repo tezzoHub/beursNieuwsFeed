@@ -1,12 +1,30 @@
 [
   {
+    "id": "8833f3b496745556d7a8485c2db0ffde",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: tegenvaller Besi misschien meevaller voor ASMI",
+    "link": "https://www.beurs.nl/Nieuws/856163/Beursblik-tegenvaller-Besi-misschien-meevaller-voor-ASMI.aspx",
+    "intro": "Het aandeel BE Semiconductor Industries gaat vrijdag hard onderuit en ook ASMI daalt stevig.",
+    "published_at": "2026-03-06 15:56",
+    "scraped_at": "2026-03-06T15:23:04.277623"
+  },
+  {
+    "id": "761234a3d6794aff8346007847b276be",
+    "categorie": "Beursnieuws",
+    "titel": "Trump eist volledige overgave Iran",
+    "link": "https://www.beurs.nl/Nieuws/856154/Trump-eist-volledige-overgave-Iran.aspx",
+    "intro": "De Amerikaanse president Donald Trump neemt alleen genoegen met een volledige overgave van Iran. Dit zei hij vrijdag op Truth Social.",
+    "published_at": "2026-03-06 15:17",
+    "scraped_at": "2026-03-06T15:23:04.277623"
+  },
+  {
     "id": "86f516f228f322108084b6f5ef29ac8e",
     "categorie": "Beursnieuws",
     "titel": "Wall Street opent flink lager na tegenvallend banenrapport",
     "link": "https://www.beurs.nl/Nieuws/856150/Wall-Street-opent-flink-lager-na-tegenvallend-banenrapport.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een flink lagere opening tegemoet, nadat het Amerikaanse banenrapport een tegenvaller was.",
     "published_at": "2026-03-06 14:58",
-    "scraped_at": "2026-03-06T14:25:37.637548"
+    "scraped_at": "2026-03-06T15:23:04.277623"
   },
   {
     "id": "39534421e3e2019c46fa55057b4c786e",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856138/Amerikaanse-detailhandelsverkopen-gedaald.aspx",
     "intro": "De verkopen in de Amerikaanse detailhandel zijn in januari gedaald. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-03-06 14:40",
-    "scraped_at": "2026-03-06T14:25:37.637548"
+    "scraped_at": "2026-03-06T15:23:04.277623"
   },
   {
     "id": "920b7431fa5f5db1365b07508189666b",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856134/Minder-Amerikaanse-banen-in-februari.aspx",
     "intro": "Er zijn in februari 92.000 Amerikaanse banen verdwenen, terwijl economen op een groei van 50.000 banen hadden gerekend. Dit bleek vrijdag uit het banenrapport van de Amerikaanse overheid.",
     "published_at": "2026-03-06 14:36",
-    "scraped_at": "2026-03-06T14:25:37.637548"
+    "scraped_at": "2026-03-06T15:23:04.277623"
   },
   {
     "id": "7da1827e8a1d55335212fc83e8855e12",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856126/Media-Qatar-waarschuwt-voor-olieprijs-van-150-dollar.aspx",
     "intro": "De olieprijs is vrijdag gestegen naar het hoogste niveau sinds de zomer van 2024.",
     "published_at": "2026-03-06 13:32",
-    "scraped_at": "2026-03-06T14:25:37.637548"
+    "scraped_at": "2026-03-06T15:23:04.277623"
   },
   {
     "id": "fc1efd7828498b38997c07d3421ea301",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856123/Wall-Street-richting-rode-opening.aspx",
     "intro": "De Amerikaanse beurzen lijken vrijdag met verliezen van start te gaan, in afwachting van het banenrapport.",
     "published_at": "2026-03-06 12:56",
-    "scraped_at": "2026-03-06T14:25:37.637548"
+    "scraped_at": "2026-03-06T15:23:04.277623"
   },
   {
     "id": "431ec01807f13b0f0ad58932c150ecc2",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856120/Beursblik-UBS-haalt-Infineon-van-de-kooplijst.aspx",
     "intro": "UBS heeft het advies voor Infineon verlaagd van Kopen naar Houden met een nieuw koersdoel van 45,00 euro, 2 euro lager dan het oude koersdoel. Dit bleek vrijdag uit een analistenrapport.",
     "published_at": "2026-03-06 12:16",
-    "scraped_at": "2026-03-06T14:25:37.637548"
+    "scraped_at": "2026-03-06T15:23:04.277623"
   },
   {
     "id": "c986782d7121f49e0c0987590b5abedf",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856117/Moment-van-rust-op-Europese-beurzen.aspx",
     "intro": "Vrijdag, aan het einde van de ochtend, was er sprake van een relatieve rust op de Europese beursvloeren.",
     "published_at": "2026-03-06 11:49",
-    "scraped_at": "2026-03-06T14:25:37.637548"
+    "scraped_at": "2026-03-06T15:23:04.277623"
   },
   {
     "id": "bf04fefb41223fbf4d9d1f1cf06eb3e0",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856111/Economie-eurozone-groeit-in-stabiel-tempo.aspx",
     "intro": "De economie in de eurozone is in het vierde kwartaal in een min of meer stabiel tempo gegroeid. Dit meldde het statistiekbureau Eurostat vrijdagochtend.",
     "published_at": "2026-03-06 11:06",
-    "scraped_at": "2026-03-06T14:25:37.637548"
-  },
-  {
-    "id": "d64f424460b2a11aecfd285fcc02ff5c",
-    "categorie": "Beursnieuws",
-    "titel": "Besi hard onderuit in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/856105/Besi-hard-onderuit-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs bleef vrijdagochtend dicht bij huis. Rond de klok van half elf daalde de AEX met 0,3 procent tot 991,56 punten.",
-    "published_at": "2026-03-06 10:40",
-    "scraped_at": "2026-03-06T14:25:37.637548"
-  },
-  {
-    "id": "1b064abf7f979dc1ae3ea233a4b84ce1",
-    "categorie": "IEX Beleggersdag",
-    "titel": "Peter ter Kulve op de IEX Beleggersdag!",
-    "link": "https://www.beurs.nl/Artikel/856098/Peter-ter-Kulve-op-de-IEX-Beleggersdag.aspx",
-    "intro": "Ook de CEO's van Philips en Triodos, de president-directeur van Shell Nederland en CBS-hoofdeconoom Peter Hein van Mulligen maken hun opwachting.",
-    "published_at": "2026-03-06 10:15",
-    "scraped_at": "2026-03-06T14:25:37.637548"
+    "scraped_at": "2026-03-06T15:23:04.277623"
   }
 ]
