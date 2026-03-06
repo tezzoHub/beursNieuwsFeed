@@ -1,12 +1,21 @@
 [
   {
+    "id": "74eb396ff9bb023b4e3a633c48195f88",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen beleven slechtste week sinds Liberation Day",
+    "link": "https://www.beurs.nl/Nieuws/856176/Europese-beurzen-beleven-slechtste-week-sinds-Liberation-Day.aspx",
+    "intro": "De Europese aandelenmarkten zijn vrijdag opnieuw lager geëindigd. Door de oorlog in het Midden-Oosten beleefden de beurzen hun slechtste week sinds april 2025, toen de Amerikaanse president Donald Trump op Liberation Day zijn wereldwijde importheffingen aankondigde.",
+    "published_at": "2026-03-06 18:32",
+    "scraped_at": "2026-03-06T18:25:23.638618"
+  },
+  {
     "id": "9886228ceb14b5e5dcf017782fb61a72",
     "categorie": "Beursnieuws",
     "titel": "AEX sluit beroerde week negatief af",
     "link": "https://www.beurs.nl/Nieuws/856174/AEX-sluit-beroerde-week-negatief-af.aspx",
     "intro": "De Amsterdamse beurs is vrijdag flink lager gesloten en sluit daarmee een beroerde week af die in het teken stond van het conflict in het Midden-Oosten en de oplopende olieprijs.",
     "published_at": "2026-03-06 17:52",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   },
   {
     "id": "fa071b6aca4ae59fe13f6aedcf98fcaa",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/856166/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-06 16:35",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   },
   {
     "id": "f54c567da5fa671117c5324a9812d7f7",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856168/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-06 16:35",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   },
   {
     "id": "06c727b8b53ab2ff1640f7655cc87bfe",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856169/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-06 16:35",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   },
   {
     "id": "496aca5ef6e5f4dccb736d0905ab93a8",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856165/Beursblik-weer-en-stakingen-drukken-Amerikaanse-werkgelegenheid.aspx",
     "intro": "Het zwakke Amerikaanse banenrapport voor februari werd vooral veroorzaakt door het strenge winterweer in de Verenigde Staten. Dit stelde econoom James Knightley van ING in reactie op het banenrapport.",
     "published_at": "2026-03-06 16:21",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   },
   {
     "id": "9416a4bebdd2cf80d95a329eff32d5df",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856164/Lichte-toename-Amerikaanse-bedrijfsvoorraden.aspx",
     "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in december licht gestegen. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-03-06 16:07",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   },
   {
     "id": "8833f3b496745556d7a8485c2db0ffde",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856163/Beursblik-tegenvaller-Besi-misschien-meevaller-voor-ASMI.aspx",
     "intro": "Het aandeel BE Semiconductor Industries gaat vrijdag hard onderuit en ook ASMI daalt stevig.",
     "published_at": "2026-03-06 15:56",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   },
   {
     "id": "761234a3d6794aff8346007847b276be",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856154/Trump-eist-volledige-overgave-Iran.aspx",
     "intro": "De Amerikaanse president Donald Trump neemt alleen genoegen met een volledige overgave van Iran. Dit zei hij vrijdag op Truth Social.",
     "published_at": "2026-03-06 15:17",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   },
   {
     "id": "86f516f228f322108084b6f5ef29ac8e",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856150/Wall-Street-opent-flink-lager-na-tegenvallend-banenrapport.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een flink lagere opening tegemoet, nadat het Amerikaanse banenrapport een tegenvaller was.",
     "published_at": "2026-03-06 14:58",
-    "scraped_at": "2026-03-06T17:36:54.540181"
-  },
-  {
-    "id": "39534421e3e2019c46fa55057b4c786e",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse detailhandelsverkopen gedaald",
-    "link": "https://www.beurs.nl/Nieuws/856138/Amerikaanse-detailhandelsverkopen-gedaald.aspx",
-    "intro": "De verkopen in de Amerikaanse detailhandel zijn in januari gedaald. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-03-06 14:40",
-    "scraped_at": "2026-03-06T17:36:54.540181"
+    "scraped_at": "2026-03-06T18:25:23.638618"
   }
 ]
