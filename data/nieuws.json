@@ -1,12 +1,30 @@
 [
   {
+    "id": "48ff716f30f003e9db49b97031d8bb3e",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs steeds dichter bij 100 dollar",
+    "link": "https://www.beurs.nl/Nieuws/856180/Olieprijs-steeds-dichter-bij-100-dollar.aspx",
+    "intro": "De olieprijzen zijn vrijdag flink doorgestegen, terwijl de oorlog in het Midden-Oosten voortduurde en de energieminister van Qatar daardoor waarschuwde voor verder oplopende prijzen.",
+    "published_at": "2026-03-06 21:16",
+    "scraped_at": "2026-03-06T20:35:08.614666"
+  },
+  {
+    "id": "0dde7fcc0e3dd08e101850265c2ebc1f",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Amerikaanse douane bereidt tariefrestitutiesysteem voor",
+    "link": "https://www.beurs.nl/Nieuws/856178/Media-Amerikaanse-douane-bereidt-tariefrestitutiesysteem-voor.aspx",
+    "intro": "De Amerikaanse douane is bezig met het opzetten van een systeem om binnen 45 dagen restituties te verwerken voor de invoerrechten van de Amerikaanse president Donald Trump die als illegaal zijn aangemerkt. Dit meldde persbureau Reuters vrijdag op basis van een verklaring van een douaneambtenaar.",
+    "published_at": "2026-03-06 20:22",
+    "scraped_at": "2026-03-06T20:35:08.614666"
+  },
+  {
     "id": "c680959044d3e74c1c7d59edfcc77444",
     "categorie": "Beursnieuws",
     "titel": "Wall Street koerst lager na zwak banenrapport",
     "link": "https://www.beurs.nl/Nieuws/856177/Wall-Street-koerst-lager-na-zwak-banenrapport.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag lager met nog een paar uur handel te gaan, waarbij de focus lag op een zwak banenrapport en de voortdurende oorlog in het Midden-Oosten, waardoor de energieprijzen steeds verder oplopen.",
     "published_at": "2026-03-06 19:40",
-    "scraped_at": "2026-03-06T19:54:24.049622"
+    "scraped_at": "2026-03-06T20:35:08.614666"
   },
   {
     "id": "74eb396ff9bb023b4e3a633c48195f88",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856176/Europese-beurzen-beleven-slechtste-week-sinds-Liberation-Day.aspx",
     "intro": "De Europese aandelenmarkten zijn vrijdag opnieuw lager geëindigd. Door de oorlog in het Midden-Oosten beleefden de beurzen hun slechtste week sinds april 2025, toen de Amerikaanse president Donald Trump op Liberation Day zijn wereldwijde importheffingen aankondigde.",
     "published_at": "2026-03-06 18:32",
-    "scraped_at": "2026-03-06T19:54:24.049622"
+    "scraped_at": "2026-03-06T20:35:08.614666"
   },
   {
     "id": "9886228ceb14b5e5dcf017782fb61a72",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856174/AEX-sluit-beroerde-week-negatief-af.aspx",
     "intro": "De Amsterdamse beurs is vrijdag flink lager gesloten en sluit daarmee een beroerde week af die in het teken stond van het conflict in het Midden-Oosten en de oplopende olieprijs.",
     "published_at": "2026-03-06 17:52",
-    "scraped_at": "2026-03-06T19:54:24.049622"
+    "scraped_at": "2026-03-06T20:35:08.614666"
   },
   {
     "id": "fa071b6aca4ae59fe13f6aedcf98fcaa",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856166/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-06 16:35",
-    "scraped_at": "2026-03-06T19:54:24.049622"
+    "scraped_at": "2026-03-06T20:35:08.614666"
   },
   {
     "id": "f54c567da5fa671117c5324a9812d7f7",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856168/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-06 16:35",
-    "scraped_at": "2026-03-06T19:54:24.049622"
+    "scraped_at": "2026-03-06T20:35:08.614666"
   },
   {
     "id": "06c727b8b53ab2ff1640f7655cc87bfe",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856169/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-06 16:35",
-    "scraped_at": "2026-03-06T19:54:24.049622"
+    "scraped_at": "2026-03-06T20:35:08.614666"
   },
   {
     "id": "496aca5ef6e5f4dccb736d0905ab93a8",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856165/Beursblik-weer-en-stakingen-drukken-Amerikaanse-werkgelegenheid.aspx",
     "intro": "Het zwakke Amerikaanse banenrapport voor februari werd vooral veroorzaakt door het strenge winterweer in de Verenigde Staten. Dit stelde econoom James Knightley van ING in reactie op het banenrapport.",
     "published_at": "2026-03-06 16:21",
-    "scraped_at": "2026-03-06T19:54:24.049622"
+    "scraped_at": "2026-03-06T20:35:08.614666"
   },
   {
     "id": "9416a4bebdd2cf80d95a329eff32d5df",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856164/Lichte-toename-Amerikaanse-bedrijfsvoorraden.aspx",
     "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in december licht gestegen. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-03-06 16:07",
-    "scraped_at": "2026-03-06T19:54:24.049622"
-  },
-  {
-    "id": "8833f3b496745556d7a8485c2db0ffde",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: tegenvaller Besi misschien meevaller voor ASMI",
-    "link": "https://www.beurs.nl/Nieuws/856163/Beursblik-tegenvaller-Besi-misschien-meevaller-voor-ASMI.aspx",
-    "intro": "Het aandeel BE Semiconductor Industries gaat vrijdag hard onderuit en ook ASMI daalt stevig.",
-    "published_at": "2026-03-06 15:56",
-    "scraped_at": "2026-03-06T19:54:24.049622"
-  },
-  {
-    "id": "761234a3d6794aff8346007847b276be",
-    "categorie": "Beursnieuws",
-    "titel": "Trump eist volledige overgave Iran",
-    "link": "https://www.beurs.nl/Nieuws/856154/Trump-eist-volledige-overgave-Iran.aspx",
-    "intro": "De Amerikaanse president Donald Trump neemt alleen genoegen met een volledige overgave van Iran. Dit zei hij vrijdag op Truth Social.",
-    "published_at": "2026-03-06 15:17",
-    "scraped_at": "2026-03-06T19:54:24.049622"
+    "scraped_at": "2026-03-06T20:35:08.614666"
   }
 ]
