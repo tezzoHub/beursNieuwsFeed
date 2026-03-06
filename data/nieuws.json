@@ -1,12 +1,39 @@
 [
   {
+    "id": "b42460101e09c32f8dd9ba04e3188606",
+    "categorie": "Beursnieuws",
+    "titel": "Lufthansa boekt recordomzet",
+    "link": "https://www.beurs.nl/Nieuws/856066/Lufthansa-boekt-recordomzet.aspx",
+    "intro": "Lufthansa heeft in 2025 een recordomzet geboekt. Dit bleek vrijdag uit cijfers van de Duitse luchtvaartmaatschappij.",
+    "published_at": "2026-03-06 07:49",
+    "scraped_at": "2026-03-06T07:10:09.716529"
+  },
+  {
+    "id": "fa9968eda3f4c917708895c1d7542c94",
+    "categorie": "Beursnieuws",
+    "titel": "Verdeeld beeld op Aziatische beurzen",
+    "link": "https://www.beurs.nl/Nieuws/856061/Verdeeld-beeld-op-Aziatische-beurzen.aspx",
+    "intro": "De Aziatische beurzen lieten vrijdagochtend een verdeeld beeld zien. In Sydney daalde de grondstofgevoelige ASX 200 index met een procent, terwijl de Hang Seng index in Hongkong juist meer dan anderhalf procent won.",
+    "published_at": "2026-03-06 07:18",
+    "scraped_at": "2026-03-06T07:10:09.716529"
+  },
+  {
+    "id": "d4b2d6bcf1bbfdf1380124bb5c51ed19",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen flink hoger",
+    "link": "https://www.beurs.nl/Nieuws/856059/Europese-beurzen-openen-flink-hoger.aspx",
+    "intro": "De Europese beurzen gaan vrijdag een donkergroene opening tegemoet, in afwachting van het Amerikaanse banenrapport later op de dag, terwijl de oorlog in het Midden-Oosten zijn zevende dag ingaat.",
+    "published_at": "2026-03-06 07:00",
+    "scraped_at": "2026-03-06T07:10:09.716529"
+  },
+  {
     "id": "800e25f03a567bf29cdd11c9cbaaac3d",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/856054/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 13 maart 2026:",
     "published_at": "2026-03-06 06:55",
-    "scraped_at": "2026-03-06T06:02:40.272617"
+    "scraped_at": "2026-03-06T07:10:09.716529"
   },
   {
     "id": "91ee46052bb8838cea3b9b61a948945c",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856056/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 13 maart 2026:",
     "published_at": "2026-03-06 06:55",
-    "scraped_at": "2026-03-06T06:02:40.272617"
+    "scraped_at": "2026-03-06T07:10:09.716529"
   },
   {
     "id": "709b8324f797dd3d52013571be34135e",
@@ -24,6 +51,6 @@
     "link": "https://www.beurs.nl/Nieuws/856057/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 13 maart 2026:",
     "published_at": "2026-03-06 06:55",
-    "scraped_at": "2026-03-06T06:02:40.272617"
+    "scraped_at": "2026-03-06T07:10:09.716529"
   }
 ]
