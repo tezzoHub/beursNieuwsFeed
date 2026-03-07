@@ -1,11 +1,29 @@
 [
   {
+    "id": "bb68c1a5addf287f1182f427ba41802c",
+    "categorie": "Beursnieuws",
+    "titel": "Sprucegrove iets groter in Vopak",
+    "link": "https://www.beurs.nl/Nieuws/856208/Sprucegrove-iets-groter-in-Vopak.aspx",
+    "intro": "Sprucegrove Investment Management heeft een iets groter belang in Vopak gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 6 maart.",
+    "published_at": "2026-03-07 14:12",
+    "scraped_at": "2026-03-07T13:52:11.336363"
+  },
+  {
+    "id": "00adb611de307a02e88caef4255a787c",
+    "categorie": "Beursnieuws",
+    "titel": "Janus Henderson iets kleiner in TKH",
+    "link": "https://www.beurs.nl/Nieuws/856206/Janus-Henderson-iets-kleiner-in-TKH.aspx",
+    "intro": "Janus Henderson heeft een iets kleiner belang in TKH Group gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 5 maart.",
+    "published_at": "2026-03-07 14:09",
+    "scraped_at": "2026-03-07T13:52:11.336363"
+  },
+  {
     "id": "603ef5797fcf73d32fae2bffddf55d8e",
     "categorie": "Beursnieuws",
     "titel": "HAL verdubbelt belang in TKH",
     "link": "https://www.beurs.nl/Nieuws/856203/HAL-verdubbelt-belang-in-TKH.aspx",
     "intro": "HAL Trust heeft het belang in TKH Group verdubbeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 5 maart.",
     "published_at": "2026-03-07 08:49",
-    "scraped_at": "2026-03-07T13:04:06.486402"
+    "scraped_at": "2026-03-07T13:52:11.336363"
   }
 ]
