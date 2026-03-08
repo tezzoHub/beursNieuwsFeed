@@ -1,47 +1,20 @@
 [
   {
-    "id": "5e06e561085a138ce3c015cb816ddcdb",
+    "id": "a6f13a9aaef26a7be8cbd43da62c9382",
     "categorie": "Beursnieuws",
-    "titel": "Trump: Iran belooft buurlanden niet meer aan te vallen",
-    "link": "https://www.beurs.nl/Nieuws/856210/Trump-Iran-belooft-buurlanden-niet-meer-aan-te-vallen.aspx",
-    "intro": "Iran heeft zijn excuses aangeboden aan zijn buurlanden en zal hen niet meer aanvallen. Dit stelde president Donald Trump zaterdag op Truth Social.",
-    "published_at": "2026-03-07 14:27",
-    "scraped_at": "2026-03-08T09:32:03.103872"
+    "titel": "Beursweek focust op oorlog, energie en inflatie",
+    "link": "https://www.beurs.nl/Nieuws/856213/Beursweek-focust-op-oorlog-energie-en-inflatie.aspx",
+    "intro": "De komende beursweek staat zonder twijfel weer in het teken van de oorlog in het Midden-Oosten, terwijl op macro-economisch vlak de focus ligt op nieuwe inflatiecijfers en groeidata uit de VS.",
+    "published_at": "2026-03-08 10:46",
+    "scraped_at": "2026-03-08T10:01:00.179193"
   },
   {
-    "id": "c8837737c3dde3bb2575e0e40390a4e3",
+    "id": "40ff5809b5b0e1906bdb650ed0e2c92c",
     "categorie": "Beursnieuws",
-    "titel": "Oorlog dwingt Damrak tot voorzichtigheid",
-    "link": "https://www.beurs.nl/Nieuws/856207/Oorlog-dwingt-Damrak-tot-voorzichtigheid.aspx",
-    "intro": "In februari ging de Amsterdamse beurs er nog 2,5 procent op vooruit, maar de maand maart begon volatiel door de oorlog in het Midden-Oosten.",
-    "published_at": "2026-03-07 14:17",
-    "scraped_at": "2026-03-08T09:32:03.103872"
-  },
-  {
-    "id": "bb68c1a5addf287f1182f427ba41802c",
-    "categorie": "Beursnieuws",
-    "titel": "Sprucegrove iets groter in Vopak",
-    "link": "https://www.beurs.nl/Nieuws/856208/Sprucegrove-iets-groter-in-Vopak.aspx",
-    "intro": "Sprucegrove Investment Management heeft een iets groter belang in Vopak gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 6 maart.",
-    "published_at": "2026-03-07 14:12",
-    "scraped_at": "2026-03-08T09:32:03.103872"
-  },
-  {
-    "id": "00adb611de307a02e88caef4255a787c",
-    "categorie": "Beursnieuws",
-    "titel": "Janus Henderson iets kleiner in TKH",
-    "link": "https://www.beurs.nl/Nieuws/856206/Janus-Henderson-iets-kleiner-in-TKH.aspx",
-    "intro": "Janus Henderson heeft een iets kleiner belang in TKH Group gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 5 maart.",
-    "published_at": "2026-03-07 14:09",
-    "scraped_at": "2026-03-08T09:32:03.103872"
-  },
-  {
-    "id": "603ef5797fcf73d32fae2bffddf55d8e",
-    "categorie": "Beursnieuws",
-    "titel": "HAL verdubbelt belang in TKH",
-    "link": "https://www.beurs.nl/Nieuws/856203/HAL-verdubbelt-belang-in-TKH.aspx",
-    "intro": "HAL Trust heeft het belang in TKH Group verdubbeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 5 maart.",
-    "published_at": "2026-03-07 08:49",
-    "scraped_at": "2026-03-08T09:32:03.103872"
+    "titel": "Shell en databedrijven onttrekken zich aan malaise in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/856211/Shell-en-databedrijven-onttrekken-zich-aan-malaise-in-rode-AEX.aspx",
+    "intro": "Bedrijven op het Damrak konden afgelopen week ofwel profiteren van het oorlogsnieuws of gingen er juist hard door onderuit. Shell spon garen bij de oplopende olieprijzen en won op weekbasis 3,3 procent.",
+    "published_at": "2026-03-08 10:34",
+    "scraped_at": "2026-03-08T10:01:00.179193"
   }
 ]
