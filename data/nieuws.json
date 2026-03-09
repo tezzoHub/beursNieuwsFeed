@@ -1,12 +1,57 @@
 [
   {
+    "id": "aca0ab4ea2147a6976e157c98bcfded3",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Barclays haalt Air France-KLM van de verkooplijst",
+    "link": "https://www.beurs.nl/Nieuws/856270/Beursblik-Barclays-haalt-Air-France-KLM-van-de-verkooplijst.aspx",
+    "intro": "Barclays heeft Air France-KLM van zijn verkooplijst gehaald, omdat de aandelen van Europese luchtvaartmaatschappijen kunnen herstellen wanneer de luchtaanvallen in het Midden-Oosten achter de rug zijn en de brandstofprijzen mogelijk weer gaan dalen. Dit bleek uit een analistenrapport van de bank.",
+    "published_at": "2026-03-09 09:59",
+    "scraped_at": "2026-03-09T09:05:08.469560"
+  },
+  {
+    "id": "817b1d6419d6b38c2e3b249795b04864",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse fabrieksorders hard gedaald",
+    "link": "https://www.beurs.nl/Nieuws/856269/Duitse-fabrieksorders-hard-gedaald.aspx",
+    "intro": "De Duitse fabrieksorders zijn in januari flink gedaald. Dit bleek maandag uit cijfers van statistiekbureau Destatis.",
+    "published_at": "2026-03-09 09:44",
+    "scraped_at": "2026-03-09T09:05:08.469560"
+  },
+  {
+    "id": "4811f4c6991c30affff61766e0978eeb",
+    "categorie": "Beursnieuws",
+    "titel": "Productie Duitse industrie opnieuw gedaald",
+    "link": "https://www.beurs.nl/Nieuws/856268/Productie-Duitse-industrie-opnieuw-gedaald.aspx",
+    "intro": "De productie van de Duitse industrie is in januari opnieuw gedaald. Dit bleek maandag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-03-09 09:40",
+    "scraped_at": "2026-03-09T09:05:08.469560"
+  },
+  {
+    "id": "db6af822b56d01bdf6af2a2dab93434c",
+    "categorie": "Beursnieuws",
+    "titel": "AEX flink lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/856262/AEX-flink-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 1,9 procent lager op 961,50 punten, terwijl de Midkap 2,7 procent prijs moest geven.",
+    "published_at": "2026-03-09 09:12",
+    "scraped_at": "2026-03-09T09:05:08.469560"
+  },
+  {
+    "id": "5b38147fa37a39f03855ca8a81c77e62",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verlaagt koersdoel Banijay",
+    "link": "https://www.beurs.nl/Nieuws/856254/Deutsche-Bank-verlaagt-koersdoel-Banijay.aspx",
+    "intro": "Deutsche Bank heeft het koersdoel voor Banijay Group verlaagd van 14,00 naar 13,00 euro, maar met behoud van het koopadvies. Dit bleek maandag uit een analistenrapport van de Duitse bank.",
+    "published_at": "2026-03-09 09:02",
+    "scraped_at": "2026-03-09T09:05:08.469560"
+  },
+  {
     "id": "52400f2cb98885d2730bf7b585e10ab4",
     "categorie": "Beursnieuws",
     "titel": "ASML draagt voormalig topman ASMI voor als commissaris",
     "link": "https://www.beurs.nl/Nieuws/856253/ASML-draagt-voormalig-topman-ASMI-voor-als-commissaris.aspx",
     "intro": "ASML heeft maandag voorstellen gedaan voor benoemingen die goedgekeurd moeten worden op de jaarlijkse aandeelhoudersvergadering op 22 april.",
     "published_at": "2026-03-09 08:51",
-    "scraped_at": "2026-03-09T08:00:56.114081"
+    "scraped_at": "2026-03-09T09:05:08.469560"
   },
   {
     "id": "379926833741cc0bcb745694b31b7bf6",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856248/Euronext-meldt-opnieuw-hogere-volumes.aspx",
     "intro": "De handelsvolumes van contante effecten op Euronext zijn in februari verder hersteld. Dit maakte de Europese beursuitbater maandagochtend bekend.",
     "published_at": "2026-03-09 08:44",
-    "scraped_at": "2026-03-09T08:00:56.114081"
+    "scraped_at": "2026-03-09T09:05:08.469560"
   },
   {
     "id": "e6078514f6d2d9ebb478e0cc4cebd2be",
@@ -24,7 +69,16 @@
     "link": "https://www.beurs.nl/Artikel/856216/Rode-koersen-olieprijzen-en-VIX-gaan-door-het-dak.aspx",
     "intro": "Openingsindicatie: -1,9%. De olieprijzen schieten als een raket omhoog, paniekbarometer VIX staat boven 29 punten en in Zuid-Korea is de circuit breaker ingezet.",
     "published_at": "2026-03-09 08:30",
-    "scraped_at": "2026-03-09T08:00:56.114081"
+    "scraped_at": "2026-03-09T09:05:08.469560"
+  },
+  {
+    "id": "0e49dea8c24a694765730f150b42a5a0",
+    "categorie": "Beursnieuws",
+    "titel": "'Kremlin staat ING niet toe zijn Russische tak te verkopen'",
+    "link": "https://www.beurs.nl/Nieuws/856244/Kremlin-staat-ING-niet-toe-zijn-Russische-tak-te-verkopen.aspx",
+    "intro": "ING krijgt geen toestemming van het Kremlin om zijn Russische dochterbedrijf te verkopen, omdat Rusland westerse banken nodig heeft om aansluiting te behouden op het internationale betalingsverkeer. Dit schreef het Financieele Dagblad maandag.",
+    "published_at": "2026-03-09 08:22",
+    "scraped_at": "2026-03-09T09:05:08.469560"
   },
   {
     "id": "6efdd14c97a9ce4bcb9f96b4ce39f0a5",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856239/Donkerrode-start-voor-AEX-terwijl-olieprijzen-exploderen.aspx",
     "intro": "De Amsterdamse beurs gaat maandag fors lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 2,8 procent.",
     "published_at": "2026-03-09 07:59",
-    "scraped_at": "2026-03-09T08:00:56.114081"
-  },
-  {
-    "id": "16a94392eb98dee079a6ae17fd13347b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies rekent op margeherstel bij TKH",
-    "link": "https://www.beurs.nl/Nieuws/856237/Beursblik-Jefferies-rekent-op-margeherstel-bij-TKH.aspx",
-    "intro": "Jefferies heeft zijn verwachtingen voor het EBITA-resultaat van TKH Group na 2026 verhoogd met percentages rond 5 procent, op basis van een sterkere groei bij Electrification. Dit bleek maandag in een rapport van analist David Kerstens, waarbij hij het koersdoel van 50,00 euro met een koopadvies herhaalde.",
-    "published_at": "2026-03-09 07:43",
-    "scraped_at": "2026-03-09T08:00:56.114081"
-  },
-  {
-    "id": "78309df1c32865dbc26c44ab828874a6",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen onderuit terwijl olieprijzen exploderen",
-    "link": "https://www.beurs.nl/Nieuws/856233/Aziatische-beurzen-onderuit-terwijl-olieprijzen-exploderen.aspx",
-    "intro": "De olie-futures koersten maandagochtend in de Aziatische handel tot wel 15 procent hoger. Brent noteerde rond 107 dollar per vat, terwijl de Amerikaanse WTI-future op 104 dollar werd verhandeld. Beide futures piekten vannacht rond een prijs van 120 dollar.",
-    "published_at": "2026-03-09 07:18",
-    "scraped_at": "2026-03-09T08:00:56.114081"
-  },
-  {
-    "id": "538f7a04f785927321fd8925b851d9f4",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen maken zich op voor duikvlucht",
-    "link": "https://www.beurs.nl/Nieuws/856231/Europese-beurzen-maken-zich-op-voor-duikvlucht.aspx",
-    "intro": "De Europese beurzen gaan maandag een donkerrode opening tegemoet, nadat vorige week al de slechtste week sinds 'Liberation' Day was.",
-    "published_at": "2026-03-09 07:08",
-    "scraped_at": "2026-03-09T08:00:56.114081"
-  },
-  {
-    "id": "50b102e7c3b0375ace41db6181d8670c",
-    "categorie": "Beursnieuws",
-    "titel": "Chinese inflatie loopt flink op",
-    "link": "https://www.beurs.nl/Nieuws/856228/Chinese-inflatie-loopt-flink-op.aspx",
-    "intro": "De Chinese consumentenprijzen zijn in februari veel harder gestegen dan in januari. Dit bleek maandag uit overheidscijfers.",
-    "published_at": "2026-03-09 06:59",
-    "scraped_at": "2026-03-09T08:00:56.114081"
-  },
-  {
-    "id": "c4c27e413ed8d45a7c2b9a6af802a1f4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/856226/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 16 maart 2026:",
-    "published_at": "2026-03-09 06:51",
-    "scraped_at": "2026-03-09T08:00:56.114081"
-  },
-  {
-    "id": "ce6813edf44173680f4b6d95eba015cf",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/856227/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 16 maart 2026:",
-    "published_at": "2026-03-09 06:51",
-    "scraped_at": "2026-03-09T08:00:56.114081"
+    "scraped_at": "2026-03-09T09:05:08.469560"
   }
 ]
