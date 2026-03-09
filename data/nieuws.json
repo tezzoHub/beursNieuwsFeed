@@ -1,12 +1,57 @@
 [
   {
+    "id": "6efdd14c97a9ce4bcb9f96b4ce39f0a5",
+    "categorie": "Beursnieuws",
+    "titel": "Donkerrode start voor AEX terwijl olieprijzen exploderen",
+    "link": "https://www.beurs.nl/Nieuws/856239/Donkerrode-start-voor-AEX-terwijl-olieprijzen-exploderen.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag fors lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 2,8 procent.",
+    "published_at": "2026-03-09 07:59",
+    "scraped_at": "2026-03-09T07:13:45.802091"
+  },
+  {
+    "id": "16a94392eb98dee079a6ae17fd13347b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies rekent op margeherstel bij TKH",
+    "link": "https://www.beurs.nl/Nieuws/856237/Beursblik-Jefferies-rekent-op-margeherstel-bij-TKH.aspx",
+    "intro": "Jefferies heeft zijn verwachtingen voor het EBITA-resultaat van TKH Group na 2026 verhoogd met percentages rond 5 procent, op basis van een sterkere groei bij Electrification. Dit bleek maandag in een rapport van analist David Kerstens, waarbij hij het koersdoel van 50,00 euro met een koopadvies herhaalde.",
+    "published_at": "2026-03-09 07:43",
+    "scraped_at": "2026-03-09T07:13:45.802091"
+  },
+  {
+    "id": "78309df1c32865dbc26c44ab828874a6",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen onderuit terwijl olieprijzen exploderen",
+    "link": "https://www.beurs.nl/Nieuws/856233/Aziatische-beurzen-onderuit-terwijl-olieprijzen-exploderen.aspx",
+    "intro": "De olie-futures koersten maandagochtend in de Aziatische handel tot wel 15 procent hoger. Brent noteerde rond 107 dollar per vat, terwijl de Amerikaanse WTI-future op 104 dollar werd verhandeld. Beide futures piekten vannacht rond een prijs van 120 dollar.",
+    "published_at": "2026-03-09 07:18",
+    "scraped_at": "2026-03-09T07:13:45.802091"
+  },
+  {
+    "id": "538f7a04f785927321fd8925b851d9f4",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen maken zich op voor duikvlucht",
+    "link": "https://www.beurs.nl/Nieuws/856231/Europese-beurzen-maken-zich-op-voor-duikvlucht.aspx",
+    "intro": "De Europese beurzen gaan maandag een donkerrode opening tegemoet, nadat vorige week al de slechtste week sinds 'Liberation' Day was.",
+    "published_at": "2026-03-09 07:08",
+    "scraped_at": "2026-03-09T07:13:45.802091"
+  },
+  {
+    "id": "50b102e7c3b0375ace41db6181d8670c",
+    "categorie": "Beursnieuws",
+    "titel": "Chinese inflatie loopt flink op",
+    "link": "https://www.beurs.nl/Nieuws/856228/Chinese-inflatie-loopt-flink-op.aspx",
+    "intro": "De Chinese consumentenprijzen zijn in februari veel harder gestegen dan in januari. Dit bleek maandag uit overheidscijfers.",
+    "published_at": "2026-03-09 06:59",
+    "scraped_at": "2026-03-09T07:13:45.802091"
+  },
+  {
     "id": "c4c27e413ed8d45a7c2b9a6af802a1f4",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
     "link": "https://www.beurs.nl/Nieuws/856226/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-09 06:51",
-    "scraped_at": "2026-03-09T05:59:08.309956"
+    "scraped_at": "2026-03-09T07:13:45.802091"
   },
   {
     "id": "ce6813edf44173680f4b6d95eba015cf",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856227/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-09 06:51",
-    "scraped_at": "2026-03-09T05:59:08.309956"
+    "scraped_at": "2026-03-09T07:13:45.802091"
   },
   {
     "id": "0fe4dd57d53ae161bdeaa159a2b2c861",
@@ -24,6 +69,6 @@
     "link": "https://www.beurs.nl/Nieuws/856224/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 16 maart 2026:",
     "published_at": "2026-03-09 06:50",
-    "scraped_at": "2026-03-09T05:59:08.309956"
+    "scraped_at": "2026-03-09T07:13:45.802091"
   }
 ]
