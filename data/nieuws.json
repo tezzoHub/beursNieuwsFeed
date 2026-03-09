@@ -1,12 +1,48 @@
 [
   {
+    "id": "be4074fdfcbe27923b8600ff9e8cb5f5",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen verdere verliezen voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/856299/Futures-voorspellen-verdere-verliezen-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een rode opening tegemoet, terwijl de olieprijzen verder oplopen bij een gebrek aan een snelle oplossing voor het conflict in het Midden-Oosten. Futures op de SP 500 noteerden rond lunchtijd ruim een procent in het rood.",
+    "published_at": "2026-03-09 12:38",
+    "scraped_at": "2026-03-09T11:52:59.354901"
+  },
+  {
+    "id": "ba470a653ace27e002bb648719d2c288",
+    "categorie": "Beursnieuws",
+    "titel": "JPMorgan haalt ArcelorMittal en Aperam van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/856298/JPMorgan-haalt-ArcelorMittal-en-Aperam-van-de-kooplijst.aspx",
+    "intro": "JPMorgan Research heeft maandag de aandelen ArcelorMittal en Aperam van de kooplijst gehaald. Dit bleek uit een sectorrapport van de Amerikaanse bank.",
+    "published_at": "2026-03-09 12:30",
+    "scraped_at": "2026-03-09T11:52:59.354901"
+  },
+  {
+    "id": "22c282e7fee347ee0acceecae890a146",
+    "categorie": "Beursnieuws",
+    "titel": "Ajax benoemt Lesley Bamberger tot nieuwe voorzitter",
+    "link": "https://www.beurs.nl/Nieuws/856297/Ajax-benoemt-Lesley-Bamberger-tot-nieuwe-voorzitter.aspx",
+    "intro": "Ajax heeft Lesley Bamberger benoemd tot nieuw lid en voorzitter van de Raad van Commissarissen, tijdens een buitengewone aandeelhoudersvergadering. Dit maakte de Amsterdamse voetbalclub maandag na afloop van de bijeenkomst bekend.",
+    "published_at": "2026-03-09 12:13",
+    "scraped_at": "2026-03-09T11:52:59.354901"
+  },
+  {
+    "id": "97b834d8d2ee78333cd91e04bab6e003",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen flink in het rood met olie boven 100 dollar",
+    "link": "https://www.beurs.nl/Nieuws/856295/Europese-beurzen-flink-in-het-rood-met-olie-boven-100-dollar.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden maandag rond het middaguur flink lager, terwijl de olieprijs boven de 100 dollar uitkwam, nu de oorlog in het Midden-Oosten geen tekenen van ontspanning vertoont.",
+    "published_at": "2026-03-09 12:07",
+    "scraped_at": "2026-03-09T11:52:59.354901"
+  },
+  {
     "id": "b3a329be4987d3d9f490272a8f272315",
     "categorie": "Beursnieuws",
     "titel": "Besi en Shell beperken verlies AEX",
     "link": "https://www.beurs.nl/Nieuws/856283/Besi-en-Shell-beperken-verlies-AEX.aspx",
     "intro": "De Amsterdamse beurs weet maandag dankzij de koerswinsten voor Shell en Besi het verlies te beperken ten opzichte van omringende beurzen.",
     "published_at": "2026-03-09 11:23",
-    "scraped_at": "2026-03-09T11:06:51.917108"
+    "scraped_at": "2026-03-09T11:52:59.354901"
   },
   {
     "id": "b34727bf1ec035ffd4b17fe2051c7a54",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856276/Goldman-Sachs-verhoogt-koersdoelen-Big-Oil.aspx",
     "intro": "Goldman Sachs heeft de koersdoelen voor grote Europese oliebedrijven verhoogd, in verband met de verstoring van de toevoer door de Straat van Hormuz als gevolg van de Amerikaanse luchtaanvallen op Iran, waardoor de olieprijs maandag tot meer dan 100 dollar per vat is gestegen.",
     "published_at": "2026-03-09 10:57",
-    "scraped_at": "2026-03-09T11:06:51.917108"
+    "scraped_at": "2026-03-09T11:52:59.354901"
   },
   {
     "id": "1408cc230c99f4ae03faeb7b57cd28fb",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856272/Fugro-aan-de-slag-met-Iers-windmolenpark.aspx",
     "intro": "Fugro heeft een opdracht gekregen voor werkzaamheden voor het Oriel Windfarm project in Ierland. Dit maakte de Nederlandse bodemonderzoeker maandag bekend.",
     "published_at": "2026-03-09 10:46",
-    "scraped_at": "2026-03-09T11:06:51.917108"
+    "scraped_at": "2026-03-09T11:52:59.354901"
   },
   {
     "id": "d9bddaa28efb515bb72047aac6a3f951",
@@ -33,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/856256/Must-read-Olie-boven-100-zet-markten-in-brand.aspx",
     "intro": "Onrust op de beurzen nu de olieprijs voor het eerst sinds 2022 weer boven de $100 stijgt. Plus: beleggers zijn weer bang, 5 manieren waarop de olieprijs u raakt, China beter bestand tegen de olieprijs en meer.",
     "published_at": "2026-03-09 10:00",
-    "scraped_at": "2026-03-09T11:06:51.917108"
+    "scraped_at": "2026-03-09T11:52:59.354901"
   },
   {
     "id": "4d5d98aec43c6187c0e74c2e31719321",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856270/Barclays-haalt-Air-France-KLM-van-de-verkooplijst.aspx",
     "intro": "Barclays heeft Air France-KLM van zijn verkooplijst gehaald, omdat de aandelen van Europese luchtvaartmaatschappijen kunnen herstellen wanneer de luchtaanvallen in het Midden-Oosten achter de rug zijn en de brandstofprijzen mogelijk weer gaan dalen. Dit bleek uit een analistenrapport van de bank.",
     "published_at": "2026-03-09 09:59",
-    "scraped_at": "2026-03-09T11:06:51.917108"
+    "scraped_at": "2026-03-09T11:52:59.354901"
   },
   {
     "id": "817b1d6419d6b38c2e3b249795b04864",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856269/Duitse-fabrieksorders-hard-gedaald.aspx",
     "intro": "De Duitse fabrieksorders zijn in januari flink gedaald. Dit bleek maandag uit cijfers van statistiekbureau Destatis.",
     "published_at": "2026-03-09 09:44",
-    "scraped_at": "2026-03-09T11:06:51.917108"
-  },
-  {
-    "id": "4811f4c6991c30affff61766e0978eeb",
-    "categorie": "Beursnieuws",
-    "titel": "Productie Duitse industrie opnieuw gedaald",
-    "link": "https://www.beurs.nl/Nieuws/856268/Productie-Duitse-industrie-opnieuw-gedaald.aspx",
-    "intro": "De productie van de Duitse industrie is in januari opnieuw gedaald. Dit bleek maandag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-03-09 09:40",
-    "scraped_at": "2026-03-09T11:06:51.917108"
-  },
-  {
-    "id": "db6af822b56d01bdf6af2a2dab93434c",
-    "categorie": "Beursnieuws",
-    "titel": "AEX flink lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/856262/AEX-flink-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste maandag kort na de beursgong 1,9 procent lager op 961,50 punten, terwijl de Midkap 2,7 procent prijs moest geven.",
-    "published_at": "2026-03-09 09:12",
-    "scraped_at": "2026-03-09T11:06:51.917108"
-  },
-  {
-    "id": "5b38147fa37a39f03855ca8a81c77e62",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verlaagt koersdoel Banijay",
-    "link": "https://www.beurs.nl/Nieuws/856254/Deutsche-Bank-verlaagt-koersdoel-Banijay.aspx",
-    "intro": "Deutsche Bank heeft het koersdoel voor Banijay Group verlaagd van 14,00 naar 13,00 euro, maar met behoud van het koopadvies. Dit bleek maandag uit een analistenrapport van de Duitse bank.",
-    "published_at": "2026-03-09 09:02",
-    "scraped_at": "2026-03-09T11:06:51.917108"
-  },
-  {
-    "id": "52400f2cb98885d2730bf7b585e10ab4",
-    "categorie": "Beursnieuws",
-    "titel": "ASML draagt voormalig topman ASMI voor als commissaris",
-    "link": "https://www.beurs.nl/Nieuws/856253/ASML-draagt-voormalig-topman-ASMI-voor-als-commissaris.aspx",
-    "intro": "ASML heeft maandag voorstellen gedaan voor benoemingen die goedgekeurd moeten worden op de jaarlijkse aandeelhoudersvergadering op 22 april.",
-    "published_at": "2026-03-09 08:51",
-    "scraped_at": "2026-03-09T11:06:51.917108"
+    "scraped_at": "2026-03-09T11:52:59.354901"
   }
 ]
