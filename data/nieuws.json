@@ -1,20 +1,29 @@
 [
   {
-    "id": "a6f13a9aaef26a7be8cbd43da62c9382",
+    "id": "c4c27e413ed8d45a7c2b9a6af802a1f4",
     "categorie": "Beursnieuws",
-    "titel": "Beursweek focust op oorlog, energie en inflatie",
-    "link": "https://www.beurs.nl/Nieuws/856213/Beursweek-focust-op-oorlog-energie-en-inflatie.aspx",
-    "intro": "De komende beursweek staat zonder twijfel weer in het teken van de oorlog in het Midden-Oosten, terwijl op macro-economisch vlak de focus ligt op nieuwe inflatiecijfers en groeidata uit de VS.",
-    "published_at": "2026-03-08 10:46",
-    "scraped_at": "2026-03-09T04:53:23.620856"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/856226/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 16 maart 2026:",
+    "published_at": "2026-03-09 06:51",
+    "scraped_at": "2026-03-09T05:59:08.309956"
   },
   {
-    "id": "40ff5809b5b0e1906bdb650ed0e2c92c",
+    "id": "ce6813edf44173680f4b6d95eba015cf",
     "categorie": "Beursnieuws",
-    "titel": "Shell en databedrijven onttrekken zich aan malaise in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/856211/Shell-en-databedrijven-onttrekken-zich-aan-malaise-in-rode-AEX.aspx",
-    "intro": "Bedrijven op het Damrak konden afgelopen week ofwel profiteren van het oorlogsnieuws of gingen er juist hard door onderuit. Shell spon garen bij de oplopende olieprijzen en won op weekbasis 3,3 procent.",
-    "published_at": "2026-03-08 10:34",
-    "scraped_at": "2026-03-09T04:53:23.620856"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/856227/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 16 maart 2026:",
+    "published_at": "2026-03-09 06:51",
+    "scraped_at": "2026-03-09T05:59:08.309956"
+  },
+  {
+    "id": "0fe4dd57d53ae161bdeaa159a2b2c861",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/856224/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 16 maart 2026:",
+    "published_at": "2026-03-09 06:50",
+    "scraped_at": "2026-03-09T05:59:08.309956"
   }
 ]
