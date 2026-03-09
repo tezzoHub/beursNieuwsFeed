@@ -1,12 +1,48 @@
 [
   {
+    "id": "4c1418fe2c382667b02ff706529e1158",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Anthropic klaagt Amerikaanse overheid aan",
+    "link": "https://www.beurs.nl/Nieuws/856346/Media-Anthropic-klaagt-Amerikaanse-overheid-aan.aspx",
+    "intro": "Anthropic heeft een rechtszaak aangespannen tegen de Amerikaanse federale overheid, nadat het Pentagon het AI-bedrijf vorige week op een zwarte lijst voor nationale veiligheid plaatste. Dit meldde persbureau Reuters maandag.",
+    "published_at": "2026-03-09 16:50",
+    "scraped_at": "2026-03-09T16:30:29.553033"
+  },
+  {
+    "id": "2c6050be8680644f3e0a760430332a7c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/856344/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 17 maart 2026:",
+    "published_at": "2026-03-09 16:29",
+    "scraped_at": "2026-03-09T16:30:29.553033"
+  },
+  {
+    "id": "508b64a31ae274987a2e2e0183af9f16",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/856342/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 17 maart 2026:",
+    "published_at": "2026-03-09 16:28",
+    "scraped_at": "2026-03-09T16:30:29.553033"
+  },
+  {
+    "id": "37cd4ee97333666cfa7cb30814bcf9b4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/856343/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 17 maart 2026:",
+    "published_at": "2026-03-09 16:28",
+    "scraped_at": "2026-03-09T16:30:29.553033"
+  },
+  {
     "id": "166cc6ef8b76274c39f2871915328723",
     "categorie": "Beursnieuws",
     "titel": "Media: G7 nog niet akkoord over aanspreken strategische olievoorraden",
     "link": "https://www.beurs.nl/Nieuws/856338/Media-G7-nog-niet-akkoord-over-aanspreken-strategische-olievoorraden.aspx",
     "intro": "De G7-landen zijn het nog niet eens over een gecoördineerde vrijgave van strategische olievoorraden als reactie op de oorlog in Iran. De Franse minister van Financiën Roland Lescure, wiens land het voorzitterschap van de groep bekleedt, zei dit na afloop van een virtuele vergadering van G7-ministers van Financiën over de gevolgen van het conflict voor de energiemarkten.",
     "published_at": "2026-03-09 16:04",
-    "scraped_at": "2026-03-09T15:15:11.516725"
+    "scraped_at": "2026-03-09T16:30:29.553033"
   },
   {
     "id": "510a567a0ebcf5f785487eaef2b20854",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856319/Novo-Nordisk-en-Hims-Hers-begraven-strijdbijl.aspx",
     "intro": "Novo Nordisk heeft een overeenkomst gesloten met het Amerikaanse online zorgbedrijf Hims  Hers, waarmee er een einde komt aan een conflict rond de verkoop van afslankmiddelen Ozempic en Wegovy. Dit bleek maandagmiddag uit een persbericht van de Deense farmareus, nadat persbureau Bloomberg eerder al meldde dat de twee bedrijven de strijdbijl hadden begraven.",
     "published_at": "2026-03-09 14:04",
-    "scraped_at": "2026-03-09T15:15:11.516725"
+    "scraped_at": "2026-03-09T16:30:29.553033"
   },
   {
     "id": "0b9168004ab2b8f9155391d9d4979b3c",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856314/Wall-Street-gaat-moeilijke-dag-tegemoet.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een rode opening tegemoet, terwijl de olieprijzen verder oplopen bij een gebrek aan een snelle oplossing voor het conflict in het Midden-Oosten. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel tot een procent in het rood.",
     "published_at": "2026-03-09 13:53",
-    "scraped_at": "2026-03-09T15:15:11.516725"
+    "scraped_at": "2026-03-09T16:30:29.553033"
   },
   {
     "id": "45646ecdfa06fd8c20406b0c10674505",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856311/Beursblik-ArcelorMittal-kan-hogere-energiekosten-doorberekenen.aspx",
     "intro": "Beleggers hebben zich gericht op de blootstelling van ArcelorMittal aan hogere energiekosten, nu de prijzen van olie en gas sterk zijn gestegen, maar het staalbedrijf heeft zich daarvoor deels ingedekt en kan deze hogere kosten waarschijnlijk doorberekenen. Dat stelden analisten van Bank of America maandag in een rapport.",
     "published_at": "2026-03-09 13:34",
-    "scraped_at": "2026-03-09T15:15:11.516725"
+    "scraped_at": "2026-03-09T16:30:29.553033"
   },
   {
     "id": "784011287854665054d14368eebdedfd",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856306/Meevallend-verlies-FuelCell.aspx",
     "intro": "FuelCell Energy is in het afgelopen kwartaal opnieuw in de rode cijfers gedoken, maar het verlies viel mee. Dit bleek maandag uit de resultaten van de Amerikaanse specialist in brandstofceloplossingen.",
     "published_at": "2026-03-09 13:21",
-    "scraped_at": "2026-03-09T15:15:11.516725"
+    "scraped_at": "2026-03-09T16:30:29.553033"
   },
   {
     "id": "be4074fdfcbe27923b8600ff9e8cb5f5",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856299/Futures-voorspellen-verdere-verliezen-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een rode opening tegemoet, terwijl de olieprijzen verder oplopen bij een gebrek aan een snelle oplossing voor het conflict in het Midden-Oosten. Futures op de SP 500 noteerden rond lunchtijd ruim een procent in het rood.",
     "published_at": "2026-03-09 12:38",
-    "scraped_at": "2026-03-09T15:15:11.516725"
-  },
-  {
-    "id": "ba470a653ace27e002bb648719d2c288",
-    "categorie": "Beursnieuws",
-    "titel": "JPMorgan haalt ArcelorMittal en Aperam van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/856298/JPMorgan-haalt-ArcelorMittal-en-Aperam-van-de-kooplijst.aspx",
-    "intro": "JPMorgan Research heeft maandag de aandelen ArcelorMittal en Aperam van de kooplijst gehaald. Dit bleek uit een sectorrapport van de Amerikaanse bank.",
-    "published_at": "2026-03-09 12:30",
-    "scraped_at": "2026-03-09T15:15:11.516725"
-  },
-  {
-    "id": "22c282e7fee347ee0acceecae890a146",
-    "categorie": "Beursnieuws",
-    "titel": "Ajax benoemt Lesley Bamberger tot nieuwe voorzitter",
-    "link": "https://www.beurs.nl/Nieuws/856297/Ajax-benoemt-Lesley-Bamberger-tot-nieuwe-voorzitter.aspx",
-    "intro": "Ajax heeft Lesley Bamberger benoemd tot nieuw lid en voorzitter van de Raad van Commissarissen, tijdens een buitengewone aandeelhoudersvergadering. Dit maakte de Amsterdamse voetbalclub maandag na afloop van de bijeenkomst bekend.",
-    "published_at": "2026-03-09 12:13",
-    "scraped_at": "2026-03-09T15:15:11.516725"
-  },
-  {
-    "id": "fa907b9efcd8ac75e17a62cee6c60727",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: euro onderuit op hogere olieprijs",
-    "link": "https://www.beurs.nl/Nieuws/856296/Valuta-euro-onderuit-op-hogere-olieprijs.aspx",
-    "intro": "De dollar en de Zwitserse frank hebben maandag tijdelijk gepiekt tegenover de euro, maar leverden de winst weer snel in, nadat de olieprijs na het weekend ruim boven 100 dollar opende, maar in de loop van de ochtend weer terugzakte tot rond die grens.",
-    "published_at": "2026-03-09 12:12",
-    "scraped_at": "2026-03-09T15:15:11.516725"
-  },
-  {
-    "id": "97b834d8d2ee78333cd91e04bab6e003",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen flink in het rood met olie boven 100 dollar",
-    "link": "https://www.beurs.nl/Nieuws/856295/Europese-beurzen-flink-in-het-rood-met-olie-boven-100-dollar.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden maandag rond het middaguur flink lager, terwijl de olieprijs boven de 100 dollar uitkwam, nu de oorlog in het Midden-Oosten geen tekenen van ontspanning vertoont.",
-    "published_at": "2026-03-09 12:07",
-    "scraped_at": "2026-03-09T15:15:11.516725"
+    "scraped_at": "2026-03-09T16:30:29.553033"
   }
 ]
