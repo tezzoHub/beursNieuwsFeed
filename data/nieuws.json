@@ -1,92 +1,65 @@
 [
   {
-    "id": "ad9cd59384bbc99d8926ad9e14a5ada5",
+    "id": "ae4020425cec236b34b51a6265e53b6d",
     "categorie": "Beursnieuws",
-    "titel": "Hewlett Packard Enterprise geeft sterke outlook",
-    "link": "https://www.beurs.nl/Nieuws/856373/Hewlett-Packard-Enterprise-geeft-sterke-outlook.aspx",
-    "intro": "Hewlett Packard Enterprise (HPE) heeft in het eerste kwartaal een omzet geboekt die achterbleef bij de consensus, maar de outlook voor het tweede kwartaal overtrof de marktverwachtingen. Dit maakte het Amerikaanse technologiebedrijf maandag nabeurs bekend.",
-    "published_at": "2026-03-09 21:41",
-    "scraped_at": "2026-03-10T05:48:10.117976"
+    "titel": "Stijging Nederlandse productie",
+    "link": "https://www.beurs.nl/Nieuws/856393/Stijging-Nederlandse-productie.aspx",
+    "intro": "De productie van de Nederlandse industrie is in januari van dit jaar gestegen. Dit meldde het Centraal Bureau voor de Statistiek dinsdagochtend.",
+    "published_at": "2026-03-10 07:20",
+    "scraped_at": "2026-03-10T06:31:32.572142"
   },
   {
-    "id": "cd379b5dfbe2a9f886b1a6c05ec2b875",
+    "id": "e8dce0e5f650f2a6e892520d52e43cec",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/856372/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-03-09 21:30",
-    "scraped_at": "2026-03-10T05:48:10.117976"
+    "titel": "China ziet export sterk stijgen",
+    "link": "https://www.beurs.nl/Nieuws/856392/China-ziet-export-sterk-stijgen.aspx",
+    "intro": "In China is de export in januari en februari scherp gestegen. Dit bleek dinsdagochtend uit overheidscijfers.",
+    "published_at": "2026-03-10 07:18",
+    "scraped_at": "2026-03-10T06:31:32.572142"
   },
   {
-    "id": "1b7b2ce74391639f8a7a0911d89f66ef",
+    "id": "db493aca679ff05ceb87980d68fd413c",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street hoger gesloten na opmerkingen Trump",
-    "link": "https://www.beurs.nl/Nieuws/856369/Wall-Street-hoger-gesloten-na-opmerkingen-Trump.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag na een zeer volatiele handelssessie hoger gesloten en herstelden zich van eerdere stevige verliezen nadat president Donald Trump had gezegd dat de oorlog met Iran mogelijk ten einde loopt.",
-    "published_at": "2026-03-09 21:22",
-    "scraped_at": "2026-03-10T05:48:10.117976"
+    "titel": "Herstel op Aziatische beurzen na scherpe terugval olieprijzen",
+    "link": "https://www.beurs.nl/Nieuws/856390/Herstel-op-Aziatische-beurzen-na-scherpe-terugval-olieprijzen.aspx",
+    "intro": "De Aziatische beurzen noteerden dinsdagochtend in het groen. In Seoel en Tokio klommen de hoofdindices met respectievelijk 4,7 procent en 2,7 procent, na verliezen van circa 6 procent op maandag, nadat de olieprijzen toen ruim boven de 100 dollar waren geschoten.",
+    "published_at": "2026-03-10 07:14",
+    "scraped_at": "2026-03-10T06:31:32.572142"
   },
   {
-    "id": "8d772277b7c5de3a7f81dcf4e1afc379",
+    "id": "918da47ca79024056e44b6a1e45cdc4c",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen sluiten onder 100 dollar",
-    "link": "https://www.beurs.nl/Nieuws/856363/Olieprijzen-sluiten-onder-100-dollar.aspx",
-    "intro": "De olieprijzen zijn maandag hoger gesloten, maar aanzienlijk lager dan de eerder bereikte hoogtepunten van vannacht op de Aziatische markten. Dit nu de hoop toeneemt dat de strategische voorraden worden aangesproken om de ontstane tekorten aan te vullen.",
-    "published_at": "2026-03-09 19:59",
-    "scraped_at": "2026-03-10T05:48:10.117976"
+    "titel": "Nederlandse inflatie stabiel",
+    "link": "https://www.beurs.nl/Nieuws/856386/Nederlandse-inflatie-stabiel.aspx",
+    "intro": "De Nederlandse consumentenprijzen zijn in februari net zo hard gestegen als in januari. Dit bleek dinsdag uit nieuwe cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-03-10 06:57",
+    "scraped_at": "2026-03-10T06:31:32.572142"
   },
   {
-    "id": "1f71eaec9c6cf162ffdec3094665b030",
+    "id": "bf9656056374826f35840f564bfb1afe",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street beperkt schade door terugvallende olieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/856360/Wall-Street-beperkt-schade-door-terugvallende-olieprijzen.aspx",
-    "intro": "De Amerikaanse beurzen daalden aan het begin van de week, maar wisten de openingsverliezen aanzienlijk te beperken doordat de Amerikaanse ruwe olie tijdens de handelssessie weer onder de 100 dollar per vat zakte.",
-    "published_at": "2026-03-09 19:29",
-    "scraped_at": "2026-03-10T05:48:10.117976"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/856383/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 17 maart 2026:",
+    "published_at": "2026-03-10 06:52",
+    "scraped_at": "2026-03-10T06:31:32.572142"
   },
   {
-    "id": "2f05a9e77681baabcaceadbbe39ca052",
-    "categorie": "Beursnieuws",
-    "titel": "Volatiele oliemarkt houdt Europese beurzen in greep",
-    "link": "https://www.beurs.nl/Nieuws/856356/Volatiele-oliemarkt-houdt-Europese-beurzen-in-greep.aspx",
-    "intro": "De Europese aandelenmarkten zijn maandag opnieuw lager geëindigd, maar de meeste indices wisten een deel van de verliezen weg te werken als gevolg van de terugvallende olieprijzen tijdens de handelssessie in Europa.",
-    "published_at": "2026-03-09 18:49",
-    "scraped_at": "2026-03-10T05:48:10.117976"
-  },
-  {
-    "id": "038592fc3c403c0d9f1862c3fcc4bf2b",
-    "categorie": "Beursnieuws",
-    "titel": "Shell helpt AEX in het groen",
-    "link": "https://www.beurs.nl/Nieuws/856349/Shell-helpt-AEX-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs is maandag licht hoger geëindigd, vooral dankzij Shell, dat profiteerde van de verder stijgende olieprijzen.",
-    "published_at": "2026-03-09 17:54",
-    "scraped_at": "2026-03-10T05:48:10.117976"
-  },
-  {
-    "id": "4c1418fe2c382667b02ff706529e1158",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Anthropic klaagt Amerikaanse overheid aan",
-    "link": "https://www.beurs.nl/Nieuws/856346/Media-Anthropic-klaagt-Amerikaanse-overheid-aan.aspx",
-    "intro": "Anthropic heeft een rechtszaak aangespannen tegen de Amerikaanse federale overheid, nadat het Pentagon het AI-bedrijf vorige week op een zwarte lijst voor nationale veiligheid plaatste. Dit meldde persbureau Reuters maandag.",
-    "published_at": "2026-03-09 16:50",
-    "scraped_at": "2026-03-10T05:48:10.117976"
-  },
-  {
-    "id": "2c6050be8680644f3e0a760430332a7c",
+    "id": "c13e247f035c57c499d48279ffabbdb5",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/856344/Beursagenda-macro-economisch.aspx",
+    "link": "https://www.beurs.nl/Nieuws/856384/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 17 maart 2026:",
-    "published_at": "2026-03-09 16:29",
-    "scraped_at": "2026-03-10T05:48:10.117976"
+    "published_at": "2026-03-10 06:52",
+    "scraped_at": "2026-03-10T06:31:32.572142"
   },
   {
-    "id": "508b64a31ae274987a2e2e0183af9f16",
+    "id": "1ad1b86867d9b5868ac186687ed1f66b",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/856342/Beursagenda-Nederlandse-bedrijven.aspx",
+    "link": "https://www.beurs.nl/Nieuws/856382/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 17 maart 2026:",
-    "published_at": "2026-03-09 16:28",
-    "scraped_at": "2026-03-10T05:48:10.117976"
+    "published_at": "2026-03-10 06:51",
+    "scraped_at": "2026-03-10T06:31:32.572142"
   }
 ]
