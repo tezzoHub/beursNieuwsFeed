@@ -1,12 +1,30 @@
 [
   {
+    "id": "42e95c5442ae7c6b8127a1f53ff78c7e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen fors hoger dankzij terugval olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/856510/Europese-beurzen-fors-hoger-dankzij-terugval-olieprijs.aspx",
+    "intro": "De aandelenmarkten in Europa zijn dinsdag hoger gesloten, nadat de olieprijs sterk daalde op de hoop dat er snel een einde komt aan de Amerikaanse aanvallen op Iran, na optimistische geluiden daarover uit het Witte Huis.",
+    "published_at": "2026-03-10 19:00",
+    "scraped_at": "2026-03-10T18:30:41.969823"
+  },
+  {
     "id": "9be85a89d99d0c5dedf9a70a2aafece8",
     "categorie": "Beurs vandaag",
     "titel": "Slotcall: opluchtingsrally zet AEX weer boven 1000 punten",
     "link": "https://www.beurs.nl/Artikel/856476/Slotcall-opluchtingsrally-zet-AEX-weer-boven-1000-punten.aspx",
     "intro": "AEX sluit 2% hoger. Herstel is breed gedragen. Olieprijs en VIX dalen, bitcoin weer boven $70.000 en zie Prosus vliegen. En verder: CSG, Besi, Novo Nordisk, BioNTech en Amazon.",
     "published_at": "2026-03-10 18:10",
-    "scraped_at": "2026-03-10T17:34:37.159378"
+    "scraped_at": "2026-03-10T18:30:41.969823"
+  },
+  {
+    "id": "9f93679ae95c908d0a8e97a997e69cd2",
+    "categorie": "Beursnieuws",
+    "titel": "Havas versterkt luxepositie met overname Eyesight",
+    "link": "https://www.beurs.nl/Nieuws/856503/Havas-versterkt-luxepositie-met-overname-Eyesight.aspx",
+    "intro": "Havas heeft via zijn luxedivisie Maison BETC het onafhankelijke evenementenbureau Eyesight overgenomen, dat gespecialiseerd is in modeshows. Dit maakte het bedrijf dinsdag bekend.",
+    "published_at": "2026-03-10 18:07",
+    "scraped_at": "2026-03-10T18:30:41.969823"
   },
   {
     "id": "2c1597eaf7c08e1512a4f340a1764a80",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856502/AEX-sluit-boven-1000-punten-na-daling-olieprijs.aspx",
     "intro": "De Amsterdamse beurs is dinsdag weer boven 1.000 punten gesloten, in de hoop dat het oorlogsgeweld rond de Perzische Golf snel voorbij zal zijn, waardoor de olieprijs daalde.",
     "published_at": "2026-03-10 17:57",
-    "scraped_at": "2026-03-10T17:34:37.159378"
+    "scraped_at": "2026-03-10T18:30:41.969823"
   },
   {
     "id": "96c935d32c024900d05d1d738a5c3911",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856497/Media-Novo-Nordisk-ontvangt-waarschuwingsbrief-van-FDA.aspx",
     "intro": "Novo Nordisk heeft een waarschuwingsbrief ontvangen van de Amerikaanse geneesmiddelenwaakhond FDA naar aanleiding van een inspectie bij de vestiging van het Deense farmabedrijf in Plainsboro, New Jersey, eerder dit jaar. Dit meldde CNBC dinsdag op basis van een verklaring van het bedrijf.",
     "published_at": "2026-03-10 16:41",
-    "scraped_at": "2026-03-10T17:34:37.159378"
+    "scraped_at": "2026-03-10T18:30:41.969823"
   },
   {
     "id": "5524a5cf6cd3af4771b4fa5d4352194e",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856494/Beursblik-Basic-Fit-publiceert-definitieve-cijfers.aspx",
     "intro": "Basic-Fit zal woensdag definitieve cijfers over 2025 publiceren, die naar verwachting bevestigen dat de omzet en het onderliggende resultaat sterker stegen dan analisten hadden verwacht, voordat het bedrijf in januari voorlopige cijfers bekendmaakte.",
     "published_at": "2026-03-10 16:17",
-    "scraped_at": "2026-03-10T17:34:37.159378"
+    "scraped_at": "2026-03-10T18:30:41.969823"
   },
   {
     "id": "ea7222556df556b7f5a5dccfa74f6649",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856488/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 18 maart 2026:",
     "published_at": "2026-03-10 16:04",
-    "scraped_at": "2026-03-10T17:34:37.159378"
+    "scraped_at": "2026-03-10T18:30:41.969823"
   },
   {
     "id": "8344d2310e3e241507d8be37fb29d74a",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856489/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 maart 2026:",
     "published_at": "2026-03-10 16:04",
-    "scraped_at": "2026-03-10T17:34:37.159378"
+    "scraped_at": "2026-03-10T18:30:41.969823"
   },
   {
     "id": "2e21745084231b3898f0d2a00ccb4daa",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856486/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 maart 2026:",
     "published_at": "2026-03-10 16:03",
-    "scraped_at": "2026-03-10T17:34:37.159378"
+    "scraped_at": "2026-03-10T18:30:41.969823"
   },
   {
     "id": "3608145d534a3d3bc04f16f47bccbf1d",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856477/Vestas-ontvangt-nieuwe-offshore-windopdracht-in-VK.aspx",
     "intro": "Vestas heeft een opdracht ontvangen voor het 1.380 megawatt grote offshore windpark Vanguard East van energiebedrijf RWE in het Verenigd Koninkrijk. Dit maakte Vestas dinsdag bekend via een persbericht.",
     "published_at": "2026-03-10 15:20",
-    "scraped_at": "2026-03-10T17:34:37.159378"
-  },
-  {
-    "id": "f7e1329d6dcb0ea464ae28ade3e72748",
-    "categorie": "Beursnieuws",
-    "titel": "Verkoop bestaande woningen in de VS gestegen",
-    "link": "https://www.beurs.nl/Nieuws/856475/Verkoop-bestaande-woningen-in-de-VS-gestegen.aspx",
-    "intro": "De bestaande woningverkopen in de Verenigde Staten zijn in februari gestegen. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
-    "published_at": "2026-03-10 15:15",
-    "scraped_at": "2026-03-10T17:34:37.159378"
-  },
-  {
-    "id": "b5052263b598490c0ee9f45c3d0dc902",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Bank of America verlaagt koersdoel Aegon licht",
-    "link": "https://www.beurs.nl/Nieuws/856468/Beursblik-Bank-of-America-verlaagt-koersdoel-Aegon-licht.aspx",
-    "intro": "Bank of America heeft het koersdoel voor Aegon verlaagd van 7,50 naar 7,20 euro, maar met handhaving van het koopadvies. Dit maakte de Amerikaanse bank dinsdag bekend in een analistenrapport.",
-    "published_at": "2026-03-10 14:33",
-    "scraped_at": "2026-03-10T17:34:37.159378"
+    "scraped_at": "2026-03-10T18:30:41.969823"
   }
 ]
