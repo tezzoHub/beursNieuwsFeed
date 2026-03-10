@@ -1,12 +1,30 @@
 [
   {
+    "id": "b5052263b598490c0ee9f45c3d0dc902",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verlaagt koersdoel Aegon licht",
+    "link": "https://www.beurs.nl/Nieuws/856468/Beursblik-Bank-of-America-verlaagt-koersdoel-Aegon-licht.aspx",
+    "intro": "Bank of America heeft het koersdoel voor Aegon verlaagd van 7,50 naar 7,20 euro, maar met handhaving van het koopadvies. Dit maakte de Amerikaanse bank dinsdag bekend in een analistenrapport.",
+    "published_at": "2026-03-10 14:33",
+    "scraped_at": "2026-03-10T14:10:12.500993"
+  },
+  {
+    "id": "55de3bfa95c62542d5f0f88e18e45624",
+    "categorie": "Beursnieuws",
+    "titel": "Bill Ackman wil dubbele beursgang Pershing Square op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/856467/Bill-Ackman-wil-dubbele-beursgang-Pershing-Square-op-Wall-Street.aspx",
+    "intro": "De activistische investeerder Bill Ackman heeft een aanvraag ingediend om zijn hedgefondsbedrijf Pershing Square Inc samen met een nieuwe investeringsmaatschappij met de naam Pershing Square USA naar de beurs in New York te brengen. Dit bleek dinsdag uit een persbericht.",
+    "published_at": "2026-03-10 14:23",
+    "scraped_at": "2026-03-10T14:10:12.500993"
+  },
+  {
     "id": "adbd4d9cd0e32bb9872faaa54b18ef9a",
     "categorie": "Beursnieuws",
     "titel": "Toch geen herstel op Wall Street",
     "link": "https://www.beurs.nl/Nieuws/856461/Toch-geen-herstel-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag toch weer een lagere opening tegemoet, na herstel op maandag. Futures op de SP 500 daalden ongeveer een half uur voor de openingsbel met 0,3 procent.",
     "published_at": "2026-03-10 13:55",
-    "scraped_at": "2026-03-10T13:06:00.043813"
+    "scraped_at": "2026-03-10T14:10:12.500993"
   },
   {
     "id": "db33b2ad8839849e1b53864caffc4dcd",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856450/Aegon-lanceert-vermogensbeheerder-in-China.aspx",
     "intro": "Aegon heeft in China een eigen vermogensbeheerder gelanceerd onder de naam Aegon Insurance Asset Management Company, afgekort Aegon IAMC. Dit maakte de Nederlandse verzekeraar dinsdag bekend via een persbericht.",
     "published_at": "2026-03-10 13:39",
-    "scraped_at": "2026-03-10T13:06:00.043813"
+    "scraped_at": "2026-03-10T14:10:12.500993"
   },
   {
     "id": "f48600d50e01a12e0f07c26b52ae2aae",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856448/BioNTech-hard-onderuit-na-zwakke-outlook.aspx",
     "intro": "BioNTech is in het vierde kwartaal in de rode cijfers gedoken, terwijl de outlook ruim onder de marktverwachting uitkwam. Dit bleek dinsdag uit de cijfers van het Duitse biotechbedrijf met een notering op Wall Street.",
     "published_at": "2026-03-10 12:54",
-    "scraped_at": "2026-03-10T13:06:00.043813"
+    "scraped_at": "2026-03-10T14:10:12.500993"
   },
   {
     "id": "f9357d8720ed12db39f5d148a41ca979",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856447/Meer-winst-voor-Kohls-ondanks-omzetdaling.aspx",
     "intro": "Kohl's heeft ondanks een lagere kwartaalomzet meer winst weten te boeken in het vierde kwartaal, maar waarschuwde dat ook 2026 geen omzetgroei zal brengen. Dit bleek dinsdag uit de kwartaalcijfers van de Amerikaanse warenhuisketen.",
     "published_at": "2026-03-10 12:53",
-    "scraped_at": "2026-03-10T13:06:00.043813"
+    "scraped_at": "2026-03-10T14:10:12.500993"
   },
   {
     "id": "8eece379f84b25c602e74db50d131077",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856444/Nio-haalt-eigen-outlook-en-boekt-winst.aspx",
     "intro": "Nio heeft in het vierde kwartaal de eigen outlook ruim gehaald en wist zo winst te boeken. Dit bleek dinsdag uit de cijfers van de Chinese fabrikant van elektrische auto's.",
     "published_at": "2026-03-10 12:32",
-    "scraped_at": "2026-03-10T13:06:00.043813"
+    "scraped_at": "2026-03-10T14:10:12.500993"
   },
   {
     "id": "bf915bea4a6d766a7b054d979da1256e",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856443/Futures-voorspellen-verder-herstel-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lichtgroene opening tegemoet. Futures op de SP 500 stegen rond het middaguur met 0,2 procent.",
     "published_at": "2026-03-10 12:30",
-    "scraped_at": "2026-03-10T13:06:00.043813"
+    "scraped_at": "2026-03-10T14:10:12.500993"
   },
   {
     "id": "42866e2fdefffa5ef09ab341d35291fb",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856440/Hoop-op-einde-oorlog-geeft-Europese-beurzen-flinke-impuls.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur flink in het groen, geholpen door de hoop dat er mogelijk een snel einde komt aan de oorlog in Iran.",
     "published_at": "2026-03-10 12:01",
-    "scraped_at": "2026-03-10T13:06:00.043813"
+    "scraped_at": "2026-03-10T14:10:12.500993"
   },
   {
     "id": "d933abe1bf8d5e2907eaed47e3ded723",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856436/Tencent-lanceert-AI-oplossingen-voor-games.aspx",
     "intro": "Tencent heeft dinsdag tijdens de Game Developer's Conference verschillende AI-oplossingen voor de game-industrie gepresenteerd.",
     "published_at": "2026-03-10 11:45",
-    "scraped_at": "2026-03-10T13:06:00.043813"
-  },
-  {
-    "id": "92426247c0ea6279b2fd8d604bc7fed8",
-    "categorie": "Beursnieuws",
-    "titel": "TKH verkoopt Alphatronics",
-    "link": "https://www.beurs.nl/Nieuws/856433/TKH-verkoopt-Alphatronics.aspx",
-    "intro": "TKH Group heeft de verkoop van Alphatronics aangekondigd. Dit deed de onderneming uit Haaksbergen dinsdagochtend.",
-    "published_at": "2026-03-10 11:30",
-    "scraped_at": "2026-03-10T13:06:00.043813"
-  },
-  {
-    "id": "2fd7a43eb079b4348a01d302428c9430",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers neemt verder af",
-    "link": "https://www.beurs.nl/Nieuws/856428/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-neemt-verder-af.aspx",
-    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in februari verder afgenomen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
-    "published_at": "2026-03-10 11:13",
-    "scraped_at": "2026-03-10T13:06:00.043813"
+    "scraped_at": "2026-03-10T14:10:12.500993"
   }
 ]
