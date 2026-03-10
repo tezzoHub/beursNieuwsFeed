@@ -1,12 +1,57 @@
 [
   {
+    "id": "adbd4d9cd0e32bb9872faaa54b18ef9a",
+    "categorie": "Beursnieuws",
+    "titel": "Toch geen herstel op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/856461/Toch-geen-herstel-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag toch weer een lagere opening tegemoet, na herstel op maandag. Futures op de SP 500 daalden ongeveer een half uur voor de openingsbel met 0,3 procent.",
+    "published_at": "2026-03-10 13:55",
+    "scraped_at": "2026-03-10T13:06:00.043813"
+  },
+  {
+    "id": "db33b2ad8839849e1b53864caffc4dcd",
+    "categorie": "Beursnieuws",
+    "titel": "Aegon lanceert vermogensbeheerder in China",
+    "link": "https://www.beurs.nl/Nieuws/856450/Aegon-lanceert-vermogensbeheerder-in-China.aspx",
+    "intro": "Aegon heeft in China een eigen vermogensbeheerder gelanceerd onder de naam Aegon Insurance Asset Management Company, afgekort Aegon IAMC. Dit maakte de Nederlandse verzekeraar dinsdag bekend via een persbericht.",
+    "published_at": "2026-03-10 13:39",
+    "scraped_at": "2026-03-10T13:06:00.043813"
+  },
+  {
+    "id": "f48600d50e01a12e0f07c26b52ae2aae",
+    "categorie": "Beursnieuws",
+    "titel": "BioNTech hard onderuit na zwakke outlook",
+    "link": "https://www.beurs.nl/Nieuws/856448/BioNTech-hard-onderuit-na-zwakke-outlook.aspx",
+    "intro": "BioNTech is in het vierde kwartaal in de rode cijfers gedoken, terwijl de outlook ruim onder de marktverwachting uitkwam. Dit bleek dinsdag uit de cijfers van het Duitse biotechbedrijf met een notering op Wall Street.",
+    "published_at": "2026-03-10 12:54",
+    "scraped_at": "2026-03-10T13:06:00.043813"
+  },
+  {
+    "id": "f9357d8720ed12db39f5d148a41ca979",
+    "categorie": "Beursnieuws",
+    "titel": "Meer winst voor Kohl's ondanks omzetdaling",
+    "link": "https://www.beurs.nl/Nieuws/856447/Meer-winst-voor-Kohls-ondanks-omzetdaling.aspx",
+    "intro": "Kohl's heeft ondanks een lagere kwartaalomzet meer winst weten te boeken in het vierde kwartaal, maar waarschuwde dat ook 2026 geen omzetgroei zal brengen. Dit bleek dinsdag uit de kwartaalcijfers van de Amerikaanse warenhuisketen.",
+    "published_at": "2026-03-10 12:53",
+    "scraped_at": "2026-03-10T13:06:00.043813"
+  },
+  {
+    "id": "8eece379f84b25c602e74db50d131077",
+    "categorie": "Beursnieuws",
+    "titel": "Nio haalt eigen outlook en boekt winst",
+    "link": "https://www.beurs.nl/Nieuws/856444/Nio-haalt-eigen-outlook-en-boekt-winst.aspx",
+    "intro": "Nio heeft in het vierde kwartaal de eigen outlook ruim gehaald en wist zo winst te boeken. Dit bleek dinsdag uit de cijfers van de Chinese fabrikant van elektrische auto's.",
+    "published_at": "2026-03-10 12:32",
+    "scraped_at": "2026-03-10T13:06:00.043813"
+  },
+  {
     "id": "bf915bea4a6d766a7b054d979da1256e",
     "categorie": "Beursnieuws",
     "titel": "Futures voorspellen verder herstel voor Wall Street",
     "link": "https://www.beurs.nl/Nieuws/856443/Futures-voorspellen-verder-herstel-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lichtgroene opening tegemoet. Futures op de SP 500 stegen rond het middaguur met 0,2 procent.",
     "published_at": "2026-03-10 12:30",
-    "scraped_at": "2026-03-10T11:51:46.987970"
+    "scraped_at": "2026-03-10T13:06:00.043813"
   },
   {
     "id": "42866e2fdefffa5ef09ab341d35291fb",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856440/Hoop-op-einde-oorlog-geeft-Europese-beurzen-flinke-impuls.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur flink in het groen, geholpen door de hoop dat er mogelijk een snel einde komt aan de oorlog in Iran.",
     "published_at": "2026-03-10 12:01",
-    "scraped_at": "2026-03-10T11:51:46.987970"
+    "scraped_at": "2026-03-10T13:06:00.043813"
   },
   {
     "id": "d933abe1bf8d5e2907eaed47e3ded723",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856436/Tencent-lanceert-AI-oplossingen-voor-games.aspx",
     "intro": "Tencent heeft dinsdag tijdens de Game Developer's Conference verschillende AI-oplossingen voor de game-industrie gepresenteerd.",
     "published_at": "2026-03-10 11:45",
-    "scraped_at": "2026-03-10T11:51:46.987970"
+    "scraped_at": "2026-03-10T13:06:00.043813"
   },
   {
     "id": "92426247c0ea6279b2fd8d604bc7fed8",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856433/TKH-verkoopt-Alphatronics.aspx",
     "intro": "TKH Group heeft de verkoop van Alphatronics aangekondigd. Dit deed de onderneming uit Haaksbergen dinsdagochtend.",
     "published_at": "2026-03-10 11:30",
-    "scraped_at": "2026-03-10T11:51:46.987970"
+    "scraped_at": "2026-03-10T13:06:00.043813"
   },
   {
     "id": "2fd7a43eb079b4348a01d302428c9430",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856428/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-neemt-verder-af.aspx",
     "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in februari verder afgenomen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
     "published_at": "2026-03-10 11:13",
-    "scraped_at": "2026-03-10T11:51:46.987970"
-  },
-  {
-    "id": "acb242fa1d29e5d7f2519e6a59c60c99",
-    "categorie": "Beursnieuws",
-    "titel": "Opluchtingsrally zet AEX weer boven 1.000 punten",
-    "link": "https://www.beurs.nl/Nieuws/856426/Opluchtingsrally-zet-AEX-weer-boven-1000-punten.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag richting het einde van de ochtend gestegen naar ruim 1.000 punten, geholpen door de hoop dat er mogelijk een snel einde komt aan de oorlog in Iran.",
-    "published_at": "2026-03-10 11:00",
-    "scraped_at": "2026-03-10T11:51:46.987970"
-  },
-  {
-    "id": "e9cba864504fa584e69217b137329754",
-    "categorie": "Beursnieuws",
-    "titel": "AkzoNobel wil twee commissarissen herbenoemen",
-    "link": "https://www.beurs.nl/Nieuws/856422/AkzoNobel-wil-twee-commissarissen-herbenoemen.aspx",
-    "intro": "AkzoNobel zal twee van zijn commissarissen, Ester Baiget en Hans Van Bylen, voordragen voor herbenoeming tijdens de jaarlijkse aandeelhoudersvergadering op 23 april. Dit meldde het bedrijf dinsdagochtend.",
-    "published_at": "2026-03-10 10:36",
-    "scraped_at": "2026-03-10T11:51:46.987970"
-  },
-  {
-    "id": "3d60b1fe2cf1c60efe88b8a753dc87aa",
-    "categorie": "Beursnieuws",
-    "titel": "Aramco verhoogt dividend ondanks lagere winst",
-    "link": "https://www.beurs.nl/Nieuws/856421/Aramco-verhoogt-dividend-ondanks-lagere-winst.aspx",
-    "intro": "Saudi Aramco wil het kwartaaldividend met 3,5 procent verhogen, terwijl het ook voor miljarden aan eigen aandelen zal terugkopen. Dit meldde de staatsoliemaatschappij van Saoedi-Arabië dinsdagochtend.",
-    "published_at": "2026-03-10 10:33",
-    "scraped_at": "2026-03-10T11:51:46.987970"
-  },
-  {
-    "id": "fcc74e5056ff832fffc9653c9d641705",
-    "categorie": "Redactioneel",
-    "titel": "Must read: Nieuws is dus een slechte raadgever",
-    "link": "https://www.iex.nl/artikel/856291/Must-read-Nieuws-is-dus-een-slechte-raadgever.aspx",
-    "intro": "Plus: langdurige oorlog met Iran gaat wel pijn doen, private beleggingen en converteerbare obligaties niet langer gewild, China werkt aan nieuw Vijfjarenplan, en véél meer.",
-    "published_at": "2026-03-10 10:00",
-    "scraped_at": "2026-03-10T11:51:46.987970"
-  },
-  {
-    "id": "88720d60b14497f72a46e9679f7a7009",
-    "categorie": "Beursnieuws",
-    "titel": "Flinke omzetdaling voor TSMC",
-    "link": "https://www.beurs.nl/Nieuws/856416/Flinke-omzetdaling-voor-TSMC.aspx",
-    "intro": "TSMC heeft in februari veel minder omzet geboekt dan in de maand ervoor, maar op jaarbasis was er wel sprake van een duidelijke omzetstijging. Dit bleek dinsdagochtend uit cijfers van de Taiwanese chipgigant.",
-    "published_at": "2026-03-10 09:30",
-    "scraped_at": "2026-03-10T11:51:46.987970"
+    "scraped_at": "2026-03-10T13:06:00.043813"
   }
 ]
