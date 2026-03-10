@@ -1,12 +1,57 @@
 [
   {
+    "id": "cfa71298f053768c39ea3d4b1d27267c",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/856412/AEX-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste dinsdag 1,1 procent hoger op 993,65 punten, terwijl de Midkap 1,8 procent won.",
+    "published_at": "2026-03-10 09:11",
+    "scraped_at": "2026-03-10T08:23:32.089413"
+  },
+  {
+    "id": "ccb1cb3f6ffaf861928f367c739d3b2a",
+    "categorie": "Beursnieuws",
+    "titel": "First Eagle meldt belang in Magnum Ice",
+    "link": "https://www.beurs.nl/Nieuws/856410/First-Eagle-meldt-belang-in-Magnum-Ice.aspx",
+    "intro": "First Eagle Management Investment heeft voor het eerst een belang in The Magnum Ice Cream Company gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 6 maart.",
+    "published_at": "2026-03-10 08:58",
+    "scraped_at": "2026-03-10T08:23:32.089413"
+  },
+  {
+    "id": "8b4908f91fd051c7456379a66650603c",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verlaagt koersdoel DSM-Firmenich stevig",
+    "link": "https://www.beurs.nl/Nieuws/856409/Citi-verlaagt-koersdoel-DSM-Firmenich-stevig.aspx",
+    "intro": "Citi Research heeft dinsdag het koersdoel voor DSM-Firmenich verlaagd van 106,00 naar 87,00 euro, maar handhaafde het koopadvies. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-03-10 08:50",
+    "scraped_at": "2026-03-10T08:23:32.089413"
+  },
+  {
+    "id": "6bbc3b7c07313391ab85c01ae8e95f96",
+    "categorie": "Beursnieuws",
+    "titel": "Voorzichtige outlook Hugo Boss",
+    "link": "https://www.beurs.nl/Nieuws/856407/Voorzichtige-outlook-Hugo-Boss.aspx",
+    "intro": "Hugo Boss heeft in 2025 een licht hogere omzet en een stijging van het operationele resultaat geboekt, maar verwacht dit jaar een daling van de opbrengsten en een lagere EBIT en besloot om het dividend flink te verlagen. Dit meldde het Duitse modehuis dinsdagochtend.",
+    "published_at": "2026-03-10 08:44",
+    "scraped_at": "2026-03-10T08:23:32.089413"
+  },
+  {
+    "id": "ed3bec98ca11183a45b14ea8a30f4a05",
+    "categorie": "Beursnieuws",
+    "titel": "Marge Volkswagen in 2025 onder druk ondanks stabiele omzet",
+    "link": "https://www.beurs.nl/Nieuws/856406/Marge-Volkswagen-in-2025-onder-druk-ondanks-stabiele-omzet.aspx",
+    "intro": "Volkswagen heeft in 2025 een stabiele omzet behaald, maar zag de operationele winst wel flink dalen. Dit maakte de Duitse autofabrikant dinsdagochtend bekend.",
+    "published_at": "2026-03-10 08:29",
+    "scraped_at": "2026-03-10T08:23:32.089413"
+  },
+  {
     "id": "18b65b2790be0f7c56477c7ce5f6437e",
     "categorie": "Beursnieuws",
     "titel": "Duitse export onder druk",
     "link": "https://www.beurs.nl/Nieuws/856405/Duitse-export-onder-druk.aspx",
     "intro": "De Duitse export is in januari weer gedaald, na een opleving in december. Dit bleek dinsdag uit cijfers van het Duitse statistiekbureau Destatis.",
     "published_at": "2026-03-10 08:21",
-    "scraped_at": "2026-03-10T07:29:59.650867"
+    "scraped_at": "2026-03-10T08:23:32.089413"
   },
   {
     "id": "3642589b80b6591756cebde71b96c87d",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856404/Beursblik-Berenberg-verhoogt-koersdoel-Fagron.aspx",
     "intro": "Berenberg heeft het koersdoel voor Fagron verhoogd van 28,00 naar 29,00 euro, terwijl het koopadvies bleef staan. Dit bleek dinsdag uit een rapport van de analisten van de zakenbank, die onlangs spraken met CEO Rafael Padilla.",
     "published_at": "2026-03-10 08:09",
-    "scraped_at": "2026-03-10T07:29:59.650867"
+    "scraped_at": "2026-03-10T08:23:32.089413"
   },
   {
     "id": "c3da52495b0e8a015d793cabeba5317a",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856401/AEX-maakt-zich-op-voor-hogere-opening-na-duikvlucht-olieprijzen.aspx",
     "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,6 procent.",
     "published_at": "2026-03-10 08:04",
-    "scraped_at": "2026-03-10T07:29:59.650867"
+    "scraped_at": "2026-03-10T08:23:32.089413"
   },
   {
     "id": "6ce178a64c28e2e531f74089f5298cc4",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856399/Japanse-economie-groeit-veel-sterker.aspx",
     "intro": "De economie in Japan is in het vierde kwartaal van 2025 veel sterker gegroeid dan eerder gemeld. Dit bleek dinsdagochtend uit cijfers van de Japanse overheid.",
     "published_at": "2026-03-10 07:46",
-    "scraped_at": "2026-03-10T07:29:59.650867"
+    "scraped_at": "2026-03-10T08:23:32.089413"
   },
   {
     "id": "97e4dd75bc08d075d377ca1387b7d218",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856398/Arcadis-aan-de-slag-in-Los-Angeles.aspx",
     "intro": "Arcadis gaat aan de slag in Los Angeles om twee infrastructuurprogramma's te ondersteunen. Dit meldde het advies- en ingenieursbureau dinsdagochtend.",
     "published_at": "2026-03-10 07:40",
-    "scraped_at": "2026-03-10T07:29:59.650867"
-  },
-  {
-    "id": "2c3a1b04fc06ac5fb35842fcc6671fe5",
-    "categorie": "Beursnieuws",
-    "titel": "Retail Estates start spoedig de bouw van een nieuwe woonboulevard in Kampenhout",
-    "link": "https://www.beurs.nl/Nieuws/856397/Retail-Estates-start-spoedig-de-bouw-van-een-nieuwe-woonboulevard-in-Kampenhout.aspx",
-    "intro": "Retail Estates start binnenkort met de bouw van een nieuwe woonboulevard in Kampenhout. Dit maakte de vastgoedgroep dinsdagochtend bekend.",
-    "published_at": "2026-03-10 07:34",
-    "scraped_at": "2026-03-10T07:29:59.650867"
-  },
-  {
-    "id": "363a098f89d41ea4b3105719810f5fdb",
-    "categorie": "Beursnieuws",
-    "titel": "Consumptie Nederlandse huishoudens stabiel",
-    "link": "https://www.beurs.nl/Nieuws/856395/Consumptie-Nederlandse-huishoudens-stabiel.aspx",
-    "intro": "Nederlandse huishoudens hebben in januari evenveel goederen en diensten aangeschaft als in dezelfde maand een jaar eerder. Dit meldde het Centraal Bureau voor de Statistiek dinsdagochtend.",
-    "published_at": "2026-03-10 07:28",
-    "scraped_at": "2026-03-10T07:29:59.650867"
-  },
-  {
-    "id": "ae4020425cec236b34b51a6265e53b6d",
-    "categorie": "Beursnieuws",
-    "titel": "Stijging Nederlandse productie",
-    "link": "https://www.beurs.nl/Nieuws/856393/Stijging-Nederlandse-productie.aspx",
-    "intro": "De productie van de Nederlandse industrie is in januari van dit jaar gestegen. Dit meldde het Centraal Bureau voor de Statistiek dinsdagochtend.",
-    "published_at": "2026-03-10 07:20",
-    "scraped_at": "2026-03-10T07:29:59.650867"
-  },
-  {
-    "id": "e8dce0e5f650f2a6e892520d52e43cec",
-    "categorie": "Beursnieuws",
-    "titel": "China ziet export sterk stijgen",
-    "link": "https://www.beurs.nl/Nieuws/856392/China-ziet-export-sterk-stijgen.aspx",
-    "intro": "In China is de export in januari en februari scherp gestegen. Dit bleek dinsdagochtend uit overheidscijfers.",
-    "published_at": "2026-03-10 07:18",
-    "scraped_at": "2026-03-10T07:29:59.650867"
-  },
-  {
-    "id": "db493aca679ff05ceb87980d68fd413c",
-    "categorie": "Beursnieuws",
-    "titel": "Herstel op Aziatische beurzen na scherpe terugval olieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/856390/Herstel-op-Aziatische-beurzen-na-scherpe-terugval-olieprijzen.aspx",
-    "intro": "De Aziatische beurzen noteerden dinsdagochtend in het groen. In Seoel en Tokio klommen de hoofdindices met respectievelijk 4,7 procent en 2,7 procent, na verliezen van circa 6 procent op maandag, nadat de olieprijzen toen ruim boven de 100 dollar waren geschoten.",
-    "published_at": "2026-03-10 07:14",
-    "scraped_at": "2026-03-10T07:29:59.650867"
+    "scraped_at": "2026-03-10T08:23:32.089413"
   }
 ]
