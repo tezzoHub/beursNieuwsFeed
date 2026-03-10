@@ -1,12 +1,30 @@
 [
   {
+    "id": "96c935d32c024900d05d1d738a5c3911",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Novo Nordisk ontvangt waarschuwingsbrief van FDA",
+    "link": "https://www.beurs.nl/Nieuws/856497/Media-Novo-Nordisk-ontvangt-waarschuwingsbrief-van-FDA.aspx",
+    "intro": "Novo Nordisk heeft een waarschuwingsbrief ontvangen van de Amerikaanse geneesmiddelenwaakhond FDA naar aanleiding van een inspectie bij de vestiging van het Deense farmabedrijf in Plainsboro, New Jersey, eerder dit jaar. Dit meldde CNBC dinsdag op basis van een verklaring van het bedrijf.",
+    "published_at": "2026-03-10 16:41",
+    "scraped_at": "2026-03-10T16:30:57.269879"
+  },
+  {
+    "id": "5524a5cf6cd3af4771b4fa5d4352194e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Basic-Fit publiceert definitieve cijfers",
+    "link": "https://www.beurs.nl/Nieuws/856494/Beursblik-Basic-Fit-publiceert-definitieve-cijfers.aspx",
+    "intro": "Basic-Fit zal woensdag definitieve cijfers over 2025 publiceren, die naar verwachting bevestigen dat de omzet en het onderliggende resultaat sterker stegen dan analisten hadden verwacht, voordat het bedrijf in januari voorlopige cijfers bekendmaakte.",
+    "published_at": "2026-03-10 16:17",
+    "scraped_at": "2026-03-10T16:30:57.269879"
+  },
+  {
     "id": "ea7222556df556b7f5a5dccfa74f6649",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/856488/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 18 maart 2026:",
     "published_at": "2026-03-10 16:04",
-    "scraped_at": "2026-03-10T15:13:52.225704"
+    "scraped_at": "2026-03-10T16:30:57.269879"
   },
   {
     "id": "8344d2310e3e241507d8be37fb29d74a",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856489/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 maart 2026:",
     "published_at": "2026-03-10 16:04",
-    "scraped_at": "2026-03-10T15:13:52.225704"
+    "scraped_at": "2026-03-10T16:30:57.269879"
   },
   {
     "id": "2e21745084231b3898f0d2a00ccb4daa",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856486/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 maart 2026:",
     "published_at": "2026-03-10 16:03",
-    "scraped_at": "2026-03-10T15:13:52.225704"
+    "scraped_at": "2026-03-10T16:30:57.269879"
   },
   {
     "id": "3608145d534a3d3bc04f16f47bccbf1d",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856477/Vestas-ontvangt-nieuwe-offshore-windopdracht-in-VK.aspx",
     "intro": "Vestas heeft een opdracht ontvangen voor het 1.380 megawatt grote offshore windpark Vanguard East van energiebedrijf RWE in het Verenigd Koninkrijk. Dit maakte Vestas dinsdag bekend via een persbericht.",
     "published_at": "2026-03-10 15:20",
-    "scraped_at": "2026-03-10T15:13:52.225704"
+    "scraped_at": "2026-03-10T16:30:57.269879"
   },
   {
     "id": "f7e1329d6dcb0ea464ae28ade3e72748",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856475/Verkoop-bestaande-woningen-in-de-VS-gestegen.aspx",
     "intro": "De bestaande woningverkopen in de Verenigde Staten zijn in februari gestegen. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-03-10 15:15",
-    "scraped_at": "2026-03-10T15:13:52.225704"
+    "scraped_at": "2026-03-10T16:30:57.269879"
   },
   {
     "id": "b5052263b598490c0ee9f45c3d0dc902",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856468/Beursblik-Bank-of-America-verlaagt-koersdoel-Aegon-licht.aspx",
     "intro": "Bank of America heeft het koersdoel voor Aegon verlaagd van 7,50 naar 7,20 euro, maar met handhaving van het koopadvies. Dit maakte de Amerikaanse bank dinsdag bekend in een analistenrapport.",
     "published_at": "2026-03-10 14:33",
-    "scraped_at": "2026-03-10T15:13:52.225704"
+    "scraped_at": "2026-03-10T16:30:57.269879"
   },
   {
     "id": "55de3bfa95c62542d5f0f88e18e45624",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856467/Bill-Ackman-wil-dubbele-beursgang-Pershing-Square-op-Wall-Street.aspx",
     "intro": "De activistische investeerder Bill Ackman heeft een aanvraag ingediend om zijn hedgefondsbedrijf Pershing Square Inc samen met een nieuwe investeringsmaatschappij met de naam Pershing Square USA naar de beurs in New York te brengen. Dit bleek dinsdag uit een persbericht.",
     "published_at": "2026-03-10 14:23",
-    "scraped_at": "2026-03-10T15:13:52.225704"
+    "scraped_at": "2026-03-10T16:30:57.269879"
   },
   {
     "id": "adbd4d9cd0e32bb9872faaa54b18ef9a",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856461/Toch-geen-herstel-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag toch weer een lagere opening tegemoet, na herstel op maandag. Futures op de SP 500 daalden ongeveer een half uur voor de openingsbel met 0,3 procent.",
     "published_at": "2026-03-10 13:55",
-    "scraped_at": "2026-03-10T15:13:52.225704"
-  },
-  {
-    "id": "db33b2ad8839849e1b53864caffc4dcd",
-    "categorie": "Beursnieuws",
-    "titel": "Aegon lanceert vermogensbeheerder in China",
-    "link": "https://www.beurs.nl/Nieuws/856450/Aegon-lanceert-vermogensbeheerder-in-China.aspx",
-    "intro": "Aegon heeft in China een eigen vermogensbeheerder gelanceerd onder de naam Aegon Insurance Asset Management Company, afgekort Aegon IAMC. Dit maakte de Nederlandse verzekeraar dinsdag bekend via een persbericht.",
-    "published_at": "2026-03-10 13:39",
-    "scraped_at": "2026-03-10T15:13:52.225704"
-  },
-  {
-    "id": "f48600d50e01a12e0f07c26b52ae2aae",
-    "categorie": "Beursnieuws",
-    "titel": "BioNTech hard onderuit na zwakke outlook",
-    "link": "https://www.beurs.nl/Nieuws/856448/BioNTech-hard-onderuit-na-zwakke-outlook.aspx",
-    "intro": "BioNTech is in het vierde kwartaal in de rode cijfers gedoken, terwijl de outlook ruim onder de marktverwachting uitkwam. Dit bleek dinsdag uit de cijfers van het Duitse biotechbedrijf met een notering op Wall Street.",
-    "published_at": "2026-03-10 12:54",
-    "scraped_at": "2026-03-10T15:13:52.225704"
+    "scraped_at": "2026-03-10T16:30:57.269879"
   }
 ]
