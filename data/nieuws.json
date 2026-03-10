@@ -1,12 +1,48 @@
 [
   {
+    "id": "d933abe1bf8d5e2907eaed47e3ded723",
+    "categorie": "Beursnieuws",
+    "titel": "Tencent lanceert AI-oplossingen voor games",
+    "link": "https://www.beurs.nl/Nieuws/856436/Tencent-lanceert-AI-oplossingen-voor-games.aspx",
+    "intro": "Tencent heeft dinsdag tijdens de Game Developer's Conference verschillende AI-oplossingen voor de game-industrie gepresenteerd.",
+    "published_at": "2026-03-10 11:45",
+    "scraped_at": "2026-03-10T11:05:02.821576"
+  },
+  {
+    "id": "92426247c0ea6279b2fd8d604bc7fed8",
+    "categorie": "Beursnieuws",
+    "titel": "TKH verkoopt Alphatronics",
+    "link": "https://www.beurs.nl/Nieuws/856433/TKH-verkoopt-Alphatronics.aspx",
+    "intro": "TKH Group heeft de verkoop van Alphatronics BV aangekondigd. Dit deed de onderneming uit Haaksbergen dinsdagochtend.",
+    "published_at": "2026-03-10 11:30",
+    "scraped_at": "2026-03-10T11:05:02.821576"
+  },
+  {
+    "id": "2fd7a43eb079b4348a01d302428c9430",
+    "categorie": "Beursnieuws",
+    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers neemt verder af",
+    "link": "https://www.beurs.nl/Nieuws/856428/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-neemt-verder-af.aspx",
+    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in februari verder afgenomen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
+    "published_at": "2026-03-10 11:13",
+    "scraped_at": "2026-03-10T11:05:02.821576"
+  },
+  {
+    "id": "acb242fa1d29e5d7f2519e6a59c60c99",
+    "categorie": "Beursnieuws",
+    "titel": "Opluchtingsrally zet AEX weer boven 1.000 punten",
+    "link": "https://www.beurs.nl/Nieuws/856426/Opluchtingsrally-zet-AEX-weer-boven-1000-punten.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag richting het einde van de ochtend gestegen naar ruim 1.000 punten, geholpen door de hoop dat er mogelijk een snel einde komt aan de oorlog in Iran.",
+    "published_at": "2026-03-10 11:00",
+    "scraped_at": "2026-03-10T11:05:02.821576"
+  },
+  {
     "id": "e9cba864504fa584e69217b137329754",
     "categorie": "Beursnieuws",
     "titel": "AkzoNobel wil twee commissarissen herbenoemen",
     "link": "https://www.beurs.nl/Nieuws/856422/AkzoNobel-wil-twee-commissarissen-herbenoemen.aspx",
     "intro": "AkzoNobel zal twee van zijn commissarissen, Ester Baiget en Hans Van Bylen, voordragen voor herbenoeming tijdens de jaarlijkse aandeelhoudersvergadering op 23 april. Dit meldde het bedrijf dinsdagochtend.",
     "published_at": "2026-03-10 10:36",
-    "scraped_at": "2026-03-10T10:04:08.041535"
+    "scraped_at": "2026-03-10T11:05:02.821576"
   },
   {
     "id": "3d60b1fe2cf1c60efe88b8a753dc87aa",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856421/Aramco-verhoogt-dividend-ondanks-lagere-winst.aspx",
     "intro": "Saudi Aramco wil het kwartaaldividend met 3,5 procent verhogen, terwijl het ook voor miljarden aan eigen aandelen zal terugkopen. Dit meldde de staatsoliemaatschappij van Saoedi-Arabië dinsdagochtend.",
     "published_at": "2026-03-10 10:33",
-    "scraped_at": "2026-03-10T10:04:08.041535"
+    "scraped_at": "2026-03-10T11:05:02.821576"
   },
   {
     "id": "fcc74e5056ff832fffc9653c9d641705",
@@ -24,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/856291/Must-read-Nieuws-is-dus-een-slechte-raadgever.aspx",
     "intro": "Plus: langdurige oorlog met Iran gaat wel pijn doen, private beleggingen en converteerbare obligaties niet langer gewild, China werkt aan nieuw Vijfjarenplan, en véél meer.",
     "published_at": "2026-03-10 10:00",
-    "scraped_at": "2026-03-10T10:04:08.041535"
+    "scraped_at": "2026-03-10T11:05:02.821576"
   },
   {
     "id": "88720d60b14497f72a46e9679f7a7009",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856416/Flinke-omzetdaling-voor-TSMC.aspx",
     "intro": "TSMC heeft in februari veel minder omzet geboekt dan in de maand ervoor, maar op jaarbasis was er wel sprake van een duidelijke omzetstijging. Dit bleek dinsdagochtend uit cijfers van de Taiwanese chipgigant.",
     "published_at": "2026-03-10 09:30",
-    "scraped_at": "2026-03-10T10:04:08.041535"
+    "scraped_at": "2026-03-10T11:05:02.821576"
   },
   {
     "id": "f90745622eca883f4efd958d718bfd1b",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856415/Focus-bij-TKH-op-Eemshaven.aspx",
     "intro": "Op korte termijn zal de focus van beleggers in TKH vooral liggen op de prestaties van de fabriek in het Groningse Eemshaven. Dit stelde Berenberg dinsdag in een analistenrapport, nadat het aandeel maandag flink steeg.",
     "published_at": "2026-03-10 09:22",
-    "scraped_at": "2026-03-10T10:04:08.041535"
+    "scraped_at": "2026-03-10T11:05:02.821576"
   },
   {
     "id": "cfa71298f053768c39ea3d4b1d27267c",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856412/AEX-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste dinsdag 1,1 procent hoger op 993,65 punten, terwijl de Midkap 1,8 procent won.",
     "published_at": "2026-03-10 09:11",
-    "scraped_at": "2026-03-10T10:04:08.041535"
-  },
-  {
-    "id": "ccb1cb3f6ffaf861928f367c739d3b2a",
-    "categorie": "Beursnieuws",
-    "titel": "First Eagle meldt belang in Magnum Ice",
-    "link": "https://www.beurs.nl/Nieuws/856410/First-Eagle-meldt-belang-in-Magnum-Ice.aspx",
-    "intro": "First Eagle Management Investment heeft voor het eerst een belang in The Magnum Ice Cream Company gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 6 maart.",
-    "published_at": "2026-03-10 08:58",
-    "scraped_at": "2026-03-10T10:04:08.041535"
-  },
-  {
-    "id": "8b4908f91fd051c7456379a66650603c",
-    "categorie": "Beursnieuws",
-    "titel": "Citi verlaagt koersdoel DSM-Firmenich stevig",
-    "link": "https://www.beurs.nl/Nieuws/856409/Citi-verlaagt-koersdoel-DSM-Firmenich-stevig.aspx",
-    "intro": "Citi Research heeft dinsdag het koersdoel voor DSM-Firmenich verlaagd van 106,00 naar 87,00 euro, maar handhaafde het koopadvies. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-03-10 08:50",
-    "scraped_at": "2026-03-10T10:04:08.041535"
-  },
-  {
-    "id": "6bbc3b7c07313391ab85c01ae8e95f96",
-    "categorie": "Beursnieuws",
-    "titel": "Voorzichtige outlook Hugo Boss",
-    "link": "https://www.beurs.nl/Nieuws/856407/Voorzichtige-outlook-Hugo-Boss.aspx",
-    "intro": "Hugo Boss heeft in 2025 een licht hogere omzet en een stijging van het operationele resultaat geboekt, maar verwacht dit jaar een daling van de opbrengsten en een lagere EBIT en besloot om het dividend flink te verlagen. Dit meldde het Duitse modehuis dinsdagochtend.",
-    "published_at": "2026-03-10 08:44",
-    "scraped_at": "2026-03-10T10:04:08.041535"
-  },
-  {
-    "id": "ed3bec98ca11183a45b14ea8a30f4a05",
-    "categorie": "Beursnieuws",
-    "titel": "Marge Volkswagen in 2025 onder druk ondanks stabiele omzet",
-    "link": "https://www.beurs.nl/Nieuws/856406/Marge-Volkswagen-in-2025-onder-druk-ondanks-stabiele-omzet.aspx",
-    "intro": "Volkswagen heeft in 2025 een stabiele omzet behaald, maar zag de operationele winst wel flink dalen. Dit maakte de Duitse autofabrikant dinsdagochtend bekend.",
-    "published_at": "2026-03-10 08:29",
-    "scraped_at": "2026-03-10T10:04:08.041535"
+    "scraped_at": "2026-03-10T11:05:02.821576"
   }
 ]
