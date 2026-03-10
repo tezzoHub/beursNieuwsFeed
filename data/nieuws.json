@@ -1,12 +1,39 @@
 [
   {
+    "id": "e9cba864504fa584e69217b137329754",
+    "categorie": "Beursnieuws",
+    "titel": "AkzoNobel wil twee commissarissen herbenoemen",
+    "link": "https://www.beurs.nl/Nieuws/856422/AkzoNobel-wil-twee-commissarissen-herbenoemen.aspx",
+    "intro": "AkzoNobel zal twee van zijn commissarissen, Ester Baiget en Hans Van Bylen, voordragen voor herbenoeming tijdens de jaarlijkse aandeelhoudersvergadering op 23 april. Dit meldde het bedrijf dinsdagochtend.",
+    "published_at": "2026-03-10 10:36",
+    "scraped_at": "2026-03-10T10:04:08.041535"
+  },
+  {
+    "id": "3d60b1fe2cf1c60efe88b8a753dc87aa",
+    "categorie": "Beursnieuws",
+    "titel": "Aramco verhoogt dividend ondanks lagere winst",
+    "link": "https://www.beurs.nl/Nieuws/856421/Aramco-verhoogt-dividend-ondanks-lagere-winst.aspx",
+    "intro": "Saudi Aramco wil het kwartaaldividend met 3,5 procent verhogen, terwijl het ook voor miljarden aan eigen aandelen zal terugkopen. Dit meldde de staatsoliemaatschappij van Saoedi-Arabië dinsdagochtend.",
+    "published_at": "2026-03-10 10:33",
+    "scraped_at": "2026-03-10T10:04:08.041535"
+  },
+  {
+    "id": "fcc74e5056ff832fffc9653c9d641705",
+    "categorie": "Redactioneel",
+    "titel": "Must read: Nieuws is dus een slechte raadgever",
+    "link": "https://www.iex.nl/artikel/856291/Must-read-Nieuws-is-dus-een-slechte-raadgever.aspx",
+    "intro": "Plus: langdurige oorlog met Iran gaat wel pijn doen, private beleggingen en converteerbare obligaties niet langer gewild, China werkt aan nieuw Vijfjarenplan, en véél meer.",
+    "published_at": "2026-03-10 10:00",
+    "scraped_at": "2026-03-10T10:04:08.041535"
+  },
+  {
     "id": "88720d60b14497f72a46e9679f7a7009",
     "categorie": "Beursnieuws",
     "titel": "Flinke omzetdaling voor TSMC",
     "link": "https://www.beurs.nl/Nieuws/856416/Flinke-omzetdaling-voor-TSMC.aspx",
     "intro": "TSMC heeft in februari veel minder omzet geboekt dan in de maand ervoor, maar op jaarbasis was er wel sprake van een duidelijke omzetstijging. Dit bleek dinsdagochtend uit cijfers van de Taiwanese chipgigant.",
     "published_at": "2026-03-10 09:30",
-    "scraped_at": "2026-03-10T09:07:36.094479"
+    "scraped_at": "2026-03-10T10:04:08.041535"
   },
   {
     "id": "f90745622eca883f4efd958d718bfd1b",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856415/Focus-bij-TKH-op-Eemshaven.aspx",
     "intro": "Op korte termijn zal de focus van beleggers in TKH vooral liggen op de prestaties van de fabriek in het Groningse Eemshaven. Dit stelde Berenberg dinsdag in een analistenrapport, nadat het aandeel maandag flink steeg.",
     "published_at": "2026-03-10 09:22",
-    "scraped_at": "2026-03-10T09:07:36.094479"
+    "scraped_at": "2026-03-10T10:04:08.041535"
   },
   {
     "id": "cfa71298f053768c39ea3d4b1d27267c",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856412/AEX-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste dinsdag 1,1 procent hoger op 993,65 punten, terwijl de Midkap 1,8 procent won.",
     "published_at": "2026-03-10 09:11",
-    "scraped_at": "2026-03-10T09:07:36.094479"
+    "scraped_at": "2026-03-10T10:04:08.041535"
   },
   {
     "id": "ccb1cb3f6ffaf861928f367c739d3b2a",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856410/First-Eagle-meldt-belang-in-Magnum-Ice.aspx",
     "intro": "First Eagle Management Investment heeft voor het eerst een belang in The Magnum Ice Cream Company gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 6 maart.",
     "published_at": "2026-03-10 08:58",
-    "scraped_at": "2026-03-10T09:07:36.094479"
+    "scraped_at": "2026-03-10T10:04:08.041535"
   },
   {
     "id": "8b4908f91fd051c7456379a66650603c",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856409/Citi-verlaagt-koersdoel-DSM-Firmenich-stevig.aspx",
     "intro": "Citi Research heeft dinsdag het koersdoel voor DSM-Firmenich verlaagd van 106,00 naar 87,00 euro, maar handhaafde het koopadvies. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
     "published_at": "2026-03-10 08:50",
-    "scraped_at": "2026-03-10T09:07:36.094479"
+    "scraped_at": "2026-03-10T10:04:08.041535"
   },
   {
     "id": "6bbc3b7c07313391ab85c01ae8e95f96",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856407/Voorzichtige-outlook-Hugo-Boss.aspx",
     "intro": "Hugo Boss heeft in 2025 een licht hogere omzet en een stijging van het operationele resultaat geboekt, maar verwacht dit jaar een daling van de opbrengsten en een lagere EBIT en besloot om het dividend flink te verlagen. Dit meldde het Duitse modehuis dinsdagochtend.",
     "published_at": "2026-03-10 08:44",
-    "scraped_at": "2026-03-10T09:07:36.094479"
+    "scraped_at": "2026-03-10T10:04:08.041535"
   },
   {
     "id": "ed3bec98ca11183a45b14ea8a30f4a05",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856406/Marge-Volkswagen-in-2025-onder-druk-ondanks-stabiele-omzet.aspx",
     "intro": "Volkswagen heeft in 2025 een stabiele omzet behaald, maar zag de operationele winst wel flink dalen. Dit maakte de Duitse autofabrikant dinsdagochtend bekend.",
     "published_at": "2026-03-10 08:29",
-    "scraped_at": "2026-03-10T09:07:36.094479"
-  },
-  {
-    "id": "18b65b2790be0f7c56477c7ce5f6437e",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse export onder druk",
-    "link": "https://www.beurs.nl/Nieuws/856405/Duitse-export-onder-druk.aspx",
-    "intro": "De Duitse export is in januari weer gedaald, na een opleving in december. Dit bleek dinsdag uit cijfers van het Duitse statistiekbureau Destatis.",
-    "published_at": "2026-03-10 08:21",
-    "scraped_at": "2026-03-10T09:07:36.094479"
-  },
-  {
-    "id": "3642589b80b6591756cebde71b96c87d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Berenberg verhoogt koersdoel Fagron",
-    "link": "https://www.beurs.nl/Nieuws/856404/Beursblik-Berenberg-verhoogt-koersdoel-Fagron.aspx",
-    "intro": "Berenberg heeft het koersdoel voor Fagron verhoogd van 28,00 naar 29,00 euro, terwijl het koopadvies bleef staan. Dit bleek dinsdag uit een rapport van de analisten van de zakenbank, die onlangs spraken met CEO Rafael Padilla.",
-    "published_at": "2026-03-10 08:09",
-    "scraped_at": "2026-03-10T09:07:36.094479"
-  },
-  {
-    "id": "c3da52495b0e8a015d793cabeba5317a",
-    "categorie": "Beursnieuws",
-    "titel": "AEX maakt zich op voor hogere opening na duikvlucht olieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/856401/AEX-maakt-zich-op-voor-hogere-opening-na-duikvlucht-olieprijzen.aspx",
-    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,6 procent.",
-    "published_at": "2026-03-10 08:04",
-    "scraped_at": "2026-03-10T09:07:36.094479"
+    "scraped_at": "2026-03-10T10:04:08.041535"
   }
 ]
