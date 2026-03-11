@@ -1,92 +1,47 @@
 [
   {
-    "id": "d1bffd1fb774b3ade36f5972aee44997",
+    "id": "ff6c99c73e085c226fe46f80df41d18b",
     "categorie": "Beursnieuws",
-    "titel": "Oracle verhoogt omzetverwachting",
-    "link": "https://www.beurs.nl/Nieuws/856523/Oracle-verhoogt-omzetverwachting.aspx",
-    "intro": "Oracle heeft zijn kwartaalomzet sterk laten stijgen en verhoogde zijn outlook voor het komende boekjaar, terwijl de vraag naar AI groter blijft dan het aanbod. Dat bleek dinsdagavond bij de resultaten van het Amerikaanse softwarebedrijf.",
-    "published_at": "2026-03-10 21:41",
-    "scraped_at": "2026-03-11T05:32:50.203272"
+    "titel": "Winst op Aziatische beurzen",
+    "link": "https://www.beurs.nl/Nieuws/856557/Winst-op-Aziatische-beurzen.aspx",
+    "intro": "De Aziatische beurzen koersten woensdag in het groen.",
+    "published_at": "2026-03-11 07:25",
+    "scraped_at": "2026-03-11T06:34:42.827027"
   },
   {
-    "id": "662f738e44ef0e9b197770e2545faa46",
+    "id": "2b9c63746fe3bd69807a9f25c1c10c73",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit vlak na volatiele handelsdag",
-    "link": "https://www.beurs.nl/Nieuws/856520/Wall-Street-sluit-vlak-na-volatiele-handelsdag.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag verdeeld gesloten, na een wisselvallige handelsdag waarop de olieprijs sterk bewoog, door onzekerheid over de duur van de Amerikaanse oorlog tegen Iran.",
-    "published_at": "2026-03-10 21:21",
-    "scraped_at": "2026-03-11T05:32:50.203272"
+    "titel": "Europese beurzen openen lager",
+    "link": "https://www.beurs.nl/Nieuws/856553/Europese-beurzen-openen-lager.aspx",
+    "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet, waarbij beleggers vooral letten op de olieprijs en of er hulp komt in de vorm van het vrijgeven van strategische reserves.",
+    "published_at": "2026-03-11 07:01",
+    "scraped_at": "2026-03-11T06:34:42.827027"
   },
   {
-    "id": "bbce003318b1703ed22c28797109727d",
+    "id": "79a74d9816c2f7bc4446bb1fe883829f",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/856517/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-03-10 21:08",
-    "scraped_at": "2026-03-11T05:32:50.203272"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/856551/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 maart 2026:",
+    "published_at": "2026-03-11 06:53",
+    "scraped_at": "2026-03-11T06:34:42.827027"
   },
   {
-    "id": "ceb430dabb05bc47e347001760590450",
+    "id": "d33b1a45f6096461b18d49e77920bee7",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs sluit fors lager",
-    "link": "https://www.beurs.nl/Nieuws/856515/Olieprijs-sluit-fors-lager.aspx",
-    "intro": "De olieprijs is dinsdag gedaald tot onder 80 dollar per vat, maar veerde weer op toen de Amerikaanse energieminister Chris Wright een post verwijderde die claimde dat de Amerikaanse marine \"met succes een olietanker door de Straat van Hormuz heeft geëscorteerd\".",
-    "published_at": "2026-03-10 20:20",
-    "scraped_at": "2026-03-11T05:32:50.203272"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/856549/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 maart 2026:",
+    "published_at": "2026-03-11 06:52",
+    "scraped_at": "2026-03-11T06:34:42.827027"
   },
   {
-    "id": "c3202afd49b1e8eb1a1fbe4a500106bb",
+    "id": "c4c35bfebf58d677bf146b98c1c33d0c",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street stabiliseert",
-    "link": "https://www.beurs.nl/Nieuws/856514/Wall-Street-stabiliseert.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdagavond vlak, tijdens een wisselvallige handelsdag waarop de olieprijs sterk beweegt, door onzekerheid over de duur van de Amerikaanse oorlog tegen Iran.",
-    "published_at": "2026-03-10 19:51",
-    "scraped_at": "2026-03-11T05:32:50.203272"
-  },
-  {
-    "id": "98b6cc8f2123e5691acc845f4f8e1949",
-    "categorie": "Beursnieuws",
-    "titel": "SBM Offshore opgenomen in AEX-index",
-    "link": "https://www.beurs.nl/Nieuws/856511/SBM-Offshore-opgenomen-in-AEX-index.aspx",
-    "intro": "Bij de jaarlijkse herweging van de aandelenindices op Euronext Amsterdam is SBM Offshore toegevoegd aan de lijst met AEX-fondsen, ten koste van Randstad. Dat maakte Euronext dinsdag nabeurs bekend.",
-    "published_at": "2026-03-10 19:12",
-    "scraped_at": "2026-03-11T05:32:50.203272"
-  },
-  {
-    "id": "42e95c5442ae7c6b8127a1f53ff78c7e",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen fors hoger dankzij terugval olieprijs",
-    "link": "https://www.beurs.nl/Nieuws/856510/Europese-beurzen-fors-hoger-dankzij-terugval-olieprijs.aspx",
-    "intro": "De aandelenmarkten in Europa zijn dinsdag hoger gesloten, nadat de olieprijs sterk daalde op de hoop dat er snel een einde komt aan de Amerikaanse aanvallen op Iran, na optimistische geluiden daarover uit het Witte Huis.",
-    "published_at": "2026-03-10 19:00",
-    "scraped_at": "2026-03-11T05:32:50.203272"
-  },
-  {
-    "id": "9be85a89d99d0c5dedf9a70a2aafece8",
-    "categorie": "Beurs vandaag",
-    "titel": "Slotcall: opluchtingsrally zet AEX weer boven 1000 punten",
-    "link": "https://www.beurs.nl/Artikel/856476/Slotcall-opluchtingsrally-zet-AEX-weer-boven-1000-punten.aspx",
-    "intro": "AEX sluit 2% hoger. Herstel is breed gedragen. Olieprijs en VIX dalen, bitcoin weer boven $70.000 en zie Prosus vliegen. En verder: CSG, Besi, Novo Nordisk, BioNTech en Amazon.",
-    "published_at": "2026-03-10 18:10",
-    "scraped_at": "2026-03-11T05:32:50.203272"
-  },
-  {
-    "id": "9f93679ae95c908d0a8e97a997e69cd2",
-    "categorie": "Beursnieuws",
-    "titel": "Havas versterkt luxepositie met overname Eyesight",
-    "link": "https://www.beurs.nl/Nieuws/856503/Havas-versterkt-luxepositie-met-overname-Eyesight.aspx",
-    "intro": "Havas heeft via zijn luxedivisie Maison BETC het onafhankelijke evenementenbureau Eyesight overgenomen, dat gespecialiseerd is in modeshows. Dit maakte het bedrijf dinsdag bekend.",
-    "published_at": "2026-03-10 18:07",
-    "scraped_at": "2026-03-11T05:32:50.203272"
-  },
-  {
-    "id": "2c1597eaf7c08e1512a4f340a1764a80",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit boven 1.000 punten na daling olieprijs",
-    "link": "https://www.beurs.nl/Nieuws/856502/AEX-sluit-boven-1000-punten-na-daling-olieprijs.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag weer boven 1.000 punten gesloten, in de hoop dat het oorlogsgeweld rond de Perzische Golf snel voorbij zal zijn, waardoor de olieprijs daalde.",
-    "published_at": "2026-03-10 17:57",
-    "scraped_at": "2026-03-11T05:32:50.203272"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/856548/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 18 maart 2026:",
+    "published_at": "2026-03-11 06:51",
+    "scraped_at": "2026-03-11T06:34:42.827027"
   }
 ]
