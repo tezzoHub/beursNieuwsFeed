@@ -1,12 +1,57 @@
 [
   {
-    "id": "154bb8023b249eef8ba6c1119add39cf",
+    "id": "c84bc4f3d369812c72c04832ac8464a7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: databedrijven aan kop in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/856590/Beursupdate-databedrijven-aan-kop-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs is woensdag met een half procent verlies van start gegaan.",
+    "published_at": "2026-03-11 09:15",
+    "scraped_at": "2026-03-11T08:23:44.197333"
+  },
+  {
+    "id": "3c51d2e7f2d7c48cd4a320bc67e4ab1f",
+    "categorie": "Beursnieuws",
+    "titel": "Wereldhave koopt supermarkt in Charleroi",
+    "link": "https://www.beurs.nl/Nieuws/856588/Wereldhave-koopt-supermarkt-in-Charleroi.aspx",
+    "intro": "Wereldhave heeft via Wereldhave Belgium een supermarkt gekocht in het winkelcentrum Ville2 in het Belgische Charleroi. Dit maakte het vastgoedbedrijf woensdagochtend bekend.",
+    "published_at": "2026-03-11 09:10",
+    "scraped_at": "2026-03-11T08:23:44.197333"
+  },
+  {
+    "id": "2a698f1e9fe7d1d49ff6f4b1fd743a84",
+    "categorie": "Beursnieuws",
+    "titel": "Porsche ziet resultaten onder druk staan",
+    "link": "https://www.beurs.nl/Nieuws/856587/Porsche-ziet-resultaten-onder-druk-staan.aspx",
+    "intro": "De groepsomzet daalde in 2025 naar 36,3 miljard euro tegen 40,1 miljard euro in 2024.",
+    "published_at": "2026-03-11 09:08",
+    "scraped_at": "2026-03-11T08:23:44.197333"
+  },
+  {
+    "id": "eeb6587409d0e3e931a993478afc6502",
+    "categorie": "Beursnieuws",
+    "titel": "Wolters Kluwer draagt CFO Akzo voor als commissaris",
+    "link": "https://www.beurs.nl/Nieuws/856585/Wolters-Kluwer-draagt-CFO-Akzo-voor-als-commissaris.aspx",
+    "intro": "Wolters Kluwer heeft Maarten de Vries voorgedragen als commissaris. Dit maakte het databedrijf woensdag bekend.",
+    "published_at": "2026-03-11 08:58",
+    "scraped_at": "2026-03-11T08:23:44.197333"
+  },
+  {
+    "id": "d350853d8e2f1cb2b40ad5776dcfc108",
+    "categorie": "Beursnieuws",
+    "titel": "CVC boekt recordresultaat",
+    "link": "https://www.beurs.nl/Nieuws/856579/CVC-boekt-recordresultaat.aspx",
+    "intro": "CVC heeft in 2025 naar eigen zeggen sterk gepresteerd met recordresultaten. Dit bleek woensdag uit cijfers van de private equity-firma met een notering aan het Amsterdamse Damrak.",
+    "published_at": "2026-03-11 08:33",
+    "scraped_at": "2026-03-11T08:23:44.197333"
+  },
+  {
+    "id": "cefa6a05e1294e397d7e120fb1526a8d",
     "categorie": "Voorbeurs",
-    "titel": "AEX opent waarschijnlijk lager en let op Basic-Fit, Rheinmetall, Oracle en inflatie VS",
-    "link": "https://www.beurs.nl/Artikel/856544/AEX-opent-waarschijnlijk-lager-en-let-op-Basic-Fit-Rheinmetall-Oracle-en-inflatie-VS.aspx",
+    "titel": "AEX-indicatie: -0,5% en let op Basic-Fit, Rheinmetall, Oracle en inflatie VS",
+    "link": "https://www.beurs.nl/Artikel/856544/AEX-indicatie-05-en-let-op-Basic-Fit-Rheinmetall-Oracle-en-inflatie-VS.aspx",
     "intro": "Openingsindicatie: -0,5%. Cijfers Basic-Fit, Envipco, Rheinmetall, Oracle en D'Ieteren. Olieprijs zet glijvlucht voort. Stoelendans op Beursplein 5. En vanmiddag Amerikaanse CPI.",
     "published_at": "2026-03-11 08:25",
-    "scraped_at": "2026-03-11T07:33:40.439674"
+    "scraped_at": "2026-03-11T08:23:44.197333"
   },
   {
     "id": "d69ff2680f87c7301135409cb7ccb7dc",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856576/Duitse-inflatie-inderdaad-gedaald.aspx",
     "intro": "De Duitse inflatie is in februari gedaald, conform een voorlopig meting. Dit bleek woensdag uit definitieve cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-03-11 08:21",
-    "scraped_at": "2026-03-11T07:33:40.439674"
+    "scraped_at": "2026-03-11T08:23:44.197333"
   },
   {
     "id": "ae6c3400c2804e121788a310107dc95a",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856572/Licht-lagere-opening-AEX-voorzien.aspx",
     "intro": "De Amsterdamse beurs gaat woensdag een lagere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,4 procent in het rood. Dinsdag eindigde de hoofdgraadmeter nog 2,0 procent hoger op 1.002,42 punten.",
     "published_at": "2026-03-11 08:09",
-    "scraped_at": "2026-03-11T07:33:40.439674"
+    "scraped_at": "2026-03-11T08:23:44.197333"
   },
   {
     "id": "d8ec0700f0e719a0a8abde8a2c290d94",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856566/Basic-Fit-ziet-resultaten-aantrekken.aspx",
     "intro": "Basic-Fit heeft in 2025 de resultaten zien aantrekken. Dit bleek woensdag uit definitieve cijfers van de uitbater van fitnessclubs.",
     "published_at": "2026-03-11 07:51",
-    "scraped_at": "2026-03-11T07:33:40.439674"
+    "scraped_at": "2026-03-11T08:23:44.197333"
   },
   {
     "id": "e35f1e0e275597001ee78ae8d95206ab",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856564/Rheinmetall-ziet-orderboek-naar-recordniveau-stijgen.aspx",
     "intro": "Rheinmetall heeft in 2025 de omzet met bijna 30 procent zien stijgen, en met het orderboek op een recordniveau rekent de wapenfabrikant op een groeiversnelling in 2026. Dit bleek woensdag uit cijfers van de Duitse defensiespecialist.",
     "published_at": "2026-03-11 07:45",
-    "scraped_at": "2026-03-11T07:33:40.439674"
-  },
-  {
-    "id": "ff6c99c73e085c226fe46f80df41d18b",
-    "categorie": "Beursnieuws",
-    "titel": "Winst op Aziatische beurzen",
-    "link": "https://www.beurs.nl/Nieuws/856557/Winst-op-Aziatische-beurzen.aspx",
-    "intro": "De Aziatische beurzen koersten woensdag in het groen.",
-    "published_at": "2026-03-11 07:25",
-    "scraped_at": "2026-03-11T07:33:40.439674"
-  },
-  {
-    "id": "674480c5a89bc424703c1fe30341e235",
-    "categorie": "Beursnieuws",
-    "titel": "Omzetdaling Envipco verder versneld",
-    "link": "https://www.beurs.nl/Nieuws/856554/Omzetdaling-Envipco-verder-versneld.aspx",
-    "intro": "Envipco heeft in het vierde kwartaal van 2025 zowel de omzet als de winstgevendheid zien afnemen. Dit bleek woensdag voorbeurs uit de kwartaalcijfers van de leverancier van recyclingsystemen en statiegeldautomaten.",
-    "published_at": "2026-03-11 07:17",
-    "scraped_at": "2026-03-11T07:33:40.439674"
-  },
-  {
-    "id": "2b9c63746fe3bd69807a9f25c1c10c73",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/856553/Europese-beurzen-openen-lager.aspx",
-    "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet, waarbij beleggers vooral letten op de olieprijs en of er hulp komt in de vorm van het vrijgeven van strategische reserves.",
-    "published_at": "2026-03-11 07:01",
-    "scraped_at": "2026-03-11T07:33:40.439674"
-  },
-  {
-    "id": "79a74d9816c2f7bc4446bb1fe883829f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/856551/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 maart 2026:",
-    "published_at": "2026-03-11 06:53",
-    "scraped_at": "2026-03-11T07:33:40.439674"
-  },
-  {
-    "id": "d33b1a45f6096461b18d49e77920bee7",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/856549/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 maart 2026:",
-    "published_at": "2026-03-11 06:52",
-    "scraped_at": "2026-03-11T07:33:40.439674"
+    "scraped_at": "2026-03-11T08:23:44.197333"
   }
 ]
