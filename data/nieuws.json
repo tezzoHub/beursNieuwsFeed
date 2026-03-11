@@ -1,12 +1,75 @@
 [
   {
+    "id": "7642ff518a16463ca152bd7216f944ee",
+    "categorie": "Beursnieuws",
+    "titel": "Licht lagere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/856653/Licht-lagere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een licht lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,3 procent in het rood. Ditzelfde geldt voor de Nasdaq.",
+    "published_at": "2026-03-11 13:59",
+    "scraped_at": "2026-03-11T13:05:46.888335"
+  },
+  {
+    "id": "4d5a989e37708ed587b04ee9ae9c8fc8",
+    "categorie": "Beursnieuws",
+    "titel": "Inflatie VS stabiel",
+    "link": "https://www.beurs.nl/Nieuws/856648/Inflatie-VS-stabiel.aspx",
+    "intro": "De consumentenprijzen in de Verenigde Staten zijn in februari in een stabiel tempo gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-03-11 13:36",
+    "scraped_at": "2026-03-11T13:05:46.888335"
+  },
+  {
+    "id": "a16955f388494247602b04a643ff3565",
+    "categorie": "Beursnieuws",
+    "titel": "NVIDIA en Nebius slaan handen ineen",
+    "link": "https://www.beurs.nl/Nieuws/856646/NVIDIA-en-Nebius-slaan-handen-ineen.aspx",
+    "intro": "NVIDIA investeert 2 miljard dollar in het Amsterdamse Nebius Group en gaat een strategisch partnerschap aan om de volgende generatie hyperscale AI-cloud te ontwikkelen. Dit maakten de twee bedrijven woensdag bekend.",
+    "published_at": "2026-03-11 13:18",
+    "scraped_at": "2026-03-11T13:05:46.888335"
+  },
+  {
+    "id": "3e8711678f976ad5431b2b2d6b183db8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: geen grote verrassingen te verwachten bij Pharming",
+    "link": "https://www.beurs.nl/Nieuws/856647/Beursblik-geen-grote-verrassingen-te-verwachten-bij-Pharming.aspx",
+    "intro": "Pharming Group komt donderdagochtend met de volledige cijfers over 2025, maar na een update met voorlopige cijfers en een beleggersdag, lijken er geen grote verrassingen te verwachten.",
+    "published_at": "2026-03-11 13:18",
+    "scraped_at": "2026-03-11T13:05:46.888335"
+  },
+  {
+    "id": "d62cb0d6a0ed6884768aa676c526f5b4",
+    "categorie": "Beursnieuws",
+    "titel": "IEA stelt grootste olievrijgave ooit voor",
+    "link": "https://www.beurs.nl/Nieuws/856642/IEA-stelt-grootste-olievrijgave-ooit-voor.aspx",
+    "intro": "Het Internationaal Energieagentschap heeft zijn 32 lidstaten voorgesteld om 400 miljoen vaten olie vrij te geven uit strategische reserves, de grootste vrijgave in de geschiedenis van de organisatie. Dit meldden bronnen die bekend zijn met de zaak.",
+    "published_at": "2026-03-11 13:08",
+    "scraped_at": "2026-03-11T13:05:46.888335"
+  },
+  {
+    "id": "b70d19b791e9d520f945b52c51247d92",
+    "categorie": "Beursnieuws",
+    "titel": "Rustige opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/856639/Rustige-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,1 procent in het rood. Ditzelfde geldt voor de Nasdaq.",
+    "published_at": "2026-03-11 13:01",
+    "scraped_at": "2026-03-11T13:05:46.888335"
+  },
+  {
+    "id": "ac43203dae7b1f427d04ba6adc69bbcc",
+    "categorie": "Beursnieuws",
+    "titel": "Campbell's verlaagt outlook",
+    "link": "https://www.beurs.nl/Nieuws/856638/Campbells-verlaagt-outlook.aspx",
+    "intro": "Campbell's heeft de outlook voor het lopende gebroken boekjaar verlaagd, nadat de omzet in het tweede kwartaal terugliep door een zwakke vraag naar snacks. Dit bleek woensdag uit cijfers van de Amerikaanse soep- en snackfabrikant.",
+    "published_at": "2026-03-11 12:50",
+    "scraped_at": "2026-03-11T13:05:46.888335"
+  },
+  {
     "id": "ac636fa06d4c9df5c62d940d10141458",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen doen stap terug",
     "link": "https://www.beurs.nl/Nieuws/856633/Europese-beurzen-doen-stap-terug.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur lager.",
     "published_at": "2026-03-11 11:57",
-    "scraped_at": "2026-03-11T11:51:35.751508"
+    "scraped_at": "2026-03-11T13:05:46.888335"
   },
   {
     "id": "9478dfb64f0d1f862a4217877950ed89",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856632/Income-Fund-of-America-groter-in-KPN.aspx",
     "intro": "Income Fund of America heeft een groter belang in KPN gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 6 maart 2026.",
     "published_at": "2026-03-11 11:54",
-    "scraped_at": "2026-03-11T11:51:35.751508"
+    "scraped_at": "2026-03-11T13:05:46.888335"
   },
   {
     "id": "b9aeb3d16d697d3df06879295f7ef948",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Artikel/856608/Binnenkort-bij-IEX-IEX-Pro.aspx",
     "intro": "Maak kennis met Grondstoffen Guru en In the Money: gespecialiseerde nieuwsbrieven gericht op markten waar grote kansen liggen, maar ook expertise nodig is om ze te benutten.",
     "published_at": "2026-03-11 11:10",
-    "scraped_at": "2026-03-11T11:51:35.751508"
-  },
-  {
-    "id": "ac9fd0d206deda0cf835df666aa8c071",
-    "categorie": "Beursnieuws",
-    "titel": "CVC onderuit in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/856612/CVC-onderuit-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend lager, met verliezen voor de halfgeleiders en CVC na cijfers.",
-    "published_at": "2026-03-11 11:03",
-    "scraped_at": "2026-03-11T11:51:35.751508"
-  },
-  {
-    "id": "4860d75a78cd4804b3eeac1f2741f977",
-    "categorie": "Redactioneel",
-    "titel": "Must read: IEA biedt soelaas met recordvrijgave olievoorraden",
-    "link": "https://www.iex.nl/artikel/856586/Must-read-IEA-biedt-soelaas-met-recordvrijgave-olievoorraden.aspx",
-    "intro": "Plus: Europeanen moet meer gaan investeren, oorlog in Iran raakt de Nederlandse export en het kabinet gaat wellicht ingrijpen bij de pomp",
-    "published_at": "2026-03-11 10:45",
-    "scraped_at": "2026-03-11T11:51:35.751508"
-  },
-  {
-    "id": "6361dcf526ca69733c38adeb4b44480a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: update CVC zorgt voor teleurstelling",
-    "link": "https://www.beurs.nl/Nieuws/856598/Beursblik-update-CVC-zorgt-voor-teleurstelling.aspx",
-    "intro": "De kwartaalupdate van CVC Capital Partners zal beleggers vermoedelijk teleurstellen. Dit schreef analist Nicholas Herman van Citi Research woensdag in een rapport.",
-    "published_at": "2026-03-11 09:54",
-    "scraped_at": "2026-03-11T11:51:35.751508"
-  },
-  {
-    "id": "f63f91d8cbe9d58088d453283724c2f6",
-    "categorie": "Beursnieuws",
-    "titel": "Zara-eigenaar Inditex boekt omzetgroei",
-    "link": "https://www.beurs.nl/Nieuws/856596/Zara-eigenaar-Inditex-boekt-omzetgroei.aspx",
-    "intro": "Inditex heeft aan het begin van het fiscale jaar de omzetgroei zien aantrekken. Dit bleek woensdag uit een update van de eigenaar van Zara.",
-    "published_at": "2026-03-11 09:51",
-    "scraped_at": "2026-03-11T11:51:35.751508"
-  },
-  {
-    "id": "6d4177a494263d631aee0dea81e91a1e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: bemoedigende start van het jaar voor Basic-Fit",
-    "link": "https://www.beurs.nl/Nieuws/856593/Beursblik-bemoedigende-start-van-het-jaar-voor-Basic-Fit.aspx",
-    "intro": "Basic-Fit heeft een bemoedigende start van het nieuwe jaar achter de rug . Dit oordeelde analist Frank Claassen van Degroof Petercam woensdag in een rapport.",
-    "published_at": "2026-03-11 09:33",
-    "scraped_at": "2026-03-11T11:51:35.751508"
-  },
-  {
-    "id": "f30fa71fb9397b49ccc374efb95a8bfc",
-    "categorie": "Beursnieuws",
-    "titel": "Databedrijven aan kop in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/856590/Databedrijven-aan-kop-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs is woensdag met een half procent verlies van start gegaan.",
-    "published_at": "2026-03-11 09:15",
-    "scraped_at": "2026-03-11T11:51:35.751508"
-  },
-  {
-    "id": "3c51d2e7f2d7c48cd4a320bc67e4ab1f",
-    "categorie": "Beursnieuws",
-    "titel": "Wereldhave koopt supermarkt in Charleroi",
-    "link": "https://www.beurs.nl/Nieuws/856588/Wereldhave-koopt-supermarkt-in-Charleroi.aspx",
-    "intro": "Wereldhave heeft via Wereldhave Belgium een supermarkt gekocht in het winkelcentrum Ville2 in het Belgische Charleroi. Dit maakte het vastgoedbedrijf woensdagochtend bekend.",
-    "published_at": "2026-03-11 09:10",
-    "scraped_at": "2026-03-11T11:51:35.751508"
+    "scraped_at": "2026-03-11T13:05:46.888335"
   }
 ]
