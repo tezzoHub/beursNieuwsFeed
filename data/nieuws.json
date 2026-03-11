@@ -1,12 +1,39 @@
 [
   {
-    "id": "c84bc4f3d369812c72c04832ac8464a7",
+    "id": "6361dcf526ca69733c38adeb4b44480a",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: databedrijven aan kop in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/856590/Beursupdate-databedrijven-aan-kop-in-rode-AEX.aspx",
+    "titel": "Beursblik: update CVC zorgt voor teleurstelling",
+    "link": "https://www.beurs.nl/Nieuws/856598/Beursblik-update-CVC-zorgt-voor-teleurstelling.aspx",
+    "intro": "De kwartaalupdate van CVC Capital Partners zal beleggers vermoedelijk teleurstellen. Dit schreef analist Nicholas Herman van Citi Research woensdag in een rapport.",
+    "published_at": "2026-03-11 09:54",
+    "scraped_at": "2026-03-11T09:06:21.109556"
+  },
+  {
+    "id": "f63f91d8cbe9d58088d453283724c2f6",
+    "categorie": "Beursnieuws",
+    "titel": "Zara-eigenaar Inditex boekt omzetgroei",
+    "link": "https://www.beurs.nl/Nieuws/856596/Zara-eigenaar-Inditex-boekt-omzetgroei.aspx",
+    "intro": "Inditex heeft aan het begin van het fiscale jaar de omzetgroei zien aantrekken. Dit bleek woensdag uit een update van de eigenaar van Zara.",
+    "published_at": "2026-03-11 09:51",
+    "scraped_at": "2026-03-11T09:06:21.109556"
+  },
+  {
+    "id": "6d4177a494263d631aee0dea81e91a1e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: bemoedigende start van het jaar voor Basic-Fit",
+    "link": "https://www.beurs.nl/Nieuws/856593/Beursblik-bemoedigende-start-van-het-jaar-voor-Basic-Fit.aspx",
+    "intro": "Basic-Fit heeft een bemoedigende start van het nieuwe jaar achter de rug . Dit oordeelde analist Frank Claassen van Degroof Petercam woensdag in een rapport.",
+    "published_at": "2026-03-11 09:33",
+    "scraped_at": "2026-03-11T09:06:21.109556"
+  },
+  {
+    "id": "f30fa71fb9397b49ccc374efb95a8bfc",
+    "categorie": "Beursnieuws",
+    "titel": "Databedrijven aan kop in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/856590/Databedrijven-aan-kop-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs is woensdag met een half procent verlies van start gegaan.",
     "published_at": "2026-03-11 09:15",
-    "scraped_at": "2026-03-11T08:23:44.197333"
+    "scraped_at": "2026-03-11T09:06:21.109556"
   },
   {
     "id": "3c51d2e7f2d7c48cd4a320bc67e4ab1f",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856588/Wereldhave-koopt-supermarkt-in-Charleroi.aspx",
     "intro": "Wereldhave heeft via Wereldhave Belgium een supermarkt gekocht in het winkelcentrum Ville2 in het Belgische Charleroi. Dit maakte het vastgoedbedrijf woensdagochtend bekend.",
     "published_at": "2026-03-11 09:10",
-    "scraped_at": "2026-03-11T08:23:44.197333"
+    "scraped_at": "2026-03-11T09:06:21.109556"
   },
   {
     "id": "2a698f1e9fe7d1d49ff6f4b1fd743a84",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856587/Porsche-ziet-resultaten-onder-druk-staan.aspx",
     "intro": "De groepsomzet daalde in 2025 naar 36,3 miljard euro tegen 40,1 miljard euro in 2024.",
     "published_at": "2026-03-11 09:08",
-    "scraped_at": "2026-03-11T08:23:44.197333"
+    "scraped_at": "2026-03-11T09:06:21.109556"
   },
   {
     "id": "eeb6587409d0e3e931a993478afc6502",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856585/Wolters-Kluwer-draagt-CFO-Akzo-voor-als-commissaris.aspx",
     "intro": "Wolters Kluwer heeft Maarten de Vries voorgedragen als commissaris. Dit maakte het databedrijf woensdag bekend.",
     "published_at": "2026-03-11 08:58",
-    "scraped_at": "2026-03-11T08:23:44.197333"
+    "scraped_at": "2026-03-11T09:06:21.109556"
   },
   {
     "id": "d350853d8e2f1cb2b40ad5776dcfc108",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856579/CVC-boekt-recordresultaat.aspx",
     "intro": "CVC heeft in 2025 naar eigen zeggen sterk gepresteerd met recordresultaten. Dit bleek woensdag uit cijfers van de private equity-firma met een notering aan het Amsterdamse Damrak.",
     "published_at": "2026-03-11 08:33",
-    "scraped_at": "2026-03-11T08:23:44.197333"
+    "scraped_at": "2026-03-11T09:06:21.109556"
   },
   {
     "id": "cefa6a05e1294e397d7e120fb1526a8d",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Artikel/856544/AEX-indicatie-05-en-let-op-Basic-Fit-Rheinmetall-Oracle-en-inflatie-VS.aspx",
     "intro": "Openingsindicatie: -0,5%. Cijfers Basic-Fit, Envipco, Rheinmetall, Oracle en D'Ieteren. Olieprijs zet glijvlucht voort. Stoelendans op Beursplein 5. En vanmiddag Amerikaanse CPI.",
     "published_at": "2026-03-11 08:25",
-    "scraped_at": "2026-03-11T08:23:44.197333"
+    "scraped_at": "2026-03-11T09:06:21.109556"
   },
   {
     "id": "d69ff2680f87c7301135409cb7ccb7dc",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856576/Duitse-inflatie-inderdaad-gedaald.aspx",
     "intro": "De Duitse inflatie is in februari gedaald, conform een voorlopig meting. Dit bleek woensdag uit definitieve cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-03-11 08:21",
-    "scraped_at": "2026-03-11T08:23:44.197333"
-  },
-  {
-    "id": "ae6c3400c2804e121788a310107dc95a",
-    "categorie": "Beursnieuws",
-    "titel": "Licht lagere opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/856572/Licht-lagere-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een lagere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,4 procent in het rood. Dinsdag eindigde de hoofdgraadmeter nog 2,0 procent hoger op 1.002,42 punten.",
-    "published_at": "2026-03-11 08:09",
-    "scraped_at": "2026-03-11T08:23:44.197333"
-  },
-  {
-    "id": "d8ec0700f0e719a0a8abde8a2c290d94",
-    "categorie": "Beursnieuws",
-    "titel": "Basic-Fit ziet resultaten aantrekken",
-    "link": "https://www.beurs.nl/Nieuws/856566/Basic-Fit-ziet-resultaten-aantrekken.aspx",
-    "intro": "Basic-Fit heeft in 2025 de resultaten zien aantrekken. Dit bleek woensdag uit definitieve cijfers van de uitbater van fitnessclubs.",
-    "published_at": "2026-03-11 07:51",
-    "scraped_at": "2026-03-11T08:23:44.197333"
-  },
-  {
-    "id": "e35f1e0e275597001ee78ae8d95206ab",
-    "categorie": "Beursnieuws",
-    "titel": "Rheinmetall ziet orderboek naar recordniveau stijgen",
-    "link": "https://www.beurs.nl/Nieuws/856564/Rheinmetall-ziet-orderboek-naar-recordniveau-stijgen.aspx",
-    "intro": "Rheinmetall heeft in 2025 de omzet met bijna 30 procent zien stijgen, en met het orderboek op een recordniveau rekent de wapenfabrikant op een groeiversnelling in 2026. Dit bleek woensdag uit cijfers van de Duitse defensiespecialist.",
-    "published_at": "2026-03-11 07:45",
-    "scraped_at": "2026-03-11T08:23:44.197333"
+    "scraped_at": "2026-03-11T09:06:21.109556"
   }
 ]
