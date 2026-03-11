@@ -1,12 +1,21 @@
 [
   {
+    "id": "ac636fa06d4c9df5c62d940d10141458",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen doen stap terug",
+    "link": "https://www.beurs.nl/Nieuws/856633/Europese-beurzen-doen-stap-terug.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur lager.",
+    "published_at": "2026-03-11 11:57",
+    "scraped_at": "2026-03-11T11:51:35.751508"
+  },
+  {
     "id": "9478dfb64f0d1f862a4217877950ed89",
     "categorie": "Beursnieuws",
     "titel": "Income Fund of America groter in KPN",
     "link": "https://www.beurs.nl/Nieuws/856632/Income-Fund-of-America-groter-in-KPN.aspx",
     "intro": "Income Fund of America heeft een groter belang in KPN gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 6 maart 2026.",
     "published_at": "2026-03-11 11:54",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   },
   {
     "id": "b9aeb3d16d697d3df06879295f7ef948",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Artikel/856608/Binnenkort-bij-IEX-IEX-Pro.aspx",
     "intro": "Maak kennis met Grondstoffen Guru en In the Money: gespecialiseerde nieuwsbrieven gericht op markten waar grote kansen liggen, maar ook expertise nodig is om ze te benutten.",
     "published_at": "2026-03-11 11:10",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   },
   {
     "id": "ac9fd0d206deda0cf835df666aa8c071",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856612/CVC-onderuit-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend lager, met verliezen voor de halfgeleiders en CVC na cijfers.",
     "published_at": "2026-03-11 11:03",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   },
   {
     "id": "4860d75a78cd4804b3eeac1f2741f977",
@@ -33,7 +42,7 @@
     "link": "https://www.iex.nl/artikel/856586/Must-read-IEA-biedt-soelaas-met-recordvrijgave-olievoorraden.aspx",
     "intro": "Plus: Europeanen moet meer gaan investeren, oorlog in Iran raakt de Nederlandse export en het kabinet gaat wellicht ingrijpen bij de pomp",
     "published_at": "2026-03-11 10:45",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   },
   {
     "id": "6361dcf526ca69733c38adeb4b44480a",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856598/Beursblik-update-CVC-zorgt-voor-teleurstelling.aspx",
     "intro": "De kwartaalupdate van CVC Capital Partners zal beleggers vermoedelijk teleurstellen. Dit schreef analist Nicholas Herman van Citi Research woensdag in een rapport.",
     "published_at": "2026-03-11 09:54",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   },
   {
     "id": "f63f91d8cbe9d58088d453283724c2f6",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856596/Zara-eigenaar-Inditex-boekt-omzetgroei.aspx",
     "intro": "Inditex heeft aan het begin van het fiscale jaar de omzetgroei zien aantrekken. Dit bleek woensdag uit een update van de eigenaar van Zara.",
     "published_at": "2026-03-11 09:51",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   },
   {
     "id": "6d4177a494263d631aee0dea81e91a1e",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856593/Beursblik-bemoedigende-start-van-het-jaar-voor-Basic-Fit.aspx",
     "intro": "Basic-Fit heeft een bemoedigende start van het nieuwe jaar achter de rug . Dit oordeelde analist Frank Claassen van Degroof Petercam woensdag in een rapport.",
     "published_at": "2026-03-11 09:33",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   },
   {
     "id": "f30fa71fb9397b49ccc374efb95a8bfc",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856590/Databedrijven-aan-kop-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs is woensdag met een half procent verlies van start gegaan.",
     "published_at": "2026-03-11 09:15",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   },
   {
     "id": "3c51d2e7f2d7c48cd4a320bc67e4ab1f",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856588/Wereldhave-koopt-supermarkt-in-Charleroi.aspx",
     "intro": "Wereldhave heeft via Wereldhave Belgium een supermarkt gekocht in het winkelcentrum Ville2 in het Belgische Charleroi. Dit maakte het vastgoedbedrijf woensdagochtend bekend.",
     "published_at": "2026-03-11 09:10",
-    "scraped_at": "2026-03-11T11:04:16.162716"
-  },
-  {
-    "id": "2a698f1e9fe7d1d49ff6f4b1fd743a84",
-    "categorie": "Beursnieuws",
-    "titel": "Porsche ziet resultaten onder druk staan",
-    "link": "https://www.beurs.nl/Nieuws/856587/Porsche-ziet-resultaten-onder-druk-staan.aspx",
-    "intro": "De groepsomzet daalde in 2025 naar 36,3 miljard euro tegen 40,1 miljard euro in 2024.",
-    "published_at": "2026-03-11 09:08",
-    "scraped_at": "2026-03-11T11:04:16.162716"
+    "scraped_at": "2026-03-11T11:51:35.751508"
   }
 ]
