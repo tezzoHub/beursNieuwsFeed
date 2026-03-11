@@ -1,12 +1,21 @@
 [
   {
+    "id": "0ade27f2191f71f95f685512880e1cb4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/856720/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-03-11 21:18",
+    "scraped_at": "2026-03-11T20:36:32.857849"
+  },
+  {
     "id": "49d6a01ea16d6e3634d4399110a8ab59",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs sluit fors hoger",
     "link": "https://www.beurs.nl/Nieuws/856719/Olieprijs-sluit-fors-hoger.aspx",
     "intro": "De olieprijs is woensdag fors hoger gesloten, ondanks een grote vrijgave van vaten uit de mondiale oliereserve, terwijl het Amerikaans-Iraanse conflict om de controle van het olietransport via de Perzische Golf leek te escaleren.",
     "published_at": "2026-03-11 20:46",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   },
   {
     "id": "02a207617ac0a625ce1b3d98cb7b213b",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/856718/Oplopende-olieprijs-drukt-Wall-Street-in-het-rood.aspx",
     "intro": "De Amerikaanse aandelenbeurzen noteerden woensdag lager, terwijl de olieprijs weer opliep na signalen dat het Amerikaans-Iraanse conflict om de Perzische Golf escaleerde.",
     "published_at": "2026-03-11 20:11",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   },
   {
     "id": "551f07ec36c27e36c3dfbf133cb4d124",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856713/Europese-beurzen-sluiten-lager.aspx",
     "intro": "De Europese beurzen zijn woensdag lager gesloten, nadat zorgen over langdurig hogere energieprijzen de markt domineerden, terwijl het conflict in het Midden-Oosten voorlopig nog niet leek te bedaren.",
     "published_at": "2026-03-11 18:58",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   },
   {
     "id": "b5ddad9966f7b774cfdb39a37e3d6bd1",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856682/AEX-weet-1000-punten-net-vast-te-houden.aspx",
     "intro": "De Amsterdamse beurs is woensdag licht hoger gesloten en bleef daardoor net boven de 1.000 punten.",
     "published_at": "2026-03-11 17:45",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   },
   {
     "id": "fa02eac05621ac7b2152bc97b4484a74",
@@ -42,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/856681/Slotcall-een-onaangenaam-addertje-onder-het-gras-bij-Basic-Fit.aspx",
     "intro": "Even leek het de goede kant op te gaan, maar kort na de opleving zakte de AEX weer in het rood. Maar u raadt het niet: in de blessuretijd weet de AEX toch hoger te sluiten op 1.002,90 punten.",
     "published_at": "2026-03-11 17:35",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   },
   {
     "id": "4ca0dbcc95553e806338a63a5b23f45d",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856675/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 19 maart 2026:",
     "published_at": "2026-03-11 16:07",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   },
   {
     "id": "25c0e5c574d5b8721fdcd78f5e944d19",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856672/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 19 maart 2026:",
     "published_at": "2026-03-11 16:02",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   },
   {
     "id": "fefb242b16ff62d8ab54671bf2467d9f",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856673/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 19 maart 2026:",
     "published_at": "2026-03-11 16:02",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   },
   {
     "id": "af99db621beccf28728917320b4d7433",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856671/Amerikaanse-olievoorraden-nemen-toe.aspx",
     "intro": "(ABM FN-Dow Jones) De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-03-11 15:48",
-    "scraped_at": "2026-03-11T19:54:37.445898"
-  },
-  {
-    "id": "4da3e3bcbe8058a794228778d09b84dc",
-    "categorie": "Beursnieuws",
-    "titel": "IEA kondigt grootste vrijgave uit oliereserves aan",
-    "link": "https://www.beurs.nl/Nieuws/856666/IEA-kondigt-grootste-vrijgave-uit-oliereserves-aan.aspx",
-    "intro": "Het Internationaal Energieagentschap (IEA) heeft besloten om 400 miljoen vaten olie vrij te geven uit de strategische olievoorraden van de 30 aangesloten landen. Niet eerder werden er zoveel vaten olie vrijgegeven. Dit maakte de organisatie woensdagmiddag bekend.",
-    "published_at": "2026-03-11 15:27",
-    "scraped_at": "2026-03-11T19:54:37.445898"
+    "scraped_at": "2026-03-11T20:36:32.857849"
   }
 ]
