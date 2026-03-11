@@ -1,12 +1,21 @@
 [
   {
+    "id": "551f07ec36c27e36c3dfbf133cb4d124",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten lager",
+    "link": "https://www.beurs.nl/Nieuws/856713/Europese-beurzen-sluiten-lager.aspx",
+    "intro": "De Europese beurzen zijn woensdag lager gesloten, nadat zorgen over langdurig hogere energieprijzen de markt domineerden, terwijl het conflict in het Midden-Oosten voorlopig nog niet leek te bedaren.",
+    "published_at": "2026-03-11 18:58",
+    "scraped_at": "2026-03-11T18:07:23.375302"
+  },
+  {
     "id": "b5ddad9966f7b774cfdb39a37e3d6bd1",
     "categorie": "Beursnieuws",
     "titel": "AEX weet 1.000 punten net vast te houden",
     "link": "https://www.beurs.nl/Nieuws/856682/AEX-weet-1000-punten-net-vast-te-houden.aspx",
     "intro": "De Amsterdamse beurs is woensdag licht hoger gesloten en bleef daardoor net boven de 1.000 punten.",
     "published_at": "2026-03-11 17:45",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   },
   {
     "id": "fa02eac05621ac7b2152bc97b4484a74",
@@ -15,7 +24,7 @@
     "link": "https://www.iex.nl/artikel/856681/Slotcall-een-onaangenaam-addertje-onder-het-gras-bij-Basic-Fit.aspx",
     "intro": "Even leek het de goede kant op te gaan, maar kort na de opleving zakte de AEX weer in het rood. Maar u raadt het niet: in de blessuretijd weet de AEX toch hoger te sluiten op 1.002,90 punten.",
     "published_at": "2026-03-11 17:35",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   },
   {
     "id": "4ca0dbcc95553e806338a63a5b23f45d",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856675/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 19 maart 2026:",
     "published_at": "2026-03-11 16:07",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   },
   {
     "id": "25c0e5c574d5b8721fdcd78f5e944d19",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856672/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 19 maart 2026:",
     "published_at": "2026-03-11 16:02",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   },
   {
     "id": "fefb242b16ff62d8ab54671bf2467d9f",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856673/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 19 maart 2026:",
     "published_at": "2026-03-11 16:02",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   },
   {
     "id": "af99db621beccf28728917320b4d7433",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856671/Amerikaanse-olievoorraden-nemen-toe.aspx",
     "intro": "(ABM FN-Dow Jones) De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-03-11 15:48",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   },
   {
     "id": "4da3e3bcbe8058a794228778d09b84dc",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856666/IEA-kondigt-grootste-vrijgave-uit-oliereserves-aan.aspx",
     "intro": "Het Internationaal Energieagentschap (IEA) heeft besloten om 400 miljoen vaten olie vrij te geven uit de strategische olievoorraden van de 30 aangesloten landen. Niet eerder werden er zoveel vaten olie vrijgegeven. Dit maakte de organisatie woensdagmiddag bekend.",
     "published_at": "2026-03-11 15:27",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   },
   {
     "id": "36dc496c7aced8b19a4e2f99e6092a3c",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856663/Beursblik-DSM-Firmenich-moet-beleggers-overtuigen.aspx",
     "intro": "Voor DSM-Firmenich staat donderdag een belangrijke bijeenkomst voor institutionele beleggers en analisten op de agenda.",
     "published_at": "2026-03-11 15:10",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   },
   {
     "id": "dd98522bf81fe5e9b06cced29aa0f961",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856660/OPEC-handhaaft-verwachtingen-olievraag.aspx",
     "intro": "OPEC heeft de verwachtingen voor de olievraag dit jaar gehandhaafd. Dit bleek woensdag uit het maandrapport van OPEC.",
     "published_at": "2026-03-11 14:47",
-    "scraped_at": "2026-03-11T17:14:43.691810"
-  },
-  {
-    "id": "7642ff518a16463ca152bd7216f944ee",
-    "categorie": "Beursnieuws",
-    "titel": "Licht lagere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/856653/Licht-lagere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een licht lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,3 procent in het rood. Ditzelfde geldt voor de Nasdaq.",
-    "published_at": "2026-03-11 13:59",
-    "scraped_at": "2026-03-11T17:14:43.691810"
+    "scraped_at": "2026-03-11T18:07:23.375302"
   }
 ]
