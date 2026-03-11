@@ -1,12 +1,66 @@
 [
   {
+    "id": "154bb8023b249eef8ba6c1119add39cf",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent waarschijnlijk lager en let op Basic-Fit, Rheinmetall, Oracle en inflatie VS",
+    "link": "https://www.beurs.nl/Artikel/856544/AEX-opent-waarschijnlijk-lager-en-let-op-Basic-Fit-Rheinmetall-Oracle-en-inflatie-VS.aspx",
+    "intro": "Openingsindicatie: -0,5%. Cijfers Basic-Fit, Envipco, Rheinmetall, Oracle en D'Ieteren. Olieprijs zet glijvlucht voort. Stoelendans op Beursplein 5. En vanmiddag Amerikaanse CPI.",
+    "published_at": "2026-03-11 08:25",
+    "scraped_at": "2026-03-11T07:33:40.439674"
+  },
+  {
+    "id": "d69ff2680f87c7301135409cb7ccb7dc",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse inflatie inderdaad gedaald",
+    "link": "https://www.beurs.nl/Nieuws/856576/Duitse-inflatie-inderdaad-gedaald.aspx",
+    "intro": "De Duitse inflatie is in februari gedaald, conform een voorlopig meting. Dit bleek woensdag uit definitieve cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-03-11 08:21",
+    "scraped_at": "2026-03-11T07:33:40.439674"
+  },
+  {
+    "id": "ae6c3400c2804e121788a310107dc95a",
+    "categorie": "Beursnieuws",
+    "titel": "Licht lagere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/856572/Licht-lagere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een lagere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,4 procent in het rood. Dinsdag eindigde de hoofdgraadmeter nog 2,0 procent hoger op 1.002,42 punten.",
+    "published_at": "2026-03-11 08:09",
+    "scraped_at": "2026-03-11T07:33:40.439674"
+  },
+  {
+    "id": "d8ec0700f0e719a0a8abde8a2c290d94",
+    "categorie": "Beursnieuws",
+    "titel": "Basic-Fit ziet resultaten aantrekken",
+    "link": "https://www.beurs.nl/Nieuws/856566/Basic-Fit-ziet-resultaten-aantrekken.aspx",
+    "intro": "Basic-Fit heeft in 2025 de resultaten zien aantrekken. Dit bleek woensdag uit definitieve cijfers van de uitbater van fitnessclubs.",
+    "published_at": "2026-03-11 07:51",
+    "scraped_at": "2026-03-11T07:33:40.439674"
+  },
+  {
+    "id": "e35f1e0e275597001ee78ae8d95206ab",
+    "categorie": "Beursnieuws",
+    "titel": "Rheinmetall ziet orderboek naar recordniveau stijgen",
+    "link": "https://www.beurs.nl/Nieuws/856564/Rheinmetall-ziet-orderboek-naar-recordniveau-stijgen.aspx",
+    "intro": "Rheinmetall heeft in 2025 de omzet met bijna 30 procent zien stijgen, en met het orderboek op een recordniveau rekent de wapenfabrikant op een groeiversnelling in 2026. Dit bleek woensdag uit cijfers van de Duitse defensiespecialist.",
+    "published_at": "2026-03-11 07:45",
+    "scraped_at": "2026-03-11T07:33:40.439674"
+  },
+  {
     "id": "ff6c99c73e085c226fe46f80df41d18b",
     "categorie": "Beursnieuws",
     "titel": "Winst op Aziatische beurzen",
     "link": "https://www.beurs.nl/Nieuws/856557/Winst-op-Aziatische-beurzen.aspx",
     "intro": "De Aziatische beurzen koersten woensdag in het groen.",
     "published_at": "2026-03-11 07:25",
-    "scraped_at": "2026-03-11T06:34:42.827027"
+    "scraped_at": "2026-03-11T07:33:40.439674"
+  },
+  {
+    "id": "674480c5a89bc424703c1fe30341e235",
+    "categorie": "Beursnieuws",
+    "titel": "Omzetdaling Envipco verder versneld",
+    "link": "https://www.beurs.nl/Nieuws/856554/Omzetdaling-Envipco-verder-versneld.aspx",
+    "intro": "Envipco heeft in het vierde kwartaal van 2025 zowel de omzet als de winstgevendheid zien afnemen. Dit bleek woensdag voorbeurs uit de kwartaalcijfers van de leverancier van recyclingsystemen en statiegeldautomaten.",
+    "published_at": "2026-03-11 07:17",
+    "scraped_at": "2026-03-11T07:33:40.439674"
   },
   {
     "id": "2b9c63746fe3bd69807a9f25c1c10c73",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856553/Europese-beurzen-openen-lager.aspx",
     "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet, waarbij beleggers vooral letten op de olieprijs en of er hulp komt in de vorm van het vrijgeven van strategische reserves.",
     "published_at": "2026-03-11 07:01",
-    "scraped_at": "2026-03-11T06:34:42.827027"
+    "scraped_at": "2026-03-11T07:33:40.439674"
   },
   {
     "id": "79a74d9816c2f7bc4446bb1fe883829f",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856551/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 maart 2026:",
     "published_at": "2026-03-11 06:53",
-    "scraped_at": "2026-03-11T06:34:42.827027"
+    "scraped_at": "2026-03-11T07:33:40.439674"
   },
   {
     "id": "d33b1a45f6096461b18d49e77920bee7",
@@ -33,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856549/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 maart 2026:",
     "published_at": "2026-03-11 06:52",
-    "scraped_at": "2026-03-11T06:34:42.827027"
-  },
-  {
-    "id": "c4c35bfebf58d677bf146b98c1c33d0c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/856548/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 18 maart 2026:",
-    "published_at": "2026-03-11 06:51",
-    "scraped_at": "2026-03-11T06:34:42.827027"
+    "scraped_at": "2026-03-11T07:33:40.439674"
   }
 ]
