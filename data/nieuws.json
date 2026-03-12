@@ -1,12 +1,39 @@
 [
   {
+    "id": "04ee11aff003ab6544b9ebb8bdc1802f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: KBC Securities zet Wereldhave op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/856792/Beursblik-KBC-Securities-zet-Wereldhave-op-de-kooplijst.aspx",
+    "intro": "KBC Securities is donderdag gestart met het volgen van Wereldhave met een Accumuleren advies en een koersdoel van 23,00 euro. Dit bleek uit een analistenrapport van de bank.",
+    "published_at": "2026-03-12 09:56",
+    "scraped_at": "2026-03-12T09:29:38.188054"
+  },
+  {
+    "id": "35bc5c9bac7153bcac92b839a51456aa",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: outlook DSM-Firmenich verrast niet",
+    "link": "https://www.beurs.nl/Nieuws/856789/Beursblik-outlook-DSM-Firmenich-verrast-niet.aspx",
+    "intro": "De outlook van DSM-Firmenich voor 2026 leverde geen verrassingen op. Dit stelde analist Fernand de Boer van Degroof Petercam donderdag in een rapport.",
+    "published_at": "2026-03-12 09:52",
+    "scraped_at": "2026-03-12T09:29:38.188054"
+  },
+  {
+    "id": "a55e4a160d5edc349ad1029201827c32",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: KBC Securities zet Aalberts op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/856786/Beursblik-KBC-Securities-zet-Aalberts-op-de-kooplijst.aspx",
+    "intro": "KBC Securities heeft donderdag het advies voor Aalberts verhoogd van Houden naar Accumuleren, terwijl het koersdoel van 33,00 naar 39,00 euro ging. Dit bleek uit een analistenrapport van de bank.",
+    "published_at": "2026-03-12 09:28",
+    "scraped_at": "2026-03-12T09:29:38.188054"
+  },
+  {
     "id": "32d7d41940236052f81ebc1d3868721f",
     "categorie": "Beursnieuws",
     "titel": "AEX lager van start gegaan",
     "link": "https://www.beurs.nl/Nieuws/856782/AEX-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong 0,4 procent lager op 998,86 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
     "published_at": "2026-03-12 09:16",
-    "scraped_at": "2026-03-12T08:26:12.818831"
+    "scraped_at": "2026-03-12T09:29:38.188054"
   },
   {
     "id": "500eb49cd74d040b06a9178bdd172918",
@@ -15,7 +42,16 @@
     "link": "https://www.beurs.nl/Nieuws/856780/Worldline-en-ABN-AMRO-breiden-samenwerking-uit.aspx",
     "intro": "Worldline en ABN AMRO breiden hun samenwerking uit. Dit maakten de twee bedrijven donderdag bekend.",
     "published_at": "2026-03-12 09:11",
-    "scraped_at": "2026-03-12T08:26:12.818831"
+    "scraped_at": "2026-03-12T09:29:38.188054"
+  },
+  {
+    "id": "836a758f1ea3edddd04c8647887ace08",
+    "categorie": "Beursnieuws",
+    "titel": "BMW verwacht dat kosten en importheffingen de winst blijven drukken",
+    "link": "https://www.beurs.nl/Nieuws/856777/BMW-verwacht-dat-kosten-en-importheffingen-de-winst-blijven-drukken.aspx",
+    "intro": "BMW verwacht dat de winst dit jaar zal teruglopen, door importheffingen, hogere grondstofkosten en maatregelen om de activiteiten in China te stabiliseren. Dit bleek donderdag uit een update van de Duitse autobouwer.",
+    "published_at": "2026-03-12 09:07",
+    "scraped_at": "2026-03-12T09:29:38.188054"
   },
   {
     "id": "7d1d6d81c0d284e9abe4808929f41271",
@@ -24,16 +60,16 @@
     "link": "https://www.beurs.nl/Nieuws/856778/RWE-gaat-fors-groen-investeren-in-de-VS.aspx",
     "intro": "RWE wil de komende jaren 35 miljard euro investeren, waarvan bijna de helft in de VS. Dit maakte het Duitse energiebedrijf donderdag bekend, bij de publicatie van de resultaten in 2025.",
     "published_at": "2026-03-12 09:03",
-    "scraped_at": "2026-03-12T08:26:12.818831"
+    "scraped_at": "2026-03-12T09:29:38.188054"
   },
   {
-    "id": "ec627aacc2cc919cb994a81f747a45d8",
+    "id": "aa792deaf35ce505ee984a4c5f5399b9",
     "categorie": "IEX Nieuws",
-    "titel": "Box-3: Hoe belasten andere Europese landen vermogen?",
-    "link": "https://www.iex.nl/artikel/856668/Box-3-Hoe-belasten-andere-Europese-landen-vermogen.aspx",
-    "intro": "In een land waar het bijna een nationale gewoonte is om bij de woonkamers van je buurtbewoners naar binnen te kijken, willen we ook graag weten hoe de buren het doen op het gebied van vermogensbelasting.",
+    "titel": "Box 3: hoe belasten andere Europese landen vermogen?",
+    "link": "https://www.iex.nl/artikel/856668/Box-3-hoe-belasten-andere-Europese-landen-vermogen.aspx",
+    "intro": "In een land waar het bijna een nationale gewoonte is om in de woonkamers van je buurtgenoten naar binnen te kijken, willen we ook graag weten hoe de buren het doen op het gebied van vermogensbelasting.",
     "published_at": "2026-03-12 09:00",
-    "scraped_at": "2026-03-12T08:26:12.818831"
+    "scraped_at": "2026-03-12T09:29:38.188054"
   },
   {
     "id": "2de68ca480fddd1ba3f9568b3daafbcb",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856775/Beursblik-Pharming-positief-over-vooruitzichten-voor-Ruconest.aspx",
     "intro": "Pharming heeft met de outlook voor 2026 vertrouwen getoond in Ruconest. Dit oordeelden analisten van zakenbank Jefferies donderdag in een rapport.",
     "published_at": "2026-03-12 08:56",
-    "scraped_at": "2026-03-12T08:26:12.818831"
+    "scraped_at": "2026-03-12T09:29:38.188054"
   },
   {
     "id": "22a843b15836791c30446d3fda83d21c",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856765/Berenberg-verhoogt-koersdoel-Basic-Fit-stevig.aspx",
     "intro": "Berenberg heeft donderdag het koersdoel voor Basic-Fit verhoogd van 21,00 naar 29,50 euro, maar met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-03-12 08:12",
-    "scraped_at": "2026-03-12T08:26:12.818831"
-  },
-  {
-    "id": "8c532f4c817dbb39c5c316c0aa6412fe",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag vermoedelijk in het rood nu olieprijzen blijven stijgen",
-    "link": "https://www.beurs.nl/Nieuws/856761/AEX-start-handelsdag-vermoedelijk-in-het-rood-nu-olieprijzen-blijven-stijgen.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag naar verwachting een lagere opening tegemoet. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,4 procent.",
-    "published_at": "2026-03-12 08:05",
-    "scraped_at": "2026-03-12T08:26:12.818831"
-  },
-  {
-    "id": "17f83e825d04e9978013b1161d09da5e",
-    "categorie": "Beursnieuws",
-    "titel": "Triodos boekt verlies en slaat slotdividend over",
-    "link": "https://www.beurs.nl/Nieuws/856758/Triodos-boekt-verlies-en-slaat-slotdividend-over.aspx",
-    "intro": "Triodos Bank heeft in 2025 verlies geleden, door eenmalige voorzieningen. Dit bleek donderdag uit cijfers van de bank.",
-    "published_at": "2026-03-12 07:56",
-    "scraped_at": "2026-03-12T08:26:12.818831"
-  },
-  {
-    "id": "3c1792980ad14fdd44df881a13e854f8",
-    "categorie": "Beursnieuws",
-    "titel": "Fastned haalt €32 miljoen op",
-    "link": "https://www.beurs.nl/Nieuws/856754/Fastned-haalt-32-miljoen-op.aspx",
-    "intro": "Fastned heeft met de uitgifte van obligaties meer dan €32 miljoen opgehaald bij duizenden particuliere investeerders in Nederland en België. Dit maakte het snellaadbedrijf donderdagochtend bekend.",
-    "published_at": "2026-03-12 07:34",
-    "scraped_at": "2026-03-12T08:26:12.818831"
-  },
-  {
-    "id": "1ac39854cc90450b6c3a18c7d1b3eb1d",
-    "categorie": "Beursnieuws",
-    "titel": "DSM-Firmenich rekent op omzetgroei dit jaar",
-    "link": "https://www.beurs.nl/Nieuws/856752/DSM-Firmenich-rekent-op-omzetgroei-dit-jaar.aspx",
-    "intro": "DSM-Firmenich verwacht dat de omzet dit jaar zal groeien, terwijl de marge iets aantrekt. Dit meldde het bedrijf donderdag in aanloop naar een bijeenkomst voor analisten en institutionele beleggers in Londen.",
-    "published_at": "2026-03-12 07:27",
-    "scraped_at": "2026-03-12T08:26:12.818831"
+    "scraped_at": "2026-03-12T09:29:38.188054"
   }
 ]
