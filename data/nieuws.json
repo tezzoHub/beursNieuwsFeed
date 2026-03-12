@@ -1,12 +1,21 @@
 [
   {
+    "id": "e6666feff22b044ab3fb929389018996",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeelhouders Allfunds stemmen in met overname door Deutsche Börse",
+    "link": "https://www.beurs.nl/Nieuws/856841/Aandeelhouders-Allfunds-stemmen-in-met-overname-door-Deutsche-Borse.aspx",
+    "intro": "De aandeelhouders van Allfunds hebben donderdag goedkeuring gegeven voor de overname door Deutsche Börse. Dit meldde de Duitse beursuitbater vanmiddag.",
+    "published_at": "2026-03-12 14:42",
+    "scraped_at": "2026-03-12T14:52:03.085111"
+  },
+  {
     "id": "2b40fb9043ca07ee43b502f74917f468",
     "categorie": "Beursnieuws",
     "titel": "Lagere opening Wall Street voorzien",
     "link": "https://www.beurs.nl/Nieuws/856836/Lagere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening 0,7 procent in het rood.",
     "published_at": "2026-03-12 14:04",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   },
   {
     "id": "f7932cf95cabe62d621e5393365e2357",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/856834/Minder-Amerikaanse-bouwvergunningen-afgegeven.aspx",
     "intro": "Het aantal afgegeven bouwvergunningen in de Verenigde Staten is in januari sterk gedaald, terwijl het aantal in aanbouw genomen woningen juist fors steeg. Dit bleek donderdag uit overheidscijfers.",
     "published_at": "2026-03-12 13:48",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   },
   {
     "id": "f8623803a9b8406ea10e0018d3f33799",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856833/Tekort-Amerikaanse-handelsbalans-daalt.aspx",
     "intro": "Het tekort op de Amerikaanse handelsbalans is in januari gedaald, doordat de export steeg en de import daalde. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van handel.",
     "published_at": "2026-03-12 13:42",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   },
   {
     "id": "7a9aef7d26d4719b76e78fa6b5f4a368",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856832/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-03-12 13:39",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   },
   {
     "id": "6ae635fa4c3364109827b85319bfcb6e",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856826/Turkse-centrale-bank-handhaaft-rente.aspx",
     "intro": "De Turkse centrale bank heeft donderdag de rente gehandhaafd. Dit bleek uit het rentebesluit van de monetaire instelling.",
     "published_at": "2026-03-12 13:15",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   },
   {
     "id": "2c95fc14bb2739fb0f95161e236abbdd",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856825/Dollar-General-boekt-meer-winst-en-omzet.aspx",
     "intro": "Dollar General heeft in het vierde kwartaal een hogere winst en omzet geboekt, dankzij een toename van het aantal klanten en maatregelen om de winstgevendheid op te krikken. De omzetgroei zal dit jaar wel flink vertragen. Dit bleek donderdag uit cijfers van de Amerikaanse discounter.",
     "published_at": "2026-03-12 13:02",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   },
   {
     "id": "42aace6069d410723c2133e081da953e",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856820/Wall-Street-staat-lagere-opening-te-wachten.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,5 procent in het rood.",
     "published_at": "2026-03-12 12:43",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   },
   {
     "id": "04e4404bdbf0b6b47be2f1776fa0762f",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856815/Update-Beursblik-nieuwe-outlook-CVC-is-realistisch.aspx",
     "intro": "De verlaagde verwachtingen van CVC Capital zien er realistisch uit en zijn eerder een gevolg van een uitdagender marktklimaat dan van een zwakker bedrijfsmodel. Dat stelden analisten van Citigroup in een rapport.",
     "published_at": "2026-03-12 12:35",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   },
   {
     "id": "be3cccf7c13aa780f0102b0c7861b110",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856818/Europese-beurzen-dalen-op-oliecrisis.aspx",
     "intro": "De Europese beurzen noteerden donderdag rond het middaguur lager, nadat de IEA zijn verwachtingen voor het olieaanbod fors verlaagde en de olieprijs weer even boven 100 dollar steeg.",
     "published_at": "2026-03-12 12:27",
-    "scraped_at": "2026-03-12T13:51:08.861521"
-  },
-  {
-    "id": "2e1ddf19a8c793e9c601d27c49b85bac",
-    "categorie": "Beursnieuws",
-    "titel": "Zalando koopt eigen aandelen in",
-    "link": "https://www.beurs.nl/Nieuws/856817/Zalando-koopt-eigen-aandelen-in.aspx",
-    "intro": "Zalando heeft donderdag een positieve outlook afgegeven en gaat eigen aandelen inkopen. Dit maakte de Duitse e-commercereus donderdag bekend.",
-    "published_at": "2026-03-12 12:07",
-    "scraped_at": "2026-03-12T13:51:08.861521"
+    "scraped_at": "2026-03-12T14:52:03.085111"
   }
 ]
