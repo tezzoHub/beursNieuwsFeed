@@ -1,12 +1,75 @@
 [
   {
+    "id": "8c532f4c817dbb39c5c316c0aa6412fe",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsdag vermoedelijk in het rood nu olieprijzen blijven stijgen",
+    "link": "https://www.beurs.nl/Nieuws/856761/AEX-start-handelsdag-vermoedelijk-in-het-rood-nu-olieprijzen-blijven-stijgen.aspx",
+    "intro": "De Amsterdamse beurs gaat donderdag naar verwachting een lagere opening tegemoet. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,4 procent.",
+    "published_at": "2026-03-12 08:05",
+    "scraped_at": "2026-03-12T07:26:35.783510"
+  },
+  {
+    "id": "17f83e825d04e9978013b1161d09da5e",
+    "categorie": "Beursnieuws",
+    "titel": "Triodos boekt verlies en slaat slotdividend over",
+    "link": "https://www.beurs.nl/Nieuws/856758/Triodos-boekt-verlies-en-slaat-slotdividend-over.aspx",
+    "intro": "Triodos Bank heeft in 2025 verlies geleden, door eenmalige voorzieningen. Dit bleek donderdag uit cijfers van de bank.",
+    "published_at": "2026-03-12 07:56",
+    "scraped_at": "2026-03-12T07:26:35.783510"
+  },
+  {
+    "id": "3c1792980ad14fdd44df881a13e854f8",
+    "categorie": "Beursnieuws",
+    "titel": "Fastned haalt €32 miljoen op",
+    "link": "https://www.beurs.nl/Nieuws/856754/Fastned-haalt-32-miljoen-op.aspx",
+    "intro": "Fastned heeft met de uitgifte van obligaties meer dan €32 miljoen opgehaald bij duizenden particuliere investeerders in Nederland en België. Dit maakte het snellaadbedrijf donderdagochtend bekend.",
+    "published_at": "2026-03-12 07:34",
+    "scraped_at": "2026-03-12T07:26:35.783510"
+  },
+  {
+    "id": "1ac39854cc90450b6c3a18c7d1b3eb1d",
+    "categorie": "Beursnieuws",
+    "titel": "DSM-Firmenich rekent op omzetgroei dit jaar",
+    "link": "https://www.beurs.nl/Nieuws/856752/DSM-Firmenich-rekent-op-omzetgroei-dit-jaar.aspx",
+    "intro": "DSM-Firmenich verwacht dat de omzet dit jaar zal groeien, terwijl de marge iets aantrekt. Dit meldde het bedrijf donderdag in aanloop naar een bijeenkomst voor analisten en institutionele beleggers in Londen.",
+    "published_at": "2026-03-12 07:27",
+    "scraped_at": "2026-03-12T07:26:35.783510"
+  },
+  {
+    "id": "183da992871b3bfab7c0fe90adf33fec",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen onder druk door oplopende olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/856751/Aziatische-beurzen-onder-druk-door-oplopende-olieprijs.aspx",
+    "intro": "De Aziatische beurzen koersten donderdagochtend over de brede linie in het rood. Daarbij waren de hoofdindices in Tokio, Sydney en Hongkong de grootste dalers, met verliezen tot anderhalf procent.",
+    "published_at": "2026-03-12 07:18",
+    "scraped_at": "2026-03-12T07:26:35.783510"
+  },
+  {
+    "id": "4011733a9717763afaf87beb4bdb25e3",
+    "categorie": "Beursnieuws",
+    "titel": "Pharming herhaalt outlook voor 2026",
+    "link": "https://www.beurs.nl/Nieuws/856750/Pharming-herhaalt-outlook-voor-2026.aspx",
+    "intro": "Pharming heeft in 2025 conform de voorlopige cijfers gepresteerd en herhaalde de outlook voor 2026. Dit bleek donderdag uit cijfers van het biotechbedrijf.",
+    "published_at": "2026-03-12 07:13",
+    "scraped_at": "2026-03-12T07:26:35.783510"
+  },
+  {
+    "id": "c2652d9d58531e9471aaa201979ee846",
+    "categorie": "Beursnieuws",
+    "titel": "Minder faillissementen in februari",
+    "link": "https://www.beurs.nl/Nieuws/856749/Minder-faillissementen-in-februari.aspx",
+    "intro": "In februari zijn er op jaarbasis 15 procent minder bedrijven failliet verklaard. Dit bleek donderdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-03-12 07:09",
+    "scraped_at": "2026-03-12T07:26:35.783510"
+  },
+  {
     "id": "d98f20ce4ed3f6dad9297c88d15f79c6",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen openen in het rood",
     "link": "https://www.beurs.nl/Nieuws/856745/Europese-beurzen-openen-in-het-rood.aspx",
     "intro": "De Europese beurzen gaan donderdag een rode opening tegemoet, terwijl een vat Brent inmiddels weer circa 100 dollar kost.",
     "published_at": "2026-03-12 06:56",
-    "scraped_at": "2026-03-12T06:00:21.693364"
+    "scraped_at": "2026-03-12T07:26:35.783510"
   },
   {
     "id": "feae9de9f3472ca216e96e6709c869fb",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856743/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 19 maart 2026:",
     "published_at": "2026-03-12 06:45",
-    "scraped_at": "2026-03-12T06:00:21.693364"
+    "scraped_at": "2026-03-12T07:26:35.783510"
   },
   {
     "id": "fd070d020abca3d279d2d9a150b83862",
@@ -24,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856742/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 19 maart 2026:",
     "published_at": "2026-03-12 06:44",
-    "scraped_at": "2026-03-12T06:00:21.693364"
-  },
-  {
-    "id": "8f797a9d8a6848c5f7e15bef6f0cbec3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/856741/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 19 maart 2026:",
-    "published_at": "2026-03-12 06:43",
-    "scraped_at": "2026-03-12T06:00:21.693364"
+    "scraped_at": "2026-03-12T07:26:35.783510"
   }
 ]
