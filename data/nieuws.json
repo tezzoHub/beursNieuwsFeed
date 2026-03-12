@@ -1,12 +1,57 @@
 [
   {
+    "id": "6ae635fa4c3364109827b85319bfcb6e",
+    "categorie": "Beursnieuws",
+    "titel": "Turkse centrale bank handhaaft rente",
+    "link": "https://www.beurs.nl/Nieuws/856826/Turkse-centrale-bank-handhaaft-rente.aspx",
+    "intro": "De Turkse centrale bank heeft donderdag de rente gehandhaafd. Dit bleek uit het rentebesluit van de monetaire instelling.",
+    "published_at": "2026-03-12 13:15",
+    "scraped_at": "2026-03-12T12:26:08.515043"
+  },
+  {
+    "id": "2c95fc14bb2739fb0f95161e236abbdd",
+    "categorie": "Beursnieuws",
+    "titel": "Dollar General boekt meer winst en omzet",
+    "link": "https://www.beurs.nl/Nieuws/856825/Dollar-General-boekt-meer-winst-en-omzet.aspx",
+    "intro": "Dollar General heeft in het vierde kwartaal een hogere winst en omzet geboekt, dankzij een toename van het aantal klanten en maatregelen om de winstgevendheid op te krikken. De omzetgroei zal dit jaar wel flink vertragen. Dit bleek donderdag uit cijfers van de Amerikaanse discounter.",
+    "published_at": "2026-03-12 13:02",
+    "scraped_at": "2026-03-12T12:26:08.515043"
+  },
+  {
+    "id": "42aace6069d410723c2133e081da953e",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street staat lagere opening te wachten",
+    "link": "https://www.beurs.nl/Nieuws/856820/Wall-Street-staat-lagere-opening-te-wachten.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,5 procent in het rood.",
+    "published_at": "2026-03-12 12:43",
+    "scraped_at": "2026-03-12T12:26:08.515043"
+  },
+  {
     "id": "04e4404bdbf0b6b47be2f1776fa0762f",
     "categorie": "Beursnieuws",
     "titel": "Update: Beursblik: nieuwe outlook CVC is realistisch",
     "link": "https://www.beurs.nl/Nieuws/856815/Update-Beursblik-nieuwe-outlook-CVC-is-realistisch.aspx",
     "intro": "De verlaagde verwachtingen van CVC Capital zien er realistisch uit en zijn eerder een gevolg van een uitdagender marktklimaat dan van een zwakker bedrijfsmodel. Dat stelden analisten van Citigroup in een rapport.",
     "published_at": "2026-03-12 12:35",
-    "scraped_at": "2026-03-12T11:46:58.842412"
+    "scraped_at": "2026-03-12T12:26:08.515043"
+  },
+  {
+    "id": "be3cccf7c13aa780f0102b0c7861b110",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen dalen op oliecrisis",
+    "link": "https://www.beurs.nl/Nieuws/856818/Europese-beurzen-dalen-op-oliecrisis.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur lager, nadat de IEA zijn verwachtingen voor het olieaanbod fors verlaagde en de olieprijs weer even boven 100 dollar steeg.",
+    "published_at": "2026-03-12 12:27",
+    "scraped_at": "2026-03-12T12:26:08.515043"
+  },
+  {
+    "id": "2e1ddf19a8c793e9c601d27c49b85bac",
+    "categorie": "Beursnieuws",
+    "titel": "Zalando koopt eigen aandelen in",
+    "link": "https://www.beurs.nl/Nieuws/856817/Zalando-koopt-eigen-aandelen-in.aspx",
+    "intro": "Zalando heeft donderdag een positieve outlook afgegeven en gaat eigen aandelen inkopen. Dit maakte de Duitse e-commercereus donderdag bekend.",
+    "published_at": "2026-03-12 12:07",
+    "scraped_at": "2026-03-12T12:26:08.515043"
   },
   {
     "id": "0199062b2b4d8fc243190c0c580cb811",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856810/DSM-Firmenich-aan-kop-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagochtend licht lager. Rond de klok van half twaalf daalde de AEX met 0,2 procent tot 1.001,36 punten.",
     "published_at": "2026-03-12 11:35",
-    "scraped_at": "2026-03-12T11:46:58.842412"
+    "scraped_at": "2026-03-12T12:26:08.515043"
   },
   {
     "id": "ec321013d22911dcf387782ee7c75d4e",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856808/IEA-waarschuwt-voor-grootste-aanbodverstoring-ooit.aspx",
     "intro": "Het Internationaal Energieagentschap IEA heeft donderdag zijn prognose voor de groei van het olieaanbod verlaagd, een dag nadat werd aangekondigd dat er 400 miljoen vaten olie uit de noodreserves worden vrijgegeven vanwege de oorlog in het Midden-Oosten.",
     "published_at": "2026-03-12 11:25",
-    "scraped_at": "2026-03-12T11:46:58.842412"
+    "scraped_at": "2026-03-12T12:26:08.515043"
   },
   {
     "id": "c0b06e50714c85c651eb4715394b9ca1",
@@ -33,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/856667/Must-read-Een-60-40-portefeuille-of-de-Bucket-strategie.aspx",
     "intro": "Een belegger deed zelf de test. Plus: zo gedroeg olie zich bij de vorige geopolitieke crises, de EU omarmt de blockchain en Europese startups zwemmen in het geld.",
     "published_at": "2026-03-12 10:40",
-    "scraped_at": "2026-03-12T11:46:58.842412"
+    "scraped_at": "2026-03-12T12:26:08.515043"
   },
   {
     "id": "723055a11fc63944e1acb0ee705b654a",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856792/KBC-Securities-zet-Wereldhave-op-de-kooplijst.aspx",
     "intro": "KBC Securities is donderdag gestart met het volgen van Wereldhave met een Accumuleren advies en een koersdoel van 23,00 euro. Dit bleek uit een analistenrapport van de bank.",
     "published_at": "2026-03-12 09:56",
-    "scraped_at": "2026-03-12T11:46:58.842412"
-  },
-  {
-    "id": "35bc5c9bac7153bcac92b839a51456aa",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: outlook DSM-Firmenich verrast niet",
-    "link": "https://www.beurs.nl/Nieuws/856789/Beursblik-outlook-DSM-Firmenich-verrast-niet.aspx",
-    "intro": "De outlook van DSM-Firmenich voor 2026 leverde geen verrassingen op. Dit stelde analist Fernand de Boer van Degroof Petercam donderdag in een rapport.",
-    "published_at": "2026-03-12 09:52",
-    "scraped_at": "2026-03-12T11:46:58.842412"
-  },
-  {
-    "id": "a55e4a160d5edc349ad1029201827c32",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: KBC Securities zet Aalberts op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/856786/Beursblik-KBC-Securities-zet-Aalberts-op-de-kooplijst.aspx",
-    "intro": "KBC Securities heeft donderdag het advies voor Aalberts verhoogd van Houden naar Accumuleren, terwijl het koersdoel van 33,00 naar 39,00 euro ging. Dit bleek uit een analistenrapport van de bank.",
-    "published_at": "2026-03-12 09:28",
-    "scraped_at": "2026-03-12T11:46:58.842412"
-  },
-  {
-    "id": "32d7d41940236052f81ebc1d3868721f",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/856782/AEX-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 0,4 procent lager op 998,86 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
-    "published_at": "2026-03-12 09:16",
-    "scraped_at": "2026-03-12T11:46:58.842412"
-  },
-  {
-    "id": "500eb49cd74d040b06a9178bdd172918",
-    "categorie": "Beursnieuws",
-    "titel": "Worldline en ABN AMRO breiden samenwerking uit",
-    "link": "https://www.beurs.nl/Nieuws/856780/Worldline-en-ABN-AMRO-breiden-samenwerking-uit.aspx",
-    "intro": "Worldline en ABN AMRO breiden hun samenwerking uit. Dit maakten de twee bedrijven donderdag bekend.",
-    "published_at": "2026-03-12 09:11",
-    "scraped_at": "2026-03-12T11:46:58.842412"
-  },
-  {
-    "id": "836a758f1ea3edddd04c8647887ace08",
-    "categorie": "Beursnieuws",
-    "titel": "BMW verwacht dat kosten en importheffingen de winst blijven drukken",
-    "link": "https://www.beurs.nl/Nieuws/856777/BMW-verwacht-dat-kosten-en-importheffingen-de-winst-blijven-drukken.aspx",
-    "intro": "BMW verwacht dat de winst dit jaar zal teruglopen, door importheffingen, hogere grondstofkosten en maatregelen om de activiteiten in China te stabiliseren. Dit bleek donderdag uit een update van de Duitse autobouwer.",
-    "published_at": "2026-03-12 09:07",
-    "scraped_at": "2026-03-12T11:46:58.842412"
+    "scraped_at": "2026-03-12T12:26:08.515043"
   }
 ]
