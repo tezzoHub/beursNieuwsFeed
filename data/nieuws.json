@@ -1,12 +1,21 @@
 [
   {
+    "id": "55650679287f3c10cb4a4253341e90e7",
+    "categorie": "Beursnieuws",
+    "titel": "Opnieuw stijgende olieprijs drukt stemming op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/856879/Opnieuw-stijgende-olieprijs-drukt-stemming-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag duidelijk lager met nog anderhalf uur handel te gaan.",
+    "published_at": "2026-03-12 19:33",
+    "scraped_at": "2026-03-12T19:14:12.348766"
+  },
+  {
     "id": "4e09a40d28838b5265df22a39166c3cd",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen blijven nerveus over stijgende olieprijzen",
     "link": "https://www.beurs.nl/Nieuws/856878/Europese-beurzen-blijven-nerveus-over-stijgende-olieprijzen.aspx",
     "intro": "De Europese aandelenmarkten zijn donderdag lager geëindigd, terwijl de olieprijzen weer flink opliepen als gevolg van het aanhoudende conflict in het Midden-Oosten.",
     "published_at": "2026-03-12 18:44",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   },
   {
     "id": "5c4f16854b37c0bb3ab818d36f7c8537",
@@ -15,7 +24,7 @@
     "link": "https://www.iex.nl/artikel/856864/IEX-Slotcall-Stijging-olieprijs-duwt-Shell-naar-een-all-time-high.aspx",
     "intro": "",
     "published_at": "2026-03-12 18:00",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   },
   {
     "id": "ba645ad26606e103777deb8d5e0f1673",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856872/DSM-Firmenich-blinkt-uit-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs is donderdag licht lager gesloten, nadat de nieuwe outlook van DSM-Firmenich goed werd ontvangen, terwijl beleggers vooral gefocust bleven op het conflict in het Midden-Oosten en de opnieuw oplopende olieprijs.",
     "published_at": "2026-03-12 17:54",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   },
   {
     "id": "9be2b33c9562f7a34bcd7af4d9d90a4a",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/856868/Evonik-breidt-samenwerking-met-IMCD-uit.aspx",
     "intro": "Evonik breidt de samenwerking met IMCD uit op het gebied van speciale methacrylaten onder het label Visiomer. Dit maakte het Duitse speciaalchemiebedrijf donderdagmiddag bekend.",
     "published_at": "2026-03-12 17:36",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   },
   {
     "id": "57eef58ce15713a967e069da82d88a9c",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856863/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 20 maart 2026:",
     "published_at": "2026-03-12 16:19",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   },
   {
     "id": "fba10b9f592b4c00ab543d3b7cc6cd36",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856861/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 20 maart 2026:",
     "published_at": "2026-03-12 16:18",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   },
   {
     "id": "ab8203e68aaefb9ee6e1c51067a4937f",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856862/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 20 maart 2026:",
     "published_at": "2026-03-12 16:18",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   },
   {
     "id": "a502ae3871d70d7f434ece17c4d37102",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856858/Kunstmestaandelen-stijgen-snel-door-Iran-crisis.aspx",
     "intro": "Aandelen van grote producenten van kunstmest stegen donderdag sterk, op de vrees voor wereldwijde tekorten door een langdurige sluiting van de Straat van Hormuz.",
     "published_at": "2026-03-12 16:11",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   },
   {
     "id": "e6666feff22b044ab3fb929389018996",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856841/Aandeelhouders-Allfunds-stemmen-in-met-overname-door-Deutsche-Borse.aspx",
     "intro": "De aandeelhouders van Allfunds hebben donderdag goedkeuring gegeven voor de overname door Deutsche Börse. Dit meldde de Duitse beursuitbater vanmiddag.",
     "published_at": "2026-03-12 14:42",
-    "scraped_at": "2026-03-12T18:06:42.286124"
-  },
-  {
-    "id": "2b40fb9043ca07ee43b502f74917f468",
-    "categorie": "Beursnieuws",
-    "titel": "Lagere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/856836/Lagere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening 0,7 procent in het rood.",
-    "published_at": "2026-03-12 14:04",
-    "scraped_at": "2026-03-12T18:06:42.286124"
+    "scraped_at": "2026-03-12T19:14:12.348766"
   }
 ]
