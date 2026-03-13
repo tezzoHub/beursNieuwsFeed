@@ -1,12 +1,48 @@
 [
   {
+    "id": "e84628a49a08143ac5c3978d4c75b949",
+    "categorie": "Beursnieuws",
+    "titel": "Reuters: Overnamespeculatie rond Besi",
+    "link": "https://www.beurs.nl/Nieuws/856924/Reuters-Overnamespeculatierond-Besi.aspx",
+    "intro": "Verschillende partijen hebben interesse getoond in een overname van BE Semiconductor Industries. Dit meldde Reuters op basis van drie bronnen.",
+    "published_at": "2026-03-13 07:28",
+    "scraped_at": "2026-03-13T07:04:23.716547"
+  },
+  {
+    "id": "b282d697d3967130be8ac4e68058fa48",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen noteren lager",
+    "link": "https://www.beurs.nl/Nieuws/856925/Aziatische-beurzen-noteren-lager.aspx",
+    "intro": "De Aziatische beurzen gaven vrijdagochtend terrein prijs, maar de verliezen bleven beperkt tot ruim een procent voor de Japanse Nikkei index.",
+    "published_at": "2026-03-13 07:28",
+    "scraped_at": "2026-03-13T07:04:23.716547"
+  },
+  {
+    "id": "2f1578ebd31f43d4f6daeb2f9098f831",
+    "categorie": "Beursnieuws",
+    "titel": "Sif haalt eigen outlook in 2025",
+    "link": "https://www.beurs.nl/Nieuws/856922/Sif-haalt-eigen-outlook-in-2025.aspx",
+    "intro": "Sif heeft in 2025 meer geproduceerd dan in 2024 en wist zo de eigen outlook iets te overtreffen. Dit bleek vrijdag uit cijfers van de Roermondse funderingsspecialist.",
+    "published_at": "2026-03-13 07:13",
+    "scraped_at": "2026-03-13T07:04:23.716547"
+  },
+  {
+    "id": "0a95c6000a077666bd774dc8b9fe2911",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/856919/Europese-beurzen-openen-in-het-groen.aspx",
+    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet, na een lager slot op donderdag, toen de olieprijzen weer flink opliepen als gevolg van het aanhoudende conflict in het Midden-Oosten.",
+    "published_at": "2026-03-13 06:54",
+    "scraped_at": "2026-03-13T07:04:23.716547"
+  },
+  {
     "id": "9d66152a3abf578c8a0d559b6bb8c340",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/856916/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 20 maart 2026:",
     "published_at": "2026-03-13 06:46",
-    "scraped_at": "2026-03-13T05:56:53.926361"
+    "scraped_at": "2026-03-13T07:04:23.716547"
   },
   {
     "id": "57797fac9cc1a24d3bbcf353ebe2b61c",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856917/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 20 maart 2026:",
     "published_at": "2026-03-13 06:46",
-    "scraped_at": "2026-03-13T05:56:53.926361"
+    "scraped_at": "2026-03-13T07:04:23.716547"
   },
   {
     "id": "2a7bab6aac530d23a501aeef6ad21d16",
@@ -24,6 +60,6 @@
     "link": "https://www.beurs.nl/Nieuws/856918/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 20 maart 2026:",
     "published_at": "2026-03-13 06:46",
-    "scraped_at": "2026-03-13T05:56:53.926361"
+    "scraped_at": "2026-03-13T07:04:23.716547"
   }
 ]
