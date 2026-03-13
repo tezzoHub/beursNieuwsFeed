@@ -1,12 +1,21 @@
 [
   {
+    "id": "18fea16041c10adf22528219d8151e85",
+    "categorie": "Beursnieuws",
+    "titel": "Hoge olieprijzen wegen op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/856990/Hoge-olieprijzen-wegen-op-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen noteerden vrijdag rond het middaguur in het rood, hoewel de openingsverliezen wel wat terugliepen. De oorlog in het Midden-Oosten en hoge energieprijzen blijven drukken op het beleggerssentiment.",
+    "published_at": "2026-03-13 12:05",
+    "scraped_at": "2026-03-13T11:33:27.561631"
+  },
+  {
     "id": "a6a1811953ddf3bc83dbe17d08e051d4",
     "categorie": "Beursnieuws",
     "titel": "Besi uitblinker in lichtgroene AEX",
     "link": "https://www.beurs.nl/Nieuws/856979/Besi-uitblinker-in-lichtgroene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdag licht in het groen, geholpen door de koerswinsten voor Shell en Besi.",
     "published_at": "2026-03-13 11:31",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   },
   {
     "id": "4eb2e9c78fd9874bf2504a98cb098b2a",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/856964/Industriele-productie-eurozone-flink-gedaald.aspx",
     "intro": "De industriële productie in de eurozone is in januari flink gedaald. Dit bleek vrijdag uit voorlopige cijfers van Eurostat, het statistiekbureau van de EU.",
     "published_at": "2026-03-13 11:06",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   },
   {
     "id": "68ba31e73518dc9236fa799cc4893dab",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/856959/UBS-verlaagt-koersdoel-CVC-stevig.aspx",
     "intro": "UBS heeft vrijdag het koersdoel voor CVC Capital Partners stevig verlaagd, van 16,00 naar 12,50 euro, met een Neutraal advies. Dit bleek uit een rapport van analist Haley Tam.",
     "published_at": "2026-03-13 10:40",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   },
   {
     "id": "c996ff0dafcc051f40b363075c3691ff",
@@ -33,7 +42,7 @@
     "link": "https://www.iex.nl/artikel/856848/Must-read-Wereld-in-crisis-maar-goud-doet-niks.aspx",
     "intro": "Goud was altijd een veilige haven, maar de goudprijs doet nu weinig. Is dit toeval? Plus: recordvrijgave van olie lijkt de markt niet te kalmeren, beleggers gedwongen tot nieuwe strategieën en meer.",
     "published_at": "2026-03-13 10:00",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   },
   {
     "id": "210508fa87c12dd3521b3acb452eadaf",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856953/Franse-inflatie-stevig-omhoog.aspx",
     "intro": "De Franse inflatie is in februari sterk opgeveerd, na de daling in januari. Dit bleek vrijdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
     "published_at": "2026-03-13 09:56",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   },
   {
     "id": "9baf7834d5ceb4c4504e1f4c65f20a63",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856951/Overnamespeculatie-rond-stevig-gewaardeerd-Besi.aspx",
     "intro": "De overnamespeculatie rond BE Semiconductor Industries komt niet uit de lucht vallen. Dit stelde analist Michael Roeg van Degroof Petercam vrijdag in een rapport.",
     "published_at": "2026-03-13 09:46",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   },
   {
     "id": "30ad4ad10a946369d58424b322e4fe90",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/856946/Besi-blinkt-uit-op-rood-Damrak.aspx",
     "intro": "De AEX index koerste vrijdag kort an de beursgong 0,4 procent lager op 996,35 punten, terwijl de Midkap 0,7 procent prijs moest geven.",
     "published_at": "2026-03-13 09:15",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   },
   {
     "id": "9d8a76726a04e988c28bdd91cfdbf511",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856945/Deutsche-Bank-zet-CSG-op-Kopen.aspx",
     "intro": "Deutsche Bank is vrijdag gestart met het volgen van het Tsjechische defensiebedrijf CSG met een koopadvies en een koersdoel van 35,00 euro. Dit bleek uit een rapport van analist Sriram Krishnan.",
     "published_at": "2026-03-13 09:00",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   },
   {
     "id": "4bc3d42f558cc31d7d8f38aa74dbb4b1",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856943/Sif-stelt-nieuwe-CEO-voor.aspx",
     "intro": "Koen Bogers is voorgedragen om Fred van Beers per 1 augustus op te volgen als CEO van Sif. Dit maakte de Roermondse funderingsspecialist vrijdagochtend bekend, kort na de jaarcijfers.",
     "published_at": "2026-03-13 08:50",
-    "scraped_at": "2026-03-13T10:51:08.508595"
-  },
-  {
-    "id": "34647665a9737c79f0421546820019e9",
-    "categorie": "Beursnieuws",
-    "titel": "Britse economie komt tot stilstand",
-    "link": "https://www.beurs.nl/Nieuws/856939/Britse-economie-komt-tot-stilstand.aspx",
-    "intro": "De Britse economie heeft in januari een pas op de plaats gemaakt. Dit bleek vrijdag uit nieuwe cijfers van het Britse statistiekbureau.",
-    "published_at": "2026-03-13 08:16",
-    "scraped_at": "2026-03-13T10:51:08.508595"
+    "scraped_at": "2026-03-13T11:33:27.561631"
   }
 ]
