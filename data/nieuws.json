@@ -1,12 +1,48 @@
 [
   {
+    "id": "210508fa87c12dd3521b3acb452eadaf",
+    "categorie": "Beursnieuws",
+    "titel": "Franse inflatie stevig omhoog",
+    "link": "https://www.beurs.nl/Nieuws/856953/Franse-inflatie-stevig-omhoog.aspx",
+    "intro": "De Franse inflatie is in februari sterk opgeveerd, na de daling in januari. Dit bleek vrijdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-03-13 09:56",
+    "scraped_at": "2026-03-13T09:02:34.895089"
+  },
+  {
+    "id": "2c04737cb1b8e8750b703da79f207a4a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: overnamespeculatie rond stevig gewaardeerd Besi",
+    "link": "https://www.beurs.nl/Nieuws/856951/Beursblik-overnamespeculatie-rond-stevig-gewaardeerd-Besi.aspx",
+    "intro": "De overnamespeculatie rond BE Semiconductor Industries komt niet uit de lucht vallen. Dit stelde analist Michael Roeg van Degroof Petercam vrijdag in een rapport.",
+    "published_at": "2026-03-13 09:46",
+    "scraped_at": "2026-03-13T09:02:34.895089"
+  },
+  {
+    "id": "30ad4ad10a946369d58424b322e4fe90",
+    "categorie": "Beursnieuws",
+    "titel": "Besi blinkt uit op rood Damrak",
+    "link": "https://www.beurs.nl/Nieuws/856946/Besi-blinkt-uit-op-rood-Damrak.aspx",
+    "intro": "De AEX index koerste vrijdag kort an de beursgong 0,4 procent lager op 996,35 punten, terwijl de Midkap 0,7 procent prijs moest geven.",
+    "published_at": "2026-03-13 09:15",
+    "scraped_at": "2026-03-13T09:02:34.895089"
+  },
+  {
+    "id": "9d8a76726a04e988c28bdd91cfdbf511",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank zet CSG op Kopen",
+    "link": "https://www.beurs.nl/Nieuws/856945/Deutsche-Bank-zet-CSG-op-Kopen.aspx",
+    "intro": "Deutsche Bank is vrijdag gestart met het volgen van het Tsjechische defensiebedrijf CSG met een koopadvies en een koersdoel van 35,00 euro. Dit bleek uit een rapport van analist Sriram Krishnan.",
+    "published_at": "2026-03-13 09:00",
+    "scraped_at": "2026-03-13T09:02:34.895089"
+  },
+  {
     "id": "4bc3d42f558cc31d7d8f38aa74dbb4b1",
     "categorie": "Beursnieuws",
     "titel": "Sif stelt nieuwe CEO voor",
     "link": "https://www.beurs.nl/Nieuws/856943/Sif-stelt-nieuwe-CEO-voor.aspx",
     "intro": "Koen Bogers is voorgedragen om Fred van Beers per 1 augustus op te volgen als CEO van Sif. Dit maakte de Roermondse funderingsspecialist vrijdagochtend bekend, kort na de jaarcijfers.",
     "published_at": "2026-03-13 08:50",
-    "scraped_at": "2026-03-13T08:00:19.843761"
+    "scraped_at": "2026-03-13T09:02:34.895089"
   },
   {
     "id": "34647665a9737c79f0421546820019e9",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/856939/Britse-economie-komt-tot-stilstand.aspx",
     "intro": "De Britse economie heeft in januari een pas op de plaats gemaakt. Dit bleek vrijdag uit nieuwe cijfers van het Britse statistiekbureau.",
     "published_at": "2026-03-13 08:16",
-    "scraped_at": "2026-03-13T08:00:19.843761"
+    "scraped_at": "2026-03-13T09:02:34.895089"
   },
   {
     "id": "152992de26cc227a4121e93c2dfe497f",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/856938/Britse-industrie-start-2026-zwak.aspx",
     "intro": "De industriële productie in het Verenigd Koninkrijk is in januari licht gedaald. Dit bleek vrijdag uit cijfers van het Britse officiële statistiekbureau.",
     "published_at": "2026-03-13 08:13",
-    "scraped_at": "2026-03-13T08:00:19.843761"
+    "scraped_at": "2026-03-13T09:02:34.895089"
   },
   {
     "id": "452b26d85ee698b1c26e33f5eb5a27f7",
@@ -33,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/856855/AEX-opent-vermoedelijk-lager-en-overnamespeculatie-rondom-Besi.aspx",
     "intro": "Voorbeurs hebben we overnamenieuws van Besi en cijfers van Sif. Dat staat allemaal uitgebreid in ons liveblog, dus ga dat zeker even lezen.",
     "published_at": "2026-03-13 08:10",
-    "scraped_at": "2026-03-13T08:00:19.843761"
+    "scraped_at": "2026-03-13T09:02:34.895089"
   },
   {
     "id": "6a784897a6acda583b4fb50ae89ea20a",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/856931/AEX-start-handelsdag-vermoedelijk-afwachtend.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer neutrale opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent.",
     "published_at": "2026-03-13 08:07",
-    "scraped_at": "2026-03-13T08:00:19.843761"
+    "scraped_at": "2026-03-13T09:02:34.895089"
   },
   {
     "id": "e84628a49a08143ac5c3978d4c75b949",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/856924/Reuters-Overnamespeculatierond-Besi.aspx",
     "intro": "Verschillende partijen hebben interesse getoond in een overname van BE Semiconductor Industries. Dit meldde Reuters op basis van drie bronnen.",
     "published_at": "2026-03-13 07:28",
-    "scraped_at": "2026-03-13T08:00:19.843761"
-  },
-  {
-    "id": "b282d697d3967130be8ac4e68058fa48",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren lager",
-    "link": "https://www.beurs.nl/Nieuws/856925/Aziatische-beurzen-noteren-lager.aspx",
-    "intro": "De Aziatische beurzen gaven vrijdagochtend terrein prijs, maar de verliezen bleven beperkt tot ruim een procent voor de Japanse Nikkei index.",
-    "published_at": "2026-03-13 07:28",
-    "scraped_at": "2026-03-13T08:00:19.843761"
-  },
-  {
-    "id": "2f1578ebd31f43d4f6daeb2f9098f831",
-    "categorie": "Beursnieuws",
-    "titel": "Sif haalt eigen outlook in 2025",
-    "link": "https://www.beurs.nl/Nieuws/856922/Sif-haalt-eigen-outlook-in-2025.aspx",
-    "intro": "Sif heeft in 2025 meer geproduceerd dan in 2024 en wist zo de eigen outlook iets te overtreffen. Dit bleek vrijdag uit cijfers van de Roermondse funderingsspecialist.",
-    "published_at": "2026-03-13 07:13",
-    "scraped_at": "2026-03-13T08:00:19.843761"
-  },
-  {
-    "id": "0a95c6000a077666bd774dc8b9fe2911",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/856919/Europese-beurzen-openen-in-het-groen.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet, na een lager slot op donderdag, toen de olieprijzen weer flink opliepen als gevolg van het aanhoudende conflict in het Midden-Oosten.",
-    "published_at": "2026-03-13 06:54",
-    "scraped_at": "2026-03-13T08:00:19.843761"
-  },
-  {
-    "id": "9d66152a3abf578c8a0d559b6bb8c340",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/856916/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 20 maart 2026:",
-    "published_at": "2026-03-13 06:46",
-    "scraped_at": "2026-03-13T08:00:19.843761"
+    "scraped_at": "2026-03-13T09:02:34.895089"
   }
 ]
