@@ -1,11 +1,20 @@
 [
   {
+    "id": "c1be1a7b9405b0dc93256780e067a6d0",
+    "categorie": "Beursnieuws",
+    "titel": "VS vallen belangrijke Iraanse oliehub aan",
+    "link": "https://www.beurs.nl/Nieuws/857070/VS-vallen-belangrijke-Iraanse-oliehub-aan.aspx",
+    "intro": "De Verenigde Staten hebben vrijdagavond militaire aanvallen uitgevoerd op Kharg, het Iraanse eiland dat het grootste deel van de ruwe olie van het land exporteert. Dit meldde president Donald Trump op Truth Social.",
+    "published_at": "2026-03-14 12:10",
+    "scraped_at": "2026-03-14T11:42:42.302745"
+  },
+  {
     "id": "1b3f967993b789fca08864dbc99fe58d",
     "categorie": "Beursnieuws",
     "titel": "Amundi groter in ASR",
     "link": "https://www.beurs.nl/Nieuws/857069/Amundi-groter-in-ASR.aspx",
     "intro": "Amundi Asset Management heeft een groter belang in ASR Nederland gemeld. Dat bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 10 maart 2026.",
     "published_at": "2026-03-14 11:28",
-    "scraped_at": "2026-03-14T11:02:18.920221"
+    "scraped_at": "2026-03-14T11:42:42.302745"
   }
 ]
