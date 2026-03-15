@@ -1,12 +1,21 @@
 [
   {
+    "id": "bdb18919734fdee19f110d0d2d192570",
+    "categorie": "Beursnieuws",
+    "titel": "Drukke week vol rentebesluiten",
+    "link": "https://www.beurs.nl/Nieuws/857083/Drukke-week-vol-rentebesluiten.aspx",
+    "intro": "De komende beursweek staat in het teken van de rentebesluiten van onder meer de Federal Reserve, Europese Centrale Bank, Bank of England en Bank of Japan. Deze rentebesluiten zijn nog meer beladen door de oorlog in het Midden-Oosten. Ook dat conflict zal komende week de krantenkoppen blijven domineren, waarbij vooral de bewegingen van de olieprijzen belangrijk blijven.",
+    "published_at": "2026-03-15 14:34",
+    "scraped_at": "2026-03-15T14:00:06.666265"
+  },
+  {
     "id": "1d87a1177319366846e8b38a6a2f72d2",
     "categorie": "Beursnieuws",
     "titel": "Besi blinkt uit na overnamespeculatie",
     "link": "https://www.beurs.nl/Nieuws/857081/Besi-blinkt-uit-na-overnamespeculatie.aspx",
     "intro": "Het was een week van herstel op het Damrak, waarbij de ‘chippers’ goede zaken deden en Shell kon profiteren van de olieprijzen die per saldo verder opliepen, ondanks een volatiele handel.",
     "published_at": "2026-03-15 12:30",
-    "scraped_at": "2026-03-15T13:13:23.238901"
+    "scraped_at": "2026-03-15T14:00:06.666265"
   },
   {
     "id": "b17fa8270c1c98623b3f2b028bea2a78",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/857079/Media-Trump-wil-oorlog-met-Iran-nog-niet-beeindigen.aspx",
     "intro": "De Amerikaanse president Donald Trump is nog niet bereid om een akkoord te sluiten om de oorlog met Iran te beëindigen. Dit zei hij dit weekend in een interview met nieuwszender NBC.",
     "published_at": "2026-03-15 11:51",
-    "scraped_at": "2026-03-15T13:13:23.238901"
+    "scraped_at": "2026-03-15T14:00:06.666265"
   },
   {
     "id": "079eeb89c9043034a2fb7fdb495ba68a",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/857078/AEX-herstelt-flink-maar-onzekerheid-houdt-aan.aspx",
     "intro": "De Amsterdamse beurs is afgelopen week flink opgeveerd, te midden van de aanhoudende onzekerheid over de oorlog in het Midden-Oosten en de volatiele olieprijzen als gevolg daarvan.",
     "published_at": "2026-03-15 11:32",
-    "scraped_at": "2026-03-15T13:13:23.238901"
+    "scraped_at": "2026-03-15T14:00:06.666265"
   },
   {
     "id": "3ccba28dd4dc12b4b85b3d94eeb7e59c",
@@ -33,6 +42,6 @@
     "link": "https://www.beurs.nl/Nieuws/857076/OCI-wil-33-miljoen-aandelen-Methanex-verkopen.aspx",
     "intro": "OCI heeft een aanvraag ingediend bij de Amerikaanse beurswaakhond SEC voor de verkoop van 3,33 miljoen aandelen Methanex.",
     "published_at": "2026-03-15 11:27",
-    "scraped_at": "2026-03-15T13:13:23.238901"
+    "scraped_at": "2026-03-15T14:00:06.666265"
   }
 ]
