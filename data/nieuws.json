@@ -1,38 +1,20 @@
 [
   {
-    "id": "ce2cc1c74c74d87c8efe83d3d2d9e241",
+    "id": "079eeb89c9043034a2fb7fdb495ba68a",
     "categorie": "Beursnieuws",
-    "titel": "Trump: landen moeten oorlogsschepen naar Straat van Hormuz sturen",
-    "link": "https://www.beurs.nl/Nieuws/857074/Trump-landen-moeten-oorlogsschepen-naar-Straat-van-Hormuz-sturen.aspx",
-    "intro": "Volgens de Amerikaanse president Donald Trump gaan \"veel landen\" oorlogsschepen naar de Straat van Hormuz sturen om de belangrijke zeestraat open en veilig te houden. Dit beweerde Trump zaterdag op Truth Social.",
-    "published_at": "2026-03-14 18:09",
-    "scraped_at": "2026-03-15T10:14:16.948210"
+    "titel": "AEX herstelt flink maar onzekerheid houdt aan",
+    "link": "https://www.beurs.nl/Nieuws/857078/AEX-herstelt-flink-maar-onzekerheid-houdt-aan.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week flink opgeveerd, te midden van de aanhoudende onzekerheid over de oorlog in het Midden-Oosten en de volatiele olieprijzen als gevolg daarvan.",
+    "published_at": "2026-03-15 11:32",
+    "scraped_at": "2026-03-15T10:53:46.380463"
   },
   {
-    "id": "f43a03467d935fa8cebd67f935d36324",
+    "id": "3ccba28dd4dc12b4b85b3d94eeb7e59c",
     "categorie": "Beursnieuws",
-    "titel": "Media: Meta plant grote ontslagronde vanwege AI",
-    "link": "https://www.beurs.nl/Nieuws/857071/Media-Meta-plant-grote-ontslagronde-vanwege-AI.aspx",
-    "intro": "Meta is van plan om grootschalige ontslagen door te voeren, waardoor het personeelsbestand met 20 procent zou worden verkleind. Dit meldde persbureau Reuters zaterdag op basis van bronnen.",
-    "published_at": "2026-03-14 13:37",
-    "scraped_at": "2026-03-15T10:14:16.948210"
-  },
-  {
-    "id": "c1be1a7b9405b0dc93256780e067a6d0",
-    "categorie": "Beursnieuws",
-    "titel": "VS vallen belangrijke Iraanse oliehub aan",
-    "link": "https://www.beurs.nl/Nieuws/857070/VS-vallen-belangrijke-Iraanse-oliehub-aan.aspx",
-    "intro": "De Verenigde Staten hebben vrijdagavond militaire aanvallen uitgevoerd op Kharg, het Iraanse eiland dat het grootste deel van de ruwe olie van het land exporteert. Dit meldde president Donald Trump op Truth Social.",
-    "published_at": "2026-03-14 12:10",
-    "scraped_at": "2026-03-15T10:14:16.948210"
-  },
-  {
-    "id": "1b3f967993b789fca08864dbc99fe58d",
-    "categorie": "Beursnieuws",
-    "titel": "Amundi groter in ASR",
-    "link": "https://www.beurs.nl/Nieuws/857069/Amundi-groter-in-ASR.aspx",
-    "intro": "Amundi Asset Management heeft een groter belang in ASR Nederland gemeld. Dat bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 10 maart 2026.",
-    "published_at": "2026-03-14 11:28",
-    "scraped_at": "2026-03-15T10:14:16.948210"
+    "titel": "OCI wil 3,3 miljoen aandelen Methanex verkopen",
+    "link": "https://www.beurs.nl/Nieuws/857076/OCI-wil-33-miljoen-aandelen-Methanex-verkopen.aspx",
+    "intro": "OCI heeft een aanvraag ingediend bij de Amerikaanse beurswaakhond SEC voor de verkoop van 3,33 miljoen aandelen Methanex.",
+    "published_at": "2026-03-15 11:27",
+    "scraped_at": "2026-03-15T10:53:46.380463"
   }
 ]
