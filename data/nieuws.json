@@ -1,56 +1,74 @@
 [
   {
-    "id": "e513c8bbb92bd681a820fe4a04828181",
+    "id": "acb341da4028e7e631f519252db1125c",
     "categorie": "Beursnieuws",
-    "titel": "Media: EU overweegt marine-missie Straat van Hormuz",
-    "link": "https://www.beurs.nl/Nieuws/857085/Media-EU-overweegt-marine-missie-Straat-van-Hormuz.aspx",
-    "intro": "De ministers van Buitenlandse Zaken van de Europese Unie overwegen een mogelijke uitbreiding van de bestaande marine-missie Aspides naar de Straat van Hormuz. Dit meldde de Financial Times zondag op basis van informatie van een ambtenaar die op de hoogte is van de lopende besprekingen.",
-    "published_at": "2026-03-15 20:05",
-    "scraped_at": "2026-03-16T05:43:03.200167"
+    "titel": "Aziatische beurzen noteren verdeeld bij start nieuwe handelsweek",
+    "link": "https://www.beurs.nl/Nieuws/857107/Aziatische-beurzen-noteren-verdeeld-bij-start-nieuwe-handelsweek.aspx",
+    "intro": "De Aziatische beurzen noteerden maandagochtend verdeeld, te midden van de aanhoudende onzekerheid over de oorlog in het Midden-Oosten en de volatiele olieprijzen als gevolg daarvan.",
+    "published_at": "2026-03-16 07:19",
+    "scraped_at": "2026-03-16T07:01:07.772277"
   },
   {
-    "id": "bdb18919734fdee19f110d0d2d192570",
+    "id": "abd864379607ed6fcd1e3802309a0768",
     "categorie": "Beursnieuws",
-    "titel": "Drukke week vol rentebesluiten",
-    "link": "https://www.beurs.nl/Nieuws/857083/Drukke-week-vol-rentebesluiten.aspx",
-    "intro": "De komende beursweek staat in het teken van de rentebesluiten van onder meer de Federal Reserve, Europese Centrale Bank, Bank of England en Bank of Japan. Deze rentebesluiten zijn nog meer beladen door de oorlog in het Midden-Oosten. Ook dat conflict zal komende week de krantenkoppen blijven domineren, waarbij vooral de bewegingen van de olieprijzen belangrijk blijven.",
-    "published_at": "2026-03-15 14:34",
-    "scraped_at": "2026-03-16T05:43:03.200167"
+    "titel": "Nederland ziet import harder stijgen dan export",
+    "link": "https://www.beurs.nl/Nieuws/857105/Nederland-ziet-import-harder-stijgen-dan-export.aspx",
+    "intro": "Nederland heeft in januari de import van goederen sterker zien stijgen dan de export. Dit meldde het Centraal Bureau voor de Statistiek maandagochtend.",
+    "published_at": "2026-03-16 07:13",
+    "scraped_at": "2026-03-16T07:01:07.772277"
   },
   {
-    "id": "1d87a1177319366846e8b38a6a2f72d2",
+    "id": "153bb26fdb7b28c4cad314c2406e0597",
     "categorie": "Beursnieuws",
-    "titel": "Besi blinkt uit na overnamespeculatie",
-    "link": "https://www.beurs.nl/Nieuws/857081/Besi-blinkt-uit-na-overnamespeculatie.aspx",
-    "intro": "Het was een week van herstel op het Damrak, waarbij de ‘chippers’ goede zaken deden en Shell kon profiteren van de olieprijzen die per saldo verder opliepen, ondanks een volatiele handel.",
-    "published_at": "2026-03-15 12:30",
-    "scraped_at": "2026-03-16T05:43:03.200167"
+    "titel": "Europese beurzen openen naar verwachting hoger",
+    "link": "https://www.beurs.nl/Nieuws/857104/Europese-beurzen-openen-naar-verwachting-hoger.aspx",
+    "intro": "De Europese beurzen gaan maandag een groene opening tegemoet. De olieprijzen zijn wat hoger en IG voorziet een openingswinst van 100 punten voor de Duitse DAX, 34 punten voor de Franse CAC 40 en de Britse FTSE lijkt 44 punten hoger te zullen openen.",
+    "published_at": "2026-03-16 07:07",
+    "scraped_at": "2026-03-16T07:01:07.772277"
   },
   {
-    "id": "b17fa8270c1c98623b3f2b028bea2a78",
+    "id": "ea339f5bede9a729c66e79c5e11deea9",
     "categorie": "Beursnieuws",
-    "titel": "Media: Trump wil oorlog met Iran nog niet beëindigen",
-    "link": "https://www.beurs.nl/Nieuws/857079/Media-Trump-wil-oorlog-met-Iran-nog-niet-beeindigen.aspx",
-    "intro": "De Amerikaanse president Donald Trump is nog niet bereid om een akkoord te sluiten om de oorlog met Iran te beëindigen. Dit zei hij dit weekend in een interview met nieuwszender NBC.",
-    "published_at": "2026-03-15 11:51",
-    "scraped_at": "2026-03-16T05:43:03.200167"
+    "titel": "Productie Chinese industrie omhoog",
+    "link": "https://www.beurs.nl/Nieuws/857103/Productie-Chinese-industrie-omhoog.aspx",
+    "intro": "De industriële productie in China is in januari en februari in een hoger tempo gestegen. Dit bleek maandag uit Chinese overheidscijfers.",
+    "published_at": "2026-03-16 07:00",
+    "scraped_at": "2026-03-16T07:01:07.772277"
   },
   {
-    "id": "079eeb89c9043034a2fb7fdb495ba68a",
+    "id": "d7530868194fc301c6d87f0d0047cadf",
     "categorie": "Beursnieuws",
-    "titel": "AEX herstelt flink maar onzekerheid houdt aan",
-    "link": "https://www.beurs.nl/Nieuws/857078/AEX-herstelt-flink-maar-onzekerheid-houdt-aan.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week flink opgeveerd, te midden van de aanhoudende onzekerheid over de oorlog in het Midden-Oosten en de volatiele olieprijzen als gevolg daarvan.",
-    "published_at": "2026-03-15 11:32",
-    "scraped_at": "2026-03-16T05:43:03.200167"
+    "titel": "Chinese detailhandelsverkopen stijgen in een hoger tempo",
+    "link": "https://www.beurs.nl/Nieuws/857102/Chinese-detailhandelsverkopen-stijgen-in-een-hoger-tempo.aspx",
+    "intro": "De detailhandelsverkopen in China zijn in januari en februari in een beduidend hoger tempo gestegen. Dit bleek maandag uit Chinese overheidscijfers.",
+    "published_at": "2026-03-16 06:57",
+    "scraped_at": "2026-03-16T07:01:07.772277"
   },
   {
-    "id": "3ccba28dd4dc12b4b85b3d94eeb7e59c",
+    "id": "76f416b9e67b23140b9a95fb9308c8f6",
     "categorie": "Beursnieuws",
-    "titel": "OCI wil 3,3 miljoen aandelen Methanex verkopen",
-    "link": "https://www.beurs.nl/Nieuws/857076/OCI-wil-33-miljoen-aandelen-Methanex-verkopen.aspx",
-    "intro": "OCI heeft een aanvraag ingediend bij de Amerikaanse beurswaakhond SEC voor de verkoop van 3,33 miljoen aandelen Methanex.",
-    "published_at": "2026-03-15 11:27",
-    "scraped_at": "2026-03-16T05:43:03.200167"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/857099/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 23 maart 2026:",
+    "published_at": "2026-03-16 06:53",
+    "scraped_at": "2026-03-16T07:01:07.772277"
+  },
+  {
+    "id": "3e6d96969d43789a2e84834e83909c28",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/857100/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 23 maart 2026:",
+    "published_at": "2026-03-16 06:53",
+    "scraped_at": "2026-03-16T07:01:07.772277"
+  },
+  {
+    "id": "8d3ba7652e68fa7a19e7a666c3f60a6f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/857101/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 23 maart 2026:",
+    "published_at": "2026-03-16 06:53",
+    "scraped_at": "2026-03-16T07:01:07.772277"
   }
 ]
