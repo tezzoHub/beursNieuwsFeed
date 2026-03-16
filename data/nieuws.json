@@ -1,12 +1,48 @@
 [
   {
+    "id": "bd2c7e5fed68c47eac56bca3c8bcf469",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verhoogt koersdoel ASMI",
+    "link": "https://www.beurs.nl/Nieuws/857188/Citi-verhoogt-koersdoel-ASMI.aspx",
+    "intro": "Citi Research heeft maandag het koersdoel voor ASMI verhoogd van 825 naar 840 euro, met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Andrew Gardiner.",
+    "published_at": "2026-03-16 15:01",
+    "scraped_at": "2026-03-16T14:09:05.257660"
+  },
+  {
+    "id": "62c3112f20b0c58c872b697173a1cb93",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Shell ziet vraag naar LNG hard stijgen",
+    "link": "https://www.beurs.nl/Nieuws/857178/Media-Shell-ziet-vraag-naar-LNG-hard-stijgen.aspx",
+    "intro": "De mondiale vraag naar LNG zal tot en met 2040 met 54 tot 68 procent stijgen. Dit meldde Shell maandag volgens persbureau Reuters.",
+    "published_at": "2026-03-16 14:08",
+    "scraped_at": "2026-03-16T14:09:05.257660"
+  },
+  {
+    "id": "6c5ae28dd978dfe63567fd919bfa3d23",
+    "categorie": "Beursnieuws",
+    "titel": "Herstel voor Wall Street in de maak met hulp van tech",
+    "link": "https://www.beurs.nl/Nieuws/857174/Herstel-voor-Wall-Street-in-de-maak-met-hulp-van-tech.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een duidelijk hogere opening tegemoet, waarbij beleggers speculeren op een oplossing voor de Iraanse blokkade van de Straat van Hormuz. Ongeveer een half uur voor de openingsbel in New York noteerden de futures op de SP 500 tot 0,9 procent hoger.",
+    "published_at": "2026-03-16 13:57",
+    "scraped_at": "2026-03-16T14:09:05.257660"
+  },
+  {
+    "id": "2b755823310d2a9f7e82b0d91137b889",
+    "categorie": "Beursnieuws",
+    "titel": "Empire State index zakt in het rood",
+    "link": "https://www.beurs.nl/Nieuws/857172/Empire-State-index-zakt-in-het-rood.aspx",
+    "intro": "De bedrijvigheid in de industrie in de regio New York is in maart sterker dan verwacht afgenomen. Dit bleek maandag uit de zogeheten Empire State index van de New York Fed.",
+    "published_at": "2026-03-16 13:39",
+    "scraped_at": "2026-03-16T14:09:05.257660"
+  },
+  {
     "id": "f2bfd3ee3fe8a25e6cd61b4b9ecc409c",
     "categorie": "Beursnieuws",
     "titel": "Schiphol leent half miljard euro voor kwaliteitsimpuls",
     "link": "https://www.beurs.nl/Nieuws/857166/Schiphol-leent-half-miljard-euro-voor-kwaliteitsimpuls.aspx",
     "intro": "Schiphol heeft vorige week voor 500 miljoen euro aan obligaties uitgegeven, om met de opbrengst te kunnen investeren in de kwaliteit van de luchthaven voor reizigers, luchtvaartmaatschappijen en medewerkers. Dit maakte de luchthaven maandag bekend.",
     "published_at": "2026-03-16 12:56",
-    "scraped_at": "2026-03-16T12:37:45.495699"
+    "scraped_at": "2026-03-16T14:09:05.257660"
   },
   {
     "id": "b5170d778cada0d8f394a692a363e274",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857162/Obligatie-Nederland-haalt-34-miljard-euro-op.aspx",
     "intro": "Nederland heeft maandag 3,36 miljard euro opgehaald met twee schatkistleningen. Dit meldde het agentschap van het ministerie van Financiën.",
     "published_at": "2026-03-16 12:35",
-    "scraped_at": "2026-03-16T12:37:45.495699"
+    "scraped_at": "2026-03-16T14:09:05.257660"
   },
   {
     "id": "cbbdfe60d872c1c516e834c10b45cf01",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857161/Futures-voorspellen-hogere-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag vooralsnog een groene opening tegemoet, waarbij beleggers speculeren op een oplossing voor de Iraanse blokkade van de Straat van Hormuz. Rond lunchtijd noteerden de futures op de SP 500 tot 0,7 procent hoger.",
     "published_at": "2026-03-16 12:29",
-    "scraped_at": "2026-03-16T12:37:45.495699"
+    "scraped_at": "2026-03-16T14:09:05.257660"
   },
   {
     "id": "c7a76daaa5be5d864073907c37993b62",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857160/Europese-beurzen-noteren-overwegend-lager.aspx",
     "intro": "De Europese beurzen noteerden maandag rond het middaguur overwegend lager aan het begin van de derde week van de oorlog in het Midden-Oosten.",
     "published_at": "2026-03-16 12:26",
-    "scraped_at": "2026-03-16T12:37:45.495699"
+    "scraped_at": "2026-03-16T14:09:05.257660"
   },
   {
     "id": "8f700cdaa5a377b971b80c6748c48d33",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857155/Nieuwe-opdracht-van-Meta-voor-Nebius.aspx",
     "intro": "Nebius heeft een nieuw contract getekend met Meta voor nieuwe AI-infrastructuur. Dit maakte Nebius, dat inmiddels vanuit Amsterdam werkt, maandag bekend.",
     "published_at": "2026-03-16 11:45",
-    "scraped_at": "2026-03-16T12:37:45.495699"
+    "scraped_at": "2026-03-16T14:09:05.257660"
   },
   {
     "id": "d16286c01f5ac2f211a39db1482aa7b7",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857153/Citi-verhoogt-koersdoel-Basic-fit.aspx",
     "intro": "Citi Research heeft maandag het koersdoel voor Basic-Fit verhoogd van 43,00 naar 46,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Leo Carrington.",
     "published_at": "2026-03-16 11:28",
-    "scraped_at": "2026-03-16T12:37:45.495699"
-  },
-  {
-    "id": "0d9cd6268be427ebdc44b9a23a72b2b4",
-    "categorie": "Beursnieuws",
-    "titel": "Voorzichtige weekstart op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/857144/Voorzichtige-weekstart-op-Damrak.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagochtend iets onder de slotstand van vrijdag, terwijl beleggers de kat uit de boom kijken in afwachting van een stroom aan rentebesluiten later in de week. Intussen blijven de ogen uiteraard gericht op de laatste ontwikkelingen in oorlog in het Midden-Oosten.",
-    "published_at": "2026-03-16 11:05",
-    "scraped_at": "2026-03-16T12:37:45.495699"
-  },
-  {
-    "id": "31ee5c4c44846649bf3a9f4dffbbfbc4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: beleggerssentiment duidelijk onder druk",
-    "link": "https://www.beurs.nl/Nieuws/857134/Beursblik-beleggerssentiment-duidelijk-onder-druk.aspx",
-    "intro": "Het beleggersvertrouwen onder Nederlandse beleggers is in maart duidelijk verslechterd. Dit bleek maandag uit het maandelijkse onderzoek onder beleggers van Saxo Bank.",
-    "published_at": "2026-03-16 10:09",
-    "scraped_at": "2026-03-16T12:37:45.495699"
-  },
-  {
-    "id": "a46a546f29d73d2cc9e6d7a94b1c00ff",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: markten wachten op stroom aan rentebesluiten",
-    "link": "https://www.beurs.nl/Nieuws/857132/Valuta-markten-wachten-op-stroom-aan-rentebesluiten.aspx",
-    "intro": "Het conflict in het Midden-Oosten bleef de afgelopen week de belangrijkste drijvende kracht achter de bewegingen op de valutamarkten en dat zal de komende dagen vermoedelijk niet anders zijn.",
-    "published_at": "2026-03-16 10:05",
-    "scraped_at": "2026-03-16T12:37:45.495699"
-  },
-  {
-    "id": "5a5afefb94795ad2f7845e97d6750a4f",
-    "categorie": "Redactioneel",
-    "titel": "Must read: De slechtste beursdagen slopen uw rendement",
-    "link": "https://www.iex.nl/artikel/857112/Must-read-De-slechtste-beursdagen-slopen-uw-rendement.aspx",
-    "intro": "Beleggers vrezen vaak de beste beursdagen te missen, maar juist de slechtste dagen maken het verschil. Plus: nieuwe fase energietransitie biedt beleggers kansen, olie boven $100 na dreiging Trump, inflatietsunami voor Europa en de VS, en meer.",
-    "published_at": "2026-03-16 10:00",
-    "scraped_at": "2026-03-16T12:37:45.495699"
+    "scraped_at": "2026-03-16T14:09:05.257660"
   }
 ]
