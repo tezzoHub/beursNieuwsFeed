@@ -1,12 +1,30 @@
 [
   {
+    "id": "d16286c01f5ac2f211a39db1482aa7b7",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verhoogt koersdoel Basic-fit",
+    "link": "https://www.beurs.nl/Nieuws/857153/Citi-verhoogt-koersdoel-Basic-fit.aspx",
+    "intro": "Citi Research heeft maandag het koersdoel voor Basic-Fit verhoogd van 43,00 naar 46,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Leo Carrington.",
+    "published_at": "2026-03-16 11:28",
+    "scraped_at": "2026-03-16T10:40:45.565062"
+  },
+  {
+    "id": "0d9cd6268be427ebdc44b9a23a72b2b4",
+    "categorie": "Beursnieuws",
+    "titel": "Voorzichtige weekstart op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/857144/Voorzichtige-weekstart-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagochtend iets onder de slotstand van vrijdag, terwijl beleggers de kat uit de boom kijken in afwachting van een stroom aan rentebesluiten later in de week. Intussen blijven de ogen uiteraard gericht op de laatste ontwikkelingen in oorlog in het Midden-Oosten.",
+    "published_at": "2026-03-16 11:05",
+    "scraped_at": "2026-03-16T10:40:45.565062"
+  },
+  {
     "id": "31ee5c4c44846649bf3a9f4dffbbfbc4",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: beleggerssentiment duidelijk onder druk",
     "link": "https://www.beurs.nl/Nieuws/857134/Beursblik-beleggerssentiment-duidelijk-onder-druk.aspx",
     "intro": "Het beleggersvertrouwen onder Nederlandse beleggers is in maart duidelijk verslechterd. Dit bleek maandag uit het maandelijkse onderzoek onder beleggers van Saxo Bank.",
     "published_at": "2026-03-16 10:09",
-    "scraped_at": "2026-03-16T09:47:51.319525"
+    "scraped_at": "2026-03-16T10:40:45.565062"
   },
   {
     "id": "a46a546f29d73d2cc9e6d7a94b1c00ff",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/857132/Valuta-markten-wachten-op-stroom-aan-rentebesluiten.aspx",
     "intro": "Het conflict in het Midden-Oosten bleef de afgelopen week de belangrijkste drijvende kracht achter de bewegingen op de valutamarkten en dat zal de komende dagen vermoedelijk niet anders zijn.",
     "published_at": "2026-03-16 10:05",
-    "scraped_at": "2026-03-16T09:47:51.319525"
+    "scraped_at": "2026-03-16T10:40:45.565062"
   },
   {
     "id": "5a5afefb94795ad2f7845e97d6750a4f",
@@ -24,7 +42,7 @@
     "link": "https://www.iex.nl/artikel/857112/Must-read-De-slechtste-beursdagen-slopen-uw-rendement.aspx",
     "intro": "Beleggers vrezen vaak de beste beursdagen te missen, maar juist de slechtste dagen maken het verschil. Plus: nieuwe fase energietransitie biedt beleggers kansen, olie boven $100 na dreiging Trump, inflatietsunami voor Europa en de VS, en meer.",
     "published_at": "2026-03-16 10:00",
-    "scraped_at": "2026-03-16T09:47:51.319525"
+    "scraped_at": "2026-03-16T10:40:45.565062"
   },
   {
     "id": "ef34dfe0c1087e1447fa67fd1ba95c50",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857130/Beursblik-plussen-en-minnen-in-cijfers-OCI.aspx",
     "intro": "De resultaten over 2025 die OCI maandagochtend presenteerde, bevatten plussen en minnen. Dit concludeerde analist Frank Claassen van Degroof Petercam vanochtend in een rapport.",
     "published_at": "2026-03-16 09:31",
-    "scraped_at": "2026-03-16T09:47:51.319525"
+    "scraped_at": "2026-03-16T10:40:45.565062"
   },
   {
     "id": "a11c3da8e29edd7e4ea32b2175fa7cb7",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857127/AEX-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste maandag kort na de beursgong 0,4 procent hoger op 1.005,56 punten, terwijl de Midkap 0,2 procent won.",
     "published_at": "2026-03-16 09:09",
-    "scraped_at": "2026-03-16T09:47:51.319525"
+    "scraped_at": "2026-03-16T10:40:45.565062"
   },
   {
     "id": "b50d0c11f0e7137681294b32bc1eed2b",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857125/UniCredit-wil-belang-in-Commerzbank-verder-uitbreiden.aspx",
     "intro": "UniCredit brengt een bod uit om haar belang in Commerzbank te vergroten tot boven de 30 procent, maar verwacht niet de volledige controle over de Duitse bank te verkrijgen. Dit bleek maandag voorbeurs uit een persbericht van de Italiaanse bank.",
     "published_at": "2026-03-16 08:55",
-    "scraped_at": "2026-03-16T09:47:51.319525"
+    "scraped_at": "2026-03-16T10:40:45.565062"
   },
   {
     "id": "7072aef507f08e5aca052c42bc1e740c",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857124/Minder-winst-voor-Foxconn-ondanks-sterke-vraag-naar-AI-servers.aspx",
     "intro": "Foxconn heeft in het vierde kwartaal van 2025 minder winst geboekt, ondanks de aanhoudend sterke vraag naar zijn AI-servers dankzij de behoefte aan meer datacenters. Dit bleek maandagochtend uit de cijfers van het Taiwanese bedrijf, dat onder meer producten levert aan Apple, Nvidia en Amazon.",
     "published_at": "2026-03-16 08:53",
-    "scraped_at": "2026-03-16T09:47:51.319525"
+    "scraped_at": "2026-03-16T10:40:45.565062"
   },
   {
     "id": "00d30503a39552d3169236e0c7dc9374",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857121/OCI-groeit-met-Europese-stikstofactiviteiten.aspx",
     "intro": "OCI is in 2025 gegroeid met de Europese stikstofactiviteiten, terwijl het aangepaste resultaat positief uitviel. Dit bleek maandagochtend uit de jaarcijfers van het bedrijf.",
     "published_at": "2026-03-16 08:33",
-    "scraped_at": "2026-03-16T09:47:51.319525"
-  },
-  {
-    "id": "43b41e33cece55266550f2f4d928ff86",
-    "categorie": "Beursnieuws",
-    "titel": "AEX maakt zich op voor groene start",
-    "link": "https://www.beurs.nl/Nieuws/857116/AEX-maakt-zich-op-voor-groene-start.aspx",
-    "intro": "De Amsterdamse beurs gaat maandag naar verwachting hoger van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van ruim een half procent.",
-    "published_at": "2026-03-16 08:03",
-    "scraped_at": "2026-03-16T09:47:51.319525"
-  },
-  {
-    "id": "acb341da4028e7e631f519252db1125c",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren verdeeld bij start nieuwe handelsweek",
-    "link": "https://www.beurs.nl/Nieuws/857107/Aziatische-beurzen-noteren-verdeeld-bij-start-nieuwe-handelsweek.aspx",
-    "intro": "De Aziatische beurzen noteerden maandagochtend verdeeld, te midden van de aanhoudende onzekerheid over de oorlog in het Midden-Oosten en de volatiele olieprijzen als gevolg daarvan.",
-    "published_at": "2026-03-16 07:19",
-    "scraped_at": "2026-03-16T09:47:51.319525"
+    "scraped_at": "2026-03-16T10:40:45.565062"
   }
 ]
