@@ -1,12 +1,75 @@
 [
   {
+    "id": "fd88b350f2e60ab1b67477b7e1ba5c7f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: definitieve cijfers voor InPost in aantocht",
+    "link": "https://www.beurs.nl/Nieuws/857205/Beursblik-definitieve-cijfers-voor-InPost-in-aantocht.aspx",
+    "intro": "InPost zal woensdag de definitieve cijfers voor 2025 publiceren, nadat in januari al voorlopige cijfers werden gedeeld door de Poolse aanbieder van pakketkluisjes met een notering aan het Damrak.",
+    "published_at": "2026-03-16 16:29",
+    "scraped_at": "2026-03-16T15:35:22.744190"
+  },
+  {
+    "id": "2dee0195124ab30c67b0c51bad8b2041",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/857199/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 24 maart 2026:",
+    "published_at": "2026-03-16 16:11",
+    "scraped_at": "2026-03-16T15:35:22.744190"
+  },
+  {
+    "id": "476e09bc5e4fed1cef75a6271fc52091",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/857200/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 24 maart 2026:",
+    "published_at": "2026-03-16 16:11",
+    "scraped_at": "2026-03-16T15:35:22.744190"
+  },
+  {
+    "id": "4eb8ca1e261058c83b5111645a73ef2b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/857201/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 24 maart 2026:",
+    "published_at": "2026-03-16 16:11",
+    "scraped_at": "2026-03-16T15:35:22.744190"
+  },
+  {
+    "id": "5094b724f90e3d7bb6b42fbea4272959",
+    "categorie": "Beursnieuws",
+    "titel": "Wolters Kluwer en CPA Canada breiden samenwerking uit",
+    "link": "https://www.beurs.nl/Nieuws/857193/Wolters-Kluwer-en-CPA-Canada-breiden-samenwerking-uit.aspx",
+    "intro": "Wolters Kluwer Tax  Accounting heeft een uitgebreide samenwerking aangekondigd met CPA Canada, waardoor alle leden van CPA Canada nu op abonnementsbasis toegang krijgen via CCH AnswerConnect tot een selectie onderzoeksdata op het vlak van belastingen. Dit maakte het databedrijf maandag bekend.",
+    "published_at": "2026-03-16 15:43",
+    "scraped_at": "2026-03-16T15:35:22.744190"
+  },
+  {
+    "id": "17aea96b40c72bd1be540f8ca7fc4b1e",
+    "categorie": "Beursnieuws",
+    "titel": "Vertrouwen Amerikaanse huizenbouwers verbeterd",
+    "link": "https://www.beurs.nl/Nieuws/857189/Vertrouwen-Amerikaanse-huizenbouwers-verbeterd.aspx",
+    "intro": "Het vertrouwen onder Amerikaanse huizenbouwers is in maart verbeterd. Dit bleek maandag uit data van de National Association of Home Builders.",
+    "published_at": "2026-03-16 15:06",
+    "scraped_at": "2026-03-16T15:35:22.744190"
+  },
+  {
     "id": "bd2c7e5fed68c47eac56bca3c8bcf469",
     "categorie": "Beursnieuws",
     "titel": "Citi verhoogt koersdoel ASMI",
     "link": "https://www.beurs.nl/Nieuws/857188/Citi-verhoogt-koersdoel-ASMI.aspx",
     "intro": "Citi Research heeft maandag het koersdoel voor ASMI verhoogd van 825 naar 840 euro, met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Andrew Gardiner.",
     "published_at": "2026-03-16 15:01",
-    "scraped_at": "2026-03-16T14:09:05.257660"
+    "scraped_at": "2026-03-16T15:35:22.744190"
+  },
+  {
+    "id": "d03ec0fe1494de9988ce2fd6359eea70",
+    "categorie": "Beursnieuws",
+    "titel": "Industriele productie VS groeit licht",
+    "link": "https://www.beurs.nl/Nieuws/857180/Industriele-productie-VS-groeit-licht.aspx",
+    "intro": "De industriële productie in de Verenigde Staten is in februari zoals verwacht licht gegroeid. Dit bleek maandag uit cijfers van de Federal Reserve.",
+    "published_at": "2026-03-16 14:22",
+    "scraped_at": "2026-03-16T15:35:22.744190"
   },
   {
     "id": "62c3112f20b0c58c872b697173a1cb93",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857178/Media-Shell-ziet-vraag-naar-LNG-hard-stijgen.aspx",
     "intro": "De mondiale vraag naar LNG zal tot en met 2040 met 54 tot 68 procent stijgen. Dit meldde Shell maandag volgens persbureau Reuters.",
     "published_at": "2026-03-16 14:08",
-    "scraped_at": "2026-03-16T14:09:05.257660"
+    "scraped_at": "2026-03-16T15:35:22.744190"
   },
   {
     "id": "6c5ae28dd978dfe63567fd919bfa3d23",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857174/Herstel-voor-Wall-Street-in-de-maak-met-hulp-van-tech.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een duidelijk hogere opening tegemoet, waarbij beleggers speculeren op een oplossing voor de Iraanse blokkade van de Straat van Hormuz. Ongeveer een half uur voor de openingsbel in New York noteerden de futures op de SP 500 tot 0,9 procent hoger.",
     "published_at": "2026-03-16 13:57",
-    "scraped_at": "2026-03-16T14:09:05.257660"
-  },
-  {
-    "id": "2b755823310d2a9f7e82b0d91137b889",
-    "categorie": "Beursnieuws",
-    "titel": "Empire State index zakt in het rood",
-    "link": "https://www.beurs.nl/Nieuws/857172/Empire-State-index-zakt-in-het-rood.aspx",
-    "intro": "De bedrijvigheid in de industrie in de regio New York is in maart sterker dan verwacht afgenomen. Dit bleek maandag uit de zogeheten Empire State index van de New York Fed.",
-    "published_at": "2026-03-16 13:39",
-    "scraped_at": "2026-03-16T14:09:05.257660"
-  },
-  {
-    "id": "f2bfd3ee3fe8a25e6cd61b4b9ecc409c",
-    "categorie": "Beursnieuws",
-    "titel": "Schiphol leent half miljard euro voor kwaliteitsimpuls",
-    "link": "https://www.beurs.nl/Nieuws/857166/Schiphol-leent-half-miljard-euro-voor-kwaliteitsimpuls.aspx",
-    "intro": "Schiphol heeft vorige week voor 500 miljoen euro aan obligaties uitgegeven, om met de opbrengst te kunnen investeren in de kwaliteit van de luchthaven voor reizigers, luchtvaartmaatschappijen en medewerkers. Dit maakte de luchthaven maandag bekend.",
-    "published_at": "2026-03-16 12:56",
-    "scraped_at": "2026-03-16T14:09:05.257660"
-  },
-  {
-    "id": "b5170d778cada0d8f394a692a363e274",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland haalt 3,4 miljard euro op",
-    "link": "https://www.beurs.nl/Nieuws/857162/Obligatie-Nederland-haalt-34-miljard-euro-op.aspx",
-    "intro": "Nederland heeft maandag 3,36 miljard euro opgehaald met twee schatkistleningen. Dit meldde het agentschap van het ministerie van Financiën.",
-    "published_at": "2026-03-16 12:35",
-    "scraped_at": "2026-03-16T14:09:05.257660"
-  },
-  {
-    "id": "cbbdfe60d872c1c516e834c10b45cf01",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen hogere opening Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/857161/Futures-voorspellen-hogere-opening-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag vooralsnog een groene opening tegemoet, waarbij beleggers speculeren op een oplossing voor de Iraanse blokkade van de Straat van Hormuz. Rond lunchtijd noteerden de futures op de SP 500 tot 0,7 procent hoger.",
-    "published_at": "2026-03-16 12:29",
-    "scraped_at": "2026-03-16T14:09:05.257660"
-  },
-  {
-    "id": "c7a76daaa5be5d864073907c37993b62",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen noteren overwegend lager",
-    "link": "https://www.beurs.nl/Nieuws/857160/Europese-beurzen-noteren-overwegend-lager.aspx",
-    "intro": "De Europese beurzen noteerden maandag rond het middaguur overwegend lager aan het begin van de derde week van de oorlog in het Midden-Oosten.",
-    "published_at": "2026-03-16 12:26",
-    "scraped_at": "2026-03-16T14:09:05.257660"
-  },
-  {
-    "id": "8f700cdaa5a377b971b80c6748c48d33",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe opdracht van Meta voor Nebius",
-    "link": "https://www.beurs.nl/Nieuws/857155/Nieuwe-opdracht-van-Meta-voor-Nebius.aspx",
-    "intro": "Nebius heeft een nieuw contract getekend met Meta voor nieuwe AI-infrastructuur. Dit maakte Nebius, dat inmiddels vanuit Amsterdam werkt, maandag bekend.",
-    "published_at": "2026-03-16 11:45",
-    "scraped_at": "2026-03-16T14:09:05.257660"
-  },
-  {
-    "id": "d16286c01f5ac2f211a39db1482aa7b7",
-    "categorie": "Beursnieuws",
-    "titel": "Citi verhoogt koersdoel Basic-fit",
-    "link": "https://www.beurs.nl/Nieuws/857153/Citi-verhoogt-koersdoel-Basic-fit.aspx",
-    "intro": "Citi Research heeft maandag het koersdoel voor Basic-Fit verhoogd van 43,00 naar 46,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Leo Carrington.",
-    "published_at": "2026-03-16 11:28",
-    "scraped_at": "2026-03-16T14:09:05.257660"
+    "scraped_at": "2026-03-16T15:35:22.744190"
   }
 ]
