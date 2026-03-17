@@ -1,12 +1,30 @@
 [
   {
+    "id": "faade077cc3b73d7aac4de1e4c571a91",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: banken kunnen afschrijving op private kredieten opvangen",
+    "link": "https://www.beurs.nl/Nieuws/857335/Beursblik-banken-kunnen-afschrijving-op-private-kredietenopvangen.aspx",
+    "intro": "Een afwaardering van 10 procent op de directe blootstelling van Europese banken aan 'private credit', of leningen aan bedrijven door niet-bancaire kredietverstrekkers, zou geen problemen moeten opleveren. Dit menen analisten van JPMorgan.",
+    "published_at": "2026-03-17 14:11",
+    "scraped_at": "2026-03-17T14:08:31.035033"
+  },
+  {
+    "id": "69d8a1d0826ee20d1876142b2402d829",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere opening voor Wall Street in aantocht",
+    "link": "https://www.beurs.nl/Nieuws/857329/Hogere-opening-voor-Wall-Street-in-aantocht.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, ondanks dat de olieprijs verder steeg door de aanhoudende onrust in het Midden-Oosten, waar de olietoevoer door de Straat van Hormuz grotendeels geblokkeerd is.",
+    "published_at": "2026-03-17 14:00",
+    "scraped_at": "2026-03-17T14:08:31.035033"
+  },
+  {
     "id": "e9f0fcc67fc6f4e42b748bb47e2121d7",
     "categorie": "Beursnieuws",
     "titel": "Futures Wall Street wijzen omlaag",
     "link": "https://www.beurs.nl/Nieuws/857326/Futures-Wall-Street-wijzen-omlaag.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een licht lagere opening tegemoet.",
     "published_at": "2026-03-17 13:08",
-    "scraped_at": "2026-03-17T12:35:55.310123"
+    "scraped_at": "2026-03-17T14:08:31.035033"
   },
   {
     "id": "bef1c4f3633b56ce7e37a1f505cf9f33",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/857320/Update-Europese-beurzen-licht-hoger-rond-middaguur.aspx",
     "intro": "De Europese beurzen noteerden dinsdag rond het middaguur licht hoger, terwijl beleggers met één oog de ontwikkelingen in het Midden-Oosten in de gaten houden en met het andere oog al uitkijken naar de serie rentebesluiten die op de rol staan.",
     "published_at": "2026-03-17 12:47",
-    "scraped_at": "2026-03-17T12:35:55.310123"
+    "scraped_at": "2026-03-17T14:08:31.035033"
   },
   {
     "id": "632e2784d4fcc5c27fd5a0fb535848d8",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857319/Valuta-spanningen-Midden-Oosten-houden-euro-onder-druk.aspx",
     "intro": "De euro is maandag en dinsdag hersteld, op de hoop dat de aanvoer van olie door de Straat van Hormuz kan worden hersteld, maar de munt blijft wisselvallig.",
     "published_at": "2026-03-17 12:07",
-    "scraped_at": "2026-03-17T12:35:55.310123"
+    "scraped_at": "2026-03-17T14:08:31.035033"
   },
   {
     "id": "37212cbdc038f4d747b16470b68e1bbc",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857312/Amazon-lanceert-in-de-VS-bezorging-binnen-een-uur.aspx",
     "intro": "Amazon start met bezorging binnen één en drie uur in delen van de Verenigde Staten. Dit maakte het bedrijf dinsdag bekend.",
     "published_at": "2026-03-17 11:26",
-    "scraped_at": "2026-03-17T12:35:55.310123"
+    "scraped_at": "2026-03-17T14:08:31.035033"
   },
   {
     "id": "f90ec97913b665b1780a383f57af7855",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857311/IATA-vraag-naar-vliegreizen-gaat-verdubbelen.aspx",
     "intro": "De vraag naar vliegreizen zal tot en met 2050 ruimschoots verdubbelen. Dit is de verwachting van IATA, de branchevereniging voor de luchtvaartsector.",
     "published_at": "2026-03-17 11:18",
-    "scraped_at": "2026-03-17T12:35:55.310123"
+    "scraped_at": "2026-03-17T14:08:31.035033"
   },
   {
     "id": "6946a79459d82d3559715d089cdcc6d2",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857310/Flinke-daling-Duitse-ZEW-index.aspx",
     "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in maart stevig gedaald. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
     "published_at": "2026-03-17 11:16",
-    "scraped_at": "2026-03-17T12:35:55.310123"
+    "scraped_at": "2026-03-17T14:08:31.035033"
   },
   {
     "id": "41f6697ead7738d91b058be93e283a80",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857305/AEX-worstelt-met-volatiele-olieprijzen.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagochtend licht hoger, terwijl beleggers blijven worstelen met de volatiele olieprijzen.",
     "published_at": "2026-03-17 10:52",
-    "scraped_at": "2026-03-17T12:35:55.310123"
+    "scraped_at": "2026-03-17T14:08:31.035033"
   },
   {
     "id": "98f5b8f8f609473a427fac05afe6b407",
@@ -69,24 +87,6 @@
     "link": "https://www.iex.nl/artikel/857133/Must-read-Het-is-heerlijk-schuilen-in-een-olie-ETF.aspx",
     "intro": "Plus: het beurseffect van dure olie, de vergelijking tussen OpenAI en World Online, run op carbon credits, 11 mijnbouwbedrijven voor golddiggers, en meer.",
     "published_at": "2026-03-17 10:30",
-    "scraped_at": "2026-03-17T12:35:55.310123"
-  },
-  {
-    "id": "8305e860f5d2ac74e449c548d2b9684e",
-    "categorie": "Beursnieuws",
-    "titel": "Italiaanse inflatie iets minder scherp gestegen",
-    "link": "https://www.beurs.nl/Nieuws/857299/Italiaanse-inflatie-iets-minder-scherp-gestegen.aspx",
-    "intro": "De Italiaanse consumentenprijzen zijn in februari iets minder scherp gestegen dan aanvankelijk voorspeld. Dit bleek dinsdag uit cijfers van Istat, het Italiaanse bureau voor de statistiek.",
-    "published_at": "2026-03-17 10:18",
-    "scraped_at": "2026-03-17T12:35:55.310123"
-  },
-  {
-    "id": "0ad8733d2f73b7a105b4cec14087c755",
-    "categorie": "Beursnieuws",
-    "titel": "ABU: uren in uitzendbranche verder onder druk",
-    "link": "https://www.beurs.nl/Nieuws/857298/ABU-uren-in-uitzendbranche-verder-onder-druk.aspx",
-    "intro": "Het aantal gewerkte uren in de Nederlandse uitzendsector is in periode 2 van 2026 gedaald, terwijl de omzet iets steeg. Dit bleek dinsdag uit cijfers van brancheorganisatie ABU.",
-    "published_at": "2026-03-17 10:14",
-    "scraped_at": "2026-03-17T12:35:55.310123"
+    "scraped_at": "2026-03-17T14:08:31.035033"
   }
 ]
