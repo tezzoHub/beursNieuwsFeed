@@ -1,12 +1,57 @@
 [
   {
+    "id": "6160926c52babd3be945707c68834254",
+    "categorie": "Beursnieuws",
+    "titel": "Envipco presenteert nieuwe CEO",
+    "link": "https://www.beurs.nl/Nieuws/857283/Envipco-presenteert-nieuwe-CEO.aspx",
+    "intro": "Envipco heeft een opvolger voor CEO Simon Bolton gevonden. Dit bleek dinsdag voorbeurs.",
+    "published_at": "2026-03-17 08:17",
+    "scraped_at": "2026-03-17T07:44:04.796862"
+  },
+  {
+    "id": "6d3c0a1fcc1c2c02571d4d49f1daf51b",
+    "categorie": "Beursnieuws",
+    "titel": "Media: SEC wil af van verplichte kwartaalcijfers",
+    "link": "https://www.beurs.nl/Nieuws/857278/Media-SEC-wil-af-van-verplichte-kwartaalcijfers.aspx",
+    "intro": "De Amerikaanse beurswaakhond SEC bereidt een voorstel voor om de rapportagedruk bij bedrijven te verlagen. Dit melden de Wall Street Journal op basis van bronnen.",
+    "published_at": "2026-03-17 07:50",
+    "scraped_at": "2026-03-17T07:44:04.796862"
+  },
+  {
+    "id": "2ead6ff276e32a5353aec78d0415f0a9",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen verdeeld na Australische renteverhoging",
+    "link": "https://www.beurs.nl/Nieuws/857275/Aziatische-beurzen-verdeeld-na-Australische-renteverhoging.aspx",
+    "intro": "De Aziatische beurzen noteerden dinsdagochtend verdeeld, met beperkte uitslagen. De stemming werd mede bepaald door een  Australische renteverhoging en positief nieuws van Nvidia op Wall Street.",
+    "published_at": "2026-03-17 07:39",
+    "scraped_at": "2026-03-17T07:44:04.796862"
+  },
+  {
+    "id": "8c535b2d88a23d2aeaa307c859c21431",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuwe huurder voor CTP in Polen",
+    "link": "https://www.beurs.nl/Nieuws/857272/Nieuwe-huurder-voor-CTP-in-Polen.aspx",
+    "intro": "Windar Renovables opent een tweede productielocatie in Polen op het CTPark Legnica. Dit maakte CTP dinsdagochtend bekend.",
+    "published_at": "2026-03-17 07:35",
+    "scraped_at": "2026-03-17T07:44:04.796862"
+  },
+  {
     "id": "1f1061027a6fbac107024d9b824869af",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: aandeel ASMI onder druk in komende maanden",
     "link": "https://www.beurs.nl/Nieuws/857270/Beursblik-aandeel-ASMI-onder-druk-in-komende-maanden.aspx",
     "intro": "Het aandeel ASMI zal de komende 6 tot 12 maanden minder presteren dan dat van sectorgenoten. Dit is de verwachting van zakenbank Jefferies, dat een Underperform advies hanteert met een koersdoel van 600,00 euro.",
     "published_at": "2026-03-17 07:20",
-    "scraped_at": "2026-03-17T06:35:37.150566"
+    "scraped_at": "2026-03-17T07:44:04.796862"
+  },
+  {
+    "id": "1d1fe1b60a0039d7b1ce0ea1d61ed552",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street hoger gesloten, olieprijzen omlaag",
+    "link": "https://www.beurs.nl/Nieuws/857231/Wall-Street-hoger-gesloten-olieprijzen-omlaag.aspx",
+    "intro": "Amerikaanse aandelen zijn maandag hoger gesloten, terwijl beleggers de mogelijke impact van de hoge olieprijzen op het rentebeleid van de Federal Reserve afwogen en hoop ontleenden aan een versoepeling van de verstoring van de olietoevoer door de Straat van Hormuz.",
+    "published_at": "2026-03-17 07:15",
+    "scraped_at": "2026-03-17T07:44:04.796862"
   },
   {
     "id": "c0e9f6e38824b1b129e7ad32895515b2",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857267/Europese-beurzen-openen-naar-verwachting-lager.aspx",
     "intro": "De Europese beurzen gaan dinsdag een verdeelde, maar per saldo lagere opening tegemoet, na een hoger slot op maandag.",
     "published_at": "2026-03-17 06:58",
-    "scraped_at": "2026-03-17T06:35:37.150566"
+    "scraped_at": "2026-03-17T07:44:04.796862"
   },
   {
     "id": "500e4c0fad45483941cc436676952b0f",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857264/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 24 maart 2026:",
     "published_at": "2026-03-17 06:51",
-    "scraped_at": "2026-03-17T06:35:37.150566"
+    "scraped_at": "2026-03-17T07:44:04.796862"
   },
   {
     "id": "de6f9964eaa1a95cad2dc7e9d3dd38b1",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857265/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 24 maart 2026:",
     "published_at": "2026-03-17 06:51",
-    "scraped_at": "2026-03-17T06:35:37.150566"
+    "scraped_at": "2026-03-17T07:44:04.796862"
   },
   {
     "id": "f4ab7cf9695ab6f17ac7b70e1e73fad7",
@@ -42,6 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857266/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 24 maart 2026:",
     "published_at": "2026-03-17 06:51",
-    "scraped_at": "2026-03-17T06:35:37.150566"
+    "scraped_at": "2026-03-17T07:44:04.796862"
   }
 ]
