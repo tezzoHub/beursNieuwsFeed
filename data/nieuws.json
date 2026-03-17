@@ -1,12 +1,48 @@
 [
   {
+    "id": "7e2acf6cfcffe7704cee3d892d89f623",
+    "categorie": "Beursnieuws",
+    "titel": "Amazon lanceert bezorging binnen een uur",
+    "link": "https://www.beurs.nl/Nieuws/857312/Amazon-lanceert-bezorging-binnen-een-uur.aspx",
+    "intro": "Amazon start met bezorging binnen één en drie uur in delen van de Verenigde Staten. Dit maakte het bedrijf dinsdag bekend.",
+    "published_at": "2026-03-17 11:26",
+    "scraped_at": "2026-03-17T10:36:06.643935"
+  },
+  {
+    "id": "f90ec97913b665b1780a383f57af7855",
+    "categorie": "Beursnieuws",
+    "titel": "IATA: vraag naar vliegreizen gaat verdubbelen",
+    "link": "https://www.beurs.nl/Nieuws/857311/IATA-vraag-naar-vliegreizen-gaat-verdubbelen.aspx",
+    "intro": "De vraag naar vliegreizen zal tot en met 2050 ruimschoots verdubbelen. Dit is de verwachting van IATA, de branchevereniging voor de luchtvaartsector.",
+    "published_at": "2026-03-17 11:18",
+    "scraped_at": "2026-03-17T10:36:06.643935"
+  },
+  {
+    "id": "6946a79459d82d3559715d089cdcc6d2",
+    "categorie": "Beursnieuws",
+    "titel": "Flinke daling Duitse ZEW-index",
+    "link": "https://www.beurs.nl/Nieuws/857310/Flinke-daling-Duitse-ZEW-index.aspx",
+    "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in maart stevig gedaald. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
+    "published_at": "2026-03-17 11:16",
+    "scraped_at": "2026-03-17T10:36:06.643935"
+  },
+  {
+    "id": "41f6697ead7738d91b058be93e283a80",
+    "categorie": "Beursnieuws",
+    "titel": "AEX worstelt met volatiele olieprijzen",
+    "link": "https://www.beurs.nl/Nieuws/857305/AEX-worstelt-met-volatiele-olieprijzen.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagochtend licht hoger, terwijl beleggers blijven worstelen met de volatiele olieprijzen.",
+    "published_at": "2026-03-17 10:52",
+    "scraped_at": "2026-03-17T10:36:06.643935"
+  },
+  {
     "id": "98f5b8f8f609473a427fac05afe6b407",
     "categorie": "Redactioneel",
     "titel": "Must read: Het is heerlijk schuilen in een olie-ETF",
     "link": "https://www.iex.nl/artikel/857133/Must-read-Het-is-heerlijk-schuilen-in-een-olie-ETF.aspx",
-    "intro": "Plus: de beursprijs van dure olie, de vergelijking tussen OpenAI en World Online, run op carbon credits, 11 mijnbouwbedrijven voor golddiggers en meer.",
+    "intro": "Plus: het beurseffect van dure olie, de vergelijking tussen OpenAI en World Online, run op carbon credits, 11 mijnbouwbedrijven voor golddiggers, en meer.",
     "published_at": "2026-03-17 10:30",
-    "scraped_at": "2026-03-17T09:40:48.766816"
+    "scraped_at": "2026-03-17T10:36:06.643935"
   },
   {
     "id": "8305e860f5d2ac74e449c548d2b9684e",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857299/Italiaanse-inflatie-iets-minder-scherp-gestegen.aspx",
     "intro": "De Italiaanse consumentenprijzen zijn in februari iets minder scherp gestegen dan aanvankelijk voorspeld. Dit bleek dinsdag uit cijfers van Istat, het Italiaanse bureau voor de statistiek.",
     "published_at": "2026-03-17 10:18",
-    "scraped_at": "2026-03-17T09:40:48.766816"
+    "scraped_at": "2026-03-17T10:36:06.643935"
   },
   {
     "id": "0ad8733d2f73b7a105b4cec14087c755",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857298/ABU-uren-in-uitzendbranche-verder-onder-druk.aspx",
     "intro": "Het aantal gewerkte uren in de Nederlandse uitzendsector is in periode 2 van 2026 gedaald, terwijl de omzet iets steeg. Dit bleek dinsdag uit cijfers van brancheorganisatie ABU.",
     "published_at": "2026-03-17 10:14",
-    "scraped_at": "2026-03-17T09:40:48.766816"
+    "scraped_at": "2026-03-17T10:36:06.643935"
   },
   {
     "id": "905df902fdef0a96c4b68499b6e7922e",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857288/AEX-nipt-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong 0,1 procent lager op 1.006,13 punten, terwijl de Midkap ook 0,1 procent prijs gaf.",
     "published_at": "2026-03-17 09:11",
-    "scraped_at": "2026-03-17T09:40:48.766816"
+    "scraped_at": "2026-03-17T10:36:06.643935"
   },
   {
     "id": "6160926c52babd3be945707c68834254",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857283/Envipco-presenteert-nieuwe-CEO.aspx",
     "intro": "Envipco heeft een opvolger voor CEO Simon Bolton gevonden. Dit bleek dinsdag voorbeurs.",
     "published_at": "2026-03-17 08:17",
-    "scraped_at": "2026-03-17T09:40:48.766816"
+    "scraped_at": "2026-03-17T10:36:06.643935"
   },
   {
     "id": "85201d7675242c3925d55b80dcdcd74d",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857281/AEX-vermoedelijk-licht-lager-van-start-na-onder-meer-Australische-renteverhoging.aspx",
     "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,2 procent.",
     "published_at": "2026-03-17 08:07",
-    "scraped_at": "2026-03-17T09:40:48.766816"
-  },
-  {
-    "id": "639ea0c2ea727965dd07285447aa231b",
-    "categorie": "Beursnieuws",
-    "titel": "SEC wil af van verplichte kwartaalcijfers",
-    "link": "https://www.beurs.nl/Nieuws/857278/SEC-wil-af-van-verplichte-kwartaalcijfers.aspx",
-    "intro": "De Amerikaanse beurswaakhond SEC bereidt een voorstel voor om de rapportagedruk bij bedrijven te verlagen. Dit melden de Wall Street Journal op basis van bronnen.",
-    "published_at": "2026-03-17 07:50",
-    "scraped_at": "2026-03-17T09:40:48.766816"
-  },
-  {
-    "id": "2ead6ff276e32a5353aec78d0415f0a9",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen verdeeld na Australische renteverhoging",
-    "link": "https://www.beurs.nl/Nieuws/857275/Aziatische-beurzen-verdeeld-na-Australische-renteverhoging.aspx",
-    "intro": "De Aziatische beurzen noteerden dinsdagochtend verdeeld, met beperkte uitslagen. De stemming werd mede bepaald door een  Australische renteverhoging en positief nieuws van Nvidia op Wall Street.",
-    "published_at": "2026-03-17 07:39",
-    "scraped_at": "2026-03-17T09:40:48.766816"
-  },
-  {
-    "id": "8c535b2d88a23d2aeaa307c859c21431",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe huurder voor CTP in Polen",
-    "link": "https://www.beurs.nl/Nieuws/857272/Nieuwe-huurder-voor-CTP-in-Polen.aspx",
-    "intro": "Windar Renovables opent een tweede productielocatie in Polen op het CTPark Legnica. Dit maakte CTP dinsdagochtend bekend.",
-    "published_at": "2026-03-17 07:35",
-    "scraped_at": "2026-03-17T09:40:48.766816"
-  },
-  {
-    "id": "4374e7abdb3431f343777dad19a23322",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel ASMI onder druk in komende maanden",
-    "link": "https://www.beurs.nl/Nieuws/857270/Aandeel-ASMI-onder-druk-in-komende-maanden.aspx",
-    "intro": "Het aandeel ASMI zal de komende 6 tot 12 maanden minder presteren dan dat van sectorgenoten. Dit is de verwachting van zakenbank Jefferies, dat een Underperform advies hanteert met een koersdoel van 600,00 euro.",
-    "published_at": "2026-03-17 07:20",
-    "scraped_at": "2026-03-17T09:40:48.766816"
+    "scraped_at": "2026-03-17T10:36:06.643935"
   }
 ]
