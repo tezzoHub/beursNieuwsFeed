@@ -1,12 +1,39 @@
 [
   {
+    "id": "5ef491132b127c0dfbf572b09948880f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: kwartaalresultaten Inpost vallen tegen",
+    "link": "https://www.beurs.nl/Nieuws/857451/Beursblik-kwartaalresultaten-Inpost-vallen-tegen.aspx",
+    "intro": "Inpost heeft in het vierde kwartaal van 2025 zwakker gepresteerd dan verwacht. Dit oordeelde analist David Kerstens van Jefferies woensdag in een rapport.",
+    "published_at": "2026-03-18 08:45",
+    "scraped_at": "2026-03-18T08:03:26.963834"
+  },
+  {
+    "id": "012a7bff381ddc675d3c7afe54c28f07",
+    "categorie": "Beursnieuws",
+    "titel": "Hellofresh ziet omzet teruglopen",
+    "link": "https://www.beurs.nl/Nieuws/857448/Hellofresh-ziet-omzet-teruglopen.aspx",
+    "intro": "Hellofresh heeft in 2025 de omzet zien teruglopen, terwijl de winstgevendheid aantrok. Dit bleek woensdag uit cijfers van de maaltijdbezorger.",
+    "published_at": "2026-03-18 08:34",
+    "scraped_at": "2026-03-18T08:03:26.963834"
+  },
+  {
+    "id": "bc5869c2bfd5ff6b2783e7caa3eb306b",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/857442/Hogere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong XXX procent in het [GROEN/ROOD]. Dinsdag eindigde de hoofdgraadmeter al een half procent hoger op 1.012,81 punten.",
+    "published_at": "2026-03-18 08:03",
+    "scraped_at": "2026-03-18T08:03:26.963834"
+  },
+  {
     "id": "04a8624aac7d3c59ee5c34d5ddd2eae0",
     "categorie": "Beursnieuws",
     "titel": "Aziatische beurzen op winst",
     "link": "https://www.beurs.nl/Nieuws/857439/Aziatische-beurzen-op-winst.aspx",
     "intro": "De Aziatische beurzen koersten woensdag hoger, waarbij vooral de winsten in Japan opvielen.",
     "published_at": "2026-03-18 07:38",
-    "scraped_at": "2026-03-18T07:04:14.306123"
+    "scraped_at": "2026-03-18T08:03:26.963834"
   },
   {
     "id": "613668727f1130bcc260fb3314f0a217",
@@ -15,7 +42,16 @@
     "link": "https://www.beurs.nl/Nieuws/857436/Avantium-ziet-omzet-en-verlies-afnemen.aspx",
     "intro": "Avantium heeft in 2025 minder omzet behaald, maar wist ook het verlies terug te dringen. Dit bleek woensdag uit cijfers van het bioplasticbedrijf.",
     "published_at": "2026-03-18 07:23",
-    "scraped_at": "2026-03-18T07:04:14.306123"
+    "scraped_at": "2026-03-18T08:03:26.963834"
+  },
+  {
+    "id": "8829da6f0726a2926b3ed875406c97b4",
+    "categorie": "Beursnieuws",
+    "titel": "Winst Inpost onder druk",
+    "link": "https://www.beurs.nl/Nieuws/857435/Winst-Inpost-onder-druk.aspx",
+    "intro": "Inpost heeft in het vierde kwartaal van 2025 de winst flink onder druk zien staan, mede door de consolidatie van Yodel. Dit bleek woensdag uit cijfers van de Poolse aanbieder van pakketkluisjes met een notering aan het Damrak.",
+    "published_at": "2026-03-18 07:22",
+    "scraped_at": "2026-03-18T08:03:26.963834"
   },
   {
     "id": "d7171077bd57cf6cf62bd8a619bf6681",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857434/Europese-beurzen-openen-hoger.aspx",
     "intro": "De Europese beurzen gaan woensdag een groene opening tegemoet, na een hoger slot op dinsdag. Naast al het nieuws rond de oorlog, zal de aandacht vandaag vooral uitgaan naar het Amerikaanse rentebesluit. Ook staan inflatiecijfers uit de eurozone en VS op de rol.",
     "published_at": "2026-03-18 06:55",
-    "scraped_at": "2026-03-18T07:04:14.306123"
+    "scraped_at": "2026-03-18T08:03:26.963834"
   },
   {
     "id": "90a3a8b9dd396d6652a113d659918b3e",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857432/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 25 maart 2026:",
     "published_at": "2026-03-18 06:51",
-    "scraped_at": "2026-03-18T07:04:14.306123"
+    "scraped_at": "2026-03-18T08:03:26.963834"
   },
   {
     "id": "0b5a36e7533e2ee4e986007375c293fa",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857433/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 25 maart 2026:",
     "published_at": "2026-03-18 06:51",
-    "scraped_at": "2026-03-18T07:04:14.306123"
+    "scraped_at": "2026-03-18T08:03:26.963834"
   },
   {
     "id": "c8fc09f51e92ca7d285079d06e0e9e77",
@@ -51,6 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857430/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 25 maart 2026:",
     "published_at": "2026-03-18 06:50",
-    "scraped_at": "2026-03-18T07:04:14.306123"
+    "scraped_at": "2026-03-18T08:03:26.963834"
   }
 ]
