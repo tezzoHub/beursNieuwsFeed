@@ -1,12 +1,39 @@
 [
   {
+    "id": "4d8ddbbac4b676d8377c17c6948345d4",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Macquarie biedt mogelijk op Europese hernieuwbare energietak Shell",
+    "link": "https://www.beurs.nl/Nieuws/857557/Media-Macquarie-biedt-mogelijk-op-Europese-hernieuwbare-energietak-Shell.aspx",
+    "intro": "Macquarie Group wil mogelijk een bod doen op de hernieuwbare-energieactiviteiten van Shell op het Europese vasteland. Dat meldde persbureau Reuters woensdag.",
+    "published_at": "2026-03-18 17:54",
+    "scraped_at": "2026-03-18T17:47:34.276932"
+  },
+  {
+    "id": "7e13d81aa3b40bc3bff7d499c0db9fca",
+    "categorie": "Beursnieuws",
+    "titel": "AEX lager gesloten door hogere olieprijzen en oplopende Amerikaanse inflatie",
+    "link": "https://www.beurs.nl/Nieuws/857556/AEX-lager-gesloten-door-hogere-olieprijzen-en-oplopende-Amerikaanse-inflatie.aspx",
+    "intro": "De Amsterdamse beurs is woensdag na een positieve opening toch lager gesloten. De olieprijzen liepen weer op, net als de Amerikaanse producentenprijzen, in afwachting van het rentebesluit van de Fed van vanavond.",
+    "published_at": "2026-03-18 17:50",
+    "scraped_at": "2026-03-18T17:47:34.276932"
+  },
+  {
+    "id": "c60cf612b7b4fd505eb4fa0c286c78fe",
+    "categorie": "Redactioneel",
+    "titel": "Slotcall: AEX kukelt omver na sterke Amerikaanse producentenprijzen",
+    "link": "https://www.iex.nl/artikel/857550/Slotcall-AEX-kukelt-omver-na-sterke-Amerikaanse-producentenprijzen.aspx",
+    "intro": "Het leek vandaag weer voorzichtig de goede kant op te gaan. De opening was iets hoger, maar van dat optimisme in de ochtend is richting het sluiten van de beurs maar weinig over.",
+    "published_at": "2026-03-18 17:35",
+    "scraped_at": "2026-03-18T17:47:34.276932"
+  },
+  {
     "id": "055cff31d435d278ec9537575f9c7e97",
     "categorie": "Beursnieuws",
     "titel": "Media: Cryptobeurs Kraken pauzeert beursplannen",
     "link": "https://www.beurs.nl/Nieuws/857547/Media-Cryptobeurs-Kraken-pauzeert-beursplannen.aspx",
     "intro": "Cryptobeurs Kraken heeft zijn plannen voor een beursnotering voorlopig opgeschort vanwege moeilijke marktomstandigheden. Dit meldde Coindesk woensdag op basis van ingewijden.",
     "published_at": "2026-03-18 16:47",
-    "scraped_at": "2026-03-18T16:35:29.187943"
+    "scraped_at": "2026-03-18T17:47:34.276932"
   },
   {
     "id": "dbb0008d0b01669c207f09048898126a",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857539/Van-Lanschot-Kempen-houdt-zich-op-de-vlakte.aspx",
     "intro": "Van Lanschot Kempen Investment Management verkent continu de opties om de activiteiten op het gebied van beursgenoteerde beleggingsstrategieën te versterken, voor verdere groei en om waarde te creëren voor klanten. Dit stelde Van Lanschot Kempen woensdag naar aanleiding van een bericht van persbureau Bloomberg, dat een onderdeel van de vermogensbeheertak strategisch tegen het licht zou worden gehouden.",
     "published_at": "2026-03-18 16:08",
-    "scraped_at": "2026-03-18T16:35:29.187943"
+    "scraped_at": "2026-03-18T17:47:34.276932"
   },
   {
     "id": "88ade53744ae05978d220a41b832f3df",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857535/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 26 maart 2026:",
     "published_at": "2026-03-18 16:00",
-    "scraped_at": "2026-03-18T16:35:29.187943"
+    "scraped_at": "2026-03-18T17:47:34.276932"
   },
   {
     "id": "b31b31c747cbaa730fea4b9cde1d0f24",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857536/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 26 maart 2026:",
     "published_at": "2026-03-18 16:00",
-    "scraped_at": "2026-03-18T16:35:29.187943"
+    "scraped_at": "2026-03-18T17:47:34.276932"
   },
   {
     "id": "48f0aa80f0b5fab40902e44520f8d3b2",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857537/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 26 maart 2026:",
     "published_at": "2026-03-18 16:00",
-    "scraped_at": "2026-03-18T16:35:29.187943"
+    "scraped_at": "2026-03-18T17:47:34.276932"
   },
   {
     "id": "af49aacd461c3806894026ae3f72468a",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857534/Bank-of-Canada-handhaaft-rente.aspx",
     "intro": "De Bank of Canada heeft woensdag de rente onveranderd gelaten. Dit bleek uit het rentebesluit dat de centrale bank nam.",
     "published_at": "2026-03-18 15:48",
-    "scraped_at": "2026-03-18T16:35:29.187943"
+    "scraped_at": "2026-03-18T17:47:34.276932"
   },
   {
     "id": "bda5c15952bc6f2fd40c897ac7085157",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857531/Amerikaanse-olievoorraden-nemen-fors-toe.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-03-18 15:37",
-    "scraped_at": "2026-03-18T16:35:29.187943"
-  },
-  {
-    "id": "63cb458feb174ca86043ee7834283701",
-    "categorie": "Beursnieuws",
-    "titel": "Globant en Adyen slaan handen ineen",
-    "link": "https://www.beurs.nl/Nieuws/857515/Globant-en-Adyen-slaan-handen-ineen.aspx",
-    "intro": "Globant en Adyen hebben een wereldwijde strategische samenwerking aangekondigd, waarbij Globant de rol van vaste integratiepartner voor het betalingsplatform van Adyen op zich neemt. Dit maakten de twee bedrijven woensdag bekend.",
-    "published_at": "2026-03-18 15:24",
-    "scraped_at": "2026-03-18T16:35:29.187943"
-  },
-  {
-    "id": "e21fd4a45f6a0f712e896a91a9f86b87",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Trump schort scheepvaartwet tijdelijk op",
-    "link": "https://www.beurs.nl/Nieuws/857528/Media-Trump-schort-scheepvaartwet-tijdelijk-op.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft de Jones Act voor zestig dagen buiten werking gesteld om de oliemarkt te stabiliseren, die door de oorlog met Iran onder hevige druk staat. Dit bevestigde het Witte Huis woensdag aan de Amerikaanse zakenzender CNBC.",
-    "published_at": "2026-03-18 15:22",
-    "scraped_at": "2026-03-18T16:35:29.187943"
-  },
-  {
-    "id": "3de253ed00525ca96a67e6aa50f84bce",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse fabrieksorders licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/857527/Amerikaanse-fabrieksorders-licht-gestegen.aspx",
-    "intro": "De Amerikaanse fabrieksorders zijn in januari licht gestegen, na een daling in de maand ervoor. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-03-18 15:06",
-    "scraped_at": "2026-03-18T16:35:29.187943"
+    "scraped_at": "2026-03-18T17:47:34.276932"
   }
 ]
