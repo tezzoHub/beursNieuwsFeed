@@ -1,12 +1,39 @@
 [
   {
+    "id": "0cba8355e4ab8c433aa220c1bc675576",
+    "categorie": "Beursnieuws",
+    "titel": "ING schrapt dankzij AI 1.250 banen",
+    "link": "https://www.beurs.nl/Nieuws/857494/ING-schrapt-dankzij-AI-1250-banen.aspx",
+    "intro": "ING schrapt in 2026 circa 1.250 banen dankzij AI. Dit bleek woensdag uit een presentatie die de Nederlandse bank verzorgt tijdens de Morgan Stanley European Financials Conference 2026.",
+    "published_at": "2026-03-18 12:49",
+    "scraped_at": "2026-03-18T12:02:36.455301"
+  },
+  {
+    "id": "6b14ea783ca67e92e98c9424e9f53313",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op hogere opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/857492/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,3 procent in het groen. De Nasdaq lijkt een half procent hoger te gaan openen.",
+    "published_at": "2026-03-18 12:41",
+    "scraped_at": "2026-03-18T12:02:36.455301"
+  },
+  {
+    "id": "3837d79e6484e322a178dfff83f8f2e0",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/857489/Europese-beurzen-in-het-groen.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger.",
+    "published_at": "2026-03-18 12:23",
+    "scraped_at": "2026-03-18T12:02:36.455301"
+  },
+  {
     "id": "d50cb1e9fb92f09b2c358be63593cce7",
     "categorie": "Beursnieuws",
     "titel": "Halfgeleiders in trek in groene AEX",
     "link": "https://www.beurs.nl/Nieuws/857483/Halfgeleiders-in-trek-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend hoger. Kort na de klok van elf uur won de AEX 0,2 procent op 1.014,45 punten.",
     "published_at": "2026-03-18 11:19",
-    "scraped_at": "2026-03-18T11:12:45.492103"
+    "scraped_at": "2026-03-18T12:02:36.455301"
   },
   {
     "id": "b1901be9b912feae670ca888f283006f",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857475/Inflatie-eurozone-gestegen.aspx",
     "intro": "De inflatie in de eurozone is in februari toegenomen. Dit bleek woensdag uit definitieve cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-03-18 11:06",
-    "scraped_at": "2026-03-18T11:12:45.492103"
+    "scraped_at": "2026-03-18T12:02:36.455301"
   },
   {
     "id": "844dea2270e00629b1a6fe822538c45e",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857469/Beursblik-UBS-verlaagt-koersdoel-Universal-Music-stevig.aspx",
     "intro": "UBS heeft woensdag het koersdoel voor Universal Music Group verlaagd van 28,00 naar 18,00 euro, met een ongewijzigd Neutraal advies. Dit bleek uit een analistenrapport van de Zwitserse zakenbank.",
     "published_at": "2026-03-18 10:37",
-    "scraped_at": "2026-03-18T11:12:45.492103"
+    "scraped_at": "2026-03-18T12:02:36.455301"
   },
   {
     "id": "7d8dd9ff1eaf7dac1d7d3676064bf56c",
@@ -33,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/857452/Must-read-Veel-te-doen-om-geen-rentewijziging.aspx",
     "intro": "Plus: hedgefondsen doen niet wat hedgefondsen moeten doen, lessen van Buffett, en het nieuwe kabinet heeft \"echt forse tegenvallers\" te slikken.",
     "published_at": "2026-03-18 10:15",
-    "scraped_at": "2026-03-18T11:12:45.492103"
+    "scraped_at": "2026-03-18T12:02:36.455301"
   },
   {
     "id": "08e2d1cb09fae0e7a21e7ddd09e1f219",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857466/Dubbelcijferige-winstgroei-voor-Tencent.aspx",
     "intro": "Tencent heeft in het vierde kwartaal de omzet en winst met dubbele cijfers zien stijgen, wat resulteerde in een dividendverhoging. Dit bleek woensdag uit cijfers van de Chinese techreus, waarin het in Amsterdam genoteerde Prosus een flink belang heeft.",
     "published_at": "2026-03-18 10:06",
-    "scraped_at": "2026-03-18T11:12:45.492103"
+    "scraped_at": "2026-03-18T12:02:36.455301"
   },
   {
     "id": "24070fca5b34e8e9d24194b444662563",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857465/Beursblik-mogelijke-afsplitsing-voedingsmiddelentak-Unilever-verrast-niet.aspx",
     "intro": "Unilever heeft een paar harde noten te kraken als het de voedingsmiddelentak wil afsplitsen. Dit stelden analisten van Jefferies woensdag in een rapport.",
     "published_at": "2026-03-18 09:58",
-    "scraped_at": "2026-03-18T11:12:45.492103"
+    "scraped_at": "2026-03-18T12:02:36.455301"
   },
   {
     "id": "feaa29322815afe294b086d2650f1050",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857462/Beursblik-Degroof-verlaagt-koersdoel-Avantium.aspx",
     "intro": "Degroof Petercam heeft het koersdoel voor Avantium verlaagd van 12,00 naar 10,00 euro met een herhaling van het koopadvies. Dit bleek woensdag uit een rapport van analist Fernand de Boer.",
     "published_at": "2026-03-18 09:38",
-    "scraped_at": "2026-03-18T11:12:45.492103"
-  },
-  {
-    "id": "ab165e421f9b29d7095d9bcdbbe590e6",
-    "categorie": "Beursnieuws",
-    "titel": "Arcadis werkt aan scenarioplanning voor wereldkampioenschap voetbal in Houston",
-    "link": "https://www.beurs.nl/Nieuws/857458/Arcadis-werkt-aan-scenarioplanning-voor-wereldkampioenschap-voetbal-in-Houston.aspx",
-    "intro": "Arcadis is geselecteerd door Houston Galveston Area Council voor scenarioplanning in aanloop naar het wereldkampioenschap voetbal in 2026. Dit maakte het ingenieurs- en adviesbureau woensdag bekend.",
-    "published_at": "2026-03-18 09:17",
-    "scraped_at": "2026-03-18T11:12:45.492103"
-  },
-  {
-    "id": "81dbd2282aca46b87f44b047161e2034",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger geopend",
-    "link": "https://www.beurs.nl/Nieuws/857455/AEX-hoger-geopend.aspx",
-    "intro": "De Amsterdamse beurs is woensdag hoger geopend. Kort na opening, koerste de AEX 0,4 procent hoger op 1.016,32 punten.",
-    "published_at": "2026-03-18 09:09",
-    "scraped_at": "2026-03-18T11:12:45.492103"
-  },
-  {
-    "id": "cb7cae3579749e1f6041ce4c793d85d0",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies: \"Kwartaalresultaten Inpost vallen tegen\"",
-    "link": "https://www.beurs.nl/Nieuws/857451/Jefferies-Kwartaalresultaten-Inpost-vallen-tegen.aspx",
-    "intro": "Inpost heeft in het vierde kwartaal van 2025 zwakker gepresteerd dan verwacht. Dit oordeelde analist David Kerstens van Jefferies woensdag in een rapport.",
-    "published_at": "2026-03-18 08:45",
-    "scraped_at": "2026-03-18T11:12:45.492103"
+    "scraped_at": "2026-03-18T12:02:36.455301"
   }
 ]
