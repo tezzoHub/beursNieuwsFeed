@@ -1,92 +1,56 @@
 [
   {
-    "id": "ea69f3d265d0e4a535f94ab7434f1fec",
+    "id": "04a8624aac7d3c59ee5c34d5ddd2eae0",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel Prosus licht",
-    "link": "https://www.beurs.nl/Nieuws/857400/Beursblik-Jefferies-verhoogt-koersdoel-Prosus-licht.aspx",
-    "intro": "Jefferies heeft het koersdoel voor Prosus licht verhoogd, van 65,50 naar 66,50 euro, met een ongewijzigde koopaanbeveling. Dit bleek dinsdagavond uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-03-17 21:27",
-    "scraped_at": "2026-03-18T05:54:28.167701"
+    "titel": "Aziatische beurzen op winst",
+    "link": "https://www.beurs.nl/Nieuws/857439/Aziatische-beurzen-op-winst.aspx",
+    "intro": "De Aziatische beurzen koersten woensdag hoger, waarbij vooral de winsten in Japan opvielen.",
+    "published_at": "2026-03-18 07:38",
+    "scraped_at": "2026-03-18T07:04:14.306123"
   },
   {
-    "id": "b3684d0c72692c36118efdf14bb189ad",
+    "id": "613668727f1130bcc260fb3314f0a217",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/857399/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-03-17 21:17",
-    "scraped_at": "2026-03-18T05:54:28.167701"
+    "titel": "Avantium ziet omzet en verlies afnemen",
+    "link": "https://www.beurs.nl/Nieuws/857436/Avantium-ziet-omzet-en-verlies-afnemen.aspx",
+    "intro": "Avantium heeft in 2025 minder omzet behaald, maar wist ook het verlies terug te dringen. Dit bleek woensdag uit cijfers van het bioplasticbedrijf.",
+    "published_at": "2026-03-18 07:23",
+    "scraped_at": "2026-03-18T07:04:14.306123"
   },
   {
-    "id": "b88de755b4973741505f000d585c6166",
+    "id": "d7171077bd57cf6cf62bd8a619bf6681",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street houdt winsten vast",
-    "link": "https://www.beurs.nl/Nieuws/857397/Wall-Street-houdt-winsten-vast.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag licht hoger geëindigd, terwijl de olieprijzen weer opliepen te midden van de onzekerheid rond de Straat van Hormuz.",
-    "published_at": "2026-03-17 21:12",
-    "scraped_at": "2026-03-18T05:54:28.167701"
+    "titel": "Europese beurzen openen hoger",
+    "link": "https://www.beurs.nl/Nieuws/857434/Europese-beurzen-openen-hoger.aspx",
+    "intro": "De Europese beurzen gaan woensdag een groene opening tegemoet, na een hoger slot op dinsdag. Naast al het nieuws rond de oorlog, zal de aandacht vandaag vooral uitgaan naar het Amerikaanse rentebesluit. Ook staan inflatiecijfers uit de eurozone en VS op de rol.",
+    "published_at": "2026-03-18 06:55",
+    "scraped_at": "2026-03-18T07:04:14.306123"
   },
   {
-    "id": "82aef718eec6dc9426ded96d3cefd8a6",
+    "id": "90a3a8b9dd396d6652a113d659918b3e",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs nadert hoogste punt van het jaar",
-    "link": "https://www.beurs.nl/Nieuws/857391/Olieprijs-nadert-hoogste-punt-van-het-jaar.aspx",
-    "intro": "De olieprijs is dinsdag weer gestegen, na een korte dip op maandag, nu het scheepvaartverkeer in de Straat van Hormuz nog altijd bijna stil ligt.",
-    "published_at": "2026-03-17 20:03",
-    "scraped_at": "2026-03-18T05:54:28.167701"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/857432/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 25 maart 2026:",
+    "published_at": "2026-03-18 06:51",
+    "scraped_at": "2026-03-18T07:04:14.306123"
   },
   {
-    "id": "baaaf4e70f5e91f8cff6cc4b3d04decf",
+    "id": "0b5a36e7533e2ee4e986007375c293fa",
     "categorie": "Beursnieuws",
-    "titel": "Media: Unilever overweegt mogelijke afsplitsing voedingsmiddelentak",
-    "link": "https://www.beurs.nl/Nieuws/857390/Media-Unilever-overweegt-mogelijke-afsplitsing-voedingsmiddelentak.aspx",
-    "intro": "Unilever overweegt een afsplitsing van zijn voedingsmiddelentak, nu het bedrijf op zoek is naar manieren om de activiteiten verder te stroomlijnen. Dit meldden bronnen dinsdag aan persbureau Bloomberg.",
-    "published_at": "2026-03-17 19:56",
-    "scraped_at": "2026-03-18T05:54:28.167701"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/857433/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 25 maart 2026:",
+    "published_at": "2026-03-18 06:51",
+    "scraped_at": "2026-03-18T07:04:14.306123"
   },
   {
-    "id": "230c07f780d068567a2f4a7c4257d724",
+    "id": "c8fc09f51e92ca7d285079d06e0e9e77",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst voorzichtig hoger",
-    "link": "https://www.beurs.nl/Nieuws/857387/Wall-Street-koerst-voorzichtig-hoger.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag licht hoger met nog anderhalf uur handel te gaan.",
-    "published_at": "2026-03-17 19:40",
-    "scraped_at": "2026-03-18T05:54:28.167701"
-  },
-  {
-    "id": "4f1f56cc24791b7f9987bfa997a3a985",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: lat voor renteverhoging Bank of England ligt hoog",
-    "link": "https://www.beurs.nl/Nieuws/857382/Beursblik-lat-voor-renteverhoging-Bank-of-England-ligt-hoog.aspx",
-    "intro": "De Bank of England zal de rente donderdag vermoedelijk laten staan op 3,75 procent, net als in februari, nadat de rente in december nog met 25 basispunten werd verlaags. Dit is de verwachting in aanloop naar het Britse rentebesluit.",
-    "published_at": "2026-03-17 18:57",
-    "scraped_at": "2026-03-18T05:54:28.167701"
-  },
-  {
-    "id": "3b3d9d83080891434b6be297337fa8e3",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen schudden nervositeit af",
-    "link": "https://www.beurs.nl/Nieuws/857381/Europese-beurzen-schudden-nervositeit-af.aspx",
-    "intro": "De Europese aandelenmarkten zijn dinsdag hoger geëindigd, na een nerveuze handelsdag, terwijl de olieprijzen volatiel reageerden op al het nieuws rond de oorlog in het Midden-Oosten.",
-    "published_at": "2026-03-17 18:47",
-    "scraped_at": "2026-03-18T05:54:28.167701"
-  },
-  {
-    "id": "caaf6085e8b98601d2e9e044883acc6a",
-    "categorie": "Redactioneel",
-    "titel": "IEX Slotcall: Beleggers rekenen blijkbaar op snel einde conflict met Iran",
-    "link": "https://www.iex.nl/artikel/857370/IEX-Slotcall-Beleggers-rekenen-blijkbaar-op-snel-einde-conflict-met-Iran.aspx",
-    "intro": "",
-    "published_at": "2026-03-17 17:55",
-    "scraped_at": "2026-03-18T05:54:28.167701"
-  },
-  {
-    "id": "a84741e7d860097690726bb567777ef0",
-    "categorie": "Beursnieuws",
-    "titel": "Besi en Shell leiden AEX naar groen slot",
-    "link": "https://www.beurs.nl/Nieuws/857377/Besi-en-Shell-leiden-AEX-naar-groen-slot.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, ondanks dat de olieprijs verder opliep tot ruim 100 dollar per vat, na dagen met wisselend optimisme over hoe lang de Straat van Hormuz dicht zal blijven door de oorlog tussen de Verenigde Staten en Iran.",
-    "published_at": "2026-03-17 17:53",
-    "scraped_at": "2026-03-18T05:54:28.167701"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/857430/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 25 maart 2026:",
+    "published_at": "2026-03-18 06:50",
+    "scraped_at": "2026-03-18T07:04:14.306123"
   }
 ]
