@@ -1,12 +1,75 @@
 [
   {
+    "id": "88ade53744ae05978d220a41b832f3df",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/857535/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 26 maart 2026:",
+    "published_at": "2026-03-18 16:00",
+    "scraped_at": "2026-03-18T15:12:13.183234"
+  },
+  {
+    "id": "b31b31c747cbaa730fea4b9cde1d0f24",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/857536/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 26 maart 2026:",
+    "published_at": "2026-03-18 16:00",
+    "scraped_at": "2026-03-18T15:12:13.183234"
+  },
+  {
+    "id": "48f0aa80f0b5fab40902e44520f8d3b2",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/857537/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 26 maart 2026:",
+    "published_at": "2026-03-18 16:00",
+    "scraped_at": "2026-03-18T15:12:13.183234"
+  },
+  {
+    "id": "af49aacd461c3806894026ae3f72468a",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of Canada handhaaft rente",
+    "link": "https://www.beurs.nl/Nieuws/857534/Bank-of-Canada-handhaaft-rente.aspx",
+    "intro": "De Bank of Canada heeft woensdag de rente onveranderd gelaten. Dit bleek uit het rentebesluit dat de centrale bank nam.",
+    "published_at": "2026-03-18 15:48",
+    "scraped_at": "2026-03-18T15:12:13.183234"
+  },
+  {
+    "id": "bda5c15952bc6f2fd40c897ac7085157",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden nemen fors toe",
+    "link": "https://www.beurs.nl/Nieuws/857531/Amerikaanse-olievoorraden-nemen-fors-toe.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-03-18 15:37",
+    "scraped_at": "2026-03-18T15:12:13.183234"
+  },
+  {
     "id": "63cb458feb174ca86043ee7834283701",
     "categorie": "Beursnieuws",
     "titel": "Globant en Adyen slaan handen ineen",
     "link": "https://www.beurs.nl/Nieuws/857515/Globant-en-Adyen-slaan-handen-ineen.aspx",
     "intro": "Globant en Adyen hebben een wereldwijde strategische samenwerking aangekondigd, waarbij Globant de rol van vaste integratiepartner voor het betalingsplatform van Adyen op zich neemt. Dit maakten de twee bedrijven woensdag bekend.",
-    "published_at": "2026-03-18 14:24",
-    "scraped_at": "2026-03-18T13:56:55.889092"
+    "published_at": "2026-03-18 15:24",
+    "scraped_at": "2026-03-18T15:12:13.183234"
+  },
+  {
+    "id": "e21fd4a45f6a0f712e896a91a9f86b87",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Trump schort scheepvaartwet tijdelijk op",
+    "link": "https://www.beurs.nl/Nieuws/857528/Media-Trump-schort-scheepvaartwet-tijdelijk-op.aspx",
+    "intro": "De Amerikaanse president Donald Trump heeft de Jones Act voor zestig dagen buiten werking gesteld om de oliemarkt te stabiliseren, die door de oorlog met Iran onder hevige druk staat. Dit bevestigde het Witte Huis woensdag aan de Amerikaanse zakenzender CNBC.",
+    "published_at": "2026-03-18 15:22",
+    "scraped_at": "2026-03-18T15:12:13.183234"
+  },
+  {
+    "id": "3de253ed00525ca96a67e6aa50f84bce",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse fabrieksorders licht gestegen",
+    "link": "https://www.beurs.nl/Nieuws/857527/Amerikaanse-fabrieksorders-licht-gestegen.aspx",
+    "intro": "De Amerikaanse fabrieksorders zijn in januari licht gestegen, na een daling in de maand ervoor. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-03-18 15:06",
+    "scraped_at": "2026-03-18T15:12:13.183234"
   },
   {
     "id": "92e61757569d5b3a6969659d8932e8f1",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857513/Futures-Wall-Street-zakken-weg-na-tegenvaller-bij-producentenprijzen.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,4 procent in het rood, terwijl de olieprijzen weer stijgen.",
     "published_at": "2026-03-18 14:04",
-    "scraped_at": "2026-03-18T13:56:55.889092"
+    "scraped_at": "2026-03-18T15:12:13.183234"
   },
   {
     "id": "673dd89dbfc0501bd79eabbfd92f870f",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857512/Amerikaanse-producentenprijzen-sterker-gestegen.aspx",
     "intro": "De producentenprijzen in de Verenigde Staten zijn in februari iets harder gestegen dan in de voorgaande maanden. Dit meldde het Amerikaanse ministerie van Arbeid woensdag.",
     "published_at": "2026-03-18 13:48",
-    "scraped_at": "2026-03-18T13:56:55.889092"
-  },
-  {
-    "id": "af6deb6a8108c078b782fce1968769a0",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil 2 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/857507/Obligatie-Nederland-wil-2-miljard-euro-ophalen.aspx",
-    "intro": "Nederland wil dinsdag 24 maart tot 2 miljard euro ophalen met de heropening van een langlopende lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-03-18 13:44",
-    "scraped_at": "2026-03-18T13:56:55.889092"
-  },
-  {
-    "id": "3672ac76db38bddcf271c0cbffcf876f",
-    "categorie": "Beursnieuws",
-    "titel": "Tencent spendeert minder aan inkoop van eigen aandelen",
-    "link": "https://www.beurs.nl/Nieuws/857505/Tencent-spendeert-minder-aan-inkoop-van-eigen-aandelen.aspx",
-    "intro": "Tencent zal dit jaar minder eigen aandelen inkopen. Dit bleek uit een presentatie die de Chinese internetgigant gaf na publicatie van de cijfers over het vierde kwartaal.",
-    "published_at": "2026-03-18 13:39",
-    "scraped_at": "2026-03-18T13:56:55.889092"
-  },
-  {
-    "id": "9df4f762d4a5db19fd5a215240631267",
-    "categorie": "Beursnieuws",
-    "titel": "Macy's ziet vergelijkbare omzet onverwachts aantrekken",
-    "link": "https://www.beurs.nl/Nieuws/857496/Macys-ziet-vergelijkbare-omzet-onverwachts-aantrekken.aspx",
-    "intro": "Macy's heeft in het vierde kwartaal de vergelijkbare omzet zien aantrekken, terwijl analisten juist mikten op een krimp. Dit bleek woensdag uit cijfers van de Amerikaanse retailer.",
-    "published_at": "2026-03-18 13:32",
-    "scraped_at": "2026-03-18T13:56:55.889092"
-  },
-  {
-    "id": "0cba8355e4ab8c433aa220c1bc675576",
-    "categorie": "Beursnieuws",
-    "titel": "ING schrapt dankzij AI 1.250 banen",
-    "link": "https://www.beurs.nl/Nieuws/857494/ING-schrapt-dankzij-AI-1250-banen.aspx",
-    "intro": "ING schrapt in 2026 circa 1.250 banen dankzij AI. Dit bleek woensdag uit een presentatie die de Nederlandse bank verzorgt tijdens de Morgan Stanley European Financials Conference 2026.",
-    "published_at": "2026-03-18 12:49",
-    "scraped_at": "2026-03-18T13:56:55.889092"
-  },
-  {
-    "id": "6b14ea783ca67e92e98c9424e9f53313",
-    "categorie": "Beursnieuws",
-    "titel": "Futures wijzen op hogere opening Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/857492/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,3 procent in het groen. De Nasdaq lijkt een half procent hoger te gaan openen.",
-    "published_at": "2026-03-18 12:41",
-    "scraped_at": "2026-03-18T13:56:55.889092"
-  },
-  {
-    "id": "3837d79e6484e322a178dfff83f8f2e0",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/857489/Europese-beurzen-in-het-groen.aspx",
-    "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger.",
-    "published_at": "2026-03-18 12:23",
-    "scraped_at": "2026-03-18T13:56:55.889092"
-  },
-  {
-    "id": "d50cb1e9fb92f09b2c358be63593cce7",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders in trek in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/857483/Halfgeleiders-in-trek-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend hoger. Kort na de klok van elf uur won de AEX 0,2 procent op 1.014,45 punten.",
-    "published_at": "2026-03-18 11:19",
-    "scraped_at": "2026-03-18T13:56:55.889092"
+    "scraped_at": "2026-03-18T15:12:13.183234"
   }
 ]
