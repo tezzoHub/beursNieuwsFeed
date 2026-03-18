@@ -1,12 +1,66 @@
 [
   {
+    "id": "63cb458feb174ca86043ee7834283701",
+    "categorie": "Beursnieuws",
+    "titel": "Globant en Adyen slaan handen ineen",
+    "link": "https://www.beurs.nl/Nieuws/857515/Globant-en-Adyen-slaan-handen-ineen.aspx",
+    "intro": "Globant en Adyen hebben een wereldwijde strategische samenwerking aangekondigd, waarbij Globant de rol van vaste integratiepartner voor het betalingsplatform van Adyen op zich neemt. Dit maakten de twee bedrijven woensdag bekend.",
+    "published_at": "2026-03-18 14:24",
+    "scraped_at": "2026-03-18T13:56:55.889092"
+  },
+  {
+    "id": "92e61757569d5b3a6969659d8932e8f1",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street zakken weg na tegenvaller bij producentenprijzen",
+    "link": "https://www.beurs.nl/Nieuws/857513/Futures-Wall-Street-zakken-weg-na-tegenvaller-bij-producentenprijzen.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,4 procent in het rood, terwijl de olieprijzen weer stijgen.",
+    "published_at": "2026-03-18 14:04",
+    "scraped_at": "2026-03-18T13:56:55.889092"
+  },
+  {
+    "id": "673dd89dbfc0501bd79eabbfd92f870f",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse producentenprijzen sterker gestegen",
+    "link": "https://www.beurs.nl/Nieuws/857512/Amerikaanse-producentenprijzen-sterker-gestegen.aspx",
+    "intro": "De producentenprijzen in de Verenigde Staten zijn in februari iets harder gestegen dan in de voorgaande maanden. Dit meldde het Amerikaanse ministerie van Arbeid woensdag.",
+    "published_at": "2026-03-18 13:48",
+    "scraped_at": "2026-03-18T13:56:55.889092"
+  },
+  {
+    "id": "af6deb6a8108c078b782fce1968769a0",
+    "categorie": "Beursnieuws",
+    "titel": "Obligatie: Nederland wil 2 miljard euro ophalen",
+    "link": "https://www.beurs.nl/Nieuws/857507/Obligatie-Nederland-wil-2-miljard-euro-ophalen.aspx",
+    "intro": "Nederland wil dinsdag 24 maart tot 2 miljard euro ophalen met de heropening van een langlopende lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
+    "published_at": "2026-03-18 13:44",
+    "scraped_at": "2026-03-18T13:56:55.889092"
+  },
+  {
+    "id": "3672ac76db38bddcf271c0cbffcf876f",
+    "categorie": "Beursnieuws",
+    "titel": "Tencent spendeert minder aan inkoop van eigen aandelen",
+    "link": "https://www.beurs.nl/Nieuws/857505/Tencent-spendeert-minder-aan-inkoop-van-eigen-aandelen.aspx",
+    "intro": "Tencent zal dit jaar minder eigen aandelen inkopen. Dit bleek uit een presentatie die de Chinese internetgigant gaf na publicatie van de cijfers over het vierde kwartaal.",
+    "published_at": "2026-03-18 13:39",
+    "scraped_at": "2026-03-18T13:56:55.889092"
+  },
+  {
+    "id": "9df4f762d4a5db19fd5a215240631267",
+    "categorie": "Beursnieuws",
+    "titel": "Macy's ziet vergelijkbare omzet onverwachts aantrekken",
+    "link": "https://www.beurs.nl/Nieuws/857496/Macys-ziet-vergelijkbare-omzet-onverwachts-aantrekken.aspx",
+    "intro": "Macy's heeft in het vierde kwartaal de vergelijkbare omzet zien aantrekken, terwijl analisten juist mikten op een krimp. Dit bleek woensdag uit cijfers van de Amerikaanse retailer.",
+    "published_at": "2026-03-18 13:32",
+    "scraped_at": "2026-03-18T13:56:55.889092"
+  },
+  {
     "id": "0cba8355e4ab8c433aa220c1bc675576",
     "categorie": "Beursnieuws",
     "titel": "ING schrapt dankzij AI 1.250 banen",
     "link": "https://www.beurs.nl/Nieuws/857494/ING-schrapt-dankzij-AI-1250-banen.aspx",
     "intro": "ING schrapt in 2026 circa 1.250 banen dankzij AI. Dit bleek woensdag uit een presentatie die de Nederlandse bank verzorgt tijdens de Morgan Stanley European Financials Conference 2026.",
     "published_at": "2026-03-18 12:49",
-    "scraped_at": "2026-03-18T12:02:36.455301"
+    "scraped_at": "2026-03-18T13:56:55.889092"
   },
   {
     "id": "6b14ea783ca67e92e98c9424e9f53313",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857492/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,3 procent in het groen. De Nasdaq lijkt een half procent hoger te gaan openen.",
     "published_at": "2026-03-18 12:41",
-    "scraped_at": "2026-03-18T12:02:36.455301"
+    "scraped_at": "2026-03-18T13:56:55.889092"
   },
   {
     "id": "3837d79e6484e322a178dfff83f8f2e0",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857489/Europese-beurzen-in-het-groen.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger.",
     "published_at": "2026-03-18 12:23",
-    "scraped_at": "2026-03-18T12:02:36.455301"
+    "scraped_at": "2026-03-18T13:56:55.889092"
   },
   {
     "id": "d50cb1e9fb92f09b2c358be63593cce7",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857483/Halfgeleiders-in-trek-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend hoger. Kort na de klok van elf uur won de AEX 0,2 procent op 1.014,45 punten.",
     "published_at": "2026-03-18 11:19",
-    "scraped_at": "2026-03-18T12:02:36.455301"
-  },
-  {
-    "id": "b1901be9b912feae670ca888f283006f",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone gestegen",
-    "link": "https://www.beurs.nl/Nieuws/857475/Inflatie-eurozone-gestegen.aspx",
-    "intro": "De inflatie in de eurozone is in februari toegenomen. Dit bleek woensdag uit definitieve cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-03-18 11:06",
-    "scraped_at": "2026-03-18T12:02:36.455301"
-  },
-  {
-    "id": "844dea2270e00629b1a6fe822538c45e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: UBS verlaagt koersdoel Universal Music stevig",
-    "link": "https://www.beurs.nl/Nieuws/857469/Beursblik-UBS-verlaagt-koersdoel-Universal-Music-stevig.aspx",
-    "intro": "UBS heeft woensdag het koersdoel voor Universal Music Group verlaagd van 28,00 naar 18,00 euro, met een ongewijzigd Neutraal advies. Dit bleek uit een analistenrapport van de Zwitserse zakenbank.",
-    "published_at": "2026-03-18 10:37",
-    "scraped_at": "2026-03-18T12:02:36.455301"
-  },
-  {
-    "id": "7d8dd9ff1eaf7dac1d7d3676064bf56c",
-    "categorie": "Redactioneel",
-    "titel": "Must read: Veel te doen om geen rentewijziging",
-    "link": "https://www.iex.nl/artikel/857452/Must-read-Veel-te-doen-om-geen-rentewijziging.aspx",
-    "intro": "Plus: hedgefondsen doen niet wat hedgefondsen moeten doen, lessen van Buffett, en het nieuwe kabinet heeft \"echt forse tegenvallers\" te slikken.",
-    "published_at": "2026-03-18 10:15",
-    "scraped_at": "2026-03-18T12:02:36.455301"
-  },
-  {
-    "id": "08e2d1cb09fae0e7a21e7ddd09e1f219",
-    "categorie": "Beursnieuws",
-    "titel": "Dubbelcijferige winstgroei voor Tencent",
-    "link": "https://www.beurs.nl/Nieuws/857466/Dubbelcijferige-winstgroei-voor-Tencent.aspx",
-    "intro": "Tencent heeft in het vierde kwartaal de omzet en winst met dubbele cijfers zien stijgen, wat resulteerde in een dividendverhoging. Dit bleek woensdag uit cijfers van de Chinese techreus, waarin het in Amsterdam genoteerde Prosus een flink belang heeft.",
-    "published_at": "2026-03-18 10:06",
-    "scraped_at": "2026-03-18T12:02:36.455301"
-  },
-  {
-    "id": "24070fca5b34e8e9d24194b444662563",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: mogelijke afsplitsing voedingsmiddelentak Unilever verrast niet",
-    "link": "https://www.beurs.nl/Nieuws/857465/Beursblik-mogelijke-afsplitsing-voedingsmiddelentak-Unilever-verrast-niet.aspx",
-    "intro": "Unilever heeft een paar harde noten te kraken als het de voedingsmiddelentak wil afsplitsen. Dit stelden analisten van Jefferies woensdag in een rapport.",
-    "published_at": "2026-03-18 09:58",
-    "scraped_at": "2026-03-18T12:02:36.455301"
-  },
-  {
-    "id": "feaa29322815afe294b086d2650f1050",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof verlaagt koersdoel Avantium",
-    "link": "https://www.beurs.nl/Nieuws/857462/Beursblik-Degroof-verlaagt-koersdoel-Avantium.aspx",
-    "intro": "Degroof Petercam heeft het koersdoel voor Avantium verlaagd van 12,00 naar 10,00 euro met een herhaling van het koopadvies. Dit bleek woensdag uit een rapport van analist Fernand de Boer.",
-    "published_at": "2026-03-18 09:38",
-    "scraped_at": "2026-03-18T12:02:36.455301"
+    "scraped_at": "2026-03-18T13:56:55.889092"
   }
 ]
