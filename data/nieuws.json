@@ -1,21 +1,39 @@
 [
   {
+    "id": "ea9c9d55f7476b2969424f158b913a9e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX flink lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/857651/Beursupdate-AEX-flink-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong 1,4 procent lager op 985,72 punten, terwijl de Midkap 1,1 procent prijs moest geven.",
+    "published_at": "2026-03-19 09:20",
+    "scraped_at": "2026-03-19T08:26:05.577560"
+  },
+  {
+    "id": "39b3e2fed9323b18cc7493d4ca802498",
+    "categorie": "Beursnieuws",
+    "titel": "Correctie: Flow Traders biedt tokenized assets aan",
+    "link": "https://www.beurs.nl/Nieuws/857631/Correctie-Flow-Traders-biedt-tokenized-assets-aan.aspx",
+    "intro": "Flow Traders gaat 'tokenized' geldmarktfondsen, aandelen, grondstoffen en edelmetalen aanbieden via een rechtstreeks platform voor institutionele partijen, waarin 24 uur per dag kan worden gehandeld. Dit maakte het bedrijf donderdagochtend bekend.",
+    "published_at": "2026-03-19 09:16",
+    "scraped_at": "2026-03-19T08:26:05.577560"
+  },
+  {
+    "id": "394c5de0e4ff58dd4b7d15fda525d721",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Deutsche Bank verlaagt koersdoel Air France-KLM",
+    "link": "https://www.beurs.nl/Nieuws/857640/Beursblik-Deutsche-Bank-verlaagt-koersdoel-Air-France-KLM.aspx",
+    "intro": "Deutsche Bank heeft donderdag het koersdoel voor Air France-KLM verlaagd van 11,00 naar 9,00 euro, met handhaving van het Houden advies. Dit bleek uit een sectorrapport van de Duitse bank.",
+    "published_at": "2026-03-19 08:32",
+    "scraped_at": "2026-03-19T08:26:05.577560"
+  },
+  {
     "id": "e8da7f38de74bd980c759603f0eae8ba",
     "categorie": "Beursnieuws",
     "titel": "Britse werkloosheid blijft op hoogste punt in bijna vijf jaar",
     "link": "https://www.beurs.nl/Nieuws/857637/Britse-werkloosheid-blijft-op-hoogste-punt-in-bijna-vijf-jaar.aspx",
     "intro": "De Britse werkloosheid is in de drie maanden tot en met januari op het hoogste niveau in bijna vijf jaar gebleven. Dit bleek donderdag uit cijfers van het Britse statistiekbureau ONS.",
     "published_at": "2026-03-19 08:20",
-    "scraped_at": "2026-03-19T07:29:54.789737"
-  },
-  {
-    "id": "0c5a35669f781b636ac236588ab6761f",
-    "categorie": "Beursnieuws",
-    "titel": "Flow Traders start platform voor tokenized assets",
-    "link": "https://www.beurs.nl/Nieuws/857631/Flow-Traders-start-platform-voor-tokenized-assets.aspx",
-    "intro": "Flow Traders start een platform voor digitale beleggingen, waarop 24 uur per dag kan worden gehandeld in 'tokenized' geldmarktfondsen, aandelen, grondstoffen en edelmetalen. Dit maakte het bedrijf donderdagochtend bekend.",
-    "published_at": "2026-03-19 08:06",
-    "scraped_at": "2026-03-19T07:29:54.789737"
+    "scraped_at": "2026-03-19T08:26:05.577560"
   },
   {
     "id": "a1072769a346b554222884a553a2f6a4",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857630/AEX-maakt-zich-op-voor-rode-start.aspx",
     "intro": "De Amsterdamse beurs gaat donderdag flink lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,2 procent.",
     "published_at": "2026-03-19 08:04",
-    "scraped_at": "2026-03-19T07:29:54.789737"
+    "scraped_at": "2026-03-19T08:26:05.577560"
   },
   {
     "id": "3b484fa3513d6b03a30fb3908acbabca",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857625/Bank-of-Japan-houdt-rente-ongewijzigd.aspx",
     "intro": "De Bank of Japan heeft donderdag de rente ongewijzigd gelaten. Dit bleek uit het rentebesluit van de Japanse centrale bank.",
     "published_at": "2026-03-19 07:42",
-    "scraped_at": "2026-03-19T07:29:54.789737"
+    "scraped_at": "2026-03-19T08:26:05.577560"
   },
   {
     "id": "6064af57c2d52cf0dd1824e41ea48f38",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857623/Aziatische-beurzen-noteren-stevig-in-het-rood.aspx",
     "intro": "De Aziatische beurzen koersten donderdagochtend flink in het rood, met verliezen oplopend van ruim anderhalf procent voor de ASX 200 in Sydney, tot meer dan drie procent voor de Nikkei index in Tokio.",
     "published_at": "2026-03-19 07:32",
-    "scraped_at": "2026-03-19T07:29:54.789737"
+    "scraped_at": "2026-03-19T08:26:05.577560"
   },
   {
     "id": "29dad34daa93c6f877bd92b37b129dfa",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857620/Werkloosheid-Nederland-loopt-licht-op.aspx",
     "intro": "De Nederlandse werkloosheid is in februari fractioneel opgelopen van 4,0 naar 4,1 procent. Dit bleek donderdag uit cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-03-19 07:17",
-    "scraped_at": "2026-03-19T07:29:54.789737"
+    "scraped_at": "2026-03-19T08:26:05.577560"
   },
   {
     "id": "d4762eec79c54050db549fe0319820f0",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857619/Europese-beurzen-openen-stevig-in-het-rood.aspx",
     "intro": "De Europese beurzen gaan donderdag een lagere opening tegemoet, in afwachting van de rentebesluiten in Europa en het VK en terwijl de olieprijzen weer stevig oplopen.",
     "published_at": "2026-03-19 07:15",
-    "scraped_at": "2026-03-19T07:29:54.789737"
+    "scraped_at": "2026-03-19T08:26:05.577560"
   },
   {
     "id": "c80665bcfd6419e91555194c6175dafd",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857617/Trump-wil-geen-aanvallen-op-Iraans-gasveld.aspx",
     "intro": "De Amerikaanse president Donald Trump wil niet dat er nog aanvallen worden gedaan op het Iraanse South Pars-gasveld. Dit schreef de president vannacht op Truth Social.",
     "published_at": "2026-03-19 07:04",
-    "scraped_at": "2026-03-19T07:29:54.789737"
-  },
-  {
-    "id": "0392cffcbb235fb5aac2feeb7b5e95cf",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/857615/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 26 maart 2026:",
-    "published_at": "2026-03-19 06:50",
-    "scraped_at": "2026-03-19T07:29:54.789737"
-  },
-  {
-    "id": "e88723115cc0b81dd0d8157ee12f766a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/857614/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 26 maart 2026:",
-    "published_at": "2026-03-19 06:49",
-    "scraped_at": "2026-03-19T07:29:54.789737"
+    "scraped_at": "2026-03-19T08:26:05.577560"
   }
 ]
