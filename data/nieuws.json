@@ -1,12 +1,39 @@
 [
   {
+    "id": "f7486cbe879b762a6981746e9d9205a1",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/857735/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 27 maart 2026:",
+    "published_at": "2026-03-19 16:36",
+    "scraped_at": "2026-03-19T16:41:50.492109"
+  },
+  {
+    "id": "735e0063584132819662d943e76bb565",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/857736/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 27 maart 2026:",
+    "published_at": "2026-03-19 16:36",
+    "scraped_at": "2026-03-19T16:41:50.492109"
+  },
+  {
+    "id": "8831032c45c8a19380cb642e88a1b89d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/857734/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 27 maart 2026:",
+    "published_at": "2026-03-19 16:35",
+    "scraped_at": "2026-03-19T16:41:50.492109"
+  },
+  {
     "id": "2822ae84b84c713ae0b710a3315f3369",
     "categorie": "Beursnieuws",
     "titel": "ECB: in zwartste scenario loopt inflatie op naar ruim 4 procent",
     "link": "https://www.beurs.nl/Nieuws/857733/ECB-in-zwartste-scenario-loopt-inflatie-op-naar-ruim-4-procent.aspx",
     "intro": "De Europese Centrale Bank kwam donderdag met nieuwe economische vooruitzichten, gebaseerd op data verzameld tot 11 maart, die uitgaan van een hogere inflatie van 2,6 procent in 2026 als gevolg van de oorlog in het Midden-Oosten en een economische groei in de eurozone van 0,9 procent.",
     "published_at": "2026-03-19 16:25",
-    "scraped_at": "2026-03-19T15:38:28.694316"
+    "scraped_at": "2026-03-19T16:41:50.492109"
   },
   {
     "id": "59433f1e6548f1447b965803d0d6a20c",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857730/Beursblik-Tesla-verscheept-minder-autos.aspx",
     "intro": "Tesla zal in het eerste kwartaal vermoedelijk minder auto’s afleveren dan eerder gedacht. Dat blijkt uit een neerwaartse bijstelling door analisten van UBS.",
     "published_at": "2026-03-19 16:05",
-    "scraped_at": "2026-03-19T15:38:28.694316"
+    "scraped_at": "2026-03-19T16:41:50.492109"
   },
   {
     "id": "4743ed2ca2b54d14b80274a16eef3363",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857729/ECB-wijzigt-toon-maar-verbindt-zich-nog-niet-aan-renteverhoging.aspx",
     "intro": "De Europese Centrale Bank is goed gepositioneerd om met de huidige onzekerheid door de oorlog in het Midden-Oosten om te gaan en wil zich niet vastleggen op een vooraf afgesproken rentepad. Dit was de boodschap van ECB-voorzitter Christine Lagarde donderdag in een toelichting op het rentebesluit.",
     "published_at": "2026-03-19 16:00",
-    "scraped_at": "2026-03-19T15:38:28.694316"
+    "scraped_at": "2026-03-19T16:41:50.492109"
   },
   {
     "id": "76b9270eadbe1e1050485f6ee5b05810",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857726/Nieuwe-woningverkopen-VS-fors-gedaald.aspx",
     "intro": "Er zijn in januari minder nieuwe eengezinswoningen verkocht in de Verenigde Staten dan in de maand ervoor. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-03-19 15:08",
-    "scraped_at": "2026-03-19T15:38:28.694316"
+    "scraped_at": "2026-03-19T16:41:50.492109"
   },
   {
     "id": "2231c4cceb922e221683f9020b6ee498",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857725/Leidende-indicatoren-VS-dalen-opnieuw.aspx",
     "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in januari opnieuw gedaald, hoewel bescheiden. Dit bleek donderdag uit cijfers van The Conference Board.",
     "published_at": "2026-03-19 15:07",
-    "scraped_at": "2026-03-19T15:38:28.694316"
+    "scraped_at": "2026-03-19T16:41:50.492109"
   },
   {
     "id": "89b43c078e0dd167d4a2248c456d727f",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857724/Beursblik-ECB-maakt-geen-haast-met-renteverhogingen.aspx",
     "intro": "De Europese Centrale Bank lijkt geen haast te maken met een renteverhoging, ook al hebben de oorlog in het Midden-Oosten en de stijgende olieprijzen de beleidsmakers duidelijk in hoogste staat van paraatheid gebracht. Dit concludeerde econoom Carsten Brzeski van ING donderdag na het rentebesluit van de centrale bank, waarin de rentes werden gehandhaafd.",
     "published_at": "2026-03-19 14:50",
-    "scraped_at": "2026-03-19T15:38:28.694316"
+    "scraped_at": "2026-03-19T16:41:50.492109"
   },
   {
     "id": "f5e0a7cc76585a54e5c98d8938097537",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857354/Update-ECB-laat-rente-ongewijzigd.aspx",
     "intro": "De Europese Centrale Bank heeft de belangrijkste rentestanden donderdag conform de verwachting ongewijzigd gelaten.",
     "published_at": "2026-03-19 14:34",
-    "scraped_at": "2026-03-19T15:38:28.694316"
-  },
-  {
-    "id": "33e7fea90a0b70fa211a0bf4b028d539",
-    "categorie": "Beursnieuws",
-    "titel": "ECB laat rente ongewijzigd",
-    "link": "https://www.beurs.nl/Nieuws/857716/ECB-laat-rente-ongewijzigd.aspx",
-    "intro": "De Europese Centrale Bank heeft de belangrijkste rentestanden donderdag conform de verwachting ongewijzigd gelaten.",
-    "published_at": "2026-03-19 14:19",
-    "scraped_at": "2026-03-19T15:38:28.694316"
-  },
-  {
-    "id": "db40e5fadb7db5be43a4dd7268b0f668",
-    "categorie": "Beursnieuws",
-    "titel": "Futures op Wall Street zakken verder weg",
-    "link": "https://www.beurs.nl/Nieuws/857711/Futures-op-Wall-Street-zakken-verder-weg.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden 0,6 procent in het rood, terwijl de verliezen eerder op de dag beperkter waren.",
-    "published_at": "2026-03-19 13:58",
-    "scraped_at": "2026-03-19T15:38:28.694316"
-  },
-  {
-    "id": "334161b16caf25fb65a7ec3c32bd826f",
-    "categorie": "Beursnieuws",
-    "titel": "Philadelphia Fed index stijgt verder",
-    "link": "https://www.beurs.nl/Nieuws/857705/Philadelphia-Fed-index-stijgt-verder.aspx",
-    "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in maart verder gestegen. Dit bleek donderdag uit de zogeheten Philly Fed index.",
-    "published_at": "2026-03-19 13:33",
-    "scraped_at": "2026-03-19T15:38:28.694316"
+    "scraped_at": "2026-03-19T16:41:50.492109"
   }
 ]
