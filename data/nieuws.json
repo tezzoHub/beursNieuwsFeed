@@ -1,12 +1,57 @@
 [
   {
+    "id": "76b9270eadbe1e1050485f6ee5b05810",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuwe woningverkopen VS fors gedaald",
+    "link": "https://www.beurs.nl/Nieuws/857726/Nieuwe-woningverkopen-VS-fors-gedaald.aspx",
+    "intro": "Er zijn in januari minder nieuwe eengezinswoningen verkocht in de Verenigde Staten dan in de maand ervoor. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-03-19 15:08",
+    "scraped_at": "2026-03-19T14:27:08.660699"
+  },
+  {
+    "id": "2231c4cceb922e221683f9020b6ee498",
+    "categorie": "Beursnieuws",
+    "titel": "Leidende indicatoren VS dalen opnieuw",
+    "link": "https://www.beurs.nl/Nieuws/857725/Leidende-indicatoren-VS-dalen-opnieuw.aspx",
+    "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in januari opnieuw gedaald, hoewel bescheiden. Dit bleek donderdag uit cijfers van The Conference Board.",
+    "published_at": "2026-03-19 15:07",
+    "scraped_at": "2026-03-19T14:27:08.660699"
+  },
+  {
+    "id": "89b43c078e0dd167d4a2248c456d727f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: ECB maakt geen haast met renteverhogingen",
+    "link": "https://www.beurs.nl/Nieuws/857724/Beursblik-ECB-maakt-geen-haast-met-renteverhogingen.aspx",
+    "intro": "De Europese Centrale Bank lijkt geen haast te maken met een renteverhoging, ook al hebben de oorlog in het Midden-Oosten en de stijgende olieprijzen de beleidsmakers duidelijk in hoogste staat van paraatheid gebracht. Dit concludeerde econoom Carsten Brzeski van ING donderdag na het rentebesluit van de centrale bank, waarin de rentes werden gehandhaafd.",
+    "published_at": "2026-03-19 14:50",
+    "scraped_at": "2026-03-19T14:27:08.660699"
+  },
+  {
+    "id": "f5e0a7cc76585a54e5c98d8938097537",
+    "categorie": "Beursnieuws",
+    "titel": "Update: ECB laat rente ongewijzigd",
+    "link": "https://www.beurs.nl/Nieuws/857354/Update-ECB-laat-rente-ongewijzigd.aspx",
+    "intro": "De Europese Centrale Bank heeft de belangrijkste rentestanden donderdag conform de verwachting ongewijzigd gelaten.",
+    "published_at": "2026-03-19 14:34",
+    "scraped_at": "2026-03-19T14:27:08.660699"
+  },
+  {
+    "id": "33e7fea90a0b70fa211a0bf4b028d539",
+    "categorie": "Beursnieuws",
+    "titel": "ECB laat rente ongewijzigd",
+    "link": "https://www.beurs.nl/Nieuws/857716/ECB-laat-rente-ongewijzigd.aspx",
+    "intro": "De Europese Centrale Bank heeft de belangrijkste rentestanden donderdag conform de verwachting ongewijzigd gelaten.",
+    "published_at": "2026-03-19 14:19",
+    "scraped_at": "2026-03-19T14:27:08.660699"
+  },
+  {
     "id": "db40e5fadb7db5be43a4dd7268b0f668",
     "categorie": "Beursnieuws",
     "titel": "Futures op Wall Street zakken verder weg",
     "link": "https://www.beurs.nl/Nieuws/857711/Futures-op-Wall-Street-zakken-verder-weg.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden 0,6 procent in het rood, terwijl de verliezen eerder op de dag beperkter waren.",
     "published_at": "2026-03-19 13:58",
-    "scraped_at": "2026-03-19T13:23:16.332719"
+    "scraped_at": "2026-03-19T14:27:08.660699"
   },
   {
     "id": "334161b16caf25fb65a7ec3c32bd826f",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857705/Philadelphia-Fed-index-stijgt-verder.aspx",
     "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in maart verder gestegen. Dit bleek donderdag uit de zogeheten Philly Fed index.",
     "published_at": "2026-03-19 13:33",
-    "scraped_at": "2026-03-19T13:23:16.332719"
+    "scraped_at": "2026-03-19T14:27:08.660699"
   },
   {
     "id": "504a1b85cb7c9976de692bf62c912a0a",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857706/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-03-19 13:33",
-    "scraped_at": "2026-03-19T13:23:16.332719"
+    "scraped_at": "2026-03-19T14:27:08.660699"
   },
   {
     "id": "ab133e8b68d87626cbc60f65f97184b2",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857700/Bank-of-England-handhaaft-rente.aspx",
     "intro": "De Bank of England heeft de rente donderdag conform de verwachting laten staan op 3,75 procent. Dit bleek vanmiddag uit het Britse rentebesluit.",
     "published_at": "2026-03-19 13:10",
-    "scraped_at": "2026-03-19T13:23:16.332719"
+    "scraped_at": "2026-03-19T14:27:08.660699"
   },
   {
     "id": "49de4ef0e8a811f85babe75e61736235",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857699/Beursblik-koersdruk-Micron-ondanks-geweldige-cijfers.aspx",
     "intro": "Micron Technology kwam woensdagavond met geweldige cijfers, maar hogere investeringen en een piek in de brutomarge, zetten beleggers vermoedelijk aan tot winstnemingen na de koersrally van de afgelopen maanden. Dit bleek donderdag uit een analistenrapport van Citi Research, waarin het koersdoel werd verhoogd van 430 naar 510 dollar met een herhaling van het koopadvies.",
     "published_at": "2026-03-19 12:51",
-    "scraped_at": "2026-03-19T13:23:16.332719"
-  },
-  {
-    "id": "86cc87aaeae677474c7e2a48c8590d19",
-    "categorie": "Beursnieuws",
-    "titel": "Lagere opening op Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/857697/Lagere-opening-op-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,2 procent in het rood.",
-    "published_at": "2026-03-19 12:27",
-    "scraped_at": "2026-03-19T13:23:16.332719"
-  },
-  {
-    "id": "3f343204b05f50c132db4111cc0286c4",
-    "categorie": "Beursnieuws",
-    "titel": "Fastned boekt meer dan 100 miljoen euro aan laadomzet",
-    "link": "https://www.beurs.nl/Nieuws/857696/Fastned-boekt-meer-dan-100-miljoen-euro-aan-laadomzet.aspx",
-    "intro": "Fastned heeft in 2025 de grens van 100 miljoen euro aan jaarlijkse laadomzet overschreden. Dit maakte het bedrijf donderdag bekend met de publicatie van het jaarverslag, nadat het al eerder met cijfers over het vierde kwartaal kwam.",
-    "published_at": "2026-03-19 12:15",
-    "scraped_at": "2026-03-19T13:23:16.332719"
-  },
-  {
-    "id": "7cc484f67addd1ad2d73849a16f1bcf3",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen flink lager",
-    "link": "https://www.beurs.nl/Nieuws/857693/Europese-beurzen-flink-lager.aspx",
-    "intro": "De Europese beurzen noteerden donderdag rond het middaguur fors lager.",
-    "published_at": "2026-03-19 12:05",
-    "scraped_at": "2026-03-19T13:23:16.332719"
-  },
-  {
-    "id": "dd8262276fe429f9594b4e54f1cb49a0",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: euro krabbelt op",
-    "link": "https://www.beurs.nl/Nieuws/857685/Valuta-euro-krabbelt-op.aspx",
-    "intro": "De euro was donderdag stabiel tegenover de dollar, in aanloop naar het rentebesluit van de Europese Centrale Bank, die naar verwachting de rente ongewijzigd laat.",
-    "published_at": "2026-03-19 11:32",
-    "scraped_at": "2026-03-19T13:23:16.332719"
-  },
-  {
-    "id": "a09dd2d3cdd2e45ca9041301141ce141",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays verhoogt koersdoel ASMI",
-    "link": "https://www.beurs.nl/Nieuws/857683/Barclays-verhoogt-koersdoel-ASMI.aspx",
-    "intro": "Barclays heeft het koersdoel voor ASMI verhoogd van 770 naar 830 euro met handhaving van het Overwogen advies. Dit bleek uit een rapport van analist Simon Coles.",
-    "published_at": "2026-03-19 11:23",
-    "scraped_at": "2026-03-19T13:23:16.332719"
+    "scraped_at": "2026-03-19T14:27:08.660699"
   }
 ]
