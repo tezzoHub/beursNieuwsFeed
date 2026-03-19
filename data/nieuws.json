@@ -1,92 +1,38 @@
 [
   {
-    "id": "33866501fadc5553031929c87d90efc6",
+    "id": "c80665bcfd6419e91555194c6175dafd",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/857594/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. Alleen Shell steeg.",
-    "published_at": "2026-03-18 22:50",
-    "scraped_at": "2026-03-19T05:14:57.422077"
+    "titel": "Trump wil geen aanvallen op Iraans gasveld",
+    "link": "https://www.beurs.nl/Nieuws/857617/Trump-wil-geen-aanvallen-op-Iraans-gasveld.aspx",
+    "intro": "De Amerikaanse president Donald Trump wil niet dat er nog aanvallen worden gedaan op het Iraanse South Pars-gasveld. Dit schreef de president vannacht op Truth Social.",
+    "published_at": "2026-03-19 07:04",
+    "scraped_at": "2026-03-19T06:14:46.143902"
   },
   {
-    "id": "8ffe0292af69fe1b4220381bddab092e",
+    "id": "0392cffcbb235fb5aac2feeb7b5e95cf",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs loopt steeds verder op",
-    "link": "https://www.beurs.nl/Nieuws/857591/Olieprijs-loopt-steeds-verder-op.aspx",
-    "intro": "De olieprijs liep woensdagavond verder op, nadat deze in New York licht hoger was gesloten, terwijl Brent-olie na een fors hogere sluiting donderdagavond verder opliep tot 111 dollar per vat.",
-    "published_at": "2026-03-18 22:07",
-    "scraped_at": "2026-03-19T05:14:57.422077"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/857615/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 26 maart 2026:",
+    "published_at": "2026-03-19 06:50",
+    "scraped_at": "2026-03-19T06:14:46.143902"
   },
   {
-    "id": "360cc3216d278e4d6fbeeb5e68135896",
+    "id": "e88723115cc0b81dd0d8157ee12f766a",
     "categorie": "Beursnieuws",
-    "titel": "Micron verdrievoudigt omzet",
-    "link": "https://www.beurs.nl/Nieuws/857590/Micron-verdrievoudigt-omzet.aspx",
-    "intro": "Micron Technology heeft zijn omzet in het tweede kwartaal bijna verdrievoudigd, terwijl de vraag naar geheugen voor AI-toepassingen het aanbod overtrof. Dat bleek woensdagavond uit de kwartaalcijfers van de Amerikaanse chipfabrikant.",
-    "published_at": "2026-03-18 21:46",
-    "scraped_at": "2026-03-19T05:14:57.422077"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/857614/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 26 maart 2026:",
+    "published_at": "2026-03-19 06:49",
+    "scraped_at": "2026-03-19T06:14:46.143902"
   },
   {
-    "id": "6a52a3ab36dcd6031509f0ee04811062",
+    "id": "b473503691c3dd6b0130f92d02077d17",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street diep in het rood na rentebesluit Fed",
-    "link": "https://www.beurs.nl/Nieuws/857588/Wall-Street-diep-in-het-rood-na-rentebesluit-Fed.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag  fors lager gesloten, nadat de Federal Reserve de rente handhaafde en hintte op nog een renteverlaging later dit jaar, terwijl de olieprijs verder opliep.",
-    "published_at": "2026-03-18 21:29",
-    "scraped_at": "2026-03-19T05:14:57.422077"
-  },
-  {
-    "id": "08040ed8d597b27820c54e6807505c6f",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Fed houdt rente ongewijzigd",
-    "link": "https://www.beurs.nl/Nieuws/857563/Update-Fed-houdt-rente-ongewijzigd.aspx",
-    "intro": "De Amerikaanse Federal Reserve heeft woensdagavond zoals verwacht de rente onveranderd gelaten op 3,50 tot 3,75 procent en wil voorlopig geen uitspraken doen over de mogelijk impact op het monetaire beleid van de oorlog in het Midden-Oosten. Dat bleek uit de toelichting op het rentebesluit door voorzitter Jerome Powell woensdagavond.",
-    "published_at": "2026-03-18 20:43",
-    "scraped_at": "2026-03-19T05:14:57.422077"
-  },
-  {
-    "id": "54af5baaf2a1f9e81c061041521d485c",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street blijft lager na rentebesluit Fed",
-    "link": "https://www.beurs.nl/Nieuws/857574/Wall-Street-blijft-lager-na-rentebesluit-Fed.aspx",
-    "intro": "De Amerikaanse beurzen stonden woensdagavond lager, nadat de Federal Reserve de rente handhaafde, terwijl de olieprijs fors hoger noteerde.",
-    "published_at": "2026-03-18 19:47",
-    "scraped_at": "2026-03-19T05:14:57.422077"
-  },
-  {
-    "id": "b2a9fdbdc5800faa8a8a68c509ecd9f4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Fed ziet oplopende inflatie als tijdelijk",
-    "link": "https://www.beurs.nl/Nieuws/857571/Beursblik-Fed-ziet-oplopende-inflatie-als-tijdelijk.aspx",
-    "intro": "De Amerikaanse Federal Reserve heeft woensdagavond de rente onveranderd gelaten en lijkt daarmee de oplopende inflatie als tijdelijk te zien. Dit zei marktanalist Philip Marey van Rabobank in een reactie op het rentebesluit tegen ABM Financial News.",
-    "published_at": "2026-03-18 19:30",
-    "scraped_at": "2026-03-19T05:14:57.422077"
-  },
-  {
-    "id": "ab6aa945cf19c432b7001169a0df096f",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten lager na stijging olieprijs",
-    "link": "https://www.beurs.nl/Nieuws/857560/Europese-beurzen-sluiten-lager-na-stijging-olieprijs.aspx",
-    "intro": "De Europese beurzen zijn woensdag lager gesloten, nadat verder oplopende olieprijzen de vrees wekten voor een havikige toon van de Federal Reserve bij het rentebesluit nabeurs.",
-    "published_at": "2026-03-18 18:52",
-    "scraped_at": "2026-03-19T05:14:57.422077"
-  },
-  {
-    "id": "8a03a9be5672d8d80dd264f0da20c8a9",
-    "categorie": "Beursnieuws",
-    "titel": "Envipco wint grote Britse opdracht",
-    "link": "https://www.beurs.nl/Nieuws/857559/Envipco-wint-grote-Britse-opdracht.aspx",
-    "intro": "Envipco Holding heeft van een Britse nationale retailer de exclusieve opdracht gekregen om statiegeldmachines te leveren. Dit maakte het recyclingbedrijf woensdag nabeurs bekend.",
-    "published_at": "2026-03-18 18:45",
-    "scraped_at": "2026-03-19T05:14:57.422077"
-  },
-  {
-    "id": "4d8ddbbac4b676d8377c17c6948345d4",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Macquarie biedt mogelijk op Europese hernieuwbare energietak Shell",
-    "link": "https://www.beurs.nl/Nieuws/857557/Media-Macquarie-biedt-mogelijk-op-Europese-hernieuwbare-energietak-Shell.aspx",
-    "intro": "Macquarie Group wil mogelijk een bod doen op de hernieuwbare-energieactiviteiten van Shell op het Europese vasteland. Dat meldde persbureau Reuters woensdag.",
-    "published_at": "2026-03-18 17:54",
-    "scraped_at": "2026-03-19T05:14:57.422077"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/857613/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 26 maart 2026:",
+    "published_at": "2026-03-19 06:48",
+    "scraped_at": "2026-03-19T06:14:46.143902"
   }
 ]
