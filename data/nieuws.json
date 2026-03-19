@@ -1,21 +1,66 @@
 [
   {
+    "id": "3f343204b05f50c132db4111cc0286c4",
+    "categorie": "Beursnieuws",
+    "titel": "Fastned boekt meer dan 100 miljoen euro aan laadomzet",
+    "link": "https://www.beurs.nl/Nieuws/857696/Fastned-boekt-meer-dan-100-miljoen-euro-aan-laadomzet.aspx",
+    "intro": "Fastned heeft in 2025 de grens van 100 miljoen euro aan jaarlijkse laadomzet overschreden. Dit maakte het bedrijf donderdag bekend met de publicatie van het jaarverslag, nadat het al eerder met cijfers over het vierde kwartaal kwam.",
+    "published_at": "2026-03-19 12:15",
+    "scraped_at": "2026-03-19T11:24:12.301506"
+  },
+  {
+    "id": "7cc484f67addd1ad2d73849a16f1bcf3",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen flink lager",
+    "link": "https://www.beurs.nl/Nieuws/857693/Europese-beurzen-flink-lager.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur fors lager.",
+    "published_at": "2026-03-19 12:05",
+    "scraped_at": "2026-03-19T11:24:12.301506"
+  },
+  {
+    "id": "dd8262276fe429f9594b4e54f1cb49a0",
+    "categorie": "Beursnieuws",
+    "titel": "Valuta: euro krabbelt op",
+    "link": "https://www.beurs.nl/Nieuws/857685/Valuta-euro-krabbelt-op.aspx",
+    "intro": "De euro was donderdag stabiel tegenover de dollar, in aanloop naar het rentebesluit van de Europese Centrale Bank, die naar verwachting de rente ongewijzigd laat.",
+    "published_at": "2026-03-19 11:32",
+    "scraped_at": "2026-03-19T11:24:12.301506"
+  },
+  {
+    "id": "a09dd2d3cdd2e45ca9041301141ce141",
+    "categorie": "Beursnieuws",
+    "titel": "Barclays verhoogt koersdoel ASMI",
+    "link": "https://www.beurs.nl/Nieuws/857683/Barclays-verhoogt-koersdoel-ASMI.aspx",
+    "intro": "Barclays heeft het koersdoel voor ASMI verhoogd van 770 naar 830 euro met handhaving van het Overwogen advies. Dit bleek uit een rapport van analist Simon Coles.",
+    "published_at": "2026-03-19 11:23",
+    "scraped_at": "2026-03-19T11:24:12.301506"
+  },
+  {
+    "id": "8283d97b0fde2a2167dcbae3fbe0506c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Barclays haalt AkzoNobel van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/857682/Beursblik-Barclays-haalt-AkzoNobel-van-de-kooplijst.aspx",
+    "intro": "Barclays heeft donderdag het advies voor AkzoNobel verlaagd van Overwogen naar Gelijkgewogen, terwijl het koersdoel van 69,00 naar 47,00 euro ging. Dit bleek uit een rapport van de Britse bank.",
+    "published_at": "2026-03-19 11:22",
+    "scraped_at": "2026-03-19T11:24:12.301506"
+  },
+  {
     "id": "13276b166517c7810cede0af4a34dc9d",
     "categorie": "Beursnieuws",
     "titel": "Alibaba ziet winst fors teruglopen",
     "link": "https://www.beurs.nl/Nieuws/857672/Alibaba-ziet-winst-fors-teruglopen.aspx",
     "intro": "Alibaba heeft in het vorige kwartaal de omzet zien stijgen, maar de winst fors zien teruglopen. Dit bleek donderdag uit de resultaten van het Chinese techbedrijf.",
     "published_at": "2026-03-19 11:01",
-    "scraped_at": "2026-03-19T10:26:07.903512"
+    "scraped_at": "2026-03-19T11:24:12.301506"
   },
   {
-    "id": "9a784963d450e90b1ba0b1ff340543ba",
+    "id": "d8729ca2f60fa5cd7ec294fb113129db",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: ArcelorMittal onderuit in donkerrode AEX",
-    "link": "https://www.beurs.nl/Nieuws/857673/Beursupdate-ArcelorMittal-onderuit-in-donkerrode-AEX.aspx",
+    "titel": "ArcelorMittal onderuit in donkerrode AEX",
+    "link": "https://www.beurs.nl/Nieuws/857673/ArcelorMittal-onderuit-in-donkerrode-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagochtend flink lager. Rond de klok van elf uur daalde de AEX met 1,6 procent tot 983,81 punten.",
     "published_at": "2026-03-19 11:00",
-    "scraped_at": "2026-03-19T10:26:07.903512"
+    "scraped_at": "2026-03-19T11:24:12.301506"
   },
   {
     "id": "5ee2446e43438a4944d24998f888525d",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857667/Beursblik-aandeel-Aalberts-nog-steeds-aantrekkelijk.aspx",
     "intro": "Hoewel Aalberts gevoelig blijft voor macro-economische onzekerheid als gevolg van de oorlog in het Midden-Oosten, blijft het aandeel koopwaardig. Dit stelden analisten van Berenberg donderdag in een rapport.",
     "published_at": "2026-03-19 10:30",
-    "scraped_at": "2026-03-19T10:26:07.903512"
+    "scraped_at": "2026-03-19T11:24:12.301506"
   },
   {
     "id": "4d430567b5372d886545bf209f7a28ec",
@@ -33,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/857636/Must-read-Nieuwste-energiecrisis-voedt-beursonrust.aspx",
     "intro": "Plus: centrale banken in het nauw, hoge olieprijs voedt recessie-angst en zet huizenbezitters aan te verduurzamen, zelfrijdende auto's zijn veel veiliger en meer.",
     "published_at": "2026-03-19 10:00",
-    "scraped_at": "2026-03-19T10:26:07.903512"
+    "scraped_at": "2026-03-19T11:24:12.301506"
   },
   {
     "id": "b493fffa704bb497eb1833867c7162f1",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857659/Zwitserse-centrale-bank-houdt-rente-op-nul.aspx",
     "intro": "De Zwitserse centrale bank heeft de rente opnieuw op nul gehouden, terwijl de oorlog in het Midden-Oosten heeft geleid tot meer bereidheid om in te grijpen op de valutamarkt. Dit bleek donderdag uit het rentebesluit van de centrale bank.",
     "published_at": "2026-03-19 09:54",
-    "scraped_at": "2026-03-19T10:26:07.903512"
-  },
-  {
-    "id": "26a9315748af1206e94164b78dd0e407",
-    "categorie": "Beursnieuws",
-    "titel": "Zweedse Riksbank handhaaft rente",
-    "link": "https://www.beurs.nl/Nieuws/857658/Zweedse-Riksbank-handhaaft-rente.aspx",
-    "intro": "De centrale bank van Zweden heeft de rente onveranderd gelaten en verwacht dit niveau nog een tijd te zullen handhaven. Dit bleek donderdag uit het rentebesluit van de Riksbank.",
-    "published_at": "2026-03-19 09:50",
-    "scraped_at": "2026-03-19T10:26:07.903512"
-  },
-  {
-    "id": "a5cbde3879c780ba98c456e9e3537ea3",
-    "categorie": "Beursnieuws",
-    "titel": "KBC Securities verhoogt koersdoel Fagron flink",
-    "link": "https://www.beurs.nl/Nieuws/857650/KBC-Securities-verhoogt-koersdoel-Fagron-flink.aspx",
-    "intro": "KBC Securities heeft donderdag het koersdoel voor Fagron verhoogd van 24,00 naar 30,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-03-19 09:22",
-    "scraped_at": "2026-03-19T10:26:07.903512"
-  },
-  {
-    "id": "29b3ae09da4ad6b705450e9520d466e6",
-    "categorie": "Beursnieuws",
-    "titel": "AEX flink lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/857651/AEX-flink-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 1,4 procent lager op 985,72 punten, terwijl de Midkap 1,1 procent prijs moest geven.",
-    "published_at": "2026-03-19 09:20",
-    "scraped_at": "2026-03-19T10:26:07.903512"
-  },
-  {
-    "id": "39b3e2fed9323b18cc7493d4ca802498",
-    "categorie": "Beursnieuws",
-    "titel": "Correctie: Flow Traders biedt tokenized assets aan",
-    "link": "https://www.beurs.nl/Nieuws/857631/Correctie-Flow-Traders-biedt-tokenized-assets-aan.aspx",
-    "intro": "Flow Traders gaat 'tokenized' geldmarktfondsen, aandelen, grondstoffen en edelmetalen aanbieden via een rechtstreeks platform voor institutionele partijen, waarin 24 uur per dag kan worden gehandeld. Dit maakte het bedrijf donderdagochtend bekend.",
-    "published_at": "2026-03-19 09:16",
-    "scraped_at": "2026-03-19T10:26:07.903512"
-  },
-  {
-    "id": "6156806d85e87bde6e1b424a0ddbf9ff",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verlaagt koersdoel Air France-KLM",
-    "link": "https://www.beurs.nl/Nieuws/857640/Deutsche-Bank-verlaagt-koersdoel-Air-France-KLM.aspx",
-    "intro": "Deutsche Bank heeft donderdag het koersdoel voor Air France-KLM verlaagd van 11,00 naar 9,00 euro, met handhaving van het Houden advies. Dit bleek uit een sectorrapport van de Duitse bank.",
-    "published_at": "2026-03-19 08:32",
-    "scraped_at": "2026-03-19T10:26:07.903512"
+    "scraped_at": "2026-03-19T11:24:12.301506"
   }
 ]
