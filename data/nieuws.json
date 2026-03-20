@@ -1,12 +1,39 @@
 [
   {
+    "id": "4a10930748ee81eda6eca6f9d6f01ddd",
+    "categorie": "Redactioneel",
+    "titel": "IEX slotcall: Alles omlaag",
+    "link": "https://www.beurs.nl/Artikel/857889/IEX-slotcall-Alles-omlaag.aspx",
+    "intro": "",
+    "published_at": "2026-03-20 18:00",
+    "scraped_at": "2026-03-20T17:25:45.524428"
+  },
+  {
+    "id": "48f63da36ff315d5da04111647c4fd6f",
+    "categorie": "Beursnieuws",
+    "titel": "AEX na beweeglijke sessie toch met flink verlies het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/857892/AEX-na-beweeglijke-sessie-toch-met-flink-verlies-het-weekend-in.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag verder gedaald, te midden van de aanhoudende onrust door de oorlog in het Midden-Oosten en een verdere stijging van de olieprijzen, terwijl de koersen richting het weekend ook nog eens volatiel waren vanwege 'quadruple witching', oftewel de derde vrijdag van de laatste maand in het kwartaal, waarop opties en futures expireren.",
+    "published_at": "2026-03-20 17:52",
+    "scraped_at": "2026-03-20T17:25:45.524428"
+  },
+  {
+    "id": "bc8290475ed580055ab8065f75f65225",
+    "categorie": "Beursnieuws",
+    "titel": "TotalEnergies en Holcim openen drijvend zonnepark",
+    "link": "https://www.beurs.nl/Nieuws/857891/TotalEnergies-en-Holcim-openen-drijvend-zonnepark.aspx",
+    "intro": "TotalEnergies en Holcim hebben vrijdag in het Belgische Obourg een drijvend zonnepark met een capaciteit van 31 megawatt officieel in gebruik genomen. Dit maakten beide bedrijven bekend.",
+    "published_at": "2026-03-20 17:40",
+    "scraped_at": "2026-03-20T17:25:45.524428"
+  },
+  {
     "id": "3eb918c336f2c3f86b36ffeb607f6059",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/857888/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 30 maart 2026:",
     "published_at": "2026-03-20 16:26",
-    "scraped_at": "2026-03-20T16:26:00.639132"
+    "scraped_at": "2026-03-20T17:25:45.524428"
   },
   {
     "id": "cecec9bb50ec79d258c6fbde13f1d272",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857886/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 30 maart 2026:",
     "published_at": "2026-03-20 16:25",
-    "scraped_at": "2026-03-20T16:26:00.639132"
+    "scraped_at": "2026-03-20T17:25:45.524428"
   },
   {
     "id": "23c22eff60097dbc6e052be4ea22b2d0",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857887/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 30 maart 2026:",
     "published_at": "2026-03-20 16:25",
-    "scraped_at": "2026-03-20T16:26:00.639132"
+    "scraped_at": "2026-03-20T17:25:45.524428"
   },
   {
     "id": "e4ebd702e5aa0aa3c00d2f837343a00c",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857745/Shell-meldt-schade-aan-faciliteit-in-Qatar.aspx",
     "intro": "Bij de aanvallen van Iran op het energiecomplex Ras Laffan in Qatar is ook een faciliteit van Shell beschadigd geraakt. Dit meldde Shell donderdag.",
     "published_at": "2026-03-20 15:42",
-    "scraped_at": "2026-03-20T16:26:00.639132"
+    "scraped_at": "2026-03-20T17:25:45.524428"
   },
   {
     "id": "70e497a984c5903424663e9c608ad0c6",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857881/AkzoNobel-onderzoekt-verkoop-activiteiten-Zuidoost-Azie.aspx",
     "intro": "AkzoNobel kan een belangrijke stap voorwaarts zetten wanneer het de activiteiten in Zuidoost-Azië inderdaad verkoopt. Dit stelde Citi Research vrijdag in reactie op een bericht van Bloomberg, waarin de verkoopplannen werden gemeld.",
     "published_at": "2026-03-20 15:16",
-    "scraped_at": "2026-03-20T16:26:00.639132"
+    "scraped_at": "2026-03-20T17:25:45.524428"
   },
   {
     "id": "74d36fac543b6a89dd42253f7805fad6",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857879/Media-Waller-geen-voorstander-van-renteverhoging-door-de-Fed.aspx",
     "intro": "Bestuurder Christopher Waller van de Federal Reserve is geen voorstander van renteverhogingen en verwacht dat de inflatie in de Verenigde Staten de tweede helft van het jaar zal afnemen. Dit zei de Fed-bestuurder vrijdag in een interview met CNBC.",
     "published_at": "2026-03-20 14:46",
-    "scraped_at": "2026-03-20T16:26:00.639132"
+    "scraped_at": "2026-03-20T17:25:45.524428"
   },
   {
     "id": "704ce12502c83e8181ce2d9e58a7731f",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857870/Mede-oprichter-Super-Micro-aangeklaagd-door-Amerikaanse-justitie.aspx",
     "intro": "De Amerikaanse justitie heeft een mede-oprichter van Super Micro Computer en twee andere personen aangeklaagd wegens vermeende betrokkenheid bij een plan om in de VS geassembleerde servers naar China te sluizen, wat in strijd is met de exportwetgeving. Dit bevestigde het Amerikaanse bedrijf donderdagavond laat.",
     "published_at": "2026-03-20 14:19",
-    "scraped_at": "2026-03-20T16:26:00.639132"
-  },
-  {
-    "id": "1fee639511037e4beefa8021740c2f0a",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine verliezen in de maak op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/857865/Kleine-verliezen-in-de-maak-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een licht lagere opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,3 procent in het rood. De Nasdaq lijkt 0,4 procent lager te starten.",
-    "published_at": "2026-03-20 14:02",
-    "scraped_at": "2026-03-20T16:26:00.639132"
-  },
-  {
-    "id": "23e9b994486073311ac4ce753c6db148",
-    "categorie": "Beursnieuws",
-    "titel": "Financieringsbehoefte Nederland iets lager in 2026",
-    "link": "https://www.beurs.nl/Nieuws/857864/Financieringsbehoefte-Nederland-iets-lager-in-2026.aspx",
-    "intro": "De financieringsbehoefte van de Nederlandse Staat ligt in 2026 iets lager dan eerder voorspeld. Dit bleek vrijdag uit een nieuwe indicatie van het agentschap van het ministerie van Financiën, DSTA.",
-    "published_at": "2026-03-20 13:51",
-    "scraped_at": "2026-03-20T16:26:00.639132"
-  },
-  {
-    "id": "c341d790cb6405f38124e26fd0a97ab4",
-    "categorie": "Beursnieuws",
-    "titel": "Rusland verlaagt rente",
-    "link": "https://www.beurs.nl/Nieuws/857861/Rusland-verlaagt-rente.aspx",
-    "intro": "De centrale bank van Rusland heeft de rente verlaagd met 50 basispunten. Dit bleek vrijdagmiddag uit het rentebesluit van de centrale bank.",
-    "published_at": "2026-03-20 13:39",
-    "scraped_at": "2026-03-20T16:26:00.639132"
+    "scraped_at": "2026-03-20T17:25:45.524428"
   }
 ]
