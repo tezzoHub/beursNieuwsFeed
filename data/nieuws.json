@@ -1,12 +1,39 @@
 [
   {
+    "id": "3eb918c336f2c3f86b36ffeb607f6059",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/857888/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 30 maart 2026:",
+    "published_at": "2026-03-20 16:26",
+    "scraped_at": "2026-03-20T16:26:00.639132"
+  },
+  {
+    "id": "cecec9bb50ec79d258c6fbde13f1d272",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/857886/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 30 maart 2026:",
+    "published_at": "2026-03-20 16:25",
+    "scraped_at": "2026-03-20T16:26:00.639132"
+  },
+  {
+    "id": "23c22eff60097dbc6e052be4ea22b2d0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/857887/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 30 maart 2026:",
+    "published_at": "2026-03-20 16:25",
+    "scraped_at": "2026-03-20T16:26:00.639132"
+  },
+  {
     "id": "e4ebd702e5aa0aa3c00d2f837343a00c",
     "categorie": "Beursnieuws",
     "titel": "Shell meldt schade aan faciliteit in Qatar",
     "link": "https://www.beurs.nl/Nieuws/857745/Shell-meldt-schade-aan-faciliteit-in-Qatar.aspx",
     "intro": "Bij de aanvallen van Iran op het energiecomplex Ras Laffan in Qatar is ook een faciliteit van Shell beschadigd geraakt. Dit meldde Shell donderdag.",
     "published_at": "2026-03-20 15:42",
-    "scraped_at": "2026-03-20T15:29:53.996229"
+    "scraped_at": "2026-03-20T16:26:00.639132"
   },
   {
     "id": "70e497a984c5903424663e9c608ad0c6",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857881/AkzoNobel-onderzoekt-verkoop-activiteiten-Zuidoost-Azie.aspx",
     "intro": "AkzoNobel kan een belangrijke stap voorwaarts zetten wanneer het de activiteiten in Zuidoost-Azië inderdaad verkoopt. Dit stelde Citi Research vrijdag in reactie op een bericht van Bloomberg, waarin de verkoopplannen werden gemeld.",
     "published_at": "2026-03-20 15:16",
-    "scraped_at": "2026-03-20T15:29:53.996229"
+    "scraped_at": "2026-03-20T16:26:00.639132"
   },
   {
     "id": "74d36fac543b6a89dd42253f7805fad6",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857879/Media-Waller-geen-voorstander-van-renteverhoging-door-de-Fed.aspx",
     "intro": "Bestuurder Christopher Waller van de Federal Reserve is geen voorstander van renteverhogingen en verwacht dat de inflatie in de Verenigde Staten de tweede helft van het jaar zal afnemen. Dit zei de Fed-bestuurder vrijdag in een interview met CNBC.",
     "published_at": "2026-03-20 14:46",
-    "scraped_at": "2026-03-20T15:29:53.996229"
+    "scraped_at": "2026-03-20T16:26:00.639132"
   },
   {
     "id": "704ce12502c83e8181ce2d9e58a7731f",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857870/Mede-oprichter-Super-Micro-aangeklaagd-door-Amerikaanse-justitie.aspx",
     "intro": "De Amerikaanse justitie heeft een mede-oprichter van Super Micro Computer en twee andere personen aangeklaagd wegens vermeende betrokkenheid bij een plan om in de VS geassembleerde servers naar China te sluizen, wat in strijd is met de exportwetgeving. Dit bevestigde het Amerikaanse bedrijf donderdagavond laat.",
     "published_at": "2026-03-20 14:19",
-    "scraped_at": "2026-03-20T15:29:53.996229"
+    "scraped_at": "2026-03-20T16:26:00.639132"
   },
   {
     "id": "1fee639511037e4beefa8021740c2f0a",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857865/Kleine-verliezen-in-de-maak-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een licht lagere opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,3 procent in het rood. De Nasdaq lijkt 0,4 procent lager te starten.",
     "published_at": "2026-03-20 14:02",
-    "scraped_at": "2026-03-20T15:29:53.996229"
+    "scraped_at": "2026-03-20T16:26:00.639132"
   },
   {
     "id": "23e9b994486073311ac4ce753c6db148",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857864/Financieringsbehoefte-Nederland-iets-lager-in-2026.aspx",
     "intro": "De financieringsbehoefte van de Nederlandse Staat ligt in 2026 iets lager dan eerder voorspeld. Dit bleek vrijdag uit een nieuwe indicatie van het agentschap van het ministerie van Financiën, DSTA.",
     "published_at": "2026-03-20 13:51",
-    "scraped_at": "2026-03-20T15:29:53.996229"
+    "scraped_at": "2026-03-20T16:26:00.639132"
   },
   {
     "id": "c341d790cb6405f38124e26fd0a97ab4",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857861/Rusland-verlaagt-rente.aspx",
     "intro": "De centrale bank van Rusland heeft de rente verlaagd met 50 basispunten. Dit bleek vrijdagmiddag uit het rentebesluit van de centrale bank.",
     "published_at": "2026-03-20 13:39",
-    "scraped_at": "2026-03-20T15:29:53.996229"
-  },
-  {
-    "id": "dca50bb084f53828b5aa3070a0e63d5d",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel Xpeng onderuit ondanks eerste kwartaalwinst",
-    "link": "https://www.beurs.nl/Nieuws/857858/Aandeel-Xpeng-onderuit-ondanks-eerste-kwartaalwinst.aspx",
-    "intro": "De Chinese autofabrikant Xpeng heeft in de laatste drie maanden van 2025 voor het eerst in de geschiedenis een kwartaalwinst weten te behalen. Toch stond het aandeel vrijdag in de voorbeurshandel op Wall Street onder druk, omdat de outlook tegenviel.",
-    "published_at": "2026-03-20 13:22",
-    "scraped_at": "2026-03-20T15:29:53.996229"
-  },
-  {
-    "id": "e62d288591d74a5fb543f2baf1dfa279",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen lagere opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/857853/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet. Futures op de SP 500 noteerden rond het middaguur 0,3 procent in het rood.",
-    "published_at": "2026-03-20 12:39",
-    "scraped_at": "2026-03-20T15:29:53.996229"
-  },
-  {
-    "id": "6294be6ac0302136134a19da746ef832",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen leveren winst in",
-    "link": "https://www.beurs.nl/Nieuws/857849/Europese-beurzen-leveren-winst-in.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond het middaguur toch weer lager, terwijl de olieprijzen opnieuw opliepen.",
-    "published_at": "2026-03-20 12:10",
-    "scraped_at": "2026-03-20T15:29:53.996229"
+    "scraped_at": "2026-03-20T16:26:00.639132"
   }
 ]
