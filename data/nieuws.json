@@ -1,12 +1,30 @@
 [
   {
-    "id": "c9add2ad9ad047b630960d9a48a465ea",
+    "id": "e8d28d0ea90bb1a3c7e4820fea628fc9",
+    "categorie": "Beursnieuws",
+    "titel": "Handelstekort voor eurozone in januari",
+    "link": "https://www.beurs.nl/Nieuws/857841/Handelstekort-voor-eurozone-in-januari.aspx",
+    "intro": "De eurozone had in januari een handelstekort, na een flink overschot in december. Dit bleek vrijdagochtend uit cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-03-20 11:16",
+    "scraped_at": "2026-03-20T11:00:54.747856"
+  },
+  {
+    "id": "51a2d82e1f0e224532b4a4a577e31b4c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: winsten verdampen in Amsterdam",
+    "link": "https://www.beurs.nl/Nieuws/857831/Beursupdate-winsten-verdampen-in-Amsterdam.aspx",
+    "intro": "De Amsterdamse beurs koerste vrijdagochtend aanvankelijk in het groen, maar moest die winst toch weer inleveren. Rond de klok van elf uur noteerde de AEX fractioneel lager op 977,19 punten.",
+    "published_at": "2026-03-20 11:02",
+    "scraped_at": "2026-03-20T11:00:54.747856"
+  },
+  {
+    "id": "648fb45e510a6ae874a29ba2417be963",
     "categorie": "Redactioneel",
-    "titel": "Must read: Oorlog jaagt goudprijs naar 6-jaars dieptepunt",
-    "link": "https://www.iex.nl/artikel/857728/Must-read-Oorlog-jaagt-goudprijs-naar-6-jaars-dieptepunt.aspx",
+    "titel": "Must read: Oorlog zorgt voor sterkste daling goudprijs in 6 jaar",
+    "link": "https://www.iex.nl/artikel/857728/Must-read-Oorlog-zorgt-voor-sterkste-daling-goudprijs-in-6-jaar.aspx",
     "intro": "Goud is deze week op weg naar het grootste verlies in zes jaar. Plus: ECB waarschuwt voor inflatie, langste verliesreeks voor zilver sinds 2023, financials kennen slechtste eerste kwartaal sinds 2020, en meer.",
     "published_at": "2026-03-20 10:30",
-    "scraped_at": "2026-03-20T10:00:51.061379"
+    "scraped_at": "2026-03-20T11:00:54.747856"
   },
   {
     "id": "ddc3da2a775b0e49e9a7cf590f5381c0",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/857822/Degroof-Petercam-verhoogt-koersdoel-Fagron.aspx",
     "intro": "Degroof Petercam heeft vrijdag het koersdoel voor Fagron verhoogd van 27,00 naar 28,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-03-20 09:38",
-    "scraped_at": "2026-03-20T10:00:51.061379"
+    "scraped_at": "2026-03-20T11:00:54.747856"
   },
   {
     "id": "fca930efac47c5e4193d6253f86c484f",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857816/AEX-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong 0,5 procent hoger op 982,95 punten, terwijl de Midkap 0,6 procent won.",
     "published_at": "2026-03-20 09:16",
-    "scraped_at": "2026-03-20T10:00:51.061379"
+    "scraped_at": "2026-03-20T11:00:54.747856"
   },
   {
     "id": "a64a1fd8da8ef84d58fce600ea22c08d",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857812/FDA-keurt-hogere-dosering-Wegovy-van-Novo-Nordisk-goed.aspx",
     "intro": "De Amerikaanse toezichthouder FDA heeft een hogere dosering van het afslankmiddel Wegovy van Novo Nordisk goedgekeurd. Dit maakte de Deense farmaceut bekend.",
     "published_at": "2026-03-20 08:49",
-    "scraped_at": "2026-03-20T10:00:51.061379"
+    "scraped_at": "2026-03-20T11:00:54.747856"
   },
   {
     "id": "87ac0a8b54f371eae43e2a834e510e8c",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857809/Duitse-producentenprijzen-verder-gedaald.aspx",
     "intro": "De producentenprijzen in Duitsland zijn in februari opnieuw gedaald. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-03-20 08:24",
-    "scraped_at": "2026-03-20T10:00:51.061379"
+    "scraped_at": "2026-03-20T11:00:54.747856"
   },
   {
     "id": "62e19af145f1f45fe3164502a75d8ab1",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857808/Unilever-ontvangt-bod-van-McCormick-op-voedingstak.aspx",
     "intro": "Unilever is in gesprek met McCormick  Company over een verkoop van zijn voedingstak. Dit maakten de twee bedrijven vrijdagochtend bekend.",
     "published_at": "2026-03-20 08:22",
-    "scraped_at": "2026-03-20T10:00:51.061379"
+    "scraped_at": "2026-03-20T11:00:54.747856"
   },
   {
     "id": "54bf51b1bf507622442f16bc0482581b",
@@ -60,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/857721/AEX-opent-licht-hoger-en-wat-anders-doet-ertoe-dan-de-olieprijs.aspx",
     "intro": "De future verklapt een 0,3% hogere opening voor de AEX, nadat de Amerikaanse beurzen een groot deel van het openingsverlies wegwerkten. In Azië is het beeld verdeeld en kan de ECB niet anders dan verhogen?",
     "published_at": "2026-03-20 08:15",
-    "scraped_at": "2026-03-20T10:00:51.061379"
+    "scraped_at": "2026-03-20T11:00:54.747856"
   },
   {
     "id": "e40c3d08c890f93cc9072436351afa1d",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857802/AEX-start-handelsdag-vermoedelijk-afwachtend.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer neutrale opening, na donkerrode koersen in Europa een dag eerder, toen de olie- en gasprijzen verder opliepen en de centrale banken hun kruit droog hielden.",
     "published_at": "2026-03-20 08:05",
-    "scraped_at": "2026-03-20T10:00:51.061379"
-  },
-  {
-    "id": "a08f9f54c8ce2a4ebbc8a3381709a4b2",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies haalt Inpost van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/857797/Jefferies-haalt-Inpost-van-de-kooplijst.aspx",
-    "intro": "Jefferies heeft vrijdag het advies voor Inpost verlaagd van Kopen naar Houden, terwijl het koersdoel van 17,00 naar 15,60 euro ging. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-03-20 07:37",
-    "scraped_at": "2026-03-20T10:00:51.061379"
-  },
-  {
-    "id": "19c91cf278e4fe3ee92914cb77a86621",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verlaagt koersdoel Randstad stevig",
-    "link": "https://www.beurs.nl/Nieuws/857793/Jefferies-verlaagt-koersdoel-Randstad-stevig.aspx",
-    "intro": "Jefferies heeft vrijdag het koersdoel voor Randstad verlaagd van 26,00 naar 21,00 euro, met handhaving van het Underperform advies. Dit bleek uit een sectorrapport van de zakenbank.",
-    "published_at": "2026-03-20 07:20",
-    "scraped_at": "2026-03-20T10:00:51.061379"
+    "scraped_at": "2026-03-20T11:00:54.747856"
   }
 ]
