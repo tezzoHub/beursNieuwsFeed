@@ -1,12 +1,57 @@
 [
   {
+    "id": "704ce12502c83e8181ce2d9e58a7731f",
+    "categorie": "Beursnieuws",
+    "titel": "Mede-oprichter Super Micro aangeklaagd door Amerikaanse justitie",
+    "link": "https://www.beurs.nl/Nieuws/857870/Mede-oprichter-Super-Micro-aangeklaagd-door-Amerikaanse-justitie.aspx",
+    "intro": "De Amerikaanse justitie heeft een mede-oprichter van Super Micro Computer en twee andere personen aangeklaagd wegens vermeende betrokkenheid bij een plan om in de VS geassembleerde servers naar China te sluizen, wat in strijd is met de exportwetgeving. Dit bevestigde het Amerikaanse bedrijf donderdagavond laat.",
+    "published_at": "2026-03-20 14:19",
+    "scraped_at": "2026-03-20T13:48:42.108665"
+  },
+  {
+    "id": "1fee639511037e4beefa8021740c2f0a",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine verliezen in de maak op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/857865/Kleine-verliezen-in-de-maak-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een licht lagere opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,3 procent in het rood. De Nasdaq lijkt 0,4 procent lager te starten.",
+    "published_at": "2026-03-20 14:02",
+    "scraped_at": "2026-03-20T13:48:42.108665"
+  },
+  {
+    "id": "23e9b994486073311ac4ce753c6db148",
+    "categorie": "Beursnieuws",
+    "titel": "Financieringsbehoefte Nederland iets lager in 2026",
+    "link": "https://www.beurs.nl/Nieuws/857864/Financieringsbehoefte-Nederland-iets-lager-in-2026.aspx",
+    "intro": "De financieringsbehoefte van de Nederlandse Staat ligt in 2026 iets lager dan eerder voorspeld. Dit bleek vrijdag uit een nieuwe indicatie van het agentschap van het ministerie van Financiën, DSTA.",
+    "published_at": "2026-03-20 13:51",
+    "scraped_at": "2026-03-20T13:48:42.108665"
+  },
+  {
+    "id": "c341d790cb6405f38124e26fd0a97ab4",
+    "categorie": "Beursnieuws",
+    "titel": "Rusland verlaagt rente",
+    "link": "https://www.beurs.nl/Nieuws/857861/Rusland-verlaagt-rente.aspx",
+    "intro": "De centrale bank van Rusland heeft de rente verlaagd met 50 basispunten. Dit bleek vrijdagmiddag uit het rentebesluit van de centrale bank.",
+    "published_at": "2026-03-20 13:39",
+    "scraped_at": "2026-03-20T13:48:42.108665"
+  },
+  {
+    "id": "dca50bb084f53828b5aa3070a0e63d5d",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel Xpeng onderuit ondanks eerste kwartaalwinst",
+    "link": "https://www.beurs.nl/Nieuws/857858/Aandeel-Xpeng-onderuit-ondanks-eerste-kwartaalwinst.aspx",
+    "intro": "De Chinese autofabrikant Xpeng heeft in de laatste drie maanden van 2025 voor het eerst in de geschiedenis een kwartaalwinst weten te behalen. Toch stond het aandeel vrijdag in de voorbeurshandel op Wall Street onder druk, omdat de outlook tegenviel.",
+    "published_at": "2026-03-20 13:22",
+    "scraped_at": "2026-03-20T13:48:42.108665"
+  },
+  {
     "id": "e62d288591d74a5fb543f2baf1dfa279",
     "categorie": "Beursnieuws",
     "titel": "Futures voorspellen lagere opening voor Wall Street",
     "link": "https://www.beurs.nl/Nieuws/857853/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet. Futures op de SP 500 noteerden rond het middaguur 0,3 procent in het rood.",
     "published_at": "2026-03-20 12:39",
-    "scraped_at": "2026-03-20T12:29:07.984468"
+    "scraped_at": "2026-03-20T13:48:42.108665"
   },
   {
     "id": "6294be6ac0302136134a19da746ef832",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857849/Europese-beurzen-leveren-winst-in.aspx",
     "intro": "De aandelenmarkten in Europa noteerden vrijdag rond het middaguur toch weer lager, terwijl de olieprijzen opnieuw opliepen.",
     "published_at": "2026-03-20 12:10",
-    "scraped_at": "2026-03-20T12:29:07.984468"
+    "scraped_at": "2026-03-20T13:48:42.108665"
   },
   {
     "id": "e8d28d0ea90bb1a3c7e4820fea628fc9",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857841/Handelstekort-voor-eurozone-in-januari.aspx",
     "intro": "De eurozone had in januari een handelstekort, na een flink overschot in december. Dit bleek vrijdagochtend uit cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-03-20 11:16",
-    "scraped_at": "2026-03-20T12:29:07.984468"
+    "scraped_at": "2026-03-20T13:48:42.108665"
   },
   {
     "id": "db13219b46da22a6740b17c05bf9378a",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857831/Winsten-verdampen-in-Amsterdam.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagochtend aanvankelijk in het groen, maar moest die winst toch weer inleveren. Rond de klok van elf uur noteerde de AEX fractioneel lager op 977,19 punten.",
     "published_at": "2026-03-20 11:02",
-    "scraped_at": "2026-03-20T12:29:07.984468"
+    "scraped_at": "2026-03-20T13:48:42.108665"
   },
   {
     "id": "648fb45e510a6ae874a29ba2417be963",
@@ -42,51 +87,6 @@
     "link": "https://www.iex.nl/artikel/857728/Must-read-Oorlog-zorgt-voor-sterkste-daling-goudprijs-in-6-jaar.aspx",
     "intro": "Goud is deze week op weg naar het grootste verlies in zes jaar. Plus: ECB waarschuwt voor inflatie, langste verliesreeks voor zilver sinds 2023, financials kennen slechtste eerste kwartaal sinds 2020, en meer.",
     "published_at": "2026-03-20 10:30",
-    "scraped_at": "2026-03-20T12:29:07.984468"
-  },
-  {
-    "id": "ddc3da2a775b0e49e9a7cf590f5381c0",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verhoogt koersdoel Fagron",
-    "link": "https://www.beurs.nl/Nieuws/857822/Degroof-Petercam-verhoogt-koersdoel-Fagron.aspx",
-    "intro": "Degroof Petercam heeft vrijdag het koersdoel voor Fagron verhoogd van 27,00 naar 28,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-03-20 09:38",
-    "scraped_at": "2026-03-20T12:29:07.984468"
-  },
-  {
-    "id": "fca930efac47c5e4193d6253f86c484f",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/857816/AEX-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,5 procent hoger op 982,95 punten, terwijl de Midkap 0,6 procent won.",
-    "published_at": "2026-03-20 09:16",
-    "scraped_at": "2026-03-20T12:29:07.984468"
-  },
-  {
-    "id": "a64a1fd8da8ef84d58fce600ea22c08d",
-    "categorie": "Beursnieuws",
-    "titel": "FDA keurt hogere dosering Wegovy van Novo Nordisk goed",
-    "link": "https://www.beurs.nl/Nieuws/857812/FDA-keurt-hogere-dosering-Wegovy-van-Novo-Nordisk-goed.aspx",
-    "intro": "De Amerikaanse toezichthouder FDA heeft een hogere dosering van het afslankmiddel Wegovy van Novo Nordisk goedgekeurd. Dit maakte de Deense farmaceut bekend.",
-    "published_at": "2026-03-20 08:49",
-    "scraped_at": "2026-03-20T12:29:07.984468"
-  },
-  {
-    "id": "87ac0a8b54f371eae43e2a834e510e8c",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse producentenprijzen verder gedaald",
-    "link": "https://www.beurs.nl/Nieuws/857809/Duitse-producentenprijzen-verder-gedaald.aspx",
-    "intro": "De producentenprijzen in Duitsland zijn in februari opnieuw gedaald. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-03-20 08:24",
-    "scraped_at": "2026-03-20T12:29:07.984468"
-  },
-  {
-    "id": "62e19af145f1f45fe3164502a75d8ab1",
-    "categorie": "Beursnieuws",
-    "titel": "Unilever ontvangt bod van McCormick op voedingstak",
-    "link": "https://www.beurs.nl/Nieuws/857808/Unilever-ontvangt-bod-van-McCormick-op-voedingstak.aspx",
-    "intro": "Unilever is in gesprek met McCormick  Company over een verkoop van zijn voedingstak. Dit maakten de twee bedrijven vrijdagochtend bekend.",
-    "published_at": "2026-03-20 08:22",
-    "scraped_at": "2026-03-20T12:29:07.984468"
+    "scraped_at": "2026-03-20T13:48:42.108665"
   }
 ]
