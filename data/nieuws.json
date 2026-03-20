@@ -1,92 +1,38 @@
 [
   {
-    "id": "09e75b042d62dc1331f8e61a7feb22f1",
+    "id": "a92987043f9809cc5ff1a4d122539a90",
     "categorie": "Beursnieuws",
-    "titel": "FedEx verhoogt outlook opnieuw",
-    "link": "https://www.beurs.nl/Nieuws/857759/FedEx-verhoogt-outlook-opnieuw.aspx",
-    "intro": "FedEx heeft na een sterk derde kwartaal de outlook voor zijn lopende boekjaar opnieuw verhoogd. Dit bleek donderdagavond uit de resultaten van de Amerikaanse pakketbezorger.",
-    "published_at": "2026-03-19 21:51",
-    "scraped_at": "2026-03-20T05:09:03.819453"
+    "titel": "Europese beurzen maken zich op voor herstel",
+    "link": "https://www.beurs.nl/Nieuws/857788/Europese-beurzen-maken-zich-op-voor-herstel.aspx",
+    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet, na donkerrode koersen in Europa een dag eerder, toen de olie- en gasprijzen verder opliepen en de centrale banken hun kruit droog hielden.",
+    "published_at": "2026-03-20 06:56",
+    "scraped_at": "2026-03-20T06:09:44.243920"
   },
   {
-    "id": "ccae959a230480d6652d08a81c39e30a",
+    "id": "5e30050ad2b2b48777ec1ebe1cd74ebc",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/857757/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten, met een flink verlies voor Shell.",
-    "published_at": "2026-03-19 21:13",
-    "scraped_at": "2026-03-20T05:09:03.819453"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/857784/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 27 maart 2026:",
+    "published_at": "2026-03-20 06:49",
+    "scraped_at": "2026-03-20T06:09:44.243920"
   },
   {
-    "id": "2a22304f0f43782664a614a922f1414a",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street beperkt schade na opmerkingen Trump",
-    "link": "https://www.beurs.nl/Nieuws/857756/Wall-Street-beperkt-schade-na-opmerkingen-Trump.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdag met een klein verlies geëindigd, na opmerkingen van de Amerikaanse president Donald Trump en de Israëlische premier Netanyahu, waardoor de olieprijzen wat daalden.",
-    "published_at": "2026-03-19 21:10",
-    "scraped_at": "2026-03-20T05:09:03.819453"
-  },
-  {
-    "id": "db8e41a61c241bb95a2a11bc331b6150",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijs stabiliseert na opmerkingen Trump en Bessent",
-    "link": "https://www.beurs.nl/Nieuws/857755/Olieprijs-stabiliseert-na-opmerkingen-Trump-en-Bessent.aspx",
-    "intro": "De olieprijs is donderdag gestabiliseerd rond 96 dollar, na opmerkingen van de Amerikaanse president Donald Trump en zijn minister van Financiën Scott Bessent.",
-    "published_at": "2026-03-19 20:15",
-    "scraped_at": "2026-03-20T05:09:03.819453"
-  },
-  {
-    "id": "f660d1f6cd40be0bb1aa00001b5cc3ec",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street op verlies",
-    "link": "https://www.beurs.nl/Nieuws/857753/Wall-Street-op-verlies.aspx",
-    "intro": "De Amerikaanse beurzen noteerden donderdag lager met nog anderhalf uur handel te gaan. De SP 500 verloor 0,7 procent op 6.579,09 punten en de Nasdaq daalde 0,8 procent op 21.984,53 punten. De Dow Jones index ging 0,9 procent lager op 45.828,26 punten.",
-    "published_at": "2026-03-19 19:38",
-    "scraped_at": "2026-03-20T05:09:03.819453"
-  },
-  {
-    "id": "5055b7427a65e4f4a474a55f358470d5",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hard onderuit",
-    "link": "https://www.beurs.nl/Nieuws/857750/Europese-beurzen-hard-onderuit.aspx",
-    "intro": "De Europese aandelenmarkten zijn donderdag diep in het rood geëindigd, terwijl de olie- en gasprijzen opliepen en de centrale banken hun kruit droog hielden.",
-    "published_at": "2026-03-19 18:28",
-    "scraped_at": "2026-03-20T05:09:03.819453"
-  },
-  {
-    "id": "c7a7f2f207e757658765c7ba17827d2d",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit ruim 2 procent lager",
-    "link": "https://www.beurs.nl/Nieuws/857747/AEX-sluit-ruim-2-procent-lager.aspx",
-    "intro": "De Amsterdamse beurs is donderdag met een stevig verlies gesloten, terwijl de olieprijzen stegen en de centrale banken nauwlettend in de gaten houden wat dit betekent voor de inflatie.",
-    "published_at": "2026-03-19 17:53",
-    "scraped_at": "2026-03-20T05:09:03.819453"
-  },
-  {
-    "id": "e4ebd702e5aa0aa3c00d2f837343a00c",
-    "categorie": "Beursnieuws",
-    "titel": "Shell meldt schade aan faciliteit in Qatar",
-    "link": "https://www.beurs.nl/Nieuws/857745/Shell-meldt-schade-aan-faciliteit-in-Qatar.aspx",
-    "intro": "Bij de aanvallen van Iran op het energiecomplex Ras Laffan in Qatar is ook een faciliteit van Shell beschadigd geraakt. Dit meldde Shell donderdag.",
-    "published_at": "2026-03-19 17:41",
-    "scraped_at": "2026-03-20T05:09:03.819453"
-  },
-  {
-    "id": "f7486cbe879b762a6981746e9d9205a1",
+    "id": "661f79723bef0a630d7e6d8d6fcdcf65",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/857735/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/857785/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 27 maart 2026:",
-    "published_at": "2026-03-19 16:36",
-    "scraped_at": "2026-03-20T05:09:03.819453"
+    "published_at": "2026-03-20 06:49",
+    "scraped_at": "2026-03-20T06:09:44.243920"
   },
   {
-    "id": "735e0063584132819662d943e76bb565",
+    "id": "d6d0c9101aba2bf35c7146b059f469f9",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/857736/Beursagenda-macro-economisch.aspx",
+    "link": "https://www.beurs.nl/Nieuws/857786/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 27 maart 2026:",
-    "published_at": "2026-03-19 16:36",
-    "scraped_at": "2026-03-20T05:09:03.819453"
+    "published_at": "2026-03-20 06:49",
+    "scraped_at": "2026-03-20T06:09:44.243920"
   }
 ]
