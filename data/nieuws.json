@@ -1,12 +1,48 @@
 [
   {
+    "id": "c17e35c13c0ecc0dd4d6a8954b7da0ee",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/857816/Beursupdate-AEX-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,5 procent hoger op 982,95 punten, terwijl de Midkap 0,6 procent won.",
+    "published_at": "2026-03-20 09:16",
+    "scraped_at": "2026-03-20T08:24:45.959120"
+  },
+  {
+    "id": "a64a1fd8da8ef84d58fce600ea22c08d",
+    "categorie": "Beursnieuws",
+    "titel": "FDA keurt hogere dosering Wegovy van Novo Nordisk goed",
+    "link": "https://www.beurs.nl/Nieuws/857812/FDA-keurt-hogere-dosering-Wegovy-van-Novo-Nordisk-goed.aspx",
+    "intro": "De Amerikaanse toezichthouder FDA heeft een hogere dosering van het afslankmiddel Wegovy van Novo Nordisk goedgekeurd. Dit maakte de Deense farmaceut bekend.",
+    "published_at": "2026-03-20 08:49",
+    "scraped_at": "2026-03-20T08:24:45.959120"
+  },
+  {
+    "id": "87ac0a8b54f371eae43e2a834e510e8c",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse producentenprijzen verder gedaald",
+    "link": "https://www.beurs.nl/Nieuws/857809/Duitse-producentenprijzen-verder-gedaald.aspx",
+    "intro": "De producentenprijzen in Duitsland zijn in februari opnieuw gedaald. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-03-20 08:24",
+    "scraped_at": "2026-03-20T08:24:45.959120"
+  },
+  {
+    "id": "62e19af145f1f45fe3164502a75d8ab1",
+    "categorie": "Beursnieuws",
+    "titel": "Unilever ontvangt bod van McCormick op voedingstak",
+    "link": "https://www.beurs.nl/Nieuws/857808/Unilever-ontvangt-bod-van-McCormick-op-voedingstak.aspx",
+    "intro": "Unilever is in gesprek met McCormick  Company over een verkoop van zijn voedingstak. Dit maakten de twee bedrijven vrijdagochtend bekend.",
+    "published_at": "2026-03-20 08:22",
+    "scraped_at": "2026-03-20T08:24:45.959120"
+  },
+  {
     "id": "54bf51b1bf507622442f16bc0482581b",
     "categorie": "Voorbeurs",
     "titel": "AEX opent licht hoger en wat anders doet ertoe dan de olieprijs?",
     "link": "https://www.iex.nl/artikel/857721/AEX-opent-licht-hoger-en-wat-anders-doet-ertoe-dan-de-olieprijs.aspx",
     "intro": "De future verklapt een 0,3% hogere opening voor de AEX, nadat de Amerikaanse beurzen een groot deel van het openingsverlies wegwerkten. In Azië is het beeld verdeeld en kan de ECB niet anders dan verhogen?",
     "published_at": "2026-03-20 08:15",
-    "scraped_at": "2026-03-20T07:27:09.263524"
+    "scraped_at": "2026-03-20T08:24:45.959120"
   },
   {
     "id": "e40c3d08c890f93cc9072436351afa1d",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857802/AEX-start-handelsdag-vermoedelijk-afwachtend.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer neutrale opening, na donkerrode koersen in Europa een dag eerder, toen de olie- en gasprijzen verder opliepen en de centrale banken hun kruit droog hielden.",
     "published_at": "2026-03-20 08:05",
-    "scraped_at": "2026-03-20T07:27:09.263524"
+    "scraped_at": "2026-03-20T08:24:45.959120"
   },
   {
     "id": "2579919abc18695977b8e695449d74b0",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857797/Beursblik-Jefferies-haalt-Inpost-van-de-kooplijst.aspx",
     "intro": "Jefferies heeft vrijdag het advies voor Inpost verlaagd van Kopen naar Houden, terwijl het koersdoel van 17,00 naar 15,60 euro ging. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-03-20 07:37",
-    "scraped_at": "2026-03-20T07:27:09.263524"
+    "scraped_at": "2026-03-20T08:24:45.959120"
   },
   {
     "id": "8f3ab1199888d05707c19bd3b0ba5eac",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857793/Beursblik-Jefferies-verlaagt-koersdoel-Randstad-stevig.aspx",
     "intro": "Jefferies heeft vrijdag het koersdoel voor Randstad verlaagd van 26,00 naar 21,00 euro, met handhaving van het Underperform advies. Dit bleek uit een sectorrapport van de zakenbank.",
     "published_at": "2026-03-20 07:20",
-    "scraped_at": "2026-03-20T07:27:09.263524"
+    "scraped_at": "2026-03-20T08:24:45.959120"
   },
   {
     "id": "750c9e252db6f29474184789a5f2cd79",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857794/Verdeeld-beeld-op-Aziatische-beurzen-en-olieprijzen-koelen-wat-af.aspx",
     "intro": "De Aziatische beurzen lieten vrijdagochtend een verdeeld beeld zien. De beurzen in Mumbai en Seoel wonnen tot ruim een procent, terwijl Hongkong en Sydney minder dan een procent prijsgaven. In Tokio bleef de beurs gesloten vanwege een feestdag.",
     "published_at": "2026-03-20 07:18",
-    "scraped_at": "2026-03-20T07:27:09.263524"
+    "scraped_at": "2026-03-20T08:24:45.959120"
   },
   {
     "id": "abaaebf978ba15e05d92a2a8bbe5c29b",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857791/Opnieuw-daling-Nederlandse-investeringen.aspx",
     "intro": "De Nederlandse investeringen zijn in januari opnieuw flink gedaald. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-03-20 07:03",
-    "scraped_at": "2026-03-20T07:27:09.263524"
-  },
-  {
-    "id": "a92987043f9809cc5ff1a4d122539a90",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen maken zich op voor herstel",
-    "link": "https://www.beurs.nl/Nieuws/857788/Europese-beurzen-maken-zich-op-voor-herstel.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet, na donkerrode koersen in Europa een dag eerder, toen de olie- en gasprijzen verder opliepen en de centrale banken hun kruit droog hielden.",
-    "published_at": "2026-03-20 06:56",
-    "scraped_at": "2026-03-20T07:27:09.263524"
-  },
-  {
-    "id": "5e30050ad2b2b48777ec1ebe1cd74ebc",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/857784/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 27 maart 2026:",
-    "published_at": "2026-03-20 06:49",
-    "scraped_at": "2026-03-20T07:27:09.263524"
-  },
-  {
-    "id": "661f79723bef0a630d7e6d8d6fcdcf65",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/857785/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 27 maart 2026:",
-    "published_at": "2026-03-20 06:49",
-    "scraped_at": "2026-03-20T07:27:09.263524"
-  },
-  {
-    "id": "d6d0c9101aba2bf35c7146b059f469f9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/857786/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 27 maart 2026:",
-    "published_at": "2026-03-20 06:49",
-    "scraped_at": "2026-03-20T07:27:09.263524"
+    "scraped_at": "2026-03-20T08:24:45.959120"
   }
 ]
