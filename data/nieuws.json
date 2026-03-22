@@ -1,11 +1,20 @@
 [
   {
+    "id": "6955a24fba4b784e9189c812e8aed265",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: onbekende grootaandeelhouder CSG meldt zich",
+    "link": "https://www.beurs.nl/Nieuws/857937/Beursblik-onbekende-grootaandeelhouder-CSG-meldt-zich.aspx",
+    "intro": "Opnieuw is er negatief nieuws rondom beursnieuweling CSG. Dit stelde analist Teun Verhagen van IEX in een rapport.",
+    "published_at": "2026-03-22 14:54",
+    "scraped_at": "2026-03-22T13:57:22.856094"
+  },
+  {
     "id": "f75fb7eee15895a631a7932637c1470c",
     "categorie": "Beursnieuws",
     "titel": "Shell enige stijger op Damrak",
     "link": "https://www.beurs.nl/Nieuws/857933/Shell-enige-stijger-op-Damrak.aspx",
     "intro": "Het was opnieuw een turbulente week vol krantenkoppen over de oorlog in het Midden-Oosten, die zorgden voor een verdere stijging van de energieprijzen. En daar konden aan de sector gerelateerde aandelen als Shell duidelijk van profiteren.",
     "published_at": "2026-03-22 10:56",
-    "scraped_at": "2026-03-22T13:11:09.965505"
+    "scraped_at": "2026-03-22T13:57:22.856094"
   }
 ]
