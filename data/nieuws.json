@@ -1,12 +1,30 @@
 [
   {
-    "id": "6e5312ab6480011f04c5a01e9e13c0ba",
+    "id": "60f485abb5ff42d2b310eae0b4bd23b1",
     "categorie": "Beursnieuws",
-    "titel": "Goldman Sachs ziet Brent olie naar $160 stijgen",
-    "link": "https://www.beurs.nl/Nieuws/858008/Goldman-Sachs-ziet-Brent-olie-naar-160-stijgen.aspx",
+    "titel": "Beursweek begint met stevige verliezen",
+    "link": "https://www.beurs.nl/Nieuws/858014/Beursweek-begint-met-stevige-verliezen.aspx",
+    "intro": "De Amsterdamse beurs is maandag met stevige verliezen aan de nieuwe week begonnen.",
+    "published_at": "2026-03-23 10:51",
+    "scraped_at": "2026-03-23T10:38:57.357740"
+  },
+  {
+    "id": "9ff2c39d3dac453c0612fedd93a43921",
+    "categorie": "Redactioneel",
+    "titel": "Must read: Energiecrisis wakkert recessievrees aan",
+    "link": "https://www.iex.nl/artikel/857993/Must-read-Energiecrisis-wakkert-recessievrees-aan.aspx",
+    "intro": "Recessievrees is door de Iran-oorlog terug van weggeweest . Met dure energie en een kwetsbare economie wordt de kans op een klap steeds serieuzer. Plus: IEA waarschuwt voor een grote energiecrisis, olieprijs stijgt verder, consumentenvertrouwen daalt fors en meer.",
+    "published_at": "2026-03-23 10:45",
+    "scraped_at": "2026-03-23T10:38:57.357740"
+  },
+  {
+    "id": "17908062f2279134d04927786fea599a",
+    "categorie": "Beursnieuws",
+    "titel": "Goldman Sachs ziet Brentolie naar $160 stijgen",
+    "link": "https://www.beurs.nl/Nieuws/858008/Goldman-Sachs-ziet-Brentolie-naar-160-stijgen.aspx",
     "intro": "Goldman Sachs heeft zijn verwachtingen voor de olieprijs verhoogd naar aanleiding van de oorlog in het Midden-Oosten en denkt dat de olieprijs kan stijgen naar 140 of zelfs 160 dollar per vat, als de Straat van Hormuz gedurende 10 weken nagenoeg geheel afgesloten blijft. Dat bleek uit een analistenrapport van de Amerikaanse bank.",
     "published_at": "2026-03-23 10:10",
-    "scraped_at": "2026-03-23T09:33:25.284628"
+    "scraped_at": "2026-03-23T10:38:57.357740"
   },
   {
     "id": "2f25aa0fbad9c57634429e2ffe21bdc8",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858001/Nieuw-lid-RvC-Philips-voorgedragen.aspx",
     "intro": "John DeFord is voorgesteld als nieuw lid van de raad van commissarissen van Philips. Dit bleek maandag uit een persbericht.",
     "published_at": "2026-03-23 09:42",
-    "scraped_at": "2026-03-23T09:33:25.284628"
+    "scraped_at": "2026-03-23T10:38:57.357740"
   },
   {
     "id": "893c22218ef7d7bb35c25809f46b8f99",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857999/Apollo-neemt-belang-in-Syntegon-van-CVC.aspx",
     "intro": "CVC Capital heeft een belang van 37 procent in zijn belegging Syntegon verkocht aan Apollo. Dit maakte het private equity-bedrijf met een notering in Amsterdam maandagochtend bekend.",
     "published_at": "2026-03-23 09:18",
-    "scraped_at": "2026-03-23T09:33:25.284628"
+    "scraped_at": "2026-03-23T10:38:57.357740"
   },
   {
     "id": "93894c036c33854267ed5c5124a22903",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857997/AEX-scherp-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste maandag kort na de beursgong 1,3 procent lager, terwijl de Midkap 2,2 procent prijs moest geven.",
     "published_at": "2026-03-23 09:13",
-    "scraped_at": "2026-03-23T09:33:25.284628"
+    "scraped_at": "2026-03-23T10:38:57.357740"
   },
   {
     "id": "0922be40134bd9e46cfb6706235af8b3",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857991/Meer-omzet-voor-Royal-Delft.aspx",
     "intro": "Royal Delft heeft in 2025 meer omzet behaald, terwijl ook de winst fors aantrok. Dit bleek maandag uit cijfers van de porseleinspecialist uit Delft.",
     "published_at": "2026-03-23 08:35",
-    "scraped_at": "2026-03-23T09:33:25.284628"
+    "scraped_at": "2026-03-23T10:38:57.357740"
   },
   {
     "id": "6927c4aa49227d2861fccd0da7b8005c",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Artikel/857954/Ultimatum-Trump-aan-Iran-hangt-boven-de-markt-en-goudprijs-met-8-onderuit.aspx",
     "intro": "Openingsindicatie: -1,8%. Alle ogen zijn gericht op de Straat van Hormuz. Olieprijzen lopen verder op, goudprijs gaat hard onderuit en SBM Offshore maakt zijn rentree in de AEX.",
     "published_at": "2026-03-23 08:20",
-    "scraped_at": "2026-03-23T09:33:25.284628"
+    "scraped_at": "2026-03-23T10:38:57.357740"
   },
   {
     "id": "e1bdb74a37a683887851dfb9ebff66e1",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857982/Salzgitter-rekent-op-verbetering-in-2026.aspx",
     "intro": "Salzgitter verwacht dat de omzet en de winstgevendheid in 2026 zullen verbeteren, nadat deze in 2025 onder druk stonden. Dit bleek maandag uit cijfers van de Duitse staalreus.",
     "published_at": "2026-03-23 08:12",
-    "scraped_at": "2026-03-23T09:33:25.284628"
+    "scraped_at": "2026-03-23T10:38:57.357740"
   },
   {
     "id": "f10a2ff57f636da0d6f4e60028b20eb4",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857978/AEX-start-handelsweek-in-mineur-door-escalatie-in-het-Midden-Oosten.aspx",
     "intro": "De Amsterdamse beurs gaat maandag scherp lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,5 procent.",
     "published_at": "2026-03-23 08:06",
-    "scraped_at": "2026-03-23T09:33:25.284628"
-  },
-  {
-    "id": "9eeefd48fbc5dc4ec068a710238c162a",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse koopwoningen ruim 5% duurder",
-    "link": "https://www.beurs.nl/Nieuws/857972/Nederlandse-koopwoningen-ruim-5-duurder.aspx",
-    "intro": "De prijzen van bestaande koopwoningen zijn in februari opnieuw gestegen. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
-    "published_at": "2026-03-23 07:25",
-    "scraped_at": "2026-03-23T09:33:25.284628"
-  },
-  {
-    "id": "c9a39e1b67fdc3a1938287740bd3f938",
-    "categorie": "Beursnieuws",
-    "titel": "Zware verliezen op Aziatische beurzen",
-    "link": "https://www.beurs.nl/Nieuws/857973/Zware-verliezen-op-Aziatische-beurzen.aspx",
-    "intro": "De Aziatische beurzen koersten maandagochtend scherp lager vanwege de aanhoudende escalatie in het Midden-Oosten.",
-    "published_at": "2026-03-23 07:22",
-    "scraped_at": "2026-03-23T09:33:25.284628"
+    "scraped_at": "2026-03-23T10:38:57.357740"
   }
 ]
