@@ -1,12 +1,30 @@
 [
   {
+    "id": "1d42cce5cbfbccf9d48164d673105078",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/858097/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-03-23 21:19",
+    "scraped_at": "2026-03-23T21:01:58.796948"
+  },
+  {
+    "id": "103aab88f1a25bfc5fc9f95c1447cec8",
+    "categorie": "Beursnieuws",
+    "titel": "Vijf dagen adempauze, Wall Street opgelucht",
+    "link": "https://www.beurs.nl/Nieuws/858096/Vijf-dagen-adempauze-Wall-Street-opgelucht.aspx",
+    "intro": "De Amerikaanse beurzen zijn maandag hoger gesloten, nadat president Trump de dreigende aanvallen op Iraanse energiecentrales uitstelde en daarmee de vrees voor een escalatie in het Midden-Oosten tijdelijk wegnam.",
+    "published_at": "2026-03-23 21:12",
+    "scraped_at": "2026-03-23T21:01:58.796948"
+  },
+  {
     "id": "f63e7ef245232bb5a409ca22555cc604",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen flink lager gesloten",
     "link": "https://www.beurs.nl/Nieuws/858093/Olieprijzen-flink-lager-gesloten.aspx",
     "intro": "De olieprijzen zijn maandag fors lager gesloten nadat president Donald Trump aankondigde dat de VS en Iran productieve gesprekken hadden gevoerd en dat hij de aanvallen op Iraanse energie-infrastructuur voorlopig had opgeschort.",
     "published_at": "2026-03-23 20:06",
-    "scraped_at": "2026-03-23T20:24:40.302082"
+    "scraped_at": "2026-03-23T21:01:58.796948"
   },
   {
     "id": "6e3fcec42fc173ab75c137f463956e47",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858090/Wall-Street-hoger-nadat-Trump-de-aanval-op-Iran-voorlopig-uitstelt.aspx",
     "intro": "De Amerikaanse beurzen noteerden maandag met nog anderhalf uur handel te gaan hoger, nadat president Trump de dreigende aanvallen op Iraanse energiecentrales uitstelde en daarmee de vrees voor een escalatie in het Midden-Oosten tijdelijk wegnam.",
     "published_at": "2026-03-23 19:26",
-    "scraped_at": "2026-03-23T20:24:40.302082"
+    "scraped_at": "2026-03-23T21:01:58.796948"
   },
   {
     "id": "d139b412113ee05a19771103dcf20b0b",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858082/Europese-beurzen-hoger-gesloten-door-hoop-op-de-escalatie-Midden-Oosten.aspx",
     "intro": "De Europese financiële markten begonnen maandagochtend flink in de verdrukking, maar na een optimistisch bericht van president Donald Trump werd er rond lunchtijd een stevige ommekeer ingezet. Richting het slot liepen de winsten wel weer terug.",
     "published_at": "2026-03-23 18:30",
-    "scraped_at": "2026-03-23T20:24:40.302082"
+    "scraped_at": "2026-03-23T21:01:58.796948"
   },
   {
     "id": "3d2435a2b05c230ccced848d5aa6cb6a",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858076/Damrak-hoopvol-maar-voorzichtig-na-uitspraken-van-Trump.aspx",
     "intro": "De Amsterdamse beurs is maandag hoger geëindigd, na een bericht van de Amerikaanse president Donald Trump op Truth Social, waarin hij aangaf productieve gesprekken te hebben gevoerd met Iran. Teheran ontkende dit echter en richting het slot ging een groot deel van de winsten toch weer verloren.",
     "published_at": "2026-03-23 17:50",
-    "scraped_at": "2026-03-23T20:24:40.302082"
+    "scraped_at": "2026-03-23T21:01:58.796948"
   },
   {
     "id": "a1d9d72ab51cc8ff06e1f7c1482dbbe7",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858071/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 31 maart 2026:",
     "published_at": "2026-03-23 16:31",
-    "scraped_at": "2026-03-23T20:24:40.302082"
+    "scraped_at": "2026-03-23T21:01:58.796948"
   },
   {
     "id": "29eb9eb2c83800149155edb6f6132b2d",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858072/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 31 maart 2026:",
     "published_at": "2026-03-23 16:31",
-    "scraped_at": "2026-03-23T20:24:40.302082"
+    "scraped_at": "2026-03-23T21:01:58.796948"
   },
   {
     "id": "3562584764f541655e867c07ca90f97e",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858070/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 31 maart 2026:",
     "published_at": "2026-03-23 16:30",
-    "scraped_at": "2026-03-23T20:24:40.302082"
+    "scraped_at": "2026-03-23T21:01:58.796948"
   },
   {
     "id": "c1ac2e267702f8a29ccb8a97e164a86c",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858068/Beursblik-kosten-Nederlandse-banken-verschuiven-van-lonen-naar-infrastructuur.aspx",
     "intro": "Nederlandse banken maken een fundamentele verschuiving door in hun kostenstructuur. Waar jarenlang de focus lag op het terugdringen van personeelskosten, verschuift het zwaartepunt nu naar investeringen in technologische infrastructuur. Dit stelden analisten van Jefferies maandag in een rapport.",
     "published_at": "2026-03-23 16:26",
-    "scraped_at": "2026-03-23T20:24:40.302082"
-  },
-  {
-    "id": "e49ce2b8f7da4fd39785e073cf552315",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen eurozone keldert",
-    "link": "https://www.beurs.nl/Nieuws/858066/Consumentenvertrouwen-eurozone-keldert.aspx",
-    "intro": "Het consumentenvertrouwen in de eurozone is in maart gekelderd. Dit bleek maandagmiddag uit voorlopige cijfers van de Europese Commissie.",
-    "published_at": "2026-03-23 16:05",
-    "scraped_at": "2026-03-23T20:24:40.302082"
-  },
-  {
-    "id": "8b30057882a03cdd96d6dc268591fa2d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: gasprijs blijft ruim onder piek van 2022",
-    "link": "https://www.beurs.nl/Nieuws/858059/Beursblik-gasprijs-blijft-ruim-onder-piek-van-2022.aspx",
-    "intro": "De ontwikkeling van de gasprijs laat zien dat de markt de impact van het conflict in het Midden-Oosten als tijdelijk beschouwt, waardoor de prijsschok vooralsnog veel minder extreem is dan in 2022, toen Rusland Oekraïne binnenviel. Dit stelden analisten van JPMorgan maandag in een analistenrapport.",
-    "published_at": "2026-03-23 15:17",
-    "scraped_at": "2026-03-23T20:24:40.302082"
+    "scraped_at": "2026-03-23T21:01:58.796948"
   }
 ]
