@@ -1,12 +1,30 @@
 [
   {
+    "id": "0922be40134bd9e46cfb6706235af8b3",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet voor Royal Delft",
+    "link": "https://www.beurs.nl/Nieuws/857991/Meer-omzet-voor-Royal-Delft.aspx",
+    "intro": "Royal Delft heeft in 2025 meer omzet behaald, terwijl ook de winst fors aantrok. Dit bleek maandag uit cijfers van de porseleinspecialist uit Delft.",
+    "published_at": "2026-03-23 08:35",
+    "scraped_at": "2026-03-23T08:10:50.351216"
+  },
+  {
+    "id": "6927c4aa49227d2861fccd0da7b8005c",
+    "categorie": "Voorbeurs",
+    "titel": "Ultimatum Trump aan Iran hangt boven de markt en goudprijs met 8% onderuit",
+    "link": "https://www.beurs.nl/Artikel/857954/Ultimatum-Trump-aan-Iran-hangt-boven-de-markt-en-goudprijs-met-8-onderuit.aspx",
+    "intro": "Openingsindicatie: -1,8%. Alle ogen zijn gericht op de Straat van Hormuz. Olieprijzen lopen verder op, goudprijs gaat hard onderuit en SBM Offshore maakt zijn rentree in de AEX.",
+    "published_at": "2026-03-23 08:20",
+    "scraped_at": "2026-03-23T08:10:50.351216"
+  },
+  {
     "id": "f10a2ff57f636da0d6f4e60028b20eb4",
     "categorie": "Beursnieuws",
     "titel": "AEX start handelsweek in mineur door escalatie in het Midden-Oosten",
     "link": "https://www.beurs.nl/Nieuws/857978/AEX-start-handelsweek-in-mineur-door-escalatie-in-het-Midden-Oosten.aspx",
     "intro": "De Amsterdamse beurs gaat maandag scherp lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,5 procent.",
     "published_at": "2026-03-23 08:06",
-    "scraped_at": "2026-03-23T07:14:17.547394"
+    "scraped_at": "2026-03-23T08:10:50.351216"
   },
   {
     "id": "9eeefd48fbc5dc4ec068a710238c162a",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/857972/Nederlandse-koopwoningen-ruim-5-duurder.aspx",
     "intro": "De prijzen van bestaande koopwoningen zijn in februari opnieuw gestegen. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
     "published_at": "2026-03-23 07:25",
-    "scraped_at": "2026-03-23T07:14:17.547394"
+    "scraped_at": "2026-03-23T08:10:50.351216"
   },
   {
     "id": "c9a39e1b67fdc3a1938287740bd3f938",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/857973/Zware-verliezen-op-Aziatische-beurzen.aspx",
     "intro": "De Aziatische beurzen koersten maandagochtend scherp lager vanwege de aanhoudende escalatie in het Midden-Oosten.",
     "published_at": "2026-03-23 07:22",
-    "scraped_at": "2026-03-23T07:14:17.547394"
+    "scraped_at": "2026-03-23T08:10:50.351216"
   },
   {
     "id": "df32f1b9246532df02ce596a584e198d",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/857970/Grootste-daling-consumentenvertrouwen-in-vier-jaar.aspx",
     "intro": "Het vertrouwen van consumenten is in maart verder gedaald. Dit meldde het Centraal Bureau voor de Statistiek maandag.",
     "published_at": "2026-03-23 07:12",
-    "scraped_at": "2026-03-23T07:14:17.547394"
+    "scraped_at": "2026-03-23T08:10:50.351216"
   },
   {
     "id": "cd7d7d9a5b30eb45969195ca4e0d41ec",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/857969/Europese-beurzen-openen-waarschijnlijk-in-het-rood.aspx",
     "intro": "De Europese beurzen gaan maandag een flink lagere opening tegemoet, nu de oorlog in Iran alleen maar verder dreigt te escaleren.",
     "published_at": "2026-03-23 07:03",
-    "scraped_at": "2026-03-23T07:14:17.547394"
+    "scraped_at": "2026-03-23T08:10:50.351216"
   },
   {
     "id": "3a4ea966cd1999211152d652b4a990f8",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/857963/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 30 maart 2026:",
     "published_at": "2026-03-23 06:54",
-    "scraped_at": "2026-03-23T07:14:17.547394"
+    "scraped_at": "2026-03-23T08:10:50.351216"
   },
   {
     "id": "f4c4904a8f13755a4f2238e429b9d7af",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/857964/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 30 maart 2026:",
     "published_at": "2026-03-23 06:54",
-    "scraped_at": "2026-03-23T07:14:17.547394"
+    "scraped_at": "2026-03-23T08:10:50.351216"
   },
   {
     "id": "473dd098c4344de273264b8413df8864",
@@ -69,6 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/857962/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 30 maart 2026:",
     "published_at": "2026-03-23 06:53",
-    "scraped_at": "2026-03-23T07:14:17.547394"
+    "scraped_at": "2026-03-23T08:10:50.351216"
   }
 ]
