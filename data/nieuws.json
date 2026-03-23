@@ -1,12 +1,48 @@
 [
   {
+    "id": "0356a160774932c26bfd74e719bfdf35",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht flink hogere opening na optimisme Trump over Iran",
+    "link": "https://www.beurs.nl/Nieuws/858044/Wall-Street-wacht-flink-hogere-opening-na-optimisme-Trump-over-Iran.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een flink hogere opening tegemoet, na een bericht van president Donald Trump op Truth Social, waarin hij aangaf productieve gesprekken te hebben gevoerd met Iran. Teheran heeft inmiddels ontkend dat dergelijke gesprekken hebben plaatsgevonden.",
+    "published_at": "2026-03-23 13:56",
+    "scraped_at": "2026-03-23T14:04:04.626035"
+  },
+  {
+    "id": "3db6165a643ac34775549b3828704d72",
+    "categorie": "Beursnieuws",
+    "titel": "Chicago Fed index zakt weer onder nul",
+    "link": "https://www.beurs.nl/Nieuws/858043/Chicago-Fed-index-zakt-weer-onder-nul.aspx",
+    "intro": "De Chicago Fed National Activity Index is in februari onder nul gezakt. Dit maakte de centrale bank van Chicago maandag bekend.",
+    "published_at": "2026-03-23 13:41",
+    "scraped_at": "2026-03-23T14:04:04.626035"
+  },
+  {
+    "id": "1625d9d6bf3b3f223603ae16e538b1d6",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Iran ontkent gesprekken met Trump",
+    "link": "https://www.beurs.nl/Nieuws/858041/Media-Iran-ontkent-gesprekken-met-Trump.aspx",
+    "intro": "Het Iraanse ministerie van Buitenlandse Zaken ontkent dat het in de afgelopen dagen gesprekken met de Verenigde Staten heeft gevoerd. Dit meldden Iraanse staatsmedia, waaronder Tasnim en Mehr, maandag op basis van overheidsbronnen.",
+    "published_at": "2026-03-23 13:33",
+    "scraped_at": "2026-03-23T14:04:04.626035"
+  },
+  {
+    "id": "f7fc7ef802a5502e37fdeb9e5da2883f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Unilever en McCormick een logische combinatie",
+    "link": "https://www.beurs.nl/Nieuws/858040/Beursblik-Unilever-en-McCormick-een-logische-combinatie.aspx",
+    "intro": "Een fusie tussen McCormick en de twee keer zo grote voedingstak van Unilever lijkt een logische stap, gezien de synergievoordelen die lonken, groeipotentieel en beperkte mededingingsrisico's. Dat stelde Bank of America woensdag in een analistenrapport.",
+    "published_at": "2026-03-23 13:29",
+    "scraped_at": "2026-03-23T14:04:04.626035"
+  },
+  {
     "id": "1b0b1f2304096cd8320058c8724aa032",
     "categorie": "Beursnieuws",
     "titel": "Futures op Wall Street schieten omhoog na positieve woorden Trump over Iran",
     "link": "https://www.beurs.nl/Nieuws/858035/Futures-op-Wall-Street-schieten-omhoog-na-positieve-woorden-Trump-over-Iran.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een flink hogere opening tegemoet, na een bericht van president Donald Trump op Truth Social, waarin hij aangaf productieve gesprekken te hebben gevoerd met Iran.",
     "published_at": "2026-03-23 12:40",
-    "scraped_at": "2026-03-23T12:33:32.694158"
+    "scraped_at": "2026-03-23T14:04:04.626035"
   },
   {
     "id": "42d4d50c2c08cc04c08516ee08659124",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858034/Trump-goede-en-productieve-gesprekken-met-Iran.aspx",
     "intro": "De Verenigde Staten hebben \"zeer goede en productieve\" gesprekken met Iran gevoerd in de afgelopen twee dagen om de oorlog in het Midden-Oosten te beëindigen. Dit meldde de Amerikaanse president Donald Trump maandag op Truth Social.",
     "published_at": "2026-03-23 12:24",
-    "scraped_at": "2026-03-23T12:33:32.694158"
+    "scraped_at": "2026-03-23T14:04:04.626035"
   },
   {
     "id": "85a5482b3665683d3fb010ebd8efa822",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858031/Donkerrode-beurzen-in-Europa-terwijl-deadline-Hormuz-nadert.aspx",
     "intro": "De aandelenmarkten in Europa noteerden maandag rond het middaguur diep in het rood, nu de vrees voor verdere escalatie in de oorlog in het Midden-Oosten toeneemt en de olieprijzen daardoor verder stijgen. Ook de toch al hoge obligatierentes liepen vanochtend verder op.",
     "published_at": "2026-03-23 12:08",
-    "scraped_at": "2026-03-23T12:33:32.694158"
+    "scraped_at": "2026-03-23T14:04:04.626035"
   },
   {
     "id": "e10fe649cb6802571ca829bd92d243ad",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858030/Valuta-dollar-sterker-door-escalatie-in-Midden-Oosten.aspx",
     "intro": "De dollar steeg maandag, terwijl het conflict in het Midden-Oosten de energieprijzen opdreef en beleggingen die gelden als veilige havens een impuls gaf.",
     "published_at": "2026-03-23 12:03",
-    "scraped_at": "2026-03-23T12:33:32.694158"
+    "scraped_at": "2026-03-23T14:04:04.626035"
   },
   {
     "id": "839ff0da73aaf1c423355e67cbec5a7b",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858025/RELX-voert-nog-een-aandeleninkoopprogramma-uit.aspx",
     "intro": "RELX zal tussen vandaag 23 maart en 22 april dit jaar voor maximaal 350 miljoen Britse pond aan eigen aandelen inkopen. Dit meldde het databedrijf maandagochtend.",
     "published_at": "2026-03-23 11:41",
-    "scraped_at": "2026-03-23T12:33:32.694158"
+    "scraped_at": "2026-03-23T14:04:04.626035"
   },
   {
     "id": "60f485abb5ff42d2b310eae0b4bd23b1",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858014/Beursweek-begint-met-stevige-verliezen.aspx",
     "intro": "De Amsterdamse beurs is maandag met stevige verliezen aan de nieuwe week begonnen.",
     "published_at": "2026-03-23 10:51",
-    "scraped_at": "2026-03-23T12:33:32.694158"
-  },
-  {
-    "id": "9ff2c39d3dac453c0612fedd93a43921",
-    "categorie": "Redactioneel",
-    "titel": "Must read: Energiecrisis wakkert recessievrees aan",
-    "link": "https://www.iex.nl/artikel/857993/Must-read-Energiecrisis-wakkert-recessievrees-aan.aspx",
-    "intro": "Recessievrees is door de Iran-oorlog terug van weggeweest . Met dure energie en een kwetsbare economie wordt de kans op een klap steeds serieuzer. Plus: IEA waarschuwt voor een grote energiecrisis, olieprijs stijgt verder, consumentenvertrouwen daalt fors en meer.",
-    "published_at": "2026-03-23 10:45",
-    "scraped_at": "2026-03-23T12:33:32.694158"
-  },
-  {
-    "id": "17908062f2279134d04927786fea599a",
-    "categorie": "Beursnieuws",
-    "titel": "Goldman Sachs ziet Brentolie naar $160 stijgen",
-    "link": "https://www.beurs.nl/Nieuws/858008/Goldman-Sachs-ziet-Brentolie-naar-160-stijgen.aspx",
-    "intro": "Goldman Sachs heeft zijn verwachtingen voor de olieprijs verhoogd naar aanleiding van de oorlog in het Midden-Oosten en denkt dat de olieprijs kan stijgen naar 140 of zelfs 160 dollar per vat, als de Straat van Hormuz gedurende 10 weken nagenoeg geheel afgesloten blijft. Dat bleek uit een analistenrapport van de Amerikaanse bank.",
-    "published_at": "2026-03-23 10:10",
-    "scraped_at": "2026-03-23T12:33:32.694158"
-  },
-  {
-    "id": "2f25aa0fbad9c57634429e2ffe21bdc8",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuw lid RvC Philips voorgedragen",
-    "link": "https://www.beurs.nl/Nieuws/858001/Nieuw-lid-RvC-Philips-voorgedragen.aspx",
-    "intro": "John DeFord is voorgesteld als nieuw lid van de raad van commissarissen van Philips. Dit bleek maandag uit een persbericht.",
-    "published_at": "2026-03-23 09:42",
-    "scraped_at": "2026-03-23T12:33:32.694158"
-  },
-  {
-    "id": "893c22218ef7d7bb35c25809f46b8f99",
-    "categorie": "Beursnieuws",
-    "titel": "Apollo neemt belang in Syntegon van CVC",
-    "link": "https://www.beurs.nl/Nieuws/857999/Apollo-neemt-belang-in-Syntegon-van-CVC.aspx",
-    "intro": "CVC Capital heeft een belang van 37 procent in zijn belegging Syntegon verkocht aan Apollo. Dit maakte het private equity-bedrijf met een notering in Amsterdam maandagochtend bekend.",
-    "published_at": "2026-03-23 09:18",
-    "scraped_at": "2026-03-23T12:33:32.694158"
+    "scraped_at": "2026-03-23T14:04:04.626035"
   }
 ]
