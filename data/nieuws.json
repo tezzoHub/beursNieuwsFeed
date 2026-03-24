@@ -1,12 +1,48 @@
 [
   {
+    "id": "7e8f8bb18761e26447876ecdf2ba2712",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs stijgt sterk",
+    "link": "https://www.beurs.nl/Nieuws/858243/Olieprijs-stijgt-sterk.aspx",
+    "intro": "De olieprijs is dinsdag gestegen, nadat de oorlog in het Midden-Oosten aanhield, met uitwisseling van aanvallen door Israël en Iran en aanvallen van Iran op andere staten rond de Perzische Golf.",
+    "published_at": "2026-03-24 20:41",
+    "scraped_at": "2026-03-24T19:43:42.264970"
+  },
+  {
+    "id": "49420891fc6e1caf82f63d2c39f44909",
+    "categorie": "Beursnieuws",
+    "titel": "UCB bouwt nieuwe productielocatie VS bij Atlanta",
+    "link": "https://www.beurs.nl/Nieuws/858244/UCB-bouwt-nieuwe-productielocatie-VS-bij-Atlanta.aspx",
+    "intro": "UCB gaat zijn nieuwe Amerikaanse productielocatie bouwen bij de stad Atlanta in de staat Georgia. Dat maakte het farmaciebedrijf dinsdag bekend.",
+    "published_at": "2026-03-24 20:41",
+    "scraped_at": "2026-03-24T19:43:42.264970"
+  },
+  {
+    "id": "4fc8b8a41477ea698cbf99f899b816cb",
+    "categorie": "Beursnieuws",
+    "titel": "UCB bouwt nieuwe productielocatie VS bij Atlanta",
+    "link": "https://www.beurs.nl/Nieuws/858245/UCB-bouwt-nieuwe-productielocatie-VS-bij-Atlanta.aspx",
+    "intro": "UCB gaat zijn nieuwe Amerikaanse productielocatie bouwen bij de stad Atlanta in de staat Georgia. Dat maakte het farmaciebedrijf dinsdag bekend.",
+    "published_at": "2026-03-24 20:41",
+    "scraped_at": "2026-03-24T19:43:42.264970"
+  },
+  {
+    "id": "58e1a398e0620b3a42c1e6c31f284bd1",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street verdeeld terwijl oorlog doorgaat",
+    "link": "https://www.beurs.nl/Nieuws/858231/Wall-Street-verdeeld-terwijl-oorlog-doorgaat.aspx",
+    "intro": "De Amerikaanse beurzen noteerden dinsdag verdeeld, met de olieprijs weer boven 100 dollar, in afwachting van mogelijke onderhandelingen tussen de VS en Iran later deze week.",
+    "published_at": "2026-03-24 20:00",
+    "scraped_at": "2026-03-24T19:43:42.264970"
+  },
+  {
     "id": "a3d21da8845961b6e7c4e39f753a05d7",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten verdeeld",
     "link": "https://www.beurs.nl/Nieuws/858230/Europese-beurzen-sluiten-verdeeld.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag verdeeld gesloten, na aanhoudende zorgen over de oorlog in het Midden-Oosten, terwijl het optimisme dat maandag werd gevoed door de Amerikaanse president Trump verflauwde.",
     "published_at": "2026-03-24 18:49",
-    "scraped_at": "2026-03-24T18:42:11.309658"
+    "scraped_at": "2026-03-24T19:43:42.264970"
   },
   {
     "id": "91c03ae8060e3b670e887f24d048fd98",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858229/HAL-verkoopt-belang-in-NextWave.aspx",
     "intro": "HAL heeft zijn belang in Atlas NextWave na vijftien jaar verkocht aan Avedon Capital Partners. Dat maakte de investeerder dinsdag nabeurs bekend.",
     "published_at": "2026-03-24 18:18",
-    "scraped_at": "2026-03-24T18:42:11.309658"
+    "scraped_at": "2026-03-24T19:43:42.264970"
   },
   {
     "id": "ee83aca7855374d3075bbba9db094324",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858227/AEX-sluit-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, ondanks aanhoudende onzekerheid over de oorlog in het Midden-Oosten, met IMCD als uitblinker.",
     "published_at": "2026-03-24 18:02",
-    "scraped_at": "2026-03-24T18:42:11.309658"
+    "scraped_at": "2026-03-24T19:43:42.264970"
   },
   {
     "id": "ba99c21cf4ce16428bdaf84eac4318ec",
@@ -33,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/858224/Beleggers-rekenen-blijkbaar-op-een-snel-einde-van-het-Golfconflict.aspx",
     "intro": "",
     "published_at": "2026-03-24 18:00",
-    "scraped_at": "2026-03-24T18:42:11.309658"
+    "scraped_at": "2026-03-24T19:43:42.264970"
   },
   {
     "id": "bdad00cf64e21083939c72f85360c14a",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858217/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 1 april 2026:",
     "published_at": "2026-03-24 16:04",
-    "scraped_at": "2026-03-24T18:42:11.309658"
+    "scraped_at": "2026-03-24T19:43:42.264970"
   },
   {
     "id": "0c6da2a4372ef5d826cf99ea42dbb99a",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858218/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 1 april 2026:",
     "published_at": "2026-03-24 16:04",
-    "scraped_at": "2026-03-24T18:42:11.309658"
-  },
-  {
-    "id": "4d5160285708c011146b2cd1fd8fff23",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/858219/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 1 april 2026:",
-    "published_at": "2026-03-24 16:04",
-    "scraped_at": "2026-03-24T18:42:11.309658"
-  },
-  {
-    "id": "25cc3277eed486cea42485f751080f70",
-    "categorie": "Beursnieuws",
-    "titel": "Media: QatarEnergy verklaart 'force majeure' op LNG-contracten",
-    "link": "https://www.beurs.nl/Nieuws/858215/Media-QatarEnergy-verklaart-force-majeure-op-LNG-contracten.aspx",
-    "intro": "QatarEnergy, het staatsolie- en aardgasbedrijf van Qatar, heeft 'force majeure' verklaard op een aantal langloptende contracten voor de levering van vloeibaar gemaakt aardgas, of LNG. Dat meldde persbureau Reuters dinsdag.",
-    "published_at": "2026-03-24 15:41",
-    "scraped_at": "2026-03-24T18:42:11.309658"
-  },
-  {
-    "id": "b06a0fcf6898e3258611ce8a80cd475e",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Exor kiest voor geduld boven deals",
-    "link": "https://www.beurs.nl/Nieuws/858212/Media-Exor-kiest-voor-geduld-boven-deals.aspx",
-    "intro": "Exor, het investeringsvehikel van de Italiaanse Agnelli-familie, heeft geen haast om zijn oorlogskas van 3,5 miljard euro aan het werk te zetten. Dat zei CEO John Elkann dinsdag in een gesprek met persbureau Reuters.",
-    "published_at": "2026-03-24 15:31",
-    "scraped_at": "2026-03-24T18:42:11.309658"
-  },
-  {
-    "id": "adad8e5391e488b0a4647fdbf9a9ed12",
-    "categorie": "Beursnieuws",
-    "titel": "DNB: inflatie zal door oorlog flink toenemen",
-    "link": "https://www.beurs.nl/Nieuws/858210/DNB-inflatie-zal-door-oorlog-flink-toenemen.aspx",
-    "intro": "Door de oorlog in het Midden-Oosten en de blokkade van de Straat van Hormuz kan de inflatie in Nederland flink toenemen, maar \"duidelijk minder\" dan bij de energiecrisis in 2022. Dit schetste De Nederlandsche Bank dinsdag in een rapport met verschillende scenario's voor de impact van hoge energieprijzen op de Nederlandse economie.",
-    "published_at": "2026-03-24 15:05",
-    "scraped_at": "2026-03-24T18:42:11.309658"
+    "scraped_at": "2026-03-24T19:43:42.264970"
   }
 ]
