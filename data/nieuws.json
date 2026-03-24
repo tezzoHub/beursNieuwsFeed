@@ -1,21 +1,57 @@
 [
   {
+    "id": "6f2f8aa7dd906f7911dc1d7a9f368f70",
+    "categorie": "Beursnieuws",
+    "titel": "Voorzichtige ochtend op het Amsterdamse Damrak",
+    "link": "https://www.beurs.nl/Nieuws/858172/Voorzichtige-ochtend-op-het-Amsterdamse-Damrak.aspx",
+    "intro": "De Amsterdamse beurs koerste dinsdagochtend voorzichtig hoger, te midden van nog altijd veel onzekerheid over de oorlog in het Midden-Oosten. Intussen toonden PMI-cijfers voor maart al de impact van het conflict, en dan vooral in de dienstensector.",
+    "published_at": "2026-03-24 11:10",
+    "scraped_at": "2026-03-24T10:36:40.512312"
+  },
+  {
+    "id": "947252e92caa328aeaf6ce457c4a1c53",
+    "categorie": "Beursnieuws",
+    "titel": "Oorlog in Midden-Oosten drukt Britse groei",
+    "link": "https://www.beurs.nl/Nieuws/858168/Oorlog-in-Midden-Oosten-drukt-Britse-groei.aspx",
+    "intro": "De economie in het Verenigd Koninkrijk is in maart in een beduidend trager tempo gegroeid. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-03-24 10:40",
+    "scraped_at": "2026-03-24T10:36:40.512312"
+  },
+  {
+    "id": "30caacc0c2267a1f90a162ee6570a264",
+    "categorie": "Beursnieuws",
+    "titel": "Heineken gaat minder bier brouwen in Singapore",
+    "link": "https://www.beurs.nl/Nieuws/858167/Heineken-gaat-minder-bier-brouwen-in-Singapore.aspx",
+    "intro": "Heineken gaat minder bier brouwen in Singapore en de activiteiten daar meer vanuit een importmodel ondersteunen. Dit meldde de Amsterdamse bierbrouwerij dinsdag.",
+    "published_at": "2026-03-24 10:39",
+    "scraped_at": "2026-03-24T10:36:40.512312"
+  },
+  {
+    "id": "e1911bbe062393f08ad6afc04799d4b3",
+    "categorie": "Beursnieuws",
+    "titel": "Valuta: euro heeft slechtere kaarten dan de dollar",
+    "link": "https://www.beurs.nl/Nieuws/858165/Valuta-euro-heeft-slechtere-kaarten-dan-de-dollar.aspx",
+    "intro": "De euro zou deze week zwakker kunnen presteren dan de dollar, nu een snelle beëindiging van het conflict in het Midden-Oosten onwaarschijnlijk lijkt, waardoor de energieprijzen hoog blijven. Dit stelde Commerzbank dinsdag in een rapport.",
+    "published_at": "2026-03-24 10:37",
+    "scraped_at": "2026-03-24T10:36:40.512312"
+  },
+  {
     "id": "b663a5fb4ba97a803e80c324521cd24b",
     "categorie": "Beursnieuws",
     "titel": "Economie eurozone groeit nog slechts bescheiden",
     "link": "https://www.beurs.nl/Nieuws/858162/Economie-eurozone-groeit-nog-slechts-bescheiden.aspx",
     "intro": "De groei in de eurozone is in maart behoorlijk afgenomen, onder meer door een flinke groeivertraging in de dienstensector. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-03-24 10:10",
-    "scraped_at": "2026-03-24T09:41:11.529191"
+    "scraped_at": "2026-03-24T10:36:40.512312"
   },
   {
-    "id": "4498b723ac7439035471b4f1c66a78ca",
+    "id": "f2e9d4d8cf4da38e6cd36dd7d4c53e0c",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam verlaagt koersdoel Exor",
-    "link": "https://www.beurs.nl/Nieuws/858160/Beursblik-Degroof-Petercam-verlaagt-koersdoel-Exor.aspx",
+    "titel": "Degroof Petercam verlaagt koersdoel Exor",
+    "link": "https://www.beurs.nl/Nieuws/858160/Degroof-Petercam-verlaagt-koersdoel-Exor.aspx",
     "intro": "Degroof Petercam heeft na de jaarcijfers het koersdoel voor Exor verlaagd van 122 naar 115 euro, maar handhaafde wel het koopadvies. Dit bleek dinsdag uit een rapport van analist Luuk van Beek.",
     "published_at": "2026-03-24 10:01",
-    "scraped_at": "2026-03-24T09:41:11.529191"
+    "scraped_at": "2026-03-24T10:36:40.512312"
   },
   {
     "id": "298d467b04f26610b45e84ba1888e52f",
@@ -24,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/858127/Must-read-Rabobank-past-beleggingsbeleid-aan-ING-niet.aspx",
     "intro": "Plus: beleggers juichen wel/niet te vroeg, waarom de goudprijs zo hard is gedaald, aangewezen obligaties in tijden van conflict, een nieuwe brief van Larry Fink en meer.",
     "published_at": "2026-03-24 10:00",
-    "scraped_at": "2026-03-24T09:41:11.529191"
+    "scraped_at": "2026-03-24T10:36:40.512312"
   },
   {
     "id": "0769f81f2b47d180ca04c09bce824cf8",
@@ -33,16 +69,16 @@
     "link": "https://www.beurs.nl/Nieuws/858155/Duitse-economie-groeit-minder-hard.aspx",
     "intro": "De economische activiteit in Duitsland is in maart minder hard gegroeid, ondanks een sterkere groei van de industrie. Dit bleek dinsdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-03-24 09:40",
-    "scraped_at": "2026-03-24T09:41:11.529191"
+    "scraped_at": "2026-03-24T10:36:40.512312"
   },
   {
-    "id": "717cca54cf840090436ff78b15601670",
+    "id": "34fdf9849f2bf05fd493091de7b501a4",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: deal met Gilead biedt Galapagos flexibiliteit",
-    "link": "https://www.beurs.nl/Nieuws/858153/Beursblik-deal-met-Gilead-biedt-Galapagos-flexibiliteit.aspx",
+    "titel": "KBC: deal met Gilead biedt Galapagos flexibiliteit",
+    "link": "https://www.beurs.nl/Nieuws/858153/KBC-deal-met-Gilead-biedt-Galapagos-flexibiliteit.aspx",
     "intro": "Galapagos kondigde maandagavond aan dat het mogelijk opnieuw met het Amerikaanse Gilead gaat samenwerken, een deal die flexibiliteit zou kunnen bieden om aanvullende \"ontwikkelingskansen\" na te streven. Dit stelde KBC Securities dinsdag in een rapport in reactie op het nieuws.",
     "published_at": "2026-03-24 09:26",
-    "scraped_at": "2026-03-24T09:41:11.529191"
+    "scraped_at": "2026-03-24T10:36:40.512312"
   },
   {
     "id": "ae64f5f049dd0aadea4475eb633043b7",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858154/Franse-dienstensector-onder-druk.aspx",
     "intro": "De Franse dienstensector stond in maart onder druk, maar de industrie wist de groei wel vast te houden, zij het op een laag niveau. Dit bleek dinsdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-03-24 09:24",
-    "scraped_at": "2026-03-24T09:41:11.529191"
-  },
-  {
-    "id": "79e1d153f93481014f08dc517b2bd858",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/858150/AEX-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,6 procent hoger op 972,80 punten, terwijl de Midkap 0,3 procent won.",
-    "published_at": "2026-03-24 09:10",
-    "scraped_at": "2026-03-24T09:41:11.529191"
-  },
-  {
-    "id": "1a7f19d927c39626f60446ca8677e198",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank haalt AkzoNobel van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/858146/Deutsche-Bank-haalt-AkzoNobel-van-de-kooplijst.aspx",
-    "intro": "Deutsche Bank heeft het advies voor AkzoNobel verlaagd van Kopen naar Houden, terwijl het koersdoel omlaag ging van 68,00 naar 55,00 euro. Dit bleek dinsdag uit een sectorrapport van de Duitse bank, waarin ook het koersdoel voor DSM-Firmenich werd verlaagd, van 80,00 naar 75,00 euro, maar het koopadvies wel bleef staan.",
-    "published_at": "2026-03-24 08:48",
-    "scraped_at": "2026-03-24T09:41:11.529191"
-  },
-  {
-    "id": "cd06add37bec119413b85dd29a052bfc",
-    "categorie": "Beursnieuws",
-    "titel": "Corbion draagt Bob Elfring voor als commissaris",
-    "link": "https://www.beurs.nl/Nieuws/858143/Corbion-draagt-Bob-Elfring-voor-als-commissaris.aspx",
-    "intro": "Corbion heeft Bob Elfring voorgedragen om benoemd te worden als lid van de Raad van Commissarissen voor een termijn van vier jaar. Dit maakte het bedrijf dinsdagochtend bekend.",
-    "published_at": "2026-03-24 08:45",
-    "scraped_at": "2026-03-24T09:41:11.529191"
-  },
-  {
-    "id": "708b5aff68957251793ca4cce592470b",
-    "categorie": "Beursnieuws",
-    "titel": "ACEA: iets meer personenauto's verkocht in de EU",
-    "link": "https://www.beurs.nl/Nieuws/858139/ACEA-iets-meer-personenautos-verkocht-in-de-EU.aspx",
-    "intro": "In februari zijn er in de Europese Unie iets meer nieuwe personenauto's verkocht. Dit bleek dinsdag uit de registraties van brancheorganisatie ACEA.",
-    "published_at": "2026-03-24 08:15",
-    "scraped_at": "2026-03-24T09:41:11.529191"
+    "scraped_at": "2026-03-24T10:36:40.512312"
   }
 ]
