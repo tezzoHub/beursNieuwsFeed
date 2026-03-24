@@ -1,12 +1,39 @@
 [
   {
+    "id": "91c03ae8060e3b670e887f24d048fd98",
+    "categorie": "Beursnieuws",
+    "titel": "HAL verkoopt belang in NextWave",
+    "link": "https://www.beurs.nl/Nieuws/858229/HAL-verkoopt-belang-in-NextWave.aspx",
+    "intro": "HAL heeft zijn belang in Atlas NextWave na vijftien jaar verkocht aan Avedon Capital Partners. Dat maakte de investeerder dinsdag nabeurs bekend.",
+    "published_at": "2026-03-24 18:18",
+    "scraped_at": "2026-03-24T17:42:47.294779"
+  },
+  {
+    "id": "ee83aca7855374d3075bbba9db094324",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit in het groen",
+    "link": "https://www.beurs.nl/Nieuws/858227/AEX-sluit-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, ondanks aanhoudende onzekerheid over de oorlog in het Midden-Oosten, met IMCD als uitblinker.",
+    "published_at": "2026-03-24 18:02",
+    "scraped_at": "2026-03-24T17:42:47.294779"
+  },
+  {
+    "id": "e297e637446a9713b7e32b0e4008559b",
+    "categorie": "Redactioneel",
+    "titel": "Seinen op rood, dus aandelen op groen",
+    "link": "https://www.iex.nl/artikel/858224/Seinen-op-rood-dus-aandelen-op-groen.aspx",
+    "intro": "",
+    "published_at": "2026-03-24 18:00",
+    "scraped_at": "2026-03-24T17:42:47.294779"
+  },
+  {
     "id": "bdad00cf64e21083939c72f85360c14a",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/858217/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 1 april 2026:",
     "published_at": "2026-03-24 16:04",
-    "scraped_at": "2026-03-24T16:44:05.419701"
+    "scraped_at": "2026-03-24T17:42:47.294779"
   },
   {
     "id": "0c6da2a4372ef5d826cf99ea42dbb99a",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858218/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 1 april 2026:",
     "published_at": "2026-03-24 16:04",
-    "scraped_at": "2026-03-24T16:44:05.419701"
+    "scraped_at": "2026-03-24T17:42:47.294779"
   },
   {
     "id": "4d5160285708c011146b2cd1fd8fff23",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858219/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 1 april 2026:",
     "published_at": "2026-03-24 16:04",
-    "scraped_at": "2026-03-24T16:44:05.419701"
+    "scraped_at": "2026-03-24T17:42:47.294779"
   },
   {
     "id": "25cc3277eed486cea42485f751080f70",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858215/Media-QatarEnergy-verklaart-force-majeure-op-LNG-contracten.aspx",
     "intro": "QatarEnergy, het staatsolie- en aardgasbedrijf van Qatar, heeft 'force majeure' verklaard op een aantal langloptende contracten voor de levering van vloeibaar gemaakt aardgas, of LNG. Dat meldde persbureau Reuters dinsdag.",
     "published_at": "2026-03-24 15:41",
-    "scraped_at": "2026-03-24T16:44:05.419701"
+    "scraped_at": "2026-03-24T17:42:47.294779"
   },
   {
     "id": "b06a0fcf6898e3258611ce8a80cd475e",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858212/Media-Exor-kiest-voor-geduld-boven-deals.aspx",
     "intro": "Exor, het investeringsvehikel van de Italiaanse Agnelli-familie, heeft geen haast om zijn oorlogskas van 3,5 miljard euro aan het werk te zetten. Dat zei CEO John Elkann dinsdag in een gesprek met persbureau Reuters.",
     "published_at": "2026-03-24 15:31",
-    "scraped_at": "2026-03-24T16:44:05.419701"
+    "scraped_at": "2026-03-24T17:42:47.294779"
   },
   {
     "id": "adad8e5391e488b0a4647fdbf9a9ed12",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858210/DNB-inflatie-zal-door-oorlog-flink-toenemen.aspx",
     "intro": "Door de oorlog in het Midden-Oosten en de blokkade van de Straat van Hormuz kan de inflatie in Nederland flink toenemen, maar \"duidelijk minder\" dan bij de energiecrisis in 2022. Dit schetste De Nederlandsche Bank dinsdag in een rapport met verschillende scenario's voor de impact van hoge energieprijzen op de Nederlandse economie.",
     "published_at": "2026-03-24 15:05",
-    "scraped_at": "2026-03-24T16:44:05.419701"
+    "scraped_at": "2026-03-24T17:42:47.294779"
   },
   {
     "id": "6a9321454ea1ca61a8b293f30e4024a4",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858209/Amerikaanse-economie-vertraagt.aspx",
     "intro": "De dienstensector in de Verenigde Staten is in februari minder hard gegroeid, terwijl groei in de Amerikaanse industrie licht toenam, maar per saldo vertraagde de Amerikaanse economie. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-03-24 14:58",
-    "scraped_at": "2026-03-24T16:44:05.419701"
-  },
-  {
-    "id": "f105ac33c5f262e69215bc97f34df194",
-    "categorie": "Beursnieuws",
-    "titel": "Dollar General benoemt Fleeman als nieuwe topman",
-    "link": "https://www.beurs.nl/Nieuws/858207/Dollar-General-benoemt-Fleeman-als-nieuwe-topman.aspx",
-    "intro": "Dollar General heeft JJ Fleeman benoemd tot chief executive officer, met ingang van 1 januari 2027. Fleeman volgt daarmee Todd Vasos op, die de Amerikaanse discountketen al sinds 2022 leidt. Dit maakte het Amerikaanse discountketen dinsdagmiddag bekend.",
-    "published_at": "2026-03-24 14:48",
-    "scraped_at": "2026-03-24T16:44:05.419701"
-  },
-  {
-    "id": "b5234c566b0c72b16802ce706b6bda53",
-    "categorie": "Beursnieuws",
-    "titel": "Equinor boort naar gas voor Braziliaanse kust",
-    "link": "https://www.beurs.nl/Nieuws/858202/Equinor-boort-naar-gas-voor-Braziliaanse-kust.aspx",
-    "intro": "Equinor is begonnen met de boorfase van het Raia-project in de pre-zoutlaag van het Campos-bekken voor de kust van Brazilië. Dit meldde het Noorse bedrijf dinsdagmiddag.",
-    "published_at": "2026-03-24 14:17",
-    "scraped_at": "2026-03-24T16:44:05.419701"
-  },
-  {
-    "id": "559811b613f3e377e2bad8f3ced254bd",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street waakzaam terwijl oorlog doorgaat",
-    "link": "https://www.beurs.nl/Nieuws/858196/Wall-Street-waakzaam-terwijl-oorlog-doorgaat.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een rode opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,4 procent lager.",
-    "published_at": "2026-03-24 14:02",
-    "scraped_at": "2026-03-24T16:44:05.419701"
+    "scraped_at": "2026-03-24T17:42:47.294779"
   }
 ]
