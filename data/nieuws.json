@@ -1,12 +1,30 @@
 [
   {
+    "id": "ecaa6490d8dcbb244e2162a933eda2c8",
+    "categorie": "Beursnieuws",
+    "titel": "Mondiale staalproductie toont nog geen herstel",
+    "link": "https://www.beurs.nl/Nieuws/858181/Mondiale-staalproductie-toont-nog-geen-herstel.aspx",
+    "intro": "De mondiale staalproductie is in februari opnieuw gedaald, net als in de maanden ervoor. Dit bleek dinsdag uit cijfers van brancheorganisatie World Steel Association.",
+    "published_at": "2026-03-24 12:15",
+    "scraped_at": "2026-03-24T11:34:12.534570"
+  },
+  {
+    "id": "a23a7428afbc82f919dcbdb6815cbb98",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen bedachtzaam rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/858180/Europese-beurzen-bedachtzaam-rond-middaguur.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond lunchtijd verdeeld, terwijl de zorgen over de oorlog in het Midden-Oosten aanhouden.",
+    "published_at": "2026-03-24 12:12",
+    "scraped_at": "2026-03-24T11:34:12.534570"
+  },
+  {
     "id": "6f2f8aa7dd906f7911dc1d7a9f368f70",
     "categorie": "Beursnieuws",
     "titel": "Voorzichtige ochtend op het Amsterdamse Damrak",
     "link": "https://www.beurs.nl/Nieuws/858172/Voorzichtige-ochtend-op-het-Amsterdamse-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste dinsdagochtend voorzichtig hoger, te midden van nog altijd veel onzekerheid over de oorlog in het Midden-Oosten. Intussen toonden PMI-cijfers voor maart al de impact van het conflict, en dan vooral in de dienstensector.",
     "published_at": "2026-03-24 11:10",
-    "scraped_at": "2026-03-24T10:36:40.512312"
+    "scraped_at": "2026-03-24T11:34:12.534570"
   },
   {
     "id": "947252e92caa328aeaf6ce457c4a1c53",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858168/Oorlog-in-Midden-Oosten-drukt-Britse-groei.aspx",
     "intro": "De economie in het Verenigd Koninkrijk is in maart in een beduidend trager tempo gegroeid. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-03-24 10:40",
-    "scraped_at": "2026-03-24T10:36:40.512312"
+    "scraped_at": "2026-03-24T11:34:12.534570"
   },
   {
     "id": "30caacc0c2267a1f90a162ee6570a264",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858167/Heineken-gaat-minder-bier-brouwen-in-Singapore.aspx",
     "intro": "Heineken gaat minder bier brouwen in Singapore en de activiteiten daar meer vanuit een importmodel ondersteunen. Dit meldde de Amsterdamse bierbrouwerij dinsdag.",
     "published_at": "2026-03-24 10:39",
-    "scraped_at": "2026-03-24T10:36:40.512312"
+    "scraped_at": "2026-03-24T11:34:12.534570"
   },
   {
     "id": "e1911bbe062393f08ad6afc04799d4b3",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858165/Valuta-euro-heeft-slechtere-kaarten-dan-de-dollar.aspx",
     "intro": "De euro zou deze week zwakker kunnen presteren dan de dollar, nu een snelle beëindiging van het conflict in het Midden-Oosten onwaarschijnlijk lijkt, waardoor de energieprijzen hoog blijven. Dit stelde Commerzbank dinsdag in een rapport.",
     "published_at": "2026-03-24 10:37",
-    "scraped_at": "2026-03-24T10:36:40.512312"
+    "scraped_at": "2026-03-24T11:34:12.534570"
   },
   {
     "id": "b663a5fb4ba97a803e80c324521cd24b",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858162/Economie-eurozone-groeit-nog-slechts-bescheiden.aspx",
     "intro": "De groei in de eurozone is in maart behoorlijk afgenomen, onder meer door een flinke groeivertraging in de dienstensector. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-03-24 10:10",
-    "scraped_at": "2026-03-24T10:36:40.512312"
+    "scraped_at": "2026-03-24T11:34:12.534570"
   },
   {
     "id": "f2e9d4d8cf4da38e6cd36dd7d4c53e0c",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858160/Degroof-Petercam-verlaagt-koersdoel-Exor.aspx",
     "intro": "Degroof Petercam heeft na de jaarcijfers het koersdoel voor Exor verlaagd van 122 naar 115 euro, maar handhaafde wel het koopadvies. Dit bleek dinsdag uit een rapport van analist Luuk van Beek.",
     "published_at": "2026-03-24 10:01",
-    "scraped_at": "2026-03-24T10:36:40.512312"
+    "scraped_at": "2026-03-24T11:34:12.534570"
   },
   {
     "id": "298d467b04f26610b45e84ba1888e52f",
@@ -60,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/858127/Must-read-Rabobank-past-beleggingsbeleid-aan-ING-niet.aspx",
     "intro": "Plus: beleggers juichen wel/niet te vroeg, waarom de goudprijs zo hard is gedaald, aangewezen obligaties in tijden van conflict, een nieuwe brief van Larry Fink en meer.",
     "published_at": "2026-03-24 10:00",
-    "scraped_at": "2026-03-24T10:36:40.512312"
+    "scraped_at": "2026-03-24T11:34:12.534570"
   },
   {
     "id": "0769f81f2b47d180ca04c09bce824cf8",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858155/Duitse-economie-groeit-minder-hard.aspx",
     "intro": "De economische activiteit in Duitsland is in maart minder hard gegroeid, ondanks een sterkere groei van de industrie. Dit bleek dinsdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-03-24 09:40",
-    "scraped_at": "2026-03-24T10:36:40.512312"
-  },
-  {
-    "id": "34fdf9849f2bf05fd493091de7b501a4",
-    "categorie": "Beursnieuws",
-    "titel": "KBC: deal met Gilead biedt Galapagos flexibiliteit",
-    "link": "https://www.beurs.nl/Nieuws/858153/KBC-deal-met-Gilead-biedt-Galapagos-flexibiliteit.aspx",
-    "intro": "Galapagos kondigde maandagavond aan dat het mogelijk opnieuw met het Amerikaanse Gilead gaat samenwerken, een deal die flexibiliteit zou kunnen bieden om aanvullende \"ontwikkelingskansen\" na te streven. Dit stelde KBC Securities dinsdag in een rapport in reactie op het nieuws.",
-    "published_at": "2026-03-24 09:26",
-    "scraped_at": "2026-03-24T10:36:40.512312"
-  },
-  {
-    "id": "ae64f5f049dd0aadea4475eb633043b7",
-    "categorie": "Beursnieuws",
-    "titel": "Franse dienstensector onder druk",
-    "link": "https://www.beurs.nl/Nieuws/858154/Franse-dienstensector-onder-druk.aspx",
-    "intro": "De Franse dienstensector stond in maart onder druk, maar de industrie wist de groei wel vast te houden, zij het op een laag niveau. Dit bleek dinsdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
-    "published_at": "2026-03-24 09:24",
-    "scraped_at": "2026-03-24T10:36:40.512312"
+    "scraped_at": "2026-03-24T11:34:12.534570"
   }
 ]
