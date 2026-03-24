@@ -1,12 +1,48 @@
 [
   {
+    "id": "708b5aff68957251793ca4cce592470b",
+    "categorie": "Beursnieuws",
+    "titel": "ACEA: iets meer personenauto's verkocht in de EU",
+    "link": "https://www.beurs.nl/Nieuws/858139/ACEA-iets-meer-personenautos-verkocht-in-de-EU.aspx",
+    "intro": "In februari zijn er in de Europese Unie iets meer nieuwe personenauto's verkocht. Dit bleek dinsdag uit de registraties van brancheorganisatie ACEA.",
+    "published_at": "2026-03-24 08:15",
+    "scraped_at": "2026-03-24T07:43:33.464104"
+  },
+  {
+    "id": "2a38902879ff248024d4cce1237ea52d",
+    "categorie": "Beursnieuws",
+    "titel": "AEX voorzichtig van start na extreem volatiele handelsdag",
+    "link": "https://www.beurs.nl/Nieuws/858137/AEX-voorzichtig-van-start-na-extreem-volatiele-handelsdag.aspx",
+    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een licht positieve opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,2 procent.",
+    "published_at": "2026-03-24 08:10",
+    "scraped_at": "2026-03-24T07:43:33.464104"
+  },
+  {
+    "id": "7ce26bef1c974ccbc54afa8b8d6c22fa",
+    "categorie": "Beursnieuws",
+    "titel": "SBM Offshore voor ExxonMobil aan de slag in Guyana",
+    "link": "https://www.beurs.nl/Nieuws/858131/SBM-Offshore-voor-ExxonMobil-aan-de-slag-in-Guyana.aspx",
+    "intro": "SBM Offshore heeft opdrachten ontvangen van ExxonMobil Guyana. Dit maakte de Nederlandse oliedienstverlener dinsdag bekend, zonder financiële details vrij te geven.",
+    "published_at": "2026-03-24 07:56",
+    "scraped_at": "2026-03-24T07:43:33.464104"
+  },
+  {
+    "id": "462e0fd6b72e87570c4576d98c41914a",
+    "categorie": "Beursnieuws",
+    "titel": "ASML krijgt miljardenopdracht van SK Hynix",
+    "link": "https://www.beurs.nl/Nieuws/858129/ASML-krijgt-miljardenopdracht-van-SK-Hynix.aspx",
+    "intro": "SK Hynix gaat voor bijna 12 biljoen Koreaanse won, of omgerekend circa 7 miljard euro aan EUV-scanners van ASML kopen. Dit bleek dinsdag uit een melding van het Zuid-Koreaanse bedrijf bij de Koreaanse beurstoezichthouder.",
+    "published_at": "2026-03-24 07:49",
+    "scraped_at": "2026-03-24T07:43:33.464104"
+  },
+  {
     "id": "18da41fb572eeb1df4c2a33e4ae9ecfe",
     "categorie": "Beursnieuws",
     "titel": "Pharming krijgt goedkeuring voor Joenja in Japan",
     "link": "https://www.beurs.nl/Nieuws/858128/Pharming-krijgt-goedkeuring-voor-Joenja-in-Japan.aspx",
     "intro": "Pharming Group heeft in Japan goedkeuring gekregen voor Joenja als behandeling van APDS bij patiënten van 4 jaar en ouder. Dit meldde het biotechbedrijf uit Leiden dinsdagochtend.",
     "published_at": "2026-03-24 07:33",
-    "scraped_at": "2026-03-24T06:46:34.506606"
+    "scraped_at": "2026-03-24T07:43:33.464104"
   },
   {
     "id": "09a2c8933d6946cf7552e53dcf590fa5",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858125/Waarde-Exor-gedaald.aspx",
     "intro": "De intrinsieke waarde van Exor is in 2025 gedaald. Dit meldde de investeerder met een notering aan het Damrak maandagavond laat.",
     "published_at": "2026-03-24 07:30",
-    "scraped_at": "2026-03-24T06:46:34.506606"
+    "scraped_at": "2026-03-24T07:43:33.464104"
   },
   {
     "id": "df8dcaeff843de4451b8e071bc3aaca5",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858124/Groene-koersen-in-Azie-na-adempauze-in-Iran.aspx",
     "intro": "De Aziatische beurzen vonden dinsdagochtend, in navolging van Wall Street, de weg omhoog.",
     "published_at": "2026-03-24 07:24",
-    "scraped_at": "2026-03-24T06:46:34.506606"
+    "scraped_at": "2026-03-24T07:43:33.464104"
   },
   {
     "id": "4851bb5808fef79570d3505376e9fa9a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858123/Groei-Japanse-economie-koelt-af.aspx",
     "intro": "De groei van de Japanse economie is na twee sterke maanden wat afgekoeld in maart. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-03-24 07:19",
-    "scraped_at": "2026-03-24T06:46:34.506606"
+    "scraped_at": "2026-03-24T07:43:33.464104"
   },
   {
     "id": "6cb9794fe944e36af764f4b54600ebcc",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858120/Galapagos-en-Gilead-in-vergevorderde-gesprekken-over-samenwerking.aspx",
     "intro": "Galapagos en Gilead zijn in vergevorderde gesprekken over een samenwerking. Dit maakte Galapagos maandagavond laat bekend.",
     "published_at": "2026-03-24 07:10",
-    "scraped_at": "2026-03-24T06:46:34.506606"
+    "scraped_at": "2026-03-24T07:43:33.464104"
   },
   {
     "id": "1839d7213a70906b596ff323d1f7066f",
@@ -51,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858117/Europese-beurzen-openen-naar-verwachting-flink-lager.aspx",
     "intro": "De Europese beurzen gaan dinsdag een rode opening tegemoet, na een uiterst volatiele maandag. IG voorziet een openingsverlies van 155 punten voor de Duitse DAX en een min van 48 punten voor de Franse CAC 40. De Britse FTSE lijkt 40 punten lager te zullen openen.",
     "published_at": "2026-03-24 06:59",
-    "scraped_at": "2026-03-24T06:46:34.506606"
-  },
-  {
-    "id": "ea4868cc4b13e0edff71b50d9731b9ee",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/858113/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 31 maart 2026:",
-    "published_at": "2026-03-24 06:53",
-    "scraped_at": "2026-03-24T06:46:34.506606"
-  },
-  {
-    "id": "d8f99149958fa6ded5883244e32ad3d6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/858114/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 31 maart 2026:",
-    "published_at": "2026-03-24 06:53",
-    "scraped_at": "2026-03-24T06:46:34.506606"
-  },
-  {
-    "id": "07ac51cb59073db36778f2aa58b19c68",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/858115/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 31 maart 2026:",
-    "published_at": "2026-03-24 06:53",
-    "scraped_at": "2026-03-24T06:46:34.506606"
+    "scraped_at": "2026-03-24T07:43:33.464104"
   }
 ]
