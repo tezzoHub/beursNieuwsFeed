@@ -1,12 +1,48 @@
 [
   {
+    "id": "b663a5fb4ba97a803e80c324521cd24b",
+    "categorie": "Beursnieuws",
+    "titel": "Economie eurozone groeit nog slechts bescheiden",
+    "link": "https://www.beurs.nl/Nieuws/858162/Economie-eurozone-groeit-nog-slechts-bescheiden.aspx",
+    "intro": "De groei in de eurozone is in maart behoorlijk afgenomen, onder meer door een flinke groeivertraging in de dienstensector. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-03-24 10:10",
+    "scraped_at": "2026-03-24T09:41:11.529191"
+  },
+  {
+    "id": "4498b723ac7439035471b4f1c66a78ca",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Degroof Petercam verlaagt koersdoel Exor",
+    "link": "https://www.beurs.nl/Nieuws/858160/Beursblik-Degroof-Petercam-verlaagt-koersdoel-Exor.aspx",
+    "intro": "Degroof Petercam heeft na de jaarcijfers het koersdoel voor Exor verlaagd van 122 naar 115 euro, maar handhaafde wel het koopadvies. Dit bleek dinsdag uit een rapport van analist Luuk van Beek.",
+    "published_at": "2026-03-24 10:01",
+    "scraped_at": "2026-03-24T09:41:11.529191"
+  },
+  {
+    "id": "298d467b04f26610b45e84ba1888e52f",
+    "categorie": "Must read",
+    "titel": "Must read: Rabobank past beleggingsbeleid aan, ING niet",
+    "link": "https://www.iex.nl/artikel/858127/Must-read-Rabobank-past-beleggingsbeleid-aan-ING-niet.aspx",
+    "intro": "Plus: beleggers juichen wel/niet te vroeg, waarom de goudprijs zo hard is gedaald, aangewezen obligaties in tijden van conflict, een nieuwe brief van Larry Fink en meer.",
+    "published_at": "2026-03-24 10:00",
+    "scraped_at": "2026-03-24T09:41:11.529191"
+  },
+  {
+    "id": "0769f81f2b47d180ca04c09bce824cf8",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse economie groeit minder hard",
+    "link": "https://www.beurs.nl/Nieuws/858155/Duitse-economie-groeit-minder-hard.aspx",
+    "intro": "De economische activiteit in Duitsland is in maart minder hard gegroeid, ondanks een sterkere groei van de industrie. Dit bleek dinsdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
+    "published_at": "2026-03-24 09:40",
+    "scraped_at": "2026-03-24T09:41:11.529191"
+  },
+  {
     "id": "717cca54cf840090436ff78b15601670",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: deal met Gilead biedt Galapagos flexibiliteit",
     "link": "https://www.beurs.nl/Nieuws/858153/Beursblik-deal-met-Gilead-biedt-Galapagos-flexibiliteit.aspx",
     "intro": "Galapagos kondigde maandagavond aan dat het mogelijk opnieuw met het Amerikaanse Gilead gaat samenwerken, een deal die flexibiliteit zou kunnen bieden om aanvullende \"ontwikkelingskansen\" na te streven. Dit stelde KBC Securities dinsdag in een rapport in reactie op het nieuws.",
     "published_at": "2026-03-24 09:26",
-    "scraped_at": "2026-03-24T08:34:56.510791"
+    "scraped_at": "2026-03-24T09:41:11.529191"
   },
   {
     "id": "ae64f5f049dd0aadea4475eb633043b7",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858154/Franse-dienstensector-onder-druk.aspx",
     "intro": "De Franse dienstensector stond in maart onder druk, maar de industrie wist de groei wel vast te houden, zij het op een laag niveau. Dit bleek dinsdag uit voorlopige cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-03-24 09:24",
-    "scraped_at": "2026-03-24T08:34:56.510791"
+    "scraped_at": "2026-03-24T09:41:11.529191"
   },
   {
     "id": "79e1d153f93481014f08dc517b2bd858",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858150/AEX-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong 0,6 procent hoger op 972,80 punten, terwijl de Midkap 0,3 procent won.",
     "published_at": "2026-03-24 09:10",
-    "scraped_at": "2026-03-24T08:34:56.510791"
+    "scraped_at": "2026-03-24T09:41:11.529191"
   },
   {
     "id": "1a7f19d927c39626f60446ca8677e198",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858146/Deutsche-Bank-haalt-AkzoNobel-van-de-kooplijst.aspx",
     "intro": "Deutsche Bank heeft het advies voor AkzoNobel verlaagd van Kopen naar Houden, terwijl het koersdoel omlaag ging van 68,00 naar 55,00 euro. Dit bleek dinsdag uit een sectorrapport van de Duitse bank, waarin ook het koersdoel voor DSM-Firmenich werd verlaagd, van 80,00 naar 75,00 euro, maar het koopadvies wel bleef staan.",
     "published_at": "2026-03-24 08:48",
-    "scraped_at": "2026-03-24T08:34:56.510791"
+    "scraped_at": "2026-03-24T09:41:11.529191"
   },
   {
     "id": "cd06add37bec119413b85dd29a052bfc",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858143/Corbion-draagt-Bob-Elfring-voor-als-commissaris.aspx",
     "intro": "Corbion heeft Bob Elfring voorgedragen om benoemd te worden als lid van de Raad van Commissarissen voor een termijn van vier jaar. Dit maakte het bedrijf dinsdagochtend bekend.",
     "published_at": "2026-03-24 08:45",
-    "scraped_at": "2026-03-24T08:34:56.510791"
+    "scraped_at": "2026-03-24T09:41:11.529191"
   },
   {
     "id": "708b5aff68957251793ca4cce592470b",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858139/ACEA-iets-meer-personenautos-verkocht-in-de-EU.aspx",
     "intro": "In februari zijn er in de Europese Unie iets meer nieuwe personenauto's verkocht. Dit bleek dinsdag uit de registraties van brancheorganisatie ACEA.",
     "published_at": "2026-03-24 08:15",
-    "scraped_at": "2026-03-24T08:34:56.510791"
-  },
-  {
-    "id": "2a38902879ff248024d4cce1237ea52d",
-    "categorie": "Beursnieuws",
-    "titel": "AEX voorzichtig van start na extreem volatiele handelsdag",
-    "link": "https://www.beurs.nl/Nieuws/858137/AEX-voorzichtig-van-start-na-extreem-volatiele-handelsdag.aspx",
-    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een licht positieve opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,2 procent.",
-    "published_at": "2026-03-24 08:10",
-    "scraped_at": "2026-03-24T08:34:56.510791"
-  },
-  {
-    "id": "7ce26bef1c974ccbc54afa8b8d6c22fa",
-    "categorie": "Beursnieuws",
-    "titel": "SBM Offshore voor ExxonMobil aan de slag in Guyana",
-    "link": "https://www.beurs.nl/Nieuws/858131/SBM-Offshore-voor-ExxonMobil-aan-de-slag-in-Guyana.aspx",
-    "intro": "SBM Offshore heeft opdrachten ontvangen van ExxonMobil Guyana. Dit maakte de Nederlandse oliedienstverlener dinsdag bekend, zonder financiële details vrij te geven.",
-    "published_at": "2026-03-24 07:56",
-    "scraped_at": "2026-03-24T08:34:56.510791"
-  },
-  {
-    "id": "462e0fd6b72e87570c4576d98c41914a",
-    "categorie": "Beursnieuws",
-    "titel": "ASML krijgt miljardenopdracht van SK Hynix",
-    "link": "https://www.beurs.nl/Nieuws/858129/ASML-krijgt-miljardenopdracht-van-SK-Hynix.aspx",
-    "intro": "SK Hynix gaat voor bijna 12 biljoen Koreaanse won, of omgerekend circa 7 miljard euro aan EUV-scanners van ASML kopen. Dit bleek dinsdag uit een melding van het Zuid-Koreaanse bedrijf bij de Koreaanse beurstoezichthouder.",
-    "published_at": "2026-03-24 07:49",
-    "scraped_at": "2026-03-24T08:34:56.510791"
-  },
-  {
-    "id": "18da41fb572eeb1df4c2a33e4ae9ecfe",
-    "categorie": "Beursnieuws",
-    "titel": "Pharming krijgt goedkeuring voor Joenja in Japan",
-    "link": "https://www.beurs.nl/Nieuws/858128/Pharming-krijgt-goedkeuring-voor-Joenja-in-Japan.aspx",
-    "intro": "Pharming Group heeft in Japan goedkeuring gekregen voor Joenja als behandeling van APDS bij patiënten van 4 jaar en ouder. Dit meldde het biotechbedrijf uit Leiden dinsdagochtend.",
-    "published_at": "2026-03-24 07:33",
-    "scraped_at": "2026-03-24T08:34:56.510791"
+    "scraped_at": "2026-03-24T09:41:11.529191"
   }
 ]
