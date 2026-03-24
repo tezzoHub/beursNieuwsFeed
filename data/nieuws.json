@@ -1,12 +1,57 @@
 [
   {
+    "id": "6a9321454ea1ca61a8b293f30e4024a4",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse economie vertraagt",
+    "link": "https://www.beurs.nl/Nieuws/858209/Amerikaanse-economie-vertraagt.aspx",
+    "intro": "De dienstensector in de Verenigde Staten is in februari minder hard gegroeid, terwijl groei in de Amerikaanse industrie licht toenam, maar per saldo vertraagde de Amerikaanse economie. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-03-24 14:58",
+    "scraped_at": "2026-03-24T14:07:52.398595"
+  },
+  {
+    "id": "f105ac33c5f262e69215bc97f34df194",
+    "categorie": "Beursnieuws",
+    "titel": "Dollar General benoemt Fleeman als nieuwe topman",
+    "link": "https://www.beurs.nl/Nieuws/858207/Dollar-General-benoemt-Fleeman-als-nieuwe-topman.aspx",
+    "intro": "Dollar General heeft JJ Fleeman benoemd tot chief executive officer, met ingang van 1 januari 2027. Fleeman volgt daarmee Todd Vasos op, die de Amerikaanse discountketen al sinds 2022 leidt. Dit maakte het Amerikaanse discountketen dinsdagmiddag bekend.",
+    "published_at": "2026-03-24 14:48",
+    "scraped_at": "2026-03-24T14:07:52.398595"
+  },
+  {
+    "id": "559811b613f3e377e2bad8f3ced254bd",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street waakzaam terwijl oorlog doorgaat",
+    "link": "https://www.beurs.nl/Nieuws/858196/Wall-Street-waakzaam-terwijl-oorlog-doorgaat.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een rode opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,4 procent lager.",
+    "published_at": "2026-03-24 14:02",
+    "scraped_at": "2026-03-24T14:07:52.398595"
+  },
+  {
+    "id": "4c5a32cbab8ef85359e59593b74470da",
+    "categorie": "Beursnieuws",
+    "titel": "Arbeidsproductiviteit VS stijgt minder hard",
+    "link": "https://www.beurs.nl/Nieuws/858191/Arbeidsproductiviteit-VS-stijgt-minder-hard.aspx",
+    "intro": "De arbeidsproductiviteit in de Verenigde Staten is in het vierde kwartaal minder hard gestegen dan eerder gemeld, terwijl de kosten juist harder opliepen dan uit een eerdere raming bleek. Dit bleek dinsdag uit herziene cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-03-24 13:38",
+    "scraped_at": "2026-03-24T14:07:52.398595"
+  },
+  {
+    "id": "267ad423dac41149de03187f97c87d98",
+    "categorie": "Beursnieuws",
+    "titel": "Topman Ahold Delhaize USA kondigt vertrek aan",
+    "link": "https://www.beurs.nl/Nieuws/858189/Topman-Ahold-Delhaize-USA-kondigt-vertrek-aan.aspx",
+    "intro": "JJ Fleeman stapt eind juni op als CEO van Ahold Delhaize USA. Dit maakte het Nederlandse supermarktbedrijf dinsdagmiddag bekend.",
+    "published_at": "2026-03-24 13:29",
+    "scraped_at": "2026-03-24T14:07:52.398595"
+  },
+  {
     "id": "3bed881fbb881c96f7e61ea8b70082ea",
     "categorie": "Beursnieuws",
     "titel": "Obligatie: Nederland haalt 1,6 miljard euro op",
     "link": "https://www.beurs.nl/Nieuws/858186/Obligatie-Nederland-haalt-16-miljard-euro-op.aspx",
     "intro": "Nederland heeft met de heropening van een bestaande lange lening 1,63 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën dinsdag bekend.",
     "published_at": "2026-03-24 13:00",
-    "scraped_at": "2026-03-24T12:36:32.923570"
+    "scraped_at": "2026-03-24T14:07:52.398595"
   },
   {
     "id": "3444e2d6e4351e5da5f3b06ca392d7d6",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858182/Futures-voorspellen-terughoudende-opening-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lichtrode opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,2 procent lager.",
     "published_at": "2026-03-24 12:37",
-    "scraped_at": "2026-03-24T12:36:32.923570"
+    "scraped_at": "2026-03-24T14:07:52.398595"
   },
   {
     "id": "ecaa6490d8dcbb244e2162a933eda2c8",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858181/Mondiale-staalproductie-toont-nog-geen-herstel.aspx",
     "intro": "De mondiale staalproductie is in februari opnieuw gedaald, net als in de maanden ervoor. Dit bleek dinsdag uit cijfers van brancheorganisatie World Steel Association.",
     "published_at": "2026-03-24 12:15",
-    "scraped_at": "2026-03-24T12:36:32.923570"
+    "scraped_at": "2026-03-24T14:07:52.398595"
   },
   {
     "id": "a23a7428afbc82f919dcbdb6815cbb98",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858180/Europese-beurzen-bedachtzaam-rond-middaguur.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag rond lunchtijd verdeeld, terwijl de zorgen over de oorlog in het Midden-Oosten aanhouden.",
     "published_at": "2026-03-24 12:12",
-    "scraped_at": "2026-03-24T12:36:32.923570"
+    "scraped_at": "2026-03-24T14:07:52.398595"
   },
   {
     "id": "6f2f8aa7dd906f7911dc1d7a9f368f70",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858172/Voorzichtige-ochtend-op-het-Amsterdamse-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste dinsdagochtend voorzichtig hoger, te midden van nog altijd veel onzekerheid over de oorlog in het Midden-Oosten. Intussen toonden PMI-cijfers voor maart al de impact van het conflict, en dan vooral in de dienstensector.",
     "published_at": "2026-03-24 11:10",
-    "scraped_at": "2026-03-24T12:36:32.923570"
-  },
-  {
-    "id": "947252e92caa328aeaf6ce457c4a1c53",
-    "categorie": "Beursnieuws",
-    "titel": "Oorlog in Midden-Oosten drukt Britse groei",
-    "link": "https://www.beurs.nl/Nieuws/858168/Oorlog-in-Midden-Oosten-drukt-Britse-groei.aspx",
-    "intro": "De economie in het Verenigd Koninkrijk is in maart in een beduidend trager tempo gegroeid. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-03-24 10:40",
-    "scraped_at": "2026-03-24T12:36:32.923570"
-  },
-  {
-    "id": "30caacc0c2267a1f90a162ee6570a264",
-    "categorie": "Beursnieuws",
-    "titel": "Heineken gaat minder bier brouwen in Singapore",
-    "link": "https://www.beurs.nl/Nieuws/858167/Heineken-gaat-minder-bier-brouwen-in-Singapore.aspx",
-    "intro": "Heineken gaat minder bier brouwen in Singapore en de activiteiten daar meer vanuit een importmodel ondersteunen. Dit meldde de Amsterdamse bierbrouwerij dinsdag.",
-    "published_at": "2026-03-24 10:39",
-    "scraped_at": "2026-03-24T12:36:32.923570"
-  },
-  {
-    "id": "e1911bbe062393f08ad6afc04799d4b3",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: euro heeft slechtere kaarten dan de dollar",
-    "link": "https://www.beurs.nl/Nieuws/858165/Valuta-euro-heeft-slechtere-kaarten-dan-de-dollar.aspx",
-    "intro": "De euro zou deze week zwakker kunnen presteren dan de dollar, nu een snelle beëindiging van het conflict in het Midden-Oosten onwaarschijnlijk lijkt, waardoor de energieprijzen hoog blijven. Dit stelde Commerzbank dinsdag in een rapport.",
-    "published_at": "2026-03-24 10:37",
-    "scraped_at": "2026-03-24T12:36:32.923570"
-  },
-  {
-    "id": "b663a5fb4ba97a803e80c324521cd24b",
-    "categorie": "Beursnieuws",
-    "titel": "Economie eurozone groeit nog slechts bescheiden",
-    "link": "https://www.beurs.nl/Nieuws/858162/Economie-eurozone-groeit-nog-slechts-bescheiden.aspx",
-    "intro": "De groei in de eurozone is in maart behoorlijk afgenomen, onder meer door een flinke groeivertraging in de dienstensector. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-03-24 10:10",
-    "scraped_at": "2026-03-24T12:36:32.923570"
-  },
-  {
-    "id": "f2e9d4d8cf4da38e6cd36dd7d4c53e0c",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verlaagt koersdoel Exor",
-    "link": "https://www.beurs.nl/Nieuws/858160/Degroof-Petercam-verlaagt-koersdoel-Exor.aspx",
-    "intro": "Degroof Petercam heeft na de jaarcijfers het koersdoel voor Exor verlaagd van 122 naar 115 euro, maar handhaafde wel het koopadvies. Dit bleek dinsdag uit een rapport van analist Luuk van Beek.",
-    "published_at": "2026-03-24 10:01",
-    "scraped_at": "2026-03-24T12:36:32.923570"
+    "scraped_at": "2026-03-24T14:07:52.398595"
   }
 ]
