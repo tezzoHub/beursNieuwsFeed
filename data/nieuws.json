@@ -1,12 +1,39 @@
 [
   {
+    "id": "7af547e4cc28c2e375893daf1807432e",
+    "categorie": "Voorbeurs",
+    "titel": "Hogere opening verwacht en wat is het cadeau dat Iran aan VS zou hebben gegeven?",
+    "link": "https://www.beurs.nl/Artikel/858274/Hogere-opening-verwacht-en-wat-is-het-cadeau-dat-Iran-aan-VS-zou-hebben-gegeven.aspx",
+    "intro": "Openingsindicatie: +0,5%. Hoop op diplomatieke uitweg uit oorlog in Midden-Oosten. Arm kondigt eigen CPU-chip aan, SK Hynix overweegt notering VS. En verder: Gamestop, Meta, Estée Lauder en Puig.",
+    "published_at": "2026-03-25 08:20",
+    "scraped_at": "2026-03-25T08:04:15.727953"
+  },
+  {
+    "id": "cc905e5703c7777058fd0c51c514e7a9",
+    "categorie": "Beursnieuws",
+    "titel": "Britse inflatie blijft 3 procent",
+    "link": "https://www.beurs.nl/Nieuws/858296/Britse-inflatie-blijft-3-procent.aspx",
+    "intro": "De consumentenprijzen in het Verenigd Koninkrijk zijn in februari net zo hard gestegen als in januari. Dit bleek woensdag uit cijfers van het Britse statistiekbureau ONS.",
+    "published_at": "2026-03-25 08:08",
+    "scraped_at": "2026-03-25T08:04:15.727953"
+  },
+  {
+    "id": "91631f680c15c355533bcd191b4f17de",
+    "categorie": "Beursnieuws",
+    "titel": "Hoop op vrede zet AEX in het groen",
+    "link": "https://www.beurs.nl/Nieuws/858293/Hoop-op-vrede-zet-AEX-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,6 procent in het groen. Dinsdag sloot de hoofdgraadmeter al 0,8 procent hoger op 974,22 punten.",
+    "published_at": "2026-03-25 08:03",
+    "scraped_at": "2026-03-25T08:04:15.727953"
+  },
+  {
     "id": "cccb50845fc1cfbcc4cc5fbf859b67fd",
     "categorie": "Beursnieuws",
     "titel": "Kendrion rondt aandeleninkoop af",
     "link": "https://www.beurs.nl/Nieuws/858291/Kendrion-rondt-aandeleninkoop-af.aspx",
     "intro": "Kendrion heeft het inkoopprogramma van eigen aandelen ter waarde van 10 miljoen euro afgerond. Dit maakte de onderneming woensdag bekend.",
     "published_at": "2026-03-25 07:46",
-    "scraped_at": "2026-03-25T07:04:58.384524"
+    "scraped_at": "2026-03-25T08:04:15.727953"
   },
   {
     "id": "3128f19bf98fe8e85ad4f11c09c7bbcc",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858289/SK-Hynix-overweegt-extra-notering-in-VS.aspx",
     "intro": "SK Hynix wil een notering in de VS en heeft daartoe een aanvraag ingediend bij de Amerikaanse beurswaakhond Securities and Exchange Commission.",
     "published_at": "2026-03-25 07:28",
-    "scraped_at": "2026-03-25T07:04:58.384524"
+    "scraped_at": "2026-03-25T08:04:15.727953"
   },
   {
     "id": "53def836976a4290222cf067dd87c0cc",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858286/Aziatische-beurzen-flink-in-het-groen.aspx",
     "intro": "De Aziatische aandelenmarkten lieten woensdagochtend overtuigende winsten zien.",
     "published_at": "2026-03-25 07:15",
-    "scraped_at": "2026-03-25T07:04:58.384524"
+    "scraped_at": "2026-03-25T08:04:15.727953"
   },
   {
     "id": "270135ad2afeb2bd54328579a782937e",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858282/Europese-beurzen-openen-flink-hoger-dankzij-hoop-op-een-deal-in-het-Midden-Oosten.aspx",
     "intro": "De Europese beurzen gaan woensdag een groene opening tegemoet.",
     "published_at": "2026-03-25 07:06",
-    "scraped_at": "2026-03-25T07:04:58.384524"
+    "scraped_at": "2026-03-25T08:04:15.727953"
   },
   {
     "id": "614ec24771f159fa5a66e980a9c68150",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858280/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 1 april 2026:",
     "published_at": "2026-03-25 06:58",
-    "scraped_at": "2026-03-25T07:04:58.384524"
+    "scraped_at": "2026-03-25T08:04:15.727953"
   },
   {
     "id": "3c00714bf30226f556cc65a60bb4df73",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858278/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 1 april 2026:",
     "published_at": "2026-03-25 06:57",
-    "scraped_at": "2026-03-25T07:04:58.384524"
+    "scraped_at": "2026-03-25T08:04:15.727953"
   },
   {
     "id": "1fd4807ccfd5ad877762a3745434642b",
@@ -60,6 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858279/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 1 april 2026:",
     "published_at": "2026-03-25 06:57",
-    "scraped_at": "2026-03-25T07:04:58.384524"
+    "scraped_at": "2026-03-25T08:04:15.727953"
   }
 ]
