@@ -1,12 +1,21 @@
 [
   {
+    "id": "ca28fbe28a3f14e808b692dce9e78093",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op hogere opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/858334/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,9 procent in het groen.",
+    "published_at": "2026-03-25 12:35",
+    "scraped_at": "2026-03-25T12:00:09.236310"
+  },
+  {
     "id": "6d4ff13a8b83e559ce79a3a3dad71632",
     "categorie": "Beursnieuws",
     "titel": "CVC en Prosus aan kop in groene AEX",
     "link": "https://www.beurs.nl/Nieuws/858323/CVC-en-Prosus-aan-kop-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend overtuigend hoger. Rond de klok van elf uur won de AEX 1,1 procent op 984,44 punten.",
     "published_at": "2026-03-25 11:04",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   },
   {
     "id": "5a1aa18d1c114d6b0dd89f36afad9e87",
@@ -15,7 +24,7 @@
     "link": "https://www.iex.nl/artikel/858300/Must-read-Het-einde-van-de-oorlog-in-een-15-puntenplan.aspx",
     "intro": "Trump zou een plan hebben dat een einde moet maken aan de oorlog in het Midden-Oosten, Nederlanders leggen het af tegen expats op de huizenmarkt en waarom loopt de goudprijs niet zo hard op als verwacht?",
     "published_at": "2026-03-25 10:50",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   },
   {
     "id": "911abf947c83db84d8383f650da4b0a1",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858316/Duits-ondernemersvertrouwen-loopt-iets-terug.aspx",
     "intro": "De index voor het ondernemersklimaat in Duitsland is in maart gedaald. Dit bleek woensdag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
     "published_at": "2026-03-25 10:35",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   },
   {
     "id": "4d1c054ef72b4b3ce6422d03f7def039",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858312/UBS-verlaagt-koersdoel-Exor.aspx",
     "intro": "UBS heeft woensdag het koersdoel voor Exor verlaagd van 117 naar 107 euro, maar met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Zwitserse bank.",
     "published_at": "2026-03-25 10:26",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   },
   {
     "id": "32ada6b40057d5f65c3a3f0e0c10789d",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858311/Aegon-draagt-Marco-Keim-voor-als-commissaris-bij-ASR.aspx",
     "intro": "Aegon heeft Marco Keim voorgedragen als commissaris bij ASR ter vervanging van Lard Friese. Dit meldde Aegon woensdagochtend.",
     "published_at": "2026-03-25 10:16",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   },
   {
     "id": "0789ffefeb2e74e34fcb2455d30ad80f",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858310/Spaanse-Grifols-werkt-aan-IPO-voor-Amerikaanse-tak.aspx",
     "intro": "Grifols bereidt een beursgang voor van zijn Amerikaanse biopharma-divisie. Dit maakte het Spaanse heathcarebedrijf woensdag bekend, nadat het bestuur deze stap goedkeurde.",
     "published_at": "2026-03-25 10:03",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   },
   {
     "id": "b15f392ccc2e0196d718eafd9cd9422e",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858306/Fastned-op-zoek-naar-nieuwe-CFO.aspx",
     "intro": "CFO Victor van Dijk van Fastned wordt Vice President of Strategy. Dit maakte Fastned woensdag bekend.",
     "published_at": "2026-03-25 09:44",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   },
   {
     "id": "7446c7cdaa2175969313904656bb4a24",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858304/KBC-Securities-verhoogt-koersdoel-Vopak.aspx",
     "intro": "KBC Securities heeft woensdag het koersdoel voor Vopak verhoogd van 50,00 naar 56,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-03-25 09:23",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   },
   {
     "id": "73540b7de5d680f879597a13f339a197",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858302/AEX-hoger-geopend.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger geopend. Kort na opening, koerste de AEX 0,8 procent in het groen op 981,49 punten.",
     "published_at": "2026-03-25 09:08",
-    "scraped_at": "2026-03-25T11:10:23.103334"
-  },
-  {
-    "id": "3c96289d819ccb44ebcffeccfe71512e",
-    "categorie": "Beursnieuws",
-    "titel": "Resultaten Pop Mart schieten omhoog",
-    "link": "https://www.beurs.nl/Nieuws/858299/Resultaten-Pop-Mart-schieten-omhoog.aspx",
-    "intro": "Pop Mart heeft in 2025 de resultaten fors zien aantrekken. Dit bleek uit cijfers van de Chinese fabrikant van populaire verzamelfiguren zoals Labubu.",
-    "published_at": "2026-03-25 08:57",
-    "scraped_at": "2026-03-25T11:10:23.103334"
+    "scraped_at": "2026-03-25T12:00:09.236310"
   }
 ]
