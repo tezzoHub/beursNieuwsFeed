@@ -1,21 +1,66 @@
 [
   {
+    "id": "0789ffefeb2e74e34fcb2455d30ad80f",
+    "categorie": "Beursnieuws",
+    "titel": "Spaanse Grifols werkt aan IPO voor Amerikaanse tak",
+    "link": "https://www.beurs.nl/Nieuws/858310/Spaanse-Grifols-werkt-aan-IPO-voor-Amerikaanse-tak.aspx",
+    "intro": "Grifols bereidt een beursgang voor van zijn Amerikaanse biopharma-divisie. Dit maakte het Spaanse heathcarebedrijf woensdag bekend, nadat het bestuur deze stap goedkeurde.",
+    "published_at": "2026-03-25 10:03",
+    "scraped_at": "2026-03-25T09:12:06.731621"
+  },
+  {
+    "id": "b15f392ccc2e0196d718eafd9cd9422e",
+    "categorie": "Beursnieuws",
+    "titel": "Fastned op zoek naar nieuwe CFO",
+    "link": "https://www.beurs.nl/Nieuws/858306/Fastned-op-zoek-naar-nieuwe-CFO.aspx",
+    "intro": "CFO Victor van Dijk van Fastned wordt Vice President of Strategy. Dit maakte Fastned woensdag bekend.",
+    "published_at": "2026-03-25 09:44",
+    "scraped_at": "2026-03-25T09:12:06.731621"
+  },
+  {
+    "id": "7446c7cdaa2175969313904656bb4a24",
+    "categorie": "Beursnieuws",
+    "titel": "KBC Securities verhoogt koersdoel Vopak",
+    "link": "https://www.beurs.nl/Nieuws/858304/KBC-Securities-verhoogt-koersdoel-Vopak.aspx",
+    "intro": "KBC Securities heeft woensdag het koersdoel voor Vopak verhoogd van 50,00 naar 56,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-03-25 09:23",
+    "scraped_at": "2026-03-25T09:12:06.731621"
+  },
+  {
+    "id": "73540b7de5d680f879597a13f339a197",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger geopend",
+    "link": "https://www.beurs.nl/Nieuws/858302/AEX-hoger-geopend.aspx",
+    "intro": "De Amsterdamse beurs is woensdag hoger geopend. Kort na opening, koerste de AEX 0,8 procent in het groen op 981,49 punten.",
+    "published_at": "2026-03-25 09:08",
+    "scraped_at": "2026-03-25T09:12:06.731621"
+  },
+  {
+    "id": "3c96289d819ccb44ebcffeccfe71512e",
+    "categorie": "Beursnieuws",
+    "titel": "Resultaten Pop Mart schieten omhoog",
+    "link": "https://www.beurs.nl/Nieuws/858299/Resultaten-Pop-Mart-schieten-omhoog.aspx",
+    "intro": "Pop Mart heeft in 2025 de resultaten fors zien aantrekken. Dit bleek uit cijfers van de Chinese fabrikant van populaire verzamelfiguren zoals Labubu.",
+    "published_at": "2026-03-25 08:57",
+    "scraped_at": "2026-03-25T09:12:06.731621"
+  },
+  {
     "id": "7af547e4cc28c2e375893daf1807432e",
     "categorie": "Voorbeurs",
     "titel": "Hogere opening verwacht en wat is het cadeau dat Iran aan VS zou hebben gegeven?",
     "link": "https://www.beurs.nl/Artikel/858274/Hogere-opening-verwacht-en-wat-is-het-cadeau-dat-Iran-aan-VS-zou-hebben-gegeven.aspx",
     "intro": "Openingsindicatie: +0,5%. Hoop op diplomatieke uitweg uit oorlog in Midden-Oosten. Arm kondigt eigen CPU-chip aan, SK Hynix overweegt notering VS. En verder: Gamestop, Meta, Estée Lauder en Puig.",
     "published_at": "2026-03-25 08:20",
-    "scraped_at": "2026-03-25T08:04:15.727953"
+    "scraped_at": "2026-03-25T09:12:06.731621"
   },
   {
-    "id": "cc905e5703c7777058fd0c51c514e7a9",
+    "id": "3a5ea985438ba440321989c6bcde2ff8",
     "categorie": "Beursnieuws",
-    "titel": "Britse inflatie blijft 3 procent",
-    "link": "https://www.beurs.nl/Nieuws/858296/Britse-inflatie-blijft-3-procent.aspx",
+    "titel": "Britse inflatie blijft 3%",
+    "link": "https://www.beurs.nl/Nieuws/858296/Britse-inflatie-blijft-3.aspx",
     "intro": "De consumentenprijzen in het Verenigd Koninkrijk zijn in februari net zo hard gestegen als in januari. Dit bleek woensdag uit cijfers van het Britse statistiekbureau ONS.",
     "published_at": "2026-03-25 08:08",
-    "scraped_at": "2026-03-25T08:04:15.727953"
+    "scraped_at": "2026-03-25T09:12:06.731621"
   },
   {
     "id": "91631f680c15c355533bcd191b4f17de",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858293/Hoop-op-vrede-zet-AEX-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,6 procent in het groen. Dinsdag sloot de hoofdgraadmeter al 0,8 procent hoger op 974,22 punten.",
     "published_at": "2026-03-25 08:03",
-    "scraped_at": "2026-03-25T08:04:15.727953"
+    "scraped_at": "2026-03-25T09:12:06.731621"
   },
   {
     "id": "cccb50845fc1cfbcc4cc5fbf859b67fd",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858291/Kendrion-rondt-aandeleninkoop-af.aspx",
     "intro": "Kendrion heeft het inkoopprogramma van eigen aandelen ter waarde van 10 miljoen euro afgerond. Dit maakte de onderneming woensdag bekend.",
     "published_at": "2026-03-25 07:46",
-    "scraped_at": "2026-03-25T08:04:15.727953"
+    "scraped_at": "2026-03-25T09:12:06.731621"
   },
   {
     "id": "3128f19bf98fe8e85ad4f11c09c7bbcc",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858289/SK-Hynix-overweegt-extra-notering-in-VS.aspx",
     "intro": "SK Hynix wil een notering in de VS en heeft daartoe een aanvraag ingediend bij de Amerikaanse beurswaakhond Securities and Exchange Commission.",
     "published_at": "2026-03-25 07:28",
-    "scraped_at": "2026-03-25T08:04:15.727953"
-  },
-  {
-    "id": "53def836976a4290222cf067dd87c0cc",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen flink in het groen",
-    "link": "https://www.beurs.nl/Nieuws/858286/Aziatische-beurzen-flink-in-het-groen.aspx",
-    "intro": "De Aziatische aandelenmarkten lieten woensdagochtend overtuigende winsten zien.",
-    "published_at": "2026-03-25 07:15",
-    "scraped_at": "2026-03-25T08:04:15.727953"
-  },
-  {
-    "id": "270135ad2afeb2bd54328579a782937e",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen flink hoger dankzij hoop op een deal in het Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/858282/Europese-beurzen-openen-flink-hoger-dankzij-hoop-op-een-deal-in-het-Midden-Oosten.aspx",
-    "intro": "De Europese beurzen gaan woensdag een groene opening tegemoet.",
-    "published_at": "2026-03-25 07:06",
-    "scraped_at": "2026-03-25T08:04:15.727953"
-  },
-  {
-    "id": "614ec24771f159fa5a66e980a9c68150",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/858280/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 1 april 2026:",
-    "published_at": "2026-03-25 06:58",
-    "scraped_at": "2026-03-25T08:04:15.727953"
-  },
-  {
-    "id": "3c00714bf30226f556cc65a60bb4df73",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/858278/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 1 april 2026:",
-    "published_at": "2026-03-25 06:57",
-    "scraped_at": "2026-03-25T08:04:15.727953"
-  },
-  {
-    "id": "1fd4807ccfd5ad877762a3745434642b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/858279/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 1 april 2026:",
-    "published_at": "2026-03-25 06:57",
-    "scraped_at": "2026-03-25T08:04:15.727953"
+    "scraped_at": "2026-03-25T09:12:06.731621"
   }
 ]
