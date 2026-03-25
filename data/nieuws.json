@@ -1,12 +1,48 @@
 [
   {
+    "id": "0973b0f889a5a631d396a966ecd4f902",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/858371/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 2 april 2026:",
+    "published_at": "2026-03-25 15:56",
+    "scraped_at": "2026-03-25T15:01:31.667125"
+  },
+  {
+    "id": "c88ed659148117b3c923f79713b921b8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/858372/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 2 april 2026:",
+    "published_at": "2026-03-25 15:56",
+    "scraped_at": "2026-03-25T15:01:31.667125"
+  },
+  {
+    "id": "63d8ade68ec929ddef3bc2f9096f7728",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/858373/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 2 april 2026:",
+    "published_at": "2026-03-25 15:56",
+    "scraped_at": "2026-03-25T15:01:31.667125"
+  },
+  {
+    "id": "89e54b532d040c52a4e138d93bfab082",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden nemen fors toe",
+    "link": "https://www.beurs.nl/Nieuws/858365/Amerikaanse-olievoorraden-nemen-fors-toe.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-03-25 15:39",
+    "scraped_at": "2026-03-25T15:01:31.667125"
+  },
+  {
     "id": "204107ac03c9e11db0c815e12bbbc717",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht hogere opening",
     "link": "https://www.beurs.nl/Nieuws/858347/Wall-Street-wacht-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening tot 0,8 procent in het groen.",
     "published_at": "2026-03-25 14:09",
-    "scraped_at": "2026-03-25T13:53:00.614229"
+    "scraped_at": "2026-03-25T15:01:31.667125"
   },
   {
     "id": "a4ebe758f45286a190ad64c1ec981e3c",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858345/Media-Iran-wijst-staakt-het-vuren-af.aspx",
     "intro": "Iran wil niet onderhandelen over een staakt-het-vuren. Dit meldde Bloomberg op basis van het Iraanse persbureau Fars, dat zich beroept op bronnen.",
     "published_at": "2026-03-25 14:01",
-    "scraped_at": "2026-03-25T13:53:00.614229"
+    "scraped_at": "2026-03-25T15:01:31.667125"
   },
   {
     "id": "b185fcc40ab75b7124da03d05bc97255",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858343/Merck-rondt-derde-miljardendeal-af.aspx",
     "intro": "Merck heeft een definitief akkoord bereikt over de overname van het Amerikaanse biotechbedrijf Terns Pharmaceuticals voor 6,7 miljard dollar. Dit maakte de Amerikaanse farmaciereus woensdag bekend.",
     "published_at": "2026-03-25 13:52",
-    "scraped_at": "2026-03-25T13:53:00.614229"
+    "scraped_at": "2026-03-25T15:01:31.667125"
   },
   {
     "id": "b0d2252fb59e052aeb22b6f725ae415c",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858342/Amerikaanse-importprijzen-gestegen.aspx",
     "intro": "De Amerikaanse importprijzen zijn in februari gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-03-25 13:38",
-    "scraped_at": "2026-03-25T13:53:00.614229"
+    "scraped_at": "2026-03-25T15:01:31.667125"
   },
   {
     "id": "ca28fbe28a3f14e808b692dce9e78093",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858334/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,9 procent in het groen.",
     "published_at": "2026-03-25 12:35",
-    "scraped_at": "2026-03-25T13:53:00.614229"
+    "scraped_at": "2026-03-25T15:01:31.667125"
   },
   {
     "id": "dd46499cf4d56b95f485ea551d739671",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858331/Groene-koersen-in-Europa.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger.",
     "published_at": "2026-03-25 12:22",
-    "scraped_at": "2026-03-25T13:53:00.614229"
-  },
-  {
-    "id": "6d4ff13a8b83e559ce79a3a3dad71632",
-    "categorie": "Beursnieuws",
-    "titel": "CVC en Prosus aan kop in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/858323/CVC-en-Prosus-aan-kop-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend overtuigend hoger. Rond de klok van elf uur won de AEX 1,1 procent op 984,44 punten.",
-    "published_at": "2026-03-25 11:04",
-    "scraped_at": "2026-03-25T13:53:00.614229"
-  },
-  {
-    "id": "5a1aa18d1c114d6b0dd89f36afad9e87",
-    "categorie": "Redactioneel",
-    "titel": "Must read: Het einde van de oorlog in een 15-puntenplan?",
-    "link": "https://www.iex.nl/artikel/858300/Must-read-Het-einde-van-de-oorlog-in-een-15-puntenplan.aspx",
-    "intro": "Trump zou een plan hebben dat een einde moet maken aan de oorlog in het Midden-Oosten, Nederlanders leggen het af tegen expats op de huizenmarkt en waarom loopt de goudprijs niet zo hard op als verwacht?",
-    "published_at": "2026-03-25 10:50",
-    "scraped_at": "2026-03-25T13:53:00.614229"
-  },
-  {
-    "id": "911abf947c83db84d8383f650da4b0a1",
-    "categorie": "Beursnieuws",
-    "titel": "Duits ondernemersvertrouwen loopt iets terug",
-    "link": "https://www.beurs.nl/Nieuws/858316/Duits-ondernemersvertrouwen-loopt-iets-terug.aspx",
-    "intro": "De index voor het ondernemersklimaat in Duitsland is in maart gedaald. Dit bleek woensdag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
-    "published_at": "2026-03-25 10:35",
-    "scraped_at": "2026-03-25T13:53:00.614229"
-  },
-  {
-    "id": "4d1c054ef72b4b3ce6422d03f7def039",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verlaagt koersdoel Exor",
-    "link": "https://www.beurs.nl/Nieuws/858312/UBS-verlaagt-koersdoel-Exor.aspx",
-    "intro": "UBS heeft woensdag het koersdoel voor Exor verlaagd van 117 naar 107 euro, maar met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Zwitserse bank.",
-    "published_at": "2026-03-25 10:26",
-    "scraped_at": "2026-03-25T13:53:00.614229"
+    "scraped_at": "2026-03-25T15:01:31.667125"
   }
 ]
