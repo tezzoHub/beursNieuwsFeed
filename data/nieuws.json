@@ -1,92 +1,65 @@
 [
   {
-    "id": "a56064446e43ff3c840623f9bc04f468",
+    "id": "cccb50845fc1cfbcc4cc5fbf859b67fd",
     "categorie": "Beursnieuws",
-    "titel": "GameStop ziet omzet en winst dalen",
-    "link": "https://www.beurs.nl/Nieuws/858249/GameStop-ziet-omzet-en-winst-dalen.aspx",
-    "intro": "GameStop heeft in het vierde kwartaal minder omzet en winst geboekt door verder dalende verkopen van hardware en software. Dat maakte de verkoper van computerspellen dinsdag bekend.",
-    "published_at": "2026-03-24 21:43",
-    "scraped_at": "2026-03-25T05:51:07.060156"
+    "titel": "Kendrion rondt aandeleninkoop af",
+    "link": "https://www.beurs.nl/Nieuws/858291/Kendrion-rondt-aandeleninkoop-af.aspx",
+    "intro": "Kendrion heeft het inkoopprogramma van eigen aandelen ter waarde van 10 miljoen euro afgerond. Dit maakte de onderneming woensdag bekend.",
+    "published_at": "2026-03-25 07:46",
+    "scraped_at": "2026-03-25T07:04:58.384524"
   },
   {
-    "id": "7ef5da3f5b02a678d284c7df49bd9d8b",
+    "id": "3128f19bf98fe8e85ad4f11c09c7bbcc",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit lager",
-    "link": "https://www.beurs.nl/Nieuws/858248/Wall-Street-sluit-lager.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag lager gesloten, met de olieprijs weer boven 100 dollar, in afwachting van mogelijke onderhandelingen tussen de VS en Iran, nu de Amerikanen een uitweg lijken te zoeken uit het conflict rond de Perzische Golf.",
-    "published_at": "2026-03-24 21:27",
-    "scraped_at": "2026-03-25T05:51:07.060156"
+    "titel": "SK Hynix overweegt extra notering in VS",
+    "link": "https://www.beurs.nl/Nieuws/858289/SK-Hynix-overweegt-extra-notering-in-VS.aspx",
+    "intro": "SK Hynix wil een notering in de VS en heeft daartoe een aanvraag ingediend bij de Amerikaanse beurswaakhond Securities and Exchange Commission.",
+    "published_at": "2026-03-25 07:28",
+    "scraped_at": "2026-03-25T07:04:58.384524"
   },
   {
-    "id": "10bfe8ad169cfb93c42442858670bb2f",
+    "id": "53def836976a4290222cf067dd87c0cc",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/858247/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-03-24 21:10",
-    "scraped_at": "2026-03-25T05:51:07.060156"
+    "titel": "Aziatische beurzen flink in het groen",
+    "link": "https://www.beurs.nl/Nieuws/858286/Aziatische-beurzen-flink-in-het-groen.aspx",
+    "intro": "De Aziatische aandelenmarkten lieten woensdagochtend overtuigende winsten zien.",
+    "published_at": "2026-03-25 07:15",
+    "scraped_at": "2026-03-25T07:04:58.384524"
   },
   {
-    "id": "7e8f8bb18761e26447876ecdf2ba2712",
+    "id": "270135ad2afeb2bd54328579a782937e",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt sterk",
-    "link": "https://www.beurs.nl/Nieuws/858243/Olieprijs-stijgt-sterk.aspx",
-    "intro": "De olieprijs is dinsdag gestegen, nadat de oorlog in het Midden-Oosten aanhield, met uitwisseling van aanvallen door Israël en Iran en aanvallen van Iran op andere staten rond de Perzische Golf.",
-    "published_at": "2026-03-24 20:41",
-    "scraped_at": "2026-03-25T05:51:07.060156"
+    "titel": "Europese beurzen openen flink hoger dankzij hoop op een deal in het Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/858282/Europese-beurzen-openen-flink-hoger-dankzij-hoop-op-een-deal-in-het-Midden-Oosten.aspx",
+    "intro": "De Europese beurzen gaan woensdag een groene opening tegemoet.",
+    "published_at": "2026-03-25 07:06",
+    "scraped_at": "2026-03-25T07:04:58.384524"
   },
   {
-    "id": "49420891fc6e1caf82f63d2c39f44909",
+    "id": "614ec24771f159fa5a66e980a9c68150",
     "categorie": "Beursnieuws",
-    "titel": "UCB bouwt nieuwe productielocatie VS bij Atlanta",
-    "link": "https://www.beurs.nl/Nieuws/858244/UCB-bouwt-nieuwe-productielocatie-VS-bij-Atlanta.aspx",
-    "intro": "UCB gaat zijn nieuwe Amerikaanse productielocatie bouwen bij de stad Atlanta in de staat Georgia. Dat maakte het farmaciebedrijf dinsdag bekend.",
-    "published_at": "2026-03-24 20:41",
-    "scraped_at": "2026-03-25T05:51:07.060156"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/858280/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 1 april 2026:",
+    "published_at": "2026-03-25 06:58",
+    "scraped_at": "2026-03-25T07:04:58.384524"
   },
   {
-    "id": "58e1a398e0620b3a42c1e6c31f284bd1",
+    "id": "3c00714bf30226f556cc65a60bb4df73",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street verdeeld terwijl oorlog doorgaat",
-    "link": "https://www.beurs.nl/Nieuws/858231/Wall-Street-verdeeld-terwijl-oorlog-doorgaat.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag verdeeld, met de olieprijs weer boven 100 dollar, in afwachting van mogelijke onderhandelingen tussen de VS en Iran later deze week.",
-    "published_at": "2026-03-24 20:00",
-    "scraped_at": "2026-03-25T05:51:07.060156"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/858278/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 1 april 2026:",
+    "published_at": "2026-03-25 06:57",
+    "scraped_at": "2026-03-25T07:04:58.384524"
   },
   {
-    "id": "a3d21da8845961b6e7c4e39f753a05d7",
+    "id": "1fd4807ccfd5ad877762a3745434642b",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/858230/Europese-beurzen-sluiten-verdeeld.aspx",
-    "intro": "De aandelenmarkten in Europa zijn dinsdag verdeeld gesloten, na aanhoudende zorgen over de oorlog in het Midden-Oosten, terwijl het optimisme dat maandag werd gevoed door de Amerikaanse president Trump verflauwde.",
-    "published_at": "2026-03-24 18:49",
-    "scraped_at": "2026-03-25T05:51:07.060156"
-  },
-  {
-    "id": "91c03ae8060e3b670e887f24d048fd98",
-    "categorie": "Beursnieuws",
-    "titel": "HAL verkoopt belang in NextWave",
-    "link": "https://www.beurs.nl/Nieuws/858229/HAL-verkoopt-belang-in-NextWave.aspx",
-    "intro": "HAL heeft zijn belang in Atlas NextWave na vijftien jaar verkocht aan Avedon Capital Partners. Dat maakte de investeerder dinsdag nabeurs bekend.",
-    "published_at": "2026-03-24 18:18",
-    "scraped_at": "2026-03-25T05:51:07.060156"
-  },
-  {
-    "id": "ee83aca7855374d3075bbba9db094324",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit in het groen",
-    "link": "https://www.beurs.nl/Nieuws/858227/AEX-sluit-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, ondanks aanhoudende onzekerheid over de oorlog in het Midden-Oosten, met IMCD als uitblinker.",
-    "published_at": "2026-03-24 18:02",
-    "scraped_at": "2026-03-25T05:51:07.060156"
-  },
-  {
-    "id": "ba99c21cf4ce16428bdaf84eac4318ec",
-    "categorie": "Redactioneel",
-    "titel": "Beleggers rekenen blijkbaar op een snel einde van het Golfconflict",
-    "link": "https://www.iex.nl/artikel/858224/Beleggers-rekenen-blijkbaar-op-een-snel-einde-van-het-Golfconflict.aspx",
-    "intro": "",
-    "published_at": "2026-03-24 18:00",
-    "scraped_at": "2026-03-25T05:51:07.060156"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/858279/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 1 april 2026:",
+    "published_at": "2026-03-25 06:57",
+    "scraped_at": "2026-03-25T07:04:58.384524"
   }
 ]
