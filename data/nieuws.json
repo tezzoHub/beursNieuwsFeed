@@ -1,12 +1,21 @@
 [
   {
+    "id": "480602eafa0a61a4c9bd40f93f599b4c",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Oekraïne legt veertig procent Russische olie export plat",
+    "link": "https://www.beurs.nl/Nieuws/858381/Media-Oekraine-legt-veertig-procent-Russische-olie-export-plat.aspx",
+    "intro": "Oekraïne heeft met drone-aanvallen, het stilleggen van een belangrijke pijpleiding en het in beslag nemen van tankers minstens veertig procent van de Russische olie-exportcapaciteit uitgeschakeld. Dit blijkt uit berekeningen van Reuters op basis van marktdata.",
+    "published_at": "2026-03-25 16:59",
+    "scraped_at": "2026-03-25T16:39:19.473796"
+  },
+  {
     "id": "0973b0f889a5a631d396a966ecd4f902",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/858371/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 2 april 2026:",
     "published_at": "2026-03-25 15:56",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   },
   {
     "id": "c88ed659148117b3c923f79713b921b8",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/858372/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 2 april 2026:",
     "published_at": "2026-03-25 15:56",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   },
   {
     "id": "63d8ade68ec929ddef3bc2f9096f7728",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858373/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 2 april 2026:",
     "published_at": "2026-03-25 15:56",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   },
   {
     "id": "89e54b532d040c52a4e138d93bfab082",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858365/Amerikaanse-olievoorraden-nemen-fors-toe.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-03-25 15:39",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   },
   {
     "id": "204107ac03c9e11db0c815e12bbbc717",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858347/Wall-Street-wacht-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening tot 0,8 procent in het groen.",
     "published_at": "2026-03-25 14:09",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   },
   {
     "id": "a4ebe758f45286a190ad64c1ec981e3c",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858345/Media-Iran-wijst-staakt-het-vuren-af.aspx",
     "intro": "Iran wil niet onderhandelen over een staakt-het-vuren. Dit meldde Bloomberg op basis van het Iraanse persbureau Fars, dat zich beroept op bronnen.",
     "published_at": "2026-03-25 14:01",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   },
   {
     "id": "b185fcc40ab75b7124da03d05bc97255",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858343/Merck-rondt-derde-miljardendeal-af.aspx",
     "intro": "Merck heeft een definitief akkoord bereikt over de overname van het Amerikaanse biotechbedrijf Terns Pharmaceuticals voor 6,7 miljard dollar. Dit maakte de Amerikaanse farmaciereus woensdag bekend.",
     "published_at": "2026-03-25 13:52",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   },
   {
     "id": "b0d2252fb59e052aeb22b6f725ae415c",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858342/Amerikaanse-importprijzen-gestegen.aspx",
     "intro": "De Amerikaanse importprijzen zijn in februari gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-03-25 13:38",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   },
   {
     "id": "ca28fbe28a3f14e808b692dce9e78093",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858334/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,9 procent in het groen.",
     "published_at": "2026-03-25 12:35",
-    "scraped_at": "2026-03-25T15:01:31.667125"
-  },
-  {
-    "id": "dd46499cf4d56b95f485ea551d739671",
-    "categorie": "Beursnieuws",
-    "titel": "Groene koersen in Europa",
-    "link": "https://www.beurs.nl/Nieuws/858331/Groene-koersen-in-Europa.aspx",
-    "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger.",
-    "published_at": "2026-03-25 12:22",
-    "scraped_at": "2026-03-25T15:01:31.667125"
+    "scraped_at": "2026-03-25T16:39:19.473796"
   }
 ]
