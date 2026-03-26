@@ -1,11 +1,47 @@
 [
   {
-    "id": "001fda14096b93cd0a9b14d913f72c9c",
+    "id": "445532e0607fa5ff9d984d57d713c00c",
     "categorie": "Beursnieuws",
-    "titel": "Correctie: negeer publicatie 'Europese beurzen openen HOGER/LAGER'",
-    "link": "https://www.beurs.nl/Nieuws/858403/Correctie-negeer-publicatie-Europese-beurzen-openen-HOGER-LAGER.aspx",
-    "intro": "Gelieve de publicatie 'Europese beurzen openen HOGER/LAGER' te negeren. Dit onvolledige artikel werd door een technische fout voortijdig gepubliceerd. Excuses voor het ongemak.",
-    "published_at": "2026-03-26 00:10",
-    "scraped_at": "2026-03-26T04:57:45.800412"
+    "titel": "Groei Nederlandse economie blijft op peil",
+    "link": "https://www.beurs.nl/Nieuws/858420/Groei-Nederlandse-economie-blijft-op-peil.aspx",
+    "intro": "De Nederlandse economie is in het vierde kwartaal met 0,5 procent op kwartaalbasis gegroeid. Dit bleek donderdag uit definitieve cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-03-26 07:04",
+    "scraped_at": "2026-03-26T06:15:11.734619"
+  },
+  {
+    "id": "2a91511e86d07d05a3a749c6bb5c4d9e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/858419/Europese-beurzen-openen-in-het-rood.aspx",
+    "intro": "De Europese beurzen gaan donderdag een lagere opening tegemoet, terwijl beleggers blijven hopen op een einde van de oorlog in Iran.",
+    "published_at": "2026-03-26 07:02",
+    "scraped_at": "2026-03-26T06:15:11.734619"
+  },
+  {
+    "id": "839ebd6623f3b2f971bc95d048aadd85",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/858417/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 2 april 2026:",
+    "published_at": "2026-03-26 06:52",
+    "scraped_at": "2026-03-26T06:15:11.734619"
+  },
+  {
+    "id": "5e84b264c3044be46992f5ae5ee63a67",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/858415/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 2 april 2026:",
+    "published_at": "2026-03-26 06:51",
+    "scraped_at": "2026-03-26T06:15:11.734619"
+  },
+  {
+    "id": "6992945979378a2277ba27c6b2a7fc6f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/858416/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 2 april 2026:",
+    "published_at": "2026-03-26 06:51",
+    "scraped_at": "2026-03-26T06:15:11.734619"
   }
 ]
