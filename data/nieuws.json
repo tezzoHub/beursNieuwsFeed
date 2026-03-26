@@ -1,12 +1,57 @@
 [
   {
+    "id": "3871e275d7b40bda358f221c088c4285",
+    "categorie": "Beursnieuws",
+    "titel": "FIL Limited kleiner in Besi",
+    "link": "https://www.beurs.nl/Nieuws/858437/FIL-Limited-kleiner-in-Besi.aspx",
+    "intro": "FIL Limited heeft een kleiner belang in BE Semiconductor Industries gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 24 maart.",
+    "published_at": "2026-03-26 08:30",
+    "scraped_at": "2026-03-26T07:39:06.039999"
+  },
+  {
+    "id": "a72fa331e32f2f855d90507574b2d0ed",
+    "categorie": "Beursnieuws",
+    "titel": "AEX maakt zich op voor terughoudende opening",
+    "link": "https://www.beurs.nl/Nieuws/858434/AEX-maakt-zich-op-voor-terughoudende-opening.aspx",
+    "intro": "De Amsterdamse beurs gaat donderdag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,2 procent.",
+    "published_at": "2026-03-26 08:13",
+    "scraped_at": "2026-03-26T07:39:06.039999"
+  },
+  {
+    "id": "4d8b508b197e35e801afa5c24e755b9c",
+    "categorie": "Beursnieuws",
+    "titel": "Banijay verwacht sterke groei in komende jaren",
+    "link": "https://www.beurs.nl/Nieuws/858433/Banijay-verwacht-sterke-groei-in-komende-jaren.aspx",
+    "intro": "Banijay verwacht in de komende jaren tot en met 2029 een flinke groei te kunnen realiseren. Dit bleek donderdag uit een strategische update van het bedrijf in contentproductie met een online gokplatform voor sportwedstrijden.",
+    "published_at": "2026-03-26 08:11",
+    "scraped_at": "2026-03-26T07:39:06.039999"
+  },
+  {
+    "id": "e0aa650b13b893735afff5296c49277a",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet en winst voor CSG",
+    "link": "https://www.beurs.nl/Nieuws/858428/Meer-omzet-en-winst-voor-CSG.aspx",
+    "intro": "CSG heeft in 2025 de resultaten sterk zien stijgen en herhaalde de outlook voor dit jaar. Dit bleek donderdag voorbeurs uit de cijfers van Czechoslovak Group, een fabrikant van gepantserde voertuigen en munitie.",
+    "published_at": "2026-03-26 07:52",
+    "scraped_at": "2026-03-26T07:39:06.039999"
+  },
+  {
+    "id": "d72f86e613958697862ac086b4030b4b",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen onder druk",
+    "link": "https://www.beurs.nl/Nieuws/858423/Aziatische-beurzen-onder-druk.aspx",
+    "intro": "De Aziatische beurzen koersten donderdag lager, terwijl de olieprijzen in de lift zaten.",
+    "published_at": "2026-03-26 07:26",
+    "scraped_at": "2026-03-26T07:39:06.039999"
+  },
+  {
     "id": "445532e0607fa5ff9d984d57d713c00c",
     "categorie": "Beursnieuws",
     "titel": "Groei Nederlandse economie blijft op peil",
     "link": "https://www.beurs.nl/Nieuws/858420/Groei-Nederlandse-economie-blijft-op-peil.aspx",
     "intro": "De Nederlandse economie is in het vierde kwartaal met 0,5 procent op kwartaalbasis gegroeid. Dit bleek donderdag uit definitieve cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-03-26 07:04",
-    "scraped_at": "2026-03-26T06:15:11.734619"
+    "scraped_at": "2026-03-26T07:39:06.039999"
   },
   {
     "id": "2a91511e86d07d05a3a749c6bb5c4d9e",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858419/Europese-beurzen-openen-in-het-rood.aspx",
     "intro": "De Europese beurzen gaan donderdag een lagere opening tegemoet, terwijl beleggers blijven hopen op een einde van de oorlog in Iran.",
     "published_at": "2026-03-26 07:02",
-    "scraped_at": "2026-03-26T06:15:11.734619"
+    "scraped_at": "2026-03-26T07:39:06.039999"
   },
   {
     "id": "839ebd6623f3b2f971bc95d048aadd85",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858417/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 2 april 2026:",
     "published_at": "2026-03-26 06:52",
-    "scraped_at": "2026-03-26T06:15:11.734619"
+    "scraped_at": "2026-03-26T07:39:06.039999"
   },
   {
     "id": "5e84b264c3044be46992f5ae5ee63a67",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858415/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 2 april 2026:",
     "published_at": "2026-03-26 06:51",
-    "scraped_at": "2026-03-26T06:15:11.734619"
+    "scraped_at": "2026-03-26T07:39:06.039999"
   },
   {
     "id": "6992945979378a2277ba27c6b2a7fc6f",
@@ -42,6 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858416/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 2 april 2026:",
     "published_at": "2026-03-26 06:51",
-    "scraped_at": "2026-03-26T06:15:11.734619"
+    "scraped_at": "2026-03-26T07:39:06.039999"
   }
 ]
