@@ -1,12 +1,21 @@
 [
   {
+    "id": "e1ebf2c9685f978d6535deef5a36ac24",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Musk voert reorganisatie door bij X",
+    "link": "https://www.beurs.nl/Nieuws/858562/Media-Musk-voert-reorganisatie-door-bij-X.aspx",
+    "intro": "Elon Musk voert een reorganisatie door bij social mediabedrijf X, in aanloop naar de mogelijke beursgang van moederbedrijf SpaceX, die meer dan 1 biljoen dollar zou kunnen opleveren. Dit meldde The Wall Street Journal donderdag op basis van bronnen.",
+    "published_at": "2026-03-26 22:03",
+    "scraped_at": "2026-03-26T21:36:52.437165"
+  },
+  {
     "id": "4a75d43032854012971c518db83729e9",
     "categorie": "Beursnieuws",
     "titel": "Trump verlengt deadline voor Iran tot na Pasen",
     "link": "https://www.beurs.nl/Nieuws/858557/Trump-verlengt-deadline-voor-Iran-tot-na-Pasen.aspx",
     "intro": "De Amerikaanse president Donald Trump heeft de deadline voor Iran om de Straat van Hormuz weer open te stellen verlengd tot 6 april. Dit bleek donderdagavond uit een bericht op Truth Social.",
     "published_at": "2026-03-26 21:36",
-    "scraped_at": "2026-03-26T20:56:29.872868"
+    "scraped_at": "2026-03-26T21:36:52.437165"
   },
   {
     "id": "cb38c4972e3b65ccb42c3eb31717331c",
@@ -15,7 +24,25 @@
     "link": "https://www.beurs.nl/Nieuws/858556/Galapagos-wil-Gino-Santini-als-bestuursvoorzitter.aspx",
     "intro": "De raad van bestuur van Galapagos wil Gino Santini benoemen als bestuursvoorzitter bij de aandeelhoudersvergadering op 28 april aanstaande. Dit meldde het Belgisch-Nederlandse biotechbedrijf donderdagavond.",
     "published_at": "2026-03-26 21:24",
-    "scraped_at": "2026-03-26T20:56:29.872868"
+    "scraped_at": "2026-03-26T21:36:52.437165"
+  },
+  {
+    "id": "b9f4a9139e6776d93e578427b6a4607d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/858555/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag alle acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-03-26 21:17",
+    "scraped_at": "2026-03-26T21:36:52.437165"
+  },
+  {
+    "id": "b9b02654f41d2aaccf3062e536aee763",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit lager met correctie voor Nasdaq",
+    "link": "https://www.beurs.nl/Nieuws/858552/Wall-Street-sluit-lager-met-correctie-voor-Nasdaq.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag flink lager geëindigd, te midden van de aanhoudende onzekerheid over een oplossing voor de oorlog in het Midden-Oosten.",
+    "published_at": "2026-03-26 21:12",
+    "scraped_at": "2026-03-26T21:36:52.437165"
   },
   {
     "id": "f453a9adab0c2cc86d410f5f95a44270",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858543/Oliemarkten-twijfelen-of-einde-oorlog-in-zicht-is.aspx",
     "intro": "De olieprijzen zijn donderdag weer flink gestegen. Een vat West Texas Intermediate kostte bij de settlement 94,48 dollar en werd daarmee 4,6 procent duurder dan woensdag. De prijs voor een vat Brent steeg zelfs 5,7 procent, waardoor de slotkoers donderdag uitkwam op 108,01 dollar.",
     "published_at": "2026-03-26 20:09",
-    "scraped_at": "2026-03-26T20:56:29.872868"
+    "scraped_at": "2026-03-26T21:36:52.437165"
   },
   {
     "id": "bc3aa7dfe258ba5a392c2407962d371b",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858542/Tech-hard-onderuit-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag flink lager met nog iets meer dan een uur handel te gaan.",
     "published_at": "2026-03-26 19:52",
-    "scraped_at": "2026-03-26T20:56:29.872868"
+    "scraped_at": "2026-03-26T21:36:52.437165"
   },
   {
     "id": "862016e133edcfae82491ec7d321edd1",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858538/Ebusco-trekt-voordracht-nieuwe-commissaris-in.aspx",
     "intro": "Ebusco heeft voor de buitengewone aandeelhoudersvergadering vrijdag de voordracht van Hou Fei als operationeel directeur geagendeerd, maar trok die voor een nieuwe commissaris in aanloop naar de bijeenkomst in. Dit meldde de fabrikant uit Deurne donderdagavond.",
     "published_at": "2026-03-26 19:23",
-    "scraped_at": "2026-03-26T20:56:29.872868"
+    "scraped_at": "2026-03-26T21:36:52.437165"
   },
   {
     "id": "2c67db9c2e262b4f23309d4c9f976dbf",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858537/Media-Pernod-Ricard-overweegt-bod-op-Jack-Daniels-eigenaar.aspx",
     "intro": "Pernod Ricard onderzoekt een overname van het Amerikaanse Brown-Forman, de eigenaar van Jack Daniel’s-whisky. Dit meldde persbureau Bloomberg donderdag op basis van bronnen.",
     "published_at": "2026-03-26 19:09",
-    "scraped_at": "2026-03-26T20:56:29.872868"
+    "scraped_at": "2026-03-26T21:36:52.437165"
   },
   {
     "id": "2b28d85111b4f834cbe09376de85ef3e",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858531/Meer-handel-bij-Flow-Traders-door-oorlog-in-Midden-Oosten.aspx",
     "intro": "Flow Traders heeft in het bijna afgelopen eerste kwartaal van dit jaar hogere handelsvolumes en meer volatiliteit op de markten bemerkt, zowel op jaarbasis als op kwartaalbasis, vooral door het conflict in het Midden-Oosten. Dat meldde het handelshuis voorafgaand aan de radiostilte tot de kwartaalresultaten op 24 april.",
     "published_at": "2026-03-26 18:48",
-    "scraped_at": "2026-03-26T20:56:29.872868"
-  },
-  {
-    "id": "08cbcf6be0c59924701e510771f2bc47",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen toch weer onderuit",
-    "link": "https://www.beurs.nl/Nieuws/858530/Europese-beurzen-toch-weer-onderuit.aspx",
-    "intro": "De Europese aandelenmarkten zijn donderdag toch weer lager geëindigd, waardoor het herstel van de voorgaande dagen geen vervolg kreeg.",
-    "published_at": "2026-03-26 18:46",
-    "scraped_at": "2026-03-26T20:56:29.872868"
-  },
-  {
-    "id": "c4e9b95e1d4c2f4258725a9688859204",
-    "categorie": "Beursnieuws",
-    "titel": "Techsector duwt AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/858521/Techsector-duwt-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs is woensdag lager gesloten, met technologiebedrijven onder de sterkste verliezers, omdat er mogelijk minder geheugen nodig zou zijn voor AI-toepassingen.",
-    "published_at": "2026-03-26 17:56",
-    "scraped_at": "2026-03-26T20:56:29.872868"
-  },
-  {
-    "id": "ed6911a9227f3b3892118e70707ed10e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/858514/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 3 april 2026:",
-    "published_at": "2026-03-26 16:32",
-    "scraped_at": "2026-03-26T20:56:29.872868"
+    "scraped_at": "2026-03-26T21:36:52.437165"
   }
 ]
