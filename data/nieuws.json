@@ -1,12 +1,39 @@
 [
   {
+    "id": "862016e133edcfae82491ec7d321edd1",
+    "categorie": "Beursnieuws",
+    "titel": "Ebusco trekt voordracht nieuwe commissaris in",
+    "link": "https://www.beurs.nl/Nieuws/858538/Ebusco-trekt-voordracht-nieuwe-commissaris-in.aspx",
+    "intro": "Ebusco heeft voor de buitengewone aandeelhoudersvergadering vrijdag de voordracht van Hou Fei als operationeel directeur geagendeerd, maar trok die voor een nieuwe commissaris in aanloop naar de bijeenkomst in. Dit meldde de fabrikant uit Deurne donderdagavond.",
+    "published_at": "2026-03-26 19:23",
+    "scraped_at": "2026-03-26T18:45:36.718885"
+  },
+  {
+    "id": "2c67db9c2e262b4f23309d4c9f976dbf",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Pernod Ricard overweegt bod op Jack Daniel’s-eigenaar",
+    "link": "https://www.beurs.nl/Nieuws/858537/Media-Pernod-Ricard-overweegt-bod-op-Jack-Daniels-eigenaar.aspx",
+    "intro": "Pernod Ricard onderzoekt een overname van het Amerikaanse Brown-Forman, de eigenaar van Jack Daniel’s-whisky. Dit meldde persbureau Bloomberg donderdag op basis van bronnen.",
+    "published_at": "2026-03-26 19:09",
+    "scraped_at": "2026-03-26T18:45:36.718885"
+  },
+  {
+    "id": "2b28d85111b4f834cbe09376de85ef3e",
+    "categorie": "Beursnieuws",
+    "titel": "Meer handel bij Flow Traders door oorlog in Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/858531/Meer-handel-bij-Flow-Traders-door-oorlog-in-Midden-Oosten.aspx",
+    "intro": "Flow Traders heeft in het bijna afgelopen eerste kwartaal van dit jaar hogere handelsvolumes en meer volatiliteit op de markten bemerkt, zowel op jaarbasis als op kwartaalbasis, vooral door het conflict in het Midden-Oosten. Dat meldde het handelshuis voorafgaand aan de radiostilte tot de kwartaalresultaten op 24 april.",
+    "published_at": "2026-03-26 18:48",
+    "scraped_at": "2026-03-26T18:45:36.718885"
+  },
+  {
     "id": "08cbcf6be0c59924701e510771f2bc47",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen toch weer onderuit",
     "link": "https://www.beurs.nl/Nieuws/858530/Europese-beurzen-toch-weer-onderuit.aspx",
     "intro": "De Europese aandelenmarkten zijn donderdag toch weer lager geëindigd, waardoor het herstel van de voorgaande dagen geen vervolg kreeg.",
     "published_at": "2026-03-26 18:46",
-    "scraped_at": "2026-03-26T17:49:35.865996"
+    "scraped_at": "2026-03-26T18:45:36.718885"
   },
   {
     "id": "c4e9b95e1d4c2f4258725a9688859204",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858521/Techsector-duwt-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is woensdag lager gesloten, met technologiebedrijven onder de sterkste verliezers, omdat er mogelijk minder geheugen nodig zou zijn voor AI-toepassingen.",
     "published_at": "2026-03-26 17:56",
-    "scraped_at": "2026-03-26T17:49:35.865996"
+    "scraped_at": "2026-03-26T18:45:36.718885"
   },
   {
     "id": "ed6911a9227f3b3892118e70707ed10e",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858514/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 3 april 2026:",
     "published_at": "2026-03-26 16:32",
-    "scraped_at": "2026-03-26T17:49:35.865996"
+    "scraped_at": "2026-03-26T18:45:36.718885"
   },
   {
     "id": "ce0197a4170194b8a22e4752e67b6a2f",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858515/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 3 april 2026:",
     "published_at": "2026-03-26 16:32",
-    "scraped_at": "2026-03-26T17:49:35.865996"
+    "scraped_at": "2026-03-26T18:45:36.718885"
   },
   {
     "id": "ec327746fb3b73f083dd8d5c939be319",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858516/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 3 april 2026:",
     "published_at": "2026-03-26 16:32",
-    "scraped_at": "2026-03-26T17:49:35.865996"
+    "scraped_at": "2026-03-26T18:45:36.718885"
   },
   {
     "id": "9ff9f3e84f9872a771e1756c885964f0",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858508/Chipaandelen-onderuit-door-zorgen-over-nieuwe-AI-technologie-Google.aspx",
     "intro": "Aandelen van halfgeleiderbedrijven als Micron Technology en Sandisk, maar ook SK Hynix, staan onder druk, nadat Google eerder deze week een technologie onthulde waarmee de benodigde hoeveelheid geheugen in AI-modellen kan worden verminderd.",
     "published_at": "2026-03-26 15:40",
-    "scraped_at": "2026-03-26T17:49:35.865996"
+    "scraped_at": "2026-03-26T18:45:36.718885"
   },
   {
     "id": "266c3a8189027b21e8220d7afc4eecf6",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858507/Video-Hoge-olieprijzen-stuwen-koersen-hernieuwbare-energie.aspx",
     "intro": "Hoge olieprijzen betekenen niet per se ook hogere winsten voor oliebedrijven. Beleggers kunnen beter kijken naar de sector hernieuwbare energie. Dit zei beleggingsstrateeg Vincent Juvyns van ING Investment Office voor de camera van ABM Financial News in Brussel.",
     "published_at": "2026-03-26 15:02",
-    "scraped_at": "2026-03-26T17:49:35.865996"
-  },
-  {
-    "id": "914f854e1ea8c9b2fcd95382b2599f3e",
-    "categorie": "Beursnieuws",
-    "titel": "FDA geeft groen licht aan AI-software Philips voor repareren hartklep",
-    "link": "https://www.beurs.nl/Nieuws/858506/FDA-geeft-groen-licht-aan-AI-software-Philips-voor-repareren-hartklep.aspx",
-    "intro": "De Amerikaanse toezichthouder FDA heeft goedkeuring gegeven aan Philips voor zijn EchoNavigator R5.0, een softwareprogramma dat kunstmatige intelligentie  gebruikt om artsen te steunen bij de reparatie van lekkende hartkleppen. Dit maakte het bedrijf donderdagmiddag bekend.",
-    "published_at": "2026-03-26 14:41",
-    "scraped_at": "2026-03-26T17:49:35.865996"
-  },
-  {
-    "id": "c58661bac2f8151d418581bb9103cff8",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/858496/Wall-Street-wacht-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening tot 0,9 procent in het rood.",
-    "published_at": "2026-03-26 13:55",
-    "scraped_at": "2026-03-26T17:49:35.865996"
-  },
-  {
-    "id": "0714896bb9d494c51000337505e94d1b",
-    "categorie": "Beursnieuws",
-    "titel": "Meer nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/858490/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-03-26 13:35",
-    "scraped_at": "2026-03-26T17:49:35.865996"
+    "scraped_at": "2026-03-26T18:45:36.718885"
   }
 ]
