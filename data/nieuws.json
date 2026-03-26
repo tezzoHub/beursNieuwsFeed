@@ -1,12 +1,57 @@
 [
   {
+    "id": "81864778e88484f5fcc9836fceb59753",
+    "categorie": "Beursnieuws",
+    "titel": "Minder omzet maar meer winst voor H&M",
+    "link": "https://www.beurs.nl/Nieuws/858464/Minder-omzet-maar-meer-winst-voor-HM.aspx",
+    "intro": "HM heeft de omzet in het vorige kwartaal onder druk zien staan, maar wist dankzij een goede focus op de kosten de winst wel te verhogen. Dit bleek donderdag uit cijfers van de Zweedse modeketen.",
+    "published_at": "2026-03-26 10:35",
+    "scraped_at": "2026-03-26T09:46:21.301748"
+  },
+  {
+    "id": "3d912f97e964070b02c8ab6a1ae03196",
+    "categorie": "Beursnieuws",
+    "titel": "Norges Bank handhaaft rente",
+    "link": "https://www.beurs.nl/Nieuws/858462/Norges-Bank-handhaaft-rente.aspx",
+    "intro": "Norges Bank heeft donderdag de rente onveranderd gelaten, maar hintte op een verhoging in de komende maanden. Dit bleek uit het rentebesluit van de Noorse centrale bank.",
+    "published_at": "2026-03-26 10:14",
+    "scraped_at": "2026-03-26T09:46:21.301748"
+  },
+  {
+    "id": "cfcc4bdb2524539da9df1dc454934e26",
+    "categorie": "Redactioneel",
+    "titel": "Stem op uw favoriete AEX-aandeel voor april",
+    "link": "https://www.belegger.nl/artikel/858353/Stem-op-uw-favoriete-AEX-aandeel-voor-april.aspx",
+    "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van april? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
+    "published_at": "2026-03-26 10:00",
+    "scraped_at": "2026-03-26T09:46:21.301748"
+  },
+  {
+    "id": "f9e1a5c198188403faebf175ccdade3b",
+    "categorie": "Must read",
+    "titel": "Must read: Balanceren tussen geopolitieke hoop en vrees",
+    "link": "https://www.iex.nl/artikel/858309/Must-read-Balanceren-tussen-geopolitieke-hoop-en-vrees.aspx",
+    "intro": "Plus: oorlog tegen Iran levert de nodige economische schade op, polarisatie bedreigt duurzame vooruitgang, positieve impact maken met private equity en meer.",
+    "published_at": "2026-03-26 09:45",
+    "scraped_at": "2026-03-26T09:46:21.301748"
+  },
+  {
+    "id": "cbf684161611a2a9fed169485f527fea",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Goldman Sachs verlaagt koersdoel Randstad",
+    "link": "https://www.beurs.nl/Nieuws/858452/Beursblik-Goldman-Sachs-verlaagt-koersdoel-Randstad.aspx",
+    "intro": "Goldman Sachs heeft donderdag het koersdoel voor Randstad verlaagd van 33,00 naar 28,50 euro, met handhaving van een Neutraal advies. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-03-26 09:34",
+    "scraped_at": "2026-03-26T09:46:21.301748"
+  },
+  {
     "id": "ac333ea902e3a3127f22b0c2640bebc7",
     "categorie": "Beursnieuws",
     "titel": "Vertrouwen Franse ondernemers stabiel",
     "link": "https://www.beurs.nl/Nieuws/858450/Vertrouwen-Franse-ondernemers-stabiel.aspx",
     "intro": "Het vertrouwen van Franse ondernemers in de economie is in maart stabiel gebleven. Dit bleek donderdag uit data van statistiekbureau Insee.",
     "published_at": "2026-03-26 09:29",
-    "scraped_at": "2026-03-26T08:35:18.276383"
+    "scraped_at": "2026-03-26T09:46:21.301748"
   },
   {
     "id": "4524b79d3eeb5e8ff6cdb86cd6dc97d0",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858446/Media-ex-topman-Goldman-Sachs-waarschuwt-voor-private-creditmarkt.aspx",
     "intro": "Lloyd Blankfein, voormalig CEO van Goldman Sachs, heeft donderdag in een interview met Bloomberg gewaarschuwd voor de grote risico’s die volgens hem verbonden zijn aan de markt voor private kredieten.",
     "published_at": "2026-03-26 09:21",
-    "scraped_at": "2026-03-26T08:35:18.276383"
+    "scraped_at": "2026-03-26T09:46:21.301748"
   },
   {
     "id": "d36419cccf04c855377fcf9a0678ef2e",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858444/AEX-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong 0,5 procent lager op 978,29 punten, terwijl de Midkap 0,7 procent verloor.",
     "published_at": "2026-03-26 09:15",
-    "scraped_at": "2026-03-26T08:35:18.276383"
+    "scraped_at": "2026-03-26T09:46:21.301748"
   },
   {
     "id": "fda74da9c0ed87338560d851c1bd6c31",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858440/Beursblik-CSG-boekt-solide-resultaten.aspx",
     "intro": "CSG heeft solide resultaten laten zien over 2025. Dit stelden analisten van Jefferies donderdag in een rapport.",
     "published_at": "2026-03-26 08:49",
-    "scraped_at": "2026-03-26T08:35:18.276383"
+    "scraped_at": "2026-03-26T09:46:21.301748"
   },
   {
     "id": "942de23f4458eaf577f240b6199f3830",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858439/Duitse-consumentenvertrouwen-loopt-terug.aspx",
     "intro": "Het consumentenvertrouwen in Duitsland is gedaald door de oorlog in Iran. Dit bleek donderdag uit nieuwe metingen van onderzoeksbureau GfK, dat een maand vooruit meet.",
     "published_at": "2026-03-26 08:43",
-    "scraped_at": "2026-03-26T08:35:18.276383"
-  },
-  {
-    "id": "3871e275d7b40bda358f221c088c4285",
-    "categorie": "Beursnieuws",
-    "titel": "FIL Limited kleiner in Besi",
-    "link": "https://www.beurs.nl/Nieuws/858437/FIL-Limited-kleiner-in-Besi.aspx",
-    "intro": "FIL Limited heeft een kleiner belang in BE Semiconductor Industries gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 24 maart.",
-    "published_at": "2026-03-26 08:30",
-    "scraped_at": "2026-03-26T08:35:18.276383"
-  },
-  {
-    "id": "a72fa331e32f2f855d90507574b2d0ed",
-    "categorie": "Beursnieuws",
-    "titel": "AEX maakt zich op voor terughoudende opening",
-    "link": "https://www.beurs.nl/Nieuws/858434/AEX-maakt-zich-op-voor-terughoudende-opening.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,2 procent.",
-    "published_at": "2026-03-26 08:13",
-    "scraped_at": "2026-03-26T08:35:18.276383"
-  },
-  {
-    "id": "4d8b508b197e35e801afa5c24e755b9c",
-    "categorie": "Beursnieuws",
-    "titel": "Banijay verwacht sterke groei in komende jaren",
-    "link": "https://www.beurs.nl/Nieuws/858433/Banijay-verwacht-sterke-groei-in-komende-jaren.aspx",
-    "intro": "Banijay verwacht in de komende jaren tot en met 2029 een flinke groei te kunnen realiseren. Dit bleek donderdag uit een strategische update van het bedrijf in contentproductie met een online gokplatform voor sportwedstrijden.",
-    "published_at": "2026-03-26 08:11",
-    "scraped_at": "2026-03-26T08:35:18.276383"
-  },
-  {
-    "id": "e0aa650b13b893735afff5296c49277a",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet en winst voor CSG",
-    "link": "https://www.beurs.nl/Nieuws/858428/Meer-omzet-en-winst-voor-CSG.aspx",
-    "intro": "CSG heeft in 2025 de resultaten sterk zien stijgen en herhaalde de outlook voor dit jaar. Dit bleek donderdag voorbeurs uit de cijfers van Czechoslovak Group, een fabrikant van gepantserde voertuigen en munitie.",
-    "published_at": "2026-03-26 07:52",
-    "scraped_at": "2026-03-26T08:35:18.276383"
-  },
-  {
-    "id": "d72f86e613958697862ac086b4030b4b",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen onder druk",
-    "link": "https://www.beurs.nl/Nieuws/858423/Aziatische-beurzen-onder-druk.aspx",
-    "intro": "De Aziatische beurzen koersten donderdag lager, terwijl de olieprijzen in de lift zaten.",
-    "published_at": "2026-03-26 07:26",
-    "scraped_at": "2026-03-26T08:35:18.276383"
+    "scraped_at": "2026-03-26T09:46:21.301748"
   }
 ]
