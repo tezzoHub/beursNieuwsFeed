@@ -1,12 +1,39 @@
 [
   {
+    "id": "5880e63d93434a81d288511bd5c21d8f",
+    "categorie": "Beursnieuws",
+    "titel": "Kwartaalverlies voor Meituan",
+    "link": "https://www.beurs.nl/Nieuws/858473/Kwartaalverlies-voor-Meituan.aspx",
+    "intro": "Meituan heeft in het laatste kwartaal van 2025 verlies geleden, doordat de maaltijdbezorger last bleef ondervinden van de prijzenoorlog in China. Dit bleek uit cijfers donderdag.",
+    "published_at": "2026-03-26 11:24",
+    "scraped_at": "2026-03-26T10:38:57.173893"
+  },
+  {
+    "id": "11831d66e822c0e6a1cb37191c3b4ad3",
+    "categorie": "Beursnieuws",
+    "titel": "ASML en ASMI onder druk in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/858466/ASML-en-ASMI-onder-druk-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdag lager, met verliezen voor ASML en ASMI. Rond de klok van elf uur daalde de AEX met 1,3 procent tot 970,67 punten.",
+    "published_at": "2026-03-26 10:52",
+    "scraped_at": "2026-03-26T10:38:57.173893"
+  },
+  {
+    "id": "aa1be1618d0733bdacda4f92db309d87",
+    "categorie": "Beursnieuws",
+    "titel": "OCI draagt Texaanse fabriek over aan Woodside",
+    "link": "https://www.beurs.nl/Nieuws/858465/OCI-draagt-Texaanse-fabriek-over-aan-Woodside.aspx",
+    "intro": "OCI heeft na succesvolle testen Beaumont New Ammonia overgedragen aan Woodside. Dit meldde OCI in een persbericht.",
+    "published_at": "2026-03-26 10:50",
+    "scraped_at": "2026-03-26T10:38:57.173893"
+  },
+  {
     "id": "81864778e88484f5fcc9836fceb59753",
     "categorie": "Beursnieuws",
     "titel": "Minder omzet maar meer winst voor H&M",
     "link": "https://www.beurs.nl/Nieuws/858464/Minder-omzet-maar-meer-winst-voor-HM.aspx",
     "intro": "HM heeft de omzet in het vorige kwartaal onder druk zien staan, maar wist dankzij een goede focus op de kosten de winst wel te verhogen. Dit bleek donderdag uit cijfers van de Zweedse modeketen.",
     "published_at": "2026-03-26 10:35",
-    "scraped_at": "2026-03-26T09:46:21.301748"
+    "scraped_at": "2026-03-26T10:38:57.173893"
   },
   {
     "id": "3d912f97e964070b02c8ab6a1ae03196",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858462/Norges-Bank-handhaaft-rente.aspx",
     "intro": "Norges Bank heeft donderdag de rente onveranderd gelaten, maar hintte op een verhoging in de komende maanden. Dit bleek uit het rentebesluit van de Noorse centrale bank.",
     "published_at": "2026-03-26 10:14",
-    "scraped_at": "2026-03-26T09:46:21.301748"
+    "scraped_at": "2026-03-26T10:38:57.173893"
   },
   {
     "id": "cfcc4bdb2524539da9df1dc454934e26",
@@ -24,7 +51,7 @@
     "link": "https://www.belegger.nl/artikel/858353/Stem-op-uw-favoriete-AEX-aandeel-voor-april.aspx",
     "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van april? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
     "published_at": "2026-03-26 10:00",
-    "scraped_at": "2026-03-26T09:46:21.301748"
+    "scraped_at": "2026-03-26T10:38:57.173893"
   },
   {
     "id": "f9e1a5c198188403faebf175ccdade3b",
@@ -33,16 +60,16 @@
     "link": "https://www.iex.nl/artikel/858309/Must-read-Balanceren-tussen-geopolitieke-hoop-en-vrees.aspx",
     "intro": "Plus: oorlog tegen Iran levert de nodige economische schade op, polarisatie bedreigt duurzame vooruitgang, positieve impact maken met private equity en meer.",
     "published_at": "2026-03-26 09:45",
-    "scraped_at": "2026-03-26T09:46:21.301748"
+    "scraped_at": "2026-03-26T10:38:57.173893"
   },
   {
-    "id": "cbf684161611a2a9fed169485f527fea",
+    "id": "5700aa97dd41d821812e6b440f9aa15f",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Goldman Sachs verlaagt koersdoel Randstad",
-    "link": "https://www.beurs.nl/Nieuws/858452/Beursblik-Goldman-Sachs-verlaagt-koersdoel-Randstad.aspx",
+    "titel": "Goldman Sachs verlaagt koersdoel Randstad",
+    "link": "https://www.beurs.nl/Nieuws/858452/Goldman-Sachs-verlaagt-koersdoel-Randstad.aspx",
     "intro": "Goldman Sachs heeft donderdag het koersdoel voor Randstad verlaagd van 33,00 naar 28,50 euro, met handhaving van een Neutraal advies. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
     "published_at": "2026-03-26 09:34",
-    "scraped_at": "2026-03-26T09:46:21.301748"
+    "scraped_at": "2026-03-26T10:38:57.173893"
   },
   {
     "id": "ac333ea902e3a3127f22b0c2640bebc7",
@@ -51,42 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/858450/Vertrouwen-Franse-ondernemers-stabiel.aspx",
     "intro": "Het vertrouwen van Franse ondernemers in de economie is in maart stabiel gebleven. Dit bleek donderdag uit data van statistiekbureau Insee.",
     "published_at": "2026-03-26 09:29",
-    "scraped_at": "2026-03-26T09:46:21.301748"
+    "scraped_at": "2026-03-26T10:38:57.173893"
   },
   {
-    "id": "4524b79d3eeb5e8ff6cdb86cd6dc97d0",
+    "id": "8ed0f6aa733f6adc1fb5697f61ab34e4",
     "categorie": "Beursnieuws",
-    "titel": "Media: ex-topman Goldman Sachs waarschuwt voor private creditmarkt",
-    "link": "https://www.beurs.nl/Nieuws/858446/Media-ex-topman-Goldman-Sachs-waarschuwt-voor-private-creditmarkt.aspx",
+    "titel": "Bloomberg: ex-topman Goldman Sachs waarschuwt voor private creditmarkt",
+    "link": "https://www.beurs.nl/Nieuws/858446/Bloomberg-ex-topman-Goldman-Sachs-waarschuwt-voor-private-creditmarkt.aspx",
     "intro": "Lloyd Blankfein, voormalig CEO van Goldman Sachs, heeft donderdag in een interview met Bloomberg gewaarschuwd voor de grote risico’s die volgens hem verbonden zijn aan de markt voor private kredieten.",
     "published_at": "2026-03-26 09:21",
-    "scraped_at": "2026-03-26T09:46:21.301748"
-  },
-  {
-    "id": "d36419cccf04c855377fcf9a0678ef2e",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/858444/AEX-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 0,5 procent lager op 978,29 punten, terwijl de Midkap 0,7 procent verloor.",
-    "published_at": "2026-03-26 09:15",
-    "scraped_at": "2026-03-26T09:46:21.301748"
-  },
-  {
-    "id": "fda74da9c0ed87338560d851c1bd6c31",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: CSG boekt solide resultaten",
-    "link": "https://www.beurs.nl/Nieuws/858440/Beursblik-CSG-boekt-solide-resultaten.aspx",
-    "intro": "CSG heeft solide resultaten laten zien over 2025. Dit stelden analisten van Jefferies donderdag in een rapport.",
-    "published_at": "2026-03-26 08:49",
-    "scraped_at": "2026-03-26T09:46:21.301748"
-  },
-  {
-    "id": "942de23f4458eaf577f240b6199f3830",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse consumentenvertrouwen loopt terug",
-    "link": "https://www.beurs.nl/Nieuws/858439/Duitse-consumentenvertrouwen-loopt-terug.aspx",
-    "intro": "Het consumentenvertrouwen in Duitsland is gedaald door de oorlog in Iran. Dit bleek donderdag uit nieuwe metingen van onderzoeksbureau GfK, dat een maand vooruit meet.",
-    "published_at": "2026-03-26 08:43",
-    "scraped_at": "2026-03-26T09:46:21.301748"
+    "scraped_at": "2026-03-26T10:38:57.173893"
   }
 ]
