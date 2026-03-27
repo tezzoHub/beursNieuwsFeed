@@ -1,12 +1,48 @@
 [
   {
+    "id": "12f54b18edf0cd11d33b6e38f2a6c337",
+    "categorie": "Beursnieuws",
+    "titel": "ABN AMRO start aandeleninkoop",
+    "link": "https://www.beurs.nl/Nieuws/858618/ABN-AMRO-start-aandeleninkoop.aspx",
+    "intro": "ABN AMRO is gestart met het inkopen van eigen aandelen voor een bedrag van 250 miljoen euro. Dit maakte de bank vrijdag voorbeurs bekend.",
+    "published_at": "2026-03-27 08:51",
+    "scraped_at": "2026-03-27T08:07:36.025603"
+  },
+  {
+    "id": "0f6931f5d996ab8b2c138364010ee10b",
+    "categorie": "Beursnieuws",
+    "titel": "Trian meldt belang in Magnum Ice",
+    "link": "https://www.beurs.nl/Nieuws/858615/Trian-meldt-belang-in-Magnum-Ice.aspx",
+    "intro": "Trian Fund Management heeft voor het eerst een belang in The Magnum Ice Cream Company gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 23 maart.",
+    "published_at": "2026-03-27 08:42",
+    "scraped_at": "2026-03-27T08:07:36.025603"
+  },
+  {
+    "id": "a6c3876d353e8b8805252c9967ceda6d",
+    "categorie": "Beursnieuws",
+    "titel": "Britse detailhandelsverkopen gedaald",
+    "link": "https://www.beurs.nl/Nieuws/858608/Britse-detailhandelsverkopen-gedaald.aspx",
+    "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in februari gedaald. Dit bleek vrijdag uit cijfers van het Britse bureau voor de statistiek.",
+    "published_at": "2026-03-27 08:11",
+    "scraped_at": "2026-03-27T08:07:36.025603"
+  },
+  {
+    "id": "7b0b9ecd57631930bdf4fdf989f12556",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent vermoedelijk lager en de Nasdaq officieel in correctiemodus",
+    "link": "https://www.iex.nl/artikel/858322/AEX-opent-vermoedelijk-lager-en-de-Nasdaq-officieel-in-correctiemodus.aspx",
+    "intro": "AEX volatielt deze week van 943 naar 985 punten, maar opent straks lager rond 968 punten. Nasdaq in correctie en ‘goed’ Iran-nieuws is er, maar aan de koersen is dat (nog) niet te zien.",
+    "published_at": "2026-03-27 08:10",
+    "scraped_at": "2026-03-27T08:07:36.025603"
+  },
+  {
     "id": "e50dfa7c9206cb38cdb30869a892d559",
     "categorie": "Beursnieuws",
     "titel": "AEX start handelsdag vermoedelijk terughoudend",
     "link": "https://www.beurs.nl/Nieuws/858607/AEX-start-handelsdag-vermoedelijk-terughoudend.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer neutrale opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,1 procent.",
     "published_at": "2026-03-27 08:06",
-    "scraped_at": "2026-03-27T07:11:53.208442"
+    "scraped_at": "2026-03-27T08:07:36.025603"
   },
   {
     "id": "7d48099323526ceabcbd897cb791e8de",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858600/Novartis-koopt-biotechbedrijf-Excellergy.aspx",
     "intro": "Novartis heeft een akkoord bereikt over de overname van Excellergy voor maximaal 2 miljard dollar. Dit maakte de Zwitserse farmaceut vrijdagochtend bekend.",
     "published_at": "2026-03-27 07:54",
-    "scraped_at": "2026-03-27T07:11:53.208442"
+    "scraped_at": "2026-03-27T08:07:36.025603"
   },
   {
     "id": "e27bccc37cf4190683cf524e3d07e959",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858598/Arcadis-nomineert-nieuwe-commissaris.aspx",
     "intro": "Arcadis heeft Carl Trowell voorgedragen als commissaris voor een periode van vier jaar. Dit maakte het ingenieurs- en adviesbureau vrijdag voorbeurs bekend.",
     "published_at": "2026-03-27 07:40",
-    "scraped_at": "2026-03-27T07:11:53.208442"
+    "scraped_at": "2026-03-27T08:07:36.025603"
   },
   {
     "id": "1c122772caec6f65d66550473abd4161",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858596/Aziatische-beurzen-noteren-verdeeld-met-Japanse-rente-op-recordniveau.aspx",
     "intro": "De Aziatische beurzen bleven vrijdagochtend overwegend dicht bij huis, terwijl de Japanse rentes scherp hoger noteerden.",
     "published_at": "2026-03-27 07:28",
-    "scraped_at": "2026-03-27T07:11:53.208442"
+    "scraped_at": "2026-03-27T08:07:36.025603"
   },
   {
     "id": "f0a8dff440b4cf8b2a4e64eb56a795f5",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858591/Pharming-ontvangt-positief-advies-voor-Joenja.aspx",
     "intro": "Pharming heeft van het Comité voor geneesmiddelen voor mensen van het Europees Geneesmiddelenbureau EMA een positief advies gekregen, waarin wordt aanbevolen een handelsvergunning te verlenen voor Joenja voor de behandeling van geactiveerd fosfoinositide 3-kinase delta-syndroom (APDS), een zeldzame primaire immuundeficiëntie bij volwassen en pediatrische patiënten van 12 jaar en ouder. Dit maakte Pharming vrijdagochtend bekend.",
     "published_at": "2026-03-27 07:16",
-    "scraped_at": "2026-03-27T07:11:53.208442"
+    "scraped_at": "2026-03-27T08:07:36.025603"
   },
   {
     "id": "5e1bfe2ce49a4e4e846d566833009e60",
@@ -51,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858589/Europese-beurzen-openen-hoger.aspx",
     "intro": "De Europese beurzen gaan vrijdag een groene opening tegemoet, na een lager slot op donderdag. De onzekerheid over de oorlog in het Midden-Oosten blijft nog altijd groot, met tegenstrijdige berichten over hoe het conflict beëindigd moet worden.",
     "published_at": "2026-03-27 07:09",
-    "scraped_at": "2026-03-27T07:11:53.208442"
-  },
-  {
-    "id": "aeb0e2375ebc4f91dc5fd2038c81c6be",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/858587/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 3 april 2026:",
-    "published_at": "2026-03-27 07:02",
-    "scraped_at": "2026-03-27T07:11:53.208442"
-  },
-  {
-    "id": "f46c17704b9359bc7a855b592b9f31f4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/858585/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 3 april 2026:",
-    "published_at": "2026-03-27 07:01",
-    "scraped_at": "2026-03-27T07:11:53.208442"
-  },
-  {
-    "id": "1060e913d94551527dfecfbe476ec7a5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/858586/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 3 april 2026:",
-    "published_at": "2026-03-27 07:01",
-    "scraped_at": "2026-03-27T07:11:53.208442"
+    "scraped_at": "2026-03-27T08:07:36.025603"
   }
 ]
