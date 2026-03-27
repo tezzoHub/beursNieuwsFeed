@@ -1,12 +1,39 @@
 [
   {
-    "id": "12f54b18edf0cd11d33b6e38f2a6c337",
+    "id": "0dbc540bba0cc9cbee885a2b60b4361f",
     "categorie": "Beursnieuws",
-    "titel": "ABN AMRO start aandeleninkoop",
-    "link": "https://www.beurs.nl/Nieuws/858618/ABN-AMRO-start-aandeleninkoop.aspx",
-    "intro": "ABN AMRO is gestart met het inkopen van eigen aandelen voor een bedrag van 250 miljoen euro. Dit maakte de bank vrijdag voorbeurs bekend.",
+    "titel": "Italiaanse waakhond doet onderzoek naar LVMH",
+    "link": "https://www.beurs.nl/Nieuws/858627/Italiaanse-waakhond-doet-onderzoek-naar-LVMH.aspx",
+    "intro": "De Italiaanse toezichthouder AGCM is onderzoeken gestart naar twee onderdelen van LVMH, vanwege mogelijke oneerlijke handelspraktijken. Dit maakte AGCM vrijdag bekend.",
+    "published_at": "2026-03-27 09:34",
+    "scraped_at": "2026-03-27T09:11:03.847455"
+  },
+  {
+    "id": "7ef0a8b1efbb5afb0ec53b634321c73d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Deutsche Bank positiever over Pernod Ricard",
+    "link": "https://www.beurs.nl/Nieuws/858626/Beursblik-Deutsche-Bank-positiever-over-Pernod-Ricard.aspx",
+    "intro": "Deutsche Bank heeft vrijdag het advies voor Pernod Ricard verhoogd van Verkopen naar Houden, maar het koersdoel ging wel omlaag, van 74,00 naar 65,00 euro. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-03-27 09:26",
+    "scraped_at": "2026-03-27T09:11:03.847455"
+  },
+  {
+    "id": "bf51d2df6b341c0dd8ef60876a406dec",
+    "categorie": "Beursnieuws",
+    "titel": "AEX neutraal van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/858622/AEX-neutraal-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong fractioneel in het rood op 969,59 punten, terwijl de Midkap 0,4 procent prijs moest geven.",
+    "published_at": "2026-03-27 09:10",
+    "scraped_at": "2026-03-27T09:11:03.847455"
+  },
+  {
+    "id": "bd35cc5c1ed644d0266824eae3ea09d3",
+    "categorie": "Beursnieuws",
+    "titel": "ABN Amro start aandeleninkoop",
+    "link": "https://www.beurs.nl/Nieuws/858618/ABN-Amro-start-aandeleninkoop.aspx",
+    "intro": "ABN Amro is gestart met het inkopen van eigen aandelen voor een bedrag van 250 miljoen euro. Dit maakte de bank vrijdag voorbeurs bekend.",
     "published_at": "2026-03-27 08:51",
-    "scraped_at": "2026-03-27T08:07:36.025603"
+    "scraped_at": "2026-03-27T09:11:03.847455"
   },
   {
     "id": "0f6931f5d996ab8b2c138364010ee10b",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858615/Trian-meldt-belang-in-Magnum-Ice.aspx",
     "intro": "Trian Fund Management heeft voor het eerst een belang in The Magnum Ice Cream Company gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 23 maart.",
     "published_at": "2026-03-27 08:42",
-    "scraped_at": "2026-03-27T08:07:36.025603"
+    "scraped_at": "2026-03-27T09:11:03.847455"
   },
   {
     "id": "a6c3876d353e8b8805252c9967ceda6d",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858608/Britse-detailhandelsverkopen-gedaald.aspx",
     "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in februari gedaald. Dit bleek vrijdag uit cijfers van het Britse bureau voor de statistiek.",
     "published_at": "2026-03-27 08:11",
-    "scraped_at": "2026-03-27T08:07:36.025603"
+    "scraped_at": "2026-03-27T09:11:03.847455"
   },
   {
     "id": "7b0b9ecd57631930bdf4fdf989f12556",
@@ -33,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/858322/AEX-opent-vermoedelijk-lager-en-de-Nasdaq-officieel-in-correctiemodus.aspx",
     "intro": "AEX volatielt deze week van 943 naar 985 punten, maar opent straks lager rond 968 punten. Nasdaq in correctie en ‘goed’ Iran-nieuws is er, maar aan de koersen is dat (nog) niet te zien.",
     "published_at": "2026-03-27 08:10",
-    "scraped_at": "2026-03-27T08:07:36.025603"
+    "scraped_at": "2026-03-27T09:11:03.847455"
   },
   {
     "id": "e50dfa7c9206cb38cdb30869a892d559",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858607/AEX-start-handelsdag-vermoedelijk-terughoudend.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer neutrale opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,1 procent.",
     "published_at": "2026-03-27 08:06",
-    "scraped_at": "2026-03-27T08:07:36.025603"
+    "scraped_at": "2026-03-27T09:11:03.847455"
   },
   {
     "id": "7d48099323526ceabcbd897cb791e8de",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858600/Novartis-koopt-biotechbedrijf-Excellergy.aspx",
     "intro": "Novartis heeft een akkoord bereikt over de overname van Excellergy voor maximaal 2 miljard dollar. Dit maakte de Zwitserse farmaceut vrijdagochtend bekend.",
     "published_at": "2026-03-27 07:54",
-    "scraped_at": "2026-03-27T08:07:36.025603"
+    "scraped_at": "2026-03-27T09:11:03.847455"
   },
   {
     "id": "e27bccc37cf4190683cf524e3d07e959",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858598/Arcadis-nomineert-nieuwe-commissaris.aspx",
     "intro": "Arcadis heeft Carl Trowell voorgedragen als commissaris voor een periode van vier jaar. Dit maakte het ingenieurs- en adviesbureau vrijdag voorbeurs bekend.",
     "published_at": "2026-03-27 07:40",
-    "scraped_at": "2026-03-27T08:07:36.025603"
-  },
-  {
-    "id": "1c122772caec6f65d66550473abd4161",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren verdeeld met Japanse rente op recordniveau",
-    "link": "https://www.beurs.nl/Nieuws/858596/Aziatische-beurzen-noteren-verdeeld-met-Japanse-rente-op-recordniveau.aspx",
-    "intro": "De Aziatische beurzen bleven vrijdagochtend overwegend dicht bij huis, terwijl de Japanse rentes scherp hoger noteerden.",
-    "published_at": "2026-03-27 07:28",
-    "scraped_at": "2026-03-27T08:07:36.025603"
-  },
-  {
-    "id": "f0a8dff440b4cf8b2a4e64eb56a795f5",
-    "categorie": "Beursnieuws",
-    "titel": "Pharming ontvangt positief advies voor Joenja",
-    "link": "https://www.beurs.nl/Nieuws/858591/Pharming-ontvangt-positief-advies-voor-Joenja.aspx",
-    "intro": "Pharming heeft van het Comité voor geneesmiddelen voor mensen van het Europees Geneesmiddelenbureau EMA een positief advies gekregen, waarin wordt aanbevolen een handelsvergunning te verlenen voor Joenja voor de behandeling van geactiveerd fosfoinositide 3-kinase delta-syndroom (APDS), een zeldzame primaire immuundeficiëntie bij volwassen en pediatrische patiënten van 12 jaar en ouder. Dit maakte Pharming vrijdagochtend bekend.",
-    "published_at": "2026-03-27 07:16",
-    "scraped_at": "2026-03-27T08:07:36.025603"
-  },
-  {
-    "id": "5e1bfe2ce49a4e4e846d566833009e60",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen hoger",
-    "link": "https://www.beurs.nl/Nieuws/858589/Europese-beurzen-openen-hoger.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een groene opening tegemoet, na een lager slot op donderdag. De onzekerheid over de oorlog in het Midden-Oosten blijft nog altijd groot, met tegenstrijdige berichten over hoe het conflict beëindigd moet worden.",
-    "published_at": "2026-03-27 07:09",
-    "scraped_at": "2026-03-27T08:07:36.025603"
+    "scraped_at": "2026-03-27T09:11:03.847455"
   }
 ]
