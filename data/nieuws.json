@@ -1,12 +1,30 @@
 [
   {
+    "id": "47b8c493d71dfaa6d1aaaba995dae3b7",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street kleurt steeds dieper rood",
+    "link": "https://www.beurs.nl/Nieuws/858703/Wall-Street-kleurt-steeds-dieper-rood.aspx",
+    "intro": "De Amerikaanse beurzen daalden vrijdag opnieuw, nadat incidenten in de Straat van Hormuz de zorgen van beleggers over de energievoorziening verergerden en de laatste opmerkingen van president Donald Trump beleggers er niet toe aanzetten om risico te nemen.",
+    "published_at": "2026-03-27 19:24",
+    "scraped_at": "2026-03-27T18:37:37.613584"
+  },
+  {
+    "id": "bb54d4762533c8816238196a373b155e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten beweeglijke week lager af",
+    "link": "https://www.beurs.nl/Nieuws/858697/Europese-beurzen-sluiten-beweeglijke-week-lager-af.aspx",
+    "intro": "De Europese beurzen zijn vrijdag lager gesloten nadat tegenstrijdige signalen over het conflict in het Midden-Oosten het sentiment richting het weekend onder druk zetten.",
+    "published_at": "2026-03-27 18:39",
+    "scraped_at": "2026-03-27T18:37:37.613584"
+  },
+  {
     "id": "49de3efd4a2c10815a2ebdce8054e522",
     "categorie": "Beursnieuws",
     "titel": "Meer winst voor HAL dankzij SBM Offshore en Boskalis",
     "link": "https://www.beurs.nl/Nieuws/858690/Meer-winst-voor-HAL-dankzij-SBM-Offshore-en-Boskalis.aspx",
     "intro": "HAL heeft in 2025 een hogere winst geboekt, gedreven door onder meer koerswinsten SBM Offshore en Boskalis. Dit bleek vrijdagavond uit de cijfers van de beursgenoteerde holding, waarin ook het dividend werd verhoogd.",
     "published_at": "2026-03-27 18:06",
-    "scraped_at": "2026-03-27T17:38:43.685756"
+    "scraped_at": "2026-03-27T18:37:37.613584"
   },
   {
     "id": "17c0d46fb842aed743e5395cd5efb194",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858689/Nauwelijks-stijgers-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs is vrijdag lager geëindigd, terwijl tegenstrijdige signalen over het conflict in het Midden-Oosten de onzekerheid verder aanwakkerden.",
     "published_at": "2026-03-27 17:53",
-    "scraped_at": "2026-03-27T17:38:43.685756"
+    "scraped_at": "2026-03-27T18:37:37.613584"
   },
   {
     "id": "b14cf950211bd37b087debde0a697161",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858686/Video-software-aandelen-bieden-kansen-bij-stagflatie.aspx",
     "intro": "\"De financiële markten zijn volop in stagflatie-modus\". Dit zei beleggingsstrateeg Vincent Juvyns van ING Investment Office, en dat betekent dat beleggers \"hopeloos\" zoeken naar bescherming.",
     "published_at": "2026-03-27 16:51",
-    "scraped_at": "2026-03-27T17:38:43.685756"
+    "scraped_at": "2026-03-27T18:37:37.613584"
   },
   {
     "id": "2e425b111dce0e9b9178a115ba03aa9c",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858682/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 6 april 2026:",
     "published_at": "2026-03-27 16:29",
-    "scraped_at": "2026-03-27T17:38:43.685756"
+    "scraped_at": "2026-03-27T18:37:37.613584"
   },
   {
     "id": "62e39ef1196e6ab0cee3ecf87ae64b0e",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858680/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 april 2026:",
     "published_at": "2026-03-27 16:28",
-    "scraped_at": "2026-03-27T17:38:43.685756"
+    "scraped_at": "2026-03-27T18:37:37.613584"
   },
   {
     "id": "172efd679560356e24fb32756a418a17",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858681/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 6 april 2026:",
     "published_at": "2026-03-27 16:28",
-    "scraped_at": "2026-03-27T17:38:43.685756"
+    "scraped_at": "2026-03-27T18:37:37.613584"
   },
   {
     "id": "278680d07acef9a216320492d3ad8697",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858678/Jaarvergadering-Randstad-neemt-alle-voorstellen-aan.aspx",
     "intro": "De aandeelhoudersvergadering van Randstad heeft vrijdag ingestemd met alle voorstellen. Dit maakte het uitzendconcern vanmiddag na afloop van de bijeenkomst bekend.",
     "published_at": "2026-03-27 16:21",
-    "scraped_at": "2026-03-27T17:38:43.685756"
+    "scraped_at": "2026-03-27T18:37:37.613584"
   },
   {
     "id": "d140f693c98d726f80c98bee86188361",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858674/Prosus-overweegt-verkoop-belang-in-Delivery-Hero.aspx",
     "intro": "Prosus overweegt om een belang van circa 10 procent te verkopen aan Aspex Management. Dit meldde persbureau Bloomberg vrijdag op basis van bronnen.",
     "published_at": "2026-03-27 15:35",
-    "scraped_at": "2026-03-27T17:38:43.685756"
-  },
-  {
-    "id": "7eb6a037552aa02356beaf9745ca97b5",
-    "categorie": "Beursnieuws",
-    "titel": "Video: koop Micron, SK Hynix, Samsung en TSMC bij koersdruk",
-    "link": "https://www.beurs.nl/Nieuws/858672/Video-koop-Micron-SK-Hynix-Samsung-en-TSMC-bij-koersdruk.aspx",
-    "intro": "Ondanks dat veel beleggers vanwege de hoge olieprijzen kijken naar energie-aandelen, meent Frank Vranken van Edmond de Rothschild dat fabrikanten van geheugenchips een mooie kans bieden.",
-    "published_at": "2026-03-27 15:20",
-    "scraped_at": "2026-03-27T17:38:43.685756"
-  },
-  {
-    "id": "e2699115f4f0c6ca2d504b00b9b5c673",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen VS daalt door oorlog",
-    "link": "https://www.beurs.nl/Nieuws/858670/Consumentenvertrouwen-VS-daalt-door-oorlog.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in maart harder gedaald dan aanvankelijk gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-03-27 15:09",
-    "scraped_at": "2026-03-27T17:38:43.685756"
+    "scraped_at": "2026-03-27T18:37:37.613584"
   }
 ]
