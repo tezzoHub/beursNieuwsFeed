@@ -1,12 +1,30 @@
 [
   {
+    "id": "85ae97d4127be683423953608c2e4725",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/858709/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag alle acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-03-27 21:20",
+    "scraped_at": "2026-03-27T21:01:19.754975"
+  },
+  {
+    "id": "66919fb4766d6f8958b8de1d348da473",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street flink lager het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/858708/Wall-Street-flink-lager-het-weekend-in.aspx",
+    "intro": "De Amerikaanse beurzen zijn vrijdag flink lager gesloten, nadat incidenten in de Straat van Hormuz de zorgen van beleggers over de energievoorziening verergerden en de laatste opmerkingen van president Donald Trump beleggers er niet toe aanzetten om risico te nemen.",
+    "published_at": "2026-03-27 21:12",
+    "scraped_at": "2026-03-27T21:01:19.754975"
+  },
+  {
     "id": "2ba6946a569ec684dc14e493af8890ae",
     "categorie": "Beursnieuws",
     "titel": "Carnival verlaagt winstvooruitzichten door hogere brandstofkosten",
     "link": "https://www.beurs.nl/Nieuws/858707/Carnival-verlaagt-winstvooruitzichten-door-hogere-brandstofkosten.aspx",
     "intro": "Carnival heeft zijn winstvooruitzichten voor het hele jaar naar beneden bijgesteld. De stijgende brandstofkosten als gevolg van de geopolitieke onrust in het Midden-Oosten wegen zwaarder dan de recordboekingen en de aanhoudend sterke vraag. Dit maakte het bedrijf vrijdag bekend.",
     "published_at": "2026-03-27 20:40",
-    "scraped_at": "2026-03-27T20:20:49.461025"
+    "scraped_at": "2026-03-27T21:01:19.754975"
   },
   {
     "id": "02998ff0b33f933e047892a5f59a5d3f",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858706/Olieprijzen-sluiten-week-flink-hoger-af.aspx",
     "intro": "De olieprijzen zijn vrijdag flink hoger gesloten nadat onder meer twee Chinese schepen de doorgang door de Straat van Hormuz werd geweigerd. Dit wijst erop dat Iran de scheepvaart op deze belangrijke zeeroute blijft blokkeren.",
     "published_at": "2026-03-27 20:12",
-    "scraped_at": "2026-03-27T20:20:49.461025"
+    "scraped_at": "2026-03-27T21:01:19.754975"
   },
   {
     "id": "47b8c493d71dfaa6d1aaaba995dae3b7",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858703/Wall-Street-kleurt-steeds-dieper-rood.aspx",
     "intro": "De Amerikaanse beurzen daalden vrijdag opnieuw, nadat incidenten in de Straat van Hormuz de zorgen van beleggers over de energievoorziening verergerden en de laatste opmerkingen van president Donald Trump beleggers er niet toe aanzetten om risico te nemen.",
     "published_at": "2026-03-27 19:24",
-    "scraped_at": "2026-03-27T20:20:49.461025"
+    "scraped_at": "2026-03-27T21:01:19.754975"
   },
   {
     "id": "bb54d4762533c8816238196a373b155e",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858697/Europese-beurzen-sluiten-beweeglijke-week-lager-af.aspx",
     "intro": "De Europese beurzen zijn vrijdag lager gesloten nadat tegenstrijdige signalen over het conflict in het Midden-Oosten het sentiment richting het weekend onder druk zetten.",
     "published_at": "2026-03-27 18:39",
-    "scraped_at": "2026-03-27T20:20:49.461025"
+    "scraped_at": "2026-03-27T21:01:19.754975"
   },
   {
     "id": "49de3efd4a2c10815a2ebdce8054e522",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858690/Meer-winst-voor-HAL-dankzij-SBM-Offshore-en-Boskalis.aspx",
     "intro": "HAL heeft in 2025 een hogere winst geboekt, gedreven door onder meer koerswinsten SBM Offshore en Boskalis. Dit bleek vrijdagavond uit de cijfers van de beursgenoteerde holding, waarin ook het dividend werd verhoogd.",
     "published_at": "2026-03-27 18:06",
-    "scraped_at": "2026-03-27T20:20:49.461025"
+    "scraped_at": "2026-03-27T21:01:19.754975"
   },
   {
     "id": "17c0d46fb842aed743e5395cd5efb194",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858689/Nauwelijks-stijgers-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs is vrijdag lager geëindigd, terwijl tegenstrijdige signalen over het conflict in het Midden-Oosten de onzekerheid verder aanwakkerden.",
     "published_at": "2026-03-27 17:53",
-    "scraped_at": "2026-03-27T20:20:49.461025"
+    "scraped_at": "2026-03-27T21:01:19.754975"
   },
   {
     "id": "b14cf950211bd37b087debde0a697161",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858686/Video-software-aandelen-bieden-kansen-bij-stagflatie.aspx",
     "intro": "\"De financiële markten zijn volop in stagflatie-modus\". Dit zei beleggingsstrateeg Vincent Juvyns van ING Investment Office, en dat betekent dat beleggers \"hopeloos\" zoeken naar bescherming.",
     "published_at": "2026-03-27 16:51",
-    "scraped_at": "2026-03-27T20:20:49.461025"
+    "scraped_at": "2026-03-27T21:01:19.754975"
   },
   {
     "id": "2e425b111dce0e9b9178a115ba03aa9c",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858682/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 6 april 2026:",
     "published_at": "2026-03-27 16:29",
-    "scraped_at": "2026-03-27T20:20:49.461025"
-  },
-  {
-    "id": "62e39ef1196e6ab0cee3ecf87ae64b0e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/858680/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 april 2026:",
-    "published_at": "2026-03-27 16:28",
-    "scraped_at": "2026-03-27T20:20:49.461025"
-  },
-  {
-    "id": "172efd679560356e24fb32756a418a17",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/858681/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 6 april 2026:",
-    "published_at": "2026-03-27 16:28",
-    "scraped_at": "2026-03-27T20:20:49.461025"
+    "scraped_at": "2026-03-27T21:01:19.754975"
   }
 ]
