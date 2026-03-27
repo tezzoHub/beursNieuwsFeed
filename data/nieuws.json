@@ -1,12 +1,21 @@
 [
   {
+    "id": "b14cf950211bd37b087debde0a697161",
+    "categorie": "Beursnieuws",
+    "titel": "Video: software-aandelen bieden kansen bij stagflatie",
+    "link": "https://www.beurs.nl/Nieuws/858686/Video-software-aandelen-bieden-kansen-bij-stagflatie.aspx",
+    "intro": "\"De financiële markten zijn volop in stagflatie-modus\". Dit zei beleggingsstrateeg Vincent Juvyns van ING Investment Office, en dat betekent dat beleggers \"hopeloos\" zoeken naar bescherming.",
+    "published_at": "2026-03-27 16:51",
+    "scraped_at": "2026-03-27T16:38:14.316165"
+  },
+  {
     "id": "2e425b111dce0e9b9178a115ba03aa9c",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/858682/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 6 april 2026:",
     "published_at": "2026-03-27 16:29",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   },
   {
     "id": "62e39ef1196e6ab0cee3ecf87ae64b0e",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/858680/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 april 2026:",
     "published_at": "2026-03-27 16:28",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   },
   {
     "id": "172efd679560356e24fb32756a418a17",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858681/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 6 april 2026:",
     "published_at": "2026-03-27 16:28",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   },
   {
     "id": "278680d07acef9a216320492d3ad8697",
@@ -33,16 +42,16 @@
     "link": "https://www.beurs.nl/Nieuws/858678/Jaarvergadering-Randstad-neemt-alle-voorstellen-aan.aspx",
     "intro": "De aandeelhoudersvergadering van Randstad heeft vrijdag ingestemd met alle voorstellen. Dit maakte het uitzendconcern vanmiddag na afloop van de bijeenkomst bekend.",
     "published_at": "2026-03-27 16:21",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   },
   {
-    "id": "858915cf1be405dbd5d70cb58381114e",
+    "id": "d140f693c98d726f80c98bee86188361",
     "categorie": "Beursnieuws",
-    "titel": "Media: Prosus overweegt verkoop belang in Delivery Hero",
-    "link": "https://www.beurs.nl/Nieuws/858674/Media-Prosus-overweegt-verkoop-belang-in-Delivery-Hero.aspx",
+    "titel": "'Prosus overweegt verkoop belang in Delivery Hero'",
+    "link": "https://www.beurs.nl/Nieuws/858674/Prosus-overweegt-verkoop-belang-in-Delivery-Hero.aspx",
     "intro": "Prosus overweegt om een belang van circa 10 procent te verkopen aan Aspex Management. Dit meldde persbureau Bloomberg vrijdag op basis van bronnen.",
     "published_at": "2026-03-27 15:35",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   },
   {
     "id": "7eb6a037552aa02356beaf9745ca97b5",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858672/Video-koop-Micron-SK-Hynix-Samsung-en-TSMC-bij-koersdruk.aspx",
     "intro": "Ondanks dat veel beleggers vanwege de hoge olieprijzen kijken naar energie-aandelen, meent Frank Vranken van Edmond de Rothschild dat fabrikanten van geheugenchips een mooie kans bieden.",
     "published_at": "2026-03-27 15:20",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   },
   {
     "id": "e2699115f4f0c6ca2d504b00b9b5c673",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858670/Consumentenvertrouwen-VS-daalt-door-oorlog.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in maart harder gedaald dan aanvankelijk gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
     "published_at": "2026-03-27 15:09",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   },
   {
     "id": "9cafb333cb631b0d9a268a5e65a2af63",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858661/Wall-Street-wacht-terughoudende-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet. Futures op de SP 500 voorspellen een openingsverlies van 0,5 procent.",
     "published_at": "2026-03-27 13:56",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   },
   {
     "id": "1c9768536547b62a487a35a07ee5a35c",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858658/Beursblik-Barclays-verlaagt-koersdoel-DSM-Firmenich.aspx",
     "intro": "Barclays heeft vrijdag het koersdoel voor DSM-Firmenich verlaagd van 78,00 naar 72,00 euro, met daarbij een ongewijzigd Gelijkgewogen advies. Dit bleek uit een sectorrapport van de Britse bank.",
     "published_at": "2026-03-27 13:00",
-    "scraped_at": "2026-03-27T15:37:42.565678"
-  },
-  {
-    "id": "2f1afb2cd2d8ebebb538898c426b2623",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays halveert koersdoel Randstad",
-    "link": "https://www.beurs.nl/Nieuws/858655/Barclays-halveert-koersdoel-Randstad.aspx",
-    "intro": "Barclays heeft vrijdag het koersdoel voor Randstad bijna gehalveerd en het aandeel op de verkooplijst gehandhaafd. Dit bleek uit een analistenrapport van de Britse bank in aanloop naar de cijfers over het eerste kwartaal.",
-    "published_at": "2026-03-27 12:31",
-    "scraped_at": "2026-03-27T15:37:42.565678"
+    "scraped_at": "2026-03-27T16:38:14.316165"
   }
 ]
