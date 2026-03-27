@@ -1,12 +1,57 @@
 [
   {
+    "id": "2e425b111dce0e9b9178a115ba03aa9c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/858682/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 6 april 2026:",
+    "published_at": "2026-03-27 16:29",
+    "scraped_at": "2026-03-27T15:37:42.565678"
+  },
+  {
+    "id": "62e39ef1196e6ab0cee3ecf87ae64b0e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/858680/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 april 2026:",
+    "published_at": "2026-03-27 16:28",
+    "scraped_at": "2026-03-27T15:37:42.565678"
+  },
+  {
+    "id": "172efd679560356e24fb32756a418a17",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/858681/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 6 april 2026:",
+    "published_at": "2026-03-27 16:28",
+    "scraped_at": "2026-03-27T15:37:42.565678"
+  },
+  {
+    "id": "278680d07acef9a216320492d3ad8697",
+    "categorie": "Beursnieuws",
+    "titel": "Jaarvergadering Randstad neemt alle voorstellen aan",
+    "link": "https://www.beurs.nl/Nieuws/858678/Jaarvergadering-Randstad-neemt-alle-voorstellen-aan.aspx",
+    "intro": "De aandeelhoudersvergadering van Randstad heeft vrijdag ingestemd met alle voorstellen. Dit maakte het uitzendconcern vanmiddag na afloop van de bijeenkomst bekend.",
+    "published_at": "2026-03-27 16:21",
+    "scraped_at": "2026-03-27T15:37:42.565678"
+  },
+  {
+    "id": "858915cf1be405dbd5d70cb58381114e",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Prosus overweegt verkoop belang in Delivery Hero",
+    "link": "https://www.beurs.nl/Nieuws/858674/Media-Prosus-overweegt-verkoop-belang-in-Delivery-Hero.aspx",
+    "intro": "Prosus overweegt om een belang van circa 10 procent te verkopen aan Aspex Management. Dit meldde persbureau Bloomberg vrijdag op basis van bronnen.",
+    "published_at": "2026-03-27 15:35",
+    "scraped_at": "2026-03-27T15:37:42.565678"
+  },
+  {
     "id": "7eb6a037552aa02356beaf9745ca97b5",
     "categorie": "Beursnieuws",
     "titel": "Video: koop Micron, SK Hynix, Samsung en TSMC bij koersdruk",
     "link": "https://www.beurs.nl/Nieuws/858672/Video-koop-Micron-SK-Hynix-Samsung-en-TSMC-bij-koersdruk.aspx",
     "intro": "Ondanks dat veel beleggers vanwege de hoge olieprijzen kijken naar energie-aandelen, meent Frank Vranken van Edmond de Rothschild dat fabrikanten van geheugenchips een mooie kans bieden.",
     "published_at": "2026-03-27 15:20",
-    "scraped_at": "2026-03-27T14:40:17.358451"
+    "scraped_at": "2026-03-27T15:37:42.565678"
   },
   {
     "id": "e2699115f4f0c6ca2d504b00b9b5c673",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858670/Consumentenvertrouwen-VS-daalt-door-oorlog.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in maart harder gedaald dan aanvankelijk gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
     "published_at": "2026-03-27 15:09",
-    "scraped_at": "2026-03-27T14:40:17.358451"
+    "scraped_at": "2026-03-27T15:37:42.565678"
   },
   {
     "id": "9cafb333cb631b0d9a268a5e65a2af63",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858661/Wall-Street-wacht-terughoudende-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet. Futures op de SP 500 voorspellen een openingsverlies van 0,5 procent.",
     "published_at": "2026-03-27 13:56",
-    "scraped_at": "2026-03-27T14:40:17.358451"
+    "scraped_at": "2026-03-27T15:37:42.565678"
   },
   {
     "id": "1c9768536547b62a487a35a07ee5a35c",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858658/Beursblik-Barclays-verlaagt-koersdoel-DSM-Firmenich.aspx",
     "intro": "Barclays heeft vrijdag het koersdoel voor DSM-Firmenich verlaagd van 78,00 naar 72,00 euro, met daarbij een ongewijzigd Gelijkgewogen advies. Dit bleek uit een sectorrapport van de Britse bank.",
     "published_at": "2026-03-27 13:00",
-    "scraped_at": "2026-03-27T14:40:17.358451"
+    "scraped_at": "2026-03-27T15:37:42.565678"
   },
   {
     "id": "2f1afb2cd2d8ebebb538898c426b2623",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858655/Barclays-halveert-koersdoel-Randstad.aspx",
     "intro": "Barclays heeft vrijdag het koersdoel voor Randstad bijna gehalveerd en het aandeel op de verkooplijst gehandhaafd. Dit bleek uit een analistenrapport van de Britse bank in aanloop naar de cijfers over het eerste kwartaal.",
     "published_at": "2026-03-27 12:31",
-    "scraped_at": "2026-03-27T14:40:17.358451"
-  },
-  {
-    "id": "27639cf5af797cf558d3e5196dfcaacf",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen verdere verliezen voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/858654/Futures-voorspellen-verdere-verliezen-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet. Futures op de SP 500 voorspellen een openingsverlies van 0,5 procent.",
-    "published_at": "2026-03-27 12:28",
-    "scraped_at": "2026-03-27T14:40:17.358451"
-  },
-  {
-    "id": "be38b0828aa309d9e62bd2ad1433f503",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen zakken verder weg",
-    "link": "https://www.beurs.nl/Nieuws/858653/Europese-beurzen-zakken-verder-weg.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond het middaguur opnieuw in het rood, waarmee er een terughoudend einde lijkt te komen aan een zeer beweeglijke week.",
-    "published_at": "2026-03-27 12:13",
-    "scraped_at": "2026-03-27T14:40:17.358451"
-  },
-  {
-    "id": "70b782e02ad66c4916a5f6bd3891e963",
-    "categorie": "Gouden Stier",
-    "titel": "Dit zijn de 13 winnaars van de IEX Gouden Stier Awards 2025",
-    "link": "https://www.iex.nl/artikel/858163/Dit-zijn-de-13-winnaars-van-de-IEX-Gouden-Stier-Awards-2025.aspx",
-    "intro": "De feestelijke uitreiking van de IEX Gouden Stier Awards 2025 zit er weer op. Welke partijen gingen gisteravond met het felbegeerde stierenbeeldje naar huis?",
-    "published_at": "2026-03-27 12:00",
-    "scraped_at": "2026-03-27T14:40:17.358451"
-  },
-  {
-    "id": "bcbb408089d72d5c1be3dc7abd9c39d6",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays haalt Corbion van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/858652/Barclays-haalt-Corbion-van-de-kooplijst.aspx",
-    "intro": "Barclays heeft vrijdag het koersdoel voor Corbion verlaagd van 22,00 naar 20,00 euro en verlaagde daarbij het advies van Overwogen naar Gelijkgewogen. Dit bleek vanochtend uit een rapport van de Britse bank.",
-    "published_at": "2026-03-27 11:55",
-    "scraped_at": "2026-03-27T14:40:17.358451"
-  },
-  {
-    "id": "a39a1531eabe92df166cbba9f70d7d53",
-    "categorie": "Must read",
-    "titel": "Must read: Is dit hét koopmoment voor goud?",
-    "link": "https://www.iex.nl/artikel/858511/Must-read-Is-dit-het-koopmoment-voor-goud.aspx",
-    "intro": "Na de flinke klappen voor goud zou dit weleens een goed instapmoment kunnen zijn. Plus: olieprijs naar $200, Iran moet voor bevrijding zorgen, nog meer TACO en meer.",
-    "published_at": "2026-03-27 10:50",
-    "scraped_at": "2026-03-27T14:40:17.358451"
+    "scraped_at": "2026-03-27T15:37:42.565678"
   }
 ]
