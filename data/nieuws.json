@@ -1,30 +1,57 @@
 [
   {
-    "id": "05482d1ddbf0002ae81582ad057daa30",
+    "id": "730f3574d60c8dac078d06a4558c6304",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: kleine winst voor AEX",
-    "link": "https://www.beurs.nl/Nieuws/858777/Beursupdate-kleine-winst-voor-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagochtend in het groen. De AEX steeg met 0,4 procent naar 964,16 punten.",
-    "published_at": "2026-03-30 10:34",
-    "scraped_at": "2026-03-30T08:52:36.910979"
+    "titel": "Rendement PostNL op postactiviteiten verslechterd",
+    "link": "https://www.beurs.nl/Nieuws/858797/Rendement-PostNL-op-postactiviteiten-verslechterd.aspx",
+    "intro": "PostNL heeft het rendement op de postactiviteiten verder zien verslechteren. Dit bleek maandag uit een persbericht van het postbedrijf.",
+    "published_at": "2026-03-30 11:54",
+    "scraped_at": "2026-03-30T10:18:47.776817"
   },
   {
-    "id": "d4dfbde7bf744ee37f22b55ec9869439",
+    "id": "134826eb548b637b545ed50ebaebba58",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: UBS verhoogt koersdoel DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/858775/Beursblik-UBS-verhoogt-koersdoel-DSM-Firmenich.aspx",
+    "titel": "Beursblik: Jefferies verlaagt koersdoel Magnum Ice",
+    "link": "https://www.beurs.nl/Nieuws/858795/Beursblik-Jefferies-verlaagt-koersdoel-Magnum-Ice.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Magnum Ice verlaagd van 13,60 naar 13,00 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist David Hayes.",
+    "published_at": "2026-03-30 11:40",
+    "scraped_at": "2026-03-30T10:18:47.776817"
+  },
+  {
+    "id": "06acdac47b927e5c6c53cb0967ab1379",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen eurozone sterk omlaag",
+    "link": "https://www.beurs.nl/Nieuws/858786/Consumentenvertrouwen-eurozone-sterk-omlaag.aspx",
+    "intro": "Het consumentenvertrouwen in de eurozone is in maart flink afgenomen. Dit bleek maandag uit definitieve cijfers van de Europese Commissie.",
+    "published_at": "2026-03-30 11:05",
+    "scraped_at": "2026-03-30T10:18:47.776817"
+  },
+  {
+    "id": "d8acbc81aba1440550f67da735c7de8f",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine winst voor AEX",
+    "link": "https://www.beurs.nl/Nieuws/858777/Kleine-winst-voor-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagochtend in het groen. De AEX steeg met 0,4 procent naar 964,16 punten.",
+    "published_at": "2026-03-30 10:34",
+    "scraped_at": "2026-03-30T10:18:47.776817"
+  },
+  {
+    "id": "3a1ab1c4920b5ba09f208946fb1fab8b",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel DSM-Firmenich",
+    "link": "https://www.beurs.nl/Nieuws/858775/UBS-verhoogt-koersdoel-DSM-Firmenich.aspx",
     "intro": "UBS heeft het koersdoel voor DSM-Firmenich verhoogd van 81,00 naar 85,00 euro en handhaafde het koopadvies. Dit bleek maandag uit een rapport van analist Charles Eden.",
     "published_at": "2026-03-30 10:22",
-    "scraped_at": "2026-03-30T08:52:36.910979"
+    "scraped_at": "2026-03-30T10:18:47.776817"
   },
   {
     "id": "6124f72173d3c835a73b349a628e1d5e",
     "categorie": "Must read",
     "titel": "Must read: wereldwijde chaos bereikt kookpunt",
     "link": "https://www.iex.nl/artikel/858763/Must-read-wereldwijde-chaos-bereikt-kookpunt.aspx",
-    "intro": "",
+    "intro": "Olie-CEO's zijn niet optimistisch over de wereldeconomie. Plus: we zijn onzekerder dan tijdens corona, defensie is te fossiel en China gaat onder water.",
     "published_at": "2026-03-30 10:00",
-    "scraped_at": "2026-03-30T08:52:36.910979"
+    "scraped_at": "2026-03-30T10:18:47.776817"
   },
   {
     "id": "b20a7e585ba2948817383770e4c75db5",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858765/Beursblik-sterke-resultaten-bij-HAL.aspx",
     "intro": "HAL heeft in 2025 goed gepresteerd. Dit stelde analist Livio Luyten van KBC Securities maandag in een rapport.",
     "published_at": "2026-03-30 09:22",
-    "scraped_at": "2026-03-30T08:52:36.910979"
+    "scraped_at": "2026-03-30T10:18:47.776817"
   },
   {
     "id": "5c5b7a2561f14ac303b698e00bc967eb",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858764/AEX-licht-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste maandag kort na de beursgong 0,2 procent lager naar 958,03 punten, terwijl de Midkap 0,9 procent prijs moest geven.",
     "published_at": "2026-03-30 09:14",
-    "scraped_at": "2026-03-30T08:52:36.910979"
+    "scraped_at": "2026-03-30T10:18:47.776817"
   },
   {
     "id": "e999f2346748795a6a3fb673a08f442b",
@@ -51,42 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/858761/UMG-lanceert-aandeleninkoopprogramma.aspx",
     "intro": "Universal Music Group heeft maandag een aandeleninkoopprogramma ter waarde van 500 miljoen euro gelanceerd.",
     "published_at": "2026-03-30 09:00",
-    "scraped_at": "2026-03-30T08:52:36.910979"
+    "scraped_at": "2026-03-30T10:18:47.776817"
   },
   {
     "id": "cbe4eaf00f05e5b95c2615c377524da8",
     "categorie": "Voorbeurs",
     "titel": "Rode start beursweek, Trump aast op Iraanse olie en VIX schiet boven 31 punten",
     "link": "https://www.beurs.nl/Artikel/858734/Rode-start-beursweek-Trump-aast-op-Iraanse-olie-en-VIX-schiet-boven-31-punten.aspx",
-    "intro": "Openingsindicatie: -0,6%. Oorlog in Midden-Oosten blijft sentiment beheersen: VIX-index boven 31 punten en olieprijs boven $100 per vat.",
+    "intro": "Oorlog in Midden-Oosten blijft sentiment beheersen: VIX-index boven 31 punten en olieprijs boven $100 per vat.",
     "published_at": "2026-03-30 08:30",
-    "scraped_at": "2026-03-30T08:52:36.910979"
-  },
-  {
-    "id": "74547b01d59757aae5e935b6eba3f220",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Italianen willen meer zeggenschap bij Euronext",
-    "link": "https://www.beurs.nl/Nieuws/858756/Media-Italianen-willen-meer-zeggenschap-bij-Euronext.aspx",
-    "intro": "De Italiaanse grootaandeelhouder CDP Equity heeft Euronext voor de rechter gedaagd, omdat het beursbedrijf van plan is de huidige topman van Borsa Italiana, Fabrizio Testa, te herbenoemen zonder een nieuwe selectieprocedure. Dit schreef het Financieele Dagblad maandag.",
-    "published_at": "2026-03-30 08:28",
-    "scraped_at": "2026-03-30T08:52:36.910979"
-  },
-  {
-    "id": "ec75b036800014b9539e7a84792829a9",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verlaagt koersdoel CSG licht",
-    "link": "https://www.beurs.nl/Nieuws/858754/Deutsche-Bank-verlaagt-koersdoel-CSG-licht.aspx",
-    "intro": "Deutsche Bank heeft maandag het koersdoel voor CSG verlaagd van 35,00 naar 34,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een analistenrapport van de Duitse bank.",
-    "published_at": "2026-03-30 08:26",
-    "scraped_at": "2026-03-30T08:52:36.910979"
-  },
-  {
-    "id": "ea6d7512fb838c1f6f1dea600ed8aaac",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsweek terughoudend door aanhoudende escalatie in het Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/858751/AEX-start-handelsweek-terughoudend-door-aanhoudende-escalatie-in-het-Midden-Oosten.aspx",
-    "intro": "De Amsterdamse beurs gaat maandag naar verwachting lager van start, door aanhoudende escalatie in het Midden-Oosten en stijgende olieprijzen. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,6 procent.",
-    "published_at": "2026-03-30 08:02",
-    "scraped_at": "2026-03-30T08:52:36.910979"
+    "scraped_at": "2026-03-30T10:18:47.776817"
   }
 ]
