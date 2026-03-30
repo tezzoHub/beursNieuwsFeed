@@ -1,20 +1,38 @@
 [
   {
-    "id": "019c41b2b8caaaeb5525fe121a04e47f",
+    "id": "f44971b6224f7b129eaa90c69ca38eaf",
     "categorie": "Beursnieuws",
-    "titel": "Focus op inkoopdata en banenrapporten in Paasweek",
-    "link": "https://www.beurs.nl/Nieuws/858724/Focus-op-inkoopdata-en-banenrapporten-in-Paasweek.aspx",
-    "intro": "Beleggers staan voor een iets kortere beursweek dan normaal, maar deze zal wel opnieuw in het teken staan van de oorlog in het Midden-Oosten, waarbij het de vraag is of er richting Pasen vooruitgang wordt geboekt om het conflict te beëindigen.",
-    "published_at": "2026-03-29 12:04",
-    "scraped_at": "2026-03-30T02:42:08.306887"
+    "titel": "Europese beurzen openen lager",
+    "link": "https://www.beurs.nl/Nieuws/858741/Europese-beurzen-openen-lager.aspx",
+    "intro": "De Europese beurzen gaan maandag een rode opening tegemoet, met een oplopende olieprijs en lagere koersen in Azië, terwijl de oorlog in Iran zijn vijfde week ingaat en de Houthi-rebellen zich ook op het strijdtoneel lijken te hebben gemeld.",
+    "published_at": "2026-03-30 07:06",
+    "scraped_at": "2026-03-30T05:13:57.244772"
   },
   {
-    "id": "b72cc62926d13e9d331cd0719527b048",
+    "id": "595fddbf38830cd18c829f037381e23d",
     "categorie": "Beursnieuws",
-    "titel": "Chemiebedrijven aan kop op nerveus Damrak",
-    "link": "https://www.beurs.nl/Nieuws/858722/Chemiebedrijven-aan-kop-op-nerveus-Damrak.aspx",
-    "intro": "Het was een nerveuze week op het Damrak, met tegenstrijdige berichten over mogelijke onderhandelingen om de oorlog in het Midden-Oosten te beëindigen. Speciaalchemiebedrijven wisten duidelijk aan de malaise te ontsnappen, ondanks terughoudendheid onder analisten over de mogelijke impact van het conflict.",
-    "published_at": "2026-03-29 10:51",
-    "scraped_at": "2026-03-30T02:42:08.306887"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/858737/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 april 2026:",
+    "published_at": "2026-03-30 06:57",
+    "scraped_at": "2026-03-30T05:13:57.244772"
+  },
+  {
+    "id": "c8813ee6b7a1e812acd22826f15ae13b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/858738/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 6 april 2026:",
+    "published_at": "2026-03-30 06:57",
+    "scraped_at": "2026-03-30T05:13:57.244772"
+  },
+  {
+    "id": "84a55b3400ac10449b9e86304eec1c4c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/858739/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 6 april 2026:",
+    "published_at": "2026-03-30 06:57",
+    "scraped_at": "2026-03-30T05:13:57.244772"
   }
 ]
