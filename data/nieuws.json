@@ -1,12 +1,30 @@
 [
   {
+    "id": "0ee13320eb8ef81def84b7f938a99943",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse futures lopen op",
+    "link": "https://www.beurs.nl/Nieuws/858822/Amerikaanse-futures-lopen-op.aspx",
+    "intro": "De Amerikaanse futures lopen maandag richting de start van de beurshandel op.",
+    "published_at": "2026-03-30 14:45",
+    "scraped_at": "2026-03-30T14:21:38.171727"
+  },
+  {
+    "id": "41022c4eba2cc73e31a5af1ddd786e51",
+    "categorie": "Over IEX",
+    "titel": "Grijp je kans: IEX zoekt een nieuwe aandelenanalist",
+    "link": "https://www.beurs.nl/Artikel/845632/Grijp-je-kans-IEX-zoekt-een-nieuwe-aandelenanalist.aspx",
+    "intro": "Altijd al op de Amsterdamse beurs willen werken? Dit is je kans! Kom werken bij IEX Media, hét mediabedrijf voor beleggers.",
+    "published_at": "2026-03-30 14:20",
+    "scraped_at": "2026-03-30T14:21:38.171727"
+  },
+  {
     "id": "b8fad8d90a02192c8fe75b17a6b662ef",
     "categorie": "Beursnieuws",
     "titel": "Duitse inflatie schiet omhoog door duurdere energie",
     "link": "https://www.beurs.nl/Nieuws/858815/Duitse-inflatie-schiet-omhoog-door-duurdere-energie.aspx",
     "intro": "De Duitse inflatie is in maart gestegen doordat energie flink duurder werd. Dit bleek maandag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-03-30 14:06",
-    "scraped_at": "2026-03-30T12:42:35.706354"
+    "scraped_at": "2026-03-30T14:21:38.171727"
   },
   {
     "id": "18c31691031569d1ec00798be76a1c7b",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858813/Trump-serieuze-gesprekken-met-nieuw-Iraans-regime.aspx",
     "intro": "De Verenigde Staten voeren serieuze gesprekken met een \"nieuw, redelijker regime\" om de Amerikaanse militaire operaties in Iran te beëindigen. Dit meldde de Amerikaanse president Donald Trump maandagmiddag op Truth Social.",
     "published_at": "2026-03-30 13:33",
-    "scraped_at": "2026-03-30T12:42:35.706354"
+    "scraped_at": "2026-03-30T14:21:38.171727"
   },
   {
     "id": "6e86771d45df2e2fb963cd28167c0045",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858810/Sysco-doet-bod-op-Jetro-van-29-miljard-dollar.aspx",
     "intro": "Sysco wil Jetro Restaurant Depot kopen voor 29,1 miljard dollar. Dit maakte Sysco maandagmiddag bekend.",
     "published_at": "2026-03-30 13:19",
-    "scraped_at": "2026-03-30T12:42:35.706354"
+    "scraped_at": "2026-03-30T14:21:38.171727"
   },
   {
     "id": "242a3e050252774057fb1529c1532954",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858809/Groene-opening-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen lijken maandag met winst aan de week te beginnen. Futures op de SP wezen op een koerswinst van 0,4 procent en de Nasdaq lijkt 0,3 procent hoger te gaan openen.",
     "published_at": "2026-03-30 13:11",
-    "scraped_at": "2026-03-30T12:42:35.706354"
+    "scraped_at": "2026-03-30T14:21:38.171727"
   },
   {
     "id": "f3c2b9c4ee2113a6e351bf135b36ebdd",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858803/Rust-op-Europese-beurzen.aspx",
     "intro": "De aandelenmarkten in Europa noteerden maandag rond het middaguur verdeeld, ondanks de verdere escalatie afgelopen weekend in het Midden-Oosten.",
     "published_at": "2026-03-30 12:24",
-    "scraped_at": "2026-03-30T12:42:35.706354"
+    "scraped_at": "2026-03-30T14:21:38.171727"
   },
   {
     "id": "730f3574d60c8dac078d06a4558c6304",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858797/Rendement-PostNL-op-postactiviteiten-verslechterd.aspx",
     "intro": "PostNL heeft het rendement op de postactiviteiten verder zien verslechteren. Dit bleek maandag uit een persbericht van het postbedrijf.",
     "published_at": "2026-03-30 11:54",
-    "scraped_at": "2026-03-30T12:42:35.706354"
+    "scraped_at": "2026-03-30T14:21:38.171727"
   },
   {
     "id": "134826eb548b637b545ed50ebaebba58",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858795/Beursblik-Jefferies-verlaagt-koersdoel-Magnum-Ice.aspx",
     "intro": "Jefferies heeft het koersdoel voor Magnum Ice verlaagd van 13,60 naar 13,00 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist David Hayes.",
     "published_at": "2026-03-30 11:40",
-    "scraped_at": "2026-03-30T12:42:35.706354"
+    "scraped_at": "2026-03-30T14:21:38.171727"
   },
   {
     "id": "06acdac47b927e5c6c53cb0967ab1379",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858786/Consumentenvertrouwen-eurozone-sterk-omlaag.aspx",
     "intro": "Het consumentenvertrouwen in de eurozone is in maart flink afgenomen. Dit bleek maandag uit definitieve cijfers van de Europese Commissie.",
     "published_at": "2026-03-30 11:05",
-    "scraped_at": "2026-03-30T12:42:35.706354"
-  },
-  {
-    "id": "d8acbc81aba1440550f67da735c7de8f",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine winst voor AEX",
-    "link": "https://www.beurs.nl/Nieuws/858777/Kleine-winst-voor-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagochtend in het groen. De AEX steeg met 0,4 procent naar 964,16 punten.",
-    "published_at": "2026-03-30 10:34",
-    "scraped_at": "2026-03-30T12:42:35.706354"
-  },
-  {
-    "id": "3a1ab1c4920b5ba09f208946fb1fab8b",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/858775/UBS-verhoogt-koersdoel-DSM-Firmenich.aspx",
-    "intro": "UBS heeft het koersdoel voor DSM-Firmenich verhoogd van 81,00 naar 85,00 euro en handhaafde het koopadvies. Dit bleek maandag uit een rapport van analist Charles Eden.",
-    "published_at": "2026-03-30 10:22",
-    "scraped_at": "2026-03-30T12:42:35.706354"
+    "scraped_at": "2026-03-30T14:21:38.171727"
   }
 ]
