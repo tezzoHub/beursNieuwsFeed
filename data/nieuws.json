@@ -1,12 +1,66 @@
 [
   {
+    "id": "b0bdb52d6f67536287001746c5f410b8",
+    "categorie": "Beursnieuws",
+    "titel": "Geen spektakel op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/858843/Geen-spektakel-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs is maandag hoger geëindigd, ondanks aanhoudende zorgen over een verdere escalatie van het conflict met Iran en nieuwe tekenen van een verslechterend economisch sentiment.",
+    "published_at": "2026-03-30 17:45",
+    "scraped_at": "2026-03-30T15:49:07.821820"
+  },
+  {
+    "id": "8494239180b4632335137cc2c6f90145",
+    "categorie": "Beursnieuws",
+    "titel": "Dochterbedrijf Hydratec verkoopt activiteiten",
+    "link": "https://www.beurs.nl/Nieuws/858841/Dochterbedrijf-Hydratec-verkoopt-activiteiten.aspx",
+    "intro": "Helvoet heeft zijn Europese activiteiten op het vlak van mobiliteit verkocht aan Callisto Group uit München. Dit maakte moederbedrijf Hydratec Industries uit Amersfoort maandagavond bekend.",
+    "published_at": "2026-03-30 17:38",
+    "scraped_at": "2026-03-30T15:49:07.821820"
+  },
+  {
+    "id": "ecfd7d88ae80ae90a72a42c47632d902",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Fed-bestuurder Miran pleit opnieuw voor renteverlaging",
+    "link": "https://www.beurs.nl/Nieuws/858839/Media-Fed-bestuurder-Miran-pleit-opnieuw-voor-renteverlaging.aspx",
+    "intro": "Bestuurder Stephen Miran van de Federal Reserve heeft maandag opnieuw opgeroepen om de rentes te verlagen. Dit deed hij in een interview met zakenzender CNBC.",
+    "published_at": "2026-03-30 17:14",
+    "scraped_at": "2026-03-30T15:49:07.821820"
+  },
+  {
+    "id": "51b64a6276a5d6c143e95064c6ec768d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/858836/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 7 april 2026:",
+    "published_at": "2026-03-30 16:24",
+    "scraped_at": "2026-03-30T15:49:07.821820"
+  },
+  {
+    "id": "6a4a1f66d5d1aae3c2c1b36255567251",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/858835/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 7 april 2026:",
+    "published_at": "2026-03-30 16:22",
+    "scraped_at": "2026-03-30T15:49:07.821820"
+  },
+  {
+    "id": "ca59956225564c8f7509fb21dcc1216e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/858834/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 7 april 2026:",
+    "published_at": "2026-03-30 16:20",
+    "scraped_at": "2026-03-30T15:49:07.821820"
+  },
+  {
     "id": "0ee13320eb8ef81def84b7f938a99943",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse futures lopen op",
     "link": "https://www.beurs.nl/Nieuws/858822/Amerikaanse-futures-lopen-op.aspx",
     "intro": "De Amerikaanse futures lopen maandag richting de start van de beurshandel op.",
     "published_at": "2026-03-30 14:45",
-    "scraped_at": "2026-03-30T14:21:38.171727"
+    "scraped_at": "2026-03-30T15:49:07.821820"
   },
   {
     "id": "41022c4eba2cc73e31a5af1ddd786e51",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Artikel/845632/Grijp-je-kans-IEX-zoekt-een-nieuwe-aandelenanalist.aspx",
     "intro": "Altijd al op de Amsterdamse beurs willen werken? Dit is je kans! Kom werken bij IEX Media, hét mediabedrijf voor beleggers.",
     "published_at": "2026-03-30 14:20",
-    "scraped_at": "2026-03-30T14:21:38.171727"
+    "scraped_at": "2026-03-30T15:49:07.821820"
   },
   {
     "id": "b8fad8d90a02192c8fe75b17a6b662ef",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858815/Duitse-inflatie-schiet-omhoog-door-duurdere-energie.aspx",
     "intro": "De Duitse inflatie is in maart gestegen doordat energie flink duurder werd. Dit bleek maandag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-03-30 14:06",
-    "scraped_at": "2026-03-30T14:21:38.171727"
+    "scraped_at": "2026-03-30T15:49:07.821820"
   },
   {
     "id": "18c31691031569d1ec00798be76a1c7b",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858813/Trump-serieuze-gesprekken-met-nieuw-Iraans-regime.aspx",
     "intro": "De Verenigde Staten voeren serieuze gesprekken met een \"nieuw, redelijker regime\" om de Amerikaanse militaire operaties in Iran te beëindigen. Dit meldde de Amerikaanse president Donald Trump maandagmiddag op Truth Social.",
     "published_at": "2026-03-30 13:33",
-    "scraped_at": "2026-03-30T14:21:38.171727"
-  },
-  {
-    "id": "6e86771d45df2e2fb963cd28167c0045",
-    "categorie": "Beursnieuws",
-    "titel": "Sysco doet bod op Jetro van 29 miljard dollar",
-    "link": "https://www.beurs.nl/Nieuws/858810/Sysco-doet-bod-op-Jetro-van-29-miljard-dollar.aspx",
-    "intro": "Sysco wil Jetro Restaurant Depot kopen voor 29,1 miljard dollar. Dit maakte Sysco maandagmiddag bekend.",
-    "published_at": "2026-03-30 13:19",
-    "scraped_at": "2026-03-30T14:21:38.171727"
-  },
-  {
-    "id": "242a3e050252774057fb1529c1532954",
-    "categorie": "Beursnieuws",
-    "titel": "Groene opening op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/858809/Groene-opening-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen lijken maandag met winst aan de week te beginnen. Futures op de SP wezen op een koerswinst van 0,4 procent en de Nasdaq lijkt 0,3 procent hoger te gaan openen.",
-    "published_at": "2026-03-30 13:11",
-    "scraped_at": "2026-03-30T14:21:38.171727"
-  },
-  {
-    "id": "f3c2b9c4ee2113a6e351bf135b36ebdd",
-    "categorie": "Beursnieuws",
-    "titel": "Rust op Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/858803/Rust-op-Europese-beurzen.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden maandag rond het middaguur verdeeld, ondanks de verdere escalatie afgelopen weekend in het Midden-Oosten.",
-    "published_at": "2026-03-30 12:24",
-    "scraped_at": "2026-03-30T14:21:38.171727"
-  },
-  {
-    "id": "730f3574d60c8dac078d06a4558c6304",
-    "categorie": "Beursnieuws",
-    "titel": "Rendement PostNL op postactiviteiten verslechterd",
-    "link": "https://www.beurs.nl/Nieuws/858797/Rendement-PostNL-op-postactiviteiten-verslechterd.aspx",
-    "intro": "PostNL heeft het rendement op de postactiviteiten verder zien verslechteren. Dit bleek maandag uit een persbericht van het postbedrijf.",
-    "published_at": "2026-03-30 11:54",
-    "scraped_at": "2026-03-30T14:21:38.171727"
-  },
-  {
-    "id": "134826eb548b637b545ed50ebaebba58",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verlaagt koersdoel Magnum Ice",
-    "link": "https://www.beurs.nl/Nieuws/858795/Beursblik-Jefferies-verlaagt-koersdoel-Magnum-Ice.aspx",
-    "intro": "Jefferies heeft het koersdoel voor Magnum Ice verlaagd van 13,60 naar 13,00 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist David Hayes.",
-    "published_at": "2026-03-30 11:40",
-    "scraped_at": "2026-03-30T14:21:38.171727"
-  },
-  {
-    "id": "06acdac47b927e5c6c53cb0967ab1379",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen eurozone sterk omlaag",
-    "link": "https://www.beurs.nl/Nieuws/858786/Consumentenvertrouwen-eurozone-sterk-omlaag.aspx",
-    "intro": "Het consumentenvertrouwen in de eurozone is in maart flink afgenomen. Dit bleek maandag uit definitieve cijfers van de Europese Commissie.",
-    "published_at": "2026-03-30 11:05",
-    "scraped_at": "2026-03-30T14:21:38.171727"
+    "scraped_at": "2026-03-30T15:49:07.821820"
   }
 ]
