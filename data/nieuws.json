@@ -1,12 +1,75 @@
 [
   {
-    "id": "f44971b6224f7b129eaa90c69ca38eaf",
+    "id": "cbe4eaf00f05e5b95c2615c377524da8",
+    "categorie": "Voorbeurs",
+    "titel": "Rode start beursweek, Trump aast op Iraanse olie en VIX schiet boven 31 punten",
+    "link": "https://www.beurs.nl/Artikel/858734/Rode-start-beursweek-Trump-aast-op-Iraanse-olie-en-VIX-schiet-boven-31-punten.aspx",
+    "intro": "Openingsindicatie: -0,6%. Oorlog in Midden-Oosten blijft sentiment beheersen: VIX-index boven 31 punten en olieprijs boven $100 per vat.",
+    "published_at": "2026-03-30 08:30",
+    "scraped_at": "2026-03-30T07:04:06.194006"
+  },
+  {
+    "id": "74547b01d59757aae5e935b6eba3f220",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/858741/Europese-beurzen-openen-lager.aspx",
-    "intro": "De Europese beurzen gaan maandag een rode opening tegemoet, met een oplopende olieprijs en lagere koersen in Azië, terwijl de oorlog in Iran zijn vijfde week ingaat en de Houthi-rebellen zich ook op het strijdtoneel lijken te hebben gemeld.",
+    "titel": "Media: Italianen willen meer zeggenschap bij Euronext",
+    "link": "https://www.beurs.nl/Nieuws/858756/Media-Italianen-willen-meer-zeggenschap-bij-Euronext.aspx",
+    "intro": "De Italiaanse grootaandeelhouder CDP Equity heeft Euronext voor de rechter gedaagd, omdat het beursbedrijf van plan is de huidige topman van Borsa Italiana, Fabrizio Testa, te herbenoemen zonder een nieuwe selectieprocedure. Dit schreef het Financieele Dagblad maandag.",
+    "published_at": "2026-03-30 08:28",
+    "scraped_at": "2026-03-30T07:04:06.194006"
+  },
+  {
+    "id": "ec75b036800014b9539e7a84792829a9",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verlaagt koersdoel CSG licht",
+    "link": "https://www.beurs.nl/Nieuws/858754/Deutsche-Bank-verlaagt-koersdoel-CSG-licht.aspx",
+    "intro": "Deutsche Bank heeft maandag het koersdoel voor CSG verlaagd van 35,00 naar 34,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een analistenrapport van de Duitse bank.",
+    "published_at": "2026-03-30 08:26",
+    "scraped_at": "2026-03-30T07:04:06.194006"
+  },
+  {
+    "id": "ea6d7512fb838c1f6f1dea600ed8aaac",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsweek terughoudend door aanhoudende escalatie in het Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/858751/AEX-start-handelsweek-terughoudend-door-aanhoudende-escalatie-in-het-Midden-Oosten.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag naar verwachting lager van start, door aanhoudende escalatie in het Midden-Oosten en stijgende olieprijzen. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,6 procent.",
+    "published_at": "2026-03-30 08:02",
+    "scraped_at": "2026-03-30T07:04:06.194006"
+  },
+  {
+    "id": "f2f1311b44d73d33fc0e00a9e95be51a",
+    "categorie": "Beursnieuws",
+    "titel": "Keurig Dr Pepper doet bod op JDE gestand",
+    "link": "https://www.beurs.nl/Nieuws/858747/Keurig-Dr-Pepper-doet-bod-op-JDE-gestand.aspx",
+    "intro": "Keurig Dr Pepper heeft het bod op JDE Peet's gestand gedaan, nadat ruim 96 procent van de aandelen van de in Amsterdam genoteerde koffiespecialist onder het bod waren aangemeld.",
+    "published_at": "2026-03-30 07:31",
+    "scraped_at": "2026-03-30T07:04:06.194006"
+  },
+  {
+    "id": "8b634d9ea65e988ccb3d19230556b84b",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen kleuren overwegend rood",
+    "link": "https://www.beurs.nl/Nieuws/858746/Aziatische-beurzen-kleuren-overwegend-rood.aspx",
+    "intro": "De Aziatische beurzen koersten maandagochtend overwegend lager, door aanhoudende escalatie in het Midden-Oosten en stijgende olieprijzen.",
+    "published_at": "2026-03-30 07:23",
+    "scraped_at": "2026-03-30T07:04:06.194006"
+  },
+  {
+    "id": "102de7576ac9cdaa9646caa393c925a7",
+    "categorie": "Beursnieuws",
+    "titel": "Nederlandse afzetprijzen blijven dalen",
+    "link": "https://www.beurs.nl/Nieuws/858745/Nederlandse-afzetprijzen-blijven-dalen.aspx",
+    "intro": "De afzetprijzen van de Nederlandse industrie zijn in februari wederom gedaald. Dit meldde het Centraal Bureau voor de Statistiek maandag.",
+    "published_at": "2026-03-30 07:15",
+    "scraped_at": "2026-03-30T07:04:06.194006"
+  },
+  {
+    "id": "ce557933ccc7b6a7b4126e75d8b6054e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen waarschijnlijk lager",
+    "link": "https://www.beurs.nl/Nieuws/858741/Europese-beurzen-openen-waarschijnlijk-lager.aspx",
+    "intro": "De Europese beurzen gaan maandag een rode opening tegemoet nu de olieprijs oploopt en in Azië de koersen dalen, terwijl de oorlog in Iran zijn vijfde week ingaat en de Houthi-rebellen zich ook op het strijdtoneel lijken te hebben gemeld. IG voorziet een openingsverlies van 159 punten voor de Duitse DAX en een min van 39 punten voor de Franse CAC 40. De Britse FTSE lijkt 33 punten lager te zullen openen.",
     "published_at": "2026-03-30 07:06",
-    "scraped_at": "2026-03-30T05:13:57.244772"
+    "scraped_at": "2026-03-30T07:04:06.194006"
   },
   {
     "id": "595fddbf38830cd18c829f037381e23d",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858737/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 april 2026:",
     "published_at": "2026-03-30 06:57",
-    "scraped_at": "2026-03-30T05:13:57.244772"
+    "scraped_at": "2026-03-30T07:04:06.194006"
   },
   {
     "id": "c8813ee6b7a1e812acd22826f15ae13b",
@@ -24,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858738/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 6 april 2026:",
     "published_at": "2026-03-30 06:57",
-    "scraped_at": "2026-03-30T05:13:57.244772"
-  },
-  {
-    "id": "84a55b3400ac10449b9e86304eec1c4c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/858739/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 6 april 2026:",
-    "published_at": "2026-03-30 06:57",
-    "scraped_at": "2026-03-30T05:13:57.244772"
+    "scraped_at": "2026-03-30T07:04:06.194006"
   }
 ]
