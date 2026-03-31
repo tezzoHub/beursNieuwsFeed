@@ -1,12 +1,30 @@
 [
   {
+    "id": "4e299c04488cc9f161d384500b5e64d7",
+    "categorie": "Beursnieuws",
+    "titel": "Voedingstak Unilever fuseert met McCormick",
+    "link": "https://www.beurs.nl/Nieuws/858972/Voedingstak-Unilever-fuseert-met-McCormick.aspx",
+    "intro": "Unilever gaat zijn voedingstak definitief fuseren met het Amerikaanse McCormick  Company. Dit werd dinsdag bevestigd, nadat eerder op de dag al bleek dat een deal op handen was.",
+    "published_at": "2026-03-31 14:36",
+    "scraped_at": "2026-03-31T12:41:48.561716"
+  },
+  {
+    "id": "ec1d234da37d00975012bc7c2c6244a3",
+    "categorie": "Beursnieuws",
+    "titel": "Eli Lilly neemt Centessa Pharmaceuticals over",
+    "link": "https://www.beurs.nl/Nieuws/858961/Eli-Lilly-neemt-Centessa-Pharmaceuticals-over.aspx",
+    "intro": "Eli Lilly neemt het Britse Centessa Pharmaceuticals over voor een bedrag dat kan oplopen naar 8 miljard dollar. Dit bleek dinsdag uit een persbericht van de Amerikaanse biofarmaceut.",
+    "published_at": "2026-03-31 14:02",
+    "scraped_at": "2026-03-31T12:41:48.561716"
+  },
+  {
     "id": "3e372aa55fafb31da6bc8d62e0f5d008",
     "categorie": "Beursnieuws",
     "titel": "Video: aandelen tech, nuts en consumptie interessant dit kwartaal",
     "link": "https://www.beurs.nl/Nieuws/858954/Video-aandelen-tech-nuts-en-consumptie-interessant-dit-kwartaal.aspx",
     "intro": "Techbedrijven zullen bij de komende kwartaalcijfers de beste prestaties laten zien, maar ook nutsbedrijven en consumentengoederen zijn de moeite waard om in de gaten te houden. Dit stelde beleggingsstrateeg Frank Vranken van Edmond de Rothschild voor de camera van ABM Financial News in Brussel.",
     "published_at": "2026-03-31 13:13",
-    "scraped_at": "2026-03-31T11:37:27.267853"
+    "scraped_at": "2026-03-31T12:41:48.561716"
   },
   {
     "id": "9772fcc6899fba38c45316cd34f0dd6f",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/858952/McCormick-zegt-bij-kwartaalcijfers-niets-over-Unilever.aspx",
     "intro": "McCormick  Company heeft in het eerste kwartaal van zijn lopende boekjaar een hogere omzet geboekt, terwijl de winst per aandeel flink steeg. Dit bleek dinsdag uit de cijfers van het Amerikaans voedingsbedrijf dat specerijen, kruidenmengsels, smaakmakers en andere smaakstoffen produceert.",
     "published_at": "2026-03-31 12:58",
-    "scraped_at": "2026-03-31T11:37:27.267853"
+    "scraped_at": "2026-03-31T12:41:48.561716"
   },
   {
     "id": "887dd389df294377c0132e5cf9447882",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858949/Futures-Wall-Street-wijzen-op-een-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag naar verwachting een duidelijk hogere opening tegemoet, naar aanleiding van een bericht in de Wall Street Journal dat president Donald Trump tegen zijn medewerkers heeft gezegd dat hij bereid was de militaire vijandelijkheden in het Midden-Oosten te beëindigen, zelfs als de Straat van Hormuz grotendeels gesloten zou blijven.",
     "published_at": "2026-03-31 12:47",
-    "scraped_at": "2026-03-31T11:37:27.267853"
+    "scraped_at": "2026-03-31T12:41:48.561716"
   },
   {
     "id": "d84d006b428bee54ef15cbcf1936361f",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858946/Unilever-bevestigt-vergevorderde-gesprekken-met-McCormick.aspx",
     "intro": "Unilever is inderdaad in vergevorderde gesprekken met het Amerikaanse McCormick met betrekking tot een overname van zijn voedingstak. Dit bevestigde het levensmiddelenconcern dinsdag na een verhaal in The Wall Street Journal.",
     "published_at": "2026-03-31 12:28",
-    "scraped_at": "2026-03-31T11:37:27.267853"
+    "scraped_at": "2026-03-31T12:41:48.561716"
   },
   {
     "id": "814b8a08789f40e7eb892ecdbac762e6",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858944/Europese-beurzen-hoger-rond-lunchtijd.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur hoger, terwijl de olieprijzen volatiel waren.",
     "published_at": "2026-03-31 12:15",
-    "scraped_at": "2026-03-31T11:37:27.267853"
+    "scraped_at": "2026-03-31T12:41:48.561716"
   },
   {
     "id": "7f002a60d0a46080fdaed0f1244d5f56",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858933/AEX-kleurt-voorzichtig-groen.aspx",
     "intro": "De Amsterdamse beurs kleurde dinsdag richting het einde van de ochtend voorzichtig groen, waarbij de aandelen van databedrijven in trek waren, maar de 'chippers' juist onder druk stonden na een waarschuwing van het Zwitserse VAT.",
     "published_at": "2026-03-31 11:23",
-    "scraped_at": "2026-03-31T11:37:27.267853"
+    "scraped_at": "2026-03-31T12:41:48.561716"
   },
   {
     "id": "fdfe8567120557202de65c8ecc6db24e",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858930/Inflatie-eurozone-flink-gestegen-naar-25.aspx",
     "intro": "De inflatie in de eurozone is in maart toegenomen door een sterke stijging van de energieprijzen. Dit bleek uit cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-03-31 11:08",
-    "scraped_at": "2026-03-31T11:37:27.267853"
+    "scraped_at": "2026-03-31T12:41:48.561716"
   },
   {
     "id": "45c1597547799b34c7a70c1c650c96d4",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858921/Beursblik-Berenberg-verlaagt-koersdoel-CSG-licht.aspx",
     "intro": "Berenberg heeft dinsdag het koersdoel voor CSG verlaagd van 35,00 naar 34,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist George McWhirter.",
     "published_at": "2026-03-31 10:33",
-    "scraped_at": "2026-03-31T11:37:27.267853"
-  },
-  {
-    "id": "f2357bbf8f3c20acd99d1e28a1c03182",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel ArcelorMittal stevig",
-    "link": "https://www.beurs.nl/Nieuws/858920/UBS-verhoogt-koersdoel-ArcelorMittal-stevig.aspx",
-    "intro": "UBS heeft het koersdoel voor ArcelorMittal verhoogd van 35,40 naar 45,00 euro, met een ongewijzigd Neutraal advies. Dit bleek dinsdagochtend uit een rapport van de Zwitserse bank.",
-    "published_at": "2026-03-31 10:31",
-    "scraped_at": "2026-03-31T11:37:27.267853"
-  },
-  {
-    "id": "3e8d27f6af2d2ac9e796e381fffcec22",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof: Nasdaq-notering Onward aantrekkelijke optie",
-    "link": "https://www.beurs.nl/Nieuws/858917/Degroof-Nasdaq-notering-Onward-aantrekkelijke-optie.aspx",
-    "intro": "Onward Medical heeft bij de Amerikaanse beurswaakhond SEC een registratie ingediend voor een mogelijke beursgang op de Nasdaq in de komende 12 tot 18 maanden, afhankelijk van gunstige marktomstandigheden en andere factoren. Dit bleek vanochtend bij de jaarcijfers.",
-    "published_at": "2026-03-31 10:08",
-    "scraped_at": "2026-03-31T11:37:27.267853"
+    "scraped_at": "2026-03-31T12:41:48.561716"
   }
 ]
