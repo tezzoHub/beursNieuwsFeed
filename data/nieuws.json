@@ -1,12 +1,57 @@
 [
   {
+    "id": "c8c2879d664fc774127ab441c3e3f141",
+    "categorie": "Beursnieuws",
+    "titel": "CSG neemt belang in Hongaarse mortierfabrikant",
+    "link": "https://www.beurs.nl/Nieuws/859019/CSG-neemt-belang-in-Hongaarse-mortierfabrikant.aspx",
+    "intro": "CSG neemt een belang van 49 procent in Hirtenberger Defence Systems over van het Hongaarse 4iG. Dit maakte het Tsjechische defensiebedrijf met een beursnotering in Amsterdam dinsdag bekend.",
+    "published_at": "2026-03-31 18:33",
+    "scraped_at": "2026-03-31T16:42:06.351070"
+  },
+  {
+    "id": "be146916d7736440813e7d7a8a6f3d10",
+    "categorie": "Beursnieuws",
+    "titel": "Alumexx rondt overname FlexTable af",
+    "link": "https://www.beurs.nl/Nieuws/859018/Alumexx-rondt-overname-FlexTable-af.aspx",
+    "intro": "Alumexx heeft de overname van FlexTable BV afgerond. Dit meldde het beursgenoteerde bedrijf dinsdagavond.",
+    "published_at": "2026-03-31 18:22",
+    "scraped_at": "2026-03-31T16:42:06.351070"
+  },
+  {
+    "id": "ce2e4134eb81123bb3e4fdc7660bc507",
+    "categorie": "Redactioneel",
+    "titel": "IEX Slotcall: Unilever trekt in zijn eentje AEX (-0,59%) naar beneden",
+    "link": "https://www.iex.nl/artikel/859014/IEX-Slotcall-Unilever-trekt-in-zijn-eentje-AEX-059-naar-beneden.aspx",
+    "intro": "",
+    "published_at": "2026-03-31 18:00",
+    "scraped_at": "2026-03-31T16:42:06.351070"
+  },
+  {
+    "id": "1ed1883e6aaf6c79874d7748d8ad9f87",
+    "categorie": "Beursnieuws",
+    "titel": "Opsplitsing Unilever duwt AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/859015/Opsplitsing-Unilever-duwt-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag lager gesloten, omlaag getrokken door Unilever, dat bevestigde zijn voedingstak te zullen afstoten, wat op weinig enthousiasme van beleggers kon rekenen. De chipbedrijven herstelden juist in de loop van de dag.",
+    "published_at": "2026-03-31 17:58",
+    "scraped_at": "2026-03-31T16:42:06.351070"
+  },
+  {
+    "id": "e4e428d1fb3289137320876f2c4397bd",
+    "categorie": "Beursnieuws",
+    "titel": "Bel20 sluit volatiele maand positief af",
+    "link": "https://www.beurs.nl/Nieuws/859012/Bel20-sluit-volatiele-maand-positief-af.aspx",
+    "intro": "De Brusselse beurs is dinsdag in het groen gesloten en sloot daarmee een volatiele maand af, die in het teken stond van de oorlog in het Midden-Oosten.",
+    "published_at": "2026-03-31 17:52",
+    "scraped_at": "2026-03-31T16:42:06.351070"
+  },
+  {
     "id": "f1000cd296484f97dd30fd92e1411084",
     "categorie": "Beursnieuws",
     "titel": "Update: Conference Board: vertrouwen Amerikaanse consument verbetert",
     "link": "https://www.beurs.nl/Nieuws/859003/Update-Conference-Board-vertrouwen-Amerikaanse-consument-verbetert.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in maart licht verbeterd. Dit bleek dinsdag uit cijfers van The Conference Board.",
     "published_at": "2026-03-31 16:46",
-    "scraped_at": "2026-03-31T15:41:41.732530"
+    "scraped_at": "2026-03-31T16:42:06.351070"
   },
   {
     "id": "829754151a07a95225ad44e27d78bf26",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859002/Conference-Board-vertrouwen-Amerikaanse-consument-licht-verbetert.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in maart licht verbeterd. Dit bleek dinsdag uit cijfers van The Conference Board.",
     "published_at": "2026-03-31 16:25",
-    "scraped_at": "2026-03-31T15:41:41.732530"
+    "scraped_at": "2026-03-31T16:42:06.351070"
   },
   {
     "id": "dbce55d1a85493bd5fe34fa5d2525283",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858996/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 8 april 2026:",
     "published_at": "2026-03-31 16:10",
-    "scraped_at": "2026-03-31T15:41:41.732530"
+    "scraped_at": "2026-03-31T16:42:06.351070"
   },
   {
     "id": "586a870c9842c18dadfa2855607e8099",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858998/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 8 april 2026:",
     "published_at": "2026-03-31 16:10",
-    "scraped_at": "2026-03-31T15:41:41.732530"
+    "scraped_at": "2026-03-31T16:42:06.351070"
   },
   {
     "id": "1ca1a31e753a387b3df619268fcbd341",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858999/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 8 april 2026:",
     "published_at": "2026-03-31 16:10",
-    "scraped_at": "2026-03-31T15:41:41.732530"
-  },
-  {
-    "id": "2d4eb6ee497dd8a843726f811be642e2",
-    "categorie": "Beursnieuws",
-    "titel": "Aantal vacatures in VS gedaald",
-    "link": "https://www.beurs.nl/Nieuws/859000/Aantal-vacatures-in-VS-gedaald.aspx",
-    "intro": "Het aantal vacatures in de Verenigde Staten is in februari gedaald ten opzichte van een jaar eerder. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-03-31 16:08",
-    "scraped_at": "2026-03-31T15:41:41.732530"
-  },
-  {
-    "id": "90ba89914a3001284b87d13125802fd5",
-    "categorie": "Beursnieuws",
-    "titel": "Industrie rond Chicago groeit veel minder sterk",
-    "link": "https://www.beurs.nl/Nieuws/858992/Industrie-rond-Chicago-groeit-veel-minder-sterk.aspx",
-    "intro": "De economische activiteit in de industrie rond Chicago is in maart veel minder hard gegroeid. Dit meldde het Institute for Supply Management dinsdag.",
-    "published_at": "2026-03-31 15:56",
-    "scraped_at": "2026-03-31T15:41:41.732530"
-  },
-  {
-    "id": "ce3cc35d8adfb9ad895e60751109a6c6",
-    "categorie": "Beursnieuws",
-    "titel": "Update: voedingstak Unilever fuseert met McCormick",
-    "link": "https://www.beurs.nl/Nieuws/858989/Update-voedingstak-Unilever-fuseert-met-McCormick.aspx",
-    "intro": "Unilever gaat zijn voedingstak definitief fuseren met het Amerikaanse McCormick  Company. Dit werd dinsdag bevestigd, nadat eerder op de dag al bleek dat een deal op handen was.",
-    "published_at": "2026-03-31 15:44",
-    "scraped_at": "2026-03-31T15:41:41.732530"
-  },
-  {
-    "id": "a26c89a0a95c005d26b1418887df81db",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Goldman verlaagt koersdoelen voor Azelis en IMCD",
-    "link": "https://www.beurs.nl/Nieuws/858986/Beursblik-Goldman-verlaagt-koersdoelen-voor-Azelis-en-IMCD.aspx",
-    "intro": "Goldman Sachs heeft dinsdag de koersdoelen voor Azelis en IMCD verlaagd, maar handhaafde beide aandelen wel op de kooplijst. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-03-31 15:27",
-    "scraped_at": "2026-03-31T15:41:41.732530"
-  },
-  {
-    "id": "04056e88347b3321fd63298b84b2dac1",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse huizenprijzen stijgen iets minder hard",
-    "link": "https://www.beurs.nl/Nieuws/858981/Amerikaanse-huizenprijzen-stijgen-iets-minder-hard.aspx",
-    "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in januari iets minder hard gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
-    "published_at": "2026-03-31 15:07",
-    "scraped_at": "2026-03-31T15:41:41.732530"
+    "scraped_at": "2026-03-31T16:42:06.351070"
   }
 ]
