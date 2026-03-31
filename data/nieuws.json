@@ -1,12 +1,48 @@
 [
   {
+    "id": "3e372aa55fafb31da6bc8d62e0f5d008",
+    "categorie": "Beursnieuws",
+    "titel": "Video: aandelen tech, nuts en consumptie interessant dit kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/858954/Video-aandelen-tech-nuts-en-consumptie-interessant-dit-kwartaal.aspx",
+    "intro": "Techbedrijven zullen bij de komende kwartaalcijfers de beste prestaties laten zien, maar ook nutsbedrijven en consumentengoederen zijn de moeite waard om in de gaten te houden. Dit stelde beleggingsstrateeg Frank Vranken van Edmond de Rothschild voor de camera van ABM Financial News in Brussel.",
+    "published_at": "2026-03-31 13:13",
+    "scraped_at": "2026-03-31T11:37:27.267853"
+  },
+  {
+    "id": "9772fcc6899fba38c45316cd34f0dd6f",
+    "categorie": "Beursnieuws",
+    "titel": "McCormick zegt bij kwartaalcijfers niets over Unilever",
+    "link": "https://www.beurs.nl/Nieuws/858952/McCormick-zegt-bij-kwartaalcijfers-niets-over-Unilever.aspx",
+    "intro": "McCormick  Company heeft in het eerste kwartaal van zijn lopende boekjaar een hogere omzet geboekt, terwijl de winst per aandeel flink steeg. Dit bleek dinsdag uit de cijfers van het Amerikaans voedingsbedrijf dat specerijen, kruidenmengsels, smaakmakers en andere smaakstoffen produceert.",
+    "published_at": "2026-03-31 12:58",
+    "scraped_at": "2026-03-31T11:37:27.267853"
+  },
+  {
+    "id": "887dd389df294377c0132e5cf9447882",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street wijzen op een hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/858949/Futures-Wall-Street-wijzen-op-een-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag naar verwachting een duidelijk hogere opening tegemoet, naar aanleiding van een bericht in de Wall Street Journal dat president Donald Trump tegen zijn medewerkers heeft gezegd dat hij bereid was de militaire vijandelijkheden in het Midden-Oosten te beëindigen, zelfs als de Straat van Hormuz grotendeels gesloten zou blijven.",
+    "published_at": "2026-03-31 12:47",
+    "scraped_at": "2026-03-31T11:37:27.267853"
+  },
+  {
+    "id": "d84d006b428bee54ef15cbcf1936361f",
+    "categorie": "Beursnieuws",
+    "titel": "Unilever bevestigt vergevorderde gesprekken met McCormick",
+    "link": "https://www.beurs.nl/Nieuws/858946/Unilever-bevestigt-vergevorderde-gesprekken-met-McCormick.aspx",
+    "intro": "Unilever is inderdaad in vergevorderde gesprekken met het Amerikaanse McCormick met betrekking tot een overname van zijn voedingstak. Dit bevestigde het levensmiddelenconcern dinsdag na een verhaal in The Wall Street Journal.",
+    "published_at": "2026-03-31 12:28",
+    "scraped_at": "2026-03-31T11:37:27.267853"
+  },
+  {
     "id": "814b8a08789f40e7eb892ecdbac762e6",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen hoger rond lunchtijd",
     "link": "https://www.beurs.nl/Nieuws/858944/Europese-beurzen-hoger-rond-lunchtijd.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur hoger, terwijl de olieprijzen volatiel waren.",
     "published_at": "2026-03-31 12:15",
-    "scraped_at": "2026-03-31T10:31:34.965744"
+    "scraped_at": "2026-03-31T11:37:27.267853"
   },
   {
     "id": "7f002a60d0a46080fdaed0f1244d5f56",
@@ -15,16 +51,16 @@
     "link": "https://www.beurs.nl/Nieuws/858933/AEX-kleurt-voorzichtig-groen.aspx",
     "intro": "De Amsterdamse beurs kleurde dinsdag richting het einde van de ochtend voorzichtig groen, waarbij de aandelen van databedrijven in trek waren, maar de 'chippers' juist onder druk stonden na een waarschuwing van het Zwitserse VAT.",
     "published_at": "2026-03-31 11:23",
-    "scraped_at": "2026-03-31T10:31:34.965744"
+    "scraped_at": "2026-03-31T11:37:27.267853"
   },
   {
-    "id": "d6d793da7dfea246b0aa64a90911a58e",
+    "id": "fdfe8567120557202de65c8ecc6db24e",
     "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone flink gestegen",
-    "link": "https://www.beurs.nl/Nieuws/858930/Inflatie-eurozone-flink-gestegen.aspx",
+    "titel": "Inflatie eurozone flink gestegen naar 2,5%",
+    "link": "https://www.beurs.nl/Nieuws/858930/Inflatie-eurozone-flink-gestegen-naar-25.aspx",
     "intro": "De inflatie in de eurozone is in maart toegenomen door een sterke stijging van de energieprijzen. Dit bleek uit cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-03-31 11:08",
-    "scraped_at": "2026-03-31T10:31:34.965744"
+    "scraped_at": "2026-03-31T11:37:27.267853"
   },
   {
     "id": "45c1597547799b34c7a70c1c650c96d4",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/858921/Beursblik-Berenberg-verlaagt-koersdoel-CSG-licht.aspx",
     "intro": "Berenberg heeft dinsdag het koersdoel voor CSG verlaagd van 35,00 naar 34,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist George McWhirter.",
     "published_at": "2026-03-31 10:33",
-    "scraped_at": "2026-03-31T10:31:34.965744"
+    "scraped_at": "2026-03-31T11:37:27.267853"
   },
   {
     "id": "f2357bbf8f3c20acd99d1e28a1c03182",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858920/UBS-verhoogt-koersdoel-ArcelorMittal-stevig.aspx",
     "intro": "UBS heeft het koersdoel voor ArcelorMittal verhoogd van 35,40 naar 45,00 euro, met een ongewijzigd Neutraal advies. Dit bleek dinsdagochtend uit een rapport van de Zwitserse bank.",
     "published_at": "2026-03-31 10:31",
-    "scraped_at": "2026-03-31T10:31:34.965744"
+    "scraped_at": "2026-03-31T11:37:27.267853"
   },
   {
     "id": "3e8d27f6af2d2ac9e796e381fffcec22",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858917/Degroof-Nasdaq-notering-Onward-aantrekkelijke-optie.aspx",
     "intro": "Onward Medical heeft bij de Amerikaanse beurswaakhond SEC een registratie ingediend voor een mogelijke beursgang op de Nasdaq in de komende 12 tot 18 maanden, afhankelijk van gunstige marktomstandigheden en andere factoren. Dit bleek vanochtend bij de jaarcijfers.",
     "published_at": "2026-03-31 10:08",
-    "scraped_at": "2026-03-31T10:31:34.965744"
-  },
-  {
-    "id": "203027dcac76a3f04573fcd683f5ee49",
-    "categorie": "Beursnieuws",
-    "titel": "Verdere daling Duitse werkloosheid",
-    "link": "https://www.beurs.nl/Nieuws/858918/Verdere-daling-Duitse-werkloosheid.aspx",
-    "intro": "Het aantal werklozen in Duitsland is in maart licht gedaald. Dit bleek dinsdag uit overheidscijfers.",
-    "published_at": "2026-03-31 10:07",
-    "scraped_at": "2026-03-31T10:31:34.965744"
-  },
-  {
-    "id": "ccdfaa537cf121425d3c19b155a643ed",
-    "categorie": "Must read",
-    "titel": "Must read: Oude energie verslaat nieuwe tech",
-    "link": "https://www.iex.nl/artikel/858823/Must-read-Oude-energie-verslaat-nieuwe-tech.aspx",
-    "intro": "Plus: water is strategisch beleggingsthema, dollar gaat wel weer dalen, dure energie jaagt inflatie omhoog, Powell sust de markt en nog veel meer.",
-    "published_at": "2026-03-31 09:50",
-    "scraped_at": "2026-03-31T10:31:34.965744"
-  },
-  {
-    "id": "be6fa32224838c147de644dd19afd78a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Onward zet bemoedigende commerciële stappen",
-    "link": "https://www.beurs.nl/Nieuws/858912/Beursblik-Onward-zet-bemoedigende-commerciele-stappen.aspx",
-    "intro": "Uit de jaarcijfers van Onward Medical blijkt dat het bedrijf \"bemoedigende\" stappen heeft gezet op commercieel vlak, getuige de verkoop van 117 ARC-EX apparaten. Dit stelde analist Mathijs Geerts Danau van KBC Securities dinsdag in een rapport.",
-    "published_at": "2026-03-31 09:46",
-    "scraped_at": "2026-03-31T10:31:34.965744"
-  },
-  {
-    "id": "6eeb710476cce5fa7742b431d9d26106",
-    "categorie": "Beursnieuws",
-    "titel": "Nebius bouwt AI-fabriek in Finland",
-    "link": "https://www.beurs.nl/Nieuws/858913/Nebius-bouwt-AI-fabriek-in-Finland.aspx",
-    "intro": "Nebius heeft dinsdag de bouw aangekondigd van een nieuwe AI-fabriek van 310 MW in het Finse Lappeenranta.",
-    "published_at": "2026-03-31 09:45",
-    "scraped_at": "2026-03-31T10:31:34.965744"
+    "scraped_at": "2026-03-31T11:37:27.267853"
   }
 ]
