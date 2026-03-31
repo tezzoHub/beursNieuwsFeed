@@ -1,12 +1,39 @@
 [
   {
+    "id": "814b8a08789f40e7eb892ecdbac762e6",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger rond lunchtijd",
+    "link": "https://www.beurs.nl/Nieuws/858944/Europese-beurzen-hoger-rond-lunchtijd.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur hoger, terwijl de olieprijzen volatiel waren.",
+    "published_at": "2026-03-31 12:15",
+    "scraped_at": "2026-03-31T10:31:34.965744"
+  },
+  {
+    "id": "7f002a60d0a46080fdaed0f1244d5f56",
+    "categorie": "Beursnieuws",
+    "titel": "AEX kleurt voorzichtig groen",
+    "link": "https://www.beurs.nl/Nieuws/858933/AEX-kleurt-voorzichtig-groen.aspx",
+    "intro": "De Amsterdamse beurs kleurde dinsdag richting het einde van de ochtend voorzichtig groen, waarbij de aandelen van databedrijven in trek waren, maar de 'chippers' juist onder druk stonden na een waarschuwing van het Zwitserse VAT.",
+    "published_at": "2026-03-31 11:23",
+    "scraped_at": "2026-03-31T10:31:34.965744"
+  },
+  {
+    "id": "d6d793da7dfea246b0aa64a90911a58e",
+    "categorie": "Beursnieuws",
+    "titel": "Inflatie eurozone flink gestegen",
+    "link": "https://www.beurs.nl/Nieuws/858930/Inflatie-eurozone-flink-gestegen.aspx",
+    "intro": "De inflatie in de eurozone is in maart toegenomen door een sterke stijging van de energieprijzen. Dit bleek uit cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-03-31 11:08",
+    "scraped_at": "2026-03-31T10:31:34.965744"
+  },
+  {
     "id": "45c1597547799b34c7a70c1c650c96d4",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Berenberg verlaagt koersdoel CSG licht",
     "link": "https://www.beurs.nl/Nieuws/858921/Beursblik-Berenberg-verlaagt-koersdoel-CSG-licht.aspx",
     "intro": "Berenberg heeft dinsdag het koersdoel voor CSG verlaagd van 35,00 naar 34,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist George McWhirter.",
     "published_at": "2026-03-31 10:33",
-    "scraped_at": "2026-03-31T09:12:32.259655"
+    "scraped_at": "2026-03-31T10:31:34.965744"
   },
   {
     "id": "f2357bbf8f3c20acd99d1e28a1c03182",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/858920/UBS-verhoogt-koersdoel-ArcelorMittal-stevig.aspx",
     "intro": "UBS heeft het koersdoel voor ArcelorMittal verhoogd van 35,40 naar 45,00 euro, met een ongewijzigd Neutraal advies. Dit bleek dinsdagochtend uit een rapport van de Zwitserse bank.",
     "published_at": "2026-03-31 10:31",
-    "scraped_at": "2026-03-31T09:12:32.259655"
+    "scraped_at": "2026-03-31T10:31:34.965744"
   },
   {
     "id": "3e8d27f6af2d2ac9e796e381fffcec22",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/858917/Degroof-Nasdaq-notering-Onward-aantrekkelijke-optie.aspx",
     "intro": "Onward Medical heeft bij de Amerikaanse beurswaakhond SEC een registratie ingediend voor een mogelijke beursgang op de Nasdaq in de komende 12 tot 18 maanden, afhankelijk van gunstige marktomstandigheden en andere factoren. Dit bleek vanochtend bij de jaarcijfers.",
     "published_at": "2026-03-31 10:08",
-    "scraped_at": "2026-03-31T09:12:32.259655"
+    "scraped_at": "2026-03-31T10:31:34.965744"
   },
   {
     "id": "203027dcac76a3f04573fcd683f5ee49",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858918/Verdere-daling-Duitse-werkloosheid.aspx",
     "intro": "Het aantal werklozen in Duitsland is in maart licht gedaald. Dit bleek dinsdag uit overheidscijfers.",
     "published_at": "2026-03-31 10:07",
-    "scraped_at": "2026-03-31T09:12:32.259655"
+    "scraped_at": "2026-03-31T10:31:34.965744"
   },
   {
     "id": "ccdfaa537cf121425d3c19b155a643ed",
@@ -42,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/858823/Must-read-Oude-energie-verslaat-nieuwe-tech.aspx",
     "intro": "Plus: water is strategisch beleggingsthema, dollar gaat wel weer dalen, dure energie jaagt inflatie omhoog, Powell sust de markt en nog veel meer.",
     "published_at": "2026-03-31 09:50",
-    "scraped_at": "2026-03-31T09:12:32.259655"
+    "scraped_at": "2026-03-31T10:31:34.965744"
   },
   {
     "id": "be6fa32224838c147de644dd19afd78a",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858912/Beursblik-Onward-zet-bemoedigende-commerciele-stappen.aspx",
     "intro": "Uit de jaarcijfers van Onward Medical blijkt dat het bedrijf \"bemoedigende\" stappen heeft gezet op commercieel vlak, getuige de verkoop van 117 ARC-EX apparaten. Dit stelde analist Mathijs Geerts Danau van KBC Securities dinsdag in een rapport.",
     "published_at": "2026-03-31 09:46",
-    "scraped_at": "2026-03-31T09:12:32.259655"
+    "scraped_at": "2026-03-31T10:31:34.965744"
   },
   {
     "id": "6eeb710476cce5fa7742b431d9d26106",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858913/Nebius-bouwt-AI-fabriek-in-Finland.aspx",
     "intro": "Nebius heeft dinsdag de bouw aangekondigd van een nieuwe AI-fabriek van 310 MW in het Finse Lappeenranta.",
     "published_at": "2026-03-31 09:45",
-    "scraped_at": "2026-03-31T09:12:32.259655"
-  },
-  {
-    "id": "52d22297fdfe91a8b96e6cd0d77bfd6a",
-    "categorie": "IEX Nieuws",
-    "titel": "Box 3: wat blijft er over van aandelenwinst in Europa?",
-    "link": "https://www.iex.nl/artikel/857854/Box-3-wat-blijft-er-over-van-aandelenwinst-in-Europa.aspx",
-    "intro": "Van eenheid is in Europa geen sprake als we kijken naar de belasting op winst bij verkoop van aandelen. De verschillen zijn groot. In welk land pakt het voordelig uit en waar kunt u beter wegblijven?",
-    "published_at": "2026-03-31 09:15",
-    "scraped_at": "2026-03-31T09:12:32.259655"
-  },
-  {
-    "id": "793cd43c194c0b516d80740460693162",
-    "categorie": "Beursnieuws",
-    "titel": "VAT verlaagt omzetverwachting voor 2026",
-    "link": "https://www.beurs.nl/Nieuws/858910/VAT-verlaagt-omzetverwachting-voor-2026.aspx",
-    "intro": "VAT Group heeft in het eerste kwartaal een sterke orderinstroom gerealiseerd, maar zag zich toch genoodzaakt om de outlook voor dit jaar te verlagen. Dit meldde de Zwitserse toeleverancier van de halfgeleidersector vanochtend.",
-    "published_at": "2026-03-31 09:14",
-    "scraped_at": "2026-03-31T09:12:32.259655"
-  },
-  {
-    "id": "8ea051ed5e915c7921d8eb5e2c55a591",
-    "categorie": "Beursnieuws",
-    "titel": "AEX iets lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/858907/AEX-iets-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,1 procent lager op 963,69 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
-    "published_at": "2026-03-31 09:12",
-    "scraped_at": "2026-03-31T09:12:32.259655"
+    "scraped_at": "2026-03-31T10:31:34.965744"
   }
 ]
