@@ -1,12 +1,57 @@
 [
   {
+    "id": "45c1597547799b34c7a70c1c650c96d4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Berenberg verlaagt koersdoel CSG licht",
+    "link": "https://www.beurs.nl/Nieuws/858921/Beursblik-Berenberg-verlaagt-koersdoel-CSG-licht.aspx",
+    "intro": "Berenberg heeft dinsdag het koersdoel voor CSG verlaagd van 35,00 naar 34,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist George McWhirter.",
+    "published_at": "2026-03-31 10:33",
+    "scraped_at": "2026-03-31T09:12:32.259655"
+  },
+  {
+    "id": "f2357bbf8f3c20acd99d1e28a1c03182",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel ArcelorMittal stevig",
+    "link": "https://www.beurs.nl/Nieuws/858920/UBS-verhoogt-koersdoel-ArcelorMittal-stevig.aspx",
+    "intro": "UBS heeft het koersdoel voor ArcelorMittal verhoogd van 35,40 naar 45,00 euro, met een ongewijzigd Neutraal advies. Dit bleek dinsdagochtend uit een rapport van de Zwitserse bank.",
+    "published_at": "2026-03-31 10:31",
+    "scraped_at": "2026-03-31T09:12:32.259655"
+  },
+  {
+    "id": "3e8d27f6af2d2ac9e796e381fffcec22",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof: Nasdaq-notering Onward aantrekkelijke optie",
+    "link": "https://www.beurs.nl/Nieuws/858917/Degroof-Nasdaq-notering-Onward-aantrekkelijke-optie.aspx",
+    "intro": "Onward Medical heeft bij de Amerikaanse beurswaakhond SEC een registratie ingediend voor een mogelijke beursgang op de Nasdaq in de komende 12 tot 18 maanden, afhankelijk van gunstige marktomstandigheden en andere factoren. Dit bleek vanochtend bij de jaarcijfers.",
+    "published_at": "2026-03-31 10:08",
+    "scraped_at": "2026-03-31T09:12:32.259655"
+  },
+  {
+    "id": "203027dcac76a3f04573fcd683f5ee49",
+    "categorie": "Beursnieuws",
+    "titel": "Verdere daling Duitse werkloosheid",
+    "link": "https://www.beurs.nl/Nieuws/858918/Verdere-daling-Duitse-werkloosheid.aspx",
+    "intro": "Het aantal werklozen in Duitsland is in maart licht gedaald. Dit bleek dinsdag uit overheidscijfers.",
+    "published_at": "2026-03-31 10:07",
+    "scraped_at": "2026-03-31T09:12:32.259655"
+  },
+  {
+    "id": "ccdfaa537cf121425d3c19b155a643ed",
+    "categorie": "Must read",
+    "titel": "Must read: Oude energie verslaat nieuwe tech",
+    "link": "https://www.iex.nl/artikel/858823/Must-read-Oude-energie-verslaat-nieuwe-tech.aspx",
+    "intro": "Plus: water is strategisch beleggingsthema, dollar gaat wel weer dalen, dure energie jaagt inflatie omhoog, Powell sust de markt en nog veel meer.",
+    "published_at": "2026-03-31 09:50",
+    "scraped_at": "2026-03-31T09:12:32.259655"
+  },
+  {
     "id": "be6fa32224838c147de644dd19afd78a",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Onward zet bemoedigende commerciële stappen",
     "link": "https://www.beurs.nl/Nieuws/858912/Beursblik-Onward-zet-bemoedigende-commerciele-stappen.aspx",
     "intro": "Uit de jaarcijfers van Onward Medical blijkt dat het bedrijf \"bemoedigende\" stappen heeft gezet op commercieel vlak, getuige de verkoop van 117 ARC-EX apparaten. Dit stelde analist Mathijs Geerts Danau van KBC Securities dinsdag in een rapport.",
     "published_at": "2026-03-31 09:46",
-    "scraped_at": "2026-03-31T07:57:39.614369"
+    "scraped_at": "2026-03-31T09:12:32.259655"
   },
   {
     "id": "6eeb710476cce5fa7742b431d9d26106",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/858913/Nebius-bouwt-AI-fabriek-in-Finland.aspx",
     "intro": "Nebius heeft dinsdag de bouw aangekondigd van een nieuwe AI-fabriek van 310 MW in het Finse Lappeenranta.",
     "published_at": "2026-03-31 09:45",
-    "scraped_at": "2026-03-31T07:57:39.614369"
+    "scraped_at": "2026-03-31T09:12:32.259655"
   },
   {
     "id": "52d22297fdfe91a8b96e6cd0d77bfd6a",
@@ -24,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/857854/Box-3-wat-blijft-er-over-van-aandelenwinst-in-Europa.aspx",
     "intro": "Van eenheid is in Europa geen sprake als we kijken naar de belasting op winst bij verkoop van aandelen. De verschillen zijn groot. In welk land pakt het voordelig uit en waar kunt u beter wegblijven?",
     "published_at": "2026-03-31 09:15",
-    "scraped_at": "2026-03-31T07:57:39.614369"
+    "scraped_at": "2026-03-31T09:12:32.259655"
   },
   {
     "id": "793cd43c194c0b516d80740460693162",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/858910/VAT-verlaagt-omzetverwachting-voor-2026.aspx",
     "intro": "VAT Group heeft in het eerste kwartaal een sterke orderinstroom gerealiseerd, maar zag zich toch genoodzaakt om de outlook voor dit jaar te verlagen. Dit meldde de Zwitserse toeleverancier van de halfgeleidersector vanochtend.",
     "published_at": "2026-03-31 09:14",
-    "scraped_at": "2026-03-31T07:57:39.614369"
+    "scraped_at": "2026-03-31T09:12:32.259655"
   },
   {
     "id": "8ea051ed5e915c7921d8eb5e2c55a591",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/858907/AEX-iets-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong 0,1 procent lager op 963,69 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
     "published_at": "2026-03-31 09:12",
-    "scraped_at": "2026-03-31T07:57:39.614369"
-  },
-  {
-    "id": "6306c16d20e76958ec3c8dc4e3bc91e4",
-    "categorie": "Beursnieuws",
-    "titel": "KLM en gategroup bereiken akkoord over overname Catering Services",
-    "link": "https://www.beurs.nl/Nieuws/858906/KLM-en-gategroup-bereiken-akkoord-over-overname-Catering-Services.aspx",
-    "intro": "KLM en gategroup hebben een akkoord bereikt over de overname van KLM Catering Services door gategroup. Dit maakte KLM dinsdagochtend bekend.",
-    "published_at": "2026-03-31 08:56",
-    "scraped_at": "2026-03-31T07:57:39.614369"
-  },
-  {
-    "id": "62892eb04623b84267ebd01ae00f97c8",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie Frankrijk neemt flink toe door stijgende energieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/858905/Inflatie-Frankrijk-neemt-flink-toe-door-stijgende-energieprijzen.aspx",
-    "intro": "De inflatie in Frankrijk is in maart flink toegenomen, door een forse stijging van de energieprijzen, die oplopen sinds het begin van de oorlog in het Midden-Oosten. Dit bleek dinsdag uit voorlopige cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-03-31 08:55",
-    "scraped_at": "2026-03-31T07:57:39.614369"
-  },
-  {
-    "id": "ef277c5d4e13c8873097afdc217f27d1",
-    "categorie": "Beursnieuws",
-    "titel": "Van Lanschot Kempen rondt aandeleninkoopprogramma af",
-    "link": "https://www.beurs.nl/Nieuws/858903/Van-Lanschot-Kempen-rondt-aandeleninkoopprogramma-af.aspx",
-    "intro": "Van Lanschot Kempen heeft zijn aandeleninkoopprogramma ter waarde van 15 miljoen euro afgerond. Dat maakte de private bank dinsdagochtend bekend.",
-    "published_at": "2026-03-31 08:45",
-    "scraped_at": "2026-03-31T07:57:39.614369"
-  },
-  {
-    "id": "2561036359522771455664b4371bc74a",
-    "categorie": "Beursnieuws",
-    "titel": "Britse economie groeit iets harder",
-    "link": "https://www.beurs.nl/Nieuws/858901/Britse-economie-groeit-iets-harder.aspx",
-    "intro": "De Britse economie is in het vierde kwartaal van 2025 iets sterker gegroeid dan eerder gemeld. Dit bleek dinsdag uit nieuwe cijfers van het Britse statistiekbureau ONS.",
-    "published_at": "2026-03-31 08:36",
-    "scraped_at": "2026-03-31T07:57:39.614369"
-  },
-  {
-    "id": "c5e86dc988f1142298ac67a3a28696db",
-    "categorie": "Beursnieuws",
-    "titel": "Holland Colours neemt afscheid van CEO",
-    "link": "https://www.beurs.nl/Nieuws/858900/Holland-Colours-neemt-afscheid-van-CEO.aspx",
-    "intro": "Coen Vinke vertrekt als CEO van Holland Colours. Dit maakte de Apeldoornse fabrikant van kleurstoffen voor met name kunststoffen dinsdagochtend bekend.",
-    "published_at": "2026-03-31 08:29",
-    "scraped_at": "2026-03-31T07:57:39.614369"
+    "scraped_at": "2026-03-31T09:12:32.259655"
   }
 ]
