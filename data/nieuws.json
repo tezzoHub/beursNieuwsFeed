@@ -1,92 +1,92 @@
 [
   {
-    "id": "4e299c04488cc9f161d384500b5e64d7",
+    "id": "dbce55d1a85493bd5fe34fa5d2525283",
     "categorie": "Beursnieuws",
-    "titel": "Voedingstak Unilever fuseert met McCormick",
-    "link": "https://www.beurs.nl/Nieuws/858972/Voedingstak-Unilever-fuseert-met-McCormick.aspx",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/858996/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 8 april 2026:",
+    "published_at": "2026-03-31 16:10",
+    "scraped_at": "2026-03-31T14:18:47.016717"
+  },
+  {
+    "id": "586a870c9842c18dadfa2855607e8099",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/858998/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 8 april 2026:",
+    "published_at": "2026-03-31 16:10",
+    "scraped_at": "2026-03-31T14:18:47.016717"
+  },
+  {
+    "id": "1ca1a31e753a387b3df619268fcbd341",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/858999/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 8 april 2026:",
+    "published_at": "2026-03-31 16:10",
+    "scraped_at": "2026-03-31T14:18:47.016717"
+  },
+  {
+    "id": "2d4eb6ee497dd8a843726f811be642e2",
+    "categorie": "Beursnieuws",
+    "titel": "Aantal vacatures in VS gedaald",
+    "link": "https://www.beurs.nl/Nieuws/859000/Aantal-vacatures-in-VS-gedaald.aspx",
+    "intro": "Het aantal vacatures in de Verenigde Staten is in februari gedaald ten opzichte van een jaar eerder. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-03-31 16:08",
+    "scraped_at": "2026-03-31T14:18:47.016717"
+  },
+  {
+    "id": "90ba89914a3001284b87d13125802fd5",
+    "categorie": "Beursnieuws",
+    "titel": "Industrie rond Chicago groeit veel minder sterk",
+    "link": "https://www.beurs.nl/Nieuws/858992/Industrie-rond-Chicago-groeit-veel-minder-sterk.aspx",
+    "intro": "De economische activiteit in de industrie rond Chicago is in maart veel minder hard gegroeid. Dit meldde het Institute for Supply Management dinsdag.",
+    "published_at": "2026-03-31 15:56",
+    "scraped_at": "2026-03-31T14:18:47.016717"
+  },
+  {
+    "id": "ce3cc35d8adfb9ad895e60751109a6c6",
+    "categorie": "Beursnieuws",
+    "titel": "Update: voedingstak Unilever fuseert met McCormick",
+    "link": "https://www.beurs.nl/Nieuws/858989/Update-voedingstak-Unilever-fuseert-met-McCormick.aspx",
     "intro": "Unilever gaat zijn voedingstak definitief fuseren met het Amerikaanse McCormick  Company. Dit werd dinsdag bevestigd, nadat eerder op de dag al bleek dat een deal op handen was.",
-    "published_at": "2026-03-31 14:36",
-    "scraped_at": "2026-03-31T12:41:48.561716"
+    "published_at": "2026-03-31 15:44",
+    "scraped_at": "2026-03-31T14:18:47.016717"
   },
   {
-    "id": "ec1d234da37d00975012bc7c2c6244a3",
+    "id": "a26c89a0a95c005d26b1418887df81db",
     "categorie": "Beursnieuws",
-    "titel": "Eli Lilly neemt Centessa Pharmaceuticals over",
-    "link": "https://www.beurs.nl/Nieuws/858961/Eli-Lilly-neemt-Centessa-Pharmaceuticals-over.aspx",
-    "intro": "Eli Lilly neemt het Britse Centessa Pharmaceuticals over voor een bedrag dat kan oplopen naar 8 miljard dollar. Dit bleek dinsdag uit een persbericht van de Amerikaanse biofarmaceut.",
-    "published_at": "2026-03-31 14:02",
-    "scraped_at": "2026-03-31T12:41:48.561716"
+    "titel": "Beursblik: Goldman verlaagt koersdoelen voor Azelis en IMCD",
+    "link": "https://www.beurs.nl/Nieuws/858986/Beursblik-Goldman-verlaagt-koersdoelen-voor-Azelis-en-IMCD.aspx",
+    "intro": "Goldman Sachs heeft dinsdag de koersdoelen voor Azelis en IMCD verlaagd, maar handhaafde beide aandelen wel op de kooplijst. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-03-31 15:27",
+    "scraped_at": "2026-03-31T14:18:47.016717"
   },
   {
-    "id": "3e372aa55fafb31da6bc8d62e0f5d008",
+    "id": "04056e88347b3321fd63298b84b2dac1",
     "categorie": "Beursnieuws",
-    "titel": "Video: aandelen tech, nuts en consumptie interessant dit kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/858954/Video-aandelen-tech-nuts-en-consumptie-interessant-dit-kwartaal.aspx",
-    "intro": "Techbedrijven zullen bij de komende kwartaalcijfers de beste prestaties laten zien, maar ook nutsbedrijven en consumentengoederen zijn de moeite waard om in de gaten te houden. Dit stelde beleggingsstrateeg Frank Vranken van Edmond de Rothschild voor de camera van ABM Financial News in Brussel.",
-    "published_at": "2026-03-31 13:13",
-    "scraped_at": "2026-03-31T12:41:48.561716"
+    "titel": "Amerikaanse huizenprijzen stijgen iets minder hard",
+    "link": "https://www.beurs.nl/Nieuws/858981/Amerikaanse-huizenprijzen-stijgen-iets-minder-hard.aspx",
+    "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in januari iets minder hard gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
+    "published_at": "2026-03-31 15:07",
+    "scraped_at": "2026-03-31T14:18:47.016717"
   },
   {
-    "id": "9772fcc6899fba38c45316cd34f0dd6f",
+    "id": "050ac97a59cf59a6a65ae30bee794cb1",
     "categorie": "Beursnieuws",
-    "titel": "McCormick zegt bij kwartaalcijfers niets over Unilever",
-    "link": "https://www.beurs.nl/Nieuws/858952/McCormick-zegt-bij-kwartaalcijfers-niets-over-Unilever.aspx",
-    "intro": "McCormick  Company heeft in het eerste kwartaal van zijn lopende boekjaar een hogere omzet geboekt, terwijl de winst per aandeel flink steeg. Dit bleek dinsdag uit de cijfers van het Amerikaans voedingsbedrijf dat specerijen, kruidenmengsels, smaakmakers en andere smaakstoffen produceert.",
-    "published_at": "2026-03-31 12:58",
-    "scraped_at": "2026-03-31T12:41:48.561716"
+    "titel": "Fugro aan de slag voor Petrobras",
+    "link": "https://www.beurs.nl/Nieuws/858976/Fugro-aan-de-slag-voor-Petrobras.aspx",
+    "intro": "Fugro is geselecteerd door Petrobras voor het uitvoeren van geotechnisch terreinonderzoek voor de pilot van een offshore windproject in Rio de Janeiro. Dit meldde de bodemonderzoeker dinsdag, zonder financiële details bekend te maken.",
+    "published_at": "2026-03-31 14:54",
+    "scraped_at": "2026-03-31T14:18:47.016717"
   },
   {
-    "id": "887dd389df294377c0132e5cf9447882",
+    "id": "d67d0c0fd6a98c422b077d8022a36187",
     "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street wijzen op een hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/858949/Futures-Wall-Street-wijzen-op-een-hogere-opening.aspx",
+    "titel": "Wall Street koerst af op groene opening",
+    "link": "https://www.beurs.nl/Nieuws/858975/Wall-Street-koerst-af-op-groene-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag naar verwachting een duidelijk hogere opening tegemoet, naar aanleiding van een bericht in de Wall Street Journal dat president Donald Trump tegen zijn medewerkers heeft gezegd dat hij bereid was de militaire vijandelijkheden in het Midden-Oosten te beëindigen, zelfs als de Straat van Hormuz grotendeels gesloten zou blijven.",
-    "published_at": "2026-03-31 12:47",
-    "scraped_at": "2026-03-31T12:41:48.561716"
-  },
-  {
-    "id": "d84d006b428bee54ef15cbcf1936361f",
-    "categorie": "Beursnieuws",
-    "titel": "Unilever bevestigt vergevorderde gesprekken met McCormick",
-    "link": "https://www.beurs.nl/Nieuws/858946/Unilever-bevestigt-vergevorderde-gesprekken-met-McCormick.aspx",
-    "intro": "Unilever is inderdaad in vergevorderde gesprekken met het Amerikaanse McCormick met betrekking tot een overname van zijn voedingstak. Dit bevestigde het levensmiddelenconcern dinsdag na een verhaal in The Wall Street Journal.",
-    "published_at": "2026-03-31 12:28",
-    "scraped_at": "2026-03-31T12:41:48.561716"
-  },
-  {
-    "id": "814b8a08789f40e7eb892ecdbac762e6",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hoger rond lunchtijd",
-    "link": "https://www.beurs.nl/Nieuws/858944/Europese-beurzen-hoger-rond-lunchtijd.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur hoger, terwijl de olieprijzen volatiel waren.",
-    "published_at": "2026-03-31 12:15",
-    "scraped_at": "2026-03-31T12:41:48.561716"
-  },
-  {
-    "id": "7f002a60d0a46080fdaed0f1244d5f56",
-    "categorie": "Beursnieuws",
-    "titel": "AEX kleurt voorzichtig groen",
-    "link": "https://www.beurs.nl/Nieuws/858933/AEX-kleurt-voorzichtig-groen.aspx",
-    "intro": "De Amsterdamse beurs kleurde dinsdag richting het einde van de ochtend voorzichtig groen, waarbij de aandelen van databedrijven in trek waren, maar de 'chippers' juist onder druk stonden na een waarschuwing van het Zwitserse VAT.",
-    "published_at": "2026-03-31 11:23",
-    "scraped_at": "2026-03-31T12:41:48.561716"
-  },
-  {
-    "id": "fdfe8567120557202de65c8ecc6db24e",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone flink gestegen naar 2,5%",
-    "link": "https://www.beurs.nl/Nieuws/858930/Inflatie-eurozone-flink-gestegen-naar-25.aspx",
-    "intro": "De inflatie in de eurozone is in maart toegenomen door een sterke stijging van de energieprijzen. Dit bleek uit cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-03-31 11:08",
-    "scraped_at": "2026-03-31T12:41:48.561716"
-  },
-  {
-    "id": "45c1597547799b34c7a70c1c650c96d4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Berenberg verlaagt koersdoel CSG licht",
-    "link": "https://www.beurs.nl/Nieuws/858921/Beursblik-Berenberg-verlaagt-koersdoel-CSG-licht.aspx",
-    "intro": "Berenberg heeft dinsdag het koersdoel voor CSG verlaagd van 35,00 naar 34,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist George McWhirter.",
-    "published_at": "2026-03-31 10:33",
-    "scraped_at": "2026-03-31T12:41:48.561716"
+    "published_at": "2026-03-31 14:48",
+    "scraped_at": "2026-03-31T14:18:47.016717"
   }
 ]
