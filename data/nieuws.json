@@ -1,12 +1,75 @@
 [
   {
+    "id": "6e0e6c8ab15ef9050856663e69d7756e",
+    "categorie": "Beursnieuws",
+    "titel": "Herstel AEX blijft achter door zwaargewichten Unilever en Shell",
+    "link": "https://www.beurs.nl/Nieuws/859182/Herstel-AEX-blijft-achter-door-zwaargewichten-Unilever-en-Shell.aspx",
+    "intro": "De Amsterdamse beurs is woensdag flink hoger gesloten, maar bleef wel achter bij andere Europese beurzen door de koersverliezen van zwaargewichten Unilever en Shell.",
+    "published_at": "2026-04-01 17:46",
+    "scraped_at": "2026-04-01T15:48:59.634582"
+  },
+  {
+    "id": "f3992821bf541f3e6000e53ea8183c34",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Iran houdt Straat van Hormuz gesloten",
+    "link": "https://www.beurs.nl/Nieuws/859180/Media-Iran-houdt-Straat-van-Hormuz-gesloten.aspx",
+    "intro": "Iran zal de Straat van Hormuz niet vrijgeven. Dit meldde persbureau Bloomberg woensdagmiddag.",
+    "published_at": "2026-04-01 17:40",
+    "scraped_at": "2026-04-01T15:48:59.634582"
+  },
+  {
+    "id": "45ab057cf9e19a72bf84b0b2cbaf026f",
+    "categorie": "Redactioneel",
+    "titel": "Slotcall: geen vuiltje aan de lucht op deze felgroene beursdag",
+    "link": "https://www.iex.nl/artikel/859172/Slotcall-geen-vuiltje-aan-de-lucht-op-deze-felgroene-beursdag.aspx",
+    "intro": "Uiteindelijk sluit de AEX 1,8% hoger op 976 punten en een beetje, geholpen door uitspraken van president Trump dat het Amerikaanse leger Iran binnen twee tot drie weken zal verlaten. En of de markten daar blij mee zijn.",
+    "published_at": "2026-04-01 17:35",
+    "scraped_at": "2026-04-01T15:48:59.634582"
+  },
+  {
+    "id": "113307c003ac164124c843a143208874",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden nemen fors toe",
+    "link": "https://www.beurs.nl/Nieuws/859171/Amerikaanse-olievoorraden-nemen-fors-toe.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-04-01 16:40",
+    "scraped_at": "2026-04-01T15:48:59.634582"
+  },
+  {
+    "id": "2656a6121adfa74ebdb0c5442c17dffa",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/859168/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 9 april 2026:",
+    "published_at": "2026-04-01 16:29",
+    "scraped_at": "2026-04-01T15:48:59.634582"
+  },
+  {
+    "id": "d6b039e717a9fc4f66e8c580c0d76a91",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/859167/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 9 april 2026:",
+    "published_at": "2026-04-01 16:28",
+    "scraped_at": "2026-04-01T15:48:59.634582"
+  },
+  {
+    "id": "054552f470e7cb917077ef5f26223450",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/859166/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 9 april 2026:",
+    "published_at": "2026-04-01 16:26",
+    "scraped_at": "2026-04-01T15:48:59.634582"
+  },
+  {
     "id": "ac68d15cc84b69e0947db4b8e9dc1345",
     "categorie": "Beursnieuws",
     "titel": "ISM: Amerikaanse industrie groeit iets harder",
     "link": "https://www.beurs.nl/Nieuws/859165/ISM-Amerikaanse-industrie-groeit-iets-harder.aspx",
     "intro": "De Amerikaanse industrie is in maart iets harder gegroeid dan in de maand ervoor. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-04-01 16:03",
-    "scraped_at": "2026-04-01T14:20:49.152853"
+    "scraped_at": "2026-04-01T15:48:59.634582"
   },
   {
     "id": "865b1ab4bf2f1c1620cfaa3351219d13",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859163/Amerikaanse-industrie-groeit-harder.aspx",
     "intro": "De industrie in de Verenigde Staten is in maart harder gegroeid dan in de maand ervoor. Dit bleek woensdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-04-01 15:48",
-    "scraped_at": "2026-04-01T14:20:49.152853"
+    "scraped_at": "2026-04-01T15:48:59.634582"
   },
   {
     "id": "3df0aee4540907fcc155b36e46d88dd9",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859157/Trump-pas-staakt-het-vuren-als-Straat-van-Hormuz-open-is.aspx",
     "intro": "De Verenigde Staten willen pas een staakt-het vuren als de Straat van Hormuz weer open is. Dit zei de Amerikaanse president Donald Trump woensdagmiddag op Truth Social.",
     "published_at": "2026-04-01 15:16",
-    "scraped_at": "2026-04-01T14:20:49.152853"
-  },
-  {
-    "id": "34f69e598e728eda49d1d0a2bc562dbe",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt koersdoel Ahold Delhaize",
-    "link": "https://www.beurs.nl/Nieuws/859151/Jefferies-verhoogt-koersdoel-Ahold-Delhaize.aspx",
-    "intro": "Jefferies heeft woensdag het koersdoel voor Ahold Delhaize verhoogd van 45,00 naar 47,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-04-01 15:03",
-    "scraped_at": "2026-04-01T14:20:49.152853"
-  },
-  {
-    "id": "6535ed93228c0a7840388ba9dc83dfe8",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/859148/Hogere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,6 procent in het groen. De Nasdaq opent vermoedelijk 0,9 procent hoger.",
-    "published_at": "2026-04-01 14:59",
-    "scraped_at": "2026-04-01T14:20:49.152853"
-  },
-  {
-    "id": "e271c196286114eb91080226853723aa",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse detailhandelsverkopen gestegen",
-    "link": "https://www.beurs.nl/Nieuws/859145/Amerikaanse-detailhandelsverkopen-gestegen.aspx",
-    "intro": "De verkopen in de Amerikaanse detailhandel zijn in februari gestegen. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-04-01 14:34",
-    "scraped_at": "2026-04-01T14:20:49.152853"
-  },
-  {
-    "id": "1e1f0872e255848acc518b3a4a7c50e2",
-    "categorie": "Beursnieuws",
-    "titel": "ADP: sterke banengroei in private sector VS",
-    "link": "https://www.beurs.nl/Nieuws/859143/ADP-sterke-banengroei-in-private-sector-VS.aspx",
-    "intro": "De werkgelegenheid in de private sector in de Verenigde Staten is in maart harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van loonstrookjesverwerker ADP.",
-    "published_at": "2026-04-01 14:19",
-    "scraped_at": "2026-04-01T14:20:49.152853"
-  },
-  {
-    "id": "080ee13f6d5f91330b689422739c86af",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/859134/Wall-Street-wacht-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden 0,7 procent in het groen.",
-    "published_at": "2026-04-01 13:16",
-    "scraped_at": "2026-04-01T14:20:49.152853"
-  },
-  {
-    "id": "84435436c09adf49e0cd1362d8f465e2",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/859119/Europese-beurzen-in-het-groen.aspx",
-    "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger, na hoopvolle woorden van de Amerikaanse president Donald Trump.",
-    "published_at": "2026-04-01 12:12",
-    "scraped_at": "2026-04-01T14:20:49.152853"
-  },
-  {
-    "id": "9b81ce1cc2ee9c967a968442a032b67a",
-    "categorie": "Beursnieuws",
-    "titel": "ArcelorMittal en ING aan kop in felgroene AEX",
-    "link": "https://www.beurs.nl/Nieuws/859109/ArcelorMittal-en-ING-aan-kop-in-felgroene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdag overtuigend hoger. Rond de klok van elf uur won de AEX 1,2 procent op 970,86 punten.",
-    "published_at": "2026-04-01 11:07",
-    "scraped_at": "2026-04-01T14:20:49.152853"
+    "scraped_at": "2026-04-01T15:48:59.634582"
   }
 ]
