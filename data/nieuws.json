@@ -1,12 +1,57 @@
 [
   {
+    "id": "ac68d15cc84b69e0947db4b8e9dc1345",
+    "categorie": "Beursnieuws",
+    "titel": "ISM: Amerikaanse industrie groeit iets harder",
+    "link": "https://www.beurs.nl/Nieuws/859165/ISM-Amerikaanse-industrie-groeit-iets-harder.aspx",
+    "intro": "De Amerikaanse industrie is in maart iets harder gegroeid dan in de maand ervoor. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
+    "published_at": "2026-04-01 16:03",
+    "scraped_at": "2026-04-01T14:20:49.152853"
+  },
+  {
+    "id": "865b1ab4bf2f1c1620cfaa3351219d13",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse industrie groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/859163/Amerikaanse-industrie-groeit-harder.aspx",
+    "intro": "De industrie in de Verenigde Staten is in maart harder gegroeid dan in de maand ervoor. Dit bleek woensdag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-04-01 15:48",
+    "scraped_at": "2026-04-01T14:20:49.152853"
+  },
+  {
+    "id": "3df0aee4540907fcc155b36e46d88dd9",
+    "categorie": "Beursnieuws",
+    "titel": "Trump: pas staakt-het-vuren als Straat van Hormuz open is",
+    "link": "https://www.beurs.nl/Nieuws/859157/Trump-pas-staakt-het-vuren-als-Straat-van-Hormuz-open-is.aspx",
+    "intro": "De Verenigde Staten willen pas een staakt-het vuren als de Straat van Hormuz weer open is. Dit zei de Amerikaanse president Donald Trump woensdagmiddag op Truth Social.",
+    "published_at": "2026-04-01 15:16",
+    "scraped_at": "2026-04-01T14:20:49.152853"
+  },
+  {
+    "id": "34f69e598e728eda49d1d0a2bc562dbe",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verhoogt koersdoel Ahold Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/859151/Jefferies-verhoogt-koersdoel-Ahold-Delhaize.aspx",
+    "intro": "Jefferies heeft woensdag het koersdoel voor Ahold Delhaize verhoogd van 45,00 naar 47,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-04-01 15:03",
+    "scraped_at": "2026-04-01T14:20:49.152853"
+  },
+  {
+    "id": "6535ed93228c0a7840388ba9dc83dfe8",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/859148/Hogere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,6 procent in het groen. De Nasdaq opent vermoedelijk 0,9 procent hoger.",
+    "published_at": "2026-04-01 14:59",
+    "scraped_at": "2026-04-01T14:20:49.152853"
+  },
+  {
     "id": "e271c196286114eb91080226853723aa",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse detailhandelsverkopen gestegen",
     "link": "https://www.beurs.nl/Nieuws/859145/Amerikaanse-detailhandelsverkopen-gestegen.aspx",
     "intro": "De verkopen in de Amerikaanse detailhandel zijn in februari gestegen. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-04-01 14:34",
-    "scraped_at": "2026-04-01T12:43:59.805375"
+    "scraped_at": "2026-04-01T14:20:49.152853"
   },
   {
     "id": "1e1f0872e255848acc518b3a4a7c50e2",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859143/ADP-sterke-banengroei-in-private-sector-VS.aspx",
     "intro": "De werkgelegenheid in de private sector in de Verenigde Staten is in maart harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van loonstrookjesverwerker ADP.",
     "published_at": "2026-04-01 14:19",
-    "scraped_at": "2026-04-01T12:43:59.805375"
+    "scraped_at": "2026-04-01T14:20:49.152853"
   },
   {
     "id": "080ee13f6d5f91330b689422739c86af",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859134/Wall-Street-wacht-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden 0,7 procent in het groen.",
     "published_at": "2026-04-01 13:16",
-    "scraped_at": "2026-04-01T12:43:59.805375"
+    "scraped_at": "2026-04-01T14:20:49.152853"
   },
   {
     "id": "84435436c09adf49e0cd1362d8f465e2",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859119/Europese-beurzen-in-het-groen.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger, na hoopvolle woorden van de Amerikaanse president Donald Trump.",
     "published_at": "2026-04-01 12:12",
-    "scraped_at": "2026-04-01T12:43:59.805375"
+    "scraped_at": "2026-04-01T14:20:49.152853"
   },
   {
     "id": "9b81ce1cc2ee9c967a968442a032b67a",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859109/ArcelorMittal-en-ING-aan-kop-in-felgroene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdag overtuigend hoger. Rond de klok van elf uur won de AEX 1,2 procent op 970,86 punten.",
     "published_at": "2026-04-01 11:07",
-    "scraped_at": "2026-04-01T12:43:59.805375"
-  },
-  {
-    "id": "a381a3fe3c6964fa5423a3685cbe8dd9",
-    "categorie": "Beursnieuws",
-    "titel": "\"Oracle zet mes in personeelsbestand\"",
-    "link": "https://www.beurs.nl/Nieuws/859106/Oracle-zet-mes-in-personeelsbestand.aspx",
-    "intro": "Oracle gaat duizenden banen schrappen. Dit meldde onder meer CNBC.",
-    "published_at": "2026-04-01 10:46",
-    "scraped_at": "2026-04-01T12:43:59.805375"
-  },
-  {
-    "id": "c439524f4af2acc4e092401d0aa3cac3",
-    "categorie": "Beursnieuws",
-    "titel": "Britse industrie groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/859104/Britse-industrie-groeit-minder-hard.aspx",
-    "intro": "De industrie in het Verenigd Koninkrijk is in maart minder hard gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-04-01 10:37",
-    "scraped_at": "2026-04-01T12:43:59.805375"
-  },
-  {
-    "id": "ea9eaf1215d16aae1569f0646e25181f",
-    "categorie": "Redactioneel",
-    "titel": "Must read: Oekraïne als nieuwe wapenleverancier voor Golfstaten",
-    "link": "https://www.iex.nl/artikel/858984/Must-read-Oekraine-als-nieuwe-wapenleverancier-voor-Golfstaten.aspx",
-    "intro": "Oekraïne komt uit de kast als wapenleverancier voor de oorlog in het Midden-Oosten. Oracle gaat duizenden mensen ontslaan door AI voor AI. Neushoorns helpen met obligaties en plofkrakers die uit hun winterslaap komen.",
-    "published_at": "2026-04-01 10:30",
-    "scraped_at": "2026-04-01T12:43:59.805375"
-  },
-  {
-    "id": "43e9fbb833477999875b9a182983971c",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verlaagt koersdoel Unilever",
-    "link": "https://www.beurs.nl/Nieuws/859103/Degroof-Petercam-verlaagt-koersdoel-Unilever.aspx",
-    "intro": "Degroof Petercam heeft woensdag het koersdoel voor Unilever verlaagd van 61,00 naar 58,00 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-04-01 10:28",
-    "scraped_at": "2026-04-01T12:43:59.805375"
-  },
-  {
-    "id": "18acfae419551fc68158d9575f385800",
-    "categorie": "Beursnieuws",
-    "titel": "Industrie in de eurozone groeit door",
-    "link": "https://www.beurs.nl/Nieuws/859099/Industrie-in-de-eurozone-groeit-door.aspx",
-    "intro": "De industrie in de eurozone is in maart verder gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-04-01 10:10",
-    "scraped_at": "2026-04-01T12:43:59.805375"
+    "scraped_at": "2026-04-01T14:20:49.152853"
   }
 ]
