@@ -1,21 +1,30 @@
 [
   {
-    "id": "f5f68ddf8ddd00cd26eaad474fc9e692",
+    "id": "84435436c09adf49e0cd1362d8f465e2",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: ArcelorMittal en ING aan kop in felgroene AEX",
-    "link": "https://www.beurs.nl/Nieuws/859109/Beursupdate-ArcelorMittal-en-ING-aan-kop-in-felgroene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdag overtuigend hoger. Rond de klok van elf uur won de AEX 1,2 procent op 970,86 punten.",
-    "published_at": "2026-04-01 11:07",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "titel": "Europese beurzen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/859119/Europese-beurzen-in-het-groen.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger, na hoopvolle woorden van de Amerikaanse president Donald Trump.",
+    "published_at": "2026-04-01 12:12",
+    "scraped_at": "2026-04-01T10:31:34.363766"
   },
   {
-    "id": "54ffde6c253c3b1dcccee80504219346",
+    "id": "9b81ce1cc2ee9c967a968442a032b67a",
     "categorie": "Beursnieuws",
-    "titel": "Media: Oracle zet mes in personeelsbestand",
-    "link": "https://www.beurs.nl/Nieuws/859106/Media-Oracle-zet-mes-in-personeelsbestand.aspx",
+    "titel": "ArcelorMittal en ING aan kop in felgroene AEX",
+    "link": "https://www.beurs.nl/Nieuws/859109/ArcelorMittal-en-ING-aan-kop-in-felgroene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdag overtuigend hoger. Rond de klok van elf uur won de AEX 1,2 procent op 970,86 punten.",
+    "published_at": "2026-04-01 11:07",
+    "scraped_at": "2026-04-01T10:31:34.363766"
+  },
+  {
+    "id": "a381a3fe3c6964fa5423a3685cbe8dd9",
+    "categorie": "Beursnieuws",
+    "titel": "\"Oracle zet mes in personeelsbestand\"",
+    "link": "https://www.beurs.nl/Nieuws/859106/Oracle-zet-mes-in-personeelsbestand.aspx",
     "intro": "Oracle gaat duizenden banen schrappen. Dit meldde onder meer CNBC.",
     "published_at": "2026-04-01 10:46",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "scraped_at": "2026-04-01T10:31:34.363766"
   },
   {
     "id": "c439524f4af2acc4e092401d0aa3cac3",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/859104/Britse-industrie-groeit-minder-hard.aspx",
     "intro": "De industrie in het Verenigd Koninkrijk is in maart minder hard gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-04-01 10:37",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "scraped_at": "2026-04-01T10:31:34.363766"
   },
   {
     "id": "ea9eaf1215d16aae1569f0646e25181f",
@@ -33,16 +42,16 @@
     "link": "https://www.iex.nl/artikel/858984/Must-read-Oekraine-als-nieuwe-wapenleverancier-voor-Golfstaten.aspx",
     "intro": "Oekraïne komt uit de kast als wapenleverancier voor de oorlog in het Midden-Oosten. Oracle gaat duizenden mensen ontslaan door AI voor AI. Neushoorns helpen met obligaties en plofkrakers die uit hun winterslaap komen.",
     "published_at": "2026-04-01 10:30",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "scraped_at": "2026-04-01T10:31:34.363766"
   },
   {
-    "id": "2f0b6fcba36c22eb402e7c57bf84ff16",
+    "id": "43e9fbb833477999875b9a182983971c",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam verlaagt koersdoel Unilever",
-    "link": "https://www.beurs.nl/Nieuws/859103/Beursblik-Degroof-Petercam-verlaagt-koersdoel-Unilever.aspx",
+    "titel": "Degroof Petercam verlaagt koersdoel Unilever",
+    "link": "https://www.beurs.nl/Nieuws/859103/Degroof-Petercam-verlaagt-koersdoel-Unilever.aspx",
     "intro": "Degroof Petercam heeft woensdag het koersdoel voor Unilever verlaagd van 61,00 naar 58,00 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-04-01 10:28",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "scraped_at": "2026-04-01T10:31:34.363766"
   },
   {
     "id": "18acfae419551fc68158d9575f385800",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859099/Industrie-in-de-eurozone-groeit-door.aspx",
     "intro": "De industrie in de eurozone is in maart verder gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-04-01 10:10",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "scraped_at": "2026-04-01T10:31:34.363766"
   },
   {
     "id": "a46d77d4c2546b5d033c9bd6d3372a6c",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859094/Groeiversnelling-voor-Duitse-industrie.aspx",
     "intro": "De industrie in Duitsland is in maart harder gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
     "published_at": "2026-04-01 10:01",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "scraped_at": "2026-04-01T10:31:34.363766"
   },
   {
     "id": "535ecd8b1650d51dcb4fd8acc2ab2e64",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859093/Franse-industrie-maakt-pas-op-de-plaats.aspx",
     "intro": "De Franse industrie heeft in maart een pas op de plaats gemaakt. Dit bleek woensdag uit definitieve cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-04-01 09:55",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "scraped_at": "2026-04-01T10:31:34.363766"
   },
   {
     "id": "85a3a1ba143a8cef9d8924b100a7d967",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859091/Italiaanse-industrie-groeit-in-hoger-tempo.aspx",
     "intro": "De industrie in Italië is in maart sterker gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
     "published_at": "2026-04-01 09:50",
-    "scraped_at": "2026-04-01T09:18:46.937217"
-  },
-  {
-    "id": "e625dcfa8006687da15bb9be7d698511",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam zet Arcadis op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/859089/Degroof-Petercam-zet-Arcadis-op-de-kooplijst.aspx",
-    "intro": "Degroof Petercam heeft woensdag het advies voor Arcadis verhoogd van Houden naar Kopen, terwijl het koersdoel 45,00 euro bleef. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-04-01 09:38",
-    "scraped_at": "2026-04-01T09:18:46.937217"
+    "scraped_at": "2026-04-01T10:31:34.363766"
   }
 ]
