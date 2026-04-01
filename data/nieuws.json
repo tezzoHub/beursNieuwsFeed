@@ -1,92 +1,92 @@
 [
   {
+    "id": "85a3a1ba143a8cef9d8924b100a7d967",
+    "categorie": "Beursnieuws",
+    "titel": "Italiaanse industrie groeit in hoger tempo",
+    "link": "https://www.beurs.nl/Nieuws/859091/Italiaanse-industrie-groeit-in-hoger-tempo.aspx",
+    "intro": "De industrie in Italië is in maart sterker gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-04-01 09:50",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
+    "id": "c9c34b6102cb3ebb08a43725716038ee",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Degroof Petercam zet Arcadis op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/859089/Beursblik-Degroof-Petercam-zet-Arcadis-op-de-kooplijst.aspx",
+    "intro": "Degroof Petercam heeft woensdag het advies voor Arcadis verhoogd van Houden naar Kopen, terwijl het koersdoel 45,00 euro bleef. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-04-01 09:38",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
+    "id": "b26ad4b32c997b5daa40e6e6ad288ef2",
+    "categorie": "Beursnieuws",
+    "titel": "Spaanse industrie krimpt",
+    "link": "https://www.beurs.nl/Nieuws/859087/Spaanse-industrie-krimpt.aspx",
+    "intro": "De Spaanse industrie is in maart weer gekrompen. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-04-01 09:21",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
+    "id": "09eda3072d269e1fcc714b553077d85f",
+    "categorie": "Beursnieuws",
+    "titel": "AEX schiet omhoog bij opening",
+    "link": "https://www.beurs.nl/Nieuws/859084/AEX-schiet-omhoog-bij-opening.aspx",
+    "intro": "De Amsterdamse beurs is woensdag flink hoger geopend, onder aanvoering van onder meer de halfgeleiders. Kort na opening, koerste de AEX 1,6 procent hoger op 975,47 punten.",
+    "published_at": "2026-04-01 09:07",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
+    "id": "823e33fb477faf79b2a64bb50bb83f34",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verlaagt koersdoel Philips",
+    "link": "https://www.beurs.nl/Nieuws/859082/Deutsche-Bank-verlaagt-koersdoel-Philips.aspx",
+    "intro": "Deutsche Bank heeft woensdag het koersdoel voor Philips verlaagd van 29,00 naar 25,00 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van de Duitse bank.",
+    "published_at": "2026-04-01 08:58",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
+    "id": "3e486e1b523441cb4124128d91d493ff",
+    "categorie": "Beursnieuws",
+    "titel": "SPF flink groter in Nedap",
+    "link": "https://www.beurs.nl/Nieuws/859081/SPF-flink-groter-in-Nedap.aspx",
+    "intro": "Steflot S.à r.l., société de gestion de patrimoine familial, kortweg SPF, heeft een beduidend groter belang in Nedap gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 31 maart.",
+    "published_at": "2026-04-01 08:40",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
+    "id": "5717086694201f19d542ed096e69e792",
+    "categorie": "Voorbeurs",
+    "titel": "Opluchtingsrally verwacht bij start tweede kwartaal",
+    "link": "https://www.beurs.nl/Artikel/859052/Opluchtingsrally-verwacht-bij-start-tweede-kwartaal.aspx",
+    "intro": "Openingsindicatie: +1,5%. Hoop op een spoedig einde van de Iranoorlog zette beurzen Wall Street en Azië stevig in de plus. Volgt Amsterdam? En verder: Nike, SK Hynix en Marvell Technology.",
+    "published_at": "2026-04-01 08:25",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
+    "id": "1d9ea2985e1b74e33fcdcd65f1f467b4",
+    "categorie": "Beursnieuws",
+    "titel": "Aegon wil langer door met CEO Friese",
+    "link": "https://www.beurs.nl/Nieuws/859076/Aegon-wil-langer-door-met-CEO-Friese.aspx",
+    "intro": "Aegon heeft voorgesteld om de bestuurstermijn van CEO Lard Friese te verlengen tot in 2030. Dit maakte de verzekeraar woensdag voorbeurs bekend.",
+    "published_at": "2026-04-01 08:16",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
+    "id": "3f90712e76097befe435a244027555b3",
+    "categorie": "Beursnieuws",
+    "titel": "Flinke hogere opening AEX in verschiet",
+    "link": "https://www.beurs.nl/Nieuws/859075/Flinke-hogere-opening-AEX-in-verschiet.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een flink hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 1,5 procent in het groen. Dinsdag eindigde de hoofdgraadmeter nog 0,5 procent lager op 959,80 punten, door een koersval van Unilever na aankondiging van de afsplitsing van zijn voedingstak.",
+    "published_at": "2026-04-01 08:14",
+    "scraped_at": "2026-04-01T07:58:03.338373"
+  },
+  {
     "id": "befb1435de58d4f8fb246c43d473883d",
     "categorie": "Beursnieuws",
     "titel": "OCI rondt verkoop OCI Ammonia Holding af",
     "link": "https://www.beurs.nl/Nieuws/859072/OCI-rondt-verkoop-OCI-Ammonia-Holding-af.aspx",
     "intro": "OCI Global heeft dinsdag met succes de verkoop van 100 procent van haar aandelen in OCI Ammonia Holding aan AGROFERT afgerond. Dit meldde het in Amsterdam genoteerde bedrijf nabeurs in een persbericht.",
     "published_at": "2026-04-01 08:00",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "42d6b7ae2f070e114efe04195fb15aeb",
-    "categorie": "Beursnieuws",
-    "titel": "Nike stelt teleur",
-    "link": "https://www.beurs.nl/Nieuws/859069/Nike-stelt-teleur.aspx",
-    "intro": "Nike heeft niet weten te overtuigen met de cijfers over het vorige kwartaal en het aandeel lijkt woensdag meer dan 9 procent lager te openen.",
-    "published_at": "2026-04-01 07:44",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "592122b4af43af83428d4e83e799f232",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse Nikkei schiet omhoog",
-    "link": "https://www.beurs.nl/Nieuws/859068/Japanse-Nikkei-schiet-omhoog.aspx",
-    "intro": "De Aziatische aandelenmarkten koersten woensdagochtend hoger, waarbij vooral de Japanse beurs omhoogschoot.",
-    "published_at": "2026-04-01 07:35",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "e74bb3faa04c4b50b053d68316627472",
-    "categorie": "Beursnieuws",
-    "titel": "Detailhandel zet meer om",
-    "link": "https://www.beurs.nl/Nieuws/859065/Detailhandel-zet-meer-om.aspx",
-    "intro": "De detailhandel heeft in februari meer omgezet dan in februari 2025. Dit meldde het Centraal Bureau voor de Statistiek woensdag.",
-    "published_at": "2026-04-01 07:27",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "14813ce00243aff5e54afa6323fe54a6",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse industrie groeit nog harder",
-    "link": "https://www.beurs.nl/Nieuws/859064/Nederlandse-industrie-groeit-nog-harder.aspx",
-    "intro": "De industrie in Nederland is in maart nog harder gegroeid. Dit bleek woensdag uit de inkoopmanagersindex van NEVI.",
-    "published_at": "2026-04-01 07:24",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "8e40be2c1396178770938c172d1bf896",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/859060/Europese-beurzen-openen-in-het-groen.aspx",
-    "intro": "(ABM FN-Dow Jones) De Europese beurzen gaan woensdag een beduidend hogere opening tegemoet, in afwachting van een speech van de Amerikaanse president Donald Trump. Beleggers hopen dan duidelijkheid te krijgen over een eventueel einde van de oorlog in Iran.",
-    "published_at": "2026-04-01 07:13",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "40a38c9f59fa309ed460b9199e759664",
-    "categorie": "Beursnieuws",
-    "titel": "Chinese industrie groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/859059/Chinese-industrie-groeit-minder-hard.aspx",
-    "intro": "De Chinese industrie is in maart minder hard gegroeid. Dit bleek woensdag uit cijfers van SP Global en RatingDog.",
-    "published_at": "2026-04-01 07:05",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "c8b12123b369acbd185486501cad53e5",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse industrie groeit in lager tempo",
-    "link": "https://www.beurs.nl/Nieuws/859058/Japanse-industriegroeit-in-lager-tempo.aspx",
-    "intro": "De industrie in Japan is in maart blijven groeien, maar wel in een lager tempo. Dit bleek woensdag uit de inkoopmanagersindex van SP Global.",
-    "published_at": "2026-04-01 06:59",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "e1a092dd32897e354e47f3baee0b2ef8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/859056/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 8 april 2026:",
-    "published_at": "2026-04-01 06:55",
-    "scraped_at": "2026-04-01T06:10:59.451253"
-  },
-  {
-    "id": "112f75e3a06356af367c1d4057e7866e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/859055/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 8 april 2026:",
-    "published_at": "2026-04-01 06:54",
-    "scraped_at": "2026-04-01T06:10:59.451253"
+    "scraped_at": "2026-04-01T07:58:03.338373"
   }
 ]
