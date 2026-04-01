@@ -1,12 +1,21 @@
 [
   {
+    "id": "080ee13f6d5f91330b689422739c86af",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/859134/Wall-Street-wacht-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden 0,7 procent in het groen.",
+    "published_at": "2026-04-01 13:16",
+    "scraped_at": "2026-04-01T11:39:30.600797"
+  },
+  {
     "id": "84435436c09adf49e0cd1362d8f465e2",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen in het groen",
     "link": "https://www.beurs.nl/Nieuws/859119/Europese-beurzen-in-het-groen.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur hoger, na hoopvolle woorden van de Amerikaanse president Donald Trump.",
     "published_at": "2026-04-01 12:12",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   },
   {
     "id": "9b81ce1cc2ee9c967a968442a032b67a",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/859109/ArcelorMittal-en-ING-aan-kop-in-felgroene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdag overtuigend hoger. Rond de klok van elf uur won de AEX 1,2 procent op 970,86 punten.",
     "published_at": "2026-04-01 11:07",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   },
   {
     "id": "a381a3fe3c6964fa5423a3685cbe8dd9",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/859106/Oracle-zet-mes-in-personeelsbestand.aspx",
     "intro": "Oracle gaat duizenden banen schrappen. Dit meldde onder meer CNBC.",
     "published_at": "2026-04-01 10:46",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   },
   {
     "id": "c439524f4af2acc4e092401d0aa3cac3",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859104/Britse-industrie-groeit-minder-hard.aspx",
     "intro": "De industrie in het Verenigd Koninkrijk is in maart minder hard gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-04-01 10:37",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   },
   {
     "id": "ea9eaf1215d16aae1569f0646e25181f",
@@ -42,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/858984/Must-read-Oekraine-als-nieuwe-wapenleverancier-voor-Golfstaten.aspx",
     "intro": "Oekraïne komt uit de kast als wapenleverancier voor de oorlog in het Midden-Oosten. Oracle gaat duizenden mensen ontslaan door AI voor AI. Neushoorns helpen met obligaties en plofkrakers die uit hun winterslaap komen.",
     "published_at": "2026-04-01 10:30",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   },
   {
     "id": "43e9fbb833477999875b9a182983971c",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859103/Degroof-Petercam-verlaagt-koersdoel-Unilever.aspx",
     "intro": "Degroof Petercam heeft woensdag het koersdoel voor Unilever verlaagd van 61,00 naar 58,00 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-04-01 10:28",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   },
   {
     "id": "18acfae419551fc68158d9575f385800",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859099/Industrie-in-de-eurozone-groeit-door.aspx",
     "intro": "De industrie in de eurozone is in maart verder gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-04-01 10:10",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   },
   {
     "id": "a46d77d4c2546b5d033c9bd6d3372a6c",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859094/Groeiversnelling-voor-Duitse-industrie.aspx",
     "intro": "De industrie in Duitsland is in maart harder gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
     "published_at": "2026-04-01 10:01",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   },
   {
     "id": "535ecd8b1650d51dcb4fd8acc2ab2e64",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859093/Franse-industrie-maakt-pas-op-de-plaats.aspx",
     "intro": "De Franse industrie heeft in maart een pas op de plaats gemaakt. Dit bleek woensdag uit definitieve cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-04-01 09:55",
-    "scraped_at": "2026-04-01T10:31:34.363766"
-  },
-  {
-    "id": "85a3a1ba143a8cef9d8924b100a7d967",
-    "categorie": "Beursnieuws",
-    "titel": "Italiaanse industrie groeit in hoger tempo",
-    "link": "https://www.beurs.nl/Nieuws/859091/Italiaanse-industrie-groeit-in-hoger-tempo.aspx",
-    "intro": "De industrie in Italië is in maart sterker gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
-    "published_at": "2026-04-01 09:50",
-    "scraped_at": "2026-04-01T10:31:34.363766"
+    "scraped_at": "2026-04-01T11:39:30.600797"
   }
 ]
