@@ -1,12 +1,21 @@
 [
   {
+    "id": "b03c762cc5bc60251f1d3de076a4a145",
+    "categorie": "Beursnieuws",
+    "titel": "Eli Lilly krijgt goedkeuring voor afslankmiddel in pilvorm",
+    "link": "https://www.beurs.nl/Nieuws/859185/Eli-Lilly-krijgt-goedkeuring-voor-afslankmiddel-in-pilvorm.aspx",
+    "intro": "Eli Lilly heeft woensdag bekendgemaakt dat de Amerikaanse geneesmiddelenautoriteit FDA Foundayo heeft goedgekeurd, een dagelijkse afslankmiddel in pilvorm. Daarmee zet het farmabedrijf uit Indianapolis een belangrijke stap in de snel groeiende markt voor GLP-1-medicijnen.",
+    "published_at": "2026-04-01 18:06",
+    "scraped_at": "2026-04-01T16:41:18.286417"
+  },
+  {
     "id": "6e0e6c8ab15ef9050856663e69d7756e",
     "categorie": "Beursnieuws",
     "titel": "Herstel AEX blijft achter door zwaargewichten Unilever en Shell",
     "link": "https://www.beurs.nl/Nieuws/859182/Herstel-AEX-blijft-achter-door-zwaargewichten-Unilever-en-Shell.aspx",
     "intro": "De Amsterdamse beurs is woensdag flink hoger gesloten, maar bleef wel achter bij andere Europese beurzen door de koersverliezen van zwaargewichten Unilever en Shell.",
     "published_at": "2026-04-01 17:46",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   },
   {
     "id": "f3992821bf541f3e6000e53ea8183c34",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/859180/Media-Iran-houdt-Straat-van-Hormuz-gesloten.aspx",
     "intro": "Iran zal de Straat van Hormuz niet vrijgeven. Dit meldde persbureau Bloomberg woensdagmiddag.",
     "published_at": "2026-04-01 17:40",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   },
   {
     "id": "45ab057cf9e19a72bf84b0b2cbaf026f",
@@ -24,7 +33,7 @@
     "link": "https://www.iex.nl/artikel/859172/Slotcall-geen-vuiltje-aan-de-lucht-op-deze-felgroene-beursdag.aspx",
     "intro": "Uiteindelijk sluit de AEX 1,8% hoger op 976 punten en een beetje, geholpen door uitspraken van president Trump dat het Amerikaanse leger Iran binnen twee tot drie weken zal verlaten. En of de markten daar blij mee zijn.",
     "published_at": "2026-04-01 17:35",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   },
   {
     "id": "113307c003ac164124c843a143208874",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859171/Amerikaanse-olievoorraden-nemen-fors-toe.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-04-01 16:40",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   },
   {
     "id": "2656a6121adfa74ebdb0c5442c17dffa",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859168/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 9 april 2026:",
     "published_at": "2026-04-01 16:29",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   },
   {
     "id": "d6b039e717a9fc4f66e8c580c0d76a91",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859167/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 9 april 2026:",
     "published_at": "2026-04-01 16:28",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   },
   {
     "id": "054552f470e7cb917077ef5f26223450",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859166/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 9 april 2026:",
     "published_at": "2026-04-01 16:26",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   },
   {
     "id": "ac68d15cc84b69e0947db4b8e9dc1345",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859165/ISM-Amerikaanse-industrie-groeit-iets-harder.aspx",
     "intro": "De Amerikaanse industrie is in maart iets harder gegroeid dan in de maand ervoor. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-04-01 16:03",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   },
   {
     "id": "865b1ab4bf2f1c1620cfaa3351219d13",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859163/Amerikaanse-industrie-groeit-harder.aspx",
     "intro": "De industrie in de Verenigde Staten is in maart harder gegroeid dan in de maand ervoor. Dit bleek woensdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-04-01 15:48",
-    "scraped_at": "2026-04-01T15:48:59.634582"
-  },
-  {
-    "id": "3df0aee4540907fcc155b36e46d88dd9",
-    "categorie": "Beursnieuws",
-    "titel": "Trump: pas staakt-het-vuren als Straat van Hormuz open is",
-    "link": "https://www.beurs.nl/Nieuws/859157/Trump-pas-staakt-het-vuren-als-Straat-van-Hormuz-open-is.aspx",
-    "intro": "De Verenigde Staten willen pas een staakt-het vuren als de Straat van Hormuz weer open is. Dit zei de Amerikaanse president Donald Trump woensdagmiddag op Truth Social.",
-    "published_at": "2026-04-01 15:16",
-    "scraped_at": "2026-04-01T15:48:59.634582"
+    "scraped_at": "2026-04-01T16:41:18.286417"
   }
 ]
