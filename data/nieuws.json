@@ -1,92 +1,29 @@
 [
   {
-    "id": "a428c672fe5f52ced756e14a976caea2",
+    "id": "abd4bc7761d46db2fe52766041c8da62",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/859205/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag zes van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. Alleen Shell en Unilever wonnen terrein.",
-    "published_at": "2026-04-01 22:26",
-    "scraped_at": "2026-04-02T02:32:25.592825"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/859218/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 9 april 2026:",
+    "published_at": "2026-04-02 06:38",
+    "scraped_at": "2026-04-02T04:54:09.977085"
   },
   {
-    "id": "86368c241fd7c838ef550c7f2393559f",
+    "id": "d0e879e796429d653f1771f084c21116",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit opnieuw hoger na wisselvallige sessie",
-    "link": "https://www.beurs.nl/Nieuws/859204/Wall-Street-sluit-opnieuw-hoger-na-wisselvallige-sessie.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag voor de tweede dag op rij hoger gesloten, na een wisselvallige handelssessie. Hiermee werd de rally van dinsdag, gedreven door hoop op vrede rond de Straat van Hormuz, voortgezet, die alle drie de belangrijkste indexen naar hun grootste eendagswinst in 10 maanden leidde.",
-    "published_at": "2026-04-01 22:17",
-    "scraped_at": "2026-04-02T02:32:25.592825"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/859219/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 9 april 2026:",
+    "published_at": "2026-04-02 06:38",
+    "scraped_at": "2026-04-02T04:54:09.977085"
   },
   {
-    "id": "2798268009902fa812e373ef0218d82d",
+    "id": "3bf7f698eb8ee4ec3ea0a61949e37ac6",
     "categorie": "Beursnieuws",
-    "titel": "Hormuz houdt olieprijzen boven 100 dollar",
-    "link": "https://www.beurs.nl/Nieuws/859203/Hormuz-houdt-olieprijzen-boven-100-dollar.aspx",
-    "intro": "De olieprijzen zijn woensdag lager gesloten, terwijl beleggers de bereidheid van de Amerikaanse president Donald Trump om binnen enkele weken uit het conflict met Iran te stappen afwogen tegen het feit dat de Straat van Hormuz grotendeels gesloten blijft.",
-    "published_at": "2026-04-01 20:54",
-    "scraped_at": "2026-04-02T02:32:25.592825"
-  },
-  {
-    "id": "7a362aca4f518671240bd0084e424c67",
-    "categorie": "Beursnieuws",
-    "titel": "Nike negatieve uitschieter op groengekleurd Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/859197/Nike-negatieve-uitschieter-op-groengekleurd-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen noteerden woensdag met nog ongeveer twee uur handel te gaan flink hoger, nu de hoop onder beleggers groeit dat een einde aan de oorlog tussen de VS en Iran in zicht is.",
-    "published_at": "2026-04-01 19:45",
-    "scraped_at": "2026-04-02T02:32:25.592825"
-  },
-  {
-    "id": "910bae88d67c57b4dbcfb6adfb0923bd",
-    "categorie": "Beursnieuws",
-    "titel": "Aperam neemt Magnetec Group over",
-    "link": "https://www.beurs.nl/Nieuws/859193/Aperam-neemt-Magnetec-Group-over.aspx",
-    "intro": "De wereldleider in roestvrij staal Aperam maakte woensdag nabeurs bekend dat het de Magnetec Group heeft overgenomen, een producent van zachtmagnetische componenten.",
-    "published_at": "2026-04-01 18:48",
-    "scraped_at": "2026-04-02T02:32:25.592825"
-  },
-  {
-    "id": "e33ad064ac275bc4d8cbfcbca34bf035",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen stijgen fors op vredeshoop",
-    "link": "https://www.beurs.nl/Nieuws/859192/Europese-beurzen-stijgen-fors-op-vredeshoop.aspx",
-    "intro": "De Europese beurzen zijn woensdag hoger gesloten, dankzij toenemende hoop op een snelle vrede tussen de Verenigde Staten en Iran.",
-    "published_at": "2026-04-01 18:46",
-    "scraped_at": "2026-04-02T02:32:25.592825"
-  },
-  {
-    "id": "988ccc06c140edcb65d0746af9888808",
-    "categorie": "Beursnieuws",
-    "titel": "Media: SpaceX bereidt grootste beursgang ooit voor",
-    "link": "https://www.beurs.nl/Nieuws/859191/Media-SpaceX-bereidt-grootste-beursgang-ooit-voor.aspx",
-    "intro": "SpaceX heeft vertrouwelijk een aanvraag ingediend bij de Amerikaanse beurstoezichthouder SEC voor een beursintroductie. Dit meldde persbureau Bloomberg woensdag op basis van ingewijden.",
-    "published_at": "2026-04-01 18:39",
-    "scraped_at": "2026-04-02T02:32:25.592825"
-  },
-  {
-    "id": "b03c762cc5bc60251f1d3de076a4a145",
-    "categorie": "Beursnieuws",
-    "titel": "Eli Lilly krijgt goedkeuring voor afslankmiddel in pilvorm",
-    "link": "https://www.beurs.nl/Nieuws/859185/Eli-Lilly-krijgt-goedkeuring-voor-afslankmiddel-in-pilvorm.aspx",
-    "intro": "Eli Lilly heeft woensdag bekendgemaakt dat de Amerikaanse geneesmiddelenautoriteit FDA Foundayo heeft goedgekeurd, een dagelijkse afslankmiddel in pilvorm. Daarmee zet het farmabedrijf uit Indianapolis een belangrijke stap in de snel groeiende markt voor GLP-1-medicijnen.",
-    "published_at": "2026-04-01 18:06",
-    "scraped_at": "2026-04-02T02:32:25.592825"
-  },
-  {
-    "id": "6e0e6c8ab15ef9050856663e69d7756e",
-    "categorie": "Beursnieuws",
-    "titel": "Herstel AEX blijft achter door zwaargewichten Unilever en Shell",
-    "link": "https://www.beurs.nl/Nieuws/859182/Herstel-AEX-blijft-achter-door-zwaargewichten-Unilever-en-Shell.aspx",
-    "intro": "De Amsterdamse beurs is woensdag flink hoger gesloten, maar bleef wel achter bij andere Europese beurzen door de koersverliezen van zwaargewichten Unilever en Shell.",
-    "published_at": "2026-04-01 17:46",
-    "scraped_at": "2026-04-02T02:32:25.592825"
-  },
-  {
-    "id": "f3992821bf541f3e6000e53ea8183c34",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Iran houdt Straat van Hormuz gesloten",
-    "link": "https://www.beurs.nl/Nieuws/859180/Media-Iran-houdt-Straat-van-Hormuz-gesloten.aspx",
-    "intro": "Iran zal de Straat van Hormuz niet vrijgeven. Dit meldde persbureau Bloomberg woensdagmiddag.",
-    "published_at": "2026-04-01 17:40",
-    "scraped_at": "2026-04-02T02:32:25.592825"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/859220/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 9 april 2026:",
+    "published_at": "2026-04-02 06:38",
+    "scraped_at": "2026-04-02T04:54:09.977085"
   }
 ]
