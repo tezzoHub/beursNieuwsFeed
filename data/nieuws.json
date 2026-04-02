@@ -1,21 +1,48 @@
 [
   {
+    "id": "7983263ed2eeaf0f5579040a31861d04",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Barclays verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/859269/Beursblik-Barclays-verlaagt-koersdoel-Adyen.aspx",
+    "intro": "Barclays heeft donderdag het koersdoel voor Adyen verlaagd van 1.450 naar 1.200 euro met een onveranderd Overwogen advies. Dit bleek uit een sectorrapport van de Britse bank.",
+    "published_at": "2026-04-02 11:34",
+    "scraped_at": "2026-04-02T09:45:46.664227"
+  },
+  {
+    "id": "5e0cbe1e70e64db7eb07c3dc8481f52c",
+    "categorie": "Beursnieuws",
+    "titel": "Ryanair vervoert meer passagiers",
+    "link": "https://www.beurs.nl/Nieuws/859267/Ryanair-vervoert-meer-passagiers.aspx",
+    "intro": "Ryanair heeft in maart 5 procent meer passagiers vervoerd dan in dezelfde maand een jaar eerder. Dit bleek donderdag uit cijfers van de Ierse prijsvechter.",
+    "published_at": "2026-04-02 10:46",
+    "scraped_at": "2026-04-02T09:45:46.664227"
+  },
+  {
+    "id": "818331ba09f54f691cf5124c3d7f3d94",
+    "categorie": "Beursnieuws",
+    "titel": "Shell en SBM in trek op rood Damrak",
+    "link": "https://www.beurs.nl/Nieuws/859265/Shell-en-SBM-in-trek-op-rood-Damrak.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdag lager. Rond half elf daalde de AEX met 0,9 procent tot 967,92 punten.",
+    "published_at": "2026-04-02 10:39",
+    "scraped_at": "2026-04-02T09:45:46.664227"
+  },
+  {
     "id": "e14f1f0e58872273ab6c8af2259e7141",
     "categorie": "Redactioneel",
     "titel": "Must read: Dreigt een oliecrisis zoals die van de jaren 70?",
     "link": "https://www.iex.nl/artikel/859248/Must-read-Dreigt-een-oliecrisis-zoals-die-van-de-jaren-70.aspx",
     "intro": "Plus: veilige havens gezocht, techtips van professionals, grote AI-bedrijven naar de beurs, Nederlandse grootbanken minder duurzaam, het dispositie-effect verklaard en meer.",
     "published_at": "2026-04-02 10:00",
-    "scraped_at": "2026-04-02T08:40:17.833145"
+    "scraped_at": "2026-04-02T09:45:46.664227"
   },
   {
-    "id": "d367d95bc5415750fe565fd17a9b0af8",
+    "id": "c629c05c3a0ba234dccfe7bc2f75e966",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Kepler Cheuvreux handhaaft koopadvies voor ING en ABN",
-    "link": "https://www.beurs.nl/Nieuws/859260/Beursblik-Kepler-Cheuvreux-handhaaftkoopadvies-voorING-en-ABN.aspx",
+    "titel": "Kepler Cheuvreux handhaaft koopadvies voor ING en ABN",
+    "link": "https://www.beurs.nl/Nieuws/859260/Kepler-Cheuvreux-handhaaftkoopadvies-voorING-en-ABN.aspx",
     "intro": "Kepler Cheuvreux heeft in aanloop naar de cijfers over het eerste kwartaal de koopaanbevelingen voor ABN AMRO en ING gehandhaafd, terwijl de koersdoelen wel werden aangepast. Dit bleek uit rapporten van analist Benoit Petrarque.",
     "published_at": "2026-04-02 09:44",
-    "scraped_at": "2026-04-02T08:40:17.833145"
+    "scraped_at": "2026-04-02T09:45:46.664227"
   },
   {
     "id": "82ae243374ed0c247fb21d8e35cb4441",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859258/Air-France-KLM-biedt-op-TAP-Air.aspx",
     "intro": "Air France-KLM wil een minderheidsaandeel in TAP Air Portugal verwerven en heeft daartoe een niet-bindend bod gedaan op de Portugese luchtvaartmaatschappij. Dit maakte Air France-KLM donderdag bekend.",
     "published_at": "2026-04-02 09:37",
-    "scraped_at": "2026-04-02T08:40:17.833145"
+    "scraped_at": "2026-04-02T09:45:46.664227"
   },
   {
     "id": "f474e90779f387dea535595b34efaa54",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859250/AEX-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong 1,2 procent lager op 964,65 punten, terwijl de Midkap 1,7 procent prijs moest geven.",
     "published_at": "2026-04-02 09:10",
-    "scraped_at": "2026-04-02T08:40:17.833145"
+    "scraped_at": "2026-04-02T09:45:46.664227"
   },
   {
     "id": "aa0dff390f1c8edac4fe05c93b57762c",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Artikel/858338/Op-deze-feestdagen-zijn-de-belangrijkste-beurzen-in-2026-gesloten.aspx",
     "intro": "Goede Vrijdag en de paasdagen zijn in aantocht. Veel beurzen zijn dan gesloten, maar niet allemaal. Dit zijn de feestdagen op de 13 belangrijkste beurzen in 2026.",
     "published_at": "2026-04-02 09:00",
-    "scraped_at": "2026-04-02T08:40:17.833145"
+    "scraped_at": "2026-04-02T09:45:46.664227"
   },
   {
     "id": "debebcd373be16b09924d1905f4b26de",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859243/PostNL-bezorgt-post-vanaf-12-juli-binnen-twee-dagen.aspx",
     "intro": "PostNL gaat vanaf 12 juli brievenbuspost standaard binnen twee dagen bezorgen, in plaats van de volgende dag. Dit maakte het postbedrijf donderdag bekend.",
     "published_at": "2026-04-02 08:33",
-    "scraped_at": "2026-04-02T08:40:17.833145"
+    "scraped_at": "2026-04-02T09:45:46.664227"
   },
   {
     "id": "1601b922e47d9b6555abc5d8f305559c",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859241/Ebusco-haalt-werkkapitaal-op.aspx",
     "intro": "Ebusco heeft 27,4 miljoen euro aan werkkapitaal opgehaald. Dit meldde de bussenbouwer uit Deurne donderdagochtend.",
     "published_at": "2026-04-02 08:15",
-    "scraped_at": "2026-04-02T08:40:17.833145"
-  },
-  {
-    "id": "719830d0670176b4c54a1c23e9fcfa99",
-    "categorie": "Beursnieuws",
-    "titel": "AEX maakt zich voor rode opening na toespraak Trump",
-    "link": "https://www.beurs.nl/Nieuws/859231/AEX-maakt-zich-voor-rode-opening-na-toespraak-Trump.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,4 procent.",
-    "published_at": "2026-04-02 08:03",
-    "scraped_at": "2026-04-02T08:40:17.833145"
-  },
-  {
-    "id": "9677763362925a07ba4bdf970705132d",
-    "categorie": "Beursnieuws",
-    "titel": "Goldman Sachs zet CTP op de favorietenlijst",
-    "link": "https://www.beurs.nl/Nieuws/859229/Goldman-Sachs-zet-CTP-op-de-favorietenlijst.aspx",
-    "intro": "Goldman Sachs heeft CTP op de favorietenlijst gezet. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-04-02 07:43",
-    "scraped_at": "2026-04-02T08:40:17.833145"
-  },
-  {
-    "id": "4f7ce09125e197a54867fb67490f6ca3",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren flink in het rood na toespraak Trump",
-    "link": "https://www.beurs.nl/Nieuws/859226/Aziatische-beurzen-noteren-flink-in-het-rood-na-toespraak-Trump.aspx",
-    "intro": "De Aziatische beurzen noteerden donderdagochtend in het rood, nadat een dag eerder het beleggerssentiment nog positief werd beïnvloed door hoop dat de Amerikaanse president Donald Trump in een toespraak het einde van de oorlog in Iran zou aankondigen.",
-    "published_at": "2026-04-02 07:23",
-    "scraped_at": "2026-04-02T08:40:17.833145"
+    "scraped_at": "2026-04-02T09:45:46.664227"
   }
 ]
