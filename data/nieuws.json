@@ -1,21 +1,57 @@
 [
   {
+    "id": "f474e90779f387dea535595b34efaa54",
+    "categorie": "Beursnieuws",
+    "titel": "AEX lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/859250/AEX-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong 1,2 procent lager op 964,65 punten, terwijl de Midkap 1,7 procent prijs moest geven.",
+    "published_at": "2026-04-02 09:10",
+    "scraped_at": "2026-04-02T07:45:03.114531"
+  },
+  {
+    "id": "aa0dff390f1c8edac4fe05c93b57762c",
+    "categorie": "Beurs vandaag",
+    "titel": "Op deze feestdagen zijn de belangrijkste beurzen in 2026 gesloten",
+    "link": "https://www.beurs.nl/Artikel/858338/Op-deze-feestdagen-zijn-de-belangrijkste-beurzen-in-2026-gesloten.aspx",
+    "intro": "Goede Vrijdag en de paasdagen zijn in aantocht. Veel beurzen zijn dan gesloten, maar niet allemaal. Dit zijn de feestdagen op de 13 belangrijkste beurzen in 2026.",
+    "published_at": "2026-04-02 09:00",
+    "scraped_at": "2026-04-02T07:45:03.114531"
+  },
+  {
+    "id": "debebcd373be16b09924d1905f4b26de",
+    "categorie": "Beursnieuws",
+    "titel": "PostNL bezorgt post vanaf 12 juli binnen twee dagen",
+    "link": "https://www.beurs.nl/Nieuws/859243/PostNL-bezorgt-post-vanaf-12-juli-binnen-twee-dagen.aspx",
+    "intro": "PostNL gaat vanaf 12 juli brievenbuspost standaard binnen twee dagen bezorgen, in plaats van de volgende dag. Dit maakte het postbedrijf donderdag bekend.",
+    "published_at": "2026-04-02 08:33",
+    "scraped_at": "2026-04-02T07:45:03.114531"
+  },
+  {
+    "id": "1601b922e47d9b6555abc5d8f305559c",
+    "categorie": "Beursnieuws",
+    "titel": "Ebusco haalt werkkapitaal op",
+    "link": "https://www.beurs.nl/Nieuws/859241/Ebusco-haalt-werkkapitaal-op.aspx",
+    "intro": "Ebusco heeft 27,4 miljoen euro aan werkkapitaal opgehaald. Dit meldde de bussenbouwer uit Deurne donderdagochtend.",
+    "published_at": "2026-04-02 08:15",
+    "scraped_at": "2026-04-02T07:45:03.114531"
+  },
+  {
     "id": "719830d0670176b4c54a1c23e9fcfa99",
     "categorie": "Beursnieuws",
     "titel": "AEX maakt zich voor rode opening na toespraak Trump",
     "link": "https://www.beurs.nl/Nieuws/859231/AEX-maakt-zich-voor-rode-opening-na-toespraak-Trump.aspx",
     "intro": "De Amsterdamse beurs gaat donderdag lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,4 procent.",
     "published_at": "2026-04-02 08:03",
-    "scraped_at": "2026-04-02T06:12:35.327208"
+    "scraped_at": "2026-04-02T07:45:03.114531"
   },
   {
-    "id": "8f3fc759566a728d667725995172b014",
+    "id": "9677763362925a07ba4bdf970705132d",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Goldman Sachs zet CTP op de favorietenlijst",
-    "link": "https://www.beurs.nl/Nieuws/859229/Beursblik-Goldman-Sachs-zet-CTP-op-de-favorietenlijst.aspx",
+    "titel": "Goldman Sachs zet CTP op de favorietenlijst",
+    "link": "https://www.beurs.nl/Nieuws/859229/Goldman-Sachs-zet-CTP-op-de-favorietenlijst.aspx",
     "intro": "Goldman Sachs heeft CTP op de favorietenlijst gezet. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
     "published_at": "2026-04-02 07:43",
-    "scraped_at": "2026-04-02T06:12:35.327208"
+    "scraped_at": "2026-04-02T07:45:03.114531"
   },
   {
     "id": "4f7ce09125e197a54867fb67490f6ca3",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859226/Aziatische-beurzen-noteren-flink-in-het-rood-na-toespraak-Trump.aspx",
     "intro": "De Aziatische beurzen noteerden donderdagochtend in het rood, nadat een dag eerder het beleggerssentiment nog positief werd beïnvloed door hoop dat de Amerikaanse president Donald Trump in een toespraak het einde van de oorlog in Iran zou aankondigen.",
     "published_at": "2026-04-02 07:23",
-    "scraped_at": "2026-04-02T06:12:35.327208"
+    "scraped_at": "2026-04-02T07:45:03.114531"
   },
   {
     "id": "553153616b476f62fd82a05635ece602",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859223/Europese-beurzen-openen-in-het-rood.aspx",
     "intro": "De Europese beurzen gaan donderdag een rode opening tegemoet, na de speech vannacht van de Amerikaanse president Donald Trump.",
     "published_at": "2026-04-02 06:58",
-    "scraped_at": "2026-04-02T06:12:35.327208"
+    "scraped_at": "2026-04-02T07:45:03.114531"
   },
   {
     "id": "46ee00f0c0dee23bc3b5987a3dc6e356",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859222/Trump-oorlog-Iran-nadert-einde-maar-aanvallen-gaan-door.aspx",
     "intro": "De oorlog in Iran nadert zijn einde, maar alvorens het zo ver is, zullen de Verenigde Staten de komende twee tot drie weken nog nieuwe aanvallen uitvoeren. Dit zei de Amerikaanse president Donald Trump vannacht tijdens een speech in het Witte Huis.",
     "published_at": "2026-04-02 06:51",
-    "scraped_at": "2026-04-02T06:12:35.327208"
+    "scraped_at": "2026-04-02T07:45:03.114531"
   },
   {
     "id": "abd4bc7761d46db2fe52766041c8da62",
@@ -51,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859218/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 9 april 2026:",
     "published_at": "2026-04-02 06:38",
-    "scraped_at": "2026-04-02T06:12:35.327208"
-  },
-  {
-    "id": "d0e879e796429d653f1771f084c21116",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/859219/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 9 april 2026:",
-    "published_at": "2026-04-02 06:38",
-    "scraped_at": "2026-04-02T06:12:35.327208"
-  },
-  {
-    "id": "3bf7f698eb8ee4ec3ea0a61949e37ac6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/859220/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 9 april 2026:",
-    "published_at": "2026-04-02 06:38",
-    "scraped_at": "2026-04-02T06:12:35.327208"
+    "scraped_at": "2026-04-02T07:45:03.114531"
   }
 ]
