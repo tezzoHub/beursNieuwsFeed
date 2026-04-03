@@ -1,12 +1,21 @@
 [
   {
+    "id": "b0fbc33d816116042c178c2173fc4d0b",
+    "categorie": "Beursnieuws",
+    "titel": "Chinese dienstensector groeit minder hard",
+    "link": "https://www.beurs.nl/Nieuws/859368/Chinese-dienstensector-groeit-minder-hard.aspx",
+    "intro": "De Chinese dienstensector is in maart gegroeid, maar wel in een lager tempo. Dit bleek vrijdag uit definitieve cijfers van SP Global en RatingDog.",
+    "published_at": "2026-04-03 09:22",
+    "scraped_at": "2026-04-03T09:12:39.159063"
+  },
+  {
     "id": "6ae047f822880b23ae3ae14a6e0b1257",
     "categorie": "Beursnieuws",
     "titel": "Japanse dienstensector groeit minder hard",
     "link": "https://www.beurs.nl/Nieuws/859367/Japanse-dienstensector-groeit-minder-hard.aspx",
     "intro": "De Japanse dienstensector is in maart in een lager tempo gegroeid. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-04-03 09:13",
-    "scraped_at": "2026-04-03T08:09:57.924210"
+    "scraped_at": "2026-04-03T09:12:39.159063"
   },
   {
     "id": "3b5abfdbbe3e8011965d02d565a89dee",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/859366/Europese-beurzen-en-Wall-Street-gesloten-op-Goede-Vrijdag.aspx",
     "intro": "De Europese beurzen zijn op Goede Vrijdag gesloten en blijven tot na Pasen dicht. Op Wall Street wordt vandaag ook niet gehandeld, maar er staat vanmiddag wel een banenrapport op de agenda.",
     "published_at": "2026-04-03 09:03",
-    "scraped_at": "2026-04-03T08:09:57.924210"
+    "scraped_at": "2026-04-03T09:12:39.159063"
   },
   {
     "id": "aa0dff390f1c8edac4fe05c93b57762c",
@@ -24,6 +33,6 @@
     "link": "https://www.beurs.nl/Artikel/858338/Op-deze-feestdagen-zijn-de-belangrijkste-beurzen-in-2026-gesloten.aspx",
     "intro": "Vandaag zijn veel beurzen gesloten vanwege Goede Vrijdag. Op tweede paasdag wisselt het. Dit zijn de feestdagen op de 13 belangrijkste beurzen in 2026.",
     "published_at": "2026-04-03 08:00",
-    "scraped_at": "2026-04-03T08:09:57.924210"
+    "scraped_at": "2026-04-03T09:12:39.159063"
   }
 ]
