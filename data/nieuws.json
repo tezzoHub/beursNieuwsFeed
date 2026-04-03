@@ -1,12 +1,39 @@
 [
   {
+    "id": "42b4f8d7062c7067ffef3f7cde4850ac",
+    "categorie": "Crypto",
+    "titel": "Solana balanceert op de rand van een grotere correctie",
+    "link": "https://www.tostrams.nl/artikel/859373/Solana-balanceert-op-de-rand-van-een-grotere-correctie.aspx",
+    "intro": "De cryptomarkt bevindt zich al geruime tijd in zwaar weer en ook Solana (SOL) ontkomt niet aan deze malaise. Waar eerdere correcties vaak tijdelijk bleken, stapelen de risico’s zich nu op.",
+    "published_at": "2026-04-03 11:55",
+    "scraped_at": "2026-04-03T10:06:20.047163"
+  },
+  {
+    "id": "9ac2d90d72d9446bbb67a7bc60e49ff9",
+    "categorie": "Beursnieuws",
+    "titel": "Video: kansen in Australië",
+    "link": "https://www.beurs.nl/Nieuws/859372/Video-kansen-in-Australie.aspx",
+    "intro": "Het is onrustig op de financiële markten en dat wordt in belangrijke mate veroorzaakt door de inflatievrees als gevolg van de stijgende energieprijzen.",
+    "published_at": "2026-04-03 11:32",
+    "scraped_at": "2026-04-03T10:06:20.047163"
+  },
+  {
+    "id": "cf233952b305b3f0f7efd3a32db4b51c",
+    "categorie": "Beursnieuws",
+    "titel": "Trump dreigt Iran met nog veel meer aanvallen",
+    "link": "https://www.beurs.nl/Nieuws/859371/Trump-dreigt-Iran-met-nog-veel-meer-aanvallen.aspx",
+    "intro": "De Amerikaanse president Donald Trump heeft Iran opgeroepen snel te handelen, omdat het militaire geweld anders zal worden opgevoerd.",
+    "published_at": "2026-04-03 11:22",
+    "scraped_at": "2026-04-03T10:06:20.047163"
+  },
+  {
     "id": "b0fbc33d816116042c178c2173fc4d0b",
     "categorie": "Beursnieuws",
     "titel": "Chinese dienstensector groeit minder hard",
     "link": "https://www.beurs.nl/Nieuws/859368/Chinese-dienstensector-groeit-minder-hard.aspx",
     "intro": "De Chinese dienstensector is in maart gegroeid, maar wel in een lager tempo. Dit bleek vrijdag uit definitieve cijfers van SP Global en RatingDog.",
     "published_at": "2026-04-03 09:22",
-    "scraped_at": "2026-04-03T09:12:39.159063"
+    "scraped_at": "2026-04-03T10:06:20.047163"
   },
   {
     "id": "6ae047f822880b23ae3ae14a6e0b1257",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859367/Japanse-dienstensector-groeit-minder-hard.aspx",
     "intro": "De Japanse dienstensector is in maart in een lager tempo gegroeid. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-04-03 09:13",
-    "scraped_at": "2026-04-03T09:12:39.159063"
+    "scraped_at": "2026-04-03T10:06:20.047163"
   },
   {
     "id": "3b5abfdbbe3e8011965d02d565a89dee",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859366/Europese-beurzen-en-Wall-Street-gesloten-op-Goede-Vrijdag.aspx",
     "intro": "De Europese beurzen zijn op Goede Vrijdag gesloten en blijven tot na Pasen dicht. Op Wall Street wordt vandaag ook niet gehandeld, maar er staat vanmiddag wel een banenrapport op de agenda.",
     "published_at": "2026-04-03 09:03",
-    "scraped_at": "2026-04-03T09:12:39.159063"
+    "scraped_at": "2026-04-03T10:06:20.047163"
   },
   {
     "id": "aa0dff390f1c8edac4fe05c93b57762c",
@@ -33,6 +60,6 @@
     "link": "https://www.beurs.nl/Artikel/858338/Op-deze-feestdagen-zijn-de-belangrijkste-beurzen-in-2026-gesloten.aspx",
     "intro": "Vandaag zijn veel beurzen gesloten vanwege Goede Vrijdag. Op tweede paasdag wisselt het. Dit zijn de feestdagen op de 13 belangrijkste beurzen in 2026.",
     "published_at": "2026-04-03 08:00",
-    "scraped_at": "2026-04-03T09:12:39.159063"
+    "scraped_at": "2026-04-03T10:06:20.047163"
   }
 ]
