@@ -1,12 +1,30 @@
 [
   {
+    "id": "1e852a26a1e0b73d37726dabbddcca3d",
+    "categorie": "Beursnieuws",
+    "titel": "Broadcom sluit deals met Google en Anthropic",
+    "link": "https://www.beurs.nl/Nieuws/859564/Broadcom-sluit-deals-met-Google-en-Anthropic.aspx",
+    "intro": "Broadcom heeft twee overeenkomsten gesloten met Alphabet en heeft tegelijkertijd de strategische samenwerking met Google en Anthropic uitgebreid. Dit maakte Broadcom bekend via documenten ingediend bij beurswaakhond SEC.",
+    "published_at": "2026-04-07 13:28",
+    "scraped_at": "2026-04-07T11:40:47.147830"
+  },
+  {
+    "id": "82388337fb5a5b3ea99fad6dd6db4f1b",
+    "categorie": "Beursnieuws",
+    "titel": "Weinig spektakel verwacht bij opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/859563/Weinig-spektakel-verwacht-bij-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen lijken dinsdag lager van start te gaan. De future op de SP 500 index noteerde 0,4 procent lager en die voor de Nasdaq 0,6 procent.",
+    "published_at": "2026-04-07 13:20",
+    "scraped_at": "2026-04-07T11:40:47.147830"
+  },
+  {
     "id": "cafb0c52f15e3f7ed88952f5941628bb",
     "categorie": "Beursnieuws",
     "titel": "Aandelen Amerikaanse zorgverzekeraars in de lift",
     "link": "https://www.beurs.nl/Nieuws/859559/Aandelen-Amerikaanse-zorgverzekeraars-in-de-lift.aspx",
-    "intro": "De aandelen van Amerikaanse zorgverzekeraars gaan dinsdag hoger openen, nadat de federale overheid heeft laten weten onder het Medicare Advantages-programma meer te gaan uitkeren.",
+    "intro": "De aandelen van Amerikaanse zorgverzekeraars gaan dinsdag hoger openen, nu de federale overheid heeft laten weten onder het Medicare Advantages-programma meer te gaan uitkeren.",
     "published_at": "2026-04-07 12:36",
-    "scraped_at": "2026-04-07T10:42:42.889484"
+    "scraped_at": "2026-04-07T11:40:47.147830"
   },
   {
     "id": "15f2eabe0c534511a51c4d2415ee2c49",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/859558/Europese-beurzen-in-het-groen.aspx",
     "intro": "De Europese beurzen noteerden dinsdag rond het middaguur in de plus.",
     "published_at": "2026-04-07 12:23",
-    "scraped_at": "2026-04-07T10:42:42.889484"
+    "scraped_at": "2026-04-07T11:40:47.147830"
   },
   {
     "id": "d66b265b6a88359acf4594ca77c8fade",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859547/ASML-beperkt-winst-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagochtend in het groen, waarbij de winst werd ingeperkt door het koersverlies voor indexzwaargewicht ASML.",
     "published_at": "2026-04-07 11:13",
-    "scraped_at": "2026-04-07T10:42:42.889484"
+    "scraped_at": "2026-04-07T11:40:47.147830"
   },
   {
     "id": "a255b389cae9f96cad7d543f1b737b25",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859543/Britse-dienstensector-groeit-in-veel-lager-tempo.aspx",
     "intro": "De dienstensector in het Verenigd Koninkrijk is in maart in een beduidend lager tempo gegroeid. Dit bleek dinsdag uit cijfers van SP Global.",
     "published_at": "2026-04-07 10:38",
-    "scraped_at": "2026-04-07T10:42:42.889484"
+    "scraped_at": "2026-04-07T11:40:47.147830"
   },
   {
     "id": "e5309529b49f1b9d4a3ee9dca516cd4d",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859542/Goldman-Sachs-verlaagt-koersdoel-Philips.aspx",
     "intro": "Goldman Sachs heeft dinsdag het koersdoel voor Philips verlaagd van 35,00 naar 31,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een sectorrapport van de Amerikaanse zakenbank.",
     "published_at": "2026-04-07 10:32",
-    "scraped_at": "2026-04-07T10:42:42.889484"
+    "scraped_at": "2026-04-07T11:40:47.147830"
   },
   {
     "id": "083e8706e18254a840e80052a7e253b6",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859538/Dienstensector-eurozone-groeit-nog-slechts-heel-bescheiden.aspx",
     "intro": "De dienstensector in de eurozone is in maart gegroeid, maar slechts heel bescheiden. Dit bleek dinsdag uit cijfers van SP Global.",
     "published_at": "2026-04-07 10:07",
-    "scraped_at": "2026-04-07T10:42:42.889484"
+    "scraped_at": "2026-04-07T11:40:47.147830"
   },
   {
     "id": "e1923860747609af93a136459f2a329f",
@@ -60,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/859438/Must-read-Eigen-energie-eerst.aspx",
     "intro": "Plus: oorlog tegen Iran is tijdelijke ruis of structureel risico, bodemvissen is link, de nieuwe jaarbrief van Jamie Dimon, niet langer Magnificent, en meer.",
     "published_at": "2026-04-07 10:00",
-    "scraped_at": "2026-04-07T10:42:42.889484"
+    "scraped_at": "2026-04-07T11:40:47.147830"
   },
   {
     "id": "761ce334a877767d8a739cdd9d4f0c65",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859536/Duitse-dienstensector-groeit-in-veel-lager-tempo.aspx",
     "intro": "De dienstensector in Duitsland is in maart veel minder sterk gegroeid. Dit bleek dinsdag uit cijfers van SP Global.",
     "published_at": "2026-04-07 09:59",
-    "scraped_at": "2026-04-07T10:42:42.889484"
-  },
-  {
-    "id": "fc00a3258b699ed2659aa73799fa2070",
-    "categorie": "Beursnieuws",
-    "titel": "Franse dienstensector onder druk",
-    "link": "https://www.beurs.nl/Nieuws/859534/Franse-dienstensector-onder-druk.aspx",
-    "intro": "De Franse dienstensector stond in maart onder druk. Dit bleek dinsdag uit definitieve cijfers van SP Global en Hamburg Commercial Bank.",
-    "published_at": "2026-04-07 09:54",
-    "scraped_at": "2026-04-07T10:42:42.889484"
-  },
-  {
-    "id": "c1e73fc50719e77754d974998accfbe0",
-    "categorie": "Beursnieuws",
-    "titel": "Krimp in Italiaanse dienstensector",
-    "link": "https://www.beurs.nl/Nieuws/859530/Krimp-in-Italiaanse-dienstensector.aspx",
-    "intro": "De dienstensector in Italië is in maart gekrompen. Dit bleek dinsdag uit cijfers van SP Global.",
-    "published_at": "2026-04-07 09:49",
-    "scraped_at": "2026-04-07T10:42:42.889484"
+    "scraped_at": "2026-04-07T11:40:47.147830"
   }
 ]
