@@ -1,12 +1,30 @@
 [
   {
+    "id": "1db1405e9ee3ccea586bfbbcd633ae3d",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenkrediet VS stijgt iets harder",
+    "link": "https://www.beurs.nl/Nieuws/859629/Consumentenkrediet-VS-stijgt-iets-harder.aspx",
+    "intro": "Het consumentenkrediet in de Verenigde Staten is in februari iets harder gestegen dan in de maand ervoor. Dit maakte de Federal Reserve dinsdagavond bekend.",
+    "published_at": "2026-04-07 21:02",
+    "scraped_at": "2026-04-07T19:34:54.754514"
+  },
+  {
+    "id": "1ae800c74ca07587a9d84a60b108d9e8",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs stijgt verder",
+    "link": "https://www.beurs.nl/Nieuws/859628/Olieprijs-stijgt-verder.aspx",
+    "intro": "De olieprijs is dinsdag verder gestegen en bleef zo op het hoogste niveau in vier jaar.",
+    "published_at": "2026-04-07 20:52",
+    "scraped_at": "2026-04-07T19:34:54.754514"
+  },
+  {
     "id": "330ebd1d22cb760e10f6b1410a594c4b",
     "categorie": "Beursnieuws",
     "titel": "Wall Street op verlies",
     "link": "https://www.beurs.nl/Nieuws/859621/Wall-Street-op-verlies.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag lager met nog een paar uur handel te gaan.",
     "published_at": "2026-04-07 19:30",
-    "scraped_at": "2026-04-07T18:12:51.231303"
+    "scraped_at": "2026-04-07T19:34:54.754514"
   },
   {
     "id": "7054d18c9b1dfa7ccad4a5f503dc6942",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/859618/Media-problemen-voor-Apple-met-ontwikkeling-opvouwbare-iPhone.aspx",
     "intro": "Apple ondervindt problemen in de technische testfase van zijn allereerste opvouwbare iPhone, wat zou kunnen leiden tot vertragingen in de massaproductie en leveringen. Dit meldde Nikkei Asia dinsdag op basis van bronnen.",
     "published_at": "2026-04-07 19:07",
-    "scraped_at": "2026-04-07T18:12:51.231303"
+    "scraped_at": "2026-04-07T19:34:54.754514"
   },
   {
     "id": "3d5e018258bfd1b40b77c778ea317183",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859617/Europese-beurzen-nerveus-terwijl-deadline-voor-Iran-nadert.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag tijdens een volatiele handelssessie lager geëindigd, in afwachting van een deadline die de Amerikaanse president Donald Trump heeft gesteld om een akkoord te bereiken met Iran.",
     "published_at": "2026-04-07 18:39",
-    "scraped_at": "2026-04-07T18:12:51.231303"
+    "scraped_at": "2026-04-07T19:34:54.754514"
   },
   {
     "id": "480766291e4007a681cb84482e1e370b",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859610/AEX-lager-gesloten-in-aanloop-naar-deadline-oorlog.aspx",
     "intro": "De Amsterdamse beurs is dinsdag na een beweeglijke handelssessie lager gesloten, terwijl beleggers afwachtten in aanloop naar de deadline van de Amerikaanse president Donald Trump die komende nacht om 02:00 uur afloopt.",
     "published_at": "2026-04-07 17:52",
-    "scraped_at": "2026-04-07T18:12:51.231303"
+    "scraped_at": "2026-04-07T19:34:54.754514"
   },
   {
     "id": "976ec90853be274a8ecc001e1d581f0d",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859603/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 15 april 2026:",
     "published_at": "2026-04-07 16:30",
-    "scraped_at": "2026-04-07T18:12:51.231303"
+    "scraped_at": "2026-04-07T19:34:54.754514"
   },
   {
     "id": "b27e37c98dfd9a4b76509e13e9db77f7",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859600/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 15 april 2026:",
     "published_at": "2026-04-07 16:29",
-    "scraped_at": "2026-04-07T18:12:51.231303"
+    "scraped_at": "2026-04-07T19:34:54.754514"
   },
   {
     "id": "0dcac849b1d88fda3457866fff939b47",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859602/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 15 april 2026:",
     "published_at": "2026-04-07 16:29",
-    "scraped_at": "2026-04-07T18:12:51.231303"
+    "scraped_at": "2026-04-07T19:34:54.754514"
   },
   {
     "id": "8a35ee40fcf81348907bc548deb4a0db",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859590/Wall-Street-koerst-af-op-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, terwijl de spanningen in het Midden-Oosten verder oplopen.",
     "published_at": "2026-04-07 15:17",
-    "scraped_at": "2026-04-07T18:12:51.231303"
-  },
-  {
-    "id": "e258a85d05999fd77c116273e4883d0d",
-    "categorie": "Beursnieuws",
-    "titel": "Orders voor duurzame goederen in VS gedaald",
-    "link": "https://www.beurs.nl/Nieuws/859579/Orders-voor-duurzame-goederen-in-VS-gedaald.aspx",
-    "intro": "De orders voor duurzame goederen in de VS zijn in februari gedaald. Ook werden de cijfers voor januari naar beneden bijgesteld. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-04-07 14:41",
-    "scraped_at": "2026-04-07T18:12:51.231303"
-  },
-  {
-    "id": "017ba1002897c6559af8d9748fe0f362",
-    "categorie": "Beursnieuws",
-    "titel": "Trump: hele beschaving kan vanavond uitsterven",
-    "link": "https://www.beurs.nl/Nieuws/859580/Trump-hele-beschaving-kan-vanavond-uitsterven.aspx",
-    "intro": "De Amerikaanse president Donald Trump voert de druk op Iran op, in aanloop naar de eerder gestelde deadline.",
-    "published_at": "2026-04-07 14:40",
-    "scraped_at": "2026-04-07T18:12:51.231303"
+    "scraped_at": "2026-04-07T19:34:54.754514"
   }
 ]
