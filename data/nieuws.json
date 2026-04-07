@@ -1,12 +1,48 @@
 [
   {
+    "id": "d66b265b6a88359acf4594ca77c8fade",
+    "categorie": "Beursnieuws",
+    "titel": "ASML beperkt winst AEX",
+    "link": "https://www.beurs.nl/Nieuws/859547/ASML-beperkt-winst-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagochtend in het groen, waarbij de winst werd ingeperkt door het koersverlies voor indexzwaargewicht ASML.",
+    "published_at": "2026-04-07 11:13",
+    "scraped_at": "2026-04-07T09:40:04.780148"
+  },
+  {
+    "id": "a255b389cae9f96cad7d543f1b737b25",
+    "categorie": "Beursnieuws",
+    "titel": "Britse dienstensector groeit in veel lager tempo",
+    "link": "https://www.beurs.nl/Nieuws/859543/Britse-dienstensector-groeit-in-veel-lager-tempo.aspx",
+    "intro": "De dienstensector in het Verenigd Koninkrijk is in maart in een beduidend lager tempo gegroeid. Dit bleek dinsdag uit cijfers van SP Global.",
+    "published_at": "2026-04-07 10:38",
+    "scraped_at": "2026-04-07T09:40:04.780148"
+  },
+  {
+    "id": "e5309529b49f1b9d4a3ee9dca516cd4d",
+    "categorie": "Beursnieuws",
+    "titel": "Goldman Sachs verlaagt koersdoel Philips",
+    "link": "https://www.beurs.nl/Nieuws/859542/Goldman-Sachs-verlaagt-koersdoel-Philips.aspx",
+    "intro": "Goldman Sachs heeft dinsdag het koersdoel voor Philips verlaagd van 35,00 naar 31,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een sectorrapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-04-07 10:32",
+    "scraped_at": "2026-04-07T09:40:04.780148"
+  },
+  {
+    "id": "083e8706e18254a840e80052a7e253b6",
+    "categorie": "Beursnieuws",
+    "titel": "Dienstensector eurozone groeit nog slechts heel bescheiden",
+    "link": "https://www.beurs.nl/Nieuws/859538/Dienstensector-eurozone-groeit-nog-slechts-heel-bescheiden.aspx",
+    "intro": "De dienstensector in de eurozone is in maart gegroeid, maar slechts heel bescheiden. Dit bleek dinsdag uit cijfers van SP Global.",
+    "published_at": "2026-04-07 10:07",
+    "scraped_at": "2026-04-07T09:40:04.780148"
+  },
+  {
     "id": "e1923860747609af93a136459f2a329f",
     "categorie": "Redactioneel",
     "titel": "Must read: Eigen energie eerst!",
     "link": "https://www.iex.nl/artikel/859438/Must-read-Eigen-energie-eerst.aspx",
     "intro": "Plus: Oorlog tegen Iran is tijdelijke ruis of structureel risico, bodemvissen is link, de nieuwe jaarbrief van Jamie Dimon, niet langer Magnificent, en meer.",
     "published_at": "2026-04-07 10:00",
-    "scraped_at": "2026-04-07T08:14:09.019554"
+    "scraped_at": "2026-04-07T09:40:04.780148"
   },
   {
     "id": "761ce334a877767d8a739cdd9d4f0c65",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859536/Duitse-dienstensector-groeit-in-veel-lager-tempo.aspx",
     "intro": "De dienstensector in Duitsland is in maart veel minder sterk gegroeid. Dit bleek dinsdag uit cijfers van SP Global.",
     "published_at": "2026-04-07 09:59",
-    "scraped_at": "2026-04-07T08:14:09.019554"
+    "scraped_at": "2026-04-07T09:40:04.780148"
   },
   {
     "id": "fc00a3258b699ed2659aa73799fa2070",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859534/Franse-dienstensector-onder-druk.aspx",
     "intro": "De Franse dienstensector stond in maart onder druk. Dit bleek dinsdag uit definitieve cijfers van SP Global en Hamburg Commercial Bank.",
     "published_at": "2026-04-07 09:54",
-    "scraped_at": "2026-04-07T08:14:09.019554"
+    "scraped_at": "2026-04-07T09:40:04.780148"
   },
   {
     "id": "c1e73fc50719e77754d974998accfbe0",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859530/Krimp-in-Italiaanse-dienstensector.aspx",
     "intro": "De dienstensector in Italië is in maart gekrompen. Dit bleek dinsdag uit cijfers van SP Global.",
     "published_at": "2026-04-07 09:49",
-    "scraped_at": "2026-04-07T08:14:09.019554"
+    "scraped_at": "2026-04-07T09:40:04.780148"
   },
   {
     "id": "7a9997d2548a2164c3bbb67d0a1d40c1",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859529/Aperam-handhaaft-eigen-outlook.aspx",
     "intro": "Aperam heeft de eigen outlook voor het eerste kwartaal herhaald.",
     "published_at": "2026-04-07 09:39",
-    "scraped_at": "2026-04-07T08:14:09.019554"
+    "scraped_at": "2026-04-07T09:40:04.780148"
   },
   {
     "id": "30c2708abf10c064557e35e7e28d714e",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859525/Spaanse-dienstensector-groeit-in-hoger-tempo.aspx",
     "intro": "De dienstensector in Spanje is in maart in een hoger tempo gegroeid. Dit bleek dinsdag uit cijfers van SP Global.",
     "published_at": "2026-04-07 09:29",
-    "scraped_at": "2026-04-07T08:14:09.019554"
-  },
-  {
-    "id": "e83ef8ede171603875ec231c356c1ed5",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht lager van start gegaan door koersdruk ASML",
-    "link": "https://www.beurs.nl/Nieuws/859523/AEX-licht-lager-van-start-gegaan-door-koersdruk-ASML.aspx",
-    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,3 procent lager op 972,77 punten, terwijl de Midkap juist 0,3 procent won.",
-    "published_at": "2026-04-07 09:19",
-    "scraped_at": "2026-04-07T08:14:09.019554"
-  },
-  {
-    "id": "a1d6f53be4c509169a5d354050269394",
-    "categorie": "Beursnieuws",
-    "titel": "ING ziet af van verkoop Russische activiteiten",
-    "link": "https://www.beurs.nl/Nieuws/859517/ING-ziet-af-van-verkoop-Russische-activiteiten.aspx",
-    "intro": "ING heeft de verkoop van zijn Russische dochteronderneming ING Bank Eurasia JSC stopgezet. Dit meldde de bank dinsdag voorbeurs.",
-    "published_at": "2026-04-07 08:54",
-    "scraped_at": "2026-04-07T08:14:09.019554"
-  },
-  {
-    "id": "a50387830425b31dc307bbbc16e06777",
-    "categorie": "Beursnieuws",
-    "titel": "OCI kan belang in Methanex afbouwen",
-    "link": "https://www.beurs.nl/Nieuws/859516/OCI-kan-belang-in-Methanex-afbouwen.aspx",
-    "intro": "De handelsvolumes in Methanex-aandelen zijn recent aanzienlijk toegenomen, wat extra flexibiliteit biedt voor een verkoop van het belang door OCI. Dit meldde OCI dinsdag voorbeurs.",
-    "published_at": "2026-04-07 08:45",
-    "scraped_at": "2026-04-07T08:14:09.019554"
-  },
-  {
-    "id": "9c936663faa74213b1026b1f6794a55d",
-    "categorie": "Beursnieuws",
-    "titel": "Pershing Square doet bod op Universal Music",
-    "link": "https://www.beurs.nl/Nieuws/859511/Pershing-Square-doet-bod-op-Universal-Music.aspx",
-    "intro": "Pershing Square Capital Management heeft een bod uitgebracht op Universal Music Group. Dit bleek dinsdag voorbeurs uit een persbericht.",
-    "published_at": "2026-04-07 08:27",
-    "scraped_at": "2026-04-07T08:14:09.019554"
+    "scraped_at": "2026-04-07T09:40:04.780148"
   }
 ]
