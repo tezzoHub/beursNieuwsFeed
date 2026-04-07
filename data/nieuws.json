@@ -1,12 +1,57 @@
 [
   {
+    "id": "a50387830425b31dc307bbbc16e06777",
+    "categorie": "Beursnieuws",
+    "titel": "OCI kan belang in Methanex afbouwen",
+    "link": "https://www.beurs.nl/Nieuws/859516/OCI-kan-belang-in-Methanex-afbouwen.aspx",
+    "intro": "De handelsvolumes in Methanex-aandelen zijn recent aanzienlijk toegenomen, wat extra flexibiliteit biedt voor een verkoop van het belang door OCI. Dit meldde OCI dinsdag voorbeurs.",
+    "published_at": "2026-04-07 08:45",
+    "scraped_at": "2026-04-07T06:50:42.441617"
+  },
+  {
+    "id": "53e00fce84f77966d9dac6f2d2f6641b",
+    "categorie": "Beursnieuws",
+    "titel": "Winstexplosie door Samsung verwacht",
+    "link": "https://www.beurs.nl/Nieuws/859510/Winstexplosiedoor-Samsung-verwacht.aspx",
+    "intro": "Samsung Electronics heeft zich dinsdag positief uitgelaten over het eerste kwartaal.",
+    "published_at": "2026-04-07 08:25",
+    "scraped_at": "2026-04-07T06:50:42.441617"
+  },
+  {
+    "id": "9c7179df4a0917062bfcbdecea350b58",
+    "categorie": "Beursnieuws",
+    "titel": "AEX voorzichtig van start in afwachting van deadline Trump",
+    "link": "https://www.beurs.nl/Nieuws/859507/AEX-voorzichtig-van-start-in-afwachting-van-deadline-Trump.aspx",
+    "intro": "De Amsterdamse beurs maakt zich dinsdag na een lang paasweekend op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,4 procent.",
+    "published_at": "2026-04-07 08:08",
+    "scraped_at": "2026-04-07T06:50:42.441617"
+  },
+  {
+    "id": "1f9d2338ea013a097eac73ed56d9b3d5",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen terughoudend in aanloop naar deadline Trump",
+    "link": "https://www.beurs.nl/Nieuws/859503/Aziatische-beurzen-terughoudend-in-aanloop-naar-deadline-Trump.aspx",
+    "intro": "De Aziatische beurzen bleven dinsdagochtend dichtbij huis, met uitzondering van de grondstofgevoelige beurs in Sydney, die anderhalf procent won.",
+    "published_at": "2026-04-07 07:24",
+    "scraped_at": "2026-04-07T06:50:42.441617"
+  },
+  {
+    "id": "e7805ba76e1f15b1503ae962714765e0",
+    "categorie": "Beursnieuws",
+    "titel": "Nedap start 2026 met groeiversnelling",
+    "link": "https://www.beurs.nl/Nieuws/859500/Nedap-start-2026-met-groeiversnelling.aspx",
+    "intro": "Nedap is in het eerste kwartaal van 2026 harder gegroeid dan in 2025. Dit bleek dinsdag voorbeurs uit cijfers die het technologiebedrijf uit Groenlo publiceerde.",
+    "published_at": "2026-04-07 07:19",
+    "scraped_at": "2026-04-07T06:50:42.441617"
+  },
+  {
     "id": "db5b8c7233260868cb25f91361176e68",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen openen naar verwachting voorzichtig na lang Paasweekend",
     "link": "https://www.beurs.nl/Nieuws/859496/Europese-beurzen-openen-naar-verwachting-voorzichtig-na-lang-Paasweekend.aspx",
     "intro": "De Europese beurzen gaan dinsdag, na een lang Paasweekend, een voorzichtige opening tegemoet, nu de deadline nadert die de VS aan Iran heeft gesteld. De Aziatische beurzen doen het rustig aan.",
     "published_at": "2026-04-07 07:02",
-    "scraped_at": "2026-04-07T05:23:43.271890"
+    "scraped_at": "2026-04-07T06:50:42.441617"
   },
   {
     "id": "29749fb630bd856fffd7ea006299b82a",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859492/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 14 april 2026:",
     "published_at": "2026-04-07 06:47",
-    "scraped_at": "2026-04-07T05:23:43.271890"
+    "scraped_at": "2026-04-07T06:50:42.441617"
   },
   {
     "id": "6775373497472da53d01d0647a789d4c",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859493/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 14 april 2026:",
     "published_at": "2026-04-07 06:47",
-    "scraped_at": "2026-04-07T05:23:43.271890"
+    "scraped_at": "2026-04-07T06:50:42.441617"
   },
   {
     "id": "a6599256393ef6ffeaf0451adfc08994",
@@ -33,6 +78,6 @@
     "link": "https://www.beurs.nl/Nieuws/859494/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 14 april 2026:",
     "published_at": "2026-04-07 06:47",
-    "scraped_at": "2026-04-07T05:23:43.271890"
+    "scraped_at": "2026-04-07T06:50:42.441617"
   }
 ]
