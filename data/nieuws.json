@@ -1,12 +1,39 @@
 [
   {
+    "id": "976ec90853be274a8ecc001e1d581f0d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/859603/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 15 april 2026:",
+    "published_at": "2026-04-07 16:30",
+    "scraped_at": "2026-04-07T15:51:28.959919"
+  },
+  {
+    "id": "b27e37c98dfd9a4b76509e13e9db77f7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/859600/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 15 april 2026:",
+    "published_at": "2026-04-07 16:29",
+    "scraped_at": "2026-04-07T15:51:28.959919"
+  },
+  {
+    "id": "0dcac849b1d88fda3457866fff939b47",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/859602/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 15 april 2026:",
+    "published_at": "2026-04-07 16:29",
+    "scraped_at": "2026-04-07T15:51:28.959919"
+  },
+  {
     "id": "8a35ee40fcf81348907bc548deb4a0db",
     "categorie": "Beursnieuws",
     "titel": "Wall Street koerst af op lagere opening",
     "link": "https://www.beurs.nl/Nieuws/859590/Wall-Street-koerst-af-op-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, terwijl de spanningen in het Midden-Oosten verder oplopen.",
     "published_at": "2026-04-07 15:17",
-    "scraped_at": "2026-04-07T14:21:07.123999"
+    "scraped_at": "2026-04-07T15:51:28.959919"
   },
   {
     "id": "e258a85d05999fd77c116273e4883d0d",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859579/Orders-voor-duurzame-goederen-in-VS-gedaald.aspx",
     "intro": "De orders voor duurzame goederen in de VS zijn in februari gedaald. Ook werden de cijfers voor januari naar beneden bijgesteld. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-04-07 14:41",
-    "scraped_at": "2026-04-07T14:21:07.123999"
+    "scraped_at": "2026-04-07T15:51:28.959919"
   },
   {
     "id": "017ba1002897c6559af8d9748fe0f362",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859580/Trump-hele-beschaving-kan-vanavond-uitsterven.aspx",
     "intro": "De Amerikaanse president Donald Trump voert de druk op Iran op, in aanloop naar de eerder gestelde deadline.",
     "published_at": "2026-04-07 14:40",
-    "scraped_at": "2026-04-07T14:21:07.123999"
+    "scraped_at": "2026-04-07T15:51:28.959919"
   },
   {
     "id": "e816f2f7f9d03ba22fe2f5b3e2c1ab39",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859575/Media-VS-vallen-eiland-Kharg-aan.aspx",
     "intro": "De Verenigde Staten hebben dinsdag het Iraanse eiland Kharg aangevallen. Dit meldden verschillende westerse media, verwijzend naar berichtgeving door het Iraanse persbureau Mehr.",
     "published_at": "2026-04-07 14:11",
-    "scraped_at": "2026-04-07T14:21:07.123999"
+    "scraped_at": "2026-04-07T15:51:28.959919"
   },
   {
     "id": "1e852a26a1e0b73d37726dabbddcca3d",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859564/Broadcom-sluit-deals-met-Google-en-Anthropic.aspx",
     "intro": "Broadcom heeft twee overeenkomsten gesloten met Alphabet en heeft tegelijkertijd de strategische samenwerking met Google en Anthropic uitgebreid. Dit maakte Broadcom bekend via documenten ingediend bij beurswaakhond SEC.",
     "published_at": "2026-04-07 13:28",
-    "scraped_at": "2026-04-07T14:21:07.123999"
+    "scraped_at": "2026-04-07T15:51:28.959919"
   },
   {
     "id": "82388337fb5a5b3ea99fad6dd6db4f1b",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859563/Weinig-spektakel-verwacht-bij-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen lijken dinsdag lager van start te gaan. De future op de SP 500 index noteerde 0,4 procent lager en die voor de Nasdaq 0,6 procent.",
     "published_at": "2026-04-07 13:20",
-    "scraped_at": "2026-04-07T14:21:07.123999"
+    "scraped_at": "2026-04-07T15:51:28.959919"
   },
   {
     "id": "cafb0c52f15e3f7ed88952f5941628bb",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859559/Aandelen-Amerikaanse-zorgverzekeraars-in-de-lift.aspx",
     "intro": "De aandelen van Amerikaanse zorgverzekeraars gaan dinsdag hoger openen, nu de federale overheid heeft laten weten onder het Medicare Advantages-programma meer te gaan uitkeren.",
     "published_at": "2026-04-07 12:36",
-    "scraped_at": "2026-04-07T14:21:07.123999"
-  },
-  {
-    "id": "15f2eabe0c534511a51c4d2415ee2c49",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/859558/Europese-beurzen-in-het-groen.aspx",
-    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur in de plus.",
-    "published_at": "2026-04-07 12:23",
-    "scraped_at": "2026-04-07T14:21:07.123999"
-  },
-  {
-    "id": "d66b265b6a88359acf4594ca77c8fade",
-    "categorie": "Beursnieuws",
-    "titel": "ASML beperkt winst AEX",
-    "link": "https://www.beurs.nl/Nieuws/859547/ASML-beperkt-winst-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagochtend in het groen, waarbij de winst werd ingeperkt door het koersverlies voor indexzwaargewicht ASML.",
-    "published_at": "2026-04-07 11:13",
-    "scraped_at": "2026-04-07T14:21:07.123999"
-  },
-  {
-    "id": "a255b389cae9f96cad7d543f1b737b25",
-    "categorie": "Beursnieuws",
-    "titel": "Britse dienstensector groeit in veel lager tempo",
-    "link": "https://www.beurs.nl/Nieuws/859543/Britse-dienstensector-groeit-in-veel-lager-tempo.aspx",
-    "intro": "De dienstensector in het Verenigd Koninkrijk is in maart in een beduidend lager tempo gegroeid. Dit bleek dinsdag uit cijfers van SP Global.",
-    "published_at": "2026-04-07 10:38",
-    "scraped_at": "2026-04-07T14:21:07.123999"
+    "scraped_at": "2026-04-07T15:51:28.959919"
   }
 ]
