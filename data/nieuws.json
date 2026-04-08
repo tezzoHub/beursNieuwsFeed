@@ -1,12 +1,48 @@
 [
   {
-    "id": "a17fdcad6b4305b61680ee7a5191df98",
+    "id": "849cae012009906ffbe258da292be0db",
+    "categorie": "Redactioneel",
+    "titel": "Must read: even adem halen",
+    "link": "https://www.iex.nl/artikel/859599/Must-read-even-adem-halen.aspx",
+    "intro": "Na flink dreigen en schelden komt er toch een wapenstilstand tussen de VS en Iran. Verder kijkt de staat naar de beloning van topvrouw KLM en komt er misschien een Zwitserse frank-stablecoin.",
+    "published_at": "2026-04-08 10:25",
+    "scraped_at": "2026-04-08T08:38:50.946245"
+  },
+  {
+    "id": "6962ddaaae734428aa94268836aa2f7d",
     "categorie": "Beursnieuws",
-    "titel": "InPost koopt voor 10 miljoen euro eigen aandelen in",
-    "link": "https://www.beurs.nl/Nieuws/859677/InPost-koopt-voor-10-miljoen-euro-eigen-aandelen-in.aspx",
+    "titel": "Valuta: vraag naar veilige dollar valt weg",
+    "link": "https://www.beurs.nl/Nieuws/859688/Valuta-vraag-naar-veilige-dollar-valt-weg.aspx",
+    "intro": "De dollar stond woensdag fors onder druk, nadat een akkoord werd bereikt tussen de VS en Iran over een staakt-het-vuren, waardoor de vraag naar veilige havens wegviel.",
+    "published_at": "2026-04-08 10:03",
+    "scraped_at": "2026-04-08T08:38:50.946245"
+  },
+  {
+    "id": "517bdcd61d1904221a4678c78b3cd3da",
+    "categorie": "Beursnieuws",
+    "titel": "AEX fors hoger geopend",
+    "link": "https://www.beurs.nl/Nieuws/859680/AEX-fors-hoger-geopend.aspx",
+    "intro": "De Amsterdamse beurs is woensdag fors hoger geopend, nadat een staakt-het-vuren werd bereikt in het Midden-Oosten. Kort na opening van de beurs, koerste de AEX 3,0 procent hoger op 1.001 punten.",
+    "published_at": "2026-04-08 09:12",
+    "scraped_at": "2026-04-08T08:38:50.946245"
+  },
+  {
+    "id": "4afbe735f4e871514da8fd29a6095cfd",
+    "categorie": "IEX Nieuws",
+    "titel": "Deze 3 aandelen zijn favoriet bij zowel experts als particuliere beleggers",
+    "link": "https://www.beurs.nl/Artikel/859512/Deze-3-aandelen-zijn-favoriet-bij-zowel-experts-als-particuliere-beleggers.aspx",
+    "intro": "... en met deze 3 aandelen zijn beide groepen voorzichtig volgens twee peilingen.",
+    "published_at": "2026-04-08 09:05",
+    "scraped_at": "2026-04-08T08:38:50.946245"
+  },
+  {
+    "id": "5c6d00283ded7e174c912f07388318d1",
+    "categorie": "Beursnieuws",
+    "titel": "InPost koopt voor €10 miljoen eigen aandelen in",
+    "link": "https://www.beurs.nl/Nieuws/859677/InPost-koopt-voor-10-miljoen-eigen-aandelen-in.aspx",
     "intro": "InPost gaat de komende dagen voor 9,7 miljoen euro aan eigen aandelen inkopen. Dit maakte het bedrijf met een notering aan het Amsterdamse Damrak woensdag voorbeurs bekend.",
     "published_at": "2026-04-08 09:01",
-    "scraped_at": "2026-04-08T07:01:37.163324"
+    "scraped_at": "2026-04-08T08:38:50.946245"
   },
   {
     "id": "66063c1f49fbad02d09522596a1abbd3",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859676/CFO-Ctac-vertrekt.aspx",
     "intro": "CFO Paul de Koning vertrekt medio 2026 bij Ctac. Dit maakte het IT-bedrijf uit 's-Hertogenbosch woensdag bekend.",
     "published_at": "2026-04-08 08:56",
-    "scraped_at": "2026-04-08T07:01:37.163324"
+    "scraped_at": "2026-04-08T08:38:50.946245"
   },
   {
     "id": "03b822ab94cb0e75b69e9168526a851d",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859671/Oorlog-drukt-volumes-Shell-in-eerste-kwartaal.aspx",
     "intro": "Shell heeft in het eerste kwartaal vermoedelijk minder geproduceerd dan in de laatste drie maanden van 2025 door de oorlog in het Midden-Oosten, maar de raffinagemarges en de winst bij Marketing vielen duidelijk hoger uit. Dit bleek uit een voorlopige update die de energiereus woensdag voorbeurs gaf in aanloop naar de cijfers op 7 mei.",
     "published_at": "2026-04-08 08:29",
-    "scraped_at": "2026-04-08T07:01:37.163324"
+    "scraped_at": "2026-04-08T08:38:50.946245"
   },
   {
     "id": "48b22e286e77ad9ea32cddce39ef3e74",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Artikel/859645/Wapenstilstand-Iran-opluchtingsrally-op-beurzen-glijvlucht-olie-en-lagere-rentes.aspx",
     "intro": "Openingsindicatie: +3,3%! Staakt-het-vuren tussen VS en Iran haalt voorlopig lont uit kruitvat. Samsung verwacht recordwinst. En verder: Broadcom, CSG, UnitedHealth, ARM en Levi Strauss.",
     "published_at": "2026-04-08 08:20",
-    "scraped_at": "2026-04-08T07:01:37.163324"
+    "scraped_at": "2026-04-08T08:38:50.946245"
   },
   {
     "id": "7a8c4edcb299eaafcff332c351072e8e",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859670/Duitse-fabrieksorders-omhoog.aspx",
     "intro": "De Duitse fabrieksorders zijn in februari gestegen. Dit bleek woensdag uit cijfers van statistiekbureau Destatis.",
     "published_at": "2026-04-08 08:19",
-    "scraped_at": "2026-04-08T07:01:37.163324"
+    "scraped_at": "2026-04-08T08:38:50.946245"
   },
   {
     "id": "62130b00b05cd0c632f21cf6817c3697",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859668/Citi-RELX-en-Wolters-Kluwer-koopwaardig.aspx",
     "intro": "Citi Research heeft woensdag de koersdoelen voor RELX en Wolters Kluwer verlaagd, maar vindt beide aandelen wel koopwaardig. Dit bleek uit een sectorrapport van de Amerikaanse zakenbank.",
     "published_at": "2026-04-08 08:12",
-    "scraped_at": "2026-04-08T07:01:37.163324"
-  },
-  {
-    "id": "0c484d836af62dcddeb1786029722cce",
-    "categorie": "Beursnieuws",
-    "titel": "Fors hogere opening AEX na staakt-het-vuren in Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/859665/Fors-hogere-opening-AEX-na-staakt-het-vuren-in-Midden-Oosten.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een fors hogere opening tegemoet, na een belangrijk akkoord over een staakt-het-vuren tussen de VS en Iran. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 3,6 procent in het groen. Op dinsdag eindigde de hoofdgraadmeter nog 0,4 procent lager op 971,88 punten.",
-    "published_at": "2026-04-08 08:03",
-    "scraped_at": "2026-04-08T07:01:37.163324"
-  },
-  {
-    "id": "9fa73de7b31239043ddc65707981566b",
-    "categorie": "Beursnieuws",
-    "titel": "Grote Aziatische orders voor CSG",
-    "link": "https://www.beurs.nl/Nieuws/859663/Grote-Aziatische-orders-voor-CSG.aspx",
-    "intro": "CSG Group heeft een grote order in Azië binnengehaald. Dit bleek dinsdag uit een persbericht van het Tsjechische defensiebedrijf met een notering in Amsterdam.",
-    "published_at": "2026-04-08 07:43",
-    "scraped_at": "2026-04-08T07:01:37.163324"
-  },
-  {
-    "id": "58caa1376781c81447a33e1bf7d52d75",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen schieten omhoog na staakt-het-vuren In Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/859662/Aziatische-beurzen-schieten-omhoog-na-staakt-het-vuren-In-Midden-Oosten.aspx",
-    "intro": "De Aziatische aandelenmarkten schoten woensdag omhoog, nadat de VS en Iran een akkoord hebben bereikt over een staakt-het-vuren voor een periode van twee weken.",
-    "published_at": "2026-04-08 07:23",
-    "scraped_at": "2026-04-08T07:01:37.163324"
-  },
-  {
-    "id": "8475babbe39ec1132f399b56f79a5d2f",
-    "categorie": "Beursnieuws",
-    "titel": "Nederland exporteert meer",
-    "link": "https://www.beurs.nl/Nieuws/859659/Nederland-exporteert-meer.aspx",
-    "intro": "Nederland heeft in 2025 zowel meer uitgevoerd als ingevoerd. Dit bleek woensdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-04-08 07:12",
-    "scraped_at": "2026-04-08T07:01:37.163324"
+    "scraped_at": "2026-04-08T08:38:50.946245"
   }
 ]
