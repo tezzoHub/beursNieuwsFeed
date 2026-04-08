@@ -1,12 +1,39 @@
 [
   {
+    "id": "7dbe2e720911dcf6281bbc63d541313b",
+    "categorie": "Beursnieuws",
+    "titel": "Exxon waarschuwt voor lagere productie",
+    "link": "https://www.beurs.nl/Nieuws/859722/Exxon-waarschuwt-voor-lagere-productie.aspx",
+    "intro": "Exxon Mobil verwacht dat door de oorlog in Iran de mondiale olie- en gasproductie met 6 procent is gedaald in het eerste kwartaal. Hiervoor waarschuwde de Amerikaanse oliereus woensdag in een document ingediend bij beurswaakhond SEC.",
+    "published_at": "2026-04-08 13:46",
+    "scraped_at": "2026-04-08T11:59:25.632847"
+  },
+  {
+    "id": "82eebf188b113bf8ff28025daee92a21",
+    "categorie": "Beursnieuws",
+    "titel": "Fors hogere futures VS na wapenstilstand tussen Iran en VS",
+    "link": "https://www.beurs.nl/Nieuws/859717/Fors-hogere-futures-VS-na-wapenstilstand-tussen-Iran-en-VS.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, nadat een staakt-het-vuren werd bereikt in het Midden-Oosten.",
+    "published_at": "2026-04-08 13:17",
+    "scraped_at": "2026-04-08T11:59:25.632847"
+  },
+  {
+    "id": "e415cced57bb1351116b454fb8f3fa67",
+    "categorie": "Beursnieuws",
+    "titel": "Delta Airlines kampt met hogere brandstofkosten",
+    "link": "https://www.beurs.nl/Nieuws/859716/Delta-Airlines-kampt-met-hogere-brandstofkosten.aspx",
+    "intro": "Delta Airlines heeft voor het eerst in drie jaar tijd een kwartaalverlies geleden, als gevolg van de hogere brandstofkosten. Dit bleek woensdag uit cijfers van de grootste Amerikaanse luchtvaartmaatschappij.",
+    "published_at": "2026-04-08 13:06",
+    "scraped_at": "2026-04-08T11:59:25.632847"
+  },
+  {
     "id": "135df2567e0bf789c2a664237f29c3ed",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen fors hoger na de-escalatie in Midden-Oosten",
     "link": "https://www.beurs.nl/Nieuws/859709/Europese-beurzen-fors-hoger-na-de-escalatie-in-Midden-Oosten.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur overtuigend hoger, terwijl de olieprijzen juist flink daalden nadat de VS een akkoord bereikten met Iran over een staakt-het-vuren van twee weken.",
     "published_at": "2026-04-08 12:32",
-    "scraped_at": "2026-04-08T10:59:17.345554"
+    "scraped_at": "2026-04-08T11:59:25.632847"
   },
   {
     "id": "2121387283e84497a81da4983a98a426",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859702/Bank-of-America-verlaagt-koersdoel-Prosus.aspx",
     "intro": "Bank of America heeft het koersdoel voor Prosus verlaagd van 77,00 naar 66,00 euro, maar handhaafde het koopadvies. Dit bleek woensdag uit een rapport van de Amerikaanse bank.",
     "published_at": "2026-04-08 12:05",
-    "scraped_at": "2026-04-08T10:59:17.345554"
+    "scraped_at": "2026-04-08T11:59:25.632847"
   },
   {
     "id": "211a8831db5bd5fe733b8c7e93e636af",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859700/Kleine-daling-detailhandelsverkopen-in-de-eurozone.aspx",
     "intro": "De detailhandelsverkopen in de eurozone zijn in februari licht gedaald. Dit bleek woensdag uit cijfers van het Europese statistiekbureau Eurostat.",
     "published_at": "2026-04-08 11:17",
-    "scraped_at": "2026-04-08T10:59:17.345554"
+    "scraped_at": "2026-04-08T11:59:25.632847"
   },
   {
     "id": "4ced2e76daa2a0d1a3342770513f4714",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859698/Producentenprijzen-eurozone-gedaald.aspx",
     "intro": "De producentenprijzen in de eurozone zijn in februari gedaald. Dit bleek woensdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-04-08 11:15",
-    "scraped_at": "2026-04-08T10:59:17.345554"
+    "scraped_at": "2026-04-08T11:59:25.632847"
   },
   {
     "id": "808061f52cb70105403e7693a178a6ae",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859694/Opluchting-over-staakt-het-vuren-zet-AEX-flink-hoger.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend overtuigend hoger. Kort voor de klok van elf uur won de AEX 2,8 procent op 998,58 punten.",
     "published_at": "2026-04-08 10:45",
-    "scraped_at": "2026-04-08T10:59:17.345554"
+    "scraped_at": "2026-04-08T11:59:25.632847"
   },
   {
     "id": "c91cc8a0ef0c332e24d7be3c54e5915f",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859693/BAM-gaat-nieuwe-groene-wijk-in-Enschede-ontwikkelen.aspx",
     "intro": "BAM is door de gemeente Enschede geselecteerd voor de ontwikkeling van Eschmarkerveld, een nieuwe groene wijk aan de oostkant van de stad. Dit maakte de bouwer woensdag bekend.",
     "published_at": "2026-04-08 10:42",
-    "scraped_at": "2026-04-08T10:59:17.345554"
+    "scraped_at": "2026-04-08T11:59:25.632847"
   },
   {
     "id": "849cae012009906ffbe258da292be0db",
@@ -60,33 +87,6 @@
     "link": "https://www.iex.nl/artikel/859599/Must-read-even-adem-halen.aspx",
     "intro": "Na flink dreigen en schelden komt er toch een wapenstilstand tussen de VS en Iran. Verder kijkt de staat naar de beloning van topvrouw KLM en komt er misschien een Zwitserse frank-stablecoin.",
     "published_at": "2026-04-08 10:25",
-    "scraped_at": "2026-04-08T10:59:17.345554"
-  },
-  {
-    "id": "6962ddaaae734428aa94268836aa2f7d",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: vraag naar veilige dollar valt weg",
-    "link": "https://www.beurs.nl/Nieuws/859688/Valuta-vraag-naar-veilige-dollar-valt-weg.aspx",
-    "intro": "De dollar stond woensdag fors onder druk, nadat een akkoord werd bereikt tussen de VS en Iran over een staakt-het-vuren, waardoor de vraag naar veilige havens wegviel.",
-    "published_at": "2026-04-08 10:03",
-    "scraped_at": "2026-04-08T10:59:17.345554"
-  },
-  {
-    "id": "517bdcd61d1904221a4678c78b3cd3da",
-    "categorie": "Beursnieuws",
-    "titel": "AEX fors hoger geopend",
-    "link": "https://www.beurs.nl/Nieuws/859680/AEX-fors-hoger-geopend.aspx",
-    "intro": "De Amsterdamse beurs is woensdag fors hoger geopend, nadat een staakt-het-vuren werd bereikt in het Midden-Oosten. Kort na opening van de beurs, koerste de AEX 3,0 procent hoger op 1.001 punten.",
-    "published_at": "2026-04-08 09:12",
-    "scraped_at": "2026-04-08T10:59:17.345554"
-  },
-  {
-    "id": "4afbe735f4e871514da8fd29a6095cfd",
-    "categorie": "IEX Nieuws",
-    "titel": "Deze 3 aandelen zijn favoriet bij zowel experts als particuliere beleggers",
-    "link": "https://www.beurs.nl/Artikel/859512/Deze-3-aandelen-zijn-favoriet-bij-zowel-experts-als-particuliere-beleggers.aspx",
-    "intro": "... en met deze 3 aandelen zijn beide groepen voorzichtig volgens twee peilingen.",
-    "published_at": "2026-04-08 09:05",
-    "scraped_at": "2026-04-08T10:59:17.345554"
+    "scraped_at": "2026-04-08T11:59:25.632847"
   }
 ]
