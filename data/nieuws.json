@@ -1,12 +1,57 @@
 [
   {
+    "id": "36d7ff5edf75a86cfe5e031f5720707f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: meer omzet verwacht bij Fagron",
+    "link": "https://www.beurs.nl/Nieuws/859736/Beursblik-meer-omzet-verwacht-bij-Fagron.aspx",
+    "intro": "Fagron heeft in het eerste kwartaal een stap gezet richting het halen van de jaaroutlook. Dit blijkt uit een analistenconsensus die de magistrale bereider zelf samenstelde in aanloop naar de update over het eerste kwartaal op 9 april.",
+    "published_at": "2026-04-08 15:41",
+    "scraped_at": "2026-04-08T13:57:07.817429"
+  },
+  {
+    "id": "58803580fcacdb543537772d73caad33",
+    "categorie": "Beursnieuws",
+    "titel": "Theon sluit deal met Rheinmetall",
+    "link": "https://www.beurs.nl/Nieuws/859735/Theon-sluit-deal-met-Rheinmetall.aspx",
+    "intro": "Theon Sensors heeft een strategische samenwerking met de Duitse defensiegigant Rheinmetall gesloten voor de ontwikkeling en levering van bepaalde sensoren. Dit maakte moederbedrijf Theon International woensdagmiddag bekend.",
+    "published_at": "2026-04-08 15:23",
+    "scraped_at": "2026-04-08T13:57:07.817429"
+  },
+  {
+    "id": "bd745d26bbc867c9c76f19ae2470a10c",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht fors hogere opening na de-escalatie in het Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/859732/Wall-Street-wacht-fors-hogere-opening-na-de-escalatie-in-het-Midden-Oosten.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, nadat een staakt-het-vuren werd bereikt in het Midden-Oosten.",
+    "published_at": "2026-04-08 14:41",
+    "scraped_at": "2026-04-08T13:57:07.817429"
+  },
+  {
+    "id": "eee481f31f7b0167870e9c3f6459d29f",
+    "categorie": "Beursnieuws",
+    "titel": "Video: nog weinig reden voor euforie",
+    "link": "https://www.beurs.nl/Nieuws/859724/Video-nog-weinig-reden-voor-euforie.aspx",
+    "intro": "De olieprijzen dalen woensdag met meer dan 15 procent, nadat de VS en Iran een tijdelijk staakt-het-vuren zijn overeengekomen, maar beleggingsstrateeg Vincent Juvyns van ING Investment Office waarschuwt voor te veel optimisme.",
+    "published_at": "2026-04-08 14:00",
+    "scraped_at": "2026-04-08T13:57:07.817429"
+  },
+  {
+    "id": "e927b605c58722446f0bdd9d061e8a2e",
+    "categorie": "Beursnieuws",
+    "titel": "Trump dreigt met importheffingen bij wapenleveranties aan Iran",
+    "link": "https://www.beurs.nl/Nieuws/859723/Trump-dreigt-met-importheffingen-bij-wapenleveranties-aan-Iran.aspx",
+    "intro": "De Amerikaanse president Donald Trump wil per direct importheffingen opleggen aan landen die wapens leveren aan Iran. Dit schreef hij woensdagmiddag op Truth Social.",
+    "published_at": "2026-04-08 13:51",
+    "scraped_at": "2026-04-08T13:57:07.817429"
+  },
+  {
     "id": "7dbe2e720911dcf6281bbc63d541313b",
     "categorie": "Beursnieuws",
     "titel": "Exxon waarschuwt voor lagere productie",
     "link": "https://www.beurs.nl/Nieuws/859722/Exxon-waarschuwt-voor-lagere-productie.aspx",
     "intro": "Exxon Mobil verwacht dat door de oorlog in Iran de mondiale olie- en gasproductie met 6 procent is gedaald in het eerste kwartaal. Hiervoor waarschuwde de Amerikaanse oliereus woensdag in een document ingediend bij beurswaakhond SEC.",
     "published_at": "2026-04-08 13:46",
-    "scraped_at": "2026-04-08T11:59:25.632847"
+    "scraped_at": "2026-04-08T13:57:07.817429"
   },
   {
     "id": "82eebf188b113bf8ff28025daee92a21",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859717/Fors-hogere-futures-VS-na-wapenstilstand-tussen-Iran-en-VS.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, nadat een staakt-het-vuren werd bereikt in het Midden-Oosten.",
     "published_at": "2026-04-08 13:17",
-    "scraped_at": "2026-04-08T11:59:25.632847"
+    "scraped_at": "2026-04-08T13:57:07.817429"
   },
   {
     "id": "e415cced57bb1351116b454fb8f3fa67",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859716/Delta-Airlines-kampt-met-hogere-brandstofkosten.aspx",
     "intro": "Delta Airlines heeft voor het eerst in drie jaar tijd een kwartaalverlies geleden, als gevolg van de hogere brandstofkosten. Dit bleek woensdag uit cijfers van de grootste Amerikaanse luchtvaartmaatschappij.",
     "published_at": "2026-04-08 13:06",
-    "scraped_at": "2026-04-08T11:59:25.632847"
+    "scraped_at": "2026-04-08T13:57:07.817429"
   },
   {
     "id": "135df2567e0bf789c2a664237f29c3ed",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859709/Europese-beurzen-fors-hoger-na-de-escalatie-in-Midden-Oosten.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur overtuigend hoger, terwijl de olieprijzen juist flink daalden nadat de VS een akkoord bereikten met Iran over een staakt-het-vuren van twee weken.",
     "published_at": "2026-04-08 12:32",
-    "scraped_at": "2026-04-08T11:59:25.632847"
+    "scraped_at": "2026-04-08T13:57:07.817429"
   },
   {
     "id": "2121387283e84497a81da4983a98a426",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859702/Bank-of-America-verlaagt-koersdoel-Prosus.aspx",
     "intro": "Bank of America heeft het koersdoel voor Prosus verlaagd van 77,00 naar 66,00 euro, maar handhaafde het koopadvies. Dit bleek woensdag uit een rapport van de Amerikaanse bank.",
     "published_at": "2026-04-08 12:05",
-    "scraped_at": "2026-04-08T11:59:25.632847"
-  },
-  {
-    "id": "211a8831db5bd5fe733b8c7e93e636af",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine daling detailhandelsverkopen in de eurozone",
-    "link": "https://www.beurs.nl/Nieuws/859700/Kleine-daling-detailhandelsverkopen-in-de-eurozone.aspx",
-    "intro": "De detailhandelsverkopen in de eurozone zijn in februari licht gedaald. Dit bleek woensdag uit cijfers van het Europese statistiekbureau Eurostat.",
-    "published_at": "2026-04-08 11:17",
-    "scraped_at": "2026-04-08T11:59:25.632847"
-  },
-  {
-    "id": "4ced2e76daa2a0d1a3342770513f4714",
-    "categorie": "Beursnieuws",
-    "titel": "Producentenprijzen eurozone gedaald",
-    "link": "https://www.beurs.nl/Nieuws/859698/Producentenprijzen-eurozone-gedaald.aspx",
-    "intro": "De producentenprijzen in de eurozone zijn in februari gedaald. Dit bleek woensdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
-    "published_at": "2026-04-08 11:15",
-    "scraped_at": "2026-04-08T11:59:25.632847"
-  },
-  {
-    "id": "808061f52cb70105403e7693a178a6ae",
-    "categorie": "Beursnieuws",
-    "titel": "Opluchting over staakt-het-vuren zet AEX flink hoger",
-    "link": "https://www.beurs.nl/Nieuws/859694/Opluchting-over-staakt-het-vuren-zet-AEX-flink-hoger.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend overtuigend hoger. Kort voor de klok van elf uur won de AEX 2,8 procent op 998,58 punten.",
-    "published_at": "2026-04-08 10:45",
-    "scraped_at": "2026-04-08T11:59:25.632847"
-  },
-  {
-    "id": "c91cc8a0ef0c332e24d7be3c54e5915f",
-    "categorie": "Beursnieuws",
-    "titel": "BAM gaat nieuwe groene wijk in Enschede ontwikkelen",
-    "link": "https://www.beurs.nl/Nieuws/859693/BAM-gaat-nieuwe-groene-wijk-in-Enschede-ontwikkelen.aspx",
-    "intro": "BAM is door de gemeente Enschede geselecteerd voor de ontwikkeling van Eschmarkerveld, een nieuwe groene wijk aan de oostkant van de stad. Dit maakte de bouwer woensdag bekend.",
-    "published_at": "2026-04-08 10:42",
-    "scraped_at": "2026-04-08T11:59:25.632847"
-  },
-  {
-    "id": "849cae012009906ffbe258da292be0db",
-    "categorie": "Redactioneel",
-    "titel": "Must read: even adem halen",
-    "link": "https://www.iex.nl/artikel/859599/Must-read-even-adem-halen.aspx",
-    "intro": "Na flink dreigen en schelden komt er toch een wapenstilstand tussen de VS en Iran. Verder kijkt de staat naar de beloning van topvrouw KLM en komt er misschien een Zwitserse frank-stablecoin.",
-    "published_at": "2026-04-08 10:25",
-    "scraped_at": "2026-04-08T11:59:25.632847"
+    "scraped_at": "2026-04-08T13:57:07.817429"
   }
 ]
