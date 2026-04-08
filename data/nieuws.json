@@ -1,12 +1,66 @@
 [
   {
+    "id": "093fbfadcdc7c388bcfff31df7d23f25",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/859749/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 16 april 2026:",
+    "published_at": "2026-04-08 16:44",
+    "scraped_at": "2026-04-08T15:19:56.457285"
+  },
+  {
+    "id": "10efab4d791f825556ddf862e79e6964",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/859750/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 16 april 2026:",
+    "published_at": "2026-04-08 16:44",
+    "scraped_at": "2026-04-08T15:19:56.457285"
+  },
+  {
+    "id": "d4e6af5c56e9b14a656ff16b53e96b52",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/859751/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 16 april 2026:",
+    "published_at": "2026-04-08 16:44",
+    "scraped_at": "2026-04-08T15:19:56.457285"
+  },
+  {
+    "id": "a6af55aec465bc211d7bb4ba182be8dd",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden blijven toenemen",
+    "link": "https://www.beurs.nl/Nieuws/859748/Amerikaanse-olievoorraden-blijven-toenemen.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-04-08 16:37",
+    "scraped_at": "2026-04-08T15:19:56.457285"
+  },
+  {
+    "id": "fbc1e6f69b757bd5cd799133b8e87d67",
+    "categorie": "Beursnieuws",
+    "titel": "Obligatie: Nederland heropent langlopende lening",
+    "link": "https://www.beurs.nl/Nieuws/859746/Obligatie-Nederland-heropent-langlopende-lening.aspx",
+    "intro": "Nederland gaat op 14 april een lening heropenen die op 15 januari 2031 afloopt. Dit maakte het Agentschap van het ministerie van Financiën woensdagmiddag bekend.",
+    "published_at": "2026-04-08 16:29",
+    "scraped_at": "2026-04-08T15:19:56.457285"
+  },
+  {
+    "id": "15f37ef02b85aa8571055f94391953e2",
+    "categorie": "Beursnieuws",
+    "titel": "Media: belangrijke oliepijpleiding in Saoedi-Arabië aangevallen",
+    "link": "https://www.beurs.nl/Nieuws/859740/Media-belangrijke-oliepijpleiding-inSaoedi-Arabieaangevallen.aspx",
+    "intro": "Een belangrijke oliepijpleiding in Saoedi-Arabië is aangevallen. Dit meldde de Financial Times woensdagmiddag op basis van bronnen.",
+    "published_at": "2026-04-08 15:59",
+    "scraped_at": "2026-04-08T15:19:56.457285"
+  },
+  {
     "id": "36d7ff5edf75a86cfe5e031f5720707f",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: meer omzet verwacht bij Fagron",
     "link": "https://www.beurs.nl/Nieuws/859736/Beursblik-meer-omzet-verwacht-bij-Fagron.aspx",
     "intro": "Fagron heeft in het eerste kwartaal een stap gezet richting het halen van de jaaroutlook. Dit blijkt uit een analistenconsensus die de magistrale bereider zelf samenstelde in aanloop naar de update over het eerste kwartaal op 9 april.",
     "published_at": "2026-04-08 15:41",
-    "scraped_at": "2026-04-08T13:57:07.817429"
+    "scraped_at": "2026-04-08T15:19:56.457285"
   },
   {
     "id": "58803580fcacdb543537772d73caad33",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859735/Theon-sluit-deal-met-Rheinmetall.aspx",
     "intro": "Theon Sensors heeft een strategische samenwerking met de Duitse defensiegigant Rheinmetall gesloten voor de ontwikkeling en levering van bepaalde sensoren. Dit maakte moederbedrijf Theon International woensdagmiddag bekend.",
     "published_at": "2026-04-08 15:23",
-    "scraped_at": "2026-04-08T13:57:07.817429"
+    "scraped_at": "2026-04-08T15:19:56.457285"
   },
   {
     "id": "bd745d26bbc867c9c76f19ae2470a10c",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859732/Wall-Street-wacht-fors-hogere-opening-na-de-escalatie-in-het-Midden-Oosten.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, nadat een staakt-het-vuren werd bereikt in het Midden-Oosten.",
     "published_at": "2026-04-08 14:41",
-    "scraped_at": "2026-04-08T13:57:07.817429"
+    "scraped_at": "2026-04-08T15:19:56.457285"
   },
   {
     "id": "eee481f31f7b0167870e9c3f6459d29f",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859724/Video-nog-weinig-reden-voor-euforie.aspx",
     "intro": "De olieprijzen dalen woensdag met meer dan 15 procent, nadat de VS en Iran een tijdelijk staakt-het-vuren zijn overeengekomen, maar beleggingsstrateeg Vincent Juvyns van ING Investment Office waarschuwt voor te veel optimisme.",
     "published_at": "2026-04-08 14:00",
-    "scraped_at": "2026-04-08T13:57:07.817429"
-  },
-  {
-    "id": "e927b605c58722446f0bdd9d061e8a2e",
-    "categorie": "Beursnieuws",
-    "titel": "Trump dreigt met importheffingen bij wapenleveranties aan Iran",
-    "link": "https://www.beurs.nl/Nieuws/859723/Trump-dreigt-met-importheffingen-bij-wapenleveranties-aan-Iran.aspx",
-    "intro": "De Amerikaanse president Donald Trump wil per direct importheffingen opleggen aan landen die wapens leveren aan Iran. Dit schreef hij woensdagmiddag op Truth Social.",
-    "published_at": "2026-04-08 13:51",
-    "scraped_at": "2026-04-08T13:57:07.817429"
-  },
-  {
-    "id": "7dbe2e720911dcf6281bbc63d541313b",
-    "categorie": "Beursnieuws",
-    "titel": "Exxon waarschuwt voor lagere productie",
-    "link": "https://www.beurs.nl/Nieuws/859722/Exxon-waarschuwt-voor-lagere-productie.aspx",
-    "intro": "Exxon Mobil verwacht dat door de oorlog in Iran de mondiale olie- en gasproductie met 6 procent is gedaald in het eerste kwartaal. Hiervoor waarschuwde de Amerikaanse oliereus woensdag in een document ingediend bij beurswaakhond SEC.",
-    "published_at": "2026-04-08 13:46",
-    "scraped_at": "2026-04-08T13:57:07.817429"
-  },
-  {
-    "id": "82eebf188b113bf8ff28025daee92a21",
-    "categorie": "Beursnieuws",
-    "titel": "Fors hogere futures VS na wapenstilstand tussen Iran en VS",
-    "link": "https://www.beurs.nl/Nieuws/859717/Fors-hogere-futures-VS-na-wapenstilstand-tussen-Iran-en-VS.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, nadat een staakt-het-vuren werd bereikt in het Midden-Oosten.",
-    "published_at": "2026-04-08 13:17",
-    "scraped_at": "2026-04-08T13:57:07.817429"
-  },
-  {
-    "id": "e415cced57bb1351116b454fb8f3fa67",
-    "categorie": "Beursnieuws",
-    "titel": "Delta Airlines kampt met hogere brandstofkosten",
-    "link": "https://www.beurs.nl/Nieuws/859716/Delta-Airlines-kampt-met-hogere-brandstofkosten.aspx",
-    "intro": "Delta Airlines heeft voor het eerst in drie jaar tijd een kwartaalverlies geleden, als gevolg van de hogere brandstofkosten. Dit bleek woensdag uit cijfers van de grootste Amerikaanse luchtvaartmaatschappij.",
-    "published_at": "2026-04-08 13:06",
-    "scraped_at": "2026-04-08T13:57:07.817429"
-  },
-  {
-    "id": "135df2567e0bf789c2a664237f29c3ed",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen fors hoger na de-escalatie in Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/859709/Europese-beurzen-fors-hoger-na-de-escalatie-in-Midden-Oosten.aspx",
-    "intro": "De Europese beurzen noteerden woensdag rond het middaguur overtuigend hoger, terwijl de olieprijzen juist flink daalden nadat de VS een akkoord bereikten met Iran over een staakt-het-vuren van twee weken.",
-    "published_at": "2026-04-08 12:32",
-    "scraped_at": "2026-04-08T13:57:07.817429"
-  },
-  {
-    "id": "2121387283e84497a81da4983a98a426",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verlaagt koersdoel Prosus",
-    "link": "https://www.beurs.nl/Nieuws/859702/Bank-of-America-verlaagt-koersdoel-Prosus.aspx",
-    "intro": "Bank of America heeft het koersdoel voor Prosus verlaagd van 77,00 naar 66,00 euro, maar handhaafde het koopadvies. Dit bleek woensdag uit een rapport van de Amerikaanse bank.",
-    "published_at": "2026-04-08 12:05",
-    "scraped_at": "2026-04-08T13:57:07.817429"
+    "scraped_at": "2026-04-08T15:19:56.457285"
   }
 ]
