@@ -1,12 +1,48 @@
 [
   {
+    "id": "420fe4e3f0ef3dccaebef29b1b310419",
+    "categorie": "Beursnieuws",
+    "titel": "AMG wil kapitaal ophalen voor groei",
+    "link": "https://www.beurs.nl/Nieuws/859766/AMG-wil-kapitaal-ophalen-voor-groei.aspx",
+    "intro": "AMG Critical Materials wil tot 3.250.416 nieuwe aandelen uitgeven, goed voor maximaal 10 procent van het uitstaande kapitaal per 31 december 2024. De opbrengst wordt ingezet voor de financiering van een aantal groeiprojecten. Dit maakte het bedrijf woensdag nabeurs bekend.",
+    "published_at": "2026-04-08 18:25",
+    "scraped_at": "2026-04-08T16:39:44.494392"
+  },
+  {
+    "id": "8bea6fa709a7f2e4a15bc5e158a40b91",
+    "categorie": "Beursnieuws",
+    "titel": "EXOR nomineert twee nieuwe bestuurders",
+    "link": "https://www.beurs.nl/Nieuws/859760/EXOR-nomineert-twee-nieuwe-bestuurders.aspx",
+    "intro": "EXOR heeft Png Chin Yee en Benedetto Della Chiesa voorgedragen als niet-uitvoerende leden van de raad van bestuur. Dit meldde het bedrijf woensdag nabeurs.",
+    "published_at": "2026-04-08 18:03",
+    "scraped_at": "2026-04-08T16:39:44.494392"
+  },
+  {
+    "id": "5bb7f690725e46cfcb1cd5e4a89bed01",
+    "categorie": "Beursnieuws",
+    "titel": "AEX weer boven de 1.000 punten gesloten",
+    "link": "https://www.beurs.nl/Nieuws/859758/AEX-weer-boven-de-1000-punten-gesloten.aspx",
+    "intro": "De AEX is dankzij een staakt-het-vuren tussen de VS en Iran woensdag flink hoger gesloten.",
+    "published_at": "2026-04-08 17:47",
+    "scraped_at": "2026-04-08T16:39:44.494392"
+  },
+  {
+    "id": "90815007ed4f7bdc9847672fd43b54ca",
+    "categorie": "Redactioneel",
+    "titel": "Slotcall: zo'n stijging hebben we al bijna 6 jaar niet meer gezien",
+    "link": "https://www.iex.nl/artikel/859754/Slotcall-zon-stijging-hebben-we-al-bijna-6-jaar-niet-meer-gezien.aspx",
+    "intro": "Uiteindelijk sluit de AEX 3,2% hoger op 1003,20 punten. Dat is iets minder dan de piek eerder op de dag, toen even 1007 en een beetje werd aangetikt, maar nog altijd een plus om trots op te zijn.",
+    "published_at": "2026-04-08 17:35",
+    "scraped_at": "2026-04-08T16:39:44.494392"
+  },
+  {
     "id": "093fbfadcdc7c388bcfff31df7d23f25",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/859749/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 16 april 2026:",
     "published_at": "2026-04-08 16:44",
-    "scraped_at": "2026-04-08T15:19:56.457285"
+    "scraped_at": "2026-04-08T16:39:44.494392"
   },
   {
     "id": "10efab4d791f825556ddf862e79e6964",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859750/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 16 april 2026:",
     "published_at": "2026-04-08 16:44",
-    "scraped_at": "2026-04-08T15:19:56.457285"
+    "scraped_at": "2026-04-08T16:39:44.494392"
   },
   {
     "id": "d4e6af5c56e9b14a656ff16b53e96b52",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859751/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 16 april 2026:",
     "published_at": "2026-04-08 16:44",
-    "scraped_at": "2026-04-08T15:19:56.457285"
+    "scraped_at": "2026-04-08T16:39:44.494392"
   },
   {
     "id": "a6af55aec465bc211d7bb4ba182be8dd",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859748/Amerikaanse-olievoorraden-blijven-toenemen.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week harder dan verwacht gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-04-08 16:37",
-    "scraped_at": "2026-04-08T15:19:56.457285"
+    "scraped_at": "2026-04-08T16:39:44.494392"
   },
   {
     "id": "fbc1e6f69b757bd5cd799133b8e87d67",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859746/Obligatie-Nederland-heropent-langlopende-lening.aspx",
     "intro": "Nederland gaat op 14 april een lening heropenen die op 15 januari 2031 afloopt. Dit maakte het Agentschap van het ministerie van Financiën woensdagmiddag bekend.",
     "published_at": "2026-04-08 16:29",
-    "scraped_at": "2026-04-08T15:19:56.457285"
+    "scraped_at": "2026-04-08T16:39:44.494392"
   },
   {
     "id": "15f37ef02b85aa8571055f94391953e2",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859740/Media-belangrijke-oliepijpleiding-inSaoedi-Arabieaangevallen.aspx",
     "intro": "Een belangrijke oliepijpleiding in Saoedi-Arabië is aangevallen. Dit meldde de Financial Times woensdagmiddag op basis van bronnen.",
     "published_at": "2026-04-08 15:59",
-    "scraped_at": "2026-04-08T15:19:56.457285"
-  },
-  {
-    "id": "36d7ff5edf75a86cfe5e031f5720707f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: meer omzet verwacht bij Fagron",
-    "link": "https://www.beurs.nl/Nieuws/859736/Beursblik-meer-omzet-verwacht-bij-Fagron.aspx",
-    "intro": "Fagron heeft in het eerste kwartaal een stap gezet richting het halen van de jaaroutlook. Dit blijkt uit een analistenconsensus die de magistrale bereider zelf samenstelde in aanloop naar de update over het eerste kwartaal op 9 april.",
-    "published_at": "2026-04-08 15:41",
-    "scraped_at": "2026-04-08T15:19:56.457285"
-  },
-  {
-    "id": "58803580fcacdb543537772d73caad33",
-    "categorie": "Beursnieuws",
-    "titel": "Theon sluit deal met Rheinmetall",
-    "link": "https://www.beurs.nl/Nieuws/859735/Theon-sluit-deal-met-Rheinmetall.aspx",
-    "intro": "Theon Sensors heeft een strategische samenwerking met de Duitse defensiegigant Rheinmetall gesloten voor de ontwikkeling en levering van bepaalde sensoren. Dit maakte moederbedrijf Theon International woensdagmiddag bekend.",
-    "published_at": "2026-04-08 15:23",
-    "scraped_at": "2026-04-08T15:19:56.457285"
-  },
-  {
-    "id": "bd745d26bbc867c9c76f19ae2470a10c",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht fors hogere opening na de-escalatie in het Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/859732/Wall-Street-wacht-fors-hogere-opening-na-de-escalatie-in-het-Midden-Oosten.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, nadat een staakt-het-vuren werd bereikt in het Midden-Oosten.",
-    "published_at": "2026-04-08 14:41",
-    "scraped_at": "2026-04-08T15:19:56.457285"
-  },
-  {
-    "id": "eee481f31f7b0167870e9c3f6459d29f",
-    "categorie": "Beursnieuws",
-    "titel": "Video: nog weinig reden voor euforie",
-    "link": "https://www.beurs.nl/Nieuws/859724/Video-nog-weinig-reden-voor-euforie.aspx",
-    "intro": "De olieprijzen dalen woensdag met meer dan 15 procent, nadat de VS en Iran een tijdelijk staakt-het-vuren zijn overeengekomen, maar beleggingsstrateeg Vincent Juvyns van ING Investment Office waarschuwt voor te veel optimisme.",
-    "published_at": "2026-04-08 14:00",
-    "scraped_at": "2026-04-08T15:19:56.457285"
+    "scraped_at": "2026-04-08T16:39:44.494392"
   }
 ]
