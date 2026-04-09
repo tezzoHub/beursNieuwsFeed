@@ -1,12 +1,39 @@
 [
   {
+    "id": "83fcc74ed35f862445c0607a841f2d89",
+    "categorie": "Beursnieuws",
+    "titel": "AEX weet verlies om te buigen in kleine winst",
+    "link": "https://www.beurs.nl/Nieuws/859915/AEX-weet-verlies-om-te-buigen-in-kleine-winst.aspx",
+    "intro": "De Amsterdamse beurs is donderdag toch met een kleine winst gesloten en steeg zo verder boven de 1.000 punten.",
+    "published_at": "2026-04-09 17:56",
+    "scraped_at": "2026-04-09T16:07:24.589244"
+  },
+  {
+    "id": "1d22c65d894bb5374fe19c24e0a369d0",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeelhouders Van Lanschot Kempen akkoord met kapitaalteruggave",
+    "link": "https://www.beurs.nl/Nieuws/859912/Aandeelhouders-Van-Lanschot-Kempen-akkoord-met-kapitaalteruggave.aspx",
+    "intro": "De aandeelhouders van Van Lanschot Kempen hebben donderdag tijdens een buitengewone algemene vergadering groen licht gegeven voor het voorstel tot kapitaalteruggave van 0,80 euro per geplaatst gewoon aandeel A. Dit bleek na afloop van de bijeenkomst.",
+    "published_at": "2026-04-09 17:35",
+    "scraped_at": "2026-04-09T16:07:24.589244"
+  },
+  {
+    "id": "73b91b6cb5c1a2034ea6b98a5ddce9d2",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Gasunie en Fluxys ontwikkelen waterstofverbinding tussen Nederland en België",
+    "link": "https://www.beurs.nl/Nieuws/859904/Update-Gasunie-en-Fluxys-ontwikkelen-waterstofverbinding-tussen-Nederland-en-Belgie.aspx",
+    "intro": "De Nederlandse Gasunie-dochter Hynetwork en het Belgische Fluxys hydrogen hebben een overeenkomst ondertekend om gezamenlijk een waterstofverbinding tussen Nederland en België te ontwikkelen. Dit werd donderdag bekend.",
+    "published_at": "2026-04-09 16:54",
+    "scraped_at": "2026-04-09T16:07:24.589244"
+  },
+  {
     "id": "2813b69434cdf279b385b24709542894",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/859903/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 17 april 2026:",
     "published_at": "2026-04-09 16:26",
-    "scraped_at": "2026-04-09T14:45:36.174881"
+    "scraped_at": "2026-04-09T16:07:24.589244"
   },
   {
     "id": "bb1e514ef3ce7dae8689f8ad69d0f4f0",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859900/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 17 april 2026:",
     "published_at": "2026-04-09 16:25",
-    "scraped_at": "2026-04-09T14:45:36.174881"
+    "scraped_at": "2026-04-09T16:07:24.589244"
   },
   {
     "id": "6a7367820c07a4a9e550546bd577058d",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859902/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 17 april 2026:",
     "published_at": "2026-04-09 16:25",
-    "scraped_at": "2026-04-09T14:45:36.174881"
+    "scraped_at": "2026-04-09T16:07:24.589244"
   },
   {
     "id": "ea02685a5c0ab932206a9beb98dffd32",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859898/Groothandelsvoorraden-VS-stijgen-onverwacht.aspx",
     "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in februari onverwacht gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-04-09 16:07",
-    "scraped_at": "2026-04-09T14:45:36.174881"
+    "scraped_at": "2026-04-09T16:07:24.589244"
   },
   {
     "id": "fea5a04c7e4b520d30ef3ffe04d21714",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859890/Vooruitgang-voor-Green-Earth-in-eerste-kwartaal.aspx",
     "intro": "Green Earth heeft in het eerste kwartaal een commerciële doorbraak gerealiseerd. Dit meldde het bedrijf met een notering aan het Damrak donderdag.",
     "published_at": "2026-04-09 15:40",
-    "scraped_at": "2026-04-09T14:45:36.174881"
+    "scraped_at": "2026-04-09T16:07:24.589244"
   },
   {
     "id": "a0e7ef1f48b5128041fbb010be811c4c",
@@ -51,42 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/859879/Wall-Street-staat-lagere-opening-te-wachten.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,3 procent in het rood.",
     "published_at": "2026-04-09 14:51",
-    "scraped_at": "2026-04-09T14:45:36.174881"
+    "scraped_at": "2026-04-09T16:07:24.589244"
   },
   {
     "id": "b42f78fd6773383490cab8238c00bfa8",
     "categorie": "Beursnieuws",
     "titel": "Envipco aan de slag voor grote Britse supermarktketen",
     "link": "https://www.beurs.nl/Nieuws/859876/Envipco-aan-de-slag-voor-grote-Britse-supermarktketen.aspx",
-    "intro": "Envipco gaat statiegeldsystemen leveren aan één van de grootste supermarktketens in het Verenigd Koninkrijk. Dit meldde het bedrijf uit Amersfoort donderdagmiddag.",
+    "intro": "Envipco gaat statiegeldsystemen leveren aan een van de grootste supermarktketens in het Verenigd Koninkrijk. Dit meldde het bedrijf uit Amersfoort donderdagmiddag.",
     "published_at": "2026-04-09 14:48",
-    "scraped_at": "2026-04-09T14:45:36.174881"
-  },
-  {
-    "id": "e89f23493ef25e1fedf90b6e9794fe50",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse groei sterker vertraagd dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/859869/Amerikaanse-groei-sterker-vertraagd-dan-verwacht.aspx",
-    "intro": "De Amerikaanse economie is in het vierde kwartaal van 2025 nog harder vertraagd dan eerder aangenomen. Dit bleek donderdag uit definitieve cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-04-09 14:41",
-    "scraped_at": "2026-04-09T14:45:36.174881"
-  },
-  {
-    "id": "76015e60280566ce7355b93363282318",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse PCE-inflatie licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/859870/Amerikaanse-PCE-inflatie-licht-gestegen.aspx",
-    "intro": "Het inflatiecijfer in het PCE-rapport is in februari gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-04-09 14:41",
-    "scraped_at": "2026-04-09T14:45:36.174881"
-  },
-  {
-    "id": "be135ae9a04be02b64788857e1390c06",
-    "categorie": "Beursnieuws",
-    "titel": "Meer nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/859875/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-04-09 14:41",
-    "scraped_at": "2026-04-09T14:45:36.174881"
+    "scraped_at": "2026-04-09T16:07:24.589244"
   }
 ]
