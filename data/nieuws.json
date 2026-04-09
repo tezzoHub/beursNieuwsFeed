@@ -1,12 +1,75 @@
 [
   {
+    "id": "2813b69434cdf279b385b24709542894",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/859903/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 17 april 2026:",
+    "published_at": "2026-04-09 16:26",
+    "scraped_at": "2026-04-09T14:45:36.174881"
+  },
+  {
+    "id": "bb1e514ef3ce7dae8689f8ad69d0f4f0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/859900/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 17 april 2026:",
+    "published_at": "2026-04-09 16:25",
+    "scraped_at": "2026-04-09T14:45:36.174881"
+  },
+  {
+    "id": "6a7367820c07a4a9e550546bd577058d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/859902/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 17 april 2026:",
+    "published_at": "2026-04-09 16:25",
+    "scraped_at": "2026-04-09T14:45:36.174881"
+  },
+  {
+    "id": "ea02685a5c0ab932206a9beb98dffd32",
+    "categorie": "Beursnieuws",
+    "titel": "Groothandelsvoorraden VS stijgen onverwacht",
+    "link": "https://www.beurs.nl/Nieuws/859898/Groothandelsvoorraden-VS-stijgen-onverwacht.aspx",
+    "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in februari onverwacht gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-04-09 16:07",
+    "scraped_at": "2026-04-09T14:45:36.174881"
+  },
+  {
+    "id": "fea5a04c7e4b520d30ef3ffe04d21714",
+    "categorie": "Beursnieuws",
+    "titel": "Vooruitgang voor Green Earth in eerste kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/859890/Vooruitgang-voor-Green-Earth-in-eerste-kwartaal.aspx",
+    "intro": "Green Earth heeft in het eerste kwartaal een commerciële doorbraak gerealiseerd. Dit meldde het bedrijf met een notering aan het Damrak donderdag.",
+    "published_at": "2026-04-09 15:40",
+    "scraped_at": "2026-04-09T14:45:36.174881"
+  },
+  {
+    "id": "a0e7ef1f48b5128041fbb010be811c4c",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street staat lagere opening te wachten",
+    "link": "https://www.beurs.nl/Nieuws/859879/Wall-Street-staat-lagere-opening-te-wachten.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,3 procent in het rood.",
+    "published_at": "2026-04-09 14:51",
+    "scraped_at": "2026-04-09T14:45:36.174881"
+  },
+  {
+    "id": "b42f78fd6773383490cab8238c00bfa8",
+    "categorie": "Beursnieuws",
+    "titel": "Envipco aan de slag voor grote Britse supermarktketen",
+    "link": "https://www.beurs.nl/Nieuws/859876/Envipco-aan-de-slag-voor-grote-Britse-supermarktketen.aspx",
+    "intro": "Envipco gaat statiegeldsystemen leveren aan één van de grootste supermarktketens in het Verenigd Koninkrijk. Dit meldde het bedrijf uit Amersfoort donderdagmiddag.",
+    "published_at": "2026-04-09 14:48",
+    "scraped_at": "2026-04-09T14:45:36.174881"
+  },
+  {
     "id": "e89f23493ef25e1fedf90b6e9794fe50",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse groei sterker vertraagd dan verwacht",
     "link": "https://www.beurs.nl/Nieuws/859869/Amerikaanse-groei-sterker-vertraagd-dan-verwacht.aspx",
     "intro": "De Amerikaanse economie is in het vierde kwartaal van 2025 nog harder vertraagd dan eerder aangenomen. Dit bleek donderdag uit definitieve cijfers van het Amerikaanse ministerie van handel.",
     "published_at": "2026-04-09 14:41",
-    "scraped_at": "2026-04-09T12:48:59.619456"
+    "scraped_at": "2026-04-09T14:45:36.174881"
   },
   {
     "id": "76015e60280566ce7355b93363282318",
@@ -15,78 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/859870/Amerikaanse-PCE-inflatie-licht-gestegen.aspx",
     "intro": "Het inflatiecijfer in het PCE-rapport is in februari gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-04-09 14:41",
-    "scraped_at": "2026-04-09T12:48:59.619456"
+    "scraped_at": "2026-04-09T14:45:36.174881"
   },
   {
-    "id": "30eb80fc5eca74bbe97193b2b60fe42c",
+    "id": "be135ae9a04be02b64788857e1390c06",
     "categorie": "Beursnieuws",
-    "titel": "BofAm: Europese energiebedrijven en financials uitblinkers in eerste kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/859851/BofAm-Europese-energiebedrijven-en-financials-uitblinkers-in-eerste-kwartaal.aspx",
-    "intro": "Europese bedrijven hebben in het eerste kwartaal gemiddeld genomen hun winst zien stijgen, waarbij vooral energiebedrijven en financials goede zaken deden. Dit stelden analisten van Bank of America donderdag in een rapport in aanloop naar de start van het cijferseizoen.",
-    "published_at": "2026-04-09 13:54",
-    "scraped_at": "2026-04-09T12:48:59.619456"
-  },
-  {
-    "id": "32a8373808310b68a1dbdbe6427e5baf",
-    "categorie": "Beursnieuws",
-    "titel": "UBS: solide update van Shell",
-    "link": "https://www.beurs.nl/Nieuws/859848/UBS-solide-update-van-Shell.aspx",
-    "intro": "Shell kwam eerder deze week met een \"solide\" update over het eerste kwartaal. Dit stelde analisten van UBS donderdag in een rapport.",
-    "published_at": "2026-04-09 13:17",
-    "scraped_at": "2026-04-09T12:48:59.619456"
-  },
-  {
-    "id": "a4bdad14a3c68ac0391ef1201aebeb14",
-    "categorie": "Beursnieuws",
-    "titel": "Lagere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/859847/Lagere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,3 procent in het rood.",
-    "published_at": "2026-04-09 13:15",
-    "scraped_at": "2026-04-09T12:48:59.619456"
-  },
-  {
-    "id": "885cf24436e5ac4392493f582d907452",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen doen stapje terug",
-    "link": "https://www.beurs.nl/Nieuws/859845/Europese-beurzen-doen-stapje-terug.aspx",
-    "intro": "De Europese beurzen noteerden donderdag rond het middaguur lager.",
-    "published_at": "2026-04-09 12:33",
-    "scraped_at": "2026-04-09T12:48:59.619456"
-  },
-  {
-    "id": "a48e5284e483ea4e300014e6d11f85a0",
-    "categorie": "Beursnieuws",
-    "titel": "AEX zakt weg rond lunchtijd",
-    "link": "https://www.beurs.nl/Nieuws/859839/AEX-zakt-weg-rond-lunchtijd.aspx",
-    "intro": "De Amsterdamse beurs zakte donderdag gedurende de ochtend weg. Na een min of meer vlakke opening, koerste de AEX kort na de klok van elf uur 0,5 procent lager op 998,71 punten.",
-    "published_at": "2026-04-09 11:22",
-    "scraped_at": "2026-04-09T12:48:59.619456"
-  },
-  {
-    "id": "7e0e9030baa3d1bab387ab460eb215e1",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/859832/UBS-verhoogt-koersdoel-ING.aspx",
-    "intro": "UBS heeft donderdag het koersdoel voor ING verhoogd van 27,40 naar 28,50 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Zwitserse zakenbank.",
-    "published_at": "2026-04-09 10:33",
-    "scraped_at": "2026-04-09T12:48:59.619456"
-  },
-  {
-    "id": "6db4aed6a4d8de7502f6acc53dfa8598",
-    "categorie": "Beursnieuws",
-    "titel": "TomTom lanceert nieuwe snelheidsdienst",
-    "link": "https://www.beurs.nl/Nieuws/859830/TomTom-lanceert-nieuwe-snelheidsdienst.aspx",
-    "intro": "TomTom heeft woensdag Unified Speed Restrictions gelanceerd, een nieuwe dienst die nauwkeurigere en actuelere snelheidsinformatie levert aan autofabrikanten, onder meer voor autonoom rijden. Dit maakte de Amsterdamse navigatiespecialist donderdag bekend.",
-    "published_at": "2026-04-09 10:12",
-    "scraped_at": "2026-04-09T12:48:59.619456"
-  },
-  {
-    "id": "d09205a666104784156a90f077011521",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse koopwoningen ruim 6 procent duurder",
-    "link": "https://www.beurs.nl/Nieuws/859828/Nederlandse-koopwoningen-ruim-6-procent-duurder.aspx",
-    "intro": "De prijzen van bestaande koopwoningen in Nederland zijn in het vierde kwartaal gestegen. Dit bleek donderdag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
-    "published_at": "2026-04-09 10:01",
-    "scraped_at": "2026-04-09T12:48:59.619456"
+    "titel": "Meer nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/859875/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-04-09 14:41",
+    "scraped_at": "2026-04-09T14:45:36.174881"
   }
 ]
