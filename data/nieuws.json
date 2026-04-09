@@ -1,12 +1,30 @@
 [
   {
+    "id": "39fa7086e0f3c9901f782ff3ae19e63e",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst hoger",
+    "link": "https://www.beurs.nl/Nieuws/859926/Wall-Street-koerst-hoger.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag hoger met nog een paar uur handel te gaan, na positieve geluiden over mogelijke onderhandelingen tussen Israël en Libanon, die een staakt-het-vuren tussen de VS en Iran zouden kunnen ondersteunen.",
+    "published_at": "2026-04-09 20:07",
+    "scraped_at": "2026-04-09T18:41:22.094875"
+  },
+  {
+    "id": "7ddced800f5ec8d65479bc2a053ab5da",
+    "categorie": "Beursnieuws",
+    "titel": "Wereldhave koopt winkelruimte in Overvecht",
+    "link": "https://www.beurs.nl/Nieuws/859925/Wereldhave-koopt-winkelruimte-in-Overvecht.aspx",
+    "intro": "Wereldhave heeft overeenstemming bereikt met een groep investeerders over de aankoop van een winkelruimte in winkelcentrum Overvecht in Utrecht. Dit meldde het vastgoedbedrijf donderdagavond.",
+    "published_at": "2026-04-09 19:48",
+    "scraped_at": "2026-04-09T18:41:22.094875"
+  },
+  {
     "id": "79e14763d9374e4f65362ef46ce3e90d",
     "categorie": "Beursnieuws",
     "titel": "Media: CVC zoekt mede-investeerders voor overname Recordati",
     "link": "https://www.beurs.nl/Nieuws/859922/Media-CVC-zoekt-mede-investeerders-voor-overname-Recordati.aspx",
     "intro": "CVC Capital Partners is op zoek naar mede-investeerders om de financiering van de voorgenomen overname van de Italiaanse geneesmiddelenfabrikant Recordati rond te krijgen. Dit meldde persbureau Bloomberg donderdag op basis van bronnen.",
     "published_at": "2026-04-09 19:11",
-    "scraped_at": "2026-04-09T17:34:34.563456"
+    "scraped_at": "2026-04-09T18:41:22.094875"
   },
   {
     "id": "9d86184d79439debe8a2e4d4bdd7cc25",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/859921/InPost-rondt-aandeleninkoop-af.aspx",
     "intro": "InPost heeft in de afgelopen dagen voor bijna 9,5 miljoen euro aan eigen aandelen ingekocht, om zo de beloningsprogramma's van het eigen personeel af te dekken.",
     "published_at": "2026-04-09 19:09",
-    "scraped_at": "2026-04-09T17:34:34.563456"
+    "scraped_at": "2026-04-09T18:41:22.094875"
   },
   {
     "id": "bd2db232839c9e0a357add0b3789b752",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859920/Brown-Forman-schiet-omhoog-door-nieuwe-overname-interesse.aspx",
     "intro": "Het aandeel van Brown-Forman schoot donderdag omhoog nadat The Wall Street Journal meldde dat de producent van Jack Daniels opnieuw kan rekenen op overname-interesse, ditmaal van sectorgenoot Sazerac.",
     "published_at": "2026-04-09 19:04",
-    "scraped_at": "2026-04-09T17:34:34.563456"
+    "scraped_at": "2026-04-09T18:41:22.094875"
   },
   {
     "id": "c684de2a15a8341905252197a99da378",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859919/Ajax-verlengt-contract-Mokio.aspx",
     "intro": "Ajax en Jorthy Mokio hebben overeenstemming bereikt over een nieuw contract. Dit meldde de beursgenoteerde voetbalclub donderdag.",
     "published_at": "2026-04-09 18:48",
-    "scraped_at": "2026-04-09T17:34:34.563456"
+    "scraped_at": "2026-04-09T18:41:22.094875"
   },
   {
     "id": "94be64593b042b9299aac1dc0e723133",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859918/Europese-beurzen-twijfelen-aan-wapenstilstand-Midden-Oosten.aspx",
     "intro": "De aandelenmarkten in Europa zijn donderdag lager geëindigd, nadat de twijfels over de wapenstilstand in het Midden-Oosten verder toenamen.",
     "published_at": "2026-04-09 18:40",
-    "scraped_at": "2026-04-09T17:34:34.563456"
+    "scraped_at": "2026-04-09T18:41:22.094875"
   },
   {
     "id": "83fcc74ed35f862445c0607a841f2d89",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859915/AEX-weet-verlies-om-te-buigen-in-kleine-winst.aspx",
     "intro": "De Amsterdamse beurs is donderdag toch met een kleine winst gesloten en steeg zo verder boven de 1.000 punten.",
     "published_at": "2026-04-09 17:56",
-    "scraped_at": "2026-04-09T17:34:34.563456"
+    "scraped_at": "2026-04-09T18:41:22.094875"
   },
   {
     "id": "1d22c65d894bb5374fe19c24e0a369d0",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859912/Aandeelhouders-Van-Lanschot-Kempen-akkoord-met-kapitaalteruggave.aspx",
     "intro": "De aandeelhouders van Van Lanschot Kempen hebben donderdag tijdens een buitengewone algemene vergadering groen licht gegeven voor het voorstel tot kapitaalteruggave van 0,80 euro per geplaatst gewoon aandeel A. Dit bleek na afloop van de bijeenkomst.",
     "published_at": "2026-04-09 17:35",
-    "scraped_at": "2026-04-09T17:34:34.563456"
+    "scraped_at": "2026-04-09T18:41:22.094875"
   },
   {
     "id": "73b91b6cb5c1a2034ea6b98a5ddce9d2",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859904/Update-Gasunie-en-Fluxys-ontwikkelen-waterstofverbinding-tussen-Nederland-en-Belgie.aspx",
     "intro": "De Nederlandse Gasunie-dochter Hynetwork en het Belgische Fluxys hydrogen hebben een overeenkomst ondertekend om gezamenlijk een waterstofverbinding tussen Nederland en België te ontwikkelen. Dit werd donderdag bekend.",
     "published_at": "2026-04-09 16:54",
-    "scraped_at": "2026-04-09T17:34:34.563456"
-  },
-  {
-    "id": "2813b69434cdf279b385b24709542894",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/859903/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 17 april 2026:",
-    "published_at": "2026-04-09 16:26",
-    "scraped_at": "2026-04-09T17:34:34.563456"
-  },
-  {
-    "id": "bb1e514ef3ce7dae8689f8ad69d0f4f0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/859900/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 17 april 2026:",
-    "published_at": "2026-04-09 16:25",
-    "scraped_at": "2026-04-09T17:34:34.563456"
+    "scraped_at": "2026-04-09T18:41:22.094875"
   }
 ]
