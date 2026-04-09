@@ -1,11 +1,92 @@
 [
   {
-    "id": "c6306367f47307df57ba25e6fd1e84be",
+    "id": "763698e5ac860667ef8cf3c24917b418",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/859790/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 16 april 2026:",
-    "published_at": "2026-04-09 06:55",
-    "scraped_at": "2026-04-09T05:00:14.793107"
+    "titel": "Euronext meldt opnieuw hogere volumes",
+    "link": "https://www.beurs.nl/Nieuws/859816/Euronext-meldt-opnieuw-hogere-volumes.aspx",
+    "intro": "De handelsvolumes van contante effecten op Euronext zijn in maart gestegen. Dit maakte de Europese beursuitbater woensdagavond bekend.",
+    "published_at": "2026-04-09 08:42",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "1f982ef98ba92e9143bf0bbda0396087",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: winstgevendheid Ferrari geremd door netwerkuitbreiding",
+    "link": "https://www.beurs.nl/Nieuws/859815/Beursblik-winstgevendheid-Ferrari-geremd-door-netwerkuitbreiding.aspx",
+    "intro": "Ferrari Group heeft in 2025 de winstgevendheid onder druk zien staan, door een aanhoudende capaciteitsuitbreiding van het eigen netwerk. Dit stelde analist David Kerstens van Jefferies donderdag in een rapport.",
+    "published_at": "2026-04-09 08:41",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "7bad3e229e03381d4a79d63a775a3fb8",
+    "categorie": "Beursnieuws",
+    "titel": "Productie Duitse industrie gedaald",
+    "link": "https://www.beurs.nl/Nieuws/859813/Productie-Duitse-industrie-gedaald.aspx",
+    "intro": "De productie van de Duitse industrie is in februari gedaald. Dit bleek donderdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-04-09 08:20",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "c449fd9a6ed8938660c129c3f576bf4e",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse export omhoog",
+    "link": "https://www.beurs.nl/Nieuws/859812/Duitse-export-omhoog.aspx",
+    "intro": "De Duitse export is in februari gestegen. Dit bleek donderdag uit cijfers van het Duitse statistiekbureau Destatis.",
+    "published_at": "2026-04-09 08:18",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "181bd7c6e4001efc89d587738f36bc8d",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht hoger van start na opluchtingsrally",
+    "link": "https://www.beurs.nl/Nieuws/859810/AEX-licht-hoger-van-start-na-opluchtingsrally.aspx",
+    "intro": "De Amsterdamse beurs maakt zich donderdag op voor een licht positieve opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,4 procent.",
+    "published_at": "2026-04-09 08:13",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "509dd14110bdbfbf1f8f0b012258d4af",
+    "categorie": "Beursnieuws",
+    "titel": "AMG geeft ruim 3 miljoen nieuwe aandelen uit",
+    "link": "https://www.beurs.nl/Nieuws/859806/AMG-geeft-ruim-3-miljoen-nieuwe-aandelen-uit.aspx",
+    "intro": "AMG heeft bijna 3,3 miljoen nieuwe aandelen uitgegeven, die werden verkocht tegen een prijs van 34,00 euro per aandeel. Dit maakte het bedrijf donderdag bekend.",
+    "published_at": "2026-04-09 08:00",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "d4fef64556a9b1997fc2af775a14b464",
+    "categorie": "Beursnieuws",
+    "titel": "Ferrari Group mikt op verdere groei in 2026",
+    "link": "https://www.beurs.nl/Nieuws/859805/Ferrari-Group-mikt-op-verdere-groei-in-2026.aspx",
+    "intro": "Ferrari Group verwacht dat de omzet dit jaar verder zal aantrekken, terwijl de aangepaste EBITDA-marge stabiel blijft. Dit bleek donderdagochtend uit de volledige jaarcijfers van het logistiekbedrijf in luxegoederen met een notering aan het Damrak.",
+    "published_at": "2026-04-09 07:54",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "5763d428853513ef4a67c88350dd646a",
+    "categorie": "Beursnieuws",
+    "titel": "Consumptie Nederlandse huishoudens onder druk",
+    "link": "https://www.beurs.nl/Nieuws/859799/Consumptie-Nederlandse-huishoudens-onder-druk.aspx",
+    "intro": "Nederlandse huishoudens hebben in februari minder goederen aangeschaft dan in dezelfde maand een jaar eerder. Dit meldde het Centraal Bureau voor de Statistiek donderdag.",
+    "published_at": "2026-04-09 07:25",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "3c71d9a52af293844c7c27a16b74d985",
+    "categorie": "Beursnieuws",
+    "titel": "Nederlandse inflatie loopt op",
+    "link": "https://www.beurs.nl/Nieuws/859800/Nederlandseinflatie-loopt-op.aspx",
+    "intro": "De Nederlandse inflatie is in maart opgelopen naar 2,7 procent, conform de snelle raming van eind maart. Dit meldde het Centraal Bureau voor de Statistiek donderdag.",
+    "published_at": "2026-04-09 07:23",
+    "scraped_at": "2026-04-09T06:52:15.650880"
+  },
+  {
+    "id": "051f2422882c8df34c58cec3973bfd0d",
+    "categorie": "Beursnieuws",
+    "titel": "Omzetsprong voor Fagron",
+    "link": "https://www.beurs.nl/Nieuws/859798/Omzetsprong-voor-Fagron.aspx",
+    "intro": "Fagron heeft in het eerste kwartaal de omzet met dubbele cijfers zien stijgen. Dit bleek donderdag uit een kwartaalupdate van de magistrale bereider.",
+    "published_at": "2026-04-09 07:22",
+    "scraped_at": "2026-04-09T06:52:15.650880"
   }
 ]
