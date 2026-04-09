@@ -1,12 +1,21 @@
 [
   {
-    "id": "76ae0573495cc585d0d31276e3720e03",
+    "id": "885cf24436e5ac4392493f582d907452",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX zakt weg",
-    "link": "https://www.beurs.nl/Nieuws/859839/Beursupdate-AEX-zakt-weg.aspx",
+    "titel": "Europese beurzen doen stapje terug",
+    "link": "https://www.beurs.nl/Nieuws/859845/Europese-beurzen-doen-stapje-terug.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur lager.",
+    "published_at": "2026-04-09 12:33",
+    "scraped_at": "2026-04-09T10:48:11.505095"
+  },
+  {
+    "id": "a48e5284e483ea4e300014e6d11f85a0",
+    "categorie": "Beursnieuws",
+    "titel": "AEX zakt weg rond lunchtijd",
+    "link": "https://www.beurs.nl/Nieuws/859839/AEX-zakt-weg-rond-lunchtijd.aspx",
     "intro": "De Amsterdamse beurs zakte donderdag gedurende de ochtend weg. Na een min of meer vlakke opening, koerste de AEX kort na de klok van elf uur 0,5 procent lager op 998,71 punten.",
     "published_at": "2026-04-09 11:22",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   },
   {
     "id": "2aa7592785380261bdf3b6b747a2f82a",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/859832/Beursblik-UBS-verhoogt-koersdoel-ING.aspx",
     "intro": "UBS heeft donderdag het koersdoel voor ING verhoogd van 27,40 naar 28,50 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Zwitserse zakenbank.",
     "published_at": "2026-04-09 10:33",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   },
   {
     "id": "6db4aed6a4d8de7502f6acc53dfa8598",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/859830/TomTom-lanceert-nieuwe-snelheidsdienst.aspx",
     "intro": "TomTom heeft woensdag Unified Speed Restrictions gelanceerd, een nieuwe dienst die nauwkeurigere en actuelere snelheidsinformatie levert aan autofabrikanten, onder meer voor autonoom rijden. Dit maakte de Amsterdamse navigatiespecialist donderdag bekend.",
     "published_at": "2026-04-09 10:12",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   },
   {
     "id": "d09205a666104784156a90f077011521",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859828/Nederlandse-koopwoningen-ruim-6-procent-duurder.aspx",
     "intro": "De prijzen van bestaande koopwoningen in Nederland zijn in het vierde kwartaal gestegen. Dit bleek donderdag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
     "published_at": "2026-04-09 10:01",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   },
   {
     "id": "5ee8f5365e1d1b59c9b6a4684f4e5134",
@@ -42,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/859728/Must-read-Het-is-veilig-en-rendeert.aspx",
     "intro": "Plus: geen prijsstabiliteit zonder energietransitie, Europese HALO-aandelen gevraagd, beurseuforie is ongepast, rijk worden met Taco-trades, Oranje wint WK-voetbal en meer.",
     "published_at": "2026-04-09 10:00",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   },
   {
     "id": "19a8d2d28c6289cf44170423b0cdc425",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859825/Beursblik-Fagron-presenteert-solide-kwartaalresultaten.aspx",
     "intro": "Fagron heeft een solide eerste kwartaal achter de rug. Dit oordeelden analisten van KBC Securities donderdag in een rapport.",
     "published_at": "2026-04-09 09:37",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   },
   {
     "id": "3a46aebb5d71d473da912eb5ae3c40aa",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859824/Trump-trekt-strijdkrachten-niet-terug.aspx",
     "intro": "De Verenigde Staten zijn niet van plan om hun militaire apparaat rond Iran terug te trekken. Dit maakte de Amerikaanse president Donald Trump donderdagochtend duidelijk op Truth Social.",
     "published_at": "2026-04-09 09:27",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   },
   {
     "id": "06d2da1c843f97490e0ed748516511b9",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859820/AEX-vrijwel-vlak-van-start-gegaan.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong fractioneel in het groen op 1.003,97 punten, terwijl de AMX 0,4 procent prijs moest geven.",
     "published_at": "2026-04-09 09:12",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   },
   {
     "id": "5dca950e2877f91f541d8fbb594ed4e0",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859819/Beursblik-Citi-blijft-positief-gestemd-over-Europese-bankaandelen.aspx",
     "intro": "Citi Research blijft positief over Europese banken en handhaaft het Overwogen advies voor deze aandelen. Dit kwam donderdag naar voren uit een analistenrapport van de Amerikaanse bank, waarin beleggers werd geadviseerd om hun blootstelling aan de sector te heroverwegen.",
     "published_at": "2026-04-09 08:58",
-    "scraped_at": "2026-04-09T09:45:31.324702"
-  },
-  {
-    "id": "763698e5ac860667ef8cf3c24917b418",
-    "categorie": "Beursnieuws",
-    "titel": "Euronext meldt opnieuw hogere volumes",
-    "link": "https://www.beurs.nl/Nieuws/859816/Euronext-meldt-opnieuw-hogere-volumes.aspx",
-    "intro": "De handelsvolumes van contante effecten op Euronext zijn in maart gestegen. Dit maakte de Europese beursuitbater woensdagavond bekend.",
-    "published_at": "2026-04-09 08:42",
-    "scraped_at": "2026-04-09T09:45:31.324702"
+    "scraped_at": "2026-04-09T10:48:11.505095"
   }
 ]
