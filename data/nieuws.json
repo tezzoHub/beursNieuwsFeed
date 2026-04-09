@@ -1,12 +1,39 @@
 [
   {
-    "id": "9bcad15b6e39a8273b71fc65859e6853",
+    "id": "e89f23493ef25e1fedf90b6e9794fe50",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: solide update van Shell",
-    "link": "https://www.beurs.nl/Nieuws/859848/Beursblik-solide-update-van-Shell.aspx",
+    "titel": "Amerikaanse groei sterker vertraagd dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/859869/Amerikaanse-groei-sterker-vertraagd-dan-verwacht.aspx",
+    "intro": "De Amerikaanse economie is in het vierde kwartaal van 2025 nog harder vertraagd dan eerder aangenomen. Dit bleek donderdag uit definitieve cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-04-09 14:41",
+    "scraped_at": "2026-04-09T12:48:59.619456"
+  },
+  {
+    "id": "76015e60280566ce7355b93363282318",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse PCE-inflatie licht gestegen",
+    "link": "https://www.beurs.nl/Nieuws/859870/Amerikaanse-PCE-inflatie-licht-gestegen.aspx",
+    "intro": "Het inflatiecijfer in het PCE-rapport is in februari gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-04-09 14:41",
+    "scraped_at": "2026-04-09T12:48:59.619456"
+  },
+  {
+    "id": "30eb80fc5eca74bbe97193b2b60fe42c",
+    "categorie": "Beursnieuws",
+    "titel": "BofAm: Europese energiebedrijven en financials uitblinkers in eerste kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/859851/BofAm-Europese-energiebedrijven-en-financials-uitblinkers-in-eerste-kwartaal.aspx",
+    "intro": "Europese bedrijven hebben in het eerste kwartaal gemiddeld genomen hun winst zien stijgen, waarbij vooral energiebedrijven en financials goede zaken deden. Dit stelden analisten van Bank of America donderdag in een rapport in aanloop naar de start van het cijferseizoen.",
+    "published_at": "2026-04-09 13:54",
+    "scraped_at": "2026-04-09T12:48:59.619456"
+  },
+  {
+    "id": "32a8373808310b68a1dbdbe6427e5baf",
+    "categorie": "Beursnieuws",
+    "titel": "UBS: solide update van Shell",
+    "link": "https://www.beurs.nl/Nieuws/859848/UBS-solide-update-van-Shell.aspx",
     "intro": "Shell kwam eerder deze week met een \"solide\" update over het eerste kwartaal. Dit stelde analisten van UBS donderdag in een rapport.",
     "published_at": "2026-04-09 13:17",
-    "scraped_at": "2026-04-09T11:41:14.592526"
+    "scraped_at": "2026-04-09T12:48:59.619456"
   },
   {
     "id": "a4bdad14a3c68ac0391ef1201aebeb14",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/859847/Lagere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,3 procent in het rood.",
     "published_at": "2026-04-09 13:15",
-    "scraped_at": "2026-04-09T11:41:14.592526"
+    "scraped_at": "2026-04-09T12:48:59.619456"
   },
   {
     "id": "885cf24436e5ac4392493f582d907452",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859845/Europese-beurzen-doen-stapje-terug.aspx",
     "intro": "De Europese beurzen noteerden donderdag rond het middaguur lager.",
     "published_at": "2026-04-09 12:33",
-    "scraped_at": "2026-04-09T11:41:14.592526"
+    "scraped_at": "2026-04-09T12:48:59.619456"
   },
   {
     "id": "a48e5284e483ea4e300014e6d11f85a0",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859839/AEX-zakt-weg-rond-lunchtijd.aspx",
     "intro": "De Amsterdamse beurs zakte donderdag gedurende de ochtend weg. Na een min of meer vlakke opening, koerste de AEX kort na de klok van elf uur 0,5 procent lager op 998,71 punten.",
     "published_at": "2026-04-09 11:22",
-    "scraped_at": "2026-04-09T11:41:14.592526"
+    "scraped_at": "2026-04-09T12:48:59.619456"
   },
   {
     "id": "7e0e9030baa3d1bab387ab460eb215e1",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859832/UBS-verhoogt-koersdoel-ING.aspx",
     "intro": "UBS heeft donderdag het koersdoel voor ING verhoogd van 27,40 naar 28,50 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Zwitserse zakenbank.",
     "published_at": "2026-04-09 10:33",
-    "scraped_at": "2026-04-09T11:41:14.592526"
+    "scraped_at": "2026-04-09T12:48:59.619456"
   },
   {
     "id": "6db4aed6a4d8de7502f6acc53dfa8598",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859830/TomTom-lanceert-nieuwe-snelheidsdienst.aspx",
     "intro": "TomTom heeft woensdag Unified Speed Restrictions gelanceerd, een nieuwe dienst die nauwkeurigere en actuelere snelheidsinformatie levert aan autofabrikanten, onder meer voor autonoom rijden. Dit maakte de Amsterdamse navigatiespecialist donderdag bekend.",
     "published_at": "2026-04-09 10:12",
-    "scraped_at": "2026-04-09T11:41:14.592526"
+    "scraped_at": "2026-04-09T12:48:59.619456"
   },
   {
     "id": "d09205a666104784156a90f077011521",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859828/Nederlandse-koopwoningen-ruim-6-procent-duurder.aspx",
     "intro": "De prijzen van bestaande koopwoningen in Nederland zijn in het vierde kwartaal gestegen. Dit bleek donderdag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
     "published_at": "2026-04-09 10:01",
-    "scraped_at": "2026-04-09T11:41:14.592526"
-  },
-  {
-    "id": "5ee8f5365e1d1b59c9b6a4684f4e5134",
-    "categorie": "Must read",
-    "titel": "Must read: Het is veilig en rendeert",
-    "link": "https://www.iex.nl/artikel/859728/Must-read-Het-is-veilig-en-rendeert.aspx",
-    "intro": "Plus: geen prijsstabiliteit zonder energietransitie, Europese HALO-aandelen gevraagd, beurseuforie is ongepast, rijk worden met Taco-trades, Oranje wint WK-voetbal en meer.",
-    "published_at": "2026-04-09 10:00",
-    "scraped_at": "2026-04-09T11:41:14.592526"
-  },
-  {
-    "id": "19a8d2d28c6289cf44170423b0cdc425",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Fagron presenteert solide kwartaalresultaten",
-    "link": "https://www.beurs.nl/Nieuws/859825/Beursblik-Fagron-presenteert-solide-kwartaalresultaten.aspx",
-    "intro": "Fagron heeft een solide eerste kwartaal achter de rug. Dit oordeelden analisten van KBC Securities donderdag in een rapport.",
-    "published_at": "2026-04-09 09:37",
-    "scraped_at": "2026-04-09T11:41:14.592526"
-  },
-  {
-    "id": "3a46aebb5d71d473da912eb5ae3c40aa",
-    "categorie": "Beursnieuws",
-    "titel": "Trump trekt strijdkrachten niet terug",
-    "link": "https://www.beurs.nl/Nieuws/859824/Trump-trekt-strijdkrachten-niet-terug.aspx",
-    "intro": "De Verenigde Staten zijn niet van plan om hun militaire apparaat rond Iran terug te trekken. Dit maakte de Amerikaanse president Donald Trump donderdagochtend duidelijk op Truth Social.",
-    "published_at": "2026-04-09 09:27",
-    "scraped_at": "2026-04-09T11:41:14.592526"
+    "scraped_at": "2026-04-09T12:48:59.619456"
   }
 ]
