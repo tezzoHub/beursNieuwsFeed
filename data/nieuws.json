@@ -1,12 +1,84 @@
 [
   {
+    "id": "fbb19b1c95a72e58d2811aecac3016f8",
+    "categorie": "Beursnieuws",
+    "titel": "Heineken verkoopt Bralima",
+    "link": "https://www.beurs.nl/Nieuws/859989/Heineken-verkoopt-Bralima.aspx",
+    "intro": "Heineken heeft zijn belang in Brasseries, Limonaderies et Malteries, kortweg Bralima, in de Democratische Republiek Congo verkocht. Dit maakte de brouwer vrijdag bekend zonder financiële details te noemen.",
+    "published_at": "2026-04-10 09:48",
+    "scraped_at": "2026-04-10T08:04:18.934254"
+  },
+  {
+    "id": "fb5c7ce4e582216d43931f883b5f4503",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: meer Franse aankopen verwacht voor Retail Estates",
+    "link": "https://www.beurs.nl/Nieuws/859988/Beursblik-meer-Franse-aankopen-verwacht-voor-Retail-Estates.aspx",
+    "intro": "De eerste acquisitie van Retail Estates in Frankrijk lijkt een opmaat naar meer. Dit stelde analist Wim Lewi van KBC Securities vrijdag in een rapport.",
+    "published_at": "2026-04-10 09:45",
+    "scraped_at": "2026-04-10T08:04:18.934254"
+  },
+  {
+    "id": "2012fa9cf7b82f5375d58dc25333232f",
+    "categorie": "Beursnieuws",
+    "titel": "AEX vlak van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/859982/AEX-vlak-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,1 procent hoger op 1.006,40 punten. Ook de Midkap kwam nauwelijks van zijn plaats.",
+    "published_at": "2026-04-10 09:11",
+    "scraped_at": "2026-04-10T08:04:18.934254"
+  },
+  {
+    "id": "c353b87f8437c98c1fcdffe346600b59",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verhoogt winsttaxaties Shell fors",
+    "link": "https://www.beurs.nl/Nieuws/859981/Jefferies-verhoogt-winsttaxaties-Shell-fors.aspx",
+    "intro": "Jefferies heeft de winsttaxaties voor Shell fors verhoogd. Dit bleek vrijdag uit een rapport van de zakenbank.",
+    "published_at": "2026-04-10 08:48",
+    "scraped_at": "2026-04-10T08:04:18.934254"
+  },
+  {
+    "id": "225f2d6c6f981d7fa606fcee4d2a93bd",
+    "categorie": "Beursnieuws",
+    "titel": "Belang Nederland in ABN schiet onder 25%",
+    "link": "https://www.beurs.nl/Nieuws/859978/Belang-Nederland-in-ABN-schiet-onder-25.aspx",
+    "intro": "NLFI heeft een kleiner belang in ABN AMRO gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 8 april.",
+    "published_at": "2026-04-10 08:38",
+    "scraped_at": "2026-04-10T08:04:18.934254"
+  },
+  {
+    "id": "62f18b3e73cd6a5e369e5857e8564760",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel ING",
+    "link": "https://www.beurs.nl/Nieuws/859979/Deutsche-Bank-verhoogt-koersdoel-ING.aspx",
+    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor ING verhoogd met één euro naar 29,00 euro. Dit bleek uit een rapport van analist Benjamin Goy.",
+    "published_at": "2026-04-10 08:38",
+    "scraped_at": "2026-04-10T08:04:18.934254"
+  },
+  {
+    "id": "1b2f0060c73bfe5828f47f5135c099bb",
+    "categorie": "Beursnieuws",
+    "titel": "OCI verkoopt nog eens 2 miljoen aandelen Methanex",
+    "link": "https://www.beurs.nl/Nieuws/859976/OCI-verkoopt-nog-eens-2-miljoen-aandelen-Methanex.aspx",
+    "intro": "OCI Chemicals heeft 2 miljoen aandelen Methanex Corporation verkocht. Dit maakte het bedrijf met een notering aan het Amsterdamse Damrak vrijdag voorbeurs bekend.",
+    "published_at": "2026-04-10 08:17",
+    "scraped_at": "2026-04-10T08:04:18.934254"
+  },
+  {
     "id": "d777dffd2c31ecdd7baa0fe97eced69e",
     "categorie": "Beursnieuws",
     "titel": "AEX start handelsdag licht hoger",
     "link": "https://www.beurs.nl/Nieuws/859971/AEX-start-handelsdag-licht-hoger.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een licht hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,3 procent.",
     "published_at": "2026-04-10 08:10",
-    "scraped_at": "2026-04-10T06:14:02.309171"
+    "scraped_at": "2026-04-10T08:04:18.934254"
+  },
+  {
+    "id": "9e453685ec2e406730e222b1dc8cc043",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent vermoedelijk hoger en TSMC zet de toon voor cijfers ASML",
+    "link": "https://www.iex.nl/artikel/859829/AEX-opent-vermoedelijk-hoger-en-TSMC-zet-de-toon-voor-cijfers-ASML.aspx",
+    "intro": "TSMC opent het cijferseizoen met duizelingwekkende omzetgroei. Verder bleven Wall Street en Azië goed liggen. Doet de AEX vandaag hetzelfde?",
+    "published_at": "2026-04-10 08:10",
+    "scraped_at": "2026-04-10T08:04:18.934254"
   },
   {
     "id": "ec72963bc16aa3c6892990a723abb990",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859970/Duitse-inflatie-schiet-omhoog-door-duurdere-energie.aspx",
     "intro": "De Duitse inflatie is in maart gestegen doordat energie flink duurder werd. Dit bleek vrijdag uit definitieve cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-04-10 08:09",
-    "scraped_at": "2026-04-10T06:14:02.309171"
-  },
-  {
-    "id": "c4ea40224f1b44a9569aca772a843c89",
-    "categorie": "Beursnieuws",
-    "titel": "Sodexo verlaagt outlook",
-    "link": "https://www.beurs.nl/Nieuws/859966/Sodexo-verlaagt-outlook.aspx",
-    "intro": "Sodexo heeft de outlook voor het lopende boekjaar verlaagd. Dit maakte het Franse catering- en schoonmaakbedrijf vrijdagochtend bekend.",
-    "published_at": "2026-04-10 07:55",
-    "scraped_at": "2026-04-10T06:14:02.309171"
-  },
-  {
-    "id": "d37206c780bc75932b1a6fb00fa4fe69",
-    "categorie": "Beursnieuws",
-    "titel": "Flinke omzetgroei voor TSMC",
-    "link": "https://www.beurs.nl/Nieuws/859965/Flinke-omzetgroei-voor-TSMC.aspx",
-    "intro": "TSMC heeft in maart veel meer omzet geboekt dan in de maand ervoor, en ook op jaarbasis was er sprake van een forse omzetstijging. Dit bleek vrijdagochtend uit cijfers van de Taiwanese chipgigant.",
-    "published_at": "2026-04-10 07:51",
-    "scraped_at": "2026-04-10T06:14:02.309171"
-  },
-  {
-    "id": "632933f85dd2a858fbf70945167f435a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Citi verhoogt koersdoel Besi",
-    "link": "https://www.beurs.nl/Nieuws/859960/Beursblik-Citi-verhoogt-koersdoel-Besi.aspx",
-    "intro": "Citi Research heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 180 naar 210 euro met een herhaling van het Houden advies. Dit bleek uit een sectorrapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-04-10 07:39",
-    "scraped_at": "2026-04-10T06:14:02.309171"
-  },
-  {
-    "id": "8c1fc3de04a33faf38456e4a312d0015",
-    "categorie": "Beursnieuws",
-    "titel": "Retail Estates rondt eerste investering in Frankrijk af",
-    "link": "https://www.beurs.nl/Nieuws/859958/Retail-Estates-rondt-eerste-investering-in-Frankrijk-af.aspx",
-    "intro": "Retail Estates heeft op 9 april zijn eerste investering in Frankrijk afgerond met de aankoop van het retailpark L'Oseraie in Île-de-France, voor een bedrag van 29 miljoen euro. Dit maakte het vastgoedbedrijf vrijdagochtend bekend.",
-    "published_at": "2026-04-10 07:22",
-    "scraped_at": "2026-04-10T06:14:02.309171"
-  },
-  {
-    "id": "8109f2495acbadae3eaecc7dbfcb6130",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren in het groen",
-    "link": "https://www.beurs.nl/Nieuws/859957/Aziatische-beurzen-noteren-in-het-groen.aspx",
-    "intro": "De Aziatische beurzen koersten vrijdagochtend hoger.",
-    "published_at": "2026-04-10 07:17",
-    "scraped_at": "2026-04-10T06:14:02.309171"
-  },
-  {
-    "id": "79a862433c557b1befc7dca5db1d580c",
-    "categorie": "Beursnieuws",
-    "titel": "Chinese inflatie gedaald",
-    "link": "https://www.beurs.nl/Nieuws/859956/Chinese-inflatie-gedaald.aspx",
-    "intro": "De Chinese consumentenprijzen zijn in maart minder hard gestegen dan in februari. Dit bleek vrijdag uit overheidscijfers.",
-    "published_at": "2026-04-10 07:14",
-    "scraped_at": "2026-04-10T06:14:02.309171"
-  },
-  {
-    "id": "64868b698169d08156c23e06eabac6fb",
-    "categorie": "Beursnieuws",
-    "titel": "Producentenvertrouwen minder onder druk",
-    "link": "https://www.beurs.nl/Nieuws/859955/Producentenvertrouwen-minder-onder-druk.aspx",
-    "intro": "Nederlandse producenten zijn in maart minder negatief geworden. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-04-10 07:06",
-    "scraped_at": "2026-04-10T06:14:02.309171"
-  },
-  {
-    "id": "a2cce851cd6460eeef7f06d29bebde0a",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen licht hoger",
-    "link": "https://www.beurs.nl/Nieuws/859954/Europese-beurzen-openen-licht-hoger.aspx",
-    "intro": "De aandelenmarkten in Europa gaan vrijdag een iets hogere opening tegemoet, na een terughoudend slot een dag eerder.",
-    "published_at": "2026-04-10 07:01",
-    "scraped_at": "2026-04-10T06:14:02.309171"
+    "scraped_at": "2026-04-10T08:04:18.934254"
   }
 ]
