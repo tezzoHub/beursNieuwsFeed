@@ -1,12 +1,30 @@
 [
   {
+    "id": "0361663cbd81307143c9b2e6ef87d4c0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verhoogt koersdoel ASMI",
+    "link": "https://www.beurs.nl/Nieuws/860016/Beursblik-Bank-of-America-verhoogt-koersdoel-ASMI.aspx",
+    "intro": "Bank of America heeft vrijdag het koersdoel voor ASMI verhoogd van 882,00 naar 919,00 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
+    "published_at": "2026-04-10 12:20",
+    "scraped_at": "2026-04-10T10:39:57.020946"
+  },
+  {
+    "id": "44f85477f5634f31174d940335e21b83",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen voorzichtig positief rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/860013/Europese-beurzen-voorzichtig-positief-rond-middaguur.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond het middaguur licht hoger, in afwachting van Amerikaanse inflatiecijfers en hopend op een duurzame wapenstilstand tussen de Verenigde Staten en Iran.",
+    "published_at": "2026-04-10 12:08",
+    "scraped_at": "2026-04-10T10:39:57.020946"
+  },
+  {
     "id": "5782871d367eafae7cb3edd15c42f200",
     "categorie": "Beursnieuws",
     "titel": "Barclays verhoogt koersdoel Ahold Delhaize",
     "link": "https://www.beurs.nl/Nieuws/860000/Barclays-verhoogt-koersdoel-Ahold-Delhaize.aspx",
     "intro": "Barclays heeft vrijdag het koersdoel voor Ahold Delhaize verhoogd van 38,00 naar 39,50 euro, met handhaving van het Gelijkgewogen advies. Dit bleek uit een analistenrapport van de Britse bank.",
     "published_at": "2026-04-10 10:46",
-    "scraped_at": "2026-04-10T09:42:39.805221"
+    "scraped_at": "2026-04-10T10:39:57.020946"
   },
   {
     "id": "fd835cfd79bf164305e21a61ced05e22",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/859998/AEX-blijft-dicht-bij-huis.aspx",
     "intro": "De Amsterdamse beurs bleef vrijdag dicht bij huis. Kort na half elf won de AEX 0,3 procent op 1.007,91 punten.",
     "published_at": "2026-04-10 10:38",
-    "scraped_at": "2026-04-10T09:42:39.805221"
+    "scraped_at": "2026-04-10T10:39:57.020946"
   },
   {
     "id": "85f38f5a192c01b5f920dbb25731a14c",
@@ -24,7 +42,7 @@
     "link": "https://www.iex.nl/artikel/859896/Must-read-goud-op-weg-naar-boven.aspx",
     "intro": "Goud stijgt voor de derde week op rij na hoop op een diplomatieke oplossing voor de Iranoorlog. Plus: PCE-inflatie blijft hoog en olieprijzen stijgen opnieuw en meer.",
     "published_at": "2026-04-10 10:30",
-    "scraped_at": "2026-04-10T09:42:39.805221"
+    "scraped_at": "2026-04-10T10:39:57.020946"
   },
   {
     "id": "fcce09b2cf75d76b16e5094ff7365dc4",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/859995/Citi-verwacht-positief-eerste-kwartaal-voor-ASML-en-ASMI.aspx",
     "intro": "Europese halfgeleiderbedrijven hebben een positief eerste kwartaal achter de rug. Dit verwachten analisten van Citi Research.",
     "published_at": "2026-04-10 10:23",
-    "scraped_at": "2026-04-10T09:42:39.805221"
+    "scraped_at": "2026-04-10T10:39:57.020946"
   },
   {
     "id": "d851cebf8eec0d637ed8696ea64d0362",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859994/UBS-verhoogt-koersdoel-Theon.aspx",
     "intro": "UBS heeft vrijdag het koersdoel voor Theon International verhoogd van 40,00 naar 45,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Zwitserse zakenbank.",
     "published_at": "2026-04-10 10:21",
-    "scraped_at": "2026-04-10T09:42:39.805221"
+    "scraped_at": "2026-04-10T10:39:57.020946"
   },
   {
     "id": "fbb19b1c95a72e58d2811aecac3016f8",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859989/Heineken-verkoopt-Bralima.aspx",
     "intro": "Heineken heeft zijn belang in Brasseries, Limonaderies et Malteries, kortweg Bralima, in de Democratische Republiek Congo verkocht. Dit maakte de brouwer vrijdag bekend zonder financiële details te noemen.",
     "published_at": "2026-04-10 09:48",
-    "scraped_at": "2026-04-10T09:42:39.805221"
+    "scraped_at": "2026-04-10T10:39:57.020946"
   },
   {
     "id": "fb5c7ce4e582216d43931f883b5f4503",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859988/Beursblik-meer-Franse-aankopen-verwacht-voor-Retail-Estates.aspx",
     "intro": "De eerste acquisitie van Retail Estates in Frankrijk lijkt een opmaat naar meer. Dit stelde analist Wim Lewi van KBC Securities vrijdag in een rapport.",
     "published_at": "2026-04-10 09:45",
-    "scraped_at": "2026-04-10T09:42:39.805221"
+    "scraped_at": "2026-04-10T10:39:57.020946"
   },
   {
     "id": "2012fa9cf7b82f5375d58dc25333232f",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859982/AEX-vlak-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong 0,1 procent hoger op 1.006,40 punten. Ook de Midkap kwam nauwelijks van zijn plaats.",
     "published_at": "2026-04-10 09:11",
-    "scraped_at": "2026-04-10T09:42:39.805221"
-  },
-  {
-    "id": "c353b87f8437c98c1fcdffe346600b59",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt winsttaxaties Shell fors",
-    "link": "https://www.beurs.nl/Nieuws/859981/Jefferies-verhoogt-winsttaxaties-Shell-fors.aspx",
-    "intro": "Jefferies heeft de winsttaxaties voor Shell fors verhoogd. Dit bleek vrijdag uit een rapport van de zakenbank.",
-    "published_at": "2026-04-10 08:48",
-    "scraped_at": "2026-04-10T09:42:39.805221"
-  },
-  {
-    "id": "225f2d6c6f981d7fa606fcee4d2a93bd",
-    "categorie": "Beursnieuws",
-    "titel": "Belang Nederland in ABN schiet onder 25%",
-    "link": "https://www.beurs.nl/Nieuws/859978/Belang-Nederland-in-ABN-schiet-onder-25.aspx",
-    "intro": "NLFI heeft een kleiner belang in ABN AMRO gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 8 april.",
-    "published_at": "2026-04-10 08:38",
-    "scraped_at": "2026-04-10T09:42:39.805221"
+    "scraped_at": "2026-04-10T10:39:57.020946"
   }
 ]
