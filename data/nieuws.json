@@ -1,12 +1,21 @@
 [
   {
+    "id": "04cd7a171551a2ef24dfac394050d513",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen sluiten turbulente week lager af",
+    "link": "https://www.beurs.nl/Nieuws/860075/Olieprijzen-sluiten-turbulente-week-lager-af.aspx",
+    "intro": "De olieprijzen zijn vrijdag lager gesloten en eindigden daarmee een turbulente week die opnieuw in het teken stond van het conflict in het Midden-Oosten, waarbij de bandbreedte gedurende de week voor WTI ongeveer 25 dollar bedroeg en voor Brent circa 20 dollar.",
+    "published_at": "2026-04-10 21:09",
+    "scraped_at": "2026-04-10T19:58:57.410257"
+  },
+  {
     "id": "80fbd634e27879c96516d40bfc8b6ed6",
     "categorie": "Beursnieuws",
     "titel": "Herstel Wall Street verliest wat stoom",
     "link": "https://www.beurs.nl/Nieuws/860071/Herstel-Wall-Street-verliest-wat-stoom.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag met nog een paar uur handel te gaan verdeeld, terwijl beleggers macro-economische data verwerkten en tegelijkertijd het fragiele bestand tussen de VS en Iran nauwlettend in de gaten hielden.",
     "published_at": "2026-04-10 19:47",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   },
   {
     "id": "21fdfa3fd2e336be95add12e6e3f3d24",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/860060/Europese-beurzen-sluiten-bewogen-week-voorzichtig-af.aspx",
     "intro": "De Europese beurzen zijn vrijdag redelijk dicht bij huis gebleven. Daarmee kwam er een voorzichtig einde aan een bewogen week die opnieuw in het teken stond van het conflict in het Midden-Oosten.",
     "published_at": "2026-04-10 18:44",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   },
   {
     "id": "3c50746f59402de8b82335b5df21b03e",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860056/Chippers-helpen-AEX-aan-groen-slot.aspx",
     "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, met hulp van de chipbedrijven zoals ASML en Besi, terwijl energie-aandelen juist onder druk stonden.",
     "published_at": "2026-04-10 17:57",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   },
   {
     "id": "fbb3f6b44ba2726ec7f3908f623c416e",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Artikel/860054/Maak-kennis-met-IEX-Pro-concrete-tips-van-professionals.aspx",
     "intro": "IEX Pro richt zich op markten en methoden waarbij je ook rendement kunt behalen als de algemene markt minder presteert.",
     "published_at": "2026-04-10 17:20",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   },
   {
     "id": "d841027b6760aabe2ed0a87dd15f1ed3",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860050/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 20 april 2026:",
     "published_at": "2026-04-10 16:31",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   },
   {
     "id": "f90a9f1b93783c833ed5d20e75ee4238",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860051/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 20 april 2026:",
     "published_at": "2026-04-10 16:31",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   },
   {
     "id": "bd5c18aa2426703dbc8c080448c06905",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860048/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 20 april 2026:",
     "published_at": "2026-04-10 16:30",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   },
   {
     "id": "c92344d7ef5c7b9029536a817309640b",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860047/Consumentenvertrouwen-VS-verder-gedaald-door-oorlog.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in de eerste dagen van april verder gedaald als gevolg van de oorlog in het Midden-Oosten. Dit bleek vrijdag uit voorlopige cijfers van de Universiteit van Michigan.",
     "published_at": "2026-04-10 16:07",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   },
   {
     "id": "ddae21f350a83be7e2b55e9b66a665e0",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860046/Amerikaanse-fabrieksorders-stabiel.aspx",
     "intro": "De Amerikaanse fabrieksorders zijn in februari stabiel gebleven, net als in januari. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-04-10 16:06",
-    "scraped_at": "2026-04-10T19:15:11.059007"
-  },
-  {
-    "id": "379c8c8dce7c62cf04b8e2e069f3904e",
-    "categorie": "Beursnieuws",
-    "titel": "CoreWeave gaat diensten leveren aan Anthropic",
-    "link": "https://www.beurs.nl/Nieuws/860044/CoreWeave-gaat-diensten-leveren-aan-Anthropic.aspx",
-    "intro": "CoreWeave heeft een meerjarige overeenkomst gesloten met Anthropic. Dit maakte het Amerikaans bedrijf met datacenters voor kunstmatige intelligentie en cloudcomputing toepassingen vrijdag bekend, zonder financiële details te vermelden.",
-    "published_at": "2026-04-10 15:09",
-    "scraped_at": "2026-04-10T19:15:11.059007"
+    "scraped_at": "2026-04-10T19:58:57.410257"
   }
 ]
