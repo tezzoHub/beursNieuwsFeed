@@ -1,12 +1,57 @@
 [
   {
+    "id": "5782871d367eafae7cb3edd15c42f200",
+    "categorie": "Beursnieuws",
+    "titel": "Barclays verhoogt koersdoel Ahold Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/860000/Barclays-verhoogt-koersdoel-Ahold-Delhaize.aspx",
+    "intro": "Barclays heeft vrijdag het koersdoel voor Ahold Delhaize verhoogd van 38,00 naar 39,50 euro, met handhaving van het Gelijkgewogen advies. Dit bleek uit een analistenrapport van de Britse bank.",
+    "published_at": "2026-04-10 10:46",
+    "scraped_at": "2026-04-10T09:42:39.805221"
+  },
+  {
+    "id": "fd835cfd79bf164305e21a61ced05e22",
+    "categorie": "Beursnieuws",
+    "titel": "AEX blijft dicht bij huis",
+    "link": "https://www.beurs.nl/Nieuws/859998/AEX-blijft-dicht-bij-huis.aspx",
+    "intro": "De Amsterdamse beurs bleef vrijdag dicht bij huis. Kort na half elf won de AEX 0,3 procent op 1.007,91 punten.",
+    "published_at": "2026-04-10 10:38",
+    "scraped_at": "2026-04-10T09:42:39.805221"
+  },
+  {
+    "id": "85f38f5a192c01b5f920dbb25731a14c",
+    "categorie": "Must read",
+    "titel": "Must read: goud op weg naar boven?",
+    "link": "https://www.iex.nl/artikel/859896/Must-read-goud-op-weg-naar-boven.aspx",
+    "intro": "Goud stijgt voor de derde week op rij na hoop op een diplomatieke oplossing voor de Iranoorlog. Plus: PCE-inflatie blijft hoog en olieprijzen stijgen opnieuw en meer.",
+    "published_at": "2026-04-10 10:30",
+    "scraped_at": "2026-04-10T09:42:39.805221"
+  },
+  {
+    "id": "fcce09b2cf75d76b16e5094ff7365dc4",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verwacht positief eerste kwartaal voor ASML en ASMI",
+    "link": "https://www.beurs.nl/Nieuws/859995/Citi-verwacht-positief-eerste-kwartaal-voor-ASML-en-ASMI.aspx",
+    "intro": "Europese halfgeleiderbedrijven hebben een positief eerste kwartaal achter de rug. Dit verwachten analisten van Citi Research.",
+    "published_at": "2026-04-10 10:23",
+    "scraped_at": "2026-04-10T09:42:39.805221"
+  },
+  {
+    "id": "d851cebf8eec0d637ed8696ea64d0362",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel Theon",
+    "link": "https://www.beurs.nl/Nieuws/859994/UBS-verhoogt-koersdoel-Theon.aspx",
+    "intro": "UBS heeft vrijdag het koersdoel voor Theon International verhoogd van 40,00 naar 45,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Zwitserse zakenbank.",
+    "published_at": "2026-04-10 10:21",
+    "scraped_at": "2026-04-10T09:42:39.805221"
+  },
+  {
     "id": "fbb19b1c95a72e58d2811aecac3016f8",
     "categorie": "Beursnieuws",
     "titel": "Heineken verkoopt Bralima",
     "link": "https://www.beurs.nl/Nieuws/859989/Heineken-verkoopt-Bralima.aspx",
     "intro": "Heineken heeft zijn belang in Brasseries, Limonaderies et Malteries, kortweg Bralima, in de Democratische Republiek Congo verkocht. Dit maakte de brouwer vrijdag bekend zonder financiële details te noemen.",
     "published_at": "2026-04-10 09:48",
-    "scraped_at": "2026-04-10T08:04:18.934254"
+    "scraped_at": "2026-04-10T09:42:39.805221"
   },
   {
     "id": "fb5c7ce4e582216d43931f883b5f4503",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/859988/Beursblik-meer-Franse-aankopen-verwacht-voor-Retail-Estates.aspx",
     "intro": "De eerste acquisitie van Retail Estates in Frankrijk lijkt een opmaat naar meer. Dit stelde analist Wim Lewi van KBC Securities vrijdag in een rapport.",
     "published_at": "2026-04-10 09:45",
-    "scraped_at": "2026-04-10T08:04:18.934254"
+    "scraped_at": "2026-04-10T09:42:39.805221"
   },
   {
     "id": "2012fa9cf7b82f5375d58dc25333232f",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/859982/AEX-vlak-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong 0,1 procent hoger op 1.006,40 punten. Ook de Midkap kwam nauwelijks van zijn plaats.",
     "published_at": "2026-04-10 09:11",
-    "scraped_at": "2026-04-10T08:04:18.934254"
+    "scraped_at": "2026-04-10T09:42:39.805221"
   },
   {
     "id": "c353b87f8437c98c1fcdffe346600b59",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/859981/Jefferies-verhoogt-winsttaxaties-Shell-fors.aspx",
     "intro": "Jefferies heeft de winsttaxaties voor Shell fors verhoogd. Dit bleek vrijdag uit een rapport van de zakenbank.",
     "published_at": "2026-04-10 08:48",
-    "scraped_at": "2026-04-10T08:04:18.934254"
+    "scraped_at": "2026-04-10T09:42:39.805221"
   },
   {
     "id": "225f2d6c6f981d7fa606fcee4d2a93bd",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/859978/Belang-Nederland-in-ABN-schiet-onder-25.aspx",
     "intro": "NLFI heeft een kleiner belang in ABN AMRO gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 8 april.",
     "published_at": "2026-04-10 08:38",
-    "scraped_at": "2026-04-10T08:04:18.934254"
-  },
-  {
-    "id": "62f18b3e73cd6a5e369e5857e8564760",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/859979/Deutsche-Bank-verhoogt-koersdoel-ING.aspx",
-    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor ING verhoogd met één euro naar 29,00 euro. Dit bleek uit een rapport van analist Benjamin Goy.",
-    "published_at": "2026-04-10 08:38",
-    "scraped_at": "2026-04-10T08:04:18.934254"
-  },
-  {
-    "id": "1b2f0060c73bfe5828f47f5135c099bb",
-    "categorie": "Beursnieuws",
-    "titel": "OCI verkoopt nog eens 2 miljoen aandelen Methanex",
-    "link": "https://www.beurs.nl/Nieuws/859976/OCI-verkoopt-nog-eens-2-miljoen-aandelen-Methanex.aspx",
-    "intro": "OCI Chemicals heeft 2 miljoen aandelen Methanex Corporation verkocht. Dit maakte het bedrijf met een notering aan het Amsterdamse Damrak vrijdag voorbeurs bekend.",
-    "published_at": "2026-04-10 08:17",
-    "scraped_at": "2026-04-10T08:04:18.934254"
-  },
-  {
-    "id": "d777dffd2c31ecdd7baa0fe97eced69e",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag licht hoger",
-    "link": "https://www.beurs.nl/Nieuws/859971/AEX-start-handelsdag-licht-hoger.aspx",
-    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een licht hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,3 procent.",
-    "published_at": "2026-04-10 08:10",
-    "scraped_at": "2026-04-10T08:04:18.934254"
-  },
-  {
-    "id": "9e453685ec2e406730e222b1dc8cc043",
-    "categorie": "Voorbeurs",
-    "titel": "AEX opent vermoedelijk hoger en TSMC zet de toon voor cijfers ASML",
-    "link": "https://www.iex.nl/artikel/859829/AEX-opent-vermoedelijk-hoger-en-TSMC-zet-de-toon-voor-cijfers-ASML.aspx",
-    "intro": "TSMC opent het cijferseizoen met duizelingwekkende omzetgroei. Verder bleven Wall Street en Azië goed liggen. Doet de AEX vandaag hetzelfde?",
-    "published_at": "2026-04-10 08:10",
-    "scraped_at": "2026-04-10T08:04:18.934254"
-  },
-  {
-    "id": "ec72963bc16aa3c6892990a723abb990",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse inflatie schiet omhoog door duurdere energie",
-    "link": "https://www.beurs.nl/Nieuws/859970/Duitse-inflatie-schiet-omhoog-door-duurdere-energie.aspx",
-    "intro": "De Duitse inflatie is in maart gestegen doordat energie flink duurder werd. Dit bleek vrijdag uit definitieve cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-04-10 08:09",
-    "scraped_at": "2026-04-10T08:04:18.934254"
+    "scraped_at": "2026-04-10T09:42:39.805221"
   }
 ]
