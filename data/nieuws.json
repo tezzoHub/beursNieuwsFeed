@@ -1,12 +1,57 @@
 [
   {
+    "id": "d841027b6760aabe2ed0a87dd15f1ed3",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/860050/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 20 april 2026:",
+    "published_at": "2026-04-10 16:31",
+    "scraped_at": "2026-04-10T15:10:56.350120"
+  },
+  {
+    "id": "f90a9f1b93783c833ed5d20e75ee4238",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/860051/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 20 april 2026:",
+    "published_at": "2026-04-10 16:31",
+    "scraped_at": "2026-04-10T15:10:56.350120"
+  },
+  {
+    "id": "bd5c18aa2426703dbc8c080448c06905",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/860048/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 20 april 2026:",
+    "published_at": "2026-04-10 16:30",
+    "scraped_at": "2026-04-10T15:10:56.350120"
+  },
+  {
+    "id": "c92344d7ef5c7b9029536a817309640b",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen VS verder gedaald door oorlog",
+    "link": "https://www.beurs.nl/Nieuws/860047/Consumentenvertrouwen-VS-verder-gedaald-door-oorlog.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in de eerste dagen van april verder gedaald als gevolg van de oorlog in het Midden-Oosten. Dit bleek vrijdag uit voorlopige cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-04-10 16:07",
+    "scraped_at": "2026-04-10T15:10:56.350120"
+  },
+  {
+    "id": "ddae21f350a83be7e2b55e9b66a665e0",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse fabrieksorders stabiel",
+    "link": "https://www.beurs.nl/Nieuws/860046/Amerikaanse-fabrieksorders-stabiel.aspx",
+    "intro": "De Amerikaanse fabrieksorders zijn in februari stabiel gebleven, net als in januari. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-04-10 16:06",
+    "scraped_at": "2026-04-10T15:10:56.350120"
+  },
+  {
     "id": "379c8c8dce7c62cf04b8e2e069f3904e",
     "categorie": "Beursnieuws",
     "titel": "CoreWeave gaat diensten leveren aan Anthropic",
     "link": "https://www.beurs.nl/Nieuws/860044/CoreWeave-gaat-diensten-leveren-aan-Anthropic.aspx",
     "intro": "CoreWeave heeft een meerjarige overeenkomst gesloten met Anthropic. Dit maakte het Amerikaans bedrijf met datacenters voor kunstmatige intelligentie en cloudcomputing toepassingen vrijdag bekend, zonder financiële details te vermelden.",
     "published_at": "2026-04-10 15:09",
-    "scraped_at": "2026-04-10T14:06:08.381346"
+    "scraped_at": "2026-04-10T15:10:56.350120"
   },
   {
     "id": "528ec8c04ab63d7c150cc699e011ce04",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860042/Media-progressie-in-vredesdeal-Oekraine.aspx",
     "intro": "Rusland en Oekraïne komen dichterbij een vredesakkoord. Dit zei Kyrylo Boedanov vrijdag tegen Bloomberg.",
     "published_at": "2026-04-10 14:55",
-    "scraped_at": "2026-04-10T14:06:08.381346"
+    "scraped_at": "2026-04-10T15:10:56.350120"
   },
   {
     "id": "ae246e06815dd312ab2a0d51dbd45f02",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860041/Wall-Street-wacht-lichtgroene-opening-na-weinig-verrassende-inflatiestijging.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet, nadat de inflatie in maart hard opliep, zoals ook was verwacht.",
     "published_at": "2026-04-10 14:53",
-    "scraped_at": "2026-04-10T14:06:08.381346"
+    "scraped_at": "2026-04-10T15:10:56.350120"
   },
   {
     "id": "0225370a0283b0f28cd917939cfe372a",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860039/Inflatie-VS-flink-toegenomen.aspx",
     "intro": "De consumentenprijzen in de Verenigde Staten zijn in maart veel harder gestegen dan in de maand ervoor, als gevolg van de stijgende energieprijzen door de oorlog in het Midden-Oosten. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-04-10 14:37",
-    "scraped_at": "2026-04-10T14:06:08.381346"
+    "scraped_at": "2026-04-10T15:10:56.350120"
   },
   {
     "id": "1f4fee1da46c695250f411cbc0913478",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860023/Oorlog-Iran-veroorzaakt-bredere-grondstoffenschok.aspx",
     "intro": "De oorlog in Iran en de daardoor geblokkeerde Straat van Hormuz leidt niet alleen tot hoge olieprijzen, maar tot een veel bredere grondstoffenschok. Dit stelde Bruno Verstraete van Nautilus Wealth Management.",
     "published_at": "2026-04-10 13:03",
-    "scraped_at": "2026-04-10T14:06:08.381346"
-  },
-  {
-    "id": "985bd580037c7ca700fe712545c2d845",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht op inflatiecijfers",
-    "link": "https://www.beurs.nl/Nieuws/860021/Wall-Street-wacht-op-inflatiecijfers.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd fractioneel lager.",
-    "published_at": "2026-04-10 12:47",
-    "scraped_at": "2026-04-10T14:06:08.381346"
-  },
-  {
-    "id": "30a3d0a515120b81a37b4ee9a0e90de3",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel ASMI",
-    "link": "https://www.beurs.nl/Nieuws/860016/Bank-of-America-verhoogt-koersdoel-ASMI.aspx",
-    "intro": "Bank of America heeft vrijdag het koersdoel voor ASMI verhoogd van 882,00 naar 919,00 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
-    "published_at": "2026-04-10 12:20",
-    "scraped_at": "2026-04-10T14:06:08.381346"
-  },
-  {
-    "id": "44f85477f5634f31174d940335e21b83",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen voorzichtig positief rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/860013/Europese-beurzen-voorzichtig-positief-rond-middaguur.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond het middaguur licht hoger, in afwachting van Amerikaanse inflatiecijfers en hopend op een duurzame wapenstilstand tussen de Verenigde Staten en Iran.",
-    "published_at": "2026-04-10 12:08",
-    "scraped_at": "2026-04-10T14:06:08.381346"
-  },
-  {
-    "id": "5782871d367eafae7cb3edd15c42f200",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays verhoogt koersdoel Ahold Delhaize",
-    "link": "https://www.beurs.nl/Nieuws/860000/Barclays-verhoogt-koersdoel-Ahold-Delhaize.aspx",
-    "intro": "Barclays heeft vrijdag het koersdoel voor Ahold Delhaize verhoogd van 38,00 naar 39,50 euro, met handhaving van het Gelijkgewogen advies. Dit bleek uit een analistenrapport van de Britse bank.",
-    "published_at": "2026-04-10 10:46",
-    "scraped_at": "2026-04-10T14:06:08.381346"
-  },
-  {
-    "id": "fd835cfd79bf164305e21a61ced05e22",
-    "categorie": "Beursnieuws",
-    "titel": "AEX blijft dicht bij huis",
-    "link": "https://www.beurs.nl/Nieuws/859998/AEX-blijft-dicht-bij-huis.aspx",
-    "intro": "De Amsterdamse beurs bleef vrijdag dicht bij huis. Kort na half elf won de AEX 0,3 procent op 1.007,91 punten.",
-    "published_at": "2026-04-10 10:38",
-    "scraped_at": "2026-04-10T14:06:08.381346"
+    "scraped_at": "2026-04-10T15:10:56.350120"
   }
 ]
