@@ -1,92 +1,20 @@
 [
   {
-    "id": "c922809bd8a8718bff71f6a297d04e4b",
+    "id": "c4191f142ecbff2c84803777a4956dd7",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/860077/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-04-10 22:20",
-    "scraped_at": "2026-04-11T08:26:46.669788"
+    "titel": "Lazard meldt belang in IMCD",
+    "link": "https://www.beurs.nl/Nieuws/860089/Lazard-meldt-belang-in-IMCD.aspx",
+    "intro": "Lazard Asset Management heeft voor het eerst een belang in IMCD gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 9 april.",
+    "published_at": "2026-04-11 10:56",
+    "scraped_at": "2026-04-11T09:27:10.887622"
   },
   {
-    "id": "f0a62d10107a3526ef4ccf259924bdf2",
+    "id": "c51d07c8747fc12906bb99e58b72be51",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street terughoudend het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/860076/Wall-Street-terughoudend-het-weekend-in.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag verdeeld gesloten, terwijl beleggers macro-economische data verwerkten en tegelijkertijd het fragiele bestand tussen de VS en Iran nauwlettend in de gaten hielden.",
-    "published_at": "2026-04-10 22:14",
-    "scraped_at": "2026-04-11T08:26:46.669788"
-  },
-  {
-    "id": "04cd7a171551a2ef24dfac394050d513",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen sluiten turbulente week lager af",
-    "link": "https://www.beurs.nl/Nieuws/860075/Olieprijzen-sluiten-turbulente-week-lager-af.aspx",
-    "intro": "De olieprijzen zijn vrijdag lager gesloten en eindigden daarmee een turbulente week die opnieuw in het teken stond van het conflict in het Midden-Oosten, waarbij de bandbreedte gedurende de week voor WTI ongeveer 25 dollar bedroeg en voor Brent circa 20 dollar.",
-    "published_at": "2026-04-10 21:09",
-    "scraped_at": "2026-04-11T08:26:46.669788"
-  },
-  {
-    "id": "80fbd634e27879c96516d40bfc8b6ed6",
-    "categorie": "Beursnieuws",
-    "titel": "Herstel Wall Street verliest wat stoom",
-    "link": "https://www.beurs.nl/Nieuws/860071/Herstel-Wall-Street-verliest-wat-stoom.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag met nog een paar uur handel te gaan verdeeld, terwijl beleggers macro-economische data verwerkten en tegelijkertijd het fragiele bestand tussen de VS en Iran nauwlettend in de gaten hielden.",
-    "published_at": "2026-04-10 19:47",
-    "scraped_at": "2026-04-11T08:26:46.669788"
-  },
-  {
-    "id": "21fdfa3fd2e336be95add12e6e3f3d24",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten bewogen week voorzichtig af",
-    "link": "https://www.beurs.nl/Nieuws/860060/Europese-beurzen-sluiten-bewogen-week-voorzichtig-af.aspx",
-    "intro": "De Europese beurzen zijn vrijdag redelijk dicht bij huis gebleven. Daarmee kwam er een voorzichtig einde aan een bewogen week die opnieuw in het teken stond van het conflict in het Midden-Oosten.",
-    "published_at": "2026-04-10 18:44",
-    "scraped_at": "2026-04-11T08:26:46.669788"
-  },
-  {
-    "id": "3c50746f59402de8b82335b5df21b03e",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers helpen AEX aan groen slot",
-    "link": "https://www.beurs.nl/Nieuws/860056/Chippers-helpen-AEX-aan-groen-slot.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, met hulp van de chipbedrijven zoals ASML en Besi, terwijl energie-aandelen juist onder druk stonden.",
-    "published_at": "2026-04-10 17:57",
-    "scraped_at": "2026-04-11T08:26:46.669788"
-  },
-  {
-    "id": "fbb3f6b44ba2726ec7f3908f623c416e",
-    "categorie": "Redactioneel",
-    "titel": "Maak kennis met IEX Pro: concrete tips van professionals",
-    "link": "https://www.beurs.nl/Artikel/860054/Maak-kennis-met-IEX-Pro-concrete-tips-van-professionals.aspx",
-    "intro": "IEX Pro richt zich op markten en methoden waarbij je ook rendement kunt behalen als de algemene markt minder presteert.",
-    "published_at": "2026-04-10 17:20",
-    "scraped_at": "2026-04-11T08:26:46.669788"
-  },
-  {
-    "id": "d841027b6760aabe2ed0a87dd15f1ed3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/860050/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 20 april 2026:",
-    "published_at": "2026-04-10 16:31",
-    "scraped_at": "2026-04-11T08:26:46.669788"
-  },
-  {
-    "id": "f90a9f1b93783c833ed5d20e75ee4238",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/860051/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 20 april 2026:",
-    "published_at": "2026-04-10 16:31",
-    "scraped_at": "2026-04-11T08:26:46.669788"
-  },
-  {
-    "id": "bd5c18aa2426703dbc8c080448c06905",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/860048/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 20 april 2026:",
-    "published_at": "2026-04-10 16:30",
-    "scraped_at": "2026-04-11T08:26:46.669788"
+    "titel": "UMG beloond voor overnamenieuws",
+    "link": "https://www.beurs.nl/Nieuws/860088/UMG-beloond-voor-overnamenieuws.aspx",
+    "intro": "De sterke beursweek op het Damrak was gunstig voor de meeste aandelen in de AEX. KPN en Ahold Delhaize stonden wel onder druk, net als RELX en Wolters Kluwer, die 2,4 en 4,0 procent daalden op weekbasis. Citi werd wel positiever over de twee databedrijven, met zelfs een adviesverhoging voor RELX.",
+    "published_at": "2026-04-11 10:50",
+    "scraped_at": "2026-04-11T09:27:10.887622"
   }
 ]
