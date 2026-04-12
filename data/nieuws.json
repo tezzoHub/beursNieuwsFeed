@@ -1,11 +1,20 @@
 [
   {
+    "id": "082b04cb6eae39c5627406fd17f79b33",
+    "categorie": "Beursnieuws",
+    "titel": "AEX weer boven 1.000 punten dankzij wapenstilstand Iran",
+    "link": "https://www.beurs.nl/Nieuws/860092/AEX-weer-boven-1000-punten-dankzij-wapenstilstand-Iran.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week flink gestegen, gesteund door een staakt-het-vuren in het Midden-Oosten.",
+    "published_at": "2026-04-12 10:12",
+    "scraped_at": "2026-04-12T08:33:09.980629"
+  },
+  {
     "id": "b8099e11c2d9628443650ad963a9a31c",
     "categorie": "Beursnieuws",
     "titel": "JD Vance vertrekt uit Pakistan zonder deal",
     "link": "https://www.beurs.nl/Nieuws/860090/JD-Vance-vertrekt-uit-Pakistan-zonder-deal.aspx",
     "intro": "Vicepresident JD Vance is weer onderweg terug naar de VS, nadat hij Iran een \"laatste en beste voorstel\" heeft gedaan.",
     "published_at": "2026-04-12 09:31",
-    "scraped_at": "2026-04-12T07:47:19.042933"
+    "scraped_at": "2026-04-12T08:33:09.980629"
   }
 ]
