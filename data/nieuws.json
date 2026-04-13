@@ -1,12 +1,30 @@
 [
   {
+    "id": "7592c867e23f32a4413bdb43fc8d6ae4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/860233/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-04-13 22:38",
+    "scraped_at": "2026-04-13T21:11:18.026141"
+  },
+  {
+    "id": "bc02908fa90561f768770470689f5f28",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street flink hoger gesloten na hernieuwde vredeshoop",
+    "link": "https://www.beurs.nl/Nieuws/860232/Wall-Street-flink-hoger-gesloten-na-hernieuwde-vredeshoop.aspx",
+    "intro": "De Amerikaanse beurzen zijn maandag na een negatieve opening flink hoger gesloten, nadat de uitlatingen van de Amerikaanse president Donald Trump de hoop op een spoedige oplossing voor het conflict in het Midden-Oosten opnieuw aanwakkerde.",
+    "published_at": "2026-04-13 22:31",
+    "scraped_at": "2026-04-13T21:11:18.026141"
+  },
+  {
     "id": "3130c1ff16313c571a96ffcbcca4c185",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen onder de 100 dollar gesloten",
     "link": "https://www.beurs.nl/Nieuws/860228/Olieprijzen-onder-de-100-dollar-gesloten.aspx",
     "intro": "De olieprijzen zijn maandag hoger gesloten, maar flink lager dan de eerder bereikte hoogtepunten op de dag.",
     "published_at": "2026-04-13 21:07",
-    "scraped_at": "2026-04-13T20:06:59.507833"
+    "scraped_at": "2026-04-13T21:11:18.026141"
   },
   {
     "id": "f90b917ec1cdf00d53925b87d093ffba",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860224/Wall-Street-hoger-na-uitlatingen-Trump.aspx",
     "intro": "De Amerikaanse beurzen noteerden maandag met nog een paar uur handel te gaan hoger, nadat de indices eerder op de dag nog in het rood van start gingen. De stemming keerde echter na de uitlatingen van Trump en de hoop op een spoedige oplossing voor het conflict in het Midden-Oosten weer toenam.",
     "published_at": "2026-04-13 20:11",
-    "scraped_at": "2026-04-13T20:06:59.507833"
+    "scraped_at": "2026-04-13T21:11:18.026141"
   },
   {
     "id": "9fd40e7a346d9e28104998b575ca67ec",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860223/Europese-beurzen-voorzichtig-aan-nieuwe-week-begonnen.aspx",
     "intro": "De Europese beurzen zijn maandag slechts licht lager gesloten, dankzij een opmars na de opening van Wall Street. Daardoor werden de eerdere verliezen aanzienlijk beperkt.",
     "published_at": "2026-04-13 18:48",
-    "scraped_at": "2026-04-13T20:06:59.507833"
+    "scraped_at": "2026-04-13T21:11:18.026141"
   },
   {
     "id": "8c7076ff34c9ca8fdc593f65cf9274a6",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860221/Lichte-groei-voor-LVMH-ondanks-geopolitieke-uitdagingen.aspx",
     "intro": "LVMH is in het eerste kwartaal van 2026 licht gegroeid, ondanks een geopolitiek en economisch klimaat dat verstoord bleef, wat nog werd versterkt door het conflict in het Midden-Oosten. Dit meldde het Franse luxeconcern maandagavond.",
     "published_at": "2026-04-13 18:22",
-    "scraped_at": "2026-04-13T20:06:59.507833"
+    "scraped_at": "2026-04-13T21:11:18.026141"
   },
   {
     "id": "8c5da19d70957e61149561d37d541d8b",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860218/AEX-eindigt-toch-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs is maandag licht hoger geëindigd, waarbij Shell profiteerde van de stijgende olieprijzen.",
     "published_at": "2026-04-13 17:57",
-    "scraped_at": "2026-04-13T20:06:59.507833"
+    "scraped_at": "2026-04-13T21:11:18.026141"
   },
   {
     "id": "909f0e2da83caf2e18e85c34c644eb85",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860212/Beursblik-meer-omzet-Heineken-ondanks-dalende-volumes.aspx",
     "intro": "Heineken heeft in het eerste kwartaal de volumes zien dalen, maar wist de omzet toch op te voeren. Dit blijkt uit een consensusverwachting op de website van de brouwer.",
     "published_at": "2026-04-13 16:44",
-    "scraped_at": "2026-04-13T20:06:59.507833"
+    "scraped_at": "2026-04-13T21:11:18.026141"
   },
   {
     "id": "4ea270433ee3a32ad1348b4a2d876645",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860210/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 21 april 2026:",
     "published_at": "2026-04-13 16:28",
-    "scraped_at": "2026-04-13T20:06:59.507833"
+    "scraped_at": "2026-04-13T21:11:18.026141"
   },
   {
     "id": "49d7b2f35dbe05b861c1d2faabbffbd1",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860211/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 21 april 2026:",
     "published_at": "2026-04-13 16:28",
-    "scraped_at": "2026-04-13T20:06:59.507833"
-  },
-  {
-    "id": "1a54e339675bc6f8fca8b5b58985759e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/860208/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 21 april 2026:",
-    "published_at": "2026-04-13 16:28",
-    "scraped_at": "2026-04-13T20:06:59.507833"
-  },
-  {
-    "id": "514fd7744707926724b11a9e325b4de0",
-    "categorie": "Beursnieuws",
-    "titel": "Update: RDW keurt rijhulpsysteem van Tesla goed voor Nederland",
-    "link": "https://www.beurs.nl/Nieuws/860204/Update-RDW-keurt-rijhulpsysteem-van-Tesla-goed-voor-Nederland.aspx",
-    "intro": "De Nederlandse RDW heeft een typegoedkeuring afgegeven voor het rijhulpsysteem van Tesla.",
-    "published_at": "2026-04-13 16:16",
-    "scraped_at": "2026-04-13T20:06:59.507833"
+    "scraped_at": "2026-04-13T21:11:18.026141"
   }
 ]
