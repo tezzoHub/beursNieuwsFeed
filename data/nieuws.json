@@ -1,12 +1,66 @@
 [
   {
+    "id": "e4152b72b49a5eb77dd4758a4f480092",
+    "categorie": "Beursnieuws",
+    "titel": "Volumegroei voor Brits betaalbedrijf Wise",
+    "link": "https://www.beurs.nl/Nieuws/860136/Volumegroei-voor-Brits-betaalbedrijf-Wise.aspx",
+    "intro": "Het Britse betaalbedrijf Wise heeft in het vierde kwartaal van zijn gebroken boekjaar de volumes aan internationale betalingen met ruim een kwart zien stijgen, terwijl de onderliggende inkomsten iets minder sterk toenamen, omdat de marge lager was. Dat maakte Wise maandagochtend bekend.",
+    "published_at": "2026-04-13 09:25",
+    "scraped_at": "2026-04-13T08:25:32.193120"
+  },
+  {
+    "id": "32a26296b647352b127c9bf97641a502",
+    "categorie": "Beursnieuws",
+    "titel": "AEX lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/860132/AEX-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 0,6 procent lager op 1.004,55 punten, terwijl de Midkap 1,2 procent prijs moest geven.",
+    "published_at": "2026-04-13 09:10",
+    "scraped_at": "2026-04-13T08:25:32.193120"
+  },
+  {
+    "id": "e9e21ba4a42ca3050386df726beb0f9b",
+    "categorie": "Beursnieuws",
+    "titel": "Valuta: zware nederlaag Orban kan Hongaarse forint versterken",
+    "link": "https://www.beurs.nl/Nieuws/860128/Valuta-zware-nederlaag-Orban-kan-Hongaarse-forint-versterken.aspx",
+    "intro": "De grote verkiezingsoverwinning biedt de oppositie in Hongarije de kans om het economische en institutionele landschap te hervormen, Europese gelden vrij te maken en op termijn de Hongaarse forint te versterken. Dat stelden analisten van Citi Research maandag in een rapport, volgend op de verkiezingen die zondag plaatsvonden.",
+    "published_at": "2026-04-13 08:57",
+    "scraped_at": "2026-04-13T08:25:32.193120"
+  },
+  {
+    "id": "e9cb617fd270ea4a18b8922d1474001d",
+    "categorie": "Beursnieuws",
+    "titel": "Basic-Fit getroffen door hack",
+    "link": "https://www.beurs.nl/Nieuws/860125/Basic-Fit-getroffen-door-hack.aspx",
+    "intro": "Basic-Fit heeft vandaag de Autoriteit Persoonsgegevens op de hoogte gesteld van ongeoorloofde toegang tot het systeem dat de bezoeken van leden van Basic-Fit-clubs registreert. Dit meldde de fitnessketen maandag in een persbericht.",
+    "published_at": "2026-04-13 08:44",
+    "scraped_at": "2026-04-13T08:25:32.193120"
+  },
+  {
+    "id": "e8d918b8d91876edcd61349bab919f64",
+    "categorie": "Voorbeurs",
+    "titel": "VS blokkeert Straat van Hormuz, maar van marktpaniek lijkt geen sprake",
+    "link": "https://www.beurs.nl/Artikel/860097/VS-blokkeert-Straat-van-Hormuz-maar-van-marktpaniek-lijkt-geen-sprake.aspx",
+    "intro": "Openingsindicatie: -0,6%. Onderhandelingen VS - Iran mislukt. Olieprijzen boven $100 nu Amerikanen Straat van Hormuz gaan blokkeren. Obligatierentes omhoog, maar VIX daalt.",
+    "published_at": "2026-04-13 08:30",
+    "scraped_at": "2026-04-13T08:25:32.193120"
+  },
+  {
+    "id": "0c9b8fafbf259efc6b6d347e5ac5beb3",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsweek in het rood na vastlopen vredesonderhandelingen",
+    "link": "https://www.beurs.nl/Nieuws/860118/AEX-start-handelsweek-in-het-rood-na-vastlopen-vredesonderhandelingen.aspx",
+    "intro": "De Amsterdamse beurs maakt zich maandag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,7 procent.",
+    "published_at": "2026-04-13 08:06",
+    "scraped_at": "2026-04-13T08:25:32.193120"
+  },
+  {
     "id": "98d57c99a920e143837ffb5f81fab384",
     "categorie": "Beursnieuws",
     "titel": "CZ Colt kiest voor tweede notering in Amsterdam",
     "link": "https://www.beurs.nl/Nieuws/860114/CZ-Colt-kiest-voor-tweede-notering-in-Amsterdam.aspx",
     "intro": "Colt CZ heeft gekozen voor een tweede notering aan de beurs van Amsterdam. Dit maakte de Tsjechische fabrikant van handvuurwapens maandagochtend bekend.",
     "published_at": "2026-04-13 07:33",
-    "scraped_at": "2026-04-13T06:05:02.107786"
+    "scraped_at": "2026-04-13T08:25:32.193120"
   },
   {
     "id": "2076a477ade9c55d299f37735b233d71",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860111/Meer-faillissementen-in-maart.aspx",
     "intro": "In maart zijn er in Nederland op jaarbasis 12 procent meer bedrijven failliet verklaard. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-04-13 07:29",
-    "scraped_at": "2026-04-13T06:05:02.107786"
+    "scraped_at": "2026-04-13T08:25:32.193120"
   },
   {
     "id": "f3a88915f0581ed1ecf2c3446cc21fb9",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860110/Nederlandse-export-groeit.aspx",
     "intro": "De Nederlandse export is in februari gegroeid. Dit bleek maandag uit voorlopige cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-04-13 07:22",
-    "scraped_at": "2026-04-13T06:05:02.107786"
+    "scraped_at": "2026-04-13T08:25:32.193120"
   },
   {
     "id": "b5d1fa9ea6038c36ab1241ee5166266b",
@@ -33,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860108/Aziatische-beurzen-noteren-in-het-rood-na-mislukken-vredesonderhandelingen.aspx",
     "intro": "De Aziatische beurzen stonden maandagochtend onder druk, nadat de onderhandelingen tussen de Verenigde Staten en Iran afgelopen weekend vastliepen, met als breekpunt de nucleaire ambities van Teheran, aldus de VS.",
     "published_at": "2026-04-13 07:17",
-    "scraped_at": "2026-04-13T06:05:02.107786"
-  },
-  {
-    "id": "01920ba6956af05fa45981e43350af49",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen naar verwachting in het rood",
-    "link": "https://www.beurs.nl/Nieuws/860107/Europese-beurzen-openen-naar-verwachting-in-het-rood.aspx",
-    "intro": "De Europese beurzen gaan maandag een lagere opening tegemoet, nadat de VS en Iran in het weekend na onderhandelingen niet tot een deal kwamen.",
-    "published_at": "2026-04-13 07:07",
-    "scraped_at": "2026-04-13T06:05:02.107786"
-  },
-  {
-    "id": "7b43fa6a35ecb9afd6f503d84d3ee428",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/860106/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 20 april 2026:",
-    "published_at": "2026-04-13 06:58",
-    "scraped_at": "2026-04-13T06:05:02.107786"
-  },
-  {
-    "id": "c5085f3a5b0cf41fbaf13d95e9f49790",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/860105/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 20 april 2026:",
-    "published_at": "2026-04-13 06:57",
-    "scraped_at": "2026-04-13T06:05:02.107786"
-  },
-  {
-    "id": "338595fde8064d9b99d63683135beee4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/860103/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 20 april 2026:",
-    "published_at": "2026-04-13 06:56",
-    "scraped_at": "2026-04-13T06:05:02.107786"
+    "scraped_at": "2026-04-13T08:25:32.193120"
   }
 ]
