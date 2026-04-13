@@ -1,12 +1,30 @@
 [
   {
+    "id": "8c5da19d70957e61149561d37d541d8b",
+    "categorie": "Beursnieuws",
+    "titel": "AEX eindigt toch in het groen",
+    "link": "https://www.beurs.nl/Nieuws/860218/AEX-eindigt-toch-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs is maandag licht hoger geëindigd, waarbij Shell profiteerde van de stijgende olieprijzen.",
+    "published_at": "2026-04-13 17:57",
+    "scraped_at": "2026-04-13T16:15:38.326992"
+  },
+  {
+    "id": "909f0e2da83caf2e18e85c34c644eb85",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: meer omzet Heineken ondanks dalende volumes",
+    "link": "https://www.beurs.nl/Nieuws/860212/Beursblik-meer-omzet-Heineken-ondanks-dalende-volumes.aspx",
+    "intro": "Heineken heeft in het eerste kwartaal de volumes zien dalen, maar wist de omzet toch op te voeren. Dit blijkt uit een consensusverwachting op de website van de brouwer.",
+    "published_at": "2026-04-13 16:44",
+    "scraped_at": "2026-04-13T16:15:38.326992"
+  },
+  {
     "id": "4ea270433ee3a32ad1348b4a2d876645",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
     "link": "https://www.beurs.nl/Nieuws/860210/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 21 april 2026:",
     "published_at": "2026-04-13 16:28",
-    "scraped_at": "2026-04-13T14:50:50.665092"
+    "scraped_at": "2026-04-13T16:15:38.326992"
   },
   {
     "id": "49d7b2f35dbe05b861c1d2faabbffbd1",
@@ -15,7 +33,16 @@
     "link": "https://www.beurs.nl/Nieuws/860211/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 21 april 2026:",
     "published_at": "2026-04-13 16:28",
-    "scraped_at": "2026-04-13T14:50:50.665092"
+    "scraped_at": "2026-04-13T16:15:38.326992"
+  },
+  {
+    "id": "1a54e339675bc6f8fca8b5b58985759e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/860208/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 21 april 2026:",
+    "published_at": "2026-04-13 16:28",
+    "scraped_at": "2026-04-13T16:15:38.326992"
   },
   {
     "id": "514fd7744707926724b11a9e325b4de0",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860204/Update-RDW-keurt-rijhulpsysteem-van-Tesla-goed-voor-Nederland.aspx",
     "intro": "De Nederlandse RDW heeft een typegoedkeuring afgegeven voor het rijhulpsysteem van Tesla.",
     "published_at": "2026-04-13 16:16",
-    "scraped_at": "2026-04-13T14:50:50.665092"
+    "scraped_at": "2026-04-13T16:15:38.326992"
   },
   {
     "id": "86120027818ebc36c3bad5ab091fe93a",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860202/Minder-bestaande-woningen-verkocht-in-VS.aspx",
     "intro": "De bestaande woningverkopen in de Verenigde Staten zijn in maart gedaald. Dit bleek maandag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-04-13 16:06",
-    "scraped_at": "2026-04-13T14:50:50.665092"
+    "scraped_at": "2026-04-13T16:15:38.326992"
   },
   {
     "id": "845d9609b12d87c513526d9e5c549baf",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860198/Rheinmetall-in-zee-met-Nederlandse-rakettenbouwer-Destinus.aspx",
     "intro": "Het Duitse defensiebedrijf Rheinmetall gaat samenwerken met het Nederlandse lucht- en ruimtevaartbedrijf Destinus om raketten te maken voor Europa en enkele NAVO-lidstaten. Dit maakte Rheinmetall maandag bekend.",
     "published_at": "2026-04-13 15:26",
-    "scraped_at": "2026-04-13T14:50:50.665092"
+    "scraped_at": "2026-04-13T16:15:38.326992"
   },
   {
     "id": "c8561fb8550c13c35082cf868f758c31",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860195/Beursblik-weinig-twijfel-over-eerste-kwartaal-ASML.aspx",
     "intro": "ASML zal in het eerste kwartaal de eigen outlook hebben gehaald, zo verwachten analisten, terwijl er misschien wel een kleine outlookverhoging voor heel 2026 in het vat zit.",
     "published_at": "2026-04-13 15:19",
-    "scraped_at": "2026-04-13T14:50:50.665092"
+    "scraped_at": "2026-04-13T16:15:38.326992"
   },
   {
     "id": "ef185bf28b1eea67aabc6d489ec402af",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860189/Wall-Street-wacht-lagere-opening-terwijl-nieuwe-escalatie-Midden-Oosten-dreigt.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, nadat de onderhandelingen over een permanente vredesdeal tussen de Verenigde Staten en Iran tijdens het weekend geen resultaat opleverden. Futures op de SP 500 noteerden ongeveer een half uur voor de opening 0,7 procent lager. De Dow Jones index dreigt meer dan een procent in te moeten leveren bij de opening, door een koersval van Goldman Sachs.",
     "published_at": "2026-04-13 14:53",
-    "scraped_at": "2026-04-13T14:50:50.665092"
-  },
-  {
-    "id": "320a2efe5de239b92b65f9954f52ee0b",
-    "categorie": "Beursnieuws",
-    "titel": "OPEC laat groeiverwachtingen olievraag ongewijzigd",
-    "link": "https://www.beurs.nl/Nieuws/860185/OPEC-laat-groeiverwachtingen-olievraag-ongewijzigd.aspx",
-    "intro": "OPEC heeft de verwachtingen voor de groei van de vraag naar olie voor dit en volgend jaar ongewijzigd gelaten. Dit bleek maandag uit het maandrapport van het oliekartel.",
-    "published_at": "2026-04-13 14:36",
-    "scraped_at": "2026-04-13T14:50:50.665092"
-  },
-  {
-    "id": "e7c42dac9c9d21e318e8520d8c504696",
-    "categorie": "Beursnieuws",
-    "titel": "Deals en effectenhandel stuwen winst Goldman Sachs",
-    "link": "https://www.beurs.nl/Nieuws/860179/Deals-en-effectenhandel-stuwen-winst-Goldman-Sachs.aspx",
-    "intro": "Goldman Sachs heeft in het eerste kwartaal fors meer winst geboekt, geholpen door een toename van fusies en aandelenhandel. Dat bleek maandag uit de kwartaalcijfers van de Amerikaanse zakenbank.",
-    "published_at": "2026-04-13 14:09",
-    "scraped_at": "2026-04-13T14:50:50.665092"
-  },
-  {
-    "id": "8f4a22ce3824898bdd31c29408452c62",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen lagere opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/860167/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, nadat de onderhandelingen over een permanente vredesdeal tussen de Verenigde Staten en Iran tijdens het weekend geen resultaat opleverden. Futures op de SP 500 noteerden rond lunchtijd 0,6 procent lager.",
-    "published_at": "2026-04-13 12:50",
-    "scraped_at": "2026-04-13T14:50:50.665092"
+    "scraped_at": "2026-04-13T16:15:38.326992"
   }
 ]
