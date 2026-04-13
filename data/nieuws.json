@@ -1,12 +1,75 @@
 [
   {
+    "id": "4ea270433ee3a32ad1348b4a2d876645",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/860210/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 21 april 2026:",
+    "published_at": "2026-04-13 16:28",
+    "scraped_at": "2026-04-13T14:50:50.665092"
+  },
+  {
+    "id": "49d7b2f35dbe05b861c1d2faabbffbd1",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/860211/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 21 april 2026:",
+    "published_at": "2026-04-13 16:28",
+    "scraped_at": "2026-04-13T14:50:50.665092"
+  },
+  {
+    "id": "514fd7744707926724b11a9e325b4de0",
+    "categorie": "Beursnieuws",
+    "titel": "Update: RDW keurt rijhulpsysteem van Tesla goed voor Nederland",
+    "link": "https://www.beurs.nl/Nieuws/860204/Update-RDW-keurt-rijhulpsysteem-van-Tesla-goed-voor-Nederland.aspx",
+    "intro": "De Nederlandse RDW heeft een typegoedkeuring afgegeven voor het rijhulpsysteem van Tesla.",
+    "published_at": "2026-04-13 16:16",
+    "scraped_at": "2026-04-13T14:50:50.665092"
+  },
+  {
+    "id": "86120027818ebc36c3bad5ab091fe93a",
+    "categorie": "Beursnieuws",
+    "titel": "Minder bestaande woningen verkocht in VS",
+    "link": "https://www.beurs.nl/Nieuws/860202/Minder-bestaande-woningen-verkocht-in-VS.aspx",
+    "intro": "De bestaande woningverkopen in de Verenigde Staten zijn in maart gedaald. Dit bleek maandag uit cijfers van makelaarsorganisatie NAR.",
+    "published_at": "2026-04-13 16:06",
+    "scraped_at": "2026-04-13T14:50:50.665092"
+  },
+  {
+    "id": "845d9609b12d87c513526d9e5c549baf",
+    "categorie": "Beursnieuws",
+    "titel": "Rheinmetall in zee met Nederlandse rakettenbouwer Destinus",
+    "link": "https://www.beurs.nl/Nieuws/860198/Rheinmetall-in-zee-met-Nederlandse-rakettenbouwer-Destinus.aspx",
+    "intro": "Het Duitse defensiebedrijf Rheinmetall gaat samenwerken met het Nederlandse lucht- en ruimtevaartbedrijf Destinus om raketten te maken voor Europa en enkele NAVO-lidstaten. Dit maakte Rheinmetall maandag bekend.",
+    "published_at": "2026-04-13 15:26",
+    "scraped_at": "2026-04-13T14:50:50.665092"
+  },
+  {
+    "id": "c8561fb8550c13c35082cf868f758c31",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: weinig twijfel over eerste kwartaal ASML",
+    "link": "https://www.beurs.nl/Nieuws/860195/Beursblik-weinig-twijfel-over-eerste-kwartaal-ASML.aspx",
+    "intro": "ASML zal in het eerste kwartaal de eigen outlook hebben gehaald, zo verwachten analisten, terwijl er misschien wel een kleine outlookverhoging voor heel 2026 in het vat zit.",
+    "published_at": "2026-04-13 15:19",
+    "scraped_at": "2026-04-13T14:50:50.665092"
+  },
+  {
+    "id": "ef185bf28b1eea67aabc6d489ec402af",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht lagere opening terwijl nieuwe escalatie Midden-Oosten dreigt",
+    "link": "https://www.beurs.nl/Nieuws/860189/Wall-Street-wacht-lagere-opening-terwijl-nieuwe-escalatie-Midden-Oosten-dreigt.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, nadat de onderhandelingen over een permanente vredesdeal tussen de Verenigde Staten en Iran tijdens het weekend geen resultaat opleverden. Futures op de SP 500 noteerden ongeveer een half uur voor de opening 0,7 procent lager. De Dow Jones index dreigt meer dan een procent in te moeten leveren bij de opening, door een koersval van Goldman Sachs.",
+    "published_at": "2026-04-13 14:53",
+    "scraped_at": "2026-04-13T14:50:50.665092"
+  },
+  {
     "id": "320a2efe5de239b92b65f9954f52ee0b",
     "categorie": "Beursnieuws",
     "titel": "OPEC laat groeiverwachtingen olievraag ongewijzigd",
     "link": "https://www.beurs.nl/Nieuws/860185/OPEC-laat-groeiverwachtingen-olievraag-ongewijzigd.aspx",
     "intro": "OPEC heeft de verwachtingen voor de groei van de vraag naar olie voor dit en volgend jaar ongewijzigd gelaten. Dit bleek maandag uit het maandrapport van het oliekartel.",
     "published_at": "2026-04-13 14:36",
-    "scraped_at": "2026-04-13T12:52:09.745523"
+    "scraped_at": "2026-04-13T14:50:50.665092"
   },
   {
     "id": "e7c42dac9c9d21e318e8520d8c504696",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860179/Deals-en-effectenhandel-stuwen-winst-Goldman-Sachs.aspx",
     "intro": "Goldman Sachs heeft in het eerste kwartaal fors meer winst geboekt, geholpen door een toename van fusies en aandelenhandel. Dat bleek maandag uit de kwartaalcijfers van de Amerikaanse zakenbank.",
     "published_at": "2026-04-13 14:09",
-    "scraped_at": "2026-04-13T12:52:09.745523"
+    "scraped_at": "2026-04-13T14:50:50.665092"
   },
   {
     "id": "8f4a22ce3824898bdd31c29408452c62",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860167/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, nadat de onderhandelingen over een permanente vredesdeal tussen de Verenigde Staten en Iran tijdens het weekend geen resultaat opleverden. Futures op de SP 500 noteerden rond lunchtijd 0,6 procent lager.",
     "published_at": "2026-04-13 12:50",
-    "scraped_at": "2026-04-13T12:52:09.745523"
-  },
-  {
-    "id": "04d0dd28670b99190e8759635bea8bd2",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen dalen na mislukken onderhandelingen VS en Iran",
-    "link": "https://www.beurs.nl/Nieuws/860164/Europese-beurzen-dalen-na-mislukken-onderhandelingen-VS-en-Iran.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden maandag rond lunchtijd lager, nadat de onderhandelingen over een permanente vredesdeal tussen de Verenigde Staten en Iran tijdens het weekend geen resultaat opleverden.",
-    "published_at": "2026-04-13 12:13",
-    "scraped_at": "2026-04-13T12:52:09.745523"
-  },
-  {
-    "id": "0e37d63a043fedfa5d7d1359dd6bc2b4",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays verhoogt koersdoelen Azelis en IMCD",
-    "link": "https://www.beurs.nl/Nieuws/860154/Barclays-verhoogt-koersdoelen-Azelis-en-IMCD.aspx",
-    "intro": "Barclays heeft maandag de koersdoelen voor Azelis en IMCD licht verhoogd. Dit bleek uit een sectorrapport van de Britse bank.",
-    "published_at": "2026-04-13 11:35",
-    "scraped_at": "2026-04-13T12:52:09.745523"
-  },
-  {
-    "id": "b6f2dae416b4d3aec3f03609a6a990c0",
-    "categorie": "Beursnieuws",
-    "titel": "Olie beperkt verlies AEX",
-    "link": "https://www.beurs.nl/Nieuws/860149/Olie-beperkt-verlies-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagochtend op verlies, nadat de VS en Iran afgelopen weekend geen vredesakkoord wisten te sluiten, waardoor de olieprijs weer flink opliep met ruim 8 procent.",
-    "published_at": "2026-04-13 10:55",
-    "scraped_at": "2026-04-13T12:52:09.745523"
-  },
-  {
-    "id": "35f1641420c0e4fb289ac3e7ada4354f",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel Ahold Delhaize",
-    "link": "https://www.beurs.nl/Nieuws/860144/UBS-verhoogt-koersdoel-Ahold-Delhaize.aspx",
-    "intro": "UBS heeft het koersdoel voor Ahold Delhaize verhoogd van 35,00 naar 42,00 euro, met behoud van het neutrale advies. Dit bleek maandag uit een analistenrapport.",
-    "published_at": "2026-04-13 10:40",
-    "scraped_at": "2026-04-13T12:52:09.745523"
-  },
-  {
-    "id": "30f7479300edb7763a7af920e057be20",
-    "categorie": "Must read",
-    "titel": "Must read: Energiecrisis treft beleggers en burgers",
-    "link": "https://www.iex.nl/artikel/860130/Must-read-Energiecrisis-treft-beleggers-en-burgers.aspx",
-    "intro": "De energiecrisis laait opnieuw op en raakt zowel huishoudens als beleggers. Stijgende energieprijzen zetten inflatie en markten opnieuw onder druk. Plus: Trump haalt uit naar de paus, van sparen naar beleggen en meer.",
-    "published_at": "2026-04-13 10:00",
-    "scraped_at": "2026-04-13T12:52:09.745523"
-  },
-  {
-    "id": "e4152b72b49a5eb77dd4758a4f480092",
-    "categorie": "Beursnieuws",
-    "titel": "Volumegroei voor Brits betaalbedrijf Wise",
-    "link": "https://www.beurs.nl/Nieuws/860136/Volumegroei-voor-Brits-betaalbedrijf-Wise.aspx",
-    "intro": "Het Britse betaalbedrijf Wise heeft in het vierde kwartaal van zijn gebroken boekjaar de volumes aan internationale betalingen met ruim een kwart zien stijgen, terwijl de onderliggende inkomsten iets minder sterk toenamen, omdat de marge lager was. Dat maakte Wise maandagochtend bekend.",
-    "published_at": "2026-04-13 09:25",
-    "scraped_at": "2026-04-13T12:52:09.745523"
-  },
-  {
-    "id": "32a26296b647352b127c9bf97641a502",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/860132/AEX-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste maandag kort na de beursgong 0,6 procent lager op 1.004,55 punten, terwijl de Midkap 1,2 procent prijs moest geven.",
-    "published_at": "2026-04-13 09:10",
-    "scraped_at": "2026-04-13T12:52:09.745523"
+    "scraped_at": "2026-04-13T14:50:50.665092"
   }
 ]
