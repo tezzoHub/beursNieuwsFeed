@@ -1,12 +1,30 @@
 [
   {
+    "id": "9fd40e7a346d9e28104998b575ca67ec",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen voorzichtig aan nieuwe week begonnen",
+    "link": "https://www.beurs.nl/Nieuws/860223/Europese-beurzen-voorzichtig-aan-nieuwe-week-begonnen.aspx",
+    "intro": "De Europese beurzen zijn maandag slechts licht lager gesloten, dankzij een opmars na de opening van Wall Street. Daardoor werden de eerdere verliezen aanzienlijk beperkt.",
+    "published_at": "2026-04-13 18:48",
+    "scraped_at": "2026-04-13T17:35:15.891363"
+  },
+  {
+    "id": "8c7076ff34c9ca8fdc593f65cf9274a6",
+    "categorie": "Beursnieuws",
+    "titel": "Lichte groei voor LVMH ondanks geopolitieke uitdagingen",
+    "link": "https://www.beurs.nl/Nieuws/860221/Lichte-groei-voor-LVMH-ondanks-geopolitieke-uitdagingen.aspx",
+    "intro": "LVMH is in het eerste kwartaal van 2026 licht gegroeid, ondanks een geopolitiek en economisch klimaat dat verstoord bleef, wat nog werd versterkt door het conflict in het Midden-Oosten. Dit meldde het Franse luxeconcern maandagavond.",
+    "published_at": "2026-04-13 18:22",
+    "scraped_at": "2026-04-13T17:35:15.891363"
+  },
+  {
     "id": "8c5da19d70957e61149561d37d541d8b",
     "categorie": "Beursnieuws",
     "titel": "AEX eindigt toch in het groen",
     "link": "https://www.beurs.nl/Nieuws/860218/AEX-eindigt-toch-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs is maandag licht hoger geëindigd, waarbij Shell profiteerde van de stijgende olieprijzen.",
     "published_at": "2026-04-13 17:57",
-    "scraped_at": "2026-04-13T16:15:38.326992"
+    "scraped_at": "2026-04-13T17:35:15.891363"
   },
   {
     "id": "909f0e2da83caf2e18e85c34c644eb85",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860212/Beursblik-meer-omzet-Heineken-ondanks-dalende-volumes.aspx",
     "intro": "Heineken heeft in het eerste kwartaal de volumes zien dalen, maar wist de omzet toch op te voeren. Dit blijkt uit een consensusverwachting op de website van de brouwer.",
     "published_at": "2026-04-13 16:44",
-    "scraped_at": "2026-04-13T16:15:38.326992"
+    "scraped_at": "2026-04-13T17:35:15.891363"
   },
   {
     "id": "4ea270433ee3a32ad1348b4a2d876645",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860210/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 21 april 2026:",
     "published_at": "2026-04-13 16:28",
-    "scraped_at": "2026-04-13T16:15:38.326992"
+    "scraped_at": "2026-04-13T17:35:15.891363"
   },
   {
     "id": "49d7b2f35dbe05b861c1d2faabbffbd1",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860211/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 21 april 2026:",
     "published_at": "2026-04-13 16:28",
-    "scraped_at": "2026-04-13T16:15:38.326992"
+    "scraped_at": "2026-04-13T17:35:15.891363"
   },
   {
     "id": "1a54e339675bc6f8fca8b5b58985759e",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860208/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 21 april 2026:",
     "published_at": "2026-04-13 16:28",
-    "scraped_at": "2026-04-13T16:15:38.326992"
+    "scraped_at": "2026-04-13T17:35:15.891363"
   },
   {
     "id": "514fd7744707926724b11a9e325b4de0",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860204/Update-RDW-keurt-rijhulpsysteem-van-Tesla-goed-voor-Nederland.aspx",
     "intro": "De Nederlandse RDW heeft een typegoedkeuring afgegeven voor het rijhulpsysteem van Tesla.",
     "published_at": "2026-04-13 16:16",
-    "scraped_at": "2026-04-13T16:15:38.326992"
+    "scraped_at": "2026-04-13T17:35:15.891363"
   },
   {
     "id": "86120027818ebc36c3bad5ab091fe93a",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860202/Minder-bestaande-woningen-verkocht-in-VS.aspx",
     "intro": "De bestaande woningverkopen in de Verenigde Staten zijn in maart gedaald. Dit bleek maandag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-04-13 16:06",
-    "scraped_at": "2026-04-13T16:15:38.326992"
+    "scraped_at": "2026-04-13T17:35:15.891363"
   },
   {
     "id": "845d9609b12d87c513526d9e5c549baf",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860198/Rheinmetall-in-zee-met-Nederlandse-rakettenbouwer-Destinus.aspx",
     "intro": "Het Duitse defensiebedrijf Rheinmetall gaat samenwerken met het Nederlandse lucht- en ruimtevaartbedrijf Destinus om raketten te maken voor Europa en enkele NAVO-lidstaten. Dit maakte Rheinmetall maandag bekend.",
     "published_at": "2026-04-13 15:26",
-    "scraped_at": "2026-04-13T16:15:38.326992"
-  },
-  {
-    "id": "c8561fb8550c13c35082cf868f758c31",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: weinig twijfel over eerste kwartaal ASML",
-    "link": "https://www.beurs.nl/Nieuws/860195/Beursblik-weinig-twijfel-over-eerste-kwartaal-ASML.aspx",
-    "intro": "ASML zal in het eerste kwartaal de eigen outlook hebben gehaald, zo verwachten analisten, terwijl er misschien wel een kleine outlookverhoging voor heel 2026 in het vat zit.",
-    "published_at": "2026-04-13 15:19",
-    "scraped_at": "2026-04-13T16:15:38.326992"
-  },
-  {
-    "id": "ef185bf28b1eea67aabc6d489ec402af",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht lagere opening terwijl nieuwe escalatie Midden-Oosten dreigt",
-    "link": "https://www.beurs.nl/Nieuws/860189/Wall-Street-wacht-lagere-opening-terwijl-nieuwe-escalatie-Midden-Oosten-dreigt.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, nadat de onderhandelingen over een permanente vredesdeal tussen de Verenigde Staten en Iran tijdens het weekend geen resultaat opleverden. Futures op de SP 500 noteerden ongeveer een half uur voor de opening 0,7 procent lager. De Dow Jones index dreigt meer dan een procent in te moeten leveren bij de opening, door een koersval van Goldman Sachs.",
-    "published_at": "2026-04-13 14:53",
-    "scraped_at": "2026-04-13T16:15:38.326992"
+    "scraped_at": "2026-04-13T17:35:15.891363"
   }
 ]
