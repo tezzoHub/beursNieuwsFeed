@@ -1,12 +1,57 @@
 [
   {
+    "id": "04d0dd28670b99190e8759635bea8bd2",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen dalen na mislukken onderhandelingen VS en Iran",
+    "link": "https://www.beurs.nl/Nieuws/860164/Europese-beurzen-dalen-na-mislukken-onderhandelingen-VS-en-Iran.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden maandag rond lunchtijd lager, nadat de onderhandelingen over een permanente vredesdeal tussen de Verenigde Staten en Iran tijdens het weekend geen resultaat opleverden.",
+    "published_at": "2026-04-13 12:13",
+    "scraped_at": "2026-04-13T10:23:14.302677"
+  },
+  {
+    "id": "0e37d63a043fedfa5d7d1359dd6bc2b4",
+    "categorie": "Beursnieuws",
+    "titel": "Barclays verhoogt koersdoelen Azelis en IMCD",
+    "link": "https://www.beurs.nl/Nieuws/860154/Barclays-verhoogt-koersdoelen-Azelis-en-IMCD.aspx",
+    "intro": "Barclays heeft maandag de koersdoelen voor Azelis en IMCD licht verhoogd. Dit bleek uit een sectorrapport van de Britse bank.",
+    "published_at": "2026-04-13 11:35",
+    "scraped_at": "2026-04-13T10:23:14.302677"
+  },
+  {
+    "id": "b6f2dae416b4d3aec3f03609a6a990c0",
+    "categorie": "Beursnieuws",
+    "titel": "Olie beperkt verlies AEX",
+    "link": "https://www.beurs.nl/Nieuws/860149/Olie-beperkt-verlies-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagochtend op verlies, nadat de VS en Iran afgelopen weekend geen vredesakkoord wisten te sluiten, waardoor de olieprijs weer flink opliep met ruim 8 procent.",
+    "published_at": "2026-04-13 10:55",
+    "scraped_at": "2026-04-13T10:23:14.302677"
+  },
+  {
+    "id": "35f1641420c0e4fb289ac3e7ada4354f",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel Ahold Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/860144/UBS-verhoogt-koersdoel-Ahold-Delhaize.aspx",
+    "intro": "UBS heeft het koersdoel voor Ahold Delhaize verhoogd van 35,00 naar 42,00 euro, met behoud van het neutrale advies. Dit bleek maandag uit een analistenrapport.",
+    "published_at": "2026-04-13 10:40",
+    "scraped_at": "2026-04-13T10:23:14.302677"
+  },
+  {
+    "id": "30f7479300edb7763a7af920e057be20",
+    "categorie": "Must read",
+    "titel": "Must read: Energiecrisis treft beleggers en burgers",
+    "link": "https://www.iex.nl/artikel/860130/Must-read-Energiecrisis-treft-beleggers-en-burgers.aspx",
+    "intro": "De energiecrisis laait opnieuw op en raakt zowel huishoudens als beleggers. Stijgende energieprijzen zetten inflatie en markten opnieuw onder druk. Plus: Trump haalt uit naar de paus, van sparen naar beleggen en meer.",
+    "published_at": "2026-04-13 10:00",
+    "scraped_at": "2026-04-13T10:23:14.302677"
+  },
+  {
     "id": "e4152b72b49a5eb77dd4758a4f480092",
     "categorie": "Beursnieuws",
     "titel": "Volumegroei voor Brits betaalbedrijf Wise",
     "link": "https://www.beurs.nl/Nieuws/860136/Volumegroei-voor-Brits-betaalbedrijf-Wise.aspx",
     "intro": "Het Britse betaalbedrijf Wise heeft in het vierde kwartaal van zijn gebroken boekjaar de volumes aan internationale betalingen met ruim een kwart zien stijgen, terwijl de onderliggende inkomsten iets minder sterk toenamen, omdat de marge lager was. Dat maakte Wise maandagochtend bekend.",
     "published_at": "2026-04-13 09:25",
-    "scraped_at": "2026-04-13T08:25:32.193120"
+    "scraped_at": "2026-04-13T10:23:14.302677"
   },
   {
     "id": "32a26296b647352b127c9bf97641a502",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860132/AEX-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste maandag kort na de beursgong 0,6 procent lager op 1.004,55 punten, terwijl de Midkap 1,2 procent prijs moest geven.",
     "published_at": "2026-04-13 09:10",
-    "scraped_at": "2026-04-13T08:25:32.193120"
+    "scraped_at": "2026-04-13T10:23:14.302677"
   },
   {
     "id": "e9e21ba4a42ca3050386df726beb0f9b",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860128/Valuta-zware-nederlaag-Orban-kan-Hongaarse-forint-versterken.aspx",
     "intro": "De grote verkiezingsoverwinning biedt de oppositie in Hongarije de kans om het economische en institutionele landschap te hervormen, Europese gelden vrij te maken en op termijn de Hongaarse forint te versterken. Dat stelden analisten van Citi Research maandag in een rapport, volgend op de verkiezingen die zondag plaatsvonden.",
     "published_at": "2026-04-13 08:57",
-    "scraped_at": "2026-04-13T08:25:32.193120"
+    "scraped_at": "2026-04-13T10:23:14.302677"
   },
   {
     "id": "e9cb617fd270ea4a18b8922d1474001d",
@@ -33,60 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/860125/Basic-Fit-getroffen-door-hack.aspx",
     "intro": "Basic-Fit heeft vandaag de Autoriteit Persoonsgegevens op de hoogte gesteld van ongeoorloofde toegang tot het systeem dat de bezoeken van leden van Basic-Fit-clubs registreert. Dit meldde de fitnessketen maandag in een persbericht.",
     "published_at": "2026-04-13 08:44",
-    "scraped_at": "2026-04-13T08:25:32.193120"
+    "scraped_at": "2026-04-13T10:23:14.302677"
   },
   {
     "id": "e8d918b8d91876edcd61349bab919f64",
     "categorie": "Voorbeurs",
     "titel": "VS blokkeert Straat van Hormuz, maar van marktpaniek lijkt geen sprake",
     "link": "https://www.beurs.nl/Artikel/860097/VS-blokkeert-Straat-van-Hormuz-maar-van-marktpaniek-lijkt-geen-sprake.aspx",
-    "intro": "Openingsindicatie: -0,6%. Onderhandelingen VS - Iran mislukt. Olieprijzen boven $100 nu Amerikanen Straat van Hormuz gaan blokkeren. Obligatierentes omhoog, maar VIX daalt.",
+    "intro": "Onderhandelingen VS - Iran mislukt. Olieprijzen boven $100 nu Amerikanen Straat van Hormuz gaan blokkeren. Obligatierentes omhoog, maar VIX daalt.",
     "published_at": "2026-04-13 08:30",
-    "scraped_at": "2026-04-13T08:25:32.193120"
-  },
-  {
-    "id": "0c9b8fafbf259efc6b6d347e5ac5beb3",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsweek in het rood na vastlopen vredesonderhandelingen",
-    "link": "https://www.beurs.nl/Nieuws/860118/AEX-start-handelsweek-in-het-rood-na-vastlopen-vredesonderhandelingen.aspx",
-    "intro": "De Amsterdamse beurs maakt zich maandag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,7 procent.",
-    "published_at": "2026-04-13 08:06",
-    "scraped_at": "2026-04-13T08:25:32.193120"
-  },
-  {
-    "id": "98d57c99a920e143837ffb5f81fab384",
-    "categorie": "Beursnieuws",
-    "titel": "CZ Colt kiest voor tweede notering in Amsterdam",
-    "link": "https://www.beurs.nl/Nieuws/860114/CZ-Colt-kiest-voor-tweede-notering-in-Amsterdam.aspx",
-    "intro": "Colt CZ heeft gekozen voor een tweede notering aan de beurs van Amsterdam. Dit maakte de Tsjechische fabrikant van handvuurwapens maandagochtend bekend.",
-    "published_at": "2026-04-13 07:33",
-    "scraped_at": "2026-04-13T08:25:32.193120"
-  },
-  {
-    "id": "2076a477ade9c55d299f37735b233d71",
-    "categorie": "Beursnieuws",
-    "titel": "Meer faillissementen in maart",
-    "link": "https://www.beurs.nl/Nieuws/860111/Meer-faillissementen-in-maart.aspx",
-    "intro": "In maart zijn er in Nederland op jaarbasis 12 procent meer bedrijven failliet verklaard. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-04-13 07:29",
-    "scraped_at": "2026-04-13T08:25:32.193120"
-  },
-  {
-    "id": "f3a88915f0581ed1ecf2c3446cc21fb9",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse export groeit",
-    "link": "https://www.beurs.nl/Nieuws/860110/Nederlandse-export-groeit.aspx",
-    "intro": "De Nederlandse export is in februari gegroeid. Dit bleek maandag uit voorlopige cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-04-13 07:22",
-    "scraped_at": "2026-04-13T08:25:32.193120"
-  },
-  {
-    "id": "b5d1fa9ea6038c36ab1241ee5166266b",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren in het rood na mislukken vredesonderhandelingen",
-    "link": "https://www.beurs.nl/Nieuws/860108/Aziatische-beurzen-noteren-in-het-rood-na-mislukken-vredesonderhandelingen.aspx",
-    "intro": "De Aziatische beurzen stonden maandagochtend onder druk, nadat de onderhandelingen tussen de Verenigde Staten en Iran afgelopen weekend vastliepen, met als breekpunt de nucleaire ambities van Teheran, aldus de VS.",
-    "published_at": "2026-04-13 07:17",
-    "scraped_at": "2026-04-13T08:25:32.193120"
+    "scraped_at": "2026-04-13T10:23:14.302677"
   }
 ]
