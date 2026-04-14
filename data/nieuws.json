@@ -1,21 +1,57 @@
 [
   {
+    "id": "a24d3347d46a73e9149a7def2f5afb1e",
+    "categorie": "Beursnieuws",
+    "titel": "Flink meer winst voor JPMorgan",
+    "link": "https://www.beurs.nl/Nieuws/860330/Flink-meer-winst-voor-JPMorgan.aspx",
+    "intro": "JPMorgan Chase heeft in het eerste kwartaal veel meer winst geboekt, dankzij hogere inkomsten en lagere voorzieningen voor oninbare leningen. Dit maakte de Amerikaanse zakenbank dinsdagmiddag bekend.",
+    "published_at": "2026-04-14 13:02",
+    "scraped_at": "2026-04-14T11:44:34.998416"
+  },
+  {
+    "id": "9e9ecb507e6859e551e2f8bdb8b2836b",
+    "categorie": "Beursnieuws",
+    "titel": "Wells Fargo boekt meer winst",
+    "link": "https://www.beurs.nl/Nieuws/860326/Wells-Fargo-boekt-meer-winst.aspx",
+    "intro": "Wells Fargo heeft in het eerste kwartaal van 2026 een hogere winst geboekt dan een jaar eerder. De inkomsten bleven wel achter bij de verwachtingen van analisten. Dit bleek dinsdag voorbeurs uit de kwartaalcijfers van de Amerikaanse bank.",
+    "published_at": "2026-04-14 12:59",
+    "scraped_at": "2026-04-14T11:44:34.998416"
+  },
+  {
+    "id": "b7feaf1f3a30018b5d32ff0305960735",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen licht hogere opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/860327/Futures-voorspellen-licht-hogere-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd tot 0,1 procent hoger. Vanmiddag openen diverse Amerikaanse banken de boeken.",
+    "published_at": "2026-04-14 12:57",
+    "scraped_at": "2026-04-14T11:44:34.998416"
+  },
+  {
+    "id": "1a4f2a17c39be30dc3316c04cac00859",
+    "categorie": "Beursnieuws",
+    "titel": "Johnson & Johnson verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/860325/Johnson-Johnson-verhoogt-outlook.aspx",
+    "intro": "Johnson  Johnson heeft in het eerste kwartaal van dit jaar de verwachtingen verslagen en de outlook verhoogd voor heel het jaar. Dit bleek dinsdagmiddag uit de resultaten van het Amerikaanse farmabedrijf.",
+    "published_at": "2026-04-14 12:45",
+    "scraped_at": "2026-04-14T11:44:34.998416"
+  },
+  {
     "id": "34aa81ec83c21311997a23102ade17de",
     "categorie": "Beursnieuws",
     "titel": "Beheerd vermogen BlackRock daalt licht vanaf recordniveau",
     "link": "https://www.beurs.nl/Nieuws/860321/Beheerd-vermogen-BlackRock-daalt-licht-vanaf-recordniveau.aspx",
     "intro": "BlackRock heeft in het eerste kwartaal van 2026 het beheerd vermogen iets zien zakken ten opzichte van eind 2025. Dit bleek uit de cijfers die de Amerikaanse financiële gigant dinsdag voorbeurs publiceerde.",
     "published_at": "2026-04-14 12:29",
-    "scraped_at": "2026-04-14T10:42:41.266893"
+    "scraped_at": "2026-04-14T11:44:34.998416"
   },
   {
-    "id": "394d9b767d7686f0e8fa507a4cdf152c",
+    "id": "25f4df92848cf9721dcdc274df3ec7e2",
     "categorie": "Beursnieuws",
-    "titel": "Deutsche Boerse neemt belang in Kraken",
-    "link": "https://www.beurs.nl/Nieuws/860317/Deutsche-Boerse-neemt-belang-in-Kraken.aspx",
+    "titel": "Deutsche Börse neemt belang in cryptobeurs Kraken",
+    "link": "https://www.beurs.nl/Nieuws/860317/Deutsche-Borse-neemt-belang-in-cryptobeurs-Kraken.aspx",
     "intro": "Deutsche Börse Group versterkt haar samenwerking met de Amerikaanse cryptobeurs Kraken, door middel van een strategische investering ter waarde van 200 miljoen dollar. Dit meldde de Duitse beursuitbater dinsdag.",
     "published_at": "2026-04-14 12:24",
-    "scraped_at": "2026-04-14T10:42:41.266893"
+    "scraped_at": "2026-04-14T11:44:34.998416"
   },
   {
     "id": "7a51efdf8eadf32a94023cf5cfdf1f4c",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860316/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-verder-gedaald.aspx",
     "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in maart nog verder afgenomen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
     "published_at": "2026-04-14 12:19",
-    "scraped_at": "2026-04-14T10:42:41.266893"
+    "scraped_at": "2026-04-14T11:44:34.998416"
   },
   {
     "id": "d3c8a3160ef53aa64252974f3e2d59a6",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860315/Europese-beurzen-hoger-rond-middaguur.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur hoger.",
     "published_at": "2026-04-14 12:10",
-    "scraped_at": "2026-04-14T10:42:41.266893"
+    "scraped_at": "2026-04-14T11:44:34.998416"
   },
   {
     "id": "e7897403a1d702c2029295cd068b481b",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860313/Bank-of-America-verhoogt-koersdoel-Besi.aspx",
     "intro": "Bank of America heeft dinsdag het koersdoel voor BE Semiconductor Industries verhoogd van 238 naar 279 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
     "published_at": "2026-04-14 11:58",
-    "scraped_at": "2026-04-14T10:42:41.266893"
+    "scraped_at": "2026-04-14T11:44:34.998416"
   },
   {
     "id": "dfbc7cdb13db3e97f96e17c37dc7e28a",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860306/Obligatie-Nederland-haalt-bijna-3-miljard-euro-op.aspx",
     "intro": "Nederland heeft met de heropening van een vijfjarige lening 2,81 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën dinsdag bekend.",
     "published_at": "2026-04-14 11:36",
-    "scraped_at": "2026-04-14T10:42:41.266893"
-  },
-  {
-    "id": "b9cbdcb19ab82f83e41d4e3e1214f411",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders aan kop in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/860304/Halfgeleiders-aan-kop-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag richting het einde van de ochtend hoger, gesteund door de halfgeleideraandelen die in trek waren.",
-    "published_at": "2026-04-14 11:28",
-    "scraped_at": "2026-04-14T10:42:41.266893"
-  },
-  {
-    "id": "59c566b858d1364b635b6fe0ab65f4a9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: LVMH start 2026 voorzichtig",
-    "link": "https://www.beurs.nl/Nieuws/860303/Beursblik-LVMH-start-2026-voorzichtig.aspx",
-    "intro": "LVMH is 2026 voorzichtig gestart. Dit stelden analisten van Citi Research in een rapport, nadat de luxeketen maandagavond met omzetcijfers kwam.",
-    "published_at": "2026-04-14 11:18",
-    "scraped_at": "2026-04-14T10:42:41.266893"
-  },
-  {
-    "id": "4cc0e95d66f98cb6e12340d957bda983",
-    "categorie": "Beursnieuws",
-    "titel": "IEA ziet olievraag dit jaar afnemen door oorlog in Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/860294/IEA-ziet-olievraag-dit-jaar-afnemen-door-oorlog-in-Midden-Oosten.aspx",
-    "intro": "De vraag naar olie zal dit jaar vermoedelijk afnemen als gevolg van de oorlog in het Midden-Oosten. Dit stelde het Internationaal Energieagentschap dinsdag in zijn maandrapport.",
-    "published_at": "2026-04-14 10:40",
-    "scraped_at": "2026-04-14T10:42:41.266893"
-  },
-  {
-    "id": "534d94ab1d0a0cad7e7b1986c9f0d0fe",
-    "categorie": "Beursnieuws",
-    "titel": "Bloomberg: United Airlines overweegt fusie met American",
-    "link": "https://www.beurs.nl/Nieuws/860293/Bloomberg-United-Airlines-overweegt-fusie-met-American.aspx",
-    "intro": "United Airlines overweegt een fusie met sectorgenoot American Airlines. Dit meldde persbureau Bloomberg maandagavond laat op basis van bronnen.",
-    "published_at": "2026-04-14 10:16",
-    "scraped_at": "2026-04-14T10:42:41.266893"
+    "scraped_at": "2026-04-14T11:44:34.998416"
   }
 ]
