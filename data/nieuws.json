@@ -1,12 +1,30 @@
 [
   {
+    "id": "ee531c2feb95cf2b4712657ee59c6181",
+    "categorie": "Beursnieuws",
+    "titel": "Besi uitblinker in hoger gesloten AEX",
+    "link": "https://www.beurs.nl/Nieuws/860397/Besi-uitblinker-in-hoger-gesloten-AEX.aspx",
+    "intro": "De AEX is dinsdag hoger gesloten, in de hoop dat de vredesbesprekingen tussen de VS en Iran hervat worden.",
+    "published_at": "2026-04-14 17:45",
+    "scraped_at": "2026-04-14T15:56:44.609564"
+  },
+  {
+    "id": "0ddd4a3386c0dd4e53aff21d2055191d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: TomTom weet omzetdaling op te vangen",
+    "link": "https://www.beurs.nl/Nieuws/860387/Beursblik-TomTom-weet-omzetdaling-op-te-vangen.aspx",
+    "intro": "TomTom heeft in het eerste kwartaal van dit jaar naar verwachting winst geboekt, hoewel de omzet daalde. Dit bleek uit een consensusverwachting van analisten die werd samengesteld door de navigatiespecialist zelf.",
+    "published_at": "2026-04-14 16:48",
+    "scraped_at": "2026-04-14T15:56:44.609564"
+  },
+  {
     "id": "6f82b1595c200fe8a6084783b0cb217d",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/860372/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 22 april 2026:",
     "published_at": "2026-04-14 16:00",
-    "scraped_at": "2026-04-14T14:44:19.998017"
+    "scraped_at": "2026-04-14T15:56:44.609564"
   },
   {
     "id": "80da13140f842bd6a2ba831f3738c744",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860374/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 22 april 2026:",
     "published_at": "2026-04-14 16:00",
-    "scraped_at": "2026-04-14T14:44:19.998017"
+    "scraped_at": "2026-04-14T15:56:44.609564"
   },
   {
     "id": "21fd8957c39943b5bbdd0f1483cd69eb",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860375/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 22 april 2026:",
     "published_at": "2026-04-14 15:59",
-    "scraped_at": "2026-04-14T14:44:19.998017"
+    "scraped_at": "2026-04-14T15:56:44.609564"
   },
   {
     "id": "0db6fe58a5bcef88de7f3d97a367ebe1",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860371/IMF-verlaagt-groeiverwachtingen-door-oorlog.aspx",
     "intro": "Het Internationaal Monetair Fonds heeft gewaarschuwd dat een langdurig conflict in het Midden-Oosten de mondiale economische groei flink zal vertragen. Dit bleek dinsdag uit de nieuwe groeiverwachtingen van het fonds.",
     "published_at": "2026-04-14 15:43",
-    "scraped_at": "2026-04-14T14:44:19.998017"
+    "scraped_at": "2026-04-14T15:56:44.609564"
   },
   {
     "id": "999a23a6b7199320fb9ec85091396299",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860357/Wall-Street-koerst-af-op-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel tot 0,3 procent hoger.",
     "published_at": "2026-04-14 14:59",
-    "scraped_at": "2026-04-14T14:44:19.998017"
+    "scraped_at": "2026-04-14T15:56:44.609564"
   },
   {
     "id": "e9800247d4c68a55366ae89bf4c5b4ad",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860354/Amerikaanse-producentenprijzen-lopen-harder-op.aspx",
     "intro": "De producentenprijzen in de Verenigde Staten zijn in maart harder gestegen. Dit meldde het Amerikaanse ministerie van Arbeid dinsdag.",
     "published_at": "2026-04-14 14:44",
-    "scraped_at": "2026-04-14T14:44:19.998017"
+    "scraped_at": "2026-04-14T15:56:44.609564"
   },
   {
     "id": "9ec89b4f9140aef7f62d34adc5149746",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860353/Amazon-neemt-satellietbedrijf-Globalstar-over.aspx",
     "intro": "Amazon heeft een akkoord bereikt om satellietbedrijf Globalstar over te nemen. Met deze deal versterkt Amazon zijn positie in de markt voor satellietconnectiviteit en gaat het bedrijf de concurrentie aan met Starlink van SpaceX. Dut maakten beide bedrijven dinsdag via een persbericht bekend.",
     "published_at": "2026-04-14 14:43",
-    "scraped_at": "2026-04-14T14:44:19.998017"
+    "scraped_at": "2026-04-14T15:56:44.609564"
   },
   {
     "id": "17ceae35827b67f50ef63ee454e38fb5",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860352/Citigroup-boekt-meer-winst.aspx",
     "intro": "Citigroup heeft in het eerste kwartaal meer winst geboekt, terwijl de inkomsten ook stegen. Dit bleek dinsdagmiddag uit de resultaten van de Amerikaanse bank.",
     "published_at": "2026-04-14 14:37",
-    "scraped_at": "2026-04-14T14:44:19.998017"
-  },
-  {
-    "id": "db8cab1c217c2cefc002f6785e8b2f7f",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays verlaagt koersdoel Signify",
-    "link": "https://www.beurs.nl/Nieuws/860350/Barclays-verlaagt-koersdoel-Signify.aspx",
-    "intro": "Barclays heeft het koersdoel voor Signify verlaagd van 14,70 naar 13,70 euro met een onveranderd Onderwogen advies. Dit bleek dinsdag uit een sectorrapport van de Britse bank.",
-    "published_at": "2026-04-14 14:28",
-    "scraped_at": "2026-04-14T14:44:19.998017"
-  },
-  {
-    "id": "a24d3347d46a73e9149a7def2f5afb1e",
-    "categorie": "Beursnieuws",
-    "titel": "Flink meer winst voor JPMorgan",
-    "link": "https://www.beurs.nl/Nieuws/860330/Flink-meer-winst-voor-JPMorgan.aspx",
-    "intro": "JPMorgan Chase heeft in het eerste kwartaal veel meer winst geboekt, dankzij hogere inkomsten en lagere voorzieningen voor oninbare leningen. Dit maakte de Amerikaanse zakenbank dinsdagmiddag bekend.",
-    "published_at": "2026-04-14 13:02",
-    "scraped_at": "2026-04-14T14:44:19.998017"
+    "scraped_at": "2026-04-14T15:56:44.609564"
   }
 ]
