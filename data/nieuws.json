@@ -1,12 +1,48 @@
 [
   {
+    "id": "4cc0e95d66f98cb6e12340d957bda983",
+    "categorie": "Beursnieuws",
+    "titel": "IEA ziet olievraag dit jaar afnemen door oorlog in Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/860294/IEA-ziet-olievraag-dit-jaar-afnemen-door-oorlog-in-Midden-Oosten.aspx",
+    "intro": "De vraag naar olie zal dit jaar vermoedelijk afnemen als gevolg van de oorlog in het Midden-Oosten. Dit stelde het Internationaal Energieagentschap dinsdag in zijn maandrapport.",
+    "published_at": "2026-04-14 10:40",
+    "scraped_at": "2026-04-14T09:07:18.995392"
+  },
+  {
+    "id": "1635998f325500f57eb5f86a9181d6ad",
+    "categorie": "Beursnieuws",
+    "titel": "Media: United Airlines overweegt fusie met American",
+    "link": "https://www.beurs.nl/Nieuws/860293/Media-United-Airlines-overweegt-fusie-met-American.aspx",
+    "intro": "United Airlines overweegt een fusie met sectorgenoot American Airlines. Dit meldde persbureau Bloomberg maandagavond laat op basis van bronnen.",
+    "published_at": "2026-04-14 10:16",
+    "scraped_at": "2026-04-14T09:07:18.995392"
+  },
+  {
+    "id": "27efd2e7e00179a78aefbe6f9182ae31",
+    "categorie": "Beursnieuws",
+    "titel": "ABU: uren in uitzendbranche blijven onder druk",
+    "link": "https://www.beurs.nl/Nieuws/860291/ABU-uren-in-uitzendbranche-blijven-onder-druk.aspx",
+    "intro": "Het aantal gewerkte uren in de Nederlandse uitzendsector is in periode 3 van 2026 opnieuw gedaald, terwijl de omzet steeg. Dit bleek dinsdag uit cijfers van brancheorganisatie ABU.",
+    "published_at": "2026-04-14 10:14",
+    "scraped_at": "2026-04-14T09:07:18.995392"
+  },
+  {
+    "id": "4aea4a422b0c11c2e4071ebc7d2a9e68",
+    "categorie": "IEX",
+    "titel": "Must read: Beleggers maken zich weinig zorgen",
+    "link": "https://www.iex.nl/artikel/859730/Must-read-Beleggers-maken-zich-weinig-zorgen.aspx",
+    "intro": "Plus: duurzame energie rendeert beter, iedereen in ETF's, AI-kansen zijn er ook in Azië, de strijd tussen goud en zilver, en méér.",
+    "published_at": "2026-04-14 10:00",
+    "scraped_at": "2026-04-14T09:07:18.995392"
+  },
+  {
     "id": "8efc6cc222f9f159c9742fe6d316d69c",
     "categorie": "Beursnieuws",
     "titel": "Spaanse inflatie nog iets hoger",
     "link": "https://www.beurs.nl/Nieuws/860284/Spaanse-inflatie-nog-iets-hoger.aspx",
     "intro": "De Spaanse inflatie is in maart nog iets harder toegenomen dan eerder gemeld. Dit bleek dinsdag uit definitieve cijfers van het Spaanse statistiekbureau Ine.",
     "published_at": "2026-04-14 09:38",
-    "scraped_at": "2026-04-14T07:50:03.339936"
+    "scraped_at": "2026-04-14T09:07:18.995392"
   },
   {
     "id": "cefc6a06fff6bc7d1842069dbb0f8de6",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860279/Licht-positief-resultaat-voor-Hawick.aspx",
     "intro": "Hawick Data heeft in 2025 een licht positief resultaat behaald. Dit meldde het voormalige IEX Group dinsdagochtend naar aanleiding van de publicatie van het jaarverslag.",
     "published_at": "2026-04-14 09:21",
-    "scraped_at": "2026-04-14T07:50:03.339936"
+    "scraped_at": "2026-04-14T09:07:18.995392"
   },
   {
     "id": "396e17ae4b523b11e058cf5ad998bf50",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860277/AEX-hoger-gestart-met-Besi-aan-kop.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong ruim een half procent in het groen op 1.017,60 punten, terwijl de Midkap zelfs 1,0 procent won.",
     "published_at": "2026-04-14 09:13",
-    "scraped_at": "2026-04-14T07:50:03.339936"
+    "scraped_at": "2026-04-14T09:07:18.995392"
   },
   {
     "id": "2c5da1b3184f16d0d67271a274fe3bfb",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860275/Winst-PageGroup-onder-druk.aspx",
     "intro": "PageGroup heeft de winst in het eerste kwartaal onder druk zien staan en het concern verwacht dat daar voorlopig geen verandering in komt. Dit kwam dinsdag naar voren uit de cijfers van de specialist in werving en selectie van personeel.",
     "published_at": "2026-04-14 08:55",
-    "scraped_at": "2026-04-14T07:50:03.339936"
+    "scraped_at": "2026-04-14T09:07:18.995392"
   },
   {
     "id": "7a8013f395050d87cbd0504a764935aa",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860274/Deutsche-Bank-verhoogt-koersdoel-Aperam-licht.aspx",
     "intro": "Deutsche Bank heeft het koersdoel voor Aperam licht verhoogd van 62,00 naar 63,00 euro, met handhaving van het koopadvies. Dit bleek dinsdag uit een rapport van analist Bastian Synagowitz.",
     "published_at": "2026-04-14 08:44",
-    "scraped_at": "2026-04-14T07:50:03.339936"
+    "scraped_at": "2026-04-14T09:07:18.995392"
   },
   {
     "id": "fbfc5c2d00a3ee82429b5e14e74d465e",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860273/Novo-Nordisk-gaat-samenwerken-met-OpenAI.aspx",
     "intro": "Novo Nordisk gaat een strategische samenwerking aan met OpenAI. Dit meldde de Deense farmareus dinsdagochtend.",
     "published_at": "2026-04-14 08:37",
-    "scraped_at": "2026-04-14T07:50:03.339936"
-  },
-  {
-    "id": "4ce5b16c75c22b40ba5b2afdf14e2236",
-    "categorie": "Beursnieuws",
-    "titel": "CTP sluit deals in Polen",
-    "link": "https://www.beurs.nl/Nieuws/860271/CTP-sluit-deals-in-Polen.aspx",
-    "intro": "CTP heeft een reeks nieuwe huurcontracten in Polen afgesloten voor in totaal meer dan 12.000 vierkante meter aan magazijn- en logistieke ruimte. Dit meldde het vastgoedbedrijf dinsdagochtend.",
-    "published_at": "2026-04-14 08:31",
-    "scraped_at": "2026-04-14T07:50:03.339936"
-  },
-  {
-    "id": "b350040aa15129fdaf589d358c3765a8",
-    "categorie": "Beursnieuws",
-    "titel": "OCI verkoopt weer 2 miljoen aandelen Methanex",
-    "link": "https://www.beurs.nl/Nieuws/860269/OCI-verkoopt-weer-2-miljoen-aandelen-Methanex.aspx",
-    "intro": "OCI Chemicals heeft opnieuw 2 miljoen aandelen Methanex Corporation verkocht. Dit maakte het bedrijf met een notering aan het Amsterdamse Damrak dinsdag voorbeurs bekend.",
-    "published_at": "2026-04-14 08:21",
-    "scraped_at": "2026-04-14T07:50:03.339936"
-  },
-  {
-    "id": "1b0f79b04a704e48e4686d33f3124729",
-    "categorie": "Beursnieuws",
-    "titel": "Keurig Dr Pepper heeft bijna 98% van aandelen JDE Peet's in bezit",
-    "link": "https://www.beurs.nl/Nieuws/860264/Keurig-Dr-Pepper-heeft-bijna-98-van-aandelen-JDE-Peets-in-bezit.aspx",
-    "intro": "Keurig Dr Pepper heeft tijdens de na-aanmeldingsperiode van zijn bod op JDE Peet's nog eens 1,61 procent van de aandelen van het Nederlandse koffiebedrijf in handen gekregen, waarmee het nu 97,75 procent van alle aandelen bezit. Dit meldden beide bedrijven maandagavond laat.",
-    "published_at": "2026-04-14 08:10",
-    "scraped_at": "2026-04-14T07:50:03.339936"
-  },
-  {
-    "id": "5005fb6a38f0700d04a4f88f4dde7df4",
-    "categorie": "Beursnieuws",
-    "titel": "AEX voorzichtig van start met vizier gericht op Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/860263/AEX-voorzichtig-van-start-met-vizier-gericht-op-Midden-Oosten.aspx",
-    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een min of meer neutrale opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,2 procent.",
-    "published_at": "2026-04-14 08:06",
-    "scraped_at": "2026-04-14T07:50:03.339936"
+    "scraped_at": "2026-04-14T09:07:18.995392"
   }
 ]
