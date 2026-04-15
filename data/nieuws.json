@@ -1,12 +1,30 @@
 [
   {
+    "id": "b6d20a4de51ac30a2d8591232552ce95",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street signaleren vlakke opening",
+    "link": "https://www.beurs.nl/Nieuws/860498/Futures-Wall-Street-signaleren-vlakke-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een nagenoeg vlakke opening tegemoet, waarbij de toonaangevende SP 500 niet ver van zijn recordstand is verwijderd.",
+    "published_at": "2026-04-15 12:55",
+    "scraped_at": "2026-04-15T11:00:45.745767"
+  },
+  {
+    "id": "fe334abf9aceda1e1b4ab5e8a49c3188",
+    "categorie": "Beursnieuws",
+    "titel": "Luxemerken onder druk op Europese beurs",
+    "link": "https://www.beurs.nl/Nieuws/860492/Luxemerken-onder-druk-op-Europese-beurs.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur overwegend lager, mede door forse verliezen voor luxeaandelen.",
+    "published_at": "2026-04-15 12:05",
+    "scraped_at": "2026-04-15T11:00:45.745767"
+  },
+  {
     "id": "5efc72a553b414a21dc6f6ee2c4b65b4",
     "categorie": "Beursnieuws",
     "titel": "Europese industrie produceert meer",
     "link": "https://www.beurs.nl/Nieuws/860485/Europese-industrie-produceert-meer.aspx",
     "intro": "De industriële productie in de eurozone is in februari licht gestegen. Dit bleek woensdag uit cijfers van Eurostat, het statistiekbureau van de EU.",
     "published_at": "2026-04-15 11:08",
-    "scraped_at": "2026-04-15T09:53:49.778055"
+    "scraped_at": "2026-04-15T11:00:45.745767"
   },
   {
     "id": "fb3286188f4b7cb560398192b2befdf7",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860486/ASML-en-collega-chippers-hoger-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend hoger, onder meer geholpen door de relatief bescheiden koerswinst van ASML na cijfers en een outlookverhoging.",
     "published_at": "2026-04-15 11:08",
-    "scraped_at": "2026-04-15T09:53:49.778055"
+    "scraped_at": "2026-04-15T11:00:45.745767"
   },
   {
     "id": "098f31251015e6587ad444406485a62d",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860480/Aandeel-Hermes-stevig-onder-druk.aspx",
     "intro": "Hermes heeft de omzet in het eerste kwartaal zien dalen, vooral door de oorlog in Iran. Dit bleek woensdag uit een update van het Franse luxemerk.",
     "published_at": "2026-04-15 10:31",
-    "scraped_at": "2026-04-15T09:53:49.778055"
+    "scraped_at": "2026-04-15T11:00:45.745767"
   },
   {
     "id": "669536957817ea38af713e6af587e9c2",
@@ -33,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/860360/Must-read-IMF-waarschuwt-voor-recessie-als-Iranoorlog-voortduurt.aspx",
     "intro": "De VS en Iran gaan het weer proberen en het IMF voorziet doomscenario's. Ondertussen komt de overheid met de eerste energiemaatregelen en wil de biologische landbouw maar amper groeien.",
     "published_at": "2026-04-15 10:15",
-    "scraped_at": "2026-04-15T09:53:49.778055"
+    "scraped_at": "2026-04-15T11:00:45.745767"
   },
   {
     "id": "07badc0a6ced6833b3a3d5ad8f89f273",
@@ -42,7 +60,7 @@
     "link": "https://www.ieximpact.nl/artikel/860478/Clean-energy-rendeert-veel-beter-dan-olie-aandelen.aspx",
     "intro": "De nieuwste oliecrisis heeft de koersen van oil majors flink opgedreven. Bedrijven die inzetten op clean energy zagen hun beurswaarde echter nog veel meer oplopen.",
     "published_at": "2026-04-15 10:10",
-    "scraped_at": "2026-04-15T09:53:49.778055"
+    "scraped_at": "2026-04-15T11:00:45.745767"
   },
   {
     "id": "79dbf7223294a83d52ca3f205b68dee6",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860479/Beursblik-Degroof-Petercam-haalt-Ahold-Delhaize-van-de-kooplijst.aspx",
     "intro": "Degroof Petercam heeft woensdag het advies voor Ahold Delhaize verlaagd van Kopen naar Houden, terwijl het koersdoel van 42,00 naar 43,50 euro ging. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-04-15 10:01",
-    "scraped_at": "2026-04-15T09:53:49.778055"
+    "scraped_at": "2026-04-15T11:00:45.745767"
   },
   {
     "id": "657cee08cf1a1645b7df7f6ef43127dd",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860476/Basic-Fit-mag-clubs-24-7-openhouden-in-Frankrijk-zonder-personeel.aspx",
     "intro": "Basic-Fit heeft van de Franse overheid groen licht gekregen om fitnessclubs 24/7 open te houden zonder dat er personeel aanwezig hoeft te zijn. Dit maakte de uitbater van fitnessclubs woensdagochtend bekend.",
     "published_at": "2026-04-15 09:47",
-    "scraped_at": "2026-04-15T09:53:49.778055"
+    "scraped_at": "2026-04-15T11:00:45.745767"
   },
   {
     "id": "87a420b1843d21e3e47450cd0952a0e8",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860475/Beursblik-KBC-Securities-zet-Basic-Fit-op-de-kooplijst.aspx",
     "intro": "KBC Securities heeft woensdag het advies voor Basic-Fit verhoogd van Houden naar Kopen, terwijl het koersdoel van 26,00 naar 41,00 euro ging. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-04-15 09:36",
-    "scraped_at": "2026-04-15T09:53:49.778055"
-  },
-  {
-    "id": "b0ef24cd2beb4c4ff7cb12499a14a36d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel KPN",
-    "link": "https://www.beurs.nl/Nieuws/860473/Beursblik-Deutsche-Bank-verhoogt-koersdoel-KPN.aspx",
-    "intro": "Deutsche Bank heeft woensdag het koersdoel voor KPN verhoogd van 4,45 naar 5,25 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Duitse bank.",
-    "published_at": "2026-04-15 09:32",
-    "scraped_at": "2026-04-15T09:53:49.778055"
-  },
-  {
-    "id": "0c3543e2643bdd5ddb29a035a161fb9c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel ASML",
-    "link": "https://www.beurs.nl/Nieuws/860474/Beursblik-Degroof-Petercam-verhoogt-koersdoel-ASML.aspx",
-    "intro": "Degroof Petercam heeft het koersdoel ASML verhoogd van 1.275 naar 1.325 euro met een onveranderd Houden advies. Dit bleek woensdag uit een rapport van analist Michael Roeg naar aanleiding van de kwartaalcijfers van de techreus uit Veldhoven.",
-    "published_at": "2026-04-15 09:32",
-    "scraped_at": "2026-04-15T09:53:49.778055"
+    "scraped_at": "2026-04-15T11:00:45.745767"
   }
 ]
