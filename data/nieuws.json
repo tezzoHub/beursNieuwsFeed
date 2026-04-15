@@ -1,92 +1,83 @@
 [
   {
-    "id": "316c9fbfad160eb34fc699838f4c3743",
+    "id": "060635a3ecf91334e136d9ba3e98c785",
     "categorie": "Beursnieuws",
-    "titel": "Amerikaanse banken sussen onrust over private credit",
-    "link": "https://www.beurs.nl/Nieuws/860418/Amerikaanse-banken-sussen-onrust-over-private-credit.aspx",
-    "intro": "Amerikaanse banken hebben dinsdag geprobeerd beleggers gerust te stellen door meer details te geven over hun kredietverlening aan zogenaamde private credit-fondsen in hun kwartaalupdates, en de stappen te benoemen die zij hebben genomen om de risico's te beperken.",
-    "published_at": "2026-04-14 23:00",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "Terughoudende opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/860453/Terughoudende-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een lagere opening tegemoet, ondanks dat ASML vanochtend de outlook voor 2026 verhoogde.",
+    "published_at": "2026-04-15 08:06",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   },
   {
-    "id": "6b199976764e5be31e6ad8b35621ed86",
+    "id": "3384829d26938d0035362c0e40ffa1e5",
     "categorie": "Beursnieuws",
-    "titel": "Daling olieprijs stuwt optimisme op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/860417/Daling-olieprijs-stuwt-optimisme-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag hoger gesloten, nadat de olieprijs sterk daalde, op signalen dat de VS en Iran ruimte zien voor verdere vredesbesprekingen, terwijl het cijferseizoen op gang kwam met resultaten van grote banken.",
-    "published_at": "2026-04-14 22:31",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "Aziatische beurzen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/860446/Aziatische-beurzen-in-het-groen.aspx",
+    "intro": "De Aziatische aandelenmarkten koersten woensdag in het groen.",
+    "published_at": "2026-04-15 07:36",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   },
   {
-    "id": "6d1e804f64c7ec73ed874630f3680f4a",
+    "id": "399584e13eb80eefc29c835e6105b5a9",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/860416/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. Alleen ASML won terrein.",
-    "published_at": "2026-04-14 22:07",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "Jefferies zet Aperam op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/860445/Jefferies-zet-Aperam-op-de-kooplijst.aspx",
+    "intro": "Jefferies heeft het advies voor Aperam verhoogd van Houden naar Kopen, met handhaving van het koersdoel op 47,00 euro. Dit bleek woensdagochtend uit een rapport van analisten Tommaso Castello en Cole Hathorn.",
+    "published_at": "2026-04-15 07:33",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   },
   {
-    "id": "19e66396bb457fc1d9ecb005d00c4f14",
+    "id": "ff755b14e5d22761eaf7d5ebb719f153",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt fors",
-    "link": "https://www.beurs.nl/Nieuws/860414/Olieprijs-daalt-fors.aspx",
-    "intro": "De olieprijs is dinsdag fors gedaald, terwijl het staakt-het-vuren in de Perzische Golf standhield ondanks het afbreken van de onderhandelingen in het weekend en de markt bleef hopen op een verbetering van de situatie tussen de VS en Iran.",
-    "published_at": "2026-04-14 21:42",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "Aegon verkoopt Britse tak aan Standard Life",
+    "link": "https://www.beurs.nl/Nieuws/860444/Aegon-verkoopt-Britse-tak-aan-Standard-Life.aspx",
+    "intro": "Aegon heeft een akkoord bereikt over de verkoop van Aegon UK aan Standard Life voor 2,0 miljard Britse pond. Dit maakte de Nederlandse verzekeraar woensdag voorbeurs bekend.",
+    "published_at": "2026-04-15 07:24",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   },
   {
-    "id": "dcb3579fe9796ab8959e5347b818fb39",
+    "id": "84b9ca099097460d2e3720ca934690fd",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street blijft stijgen",
-    "link": "https://www.beurs.nl/Nieuws/860407/Wall-Street-blijft-stijgen.aspx",
-    "intro": "De Amerikaanse beurzen stonden dinsdagavond hoger, terwijl de olieprijs sterk daalde, en de SP500-index naderde alweer zijn recordstand, terwijl de Nasdaq de tiende winstdag op rij doormaakte.",
-    "published_at": "2026-04-14 20:39",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "ASML verhoogt outlook voor 2026",
+    "link": "https://www.beurs.nl/Nieuws/860443/ASML-verhoogt-outlook-voor-2026.aspx",
+    "intro": "ASML heeft in het eerste kwartaal de eigen outlook gehaald en stelde de outlook voor heel 2026 naar boven bij.",
+    "published_at": "2026-04-15 07:15",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   },
   {
-    "id": "e798853c5ab04426db5e11fa67c19b5e",
+    "id": "532c947bb3aa003a9b8fa6d39e07cb6d",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten hoger",
-    "link": "https://www.beurs.nl/Nieuws/860404/Europese-beurzen-sluiten-hoger.aspx",
-    "intro": "De aandelenmarkten in Europa zijn dinsdag hoger gesloten, nadat het optimisme bij beleggers weer opleefde en de olieprijs daalde, in de hoop op een beperkte duur van de oorlog in het Midden-Oosten.",
-    "published_at": "2026-04-14 18:38",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "Europese beurzen openen terughoudend",
+    "link": "https://www.beurs.nl/Nieuws/860441/Europese-beurzen-openen-terughoudend.aspx",
+    "intro": "De Europese beurzen gaan woensdag een verdeelde, maar voorzichtige opening tegemoet. Na LVMH en Kering is het vanochtend de beurt aan de Nederlandse techgigant ASML om met cijfers te komen.",
+    "published_at": "2026-04-15 06:52",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   },
   {
-    "id": "8221ffced219b8facbd2ac1be9d07365",
+    "id": "d5149bc7d135b659f48d3e3f147ee5a4",
     "categorie": "Beursnieuws",
-    "titel": "Havas handhaaft outlook na solide kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/860402/Havas-handhaaft-outlook-na-solide-kwartaal.aspx",
-    "intro": "Reclame- en communicatieconcern Havas heeft in het eerste kwartaal van 2026 een autonome omzetgroei van 2,5 procent geboekt, dankzij sterke resultaten in de Verenigde Staten, en handhaaft de verwachtingen voor het jaar. Dit meldde het Parijse reclamebureau met een notering in Amsterdam dinsdag.",
-    "published_at": "2026-04-14 18:13",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/860437/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 22 april 2026:",
+    "published_at": "2026-04-15 06:44",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   },
   {
-    "id": "08b8f1b015eac35104e24ba1f1234716",
+    "id": "e308f2d4cd7420eccd2062309759aad6",
     "categorie": "Beursnieuws",
-    "titel": "Geopolitieke spanningen drukken omzet Kering",
-    "link": "https://www.beurs.nl/Nieuws/860400/Geopolitieke-spanningen-drukken-omzet-Kering.aspx",
-    "intro": "Kering heeft in het eerste kwartaal van 2026 op vergelijkbare basis een vlakke omzet geboekt, maar op gerapporteerde basis daalde de omzet met 6 procent tot 3,7 miljard euro. Dit bleek dinsdag nabeurs uit de kwartaalcijfers van het modebedrijf.",
-    "published_at": "2026-04-14 18:05",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/860438/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 22 april 2026:",
+    "published_at": "2026-04-15 06:44",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   },
   {
-    "id": "ee531c2feb95cf2b4712657ee59c6181",
+    "id": "0bded770f93dce7aa16c329c04755d3b",
     "categorie": "Beursnieuws",
-    "titel": "Besi uitblinker in hoger gesloten AEX",
-    "link": "https://www.beurs.nl/Nieuws/860397/Besi-uitblinker-in-hoger-gesloten-AEX.aspx",
-    "intro": "De AEX is dinsdag hoger gesloten, in de hoop dat de vredesbesprekingen tussen de VS en Iran hervat worden.",
-    "published_at": "2026-04-14 17:45",
-    "scraped_at": "2026-04-15T04:20:44.376472"
-  },
-  {
-    "id": "0ddd4a3386c0dd4e53aff21d2055191d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: TomTom weet omzetdaling op te vangen",
-    "link": "https://www.beurs.nl/Nieuws/860387/Beursblik-TomTom-weet-omzetdaling-op-te-vangen.aspx",
-    "intro": "TomTom heeft in het eerste kwartaal van dit jaar naar verwachting winst geboekt, hoewel de omzet daalde. Dit bleek uit een consensusverwachting van analisten die werd samengesteld door de navigatiespecialist zelf.",
-    "published_at": "2026-04-14 16:48",
-    "scraped_at": "2026-04-15T04:20:44.376472"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/860436/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 22 april 2026:",
+    "published_at": "2026-04-15 06:43",
+    "scraped_at": "2026-04-15T06:15:20.716318"
   }
 ]
