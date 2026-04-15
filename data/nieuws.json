@@ -1,12 +1,39 @@
 [
   {
+    "id": "ae7cd87dd84170a7bd4a02254aaf67ce",
+    "categorie": "Beursnieuws",
+    "titel": "Morgan Stanley boekt recordkwartaal",
+    "link": "https://www.beurs.nl/Nieuws/860509/Morgan-Stanley-boekt-recordkwartaal.aspx",
+    "intro": "Morgan Stanley heeft in het eerste kwartaal van 2026 recordopbrengsten geboekt en de winst flink zien stijgen. Dit bleek woensdag uit de kwartaalcijfers van de Amerikaanse zakenbank.",
+    "published_at": "2026-04-15 13:47",
+    "scraped_at": "2026-04-15T12:09:05.633293"
+  },
+  {
+    "id": "a1876bb68047a5cd6b261d9ae35fe299",
+    "categorie": "Beursnieuws",
+    "titel": "Snap snijdt flink in personeelsbestand",
+    "link": "https://www.beurs.nl/Nieuws/860505/Snap-snijdt-flink-in-personeelsbestand.aspx",
+    "intro": "Snap gaat circa 1.000 banen schrappen, goed voor ongeveer 16 procent van het vaste personeelsbestand. Dit bleek woensdag uit een memo van topman Evan Spiegel aan het personeel.",
+    "published_at": "2026-04-15 13:33",
+    "scraped_at": "2026-04-15T12:09:05.633293"
+  },
+  {
+    "id": "42343dcb1e9ad1c631c85d4fac59d76c",
+    "categorie": "Beursnieuws",
+    "titel": "Winst Bank of America schiet omhoog",
+    "link": "https://www.beurs.nl/Nieuws/860501/Winst-Bank-of-America-schiet-omhoog.aspx",
+    "intro": "Bank of America heeft in het eerste kwartaal flink meer winst geboekt. Dit bleek woensdag uit cijfers van de bank.",
+    "published_at": "2026-04-15 13:21",
+    "scraped_at": "2026-04-15T12:09:05.633293"
+  },
+  {
     "id": "b6d20a4de51ac30a2d8591232552ce95",
     "categorie": "Beursnieuws",
     "titel": "Futures Wall Street signaleren vlakke opening",
     "link": "https://www.beurs.nl/Nieuws/860498/Futures-Wall-Street-signaleren-vlakke-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een nagenoeg vlakke opening tegemoet, waarbij de toonaangevende SP 500 niet ver van zijn recordstand is verwijderd.",
     "published_at": "2026-04-15 12:55",
-    "scraped_at": "2026-04-15T11:00:45.745767"
+    "scraped_at": "2026-04-15T12:09:05.633293"
   },
   {
     "id": "fe334abf9aceda1e1b4ab5e8a49c3188",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860492/Luxemerken-onder-druk-op-Europese-beurs.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur overwegend lager, mede door forse verliezen voor luxeaandelen.",
     "published_at": "2026-04-15 12:05",
-    "scraped_at": "2026-04-15T11:00:45.745767"
+    "scraped_at": "2026-04-15T12:09:05.633293"
   },
   {
     "id": "5efc72a553b414a21dc6f6ee2c4b65b4",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860485/Europese-industrie-produceert-meer.aspx",
     "intro": "De industriële productie in de eurozone is in februari licht gestegen. Dit bleek woensdag uit cijfers van Eurostat, het statistiekbureau van de EU.",
     "published_at": "2026-04-15 11:08",
-    "scraped_at": "2026-04-15T11:00:45.745767"
+    "scraped_at": "2026-04-15T12:09:05.633293"
   },
   {
     "id": "fb3286188f4b7cb560398192b2befdf7",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860486/ASML-en-collega-chippers-hoger-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend hoger, onder meer geholpen door de relatief bescheiden koerswinst van ASML na cijfers en een outlookverhoging.",
     "published_at": "2026-04-15 11:08",
-    "scraped_at": "2026-04-15T11:00:45.745767"
+    "scraped_at": "2026-04-15T12:09:05.633293"
   },
   {
     "id": "098f31251015e6587ad444406485a62d",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860480/Aandeel-Hermes-stevig-onder-druk.aspx",
     "intro": "Hermes heeft de omzet in het eerste kwartaal zien dalen, vooral door de oorlog in Iran. Dit bleek woensdag uit een update van het Franse luxemerk.",
     "published_at": "2026-04-15 10:31",
-    "scraped_at": "2026-04-15T11:00:45.745767"
+    "scraped_at": "2026-04-15T12:09:05.633293"
   },
   {
     "id": "669536957817ea38af713e6af587e9c2",
@@ -51,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/860360/Must-read-IMF-waarschuwt-voor-recessie-als-Iranoorlog-voortduurt.aspx",
     "intro": "De VS en Iran gaan het weer proberen en het IMF voorziet doomscenario's. Ondertussen komt de overheid met de eerste energiemaatregelen en wil de biologische landbouw maar amper groeien.",
     "published_at": "2026-04-15 10:15",
-    "scraped_at": "2026-04-15T11:00:45.745767"
+    "scraped_at": "2026-04-15T12:09:05.633293"
   },
   {
     "id": "07badc0a6ced6833b3a3d5ad8f89f273",
@@ -60,33 +87,6 @@
     "link": "https://www.ieximpact.nl/artikel/860478/Clean-energy-rendeert-veel-beter-dan-olie-aandelen.aspx",
     "intro": "De nieuwste oliecrisis heeft de koersen van oil majors flink opgedreven. Bedrijven die inzetten op clean energy zagen hun beurswaarde echter nog veel meer oplopen.",
     "published_at": "2026-04-15 10:10",
-    "scraped_at": "2026-04-15T11:00:45.745767"
-  },
-  {
-    "id": "79dbf7223294a83d52ca3f205b68dee6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam haalt Ahold Delhaize van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/860479/Beursblik-Degroof-Petercam-haalt-Ahold-Delhaize-van-de-kooplijst.aspx",
-    "intro": "Degroof Petercam heeft woensdag het advies voor Ahold Delhaize verlaagd van Kopen naar Houden, terwijl het koersdoel van 42,00 naar 43,50 euro ging. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-04-15 10:01",
-    "scraped_at": "2026-04-15T11:00:45.745767"
-  },
-  {
-    "id": "657cee08cf1a1645b7df7f6ef43127dd",
-    "categorie": "Beursnieuws",
-    "titel": "Basic-Fit mag clubs 24/7 openhouden in Frankrijk zonder personeel",
-    "link": "https://www.beurs.nl/Nieuws/860476/Basic-Fit-mag-clubs-24-7-openhouden-in-Frankrijk-zonder-personeel.aspx",
-    "intro": "Basic-Fit heeft van de Franse overheid groen licht gekregen om fitnessclubs 24/7 open te houden zonder dat er personeel aanwezig hoeft te zijn. Dit maakte de uitbater van fitnessclubs woensdagochtend bekend.",
-    "published_at": "2026-04-15 09:47",
-    "scraped_at": "2026-04-15T11:00:45.745767"
-  },
-  {
-    "id": "87a420b1843d21e3e47450cd0952a0e8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: KBC Securities zet Basic-Fit op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/860475/Beursblik-KBC-Securities-zet-Basic-Fit-op-de-kooplijst.aspx",
-    "intro": "KBC Securities heeft woensdag het advies voor Basic-Fit verhoogd van Houden naar Kopen, terwijl het koersdoel van 26,00 naar 41,00 euro ging. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-04-15 09:36",
-    "scraped_at": "2026-04-15T11:00:45.745767"
+    "scraped_at": "2026-04-15T12:09:05.633293"
   }
 ]
