@@ -1,12 +1,21 @@
 [
   {
+    "id": "22597f013caa505695b1c5c56ce899c8",
+    "categorie": "Beursnieuws",
+    "titel": "Luxemerken onder druk op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/860571/Luxemerken-onder-druk-op-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen zijn woensdag overwegend lager gesloten, nadat luxefabrikanten forse verliezen incasseerden na tegenvallende resultaten van Hermès en Kering, terwijl de hoop op een einde aan het conflict in het Midden-Oosten levend bleef.",
+    "published_at": "2026-04-15 19:05",
+    "scraped_at": "2026-04-15T17:53:39.115639"
+  },
+  {
     "id": "fa0071cecd203e14b074a4f9087c4781",
     "categorie": "Beursnieuws",
     "titel": "Onward Medical haalt 40 miljoen euro op",
     "link": "https://www.beurs.nl/Nieuws/860570/Onward-Medical-haalt-40-miljoen-euro-op.aspx",
     "intro": "Onward Medical heeft woensdag de lancering aangekondigd van een kapitaalverhoging via een private plaatsing bij institutionele beleggers, met als indicatief bedrag 40 miljoen euro. EQT Life Sciences neemt voor 25 miljoen euro deel aan de plaatsing.",
     "published_at": "2026-04-15 18:36",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   },
   {
     "id": "e4ff405ad59a38373cf070ecbbba5e33",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/860563/Addertje-bij-ASML-trekt-AEX-omlaag.aspx",
     "intro": "De AEX is woensdag na een positief begin lager gesloten, nadat de kwartaalcijfers van ASML toch negatief werden ontvangen.",
     "published_at": "2026-04-15 17:51",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   },
   {
     "id": "3df9a4f44ebf530992685e05bea97fcc",
@@ -24,7 +33,7 @@
     "link": "https://www.iex.nl/artikel/860559/Slotcall-Basic-Fit-uitblinker-op-dag-die-van-ASML-had-moeten-worden.aspx",
     "intro": "De AEX eindigde woensdag met een verlies van 0,4%. De index begon de dag nog relatief sterk, maar zakte richting het einde van de middag weg. Uiteindelijk leverde de index de openingswinst volledig in.",
     "published_at": "2026-04-15 17:35",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   },
   {
     "id": "6bcd6923fd10d8a4582283adf9194da9",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860556/Amerikaanse-olievoorraden-dalen-onverwacht.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week gedaald terwijl de markt rekende op een stijging. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-04-15 16:40",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   },
   {
     "id": "5005a66d72e3a5c3bc1f4290a6684ef4",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860553/Video-klein-addertje-onder-het-gras-bij-ASML.aspx",
     "intro": "ASML heeft het cijferseizoen goed afgetrapt. Dit zei investment manager Simon Wiersma van ING Investment Office voor de camera van ABM Financial News.",
     "published_at": "2026-04-15 16:18",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   },
   {
     "id": "f7dd43ea8ed9875529424bafad6cd5c6",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860552/Vertrouwen-Amerikaanse-huizenbouwers-daalt.aspx",
     "intro": "Het vertrouwen onder Amerikaanse huizenbouwers is in april gedaald. Dit bleek woensdag uit data van de National Association of Home Builders.",
     "published_at": "2026-04-15 16:07",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   },
   {
     "id": "7e06be20f6c086b239fc57f9b2d25d9b",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860546/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 23 april 2026:",
     "published_at": "2026-04-15 15:58",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   },
   {
     "id": "547639f44403191c3a80c9cc3227a598",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860547/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 23 april 2026:",
     "published_at": "2026-04-15 15:58",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   },
   {
     "id": "71cb855f962d25698e7b5f9f8d525457",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860548/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 23 april 2026:",
     "published_at": "2026-04-15 15:58",
-    "scraped_at": "2026-04-15T16:45:26.962748"
-  },
-  {
-    "id": "f96ec4211de2be9f4e88aee6b48bc82a",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op vlakke opening",
-    "link": "https://www.beurs.nl/Nieuws/860522/Wall-Street-koerst-af-op-vlakke-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een nagenoeg vlakke opening tegemoet, terwijl de toonaangevende SP 500 in de buurt blijft van recordstanden.",
-    "published_at": "2026-04-15 15:02",
-    "scraped_at": "2026-04-15T16:45:26.962748"
+    "scraped_at": "2026-04-15T17:53:39.115639"
   }
 ]
