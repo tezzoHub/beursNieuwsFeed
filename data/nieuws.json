@@ -1,83 +1,92 @@
 [
   {
-    "id": "060635a3ecf91334e136d9ba3e98c785",
+    "id": "79dbf7223294a83d52ca3f205b68dee6",
     "categorie": "Beursnieuws",
-    "titel": "Terughoudende opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/860453/Terughoudende-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een lagere opening tegemoet, ondanks dat ASML vanochtend de outlook voor 2026 verhoogde.",
-    "published_at": "2026-04-15 08:06",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "Beursblik: Degroof Petercam haalt Ahold Delhaize van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/860479/Beursblik-Degroof-Petercam-haalt-Ahold-Delhaize-van-de-kooplijst.aspx",
+    "intro": "Degroof Petercam heeft woensdag het advies voor Ahold Delhaize verlaagd van Kopen naar Houden, terwijl het koersdoel van 42,00 naar 43,50 euro ging. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-04-15 10:01",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   },
   {
-    "id": "3384829d26938d0035362c0e40ffa1e5",
+    "id": "657cee08cf1a1645b7df7f6ef43127dd",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/860446/Aziatische-beurzen-in-het-groen.aspx",
-    "intro": "De Aziatische aandelenmarkten koersten woensdag in het groen.",
-    "published_at": "2026-04-15 07:36",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "Basic-Fit mag clubs 24/7 openhouden in Frankrijk zonder personeel",
+    "link": "https://www.beurs.nl/Nieuws/860476/Basic-Fit-mag-clubs-24-7-openhouden-in-Frankrijk-zonder-personeel.aspx",
+    "intro": "Basic-Fit heeft van de Franse overheid groen licht gekregen om fitnessclubs 24/7 open te houden zonder dat er personeel aanwezig hoeft te zijn. Dit maakte de uitbater van fitnessclubs woensdagochtend bekend.",
+    "published_at": "2026-04-15 09:47",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   },
   {
-    "id": "399584e13eb80eefc29c835e6105b5a9",
+    "id": "87a420b1843d21e3e47450cd0952a0e8",
     "categorie": "Beursnieuws",
-    "titel": "Jefferies zet Aperam op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/860445/Jefferies-zet-Aperam-op-de-kooplijst.aspx",
-    "intro": "Jefferies heeft het advies voor Aperam verhoogd van Houden naar Kopen, met handhaving van het koersdoel op 47,00 euro. Dit bleek woensdagochtend uit een rapport van analisten Tommaso Castello en Cole Hathorn.",
-    "published_at": "2026-04-15 07:33",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "Beursblik: KBC Securities zet Basic-Fit op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/860475/Beursblik-KBC-Securities-zet-Basic-Fit-op-de-kooplijst.aspx",
+    "intro": "KBC Securities heeft woensdag het advies voor Basic-Fit verhoogd van Houden naar Kopen, terwijl het koersdoel van 26,00 naar 41,00 euro ging. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-04-15 09:36",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   },
   {
-    "id": "ff755b14e5d22761eaf7d5ebb719f153",
+    "id": "b0ef24cd2beb4c4ff7cb12499a14a36d",
     "categorie": "Beursnieuws",
-    "titel": "Aegon verkoopt Britse tak aan Standard Life",
-    "link": "https://www.beurs.nl/Nieuws/860444/Aegon-verkoopt-Britse-tak-aan-Standard-Life.aspx",
-    "intro": "Aegon heeft een akkoord bereikt over de verkoop van Aegon UK aan Standard Life voor 2,0 miljard Britse pond. Dit maakte de Nederlandse verzekeraar woensdag voorbeurs bekend.",
-    "published_at": "2026-04-15 07:24",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel KPN",
+    "link": "https://www.beurs.nl/Nieuws/860473/Beursblik-Deutsche-Bank-verhoogt-koersdoel-KPN.aspx",
+    "intro": "Deutsche Bank heeft woensdag het koersdoel voor KPN verhoogd van 4,45 naar 5,25 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Duitse bank.",
+    "published_at": "2026-04-15 09:32",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   },
   {
-    "id": "84b9ca099097460d2e3720ca934690fd",
+    "id": "0c3543e2643bdd5ddb29a035a161fb9c",
     "categorie": "Beursnieuws",
-    "titel": "ASML verhoogt outlook voor 2026",
-    "link": "https://www.beurs.nl/Nieuws/860443/ASML-verhoogt-outlook-voor-2026.aspx",
-    "intro": "ASML heeft in het eerste kwartaal de eigen outlook gehaald en stelde de outlook voor heel 2026 naar boven bij.",
-    "published_at": "2026-04-15 07:15",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel ASML",
+    "link": "https://www.beurs.nl/Nieuws/860474/Beursblik-Degroof-Petercam-verhoogt-koersdoel-ASML.aspx",
+    "intro": "Degroof Petercam heeft het koersdoel ASML verhoogd van 1.275 naar 1.325 euro met een onveranderd Houden advies. Dit bleek woensdag uit een rapport van analist Michael Roeg naar aanleiding van de kwartaalcijfers van de techreus uit Veldhoven.",
+    "published_at": "2026-04-15 09:32",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   },
   {
-    "id": "532c947bb3aa003a9b8fa6d39e07cb6d",
+    "id": "d5b9680b710089b461f7eaf6e479181b",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen terughoudend",
-    "link": "https://www.beurs.nl/Nieuws/860441/Europese-beurzen-openen-terughoudend.aspx",
-    "intro": "De Europese beurzen gaan woensdag een verdeelde, maar voorzichtige opening tegemoet. Na LVMH en Kering is het vanochtend de beurt aan de Nederlandse techgigant ASML om met cijfers te komen.",
-    "published_at": "2026-04-15 06:52",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "Deutsche Bank verhoogt koersdoel Besi",
+    "link": "https://www.beurs.nl/Nieuws/860466/Deutsche-Bank-verhoogt-koersdoel-Besi.aspx",
+    "intro": "Deutsche Bank heeft woensdag het koersdoel voor BE Semiconductor Industries verhoogd van 215 naar 240 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van de Duitse bank.",
+    "published_at": "2026-04-15 09:15",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   },
   {
-    "id": "d5149bc7d135b659f48d3e3f147ee5a4",
+    "id": "2a2f63fd81672b5bbb05636fcaa13471",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/860437/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 22 april 2026:",
-    "published_at": "2026-04-15 06:44",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "ASML licht hoger in dito AEX",
+    "link": "https://www.beurs.nl/Nieuws/860465/ASML-licht-hoger-in-dito-AEX.aspx",
+    "intro": "De Amsterdamse beurs is woensdag min of meer vlak geopend. Kort na opening van de beurs, koerste de AEX 0,1 procent hoger op 1.020,99 punten.",
+    "published_at": "2026-04-15 09:13",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   },
   {
-    "id": "e308f2d4cd7420eccd2062309759aad6",
+    "id": "c5e3221f8ff139577f96ee87ba7f0993",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/860438/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 22 april 2026:",
-    "published_at": "2026-04-15 06:44",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "Beursblik: sterke vraag naar machines ASML",
+    "link": "https://www.beurs.nl/Nieuws/860463/Beursblik-sterke-vraag-naar-machines-ASML.aspx",
+    "intro": "De vraag naar machines van ASML blijft sterk. Dit concludeerden analisten van Citi Research woensdagochtend, nadat ASML voorbeurs met kwartaalcijfers kwam.",
+    "published_at": "2026-04-15 08:57",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   },
   {
-    "id": "0bded770f93dce7aa16c329c04755d3b",
+    "id": "5429c2e2337816b5919585ded8af5096",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/860436/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 22 april 2026:",
-    "published_at": "2026-04-15 06:43",
-    "scraped_at": "2026-04-15T06:15:20.716318"
+    "titel": "Franse inflatie neemt flink toe door stijgende energieprijzen",
+    "link": "https://www.beurs.nl/Nieuws/860462/Franse-inflatie-neemt-flink-toe-door-stijgende-energieprijzen.aspx",
+    "intro": "De inflatie in Frankrijk is in maart, conform verwachting, flink toegenomen, door een forse stijging van de energieprijzen, die oplopen sinds het begin van de oorlog in het Midden-Oosten. Dit bleek woensdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-04-15 08:56",
+    "scraped_at": "2026-04-15T08:10:12.339051"
+  },
+  {
+    "id": "ca0f9976235b33eee201a0c511305e6b",
+    "categorie": "Beursnieuws",
+    "titel": "Goldman Sachs verhoogt koersdoel Euronext",
+    "link": "https://www.beurs.nl/Nieuws/860461/GoldmanSachsverhoogt-koersdoel-Euronext.aspx",
+    "intro": "Goldman Sachs heeft het koersdoel voor Euronext verhoogd van 129 naar 143 euro met een onveranderd Neutraal advies. Dit bleek in een vooruitblik van de zakenbank op het eerste kwartaal van de beursuitbater op 19 mei.",
+    "published_at": "2026-04-15 08:44",
+    "scraped_at": "2026-04-15T08:10:12.339051"
   }
 ]
