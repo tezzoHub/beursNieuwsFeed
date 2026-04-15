@@ -1,12 +1,75 @@
 [
   {
+    "id": "7e06be20f6c086b239fc57f9b2d25d9b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/860546/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 23 april 2026:",
+    "published_at": "2026-04-15 15:58",
+    "scraped_at": "2026-04-15T14:08:15.181400"
+  },
+  {
+    "id": "547639f44403191c3a80c9cc3227a598",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/860547/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 23 april 2026:",
+    "published_at": "2026-04-15 15:58",
+    "scraped_at": "2026-04-15T14:08:15.181400"
+  },
+  {
+    "id": "71cb855f962d25698e7b5f9f8d525457",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/860548/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 23 april 2026:",
+    "published_at": "2026-04-15 15:58",
+    "scraped_at": "2026-04-15T14:08:15.181400"
+  },
+  {
+    "id": "f96ec4211de2be9f4e88aee6b48bc82a",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op vlakke opening",
+    "link": "https://www.beurs.nl/Nieuws/860522/Wall-Street-koerst-af-op-vlakke-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een nagenoeg vlakke opening tegemoet, terwijl de toonaangevende SP 500 in de buurt blijft van recordstanden.",
+    "published_at": "2026-04-15 15:02",
+    "scraped_at": "2026-04-15T14:08:15.181400"
+  },
+  {
+    "id": "2e7d929fa41133370f56bdceb3939282",
+    "categorie": "Beursnieuws",
+    "titel": "Empire State index laat weer groei zien",
+    "link": "https://www.beurs.nl/Nieuws/860518/Empire-State-index-laat-weer-groei-zien.aspx",
+    "intro": "De bedrijvigheid in de industrie in de regio New York is in april weer gegroeid, nadat deze in maart nog was gekrompen. Dit bleek woensdag uit de zogeheten Empire State index van de New York Fed.",
+    "published_at": "2026-04-15 14:55",
+    "scraped_at": "2026-04-15T14:08:15.181400"
+  },
+  {
+    "id": "d9fc2fcf42ab6f21fdeec1f4a09109de",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verhoogt koersdoelen Azelis en IMCD",
+    "link": "https://www.beurs.nl/Nieuws/860519/Beursblik-Jefferies-verhoogt-koersdoelen-Azelis-en-IMCD.aspx",
+    "intro": "Jefferies heeft woensdag de koersdoelen voor Azelis en IMCD verhoogd en beide aandelen op de kooplijst gehouden. Dit bleek uit een rapport van analist David Kerstens.",
+    "published_at": "2026-04-15 14:47",
+    "scraped_at": "2026-04-15T14:08:15.181400"
+  },
+  {
+    "id": "e0feeea9fe6b760bf1a02fdb1f193534",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse importprijzen gestegen",
+    "link": "https://www.beurs.nl/Nieuws/860517/Amerikaanse-importprijzen-gestegen.aspx",
+    "intro": "De Amerikaanse importprijzen zijn in maart gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-04-15 14:38",
+    "scraped_at": "2026-04-15T14:08:15.181400"
+  },
+  {
     "id": "ae7cd87dd84170a7bd4a02254aaf67ce",
     "categorie": "Beursnieuws",
     "titel": "Morgan Stanley boekt recordkwartaal",
     "link": "https://www.beurs.nl/Nieuws/860509/Morgan-Stanley-boekt-recordkwartaal.aspx",
     "intro": "Morgan Stanley heeft in het eerste kwartaal van 2026 recordopbrengsten geboekt en de winst flink zien stijgen. Dit bleek woensdag uit de kwartaalcijfers van de Amerikaanse zakenbank.",
     "published_at": "2026-04-15 13:47",
-    "scraped_at": "2026-04-15T12:09:05.633293"
+    "scraped_at": "2026-04-15T14:08:15.181400"
   },
   {
     "id": "a1876bb68047a5cd6b261d9ae35fe299",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860505/Snap-snijdt-flink-in-personeelsbestand.aspx",
     "intro": "Snap gaat circa 1.000 banen schrappen, goed voor ongeveer 16 procent van het vaste personeelsbestand. Dit bleek woensdag uit een memo van topman Evan Spiegel aan het personeel.",
     "published_at": "2026-04-15 13:33",
-    "scraped_at": "2026-04-15T12:09:05.633293"
+    "scraped_at": "2026-04-15T14:08:15.181400"
   },
   {
     "id": "42343dcb1e9ad1c631c85d4fac59d76c",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860501/Winst-Bank-of-America-schiet-omhoog.aspx",
     "intro": "Bank of America heeft in het eerste kwartaal flink meer winst geboekt. Dit bleek woensdag uit cijfers van de bank.",
     "published_at": "2026-04-15 13:21",
-    "scraped_at": "2026-04-15T12:09:05.633293"
-  },
-  {
-    "id": "b6d20a4de51ac30a2d8591232552ce95",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren vlakke opening",
-    "link": "https://www.beurs.nl/Nieuws/860498/Futures-Wall-Street-signaleren-vlakke-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een nagenoeg vlakke opening tegemoet, waarbij de toonaangevende SP 500 niet ver van zijn recordstand is verwijderd.",
-    "published_at": "2026-04-15 12:55",
-    "scraped_at": "2026-04-15T12:09:05.633293"
-  },
-  {
-    "id": "fe334abf9aceda1e1b4ab5e8a49c3188",
-    "categorie": "Beursnieuws",
-    "titel": "Luxemerken onder druk op Europese beurs",
-    "link": "https://www.beurs.nl/Nieuws/860492/Luxemerken-onder-druk-op-Europese-beurs.aspx",
-    "intro": "De Europese beurzen noteerden woensdag rond het middaguur overwegend lager, mede door forse verliezen voor luxeaandelen.",
-    "published_at": "2026-04-15 12:05",
-    "scraped_at": "2026-04-15T12:09:05.633293"
-  },
-  {
-    "id": "5efc72a553b414a21dc6f6ee2c4b65b4",
-    "categorie": "Beursnieuws",
-    "titel": "Europese industrie produceert meer",
-    "link": "https://www.beurs.nl/Nieuws/860485/Europese-industrie-produceert-meer.aspx",
-    "intro": "De industriële productie in de eurozone is in februari licht gestegen. Dit bleek woensdag uit cijfers van Eurostat, het statistiekbureau van de EU.",
-    "published_at": "2026-04-15 11:08",
-    "scraped_at": "2026-04-15T12:09:05.633293"
-  },
-  {
-    "id": "fb3286188f4b7cb560398192b2befdf7",
-    "categorie": "Beursnieuws",
-    "titel": "ASML en collega-chippers hoger in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/860486/ASML-en-collega-chippers-hoger-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend hoger, onder meer geholpen door de relatief bescheiden koerswinst van ASML na cijfers en een outlookverhoging.",
-    "published_at": "2026-04-15 11:08",
-    "scraped_at": "2026-04-15T12:09:05.633293"
-  },
-  {
-    "id": "098f31251015e6587ad444406485a62d",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel Hermes stevig onder druk",
-    "link": "https://www.beurs.nl/Nieuws/860480/Aandeel-Hermes-stevig-onder-druk.aspx",
-    "intro": "Hermes heeft de omzet in het eerste kwartaal zien dalen, vooral door de oorlog in Iran. Dit bleek woensdag uit een update van het Franse luxemerk.",
-    "published_at": "2026-04-15 10:31",
-    "scraped_at": "2026-04-15T12:09:05.633293"
-  },
-  {
-    "id": "669536957817ea38af713e6af587e9c2",
-    "categorie": "IEX",
-    "titel": "Must read: IMF waarschuwt voor recessie als Iranoorlog voortduurt",
-    "link": "https://www.iex.nl/artikel/860360/Must-read-IMF-waarschuwt-voor-recessie-als-Iranoorlog-voortduurt.aspx",
-    "intro": "De VS en Iran gaan het weer proberen en het IMF voorziet doomscenario's. Ondertussen komt de overheid met de eerste energiemaatregelen en wil de biologische landbouw maar amper groeien.",
-    "published_at": "2026-04-15 10:15",
-    "scraped_at": "2026-04-15T12:09:05.633293"
-  },
-  {
-    "id": "07badc0a6ced6833b3a3d5ad8f89f273",
-    "categorie": "Inspiratie & tips",
-    "titel": "Clean energy rendeert veel beter dan olie-aandelen",
-    "link": "https://www.ieximpact.nl/artikel/860478/Clean-energy-rendeert-veel-beter-dan-olie-aandelen.aspx",
-    "intro": "De nieuwste oliecrisis heeft de koersen van oil majors flink opgedreven. Bedrijven die inzetten op clean energy zagen hun beurswaarde echter nog veel meer oplopen.",
-    "published_at": "2026-04-15 10:10",
-    "scraped_at": "2026-04-15T12:09:05.633293"
+    "scraped_at": "2026-04-15T14:08:15.181400"
   }
 ]
