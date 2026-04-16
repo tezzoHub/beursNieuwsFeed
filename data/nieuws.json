@@ -1,12 +1,30 @@
 [
   {
+    "id": "3dac8022da2f315c4e61835fd332ee0d",
+    "categorie": "Beursnieuws",
+    "titel": "Video: software-aandelen bieden kansen",
+    "link": "https://www.beurs.nl/Nieuws/860696/Video-software-aandelen-bieden-kansen.aspx",
+    "intro": "Hoewel aandelen in IT-hardware het erg goed hebben gedaan dit jaar, bleven software-aandelen achter, en dat biedt kansen. Dit zei investment manager Simon Wiersma van ING Investment Office voor de camera van ABM Financial News.",
+    "published_at": "2026-04-16 13:21",
+    "scraped_at": "2026-04-16T12:12:17.359841"
+  },
+  {
+    "id": "8050fed93877bead218d4aebf8cfb63e",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op hogere opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/860694/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index en de Nasdaq noteerden rond lunchtijd fractioneel hoger.",
+    "published_at": "2026-04-16 13:06",
+    "scraped_at": "2026-04-16T12:12:17.359841"
+  },
+  {
     "id": "434b95d2b4da3bb07327ac9b37750d26",
     "categorie": "Beursnieuws",
     "titel": "PepsiCo overtreft verwachtingen",
     "link": "https://www.beurs.nl/Nieuws/860687/PepsiCo-overtreft-verwachtingen.aspx",
     "intro": "PepsiCo heeft in het eerste kwartaal een hogere omzet en winst geboekt dan verwacht. Dit bleek donderdag uit cijfers van de Amerikaanse gigant in frisdranken en snacks.",
     "published_at": "2026-04-16 12:33",
-    "scraped_at": "2026-04-16T11:05:53.153579"
+    "scraped_at": "2026-04-16T12:12:17.359841"
   },
   {
     "id": "3efe5133261e978f3848ea0af6e3b69a",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860686/Europese-beurzen-voorzichtig-in-het-groen.aspx",
     "intro": "De Europese beurzen noteerden donderdag rond het middaguur licht hoger, opverend na het lagere slot van woensdag, terwijl beleggers optimistisch blijven over een einde aan de oorlog in het Midden-Oosten.",
     "published_at": "2026-04-16 12:24",
-    "scraped_at": "2026-04-16T11:05:53.153579"
+    "scraped_at": "2026-04-16T12:12:17.359841"
   },
   {
     "id": "b99651543d583a18067298ee09ceb92c",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860675/Bank-of-America-verlaagt-koersdoel-Wolters-Kluwer.aspx",
     "intro": "Bank of America heeft het koersdoel voor Wolters Kluwer verlaagd van 104,00 naar 99,00 euro, met behoud van het koopadvies. Dat bleek donderdag uit een sectorrapport.",
     "published_at": "2026-04-16 11:46",
-    "scraped_at": "2026-04-16T11:05:53.153579"
+    "scraped_at": "2026-04-16T12:12:17.359841"
   },
   {
     "id": "3a45068e452e6f95bc6007187413f788",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860664/AkzoNobel-aan-kop-in-lichtgroene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagochtend iets hoger. Kort na de klok van elf uur won de AEX 0,3 procent op 1.018,91 punten.",
     "published_at": "2026-04-16 11:20",
-    "scraped_at": "2026-04-16T11:05:53.153579"
+    "scraped_at": "2026-04-16T12:12:17.359841"
   },
   {
     "id": "aefdba88d9c54e1fb586c97c319825dd",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860662/Inflatie-eurozone-flink-gestegen.aspx",
     "intro": "De inflatie in de eurozone is in maart duidelijk toegenomen, door een sterke stijging van de energieprijzen. Dit bleek donderdag uit definitieve cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-04-16 11:10",
-    "scraped_at": "2026-04-16T11:05:53.153579"
+    "scraped_at": "2026-04-16T12:12:17.359841"
   },
   {
     "id": "1e99d4d58602cb7d34b22443225eb988",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860660/Beursblik-UBS-verhoogt-koersdoel-ABN-AMRO.aspx",
     "intro": "UBS heeft donderdag het koersdoel voor ABN AMRO verhoogd van 37,30 naar 38,50 euro en handhaafde het koopadvies. Dit bleek uit een rapport van analist Johan Ekblom.",
     "published_at": "2026-04-16 10:21",
-    "scraped_at": "2026-04-16T11:05:53.153579"
+    "scraped_at": "2026-04-16T12:12:17.359841"
   },
   {
     "id": "168822db5c1dd4015f5f92c35447d5df",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860659/Beursblik-sterke-jaarstart-voor-Fastned.aspx",
     "intro": "Fastned heeft een sterke start van 2026 achter de rug. Dit stelden analisten van KBC Securities donderdag in een rapport.",
     "published_at": "2026-04-16 10:17",
-    "scraped_at": "2026-04-16T11:05:53.153579"
+    "scraped_at": "2026-04-16T12:12:17.359841"
   },
   {
     "id": "dc2bdadebd7777e55410179a617db7b0",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860658/Beursblik-koopadvies-van-Berenberg-voor-Colt-CZ.aspx",
     "intro": "Berenberg heeft een koopadvies gegeven voor Colt CZ met een koersdoel van 48,00 euro. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-04-16 10:05",
-    "scraped_at": "2026-04-16T11:05:53.153579"
-  },
-  {
-    "id": "19957e68ee31d836db018446fb53160a",
-    "categorie": "IEX",
-    "titel": "Must read: Het gaat om de winstgroei, stupid!",
-    "link": "https://www.iex.nl/artikel/860481/Must-read-Het-gaat-om-de-winstgroei-stupid.aspx",
-    "intro": "Plus: Iranoorlog kan leiden tot wereldwijde recessie, het grote verborgen risico, de Schijf van Vijf voor beleggers, APG doet het verkeerd, en meer.",
-    "published_at": "2026-04-16 10:00",
-    "scraped_at": "2026-04-16T11:05:53.153579"
-  },
-  {
-    "id": "0655a3273895d14d3b5bd9a27a2b0c2f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: magere winstontwikkeling NSI",
-    "link": "https://www.beurs.nl/Nieuws/860655/Beursblik-magere-winstontwikkeling-NSI.aspx",
-    "intro": "NSI is het jaar begonnen met een magere winst. Dit stelde analist Vincent Koppmair van Degroof Petercam donderdag in een rapport.",
-    "published_at": "2026-04-16 09:50",
-    "scraped_at": "2026-04-16T11:05:53.153579"
+    "scraped_at": "2026-04-16T12:12:17.359841"
   }
 ]
