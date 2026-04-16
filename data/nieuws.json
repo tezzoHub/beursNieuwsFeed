@@ -1,12 +1,39 @@
 [
   {
+    "id": "79b536e6db25cc1ab9088848a8ad5aa6",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen leveren winst in",
+    "link": "https://www.beurs.nl/Nieuws/860746/Europese-beurzen-leveren-winst-in.aspx",
+    "intro": "De aandelenmarkten in Europa zijn donderdag verdeeld geëindigd. De winsten werden deels ingeleverd na een terughoudende opening op Wall Street, terwijl de olieprijzen weer stegen.",
+    "published_at": "2026-04-16 18:48",
+    "scraped_at": "2026-04-16T17:25:11.174528"
+  },
+  {
+    "id": "e108b07e9863843eb5d3a03d790c3e9b",
+    "categorie": "Beursnieuws",
+    "titel": "Basic-Fit wil 300 miljoen ophalen met obligaties",
+    "link": "https://www.beurs.nl/Nieuws/860743/Basic-Fit-wil-300-miljoen-ophalen-met-obligaties.aspx",
+    "intro": "Basic-Fit wil 300 miljoen euro ophalen met de uitgifte van converteerbare obligaties. Dit maakte de fitnessketen donderdagavond bekend.",
+    "published_at": "2026-04-16 18:04",
+    "scraped_at": "2026-04-16T17:25:11.174528"
+  },
+  {
+    "id": "cdfb06e40a0d8d12aa3a05cf8f05bb0d",
+    "categorie": "Beursnieuws",
+    "titel": "Wolters en Akzo houden AEX overeind",
+    "link": "https://www.beurs.nl/Nieuws/860740/Wolters-en-Akzo-houden-AEX-overeind.aspx",
+    "intro": "De Amsterdamse beurs is donderdag licht hoger gesloten, hoewel de beurs in de namiddag wegzakte en de olieprijs weer opliep nadat de Amerikanen dreigden met een langdurige blokkade van de Straat van Hormuz.",
+    "published_at": "2026-04-16 17:53",
+    "scraped_at": "2026-04-16T17:25:11.174528"
+  },
+  {
     "id": "2fc72f5ffe8b08eef400fa0ecf7b90af",
     "categorie": "Beursnieuws",
     "titel": "KLM schrapt vluchten door hoge brandstofkosten",
     "link": "https://www.beurs.nl/Nieuws/860735/KLM-schrapt-vluchten-door-hoge-brandstofkosten.aspx",
     "intro": "KLM gaat in de komende maand een beperkt aantal vluchten binnen Europa schrappen als gevolg van de stijgende brandstofkosten. Dit meldde de Nederlandse tak van Air France-KLM donderdagmiddag.",
     "published_at": "2026-04-16 17:16",
-    "scraped_at": "2026-04-16T16:00:04.314368"
+    "scraped_at": "2026-04-16T17:25:11.174528"
   },
   {
     "id": "15b6e0bea8e2617e2690d9203dfe26b4",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860732/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 24 april 2026:",
     "published_at": "2026-04-16 16:32",
-    "scraped_at": "2026-04-16T16:00:04.314368"
+    "scraped_at": "2026-04-16T17:25:11.174528"
   },
   {
     "id": "c5c509cea44872f5aed1ea25bb89edc2",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860733/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 24 april 2026:",
     "published_at": "2026-04-16 16:32",
-    "scraped_at": "2026-04-16T16:00:04.314368"
+    "scraped_at": "2026-04-16T17:25:11.174528"
   },
   {
     "id": "dcffba2d95793bbbf04f47550a9f2744",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860731/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 24 april 2026:",
     "published_at": "2026-04-16 16:31",
-    "scraped_at": "2026-04-16T16:00:04.314368"
+    "scraped_at": "2026-04-16T17:25:11.174528"
   },
   {
     "id": "c1eb982f5c1c5cdaff1b9832c778dd1f",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860729/DIeteren-werkt-aan-megabeursgang-Belron-in-Amsterdam.aspx",
     "intro": "Belron mikt op een beursgang in Amsterdam tegen een waardering van meer dan 30 miljard euro. Dit schreef de Financial Times donderdag.",
     "published_at": "2026-04-16 16:24",
-    "scraped_at": "2026-04-16T16:00:04.314368"
+    "scraped_at": "2026-04-16T17:25:11.174528"
   },
   {
     "id": "b57dbf52356834fb43076e216ba56ae3",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860726/Aandeelhouders-ForFarmers-keuren-dividendvoorstel-goed.aspx",
     "intro": "Aandeelhouders van ForFarmers hebben donderdag ingestemd met het voorgestelde dividend over 2025. Dit bleek na afloop van de jaarvergadering.",
     "published_at": "2026-04-16 15:26",
-    "scraped_at": "2026-04-16T16:00:04.314368"
+    "scraped_at": "2026-04-16T17:25:11.174528"
   },
   {
     "id": "649bf1249d602622e48b088e5da6b12f",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860725/Amerikaanse-industrie-produceert-minder.aspx",
     "intro": "De industriële productie in de Verenigde Staten is in maart gedaald. Dit bleek donderdag uit cijfers van de Federal Reserve.",
     "published_at": "2026-04-16 15:20",
-    "scraped_at": "2026-04-16T16:00:04.314368"
-  },
-  {
-    "id": "9bf035d4dc91668b71d6196840e192eb",
-    "categorie": "Beursnieuws",
-    "titel": "ECB: herinnering aan vorige schok kan inflatie aanjagen",
-    "link": "https://www.beurs.nl/Nieuws/860722/ECB-herinnering-aan-vorige-schok-kan-inflatie-aanjagen.aspx",
-    "intro": "Omdat veel mensen zich de gevolgen van de vorige inflatieschok door de oorlog in Oekraïne herinneren, zullen werknemers nu mogelijk sneller loonsverhogingen verlangen om de inflatie door de hogere energiekosten op te vangen. Dat betekent dat de inflatieverwachtingen voor de middellange termijn kwetsbaarder zijn dan in 2022.",
-    "published_at": "2026-04-16 15:05",
-    "scraped_at": "2026-04-16T16:00:04.314368"
-  },
-  {
-    "id": "6043ad9ab55df90d84f677048d6d01f0",
-    "categorie": "Beursnieuws",
-    "titel": "Licht hogere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/860719/Licht-hogere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,2 procent hoger.",
-    "published_at": "2026-04-16 14:53",
-    "scraped_at": "2026-04-16T16:00:04.314368"
-  },
-  {
-    "id": "f73d00729ba942974521c2ec7f87f39c",
-    "categorie": "Beursnieuws",
-    "titel": "Stijging voor de Philly Fed index",
-    "link": "https://www.beurs.nl/Nieuws/860711/Stijging-voor-de-Philly-Fed-index.aspx",
-    "intro": "De index die de bedrijvigheid in de industrie in de regio rond Philadelphia bijhoudt, is in april onverwacht gestegen. Dit meldde de Philadelphia Federal Reserve donderdag.",
-    "published_at": "2026-04-16 14:38",
-    "scraped_at": "2026-04-16T16:00:04.314368"
+    "scraped_at": "2026-04-16T17:25:11.174528"
   }
 ]
