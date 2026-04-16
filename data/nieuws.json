@@ -1,12 +1,57 @@
 [
   {
+    "id": "534d05f8d97e6691e6b0192ca5b27e9f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verlaagt koersdoel Wolters Kluwer",
+    "link": "https://www.beurs.nl/Nieuws/860675/Beursblik-Bank-of-America-verlaagt-koersdoel-Wolters-Kluwer.aspx",
+    "intro": "Bank of America heeft het koersdoel voor Wolters Kluwer verlaagd van 104,00 naar 99,00 euro, met behoud van het koopadvies. Dat bleek donderdag uit een sectorrapport.",
+    "published_at": "2026-04-16 11:46",
+    "scraped_at": "2026-04-16T09:52:39.798646"
+  },
+  {
+    "id": "3a45068e452e6f95bc6007187413f788",
+    "categorie": "Beursnieuws",
+    "titel": "AkzoNobel aan kop in lichtgroene AEX",
+    "link": "https://www.beurs.nl/Nieuws/860664/AkzoNobel-aan-kop-in-lichtgroene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend iets hoger. Kort na de klok van elf uur won de AEX 0,3 procent op 1.018,91 punten.",
+    "published_at": "2026-04-16 11:20",
+    "scraped_at": "2026-04-16T09:52:39.798646"
+  },
+  {
+    "id": "aefdba88d9c54e1fb586c97c319825dd",
+    "categorie": "Beursnieuws",
+    "titel": "Inflatie eurozone flink gestegen",
+    "link": "https://www.beurs.nl/Nieuws/860662/Inflatie-eurozone-flink-gestegen.aspx",
+    "intro": "De inflatie in de eurozone is in maart duidelijk toegenomen, door een sterke stijging van de energieprijzen. Dit bleek donderdag uit definitieve cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-04-16 11:10",
+    "scraped_at": "2026-04-16T09:52:39.798646"
+  },
+  {
+    "id": "1e99d4d58602cb7d34b22443225eb988",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: UBS verhoogt koersdoel ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/860660/Beursblik-UBS-verhoogt-koersdoel-ABN-AMRO.aspx",
+    "intro": "UBS heeft donderdag het koersdoel voor ABN AMRO verhoogd van 37,30 naar 38,50 euro en handhaafde het koopadvies. Dit bleek uit een rapport van analist Johan Ekblom.",
+    "published_at": "2026-04-16 10:21",
+    "scraped_at": "2026-04-16T09:52:39.798646"
+  },
+  {
+    "id": "168822db5c1dd4015f5f92c35447d5df",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke jaarstart voor Fastned",
+    "link": "https://www.beurs.nl/Nieuws/860659/Beursblik-sterke-jaarstart-voor-Fastned.aspx",
+    "intro": "Fastned heeft een sterke start van 2026 achter de rug. Dit stelden analisten van KBC Securities donderdag in een rapport.",
+    "published_at": "2026-04-16 10:17",
+    "scraped_at": "2026-04-16T09:52:39.798646"
+  },
+  {
     "id": "dc2bdadebd7777e55410179a617db7b0",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: koopadvies van Berenberg voor Colt CZ",
     "link": "https://www.beurs.nl/Nieuws/860658/Beursblik-koopadvies-van-Berenberg-voor-Colt-CZ.aspx",
     "intro": "Berenberg heeft een koopadvies gegeven voor Colt CZ met een koersdoel van 48,00 euro. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-04-16 10:05",
-    "scraped_at": "2026-04-16T08:10:09.831884"
+    "scraped_at": "2026-04-16T09:52:39.798646"
   },
   {
     "id": "19957e68ee31d836db018446fb53160a",
@@ -15,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/860481/Must-read-Het-gaat-om-de-winstgroei-stupid.aspx",
     "intro": "Plus: Iranoorlog kan leiden tot wereldwijde recessie, het grote verborgen risico, de Schijf van Vijf voor beleggers, APG doet het verkeerd, en meer.",
     "published_at": "2026-04-16 10:00",
-    "scraped_at": "2026-04-16T08:10:09.831884"
+    "scraped_at": "2026-04-16T09:52:39.798646"
   },
   {
     "id": "0655a3273895d14d3b5bd9a27a2b0c2f",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860655/Beursblik-magere-winstontwikkeling-NSI.aspx",
     "intro": "NSI is het jaar begonnen met een magere winst. Dit stelde analist Vincent Koppmair van Degroof Petercam donderdag in een rapport.",
     "published_at": "2026-04-16 09:50",
-    "scraped_at": "2026-04-16T08:10:09.831884"
+    "scraped_at": "2026-04-16T09:52:39.798646"
   },
   {
     "id": "25a1228223ca24e37e1e53a40ce4b6d0",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860656/UpdateStevige-omzetgroei-voor-TSMC.aspx",
     "intro": "TSMC heeft in het eerste kwartaal ruim 35 procent meer omzet behaald. Dit bleek donderdagochtend uit cijfers van de Taiwanese chipgigant.",
     "published_at": "2026-04-16 09:47",
-    "scraped_at": "2026-04-16T08:10:09.831884"
+    "scraped_at": "2026-04-16T09:52:39.798646"
   },
   {
     "id": "39a7991757f73b6950ea229d94e5bf26",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860651/Beursblik-kwartaalupdate-Basic-Fit-conform-verwachting.aspx",
     "intro": "Basic-Fit heeft in het eerste kwartaal conform verwachting gepresteerd. Dit stelde analist Lynn Hautekeete van KBC Securities donderdag in een rapport.",
     "published_at": "2026-04-16 09:25",
-    "scraped_at": "2026-04-16T08:10:09.831884"
-  },
-  {
-    "id": "78985e47ff8f4dd3b9663b2d28d685cb",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/860648/AEX-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 0,5 procent hoger op 1.020,86 punten, terwijl ook de Midkap een half procent won.",
-    "published_at": "2026-04-16 09:12",
-    "scraped_at": "2026-04-16T08:10:09.831884"
-  },
-  {
-    "id": "100fd96b7285cf222205cb04605857b2",
-    "categorie": "Beursnieuws",
-    "titel": "Verbeterd momentum helpt Pernod-Ricard aan stabiele omzet in derde kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/860646/Verbeterd-momentum-helpt-Pernod-Ricard-aan-stabiele-omzet-in-derde-kwartaal.aspx",
-    "intro": "Een verbeterd momentum hielp Pernod-Ricard aan een stabiele omzet in het derde kwartaal. Dit bleek donderdagochtend uit het kwartaalrapport van de Franse drankengroep.",
-    "published_at": "2026-04-16 09:00",
-    "scraped_at": "2026-04-16T08:10:09.831884"
-  },
-  {
-    "id": "162709d9ed741cb83cdb7e169a60edf4",
-    "categorie": "Beursnieuws",
-    "titel": "Onward haalt met succes bijna 41 miljoen euro op",
-    "link": "https://www.beurs.nl/Nieuws/860645/Onward-haalt-met-succes-bijna-41-miljoen-euro-op.aspx",
-    "intro": "Onward Medical heeft met succes 40,6 miljoen euro opgehaald met de uitgifte van ruim 13,5 miljoen nieuwe aandelen. Dit maakte het bedrijf donderdagochtend bekend.",
-    "published_at": "2026-04-16 08:47",
-    "scraped_at": "2026-04-16T08:10:09.831884"
-  },
-  {
-    "id": "badb470b659af3c31afa9b5ac4e78168",
-    "categorie": "Beursnieuws",
-    "titel": "Analisten verhogen koersdoelen voor ASML",
-    "link": "https://www.beurs.nl/Nieuws/860643/Analisten-verhogen-koersdoelen-voor-ASML.aspx",
-    "intro": "Verschillende analisten hebben donderdag hun koersdoel voor ASML verhoogd, nadat de halfgeleiderspecialist uit Veldhoven woensdag met kwartaalcijfers kwam en daarbij de outlook voor 2026 licht verhoogde.",
-    "published_at": "2026-04-16 08:29",
-    "scraped_at": "2026-04-16T08:10:09.831884"
-  },
-  {
-    "id": "29a90505e3daacd5420feb00247e3d47",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start na recordslot Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/860640/AEX-hoger-van-start-na-recordslot-Wall-Street.aspx",
-    "intro": "De Amsterdamse beurs maakt zich donderdag op voor een positieve opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,7 procent.",
-    "published_at": "2026-04-16 08:15",
-    "scraped_at": "2026-04-16T08:10:09.831884"
+    "scraped_at": "2026-04-16T09:52:39.798646"
   }
 ]
