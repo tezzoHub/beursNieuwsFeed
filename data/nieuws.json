@@ -1,12 +1,57 @@
 [
   {
+    "id": "2fc72f5ffe8b08eef400fa0ecf7b90af",
+    "categorie": "Beursnieuws",
+    "titel": "KLM schrapt vluchten door hoge brandstofkosten",
+    "link": "https://www.beurs.nl/Nieuws/860735/KLM-schrapt-vluchten-door-hoge-brandstofkosten.aspx",
+    "intro": "KLM gaat in de komende maand een beperkt aantal vluchten binnen Europa schrappen als gevolg van de stijgende brandstofkosten. Dit meldde de Nederlandse tak van Air France-KLM donderdagmiddag.",
+    "published_at": "2026-04-16 17:16",
+    "scraped_at": "2026-04-16T16:00:04.314368"
+  },
+  {
+    "id": "15b6e0bea8e2617e2690d9203dfe26b4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/860732/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 24 april 2026:",
+    "published_at": "2026-04-16 16:32",
+    "scraped_at": "2026-04-16T16:00:04.314368"
+  },
+  {
+    "id": "c5c509cea44872f5aed1ea25bb89edc2",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/860733/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 24 april 2026:",
+    "published_at": "2026-04-16 16:32",
+    "scraped_at": "2026-04-16T16:00:04.314368"
+  },
+  {
+    "id": "dcffba2d95793bbbf04f47550a9f2744",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/860731/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 24 april 2026:",
+    "published_at": "2026-04-16 16:31",
+    "scraped_at": "2026-04-16T16:00:04.314368"
+  },
+  {
+    "id": "c1eb982f5c1c5cdaff1b9832c778dd1f",
+    "categorie": "Beursnieuws",
+    "titel": "D'Ieteren werkt aan megabeursgang Belron in Amsterdam",
+    "link": "https://www.beurs.nl/Nieuws/860729/DIeteren-werkt-aan-megabeursgang-Belron-in-Amsterdam.aspx",
+    "intro": "Belron mikt op een beursgang in Amsterdam tegen een waardering van meer dan 30 miljard euro. Dit schreef de Financial Times donderdag.",
+    "published_at": "2026-04-16 16:24",
+    "scraped_at": "2026-04-16T16:00:04.314368"
+  },
+  {
     "id": "b57dbf52356834fb43076e216ba56ae3",
     "categorie": "Beursnieuws",
     "titel": "Aandeelhouders ForFarmers keuren dividendvoorstel goed",
     "link": "https://www.beurs.nl/Nieuws/860726/Aandeelhouders-ForFarmers-keuren-dividendvoorstel-goed.aspx",
     "intro": "Aandeelhouders van ForFarmers hebben donderdag ingestemd met het voorgestelde dividend over 2025. Dit bleek na afloop van de jaarvergadering.",
     "published_at": "2026-04-16 15:26",
-    "scraped_at": "2026-04-16T14:18:14.184205"
+    "scraped_at": "2026-04-16T16:00:04.314368"
   },
   {
     "id": "649bf1249d602622e48b088e5da6b12f",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860725/Amerikaanse-industrie-produceert-minder.aspx",
     "intro": "De industriële productie in de Verenigde Staten is in maart gedaald. Dit bleek donderdag uit cijfers van de Federal Reserve.",
     "published_at": "2026-04-16 15:20",
-    "scraped_at": "2026-04-16T14:18:14.184205"
+    "scraped_at": "2026-04-16T16:00:04.314368"
   },
   {
     "id": "9bf035d4dc91668b71d6196840e192eb",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860722/ECB-herinnering-aan-vorige-schok-kan-inflatie-aanjagen.aspx",
     "intro": "Omdat veel mensen zich de gevolgen van de vorige inflatieschok door de oorlog in Oekraïne herinneren, zullen werknemers nu mogelijk sneller loonsverhogingen verlangen om de inflatie door de hogere energiekosten op te vangen. Dat betekent dat de inflatieverwachtingen voor de middellange termijn kwetsbaarder zijn dan in 2022.",
     "published_at": "2026-04-16 15:05",
-    "scraped_at": "2026-04-16T14:18:14.184205"
+    "scraped_at": "2026-04-16T16:00:04.314368"
   },
   {
     "id": "6043ad9ab55df90d84f677048d6d01f0",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860719/Licht-hogere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,2 procent hoger.",
     "published_at": "2026-04-16 14:53",
-    "scraped_at": "2026-04-16T14:18:14.184205"
+    "scraped_at": "2026-04-16T16:00:04.314368"
   },
   {
     "id": "f73d00729ba942974521c2ec7f87f39c",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860711/Stijging-voor-de-Philly-Fed-index.aspx",
     "intro": "De index die de bedrijvigheid in de industrie in de regio rond Philadelphia bijhoudt, is in april onverwacht gestegen. Dit meldde de Philadelphia Federal Reserve donderdag.",
     "published_at": "2026-04-16 14:38",
-    "scraped_at": "2026-04-16T14:18:14.184205"
-  },
-  {
-    "id": "29e80f564a7f764726f87435bff2b7db",
-    "categorie": "Beursnieuws",
-    "titel": "Minder nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/860710/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-04-16 14:34",
-    "scraped_at": "2026-04-16T14:18:14.184205"
-  },
-  {
-    "id": "2d31b2c91c57c8e205659232c96ee78f",
-    "categorie": "Beursnieuws",
-    "titel": "Stellantis selecteert Microsoft voor AI",
-    "link": "https://www.beurs.nl/Nieuws/860707/StellantisselecteertMicrosoft-voor-AI.aspx",
-    "intro": "Stellantis heeft Microsoft gecontracteerd om zijn AI-strategie te versnellen. Dit maakt de autobouwer donderdag bekend.",
-    "published_at": "2026-04-16 14:16",
-    "scraped_at": "2026-04-16T14:18:14.184205"
-  },
-  {
-    "id": "3f5d6ebb1f29887af3868bcc772bee1a",
-    "categorie": "Beursnieuws",
-    "titel": "Reorganisatie drukt winst Manpower",
-    "link": "https://www.beurs.nl/Nieuws/860706/Reorganisatie-drukt-winst-Manpower.aspx",
-    "intro": "Manpower heeft in het eerste kwartaal minder winst geboekt door de kosten van een reorganisatieplan, terwijl de omzet groeide door een sterke vraag in Azië, Latijns-Amerika en sommige Europese landen. Dit maakte de Amerikaanse uitzender donderdag bekend.",
-    "published_at": "2026-04-16 14:12",
-    "scraped_at": "2026-04-16T14:18:14.184205"
-  },
-  {
-    "id": "3dac8022da2f315c4e61835fd332ee0d",
-    "categorie": "Beursnieuws",
-    "titel": "Video: software-aandelen bieden kansen",
-    "link": "https://www.beurs.nl/Nieuws/860696/Video-software-aandelen-bieden-kansen.aspx",
-    "intro": "Hoewel aandelen in IT-hardware het erg goed hebben gedaan dit jaar, bleven software-aandelen achter, en dat biedt kansen. Dit zei investment manager Simon Wiersma van ING Investment Office voor de camera van ABM Financial News.",
-    "published_at": "2026-04-16 13:21",
-    "scraped_at": "2026-04-16T14:18:14.184205"
-  },
-  {
-    "id": "8050fed93877bead218d4aebf8cfb63e",
-    "categorie": "Beursnieuws",
-    "titel": "Futures wijzen op hogere opening Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/860694/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index en de Nasdaq noteerden rond lunchtijd fractioneel hoger.",
-    "published_at": "2026-04-16 13:06",
-    "scraped_at": "2026-04-16T14:18:14.184205"
+    "scraped_at": "2026-04-16T16:00:04.314368"
   }
 ]
