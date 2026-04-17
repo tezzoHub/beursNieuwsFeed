@@ -1,12 +1,21 @@
 [
   {
+    "id": "402f1917bb350622dd2650c53d054c34",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen groene opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/860859/Futures-voorspellen-groene-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,2 procent hoger.",
+    "published_at": "2026-04-17 12:57",
+    "scraped_at": "2026-04-17T11:58:43.849205"
+  },
+  {
     "id": "1847af8786426c6bcc7df2f18a57fe93",
     "categorie": "Beursnieuws",
     "titel": "Aandeel Alstom hard onderuit in Parijs",
     "link": "https://www.beurs.nl/Nieuws/860854/Aandeel-Alstomhardonderuit-in-Parijs.aspx",
     "intro": "Het aandeel Alstom daalde vrijdag met bijna 30 procent na het publiceren van voorlopige cijfers.",
     "published_at": "2026-04-17 12:44",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   },
   {
     "id": "5f32ffee293306865dbb1462ee4f19f6",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/860851/Software-blijft-in-trek-op-Europese-beurzen.aspx",
     "intro": "De aandelenmarkten in Europa noteerden vrijdag per saldo hoger rond het middaguur, waarbij software-aandelen in trek waren.",
     "published_at": "2026-04-17 12:17",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   },
   {
     "id": "b1e8a1bc6ee5ec80b1d2ff402addcfb1",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860850/CEO-Wereldhave-tevreden-met-eerste-kwartaal.aspx",
     "intro": "Wereldhave heeft een \"prima\" eerste kwartaal achter de rug, \"ondanks alle schommelingen in het Midden-Oosten\". Dit zei CEO Matthijs Storm van Wereldhave vrijdag in gesprek met ABM Financial News.",
     "published_at": "2026-04-17 12:07",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   },
   {
     "id": "8613a46c3b0c9ef6b6b12ba97198ea1b",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860840/Europese-export-onder-druk.aspx",
     "intro": "De export in de eurozone is in februari gedaald. Dit bleek vrijdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-04-17 11:15",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   },
   {
     "id": "c05d012041d04261b48e8124ac14d455",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860837/Wolters-Kluwer-uitblinker-in-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs doet het vrijdag rustig aan, met een bescheiden winst van ongeveer 0,1 procent voor de AEX.",
     "published_at": "2026-04-17 11:02",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   },
   {
     "id": "e04c69be4ac9156fc5da3ad36b558617",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860834/Bouygues-Iliad-en-Orange-onderhandelen-over-overname-SFR.aspx",
     "intro": "Bouygues Telecom, Iliad en Orange zijn in exclusieve onderhandelingen met Altice France over de acquisitie van SFR. Dit werd vrijdagmorgen bekendgemaakt.",
     "published_at": "2026-04-17 10:24",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   },
   {
     "id": "ff96008a9ba9ac5d982ff64938edbc5d",
@@ -60,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/860820/Must-read-Einde-Iranoorlog-in-zicht.aspx",
     "intro": "President Donald Trump zegt dat de oorlog met Iran uitstekend verloopt en mogelijk snel ten einde loopt. Plus: 10 goedkope aandelen, olieprijs zakt door optimisme over de oorlog, AI helpt ook impactbeleggers vooruit en meer.",
     "published_at": "2026-04-17 10:15",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   },
   {
     "id": "2f61b1ae8bfd30f463e844a5bf17cc8d",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860825/Solide-kwartaal-voor-Wereldhave.aspx",
     "intro": "Wereldhave heeft een \"solide\" eerste kwartaal achter de rug. Dit stelde analist Amal Aboulkhouatem van Degroof Petercam vrijdag in een rapport, waarin het koersdoel werd verhoogd van 16,50 naar 22,00 euro.",
     "published_at": "2026-04-17 09:27",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   },
   {
     "id": "0a2ae03908e610d83ae5844800a32279",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860822/AEX-nipt-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent lager op 1.014,54 punten, terwijl de Midkap licht hoger noteerde.",
     "published_at": "2026-04-17 09:13",
-    "scraped_at": "2026-04-17T10:58:44.216561"
-  },
-  {
-    "id": "40471eb3c950a5b45e1697b2e9ee68ea",
-    "categorie": "Beursnieuws",
-    "titel": "AkzoNobel verkoopt Pakistaanse tak",
-    "link": "https://www.beurs.nl/Nieuws/860818/AkzoNobel-verkoopt-Pakistaanse-tak.aspx",
-    "intro": "AkzoNobel heeft een overeenkomst bereikt om zijn activiteiten in Pakistan te verkopen aan IGI Investments, onderdeel van de Packages Group. Dit maakte het verfconcern vrijdag voorbeurs bekend.",
-    "published_at": "2026-04-17 08:45",
-    "scraped_at": "2026-04-17T10:58:44.216561"
+    "scraped_at": "2026-04-17T11:58:43.849205"
   }
 ]
