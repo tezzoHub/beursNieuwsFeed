@@ -1,12 +1,30 @@
 [
   {
+    "id": "f54fe006c02dfe798d906f3664e7327a",
+    "categorie": "Beursnieuws",
+    "titel": "Iran opent Straat van Hormuz tijdelijk",
+    "link": "https://www.beurs.nl/Nieuws/860883/Iran-opent-Straat-van-Hormuz-tijdelijk.aspx",
+    "intro": "De Straat van Hormuz gaat tijdelijk open. Dit meldde de Iraanse minister van Buitenlandse Zaken vrijdag op X.",
+    "published_at": "2026-04-17 15:29",
+    "scraped_at": "2026-04-17T13:51:34.527440"
+  },
+  {
+    "id": "b5afd9b8c6142e3d6fb3368f238a5eba",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht groene opening maar Netflix is de gebeten hond",
+    "link": "https://www.beurs.nl/Nieuws/860876/Wall-Street-wacht-groene-opening-maar-Netflix-is-de-gebeten-hond.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel tot 0,5 procent hoger.",
+    "published_at": "2026-04-17 14:56",
+    "scraped_at": "2026-04-17T13:51:34.527440"
+  },
+  {
     "id": "402f1917bb350622dd2650c53d054c34",
     "categorie": "Beursnieuws",
     "titel": "Futures voorspellen groene opening voor Wall Street",
     "link": "https://www.beurs.nl/Nieuws/860859/Futures-voorspellen-groene-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,2 procent hoger.",
     "published_at": "2026-04-17 12:57",
-    "scraped_at": "2026-04-17T11:58:43.849205"
+    "scraped_at": "2026-04-17T13:51:34.527440"
   },
   {
     "id": "1847af8786426c6bcc7df2f18a57fe93",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860854/Aandeel-Alstomhardonderuit-in-Parijs.aspx",
     "intro": "Het aandeel Alstom daalde vrijdag met bijna 30 procent na het publiceren van voorlopige cijfers.",
     "published_at": "2026-04-17 12:44",
-    "scraped_at": "2026-04-17T11:58:43.849205"
+    "scraped_at": "2026-04-17T13:51:34.527440"
   },
   {
     "id": "5f32ffee293306865dbb1462ee4f19f6",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860851/Software-blijft-in-trek-op-Europese-beurzen.aspx",
     "intro": "De aandelenmarkten in Europa noteerden vrijdag per saldo hoger rond het middaguur, waarbij software-aandelen in trek waren.",
     "published_at": "2026-04-17 12:17",
-    "scraped_at": "2026-04-17T11:58:43.849205"
+    "scraped_at": "2026-04-17T13:51:34.527440"
   },
   {
     "id": "b1e8a1bc6ee5ec80b1d2ff402addcfb1",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860850/CEO-Wereldhave-tevreden-met-eerste-kwartaal.aspx",
     "intro": "Wereldhave heeft een \"prima\" eerste kwartaal achter de rug, \"ondanks alle schommelingen in het Midden-Oosten\". Dit zei CEO Matthijs Storm van Wereldhave vrijdag in gesprek met ABM Financial News.",
     "published_at": "2026-04-17 12:07",
-    "scraped_at": "2026-04-17T11:58:43.849205"
+    "scraped_at": "2026-04-17T13:51:34.527440"
   },
   {
     "id": "8613a46c3b0c9ef6b6b12ba97198ea1b",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860840/Europese-export-onder-druk.aspx",
     "intro": "De export in de eurozone is in februari gedaald. Dit bleek vrijdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-04-17 11:15",
-    "scraped_at": "2026-04-17T11:58:43.849205"
+    "scraped_at": "2026-04-17T13:51:34.527440"
   },
   {
     "id": "c05d012041d04261b48e8124ac14d455",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860837/Wolters-Kluwer-uitblinker-in-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs doet het vrijdag rustig aan, met een bescheiden winst van ongeveer 0,1 procent voor de AEX.",
     "published_at": "2026-04-17 11:02",
-    "scraped_at": "2026-04-17T11:58:43.849205"
+    "scraped_at": "2026-04-17T13:51:34.527440"
   },
   {
     "id": "e04c69be4ac9156fc5da3ad36b558617",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860834/Bouygues-Iliad-en-Orange-onderhandelen-over-overname-SFR.aspx",
     "intro": "Bouygues Telecom, Iliad en Orange zijn in exclusieve onderhandelingen met Altice France over de acquisitie van SFR. Dit werd vrijdagmorgen bekendgemaakt.",
     "published_at": "2026-04-17 10:24",
-    "scraped_at": "2026-04-17T11:58:43.849205"
+    "scraped_at": "2026-04-17T13:51:34.527440"
   },
   {
     "id": "ff96008a9ba9ac5d982ff64938edbc5d",
@@ -69,24 +87,6 @@
     "link": "https://www.iex.nl/artikel/860820/Must-read-Einde-Iranoorlog-in-zicht.aspx",
     "intro": "President Donald Trump zegt dat de oorlog met Iran uitstekend verloopt en mogelijk snel ten einde loopt. Plus: 10 goedkope aandelen, olieprijs zakt door optimisme over de oorlog, AI helpt ook impactbeleggers vooruit en meer.",
     "published_at": "2026-04-17 10:15",
-    "scraped_at": "2026-04-17T11:58:43.849205"
-  },
-  {
-    "id": "2f61b1ae8bfd30f463e844a5bf17cc8d",
-    "categorie": "Beursnieuws",
-    "titel": "Solide kwartaal voor Wereldhave",
-    "link": "https://www.beurs.nl/Nieuws/860825/Solide-kwartaal-voor-Wereldhave.aspx",
-    "intro": "Wereldhave heeft een \"solide\" eerste kwartaal achter de rug. Dit stelde analist Amal Aboulkhouatem van Degroof Petercam vrijdag in een rapport, waarin het koersdoel werd verhoogd van 16,50 naar 22,00 euro.",
-    "published_at": "2026-04-17 09:27",
-    "scraped_at": "2026-04-17T11:58:43.849205"
-  },
-  {
-    "id": "0a2ae03908e610d83ae5844800a32279",
-    "categorie": "Beursnieuws",
-    "titel": "AEX nipt lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/860822/AEX-nipt-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent lager op 1.014,54 punten, terwijl de Midkap licht hoger noteerde.",
-    "published_at": "2026-04-17 09:13",
-    "scraped_at": "2026-04-17T11:58:43.849205"
+    "scraped_at": "2026-04-17T13:51:34.527440"
   }
 ]
