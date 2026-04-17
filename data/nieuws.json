@@ -1,12 +1,39 @@
 [
   {
-    "id": "f54fe006c02dfe798d906f3664e7327a",
+    "id": "afccf1aff5a77a3911f9d13874583629",
     "categorie": "Beursnieuws",
-    "titel": "Iran opent Straat van Hormuz tijdelijk",
-    "link": "https://www.beurs.nl/Nieuws/860883/Iran-opent-Straat-van-Hormuz-tijdelijk.aspx",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/860892/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 27 april 2026:",
+    "published_at": "2026-04-17 16:28",
+    "scraped_at": "2026-04-17T14:57:27.427074"
+  },
+  {
+    "id": "b9aaed333a50261f140c3ff2f8e7f3b2",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/860894/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 27 april 2026:",
+    "published_at": "2026-04-17 16:28",
+    "scraped_at": "2026-04-17T14:57:27.427074"
+  },
+  {
+    "id": "59201c897f3429648f09a387cdf32420",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/860895/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 27 april 2026:",
+    "published_at": "2026-04-17 16:28",
+    "scraped_at": "2026-04-17T14:57:27.427074"
+  },
+  {
+    "id": "990a713177286dfadfe01f3c9c263f9f",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Iran opent Straat van Hormuz tijdelijk",
+    "link": "https://www.beurs.nl/Nieuws/860883/Update-Iran-opent-Straat-van-Hormuz-tijdelijk.aspx",
     "intro": "De Straat van Hormuz gaat tijdelijk open. Dit meldde de Iraanse minister van Buitenlandse Zaken vrijdag op X.",
-    "published_at": "2026-04-17 15:29",
-    "scraped_at": "2026-04-17T13:51:34.527440"
+    "published_at": "2026-04-17 15:46",
+    "scraped_at": "2026-04-17T14:57:27.427074"
   },
   {
     "id": "b5afd9b8c6142e3d6fb3368f238a5eba",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860876/Wall-Street-wacht-groene-opening-maar-Netflix-is-de-gebeten-hond.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel tot 0,5 procent hoger.",
     "published_at": "2026-04-17 14:56",
-    "scraped_at": "2026-04-17T13:51:34.527440"
+    "scraped_at": "2026-04-17T14:57:27.427074"
   },
   {
     "id": "402f1917bb350622dd2650c53d054c34",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/860859/Futures-voorspellen-groene-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,2 procent hoger.",
     "published_at": "2026-04-17 12:57",
-    "scraped_at": "2026-04-17T13:51:34.527440"
+    "scraped_at": "2026-04-17T14:57:27.427074"
   },
   {
     "id": "1847af8786426c6bcc7df2f18a57fe93",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/860854/Aandeel-Alstomhardonderuit-in-Parijs.aspx",
     "intro": "Het aandeel Alstom daalde vrijdag met bijna 30 procent na het publiceren van voorlopige cijfers.",
     "published_at": "2026-04-17 12:44",
-    "scraped_at": "2026-04-17T13:51:34.527440"
+    "scraped_at": "2026-04-17T14:57:27.427074"
   },
   {
     "id": "5f32ffee293306865dbb1462ee4f19f6",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860851/Software-blijft-in-trek-op-Europese-beurzen.aspx",
     "intro": "De aandelenmarkten in Europa noteerden vrijdag per saldo hoger rond het middaguur, waarbij software-aandelen in trek waren.",
     "published_at": "2026-04-17 12:17",
-    "scraped_at": "2026-04-17T13:51:34.527440"
+    "scraped_at": "2026-04-17T14:57:27.427074"
   },
   {
     "id": "b1e8a1bc6ee5ec80b1d2ff402addcfb1",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860850/CEO-Wereldhave-tevreden-met-eerste-kwartaal.aspx",
     "intro": "Wereldhave heeft een \"prima\" eerste kwartaal achter de rug, \"ondanks alle schommelingen in het Midden-Oosten\". Dit zei CEO Matthijs Storm van Wereldhave vrijdag in gesprek met ABM Financial News.",
     "published_at": "2026-04-17 12:07",
-    "scraped_at": "2026-04-17T13:51:34.527440"
+    "scraped_at": "2026-04-17T14:57:27.427074"
   },
   {
     "id": "8613a46c3b0c9ef6b6b12ba97198ea1b",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860840/Europese-export-onder-druk.aspx",
     "intro": "De export in de eurozone is in februari gedaald. Dit bleek vrijdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-04-17 11:15",
-    "scraped_at": "2026-04-17T13:51:34.527440"
-  },
-  {
-    "id": "c05d012041d04261b48e8124ac14d455",
-    "categorie": "Beursnieuws",
-    "titel": "Wolters Kluwer uitblinker in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/860837/Wolters-Kluwer-uitblinker-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs doet het vrijdag rustig aan, met een bescheiden winst van ongeveer 0,1 procent voor de AEX.",
-    "published_at": "2026-04-17 11:02",
-    "scraped_at": "2026-04-17T13:51:34.527440"
-  },
-  {
-    "id": "e04c69be4ac9156fc5da3ad36b558617",
-    "categorie": "Beursnieuws",
-    "titel": "Bouygues, Iliad en Orange onderhandelen over overname SFR",
-    "link": "https://www.beurs.nl/Nieuws/860834/Bouygues-Iliad-en-Orange-onderhandelen-over-overname-SFR.aspx",
-    "intro": "Bouygues Telecom, Iliad en Orange zijn in exclusieve onderhandelingen met Altice France over de acquisitie van SFR. Dit werd vrijdagmorgen bekendgemaakt.",
-    "published_at": "2026-04-17 10:24",
-    "scraped_at": "2026-04-17T13:51:34.527440"
-  },
-  {
-    "id": "ff96008a9ba9ac5d982ff64938edbc5d",
-    "categorie": "IEX",
-    "titel": "Must read: Einde Iranoorlog in zicht?",
-    "link": "https://www.iex.nl/artikel/860820/Must-read-Einde-Iranoorlog-in-zicht.aspx",
-    "intro": "President Donald Trump zegt dat de oorlog met Iran uitstekend verloopt en mogelijk snel ten einde loopt. Plus: 10 goedkope aandelen, olieprijs zakt door optimisme over de oorlog, AI helpt ook impactbeleggers vooruit en meer.",
-    "published_at": "2026-04-17 10:15",
-    "scraped_at": "2026-04-17T13:51:34.527440"
+    "scraped_at": "2026-04-17T14:57:27.427074"
   }
 ]
