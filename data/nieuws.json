@@ -1,12 +1,48 @@
 [
   {
+    "id": "2f61b1ae8bfd30f463e844a5bf17cc8d",
+    "categorie": "Beursnieuws",
+    "titel": "Solide kwartaal voor Wereldhave",
+    "link": "https://www.beurs.nl/Nieuws/860825/Solide-kwartaal-voor-Wereldhave.aspx",
+    "intro": "Wereldhave heeft een \"solide\" eerste kwartaal achter de rug. Dit stelde analist Amal Aboulkhouatem van Degroof Petercam vrijdag in een rapport, waarin het koersdoel werd verhoogd van 16,50 naar 22,00 euro.",
+    "published_at": "2026-04-17 09:27",
+    "scraped_at": "2026-04-17T08:09:20.386245"
+  },
+  {
+    "id": "0a2ae03908e610d83ae5844800a32279",
+    "categorie": "Beursnieuws",
+    "titel": "AEX nipt lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/860822/AEX-nipt-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent lager op 1.014,54 punten, terwijl de Midkap licht hoger noteerde.",
+    "published_at": "2026-04-17 09:13",
+    "scraped_at": "2026-04-17T08:09:20.386245"
+  },
+  {
+    "id": "40471eb3c950a5b45e1697b2e9ee68ea",
+    "categorie": "Beursnieuws",
+    "titel": "AkzoNobel verkoopt Pakistaanse tak",
+    "link": "https://www.beurs.nl/Nieuws/860818/AkzoNobel-verkoopt-Pakistaanse-tak.aspx",
+    "intro": "AkzoNobel heeft een overeenkomst bereikt om zijn activiteiten in Pakistan te verkopen aan IGI Investments, onderdeel van de Packages Group. Dit maakte het verfconcern vrijdag voorbeurs bekend.",
+    "published_at": "2026-04-17 08:45",
+    "scraped_at": "2026-04-17T08:09:20.386245"
+  },
+  {
+    "id": "e318c0882541f32c3c06f147b076c1df",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus verkoopt belang in Delivery Hero aan Uber",
+    "link": "https://www.beurs.nl/Nieuws/860814/Prosus-verkoopt-belang-in-Delivery-Hero-aan-Uber.aspx",
+    "intro": "Prosus heeft een akkoord bereikt om een belang van circa 4,5 procent in Delivery Hero te verkopen aan Uber Technologies. Deze transactie levert de techinvesteerder naar verwachting circa 270 miljoen euro op. Dit maakte Prosus vrijdag voorbeurs bekend.",
+    "published_at": "2026-04-17 08:17",
+    "scraped_at": "2026-04-17T08:09:20.386245"
+  },
+  {
     "id": "1f4e86a2e0342bf9213449e3ad909063",
     "categorie": "Voorbeurs",
     "titel": "AEX opent terughoudend en wederom blijkt hoe goed markten presteren in oorlogstijd",
     "link": "https://www.iex.nl/artikel/860680/AEX-opent-terughoudend-en-wederom-blijkt-hoe-goed-markten-presteren-in-oorlogstijd.aspx",
     "intro": "Wall Street kende beleefde opnieuw een goede sessie, waar Netflix buiten de boot viel. Reken zo op een beetje koersdruk bij SBM en KPN door ex-dividendnoteringen.",
     "published_at": "2026-04-17 08:05",
-    "scraped_at": "2026-04-17T06:19:39.081022"
+    "scraped_at": "2026-04-17T08:09:20.386245"
   },
   {
     "id": "84b1da78f60e95b20d9697b7c32ad281",
@@ -15,16 +51,16 @@
     "link": "https://www.beurs.nl/Nieuws/860805/AEX-start-handelsdag-terughoudend.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer neutrale opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,1 procent.",
     "published_at": "2026-04-17 08:02",
-    "scraped_at": "2026-04-17T06:19:39.081022"
+    "scraped_at": "2026-04-17T08:09:20.386245"
   },
   {
-    "id": "75fa2c1315d5ff6294575a9132bc0432",
+    "id": "5a54424a513621f42adb85c47d236fc9",
     "categorie": "Beursnieuws",
-    "titel": "Basic-Fit haalt 308 miljoen euro op",
-    "link": "https://www.beurs.nl/Nieuws/860804/Basic-Fit-haalt-308-miljoen-euro-op.aspx",
+    "titel": "Basic-Fit haalt €308 miljoen op met obligatie-uitgifte",
+    "link": "https://www.beurs.nl/Nieuws/860804/Basic-Fit-haalt-308-miljoen-op-met-obligatie-uitgifte.aspx",
     "intro": "Basic-Fit heeft 307,6 miljoen euro opgehaald met de uitgifte van converteerbare obligaties. Dit maakte de fitnessketen vrijdagochtend bekend, nadat de plannen donderdagavond werden gecommuniceerd.",
     "published_at": "2026-04-17 08:00",
-    "scraped_at": "2026-04-17T06:19:39.081022"
+    "scraped_at": "2026-04-17T08:09:20.386245"
   },
   {
     "id": "156155c80cd44212676408e38976e638",
@@ -33,16 +69,16 @@
     "link": "https://www.beurs.nl/Nieuws/860803/Omzet-Ericsson-onder-druk.aspx",
     "intro": "Ericsson heeft in het eerste kwartaal de omzet zien dalen, hoewel er autonoom wel groei was. Dit maakte het Zweeds technologiebedrijf vrijdagochtend bekend.",
     "published_at": "2026-04-17 07:52",
-    "scraped_at": "2026-04-17T06:19:39.081022"
+    "scraped_at": "2026-04-17T08:09:20.386245"
   },
   {
-    "id": "cc6514df6faa8ebb28189807fb10cac5",
+    "id": "1332f9fb3d9b0b9750991955f67ff99d",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Citi Research verhoogt koersdoel Aperam",
-    "link": "https://www.beurs.nl/Nieuws/860801/Beursblik-Citi-Research-verhoogt-koersdoel-Aperam.aspx",
+    "titel": "Citi Research verhoogt koersdoel Aperam",
+    "link": "https://www.beurs.nl/Nieuws/860801/Citi-Research-verhoogt-koersdoel-Aperam.aspx",
     "intro": "Citi Research heeft het koersdoel voor Aperam verhoogd van 37,00 naar 42,00 euro met handhaving van het Houden advies. Dit bleek uit een sectorrapport van de Amerikaanse bank.",
     "published_at": "2026-04-17 07:41",
-    "scraped_at": "2026-04-17T06:19:39.081022"
+    "scraped_at": "2026-04-17T08:09:20.386245"
   },
   {
     "id": "a9e2f499060e49fb0209b1b59c78a576",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860796/Aziatische-beurzen-noteren-in-het-rood.aspx",
     "intro": "De Aziatische beurzen gaven vrijdagochtend terrein prijs. De Hang Seng index in Hongkong daalde met 1,3 procent, terwijl de Nikkei index in Tokio 1,0 procent inleverde. Sydney en Shanghai beperkten de verliezen tot enkele tienden van een procent.",
     "published_at": "2026-04-17 07:18",
-    "scraped_at": "2026-04-17T06:19:39.081022"
-  },
-  {
-    "id": "c4214d2957193b5be170d53744f4a9cb",
-    "categorie": "Beursnieuws",
-    "titel": "Meer huurinkomsten voor Wereldhave",
-    "link": "https://www.beurs.nl/Nieuws/860797/Meer-huurinkomsten-voor-Wereldhave.aspx",
-    "intro": "Wereldhave heeft in het eerste kwartaal van 2026 meer huurinkomsten gerealiseerd, terwijl het directe resultaat nog iets harder steeg. Dit bleek vrijdag uit cijfers van het vastgoedbedrijf.",
-    "published_at": "2026-04-17 07:09",
-    "scraped_at": "2026-04-17T06:19:39.081022"
-  },
-  {
-    "id": "e380d8ba48e0a085e36ec228f5e01248",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen terughoudend",
-    "link": "https://www.beurs.nl/Nieuws/860792/Europese-beurzen-openen-terughoudend.aspx",
-    "intro": "De aandelenmarkten in Europa gaan vrijdag een verdeelde, maar voorzichtige opening tegemoet, na een dito slot op donderdag.",
-    "published_at": "2026-04-17 06:56",
-    "scraped_at": "2026-04-17T06:19:39.081022"
-  },
-  {
-    "id": "380df45f1060eb3da01d59d47f2c99a5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/860789/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 24 april 2026:",
-    "published_at": "2026-04-17 06:46",
-    "scraped_at": "2026-04-17T06:19:39.081022"
-  },
-  {
-    "id": "876a7e19d4796a2cc2f158878d180391",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/860790/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 24 april 2026:",
-    "published_at": "2026-04-17 06:46",
-    "scraped_at": "2026-04-17T06:19:39.081022"
+    "scraped_at": "2026-04-17T08:09:20.386245"
   }
 ]
