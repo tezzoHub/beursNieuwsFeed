@@ -1,12 +1,30 @@
 [
   {
+    "id": "e6381b54f3c138c9afc178d0ff68f603",
+    "categorie": "Beursnieuws",
+    "titel": "Damrak houdt hoop op vredesdeal Iran",
+    "link": "https://www.beurs.nl/Nieuws/860932/Damrak-houdt-hoop-op-vredesdeal-Iran.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week verder gestegen, gesteund door de hoop dat de VS en Iran hun staakt-het-vuren zullen verlengen of zelfs een vredesakkoord zullen sluiten. Bovendien kondigde Iran vrijdag aan de Straat van Hormuz tijdelijk te openen.",
+    "published_at": "2026-04-18 13:14",
+    "scraped_at": "2026-04-18T11:23:18.434119"
+  },
+  {
+    "id": "ced47d02c3df04629846dc10785abe18",
+    "categorie": "Beursnieuws",
+    "titel": "Video: welke beleggingen zijn bestand tegen een hoge inflatie?",
+    "link": "https://www.beurs.nl/Nieuws/860931/Video-welke-beleggingen-zijn-bestand-tegen-een-hoge-inflatie.aspx",
+    "intro": "Nu de olieprijzen de inflatie aanjagen, zoeken beleggers naar beleggingen die hiertegen bestand zijn.",
+    "published_at": "2026-04-18 13:03",
+    "scraped_at": "2026-04-18T11:23:18.434119"
+  },
+  {
     "id": "a7b2a5bcb8019cff7a9584e8b36bf531",
     "categorie": "Beursnieuws",
     "titel": "Moody's verlaagt kredietrating België",
     "link": "https://www.beurs.nl/Nieuws/860930/Moodys-verlaagt-kredietrating-Belgie.aspx",
     "intro": "Moody’s heeft de kredietrating van België verlaagd van Aa3 naar A1. Dit bleek vrijdagavond laat uit een melding van de Amerikaanse kredietwaardigheidsbeoordelaar.",
     "published_at": "2026-04-18 11:36",
-    "scraped_at": "2026-04-18T10:27:01.679650"
+    "scraped_at": "2026-04-18T11:23:18.434119"
   },
   {
     "id": "6f2ff4f69c68e20c14fda337b4ae9d27",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/860929/Amundi-kleiner-in-ABN-AMRO.aspx",
     "intro": "Amundi Asset Management heeft een kleiner belang in ABN AMRO gemeld. Dat bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 15 april 2026.",
     "published_at": "2026-04-18 11:27",
-    "scraped_at": "2026-04-18T10:27:01.679650"
+    "scraped_at": "2026-04-18T11:23:18.434119"
   },
   {
     "id": "ba808a9a7bebf0174fbd7a92e4c8b208",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/860928/Media-Iran-draait-heropening-Straat-van-Hormuz-alweer-terug.aspx",
     "intro": "Een dag na de tijdelijke heropening van de Straat van Hormuz lijkt Iran deze maatregel alweer grotendeels terug te draaien. Dit meldden diverse media, waaronder The Wall Street Journal zaterdag.",
     "published_at": "2026-04-18 11:23",
-    "scraped_at": "2026-04-18T10:27:01.679650"
+    "scraped_at": "2026-04-18T11:23:18.434119"
   },
   {
     "id": "77042533d4e50381fe294bf5188b9cf6",
@@ -33,6 +51,6 @@
     "link": "https://www.beurs.nl/Nieuws/860927/Fed-duif-Waller-voorzichtiger-over-verdere-renteverlagingen.aspx",
     "intro": "Een langdurig conflict in het Midden-Oosten biedt de Federal Reserve minder ruimte om de rente dit jaar verder te verlagen. Dit zei Fed-gouverneur Christopher Waller vrijdag in een toespraak in Alabama.",
     "published_at": "2026-04-18 11:14",
-    "scraped_at": "2026-04-18T10:27:01.679650"
+    "scraped_at": "2026-04-18T11:23:18.434119"
   }
 ]
