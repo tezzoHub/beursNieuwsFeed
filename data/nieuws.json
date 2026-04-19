@@ -1,12 +1,21 @@
 [
   {
+    "id": "8b5c9378a1ad95de18d94b1923e63bab",
+    "categorie": "Beursnieuws",
+    "titel": "Trump: maandag weer gesprekken met Iran",
+    "link": "https://www.beurs.nl/Nieuws/860946/Trump-maandag-weer-gesprekken-met-Iran.aspx",
+    "intro": "De Verenigde Staten gaan maandag opnieuw onderhandelen met Iran. Dit beweerde de Amerikaanse president Donald Trump zondag op Truth Social.",
+    "published_at": "2026-04-19 18:39",
+    "scraped_at": "2026-04-19T16:52:57.512366"
+  },
+  {
     "id": "7c28af8f1a0e45b70a7a78250004f95d",
     "categorie": "Beursnieuws",
     "titel": "Cijferseizoen komende week in volle vaart verder",
     "link": "https://www.beurs.nl/Nieuws/860942/Cijferseizoen-komende-week-in-volle-vaart-verder.aspx",
     "intro": "Terwijl beleggers blijven hopen op een definitief vredesakkoord tussen de Verenigde Staten en Iran, zal de focus meer verschuiven naar het cijferseizoen, dat komende week in volle vaart verdergaat.",
     "published_at": "2026-04-19 13:39",
-    "scraped_at": "2026-04-19T15:57:27.271962"
+    "scraped_at": "2026-04-19T16:52:57.512366"
   },
   {
     "id": "baac543cc163eab215dcfeecc50d4af6",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/860941/Media-definitief-akkoord-VS-en-Iran-nog-ver-weg.aspx",
     "intro": "Er is nog steeds een aanzienlijke kloof tussen de Verenigde Staten en Iran en men is \"nog ver\" verwijderd van een definitief vredesakkoord. Dit meldde The Wall Street Journal zaterdagavond op basis van een uitspraken van de Iraanse toponderhandelaar en parlementsvoorzitter Mohammad Bagher Ghalibaf.",
     "published_at": "2026-04-19 11:39",
-    "scraped_at": "2026-04-19T15:57:27.271962"
+    "scraped_at": "2026-04-19T16:52:57.512366"
   },
   {
     "id": "29d7bd42b3032c3e397f5b8a51aba26f",
@@ -24,6 +33,6 @@
     "link": "https://www.beurs.nl/Nieuws/860939/ASML-kan-niet-overtuigen-en-oliefondsen-onderuit.aspx",
     "intro": "De Amsterdamse beurs kon afgelopen week profiteren van een voorzichtig positief sentiment rond het conflict in het Midden-Oosten. Het vertrouwen kreeg vrijdag een extra impuls, toen Iran aankondigde dat de Straat van Hormuz tijdelijk wordt geopend.",
     "published_at": "2026-04-19 10:51",
-    "scraped_at": "2026-04-19T15:57:27.271962"
+    "scraped_at": "2026-04-19T16:52:57.512366"
   }
 ]
