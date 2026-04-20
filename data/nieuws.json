@@ -1,12 +1,75 @@
 [
   {
+    "id": "3ef718684796115371c6aab6963fa561",
+    "categorie": "Beursnieuws",
+    "titel": "Shell krijgt AEX niet in het groen",
+    "link": "https://www.beurs.nl/Nieuws/860997/Shell-krijgt-AEX-niet-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandag rond elf uur in het rood, ondanks een stevige koerswinst van Shell, die onvoldoende was om de AEX in het groen te krijgen.",
+    "published_at": "2026-04-20 10:58",
+    "scraped_at": "2026-04-20T09:22:13.067163"
+  },
+  {
+    "id": "fbeef792c8f773fa3c72ee517335ea0f",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof: crisis Midden-Oosten herschudt kaarten voor vastgoedaandelen",
+    "link": "https://www.beurs.nl/Nieuws/860993/Degroof-crisis-Midden-Oosten-herschudt-kaarten-voor-vastgoedaandelen.aspx",
+    "intro": "Degroof Petercam heeft de koersdoelen van Xior, CTP en Shurgard verlaagd, naar aanleiding van de crisis in het Midden-Oosten, en haalde Xior en Gecina van de kooplijst. Dit bleek maandag uit een sectorrapport van Degroof.",
+    "published_at": "2026-04-20 10:27",
+    "scraped_at": "2026-04-20T09:22:13.067163"
+  },
+  {
+    "id": "a221fd4833c694d41d6143bfb3ca0c0f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: lichte krimp voor Randstad verwacht",
+    "link": "https://www.beurs.nl/Nieuws/860992/Beursblik-lichte-krimp-voor-Randstad-verwacht.aspx",
+    "intro": "De autonome omzet van Randstad is in het eerste kwartaal van 2026 licht gedaald, maar minder sterk dan een kwartaal en een jaar eerder. Dit is de verwachting op basis van een analistenconsensus die Randstad zelf heeft samengesteld.",
+    "published_at": "2026-04-20 10:16",
+    "scraped_at": "2026-04-20T09:22:13.067163"
+  },
+  {
+    "id": "d87d2e4c30e30745349f30c35d94c0cd",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: lagere resultaten bij AkzoNobel verwacht",
+    "link": "https://www.beurs.nl/Nieuws/860991/Beursblik-lagere-resultaten-bij-AkzoNobel-verwacht.aspx",
+    "intro": "AkzoNobel heeft in het eerste kwartaal naar verwachting een lagere omzet en vermoedelijk ook een lager aangepast resultaat geboekt ten opzichte van een jaar eerder, maar op kwartaalbasis zou wel sprake zijn geweest van een verbetering. Dat blijkt uit een consensusverwachting van analisten die het bedrijf publiceerde.",
+    "published_at": "2026-04-20 10:00",
+    "scraped_at": "2026-04-20T09:22:13.067163"
+  },
+  {
+    "id": "b5fc8b71e5a677adc1429526adc072c4",
+    "categorie": "IEX",
+    "titel": "Must read: Golfcrisis laait weer op",
+    "link": "https://www.iex.nl/artikel/860973/Must-read-Golfcrisis-laait-weer-op.aspx",
+    "intro": "Na een korte adempauze lopen de spanningen tussen de VS en Iran opnieuw op. Plus: de energiecrisis is pijnlijk maar geen armageddon, pensioenfondsen omarmen impactbeleggingen, de AI-revolutie draait op volle toeren en meer.",
+    "published_at": "2026-04-20 10:00",
+    "scraped_at": "2026-04-20T09:22:13.067163"
+  },
+  {
+    "id": "f7306297e3a6876a807f50d86502e5b0",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse producentenprijzen licht gedaald",
+    "link": "https://www.beurs.nl/Nieuws/860988/Duitse-producentenprijzen-licht-gedaald.aspx",
+    "intro": "De producentenprijzen in Duitsland zijn in maart opnieuw gedaald, maar veel minder sterk dan een maand eerder. Dit bleek maandag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-04-20 09:42",
+    "scraped_at": "2026-04-20T09:22:13.067163"
+  },
+  {
+    "id": "468b3929d0eab75921dcd5ea0e96fc05",
+    "categorie": "Beursnieuws",
+    "titel": "Shell uitblinker in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/860981/Shell-uitblinker-in-rode-AEX.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 0,5 procent lager op 1.018,20 punten, terwijl de Midkap 0,8 procent prijs moest geven.",
+    "published_at": "2026-04-20 09:11",
+    "scraped_at": "2026-04-20T09:22:13.067163"
+  },
+  {
     "id": "e3769dbd44b0fc231e9a8752e1aaf8e0",
     "categorie": "Voorbeurs",
     "titel": "Lagere start beursweek nu situatie in Midden-Oosten weer escaleert",
     "link": "https://www.beurs.nl/Artikel/860887/Lagere-start-beursweek-nu-situatie-in-Midden-Oosten-weer-escaleert.aspx",
     "intro": "Openingsindicatie: -0,5%. Straat van Hormuz is weer dicht en Iran wil niet verder onderhandelen: olieprijzen stijgen, Gevoelig verlies voor bitcoin. Ook goudprijs daalt. Koerssprong SK Hynix.",
     "published_at": "2026-04-20 08:20",
-    "scraped_at": "2026-04-20T07:06:31.654706"
+    "scraped_at": "2026-04-20T09:22:13.067163"
   },
   {
     "id": "602a6b2b97674ef8ba874d6a7c9f5af8",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860966/AEX-start-in-het-rood-door-spanning-over-Straat-van-Hormuz.aspx",
     "intro": "De Amsterdamse beurs maakt zich maandag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,5 procent.",
     "published_at": "2026-04-20 08:01",
-    "scraped_at": "2026-04-20T07:06:31.654706"
+    "scraped_at": "2026-04-20T09:22:13.067163"
   },
   {
     "id": "31d11e3627dd6f4dde41f056063d53b6",
@@ -24,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860961/Aziatische-beurzen-noteren-in-het-groen.aspx",
     "intro": "De Aziatische beurzen koersten maandagochtend overwegend hoger, maar de winsten bleven beperkt vanwege de oplopende spanningen rond de Straat van Hormuz.",
     "published_at": "2026-04-20 07:20",
-    "scraped_at": "2026-04-20T07:06:31.654706"
-  },
-  {
-    "id": "ec47f1c253a039c783e5a0a6c3becbec",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen waarschijnlijk stevig in het rood",
-    "link": "https://www.beurs.nl/Nieuws/860958/Europese-beurzen-openen-waarschijnlijk-stevig-in-het-rood.aspx",
-    "intro": "Afgelopen weekend draaide Iran de opening van de Straat van Hormuz weer terug, omdat de VS Iraanse havens blijft blokkeren. IG voorziet een openingsverlies van 287 punten voor de Duitse DAX en een min van 90 punten voor de Franse CAC 40. De Britse FTSE lijkt 29 punten lager te zullen openen.",
-    "published_at": "2026-04-20 07:00",
-    "scraped_at": "2026-04-20T07:06:31.654706"
-  },
-  {
-    "id": "54d1e4c1261e6d79db029862666050cb",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/860955/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 27 april 2026:",
-    "published_at": "2026-04-20 06:46",
-    "scraped_at": "2026-04-20T07:06:31.654706"
-  },
-  {
-    "id": "fc6cc6e0fb6522981e7c5f68f6b8d1ed",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/860956/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 27 april 2026:",
-    "published_at": "2026-04-20 06:46",
-    "scraped_at": "2026-04-20T07:06:31.654706"
-  },
-  {
-    "id": "6c5a97f6da67e443069d92b7248d733a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/860957/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 27 april 2026:",
-    "published_at": "2026-04-20 06:46",
-    "scraped_at": "2026-04-20T07:06:31.654706"
+    "scraped_at": "2026-04-20T09:22:13.067163"
   }
 ]
