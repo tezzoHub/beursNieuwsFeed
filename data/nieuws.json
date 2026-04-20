@@ -1,12 +1,57 @@
 [
   {
+    "id": "5e60579c92b7d873f2cf45456323ff87",
+    "categorie": "Beursnieuws",
+    "titel": "Shell helpt AEX om schade te beperken",
+    "link": "https://www.beurs.nl/Nieuws/861063/Shell-helpt-AEX-om-schade-te-beperken.aspx",
+    "intro": "De Amsterdamse beurs wist de schade maandag te beperken dankzij Shell, terwijl omringende beurzen sterker daalden, nu de deadline nadert voor de aflopende wapenstilstand tussen de Verenigde Staten en Iran. Het tijdelijke bestand loopt woensdag af.",
+    "published_at": "2026-04-20 17:49",
+    "scraped_at": "2026-04-20T15:52:25.002318"
+  },
+  {
+    "id": "1ba71a2beca0615c7d8743d07ce7a79c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/861054/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 28 april 2026:",
+    "published_at": "2026-04-20 16:28",
+    "scraped_at": "2026-04-20T15:52:25.002318"
+  },
+  {
+    "id": "2b8034baf7c819ad620b9e8a9ae44c02",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/861055/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 28 april 2026:",
+    "published_at": "2026-04-20 16:28",
+    "scraped_at": "2026-04-20T15:52:25.002318"
+  },
+  {
+    "id": "9902fe7323d2618fc36044a5952eab8b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/861053/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 28 april 2026:",
+    "published_at": "2026-04-20 16:27",
+    "scraped_at": "2026-04-20T15:52:25.002318"
+  },
+  {
+    "id": "211bc2c8177f13d8d11ed78a39e17286",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Iran overweegt toch deelname aan nieuwe gesprekken met VS",
+    "link": "https://www.beurs.nl/Nieuws/861052/Media-Iran-overweegt-toch-deelname-aan-nieuwe-gesprekken-met-VS.aspx",
+    "intro": "Iran reist mogelijk toch af naar Pakistan voor nieuwe vredesgesprekken met de Verenigde Staten. Dit meldde persbureau Reuters maandag op basis van uitspraken van een hoge Iraanse functionaris.",
+    "published_at": "2026-04-20 16:21",
+    "scraped_at": "2026-04-20T15:52:25.002318"
+  },
+  {
     "id": "c037122da9feabc48f2064ad2fa07126",
     "categorie": "Beursnieuws",
     "titel": "Eli Lilly neemt Kelonia Therapeutic over",
     "link": "https://www.beurs.nl/Nieuws/861046/Eli-Lilly-neemt-Kelonia-Therapeutic-over.aspx",
     "intro": "Eli Lilly neemt Kelonia Therapeutics over voor 3,25 miljard dollar. Dit bevestigden beide bedrijven maandag, nadat The Wall Street Journal de op handen zijnde deal zondag al meldde.",
     "published_at": "2026-04-20 15:53",
-    "scraped_at": "2026-04-20T14:24:51.014662"
+    "scraped_at": "2026-04-20T15:52:25.002318"
   },
   {
     "id": "1046ba777ddfda2523fdc01c704808ce",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861039/Beursblik-Barclays-verhoogt-koersdoel-Euronext.aspx",
     "intro": "Barclays heeft het koersdoel voor Euronext verhoogd van 140,00 naar 150,00 euro, en handhaaft het neutrale advies, terwijl de bank de voorkeur blijft geven aan sectorgenoten London Stock Exchange en Deutsche Börse. Dat blijkt maandag uit een analistenrapport.",
     "published_at": "2026-04-20 15:07",
-    "scraped_at": "2026-04-20T14:24:51.014662"
+    "scraped_at": "2026-04-20T15:52:25.002318"
   },
   {
     "id": "910a1b992b5e763c2c631ebf28d67369",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861035/Barclays-haalt-SBMOffshorevan-de-kooplijst.aspx",
     "intro": "Barclays heeft maandag het koersdoel voor SBM Offshore verhoogd van 38,00 naar 46,00 euro, maar verlaagde het advies van Overwogen naar Gelijkgewogen. Dit bleek uit een sectorrapport van de Britse bank.",
     "published_at": "2026-04-20 14:55",
-    "scraped_at": "2026-04-20T14:24:51.014662"
+    "scraped_at": "2026-04-20T15:52:25.002318"
   },
   {
     "id": "e3fbfe088ff951c2c0d77f34869d3823",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861034/Wall-Street-neemt-adempauze-na-records.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel een half procent in het rood.",
     "published_at": "2026-04-20 14:54",
-    "scraped_at": "2026-04-20T14:24:51.014662"
+    "scraped_at": "2026-04-20T15:52:25.002318"
   },
   {
     "id": "2ff8df15176359ebab806236822fe0c0",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861029/Sterker-eerste-kwartaal-bij-ASMI-verwacht.aspx",
     "intro": "ASMI heeft in het eerste kwartaal van 2026 waarschijnlijk beter gepresteerd dan in de laatste drie maanden van 2025. Dit bleek uit een analistenconsensus die het bedrijf zelf heeft samengesteld.",
     "published_at": "2026-04-20 13:30",
-    "scraped_at": "2026-04-20T14:24:51.014662"
-  },
-  {
-    "id": "3110fd215077fc074db09dde66c5e313",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Google en Marvell in gesprek over AI-chips",
-    "link": "https://www.beurs.nl/Nieuws/861028/Media-Google-en-Marvell-in-gesprek-over-AI-chips.aspx",
-    "intro": "Het moederbedrijf van Google, Alphabet, is in gesprek met Marvell Technologies over de productie van nieuwe versies van AI-chips, volgens mediaberichten.",
-    "published_at": "2026-04-20 13:04",
-    "scraped_at": "2026-04-20T14:24:51.014662"
-  },
-  {
-    "id": "eaca4181fa66c85b3cdc4adbc775fb77",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen lagere opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/861026/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd een half procent in het rood.",
-    "published_at": "2026-04-20 12:57",
-    "scraped_at": "2026-04-20T14:24:51.014662"
-  },
-  {
-    "id": "b7bb0090bb6120496b17a138247a7257",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland haalt bijna 3 miljard euro op",
-    "link": "https://www.beurs.nl/Nieuws/861020/Obligatie-Nederland-haalt-bijna-3-miljard-euro-op.aspx",
-    "intro": "Nederland heeft maandag 2,77 miljard euro opgehaald met twee schatkistleningen. Dit meldde het agentschap van het ministerie van Financiën.",
-    "published_at": "2026-04-20 12:15",
-    "scraped_at": "2026-04-20T14:24:51.014662"
-  },
-  {
-    "id": "d8d97aca5eb459e56f0200c32c638ad3",
-    "categorie": "Beursnieuws",
-    "titel": "Corbion krijgt Amerikaanse patent voor algensuspensie",
-    "link": "https://www.beurs.nl/Nieuws/861017/Corbion-krijgt-Amerikaanse-patent-voor-algensuspensie.aspx",
-    "intro": "Corbion heeft een nieuw patent gekregen voor de vloeibare suspensie van biomassa van algen die rijk zijn omega 3-vetzuren, die betere stabiliteit en resultaten geeft in diervoedingstoepassingen. Dit maakte het bedrijf maandag bekend.",
-    "published_at": "2026-04-20 12:10",
-    "scraped_at": "2026-04-20T14:24:51.014662"
-  },
-  {
-    "id": "f2611d1ca6c2d9d98eca98a2a0e3bce2",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lager door oplopende spanningen in Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/861016/Europese-beurzen-lager-door-oplopende-spanningen-in-Midden-Oosten.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden maandag rond lunchtijd lager, terwijl de olieprijzen weer flink stegen door de oplopende spanningen in het Midden-Oosten.",
-    "published_at": "2026-04-20 12:07",
-    "scraped_at": "2026-04-20T14:24:51.014662"
+    "scraped_at": "2026-04-20T15:52:25.002318"
   }
 ]
