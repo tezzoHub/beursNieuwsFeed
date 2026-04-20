@@ -1,12 +1,39 @@
 [
   {
+    "id": "93bbcfbdbbcc6eb68f7b5f6e3cf1e432",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterker eerste kwartaal bij ASMI verwacht",
+    "link": "https://www.beurs.nl/Nieuws/861029/Beursblik-sterker-eerste-kwartaal-bij-ASMI-verwacht.aspx",
+    "intro": "ASMI heeft in het eerste kwartaal van 2026 waarschijnlijk beter gepresteerd dan in de laatste drie maanden van 2025. Dit bleek uit een analistenconsensus die het bedrijf zelf heeft samengesteld.",
+    "published_at": "2026-04-20 13:30",
+    "scraped_at": "2026-04-20T12:42:28.851920"
+  },
+  {
+    "id": "3110fd215077fc074db09dde66c5e313",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Google en Marvell in gesprek over AI-chips",
+    "link": "https://www.beurs.nl/Nieuws/861028/Media-Google-en-Marvell-in-gesprek-over-AI-chips.aspx",
+    "intro": "Het moederbedrijf van Google, Alphabet, is in gesprek met Marvell Technologies over de productie van nieuwe versies van AI-chips, volgens mediaberichten.",
+    "published_at": "2026-04-20 13:04",
+    "scraped_at": "2026-04-20T12:42:28.851920"
+  },
+  {
+    "id": "eaca4181fa66c85b3cdc4adbc775fb77",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen lagere opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/861026/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd een half procent in het rood.",
+    "published_at": "2026-04-20 12:57",
+    "scraped_at": "2026-04-20T12:42:28.851920"
+  },
+  {
     "id": "b7bb0090bb6120496b17a138247a7257",
     "categorie": "Beursnieuws",
     "titel": "Obligatie: Nederland haalt bijna 3 miljard euro op",
     "link": "https://www.beurs.nl/Nieuws/861020/Obligatie-Nederland-haalt-bijna-3-miljard-euro-op.aspx",
     "intro": "Nederland heeft maandag 2,77 miljard euro opgehaald met twee schatkistleningen. Dit meldde het agentschap van het ministerie van Financiën.",
     "published_at": "2026-04-20 12:15",
-    "scraped_at": "2026-04-20T11:02:09.893366"
+    "scraped_at": "2026-04-20T12:42:28.851920"
   },
   {
     "id": "d8d97aca5eb459e56f0200c32c638ad3",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/861017/Corbion-krijgt-Amerikaanse-patent-voor-algensuspensie.aspx",
     "intro": "Corbion heeft een nieuw patent gekregen voor de vloeibare suspensie van biomassa van algen die rijk zijn omega 3-vetzuren, die betere stabiliteit en resultaten geeft in diervoedingstoepassingen. Dit maakte het bedrijf maandag bekend.",
     "published_at": "2026-04-20 12:10",
-    "scraped_at": "2026-04-20T11:02:09.893366"
+    "scraped_at": "2026-04-20T12:42:28.851920"
   },
   {
     "id": "f2611d1ca6c2d9d98eca98a2a0e3bce2",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861016/Europese-beurzen-lager-door-oplopende-spanningen-in-Midden-Oosten.aspx",
     "intro": "De aandelenmarkten in Europa noteerden maandag rond lunchtijd lager, terwijl de olieprijzen weer flink stegen door de oplopende spanningen in het Midden-Oosten.",
     "published_at": "2026-04-20 12:07",
-    "scraped_at": "2026-04-20T11:02:09.893366"
+    "scraped_at": "2026-04-20T12:42:28.851920"
   },
   {
     "id": "064f9a4ba02c50bf1c8cc0be8c544f6e",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861005/Valuta-dollar-veert-op-met-olieprijs.aspx",
     "intro": "De dollar is maandagochtend gestegen met de olieprijs, maar zag in de loop van de ochtend de winst alweer teruglopen.",
     "published_at": "2026-04-20 11:22",
-    "scraped_at": "2026-04-20T11:02:09.893366"
+    "scraped_at": "2026-04-20T12:42:28.851920"
   },
   {
     "id": "3ef718684796115371c6aab6963fa561",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/860997/Shell-krijgt-AEX-niet-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs noteerde maandag rond elf uur in het rood, ondanks een stevige koerswinst van Shell, die onvoldoende was om de AEX in het groen te krijgen.",
     "published_at": "2026-04-20 10:58",
-    "scraped_at": "2026-04-20T11:02:09.893366"
+    "scraped_at": "2026-04-20T12:42:28.851920"
   },
   {
     "id": "fbeef792c8f773fa3c72ee517335ea0f",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/860993/Degroof-crisis-Midden-Oosten-herschudt-kaarten-voor-vastgoedaandelen.aspx",
     "intro": "Degroof Petercam heeft de koersdoelen van Xior, CTP en Shurgard verlaagd, naar aanleiding van de crisis in het Midden-Oosten, en haalde Xior en Gecina van de kooplijst. Dit bleek maandag uit een sectorrapport van Degroof.",
     "published_at": "2026-04-20 10:27",
-    "scraped_at": "2026-04-20T11:02:09.893366"
+    "scraped_at": "2026-04-20T12:42:28.851920"
   },
   {
     "id": "a221fd4833c694d41d6143bfb3ca0c0f",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/860992/Beursblik-lichte-krimp-voor-Randstad-verwacht.aspx",
     "intro": "De autonome omzet van Randstad is in het eerste kwartaal van 2026 licht gedaald, maar minder sterk dan een kwartaal en een jaar eerder. Dit is de verwachting op basis van een analistenconsensus die Randstad zelf heeft samengesteld.",
     "published_at": "2026-04-20 10:16",
-    "scraped_at": "2026-04-20T11:02:09.893366"
-  },
-  {
-    "id": "d87d2e4c30e30745349f30c35d94c0cd",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: lagere resultaten bij AkzoNobel verwacht",
-    "link": "https://www.beurs.nl/Nieuws/860991/Beursblik-lagere-resultaten-bij-AkzoNobel-verwacht.aspx",
-    "intro": "AkzoNobel heeft in het eerste kwartaal naar verwachting een lagere omzet en vermoedelijk ook een lager aangepast resultaat geboekt ten opzichte van een jaar eerder, maar op kwartaalbasis zou wel sprake zijn geweest van een verbetering. Dat blijkt uit een consensusverwachting van analisten die het bedrijf publiceerde.",
-    "published_at": "2026-04-20 10:00",
-    "scraped_at": "2026-04-20T11:02:09.893366"
-  },
-  {
-    "id": "b5fc8b71e5a677adc1429526adc072c4",
-    "categorie": "IEX",
-    "titel": "Must read: Golfcrisis laait weer op",
-    "link": "https://www.iex.nl/artikel/860973/Must-read-Golfcrisis-laait-weer-op.aspx",
-    "intro": "Na een korte adempauze lopen de spanningen tussen de VS en Iran opnieuw op. Plus: de energiecrisis is pijnlijk maar geen armageddon, pensioenfondsen omarmen impactbeleggingen, de AI-revolutie draait op volle toeren en meer.",
-    "published_at": "2026-04-20 10:00",
-    "scraped_at": "2026-04-20T11:02:09.893366"
-  },
-  {
-    "id": "f7306297e3a6876a807f50d86502e5b0",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse producentenprijzen licht gedaald",
-    "link": "https://www.beurs.nl/Nieuws/860988/Duitse-producentenprijzen-licht-gedaald.aspx",
-    "intro": "De producentenprijzen in Duitsland zijn in maart opnieuw gedaald, maar veel minder sterk dan een maand eerder. Dit bleek maandag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-04-20 09:42",
-    "scraped_at": "2026-04-20T11:02:09.893366"
+    "scraped_at": "2026-04-20T12:42:28.851920"
   }
 ]
