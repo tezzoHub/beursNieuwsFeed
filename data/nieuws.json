@@ -1,12 +1,30 @@
 [
   {
+    "id": "38d74c9e98a2160759a8b5370201a582",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Deutsche Telekom overweegt fusie met dochter T-Mobile US",
+    "link": "https://www.beurs.nl/Nieuws/861258/Media-Deutsche-Telekom-overweegt-fusie-met-dochter-T-Mobile-US.aspx",
+    "intro": "Deutsche Telekom overweegt een volledige fusie met haar Amerikaanse dochteronderneming T-Mobile US. Dit meldde persbureau Bloomberg dinsdagavond op basis van bronnen.",
+    "published_at": "2026-04-21 21:38",
+    "scraped_at": "2026-04-21T19:55:00.095234"
+  },
+  {
+    "id": "5fe832c48b033543047e77c5a65616ba",
+    "categorie": "Beursnieuws",
+    "titel": "Onduidelijkheid over nieuwe vredesgesprekken stuwt olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/861257/Onduidelijkheid-over-nieuwe-vredesgesprekken-stuwt-olieprijs.aspx",
+    "intro": "De olieprijs is dinsdag verder gestegen, te midden van de aanhoudende onduidelijkheid over nieuwe gesprekken tussen de Verenigde Staten en Iran.",
+    "published_at": "2026-04-21 21:14",
+    "scraped_at": "2026-04-21T19:55:00.095234"
+  },
+  {
     "id": "668bfac12771b26199f4a1c8a7a633a0",
     "categorie": "Beursnieuws",
     "titel": "Wall Street nerveus terwijl deadline voor VS en Iran nadert",
     "link": "https://www.beurs.nl/Nieuws/861252/Wall-Street-nerveus-terwijl-deadline-voor-VS-en-Iran-nadert.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag licht lager met nog een paar uur handel te gaan. Terwijl de deadline nadert van de wapenstilstand tussen de Verenigde Staten en Iran, worden bedrijfscijfers intussen overwegend positief ontvangen.",
     "published_at": "2026-04-21 19:30",
-    "scraped_at": "2026-04-21T18:47:40.091245"
+    "scraped_at": "2026-04-21T19:55:00.095234"
   },
   {
     "id": "d412e4800cba92e9580808162389d6f5",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/861245/Europese-beurzen-onder-druk-terwijl-Trump-dreigt-met-nieuwe-aanvallen-op-Iran.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag toch weer lager geëindigd. Beleggers bleken nerveus over de nieuwe onderhandelingen tussen de Verenigde Staten en Iran, nu de wapenstilstand van twee weken bijna afloopt.",
     "published_at": "2026-04-21 18:50",
-    "scraped_at": "2026-04-21T18:47:40.091245"
+    "scraped_at": "2026-04-21T19:55:00.095234"
   },
   {
     "id": "fbabbda9d04a28b3ef42f73c67e6f834",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/861242/ASMI-start-2026-sterk-met-recordmarge.aspx",
     "intro": "ASM International is 2026 begonnen met een sterk eerste kwartaal, waarin de omzet aan de bovenkant van de eigen outlook uitkwam en de marge op kwartaalbasis nooit eerder zo hoog was. Dit bleek dinsdag nabeurs uit de kwartaalcijfers van de halfgeleiderspecialist.",
     "published_at": "2026-04-21 18:27",
-    "scraped_at": "2026-04-21T18:47:40.091245"
+    "scraped_at": "2026-04-21T19:55:00.095234"
   },
   {
     "id": "f2dbdd0d0c9d66859538bc098fccd87e",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861234/AEX-licht-lager-gesloten-in-afwachting-van-nieuws-uit-Pakistan.aspx",
     "intro": "De Amsterdamse beurs is dinsdag licht lager gesloten, terwijl beleggers bedrijfscijfers verwerkten en het nieuws rond de mogelijke besprekingen tussen de VS en Iran in Islamabad nauwlettend in de gaten hielden.",
     "published_at": "2026-04-21 17:48",
-    "scraped_at": "2026-04-21T18:47:40.091245"
+    "scraped_at": "2026-04-21T19:55:00.095234"
   },
   {
     "id": "bdbc1cf2bc6f522df1a0b7ce99657123",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861232/Salzgitter-verhoogt-outlook.aspx",
     "intro": "Salzgitter rekent dit jaar op een hogere aangepaste EBITDA, nadat het resultaat in het eerste kwartaal bijna verviervoudigde op jaarbasis. Dit meldde de Duitse staalproducent dinsdag in een persbericht.",
     "published_at": "2026-04-21 17:36",
-    "scraped_at": "2026-04-21T18:47:40.091245"
+    "scraped_at": "2026-04-21T19:55:00.095234"
   },
   {
     "id": "a2e12fcb273ec9626596646d520a11f0",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861218/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 29 april 2026:",
     "published_at": "2026-04-21 16:30",
-    "scraped_at": "2026-04-21T18:47:40.091245"
+    "scraped_at": "2026-04-21T19:55:00.095234"
   },
   {
     "id": "4db44cc00ee01e108d649a62a423ff89",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861219/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 29 april 2026:",
     "published_at": "2026-04-21 16:30",
-    "scraped_at": "2026-04-21T18:47:40.091245"
+    "scraped_at": "2026-04-21T19:55:00.095234"
   },
   {
     "id": "b1780b197bc71d5e7c5fb41a63040559",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861220/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 29 april 2026:",
     "published_at": "2026-04-21 16:30",
-    "scraped_at": "2026-04-21T18:47:40.091245"
-  },
-  {
-    "id": "86955bb90463e30743c956603c3fd190",
-    "categorie": "Beursnieuws",
-    "titel": "Aanstaande woningverkopen in de VS minder hard gestegen",
-    "link": "https://www.beurs.nl/Nieuws/861216/Aanstaande-woningverkopen-in-de-VS-minder-hard-gestegen.aspx",
-    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in maart minder hard gestegen, vergeleken met een maand eerder. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
-    "published_at": "2026-04-21 16:16",
-    "scraped_at": "2026-04-21T18:47:40.091245"
-  },
-  {
-    "id": "937cf7be3ce85452cd8c2948b893477e",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse bedrijfsvoorraden stijgen weer",
-    "link": "https://www.beurs.nl/Nieuws/861214/Amerikaanse-bedrijfsvoorraden-stijgen-weer.aspx",
-    "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in februari met 0,4 procent gestegen op maandbasis, na een stabiel niveau in januari. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
-    "published_at": "2026-04-21 16:13",
-    "scraped_at": "2026-04-21T18:47:40.091245"
+    "scraped_at": "2026-04-21T19:55:00.095234"
   }
 ]
