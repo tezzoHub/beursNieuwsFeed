@@ -1,92 +1,74 @@
 [
   {
-    "id": "76f4ece41f876ad0ac1268153efa35e3",
+    "id": "82fe295718bf83811156685fec92cbbf",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/861080/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag vier van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-04-20 22:26",
-    "scraped_at": "2026-04-21T04:23:50.554868"
+    "titel": "AEX start handelsdag naar verwachting in het groen",
+    "link": "https://www.beurs.nl/Nieuws/861120/AEX-start-handelsdag-naar-verwachting-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een licht hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,3 procent.",
+    "published_at": "2026-04-21 08:02",
+    "scraped_at": "2026-04-21T06:19:05.192069"
   },
   {
-    "id": "a90a2a88ff22377e935f27b8e5fcea97",
+    "id": "6092e97efa15e3dd4cfc8e278c57dfff",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street houdt hoofd koel ondanks terugkerende spanningen Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/861079/Wall-Street-houdt-hoofd-koel-ondanks-terugkerende-spanningen-Midden-Oosten.aspx",
-    "intro": "De Amerikaanse aandelenmarkten zijn maandag lager gesloten, hoewel de dalingen beperkt bleven. Dit nadat de heropening van de Straat van Hormuz dit weekend van korte duur bleek na verschillende incidenten.",
-    "published_at": "2026-04-20 22:17",
-    "scraped_at": "2026-04-21T04:23:50.554868"
+    "titel": "Defensie stuwt orderinstroom Thales",
+    "link": "https://www.beurs.nl/Nieuws/861116/Defensie-stuwt-orderinstroom-Thales.aspx",
+    "intro": "Thales is 2026 gestart met een hogere omzet en orderinstroom. Dit bleek dinsdagochtend uit kwartaalcijfers van het Franse defensiebedrijf.",
+    "published_at": "2026-04-21 07:41",
+    "scraped_at": "2026-04-21T06:19:05.192069"
   },
   {
-    "id": "623efdd713302a840aa1d7a0570adde6",
+    "id": "2a3013cdab69924438bf1a72947a4d3a",
     "categorie": "Beursnieuws",
-    "titel": "Oplaaiende spanningen Midden-Oosten jagen olieprijzen weer omhoog",
-    "link": "https://www.beurs.nl/Nieuws/861077/Oplaaiende-spanningen-Midden-Oosten-jagen-olieprijzen-weer-omhoog.aspx",
-    "intro": "De olieprijzen zijn maandag aanzienlijk gestegen, nadat afgelopen weekend de opening van de Straat van Hormuz van korte duur bleek.",
-    "published_at": "2026-04-20 21:06",
-    "scraped_at": "2026-04-21T04:23:50.554868"
+    "titel": "Berenberg verlaagt koersdoel AkzoNobel flink",
+    "link": "https://www.beurs.nl/Nieuws/861112/Berenberg-verlaagt-koersdoel-AkzoNobel-flink.aspx",
+    "intro": "Berenberg heeft dinsdag het koersdoel voor AkzoNobel verlaagd van 75,00 naar 66,00 euro, maar liet het aandeel wel op de kooplijst staan. Dit bleek uit een analistenrapport van de bank.",
+    "published_at": "2026-04-21 07:23",
+    "scraped_at": "2026-04-21T06:19:05.192069"
   },
   {
-    "id": "0b9f80ec870772f7d32b7f68928ad154",
+    "id": "fb1a7776fbe787d560cfa3e8dd81536a",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street houdt verliezen beperkt",
-    "link": "https://www.beurs.nl/Nieuws/861074/Wall-Street-houdt-verliezen-beperkt.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag licht lager met nog een paar uur handel te gaan. Zelfs nadat de spanningen tussen de VS en Iran in het weekend opliepen, lijken beleggers nog steeds te rekenen op een akkoord tussen beide landen.",
-    "published_at": "2026-04-20 19:41",
-    "scraped_at": "2026-04-21T04:23:50.554868"
+    "titel": "Kospi index in Seoel scherpt recordstand aan",
+    "link": "https://www.beurs.nl/Nieuws/861111/Kospi-index-in-Seoel-scherpt-recordstand-aan.aspx",
+    "intro": "De Aziatische beurzen koersten dinsdagochtend per saldo in het groen.",
+    "published_at": "2026-04-21 07:22",
+    "scraped_at": "2026-04-21T06:19:05.192069"
   },
   {
-    "id": "bc716b327b6e52802b57f049fed6d32b",
+    "id": "0003c36daa27e2c1e5cef5f15363091d",
     "categorie": "Beursnieuws",
-    "titel": "Warsh wil Fed uit politieke vuurlinie houden",
-    "link": "https://www.beurs.nl/Nieuws/861071/Warsh-wil-Fed-uit-politieke-vuurlinie-houden.aspx",
-    "intro": "Kevin Warsh, de kandidaat van president Trump voor het voorzitterschap van de Federal Reserve, wil dat de centrale bank zich strikt beperkt tot haar kerntaak: het bestrijden van inflatie. Dit bleek maandag uit zijn schriftelijke verklaring voor de Senaatsbevestigingszitting van dinsdag, die voortijdig werd vrijgegeven.",
-    "published_at": "2026-04-20 19:19",
-    "scraped_at": "2026-04-21T04:23:50.554868"
+    "titel": "Europese beurzen openen hoger",
+    "link": "https://www.beurs.nl/Nieuws/861106/Europese-beurzen-openen-hoger.aspx",
+    "intro": "De Europese beurzen gaan dinsdag een groene opening tegemoet, in de hoop dat Washington en Teheran nog tot een deal komen voor het staakt-het-vuren tussen de twee landen eindigt. De Amerikaanse president Donald Trump dreigde Iran met hevige aanvallen als het land geen deal sluit.",
+    "published_at": "2026-04-21 06:49",
+    "scraped_at": "2026-04-21T06:19:05.192069"
   },
   {
-    "id": "2c39bae8ce217d6166659db4346c2584",
-    "categorie": "Beursnieuws",
-    "titel": "Hernieuwde oorlogsdreiging trekt Europese beurzen omlaag",
-    "link": "https://www.beurs.nl/Nieuws/861070/Hernieuwde-oorlogsdreiging-trekt-Europese-beurzen-omlaag.aspx",
-    "intro": "De Europese aandelenbeurzen zijn maandag lager gesloten, nadat de spanningen tussen de VS en Iran dit weekend opnieuw opliepen en het staakt-het-vuren onder druk staat. Het tijdelijke bestand loopt aanstaande woensdag af.",
-    "published_at": "2026-04-20 18:44",
-    "scraped_at": "2026-04-21T04:23:50.554868"
-  },
-  {
-    "id": "537b410e58abdd6decbb38e977b4db17",
-    "categorie": "Beursnieuws",
-    "titel": "Commerzbank wijst UniCredit formeel af",
-    "link": "https://www.beurs.nl/Nieuws/861069/Commerzbank-wijst-UniCredit-formeel-af.aspx",
-    "intro": "Commerzbank heeft een vijandige overnamepoging van UniCredit formeel afgewezen. Dit bleek maandag uit een persbericht van de Duitse bank.",
-    "published_at": "2026-04-20 18:37",
-    "scraped_at": "2026-04-21T04:23:50.554868"
-  },
-  {
-    "id": "5e60579c92b7d873f2cf45456323ff87",
-    "categorie": "Beursnieuws",
-    "titel": "Shell helpt AEX om schade te beperken",
-    "link": "https://www.beurs.nl/Nieuws/861063/Shell-helpt-AEX-om-schade-te-beperken.aspx",
-    "intro": "De Amsterdamse beurs wist de schade maandag te beperken dankzij Shell, terwijl omringende beurzen sterker daalden, nu de deadline nadert voor de aflopende wapenstilstand tussen de Verenigde Staten en Iran. Het tijdelijke bestand loopt woensdag af.",
-    "published_at": "2026-04-20 17:49",
-    "scraped_at": "2026-04-21T04:23:50.554868"
-  },
-  {
-    "id": "1ba71a2beca0615c7d8743d07ce7a79c",
+    "id": "106173c1313710d5090f429b0c1d6160",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/861054/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/861104/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 28 april 2026:",
-    "published_at": "2026-04-20 16:28",
-    "scraped_at": "2026-04-21T04:23:50.554868"
+    "published_at": "2026-04-21 06:39",
+    "scraped_at": "2026-04-21T06:19:05.192069"
   },
   {
-    "id": "2b8034baf7c819ad620b9e8a9ae44c02",
+    "id": "bbcea446255b87de64071f7c8589b09b",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/861055/Beursagenda-macro-economisch.aspx",
+    "link": "https://www.beurs.nl/Nieuws/861105/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 28 april 2026:",
-    "published_at": "2026-04-20 16:28",
-    "scraped_at": "2026-04-21T04:23:50.554868"
+    "published_at": "2026-04-21 06:39",
+    "scraped_at": "2026-04-21T06:19:05.192069"
+  },
+  {
+    "id": "3a41d15b8397c0d582ca720c0d042ea3",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/861102/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 28 april 2026:",
+    "published_at": "2026-04-21 06:38",
+    "scraped_at": "2026-04-21T06:19:05.192069"
   }
 ]
