@@ -1,12 +1,39 @@
 [
   {
+    "id": "74dd76d3ecf9f4eaca76131aa172eb00",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Kepler zet Signify op Reduceren",
+    "link": "https://www.beurs.nl/Nieuws/861166/Beursblik-Kepler-zet-Signify-op-Reduceren.aspx",
+    "intro": "Kepler Cheuvreux is gestart met het volgen van Signify met een Reduceren advies met een koersdoel van 16,70 euro. Dit bleek uit een sectorrapport van analist Emanuele Sartori.",
+    "published_at": "2026-04-21 12:44",
+    "scraped_at": "2026-04-21T11:12:41.640592"
+  },
+  {
+    "id": "cb2833f3efcea6fb2fb16f98c234114b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Besi kan verrassen met sterke outlook",
+    "link": "https://www.beurs.nl/Nieuws/861165/Beursblik-Besi-kan-verrassen-met-sterke-outlook.aspx",
+    "intro": "BE Semiconductor Industries kan donderdag verrassen met zijn vooruitblik voor de omzet in het tweede kwartaal. Dit blijkt uit een analistenconsensus voorafgaand aan de cijfers over het eerste kwartaal.",
+    "published_at": "2026-04-21 12:32",
+    "scraped_at": "2026-04-21T11:12:41.640592"
+  },
+  {
+    "id": "56b2b3c9674fa35e04057263a21afcbd",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/861162/Europese-beurzen-in-het-groen.aspx",
+    "intro": "De Europese beurzen noteerden rond het middaguur licht hoger, geleid door de DAX-index, herstellend van de verliezen van maandag, terwijl de onzekerheid over de situatie in het Midden-Oosten boven de markt bleef hangen.",
+    "published_at": "2026-04-21 11:51",
+    "scraped_at": "2026-04-21T11:12:41.640592"
+  },
+  {
     "id": "0ed191dbc18af7ba7339b833b6d964ec",
     "categorie": "Beursnieuws",
     "titel": "Lichtgroene koersen op Damrak",
     "link": "https://www.beurs.nl/Nieuws/861156/Lichtgroene-koersen-op-Damrak.aspx",
     "intro": "De meeste aandelen in de AEX noteerden dinsdagochtend in het groen. De AEX steeg met 0,4 procent naar 1.025,51 punten.",
     "published_at": "2026-04-21 11:21",
-    "scraped_at": "2026-04-21T09:56:03.247346"
+    "scraped_at": "2026-04-21T11:12:41.640592"
   },
   {
     "id": "a9620fe8bfcf1cd63652bc41d10828c2",
@@ -15,16 +42,16 @@
     "link": "https://www.beurs.nl/Nieuws/861153/Opnieuw-flinke-daling-Duitse-ZEW-index.aspx",
     "intro": "De ZEW-index voor het economisch sentiment in Duitsland is ook in april fors gedaald. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
     "published_at": "2026-04-21 11:14",
-    "scraped_at": "2026-04-21T09:56:03.247346"
+    "scraped_at": "2026-04-21T11:12:41.640592"
   },
   {
-    "id": "f666e6997765e664f9623650fd2d773a",
+    "id": "2c855d65692334a916f9ff8ecb64a7cd",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: sentiment Nederlandse belegger zakt naar negatief",
-    "link": "https://www.beurs.nl/Nieuws/861146/Beursblik-sentiment-Nederlandse-belegger-zakt-naar-negatief.aspx",
+    "titel": "Sentiment Nederlandse belegger zakt naar negatief",
+    "link": "https://www.beurs.nl/Nieuws/861146/Sentiment-Nederlandse-belegger-zakt-naar-negatief.aspx",
     "intro": "Het sentiment onder Nederlandse particuliere beleggers is voor het eerst sinds mei 2025 negatief geworden. Dit bleek dinsdag uit nieuwe cijfers van Saxo Bank.",
     "published_at": "2026-04-21 10:36",
-    "scraped_at": "2026-04-21T09:56:03.247346"
+    "scraped_at": "2026-04-21T11:12:41.640592"
   },
   {
     "id": "8f89e82c207be042f7f812bd4b2cfd82",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861145/Basic-Fit-schetst-nieuw-tijdperk-van-groei.aspx",
     "intro": "Basic-Fit zal tijdens zijn beleggersdag dinsdag een update geven over zijn strategie, waarin het bedrijf uitlegt hoe de nieuwe fase van sterke groei zal leiden tot een rendement op het aangewende kapitaal, de ROCE, van 10 tot 15 procent op de middellange termijn. Dat maakte de uitbater van fitnessclubs dinsdag in aanloop naar zijn presentaties vanmiddag bekend.",
     "published_at": "2026-04-21 10:33",
-    "scraped_at": "2026-04-21T09:56:03.247346"
+    "scraped_at": "2026-04-21T11:12:41.640592"
   },
   {
     "id": "37a0fb5e1c5aef488a8b34b4889a9bd9",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861140/Beursblik-Allfunds-blijft-overeind.aspx",
     "intro": "De kwartaalupdate van Allfunds zag er netjes uit, met een beter dan verwachte instroom en omzet, ondanks een risicomijdende houding bij beleggers door de oorlog in Iran. Dit stelden analisten van Jefferies dinsdag in een rapport.",
     "published_at": "2026-04-21 09:58",
-    "scraped_at": "2026-04-21T09:56:03.247346"
+    "scraped_at": "2026-04-21T11:12:41.640592"
   },
   {
     "id": "a8eec5d538048b44f400b6175e83c1e9",
@@ -51,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/860983/Must-read-De-comeback-van-kernenergie.aspx",
     "intro": "Plus: onvoorspelbaarheid is nieuwe normaal, topbelegger hijst stormbal, koopwaardige tech, Apple krijgt een nieuwe ceo, sterke groei Nederlandse arbeidsproductiviteit, en meer.",
     "published_at": "2026-04-21 09:30",
-    "scraped_at": "2026-04-21T09:56:03.247346"
+    "scraped_at": "2026-04-21T11:12:41.640592"
   },
   {
     "id": "ecaf29e1877ce7fb18cecc2b74560ff3",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861134/Tim-Cook-stopt-als-CEO-van-Apple.aspx",
     "intro": "Tim Cook treedt per 1 september terug als CEO van Apple, om plaats te maken voor de huidige directeur Hardware Engineering John Ternus. Dit maakte Apple maandagavond bekend.",
     "published_at": "2026-04-21 09:25",
-    "scraped_at": "2026-04-21T09:56:03.247346"
-  },
-  {
-    "id": "09c7922fed4d017ac47551a631d28896",
-    "categorie": "Gouden Stier",
-    "titel": "Doelbeleggen wint eerste IEX Gouden Stier als Pensioenaanbieder van het jaar",
-    "link": "https://www.iex.nl/artikel/861004/Doelbeleggen-wint-eerste-IEX-Gouden-Stier-als-Pensioenaanbieder-van-het-jaar.aspx",
-    "intro": "Een interview met medeoprichter Tjade Groot, Hoofd Doelbeleggen.",
-    "published_at": "2026-04-21 09:25",
-    "scraped_at": "2026-04-21T09:56:03.247346"
-  },
-  {
-    "id": "969ada9c5c9f46c4f67826e50672b39c",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/861131/AEX-licht-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,2 procent hoger op 1.024,14 punten, terwijl de Midkap 0,3 procent won.",
-    "published_at": "2026-04-21 09:11",
-    "scraped_at": "2026-04-21T09:56:03.247346"
-  },
-  {
-    "id": "c0a78f42bc869169f201b16d07935c51",
-    "categorie": "Beursnieuws",
-    "titel": "Britse werkloosheid verrassend gedaald",
-    "link": "https://www.beurs.nl/Nieuws/861129/Britse-werkloosheid-verrassend-gedaald.aspx",
-    "intro": "De Britse werkloosheid is tussen februari en april gedaald. Dit bleek dinsdag uit cijfers van de Britse overheid.",
-    "published_at": "2026-04-21 08:47",
-    "scraped_at": "2026-04-21T09:56:03.247346"
+    "scraped_at": "2026-04-21T11:12:41.640592"
   }
 ]
