@@ -1,12 +1,39 @@
 [
   {
+    "id": "dc169eb926c88a0433de5727347fce35",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Trump dreigt Iran met nieuwe bombardementen",
+    "link": "https://www.beurs.nl/Nieuws/861190/Media-Trump-dreigt-Iran-met-nieuwe-bombardementen.aspx",
+    "intro": "De Amerikaanse president Donald Trump heeft dinsdag gedreigd het militaire offensief tegen Iran te hervatten als er geen vredesakkoord wordt bereikt. Dit zei hij in een interview met Squawk Box van CNBC.",
+    "published_at": "2026-04-21 15:44",
+    "scraped_at": "2026-04-21T14:12:15.856042"
+  },
+  {
+    "id": "ec0f642bf3f0b9832598aa2cbe75e060",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op licht hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/861187/Wall-Street-koerst-af-op-licht-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een licht hogere opening tegemoet, terwijl beleggers bedrijfscijfers verwerken en de besprekingen tussen de VS en Iran in Islamabad nauwlettend in de gaten houden.",
+    "published_at": "2026-04-21 14:59",
+    "scraped_at": "2026-04-21T14:12:15.856042"
+  },
+  {
+    "id": "20061d9293cc7f722ca78f02e55bd8f5",
+    "categorie": "Beursnieuws",
+    "titel": "Benzine jaagt detailhandelsverkopen VS verder op",
+    "link": "https://www.beurs.nl/Nieuws/861184/Benzine-jaagt-detailhandelsverkopen-VS-verder-op.aspx",
+    "intro": "De verkopen in de Amerikaanse detailhandel zijn in maart gestegen, vooral dankzij hogere bestedingen aan benzine. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-04-21 14:41",
+    "scraped_at": "2026-04-21T14:12:15.856042"
+  },
+  {
     "id": "dda9bb6d49b5076e2ed6bdb0a1b49e4c",
     "categorie": "Beursnieuws",
     "titel": "Stabiele vraag voor Halliburton",
     "link": "https://www.beurs.nl/Nieuws/861177/Stabiele-vraag-voor-Halliburton.aspx",
     "intro": "Halliburton heeft in het eerste kwartaal meer winst geboekt op een licht lagere omzet, terwijl de vraag naar diensten stabiel bleef. Dat maakte de Amerikaanse dienstverlener voor de olie-industrie dinsdag bekend.",
     "published_at": "2026-04-21 13:53",
-    "scraped_at": "2026-04-21T12:11:34.813257"
+    "scraped_at": "2026-04-21T14:12:15.856042"
   },
   {
     "id": "88fbb689261f953c91314333b25e8aa4",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/861172/PFAS-drukken-winst-3M.aspx",
     "intro": "3M heeft in het eerste kwartaal een hogere aangepaste winst dan verwacht, maarde nettowinst daalde door de kosten van PFAS en een waardedaling van het belang in de afgesplitste zorgdivisie Solventum. Dat bleek dinsdag uit de resultaten van het Amerikaanse maker van onder meer Post-it-notitieblokjes.",
     "published_at": "2026-04-21 13:24",
-    "scraped_at": "2026-04-21T12:11:34.813257"
+    "scraped_at": "2026-04-21T14:12:15.856042"
   },
   {
     "id": "5ae03964df84f329c00475e267ef53e4",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861171/UnitedHealth-overtreft-verwachtingen-en-verhoogt-outlook.aspx",
     "intro": "UnitedHealth Group heeft in het eerste kwartaal van dit jaar de verwachtingen ruimschoots overtroffen en de outlook voor heel 2026 verhoogd. Dit bleek dinsdag uit de kwartaalcijfers van de Amerikaanse zorgverzekeraar.",
     "published_at": "2026-04-21 13:14",
-    "scraped_at": "2026-04-21T12:11:34.813257"
+    "scraped_at": "2026-04-21T14:12:15.856042"
   },
   {
     "id": "8a2eb45dc3f0cb8bc5ba000ddd0bf0cf",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861169/Licht-optimisme-op-Wall-Street.aspx",
     "intro": "De Amerikaanse aandelenmarkten lijken dinsdag met kleine winsten van start te gaan.",
     "published_at": "2026-04-21 13:11",
-    "scraped_at": "2026-04-21T12:11:34.813257"
+    "scraped_at": "2026-04-21T14:12:15.856042"
   },
   {
     "id": "ca17da96d1a3b25b4abd4a655d0470a7",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861166/Kepler-zet-Signify-op-Reduceren.aspx",
     "intro": "Kepler Cheuvreux is gestart met het volgen van Signify met een Reduceren advies met een koersdoel van 16,70 euro. Dit bleek uit een sectorrapport van analist Emanuele Sartori.",
     "published_at": "2026-04-21 12:44",
-    "scraped_at": "2026-04-21T12:11:34.813257"
+    "scraped_at": "2026-04-21T14:12:15.856042"
   },
   {
     "id": "cb2833f3efcea6fb2fb16f98c234114b",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861165/Beursblik-Besi-kan-verrassen-met-sterke-outlook.aspx",
     "intro": "BE Semiconductor Industries kan donderdag verrassen met zijn vooruitblik voor de omzet in het tweede kwartaal. Dit blijkt uit een analistenconsensus voorafgaand aan de cijfers over het eerste kwartaal.",
     "published_at": "2026-04-21 12:32",
-    "scraped_at": "2026-04-21T12:11:34.813257"
+    "scraped_at": "2026-04-21T14:12:15.856042"
   },
   {
     "id": "56b2b3c9674fa35e04057263a21afcbd",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861162/Europese-beurzen-in-het-groen.aspx",
     "intro": "De Europese beurzen noteerden rond het middaguur licht hoger, geleid door de DAX-index, herstellend van de verliezen van maandag, terwijl de onzekerheid over de situatie in het Midden-Oosten boven de markt bleef hangen.",
     "published_at": "2026-04-21 11:51",
-    "scraped_at": "2026-04-21T12:11:34.813257"
-  },
-  {
-    "id": "0ed191dbc18af7ba7339b833b6d964ec",
-    "categorie": "Beursnieuws",
-    "titel": "Lichtgroene koersen op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/861156/Lichtgroene-koersen-op-Damrak.aspx",
-    "intro": "De meeste aandelen in de AEX noteerden dinsdagochtend in het groen. De AEX steeg met 0,4 procent naar 1.025,51 punten.",
-    "published_at": "2026-04-21 11:21",
-    "scraped_at": "2026-04-21T12:11:34.813257"
-  },
-  {
-    "id": "a9620fe8bfcf1cd63652bc41d10828c2",
-    "categorie": "Beursnieuws",
-    "titel": "Opnieuw flinke daling Duitse ZEW-index",
-    "link": "https://www.beurs.nl/Nieuws/861153/Opnieuw-flinke-daling-Duitse-ZEW-index.aspx",
-    "intro": "De ZEW-index voor het economisch sentiment in Duitsland is ook in april fors gedaald. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
-    "published_at": "2026-04-21 11:14",
-    "scraped_at": "2026-04-21T12:11:34.813257"
-  },
-  {
-    "id": "2c855d65692334a916f9ff8ecb64a7cd",
-    "categorie": "Beursnieuws",
-    "titel": "Sentiment Nederlandse belegger zakt naar negatief",
-    "link": "https://www.beurs.nl/Nieuws/861146/Sentiment-Nederlandse-belegger-zakt-naar-negatief.aspx",
-    "intro": "Het sentiment onder Nederlandse particuliere beleggers is voor het eerst sinds mei 2025 negatief geworden. Dit bleek dinsdag uit nieuwe cijfers van Saxo Bank.",
-    "published_at": "2026-04-21 10:36",
-    "scraped_at": "2026-04-21T12:11:34.813257"
+    "scraped_at": "2026-04-21T14:12:15.856042"
   }
 ]
