@@ -1,12 +1,66 @@
 [
   {
+    "id": "bdbc1cf2bc6f522df1a0b7ce99657123",
+    "categorie": "Beursnieuws",
+    "titel": "Salzgitter verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/861232/Salzgitter-verhoogt-outlook.aspx",
+    "intro": "Salzgitter rekent dit jaar op een hogere aangepaste EBITDA, nadat het resultaat in het eerste kwartaal bijna verviervoudigde op jaarbasis. Dit meldde de Duitse staalproducent dinsdag in een persbericht.",
+    "published_at": "2026-04-21 17:36",
+    "scraped_at": "2026-04-21T15:47:54.710260"
+  },
+  {
+    "id": "a2e12fcb273ec9626596646d520a11f0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/861218/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 29 april 2026:",
+    "published_at": "2026-04-21 16:30",
+    "scraped_at": "2026-04-21T15:47:54.710260"
+  },
+  {
+    "id": "4db44cc00ee01e108d649a62a423ff89",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/861219/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 29 april 2026:",
+    "published_at": "2026-04-21 16:30",
+    "scraped_at": "2026-04-21T15:47:54.710260"
+  },
+  {
+    "id": "b1780b197bc71d5e7c5fb41a63040559",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/861220/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 29 april 2026:",
+    "published_at": "2026-04-21 16:30",
+    "scraped_at": "2026-04-21T15:47:54.710260"
+  },
+  {
+    "id": "86955bb90463e30743c956603c3fd190",
+    "categorie": "Beursnieuws",
+    "titel": "Aanstaande woningverkopen in de VS minder hard gestegen",
+    "link": "https://www.beurs.nl/Nieuws/861216/Aanstaande-woningverkopen-in-de-VS-minder-hard-gestegen.aspx",
+    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in maart minder hard gestegen, vergeleken met een maand eerder. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
+    "published_at": "2026-04-21 16:16",
+    "scraped_at": "2026-04-21T15:47:54.710260"
+  },
+  {
+    "id": "937cf7be3ce85452cd8c2948b893477e",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse bedrijfsvoorraden stijgen weer",
+    "link": "https://www.beurs.nl/Nieuws/861214/Amerikaanse-bedrijfsvoorraden-stijgen-weer.aspx",
+    "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in februari met 0,4 procent gestegen op maandbasis, na een stabiel niveau in januari. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-04-21 16:13",
+    "scraped_at": "2026-04-21T15:47:54.710260"
+  },
+  {
     "id": "dc169eb926c88a0433de5727347fce35",
     "categorie": "Beursnieuws",
     "titel": "Media: Trump dreigt Iran met nieuwe bombardementen",
     "link": "https://www.beurs.nl/Nieuws/861190/Media-Trump-dreigt-Iran-met-nieuwe-bombardementen.aspx",
     "intro": "De Amerikaanse president Donald Trump heeft dinsdag gedreigd het militaire offensief tegen Iran te hervatten als er geen vredesakkoord wordt bereikt. Dit zei hij in een interview met Squawk Box van CNBC.",
     "published_at": "2026-04-21 15:44",
-    "scraped_at": "2026-04-21T14:12:15.856042"
+    "scraped_at": "2026-04-21T15:47:54.710260"
   },
   {
     "id": "ec0f642bf3f0b9832598aa2cbe75e060",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861187/Wall-Street-koerst-af-op-licht-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een licht hogere opening tegemoet, terwijl beleggers bedrijfscijfers verwerken en de besprekingen tussen de VS en Iran in Islamabad nauwlettend in de gaten houden.",
     "published_at": "2026-04-21 14:59",
-    "scraped_at": "2026-04-21T14:12:15.856042"
+    "scraped_at": "2026-04-21T15:47:54.710260"
   },
   {
     "id": "20061d9293cc7f722ca78f02e55bd8f5",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861184/Benzine-jaagt-detailhandelsverkopen-VS-verder-op.aspx",
     "intro": "De verkopen in de Amerikaanse detailhandel zijn in maart gestegen, vooral dankzij hogere bestedingen aan benzine. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-04-21 14:41",
-    "scraped_at": "2026-04-21T14:12:15.856042"
+    "scraped_at": "2026-04-21T15:47:54.710260"
   },
   {
     "id": "dda9bb6d49b5076e2ed6bdb0a1b49e4c",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861177/Stabiele-vraag-voor-Halliburton.aspx",
     "intro": "Halliburton heeft in het eerste kwartaal meer winst geboekt op een licht lagere omzet, terwijl de vraag naar diensten stabiel bleef. Dat maakte de Amerikaanse dienstverlener voor de olie-industrie dinsdag bekend.",
     "published_at": "2026-04-21 13:53",
-    "scraped_at": "2026-04-21T14:12:15.856042"
-  },
-  {
-    "id": "88fbb689261f953c91314333b25e8aa4",
-    "categorie": "Beursnieuws",
-    "titel": "PFAS drukken winst 3M",
-    "link": "https://www.beurs.nl/Nieuws/861172/PFAS-drukken-winst-3M.aspx",
-    "intro": "3M heeft in het eerste kwartaal een hogere aangepaste winst dan verwacht, maarde nettowinst daalde door de kosten van PFAS en een waardedaling van het belang in de afgesplitste zorgdivisie Solventum. Dat bleek dinsdag uit de resultaten van het Amerikaanse maker van onder meer Post-it-notitieblokjes.",
-    "published_at": "2026-04-21 13:24",
-    "scraped_at": "2026-04-21T14:12:15.856042"
-  },
-  {
-    "id": "5ae03964df84f329c00475e267ef53e4",
-    "categorie": "Beursnieuws",
-    "titel": "UnitedHealth overtreft verwachtingen en verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/861171/UnitedHealth-overtreft-verwachtingen-en-verhoogt-outlook.aspx",
-    "intro": "UnitedHealth Group heeft in het eerste kwartaal van dit jaar de verwachtingen ruimschoots overtroffen en de outlook voor heel 2026 verhoogd. Dit bleek dinsdag uit de kwartaalcijfers van de Amerikaanse zorgverzekeraar.",
-    "published_at": "2026-04-21 13:14",
-    "scraped_at": "2026-04-21T14:12:15.856042"
-  },
-  {
-    "id": "8a2eb45dc3f0cb8bc5ba000ddd0bf0cf",
-    "categorie": "Beursnieuws",
-    "titel": "Licht optimisme op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/861169/Licht-optimisme-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse aandelenmarkten lijken dinsdag met kleine winsten van start te gaan.",
-    "published_at": "2026-04-21 13:11",
-    "scraped_at": "2026-04-21T14:12:15.856042"
-  },
-  {
-    "id": "ca17da96d1a3b25b4abd4a655d0470a7",
-    "categorie": "Beursnieuws",
-    "titel": "Kepler zet Signify op Reduceren",
-    "link": "https://www.beurs.nl/Nieuws/861166/Kepler-zet-Signify-op-Reduceren.aspx",
-    "intro": "Kepler Cheuvreux is gestart met het volgen van Signify met een Reduceren advies met een koersdoel van 16,70 euro. Dit bleek uit een sectorrapport van analist Emanuele Sartori.",
-    "published_at": "2026-04-21 12:44",
-    "scraped_at": "2026-04-21T14:12:15.856042"
-  },
-  {
-    "id": "cb2833f3efcea6fb2fb16f98c234114b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Besi kan verrassen met sterke outlook",
-    "link": "https://www.beurs.nl/Nieuws/861165/Beursblik-Besi-kan-verrassen-met-sterke-outlook.aspx",
-    "intro": "BE Semiconductor Industries kan donderdag verrassen met zijn vooruitblik voor de omzet in het tweede kwartaal. Dit blijkt uit een analistenconsensus voorafgaand aan de cijfers over het eerste kwartaal.",
-    "published_at": "2026-04-21 12:32",
-    "scraped_at": "2026-04-21T14:12:15.856042"
-  },
-  {
-    "id": "56b2b3c9674fa35e04057263a21afcbd",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/861162/Europese-beurzen-in-het-groen.aspx",
-    "intro": "De Europese beurzen noteerden rond het middaguur licht hoger, geleid door de DAX-index, herstellend van de verliezen van maandag, terwijl de onzekerheid over de situatie in het Midden-Oosten boven de markt bleef hangen.",
-    "published_at": "2026-04-21 11:51",
-    "scraped_at": "2026-04-21T14:12:15.856042"
+    "scraped_at": "2026-04-21T15:47:54.710260"
   }
 ]
