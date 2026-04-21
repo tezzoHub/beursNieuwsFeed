@@ -1,74 +1,92 @@
 [
   {
-    "id": "82fe295718bf83811156685fec92cbbf",
+    "id": "37a0fb5e1c5aef488a8b34b4889a9bd9",
     "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag naar verwachting in het groen",
-    "link": "https://www.beurs.nl/Nieuws/861120/AEX-start-handelsdag-naar-verwachting-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een licht hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,3 procent.",
-    "published_at": "2026-04-21 08:02",
-    "scraped_at": "2026-04-21T06:19:05.192069"
+    "titel": "Beursblik: Allfunds blijft overeind",
+    "link": "https://www.beurs.nl/Nieuws/861140/Beursblik-Allfunds-blijft-overeind.aspx",
+    "intro": "De kwartaalupdate van Allfunds zag er netjes uit, met een beter dan verwachte instroom en omzet, ondanks een risicomijdende houding bij beleggers door de oorlog in Iran. Dit stelden analisten van Jefferies dinsdag in een rapport.",
+    "published_at": "2026-04-21 09:58",
+    "scraped_at": "2026-04-21T08:14:04.057538"
   },
   {
-    "id": "6092e97efa15e3dd4cfc8e278c57dfff",
-    "categorie": "Beursnieuws",
-    "titel": "Defensie stuwt orderinstroom Thales",
-    "link": "https://www.beurs.nl/Nieuws/861116/Defensie-stuwt-orderinstroom-Thales.aspx",
-    "intro": "Thales is 2026 gestart met een hogere omzet en orderinstroom. Dit bleek dinsdagochtend uit kwartaalcijfers van het Franse defensiebedrijf.",
-    "published_at": "2026-04-21 07:41",
-    "scraped_at": "2026-04-21T06:19:05.192069"
+    "id": "a8eec5d538048b44f400b6175e83c1e9",
+    "categorie": "IEX",
+    "titel": "Must read: De comeback van kernenergie",
+    "link": "https://www.iex.nl/artikel/860983/Must-read-De-comeback-van-kernenergie.aspx",
+    "intro": "Plus: onvoorspelbaarheid is nieuwe normaal, topbelegger hijst stormbal, koopwaardige tech, Apple krijgt een nieuwe ceo, sterke groei Nederlandse arbeidsproductiviteit, en meer.",
+    "published_at": "2026-04-21 09:30",
+    "scraped_at": "2026-04-21T08:14:04.057538"
   },
   {
-    "id": "2a3013cdab69924438bf1a72947a4d3a",
+    "id": "ecaf29e1877ce7fb18cecc2b74560ff3",
     "categorie": "Beursnieuws",
-    "titel": "Berenberg verlaagt koersdoel AkzoNobel flink",
-    "link": "https://www.beurs.nl/Nieuws/861112/Berenberg-verlaagt-koersdoel-AkzoNobel-flink.aspx",
-    "intro": "Berenberg heeft dinsdag het koersdoel voor AkzoNobel verlaagd van 75,00 naar 66,00 euro, maar liet het aandeel wel op de kooplijst staan. Dit bleek uit een analistenrapport van de bank.",
-    "published_at": "2026-04-21 07:23",
-    "scraped_at": "2026-04-21T06:19:05.192069"
+    "titel": "Tim Cook stopt als CEO van Apple",
+    "link": "https://www.beurs.nl/Nieuws/861134/Tim-Cook-stopt-als-CEO-van-Apple.aspx",
+    "intro": "Tim Cook treedt per 1 september terug als CEO van Apple, om plaats te maken voor de huidige directeur Hardware Engineering John Ternus. Dit maakte Apple maandagavond bekend.",
+    "published_at": "2026-04-21 09:25",
+    "scraped_at": "2026-04-21T08:14:04.057538"
   },
   {
-    "id": "fb1a7776fbe787d560cfa3e8dd81536a",
-    "categorie": "Beursnieuws",
-    "titel": "Kospi index in Seoel scherpt recordstand aan",
-    "link": "https://www.beurs.nl/Nieuws/861111/Kospi-index-in-Seoel-scherpt-recordstand-aan.aspx",
-    "intro": "De Aziatische beurzen koersten dinsdagochtend per saldo in het groen.",
-    "published_at": "2026-04-21 07:22",
-    "scraped_at": "2026-04-21T06:19:05.192069"
+    "id": "09c7922fed4d017ac47551a631d28896",
+    "categorie": "Gouden Stier",
+    "titel": "Doelbeleggen wint eerste IEX Gouden Stier als Pensioenaanbieder van het jaar",
+    "link": "https://www.iex.nl/artikel/861004/Doelbeleggen-wint-eerste-IEX-Gouden-Stier-als-Pensioenaanbieder-van-het-jaar.aspx",
+    "intro": "Een interview met medeoprichter Tjade Groot, Hoofd Doelbeleggen.",
+    "published_at": "2026-04-21 09:25",
+    "scraped_at": "2026-04-21T08:14:04.057538"
   },
   {
-    "id": "0003c36daa27e2c1e5cef5f15363091d",
+    "id": "969ada9c5c9f46c4f67826e50672b39c",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen hoger",
-    "link": "https://www.beurs.nl/Nieuws/861106/Europese-beurzen-openen-hoger.aspx",
-    "intro": "De Europese beurzen gaan dinsdag een groene opening tegemoet, in de hoop dat Washington en Teheran nog tot een deal komen voor het staakt-het-vuren tussen de twee landen eindigt. De Amerikaanse president Donald Trump dreigde Iran met hevige aanvallen als het land geen deal sluit.",
-    "published_at": "2026-04-21 06:49",
-    "scraped_at": "2026-04-21T06:19:05.192069"
+    "titel": "AEX licht hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/861131/AEX-licht-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,2 procent hoger op 1.024,14 punten, terwijl de Midkap 0,3 procent won.",
+    "published_at": "2026-04-21 09:11",
+    "scraped_at": "2026-04-21T08:14:04.057538"
   },
   {
-    "id": "106173c1313710d5090f429b0c1d6160",
+    "id": "c0a78f42bc869169f201b16d07935c51",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/861104/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 28 april 2026:",
-    "published_at": "2026-04-21 06:39",
-    "scraped_at": "2026-04-21T06:19:05.192069"
+    "titel": "Britse werkloosheid verrassend gedaald",
+    "link": "https://www.beurs.nl/Nieuws/861129/Britse-werkloosheid-verrassend-gedaald.aspx",
+    "intro": "De Britse werkloosheid is tussen februari en april gedaald. Dit bleek dinsdag uit cijfers van de Britse overheid.",
+    "published_at": "2026-04-21 08:47",
+    "scraped_at": "2026-04-21T08:14:04.057538"
   },
   {
-    "id": "bbcea446255b87de64071f7c8589b09b",
+    "id": "f65d01311c7109b408cc434239993ce0",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/861105/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 28 april 2026:",
-    "published_at": "2026-04-21 06:39",
-    "scraped_at": "2026-04-21T06:19:05.192069"
+    "titel": "Meer omzet en winstgevendheid bij Cabka",
+    "link": "https://www.beurs.nl/Nieuws/861128/Meer-omzet-en-winstgevendheid-bij-Cabka.aspx",
+    "intro": "Cabka heeft in het eerste kwartaal van 2026 de omzet laten stijgen en handhaafde de outlook voor het hele jaar. Dit bleek dinsdag uit een update van de recyclingspecialist met een notering in Amsterdam.",
+    "published_at": "2026-04-21 08:41",
+    "scraped_at": "2026-04-21T08:14:04.057538"
   },
   {
-    "id": "3a41d15b8397c0d582ca720c0d042ea3",
+    "id": "b59179370cc466651c5cc9cc66ed3b76",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/861102/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 28 april 2026:",
-    "published_at": "2026-04-21 06:38",
-    "scraped_at": "2026-04-21T06:19:05.192069"
+    "titel": "Legal & General vergroot belang in Alfen opnieuw",
+    "link": "https://www.beurs.nl/Nieuws/861126/Legal-General-vergroot-belang-in-Alfen-opnieuw.aspx",
+    "intro": "Legal  General Investment Management heeft opnieuw een groter belang in Alfen gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 16 april.",
+    "published_at": "2026-04-21 08:33",
+    "scraped_at": "2026-04-21T08:14:04.057538"
+  },
+  {
+    "id": "f8baaba854f85471e8ed12a0e26eb966",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet voor Allfunds in een uitdagende markt",
+    "link": "https://www.beurs.nl/Nieuws/861123/Meer-omzet-voor-Allfunds-in-een-uitdagende-markt.aspx",
+    "intro": "Allfunds heeft in het eerste kwartaal van 2026 meer omzet geboekt dan een jaar eerder, ondanks de uitdagende marktomstandigheden, waardoor het vermogen onder beheer stabiel bleef ten opzichte van eind vorig jaar. Dat maakte het Spaanse fintechbedrijf met een notering in Amsterdam dinsdagochtend bekend.",
+    "published_at": "2026-04-21 08:20",
+    "scraped_at": "2026-04-21T08:14:04.057538"
+  },
+  {
+    "id": "fb979d841607b769fb324223ef101ab8",
+    "categorie": "Beursnieuws",
+    "titel": "OCI verkoopt laatste pluk aandelen Methanex",
+    "link": "https://www.beurs.nl/Nieuws/861122/OCI-verkoopt-laatste-pluk-aandelen-Methanex.aspx",
+    "intro": "OCI heeft ook de laatste aandelen Methanex verkocht. Dit maakte het bedrijf dinsdag voorbeurs bekend.",
+    "published_at": "2026-04-21 08:13",
+    "scraped_at": "2026-04-21T08:14:04.057538"
   }
 ]
