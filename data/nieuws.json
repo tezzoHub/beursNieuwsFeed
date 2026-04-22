@@ -1,12 +1,48 @@
 [
   {
+    "id": "d55cb766094801d57edcd04fbc834853",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: ASMI en Akzo uitblinkers in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/861340/Beursupdate-ASMI-en-Akzo-uitblinkers-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdag hoger, mede dankzij de koerswinsten van AkzoNobel en vooral ASMI. Rond de klok van elf uur won de AEX 0,6 procent op 1.025,94 punten.",
+    "published_at": "2026-04-22 10:56",
+    "scraped_at": "2026-04-22T09:23:14.351601"
+  },
+  {
+    "id": "0f08ae715f9dc25df5b9cb6e96389ae1",
+    "categorie": "IEX",
+    "titel": "Must read: Nederlands consumentenvertrouwen zakt door de grond",
+    "link": "https://www.iex.nl/artikel/861179/Must-read-Nederlands-consumentenvertrouwen-zakt-door-de-grond.aspx",
+    "intro": "Het Nederlands consumentenvertrouwen gaat door een diep dal, huizen waren ook iets duurder. Charles Darwin blijkt naast genie ook meesterlijk belegger.",
+    "published_at": "2026-04-22 10:00",
+    "scraped_at": "2026-04-22T09:23:14.351601"
+  },
+  {
+    "id": "75ac101a1584efc08688a7d5377626b8",
+    "categorie": "Beursnieuws",
+    "titel": "Nederlandse investeringen stabiliseren",
+    "link": "https://www.beurs.nl/Nieuws/861334/Nederlandse-investeringen-stabiliseren.aspx",
+    "intro": "De Nederlandse investeringen zijn in februari gestabiliseerd. Dit bleek woensdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-04-22 09:59",
+    "scraped_at": "2026-04-22T09:23:14.351601"
+  },
+  {
+    "id": "eee3a3c8d47738e0f987ef94a19502c4",
+    "categorie": "Beursnieuws",
+    "titel": "Italiaanse toezichthouder opent onderzoek naar Booking.com",
+    "link": "https://www.beurs.nl/Nieuws/861332/Italiaanse-toezichthouder-opent-onderzoek-naar-Bookingcom.aspx",
+    "intro": "De Italiaanse mededingingsautoriteit Autorità Garante della Concorrenza e del Mercato heeft een onderzoek ingesteld naar Booking.com wegens mogelijke oneerlijke handelspraktijken. Dit maakte de toezichthouder woensdagochtend bekend.",
+    "published_at": "2026-04-22 09:51",
+    "scraped_at": "2026-04-22T09:23:14.351601"
+  },
+  {
     "id": "163938180d7596731311e6d9c8e5171d",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Degroof Petercam verlaagt koersdoel Corbion",
     "link": "https://www.beurs.nl/Nieuws/861331/Beursblik-Degroof-Petercam-verlaagt-koersdoel-Corbion.aspx",
     "intro": "Degroof Petercam heeft woensdag het koersdoel voor Corbion verlaagd van 30,00 naar 26,00 euro, maar met herhaling van het koopadvies. Dit bleek uit een rapport van analist Fernand de Boer van Degroof.",
     "published_at": "2026-04-22 09:42",
-    "scraped_at": "2026-04-22T07:51:47.939404"
+    "scraped_at": "2026-04-22T09:23:14.351601"
   },
   {
     "id": "306fd715e6b432665e3de02a3af86ca4",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861330/Beursblik-sterke-jaarstart-geeft-AkzoNobel-buffer.aspx",
     "intro": "AkzoNobel heeft een sterke jaarstart achter de rug en dat creëert een buffer voor de rest van het jaar. Dit stelde analist Frank Claassen van Degroof Petercam in een rapport.",
     "published_at": "2026-04-22 09:31",
-    "scraped_at": "2026-04-22T07:51:47.939404"
+    "scraped_at": "2026-04-22T09:23:14.351601"
   },
   {
     "id": "9d2af06990338870be0e08b416041316",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861329/Beursblik-Degroof-Petercam-verhoogt-koersdoel-ASMI.aspx",
     "intro": "Degroof Petercam heeft woensdag het koersdoel voor ASMI verhoogd van 880 naar 965 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Michael Roeg.",
     "published_at": "2026-04-22 09:28",
-    "scraped_at": "2026-04-22T07:51:47.939404"
+    "scraped_at": "2026-04-22T09:23:14.351601"
   },
   {
     "id": "401a43bf124a1db7aff938e95257c31a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861326/Beursblik-KBC-Securities-verhoogt-koersdoel-ASMI.aspx",
     "intro": "KBC Securities heeft woensdag het koersdoel voor ASMI verhoogd van 658 naar 770 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist Thibault Leneeuw in reactie op de kwartaalupdate van de halfgeleiderspecialist.",
     "published_at": "2026-04-22 09:12",
-    "scraped_at": "2026-04-22T07:51:47.939404"
+    "scraped_at": "2026-04-22T09:23:14.351601"
   },
   {
     "id": "f6e36ecdc4077e95895c5915badccc29",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861324/ASMI-uitblinker-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger geopend, mede dankzij een koerssprong van ASMI na cijfers.",
     "published_at": "2026-04-22 09:08",
-    "scraped_at": "2026-04-22T07:51:47.939404"
+    "scraped_at": "2026-04-22T09:23:14.351601"
   },
   {
     "id": "0d02d485bcc4de0e4ce496a19dc77245",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861321/DNB-schrapt-MREL-eis-voor-Triodos.aspx",
     "intro": "De Nederlandsche Bank heeft besloten om de zogeheten MREL-eis voor Triodos Bank te schrappen. Dit maakte de bank woensdagochtend bekend.",
     "published_at": "2026-04-22 08:52",
-    "scraped_at": "2026-04-22T07:51:47.939404"
-  },
-  {
-    "id": "1704428f101981ba73c3c99f305e6945",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: stabiel eerste kwartaal Vopak",
-    "link": "https://www.beurs.nl/Nieuws/861318/Beursblik-stabiel-eerste-kwartaal-Vopak.aspx",
-    "intro": "Vopak heeft een stabiel eerste kwartaal achter de rug, waarbij de onrust in het Midden-Oosten de outlook voor heel 2026 nog niet beïnvloedt. Dit stelde analist David Kerstens van Jefferies woensdag in een rapport.",
-    "published_at": "2026-04-22 08:43",
-    "scraped_at": "2026-04-22T07:51:47.939404"
-  },
-  {
-    "id": "8027d659b7b53bf2f32f94578c592581",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere kwartaalomzet voor Danone",
-    "link": "https://www.beurs.nl/Nieuws/861317/Hogere-kwartaalomzet-voor-Danone.aspx",
-    "intro": "Danone heeft in het eerste kwartaal de omzet zien stijgen. Dit bleek woensdagochtend uit een update van het Franse voedingsbedrijf.",
-    "published_at": "2026-04-22 08:42",
-    "scraped_at": "2026-04-22T07:51:47.939404"
-  },
-  {
-    "id": "9c2ff2beabcc3d14ae5265f71ffd4a8f",
-    "categorie": "Voorbeurs",
-    "titel": "Trump bindt in, maar markt reageert lauw - en cijfers ASMI, Randstad, Corbion, Akzo en Vopak",
-    "link": "https://www.beurs.nl/Artikel/861229/Trump-bindt-in-maar-markt-reageert-lauw-en-cijfers-ASMI-Randstad-Corbion-Akzo-en-Vopak.aspx",
-    "intro": "Openingsindicatie: +0,3%. Trump verlengt staakt-het-vuren. Olieprijs daalt, maar goudprijs loopt op. Cijferbonanza. En verder: Amazon, Deutsche Telekom, Adobe en Apple.",
-    "published_at": "2026-04-22 08:30",
-    "scraped_at": "2026-04-22T07:51:47.939404"
-  },
-  {
-    "id": "c193ad8ebe423166d7585c6344da6f30",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Corbion rekent op verbetering na slechte jaarstart",
-    "link": "https://www.beurs.nl/Nieuws/861314/Update-Corbion-rekent-op-verbetering-na-slechte-jaarstart.aspx",
-    "intro": "Corbion is 2026 gestart met een lagere omzet en een daling van de marge. Dit bleek woensdagochtend uit cijfers van de producent van biologische ingrediënten en biochemicaliën.",
-    "published_at": "2026-04-22 08:29",
-    "scraped_at": "2026-04-22T07:51:47.939404"
+    "scraped_at": "2026-04-22T09:23:14.351601"
   }
 ]
