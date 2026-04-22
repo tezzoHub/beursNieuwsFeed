@@ -1,92 +1,11 @@
 [
   {
-    "id": "62164a32d36c9cfc46e6fbebf1db64be",
+    "id": "2020bd970e6c4f42d40861cc2abceb3a",
     "categorie": "Beursnieuws",
-    "titel": "Brent-olie sluit boven 100 dollar",
-    "link": "https://www.beurs.nl/Nieuws/861462/Brent-olie-sluit-boven-100-dollar.aspx",
-    "intro": "De olieprijs is woensdag voor de derde dag op rij gestegen, terwijl de Straat van Hormuz gesloten bleef.",
-    "published_at": "2026-04-22 23:09",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "d389ca89e84319840bce78ed48628abe",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet voor IBM dankzij AI",
-    "link": "https://www.beurs.nl/Nieuws/861461/Meer-omzet-voor-IBM-dankzij-AI.aspx",
-    "intro": "IBM heeft in het eerste kwartaal meer omzet en winst geboekt, gesteund door de toenemende toepassing van AI-applicaties door bedrijven. Dat bleek woensdag uit de kwartaalupdate van het Amerikaanse technologiebedrijf.",
-    "published_at": "2026-04-22 22:57",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "7850d7d8bad08b50e689cdee476ab337",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit hoger",
-    "link": "https://www.beurs.nl/Nieuws/861456/Wall-Street-sluit-hoger.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag hoger gesloten, aangevoerd door technologie-aandelen, geholpen door een verlenging van het Amerikaanse bestand met Iran.",
-    "published_at": "2026-04-22 22:37",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "54cb0a0fafe174e2ac78fbb3f67eeca9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/861455/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag zes van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. ASML daalde het sterkst.",
-    "published_at": "2026-04-22 22:23",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "2162ac3899df9f1e8de3f83f945e3896",
-    "categorie": "Beursnieuws",
-    "titel": "Winst FlatexDegiro groeit sneller dan omzet",
-    "link": "https://www.beurs.nl/Nieuws/861446/Winst-FlatexDegiro-groeit-sneller-dan-omzet.aspx",
-    "intro": "FlatexDegiro heeft in het eerste kwartaal een forse omzetgroei en een nog sterker winstgroei geboekt. Dat maakte de Duitse eigenaar van het Nederlandse beleggingsplatform Degiro woensdag bekend.",
-    "published_at": "2026-04-22 21:23",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "0183af7dc60e4e1dde97230cf9d1fbc0",
-    "categorie": "Beursnieuws",
-    "titel": "Michiel Lap nieuwe voorzitter ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/861443/Michiel-Lap-nieuwe-voorzitter-ABN-AMRO.aspx",
-    "intro": "Michiel Lap volgt Tom de Swaan op als voorzitter van de Raad van Commissarissen bij ABN AMRO. Dat maakte de bank woensdag bekend na de jaarvergadering.",
-    "published_at": "2026-04-22 21:11",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "89bc6df74cab69512f8f7d834443378d",
-    "categorie": "Beursnieuws",
-    "titel": "Winst op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/861426/Winst-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen stonden woensdagavond hoger, onder leiding van technologie-aandelen, geholpen door een verlenging van het Amerikaanse bestand met Iran.",
-    "published_at": "2026-04-22 20:47",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "8cb4807e05efa1bf0b08e8b1b3df3cef",
-    "categorie": "Beursnieuws",
-    "titel": "Patstelling rond Hormuz drukt op Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/861425/Patstelling-rond-Hormuz-drukt-op-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen zijn woensdag lager gesloten, nadat het zicht op vrede in Iran niet opklaarde terwijl de economische cijfers vooral somber waren.",
-    "published_at": "2026-04-22 18:57",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "f67e719c9b04f990b343fa01ae8598ae",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit licht hoger op sterke bedrijfscijfers",
-    "link": "https://www.beurs.nl/Nieuws/861420/AEX-sluit-licht-hoger-op-sterke-bedrijfscijfers.aspx",
-    "intro": "De Amsterdamse beurs is woensdag licht hoger gesloten, terwijl beleggers de verlenging van het staakt-het-vuren met Iran, economische cijfers en een reeks bedrijfsresultaten beoordeelden.",
-    "published_at": "2026-04-22 17:52",
-    "scraped_at": "2026-04-22T21:57:12.231734"
-  },
-  {
-    "id": "57e2a0fe95a2ef30ec842e8ea8d8bbff",
-    "categorie": "IEX",
-    "titel": "Slotcall: AEX sluit hoger en mag kort opladen voor Super Thursday",
-    "link": "https://www.iex.nl/artikel/861418/Slotcall-AEX-sluit-hoger-en-mag-kort-opladen-voor-Super-Thursday.aspx",
-    "intro": "De AEX eindigt zojuist met een winst van 0,2%. Daarmee behoort het Damrak zelfs nog tot de betere leerlingen van Europa, waar de stemming gemengd is met lichte verliezen voor Parijs en Brussel en een vlak verloop in Frankfurt.",
-    "published_at": "2026-04-22 17:35",
-    "scraped_at": "2026-04-22T21:57:12.231734"
+    "titel": "Tesla verrast en stelt teleur",
+    "link": "https://www.beurs.nl/Nieuws/861468/Tesla-verrast-en-stelt-teleur.aspx",
+    "intro": "Tesla heeft in het eerste kwartaal verrast met omzet- en winstgroei en een positieve kasstroom, maar een aanvankelijke positieve koersreactie op de cijfers hield geen stand, nadat topman Elon Musk erkende dat de auto's technisch nog niet in staat zijn om geheel zelfstandig te rijden.",
+    "published_at": "2026-04-23 00:38",
+    "scraped_at": "2026-04-22T22:54:55.493000"
   }
 ]
