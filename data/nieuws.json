@@ -1,12 +1,30 @@
 [
   {
+    "id": "ee2929045e07197f59fc976d578ee380",
+    "categorie": "Beursnieuws",
+    "titel": "ASML stelt dividend vast",
+    "link": "https://www.beurs.nl/Nieuws/861391/ASML-stelt-dividend-vast.aspx",
+    "intro": "ASML heeft woensdag op de jaarvergadering een slotdividend van 2,70 euro per gewoon aandeel vastgesteld over het boekjaar 2025. Dit maakte de chipmachinefabrikant uit Veldhoven bekend.",
+    "published_at": "2026-04-22 14:35",
+    "scraped_at": "2026-04-22T12:48:23.571757"
+  },
+  {
+    "id": "0f2f08004edb996ccf37ccf60df964ba",
+    "categorie": "Beursnieuws",
+    "titel": "Boeing verkleint verlies",
+    "link": "https://www.beurs.nl/Nieuws/861375/Boeing-verkleint-verlies.aspx",
+    "intro": "Boeing heeft het eerste kwartaal van 2026 afgesloten met een kleiner verlies en hogere omzet. Dit bleek woensdag uit de kwartaalcijfers van de Amerikaanse luchtvaartgigant.",
+    "published_at": "2026-04-22 13:46",
+    "scraped_at": "2026-04-22T12:48:23.571757"
+  },
+  {
     "id": "ff80fbbecc6608551783e944cc2f144f",
     "categorie": "Beursnieuws",
     "titel": "Obligatie: Nederland wil tot 1,5 miljard euro ophalen",
     "link": "https://www.beurs.nl/Nieuws/861372/Obligatie-Nederland-wil-tot-15-miljard-euro-ophalen.aspx",
     "intro": "Nederland wil dinsdag 28 april tot 1,5 miljard euro ophalen met de heropening van een langlopende lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
     "published_at": "2026-04-22 13:29",
-    "scraped_at": "2026-04-22T11:45:46.744576"
+    "scraped_at": "2026-04-22T12:48:23.571757"
   },
   {
     "id": "e910f11fbd3bb0417928b2dc5511d26a",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/861371/Philip-Morris-groeit-dankzij-tabaksalternatieven.aspx",
     "intro": "Philip Morris International heeft in het eerste kwartaal van 2026 de omzet en winst zien stijgen, gedreven door de groeiende rookvrije activiteiten. Dit bleek woensdag uit de kwartaalcijfers van het Amerikaanse tabaksbedrijf.",
     "published_at": "2026-04-22 13:26",
-    "scraped_at": "2026-04-22T11:45:46.744576"
+    "scraped_at": "2026-04-22T12:48:23.571757"
   },
   {
     "id": "060da907059d519f7c89db22ba4858c4",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/861369/ATT-boekt-hoger-dan-voorziene-winst.aspx",
     "intro": "ATT heeft in het eerste kwartaal een aangepaste winst geboekt die de verwachtingen overtrof. Dit bleek woensdag uit cijfers van het Amerikaanse telecombedrijf.",
     "published_at": "2026-04-22 13:22",
-    "scraped_at": "2026-04-22T11:45:46.744576"
+    "scraped_at": "2026-04-22T12:48:23.571757"
   },
   {
     "id": "8d40d9acff3ba76fea648a58b421748a",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861367/Turkse-centrale-bank-handhaaft-rente.aspx",
     "intro": "De Turkse centrale bank heeft woensdag de rente gehandhaafd. Dit bleek uit het rentebesluit van de monetaire instelling.",
     "published_at": "2026-04-22 13:09",
-    "scraped_at": "2026-04-22T11:45:46.744576"
+    "scraped_at": "2026-04-22T12:48:23.571757"
   },
   {
     "id": "47e0d976a6b3f050928814df84e67758",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861362/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,6 procent in het groen.",
     "published_at": "2026-04-22 13:00",
-    "scraped_at": "2026-04-22T11:45:46.744576"
+    "scraped_at": "2026-04-22T12:48:23.571757"
   },
   {
     "id": "d16d50f295a729abfcb05df984452553",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861360/Beursblik-Degroof-zet-Randstad-op-de-kooplijst.aspx",
     "intro": "Degroof Petercam heeft woensdag het advies voor Randstad verhoogd van Houden naar Kopen met een onveranderd koersdoel van 34,00 euro. Dit bleek uit een rapport van analist Frank Claassen.",
     "published_at": "2026-04-22 12:34",
-    "scraped_at": "2026-04-22T11:45:46.744576"
+    "scraped_at": "2026-04-22T12:48:23.571757"
   },
   {
     "id": "49eb87f3c1cf364376d476c89f229693",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861357/Video-ondanks-alle-onrust-bieden-aandelen-nog-kansen.aspx",
     "intro": "De financiële markten zijn \"bijzonder nerveus\" en beleggers vragen zich af wat zij moeten doen. Op deze vraag geeft investment manager Simon Wiersma van ING Investment Office antwoord voor de camera van ABM Financial News.",
     "published_at": "2026-04-22 12:21",
-    "scraped_at": "2026-04-22T11:45:46.744576"
+    "scraped_at": "2026-04-22T12:48:23.571757"
   },
   {
     "id": "e76bd35eec55f1c85892cf4e0d3f7d4f",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861355/Beperkte-beweging-op-Europese-beurzen.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur per saldo iets lager.",
     "published_at": "2026-04-22 12:10",
-    "scraped_at": "2026-04-22T11:45:46.744576"
-  },
-  {
-    "id": "94271bc61468c0e8ddfc05e4edff81c1",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel ASMI",
-    "link": "https://www.beurs.nl/Nieuws/861349/Bank-of-America-verhoogt-koersdoel-ASMI.aspx",
-    "intro": "Bank of America heeft woensdag het koersdoel voor ASMI verhoogd van 919 naar 1.046 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
-    "published_at": "2026-04-22 11:41",
-    "scraped_at": "2026-04-22T11:45:46.744576"
-  },
-  {
-    "id": "c3f49ca0012fbd7010287eb08ca1f64f",
-    "categorie": "Beursnieuws",
-    "titel": "ASMI en Akzo uitblinkers in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/861340/ASMI-en-Akzo-uitblinkers-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdag hoger, mede dankzij de koerswinsten van AkzoNobel en vooral ASMI. Rond de klok van elf uur won de AEX 0,6 procent op 1.025,94 punten.",
-    "published_at": "2026-04-22 10:56",
-    "scraped_at": "2026-04-22T11:45:46.744576"
+    "scraped_at": "2026-04-22T12:48:23.571757"
   }
 ]
