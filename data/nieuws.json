@@ -1,12 +1,39 @@
 [
   {
+    "id": "57e2a0fe95a2ef30ec842e8ea8d8bbff",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX sluit hoger en mag kort opladen voor Super Thursday",
+    "link": "https://www.iex.nl/artikel/861418/Slotcall-AEX-sluit-hoger-en-mag-kort-opladen-voor-Super-Thursday.aspx",
+    "intro": "De AEX eindigt zojuist met een winst van 0,2%. Daarmee behoort het Damrak zelfs nog tot de betere leerlingen van Europa, waar de stemming gemengd is met lichte verliezen voor Parijs en Brussel en een vlak verloop in Frankfurt.",
+    "published_at": "2026-04-22 17:35",
+    "scraped_at": "2026-04-22T15:57:28.371868"
+  },
+  {
+    "id": "fd46b23d4219882575a0e1874acea8ab",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse regering halveert groeiprognose",
+    "link": "https://www.beurs.nl/Nieuws/861419/Duitse-regering-halveert-groeiprognose.aspx",
+    "intro": "De Duitse economie groeit dit jaar nog maar met een half procent, mede door de oorlog in Iran. Dat bleek woensdag uit de nieuwe voorjaarsprognose van het Duitse ministerie van economische zaken.",
+    "published_at": "2026-04-22 17:10",
+    "scraped_at": "2026-04-22T15:57:28.371868"
+  },
+  {
+    "id": "b50f497eda9e70c2ff7fe1ff59b56f2a",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden stijgen onverwacht",
+    "link": "https://www.beurs.nl/Nieuws/861417/Amerikaanse-olievoorraden-stijgen-onverwacht.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week gestegen terwijl de markt rekende op een daling. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-04-22 16:43",
+    "scraped_at": "2026-04-22T15:57:28.371868"
+  },
+  {
     "id": "44eb78befa4454b04ed9311ed5879a6b",
     "categorie": "Beursnieuws",
     "titel": "Consumentenvertrouwen eurozone daalt verder",
     "link": "https://www.beurs.nl/Nieuws/861415/Consumentenvertrouwen-eurozone-daalt-verder.aspx",
     "intro": "Het consumentenvertrouwen in de eurozone is in april opnieuw gedaald. Dit bleek woensdag uit voorlopige cijfers van de Europese Commissie.",
     "published_at": "2026-04-22 16:07",
-    "scraped_at": "2026-04-22T14:26:33.176013"
+    "scraped_at": "2026-04-22T15:57:28.371868"
   },
   {
     "id": "7b074184b12a6d8c532d60d17573fcd7",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/861409/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 30 april 2026:",
     "published_at": "2026-04-22 15:56",
-    "scraped_at": "2026-04-22T14:26:33.176013"
+    "scraped_at": "2026-04-22T15:57:28.371868"
   },
   {
     "id": "1308ebfec4ea4f59b66752f3f0517ac1",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861407/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 30 april 2026:",
     "published_at": "2026-04-22 15:55",
-    "scraped_at": "2026-04-22T14:26:33.176013"
+    "scraped_at": "2026-04-22T15:57:28.371868"
   },
   {
     "id": "c40418a1853a1230f5ef4de3b286ccf8",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861408/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 30 april 2026:",
     "published_at": "2026-04-22 15:55",
-    "scraped_at": "2026-04-22T14:26:33.176013"
+    "scraped_at": "2026-04-22T15:57:28.371868"
   },
   {
     "id": "2f13098a94c04a6e8d2eec9fd1c8dd9d",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861406/Philips-krijgt-FDA-goedkeuring-voor-scansystemen.aspx",
     "intro": "Philips heeft van de Amerikaanse toezichthouder FDA goedkeuring ontvangen voor het Rembra-platform, een nieuwe lijn CT-scansystemen voor diagnostische beeldvorming en bestralingsplanning bij kanker. Dit maakte het Nederlandse medtechbedrijf woensdag bekend.",
     "published_at": "2026-04-22 15:52",
-    "scraped_at": "2026-04-22T14:26:33.176013"
+    "scraped_at": "2026-04-22T15:57:28.371868"
   },
   {
     "id": "0438622e42b7fa1872a785bd3a01ea6b",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861397/Wall-Street-stevent-af-op-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,7 procent in het groen.",
     "published_at": "2026-04-22 14:55",
-    "scraped_at": "2026-04-22T14:26:33.176013"
+    "scraped_at": "2026-04-22T15:57:28.371868"
   },
   {
     "id": "ee2929045e07197f59fc976d578ee380",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861391/ASML-stelt-dividend-vast.aspx",
     "intro": "ASML heeft woensdag op de jaarvergadering een slotdividend van 2,70 euro per gewoon aandeel vastgesteld over het boekjaar 2025. Dit maakte de chipmachinefabrikant uit Veldhoven bekend.",
     "published_at": "2026-04-22 14:35",
-    "scraped_at": "2026-04-22T14:26:33.176013"
-  },
-  {
-    "id": "0f2f08004edb996ccf37ccf60df964ba",
-    "categorie": "Beursnieuws",
-    "titel": "Boeing verkleint verlies",
-    "link": "https://www.beurs.nl/Nieuws/861375/Boeing-verkleint-verlies.aspx",
-    "intro": "Boeing heeft het eerste kwartaal van 2026 afgesloten met een kleiner verlies en hogere omzet. Dit bleek woensdag uit de kwartaalcijfers van de Amerikaanse luchtvaartgigant.",
-    "published_at": "2026-04-22 13:46",
-    "scraped_at": "2026-04-22T14:26:33.176013"
-  },
-  {
-    "id": "ff80fbbecc6608551783e944cc2f144f",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil tot 1,5 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/861372/Obligatie-Nederland-wil-tot-15-miljard-euro-ophalen.aspx",
-    "intro": "Nederland wil dinsdag 28 april tot 1,5 miljard euro ophalen met de heropening van een langlopende lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-04-22 13:29",
-    "scraped_at": "2026-04-22T14:26:33.176013"
-  },
-  {
-    "id": "e910f11fbd3bb0417928b2dc5511d26a",
-    "categorie": "Beursnieuws",
-    "titel": "Philip Morris groeit dankzij tabaksalternatieven",
-    "link": "https://www.beurs.nl/Nieuws/861371/Philip-Morris-groeit-dankzij-tabaksalternatieven.aspx",
-    "intro": "Philip Morris International heeft in het eerste kwartaal van 2026 de omzet en winst zien stijgen, gedreven door de groeiende rookvrije activiteiten. Dit bleek woensdag uit de kwartaalcijfers van het Amerikaanse tabaksbedrijf.",
-    "published_at": "2026-04-22 13:26",
-    "scraped_at": "2026-04-22T14:26:33.176013"
+    "scraped_at": "2026-04-22T15:57:28.371868"
   }
 ]
