@@ -1,12 +1,66 @@
 [
   {
+    "id": "5a6e72e90cca40f868e8db93b43ff584",
+    "categorie": "Beursnieuws",
+    "titel": "Minder winst voor Lockheed Martin",
+    "link": "https://www.beurs.nl/Nieuws/861571/Minder-winst-voor-Lockheed-Martin.aspx",
+    "intro": "Lockheed Martin heeft in het eerste kwartaal een lagere winst geboekt. Dat bleek donderdag uit de kwartaalcijfers van het Amerikaanse ruimtevaart- en defensiebedrijf.",
+    "published_at": "2026-04-23 13:06",
+    "scraped_at": "2026-04-23T11:35:08.764540"
+  },
+  {
+    "id": "2edcb2fc9d32b561c5c5bc6eac2cdbcc",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op lagere opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/861570/Futures-wijzen-op-lagere-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,5 procent in het rood.",
+    "published_at": "2026-04-23 13:02",
+    "scraped_at": "2026-04-23T11:35:08.764540"
+  },
+  {
+    "id": "00bc7ef8c6e431f568a11b3e25c8d47f",
+    "categorie": "Beursnieuws",
+    "titel": "Weer rode cijfers voor Dow Inc",
+    "link": "https://www.beurs.nl/Nieuws/861566/Weer-rode-cijfers-voor-Dow-Inc.aspx",
+    "intro": "Dow Inc heeft in het eerste kwartaal minder omzet behaald en opnieuw verlies geleden. Dit bleek donderdag uit cijfers van het Amerikaanse chemieconcern.",
+    "published_at": "2026-04-23 12:35",
+    "scraped_at": "2026-04-23T11:35:08.764540"
+  },
+  {
+    "id": "e143d878c030027a641d56eac97712f9",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet en winst voor Honeywell",
+    "link": "https://www.beurs.nl/Nieuws/861562/Meer-omzet-en-winst-voor-Honeywell.aspx",
+    "intro": "Honeywell heeft in het eerste kwartaal de omzet en winst zien stijgen en herhaalde de outlook voor heel dit jaar. Dit bleek donderdag uit cijfers van de Amerikaanse industriereus.",
+    "published_at": "2026-04-23 12:22",
+    "scraped_at": "2026-04-23T11:35:08.764540"
+  },
+  {
+    "id": "d5104330e7a97567ab995876f2d022cb",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/861557/Europese-beurzen-overwegend-lager.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur overwegend lager, door stijgende spanningen in de Straat van Hormuz die beleggers opnieuw verontrustten en de olieprijs weer opstuwden.",
+    "published_at": "2026-04-23 12:19",
+    "scraped_at": "2026-04-23T11:35:08.764540"
+  },
+  {
+    "id": "33d832b815fbb4e118c5bcf49c9a03a4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke nieuwe omzet RELX",
+    "link": "https://www.beurs.nl/Nieuws/861558/Beursblik-sterke-nieuwe-omzet-RELX.aspx",
+    "intro": "RELX heeft in het eerste kwartaal van dit jaar een sterke nieuwe omzet gerealiseerd, terwijl de outlook werd gehandhaafd. Dit schreven analisten van Bank of America donderdag in een rapport.",
+    "published_at": "2026-04-23 12:19",
+    "scraped_at": "2026-04-23T11:35:08.764540"
+  },
+  {
     "id": "71c44d23c8d2ed3c4b1f9251279f74ad",
     "categorie": "Beursnieuws",
     "titel": "ASML en RELX drukken op AEX",
     "link": "https://www.beurs.nl/Nieuws/861544/ASML-en-RELX-drukken-op-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagochtend lager, mede door de koersverliezen van RELX en ASML. Rond de klok van elf uur daalde de AEX met 1,3 procent tot 1.008,19 punten.",
     "published_at": "2026-04-23 11:11",
-    "scraped_at": "2026-04-23T10:05:33.582582"
+    "scraped_at": "2026-04-23T11:35:08.764540"
   },
   {
     "id": "8e5551b45f158a0f87019a5b1149b3c7",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861543/Flinke-groeiversnelling-voor-Britse-industrie-en-dienstensector.aspx",
     "intro": "De dienstensector en de industrie in het Verenigd Koninkrijk zijn in april in een beduidend hoger tempo gegroeid. Dit bleek donderdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-04-23 10:44",
-    "scraped_at": "2026-04-23T10:05:33.582582"
+    "scraped_at": "2026-04-23T11:35:08.764540"
   },
   {
     "id": "71c7ef6b354feb9ec7f6c90cc43bc87f",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861540/Citi-weinig-impact-opmerkingen-TSMC-voor-ASML.aspx",
     "intro": "TSMC heeft zich beklaagd over de prijzen van de nieuwe EUV-machines van ASML, en dat drukt de koers. Dit stelden analisten van Citi Research donderdag in een rapport.",
     "published_at": "2026-04-23 10:30",
-    "scraped_at": "2026-04-23T10:05:33.582582"
+    "scraped_at": "2026-04-23T11:35:08.764540"
   },
   {
     "id": "513198d1274b0e4bfb2e510687659104",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861538/Dienstensector-in-eurozone-krimpt-flink.aspx",
     "intro": "De dienstensector in de eurozone is in april flink gekrompen. Dit bleek donderdag uit cijfers van SP Global.",
     "published_at": "2026-04-23 10:23",
-    "scraped_at": "2026-04-23T10:05:33.582582"
-  },
-  {
-    "id": "592786da25565d498180e1f46827b1e3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: omzet Fugro valt mee",
-    "link": "https://www.beurs.nl/Nieuws/861536/Beursblik-omzet-Fugro-valt-mee.aspx",
-    "intro": "Fugro heeft in het eerste kwartaal een meevallende omzet geboekt, terwijl de EBIT juist tegenviel. Dit stelde analist Luuk van Beek van Degroof Petercam donderdag in een rapport.",
-    "published_at": "2026-04-23 10:18",
-    "scraped_at": "2026-04-23T10:05:33.582582"
-  },
-  {
-    "id": "2b33a68dd6cf63ca540cbcb760f47e3b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke vooruitzichten voor Besi",
-    "link": "https://www.beurs.nl/Nieuws/861533/Beursblik-sterke-vooruitzichten-voor-Besi.aspx",
-    "intro": "BE Semiconductor Industries heeft sterke orders geboekt in het eerste kwartaal en een dito outlook voor het tweede kwartaal gegeven. Dit concludeerde analist Michael Roeg van Degroof Petercam donderdag in een rapport.",
-    "published_at": "2026-04-23 10:02",
-    "scraped_at": "2026-04-23T10:05:33.582582"
-  },
-  {
-    "id": "bf083a93df405c49d26065b40afece5a",
-    "categorie": "IEX",
-    "titel": "Must read: Beurzen negeren oorlog en dat is terecht",
-    "link": "https://www.iex.nl/artikel/861337/Must-read-Beurzen-negeren-oorlog-en-dat-is-terecht.aspx",
-    "intro": "Plus: duurzame energie is niet langer een klimaatverhaal, AI is de inflatiekiller, zilverprijs kan weer exploderen, pensioenfondsen geraakt door oorlog tegen Iran en meer.",
-    "published_at": "2026-04-23 10:00",
-    "scraped_at": "2026-04-23T10:05:33.582582"
-  },
-  {
-    "id": "88825741af3afb7f1d9da030930e4d62",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Heineken presteert grofweg conform verwachting",
-    "link": "https://www.beurs.nl/Nieuws/861531/Beursblik-Heineken-presteert-grofweg-conform-verwachting.aspx",
-    "intro": "Heineken heeft in het eerste kwartaal grofweg conform verwachting gepresteerd. Dit oordeelde analist Fernand de Boer van Degroof Petercam in een rapport.",
-    "published_at": "2026-04-23 09:50",
-    "scraped_at": "2026-04-23T10:05:33.582582"
-  },
-  {
-    "id": "5272ac81ee0da145ce35ef4714be68b0",
-    "categorie": "Beursnieuws",
-    "titel": "Krimp in Duitse dienstensector",
-    "link": "https://www.beurs.nl/Nieuws/861530/Krimp-in-Duitse-dienstensector.aspx",
-    "intro": "De dienstensector in Duitsland is in april gekrompen, terwijl de groei in de industrie vertraagde. Dit bleek donderdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-04-23 09:48",
-    "scraped_at": "2026-04-23T10:05:33.582582"
-  },
-  {
-    "id": "8e62e3b9534a106f79797b300d742885",
-    "categorie": "Beursnieuws",
-    "titel": "Franse dienstensector flink onder druk",
-    "link": "https://www.beurs.nl/Nieuws/861528/Franse-dienstensector-flink-onder-druk.aspx",
-    "intro": "De Franse dienstensector stond in april opnieuw flink onder druk, maar de industrie wist de groei wel vast te houden. Dit bleek donderdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-04-23 09:41",
-    "scraped_at": "2026-04-23T10:05:33.582582"
+    "scraped_at": "2026-04-23T11:35:08.764540"
   }
 ]
