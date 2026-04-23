@@ -1,12 +1,48 @@
 [
   {
+    "id": "71c44d23c8d2ed3c4b1f9251279f74ad",
+    "categorie": "Beursnieuws",
+    "titel": "ASML en RELX drukken op AEX",
+    "link": "https://www.beurs.nl/Nieuws/861544/ASML-en-RELX-drukken-op-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend lager, mede door de koersverliezen van RELX en ASML. Rond de klok van elf uur daalde de AEX met 1,3 procent tot 1.008,19 punten.",
+    "published_at": "2026-04-23 11:11",
+    "scraped_at": "2026-04-23T10:05:33.582582"
+  },
+  {
+    "id": "8e5551b45f158a0f87019a5b1149b3c7",
+    "categorie": "Beursnieuws",
+    "titel": "Flinke groeiversnelling voor Britse industrie en dienstensector",
+    "link": "https://www.beurs.nl/Nieuws/861543/Flinke-groeiversnelling-voor-Britse-industrie-en-dienstensector.aspx",
+    "intro": "De dienstensector en de industrie in het Verenigd Koninkrijk zijn in april in een beduidend hoger tempo gegroeid. Dit bleek donderdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-04-23 10:44",
+    "scraped_at": "2026-04-23T10:05:33.582582"
+  },
+  {
+    "id": "71c7ef6b354feb9ec7f6c90cc43bc87f",
+    "categorie": "Beursnieuws",
+    "titel": "Citi: weinig impact opmerkingen TSMC voor ASML",
+    "link": "https://www.beurs.nl/Nieuws/861540/Citi-weinig-impact-opmerkingen-TSMC-voor-ASML.aspx",
+    "intro": "TSMC heeft zich beklaagd over de prijzen van de nieuwe EUV-machines van ASML, en dat drukt de koers. Dit stelden analisten van Citi Research donderdag in een rapport.",
+    "published_at": "2026-04-23 10:30",
+    "scraped_at": "2026-04-23T10:05:33.582582"
+  },
+  {
+    "id": "513198d1274b0e4bfb2e510687659104",
+    "categorie": "Beursnieuws",
+    "titel": "Dienstensector in eurozone krimpt flink",
+    "link": "https://www.beurs.nl/Nieuws/861538/Dienstensector-in-eurozone-krimpt-flink.aspx",
+    "intro": "De dienstensector in de eurozone is in april flink gekrompen. Dit bleek donderdag uit cijfers van SP Global.",
+    "published_at": "2026-04-23 10:23",
+    "scraped_at": "2026-04-23T10:05:33.582582"
+  },
+  {
     "id": "592786da25565d498180e1f46827b1e3",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: omzet Fugro valt mee",
     "link": "https://www.beurs.nl/Nieuws/861536/Beursblik-omzet-Fugro-valt-mee.aspx",
     "intro": "Fugro heeft in het eerste kwartaal een meevallende omzet geboekt, terwijl de EBIT juist tegenviel. Dit stelde analist Luuk van Beek van Degroof Petercam donderdag in een rapport.",
     "published_at": "2026-04-23 10:18",
-    "scraped_at": "2026-04-23T08:24:59.938507"
+    "scraped_at": "2026-04-23T10:05:33.582582"
   },
   {
     "id": "2b33a68dd6cf63ca540cbcb760f47e3b",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861533/Beursblik-sterke-vooruitzichten-voor-Besi.aspx",
     "intro": "BE Semiconductor Industries heeft sterke orders geboekt in het eerste kwartaal en een dito outlook voor het tweede kwartaal gegeven. Dit concludeerde analist Michael Roeg van Degroof Petercam donderdag in een rapport.",
     "published_at": "2026-04-23 10:02",
-    "scraped_at": "2026-04-23T08:24:59.938507"
+    "scraped_at": "2026-04-23T10:05:33.582582"
   },
   {
     "id": "bf083a93df405c49d26065b40afece5a",
@@ -24,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/861337/Must-read-Beurzen-negeren-oorlog-en-dat-is-terecht.aspx",
     "intro": "Plus: duurzame energie is niet langer een klimaatverhaal, AI is de inflatiekiller, zilverprijs kan weer exploderen, pensioenfondsen geraakt door oorlog tegen Iran en meer.",
     "published_at": "2026-04-23 10:00",
-    "scraped_at": "2026-04-23T08:24:59.938507"
+    "scraped_at": "2026-04-23T10:05:33.582582"
   },
   {
     "id": "88825741af3afb7f1d9da030930e4d62",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861531/Beursblik-Heineken-presteert-grofweg-conform-verwachting.aspx",
     "intro": "Heineken heeft in het eerste kwartaal grofweg conform verwachting gepresteerd. Dit oordeelde analist Fernand de Boer van Degroof Petercam in een rapport.",
     "published_at": "2026-04-23 09:50",
-    "scraped_at": "2026-04-23T08:24:59.938507"
+    "scraped_at": "2026-04-23T10:05:33.582582"
   },
   {
     "id": "5272ac81ee0da145ce35ef4714be68b0",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861530/Krimp-in-Duitse-dienstensector.aspx",
     "intro": "De dienstensector in Duitsland is in april gekrompen, terwijl de groei in de industrie vertraagde. Dit bleek donderdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-04-23 09:48",
-    "scraped_at": "2026-04-23T08:24:59.938507"
+    "scraped_at": "2026-04-23T10:05:33.582582"
   },
   {
     "id": "8e62e3b9534a106f79797b300d742885",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861528/Franse-dienstensector-flink-onder-druk.aspx",
     "intro": "De Franse dienstensector stond in april opnieuw flink onder druk, maar de industrie wist de groei wel vast te houden. Dit bleek donderdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-04-23 09:41",
-    "scraped_at": "2026-04-23T08:24:59.938507"
-  },
-  {
-    "id": "13cfdf7e81858e207070086cae494dbb",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: TSMC vindt nieuwe machines ASML te duur",
-    "link": "https://www.beurs.nl/Nieuws/861526/Beursblik-TSMC-vindt-nieuwe-machines-ASML-te-duur.aspx",
-    "intro": "TSMC noemt de nieuwste lithografiemachines voor de productie van chips veel en veel te duur. Dit merkte hoofdeconoom Frank Vranken van Edmond de Rothschild donderdag op.",
-    "published_at": "2026-04-23 09:37",
-    "scraped_at": "2026-04-23T08:24:59.938507"
-  },
-  {
-    "id": "7fdfc9da66cdc8efe34aa39575aa524c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke orders en outlook bij Besi",
-    "link": "https://www.beurs.nl/Nieuws/861527/Beursblik-sterke-orders-en-outlook-bij-Besi.aspx",
-    "intro": "BE Semiconductor Industries heeft in het eerste kwartaal iets onder de verwachtingen gepresteerd, maar dit werd ruimschoots gecompenseerd door de sterke orders voor hybrid bonding en de outlook die het bedrijf gaf voor het tweede kwartaal. Dit stelde analist Andrew Gardiner van Citi Research donderdag in een rapport.",
-    "published_at": "2026-04-23 09:37",
-    "scraped_at": "2026-04-23T08:24:59.938507"
-  },
-  {
-    "id": "2569421932bc42297f43c4491a0857d5",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/861524/AEX-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 0,5 procent lager naar 1.015,11 punten, terwijl de Midkap 0,4 procent prijs moest geven.",
-    "published_at": "2026-04-23 09:20",
-    "scraped_at": "2026-04-23T08:24:59.938507"
-  },
-  {
-    "id": "335693cd57ce574d326dc186373137aa",
-    "categorie": "Beursnieuws",
-    "titel": "CSG levert munitie aan Europese klant",
-    "link": "https://www.beurs.nl/Nieuws/861522/CSG-levert-munitie-aan-Europese-klant.aspx",
-    "intro": "CSG gaat ammunitie van een groot kaliber leveren aan een West-Europees land. Dit maakte het Tsjechische defensiebedrijf met een notering in Amsterdam donderdag bekend.",
-    "published_at": "2026-04-23 09:12",
-    "scraped_at": "2026-04-23T08:24:59.938507"
+    "scraped_at": "2026-04-23T10:05:33.582582"
   }
 ]
