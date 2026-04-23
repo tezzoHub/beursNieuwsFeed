@@ -1,12 +1,57 @@
 [
   {
+    "id": "d94b8641c490a713bca525a80617e980",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/861606/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 1 mei 2026:",
+    "published_at": "2026-04-23 16:28",
+    "scraped_at": "2026-04-23T15:02:58.878206"
+  },
+  {
+    "id": "0cbfc73061bf40b6f84178382fa5f735",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/861604/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 1 mei 2026:",
+    "published_at": "2026-04-23 16:27",
+    "scraped_at": "2026-04-23T15:02:58.878206"
+  },
+  {
+    "id": "d3477d53dc1f2b7bb0789fcee19601cb",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/861605/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 1 mei 2026:",
+    "published_at": "2026-04-23 16:27",
+    "scraped_at": "2026-04-23T15:02:58.878206"
+  },
+  {
+    "id": "4f26d2a107088c7e110cf2a2a4aa8e50",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse dienstensector groeit weer",
+    "link": "https://www.beurs.nl/Nieuws/861600/Amerikaanse-dienstensector-groeit-weer.aspx",
+    "intro": "De activiteit in de Amerikaanse dienstensector is in april weer toegenomen. Dit bleek donderdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-04-23 15:59",
+    "scraped_at": "2026-04-23T15:02:58.878206"
+  },
+  {
+    "id": "0ec11e7848959c6cee9215569bab7287",
+    "categorie": "Beursnieuws",
+    "titel": "Licht lagere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/861594/Licht-lagere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening 0,2 procent in het rood. Technologiebeurs Nasdaq wacht een 0,1 procent lagere opening.",
+    "published_at": "2026-04-23 14:53",
+    "scraped_at": "2026-04-23T15:02:58.878206"
+  },
+  {
     "id": "e8e444234b5546e2d0f72f5aa5e6000d",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: lagere omzet Signify verwacht",
     "link": "https://www.beurs.nl/Nieuws/861591/Beursblik-lagere-omzet-Signify-verwacht.aspx",
     "intro": "Signify boekt vrijdagochtend naar verwachting een lagere omzet en een sterke winstdaling over het eerste kwartaal van 2026. Dit blijkt uit de analistenconsensus die het verlichtingsbedrijf samenstelde voorafgaand aan de cijfers.",
     "published_at": "2026-04-23 14:41",
-    "scraped_at": "2026-04-23T12:47:40.792962"
+    "scraped_at": "2026-04-23T15:02:58.878206"
   },
   {
     "id": "8f6ff7090879b4dc13580b87986294af",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861592/Chicago-Fed-index-zakt-onder-nul.aspx",
     "intro": "De Chicago Fed-Index is in maart gedaald. Dit maakte de centrale bank van Chicago donderdag bekend.",
     "published_at": "2026-04-23 14:37",
-    "scraped_at": "2026-04-23T12:47:40.792962"
+    "scraped_at": "2026-04-23T15:02:58.878206"
   },
   {
     "id": "f30ac455160410e3bd3599c0017c7715",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861590/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-04-23 14:35",
-    "scraped_at": "2026-04-23T12:47:40.792962"
+    "scraped_at": "2026-04-23T15:02:58.878206"
   },
   {
     "id": "ffba50fc78cde2ecb49272cffb77250d",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861587/Magic-kaarten-stuwen-omzet-Hasbro.aspx",
     "intro": "Hasbro verwacht in het eerste kwartaal meer omzet te boeken, met dank aan de populariteit van zijn ruilkaartenspel Magic: The Gathering. Dat bleek donderdag uit de kwartaalcijfers van de Amerikaanse spellenverkoper.",
     "published_at": "2026-04-23 14:11",
-    "scraped_at": "2026-04-23T12:47:40.792962"
+    "scraped_at": "2026-04-23T15:02:58.878206"
   },
   {
     "id": "b2e78656660e7d0e9eb9a17eac746629",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861581/Comcast-verliest-minder-breedbandklanten.aspx",
     "intro": "Comcast wist het verlies van breedbandklanten te beteugelen in het eerste kwartaal en zag de advertentie-inkomsten stijgen door de Olympische Spelen en de Super Bowl. Dit bleek donderdag uit cijfers van het Amerikaanse telecombedrijf.",
     "published_at": "2026-04-23 13:50",
-    "scraped_at": "2026-04-23T12:47:40.792962"
-  },
-  {
-    "id": "44cec7dd7b2da9372eba6d82d0874539",
-    "categorie": "Beursnieuws",
-    "titel": "American Airlines beperkt verlies",
-    "link": "https://www.beurs.nl/Nieuws/861580/American-Airlines-beperkt-verlies.aspx",
-    "intro": "American Airlines heeft voor de derde keer in vijf kwartalen verlies geboekt, ondanks een recordomzet in het eerste kwartaal, maar zag het verlies wel afnemen. Dat bleek donderdag uit de kwartaalupdate van de luchtvaartmaatschappij.",
-    "published_at": "2026-04-23 13:49",
-    "scraped_at": "2026-04-23T12:47:40.792962"
-  },
-  {
-    "id": "123c416076b382f591e1d63850d8aad5",
-    "categorie": "Beursnieuws",
-    "titel": "Keurig Dr Pepper ziet omzet aantrekken door frisdranken",
-    "link": "https://www.beurs.nl/Nieuws/861576/Keurig-Dr-Pepper-ziet-omzet-aantrekken-door-frisdranken.aspx",
-    "intro": "Keurig Dr Pepper heeft in het eerste kwartaal van dit jaar een hogere omzet geboekt, vooral dankzij de verkoop van frisdranken, maar de winst viel wel terug door toegenomen kosten. Dit meldde de Amerikaanse frisdrankenproducent, die JDE Peet's wil overnemen, donderdag.",
-    "published_at": "2026-04-23 13:28",
-    "scraped_at": "2026-04-23T12:47:40.792962"
-  },
-  {
-    "id": "3fa924448f29d700299635514de7c85a",
-    "categorie": "Beursnieuws",
-    "titel": "Rijke klanten stuwen winst American Express",
-    "link": "https://www.beurs.nl/Nieuws/861577/Rijke-klanten-stuwen-winst-American-Express.aspx",
-    "intro": "American Express heeft in het eerste kwartaal meer winst geboekt, geholpen door hogere tarieven voor zijn Platinum-kaart en omdat rijkere klanten veel bleven uitgeven aan restaurants en luxegoederen.",
-    "published_at": "2026-04-23 13:27",
-    "scraped_at": "2026-04-23T12:47:40.792962"
-  },
-  {
-    "id": "5a6e72e90cca40f868e8db93b43ff584",
-    "categorie": "Beursnieuws",
-    "titel": "Minder winst voor Lockheed Martin",
-    "link": "https://www.beurs.nl/Nieuws/861571/Minder-winst-voor-Lockheed-Martin.aspx",
-    "intro": "Lockheed Martin heeft in het eerste kwartaal een lagere winst geboekt. Dat bleek donderdag uit de kwartaalcijfers van het Amerikaanse ruimtevaart- en defensiebedrijf.",
-    "published_at": "2026-04-23 13:06",
-    "scraped_at": "2026-04-23T12:47:40.792962"
-  },
-  {
-    "id": "2edcb2fc9d32b561c5c5bc6eac2cdbcc",
-    "categorie": "Beursnieuws",
-    "titel": "Futures wijzen op lagere opening Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/861570/Futures-wijzen-op-lagere-opening-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,5 procent in het rood.",
-    "published_at": "2026-04-23 13:02",
-    "scraped_at": "2026-04-23T12:47:40.792962"
+    "scraped_at": "2026-04-23T15:02:58.878206"
   }
 ]
