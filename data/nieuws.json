@@ -1,12 +1,48 @@
 [
   {
+    "id": "9053b98298e46b1fcf38b728e1337fc2",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Beijing wil Amerikaanse investeringen in Chinese tech weren",
+    "link": "https://www.beurs.nl/Nieuws/861732/Media-Beijing-wil-Amerikaanse-investeringen-in-Chinese-tech-weren.aspx",
+    "intro": "Chinese toezichthouders overwegen om Chinese techbedrijven toestemming te laten vragen alvorens zij investeringen uit de VS accepteren. Dit schreef Bloomberg vrijdag op basis van bronnen.",
+    "published_at": "2026-04-24 11:58",
+    "scraped_at": "2026-04-24T10:23:35.977896"
+  },
+  {
+    "id": "4df70908bc71e660ff2e8be34fd63366",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verlaagt koersdoel Heineken",
+    "link": "https://www.beurs.nl/Nieuws/861729/Beursblik-Bank-of-America-verlaagt-koersdoel-Heineken.aspx",
+    "intro": "Bank of America heeft vrijdag het koersdoel voor Heineken verlaagd van 88,00 naar 76,00 euro, maar met behoud van het koopadvies. Dit bleek uit een rapport van analist Andrea Pistacchi.",
+    "published_at": "2026-04-24 11:40",
+    "scraped_at": "2026-04-24T10:23:35.977896"
+  },
+  {
+    "id": "0aa2a267bea288359aba50a1c7dc7154",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: UBS verhoogt koersdoel Besi naar 280 euro",
+    "link": "https://www.beurs.nl/Nieuws/861720/Beursblik-UBS-verhoogt-koersdoel-Besi-naar-280-euro.aspx",
+    "intro": "UBS heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 216 naar 280 euro met een herhaling van het koopadvies.",
+    "published_at": "2026-04-24 10:59",
+    "scraped_at": "2026-04-24T10:23:35.977896"
+  },
+  {
+    "id": "bcac25da96a56bd17d5f9987d5dd338b",
+    "categorie": "Beursnieuws",
+    "titel": "Adyen en Besi aan kop in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/861719/Adyen-en-Besi-aan-kop-in-vlakke-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste vrijdagochtend licht lager, onder leiding van Adyen en Besi. Kort voor de klok van elf uur daalde de AEX met 0,1 procent tot 1.012,84 punten.",
+    "published_at": "2026-04-24 10:52",
+    "scraped_at": "2026-04-24T10:23:35.977896"
+  },
+  {
     "id": "43a0cf419907249360e7f499cc1165cc",
     "categorie": "IEX",
     "titel": "Must read: Kwart Nederlanders financieel kwetsbaar",
     "link": "https://www.iex.nl/artikel/861616/Must-read-Kwart-Nederlanders-financieel-kwetsbaar.aspx",
     "intro": "Ondanks een relatief groot vertrouwen in de eigen financiële kennis, voelt één op de vier Nederlanders zich financieel kwetsbaar. Plus: beleggers verkopen massaal hun vakantiehuizen, massaontslag bij Meta, Warren Buffett wacht op een nog grotere correctie en meer.",
     "published_at": "2026-04-24 10:10",
-    "scraped_at": "2026-04-24T08:53:15.733903"
+    "scraped_at": "2026-04-24T10:23:35.977896"
   },
   {
     "id": "3a947829e5d9e56de8736133d306503f",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861715/Berenberg-verhoogt-koersdoel-Aegon.aspx",
     "intro": "Berenberg heeft vrijdag het koersdoel voor Aegon verhoogd van 7,40 naar 8,07 euro, met een herhaling van het koopadvies. Dit bleek uit een analistenrapport van de zakenbank.",
     "published_at": "2026-04-24 10:08",
-    "scraped_at": "2026-04-24T08:53:15.733903"
+    "scraped_at": "2026-04-24T10:23:35.977896"
   },
   {
     "id": "3d39df48cdc1b6a4672403c92f6137aa",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861712/Beursblik-bescheiden-jaarstart-voor-Signify.aspx",
     "intro": "Signify heeft een magere jaarstart achter de rug. Dit stelde analist Frank Claassen van Degroof Petercam vrijdag in een rapport.",
     "published_at": "2026-04-24 09:54",
-    "scraped_at": "2026-04-24T08:53:15.733903"
+    "scraped_at": "2026-04-24T10:23:35.977896"
   },
   {
     "id": "97e41c5d4a68776f73c29e9d8a1f2c2f",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861703/Stevig-geprijsde-overname-voor-Adyen.aspx",
     "intro": "Adyen heeft een dure aankoop gedaan met de overname van Talon.One. Dit stelde analist Michael Roeg van Degroof Petercam vrijdag in een rapport.",
     "published_at": "2026-04-24 09:38",
-    "scraped_at": "2026-04-24T08:53:15.733903"
+    "scraped_at": "2026-04-24T10:23:35.977896"
   },
   {
     "id": "65d36c37cb66b3fee51e75f310090e22",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861702/Flinke-daling-van-Frans-consumentenvertrouwen.aspx",
     "intro": "Het consumentenvertrouwen in Frankrijk is in april stevig gedaald. Dit bleek vrijdag uit cijfers van Insee, het Franse bureau voor de statistiek.",
     "published_at": "2026-04-24 09:34",
-    "scraped_at": "2026-04-24T08:53:15.733903"
+    "scraped_at": "2026-04-24T10:23:35.977896"
   },
   {
     "id": "5ece5560d8b42b9c7f0c9e1a4a47ed01",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861700/Sterke-jaarstart-voor-Flow-Traders.aspx",
     "intro": "Flow Traders heeft een sterke start van het jaar achter de rug. Dit stelde analist Thomas Couvreur van KBC Securities vrijdag in een rapport.",
     "published_at": "2026-04-24 09:24",
-    "scraped_at": "2026-04-24T08:53:15.733903"
-  },
-  {
-    "id": "9242ea8f062d0ff6e93e0a7af504fc52",
-    "categorie": "Beursnieuws",
-    "titel": "Adyen uitblinker in lichtgroene AEX",
-    "link": "https://www.beurs.nl/Nieuws/861699/Adyen-uitblinker-in-lichtgroene-AEX.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent hoger op 1.016,44 punten, terwijl de Midkap juist 0,6 procent prijs moest geven.",
-    "published_at": "2026-04-24 09:17",
-    "scraped_at": "2026-04-24T08:53:15.733903"
-  },
-  {
-    "id": "59a49318b22d5f313ed27beac617bce4",
-    "categorie": "Beursnieuws",
-    "titel": "Newmont Mining profiteert van hoge goudprijs en overtreft verwachtingen",
-    "link": "https://www.beurs.nl/Nieuws/861697/Newmont-Mining-profiteert-van-hoge-goudprijs-en-overtreft-verwachtingen.aspx",
-    "intro": "Newmont Mining heeft in het eerste kwartaal sterk geprofiteerd van de hoge goudprijzen. Dit kwam naar voren uit de cijfers die de Amerikaanse goudproducent donderdagavond presenteerde.",
-    "published_at": "2026-04-24 09:04",
-    "scraped_at": "2026-04-24T08:53:15.733903"
-  },
-  {
-    "id": "ff250ed5729e2e38bf45f007f32b6624",
-    "categorie": "Beursnieuws",
-    "titel": "Britse detailhandelsverkopen gestegen",
-    "link": "https://www.beurs.nl/Nieuws/861696/Britse-detailhandelsverkopen-gestegen.aspx",
-    "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in maart gestegen. Dit bleek vrijdag uit cijfers van het Britse bureau voor de statistiek.",
-    "published_at": "2026-04-24 08:57",
-    "scraped_at": "2026-04-24T08:53:15.733903"
-  },
-  {
-    "id": "bb41663fc2a6ecc72e2f4b69a74d4223",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche  Bank verhoogt koersdoel Besi",
-    "link": "https://www.beurs.nl/Nieuws/861694/Deutsche-Bank-verhoogt-koersdoel-Besi.aspx",
-    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 240 naar 275 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van de Duitse bank.",
-    "published_at": "2026-04-24 08:53",
-    "scraped_at": "2026-04-24T08:53:15.733903"
+    "scraped_at": "2026-04-24T10:23:35.977896"
   }
 ]
