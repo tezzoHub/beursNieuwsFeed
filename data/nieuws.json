@@ -1,12 +1,57 @@
 [
   {
+    "id": "b1a8f81db35870bb71ec897bb85a7736",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten bewogen week negatief af",
+    "link": "https://www.beurs.nl/Nieuws/861802/Europese-beurzen-sluiten-bewogen-week-negatief-af.aspx",
+    "intro": "De Europese beurzen zijn vrijdag lager gesloten, doordat de onzekerheid over de vredesbesprekingen tussen de VS en Iran het beleggerssentiment negatief blijft beïnvloeden.",
+    "published_at": "2026-04-24 18:50",
+    "scraped_at": "2026-04-24T17:39:47.102556"
+  },
+  {
+    "id": "6cd1661bd0a9a9a7b9a20d6b84cb8c22",
+    "categorie": "Beursnieuws",
+    "titel": "MotorK boekt hogere winst ondanks omzetdaling",
+    "link": "https://www.beurs.nl/Nieuws/861801/MotorK-boekt-hogere-winst-ondanks-omzetdaling.aspx",
+    "intro": "Het Italiaanse automotive softwarebedrijf MotorK heeft in het eerste kwartaal van 2026 de winstgevendheid fors verbeterd, ondanks een dalende omzet door een strategische heroriëntatie. Dit bleek vrijdag uit de kwartaalcijfers van het in Amsterdam genoteerde bedrijf.",
+    "published_at": "2026-04-24 18:22",
+    "scraped_at": "2026-04-24T17:39:47.102556"
+  },
+  {
+    "id": "75b0475ea2132f8613143cde7937ac5c",
+    "categorie": "Beursnieuws",
+    "titel": "New Sources Energy boekt geen omzet in 2025",
+    "link": "https://www.beurs.nl/Nieuws/861800/New-Sources-Energy-boekt-geen-omzet-in-2025.aspx",
+    "intro": "New Sources Energy heeft over 2025 geen omzet of investeringen geboekt, maar de onderneming zette wel de eerste stappen richting activiteiten in de hernieuwbare energiesector. Dit bleek vrijdag uit de gecontroleerde jaarrekening, voorzien van een goedkeurende verklaring van KPMG.",
+    "published_at": "2026-04-24 18:14",
+    "scraped_at": "2026-04-24T17:39:47.102556"
+  },
+  {
+    "id": "baab6512c378fcb7cd424e12bd5383b2",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Google pompt miljarden in Anthropic",
+    "link": "https://www.beurs.nl/Nieuws/861799/Media-Google-pompt-miljarden-in-Anthropic.aspx",
+    "intro": "Google gaat tot 40 miljard dollar investeren in het Amerikaanse AI-bedrijf Anthropic, de maker van AI-tool Claude. Dit meldde persbureau Bloomberg vrijdag.",
+    "published_at": "2026-04-24 18:10",
+    "scraped_at": "2026-04-24T17:39:47.102556"
+  },
+  {
+    "id": "18818ae6248f8d52f70d9d18bd6d2318",
+    "categorie": "Beursnieuws",
+    "titel": "Adyen en chippers helpen AEX aan winst",
+    "link": "https://www.beurs.nl/Nieuws/861791/Adyen-en-chippers-helpen-AEX-aan-winst.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, met steun van de 'chippers' en betaalbedrijf Adyen, hoewel de index op weekbasis wel licht daalde.",
+    "published_at": "2026-04-24 17:48",
+    "scraped_at": "2026-04-24T17:39:47.102556"
+  },
+  {
     "id": "8f469c852ac174b52a717e536b8dbcb6",
     "categorie": "Beursnieuws",
     "titel": "Justitie VS stopt onderzoek naar Powell",
     "link": "https://www.beurs.nl/Nieuws/861784/Justitie-VS-stopt-onderzoek-naar-Powell.aspx",
     "intro": "Het Amerikaanse ministerie van Justitie heeft het strafrechtelijk onderzoek naar de voorzitter van de Federal Reserve Jerome Powell stopgezet. Dit meldde openbaar aanklager Jeanine Pirro vrijdag op X.",
     "published_at": "2026-04-24 17:05",
-    "scraped_at": "2026-04-24T15:47:01.950598"
+    "scraped_at": "2026-04-24T17:39:47.102556"
   },
   {
     "id": "7b59632e8d45e5410074310b15421a0a",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861783/Nike-schrapt-1400-banen.aspx",
     "intro": "Nike gaat 1.400 banen schrappen. Dit meldde de Amerikaanse fabrikant van sportkleding en -schoenen in een persbericht.",
     "published_at": "2026-04-24 16:55",
-    "scraped_at": "2026-04-24T15:47:01.950598"
+    "scraped_at": "2026-04-24T17:39:47.102556"
   },
   {
     "id": "376fcdebb77b22e5f65e62f3066e9d20",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861776/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 4 mei 2026:",
     "published_at": "2026-04-24 16:28",
-    "scraped_at": "2026-04-24T15:47:01.950598"
+    "scraped_at": "2026-04-24T17:39:47.102556"
   },
   {
     "id": "8dc7a461caaee67f4398d1a99ed329c7",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861777/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 4 mei 2026:",
     "published_at": "2026-04-24 16:28",
-    "scraped_at": "2026-04-24T15:47:01.950598"
+    "scraped_at": "2026-04-24T17:39:47.102556"
   },
   {
     "id": "beb51250ebb271f51df38113d07d723b",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861778/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 4 mei 2026:",
     "published_at": "2026-04-24 16:28",
-    "scraped_at": "2026-04-24T15:47:01.950598"
-  },
-  {
-    "id": "f0a6f70eb450183736c62491dc1b67ed",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen VS daalt minder hard",
-    "link": "https://www.beurs.nl/Nieuws/861772/Consumentenvertrouwen-VS-daalt-minder-hard.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in april gedaald, maar minder sterk dan aanvankelijk werd gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-04-24 16:10",
-    "scraped_at": "2026-04-24T15:47:01.950598"
-  },
-  {
-    "id": "9a7bdee03a0e4ed30f64ba0c32e6874a",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht grotendeels groene opening",
-    "link": "https://www.beurs.nl/Nieuws/861762/Wall-Street-wacht-grotendeels-groene-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een overwegend hogere opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,3 procent in de plus, terwijl de Dow Jones index juist iets lager van start zal gaan. De Nasdaq ligt op koers voor een openingswinst van 1,1 procent, met steun van met name Intel.",
-    "published_at": "2026-04-24 14:55",
-    "scraped_at": "2026-04-24T15:47:01.950598"
-  },
-  {
-    "id": "d03416d57adb173471f7e443484d40fb",
-    "categorie": "Beursnieuws",
-    "titel": "Meta kiest voor nieuwe processor van AWS",
-    "link": "https://www.beurs.nl/Nieuws/861761/Meta-kiest-voor-nieuwe-processor-van-AWS.aspx",
-    "intro": "AWS heeft een opdracht ontvangen van Meta voor de levering van AI-chips. Dit maakte moederbedrijf Amazon vrijdagmiddag bekend.",
-    "published_at": "2026-04-24 14:48",
-    "scraped_at": "2026-04-24T15:47:01.950598"
-  },
-  {
-    "id": "a91f23b9ca437bf3ac7d5a6807fe9aeb",
-    "categorie": "Beursnieuws",
-    "titel": "Procter & Gamble meldt omzetversnelling",
-    "link": "https://www.beurs.nl/Nieuws/861751/Procter-Gamble-meldt-omzetversnelling.aspx",
-    "intro": "Procter  Gamble heeft in het derde kwartaal van het gebroken boekjaar 2026 een hogere omzet geboekt. Dit bleek uit cijfers van het levensmiddelenbedrijf uit Cincinnati op vrijdag, waarbij ook de outlook werd herhaald.",
-    "published_at": "2026-04-24 13:33",
-    "scraped_at": "2026-04-24T15:47:01.950598"
-  },
-  {
-    "id": "e6933adb4cb21ed0a209a21d426fe732",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen verdeelde opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/861747/Futures-voorspellen-verdeelde-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een verdeelde opening tegemoet. Futures op de SP 500 lijken iets hoger te gaan openen, terwijl de Dow Jones index juist iets lager van start zal gaan. De Nasdaq ligt op koers voor een openingswinst van bijna een procent, met steun van met name Intel.",
-    "published_at": "2026-04-24 12:56",
-    "scraped_at": "2026-04-24T15:47:01.950598"
+    "scraped_at": "2026-04-24T17:39:47.102556"
   }
 ]
