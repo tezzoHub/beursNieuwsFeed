@@ -1,92 +1,92 @@
 [
   {
-    "id": "fd425ee7c99ff40c5e732636bb6240f0",
+    "id": "6ea64aadb045be2b0e116d74a31b968a",
     "categorie": "Beursnieuws",
-    "titel": "SAP stelt gerust",
-    "link": "https://www.beurs.nl/Nieuws/861639/SAP-stelt-gerust.aspx",
-    "intro": "SAP heeft in het eerste kwartaal van 2026 een hogere omzet geboekt, terwijl de opbrengsten uit de cloudactiviteiten ook stegen. Dit bleek donderdagavond uit de resultaten van het Duitse softwarebedrijf.",
-    "published_at": "2026-04-23 22:47",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "Beursblik: Citi verhoogt koersdoel Besi stevig",
+    "link": "https://www.beurs.nl/Nieuws/861690/Beursblik-Citi-verhoogt-koersdoel-Besi-stevig.aspx",
+    "intro": "Citi Research heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 210 naar 260 euro met een onveranderd Neutraal advies. Dit bleek uit een rapport van analist Andrew Gardiner.",
+    "published_at": "2026-04-24 08:25",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "8a344afea78d611a3bd7ce76e655c56b",
+    "id": "aa3a0ebe95b5695ba692351d4dab2842",
     "categorie": "Beursnieuws",
-    "titel": "Intel beloond voor sterke outlook",
-    "link": "https://www.beurs.nl/Nieuws/861638/Intel-beloond-voor-sterke-outlook.aspx",
-    "intro": "Intel heeft in het eerste kwartaal van 2026 een hogere omzet geboekt, terwijl de aangepaste winst ook beter was dan verwacht. Dit bleek donderdag nabeurs uit de cijfers van de Amerikaanse chipreus, waarbij ook de outlook overtuigde.",
-    "published_at": "2026-04-23 22:30",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "AEX start handelsdag vermoedelijk terughoudend",
+    "link": "https://www.beurs.nl/Nieuws/861685/AEX-start-handelsdag-vermoedelijk-terughoudend.aspx",
+    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een licht lagere opening, ondanks dat de Amerikaanse president Donald Trump aankondigde dat het staakt-het-vuren tussen Israël en Libanon met drie weken is verlengd.",
+    "published_at": "2026-04-24 08:08",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "fdf40e269f567ca1edf2d651dd8cb694",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/861637/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag zes van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-04-23 22:15",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "id": "1503ab960a8cdcc2e8e78d57c0cbec90",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent lager en chipindex SOX op koers voor foutloos april",
+    "link": "https://www.iex.nl/artikel/861595/AEX-opent-lager-en-chipindex-SOX-op-koers-voor-foutloos-april.aspx",
+    "intro": "De AEX, en een hoop andere beurzen in Europa, gaan straks lager van start. Vandaag doen we het zoal met cijfers van Signify, WDP, Acomo en Flow Traders.",
+    "published_at": "2026-04-24 08:05",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "cb4523978e934452937906c70510882e",
+    "id": "d619dae40e426c64fd25b7bf5d809f3c",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street laat records los",
-    "link": "https://www.beurs.nl/Nieuws/861636/Wall-Street-laat-records-los.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdag lager geëindigd, onder druk door winstnemingen na de records van woensdag en kwartaalcijfers die gemengd werden ontvangen.",
-    "published_at": "2026-04-23 22:12",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "Omzet Acomo licht onder druk",
+    "link": "https://www.beurs.nl/Nieuws/861680/Omzet-Acomo-licht-onder-druk.aspx",
+    "intro": "Acomo heeft in de eerste drie maanden van 2026 een 6 procent lagere omzet geboekt, met name dankzij een terugval bij Organic Ingredients. Dit meldde de zaden- en theehandelaar met een notering aan het Damrak vrijdag voorbeurs.",
+    "published_at": "2026-04-24 08:04",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "275e4e63cd32c3f662a5833f54f3466a",
+    "id": "e88e40a62d7637ca50168a60b106de60",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs blijft stijgen",
-    "link": "https://www.beurs.nl/Nieuws/861635/Olieprijs-blijft-stijgen.aspx",
-    "intro": "De olieprijs is donderdag verder gestegen, terwijl de spanningen in de Straat van Hormuz verder opliepen.",
-    "published_at": "2026-04-23 20:59",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "Meer winst voor Flow Traders",
+    "link": "https://www.beurs.nl/Nieuws/861678/Meer-winst-voor-Flow-Traders.aspx",
+    "intro": "Flow Traders heeft in het eerste kwartaal meer winst geboekt. Dit bleek uit cijfers van de flitshandelaar op vrijdag.",
+    "published_at": "2026-04-24 07:47",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "45949cf4d5988443ade85a6b15dc3c5d",
+    "id": "e5add4520d7f21ca69d9e31a6a2a824d",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street op verlies",
-    "link": "https://www.beurs.nl/Nieuws/861633/Wall-Street-op-verlies.aspx",
-    "intro": "De Amerikaanse beurzen noteerden donderdag lager met nog een paar uur handel te gaan, onder druk door winstnemingen na de records van woensdag en kwartaalcijfers die gemengd werden ontvangen.",
-    "published_at": "2026-04-23 19:32",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "Resultaten Signify lopen terug",
+    "link": "https://www.beurs.nl/Nieuws/861671/Resultaten-Signify-lopen-terug.aspx",
+    "intro": "Signify heeft in het eerste kwartaal de resultaten flink zien teruglopen. Dit bleek vrijdag uit cijfers van het verlichtingsbedrijf.",
+    "published_at": "2026-04-24 07:19",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "ef1c7b13dce1c5c9417312934e2bf47d",
+    "id": "683a1e71ab4b2e1e4d9eb5ab0dc8a201",
     "categorie": "Beursnieuws",
-    "titel": "Aandeelhouders Fugro stemmen in met veel lager dividend",
-    "link": "https://www.beurs.nl/Nieuws/861632/Aandeelhouders-Fugro-stemmen-in-met-veel-lager-dividend.aspx",
-    "intro": "De aandeelhoudersvergadering van Fugro heeft donderdag ingestemd met het voorgestelde dividend over 2025. Dit maakte de bodemonderzoeker na afloop van de bijeenkomst bekend.",
-    "published_at": "2026-04-23 18:59",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "WDP herhaalt outlook na eerste kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/861669/WDP-herhaalt-outlook-na-eerste-kwartaal.aspx",
+    "intro": "WDP is 2026 gestart met \"een robuuste winstgroei per aandeel\". Dit maakte de specialist in logistiek vastgoed vrijdag voorbeurs bekend.",
+    "published_at": "2026-04-24 07:14",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "49e85db95b9ae40e30582daf726a48a3",
+    "id": "498b912a86b2bd485d79773e41ddea7f",
     "categorie": "Beursnieuws",
-    "titel": "Aandeelhouders Besi akkoord met dividend",
-    "link": "https://www.beurs.nl/Nieuws/861630/Aandeelhouders-Besi-akkoord-met-dividend.aspx",
-    "intro": "De aandeelhoudersvergadering van Besi heeft donderdag ingestemd met het voorgestelde dividend over 2025. Dit maakte het bedrijf uit Duiven na afloop van de bijeenkomst bekend.",
-    "published_at": "2026-04-23 18:51",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "Aziatische beurzen noteren overwegen lager",
+    "link": "https://www.beurs.nl/Nieuws/861665/Aziatische-beurzen-noteren-overwegen-lager.aspx",
+    "intro": "De Aziatische beurzen gaven vrijdagochtend overwegend terrein prijs, maar de verliezen bleven binnen de perken.",
+    "published_at": "2026-04-24 07:04",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "1efbd2053b7ddac2c61925ae34325204",
+    "id": "21932775c59b63b54a22acdb0b32e1d2",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/861629/Europese-beurzen-sluiten-verdeeld.aspx",
-    "intro": "De aandelenmarkten in Europa zijn donderdag verdeeld geëindigd. Beleggers blijven nerveus over de oorlog in het Midden-Oosten, terwijl macrocijfers de eerste tekenen tonen van de impact van het conflict.",
-    "published_at": "2026-04-23 18:36",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "Europese beurzen openen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/861664/Europese-beurzen-openen-in-het-rood.aspx",
+    "intro": "De aandelenmarkten in Europa gaan vrijdag een lagere opening tegemoet, ondanks dat de Amerikaanse president Donald Trump aankondigde dat het staakt-het-vuren tussen Israël en Libanon met drie weken is verlengd.",
+    "published_at": "2026-04-24 06:59",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   },
   {
-    "id": "8aba3a05964c0521f91081a76d85ada0",
+    "id": "57af20732880ad130f8d863325919083",
     "categorie": "Beursnieuws",
-    "titel": "Adyen neemt Talon.One over",
-    "link": "https://www.beurs.nl/Nieuws/861625/Adyen-neemt-TalonOne-over.aspx",
-    "intro": "Adyen heeft een akkoord bereikt over de overname van het Duitse Talon.One voor 750 miljoen euro. Dit maakte de Amsterdamse betaalspecialist donderdagavond bekend.",
-    "published_at": "2026-04-23 18:01",
-    "scraped_at": "2026-04-24T04:29:46.909969"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/861660/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 1 mei 2026:",
+    "published_at": "2026-04-24 06:54",
+    "scraped_at": "2026-04-24T06:31:01.546888"
   }
 ]
