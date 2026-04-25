@@ -1,11 +1,20 @@
 [
   {
+    "id": "079f1bec02e80311bcb42ec88737d6d5",
+    "categorie": "Beursnieuws",
+    "titel": "Media: geen directe gesprekken tussen VS en Iran",
+    "link": "https://www.beurs.nl/Nieuws/861826/Media-geen-directe-gesprekken-tussen-VS-en-Iran.aspx",
+    "intro": "Iran gaat dit weekend niet direct om tafel met de Verenigde Staten. Dit meldden diverse media, waaronder persbureau Reuters en werd bevestigd door een woordvoerder van de Iraanse buitenlandminister Abbas Araghchi.",
+    "published_at": "2026-04-25 14:11",
+    "scraped_at": "2026-04-25T12:30:36.938790"
+  },
+  {
     "id": "2674394cc1d72dceeb18e8ca847247c8",
     "categorie": "Beursnieuws",
     "titel": "AEX blijft voorzichtig terwijl oorlog voortduurt",
     "link": "https://www.beurs.nl/Nieuws/861823/AEX-blijft-voorzichtig-terwijl-oorlog-voortduurt.aspx",
     "intro": "De Amsterdamse beurs is afgelopen week licht gedaald, terwijl de oorlog in het Midden-Oosten voortduurde.",
     "published_at": "2026-04-25 12:56",
-    "scraped_at": "2026-04-25T11:26:45.941128"
+    "scraped_at": "2026-04-25T12:30:36.938790"
   }
 ]
