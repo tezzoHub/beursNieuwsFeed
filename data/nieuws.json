@@ -1,38 +1,92 @@
 [
   {
-    "id": "eed597436521de441904c3fff52e034b",
+    "id": "9b184a64727067595d7d1513df34e552",
     "categorie": "Beursnieuws",
-    "titel": "Komende week rentebesluiten van grote centrale banken",
-    "link": "https://www.beurs.nl/Nieuws/861835/Komende-week-rentebesluiten-van-grote-centrale-banken.aspx",
-    "intro": "Het wordt een drukke cijfer- en macroweek die plaatsvindt tegen de achtergrond van de voortdurende oorlog in het Midden-Oosten.",
-    "published_at": "2026-04-26 13:37",
-    "scraped_at": "2026-04-27T04:44:45.729623"
+    "titel": "AEX start beursweek in mineur",
+    "link": "https://www.beurs.nl/Nieuws/861873/AEX-start-beursweek-in-mineur.aspx",
+    "intro": "De AEX is op Koningsdag licht lager geopend. De AEX daalde maandag met 0,3 procent naar 1.017,83 punten.",
+    "published_at": "2026-04-27 09:06",
+    "scraped_at": "2026-04-27T07:27:26.816744"
   },
   {
-    "id": "7feeb8766dec9f8359895ca36ff1c4f2",
+    "id": "a62af710aa8ebceef7bb5e65c656aaa9",
     "categorie": "Beursnieuws",
-    "titel": "Sterke week voor chippers op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/861832/Sterke-week-voor-chippers-op-Damrak.aspx",
-    "intro": "Afgelopen week kwam het cijferseizoen op het Damrak echt los, hoewel volgende week nog drukker belooft te worden. Tegen de achtergrond van de aanhoudende oorlog in het Midden-Oosten, verwerkten beleggers onder meer de resultaten van Besi en ASMI. Verder wisten internationaal ook Intel en STMicroelectronics te overtuigen.",
-    "published_at": "2026-04-26 10:43",
-    "scraped_at": "2026-04-27T04:44:45.729623"
+    "titel": "Drone-industrie stuwt omzet en marge Exosens",
+    "link": "https://www.beurs.nl/Nieuws/861871/Drone-industrie-stuwt-omzet-en-marge-Exosens.aspx",
+    "intro": "Exosens heeft in het eerste kwartaal de omzet en marge sterk zien stijgen, dankzij sterke vraag naar zijn detectietechnologie voor militaire drones, en wil zijn capaciteit met 40 procent uitbreiden. Dit maakte het bedrijf, dat deels eigendom is van het in Amsterdam genoteerde defensiebedrijf Theon International, maandagochtend bekend.",
+    "published_at": "2026-04-27 08:51",
+    "scraped_at": "2026-04-27T07:27:26.816744"
   },
   {
-    "id": "0cbd975b0d5665b3479d71729ae80b8f",
-    "categorie": "Beurs vandaag",
-    "titel": "Op deze feestdagen zijn de belangrijkste beurzen in 2026 gesloten",
-    "link": "https://www.beurs.nl/Artikel/861829/Op-deze-feestdagen-zijn-de-belangrijkste-beurzen-in-2026-gesloten.aspx",
-    "intro": "Maandag is het Koningsdag, maar op de Amsterdamse beurs is het business as usual. Op vrijdag 1 mei daarentegen, de Dag van de Arbeid, zijn veel beurzen gesloten. Hoe zit het precies?",
-    "published_at": "2026-04-26 10:00",
-    "scraped_at": "2026-04-27T04:44:45.729623"
+    "id": "ca1576ae01eab35193a69e8abc3edcfd",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/861870/Deutsche-Bank-verlaagt-koersdoel-Adyen.aspx",
+    "intro": "Deutsche Bank heeft het koersdoel voor Adyen verlaagd van 1.610 naar 1.531 euro, met handhaving van het koopadvies. Dit bleek maandag uit een analistenrapport van de Duitse bank.",
+    "published_at": "2026-04-27 08:46",
+    "scraped_at": "2026-04-27T07:27:26.816744"
   },
   {
-    "id": "b92a6babffd78a8304d1875efae3b717",
-    "categorie": "Redactioneel",
-    "titel": "Stem op uw favoriete AEX-aandeel voor mei",
-    "link": "https://www.belegger.nl/artikel/861756/Stem-op-uw-favoriete-AEX-aandeel-voor-mei.aspx",
-    "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van mei? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
-    "published_at": "2026-04-26 09:00",
-    "scraped_at": "2026-04-27T04:44:45.729623"
+    "id": "8cbb63542f6848f3a1e9fc9f4b73ed63",
+    "categorie": "Beursnieuws",
+    "titel": "Martin van den Brink treedt terug als commissaris bij ASMI",
+    "link": "https://www.beurs.nl/Nieuws/861865/Martin-van-den-Brink-treedt-terug-als-commissaris-bij-ASMI.aspx",
+    "intro": "Martin van den Brink treedt per direct terug van de Raad van Commissarissen van ASMI, in verband met zijn andere professionele activiteiten die op termijn tot overlappende belangen zouden kunnen leiden. Dit maakte ASMI maandagochtend bekend.",
+    "published_at": "2026-04-27 08:35",
+    "scraped_at": "2026-04-27T07:27:26.816744"
+  },
+  {
+    "id": "0378026db7791a950a6d7b3e2f225147",
+    "categorie": "Voorbeurs",
+    "titel": "AEX blijft dicht bij huis op deze Koningsdag, maar het is stilte voor de storm",
+    "link": "https://www.beurs.nl/Artikel/861844/AEX-blijft-dicht-bij-huis-op-deze-Koningsdag-maar-het-is-stilte-voor-de-storm.aspx",
+    "intro": "Vredesoverleg VS en Iran is vastgelopen. Prijs Brent-olie boven $100. Chinese chipaandelen vliegen en 4 aandelen gaan vandaag ex-dividend.",
+    "published_at": "2026-04-27 08:20",
+    "scraped_at": "2026-04-27T07:27:26.816744"
+  },
+  {
+    "id": "b0903f265961bcd6bdd35769c6a0ad59",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verhoogt koersdoel Euronext",
+    "link": "https://www.beurs.nl/Nieuws/861864/Citi-verhoogt-koersdoel-Euronext.aspx",
+    "intro": "Citi Research heeft het koersdoel voor Euronext verhoogd van 136,00 naar 153,00 euro, met behoud van een neutraal advies. Dit bleek uit een rapport van analist Andrew Lowe in aanloop naar de cijfers over het eerste kwartaal op 19 mei.",
+    "published_at": "2026-04-27 08:18",
+    "scraped_at": "2026-04-27T07:27:26.816744"
+  },
+  {
+    "id": "228d73227453798f7357707af5306867",
+    "categorie": "Beursnieuws",
+    "titel": "Lichtgroene opening voorzien op Koningsdag",
+    "link": "https://www.beurs.nl/Nieuws/861861/Lichtgroene-opening-voorzien-op-Koningsdag.aspx",
+    "intro": "De Amsterdamse beurs is ondanks Koningsdag gewoon geopend. De AEX lijkt maandag fractioneel hoger van start te gaan.",
+    "published_at": "2026-04-27 08:08",
+    "scraped_at": "2026-04-27T07:27:26.816744"
+  },
+  {
+    "id": "913da4354f6e9c17ad8366e4cd74f85b",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse consumentenvertrouwen verder onder druk",
+    "link": "https://www.beurs.nl/Nieuws/861860/Duitse-consumentenvertrouwen-verder-onder-druk.aspx",
+    "intro": "Het consumentenvertrouwen in Duitsland is verder gedaald, door de aanhoudende oorlog in Iran. Dit bleek maandag uit nieuwe metingen van onderzoeksbureau GfK, dat een maand vooruit meet.",
+    "published_at": "2026-04-27 08:04",
+    "scraped_at": "2026-04-27T07:27:26.816744"
+  },
+  {
+    "id": "cc1635a4f579b4cae0e15799d7159f63",
+    "categorie": "Beursnieuws",
+    "titel": "JPMorgan verhoogt koersdoel Besi fors",
+    "link": "https://www.beurs.nl/Nieuws/861859/JPMorgan-verhoogt-koersdoel-Besi-fors.aspx",
+    "intro": "JPMorgan heeft maandag het koersdoel voor BE Semiconductor Industries verhoogd van 230 naar 266 euro met een herhaling van het Overwogen advies. Dit bleek uit een rapport van analist Sandeep Deshpande.",
+    "published_at": "2026-04-27 07:53",
+    "scraped_at": "2026-04-27T07:27:26.816744"
+  },
+  {
+    "id": "7063ff2aaeefcd6474937930e3a6ce9f",
+    "categorie": "Beursnieuws",
+    "titel": "CTP verlengt contract met postorderbedrijf Walz",
+    "link": "https://www.beurs.nl/Nieuws/861855/CTP-verlengt-contract-met-postorderbedrijf-Walz.aspx",
+    "intro": "CTP heeft een vijftienjarige huurcontractverlenging getekend met het Duitse postorderbedrijf Walz voor zijn locatie van 48.000 vierkante meter bij Ravensburg. Dit maakte het vastgoedbedrijf maandag bekend.",
+    "published_at": "2026-04-27 07:25",
+    "scraped_at": "2026-04-27T07:27:26.816744"
   }
 ]
