@@ -1,12 +1,48 @@
 [
   {
+    "id": "b318a058e07adc1b1ff063b479c2748a",
+    "categorie": "Beursnieuws",
+    "titel": "Nucor boekt sterk eerste kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/861985/Nucor-boekt-sterk-eerste-kwartaal.aspx",
+    "intro": "Nucor heeft in het eerste kwartaal van 2026 een fors hogere winst geboekt dan een jaar eerder, gedreven door sterke vraag en een nieuw verzendrecord bij de staalfabrieken. Dit bleek maandag uit cijfers van de Amerikaanse staalproducent.",
+    "published_at": "2026-04-27 22:47",
+    "scraped_at": "2026-04-27T21:31:34.034375"
+  },
+  {
+    "id": "dca5b430500d531171deaeb062f695a9",
+    "categorie": "Beursnieuws",
+    "titel": "QIAGEN verlaagt outlook",
+    "link": "https://www.beurs.nl/Nieuws/861984/QIAGEN-verlaagt-outlook.aspx",
+    "intro": "QIAGEN heeft de outlook voor heel 2026 fors verlaagd, nadat de omzetgroei in het eerste kwartaal tegenviel door een sterke daling van de QuantiFERON-verkopen en voorzichtigheid bij Amerikaanse klanten in de lifesciencessector. Dit bleek maandag uit voorlopige kwartaalcijfers van het in Venlo gevestigde biotechbedrijf met een notering in Frankfurt.",
+    "published_at": "2026-04-27 22:39",
+    "scraped_at": "2026-04-27T21:31:34.034375"
+  },
+  {
+    "id": "ce4a78393de5f1fd76b9b1937bae7b2e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/861983/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag vijf van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-04-27 22:25",
+    "scraped_at": "2026-04-27T21:31:34.034375"
+  },
+  {
+    "id": "0e4929fe6a20da2f23bdd77921952acd",
+    "categorie": "Beursnieuws",
+    "titel": "S&P en Nasdaq bereiken records op rustige handelsdag",
+    "link": "https://www.beurs.nl/Nieuws/861982/SP-en-Nasdaq-bereiken-records-op-rustige-handelsdag.aspx",
+    "intro": "De Amerikaanse beurzen zijn maandag dicht bij huis gebleven, terwijl geopolitieke spanningen een belangrijk aandachtspunt blijven in aanloop naar een belangrijke week met vergaderingen van verschillende centrale banken en kwartaalcijfers van vijf van de Magnificent 7-bedrijven.",
+    "published_at": "2026-04-27 22:16",
+    "scraped_at": "2026-04-27T21:31:34.034375"
+  },
+  {
     "id": "193b1d1c527ec39572067b69c6240878",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen hoger gesloten terwijl vrede tussen VS en Iran ver weg lijkt",
     "link": "https://www.beurs.nl/Nieuws/861976/Olieprijzen-hoger-gesloten-terwijl-vrede-tussen-VS-en-Iran-ver-weg-lijkt.aspx",
     "intro": "De olieprijzen zijn maandag hoger gesloten, nadat de vredesonderhandelingen tussen de VS en Iran opnieuw vastliepen.",
     "published_at": "2026-04-27 21:06",
-    "scraped_at": "2026-04-27T20:14:59.442800"
+    "scraped_at": "2026-04-27T21:31:34.034375"
   },
   {
     "id": "fa2be38d98f41e15b33a066ae8400089",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861971/Weinig-spektakel-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden maandag nagenoeg vlak met nog een paar uur handel te gaan, doordat de vastgelopen vredesbesprekingen met Iran en een nieuwe escalatie in de Straat van Hormuz de olieprijzen opdreven. Geopolitieke spanningen blijven daarmee een belangrijk aandachtspunt in aanloop naar een belangrijke week met vergaderingen van verschillende centrale banken en kwartaalcijfers van vijf van de Magnificent 7-bedrijven.",
     "published_at": "2026-04-27 19:50",
-    "scraped_at": "2026-04-27T20:14:59.442800"
+    "scraped_at": "2026-04-27T21:31:34.034375"
   },
   {
     "id": "423bd8d7df960cee754c19f3227b486f",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861970/Behoudende-weekstart-voor-Europese-beurzen.aspx",
     "intro": "De Europese aandelenbeurzen zijn maandag relatief dicht bij huis gebleven, terwijl beleggers de ontwikkelingen in de vredesbesprekingen tussen Iran en de VS nauwlettend in de gaten houden en vooruitkijken naar vergaderingen van verschillende centrale banken en kwartaalcijfers van vijf van de Magnificent 7 bedrijven.",
     "published_at": "2026-04-27 18:50",
-    "scraped_at": "2026-04-27T20:14:59.442800"
+    "scraped_at": "2026-04-27T21:31:34.034375"
   },
   {
     "id": "019b8b870dad293000284be2d1513c65",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861962/Chippers-trekken-AEX-in-het-rood-op-Koningsdag.aspx",
     "intro": "De Amsterdamse beurs is maandag lager geëindigd bij een gebrek aan impulsen, in afwachting van belangrijke rentebesluiten en de kwartaalcijfers van Big Tech later in de week.",
     "published_at": "2026-04-27 17:55",
-    "scraped_at": "2026-04-27T20:14:59.442800"
+    "scraped_at": "2026-04-27T21:31:34.034375"
   },
   {
     "id": "fb550c85fac2195e931e038a452cd957",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861951/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 5 mei 2026:",
     "published_at": "2026-04-27 16:44",
-    "scraped_at": "2026-04-27T20:14:59.442800"
+    "scraped_at": "2026-04-27T21:31:34.034375"
   },
   {
     "id": "2d79eeda72d213c581559aa3e9bb4a70",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861949/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 5 mei 2026:",
     "published_at": "2026-04-27 16:43",
-    "scraped_at": "2026-04-27T20:14:59.442800"
-  },
-  {
-    "id": "c85d0ae5e9253f8d8a311b4a62e3a6cc",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/861950/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 5 mei 2026:",
-    "published_at": "2026-04-27 16:43",
-    "scraped_at": "2026-04-27T20:14:59.442800"
-  },
-  {
-    "id": "410d841572b79c4809c2f8cf92a80265",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht adempauze na records",
-    "link": "https://www.beurs.nl/Nieuws/861936/Wall-Street-wacht-adempauze-na-records.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,1 procent lager.",
-    "published_at": "2026-04-27 14:54",
-    "scraped_at": "2026-04-27T20:14:59.442800"
-  },
-  {
-    "id": "e43a57872c86f03564bb086fcc657d80",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe CEO Envipco start op 18 mei",
-    "link": "https://www.beurs.nl/Nieuws/861934/Nieuwe-CEO-Envipco-start-op-18-mei.aspx",
-    "intro": "José Matthijsse begint op 18 mei aanstaande in haar functie als nieuwe CEO van Envipco. Dit meldde het recyclingbedrijf uit Amersfoort maandagmiddag.",
-    "published_at": "2026-04-27 14:34",
-    "scraped_at": "2026-04-27T20:14:59.442800"
-  },
-  {
-    "id": "12a30ecb663a6e0d516541f8401b6edf",
-    "categorie": "Beursnieuws",
-    "titel": "Shell doet Canadese overname",
-    "link": "https://www.beurs.nl/Nieuws/861932/Shell-doet-Canadese-overname.aspx",
-    "intro": "Shell neemt het Canadese ARC Resources over voor 22 miljard Canadese dollar. Dit meldden beide bedrijven maandagmiddag.",
-    "published_at": "2026-04-27 14:21",
-    "scraped_at": "2026-04-27T20:14:59.442800"
+    "scraped_at": "2026-04-27T21:31:34.034375"
   }
 ]
