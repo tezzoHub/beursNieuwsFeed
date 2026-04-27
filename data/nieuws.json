@@ -1,12 +1,48 @@
 [
   {
+    "id": "019b8b870dad293000284be2d1513c65",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers trekken AEX in het rood op Koningsdag",
+    "link": "https://www.beurs.nl/Nieuws/861962/Chippers-trekken-AEX-in-het-rood-op-Koningsdag.aspx",
+    "intro": "De Amsterdamse beurs is maandag lager geëindigd bij een gebrek aan impulsen, in afwachting van belangrijke rentebesluiten en de kwartaalcijfers van Big Tech later in de week.",
+    "published_at": "2026-04-27 17:55",
+    "scraped_at": "2026-04-27T16:14:45.493171"
+  },
+  {
+    "id": "fb550c85fac2195e931e038a452cd957",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/861951/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 5 mei 2026:",
+    "published_at": "2026-04-27 16:44",
+    "scraped_at": "2026-04-27T16:14:45.493171"
+  },
+  {
+    "id": "2d79eeda72d213c581559aa3e9bb4a70",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/861949/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 5 mei 2026:",
+    "published_at": "2026-04-27 16:43",
+    "scraped_at": "2026-04-27T16:14:45.493171"
+  },
+  {
+    "id": "c85d0ae5e9253f8d8a311b4a62e3a6cc",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/861950/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 5 mei 2026:",
+    "published_at": "2026-04-27 16:43",
+    "scraped_at": "2026-04-27T16:14:45.493171"
+  },
+  {
     "id": "410d841572b79c4809c2f8cf92a80265",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht adempauze na records",
     "link": "https://www.beurs.nl/Nieuws/861936/Wall-Street-wacht-adempauze-na-records.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,1 procent lager.",
     "published_at": "2026-04-27 14:54",
-    "scraped_at": "2026-04-27T14:31:37.483993"
+    "scraped_at": "2026-04-27T16:14:45.493171"
   },
   {
     "id": "e43a57872c86f03564bb086fcc657d80",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861934/Nieuwe-CEO-Envipco-start-op-18-mei.aspx",
     "intro": "José Matthijsse begint op 18 mei aanstaande in haar functie als nieuwe CEO van Envipco. Dit meldde het recyclingbedrijf uit Amersfoort maandagmiddag.",
     "published_at": "2026-04-27 14:34",
-    "scraped_at": "2026-04-27T14:31:37.483993"
+    "scraped_at": "2026-04-27T16:14:45.493171"
   },
   {
     "id": "12a30ecb663a6e0d516541f8401b6edf",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861932/Shell-doet-Canadese-overname.aspx",
     "intro": "Shell neemt het Canadese ARC Resources over voor 22 miljard Canadese dollar. Dit meldden beide bedrijven maandagmiddag.",
     "published_at": "2026-04-27 14:21",
-    "scraped_at": "2026-04-27T14:31:37.483993"
+    "scraped_at": "2026-04-27T16:14:45.493171"
   },
   {
     "id": "23b687f91a1047caf3cb05c9b84e2c0a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861925/Verizon-verhoogt-outlook.aspx",
     "intro": "Verizon heeft in het eerste kwartaal meer winst geboekt dan verwacht, terwijl de outlook voor heel het boekjaar werd verhoogd. Dit bleek maandag uit de resultaten van het Amerikaanse telecombedrijf.",
     "published_at": "2026-04-27 13:26",
-    "scraped_at": "2026-04-27T14:31:37.483993"
+    "scraped_at": "2026-04-27T16:14:45.493171"
   },
   {
     "id": "3a29116ca830e2d3cd9184a903dc38c1",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861920/Moodys-positiever-over-China.aspx",
     "intro": "Moody's heeft de vooruitzichten voor de kredietwaardigheid van China maandag bijgesteld van negatief naar stabiel, terwijl de kredietstatus werd gehandhaafd op A1. Dit bleek vanmiddag uit een rapport.",
     "published_at": "2026-04-27 13:02",
-    "scraped_at": "2026-04-27T14:31:37.483993"
+    "scraped_at": "2026-04-27T16:14:45.493171"
   },
   {
     "id": "193ef4e5a487d0ad6c8bfa7d364b135e",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861916/Futures-voorspellen-voorzichtige-opening-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een terughoudende opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd fractioneel lager.",
     "published_at": "2026-04-27 12:54",
-    "scraped_at": "2026-04-27T14:31:37.483993"
-  },
-  {
-    "id": "3de7485613697e3822fe68b310094199",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen voorzichtig in het groen",
-    "link": "https://www.beurs.nl/Nieuws/861906/Europese-beurzen-voorzichtig-in-het-groen.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden maandag rond lunchtijd licht hoger, in aanloop naar een drukke week met verschillende rentebesluiten en de kwartaalcijfers van 'Big Tech' namen als Meta, Alphabet, Apple en Microsoft.",
-    "published_at": "2026-04-27 12:13",
-    "scraped_at": "2026-04-27T14:31:37.483993"
-  },
-  {
-    "id": "4264db3fc4fb2cdee1872810f5e45cbd",
-    "categorie": "Beursnieuws",
-    "titel": "China blokkeert overname Manus door Meta",
-    "link": "https://www.beurs.nl/Nieuws/861901/China-blokkeert-overname-Manus-door-Meta.aspx",
-    "intro": "Chinese toezichthouders hebben de overname van AI-startup Manus door Meta ter waarde van meer dan 2 miljard dollar geblokkeerd. Dit meldde de National Development and Reform Commission in China maandag.",
-    "published_at": "2026-04-27 11:34",
-    "scraped_at": "2026-04-27T14:31:37.483993"
-  },
-  {
-    "id": "9a2743b29fdbd940eb65c49be4ec0738",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht in het rood",
-    "link": "https://www.beurs.nl/Nieuws/861894/AEX-licht-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend in het rood, door verliezen van techaandelen als Adyen, ASMI en ASML, terwijl Midkapper Fugro uitblonk en de olieprijs weer steeg.",
-    "published_at": "2026-04-27 11:18",
-    "scraped_at": "2026-04-27T14:31:37.483993"
-  },
-  {
-    "id": "e4676972681ec88e0945bdb0dcac17f0",
-    "categorie": "Beursnieuws",
-    "titel": "Goldman Sachs verhoogt koersdoel Besi fors",
-    "link": "https://www.beurs.nl/Nieuws/861889/Goldman-Sachs-verhoogt-koersdoel-Besi-fors.aspx",
-    "intro": "Goldman Sachs heeft maandag het koersdoel voor BE Semiconductor Industries verhoogd van 205 naar 286 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Alexander Duval.",
-    "published_at": "2026-04-27 10:40",
-    "scraped_at": "2026-04-27T14:31:37.483993"
+    "scraped_at": "2026-04-27T16:14:45.493171"
   }
 ]
