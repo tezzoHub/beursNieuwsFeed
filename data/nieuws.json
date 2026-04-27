@@ -1,12 +1,39 @@
 [
   {
+    "id": "410d841572b79c4809c2f8cf92a80265",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht adempauze na records",
+    "link": "https://www.beurs.nl/Nieuws/861936/Wall-Street-wacht-adempauze-na-records.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,1 procent lager.",
+    "published_at": "2026-04-27 14:54",
+    "scraped_at": "2026-04-27T14:31:37.483993"
+  },
+  {
+    "id": "e43a57872c86f03564bb086fcc657d80",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuwe CEO Envipco start op 18 mei",
+    "link": "https://www.beurs.nl/Nieuws/861934/Nieuwe-CEO-Envipco-start-op-18-mei.aspx",
+    "intro": "José Matthijsse begint op 18 mei aanstaande in haar functie als nieuwe CEO van Envipco. Dit meldde het recyclingbedrijf uit Amersfoort maandagmiddag.",
+    "published_at": "2026-04-27 14:34",
+    "scraped_at": "2026-04-27T14:31:37.483993"
+  },
+  {
+    "id": "12a30ecb663a6e0d516541f8401b6edf",
+    "categorie": "Beursnieuws",
+    "titel": "Shell doet Canadese overname",
+    "link": "https://www.beurs.nl/Nieuws/861932/Shell-doet-Canadese-overname.aspx",
+    "intro": "Shell neemt het Canadese ARC Resources over voor 22 miljard Canadese dollar. Dit meldden beide bedrijven maandagmiddag.",
+    "published_at": "2026-04-27 14:21",
+    "scraped_at": "2026-04-27T14:31:37.483993"
+  },
+  {
     "id": "23b687f91a1047caf3cb05c9b84e2c0a",
     "categorie": "Beursnieuws",
     "titel": "Verizon verhoogt outlook",
     "link": "https://www.beurs.nl/Nieuws/861925/Verizon-verhoogt-outlook.aspx",
     "intro": "Verizon heeft in het eerste kwartaal meer winst geboekt dan verwacht, terwijl de outlook voor heel het boekjaar werd verhoogd. Dit bleek maandag uit de resultaten van het Amerikaanse telecombedrijf.",
     "published_at": "2026-04-27 13:26",
-    "scraped_at": "2026-04-27T12:02:59.632921"
+    "scraped_at": "2026-04-27T14:31:37.483993"
   },
   {
     "id": "3a29116ca830e2d3cd9184a903dc38c1",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/861920/Moodys-positiever-over-China.aspx",
     "intro": "Moody's heeft de vooruitzichten voor de kredietwaardigheid van China maandag bijgesteld van negatief naar stabiel, terwijl de kredietstatus werd gehandhaafd op A1. Dit bleek vanmiddag uit een rapport.",
     "published_at": "2026-04-27 13:02",
-    "scraped_at": "2026-04-27T12:02:59.632921"
+    "scraped_at": "2026-04-27T14:31:37.483993"
   },
   {
     "id": "193ef4e5a487d0ad6c8bfa7d364b135e",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/861916/Futures-voorspellen-voorzichtige-opening-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een terughoudende opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd fractioneel lager.",
     "published_at": "2026-04-27 12:54",
-    "scraped_at": "2026-04-27T12:02:59.632921"
+    "scraped_at": "2026-04-27T14:31:37.483993"
   },
   {
     "id": "3de7485613697e3822fe68b310094199",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/861906/Europese-beurzen-voorzichtig-in-het-groen.aspx",
     "intro": "De aandelenmarkten in Europa noteerden maandag rond lunchtijd licht hoger, in aanloop naar een drukke week met verschillende rentebesluiten en de kwartaalcijfers van 'Big Tech' namen als Meta, Alphabet, Apple en Microsoft.",
     "published_at": "2026-04-27 12:13",
-    "scraped_at": "2026-04-27T12:02:59.632921"
+    "scraped_at": "2026-04-27T14:31:37.483993"
   },
   {
     "id": "4264db3fc4fb2cdee1872810f5e45cbd",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/861901/China-blokkeert-overname-Manus-door-Meta.aspx",
     "intro": "Chinese toezichthouders hebben de overname van AI-startup Manus door Meta ter waarde van meer dan 2 miljard dollar geblokkeerd. Dit meldde de National Development and Reform Commission in China maandag.",
     "published_at": "2026-04-27 11:34",
-    "scraped_at": "2026-04-27T12:02:59.632921"
+    "scraped_at": "2026-04-27T14:31:37.483993"
   },
   {
     "id": "9a2743b29fdbd940eb65c49be4ec0738",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/861894/AEX-licht-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend in het rood, door verliezen van techaandelen als Adyen, ASMI en ASML, terwijl Midkapper Fugro uitblonk en de olieprijs weer steeg.",
     "published_at": "2026-04-27 11:18",
-    "scraped_at": "2026-04-27T12:02:59.632921"
+    "scraped_at": "2026-04-27T14:31:37.483993"
   },
   {
     "id": "e4676972681ec88e0945bdb0dcac17f0",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/861889/Goldman-Sachs-verhoogt-koersdoel-Besi-fors.aspx",
     "intro": "Goldman Sachs heeft maandag het koersdoel voor BE Semiconductor Industries verhoogd van 205 naar 286 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Alexander Duval.",
     "published_at": "2026-04-27 10:40",
-    "scraped_at": "2026-04-27T12:02:59.632921"
-  },
-  {
-    "id": "7857f1932d824868fe90b6507c48a349",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Aperam rekent op stijging resultaat",
-    "link": "https://www.beurs.nl/Nieuws/861884/Beursblik-Aperam-rekent-op-stijging-resultaat.aspx",
-    "intro": "Aperam heeft in het eerste kwartaal een hogere aangepaste EBITDA geboekt ten opzichte van de drie maanden ervoor. Dit is de verwachting van de markt en van het bedrijf zelf, die eerder deze maand al met een update kwam over het begin van 2026.",
-    "published_at": "2026-04-27 10:03",
-    "scraped_at": "2026-04-27T12:02:59.632921"
-  },
-  {
-    "id": "68fef3d8f45b0f091075c42164a18d64",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: hoger resultaat voor ArcelorMittal verwacht",
-    "link": "https://www.beurs.nl/Nieuws/861882/Beursblik-hoger-resultaat-voor-ArcelorMittal-verwacht.aspx",
-    "intro": "ArcelorMittal zal komende donderdag naar verwachting over het eerste kwartaal een stijging van het resultaat bekendmaken ten opzichte van een jaar eerder, maar de nettowinst is vermoedelijk gedaald. Dat blijkt uit een consensusverwachting van analisten op de website van de staalreus.",
-    "published_at": "2026-04-27 09:49",
-    "scraped_at": "2026-04-27T12:02:59.632921"
-  },
-  {
-    "id": "d12930d5bab6bfddc806e0b098d12a61",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: korting Corbion te ver opgelopen",
-    "link": "https://www.beurs.nl/Nieuws/861879/Beursblik-korting-Corbion-te-ver-opgelopen.aspx",
-    "intro": "De omzet en winst van Corbion zullen aantrekken na een tegenvallend eerste kwartaal, waarbij de markt de sterke kasstroom in de komende jaren onderschat. Dat stelde analist Wim Hoste van KBC Securities maandag in een rapport.",
-    "published_at": "2026-04-27 09:45",
-    "scraped_at": "2026-04-27T12:02:59.632921"
+    "scraped_at": "2026-04-27T14:31:37.483993"
   }
 ]
