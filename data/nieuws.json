@@ -1,12 +1,57 @@
 [
   {
+    "id": "f395a423951489d8ca4c9815a7aa2920",
+    "categorie": "Beursnieuws",
+    "titel": "Consument blijft geld uitgeven met Visa",
+    "link": "https://www.beurs.nl/Nieuws/862174/Consument-blijft-geld-uitgeven-met-Visa.aspx",
+    "intro": "Visa heeft in het afgelopen kwartaal een hogere omzet en ook meer winst geboekt, dankzij de consumenten die hun bestedingen op peil hielden. Dat bleek dinsdag uit de kwartaalcijfers van het betaalkaartenbedrijf.",
+    "published_at": "2026-04-28 23:04",
+    "scraped_at": "2026-04-28T21:13:30.539403"
+  },
+  {
+    "id": "e81d433163347e75d0fcc99d5b9c9ca4",
+    "categorie": "Beursnieuws",
+    "titel": "PPG Industries boekt meer omzet",
+    "link": "https://www.beurs.nl/Nieuws/862173/PPG-Industries-boekt-meer-omzet.aspx",
+    "intro": "PPG Industries heeft in het eerste kwartaal meer omzet geboekt en handhaafde zijn winstverwachting voor het jaar, enkele weken nadat het bedrijf zijn prijzen verhoogde. Dat maakte het Amerikaanse verf- en coatingsbedrijf dinsdag bekend.",
+    "published_at": "2026-04-28 22:52",
+    "scraped_at": "2026-04-28T21:13:30.539403"
+  },
+  {
+    "id": "b3da59e50083316b36a6b292e645491c",
+    "categorie": "Beursnieuws",
+    "titel": "Koerssprong voor NXP Semiconductors na kwartaalcijfers",
+    "link": "https://www.beurs.nl/Nieuws/862172/Koerssprong-voor-NXP-Semiconductors-na-kwartaalcijfers.aspx",
+    "intro": "NXP Semiconductors heeft in het eerste kwartaal de verwachtingen overtroffen en deed dat ook met zijn vooruitblik naar het tweede kwartaal. Dat bleek dinsdag nabeurs.",
+    "published_at": "2026-04-28 22:42",
+    "scraped_at": "2026-04-28T21:13:30.539403"
+  },
+  {
+    "id": "2a4713792e89b3b42ae758a530310b15",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit lager op zorgen over AI",
+    "link": "https://www.beurs.nl/Nieuws/862171/Wall-Street-sluit-lager-op-zorgen-over-AI.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag lager gesloten, nadat zorgen over de enorme investeringen in AI op de technologiesector drukten, onder andere op het aandeel Nvidia.",
+    "published_at": "2026-04-28 22:33",
+    "scraped_at": "2026-04-28T21:13:30.539403"
+  },
+  {
+    "id": "28a5779b2688de263a140f84628c6e6e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/862169/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag vier van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. Shell was de sterkste daler.",
+    "published_at": "2026-04-28 22:25",
+    "scraped_at": "2026-04-28T21:13:30.539403"
+  },
+  {
     "id": "c15a352e282e6fad81a2cad67d6ecce3",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs stijgt",
     "link": "https://www.beurs.nl/Nieuws/862165/Olieprijs-stijgt.aspx",
     "intro": "De olieprijs is dinsdag fors hoger gesloten in New York, nadat de impasse rond de Straat van Hormuz voortduurde.",
     "published_at": "2026-04-28 21:54",
-    "scraped_at": "2026-04-28T19:58:31.040691"
+    "scraped_at": "2026-04-28T21:13:30.539403"
   },
   {
     "id": "861030f18d7df54771c8c966d451c292",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862163/Almunda-boekt-minder-winst.aspx",
     "intro": "Almunda Professionals heeft in 2025 opnieuw minder winst geboekt bij een groeiende omzet. Dat maakte het bedrijf dinsdag nabeurs bekend.",
     "published_at": "2026-04-28 20:38",
-    "scraped_at": "2026-04-28T19:58:31.040691"
+    "scraped_at": "2026-04-28T21:13:30.539403"
   },
   {
     "id": "84eb9aefbdafd88e2d06543d7c0ae9e5",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862162/Wall-Street-sombert-over-OpenAI.aspx",
     "intro": "De Amerikaanse beurzen stonden dinsdag overwegend lager, terwijl zorgen over de enorme investeringen in AI op de technologiesector drukten, onder andere op het aandeel Nvidia.",
     "published_at": "2026-04-28 20:14",
-    "scraped_at": "2026-04-28T19:58:31.040691"
+    "scraped_at": "2026-04-28T21:13:30.539403"
   },
   {
     "id": "aa98963e3107d18c569c1c766e5c9f21",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862160/Europese-beurzen-sluiten-overwegend-lager.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag overwegend lager gesloten, nadat de impasse in het Midden-Oosten aanhield en de olieprijzen verder stegen.",
     "published_at": "2026-04-28 18:59",
-    "scraped_at": "2026-04-28T19:58:31.040691"
+    "scraped_at": "2026-04-28T21:13:30.539403"
   },
   {
     "id": "f5da20ef66d518ddf01a1c0e4ba48419",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862158/Alumexx-zet-stap-richting-Europese-expansie.aspx",
     "intro": "Alumexx heeft in 2025 de omzet laten stijgen, maar boekte een nettoverlies door forse investeringen in robotisering, marketing en het salesteam. Dit maakte de aan Euronext Amsterdam genoteerde leverancier van aluminium klimmaterialen dinsdag bekend.",
     "published_at": "2026-04-28 18:36",
-    "scraped_at": "2026-04-28T19:58:31.040691"
-  },
-  {
-    "id": "a05aea09f090fb9c3308fbc94622dfa9",
-    "categorie": "Beursnieuws",
-    "titel": "Airbus boekt lagere omzet en winst",
-    "link": "https://www.beurs.nl/Nieuws/862149/Airbus-boekt-lagere-omzet-en-winst.aspx",
-    "intro": "Airbus heeft in het eerste kwartaal van 2026 minder vliegtuigen afgeleverd dan een jaar eerder, wat de omzet en winst flink drukte. De vliegtuigbouwer handhaafde desondanks de verwachtingen voor heel dit jaar. Dit maakte de Europese vliegtuigbouwer dinsdagavond bekend.",
-    "published_at": "2026-04-28 18:02",
-    "scraped_at": "2026-04-28T19:58:31.040691"
-  },
-  {
-    "id": "c5e11a25e03eba6e7aa2114939ce535a",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers duwen AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/862159/Chippers-duwen-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag met verlies gesloten. De 'chippers' hadden het flink te verduren, nadat de resultaten van OpenAI twijfels over het verdienmodel van het bedrijf aanwakkerden.",
-    "published_at": "2026-04-28 17:55",
-    "scraped_at": "2026-04-28T19:58:31.040691"
-  },
-  {
-    "id": "bf501f7c57d8f4abf615906b4c36441a",
-    "categorie": "Beursnieuws",
-    "titel": "Media: OpenAI weerspreekt tegenwind",
-    "link": "https://www.beurs.nl/Nieuws/862142/Media-OpenAI-weerspreekt-tegenwind.aspx",
-    "intro": "OpenAI zegt dat het bedrijf \"op volle toeren draait\", nadat er eerder kritiek kwam van The Wall Street Journal en The Information, dat interne doelstellingen niet gehaald zouden zijn.",
-    "published_at": "2026-04-28 17:30",
-    "scraped_at": "2026-04-28T19:58:31.040691"
-  },
-  {
-    "id": "15b3ebc00873da1d16aea654ece6f8b8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Bank of England zal rente opnieuw handhaven",
-    "link": "https://www.beurs.nl/Nieuws/862138/Beursblik-Bank-of-England-zal-rente-opnieuw-handhaven.aspx",
-    "intro": "De Bank of England zal de rente aanstaande donderdag vermoedelijk handhaven op 3,75 procent, hoewel de markt verwacht dat de Bank Rate later dit jaar wel zal worden verhoogd.",
-    "published_at": "2026-04-28 16:40",
-    "scraped_at": "2026-04-28T19:58:31.040691"
-  },
-  {
-    "id": "9ae6f991e2cb652081bd3e4752d3a70c",
-    "categorie": "Beursnieuws",
-    "titel": "Grondstoffenprijzen naar hoogste niveau in vier jaar",
-    "link": "https://www.beurs.nl/Nieuws/862134/Grondstoffenprijzen-naar-hoogste-niveau-in-vier-jaar.aspx",
-    "intro": "De oorlog in het Midden-Oosten jaagt de grondstoffenprijzen omhoog en zet daarmee de economische groei en inflatie onder druk.",
-    "published_at": "2026-04-28 16:16",
-    "scraped_at": "2026-04-28T19:58:31.040691"
+    "scraped_at": "2026-04-28T21:13:30.539403"
   }
 ]
