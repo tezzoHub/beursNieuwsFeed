@@ -1,29 +1,92 @@
 [
   {
-    "id": "a0b371988a8377a672272044dc49a281",
+    "id": "3108f181321e6a434bcb7b40b51a804d",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/861999/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 5 mei 2026:",
-    "published_at": "2026-04-28 06:46",
-    "scraped_at": "2026-04-28T04:54:53.785704"
+    "titel": "AEX nipt lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/862029/AEX-nipt-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,1 procent lager op 1.007,59 punten, terwijl de Midkap vlak noteerde.",
+    "published_at": "2026-04-28 09:14",
+    "scraped_at": "2026-04-28T07:31:21.449179"
   },
   {
-    "id": "7c384d842f9db2ad5658888b57dc19db",
+    "id": "1a095b50d87f7670a0e104cc4d5e917a",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/862000/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 5 mei 2026:",
-    "published_at": "2026-04-28 06:46",
-    "scraped_at": "2026-04-28T04:54:53.785704"
+    "titel": "Barclays kondigt nieuwe aandeleninkoop aan",
+    "link": "https://www.beurs.nl/Nieuws/862027/Barclays-kondigt-nieuwe-aandeleninkoop-aan.aspx",
+    "intro": "Barclays heeft in het eerste kwartaal meer winst geboekt, terwijl ook de inkomsten stegen. Dit bleek dinsdag uit de kwartaalcijfers van de Britse bank, die ook een nieuw aandeleninkoopprogramma aankondigde.",
+    "published_at": "2026-04-28 09:05",
+    "scraped_at": "2026-04-28T07:31:21.449179"
   },
   {
-    "id": "52820735816dcf0bb3c05a020bd1ffb9",
+    "id": "5f598b7ad1e181a46f26b75309822677",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/862002/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 5 mei 2026:",
-    "published_at": "2026-04-28 06:46",
-    "scraped_at": "2026-04-28T04:54:53.785704"
+    "titel": "Green Earth tekent koopovereenkomst",
+    "link": "https://www.beurs.nl/Nieuws/862021/Green-Earth-tekent-koopovereenkomst.aspx",
+    "intro": "Green Earth Group heeft een bindende langdurige koopovereenkomst getekend met Climate Impact Partners voor de levering van CO2-certificaten. Dit maakte het in Amsterdam genoteerde bedrijf dinsdagochtend bekend.",
+    "published_at": "2026-04-28 08:44",
+    "scraped_at": "2026-04-28T07:31:21.449179"
+  },
+  {
+    "id": "454c81403c25097fc5e58b8f1624a5f4",
+    "categorie": "Beursnieuws",
+    "titel": "Flinke winstsprong BP",
+    "link": "https://www.beurs.nl/Nieuws/862019/Flinke-winstsprong-BP.aspx",
+    "intro": "BP heeft de winst in het eerste kwartaal zien verdubbelen, profiterend van de hogere olieprijzen. Dit bleek dinsdag uit de cijfers van de Britse energiereus.",
+    "published_at": "2026-04-28 08:35",
+    "scraped_at": "2026-04-28T07:31:21.449179"
+  },
+  {
+    "id": "2f5509e9c3362e68aebc365561d9740b",
+    "categorie": "Voorbeurs",
+    "titel": "Cijferstorm trekt aan, Trump 'not happy' met voorstel Iran en hawkish Bank of Japan",
+    "link": "https://www.beurs.nl/Artikel/861960/Cijferstorm-trekt-aan-Trump-not-happy-met-voorstel-Iran-en-hawkish-Bank-of-Japan.aspx",
+    "intro": "Openingsindicatie: vlak. VS wijst vredesplan Iran af. PostNL ziet ook pakketvolumes dalen. Bank of Japan handhaaft rente, maar inflatieverwachtingen omhoog. Belangrijke vergadering van Galapagos vanmiddag.",
+    "published_at": "2026-04-28 08:30",
+    "scraped_at": "2026-04-28T07:31:21.449179"
+  },
+  {
+    "id": "39b9ce2d78528420387440d739801fd7",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsdag vermoedelijk terughoudend",
+    "link": "https://www.beurs.nl/Nieuws/862016/AEX-start-handelsdag-vermoedelijk-terughoudend.aspx",
+    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een vrij vlakke opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een fractionele plus.",
+    "published_at": "2026-04-28 08:11",
+    "scraped_at": "2026-04-28T07:31:21.449179"
+  },
+  {
+    "id": "42035c2b4da033b46c20a4586628dd57",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuwe spooropdracht voor Arcadis in VK",
+    "link": "https://www.beurs.nl/Nieuws/862013/Nieuwe-spooropdracht-voor-Arcadis-in-VK.aspx",
+    "intro": "Arcadis is geselecteerd door het Britse Network Rail als programmapartner. Dit maakte het Nederlandse advies- en ingenieursbureau dinsdagochtend bekend.",
+    "published_at": "2026-04-28 08:00",
+    "scraped_at": "2026-04-28T07:31:21.449179"
+  },
+  {
+    "id": "a6f079f116598edca51a49a95fba2405",
+    "categorie": "Beursnieuws",
+    "titel": "DSM-Firmenich verkoopt Action Pin activiteiten",
+    "link": "https://www.beurs.nl/Nieuws/862012/DSM-Firmenich-verkoopt-Action-Pin-activiteiten.aspx",
+    "intro": "DSM-Firmenich heeft dinsdag voorbeurs de verkoop aangekondigd van de Action Pin activiteiten aan AP Marensin SASU.",
+    "published_at": "2026-04-28 07:40",
+    "scraped_at": "2026-04-28T07:31:21.449179"
+  },
+  {
+    "id": "5073970cb4bde878e1242007595db391",
+    "categorie": "Beursnieuws",
+    "titel": "Nikkei index lager na Japans rentebesluit",
+    "link": "https://www.beurs.nl/Nieuws/862011/Nikkei-index-lager-na-Japans-rentebesluit.aspx",
+    "intro": "De Aziatische beurzen noteerden dinsdagochtend verdeeld, met als negatieve uitschieter de Japanse Nikkei index met een verlies van ruim een procent.",
+    "published_at": "2026-04-28 07:28",
+    "scraped_at": "2026-04-28T07:31:21.449179"
+  },
+  {
+    "id": "df02359fe4594c2e98bf6a089a4f8776",
+    "categorie": "Beursnieuws",
+    "titel": "PostNL houdt omzet op peil",
+    "link": "https://www.beurs.nl/Nieuws/862010/PostNL-houdt-omzet-op-peil.aspx",
+    "intro": "PostNL heeft de omzet in het eerste kwartaal van dit jaar op peil weten te houden. Dit bleek dinsdagochtend uit een kwartaalupdate van het bedrijf.",
+    "published_at": "2026-04-28 07:26",
+    "scraped_at": "2026-04-28T07:31:21.449179"
   }
 ]
