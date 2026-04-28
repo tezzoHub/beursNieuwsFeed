@@ -1,12 +1,30 @@
 [
   {
+    "id": "4c05e64524202ba10e6f90911daf0292",
+    "categorie": "Beursnieuws",
+    "titel": "Galapagos wordt Lakefront Biotechnologies",
+    "link": "https://www.beurs.nl/Nieuws/862178/Galapagos-wordt-Lakefront-Biotechnologies.aspx",
+    "intro": "Galapagos verandert per 8 mei zijn naam in Lakefront Biotechnologies, nadat de aandeelhouders dit voorstel dinsdag goedkeurden. Dat maakte het biotechbedrijf dinsdag bekend.",
+    "published_at": "2026-04-28 23:38",
+    "scraped_at": "2026-04-28T22:28:26.358999"
+  },
+  {
+    "id": "45ad4b9aeef86b30557c289fb7e4009e",
+    "categorie": "Beursnieuws",
+    "titel": "Omzetherstel bij Starbucks raakt op stoom",
+    "link": "https://www.beurs.nl/Nieuws/862176/Omzetherstel-bij-Starbucks-raakt-op-stoom.aspx",
+    "intro": "De Amerikaanse koffieketen Starbucks heeft in het afgelopen kwartaal de omzet verder zien herstellen. Dat bleek dinsdag uit de kwartaalcijfers.",
+    "published_at": "2026-04-28 23:18",
+    "scraped_at": "2026-04-28T22:28:26.358999"
+  },
+  {
     "id": "f395a423951489d8ca4c9815a7aa2920",
     "categorie": "Beursnieuws",
     "titel": "Consument blijft geld uitgeven met Visa",
     "link": "https://www.beurs.nl/Nieuws/862174/Consument-blijft-geld-uitgeven-met-Visa.aspx",
     "intro": "Visa heeft in het afgelopen kwartaal een hogere omzet en ook meer winst geboekt, dankzij de consumenten die hun bestedingen op peil hielden. Dat bleek dinsdag uit de kwartaalcijfers van het betaalkaartenbedrijf.",
     "published_at": "2026-04-28 23:04",
-    "scraped_at": "2026-04-28T21:13:30.539403"
+    "scraped_at": "2026-04-28T22:28:26.358999"
   },
   {
     "id": "e81d433163347e75d0fcc99d5b9c9ca4",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/862173/PPG-Industries-boekt-meer-omzet.aspx",
     "intro": "PPG Industries heeft in het eerste kwartaal meer omzet geboekt en handhaafde zijn winstverwachting voor het jaar, enkele weken nadat het bedrijf zijn prijzen verhoogde. Dat maakte het Amerikaanse verf- en coatingsbedrijf dinsdag bekend.",
     "published_at": "2026-04-28 22:52",
-    "scraped_at": "2026-04-28T21:13:30.539403"
+    "scraped_at": "2026-04-28T22:28:26.358999"
   },
   {
     "id": "b3da59e50083316b36a6b292e645491c",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/862172/Koerssprong-voor-NXP-Semiconductors-na-kwartaalcijfers.aspx",
     "intro": "NXP Semiconductors heeft in het eerste kwartaal de verwachtingen overtroffen en deed dat ook met zijn vooruitblik naar het tweede kwartaal. Dat bleek dinsdag nabeurs.",
     "published_at": "2026-04-28 22:42",
-    "scraped_at": "2026-04-28T21:13:30.539403"
+    "scraped_at": "2026-04-28T22:28:26.358999"
   },
   {
     "id": "2a4713792e89b3b42ae758a530310b15",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862171/Wall-Street-sluit-lager-op-zorgen-over-AI.aspx",
     "intro": "De Amerikaanse beurzen zijn dinsdag lager gesloten, nadat zorgen over de enorme investeringen in AI op de technologiesector drukten, onder andere op het aandeel Nvidia.",
     "published_at": "2026-04-28 22:33",
-    "scraped_at": "2026-04-28T21:13:30.539403"
+    "scraped_at": "2026-04-28T22:28:26.358999"
   },
   {
     "id": "28a5779b2688de263a140f84628c6e6e",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862169/Beursupdate-AEX-op-Wall-Street.aspx",
     "intro": "Op Wall Street zijn maandag vier van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. Shell was de sterkste daler.",
     "published_at": "2026-04-28 22:25",
-    "scraped_at": "2026-04-28T21:13:30.539403"
+    "scraped_at": "2026-04-28T22:28:26.358999"
   },
   {
     "id": "c15a352e282e6fad81a2cad67d6ecce3",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862165/Olieprijs-stijgt.aspx",
     "intro": "De olieprijs is dinsdag fors hoger gesloten in New York, nadat de impasse rond de Straat van Hormuz voortduurde.",
     "published_at": "2026-04-28 21:54",
-    "scraped_at": "2026-04-28T21:13:30.539403"
+    "scraped_at": "2026-04-28T22:28:26.358999"
   },
   {
     "id": "861030f18d7df54771c8c966d451c292",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862163/Almunda-boekt-minder-winst.aspx",
     "intro": "Almunda Professionals heeft in 2025 opnieuw minder winst geboekt bij een groeiende omzet. Dat maakte het bedrijf dinsdag nabeurs bekend.",
     "published_at": "2026-04-28 20:38",
-    "scraped_at": "2026-04-28T21:13:30.539403"
+    "scraped_at": "2026-04-28T22:28:26.358999"
   },
   {
     "id": "84eb9aefbdafd88e2d06543d7c0ae9e5",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862162/Wall-Street-sombert-over-OpenAI.aspx",
     "intro": "De Amerikaanse beurzen stonden dinsdag overwegend lager, terwijl zorgen over de enorme investeringen in AI op de technologiesector drukten, onder andere op het aandeel Nvidia.",
     "published_at": "2026-04-28 20:14",
-    "scraped_at": "2026-04-28T21:13:30.539403"
-  },
-  {
-    "id": "aa98963e3107d18c569c1c766e5c9f21",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten overwegend lager",
-    "link": "https://www.beurs.nl/Nieuws/862160/Europese-beurzen-sluiten-overwegend-lager.aspx",
-    "intro": "De aandelenmarkten in Europa zijn dinsdag overwegend lager gesloten, nadat de impasse in het Midden-Oosten aanhield en de olieprijzen verder stegen.",
-    "published_at": "2026-04-28 18:59",
-    "scraped_at": "2026-04-28T21:13:30.539403"
-  },
-  {
-    "id": "f5da20ef66d518ddf01a1c0e4ba48419",
-    "categorie": "Beursnieuws",
-    "titel": "Alumexx zet stap richting Europese expansie",
-    "link": "https://www.beurs.nl/Nieuws/862158/Alumexx-zet-stap-richting-Europese-expansie.aspx",
-    "intro": "Alumexx heeft in 2025 de omzet laten stijgen, maar boekte een nettoverlies door forse investeringen in robotisering, marketing en het salesteam. Dit maakte de aan Euronext Amsterdam genoteerde leverancier van aluminium klimmaterialen dinsdag bekend.",
-    "published_at": "2026-04-28 18:36",
-    "scraped_at": "2026-04-28T21:13:30.539403"
+    "scraped_at": "2026-04-28T22:28:26.358999"
   }
 ]
