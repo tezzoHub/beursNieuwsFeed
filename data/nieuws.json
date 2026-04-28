@@ -1,12 +1,39 @@
 [
   {
+    "id": "aa98963e3107d18c569c1c766e5c9f21",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/862160/Europese-beurzen-sluiten-overwegend-lager.aspx",
+    "intro": "De aandelenmarkten in Europa zijn dinsdag overwegend lager gesloten, nadat de impasse in het Midden-Oosten aanhield en de olieprijzen verder stegen.",
+    "published_at": "2026-04-28 18:59",
+    "scraped_at": "2026-04-28T18:10:15.826327"
+  },
+  {
+    "id": "f5da20ef66d518ddf01a1c0e4ba48419",
+    "categorie": "Beursnieuws",
+    "titel": "Alumexx zet stap richting Europese expansie",
+    "link": "https://www.beurs.nl/Nieuws/862158/Alumexx-zet-stap-richting-Europese-expansie.aspx",
+    "intro": "Alumexx heeft in 2025 de omzet laten stijgen, maar boekte een nettoverlies door forse investeringen in robotisering, marketing en het salesteam. Dit maakte de aan Euronext Amsterdam genoteerde leverancier van aluminium klimmaterialen dinsdag bekend.",
+    "published_at": "2026-04-28 18:36",
+    "scraped_at": "2026-04-28T18:10:15.826327"
+  },
+  {
     "id": "a05aea09f090fb9c3308fbc94622dfa9",
     "categorie": "Beursnieuws",
     "titel": "Airbus boekt lagere omzet en winst",
     "link": "https://www.beurs.nl/Nieuws/862149/Airbus-boekt-lagere-omzet-en-winst.aspx",
     "intro": "Airbus heeft in het eerste kwartaal van 2026 minder vliegtuigen afgeleverd dan een jaar eerder, wat de omzet en winst flink drukte. De vliegtuigbouwer handhaafde desondanks de verwachtingen voor heel dit jaar. Dit maakte de Europese vliegtuigbouwer dinsdagavond bekend.",
     "published_at": "2026-04-28 18:02",
-    "scraped_at": "2026-04-28T16:29:10.295673"
+    "scraped_at": "2026-04-28T18:10:15.826327"
+  },
+  {
+    "id": "c5e11a25e03eba6e7aa2114939ce535a",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers duwen AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/862159/Chippers-duwen-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag met verlies gesloten. De 'chippers' hadden het flink te verduren, nadat de resultaten van OpenAI twijfels over het verdienmodel van het bedrijf aanwakkerden.",
+    "published_at": "2026-04-28 17:55",
+    "scraped_at": "2026-04-28T18:10:15.826327"
   },
   {
     "id": "bf501f7c57d8f4abf615906b4c36441a",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/862142/Media-OpenAI-weerspreekt-tegenwind.aspx",
     "intro": "OpenAI zegt dat het bedrijf \"op volle toeren draait\", nadat er eerder kritiek kwam van The Wall Street Journal en The Information, dat interne doelstellingen niet gehaald zouden zijn.",
     "published_at": "2026-04-28 17:30",
-    "scraped_at": "2026-04-28T16:29:10.295673"
+    "scraped_at": "2026-04-28T18:10:15.826327"
   },
   {
     "id": "15b3ebc00873da1d16aea654ece6f8b8",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862138/Beursblik-Bank-of-England-zal-rente-opnieuw-handhaven.aspx",
     "intro": "De Bank of England zal de rente aanstaande donderdag vermoedelijk handhaven op 3,75 procent, hoewel de markt verwacht dat de Bank Rate later dit jaar wel zal worden verhoogd.",
     "published_at": "2026-04-28 16:40",
-    "scraped_at": "2026-04-28T16:29:10.295673"
+    "scraped_at": "2026-04-28T18:10:15.826327"
   },
   {
     "id": "9ae6f991e2cb652081bd3e4752d3a70c",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862134/Grondstoffenprijzen-naar-hoogste-niveau-in-vier-jaar.aspx",
     "intro": "De oorlog in het Midden-Oosten jaagt de grondstoffenprijzen omhoog en zet daarmee de economische groei en inflatie onder druk.",
     "published_at": "2026-04-28 16:16",
-    "scraped_at": "2026-04-28T16:29:10.295673"
+    "scraped_at": "2026-04-28T18:10:15.826327"
   },
   {
     "id": "226c0d8b8ef924ee16fe18e91126fcb1",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862135/Conference-Board-Amerikaanse-consument-heeft-iets-meer-vertrouwen.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in april opnieuw licht verbeterd. Dit bleek dinsdag uit cijfers van The Conference Board.",
     "published_at": "2026-04-28 16:15",
-    "scraped_at": "2026-04-28T16:29:10.295673"
+    "scraped_at": "2026-04-28T18:10:15.826327"
   },
   {
     "id": "93882891b648d89c50f8dee2e1341ca4",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862131/Beursblik-moeilijke-evenwichtsoefening-voor-ECB.aspx",
     "intro": "De Europese Centrale Bank zal de rente aanstaande donderdag vermoedelijk opnieuw handhaven, maar de oorlog in het Midden-Oosten zal de ECB mogelijk later dit jaar wel tot actie dwingen.",
     "published_at": "2026-04-28 16:01",
-    "scraped_at": "2026-04-28T16:29:10.295673"
+    "scraped_at": "2026-04-28T18:10:15.826327"
   },
   {
     "id": "a0ea746bd6489685412c585540c3162d",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862130/Trump-Teheran-wil-snel-af-van-blokkade-Straat-van-Hormuz.aspx",
     "intro": "Iran heeft de Verenigde Staten geïnformeerd dat het op \"instorten\" staat en dat Teheran de Straat van Hormuz zo snel mogelijk weer open wil. Dit meldde de Amerikaanse president Donald Trump dinsdag op Truth Social.",
     "published_at": "2026-04-28 15:49",
-    "scraped_at": "2026-04-28T16:29:10.295673"
-  },
-  {
-    "id": "75b3d51b5eb94ed23e8653a04e8755ec",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/862126/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 7 mei 2026:",
-    "published_at": "2026-04-28 15:44",
-    "scraped_at": "2026-04-28T16:29:10.295673"
-  },
-  {
-    "id": "aa483fadd3a783c2f1cea5174f261bd1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/862127/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 7 mei 2026:",
-    "published_at": "2026-04-28 15:44",
-    "scraped_at": "2026-04-28T16:29:10.295673"
-  },
-  {
-    "id": "8c56333b18579626de7398947b8e2fd6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/862125/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 7 mei 2026:",
-    "published_at": "2026-04-28 15:43",
-    "scraped_at": "2026-04-28T16:29:10.295673"
+    "scraped_at": "2026-04-28T18:10:15.826327"
   }
 ]
