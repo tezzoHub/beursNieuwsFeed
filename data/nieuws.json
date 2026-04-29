@@ -1,21 +1,48 @@
 [
   {
+    "id": "e777645b2ad214c5cdd8ae69d0e88249",
+    "categorie": "Beursnieuws",
+    "titel": "Yum! Brands start 2026 sterk",
+    "link": "https://www.beurs.nl/Nieuws/862296/Yum-Brands-start-2026-sterk.aspx",
+    "intro": "Yum! Brands heeft het eerste kwartaal van 2026 sterk afgesloten, gedreven door forse groei bij Taco Bell en een recordaandeel online omzet. Dit bleek woensdag uit de kwartaalcijfers van het moederbedrijf van KFC, Taco Bell en Pizza Hut.",
+    "published_at": "2026-04-29 13:19",
+    "scraped_at": "2026-04-29T11:39:14.394231"
+  },
+  {
+    "id": "f86fbf18aa16c60b121ec43d8e73f116",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op terughoudende opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/862295/Futures-wijzen-op-terughoudende-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd bescheiden in het groen.",
+    "published_at": "2026-04-29 13:12",
+    "scraped_at": "2026-04-29T11:39:14.394231"
+  },
+  {
+    "id": "ef7339a17c917291577dae12cc75a748",
+    "categorie": "Beursnieuws",
+    "titel": "Verliezen op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/862280/Verliezen-op-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur lager.",
+    "published_at": "2026-04-29 12:28",
+    "scraped_at": "2026-04-29T11:39:14.394231"
+  },
+  {
     "id": "acc6e21e151234901f6c462baa4f547b",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: CVC aast op Nexi",
     "link": "https://www.beurs.nl/Nieuws/862260/Beursblik-CVC-aast-op-Nexi.aspx",
     "intro": "CVC Capital Partners aast volgens de Financial Times op het Italiaanse betaalbedrijf Nexi, wat vermoedelijk het resultaat is van de gedaalde beurswaarde van Nexi. Dit schreven analisten van Citi Research woensdag.",
     "published_at": "2026-04-29 11:50",
-    "scraped_at": "2026-04-29T09:52:56.340173"
+    "scraped_at": "2026-04-29T11:39:14.394231"
   },
   {
-    "id": "bc91a8e29c6732ab7d356ebb5c12d135",
+    "id": "be406a78f46981c589f3be5c405a26af",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: KPN lager na cijfers in lichtrode AEX",
-    "link": "https://www.beurs.nl/Nieuws/862248/Beursupdate-KPN-lager-na-cijfers-in-lichtrode-AEX.aspx",
+    "titel": "KPN lager na cijfers in lichtrode AEX",
+    "link": "https://www.beurs.nl/Nieuws/862248/KPN-lager-na-cijfers-in-lichtrode-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagmiddag licht lager. Rond de klok van elf uur daalde de AEX met 0,2 procent tot 998,67 punten.",
     "published_at": "2026-04-29 11:17",
-    "scraped_at": "2026-04-29T09:52:56.340173"
+    "scraped_at": "2026-04-29T11:39:14.394231"
   },
   {
     "id": "490a66c13f370d5a746b152f2a24aacf",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862247/Consumentenvertrouwen-eurozone-sterk-omlaag.aspx",
     "intro": "Het consumentenvertrouwen in de eurozone is in april flink afgenomen. Dit bleek woensdag uit cijfers van de Europese Commissie.",
     "published_at": "2026-04-29 11:13",
-    "scraped_at": "2026-04-29T09:52:56.340173"
+    "scraped_at": "2026-04-29T11:39:14.394231"
   },
   {
     "id": "f533b9385ba77db08a68db36c5d22829",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862246/Beursblik-solide-kwartaalresultaten-van-KPN.aspx",
     "intro": "KPN heeft in het eerste kwartaal solide resultaten geboekt die grofweg conform de consensus waren. Dit stelden analisten van Berenberg woensdag in een rapport.",
     "published_at": "2026-04-29 11:03",
-    "scraped_at": "2026-04-29T09:52:56.340173"
+    "scraped_at": "2026-04-29T11:39:14.394231"
   },
   {
     "id": "25dd5f4750cdeaa19b94a3e2b8efdb36",
@@ -42,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/862107/Must-read-Oorlog-in-Iran-jaagt-groene-revolutie-aan.aspx",
     "intro": "En het laatste rentebesluit van Jerome Powell. Ruzie tussen de baas van Citadel en de burgemeester van New York, en hedgefondsen lenen als nooit tevoren.",
     "published_at": "2026-04-29 10:15",
-    "scraped_at": "2026-04-29T09:52:56.340173"
+    "scraped_at": "2026-04-29T11:39:14.394231"
   },
   {
     "id": "891d9e96d8381a0b86e26be1f61a70d7",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862236/Fugro-aan-de-slag-met-windmolenpark-in-Taiwan.aspx",
     "intro": "Fugro gaat werkzaamheden uitvoeren voor een nieuw te bouwen windmolenpark voor de kust van Taiwan. Dit meldde de Nederlandse bodemonderzoeker woensdag zonder financiële details te verstrekken.",
     "published_at": "2026-04-29 09:37",
-    "scraped_at": "2026-04-29T09:52:56.340173"
+    "scraped_at": "2026-04-29T11:39:14.394231"
   },
   {
     "id": "dd13ca55363a36cce0c7cae160a47370",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862233/Beursblik-opnieuw-een-sterk-kwartaal-voor-KPN.aspx",
     "intro": "KPN heeft opnieuw een sterk kwartaal achter de rug. Dit stelde analist Vivien Maquet van Degroof Petercam woensdag in een rapport, waarin het koersdoel voor KPN werd verhoogd van 4,00 naar 5,00 euro.",
     "published_at": "2026-04-29 09:27",
-    "scraped_at": "2026-04-29T09:52:56.340173"
-  },
-  {
-    "id": "8760a0a53c6ff285aa9dd1b3de01840c",
-    "categorie": "Beursnieuws",
-    "titel": "KPN lager na cijfers in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/862232/KPN-lager-na-cijfers-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs is woensdag min of meer vlak geopend, waarbij KPN lager koerste na een kwartaalupdate. Kort na opening, koerste de AEX fractioneel lager op 1.000,73 punten.",
-    "published_at": "2026-04-29 09:17",
-    "scraped_at": "2026-04-29T09:52:56.340173"
-  },
-  {
-    "id": "0ebf98e25589b36f5238caa6348f7bc2",
-    "categorie": "Beursnieuws",
-    "titel": "Ease2pay boekt weer winst",
-    "link": "https://www.beurs.nl/Nieuws/862226/Ease2pay-boekt-weer-winst.aspx",
-    "intro": "Ease2pay heeft in 2025 de resultaten zien aantrekken. Dit bleek uit cijfers van het activatie- en betaalplatform.",
-    "published_at": "2026-04-29 09:06",
-    "scraped_at": "2026-04-29T09:52:56.340173"
-  },
-  {
-    "id": "07e3d2d990598d0a4d0f39b1608f017f",
-    "categorie": "Beursnieuws",
-    "titel": "Rode cijfers voor MKB Nedsense",
-    "link": "https://www.beurs.nl/Nieuws/862225/Rode-cijfers-voor-MKB-Nedsense.aspx",
-    "intro": "MKB Nedsense heeft GNS Brinkman en Axess goede resultaten zien behalen in 2025, maar eindigde toch in de rode cijfers. Dit bleek woensdag uit de jaarcijfers van MKB Nedsense.",
-    "published_at": "2026-04-29 08:56",
-    "scraped_at": "2026-04-29T09:52:56.340173"
+    "scraped_at": "2026-04-29T11:39:14.394231"
   }
 ]
