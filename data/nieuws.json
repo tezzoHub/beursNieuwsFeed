@@ -1,29 +1,92 @@
 [
   {
-    "id": "f9f6b09cafa912afd89fcdcc6580552f",
+    "id": "dd13ca55363a36cce0c7cae160a47370",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/862192/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 6 mei 2026:",
-    "published_at": "2026-04-29 06:54",
-    "scraped_at": "2026-04-29T05:00:39.316102"
+    "titel": "Beursblik: opnieuw een sterk kwartaal voor KPN",
+    "link": "https://www.beurs.nl/Nieuws/862233/Beursblik-opnieuw-een-sterk-kwartaal-voor-KPN.aspx",
+    "intro": "KPN heeft opnieuw een sterk kwartaal achter de rug. Dit stelde analist Vivien Maquet van Degroof Petercam woensdag in een rapport, waarin het koersdoel voor KPN werd verhoogd van 4,00 naar 5,00 euro.",
+    "published_at": "2026-04-29 09:27",
+    "scraped_at": "2026-04-29T07:36:42.490955"
   },
   {
-    "id": "e3022b3c1f997a0c283c168b063b25ae",
+    "id": "8760a0a53c6ff285aa9dd1b3de01840c",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/862193/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 6 mei 2026:",
-    "published_at": "2026-04-29 06:54",
-    "scraped_at": "2026-04-29T05:00:39.316102"
+    "titel": "KPN lager na cijfers in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/862232/KPN-lager-na-cijfers-in-vlakke-AEX.aspx",
+    "intro": "De Amsterdamse beurs is woensdag min of meer vlak geopend, waarbij KPN lager koerste na een kwartaalupdate. Kort na opening, koerste de AEX fractioneel lager op 1.000,73 punten.",
+    "published_at": "2026-04-29 09:17",
+    "scraped_at": "2026-04-29T07:36:42.490955"
   },
   {
-    "id": "08a2dfe1146fc300ed6ce4200c4c55d1",
+    "id": "0ebf98e25589b36f5238caa6348f7bc2",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/862190/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 6 mei 2026:",
-    "published_at": "2026-04-29 06:53",
-    "scraped_at": "2026-04-29T05:00:39.316102"
+    "titel": "Ease2pay boekt weer winst",
+    "link": "https://www.beurs.nl/Nieuws/862226/Ease2pay-boekt-weer-winst.aspx",
+    "intro": "Ease2pay heeft in 2025 de resultaten zien aantrekken. Dit bleek uit cijfers van het activatie- en betaalplatform.",
+    "published_at": "2026-04-29 09:06",
+    "scraped_at": "2026-04-29T07:36:42.490955"
+  },
+  {
+    "id": "07e3d2d990598d0a4d0f39b1608f017f",
+    "categorie": "Beursnieuws",
+    "titel": "Rode cijfers voor MKB Nedsense",
+    "link": "https://www.beurs.nl/Nieuws/862225/Rode-cijfers-voor-MKB-Nedsense.aspx",
+    "intro": "MKB Nedsense heeft GNS Brinkman en Axess goede resultaten zien behalen in 2025, maar eindigde toch in de rode cijfers. Dit bleek woensdag uit de jaarcijfers van MKB Nedsense.",
+    "published_at": "2026-04-29 08:56",
+    "scraped_at": "2026-04-29T07:36:42.490955"
+  },
+  {
+    "id": "be5293d0b676844c2dde181c2bff8ba3",
+    "categorie": "Beursnieuws",
+    "titel": "Totalenergies gaat aandeelhouders steviger belonen",
+    "link": "https://www.beurs.nl/Nieuws/862224/Totalenergies-gaat-aandeelhouders-steviger-belonen.aspx",
+    "intro": "TotalEnergies gaat meer geld uitkeren aan aandeelhouders, nadat het conflict in het Midden-Oosten de winst flink stimuleerde in het eerste kwartaal.",
+    "published_at": "2026-04-29 08:55",
+    "scraped_at": "2026-04-29T07:36:42.490955"
+  },
+  {
+    "id": "9ddbfdcc01e23e402315acfc63326ca8",
+    "categorie": "Beursnieuws",
+    "titel": "Breedgedragen groei voor Carlsberg",
+    "link": "https://www.beurs.nl/Nieuws/862223/Breedgedragen-groei-voor-Carlsberg.aspx",
+    "intro": "Carlsberg is in eerste kwartaal gegroeid op autonome basis. Dit bleek uit cijfers die de Deense brouwer woensdag presenteerde.",
+    "published_at": "2026-04-29 08:43",
+    "scraped_at": "2026-04-29T07:36:42.490955"
+  },
+  {
+    "id": "c1a651ff7e76d0eb2850a0bd2d8adf2c",
+    "categorie": "Beursnieuws",
+    "titel": "KONE koopt TKE",
+    "link": "https://www.beurs.nl/Nieuws/862219/KONE-koopt-TKE.aspx",
+    "intro": "KONE heeft een akkoord bereikt over de overname van TKE. Dit maakte KONE woensdagochtend bekend.",
+    "published_at": "2026-04-29 08:38",
+    "scraped_at": "2026-04-29T07:36:42.490955"
+  },
+  {
+    "id": "99830e720254fcddb7fda5e99e79b825",
+    "categorie": "Beursnieuws",
+    "titel": "Citi Research verhoogt koersdoel Basic-Fit",
+    "link": "https://www.beurs.nl/Nieuws/862218/Citi-Research-verhoogt-koersdoel-Basic-Fit.aspx",
+    "intro": "Citi Research heeft woensdag het koersdoel voor Basic-Fit verhoogd van 46,00 naar 49,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Amerikaanse bank.",
+    "published_at": "2026-04-29 08:36",
+    "scraped_at": "2026-04-29T07:36:42.490955"
+  },
+  {
+    "id": "e617761e3d67441c8827f0e103786293",
+    "categorie": "Beursnieuws",
+    "titel": "Fors hogere kwartaalwinst voor UBS",
+    "link": "https://www.beurs.nl/Nieuws/862216/Fors-hogere-kwartaalwinst-voor-UBS.aspx",
+    "intro": "UBS heeft een uitstekende prestatie geleverd in het eerste kwartaal van 2026 met een winststijging van 80 procent op jaarbasis tot 3,0 miljard dollar. Dit maakte de Zwitserse bank woensdagochtend bekend.",
+    "published_at": "2026-04-29 08:22",
+    "scraped_at": "2026-04-29T07:36:42.490955"
+  },
+  {
+    "id": "2067e7ca85467503303e3a04387c6b3a",
+    "categorie": "Voorbeurs",
+    "titel": "AEX houdt zich kranig aan vooravond razenddrukke cijfer- en Fed-dag",
+    "link": "https://www.beurs.nl/Artikel/862187/AEX-houdt-zich-kranig-aan-vooravond-razenddrukke-cijfer-en-Fed-dag.aspx",
+    "intro": "Openingsindicatie: +0,3%. Drukke cijferdag voor de boeg. Positieve verrassing NXP. KPN is ook door. Later volgen UMG, Amazon, Alphabet, Meta, Microsoft en Qualcomm. En laatste handelsdag JDE Peet's, maar gelukkig hebben we de koffiepunten nog.",
+    "published_at": "2026-04-29 08:20",
+    "scraped_at": "2026-04-29T07:36:42.490955"
   }
 ]
