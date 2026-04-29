@@ -1,12 +1,75 @@
 [
   {
-    "id": "f98458d18525955fc8ae0d6a93ba4112",
+    "id": "bdc681fe50196c0f0d9de404244f4627",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street terughoudend van start",
-    "link": "https://www.beurs.nl/Nieuws/862318/Wall-Street-terughoudend-van-start.aspx",
+    "titel": "IATA: vliegverkeer groeit ondanks oorlog in Iran",
+    "link": "https://www.beurs.nl/Nieuws/862341/IATA-vliegverkeer-groeit-ondanks-oorlog-in-Iran.aspx",
+    "intro": "De wereldwijde vraag naar vliegreizen is in maart met 2,1 procent gestegen ten opzichte van dezelfde maand een jaar eerder. Dit bleek woensdag uit het maandrapport van brancheorganisatie IATA. Exclusief het Midden-Oosten bedroeg de groei 8 procent.",
+    "published_at": "2026-04-29 16:53",
+    "scraped_at": "2026-04-29T15:30:25.077145"
+  },
+  {
+    "id": "2ec5cbf39167d81450b29ed962d9ad88",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/862338/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 7 mei 2026:",
+    "published_at": "2026-04-29 16:38",
+    "scraped_at": "2026-04-29T15:30:25.077145"
+  },
+  {
+    "id": "eac6c0c69378b56fb0616a0cec0448ac",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden dalen forser dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/862336/Amerikaanse-olievoorraden-dalen-forser-dan-verwacht.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week veel forser gedaald dan verwacht. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-04-29 16:37",
+    "scraped_at": "2026-04-29T15:30:25.077145"
+  },
+  {
+    "id": "247d28941c3ef67813188142cde03393",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/862337/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 7 mei 2026:",
+    "published_at": "2026-04-29 16:36",
+    "scraped_at": "2026-04-29T15:30:25.077145"
+  },
+  {
+    "id": "00af5ac3c0c45695b68bb675c0226a83",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/862334/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 7 mei 2026:",
+    "published_at": "2026-04-29 16:35",
+    "scraped_at": "2026-04-29T15:30:25.077145"
+  },
+  {
+    "id": "3acd243a6406ff07b9f895b5906f3855",
+    "categorie": "Beursnieuws",
+    "titel": "GE HealthCare komt met winstwaarschuwing",
+    "link": "https://www.beurs.nl/Nieuws/862325/GE-HealthCare-komt-met-winstwaarschuwing.aspx",
+    "intro": "GE HealthCare heeft woensdag de winstverwachting voor heel 2026 verlaagd, na een kwartaal waarin de kosten voor geheugenchips, olie en transport sterk opliepen.",
+    "published_at": "2026-04-29 15:33",
+    "scraped_at": "2026-04-29T15:30:25.077145"
+  },
+  {
+    "id": "690c91cb7cc43701f1a5378469d2d717",
+    "categorie": "Beurs vandaag",
+    "titel": "Laatste akte van Powell: vijf dingen om op te letten bij het Fed-besluit",
+    "link": "https://www.beurs.nl/Artikel/862054/Laatste-akte-van-Powell-vijf-dingen-om-op-te-letten-bij-het-Fed-besluit.aspx",
+    "intro": "Hoe zal de rente zich dit jaar ontwikkelen? Blijft Powell aan als gouverneur bij de Fed? En komt de onafhankelijkheid van de Federal Reserve straks in het geding?",
+    "published_at": "2026-04-29 15:00",
+    "scraped_at": "2026-04-29T15:30:25.077145"
+  },
+  {
+    "id": "eee1ca98df1e9ec0387cecf16bcd74b7",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street waarschijnlijk terughoudend van start",
+    "link": "https://www.beurs.nl/Nieuws/862318/Wall-Street-waarschijnlijk-terughoudend-van-start.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden een half uur voor opening 0,1 procent in het rood. De Nasdaq lijkt 0,3 procent te winnen bij de start van de handel.",
     "published_at": "2026-04-29 14:58",
-    "scraped_at": "2026-04-29T13:11:16.375193"
+    "scraped_at": "2026-04-29T15:30:25.077145"
   },
   {
     "id": "847f39af48f2252de4681e0d8db95bf0",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862314/Update-Meer-woningen-in-aanbouw-genomen-in-VS.aspx",
     "intro": "Het aantal in aanbouw genomen woningen in de VS is in maart gestegen, terwijl het aantal afgegeven bouwvergunningen lager uitviel. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-04-29 14:58",
-    "scraped_at": "2026-04-29T13:11:16.375193"
+    "scraped_at": "2026-04-29T15:30:25.077145"
   },
   {
     "id": "ea85593580236aa36481ff65a4b8222b",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862315/AbbVie-verhoogt-winstverwachting.aspx",
     "intro": "AbbVie heeft in het eerste kwartaal de winst hoger zien uitkomen dan verwacht, terwijl ook de omzet wat hoger uitviel, waardoor er ruimte was om de outlook voor dit jaar te verhogen. Dit bleek woensdag uit cijfers van de farmaceut.",
     "published_at": "2026-04-29 14:42",
-    "scraped_at": "2026-04-29T13:11:16.375193"
-  },
-  {
-    "id": "70ca49eb8eda6739baf6d3d37a3df193",
-    "categorie": "Beursnieuws",
-    "titel": "Orders voor duurzame goederen in VS gestegen",
-    "link": "https://www.beurs.nl/Nieuws/862312/Orders-voor-duurzame-goederen-in-VS-gestegen.aspx",
-    "intro": "De orders voor duurzame goederen in de VS zijn in maart gestegen. Ook werden de cijfers voor februari licht bijgesteld. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-04-29 14:36",
-    "scraped_at": "2026-04-29T13:11:16.375193"
-  },
-  {
-    "id": "5ff0486351560b0b0c0ca47f81e92b87",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: hogere omzet bij Air France-KLM verwacht",
-    "link": "https://www.beurs.nl/Nieuws/862308/Beursblik-hogere-omzet-bij-Air-France-KLM-verwacht.aspx",
-    "intro": "Air France-KLM heeft in het eerste kwartaal de omzet zien aantrekken, terwijl het operationeel verlies wat opliep. Dit verwachten analisten die bijdroegen aan de consensus, in aanloop naar cijfers van het luchtvaartbedrijf op donderdag.",
-    "published_at": "2026-04-29 14:23",
-    "scraped_at": "2026-04-29T13:11:16.375193"
-  },
-  {
-    "id": "d174ecca62483c4755ec3300c360c6c5",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse inflatie loopt nog iets verder op",
-    "link": "https://www.beurs.nl/Nieuws/862305/Duitse-inflatie-loopt-nog-iets-verder-op.aspx",
-    "intro": "De Duitse inflatie is in april verder gestegen doordat energie opnieuw flink duurder werd. Dit bleek woensdag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-04-29 14:05",
-    "scraped_at": "2026-04-29T13:11:16.375193"
-  },
-  {
-    "id": "3dbffcad03fa85de77bbb97a148b24de",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: analisten rekenen op bescheiden groei Magnum Ice",
-    "link": "https://www.beurs.nl/Nieuws/862298/Beursblik-analisten-rekenen-op-bescheiden-groei-Magnum-Ice.aspx",
-    "intro": "Magnum Ice heeft in het eerste kwartaal de omzet zien groeien. Dit verwachten analisten in aanloop naar cijfers van de ijsfabrikant op donderdag.",
-    "published_at": "2026-04-29 13:44",
-    "scraped_at": "2026-04-29T13:11:16.375193"
-  },
-  {
-    "id": "be550ba50ee6998d7398067a3ebd44a8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: ING boekte vermoedelijk hogere inkomsten",
-    "link": "https://www.beurs.nl/Nieuws/862299/Beursblik-ING-boekte-vermoedelijk-hogere-inkomsten.aspx",
-    "intro": "ING Groep heeft in het eerste kwartaal van 2026 vermoedelijk meer inkomsten geboekt, maar doordat de kosten ook stegen, zal de winst min of meer stabiel zijn gebleven. Dit blijkt uit de analistenconsensus die de bank zelf samenstelde.",
-    "published_at": "2026-04-29 13:42",
-    "scraped_at": "2026-04-29T13:11:16.375193"
-  },
-  {
-    "id": "66a520d8bff800570935bdbdc4aefcf7",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: lagere resultaten IMCD voorzien",
-    "link": "https://www.beurs.nl/Nieuws/862297/Beursblik-lagere-resultaten-IMCD-voorzien.aspx",
-    "intro": "IMCD heeft in het eerste kwartaal de resultaten onder druk zien staan. Dit verwachten analisten van Jefferies in aanloop naar cijfers van het bedrijf op donderdag.",
-    "published_at": "2026-04-29 13:40",
-    "scraped_at": "2026-04-29T13:11:16.375193"
-  },
-  {
-    "id": "e777645b2ad214c5cdd8ae69d0e88249",
-    "categorie": "Beursnieuws",
-    "titel": "Yum! Brands start 2026 sterk",
-    "link": "https://www.beurs.nl/Nieuws/862296/Yum-Brands-start-2026-sterk.aspx",
-    "intro": "Yum! Brands heeft het eerste kwartaal van 2026 sterk afgesloten, gedreven door forse groei bij Taco Bell en een recordaandeel online omzet. Dit bleek woensdag uit de kwartaalcijfers van het moederbedrijf van KFC, Taco Bell en Pizza Hut.",
-    "published_at": "2026-04-29 13:19",
-    "scraped_at": "2026-04-29T13:11:16.375193"
+    "scraped_at": "2026-04-29T15:30:25.077145"
   }
 ]
