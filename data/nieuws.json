@@ -1,12 +1,48 @@
 [
   {
+    "id": "db9a7dda561b58830a7cfb5d9116239b",
+    "categorie": "Beursnieuws",
+    "titel": "Verliezen op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/862355/Verliezen-op-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen zijn woensdag lager gesloten nadat bedrijfsresultaten verdeeld ontvangen werden, terwijl de olieprijs opnieuw sterk steeg.",
+    "published_at": "2026-04-29 19:04",
+    "scraped_at": "2026-04-29T17:10:23.714262"
+  },
+  {
+    "id": "fd6abda9943b0e9578e6553f4d38f7c1",
+    "categorie": "Beursnieuws",
+    "titel": "UMG koopt meer aandelen in en verzilvert Spotify",
+    "link": "https://www.beurs.nl/Nieuws/862354/UMG-koopt-meer-aandelen-in-en-verzilvert-Spotify.aspx",
+    "intro": "Universal Music Group gaat meer eigen aandelen inkopen, omdat het aandeel ondergewaardeerd zou zijn, en wil daarvoor de helft van zijn belang in Spotify verzilveren. Dat maakte het bedrijf bekend bij zijn kwartaalcijfers.",
+    "published_at": "2026-04-29 19:01",
+    "scraped_at": "2026-04-29T17:10:23.714262"
+  },
+  {
+    "id": "6cfa5e341b46f49c526d79ffc572567d",
+    "categorie": "Beursnieuws",
+    "titel": "AEX schiet onder de 1.000 punten",
+    "link": "https://www.beurs.nl/Nieuws/862350/AEX-schiet-onder-de-1000-punten.aspx",
+    "intro": "De AEX is woensdag lager gesloten, terwijl de olieprijzen juist verder opliepen en beleggers intussen uitkijken naar het rentebesluit van de Fed en de kwartaalcijfers van een aantal grote techbedrijven in de VS.",
+    "published_at": "2026-04-29 17:49",
+    "scraped_at": "2026-04-29T17:10:23.714262"
+  },
+  {
+    "id": "ef96fe011791d53aa62593c3e58bb662",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX lager gesloten, maar het echte vuurwerk komt later vandaag",
+    "link": "https://www.iex.nl/artikel/862333/Slotcall-AEX-lager-gesloten-maar-het-echte-vuurwerk-komt-later-vandaag.aspx",
+    "intro": "AEX verliest 0,4% op een dag waarop het belangrijkste nog moet komen: de cijfers van Meta, Alphabet, Amazon en Microsoft. Op basis van de optiemarkt belooft het een volatiele avond te worden.",
+    "published_at": "2026-04-29 17:35",
+    "scraped_at": "2026-04-29T17:10:23.714262"
+  },
+  {
     "id": "bdc681fe50196c0f0d9de404244f4627",
     "categorie": "Beursnieuws",
     "titel": "IATA: vliegverkeer groeit ondanks oorlog in Iran",
     "link": "https://www.beurs.nl/Nieuws/862341/IATA-vliegverkeer-groeit-ondanks-oorlog-in-Iran.aspx",
     "intro": "De wereldwijde vraag naar vliegreizen is in maart met 2,1 procent gestegen ten opzichte van dezelfde maand een jaar eerder. Dit bleek woensdag uit het maandrapport van brancheorganisatie IATA. Exclusief het Midden-Oosten bedroeg de groei 8 procent.",
     "published_at": "2026-04-29 16:53",
-    "scraped_at": "2026-04-29T15:30:25.077145"
+    "scraped_at": "2026-04-29T17:10:23.714262"
   },
   {
     "id": "2ec5cbf39167d81450b29ed962d9ad88",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862338/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 7 mei 2026:",
     "published_at": "2026-04-29 16:38",
-    "scraped_at": "2026-04-29T15:30:25.077145"
+    "scraped_at": "2026-04-29T17:10:23.714262"
   },
   {
     "id": "eac6c0c69378b56fb0616a0cec0448ac",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862336/Amerikaanse-olievoorraden-dalen-forser-dan-verwacht.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week veel forser gedaald dan verwacht. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-04-29 16:37",
-    "scraped_at": "2026-04-29T15:30:25.077145"
+    "scraped_at": "2026-04-29T17:10:23.714262"
   },
   {
     "id": "247d28941c3ef67813188142cde03393",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862337/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 7 mei 2026:",
     "published_at": "2026-04-29 16:36",
-    "scraped_at": "2026-04-29T15:30:25.077145"
+    "scraped_at": "2026-04-29T17:10:23.714262"
   },
   {
     "id": "00af5ac3c0c45695b68bb675c0226a83",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862334/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 7 mei 2026:",
     "published_at": "2026-04-29 16:35",
-    "scraped_at": "2026-04-29T15:30:25.077145"
+    "scraped_at": "2026-04-29T17:10:23.714262"
   },
   {
     "id": "3acd243a6406ff07b9f895b5906f3855",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862325/GE-HealthCare-komt-met-winstwaarschuwing.aspx",
     "intro": "GE HealthCare heeft woensdag de winstverwachting voor heel 2026 verlaagd, na een kwartaal waarin de kosten voor geheugenchips, olie en transport sterk opliepen.",
     "published_at": "2026-04-29 15:33",
-    "scraped_at": "2026-04-29T15:30:25.077145"
-  },
-  {
-    "id": "690c91cb7cc43701f1a5378469d2d717",
-    "categorie": "Beurs vandaag",
-    "titel": "Laatste akte van Powell: vijf dingen om op te letten bij het Fed-besluit",
-    "link": "https://www.beurs.nl/Artikel/862054/Laatste-akte-van-Powell-vijf-dingen-om-op-te-letten-bij-het-Fed-besluit.aspx",
-    "intro": "Hoe zal de rente zich dit jaar ontwikkelen? Blijft Powell aan als gouverneur bij de Fed? En komt de onafhankelijkheid van de Federal Reserve straks in het geding?",
-    "published_at": "2026-04-29 15:00",
-    "scraped_at": "2026-04-29T15:30:25.077145"
-  },
-  {
-    "id": "eee1ca98df1e9ec0387cecf16bcd74b7",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street waarschijnlijk terughoudend van start",
-    "link": "https://www.beurs.nl/Nieuws/862318/Wall-Street-waarschijnlijk-terughoudend-van-start.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden een half uur voor opening 0,1 procent in het rood. De Nasdaq lijkt 0,3 procent te winnen bij de start van de handel.",
-    "published_at": "2026-04-29 14:58",
-    "scraped_at": "2026-04-29T15:30:25.077145"
-  },
-  {
-    "id": "847f39af48f2252de4681e0d8db95bf0",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Meer woningen in aanbouw genomen in VS",
-    "link": "https://www.beurs.nl/Nieuws/862314/Update-Meer-woningen-in-aanbouw-genomen-in-VS.aspx",
-    "intro": "Het aantal in aanbouw genomen woningen in de VS is in maart gestegen, terwijl het aantal afgegeven bouwvergunningen lager uitviel. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Handel.",
-    "published_at": "2026-04-29 14:58",
-    "scraped_at": "2026-04-29T15:30:25.077145"
-  },
-  {
-    "id": "ea85593580236aa36481ff65a4b8222b",
-    "categorie": "Beursnieuws",
-    "titel": "AbbVie verhoogt winstverwachting",
-    "link": "https://www.beurs.nl/Nieuws/862315/AbbVie-verhoogt-winstverwachting.aspx",
-    "intro": "AbbVie heeft in het eerste kwartaal de winst hoger zien uitkomen dan verwacht, terwijl ook de omzet wat hoger uitviel, waardoor er ruimte was om de outlook voor dit jaar te verhogen. Dit bleek woensdag uit cijfers van de farmaceut.",
-    "published_at": "2026-04-29 14:42",
-    "scraped_at": "2026-04-29T15:30:25.077145"
+    "scraped_at": "2026-04-29T17:10:23.714262"
   }
 ]
