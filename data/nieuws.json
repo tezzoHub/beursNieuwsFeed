@@ -1,12 +1,84 @@
 [
   {
+    "id": "d43a6292cab4383a9fca5385406cb4fb",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: aanhoudend momentum voor CVC",
+    "link": "https://www.beurs.nl/Nieuws/862576/Beursblik-aanhoudend-momentum-voor-CVC.aspx",
+    "intro": "CVC Capital Partners heeft in het eerste kwartaal van 2026 een aanhoudend sterk momentum laten zien. Dit oordeelden analisten van Citi Research donderdag in een rapport, na de update van het bedrijf vanochtend.",
+    "published_at": "2026-04-30 16:47",
+    "scraped_at": "2026-04-30T15:25:04.965811"
+  },
+  {
+    "id": "f9e8f8b57f0ab1d798cd605447e8af49",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/862569/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 8 mei 2026:",
+    "published_at": "2026-04-30 16:27",
+    "scraped_at": "2026-04-30T15:25:04.965811"
+  },
+  {
+    "id": "f519774466b7bb94cf43087857c4befb",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/862570/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 8 mei 2026:",
+    "published_at": "2026-04-30 16:27",
+    "scraped_at": "2026-04-30T15:25:04.965811"
+  },
+  {
+    "id": "e67761aea7c300bfaf1d8424e89ede8a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/862571/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 8 mei 2026:",
+    "published_at": "2026-04-30 16:27",
+    "scraped_at": "2026-04-30T15:25:04.965811"
+  },
+  {
+    "id": "6d3ef50351bc4355c019582d6edeb61e",
+    "categorie": "Beursnieuws",
+    "titel": "ECB oogt bezorgder over economie dan inflatie",
+    "link": "https://www.beurs.nl/Nieuws/862567/ECB-oogt-bezorgder-over-economie-dan-inflatie.aspx",
+    "intro": "De Europese Centrale Bank lijkt zich meer zorgen te maken over de economische groei dan een stijging van de inflatie. Dit bleek donderdag uit de persconferentie met voorzitter Christine Lagarde nadat de ECB de rentes vanmiddag onveranderd liet.",
+    "published_at": "2026-04-30 16:12",
+    "scraped_at": "2026-04-30T15:25:04.965811"
+  },
+  {
+    "id": "8815b9cfb22d57af3d2c146aeffe2850",
+    "categorie": "Beursnieuws",
+    "titel": "Leidende indicatoren VS dalen weer",
+    "link": "https://www.beurs.nl/Nieuws/862565/Leidende-indicatoren-VS-dalen-weer.aspx",
+    "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in maart gedaald, waarmee de toename in de maand ervoor weer teniet werd gedaan. Dit bleek donderdag uit cijfers van The Conference Board.",
+    "published_at": "2026-04-30 16:09",
+    "scraped_at": "2026-04-30T15:25:04.965811"
+  },
+  {
+    "id": "d43a0ec48df514c793660b435ebbc0f4",
+    "categorie": "Beursnieuws",
+    "titel": "Industrie rond Chicago krimpt",
+    "link": "https://www.beurs.nl/Nieuws/862561/Industrie-rond-Chicago-krimpt.aspx",
+    "intro": "De economische activiteit in de industrie rond Chicago is in april gekrompen. Dit meldde het Institute for Supply Management donderdag.",
+    "published_at": "2026-04-30 15:51",
+    "scraped_at": "2026-04-30T15:25:04.965811"
+  },
+  {
+    "id": "c802a8b5ac76d36b6fffc66ffad2972f",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere opening voor Wall Street in zicht",
+    "link": "https://www.beurs.nl/Nieuws/862554/Hogere-opening-voor-Wall-Street-in-zicht.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet, na diverse bedrijfsresultaten en stijgende inflatiecijfers.",
+    "published_at": "2026-04-30 15:07",
+    "scraped_at": "2026-04-30T15:25:04.965811"
+  },
+  {
     "id": "e3ad273f9e3121b0ad28dbe9c0dcae20",
     "categorie": "Educatie",
     "titel": "'Markets can stay irrational longer than you can stay solvent'",
     "link": "https://www.beurs.nl/Artikel/861144/Markets-can-stay-irrational-longer-than-you-can-stay-solvent.aspx",
     "intro": "Beurswijsheden zijn leuk om indruk te maken op je beleggersvrienden, maar ze kunnen ook dienen als vuistregel voor wat je wel - of soms juist niet - moet doen.",
     "published_at": "2026-04-30 15:00",
-    "scraped_at": "2026-04-30T13:10:37.252459"
+    "scraped_at": "2026-04-30T15:25:04.965811"
   },
   {
     "id": "bbbf33a20b09bf05ddd707688211e458",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862545/Amerikaanse-PCE-inflatie-stijgt-zoals-verwacht.aspx",
     "intro": "Het inflatiecijfer in het PCE-rapport is in maart gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-04-30 14:45",
-    "scraped_at": "2026-04-30T13:10:37.252459"
-  },
-  {
-    "id": "d2402c8ebe4a3629c9d89affea158e45",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse groei trekt weer aan",
-    "link": "https://www.beurs.nl/Nieuws/862537/Amerikaanse-groei-trekt-weer-aan.aspx",
-    "intro": "De Amerikaanse economie is in het eerste kwartaal van 2026 harder gegroeid dan in de laatste maanden van 2025. Dit bleek donderdag uit voorlopige cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-04-30 14:34",
-    "scraped_at": "2026-04-30T13:10:37.252459"
-  },
-  {
-    "id": "07c47545ba059f9aab99799d51b8770e",
-    "categorie": "Beursnieuws",
-    "titel": "Minder nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/862538/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-04-30 14:34",
-    "scraped_at": "2026-04-30T13:10:37.252459"
-  },
-  {
-    "id": "b1c12565a03f34c318b9f5e5c58bb13b",
-    "categorie": "Beursnieuws",
-    "titel": "Valutakoersen steunen groei Mastercard",
-    "link": "https://www.beurs.nl/Nieuws/862536/Valutakoersen-steunen-groei-Mastercard.aspx",
-    "intro": "Mastercard heeft in het eerste kwartaal de omzet en winst laten stijgen en overtrof de verwachtingen op Wall Street, maar werd daarbij geholpen door wisselkoerseffecten. Dit bleek donderdag uit cijfers van de creditcardmaatschappij.",
-    "published_at": "2026-04-30 14:27",
-    "scraped_at": "2026-04-30T13:10:37.252459"
-  },
-  {
-    "id": "f06b1cea2a4e4df83798402a847f469f",
-    "categorie": "Beursnieuws",
-    "titel": "ECB laat rente ongemoeid",
-    "link": "https://www.beurs.nl/Nieuws/862533/ECB-laat-rente-ongemoeid.aspx",
-    "intro": "De Europese Centrale Bank heeft de rente donderdag opnieuw gehandhaafd, ondanks de oorlog in Iran en de \"scherp\" oplopende olieprijzen.",
-    "published_at": "2026-04-30 14:17",
-    "scraped_at": "2026-04-30T13:10:37.252459"
-  },
-  {
-    "id": "3d7e725a7fc43ffb4e01ef800c10e39c",
-    "categorie": "Beursnieuws",
-    "titel": "ConocoPhillips verlaagt productiedoelen",
-    "link": "https://www.beurs.nl/Nieuws/862529/ConocoPhillips-verlaagt-productiedoelen.aspx",
-    "intro": "ConocoPhillips heeft de productieverwachtingen voor dit jaar verlaagd, vanwege de onrust in het Midden-Oosten. Dit bleek donderdag uit cijfers van de olieproducent.",
-    "published_at": "2026-04-30 14:01",
-    "scraped_at": "2026-04-30T13:10:37.252459"
-  },
-  {
-    "id": "b8998c65f745942de237be4445b19689",
-    "categorie": "Beursnieuws",
-    "titel": "Sterk kwartaal voor Eli Lilly",
-    "link": "https://www.beurs.nl/Nieuws/862525/Sterk-kwartaal-voor-Eli-Lilly.aspx",
-    "intro": "Eli Lilly heeft naar eigen zeggen opnieuw een sterk kwartaal achter de rug, dankzij onder meer Mounjaro, het middel voor gewichtsverlies, en verhoogde de outlook voor heel dit jaar. Dit bleek donderdag uit cijfers van het bedrijf.",
-    "published_at": "2026-04-30 13:38",
-    "scraped_at": "2026-04-30T13:10:37.252459"
-  },
-  {
-    "id": "5a49dc143400131e5fc6b44bd77cdc0d",
-    "categorie": "Beursnieuws",
-    "titel": "Axalta overtreft eigen verwachtingen",
-    "link": "https://www.beurs.nl/Nieuws/862524/Axalta-overtreft-eigen-verwachtingen.aspx",
-    "intro": "Axalta Coating Systems heeft in het eerste kwartaal de verwachtingen overtroffen. Dit meldde de Amerikaanse verf- en coatingproducent, die gaat fuseren met het Nederlandse AkzoNobel, donderdagmiddag.",
-    "published_at": "2026-04-30 13:31",
-    "scraped_at": "2026-04-30T13:10:37.252459"
-  },
-  {
-    "id": "bdb9d4e56808d44e158c05a8def468ed",
-    "categorie": "Beursnieuws",
-    "titel": "Winst Caterpillar trekt aan",
-    "link": "https://www.beurs.nl/Nieuws/862523/Winst-Caterpillar-trekt-aan.aspx",
-    "intro": "Caterpillar heeft in het eerste kwartaal de omzet en de winst zien aantrekken, dankzij een aanhoudende vraag naar bouwapparatuur. Dit bleek donderdag uit cijfers van de fabrikant van bouw- en mijnbouwapparatuur.",
-    "published_at": "2026-04-30 13:15",
-    "scraped_at": "2026-04-30T13:10:37.252459"
+    "scraped_at": "2026-04-30T15:25:04.965811"
   }
 ]
