@@ -1,12 +1,84 @@
 [
   {
+    "id": "e3ad273f9e3121b0ad28dbe9c0dcae20",
+    "categorie": "Educatie",
+    "titel": "'Markets can stay irrational longer than you can stay solvent'",
+    "link": "https://www.beurs.nl/Artikel/861144/Markets-can-stay-irrational-longer-than-you-can-stay-solvent.aspx",
+    "intro": "Beurswijsheden zijn leuk om indruk te maken op je beleggersvrienden, maar ze kunnen ook dienen als vuistregel voor wat je wel - of soms juist niet - moet doen.",
+    "published_at": "2026-04-30 15:00",
+    "scraped_at": "2026-04-30T13:10:37.252459"
+  },
+  {
+    "id": "bbbf33a20b09bf05ddd707688211e458",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse PCE-inflatie stijgt zoals verwacht",
+    "link": "https://www.beurs.nl/Nieuws/862545/Amerikaanse-PCE-inflatie-stijgt-zoals-verwacht.aspx",
+    "intro": "Het inflatiecijfer in het PCE-rapport is in maart gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-04-30 14:45",
+    "scraped_at": "2026-04-30T13:10:37.252459"
+  },
+  {
+    "id": "d2402c8ebe4a3629c9d89affea158e45",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse groei trekt weer aan",
+    "link": "https://www.beurs.nl/Nieuws/862537/Amerikaanse-groei-trekt-weer-aan.aspx",
+    "intro": "De Amerikaanse economie is in het eerste kwartaal van 2026 harder gegroeid dan in de laatste maanden van 2025. Dit bleek donderdag uit voorlopige cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-04-30 14:34",
+    "scraped_at": "2026-04-30T13:10:37.252459"
+  },
+  {
+    "id": "07c47545ba059f9aab99799d51b8770e",
+    "categorie": "Beursnieuws",
+    "titel": "Minder nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/862538/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-04-30 14:34",
+    "scraped_at": "2026-04-30T13:10:37.252459"
+  },
+  {
+    "id": "b1c12565a03f34c318b9f5e5c58bb13b",
+    "categorie": "Beursnieuws",
+    "titel": "Valutakoersen steunen groei Mastercard",
+    "link": "https://www.beurs.nl/Nieuws/862536/Valutakoersen-steunen-groei-Mastercard.aspx",
+    "intro": "Mastercard heeft in het eerste kwartaal de omzet en winst laten stijgen en overtrof de verwachtingen op Wall Street, maar werd daarbij geholpen door wisselkoerseffecten. Dit bleek donderdag uit cijfers van de creditcardmaatschappij.",
+    "published_at": "2026-04-30 14:27",
+    "scraped_at": "2026-04-30T13:10:37.252459"
+  },
+  {
+    "id": "f06b1cea2a4e4df83798402a847f469f",
+    "categorie": "Beursnieuws",
+    "titel": "ECB laat rente ongemoeid",
+    "link": "https://www.beurs.nl/Nieuws/862533/ECB-laat-rente-ongemoeid.aspx",
+    "intro": "De Europese Centrale Bank heeft de rente donderdag opnieuw gehandhaafd, ondanks de oorlog in Iran en de \"scherp\" oplopende olieprijzen.",
+    "published_at": "2026-04-30 14:17",
+    "scraped_at": "2026-04-30T13:10:37.252459"
+  },
+  {
+    "id": "3d7e725a7fc43ffb4e01ef800c10e39c",
+    "categorie": "Beursnieuws",
+    "titel": "ConocoPhillips verlaagt productiedoelen",
+    "link": "https://www.beurs.nl/Nieuws/862529/ConocoPhillips-verlaagt-productiedoelen.aspx",
+    "intro": "ConocoPhillips heeft de productieverwachtingen voor dit jaar verlaagd, vanwege de onrust in het Midden-Oosten. Dit bleek donderdag uit cijfers van de olieproducent.",
+    "published_at": "2026-04-30 14:01",
+    "scraped_at": "2026-04-30T13:10:37.252459"
+  },
+  {
+    "id": "b8998c65f745942de237be4445b19689",
+    "categorie": "Beursnieuws",
+    "titel": "Sterk kwartaal voor Eli Lilly",
+    "link": "https://www.beurs.nl/Nieuws/862525/Sterk-kwartaal-voor-Eli-Lilly.aspx",
+    "intro": "Eli Lilly heeft naar eigen zeggen opnieuw een sterk kwartaal achter de rug, dankzij onder meer Mounjaro, het middel voor gewichtsverlies, en verhoogde de outlook voor heel dit jaar. Dit bleek donderdag uit cijfers van het bedrijf.",
+    "published_at": "2026-04-30 13:38",
+    "scraped_at": "2026-04-30T13:10:37.252459"
+  },
+  {
     "id": "5a49dc143400131e5fc6b44bd77cdc0d",
     "categorie": "Beursnieuws",
     "titel": "Axalta overtreft eigen verwachtingen",
     "link": "https://www.beurs.nl/Nieuws/862524/Axalta-overtreft-eigen-verwachtingen.aspx",
     "intro": "Axalta Coating Systems heeft in het eerste kwartaal de verwachtingen overtroffen. Dit meldde de Amerikaanse verf- en coatingproducent, die gaat fuseren met het Nederlandse AkzoNobel, donderdagmiddag.",
     "published_at": "2026-04-30 13:31",
-    "scraped_at": "2026-04-30T11:38:23.097664"
+    "scraped_at": "2026-04-30T13:10:37.252459"
   },
   {
     "id": "bdb9d4e56808d44e158c05a8def468ed",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862523/Winst-Caterpillar-trekt-aan.aspx",
     "intro": "Caterpillar heeft in het eerste kwartaal de omzet en de winst zien aantrekken, dankzij een aanhoudende vraag naar bouwapparatuur. Dit bleek donderdag uit cijfers van de fabrikant van bouw- en mijnbouwapparatuur.",
     "published_at": "2026-04-30 13:15",
-    "scraped_at": "2026-04-30T11:38:23.097664"
-  },
-  {
-    "id": "ecb7b3e98c496f028dc2c1790c6b084a",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of England handhaaft rente",
-    "link": "https://www.beurs.nl/Nieuws/862521/Bank-of-England-handhaaft-rente.aspx",
-    "intro": "De Bank of England heeft de rente donderdag conform de verwachting laten staan op 3,75 procent. Dit bleek vanmiddag uit het Britse rentebesluit.",
-    "published_at": "2026-04-30 13:11",
-    "scraped_at": "2026-04-30T11:38:23.097664"
-  },
-  {
-    "id": "83a480f75f99dda6f36da203d7b068b4",
-    "categorie": "Beursnieuws",
-    "titel": "Merck ziet omzet aantrekken",
-    "link": "https://www.beurs.nl/Nieuws/862517/Merck-ziet-omzet-aantrekken.aspx",
-    "intro": "Merck heeft in het eerste kwartaal van dit jaar de omzet zien aantrekken en verhoogde de winstverwachtingen voor heel 2026, vanwege de sterke vraag naar kankermedicijn Keytruda. Dit bleek donderdag uit cijfers van de Amerikaanse farmaceut.",
-    "published_at": "2026-04-30 12:54",
-    "scraped_at": "2026-04-30T11:38:23.097664"
-  },
-  {
-    "id": "17055ba43eb2d776c77c8e17ab4c435d",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street licht in het groen",
-    "link": "https://www.beurs.nl/Nieuws/862514/Futures-Wall-Street-licht-in-het-groen.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een verdeelde opening tegemoet, terwijl beleggers een mogelijke escalatie van de oorlog in het Midden-Oosten en verdeeldheid in de monetaire commissie van de Fed afwogen tegen sterke resultaten van Big Tech-bedrijven woensdagavond nabeurs.",
-    "published_at": "2026-04-30 12:43",
-    "scraped_at": "2026-04-30T11:38:23.097664"
-  },
-  {
-    "id": "2e7cd4c4048e2d965732e9527ea5b7e9",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen kleuren groen",
-    "link": "https://www.beurs.nl/Nieuws/862513/Europese-beurzen-kleuren-groen.aspx",
-    "intro": "De Europese beurzen noteerden donderdag rond het middaguur overwegend hoger.",
-    "published_at": "2026-04-30 12:32",
-    "scraped_at": "2026-04-30T11:38:23.097664"
-  },
-  {
-    "id": "80dd813e44eabeff9c75fdaefb6f21a9",
-    "categorie": "Beursnieuws",
-    "titel": "ER Capital ziet verlies toenemen",
-    "link": "https://www.beurs.nl/Nieuws/862497/ER-Capital-ziet-verlies-toenemen.aspx",
-    "intro": "ER Capital heeft in 2025 het verlies zien toenemen. Dit bleek uit cijfers van het voormalige Titan.",
-    "published_at": "2026-04-30 11:46",
-    "scraped_at": "2026-04-30T11:38:23.097664"
-  },
-  {
-    "id": "6546e5eba8dc6796fb790075c52ada75",
-    "categorie": "Beursnieuws",
-    "titel": "Economie eurozone stagneert",
-    "link": "https://www.beurs.nl/Nieuws/862488/Economie-eurozone-stagneert.aspx",
-    "intro": "De economie in de eurozone is in het eerste kwartaal nauwelijks gegroeid, net als in het voorgaande kwartaal. Dit meldde het statistiekbureau Eurostat donderdag.",
-    "published_at": "2026-04-30 11:26",
-    "scraped_at": "2026-04-30T11:38:23.097664"
-  },
-  {
-    "id": "75e475a995f547697d1e7589dbb7ae39",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone loopt snel op",
-    "link": "https://www.beurs.nl/Nieuws/862484/Inflatie-eurozone-loopt-snel-op.aspx",
-    "intro": "De inflatie in de eurozone is in april flink opgelopen, door de sterke stijging van de energieprijzen. Dit bleek donderdag uit voorlopige cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-04-30 11:18",
-    "scraped_at": "2026-04-30T11:38:23.097664"
-  },
-  {
-    "id": "1b0de6c2ea4731001906dd8e314f1fd5",
-    "categorie": "Beursnieuws",
-    "titel": "Cijferregen leidt tot bescheiden winst AEX",
-    "link": "https://www.beurs.nl/Nieuws/862485/Cijferregen-leidt-tot-bescheiden-winst-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdag iets hoger, nadat veel bedrijven op het Damrak met cijfers kwamen. Rond de klok van elf uur won de AEX 0,2 procent op 999,27 punten.",
-    "published_at": "2026-04-30 11:17",
-    "scraped_at": "2026-04-30T11:38:23.097664"
+    "scraped_at": "2026-04-30T13:10:37.252459"
   }
 ]
