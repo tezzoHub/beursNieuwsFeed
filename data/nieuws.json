@@ -1,12 +1,66 @@
 [
   {
+    "id": "5a49dc143400131e5fc6b44bd77cdc0d",
+    "categorie": "Beursnieuws",
+    "titel": "Axalta overtreft eigen verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/862524/Axalta-overtreft-eigen-verwachtingen.aspx",
+    "intro": "Axalta Coating Systems heeft in het eerste kwartaal de verwachtingen overtroffen. Dit meldde de Amerikaanse verf- en coatingproducent, die gaat fuseren met het Nederlandse AkzoNobel, donderdagmiddag.",
+    "published_at": "2026-04-30 13:31",
+    "scraped_at": "2026-04-30T11:38:23.097664"
+  },
+  {
+    "id": "bdb9d4e56808d44e158c05a8def468ed",
+    "categorie": "Beursnieuws",
+    "titel": "Winst Caterpillar trekt aan",
+    "link": "https://www.beurs.nl/Nieuws/862523/Winst-Caterpillar-trekt-aan.aspx",
+    "intro": "Caterpillar heeft in het eerste kwartaal de omzet en de winst zien aantrekken, dankzij een aanhoudende vraag naar bouwapparatuur. Dit bleek donderdag uit cijfers van de fabrikant van bouw- en mijnbouwapparatuur.",
+    "published_at": "2026-04-30 13:15",
+    "scraped_at": "2026-04-30T11:38:23.097664"
+  },
+  {
+    "id": "ecb7b3e98c496f028dc2c1790c6b084a",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of England handhaaft rente",
+    "link": "https://www.beurs.nl/Nieuws/862521/Bank-of-England-handhaaft-rente.aspx",
+    "intro": "De Bank of England heeft de rente donderdag conform de verwachting laten staan op 3,75 procent. Dit bleek vanmiddag uit het Britse rentebesluit.",
+    "published_at": "2026-04-30 13:11",
+    "scraped_at": "2026-04-30T11:38:23.097664"
+  },
+  {
+    "id": "83a480f75f99dda6f36da203d7b068b4",
+    "categorie": "Beursnieuws",
+    "titel": "Merck ziet omzet aantrekken",
+    "link": "https://www.beurs.nl/Nieuws/862517/Merck-ziet-omzet-aantrekken.aspx",
+    "intro": "Merck heeft in het eerste kwartaal van dit jaar de omzet zien aantrekken en verhoogde de winstverwachtingen voor heel 2026, vanwege de sterke vraag naar kankermedicijn Keytruda. Dit bleek donderdag uit cijfers van de Amerikaanse farmaceut.",
+    "published_at": "2026-04-30 12:54",
+    "scraped_at": "2026-04-30T11:38:23.097664"
+  },
+  {
+    "id": "17055ba43eb2d776c77c8e17ab4c435d",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street licht in het groen",
+    "link": "https://www.beurs.nl/Nieuws/862514/Futures-Wall-Street-licht-in-het-groen.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een verdeelde opening tegemoet, terwijl beleggers een mogelijke escalatie van de oorlog in het Midden-Oosten en verdeeldheid in de monetaire commissie van de Fed afwogen tegen sterke resultaten van Big Tech-bedrijven woensdagavond nabeurs.",
+    "published_at": "2026-04-30 12:43",
+    "scraped_at": "2026-04-30T11:38:23.097664"
+  },
+  {
+    "id": "2e7cd4c4048e2d965732e9527ea5b7e9",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen kleuren groen",
+    "link": "https://www.beurs.nl/Nieuws/862513/Europese-beurzen-kleuren-groen.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur overwegend hoger.",
+    "published_at": "2026-04-30 12:32",
+    "scraped_at": "2026-04-30T11:38:23.097664"
+  },
+  {
     "id": "80dd813e44eabeff9c75fdaefb6f21a9",
     "categorie": "Beursnieuws",
     "titel": "ER Capital ziet verlies toenemen",
     "link": "https://www.beurs.nl/Nieuws/862497/ER-Capital-ziet-verlies-toenemen.aspx",
     "intro": "ER Capital heeft in 2025 het verlies zien toenemen. Dit bleek uit cijfers van het voormalige Titan.",
     "published_at": "2026-04-30 11:46",
-    "scraped_at": "2026-04-30T09:53:53.368240"
+    "scraped_at": "2026-04-30T11:38:23.097664"
   },
   {
     "id": "6546e5eba8dc6796fb790075c52ada75",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862488/Economie-eurozone-stagneert.aspx",
     "intro": "De economie in de eurozone is in het eerste kwartaal nauwelijks gegroeid, net als in het voorgaande kwartaal. Dit meldde het statistiekbureau Eurostat donderdag.",
     "published_at": "2026-04-30 11:26",
-    "scraped_at": "2026-04-30T09:53:53.368240"
+    "scraped_at": "2026-04-30T11:38:23.097664"
   },
   {
     "id": "75e475a995f547697d1e7589dbb7ae39",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862484/Inflatie-eurozone-loopt-snel-op.aspx",
     "intro": "De inflatie in de eurozone is in april flink opgelopen, door de sterke stijging van de energieprijzen. Dit bleek donderdag uit voorlopige cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-04-30 11:18",
-    "scraped_at": "2026-04-30T09:53:53.368240"
+    "scraped_at": "2026-04-30T11:38:23.097664"
   },
   {
     "id": "1b0de6c2ea4731001906dd8e314f1fd5",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862485/Cijferregen-leidt-tot-bescheiden-winst-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdag iets hoger, nadat veel bedrijven op het Damrak met cijfers kwamen. Rond de klok van elf uur won de AEX 0,2 procent op 999,27 punten.",
     "published_at": "2026-04-30 11:17",
-    "scraped_at": "2026-04-30T09:53:53.368240"
-  },
-  {
-    "id": "fa28eebb3d7ea82eac00b7cf0b63ce03",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse economie groeit iets harder dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/862483/Duitse-economie-groeit-iets-harder-dan-verwacht.aspx",
-    "intro": "De Duitse economie is in het eerste kwartaal iets harder gegroeid dan verwacht. Dit bleek donderdag uit cijfers.",
-    "published_at": "2026-04-30 11:13",
-    "scraped_at": "2026-04-30T09:53:53.368240"
-  },
-  {
-    "id": "28155773ec813939b1a92042606a20d6",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse economie groeit nog net",
-    "link": "https://www.beurs.nl/Nieuws/862476/Nederlandse-economie-groeit-nog-net.aspx",
-    "intro": "De Nederlandse economie is in het eerste kwartaal met 0,1 procent op kwartaalbasis gegroeid. Dit bleek donderdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-04-30 10:47",
-    "scraped_at": "2026-04-30T09:53:53.368240"
-  },
-  {
-    "id": "bf60b30b48ea113d79fc68eb480c4901",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Universal Music presteert ondermaats",
-    "link": "https://www.beurs.nl/Nieuws/862477/Beursblik-Universal-Music-presteert-ondermaats.aspx",
-    "intro": "Universal Music Group heeft in het eerste kwartaal ondermaats gepresteerd, \"opieuw\". Dit stelden analisten van UBS donderdag in een rapport.",
-    "published_at": "2026-04-30 10:46",
-    "scraped_at": "2026-04-30T09:53:53.368240"
-  },
-  {
-    "id": "790cb939b2db69e760cb0b91c3fb0f99",
-    "categorie": "Beursnieuws",
-    "titel": "Chinese industrie groeit veel harder",
-    "link": "https://www.beurs.nl/Nieuws/862473/Chinese-industrie-groeit-veel-harder.aspx",
-    "intro": "De Chinese industrie is in april veel harder gegroeid. Dit bleek donderdag uit cijfers van SP Global en RatingDog.",
-    "published_at": "2026-04-30 10:18",
-    "scraped_at": "2026-04-30T09:53:53.368240"
-  },
-  {
-    "id": "f3c82bb8b6eda2ec7fd884ba94a24464",
-    "categorie": "Beursnieuws",
-    "titel": "Stabiele Duitse werkloosheid",
-    "link": "https://www.beurs.nl/Nieuws/862472/Stabiele-Duitse-werkloosheid.aspx",
-    "intro": "Het aantal werklozen in Duitsland is in april grofweg stabiel gebleven. Dit bleek donderdag uit overheidscijfers.",
-    "published_at": "2026-04-30 10:05",
-    "scraped_at": "2026-04-30T09:53:53.368240"
-  },
-  {
-    "id": "d4a30703f206acc22f6cbf40b8276f32",
-    "categorie": "Must read",
-    "titel": "Must read: Energiemarkt staat op zijn kop",
-    "link": "https://www.iex.nl/artikel/862243/Must-read-Energiemarkt-staat-op-zijn-kop.aspx",
-    "intro": "Plus: opmerkelijke Fed-persconferentie, stagflatie is een groot gevaar, belangrijke beleggingstrends, Nederlandse Warren Buffett overleden, Nederlandse inflatie iets omhoog en meer.",
-    "published_at": "2026-04-30 10:00",
-    "scraped_at": "2026-04-30T09:53:53.368240"
+    "scraped_at": "2026-04-30T11:38:23.097664"
   }
 ]
