@@ -1,56 +1,92 @@
 [
   {
-    "id": "9c18cd51e89c88e42a9cea40e4a1d459",
+    "id": "47fe8c32424df29c831ad7dd7f3f98f4",
     "categorie": "Beursnieuws",
-    "titel": "Chinese industrie houdt groei vast",
-    "link": "https://www.beurs.nl/Nieuws/862418/Chinese-industrie-houdt-groei-vast.aspx",
-    "intro": "De Chinese industrie is in april blijven groeien, terwijl de dienstensector iets kromp. Dit bleek donderdag uit de inkoopmanagersindex van het National Bureau of Statistics.",
-    "published_at": "2026-04-30 06:45",
-    "scraped_at": "2026-04-30T04:56:22.911566"
+    "titel": "AEX nipt hoger van start gegaan na cijferregen",
+    "link": "https://www.beurs.nl/Nieuws/862462/AEX-nipt-hoger-van-start-gegaan-na-cijferregen.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong min of meer vlak op 997,71 punten, terwijl de Midkap 0,1 procent prijs moest geven.",
+    "published_at": "2026-04-30 09:21",
+    "scraped_at": "2026-04-30T07:29:56.290044"
   },
   {
-    "id": "b04fcc8e73bde2a1209713796ad0927d",
+    "id": "240c4b9ad64be11e49aceb3786983037",
     "categorie": "Beursnieuws",
-    "titel": "Inflatie loopt iets verder op",
-    "link": "https://www.beurs.nl/Nieuws/862417/Inflatie-loopt-iets-verder-op.aspx",
-    "intro": "De Nederlandse consumentenprijzen zijn in april nog iets harder gestegen. Dit bleek donderdag uit een snelle raming van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-04-30 06:40",
-    "scraped_at": "2026-04-30T04:56:22.911566"
+    "titel": "Volkswagen lijdt onder tarieven en Chinese concurrentie",
+    "link": "https://www.beurs.nl/Nieuws/862459/Volkswagen-lijdt-onder-tarieven-en-Chinese-concurrentie.aspx",
+    "intro": "Volkswagen heeft het eerste kwartaal van 2026 afgesloten met lagere omzet en winst, onder druk van Amerikaanse importtarieven en toenemende concurrentie van Chinese automerken. Dit bleek donderdag uit de kwartaalcijfers.",
+    "published_at": "2026-04-30 09:07",
+    "scraped_at": "2026-04-30T07:29:56.290044"
   },
   {
-    "id": "86c72b5460be8f68602a9927b3c31d7f",
+    "id": "040a801685f2992b61365123018a2095",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het rood",
-    "link": "https://www.beurs.nl/Nieuws/862414/Europese-beurzen-openen-in-het-rood.aspx",
-    "intro": "De Europese beurzen gaan donderdag een lagere opening tegemoet, na het rentebesluit van de Fed en de cijfers van enkele grote Amerikaanse techbedrijven gisterenavond en in afwachting van wat de ECB en de Bank of England met de rente zullen doen vandaag.",
-    "published_at": "2026-04-30 06:35",
-    "scraped_at": "2026-04-30T04:56:22.911566"
+    "titel": "Beursblik: solide vrije kasstroom IMCD",
+    "link": "https://www.beurs.nl/Nieuws/862460/Beursblik-solide-vrije-kasstroom-IMCD.aspx",
+    "intro": "IMCD heeft in het eerste kwartaal een solide vrije kasstroom gerealiseerd, terwijl de EBITA hoger uitviel dan verwacht dankzij de groei in Azië-Pacific. Dit stelde analist David Kerstens van Jefferies donderdag in een rapport.",
+    "published_at": "2026-04-30 09:06",
+    "scraped_at": "2026-04-30T07:29:56.290044"
   },
   {
-    "id": "96b5ae79e98999d1cc6d85bde0c96c3a",
+    "id": "9bf80a2dc560df9266eb436e0b454459",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/862404/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 7 mei 2026:",
-    "published_at": "2026-04-30 06:26",
-    "scraped_at": "2026-04-30T04:56:22.911566"
+    "titel": "Beursblik: solide orderinstroom Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/862458/Beursblik-solide-orderinstroom-Arcadis.aspx",
+    "intro": "Arcadis heeft in het eerste kwartaal een solide orderinstroom gerealiseerd, terwijl het EBITA-resultaat de verwachtingen overtrof. Dit stelde analist David Kerstens van Jefferies donderdag in een rapport.",
+    "published_at": "2026-04-30 09:05",
+    "scraped_at": "2026-04-30T07:29:56.290044"
   },
   {
-    "id": "9f12fcabc02df4393e417841fa3579ed",
+    "id": "ea91e563206f7052b5c4ff4e772e6f7d",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/862405/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 7 mei 2026:",
-    "published_at": "2026-04-30 06:26",
-    "scraped_at": "2026-04-30T04:56:22.911566"
+    "titel": "Beursblik: sterk eerste kwartaal ING",
+    "link": "https://www.beurs.nl/Nieuws/862456/Beursblik-sterk-eerste-kwartaal-ING.aspx",
+    "intro": "ING Groep heeft een goede jaarstart achter de rug. Dit stelden analisten van Citi Research donderdag in een rapport.",
+    "published_at": "2026-04-30 08:58",
+    "scraped_at": "2026-04-30T07:29:56.290044"
   },
   {
-    "id": "e81afdd62ae82adb5e0659d173f6a95d",
+    "id": "6cd54e073d795d3928dc2d5a0a2f2cd4",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/862406/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 7 mei 2026:",
-    "published_at": "2026-04-30 06:26",
-    "scraped_at": "2026-04-30T04:56:22.911566"
+    "titel": "Beheerd vermogen CVC gegroeid",
+    "link": "https://www.beurs.nl/Nieuws/862453/Beheerd-vermogen-CVC-gegroeid.aspx",
+    "intro": "CVC heeft het beheerd vermogen zien aantrekken. Dit meldde de private equityfirma met een notering aan het Damrak donderdag in een update over het eerste kwartaal.",
+    "published_at": "2026-04-30 08:51",
+    "scraped_at": "2026-04-30T07:29:56.290044"
+  },
+  {
+    "id": "f1360329e714584ce3589137ec70efbe",
+    "categorie": "Beursnieuws",
+    "titel": "Stellantis weer winstgevend",
+    "link": "https://www.beurs.nl/Nieuws/862452/Stellantis-weer-winstgevend.aspx",
+    "intro": "Stellantis heeft het eerste kwartaal van 2026 afgesloten met een positief nettoresultaat, terwijl de autofabrikant profiteerde van hogere volumes in alle regio's. Dit bleek donderdag uit de kwartaalcijfers van het in Amsterdam genoteerde bedrijf.",
+    "published_at": "2026-04-30 08:47",
+    "scraped_at": "2026-04-30T07:29:56.290044"
+  },
+  {
+    "id": "142943e13c9eedc7def7b433fa0b58aa",
+    "categorie": "Beursnieuws",
+    "titel": "Samsung boekt recordwinst dankzij AI-chips",
+    "link": "https://www.beurs.nl/Nieuws/862449/Samsung-boekt-recordwinst-dankzij-AI-chips.aspx",
+    "intro": "Samsung Electronics heeft in het eerste kwartaal van 2026 een indrukwekkend resultaat geboekt, aangejaagd door een sterke vraag naar geavanceerde geheugenchips voor kunstmatige intelligentie. Dit bleek donderdag uit de kwartaalcijfers van de Zuid-Koreaanse technologiegigant.",
+    "published_at": "2026-04-30 08:44",
+    "scraped_at": "2026-04-30T07:29:56.290044"
+  },
+  {
+    "id": "1f8eb0ca0e3a30483de0914923afaebc",
+    "categorie": "Beursnieuws",
+    "titel": "Air France-KLM iets minder optimistisch",
+    "link": "https://www.beurs.nl/Nieuws/862447/Air-France-KLM-iets-minder-optimistisch.aspx",
+    "intro": "Air France-KLM heeft in het eerste kwartaal de omzet conform verwachting zien aantrekken, maar werd wel wat negatiever over de voorziene capaciteitsgroei. Dit bleek donderdag uit cijfers van de Frans-Nederlandse luchtvaartmaatschappij.",
+    "published_at": "2026-04-30 08:33",
+    "scraped_at": "2026-04-30T07:29:56.290044"
+  },
+  {
+    "id": "b5dc8ddbc2f8eeac32ddb52a98d3db26",
+    "categorie": "Beursnieuws",
+    "titel": "Magnum Ice Cream kent bemoedigende jaarstart",
+    "link": "https://www.beurs.nl/Nieuws/862446/Magnum-Ice-Cream-kent-bemoedigende-jaarstart.aspx",
+    "intro": "The Magnum Ice Cream Company heeft het eerste kwartaal van 2026 solide afgesloten, met een autonome groei in alle regio's. Dit bleek donderdag uit de kwartaalcijfers van het in Amsterdam genoteerde bedrijf.",
+    "published_at": "2026-04-30 08:26",
+    "scraped_at": "2026-04-30T07:29:56.290044"
   }
 ]
