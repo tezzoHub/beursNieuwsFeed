@@ -1,12 +1,48 @@
 [
   {
+    "id": "1e0b3408f6c875bfbf1f1879493a1dd3",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten hoger na drukke cijferdag",
+    "link": "https://www.beurs.nl/Nieuws/862592/Europese-beurzen-sluiten-hoger-na-drukke-cijferdag.aspx",
+    "intro": "De Europese beurzen zijn donderdag hoger geëindigd, na een drukke dag met kwartaalcijfers en rentebesluiten van de Europese Centrale Bank en Bank of England.",
+    "published_at": "2026-04-30 18:42",
+    "scraped_at": "2026-04-30T16:56:50.023762"
+  },
+  {
+    "id": "8231c81b0405dbe726b045cc72d52bb8",
+    "categorie": "Beursnieuws",
+    "titel": "Kleiner verlies voor Bever",
+    "link": "https://www.beurs.nl/Nieuws/862589/Kleiner-verlies-voor-Bever.aspx",
+    "intro": "Bever Holding heeft in 2025 een kleiner verlies geleden dan in 2024. Dit bleek donderdagavond uit cijfers van de vastgoedholding.",
+    "published_at": "2026-04-30 18:30",
+    "scraped_at": "2026-04-30T16:56:50.023762"
+  },
+  {
+    "id": "a45e7dd2a62329b8926e2e0f7a41f1f5",
+    "categorie": "Beursnieuws",
+    "titel": "Avantium lost probleem met lasnaden op",
+    "link": "https://www.beurs.nl/Nieuws/862588/Avantium-lost-probleem-met-lasnaden-op.aspx",
+    "intro": "De problemen met titaniumlasnaden tijdens de bouw van de FDCA-fabriek van Avantium in Delfzijl zijn opgelost. Dat maakte het bioplasticbedrijf donderdag bekend.",
+    "published_at": "2026-04-30 18:19",
+    "scraped_at": "2026-04-30T16:56:50.023762"
+  },
+  {
+    "id": "6fe0535d444fd5541cd47e13fdb4ee1e",
+    "categorie": "Beursnieuws",
+    "titel": "AEX veert op na cijferregen",
+    "link": "https://www.beurs.nl/Nieuws/862582/AEX-veert-op-na-cijferregen.aspx",
+    "intro": "De Amsterdamse beurs is donderdag hoger gesloten, nadat veel bedrijven op het Damrak hun kwartaalcijfers publiceerden en ook veel grote technologiebedrijven in de Verenigde Staten woensdagavond een kijkje onder de motorkap gaven.",
+    "published_at": "2026-04-30 17:50",
+    "scraped_at": "2026-04-30T16:56:50.023762"
+  },
+  {
     "id": "d43a6292cab4383a9fca5385406cb4fb",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: aanhoudend momentum voor CVC",
     "link": "https://www.beurs.nl/Nieuws/862576/Beursblik-aanhoudend-momentum-voor-CVC.aspx",
     "intro": "CVC Capital Partners heeft in het eerste kwartaal van 2026 een aanhoudend sterk momentum laten zien. Dit oordeelden analisten van Citi Research donderdag in een rapport, na de update van het bedrijf vanochtend.",
     "published_at": "2026-04-30 16:47",
-    "scraped_at": "2026-04-30T15:25:04.965811"
+    "scraped_at": "2026-04-30T16:56:50.023762"
   },
   {
     "id": "f9e8f8b57f0ab1d798cd605447e8af49",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862569/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 8 mei 2026:",
     "published_at": "2026-04-30 16:27",
-    "scraped_at": "2026-04-30T15:25:04.965811"
+    "scraped_at": "2026-04-30T16:56:50.023762"
   },
   {
     "id": "f519774466b7bb94cf43087857c4befb",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862570/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 8 mei 2026:",
     "published_at": "2026-04-30 16:27",
-    "scraped_at": "2026-04-30T15:25:04.965811"
+    "scraped_at": "2026-04-30T16:56:50.023762"
   },
   {
     "id": "e67761aea7c300bfaf1d8424e89ede8a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862571/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 8 mei 2026:",
     "published_at": "2026-04-30 16:27",
-    "scraped_at": "2026-04-30T15:25:04.965811"
+    "scraped_at": "2026-04-30T16:56:50.023762"
   },
   {
     "id": "6d3ef50351bc4355c019582d6edeb61e",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862567/ECB-oogt-bezorgder-over-economie-dan-inflatie.aspx",
     "intro": "De Europese Centrale Bank lijkt zich meer zorgen te maken over de economische groei dan een stijging van de inflatie. Dit bleek donderdag uit de persconferentie met voorzitter Christine Lagarde nadat de ECB de rentes vanmiddag onveranderd liet.",
     "published_at": "2026-04-30 16:12",
-    "scraped_at": "2026-04-30T15:25:04.965811"
+    "scraped_at": "2026-04-30T16:56:50.023762"
   },
   {
     "id": "8815b9cfb22d57af3d2c146aeffe2850",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862565/Leidende-indicatoren-VS-dalen-weer.aspx",
     "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in maart gedaald, waarmee de toename in de maand ervoor weer teniet werd gedaan. Dit bleek donderdag uit cijfers van The Conference Board.",
     "published_at": "2026-04-30 16:09",
-    "scraped_at": "2026-04-30T15:25:04.965811"
-  },
-  {
-    "id": "d43a0ec48df514c793660b435ebbc0f4",
-    "categorie": "Beursnieuws",
-    "titel": "Industrie rond Chicago krimpt",
-    "link": "https://www.beurs.nl/Nieuws/862561/Industrie-rond-Chicago-krimpt.aspx",
-    "intro": "De economische activiteit in de industrie rond Chicago is in april gekrompen. Dit meldde het Institute for Supply Management donderdag.",
-    "published_at": "2026-04-30 15:51",
-    "scraped_at": "2026-04-30T15:25:04.965811"
-  },
-  {
-    "id": "c802a8b5ac76d36b6fffc66ffad2972f",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere opening voor Wall Street in zicht",
-    "link": "https://www.beurs.nl/Nieuws/862554/Hogere-opening-voor-Wall-Street-in-zicht.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet, na diverse bedrijfsresultaten en stijgende inflatiecijfers.",
-    "published_at": "2026-04-30 15:07",
-    "scraped_at": "2026-04-30T15:25:04.965811"
-  },
-  {
-    "id": "e3ad273f9e3121b0ad28dbe9c0dcae20",
-    "categorie": "Educatie",
-    "titel": "'Markets can stay irrational longer than you can stay solvent'",
-    "link": "https://www.beurs.nl/Artikel/861144/Markets-can-stay-irrational-longer-than-you-can-stay-solvent.aspx",
-    "intro": "Beurswijsheden zijn leuk om indruk te maken op je beleggersvrienden, maar ze kunnen ook dienen als vuistregel voor wat je wel - of soms juist niet - moet doen.",
-    "published_at": "2026-04-30 15:00",
-    "scraped_at": "2026-04-30T15:25:04.965811"
-  },
-  {
-    "id": "bbbf33a20b09bf05ddd707688211e458",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse PCE-inflatie stijgt zoals verwacht",
-    "link": "https://www.beurs.nl/Nieuws/862545/Amerikaanse-PCE-inflatie-stijgt-zoals-verwacht.aspx",
-    "intro": "Het inflatiecijfer in het PCE-rapport is in maart gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-04-30 14:45",
-    "scraped_at": "2026-04-30T15:25:04.965811"
+    "scraped_at": "2026-04-30T16:56:50.023762"
   }
 ]
