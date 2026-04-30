@@ -1,12 +1,30 @@
 [
   {
+    "id": "b9ac3ea606d180b2c5b1e498a44d17a2",
+    "categorie": "Beursnieuws",
+    "titel": "Trump zal importtarieven op Schotse whisky opheffen",
+    "link": "https://www.beurs.nl/Nieuws/862608/Trump-zal-importtarieven-op-Schotse-whisky-opheffen.aspx",
+    "intro": "De Amerikaanse president Donald Trump is van plan om de invporttarieven op whiskyproducten uit het Verenigd Koninkrijk op te heffen na een verzoek van koning Charles.",
+    "published_at": "2026-04-30 21:43",
+    "scraped_at": "2026-04-30T19:53:47.865968"
+  },
+  {
+    "id": "47708d9c3b954d8dededa982e859ade9",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs blijft op hoog niveau",
+    "link": "https://www.beurs.nl/Nieuws/862602/Olieprijs-blijft-op-hoog-niveau.aspx",
+    "intro": "De olieprijs is donderdag gedaald, na eerder gepiekt te hebben op het hoogste niveau in jaren.",
+    "published_at": "2026-04-30 20:59",
+    "scraped_at": "2026-04-30T19:53:47.865968"
+  },
+  {
     "id": "81e093d73e5cd944b53ebe606c79eb4a",
     "categorie": "Beurs vandaag",
     "titel": "Slotcall: prachtig slotakkoord van fraaie beursmaand",
     "link": "https://www.beurs.nl/Artikel/862556/Slotcall-prachtig-slotakkoord-van-fraaie-beursmaand.aspx",
     "intro": "AEX sluit 1,7% hoger, maandwinst: 5%. Magnum, Arcadis en Aperam stelen de show, UMG hard onderuit. En dit zijn de grootste stijgers en dalers in april.",
     "published_at": "2026-04-30 19:45",
-    "scraped_at": "2026-04-30T18:15:04.300247"
+    "scraped_at": "2026-04-30T19:53:47.865968"
   },
   {
     "id": "0d2a511ef4ea5204e285445a64e8e847",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/862596/SP-noteert-rond-record-op-groen-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag hoger, met nog een paar uur handel te gaan.",
     "published_at": "2026-04-30 19:30",
-    "scraped_at": "2026-04-30T18:15:04.300247"
+    "scraped_at": "2026-04-30T19:53:47.865968"
   },
   {
     "id": "1e0b3408f6c875bfbf1f1879493a1dd3",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/862592/Europese-beurzen-sluiten-hoger-na-drukke-cijferdag.aspx",
     "intro": "De Europese beurzen zijn donderdag hoger geëindigd, na een drukke dag met kwartaalcijfers en rentebesluiten van de Europese Centrale Bank en Bank of England.",
     "published_at": "2026-04-30 18:42",
-    "scraped_at": "2026-04-30T18:15:04.300247"
+    "scraped_at": "2026-04-30T19:53:47.865968"
   },
   {
     "id": "8231c81b0405dbe726b045cc72d52bb8",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862589/Kleiner-verlies-voor-Bever.aspx",
     "intro": "Bever Holding heeft in 2025 een kleiner verlies geleden dan in 2024. Dit bleek donderdagavond uit cijfers van de vastgoedholding.",
     "published_at": "2026-04-30 18:30",
-    "scraped_at": "2026-04-30T18:15:04.300247"
+    "scraped_at": "2026-04-30T19:53:47.865968"
   },
   {
     "id": "a45e7dd2a62329b8926e2e0f7a41f1f5",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862588/Avantium-lost-probleem-met-lasnaden-op.aspx",
     "intro": "De problemen met titaniumlasnaden tijdens de bouw van de FDCA-fabriek van Avantium in Delfzijl zijn opgelost. Dat maakte het bioplasticbedrijf donderdag bekend.",
     "published_at": "2026-04-30 18:19",
-    "scraped_at": "2026-04-30T18:15:04.300247"
+    "scraped_at": "2026-04-30T19:53:47.865968"
   },
   {
     "id": "6fe0535d444fd5541cd47e13fdb4ee1e",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862582/AEX-veert-op-na-cijferregen.aspx",
     "intro": "De Amsterdamse beurs is donderdag hoger gesloten, nadat veel bedrijven op het Damrak hun kwartaalcijfers publiceerden en ook veel grote technologiebedrijven in de Verenigde Staten woensdagavond een kijkje onder de motorkap gaven.",
     "published_at": "2026-04-30 17:50",
-    "scraped_at": "2026-04-30T18:15:04.300247"
+    "scraped_at": "2026-04-30T19:53:47.865968"
   },
   {
     "id": "d43a6292cab4383a9fca5385406cb4fb",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862576/Beursblik-aanhoudend-momentum-voor-CVC.aspx",
     "intro": "CVC Capital Partners heeft in het eerste kwartaal van 2026 een aanhoudend sterk momentum laten zien. Dit oordeelden analisten van Citi Research donderdag in een rapport, na de update van het bedrijf vanochtend.",
     "published_at": "2026-04-30 16:47",
-    "scraped_at": "2026-04-30T18:15:04.300247"
+    "scraped_at": "2026-04-30T19:53:47.865968"
   },
   {
     "id": "f9e8f8b57f0ab1d798cd605447e8af49",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862569/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 8 mei 2026:",
     "published_at": "2026-04-30 16:27",
-    "scraped_at": "2026-04-30T18:15:04.300247"
-  },
-  {
-    "id": "f519774466b7bb94cf43087857c4befb",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/862570/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 8 mei 2026:",
-    "published_at": "2026-04-30 16:27",
-    "scraped_at": "2026-04-30T18:15:04.300247"
-  },
-  {
-    "id": "e67761aea7c300bfaf1d8424e89ede8a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/862571/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 8 mei 2026:",
-    "published_at": "2026-04-30 16:27",
-    "scraped_at": "2026-04-30T18:15:04.300247"
+    "scraped_at": "2026-04-30T19:53:47.865968"
   }
 ]
