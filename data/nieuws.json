@@ -1,12 +1,48 @@
 [
   {
+    "id": "5a1d56c8b290a55b576cc93d81ef81b0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/862723/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 11 mei 2026:",
+    "published_at": "2026-05-01 16:25",
+    "scraped_at": "2026-05-01T15:30:13.113651"
+  },
+  {
+    "id": "ba4b459ad006a0b133a640bddb1a79e7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/862724/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 11 mei 2026:",
+    "published_at": "2026-05-01 16:25",
+    "scraped_at": "2026-05-01T15:30:13.113651"
+  },
+  {
+    "id": "858bc17c316dcb02e50f3b85cc07f4ff",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/862725/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 11 mei 2026:",
+    "published_at": "2026-05-01 16:25",
+    "scraped_at": "2026-05-01T15:30:13.113651"
+  },
+  {
+    "id": "1459a15ae3ea0c99e55364b5860aa5ef",
+    "categorie": "Beursnieuws",
+    "titel": "ISM: Amerikaanse industrie groeit in stabiel tempo",
+    "link": "https://www.beurs.nl/Nieuws/862720/ISM-Amerikaanse-industrie-groeit-in-stabiel-tempo.aspx",
+    "intro": "De Amerikaanse industrie is in april in een stabiel tempo gegroeid, waar een kleine groeiversnelling werd voorzien. Dit bleek vrijdag uit cijfers van het Institute for Supply Management.",
+    "published_at": "2026-05-01 16:06",
+    "scraped_at": "2026-05-01T15:30:13.113651"
+  },
+  {
     "id": "8db6cf7d0a0a2a0ec62bec0940440a95",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse industrie groeit harder",
     "link": "https://www.beurs.nl/Nieuws/862712/Amerikaanse-industrie-groeit-harder.aspx",
     "intro": "De activiteit in de Amerikaanse industrie is in april harder gegroeid dan aanvankelijk gedacht. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-05-01 15:51",
-    "scraped_at": "2026-05-01T14:09:33.910704"
+    "scraped_at": "2026-05-01T15:30:13.113651"
   },
   {
     "id": "e3c7eb929a97347523a48332e08e1404",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862706/Wall-Street-richting-verdeelde-opening.aspx",
     "intro": "De Amerikaanse aandelenmarkten gaan vrijdag zonder grote bewegingen van start, terwijl elders in de wereld veel beurzen gesloten zijn vanwege de viering van de Dag van de Arbeid.",
     "published_at": "2026-05-01 14:35",
-    "scraped_at": "2026-05-01T14:09:33.910704"
+    "scraped_at": "2026-05-01T15:30:13.113651"
   },
   {
     "id": "c3f204ce19c40c52e964a3f1cd92ea29",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862702/Nebius-neemt-Eigen-AI-over.aspx",
     "intro": "Nebius heeft een akkoord bereikt over de overname van Eigen AI. Dit meldde Nebius, dat vanuit Amsterdam opereert, vrijdagmiddag.",
     "published_at": "2026-05-01 14:11",
-    "scraped_at": "2026-05-01T14:09:33.910704"
+    "scraped_at": "2026-05-01T15:30:13.113651"
   },
   {
     "id": "bdf39343ca5b11d049cd2f7f867d70a8",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862697/Colgate-Palmolive-boekt-meer-omzet.aspx",
     "intro": "Colgate-Palmolive heeft in het eerste kwartaal meer omzet geboekt, maar waarschuwde ook voor een daling van de brutomarge in 2026. Dit bleek vrijdag uit de cijfers van het bedrijf.",
     "published_at": "2026-05-01 14:00",
-    "scraped_at": "2026-05-01T14:09:33.910704"
+    "scraped_at": "2026-05-01T15:30:13.113651"
   },
   {
     "id": "a34f5d657d190932922a5a0be1542f08",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862682/Minder-winst-voor-ExxonMobil.aspx",
     "intro": "ExxonMobil heeft in het eerste kwartaal van 2026 de winst flink zien dalen, ondanks een hogere olieprijs. Dit bleek vrijdag uit kwartaalcijfers van de oliereus.",
     "published_at": "2026-05-01 13:01",
-    "scraped_at": "2026-05-01T14:09:33.910704"
+    "scraped_at": "2026-05-01T15:30:13.113651"
   },
   {
     "id": "b849a7f1846bbc8845a4c2910a3d4a15",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862680/Winstval-voor-Chevron.aspx",
     "intro": "Chevron heeft in het eerste kwartaal van 2026 de winst flink zien dalen, ondanks een hogere olieprijs en een gestegen productie. Dit bleek vrijdag uit kwartaalcijfers van de oliereus.",
     "published_at": "2026-05-01 12:35",
-    "scraped_at": "2026-05-01T14:09:33.910704"
-  },
-  {
-    "id": "5df84968353836150671d3cd8f9aa501",
-    "categorie": "Beursnieuws",
-    "titel": "Voorzichtige opening op Wall Street verwacht",
-    "link": "https://www.beurs.nl/Nieuws/862677/Voorzichtige-opening-op-Wall-Street-verwacht.aspx",
-    "intro": "De Amerikaanse aandelenmarkten gaan vrijdag rustig van start, terwijl elders in de wereld veel beurzen gesloten zijn vanwege de viering van de Dag van de Arbeid.",
-    "published_at": "2026-05-01 12:18",
-    "scraped_at": "2026-05-01T14:09:33.910704"
-  },
-  {
-    "id": "48be31ef4dd61cfcb86e075d174619ab",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: UBS verhoogt koersdoel Flow Traders",
-    "link": "https://www.beurs.nl/Nieuws/862668/Beursblik-UBS-verhoogt-koersdoel-Flow-Traders.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor Flow Traders verhoogd van 29,50 naar 30,50 euro met handhaving van het neutrale advies. Dit bleek uit een rapport van Michael Werner.",
-    "published_at": "2026-05-01 11:47",
-    "scraped_at": "2026-05-01T14:09:33.910704"
-  },
-  {
-    "id": "51ee3e6f1931a9ac47b04599b566f32e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: investeringsplannen Amerikaanse hyperscalers goed nieuws voor Europese chippers",
-    "link": "https://www.beurs.nl/Nieuws/862655/Beursblik-investeringsplannen-Amerikaanse-hyperscalers-goed-nieuws-voor-Europese-chippers.aspx",
-    "intro": "De kwartaalcijfers van vier Amerikaanse hyperscalers geven een positief signaal voor de Europese halfgeleidersector. Dit stelde analist Andrew Gardiner van Citi Research vrijdag in een rapport na cijfers van Alphabet, Amazon, Microsoft en Meta Platforms.",
-    "published_at": "2026-05-01 11:25",
-    "scraped_at": "2026-05-01T14:09:33.910704"
-  },
-  {
-    "id": "ec38b3e6c28a67ad866c2c7f136f0272",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/862654/UBS-verhoogt-koersdoel-Arcadis.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor Arcadis verhoogd van 34,50 naar 36,15 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist Natasha Brilliant.",
-    "published_at": "2026-05-01 10:57",
-    "scraped_at": "2026-05-01T14:09:33.910704"
+    "scraped_at": "2026-05-01T15:30:13.113651"
   }
 ]
