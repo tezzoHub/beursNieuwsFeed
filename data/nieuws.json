@@ -1,12 +1,21 @@
 [
   {
+    "id": "084e59e5761c56d64903b98c0f0a854a",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street scherpt records verder aan",
+    "link": "https://www.beurs.nl/Nieuws/862743/Wall-Street-scherpt-records-verder-aan.aspx",
+    "intro": "De Amerikaanse beurzen zijn vrijdag overwegend hoger geëindigd, waarbij de slotrecords voor de SP 500 en Nasdaq iets werden aangescherpt. De indices sloten wel onder het hoogste punt van de dag.",
+    "published_at": "2026-05-01 22:09",
+    "scraped_at": "2026-05-01T20:59:43.702169"
+  },
+  {
     "id": "7d929f28c6ef28a79bfe781806ec24eb",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs daalt verder na nieuw Iraans vredesvoorstel",
     "link": "https://www.beurs.nl/Nieuws/862738/Olieprijs-daalt-verder-na-nieuw-Iraans-vredesvoorstel.aspx",
     "intro": "De olieprijs is vrijdag verder gedaald, na mediaberichten dat Iran een nieuw vredesvoorstel naar de Verenigde Staten zou hebben gestuurd.",
     "published_at": "2026-05-01 20:57",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   },
   {
     "id": "0b4865a14a861a6cb0f3cbb871169309",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/862730/Update-Trump-wil-importheffingen-voor-Europese-autos-verhogen.aspx",
     "intro": "De Amerikaanse president Donald Trump wil vanaf volgende week de importheffingen verhogen voor auto's en vrachtwagens uit de Europese Unie die de Verenigde Staten binnenkomen. Dit meldde Trump vrijdag op Truth Social.",
     "published_at": "2026-05-01 20:29",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   },
   {
     "id": "9402df1f001e084c15d13f5505d1e262",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/862737/Wall-Street-op-weg-naar-nieuwe-records.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag hoger met nog een paar uur handel te gaan.",
     "published_at": "2026-05-01 19:42",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   },
   {
     "id": "c6bd683f1db6fc9180058fa93fb53be1",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/862732/Londense-beurs-eindigt-licht-lager.aspx",
     "intro": "De Britse FTSE 100 is vrijdag licht lager geëindigd op 10.363,93 punten. Op weekbasis daalde de index ook licht.",
     "published_at": "2026-05-01 18:27",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   },
   {
     "id": "5a1d56c8b290a55b576cc93d81ef81b0",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862723/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 11 mei 2026:",
     "published_at": "2026-05-01 16:25",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   },
   {
     "id": "ba4b459ad006a0b133a640bddb1a79e7",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862724/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 11 mei 2026:",
     "published_at": "2026-05-01 16:25",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   },
   {
     "id": "858bc17c316dcb02e50f3b85cc07f4ff",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862725/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 11 mei 2026:",
     "published_at": "2026-05-01 16:25",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   },
   {
     "id": "1459a15ae3ea0c99e55364b5860aa5ef",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862720/ISM-Amerikaanse-industrie-groeit-in-stabiel-tempo.aspx",
     "intro": "De Amerikaanse industrie is in april in een stabiel tempo gegroeid, waar een kleine groeiversnelling werd voorzien. Dit bleek vrijdag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-05-01 16:06",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   },
   {
     "id": "8db6cf7d0a0a2a0ec62bec0940440a95",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862712/Amerikaanse-industrie-groeit-harder.aspx",
     "intro": "De activiteit in de Amerikaanse industrie is in april harder gegroeid dan aanvankelijk gedacht. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-05-01 15:51",
-    "scraped_at": "2026-05-01T19:56:47.263845"
-  },
-  {
-    "id": "e3c7eb929a97347523a48332e08e1404",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street richting verdeelde opening",
-    "link": "https://www.beurs.nl/Nieuws/862706/Wall-Street-richting-verdeelde-opening.aspx",
-    "intro": "De Amerikaanse aandelenmarkten gaan vrijdag zonder grote bewegingen van start, terwijl elders in de wereld veel beurzen gesloten zijn vanwege de viering van de Dag van de Arbeid.",
-    "published_at": "2026-05-01 14:35",
-    "scraped_at": "2026-05-01T19:56:47.263845"
+    "scraped_at": "2026-05-01T20:59:43.702169"
   }
 ]
