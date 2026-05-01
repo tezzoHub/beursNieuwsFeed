@@ -1,12 +1,75 @@
 [
   {
+    "id": "f9c2c5edc20f0340ba8b34d4957f7fae",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: UBS verhoogt koersdoel Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/862654/Beursblik-UBS-verhoogt-koersdoel-Arcadis.aspx",
+    "intro": "UBS heeft vrijdag het koersdoel voor Arcadis verhoogd van 34,50 naar 36,15 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist Natasha Brilliant.",
+    "published_at": "2026-05-01 10:57",
+    "scraped_at": "2026-05-01T09:14:30.311950"
+  },
+  {
+    "id": "88bd182ed01c49eb98051b4429839521",
+    "categorie": "Beursnieuws",
+    "titel": "Groeiversnelling voor Britse industrie",
+    "link": "https://www.beurs.nl/Nieuws/862653/Groeiversnelling-voor-Britse-industrie.aspx",
+    "intro": "De industrie in het Verenigd Koninkrijk is in april in een beduidend hoger tempo gegroeid. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-05-01 10:40",
+    "scraped_at": "2026-05-01T09:14:30.311950"
+  },
+  {
+    "id": "b8a1d01c29309c11e29a333452fd416e",
+    "categorie": "Must read",
+    "titel": "Must read: Nederlandse economie staat onder druk",
+    "link": "https://www.iex.nl/artikel/862564/Must-read-Nederlandse-economie-staat-onder-druk.aspx",
+    "intro": "Consumenten zien het somber in de afgelopen maand. Komt het door de stijgende boodschappenprijzen, het beleggersklimaat dat Nederland uitdrijft of de benzineprijzen die maar niet willen dalen?",
+    "published_at": "2026-05-01 10:10",
+    "scraped_at": "2026-05-01T09:14:30.311950"
+  },
+  {
+    "id": "d5a1a5dc2e9a477050a3d563c9f15fdd",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: goede jaarstart voor Aalberts",
+    "link": "https://www.beurs.nl/Nieuws/862650/Beursblik-goede-jaarstart-voor-Aalberts.aspx",
+    "intro": "Aalberts heeft in het eerste kwartaal beter dan verwacht gepresteerd. Dit stelde analist Kristof Samoy van KBC Securities vrijdag in een rapport.",
+    "published_at": "2026-05-01 10:09",
+    "scraped_at": "2026-05-01T09:14:30.311950"
+  },
+  {
+    "id": "9a9a22a55952c5e729de10c60e55746d",
+    "categorie": "Beursnieuws",
+    "titel": "Omzet Morefield Group stijgt ruim 50 procent",
+    "link": "https://www.beurs.nl/Nieuws/862647/Omzet-Morefield-Group-stijgt-ruim-50-procent.aspx",
+    "intro": "Morefield Group heeft in 2025 de omzet flink zien stijgen, mede dankzij de overname van Naviva Kraamzorg. Dit bleek vrijdag uit cijfers van het bedrijf.",
+    "published_at": "2026-05-01 09:38",
+    "scraped_at": "2026-05-01T09:14:30.311950"
+  },
+  {
+    "id": "97ca42d37fb7d5c482d2a4a1d7adb7e0",
+    "categorie": "Beursnieuws",
+    "titel": "Sterke groei Japanse industrie",
+    "link": "https://www.beurs.nl/Nieuws/862645/Sterke-groei-Japanse-industrie.aspx",
+    "intro": "De Japanse industrie is in april in een flink hoger tempo gegroeid. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-05-01 09:22",
+    "scraped_at": "2026-05-01T09:14:30.311950"
+  },
+  {
+    "id": "5053c6a68557553a7aa928cb4db10a74",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Citi haalt Randstad van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/862644/Beursblik-Citi-haalt-Randstad-van-de-kooplijst.aspx",
+    "intro": "Citi Research heeft het advies voor Randstad verlaagd van Kopen naar Neutraal en het koersdoel van 41,00 naar 25,00 euro. Dit bleek uit een sectorrapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-05-01 09:15",
+    "scraped_at": "2026-05-01T09:14:30.311950"
+  },
+  {
     "id": "c0ff444f42fff8b3cf7a7af3b79e3eee",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: goed eerste kwartaal voor ING",
     "link": "https://www.beurs.nl/Nieuws/862643/Beursblik-goed-eerste-kwartaal-voor-ING.aspx",
     "intro": "ING Groep is 2026 goed gestart. Dit stelde analist Benjamin Goy van Deutsche Bank vrijdag in een rapport.",
     "published_at": "2026-05-01 09:02",
-    "scraped_at": "2026-05-01T07:17:35.894373"
+    "scraped_at": "2026-05-01T09:14:30.311950"
   },
   {
     "id": "3c9d323a9b30aecc6bd4227fe4991b88",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862639/Economisch-beeld-Nederland-verslechtert.aspx",
     "intro": "Het conjunctuurbeeld in Nederland was in april negatiever dan in maart. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-05-01 08:47",
-    "scraped_at": "2026-05-01T07:17:35.894373"
+    "scraped_at": "2026-05-01T09:14:30.311950"
   },
   {
     "id": "5cef543908d9f3132b29154a0c5df2e1",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862637/Beursblik-koersdoelverhogingen-voor-Aperam.aspx",
     "intro": "Deutsche Bank en Jefferies hebben vrijdag hun koersdoelen voor Aperam verhoogd. Dit bleek uit analistenrapporten die de banken publiceerden.",
     "published_at": "2026-05-01 08:36",
-    "scraped_at": "2026-05-01T07:17:35.894373"
-  },
-  {
-    "id": "3b278468077a7e8e1d4bd04efcb4850d",
-    "categorie": "Beursnieuws",
-    "titel": "Detailhandel zet meer om",
-    "link": "https://www.beurs.nl/Nieuws/862635/Detailhandel-zet-meer-om.aspx",
-    "intro": "De Nederlandse detailhandel heeft in maart meer omgezet. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-05-01 08:16",
-    "scraped_at": "2026-05-01T07:17:35.894373"
-  },
-  {
-    "id": "62ba680c6ae5d795077c2101297bff55",
-    "categorie": "Beursnieuws",
-    "titel": "Aalberts keert terug naar autonome groei",
-    "link": "https://www.beurs.nl/Nieuws/862632/Aalberts-keert-terug-naar-autonome-groei.aspx",
-    "intro": "Aalberts heeft de omzet zien dalen in het eerste kwartaal van 2026, maar autonoom was er wel weer sprake van groei. Dit bleek vrijdag uit een update van het bedrijf.",
-    "published_at": "2026-05-01 07:52",
-    "scraped_at": "2026-05-01T07:17:35.894373"
-  },
-  {
-    "id": "4dd1b5cec358674ada36eab3b66b3ece",
-    "categorie": "Beursnieuws",
-    "titel": "Meeste Europese beurzen gesloten op Dag van de Arbeid",
-    "link": "https://www.beurs.nl/Nieuws/862631/Meeste-Europese-beurzen-gesloten-op-Dag-van-de-Arbeid.aspx",
-    "intro": "De meeste aandelenmarkten in Europa blijven vrijdag gesloten vanwege de Dag van de Arbeid. Op de Londense beurs vindt vandaag wel handel plaats. Maandag is het juist in de City een vrije dag vanwege een bank holiday.",
-    "published_at": "2026-05-01 07:31",
-    "scraped_at": "2026-05-01T07:17:35.894373"
-  },
-  {
-    "id": "7008e1f9512bf00aae3a2d188e2c79c7",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/862629/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 8 mei 2026:",
-    "published_at": "2026-05-01 07:27",
-    "scraped_at": "2026-05-01T07:17:35.894373"
-  },
-  {
-    "id": "938c9f0d45682c12e2f3a06c6a05c8f5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/862627/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 8 mei 2026:",
-    "published_at": "2026-05-01 07:26",
-    "scraped_at": "2026-05-01T07:17:35.894373"
-  },
-  {
-    "id": "f09d502ce9291aff08e60f976dbd475d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/862628/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 8 mei 2026:",
-    "published_at": "2026-05-01 07:26",
-    "scraped_at": "2026-05-01T07:17:35.894373"
-  },
-  {
-    "id": "7b443158c8b52243ca4d0d70418ae1aa",
-    "categorie": "Beurs vandaag",
-    "titel": "Beurs is dicht. Op deze dagen zijn de belangrijkste beurzen in 2026 gesloten",
-    "link": "https://www.beurs.nl/Artikel/862574/Beurs-is-dicht-Op-deze-dagen-zijn-de-belangrijkste-beurzen-in-2026-gesloten.aspx",
-    "intro": "Veel beurzen in Europa en Azië houden vandaag de deuren gesloten vanwege de Dag van de Arbeid. Maar in Japan, de VS en het VK wordt gewoon gehandeld. Hoe zit het precies?",
-    "published_at": "2026-05-01 07:00",
-    "scraped_at": "2026-05-01T07:17:35.894373"
+    "scraped_at": "2026-05-01T09:14:30.311950"
   }
 ]
