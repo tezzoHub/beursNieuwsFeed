@@ -1,12 +1,21 @@
 [
   {
+    "id": "42290e5853fa777f931d6f82ec5e07df",
+    "categorie": "Beursnieuws",
+    "titel": "Aanvallen in Straat van Hormuz drukken Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/862943/Aanvallen-in-Straat-van-Hormuz-drukken-Wall-Street.aspx",
+    "intro": "De Amerikaanse aandelenbeurzen stonden maandagavond lager nadat de geopolitieke spanningen in de Straat van Hormuz dreigden te escaleren. Postbedrijven gingen onderuit op een concurrerende dienst van Amazon, terwijl crypto-gerelateerde aandelen het goed deden.",
+    "published_at": "2026-05-04 21:01",
+    "scraped_at": "2026-05-04T19:52:16.570141"
+  },
+  {
     "id": "a605aa9adba68789dc00c1028f1700cd",
     "categorie": "Beursnieuws",
     "titel": "HAL verkoopt belang in Chileens optiekbedrijf",
     "link": "https://www.beurs.nl/Nieuws/862940/HAL-verkoopt-belang-in-Chileens-optiekbedrijf.aspx",
     "intro": "HAL heeft zijn belang in de optiekwinkelketen Rotter y Kraus verkocht aan een Chileens retailbedrijf. Dat maakte de investeerder maandag bekend.",
     "published_at": "2026-05-04 19:41",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   },
   {
     "id": "1ec60f250dd9fc29dd7b5e92627fcc13",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/862937/Rode-weekstart-op-Europese-beurzen.aspx",
     "intro": "De Europese beurzen zijn maandag in het rood gesloten.",
     "published_at": "2026-05-04 19:22",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   },
   {
     "id": "8cc6951fe99734b4a17cb4c7847dc0aa",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/862934/CSG-wijst-beschuldigingen-Hunterbrook-van-de-hand.aspx",
     "intro": "CSG heeft maandagavond de conclusies over het bedrijf in een rapport van Hunterbrook Media weersproken, maar liet tegelijk weten de aantijgingen nog te bestuderen.",
     "published_at": "2026-05-04 19:05",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   },
   {
     "id": "25b313b14ee7ee16baa0045a0784b745",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/862927/Zwaargewichten-ASML-en-ING-trekken-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is maandag met verlies aan de nieuwe handelsweek begonnen.",
     "published_at": "2026-05-04 17:51",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   },
   {
     "id": "4c84bd56e63893830477dfbf1683d537",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/862924/Aandeel-Envipco-op-strafbankje-in-Oslo.aspx",
     "intro": "Het aandeel Envipco is door de beurs van Oslo op het zogenoemde strafbankje gezet.",
     "published_at": "2026-05-04 17:00",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   },
   {
     "id": "4b7f2d34a35d62fe99a5d4fc842e914e",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862922/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 12 mei 2026:",
     "published_at": "2026-05-04 16:48",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   },
   {
     "id": "302e36eab9e4fbbb5de321dd003b1f42",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862921/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 12 mei 2026:",
     "published_at": "2026-05-04 16:47",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   },
   {
     "id": "1cb26ca9ae767b07c9dfb6c8c54ed5c8",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862919/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 12 mei 2026:",
     "published_at": "2026-05-04 16:46",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   },
   {
     "id": "4cf013eb07ccc700957364fefd63196b",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862916/Update-Aandeel-CSG-hard-onderuit.aspx",
     "intro": "Het aandeel CSG is maandag met ruim 20 procent gedaald. Aanleiding lijkt een artikel van Hunterbrook Media. Hunterbrook Capital zit 'short' in het aandeel, zo meldde het mediabedrijf.",
     "published_at": "2026-05-04 16:45",
-    "scraped_at": "2026-05-04T18:00:00.954522"
-  },
-  {
-    "id": "bf74d574d7148b115b15ebd1b9ffa8d8",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse fabrieksorders omhoog",
-    "link": "https://www.beurs.nl/Nieuws/862915/Amerikaanse-fabrieksorders-omhoog.aspx",
-    "intro": "De Amerikaanse fabrieksorders zijn in maart gestegen. Dit bleek maandag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-05-04 16:08",
-    "scraped_at": "2026-05-04T18:00:00.954522"
+    "scraped_at": "2026-05-04T19:52:16.570141"
   }
 ]
