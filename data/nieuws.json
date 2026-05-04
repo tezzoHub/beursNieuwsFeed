@@ -1,12 +1,57 @@
 [
   {
-    "id": "9cd0607ab817806096ad13e07d2c7270",
+    "id": "dc39c7d6aa396e7bc43272128cc08b66",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: zwaargewichten ASML en ING trekken AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/862892/Beursupdate-zwaargewichten-ASML-en-ING-trekken-AEX-in-het-rood.aspx",
+    "titel": "Aandeel CSG hard onderuit",
+    "link": "https://www.beurs.nl/Nieuws/862916/Aandeel-CSG-hard-onderuit.aspx",
+    "intro": "Het aandeel CSG is maandag met bijna 20 procent gedaald. Aanleiding lijkt een artikel van Hunterbrook Media. Hunterbrook Capital zit 'short' in het aandeel, zo meldde het mediabedrijf.",
+    "published_at": "2026-05-04 16:28",
+    "scraped_at": "2026-05-04T14:34:52.260914"
+  },
+  {
+    "id": "bf74d574d7148b115b15ebd1b9ffa8d8",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse fabrieksorders omhoog",
+    "link": "https://www.beurs.nl/Nieuws/862915/Amerikaanse-fabrieksorders-omhoog.aspx",
+    "intro": "De Amerikaanse fabrieksorders zijn in maart gestegen. Dit bleek maandag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-05-04 16:08",
+    "scraped_at": "2026-05-04T14:34:52.260914"
+  },
+  {
+    "id": "fe0dc4d97240fa87d912a0fc2e3e820a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: pessimistische beursexperts kiezen voor Shell",
+    "link": "https://www.beurs.nl/Nieuws/862907/Beursblik-pessimistische-beursexperts-kiezen-voor-Shell.aspx",
+    "intro": "Ondanks het herstel op de beurzen, blijven experts pessimistisch gestemd. Dit bleek maandag uit de maandenquête van analist Corné van Zeijl van Cardano.",
+    "published_at": "2026-05-04 15:35",
+    "scraped_at": "2026-05-04T14:34:52.260914"
+  },
+  {
+    "id": "991523a7b0cd5427761362b6c26794ed",
+    "categorie": "Beursnieuws",
+    "titel": "Weinig spannende opening op Wall Street in de maak",
+    "link": "https://www.beurs.nl/Nieuws/862901/Weinig-spannende-opening-op-Wall-Street-in-de-maak.aspx",
+    "intro": "Wall Street lijkt maandag rond de slotkoersen van vrijdag te zullen starten.",
+    "published_at": "2026-05-04 14:53",
+    "scraped_at": "2026-05-04T14:34:52.260914"
+  },
+  {
+    "id": "9dcdca0e40d15cc9b2dc14310254db1e",
+    "categorie": "Beursnieuws",
+    "titel": "American Express verkoopt belang in GBTG",
+    "link": "https://www.beurs.nl/Nieuws/862896/American-Express-verkoopt-belang-in-GBTG.aspx",
+    "intro": "American Express heeft een akkoord bereikt met Long Lake over de verkoop van het belang in Global Business Travel Group. Dit maakte American Express maandagmiddag bekend.",
+    "published_at": "2026-05-04 14:32",
+    "scraped_at": "2026-05-04T14:34:52.260914"
+  },
+  {
+    "id": "ea49f7781245526da275ce909ce4cd25",
+    "categorie": "Beursnieuws",
+    "titel": "Zwaargewichten ASML en ING trekken AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/862892/Zwaargewichten-ASML-en-ING-trekken-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs noteerde maandagmiddag in het rood, met een verlies van een half procent.",
     "published_at": "2026-05-04 14:00",
-    "scraped_at": "2026-05-04T12:08:18.011063"
+    "scraped_at": "2026-05-04T14:34:52.260914"
   },
   {
     "id": "9eefa1a664445c0ecab2ceeeb1999365",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/862891/Beursblik-minder-omzet-voor-DSM-Firmenich.aspx",
     "intro": "DSM-Firmenich heeft in het eerste kwartaal vermoedelijk een lagere omzet geboekt, terwijl ook de marge is gedaald. Dit blijkt uit de analistenconsensus op de website van het bedrijf.",
     "published_at": "2026-05-04 13:52",
-    "scraped_at": "2026-05-04T12:08:18.011063"
+    "scraped_at": "2026-05-04T14:34:52.260914"
   },
   {
     "id": "92445b63b30581e33ab729c17c52a565",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/862888/SAP-neemt-Dremio-over.aspx",
     "intro": "SAP heeft een akkoord bereikt over de acquisitie van Dremio. Dit maakte het Duitse softwarebedrijf maandagmiddag bekend.",
     "published_at": "2026-05-04 13:36",
-    "scraped_at": "2026-05-04T12:08:18.011063"
+    "scraped_at": "2026-05-04T14:34:52.260914"
   },
   {
     "id": "e39e299094cbe3978c23601691fbe7af",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862887/Beursblik-trage-jaarstart-voor-Philips-verwacht.aspx",
     "intro": "Philips heeft in het eerste kwartaal naar verwachting een lagere omzet geboekt, terwijl de marge ook is gedaald. Dit bleek uit de analistenconsensus op de website van het medtechbedrijf.",
     "published_at": "2026-05-04 13:24",
-    "scraped_at": "2026-05-04T12:08:18.011063"
+    "scraped_at": "2026-05-04T14:34:52.260914"
   },
   {
     "id": "664293756dea6f430c1379454150035e",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862886/Olieprijzen-omhoog.aspx",
     "intro": "De olieprijzen liepen maandag op nadat een Amerikaans oorlogsschip in de Straat van Hormuz zou zijn getroffen door twee raketten, zoals het Iraanse persbureau Fars meldde.",
     "published_at": "2026-05-04 13:16",
-    "scraped_at": "2026-05-04T12:08:18.011063"
-  },
-  {
-    "id": "d839d3795c6b8dc6ed1825aaf4788a51",
-    "categorie": "Beursnieuws",
-    "titel": "Lichtrode Amerikaanse futures",
-    "link": "https://www.beurs.nl/Nieuws/862885/Lichtrode-Amerikaanse-futures.aspx",
-    "intro": "Wall Street lijkt maandag met een klein verlies aan de nieuwe beursweek te beginnen.",
-    "published_at": "2026-05-04 13:03",
-    "scraped_at": "2026-05-04T12:08:18.011063"
-  },
-  {
-    "id": "f6a7b5a71fc00f6c8dd23dc5447845ff",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verlaagt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/862872/Jefferies-verlaagt-koersdoel-Adyen.aspx",
-    "intro": "Jefferies heeft maandag het koersdoel voor Adyen verlaagd van 1.240 naar 1.166 euro met een herhaling van het koopadvies. Dit bleek uit een vooruitblik die analist Hannes Leitner publiceerde op de kwartaalupdate die de Amsterdamse betaalspecialist op 6 mei publiceert.",
-    "published_at": "2026-05-04 12:04",
-    "scraped_at": "2026-05-04T12:08:18.011063"
-  },
-  {
-    "id": "8da4f6166e96b03ab83d3fafe3688b11",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen doen het rustig aan",
-    "link": "https://www.beurs.nl/Nieuws/862870/Europese-beurzen-doen-het-rustig-aan.aspx",
-    "intro": "De Europese beurzen noteerden maandag rond het middaguur verdeeld.",
-    "published_at": "2026-05-04 11:55",
-    "scraped_at": "2026-05-04T12:08:18.011063"
-  },
-  {
-    "id": "ffb10cada6a67441407f8897399754df",
-    "categorie": "Beursnieuws",
-    "titel": "Magnum Ice uitblinker in lichtrode AEX",
-    "link": "https://www.beurs.nl/Nieuws/862864/Magnum-Ice-uitblinker-in-lichtrode-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagochtend licht in het rood.",
-    "published_at": "2026-05-04 11:12",
-    "scraped_at": "2026-05-04T12:08:18.011063"
-  },
-  {
-    "id": "b95fe4d2af077f3e41cdff5996011eb5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterk eerste kwartaal van Aalberts",
-    "link": "https://www.beurs.nl/Nieuws/862853/Beursblik-sterk-eerste-kwartaal-van-Aalberts.aspx",
-    "intro": "Aalberts is 2026 goed begonnen. Dit concludeerde analist Luuk van Beek van Degroof Petercam maandag in een rapport.",
-    "published_at": "2026-05-04 10:31",
-    "scraped_at": "2026-05-04T12:08:18.011063"
+    "scraped_at": "2026-05-04T14:34:52.260914"
   }
 ]
