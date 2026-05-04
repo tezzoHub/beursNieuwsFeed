@@ -1,12 +1,75 @@
 [
   {
+    "id": "9cd0607ab817806096ad13e07d2c7270",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: zwaargewichten ASML en ING trekken AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/862892/Beursupdate-zwaargewichten-ASML-en-ING-trekken-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagmiddag in het rood, met een verlies van een half procent.",
+    "published_at": "2026-05-04 14:00",
+    "scraped_at": "2026-05-04T12:08:18.011063"
+  },
+  {
+    "id": "9eefa1a664445c0ecab2ceeeb1999365",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: minder omzet voor DSM-Firmenich",
+    "link": "https://www.beurs.nl/Nieuws/862891/Beursblik-minder-omzet-voor-DSM-Firmenich.aspx",
+    "intro": "DSM-Firmenich heeft in het eerste kwartaal vermoedelijk een lagere omzet geboekt, terwijl ook de marge is gedaald. Dit blijkt uit de analistenconsensus op de website van het bedrijf.",
+    "published_at": "2026-05-04 13:52",
+    "scraped_at": "2026-05-04T12:08:18.011063"
+  },
+  {
+    "id": "92445b63b30581e33ab729c17c52a565",
+    "categorie": "Beursnieuws",
+    "titel": "SAP neemt Dremio over",
+    "link": "https://www.beurs.nl/Nieuws/862888/SAP-neemt-Dremio-over.aspx",
+    "intro": "SAP heeft een akkoord bereikt over de acquisitie van Dremio. Dit maakte het Duitse softwarebedrijf maandagmiddag bekend.",
+    "published_at": "2026-05-04 13:36",
+    "scraped_at": "2026-05-04T12:08:18.011063"
+  },
+  {
+    "id": "e39e299094cbe3978c23601691fbe7af",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: trage jaarstart voor Philips verwacht",
+    "link": "https://www.beurs.nl/Nieuws/862887/Beursblik-trage-jaarstart-voor-Philips-verwacht.aspx",
+    "intro": "Philips heeft in het eerste kwartaal naar verwachting een lagere omzet geboekt, terwijl de marge ook is gedaald. Dit bleek uit de analistenconsensus op de website van het medtechbedrijf.",
+    "published_at": "2026-05-04 13:24",
+    "scraped_at": "2026-05-04T12:08:18.011063"
+  },
+  {
+    "id": "664293756dea6f430c1379454150035e",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen omhoog",
+    "link": "https://www.beurs.nl/Nieuws/862886/Olieprijzen-omhoog.aspx",
+    "intro": "De olieprijzen liepen maandag op nadat een Amerikaans oorlogsschip in de Straat van Hormuz zou zijn getroffen door twee raketten, zoals het Iraanse persbureau Fars meldde.",
+    "published_at": "2026-05-04 13:16",
+    "scraped_at": "2026-05-04T12:08:18.011063"
+  },
+  {
+    "id": "d839d3795c6b8dc6ed1825aaf4788a51",
+    "categorie": "Beursnieuws",
+    "titel": "Lichtrode Amerikaanse futures",
+    "link": "https://www.beurs.nl/Nieuws/862885/Lichtrode-Amerikaanse-futures.aspx",
+    "intro": "Wall Street lijkt maandag met een klein verlies aan de nieuwe beursweek te beginnen.",
+    "published_at": "2026-05-04 13:03",
+    "scraped_at": "2026-05-04T12:08:18.011063"
+  },
+  {
+    "id": "f6a7b5a71fc00f6c8dd23dc5447845ff",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/862872/Jefferies-verlaagt-koersdoel-Adyen.aspx",
+    "intro": "Jefferies heeft maandag het koersdoel voor Adyen verlaagd van 1.240 naar 1.166 euro met een herhaling van het koopadvies. Dit bleek uit een vooruitblik die analist Hannes Leitner publiceerde op de kwartaalupdate die de Amsterdamse betaalspecialist op 6 mei publiceert.",
+    "published_at": "2026-05-04 12:04",
+    "scraped_at": "2026-05-04T12:08:18.011063"
+  },
+  {
     "id": "8da4f6166e96b03ab83d3fafe3688b11",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen doen het rustig aan",
     "link": "https://www.beurs.nl/Nieuws/862870/Europese-beurzen-doen-het-rustig-aan.aspx",
     "intro": "De Europese beurzen noteerden maandag rond het middaguur verdeeld.",
     "published_at": "2026-05-04 11:55",
-    "scraped_at": "2026-05-04T10:02:21.578759"
+    "scraped_at": "2026-05-04T12:08:18.011063"
   },
   {
     "id": "ffb10cada6a67441407f8897399754df",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/862864/Magnum-Ice-uitblinker-in-lichtrode-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde maandagochtend licht in het rood.",
     "published_at": "2026-05-04 11:12",
-    "scraped_at": "2026-05-04T10:02:21.578759"
+    "scraped_at": "2026-05-04T12:08:18.011063"
   },
   {
     "id": "b95fe4d2af077f3e41cdff5996011eb5",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862853/Beursblik-sterk-eerste-kwartaal-van-Aalberts.aspx",
     "intro": "Aalberts is 2026 goed begonnen. Dit concludeerde analist Luuk van Beek van Degroof Petercam maandag in een rapport.",
     "published_at": "2026-05-04 10:31",
-    "scraped_at": "2026-05-04T10:02:21.578759"
-  },
-  {
-    "id": "8ab22315ba2a3c3b558c01cda17e4e86",
-    "categorie": "Must read",
-    "titel": "Must read: olieschok valt historisch gezien best wel mee",
-    "link": "https://www.iex.nl/artikel/862829/Must-read-olieschok-valt-historisch-gezien-best-wel-mee.aspx",
-    "intro": "De nieuwe olieschok valt eigenlijk best wel mee. Plus: Nederlanders moeten vaker gaan beleggen, Trump wil schepen bevrijden uit de Straat van Hormuz en sociale media doen te weinig tegen online fraudeurs.",
-    "published_at": "2026-05-04 10:15",
-    "scraped_at": "2026-05-04T10:02:21.578759"
-  },
-  {
-    "id": "8e7679ccca1c31c81dbeeb9678e57165",
-    "categorie": "Beursnieuws",
-    "titel": "Industrie in de eurozone groeit door",
-    "link": "https://www.beurs.nl/Nieuws/862844/Industrie-in-de-eurozone-groeit-door.aspx",
-    "intro": "De industrie in de eurozone is in april harder gegroeid. Dit bleek maandag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-05-04 10:05",
-    "scraped_at": "2026-05-04T10:02:21.578759"
-  },
-  {
-    "id": "2508ae8fcfbb2ec5e8bc29fa032ad3dd",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine groeivertraging voor Duitse industrie",
-    "link": "https://www.beurs.nl/Nieuws/862843/Kleine-groeivertraging-voor-Duitse-industrie.aspx",
-    "intro": "De industrie in Duitsland is in april gegroeid, maar in een iets lager tempo dan in maart. Dit bleek maandag uit cijfers van SP Global.",
-    "published_at": "2026-05-04 09:59",
-    "scraped_at": "2026-05-04T10:02:21.578759"
-  },
-  {
-    "id": "9b2ebbdc06ed00c613d430fe29150471",
-    "categorie": "Beursnieuws",
-    "titel": "Franse industrie groeit flink",
-    "link": "https://www.beurs.nl/Nieuws/862842/Franse-industrie-groeit-flink.aspx",
-    "intro": "De Franse industrie is in april duidelijk gegroeid. Dit bleek maandag uit definitieve cijfers van SP Global en Hamburg Commercial Bank.",
-    "published_at": "2026-05-04 09:53",
-    "scraped_at": "2026-05-04T10:02:21.578759"
-  },
-  {
-    "id": "478d4d6ce591c315f8fcf59af9076015",
-    "categorie": "Beursnieuws",
-    "titel": "Italiaanse industrie groeit in hoger tempo",
-    "link": "https://www.beurs.nl/Nieuws/862840/Italiaanse-industrie-groeit-in-hoger-tempo.aspx",
-    "intro": "De industrie in Italië is in april sterker gegroeid. Dit bleek maandag uit cijfers van SP Global.",
-    "published_at": "2026-05-04 09:48",
-    "scraped_at": "2026-05-04T10:02:21.578759"
-  },
-  {
-    "id": "26990932662c9527576f6aeb1ca182e4",
-    "categorie": "Beursnieuws",
-    "titel": "Spaanse industrie groeit weer",
-    "link": "https://www.beurs.nl/Nieuws/862836/Spaanse-industrie-groeit-weer.aspx",
-    "intro": "De Spaanse industrie is in april weer gegroeid, na krimp in maart. Dit bleek maandag uit cijfers van SP Global.",
-    "published_at": "2026-05-04 09:25",
-    "scraped_at": "2026-05-04T10:02:21.578759"
-  },
-  {
-    "id": "244ce67c04601ad42a78c58ddccb5887",
-    "categorie": "Beursnieuws",
-    "titel": "KBC Securities verhoogt advies Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/862835/KBC-Securities-verhoogt-advies-Arcadis.aspx",
-    "intro": "KBC Securities heeft het advies voor Arcadis verhoogd van Houden naar Accumuleren en het koersdoel van 35,00 naar 42,00 euro. Dit bleek maandag uit een rapport van analist Kristof Samoy.",
-    "published_at": "2026-05-04 09:22",
-    "scraped_at": "2026-05-04T10:02:21.578759"
+    "scraped_at": "2026-05-04T12:08:18.011063"
   }
 ]
