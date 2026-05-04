@@ -1,47 +1,92 @@
 [
   {
-    "id": "90c0b04505c1028ade19af0f209ced6c",
+    "id": "26990932662c9527576f6aeb1ca182e4",
     "categorie": "Beursnieuws",
-    "titel": "Trump noemt Iraans voorstel weinig kansrijk",
-    "link": "https://www.beurs.nl/Nieuws/862773/Trump-noemt-Iraans-voorstel-weinig-kansrijk.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft een voorstel van Iran ontvangen om de oorlog te beëindigen. De president zei vannacht dit plan snel te zullen beoordelen, maar een grote kans dat Trump het zal accepteren, lijkt er niet te zijn.",
-    "published_at": "2026-05-03 13:03",
-    "scraped_at": "2026-05-04T04:54:45.807341"
+    "titel": "Spaanse industrie groeit weer",
+    "link": "https://www.beurs.nl/Nieuws/862836/Spaanse-industrie-groeit-weer.aspx",
+    "intro": "De Spaanse industrie is in april weer gegroeid, na krimp in maart. Dit bleek maandag uit cijfers van SP Global.",
+    "published_at": "2026-05-04 09:25",
+    "scraped_at": "2026-05-04T07:47:31.155890"
   },
   {
-    "id": "fcde6ccd52c5917b913ddbd1a01d68bf",
+    "id": "17bf0287a3d36ae00f34c785781b33e4",
     "categorie": "Beursnieuws",
-    "titel": "Beursweek in teken van inkoopcijfers en oorlog",
-    "link": "https://www.beurs.nl/Nieuws/862771/Beursweek-in-teken-van-inkoopcijfers-en-oorlog.aspx",
-    "intro": "Nadat de grote centrale banken afgelopen week met hun rentebesluiten kwamen en Big Tech de boeken opende, kunnen beleggers het komende week iets rustiger aan doen. Qua kwartaalcijfers is het nog één week echt druk.",
-    "published_at": "2026-05-03 12:19",
-    "scraped_at": "2026-05-04T04:54:45.807341"
+    "titel": "Beursblik: KBC Securities verhoogt advies Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/862835/Beursblik-KBC-Securities-verhoogt-advies-Arcadis.aspx",
+    "intro": "KBC Securities heeft het advies voor Arcadis verhoogd van Houden naar Accumuleren en het koersdoel van 35,00 naar 42,00 euro. Dit bleek maandag uit een rapport van analist Kristof Samoy.",
+    "published_at": "2026-05-04 09:22",
+    "scraped_at": "2026-05-04T07:47:31.155890"
   },
   {
-    "id": "9278f04864a4ae662310d868fb7303f4",
-    "categorie": "",
-    "titel": "Vooruitblik: 8 bedrijven om komende week in de gaten te houden",
-    "link": "https://www.iex.nl/artikel/862748/Vooruitblik-8-bedrijven-om-komende-week-in-de-gaten-te-houden.aspx",
-    "intro": "",
-    "published_at": "2026-05-03 11:00",
-    "scraped_at": "2026-05-04T04:54:45.807341"
+    "id": "54bebed198eb2fdef3188d3107bf635e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX vlak van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/862832/Beursupdate-AEX-vlak-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 0,2 procent hoger op 1.016 punten, terwijl de Midkap een procent won.",
+    "published_at": "2026-05-04 09:12",
+    "scraped_at": "2026-05-04T07:47:31.155890"
   },
   {
-    "id": "4f0418d4fb4b3ebc21b8875b8096b167",
+    "id": "5de011e306dd7ca9b3f65611d6188845",
     "categorie": "Beursnieuws",
-    "titel": "Meer winst voor Berkshire Hathaway",
-    "link": "https://www.beurs.nl/Nieuws/862767/Meer-winst-voor-Berkshire-Hathaway.aspx",
-    "intro": "Berkshire Hathaway heeft in het eerste kwartaal de resultaten zien stijgen, net als de kaspositie. Dit bleek zaterdag uit cijfers van het investeringsvehikel opgericht door Warren Buffett, maar dat sinds kort wordt geleid door CEO Greg Abel.",
-    "published_at": "2026-05-03 10:50",
-    "scraped_at": "2026-05-04T04:54:45.807341"
+    "titel": "Applied Materials koopt NEXX van ASMPT",
+    "link": "https://www.beurs.nl/Nieuws/862826/Applied-Materials-koopt-NEXX-van-ASMPT.aspx",
+    "intro": "Applied Materials heeft een akkoord bereikt met ASMPT over de overname van NEXX. Dit maakte het Amerikaanse bedrijf zondag bekend.",
+    "published_at": "2026-05-04 08:46",
+    "scraped_at": "2026-05-04T07:47:31.155890"
   },
   {
-    "id": "9501c95af3a406fe00b2defb150bbef4",
+    "id": "a1ee6205c7e670c349ab7a3799f5404f",
+    "categorie": "Voorbeurs",
+    "titel": "Mager plusje, Trump start 'Project Freedom' en GameStop aast op veel groter eBay",
+    "link": "https://www.beurs.nl/Artikel/862774/Mager-plusje-Trump-start-Project-Freedom-en-GameStop-aast-op-veel-groter-eBay.aspx",
+    "intro": "Openingsindicatie: +0,2%. Tarievenspel weer op de wagen. Olieprijzen dalen, bitcoin stijgt. GameStop wil eBay inlijven, desnoods vijandig. En verder: Berkshire zónder Buffett en SK Hynix door het dak.",
+    "published_at": "2026-05-04 08:30",
+    "scraped_at": "2026-05-04T07:47:31.155890"
+  },
+  {
+    "id": "4d813476b819861e0b3337e9f43ef603",
     "categorie": "Beursnieuws",
-    "titel": "Drukke cijferweek met succes voor Magnum en IMCD",
-    "link": "https://www.beurs.nl/Nieuws/862765/Drukke-cijferweek-met-succes-voor-Magnum-en-IMCD.aspx",
-    "intro": "De verkorte beursweek op het Damrak was goed gevuld met kwartaalcijfers. Magnum Ice ging na cijfers aan kop. De kwartaalresultaten van het ijsbedrijf vielen Jefferies mee, waarbij de bank wel aantekende dat het eerste kwartaal een relatief onbelangrijk kwartaal is voor Magnum.",
-    "published_at": "2026-05-03 10:18",
-    "scraped_at": "2026-05-04T04:54:45.807341"
+    "titel": "AEX na lang weekend vermoedelijk licht hoger van start",
+    "link": "https://www.beurs.nl/Nieuws/862818/AEX-na-lang-weekend-vermoedelijk-licht-hoger-van-start.aspx",
+    "intro": "De Amsterdamse beurs maakt zich maandag op voor een licht hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,2 procent. In Londen blijft de beurs vandaag gesloten vanwege een bank holiday.",
+    "published_at": "2026-05-04 08:15",
+    "scraped_at": "2026-05-04T07:47:31.155890"
+  },
+  {
+    "id": "e51531375f0f8707abf25ce33e406da5",
+    "categorie": "Beursnieuws",
+    "titel": "Arcadis aan de slag voor GVB in Amsterdam",
+    "link": "https://www.beurs.nl/Nieuws/862816/Arcadis-aan-de-slag-voor-GVB-in-Amsterdam.aspx",
+    "intro": "Arcadis gaat samen met twee andere partijen aan de slag voor het GVB in Amsterdam. Dit maakte het advies- en ingenieursbureau maandagochtend bekend.",
+    "published_at": "2026-05-04 07:58",
+    "scraped_at": "2026-05-04T07:47:31.155890"
+  },
+  {
+    "id": "cf6c6fd36bee1c5f3fc887d8aafb1b00",
+    "categorie": "Beursnieuws",
+    "titel": "Beurs in Seoel scherpt overtuigend recordstand aan",
+    "link": "https://www.beurs.nl/Nieuws/862810/Beurs-in-Seoel-scherpt-overtuigend-recordstand-aan.aspx",
+    "intro": "De Aziatische beurzen vonden maandagochtend onder aanvoering van techaandelen overwegend de weg omhoog, terwijl in China en Japan de deuren gesloten bleven vanwege een feestdag.",
+    "published_at": "2026-05-04 07:23",
+    "scraped_at": "2026-05-04T07:47:31.155890"
+  },
+  {
+    "id": "48cd049adafcb217ffe02d9dcd81cfe6",
+    "categorie": "Beursnieuws",
+    "titel": "GameStop brengt bod uit op eBay",
+    "link": "https://www.beurs.nl/Nieuws/862809/GameStop-brengt-bod-uit-op-eBay.aspx",
+    "intro": "GameStop heeft een niet-bindend bod van 125,00 dollar per aandeel Ebay uitgebracht. Dit maakte GameStop zondag bekend.",
+    "published_at": "2026-05-04 07:22",
+    "scraped_at": "2026-05-04T07:47:31.155890"
+  },
+  {
+    "id": "19569b7e0d3077a15ef68b047380fee1",
+    "categorie": "Beursnieuws",
+    "titel": "Flinke groeiversnelling voor Nederlandse industrie",
+    "link": "https://www.beurs.nl/Nieuws/862808/Flinke-groeiversnelling-voor-Nederlandse-industrie.aspx",
+    "intro": "De industrie in Nederland is in april nog harder gegroeid. Dit bleek maandag uit de inkoopmanagersindex van NEVI.",
+    "published_at": "2026-05-04 07:17",
+    "scraped_at": "2026-05-04T07:47:31.155890"
   }
 ]
