@@ -1,92 +1,92 @@
 [
   {
-    "id": "dbe4ea4d252acbb65038f1b7d622b952",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/862959/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag alle zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. Alleen Unilever won terrein.",
-    "published_at": "2026-05-04 23:26",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "id": "ca1028838d5e69498c275470de9690cf",
+    "categorie": "IEX Nieuws",
+    "titel": "Deze twee aandelen zijn klaar voor een comeback volgens beleggingsexperts",
+    "link": "https://www.beurs.nl/Artikel/862779/Deze-twee-aandelen-zijn-klaar-voor-een-comeback-volgens-beleggingsexperts.aspx",
+    "intro": "Meer dan de helft van de beleggingsprofessionals verwacht dat mei een zwakke beursmaand wordt, zo blijkt uit de beursenquête van Corné van Zeijl van Cardano. Toch zien ze bij een paar achterblijvers juist ruimte voor herstel.",
+    "published_at": "2026-05-05 09:00",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "8378fb81a6d45c79743074088396c480",
+    "id": "e8eb99b28e343ff2489750f2dce8ad2d",
     "categorie": "Beursnieuws",
-    "titel": "Weinig groei bij Paramount Skydance",
-    "link": "https://www.beurs.nl/Nieuws/862958/Weinig-groei-bij-Paramount-Skydance.aspx",
-    "intro": "Paramount Skydance zag de omzet in het eerste kwartaal nog licht stijgen, maar in het tweede kwartaal zit dat er niet in, waarschuwde het mediabedrijf maandag nabeurs.",
-    "published_at": "2026-05-04 23:09",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "Beursblik: Berenberg verlaagt koersdoel Magnum Ice",
+    "link": "https://www.beurs.nl/Nieuws/862993/Beursblik-Berenberg-verlaagt-koersdoel-Magnum-Ice.aspx",
+    "intro": "Berenberg heeft dinsdag het koersdoel voor de Magnum Ice Cream Company verlaagd van 14,90 naar 14,20 euro, maar met handhaving van het Houden advies. Dit kwam naar voren uit een rapport van analist Ana Nogueira.",
+    "published_at": "2026-05-05 08:34",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "46f2a9927abec9b6d1d8de1b49eb4bd1",
+    "id": "e38f799a3f7c6b31ad13a81d1e733094",
     "categorie": "Beursnieuws",
-    "titel": "Software Palantir gewild bij overheden",
-    "link": "https://www.beurs.nl/Nieuws/862956/Software-Palantir-gewild-bij-overheden.aspx",
-    "intro": "Palantir Technologies heeft de winst in het afgelopen kwartaal ruim verdubbeld terwijl de omzet sterk steeg, door de verkoop van AI-producten, vooral aan overheidsinstanties, terwijl de verkoop aan private klanten achterbleef bij de verwachtingen.",
-    "published_at": "2026-05-04 22:46",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "AEX start handelsdag vermoedelijk terughoudend",
+    "link": "https://www.beurs.nl/Nieuws/862988/AEX-start-handelsdag-vermoedelijk-terughoudend.aspx",
+    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een min of meer vlakke opening. Futures op de AEX index kwamen ongeveer een uur voor de beursgong nog niet echt van hun plaats.",
+    "published_at": "2026-05-05 08:00",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "b44b165cd19b69a145aef4f0287978c2",
+    "id": "7568a9d3863e7a98edd7fc8e8ed12eb5",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit lager na oplaaien conflict Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/862955/Wall-Street-sluit-lager-na-oplaaien-conflict-Midden-Oosten.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen zijn maandagavond lager gesloten na Iraanse aanvallen op doelwitten rond de Straat van Hormuz. Postbedrijven gingen onderuit op een concurrerende dienst van Amazon, terwijl crypto-gerelateerde aandelen het goed deden.",
-    "published_at": "2026-05-04 22:26",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "Beursblik: Jefferies verhoogt koersdoelen Azelis en IMCD",
+    "link": "https://www.beurs.nl/Nieuws/862987/Beursblik-Jefferies-verhoogt-koersdoelen-Azelis-en-IMCD.aspx",
+    "intro": "Jefferies heeft dinsdag de koersdoelen voor Azelis en IMCD verhoogd en beide aandelen op de kooplijst gehandhaafd. Dit bleek uit een rapport van analist David Kerstens.",
+    "published_at": "2026-05-05 07:51",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "21ebef6f8cb7c8d87fe7bc425b032e2f",
+    "id": "76ed7880f62f06c82609e2d7098c8d9d",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt",
-    "link": "https://www.beurs.nl/Nieuws/862949/Olieprijs-stijgt.aspx",
-    "intro": "De oliefutures zijn maandag hoger gesloten, tot de hoogste niveaus sinds het begin van de oorlog, nadat Iran een oliefaciliteit van de Verenigde Arabische Emiraten en een aantal schepen trof met raketvuur.",
-    "published_at": "2026-05-04 22:06",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "Theon dichtbij overname van Franse Merio",
+    "link": "https://www.beurs.nl/Nieuws/862982/Theon-dichtbij-overname-van-Franse-Merio.aspx",
+    "intro": "Het bedrijf voert exclusieve onderhandelingen over de overname van een belang van 80% in Merio: een fabrikant van compacte ophang- en draaisystemen voor onder meer drones.",
+    "published_at": "2026-05-05 07:21",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "3fd4d3e812d065356917bc074cfd0d23",
+    "id": "3cb6853c0ad4936b64ced216d6a0a41d",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies plaatst claims Hunterbrook in perspectief",
-    "link": "https://www.beurs.nl/Nieuws/862948/Beursblik-Jefferies-plaatst-claims-Hunterbrook-in-perspectief.aspx",
-    "intro": "Analisten van Jefferies hebben maandagavond gereageerd de claims in een rapport van Hunterbrook waarin de shortsellers kritiek uiten op de gang van zaken bij de Tsjechische defensiefabrikant Czechoslovak Group (CSG), die sinds enige tijd een beursnotering in Amsterdam heeft.",
-    "published_at": "2026-05-04 21:56",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "Aziatische beurzen noteren overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/862977/Aziatische-beurzen-noteren-overwegend-lager.aspx",
+    "intro": "De Aziatische beurzen gaven dinsdag overwegend terrein prijs, waarbij de Hang Seng index in Hongkong de grootste daler was met een verlies van meer dan een procent. Onder meer de beurzen in Tokio en Seoel bleven gesloten vanwege een feestdag, net als die op het Chinese vasteland.",
+    "published_at": "2026-05-05 07:05",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "42290e5853fa777f931d6f82ec5e07df",
+    "id": "131c7d49f44cd52964d8dd1bad64be16",
     "categorie": "Beursnieuws",
-    "titel": "Aanvallen in Straat van Hormuz drukken Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/862943/Aanvallen-in-Straat-van-Hormuz-drukken-Wall-Street.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen stonden maandagavond lager nadat de geopolitieke spanningen in de Straat van Hormuz dreigden te escaleren. Postbedrijven gingen onderuit op een concurrerende dienst van Amazon, terwijl crypto-gerelateerde aandelen het goed deden.",
-    "published_at": "2026-05-04 21:01",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "Europese beurzen openen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/862976/Europese-beurzen-openen-in-het-rood.aspx",
+    "intro": "De Europese beurzen gaan dinsdag een rode opening tegemoet, na de verliezen maandagavond op Wall Street.",
+    "published_at": "2026-05-05 06:53",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "a605aa9adba68789dc00c1028f1700cd",
+    "id": "81854b856f0482517734b3ed5638dc2c",
     "categorie": "Beursnieuws",
-    "titel": "HAL verkoopt belang in Chileens optiekbedrijf",
-    "link": "https://www.beurs.nl/Nieuws/862940/HAL-verkoopt-belang-in-Chileens-optiekbedrijf.aspx",
-    "intro": "HAL heeft zijn belang in de optiekwinkelketen Rotter y Kraus verkocht aan een Chileens retailbedrijf. Dat maakte de investeerder maandag bekend.",
-    "published_at": "2026-05-04 19:41",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/862972/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 12 mei 2026:",
+    "published_at": "2026-05-05 06:46",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "1ec60f250dd9fc29dd7b5e92627fcc13",
+    "id": "af74b72951159a985a81d4f6771f8c90",
     "categorie": "Beursnieuws",
-    "titel": "Rode weekstart op Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/862937/Rode-weekstart-op-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen zijn maandag in het rood gesloten.",
-    "published_at": "2026-05-04 19:22",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/862973/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 12 mei 2026:",
+    "published_at": "2026-05-05 06:46",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   },
   {
-    "id": "8cc6951fe99734b4a17cb4c7847dc0aa",
+    "id": "d4037dfc7b9332e7424baa4d1c949d1b",
     "categorie": "Beursnieuws",
-    "titel": "CSG wijst beschuldigingen Hunterbrook van de hand",
-    "link": "https://www.beurs.nl/Nieuws/862934/CSG-wijst-beschuldigingen-Hunterbrook-van-de-hand.aspx",
-    "intro": "CSG heeft maandagavond de conclusies over het bedrijf in een rapport van Hunterbrook Media weersproken, maar liet tegelijk weten de aantijgingen nog te bestuderen.",
-    "published_at": "2026-05-04 19:05",
-    "scraped_at": "2026-05-05T04:35:42.683280"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/862974/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 12 mei 2026:",
+    "published_at": "2026-05-05 06:46",
+    "scraped_at": "2026-05-05T07:06:55.541993"
   }
 ]
