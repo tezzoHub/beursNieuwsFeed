@@ -1,12 +1,39 @@
 [
   {
+    "id": "8c05f67b1b00b8f5321a7604ad30c204",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt weer",
+    "link": "https://www.beurs.nl/Nieuws/863102/Olieprijs-daalt-weer.aspx",
+    "intro": "De olieprijs is dinsdag gedaald, nadat de Amerikaanse regering liet weten dat Iraanse aanvallen niet het einde betekenen van het wapenstilstand, terwijl de VS bezig is om schepen door de Straat van Hormuz te loodsen.",
+    "published_at": "2026-05-05 21:33",
+    "scraped_at": "2026-05-05T19:43:01.440722"
+  },
+  {
+    "id": "7d1d81b7f668d53640761cbbe392feb8",
+    "categorie": "Beursnieuws",
+    "titel": "Technologie stuwt Wall Street naar nieuwe toppen",
+    "link": "https://www.beurs.nl/Nieuws/863098/Technologie-stuwt-Wall-Street-naar-nieuwe-toppen.aspx",
+    "intro": "De Amerikaanse beurzen noteerden dinsdag hoger, geleid door technologie en geholpen door dalende olieprijzen, die wijzen op dalende spanning in het Midden-Oosten. Micron en Intel waren geliefd maar Palantir en PayPal gingen onderuit.",
+    "published_at": "2026-05-05 20:57",
+    "scraped_at": "2026-05-05T19:43:01.440722"
+  },
+  {
+    "id": "05f41b4da57118ee31f426d9d43c1066",
+    "categorie": "Beursnieuws",
+    "titel": "SEC wil halfjaarlijkse rapportage toestaan",
+    "link": "https://www.beurs.nl/Nieuws/863094/SEC-wil-halfjaarlijkse-rapportage-toestaan.aspx",
+    "intro": "De Amerikaanse beurswaakhond SEC stelt voor om beursgenoteerde bedrijven de keuze te geven tussen kwartaal- en halfjaarlijkse rapportages. Dat maakte de toezichthouder dinsdag bekend.",
+    "published_at": "2026-05-05 20:09",
+    "scraped_at": "2026-05-05T19:43:01.440722"
+  },
+  {
     "id": "02cf613b9386a2eba1fb610541113cd5",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten hoger ondanks onrust in Midden-Oosten",
     "link": "https://www.beurs.nl/Nieuws/863087/Europese-beurzen-sluiten-hoger-ondanks-onrust-in-Midden-Oosten.aspx",
     "intro": "De Europese beurzen zijn dinsdag hoger gesloten, ondanks de fragiele situatie in het Midden-Oosten.",
     "published_at": "2026-05-05 19:00",
-    "scraped_at": "2026-05-05T17:56:53.532486"
+    "scraped_at": "2026-05-05T19:43:01.440722"
   },
   {
     "id": "b042933ae00e0ce8a53849cc22d3a5ea",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/863081/Chippers-helpen-AEX-aan-groen-slot.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, geholpen door sterke winsten bij de chipfondsen en dalende olieprijzen nadat de Amerikaanse minister van Defensie Pete Hegseth bevestigde dat het staakt-het-vuren tussen de VS en Iran van kracht bleef.",
     "published_at": "2026-05-05 17:45",
-    "scraped_at": "2026-05-05T17:56:53.532486"
+    "scraped_at": "2026-05-05T19:43:01.440722"
   },
   {
     "id": "59c3448928fb90a04328b607db3b767d",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863063/Nieuwe-woningverkopen-VS-gestegen.aspx",
     "intro": "Er zijn in maart meer nieuwe eengezinswoningen verkocht in de Verenigde Staten dan in de maand ervoor. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-05-05 16:25",
-    "scraped_at": "2026-05-05T17:56:53.532486"
+    "scraped_at": "2026-05-05T19:43:01.440722"
   },
   {
     "id": "77391ac092171aef0230163f2dea075d",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863059/Aantal-vacatures-in-VS-gelijk-gebleven.aspx",
     "intro": "Het aantal vacatures in de Verenigde Staten is in maart nagenoeg gelijk gebleven ten opzichte van een jaar eerder. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-05-05 16:12",
-    "scraped_at": "2026-05-05T17:56:53.532486"
+    "scraped_at": "2026-05-05T19:43:01.440722"
   },
   {
     "id": "1fd26df8560515a59f387b6c0e7f5450",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863060/ISM-groei-Amerikaanse-dienstensector-vertraagt.aspx",
     "intro": "De Amerikaanse dienstensector is in april minder hard gegroeid dan een maand eerder, net als in maart. Dit bleek dinsdag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-05-05 16:12",
-    "scraped_at": "2026-05-05T17:56:53.532486"
+    "scraped_at": "2026-05-05T19:43:01.440722"
   },
   {
     "id": "3181f25c921e4ee75e0aa4ec22f6e9db",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863055/SP-Amerikaanse-dienstensector-groeit-weer-in-april.aspx",
     "intro": "De activiteit in de Amerikaanse dienstensector is in april weer licht gegroeid. Dit bleek dinsdag cijfers van SP Global.",
     "published_at": "2026-05-05 16:01",
-    "scraped_at": "2026-05-05T17:56:53.532486"
+    "scraped_at": "2026-05-05T19:43:01.440722"
   },
   {
     "id": "8730d6926c856447d8a839309d43bf9f",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863050/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 13 mei 2026:WOENSDAG 6 MEI 2026",
     "published_at": "2026-05-05 15:50",
-    "scraped_at": "2026-05-05T17:56:53.532486"
-  },
-  {
-    "id": "f6874bbc8d69e4cc934aaa4543673a23",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/863051/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 13 mei 2026:",
-    "published_at": "2026-05-05 15:50",
-    "scraped_at": "2026-05-05T17:56:53.532486"
-  },
-  {
-    "id": "1fce5df808622242e75c77ef8227d995",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/863049/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 13 mei 2026:WOENSDAG 6 MEI 2026",
-    "published_at": "2026-05-05 15:49",
-    "scraped_at": "2026-05-05T17:56:53.532486"
-  },
-  {
-    "id": "07c52e51a89c7e801d110d2cb5d0bf31",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op groene opening",
-    "link": "https://www.beurs.nl/Nieuws/863043/Wall-Street-koerst-af-op-groene-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, terwijl beleggers de oplopende spanningen in het Midden-Oosten scherp in de gaten houden en verschillende kwartaalcijfers verwerken.",
-    "published_at": "2026-05-05 15:06",
-    "scraped_at": "2026-05-05T17:56:53.532486"
+    "scraped_at": "2026-05-05T19:43:01.440722"
   }
 ]
