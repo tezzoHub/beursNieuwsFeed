@@ -1,12 +1,30 @@
 [
   {
+    "id": "515e5376df32a0f65a03230aa3fac33c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/863118/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten en vier hoger.",
+    "published_at": "2026-05-05 22:47",
+    "scraped_at": "2026-05-05T21:45:46.306298"
+  },
+  {
+    "id": "ec9029abe1d1cc87de898e93d849251e",
+    "categorie": "Beursnieuws",
+    "titel": "Koerssprong voor Super Micro Computer",
+    "link": "https://www.beurs.nl/Nieuws/863117/Koerssprong-voor-Super-Micro-Computer.aspx",
+    "intro": "Super Micro heeft in het afgelopen kwartaal minder omzet geboekt dan in het voorgaande kwartaal, maar zag de aandelenkoers dinsdag nabeurs omhoogschieten dankzij een sterke outlook. Dat bleek dinsdag nabeurs uit de update van de Amerikaanse fabrikant van servers.",
+    "published_at": "2026-05-05 22:44",
+    "scraped_at": "2026-05-05T21:45:46.306298"
+  },
+  {
     "id": "a8288158d08522e4477e63d1eeebe39d",
     "categorie": "Beursnieuws",
     "titel": "Winst Theon groeit harder dan omzet",
     "link": "https://www.beurs.nl/Nieuws/863114/Winst-Theon-groeit-harder-dan-omzet.aspx",
     "intro": "Theon International heeft in het eerste kwartaal de omzet en de winst hard zien stijgen. Dit bleek dinsdagavond uit de cijfers van de Griekse maker van militaire nachtkijkers met een notering aan het Amsterdamse Damrak.",
     "published_at": "2026-05-05 22:31",
-    "scraped_at": "2026-05-05T20:45:54.291406"
+    "scraped_at": "2026-05-05T21:45:46.306298"
   },
   {
     "id": "7ab4dafaffc24d56b7c82c839ed0e46b",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/863110/Aandeel-AMD-meer-waard-na-kwartaalupdate.aspx",
     "intro": "Advanced Micro Devices heeft in het eerste kwartaal de winst bijna verdubbeld, terwijl de omzet sterker dan verwacht steeg en ook de vooruitblik veelbelovend bleek. Dat bleek dinsdagavond uit de kwartaalupdate van het Amerikaanse microprocessorenbedrijf.",
     "published_at": "2026-05-05 22:29",
-    "scraped_at": "2026-05-05T20:45:54.291406"
+    "scraped_at": "2026-05-05T21:45:46.306298"
   },
   {
     "id": "e88c8f909d6866f6445d63498d637604",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/863107/Wall-Street-stijgt-naar-nieuwe-toppen.aspx",
     "intro": "De Amerikaanse beurzen zijn dinsdag hoger gesloten, aangevoerd door de technologiesector en geholpen door dalende olieprijzen, die wijzen op dalende spanning in het Midden-Oosten. Micron en Intel waren geliefd maar Palantir en PayPal gingen onderuit.",
     "published_at": "2026-05-05 22:18",
-    "scraped_at": "2026-05-05T20:45:54.291406"
+    "scraped_at": "2026-05-05T21:45:46.306298"
   },
   {
     "id": "8c05f67b1b00b8f5321a7604ad30c204",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863102/Olieprijs-daalt-weer.aspx",
     "intro": "De olieprijs is dinsdag gedaald, nadat de Amerikaanse regering liet weten dat Iraanse aanvallen niet het einde betekenen van het wapenstilstand, terwijl de VS bezig is om schepen door de Straat van Hormuz te loodsen.",
     "published_at": "2026-05-05 21:33",
-    "scraped_at": "2026-05-05T20:45:54.291406"
+    "scraped_at": "2026-05-05T21:45:46.306298"
   },
   {
     "id": "7d1d81b7f668d53640761cbbe392feb8",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863098/Technologie-stuwt-Wall-Street-naar-nieuwe-toppen.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag hoger, geleid door technologie en geholpen door dalende olieprijzen, die wijzen op dalende spanning in het Midden-Oosten. Micron en Intel waren geliefd maar Palantir en PayPal gingen onderuit.",
     "published_at": "2026-05-05 20:57",
-    "scraped_at": "2026-05-05T20:45:54.291406"
+    "scraped_at": "2026-05-05T21:45:46.306298"
   },
   {
     "id": "05f41b4da57118ee31f426d9d43c1066",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863094/SEC-wil-halfjaarlijkse-rapportage-toestaan.aspx",
     "intro": "De Amerikaanse beurswaakhond SEC stelt voor om beursgenoteerde bedrijven de keuze te geven tussen kwartaal- en halfjaarlijkse rapportages. Dat maakte de toezichthouder dinsdag bekend.",
     "published_at": "2026-05-05 20:09",
-    "scraped_at": "2026-05-05T20:45:54.291406"
+    "scraped_at": "2026-05-05T21:45:46.306298"
   },
   {
     "id": "02cf613b9386a2eba1fb610541113cd5",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863087/Europese-beurzen-sluiten-hoger-ondanks-onrust-in-Midden-Oosten.aspx",
     "intro": "De Europese beurzen zijn dinsdag hoger gesloten, ondanks de fragiele situatie in het Midden-Oosten.",
     "published_at": "2026-05-05 19:00",
-    "scraped_at": "2026-05-05T20:45:54.291406"
+    "scraped_at": "2026-05-05T21:45:46.306298"
   },
   {
     "id": "b042933ae00e0ce8a53849cc22d3a5ea",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863081/Chippers-helpen-AEX-aan-groen-slot.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, geholpen door sterke winsten bij de chipfondsen en dalende olieprijzen nadat de Amerikaanse minister van Defensie Pete Hegseth bevestigde dat het staakt-het-vuren tussen de VS en Iran van kracht bleef.",
     "published_at": "2026-05-05 17:45",
-    "scraped_at": "2026-05-05T20:45:54.291406"
-  },
-  {
-    "id": "59c3448928fb90a04328b607db3b767d",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe woningverkopen VS gestegen",
-    "link": "https://www.beurs.nl/Nieuws/863063/Nieuwe-woningverkopen-VS-gestegen.aspx",
-    "intro": "Er zijn in maart meer nieuwe eengezinswoningen verkocht in de Verenigde Staten dan in de maand ervoor. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
-    "published_at": "2026-05-05 16:25",
-    "scraped_at": "2026-05-05T20:45:54.291406"
-  },
-  {
-    "id": "77391ac092171aef0230163f2dea075d",
-    "categorie": "Beursnieuws",
-    "titel": "Aantal vacatures in VS gelijk gebleven",
-    "link": "https://www.beurs.nl/Nieuws/863059/Aantal-vacatures-in-VS-gelijk-gebleven.aspx",
-    "intro": "Het aantal vacatures in de Verenigde Staten is in maart nagenoeg gelijk gebleven ten opzichte van een jaar eerder. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-05-05 16:12",
-    "scraped_at": "2026-05-05T20:45:54.291406"
+    "scraped_at": "2026-05-05T21:45:46.306298"
   }
 ]
