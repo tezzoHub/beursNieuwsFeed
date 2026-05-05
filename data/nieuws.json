@@ -1,21 +1,84 @@
 [
   {
-    "id": "ca1028838d5e69498c275470de9690cf",
-    "categorie": "IEX Nieuws",
-    "titel": "Deze twee aandelen zijn klaar voor een comeback volgens beleggingsexperts",
-    "link": "https://www.beurs.nl/Artikel/862779/Deze-twee-aandelen-zijn-klaar-voor-een-comeback-volgens-beleggingsexperts.aspx",
-    "intro": "Meer dan de helft van de beleggingsprofessionals verwacht dat mei een zwakke beursmaand wordt, zo blijkt uit de beursenquête van Corné van Zeijl van Cardano. Toch zien ze bij een paar achterblijvers juist ruimte voor herstel.",
-    "published_at": "2026-05-05 09:00",
-    "scraped_at": "2026-05-05T07:06:55.541993"
+    "id": "73feb30c362ecdb76c5cb3c0b9e6cd13",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX bouwt winst uit",
+    "link": "https://www.beurs.nl/Nieuws/863016/Beursupdate-AEX-bouwt-winst-uit.aspx",
+    "intro": "De Amsterdamse beurs heeft dinsdagochtend de winsten uitgebouwd, waarbij de AEX 0,9 procent steeg naar 1.014 punten.",
+    "published_at": "2026-05-05 11:14",
+    "scraped_at": "2026-05-05T09:24:38.541358"
   },
   {
-    "id": "e8eb99b28e343ff2489750f2dce8ad2d",
+    "id": "74f6ba0f424d096a610093426233e467",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Berenberg verlaagt koersdoel Magnum Ice",
-    "link": "https://www.beurs.nl/Nieuws/862993/Beursblik-Berenberg-verlaagt-koersdoel-Magnum-Ice.aspx",
+    "titel": "Kwartaalomzet Rheinmetall schiet tekort",
+    "link": "https://www.beurs.nl/Nieuws/863009/Kwartaalomzet-Rheinmetall-schiet-tekort.aspx",
+    "intro": "Rheinmetall heeft in het eerste kwartaal niet aan de omzetverwachtingen weten te voldoen, maar liet weten te rekenen op een sterk tweede kwartaal. Dit meldde de Duitse defensiegigant in een persbericht met voorlopige cijfers.",
+    "published_at": "2026-05-05 10:36",
+    "scraped_at": "2026-05-05T09:24:38.541358"
+  },
+  {
+    "id": "3acc3664daeee970d5224d83dd2bb632",
+    "categorie": "Beursnieuws",
+    "titel": "CVC verkoopt belang in Hermes Transportes Blindados",
+    "link": "https://www.beurs.nl/Nieuws/863005/CVC-verkoopt-belang-in-Hermes-Transportes-Blindados.aspx",
+    "intro": "CVC Capital heeft een akkoord bereikt over de verkoop van zijn volledig belang in Hermes Transportes Blindados aan Loomis voor een ondernemingswaarde van 4 miljard Zweedse kroon, omgerekend circa 370 miljoen euro. Dit meldde CVC dinsdag in een persbericht.",
+    "published_at": "2026-05-05 10:09",
+    "scraped_at": "2026-05-05T09:24:38.541358"
+  },
+  {
+    "id": "0dd7f1cc6de668f10645536f0567d5c3",
+    "categorie": "IEX",
+    "titel": "Must read: Winstgroei Magnificent 7 is verbluffend",
+    "link": "https://www.iex.nl/artikel/862852/Must-read-Winstgroei-Magnificent-7-is-verbluffend.aspx",
+    "intro": "Plus: economisch stoplicht op oranje, AFM adviseert spaarders te gaan beleggen, 5 ondergewaardeerde defensie-aandelen, pharmasector valt uit elkaar, en veel meer.",
+    "published_at": "2026-05-05 10:00",
+    "scraped_at": "2026-05-05T09:24:38.541358"
+  },
+  {
+    "id": "fbe0276306ae6b9158dfd3a96f173692",
+    "categorie": "Beursnieuws",
+    "titel": "UniCredit boekt recordkwartaal",
+    "link": "https://www.beurs.nl/Nieuws/863002/UniCredit-boekt-recordkwartaal.aspx",
+    "intro": "UniCredit heeft een recordkwartaal achter de rug en verhoogde de outlook voor heel 2026. Dit bleek dinsdag uit cijfers van de Italiaanse bank.",
+    "published_at": "2026-05-05 09:46",
+    "scraped_at": "2026-05-05T09:24:38.541358"
+  },
+  {
+    "id": "52775cd5c684fbe666d2fc0c27d2d852",
+    "categorie": "Beurstips",
+    "titel": "Sentimentspeiling: beleggers zetten dit AEX-zwaargewicht op verkopen",
+    "link": "https://www.belegger.nl/artikel/862707/Sentimentspeiling-beleggers-zetten-dit-AEX-zwaargewicht-op-verkopen.aspx",
+    "intro": "De verwachtingen worden door beleggers over de gehele linie opgeschroefd, zo blijkt uit de nieuwste meting van het Nationaal Beleggerssentiment door IEX. Er deden dit keer 993 beleggers mee aan onze enquête.",
+    "published_at": "2026-05-05 09:20",
+    "scraped_at": "2026-05-05T09:24:38.541358"
+  },
+  {
+    "id": "0b571419ee3d56ab78a1c3e43e302989",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/862999/AEX-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,4 procent hoger op 1.009,41 punten, terwijl de Midkap 0,1 procent won.",
+    "published_at": "2026-05-05 09:11",
+    "scraped_at": "2026-05-05T09:24:38.541358"
+  },
+  {
+    "id": "3e66c5aa7662813d36bc489c3f4164a6",
+    "categorie": "IEX Nieuws",
+    "titel": "Deze twee aandelen zijn volgens beleggingsexperts klaar voor een comeback",
+    "link": "https://www.beurs.nl/Artikel/862779/Deze-twee-aandelen-zijn-volgens-beleggingsexperts-klaar-voor-een-comeback.aspx",
+    "intro": "Meer dan de helft van de beleggingsprofessionals verwacht dat mei een zwakke beursmaand wordt, zo blijkt uit de beursenquête van Corné van Zeijl van Cardano. Toch zien ze bij een paar achterblijvers juist ruimte voor herstel.",
+    "published_at": "2026-05-05 09:00",
+    "scraped_at": "2026-05-05T09:24:38.541358"
+  },
+  {
+    "id": "92d51737e9f3b04d03b12988c84679ec",
+    "categorie": "Beursnieuws",
+    "titel": "Berenberg verlaagt koersdoel Magnum Ice",
+    "link": "https://www.beurs.nl/Nieuws/862993/Berenberg-verlaagt-koersdoel-Magnum-Ice.aspx",
     "intro": "Berenberg heeft dinsdag het koersdoel voor de Magnum Ice Cream Company verlaagd van 14,90 naar 14,20 euro, maar met handhaving van het Houden advies. Dit kwam naar voren uit een rapport van analist Ana Nogueira.",
     "published_at": "2026-05-05 08:34",
-    "scraped_at": "2026-05-05T07:06:55.541993"
+    "scraped_at": "2026-05-05T09:24:38.541358"
   },
   {
     "id": "e38f799a3f7c6b31ad13a81d1e733094",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/862988/AEX-start-handelsdag-vermoedelijk-terughoudend.aspx",
     "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een min of meer vlakke opening. Futures op de AEX index kwamen ongeveer een uur voor de beursgong nog niet echt van hun plaats.",
     "published_at": "2026-05-05 08:00",
-    "scraped_at": "2026-05-05T07:06:55.541993"
-  },
-  {
-    "id": "7568a9d3863e7a98edd7fc8e8ed12eb5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoelen Azelis en IMCD",
-    "link": "https://www.beurs.nl/Nieuws/862987/Beursblik-Jefferies-verhoogt-koersdoelen-Azelis-en-IMCD.aspx",
-    "intro": "Jefferies heeft dinsdag de koersdoelen voor Azelis en IMCD verhoogd en beide aandelen op de kooplijst gehandhaafd. Dit bleek uit een rapport van analist David Kerstens.",
-    "published_at": "2026-05-05 07:51",
-    "scraped_at": "2026-05-05T07:06:55.541993"
-  },
-  {
-    "id": "76ed7880f62f06c82609e2d7098c8d9d",
-    "categorie": "Beursnieuws",
-    "titel": "Theon dichtbij overname van Franse Merio",
-    "link": "https://www.beurs.nl/Nieuws/862982/Theon-dichtbij-overname-van-Franse-Merio.aspx",
-    "intro": "Het bedrijf voert exclusieve onderhandelingen over de overname van een belang van 80% in Merio: een fabrikant van compacte ophang- en draaisystemen voor onder meer drones.",
-    "published_at": "2026-05-05 07:21",
-    "scraped_at": "2026-05-05T07:06:55.541993"
-  },
-  {
-    "id": "3cb6853c0ad4936b64ced216d6a0a41d",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren overwegend lager",
-    "link": "https://www.beurs.nl/Nieuws/862977/Aziatische-beurzen-noteren-overwegend-lager.aspx",
-    "intro": "De Aziatische beurzen gaven dinsdag overwegend terrein prijs, waarbij de Hang Seng index in Hongkong de grootste daler was met een verlies van meer dan een procent. Onder meer de beurzen in Tokio en Seoel bleven gesloten vanwege een feestdag, net als die op het Chinese vasteland.",
-    "published_at": "2026-05-05 07:05",
-    "scraped_at": "2026-05-05T07:06:55.541993"
-  },
-  {
-    "id": "131c7d49f44cd52964d8dd1bad64be16",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het rood",
-    "link": "https://www.beurs.nl/Nieuws/862976/Europese-beurzen-openen-in-het-rood.aspx",
-    "intro": "De Europese beurzen gaan dinsdag een rode opening tegemoet, na de verliezen maandagavond op Wall Street.",
-    "published_at": "2026-05-05 06:53",
-    "scraped_at": "2026-05-05T07:06:55.541993"
-  },
-  {
-    "id": "81854b856f0482517734b3ed5638dc2c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/862972/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 12 mei 2026:",
-    "published_at": "2026-05-05 06:46",
-    "scraped_at": "2026-05-05T07:06:55.541993"
-  },
-  {
-    "id": "af74b72951159a985a81d4f6771f8c90",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/862973/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 12 mei 2026:",
-    "published_at": "2026-05-05 06:46",
-    "scraped_at": "2026-05-05T07:06:55.541993"
-  },
-  {
-    "id": "d4037dfc7b9332e7424baa4d1c949d1b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/862974/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 12 mei 2026:",
-    "published_at": "2026-05-05 06:46",
-    "scraped_at": "2026-05-05T07:06:55.541993"
+    "scraped_at": "2026-05-05T09:24:38.541358"
   }
 ]
