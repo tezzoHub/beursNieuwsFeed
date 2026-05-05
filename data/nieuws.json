@@ -1,12 +1,48 @@
 [
   {
+    "id": "a98f248a7f559f2c90028fca511ae9fe",
+    "categorie": "Beursnieuws",
+    "titel": "PayPal groeit maar winstmarge krimpt",
+    "link": "https://www.beurs.nl/Nieuws/863034/PayPal-groeit-maar-winstmarge-krimpt.aspx",
+    "intro": "PayPal heeft in het eerste kwartaal van 2026 zowel de omzet- als winstverwachtingen overtroffen, maar de winstgevendheid stond onder druk. Dat bleek dinsdag uit de kwartaalcijfers van het Amerikaanse betaalbedrijf, dat de outlook voor heel het jaar herhaalde.",
+    "published_at": "2026-05-05 13:47",
+    "scraped_at": "2026-05-05T12:10:01.232891"
+  },
+  {
+    "id": "02a371cc39d0d9da8dc103bb2625f580",
+    "categorie": "Beursnieuws",
+    "titel": "Ferrari boekt sterke omzet maar winst nauwelijks hoger",
+    "link": "https://www.beurs.nl/Nieuws/863031/Ferrari-boekt-sterke-omzet-maar-winst-nauwelijks-hoger.aspx",
+    "intro": "Ferrari heeft in het eerste kwartaal van 2026 solide resultaten geboekt en de outlook voor het hele jaar herhaald. Dit maakte de Italiaanse sportwagenfabrikant dinsdagmiddag bekend.",
+    "published_at": "2026-05-05 13:11",
+    "scraped_at": "2026-05-05T12:10:01.232891"
+  },
+  {
+    "id": "bb4741600c324af02c7ce8282988ab91",
+    "categorie": "Beursnieuws",
+    "titel": "ASR neemt pensioenverplichtingen Bavaria over",
+    "link": "https://www.beurs.nl/Nieuws/863027/ASR-neemt-pensioenverplichtingen-Bavaria-over.aspx",
+    "intro": "Verzekeraar ASR heeft de pensioenverplichtingen van Kring Bavaria overgenomen van Centraal Beheer APF. Dit maakte ASR dinsdagmiddag bekend.",
+    "published_at": "2026-05-05 12:58",
+    "scraped_at": "2026-05-05T12:10:01.232891"
+  },
+  {
+    "id": "48205cad3b352cbde969fc5d63a7cf56",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street wijzen op hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/863028/Futures-Wall-Street-wijzen-op-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, terwijl de zorgen toenemen dat het conflict in het Midden-Oosten opnieuw zou kunnen escaleren.",
+    "published_at": "2026-05-05 12:58",
+    "scraped_at": "2026-05-05T12:10:01.232891"
+  },
+  {
     "id": "5607bd9ee38f511b8fcf6c722f12fba1",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: lagere omzet Ahold Delhaize verwacht",
     "link": "https://www.beurs.nl/Nieuws/863026/Beursblik-lagere-omzet-Ahold-Delhaize-verwacht.aspx",
     "intro": "Ahold Delhaize heeft in het eerste kwartaal vermoedelijk een lagere omzet geboekt dan een jaar eerder, terwijl de marge stabiel zou zijn gebleven. Dit blijkt uit de analistenconsensus die het supermarktbedrijf zelf samenstelde en publiceerde in aanloop naar de kwartaalcijfers op woensdagochtend.",
     "published_at": "2026-05-05 12:48",
-    "scraped_at": "2026-05-05T11:00:10.648656"
+    "scraped_at": "2026-05-05T12:10:01.232891"
   },
   {
     "id": "67dd2b5503bd26d7df53d2dcf77243f8",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863023/Media-Apple-zoekt-chipleveranciers-naast-TSMC.aspx",
     "intro": "Apple heeft verkennende gesprekken gevoerd met Intel en Samsung over de productie van zijn belangrijkste chips in de Verenigde Staten. Dat meldde Bloomberg dinsdag op basis van ingewijden.",
     "published_at": "2026-05-05 12:20",
-    "scraped_at": "2026-05-05T11:00:10.648656"
+    "scraped_at": "2026-05-05T12:10:01.232891"
   },
   {
     "id": "44b9327ed0f66ad2e95d78b03461493f",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863024/Europese-beurzen-trotseren-onrust-in-Midden-Oosten.aspx",
     "intro": "De Europese beurzen koersten dinsdagochtend overwegend hoger, ondanks de fragiele situatie in het Midden-Oosten.",
     "published_at": "2026-05-05 12:17",
-    "scraped_at": "2026-05-05T11:00:10.648656"
+    "scraped_at": "2026-05-05T12:10:01.232891"
   },
   {
     "id": "05d68b43f0ad39ec0e49a26714445e47",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863019/Adyen-in-zee-met-Lavazza.aspx",
     "intro": "Adyen is door het Italiaanse koffiemerk Lavazza geselecteerd. Dit maakte het Amsterdamse betaalbedrijf dinsdag bekend zonder financiële details te vermelden.",
     "published_at": "2026-05-05 11:52",
-    "scraped_at": "2026-05-05T11:00:10.648656"
+    "scraped_at": "2026-05-05T12:10:01.232891"
   },
   {
     "id": "73feb30c362ecdb76c5cb3c0b9e6cd13",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863016/Beursupdate-AEX-bouwt-winst-uit.aspx",
     "intro": "De Amsterdamse beurs heeft dinsdagochtend de winsten uitgebouwd, waarbij de AEX 0,9 procent steeg naar 1.014 punten.",
     "published_at": "2026-05-05 11:14",
-    "scraped_at": "2026-05-05T11:00:10.648656"
+    "scraped_at": "2026-05-05T12:10:01.232891"
   },
   {
     "id": "74f6ba0f424d096a610093426233e467",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863009/Kwartaalomzet-Rheinmetall-schiet-tekort.aspx",
     "intro": "Rheinmetall heeft in het eerste kwartaal niet aan de omzetverwachtingen weten te voldoen, maar liet weten te rekenen op een sterk tweede kwartaal. Dit meldde de Duitse defensiegigant in een persbericht met voorlopige cijfers.",
     "published_at": "2026-05-05 10:36",
-    "scraped_at": "2026-05-05T11:00:10.648656"
-  },
-  {
-    "id": "3acc3664daeee970d5224d83dd2bb632",
-    "categorie": "Beursnieuws",
-    "titel": "CVC verkoopt belang in Hermes Transportes Blindados",
-    "link": "https://www.beurs.nl/Nieuws/863005/CVC-verkoopt-belang-in-Hermes-Transportes-Blindados.aspx",
-    "intro": "CVC Capital heeft een akkoord bereikt over de verkoop van zijn volledig belang in Hermes Transportes Blindados aan Loomis voor een ondernemingswaarde van 4 miljard Zweedse kroon, omgerekend circa 370 miljoen euro. Dit meldde CVC dinsdag in een persbericht.",
-    "published_at": "2026-05-05 10:09",
-    "scraped_at": "2026-05-05T11:00:10.648656"
-  },
-  {
-    "id": "0dd7f1cc6de668f10645536f0567d5c3",
-    "categorie": "IEX",
-    "titel": "Must read: Winstgroei Magnificent 7 is verbluffend",
-    "link": "https://www.iex.nl/artikel/862852/Must-read-Winstgroei-Magnificent-7-is-verbluffend.aspx",
-    "intro": "Plus: economisch stoplicht op oranje, AFM adviseert spaarders te gaan beleggen, 5 ondergewaardeerde defensie-aandelen, pharmasector valt uit elkaar, en veel meer.",
-    "published_at": "2026-05-05 10:00",
-    "scraped_at": "2026-05-05T11:00:10.648656"
-  },
-  {
-    "id": "fbe0276306ae6b9158dfd3a96f173692",
-    "categorie": "Beursnieuws",
-    "titel": "UniCredit boekt recordkwartaal",
-    "link": "https://www.beurs.nl/Nieuws/863002/UniCredit-boekt-recordkwartaal.aspx",
-    "intro": "UniCredit heeft een recordkwartaal achter de rug en verhoogde de outlook voor heel 2026. Dit bleek dinsdag uit cijfers van de Italiaanse bank.",
-    "published_at": "2026-05-05 09:46",
-    "scraped_at": "2026-05-05T11:00:10.648656"
-  },
-  {
-    "id": "52775cd5c684fbe666d2fc0c27d2d852",
-    "categorie": "Beurstips",
-    "titel": "Sentimentspeiling: beleggers zetten dit AEX-zwaargewicht op verkopen",
-    "link": "https://www.belegger.nl/artikel/862707/Sentimentspeiling-beleggers-zetten-dit-AEX-zwaargewicht-op-verkopen.aspx",
-    "intro": "De verwachtingen worden door beleggers over de gehele linie opgeschroefd, zo blijkt uit de nieuwste meting van het Nationaal Beleggerssentiment door IEX. Er deden dit keer 993 beleggers mee aan onze enquête.",
-    "published_at": "2026-05-05 09:20",
-    "scraped_at": "2026-05-05T11:00:10.648656"
+    "scraped_at": "2026-05-05T12:10:01.232891"
   }
 ]
