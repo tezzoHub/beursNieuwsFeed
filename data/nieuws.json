@@ -1,92 +1,56 @@
 [
   {
-    "id": "515e5376df32a0f65a03230aa3fac33c",
+    "id": "619ea3db303749c8bf84ec90eae1a54a",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/863118/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten en vier hoger.",
-    "published_at": "2026-05-05 22:47",
-    "scraped_at": "2026-05-06T01:19:03.765426"
+    "titel": "Europese beurzen openen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/863137/Europese-beurzen-openen-in-het-groen.aspx",
+    "intro": "De Europese beurzen gaan woensdag een hogere opening tegemoet, na de winsten op Wall Street en in de hoop dat er een akkoord komt tussen de VS en Iran.",
+    "published_at": "2026-05-06 06:42",
+    "scraped_at": "2026-05-06T04:48:02.702411"
   },
   {
-    "id": "ec9029abe1d1cc87de898e93d849251e",
+    "id": "ad622e4ce9bdca270de45b26e789ad0a",
     "categorie": "Beursnieuws",
-    "titel": "Koerssprong voor Super Micro Computer",
-    "link": "https://www.beurs.nl/Nieuws/863117/Koerssprong-voor-Super-Micro-Computer.aspx",
-    "intro": "Super Micro heeft in het afgelopen kwartaal minder omzet geboekt dan in het voorgaande kwartaal, maar zag de aandelenkoers dinsdag nabeurs omhoogschieten dankzij een sterke outlook. Dat bleek dinsdag nabeurs uit de update van de Amerikaanse fabrikant van servers.",
-    "published_at": "2026-05-05 22:44",
-    "scraped_at": "2026-05-06T01:19:03.765426"
+    "titel": "Trump legt tijdelijk Project Freedom stil",
+    "link": "https://www.beurs.nl/Nieuws/863136/Trump-legt-tijdelijk-Project-Freedom-stil.aspx",
+    "intro": "De Amerikaanse president Donald Trump heeft laten weten tijdelijk te stoppen met het escorteren van schepen in de Straat van Hormuz in een poging een deal met Iran af te ronden en te ondertekenen. Dit meldde de president vannacht op Truth Social.",
+    "published_at": "2026-05-06 06:34",
+    "scraped_at": "2026-05-06T04:48:02.702411"
   },
   {
-    "id": "a8288158d08522e4477e63d1eeebe39d",
+    "id": "cccd6bc98f52a4d1b2757f4fd7aa8bfb",
     "categorie": "Beursnieuws",
-    "titel": "Winst Theon groeit harder dan omzet",
-    "link": "https://www.beurs.nl/Nieuws/863114/Winst-Theon-groeit-harder-dan-omzet.aspx",
-    "intro": "Theon International heeft in het eerste kwartaal de omzet en de winst hard zien stijgen. Dit bleek dinsdagavond uit de cijfers van de Griekse maker van militaire nachtkijkers met een notering aan het Amsterdamse Damrak.",
-    "published_at": "2026-05-05 22:31",
-    "scraped_at": "2026-05-06T01:19:03.765426"
+    "titel": "Kleine groeiversnelling Chinese dienstensector",
+    "link": "https://www.beurs.nl/Nieuws/863135/Kleine-groeiversnelling-Chinese-dienstensector.aspx",
+    "intro": "De Chinese dienstensector is in april iets harder gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global en RatingDog.",
+    "published_at": "2026-05-06 06:25",
+    "scraped_at": "2026-05-06T04:48:02.702411"
   },
   {
-    "id": "7ab4dafaffc24d56b7c82c839ed0e46b",
+    "id": "0af0fdd6b60d47d2bbfb99940c766516",
     "categorie": "Beursnieuws",
-    "titel": "Aandeel AMD meer waard na kwartaalupdate",
-    "link": "https://www.beurs.nl/Nieuws/863110/Aandeel-AMD-meer-waard-na-kwartaalupdate.aspx",
-    "intro": "Advanced Micro Devices heeft in het eerste kwartaal de winst bijna verdubbeld, terwijl de omzet sterker dan verwacht steeg en ook de vooruitblik veelbelovend bleek. Dat bleek dinsdagavond uit de kwartaalupdate van het Amerikaanse microprocessorenbedrijf.",
-    "published_at": "2026-05-05 22:29",
-    "scraped_at": "2026-05-06T01:19:03.765426"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/863131/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 13 mei 2026:",
+    "published_at": "2026-05-06 06:18",
+    "scraped_at": "2026-05-06T04:48:02.702411"
   },
   {
-    "id": "e88c8f909d6866f6445d63498d637604",
+    "id": "ab89a3ed4530903206243c21c06fcbd8",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street stijgt naar nieuwe toppen",
-    "link": "https://www.beurs.nl/Nieuws/863107/Wall-Street-stijgt-naar-nieuwe-toppen.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag hoger gesloten, aangevoerd door de technologiesector en geholpen door dalende olieprijzen, die wijzen op dalende spanning in het Midden-Oosten. Micron en Intel waren geliefd maar Palantir en PayPal gingen onderuit.",
-    "published_at": "2026-05-05 22:18",
-    "scraped_at": "2026-05-06T01:19:03.765426"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/863132/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 13 mei 2026:",
+    "published_at": "2026-05-06 06:18",
+    "scraped_at": "2026-05-06T04:48:02.702411"
   },
   {
-    "id": "8c05f67b1b00b8f5321a7604ad30c204",
+    "id": "4f4f9de7c5055adf3740aab3bfdee13e",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt weer",
-    "link": "https://www.beurs.nl/Nieuws/863102/Olieprijs-daalt-weer.aspx",
-    "intro": "De olieprijs is dinsdag gedaald, nadat de Amerikaanse regering liet weten dat Iraanse aanvallen niet het einde betekenen van het wapenstilstand, terwijl de VS bezig is om schepen door de Straat van Hormuz te loodsen.",
-    "published_at": "2026-05-05 21:33",
-    "scraped_at": "2026-05-06T01:19:03.765426"
-  },
-  {
-    "id": "7d1d81b7f668d53640761cbbe392feb8",
-    "categorie": "Beursnieuws",
-    "titel": "Technologie stuwt Wall Street naar nieuwe toppen",
-    "link": "https://www.beurs.nl/Nieuws/863098/Technologie-stuwt-Wall-Street-naar-nieuwe-toppen.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag hoger, geleid door technologie en geholpen door dalende olieprijzen, die wijzen op dalende spanning in het Midden-Oosten. Micron en Intel waren geliefd maar Palantir en PayPal gingen onderuit.",
-    "published_at": "2026-05-05 20:57",
-    "scraped_at": "2026-05-06T01:19:03.765426"
-  },
-  {
-    "id": "05f41b4da57118ee31f426d9d43c1066",
-    "categorie": "Beursnieuws",
-    "titel": "SEC wil halfjaarlijkse rapportage toestaan",
-    "link": "https://www.beurs.nl/Nieuws/863094/SEC-wil-halfjaarlijkse-rapportage-toestaan.aspx",
-    "intro": "De Amerikaanse beurswaakhond SEC stelt voor om beursgenoteerde bedrijven de keuze te geven tussen kwartaal- en halfjaarlijkse rapportages. Dat maakte de toezichthouder dinsdag bekend.",
-    "published_at": "2026-05-05 20:09",
-    "scraped_at": "2026-05-06T01:19:03.765426"
-  },
-  {
-    "id": "02cf613b9386a2eba1fb610541113cd5",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten hoger ondanks onrust in Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/863087/Europese-beurzen-sluiten-hoger-ondanks-onrust-in-Midden-Oosten.aspx",
-    "intro": "De Europese beurzen zijn dinsdag hoger gesloten, ondanks de fragiele situatie in het Midden-Oosten.",
-    "published_at": "2026-05-05 19:00",
-    "scraped_at": "2026-05-06T01:19:03.765426"
-  },
-  {
-    "id": "b042933ae00e0ce8a53849cc22d3a5ea",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers helpen AEX aan groen slot",
-    "link": "https://www.beurs.nl/Nieuws/863081/Chippers-helpen-AEX-aan-groen-slot.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, geholpen door sterke winsten bij de chipfondsen en dalende olieprijzen nadat de Amerikaanse minister van Defensie Pete Hegseth bevestigde dat het staakt-het-vuren tussen de VS en Iran van kracht bleef.",
-    "published_at": "2026-05-05 17:45",
-    "scraped_at": "2026-05-06T01:19:03.765426"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/863133/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 13 mei 2026:",
+    "published_at": "2026-05-06 06:18",
+    "scraped_at": "2026-05-06T04:48:02.702411"
   }
 ]
