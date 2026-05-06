@@ -1,56 +1,92 @@
 [
   {
-    "id": "619ea3db303749c8bf84ec90eae1a54a",
+    "id": "943b75fc8f554d7c259f1e4229672465",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/863137/Europese-beurzen-openen-in-het-groen.aspx",
-    "intro": "De Europese beurzen gaan woensdag een hogere opening tegemoet, na de winsten op Wall Street en in de hoop dat er een akkoord komt tussen de VS en Iran.",
-    "published_at": "2026-05-06 06:42",
-    "scraped_at": "2026-05-06T04:48:02.702411"
+    "titel": "Spaanse dienstensector in krimpmodus",
+    "link": "https://www.beurs.nl/Nieuws/863165/Spaanse-dienstensector-in-krimpmodus.aspx",
+    "intro": "De dienstensector in Spanje is in april gekrompen. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-05-06 09:20",
+    "scraped_at": "2026-05-06T07:27:41.971904"
   },
   {
-    "id": "ad622e4ce9bdca270de45b26e789ad0a",
+    "id": "f4d5aefc21c44f71c23279c42aa77e25",
     "categorie": "Beursnieuws",
-    "titel": "Trump legt tijdelijk Project Freedom stil",
-    "link": "https://www.beurs.nl/Nieuws/863136/Trump-legt-tijdelijk-Project-Freedom-stil.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft laten weten tijdelijk te stoppen met het escorteren van schepen in de Straat van Hormuz in een poging een deal met Iran af te ronden en te ondertekenen. Dit meldde de president vannacht op Truth Social.",
-    "published_at": "2026-05-06 06:34",
-    "scraped_at": "2026-05-06T04:48:02.702411"
+    "titel": "Beursupdate: bijna procent winst voor AEX",
+    "link": "https://www.beurs.nl/Nieuws/863162/Beursupdate-bijna-procent-winst-voor-AEX.aspx",
+    "intro": "De Amsterdamse beurs is in het groen geopend, met een koerswinst van bijna een procent voor de AEX.",
+    "published_at": "2026-05-06 09:10",
+    "scraped_at": "2026-05-06T07:27:41.971904"
   },
   {
-    "id": "cccd6bc98f52a4d1b2757f4fd7aa8bfb",
+    "id": "6692fcf4d4ecbd9bf9a0704612009fee",
     "categorie": "Beursnieuws",
-    "titel": "Kleine groeiversnelling Chinese dienstensector",
-    "link": "https://www.beurs.nl/Nieuws/863135/Kleine-groeiversnelling-Chinese-dienstensector.aspx",
-    "intro": "De Chinese dienstensector is in april iets harder gegroeid. Dit bleek woensdag uit definitieve cijfers van SP Global en RatingDog.",
-    "published_at": "2026-05-06 06:25",
-    "scraped_at": "2026-05-06T04:48:02.702411"
+    "titel": "Concurrentie in China drukt winst BMW",
+    "link": "https://www.beurs.nl/Nieuws/863160/Concurrentie-in-China-drukt-winst-BMW.aspx",
+    "intro": "BMW heeft in het eerste kwartaal minder omzet en winst geboekt, onder invloed van de felle concurrentie in China. Dat maakte de Duitse autofabrikant woensdag bekend.",
+    "published_at": "2026-05-06 09:04",
+    "scraped_at": "2026-05-06T07:27:41.971904"
   },
   {
-    "id": "0af0fdd6b60d47d2bbfb99940c766516",
+    "id": "de76b6b6997753cbe416ccfa424833bc",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/863131/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 13 mei 2026:",
-    "published_at": "2026-05-06 06:18",
-    "scraped_at": "2026-05-06T04:48:02.702411"
+    "titel": "Infineon verhoogt jaaroutlook",
+    "link": "https://www.beurs.nl/Nieuws/863158/Infineon-verhoogt-jaaroutlook.aspx",
+    "intro": "Infineon Technologies heeft de verwachtingen voor het lopende boekjaar verhoogd. Dit maakte de Duitse chipmaker woensdagochtend bekend bij de kwartaalcijfers.",
+    "published_at": "2026-05-06 08:54",
+    "scraped_at": "2026-05-06T07:27:41.971904"
   },
   {
-    "id": "ab89a3ed4530903206243c21c06fcbd8",
+    "id": "f257dce4a99b47863438f2023756cb31",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/863132/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 13 mei 2026:",
-    "published_at": "2026-05-06 06:18",
-    "scraped_at": "2026-05-06T04:48:02.702411"
+    "titel": "Novo Nordisk verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/863157/Novo-Nordisk-verhoogt-outlook.aspx",
+    "intro": "Novo Nordisk heeft de outlook voor 2026 verhoogd op basis van de sterk gestegen vraag naar zijn nieuwe afslankpil. Dit meldde de Deense farmaceut woensdagochtend.",
+    "published_at": "2026-05-06 08:40",
+    "scraped_at": "2026-05-06T07:27:41.971904"
   },
   {
-    "id": "4f4f9de7c5055adf3740aab3bfdee13e",
+    "id": "e1ab80c1a7d031a9e42e752a5dff053c",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/863133/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 13 mei 2026:",
-    "published_at": "2026-05-06 06:18",
-    "scraped_at": "2026-05-06T04:48:02.702411"
+    "titel": "Update: Wolters Kluwer ziet goede vraag naar AI-producten",
+    "link": "https://www.beurs.nl/Nieuws/863156/Update-Wolters-Kluwer-ziet-goede-vraag-naar-AI-producten.aspx",
+    "intro": "Wolters Kluwer heeft in het eerste kwartaal van 2026 minder omzet geboekt, door de daling van de dollar, maar ziet goede vraag naar zijn AI-producten en bleef autonoom groeien zoals verwacht. Dit bleek woensdag bij de kwartaalcijfers van het databedrijf.",
+    "published_at": "2026-05-06 08:29",
+    "scraped_at": "2026-05-06T07:27:41.971904"
+  },
+  {
+    "id": "abd2b66875ab99f3d18d2baedc31281a",
+    "categorie": "Beursnieuws",
+    "titel": "CM.com stelt commercieel directeur aan",
+    "link": "https://www.beurs.nl/Nieuws/863155/CMcom-stelt-commercieel-directeur-aan.aspx",
+    "intro": "CM.com heeft Frank Timmermans aangesteld als Chief Commercial Officer. Dit meldde het bedrijf uit Breda woensdagochtend.",
+    "published_at": "2026-05-06 08:20",
+    "scraped_at": "2026-05-06T07:27:41.971904"
+  },
+  {
+    "id": "40397970a4702a56495d767e51103065",
+    "categorie": "Beursnieuws",
+    "titel": "Groene opening AEX in de maak",
+    "link": "https://www.beurs.nl/Nieuws/863152/Groene-opening-AEX-in-de-maak.aspx",
+    "intro": "De Amsterdamse beurs zal woensdag met winst van start gaan, geholpen door de winsten van de halfgeleideraandelen en door hoop op een deal tussen de VS en Iran.",
+    "published_at": "2026-05-06 08:08",
+    "scraped_at": "2026-05-06T07:27:41.971904"
+  },
+  {
+    "id": "53f768c65dbffb6209086801d5b9c71d",
+    "categorie": "Beursnieuws",
+    "titel": "Stabiele groei bij grootste tak Adyen",
+    "link": "https://www.beurs.nl/Nieuws/863150/Stabiele-groei-bij-grootste-tak-Adyen.aspx",
+    "intro": "Adyen heeft in het eerste kwartaal de omzet zien doorgroeien, waarbij de grootste tak Digital even snel groeide als een jaar eerder, terwijl Unified Commerce en Platforms de sterke groei van een jaar eerder zagen afnemen. Dit bleek woensdag uit een update van het betaalbedrijf.",
+    "published_at": "2026-05-06 07:57",
+    "scraped_at": "2026-05-06T07:27:41.971904"
+  },
+  {
+    "id": "22b3d21136a794a48061f35c9fe6cb10",
+    "categorie": "Beursnieuws",
+    "titel": "Ahold Delhaize presteert sterk in Europa",
+    "link": "https://www.beurs.nl/Nieuws/863147/Ahold-Delhaize-presteert-sterk-in-Europa.aspx",
+    "intro": "Ahold Delhaize heeft in het eerste kwartaal een lagere omzet geboekt dan een jaar eerder, terwijl de marge iets steeg. Dit bleek woensdagochtend uit cijfers van de supermarktuitbater.",
+    "published_at": "2026-05-06 07:43",
+    "scraped_at": "2026-05-06T07:27:41.971904"
   }
 ]
