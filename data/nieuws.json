@@ -1,12 +1,39 @@
 [
   {
+    "id": "a1aa5dde9151ad24906754f37b759f22",
+    "categorie": "Beursnieuws",
+    "titel": "AMG overtreft eigen verwachtingen eerste kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/863273/AMG-overtreft-eigen-verwachtingen-eerste-kwartaal.aspx",
+    "intro": "AMG Critical Materials heeft in het eerste kwartaal van 2026 beter gepresteerd dan verwacht. Het bedrijf had zelf gerekend op een sequentiële daling van de aangepaste EBITDA. Dit maakte het in Amsterdam genoteerde grondstoffenbedrijf dinsdag nabeurs bekend.",
+    "published_at": "2026-05-06 18:17",
+    "scraped_at": "2026-05-06T16:57:06.966319"
+  },
+  {
+    "id": "95d3c7e0aa68c28955d0b1b9e25f67a4",
+    "categorie": "Beursnieuws",
+    "titel": "AEX scherpt records verder aan",
+    "link": "https://www.beurs.nl/Nieuws/863271/AEX-scherpt-records-verder-aan.aspx",
+    "intro": "De Amsterdamse beurs is woensdag flink hoger gesloten. Beleggers reageerden positief op berichten dat de VS en Iran een akkoord naderden om de oorlog te beëindigen.",
+    "published_at": "2026-05-06 17:47",
+    "scraped_at": "2026-05-06T16:57:06.966319"
+  },
+  {
+    "id": "eb03096440bc6a63f2b1d0cf536f948b",
+    "categorie": "IEX",
+    "titel": "Slotcall: goed nieuws zet olieprijzen lager en AEX op nieuw all-time high",
+    "link": "https://www.iex.nl/artikel/863252/Slotcall-goed-nieuws-zet-olieprijzen-lager-en-AEX-op-nieuw-all-time-high.aspx",
+    "intro": "De AEX heeft vandaag niet zomaar een plusje op het bord gezet, maar even een nieuw intraday all-time high aangetikt. De index liep op tot exact 1.035,72 punten en noteert na de slotbel nog altijd zo'n 1,7% hoger rond 1.031 punten.",
+    "published_at": "2026-05-06 17:35",
+    "scraped_at": "2026-05-06T16:57:06.966319"
+  },
+  {
     "id": "3b0c023997d15805ed05b270b0ab1ed9",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse olievoorraden opnieuw gedaald",
     "link": "https://www.beurs.nl/Nieuws/863259/Amerikaanse-olievoorraden-opnieuw-gedaald.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week opnieuw gedaald. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-05-06 16:49",
-    "scraped_at": "2026-05-06T15:06:08.597236"
+    "scraped_at": "2026-05-06T16:57:06.966319"
   },
   {
     "id": "cc556ad954fcad782a2fe48b5c36712e",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/863249/Trump-waarschuwt-Iran-bij-uitblijven-akkoord.aspx",
     "intro": "De Amerikaanse president Donald Trump heeft Iran gewaarschuwd voor zwaardere bombardementen als het land niet ingaat op de Amerikaanse eisen. Trump plaatste de waarschuwing woensdag op zijn sociale medium Truth Social.",
     "published_at": "2026-05-06 16:16",
-    "scraped_at": "2026-05-06T15:06:08.597236"
+    "scraped_at": "2026-05-06T16:57:06.966319"
   },
   {
     "id": "dd0abc6d45348bfa56d051ff2391efd4",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863241/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 14 mei 2026:DONDERDAG 7 MEI 2026",
     "published_at": "2026-05-06 15:53",
-    "scraped_at": "2026-05-06T15:06:08.597236"
+    "scraped_at": "2026-05-06T16:57:06.966319"
   },
   {
     "id": "8f2aa8ce7ff710da02c66c371cfdc9a7",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863242/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 14 mei 2026:DONDERDAG 7 MEI 2026",
     "published_at": "2026-05-06 15:53",
-    "scraped_at": "2026-05-06T15:06:08.597236"
+    "scraped_at": "2026-05-06T16:57:06.966319"
   },
   {
     "id": "7b3947bf6f37e238e18a395b374e29f3",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863243/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 14 mei 2026:",
     "published_at": "2026-05-06 15:52",
-    "scraped_at": "2026-05-06T15:06:08.597236"
+    "scraped_at": "2026-05-06T16:57:06.966319"
   },
   {
     "id": "1f1e363c502e097d1732eca06eb83e9f",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863226/Update-Burger-King-in-trek.aspx",
     "intro": "Restaurant Brands International heeft in het afgelopen kwartaal de winst zien oplopen, geholpen door omzetgroei bij zijn restaurantketen Burger King. Dit bleek woensdag uit de kwartaalcijfers.",
     "published_at": "2026-05-06 15:36",
-    "scraped_at": "2026-05-06T15:06:08.597236"
+    "scraped_at": "2026-05-06T16:57:06.966319"
   },
   {
     "id": "4905730d2d775a8aa111ea900e3c0149",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863238/Beursblik-Bank-of-America-ziet-kansen-bij-Wolters-Kluwer.aspx",
     "intro": "Wolters Kluwer herhaalde woensdag de outlook voor 2026. Dat was in lijn met de verwachtingen van Bank of America, aldus analist David Amira in een rapport.",
     "published_at": "2026-05-06 15:33",
-    "scraped_at": "2026-05-06T15:06:08.597236"
-  },
-  {
-    "id": "1b03ab4324f7442760b64d3a9c8f1ff4",
-    "categorie": "Beursnieuws",
-    "titel": "Recordreeks Wall Street lijkt aan te houden",
-    "link": "https://www.beurs.nl/Nieuws/863236/Recordreeks-Wall-Street-lijkt-aan-te-houden.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Beleggers reageren positief op berichten dat het staakt-het-vuren in de Perzische Golf standhoudt. De olieprijs daalde fors, maar herstelde gedurende de middag deels.",
-    "published_at": "2026-05-06 15:24",
-    "scraped_at": "2026-05-06T15:06:08.597236"
-  },
-  {
-    "id": "9ca0d401cd9f9d27e4a3f517b046ad9b",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Burger King in trek",
-    "link": "https://www.beurs.nl/Nieuws/863230/Update-Burger-King-in-trek.aspx",
-    "intro": "Restaurant Brands International heeft in het afgelopen kwartaal de winst zien oplopen, geholpen door omzetgroei bij zijn restaurantketen Burger King. Dit bleek woensdag uit de kwartaalcijfers.",
-    "published_at": "2026-05-06 14:45",
-    "scraped_at": "2026-05-06T15:06:08.597236"
-  },
-  {
-    "id": "74dddfd3a756178f0eb3a024f0d2ab97",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil tot 3 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/863229/Obligatie-Nederland-wil-tot-3-miljard-euro-ophalen.aspx",
-    "intro": "Nederland wil dinsdag 12 mei tot 3 miljard euro ophalen met de heropening van een tienjarige lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-05-06 14:44",
-    "scraped_at": "2026-05-06T15:06:08.597236"
+    "scraped_at": "2026-05-06T16:57:06.966319"
   }
 ]
