@@ -1,12 +1,84 @@
 [
   {
+    "id": "d2da6d20a9724313ba9e597430a0796c",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of America verhoogt koersdoel ASML",
+    "link": "https://www.beurs.nl/Nieuws/863377/Bank-of-America-verhoogt-koersdoel-ASML.aspx",
+    "intro": "Bank of America heeft donderdag het koersdoel voor ASML verhoogd van 1.598 naar 1.710 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Didier Scemama.",
+    "published_at": "2026-05-07 11:30",
+    "scraped_at": "2026-05-07T10:09:46.347990"
+  },
+  {
+    "id": "94b109ac1282e4525f1176e976b19db9",
+    "categorie": "Beursnieuws",
+    "titel": "Rally AEX hapert",
+    "link": "https://www.beurs.nl/Nieuws/863375/Rally-AEX-hapert.aspx",
+    "intro": "De Amsterdamse beurs kon het positieve sentiment van woensdag vooralsnog niet vasthouden, terwijl beleggers opnieuw veel bedrijfscijfers te verwerken kregen.",
+    "published_at": "2026-05-07 11:18",
+    "scraped_at": "2026-05-07T10:09:46.347990"
+  },
+  {
+    "id": "5ee8e1e19a511f409e890648fe2c8685",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine daling detailhandelsverkopen in de eurozone",
+    "link": "https://www.beurs.nl/Nieuws/863372/Kleine-daling-detailhandelsverkopen-in-de-eurozone.aspx",
+    "intro": "De detailhandelsverkopen in de eurozone zijn in maart licht gedaald. Dit bleek donderdag uit cijfers van het Europese statistiekbureau Eurostat.",
+    "published_at": "2026-05-07 11:08",
+    "scraped_at": "2026-05-07T10:09:46.347990"
+  },
+  {
+    "id": "a5209579776f2c0a2e40ab4ede7c30fd",
+    "categorie": "Beursnieuws",
+    "titel": "Noorse centrale bank verhoogt de rente",
+    "link": "https://www.beurs.nl/Nieuws/863365/Noorse-centrale-bank-verhoogt-de-rente.aspx",
+    "intro": "Norges Bank heeft de rente verhoogd van 4,00 naar 4,25 procent. Dit maakte de Noorse centrale bank donderdag bekend.",
+    "published_at": "2026-05-07 10:12",
+    "scraped_at": "2026-05-07T10:09:46.347990"
+  },
+  {
+    "id": "2a1716ceb4c5986313dfd5e134bf2775",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel SBM Offshore",
+    "link": "https://www.beurs.nl/Nieuws/863362/Beursblik-Degroof-Petercam-verhoogt-koersdoel-SBM-Offshore.aspx",
+    "intro": "Degroof Petercam heeft het koersdoel voor SBM Offshore verhoogd van 32,00 naar 38,00 euro met handhaving van het Houden advies. Dit bleek donderdag uit een rapport van analist Luuk van Beek.",
+    "published_at": "2026-05-07 10:01",
+    "scraped_at": "2026-05-07T10:09:46.347990"
+  },
+  {
+    "id": "78d0fb6f1d1beabfabb01330b0424b20",
+    "categorie": "IEX",
+    "titel": "Must read: Beurseuforie is logisch",
+    "link": "https://www.iex.nl/artikel/863211/Must-read-Beurseuforie-is-logisch.aspx",
+    "intro": "Plus: klimaatdoelen buiten bereik, belastingstelsel vergroot vermogensongelijkheid, slim beleggen in water, kernenergie is wel/niet de oplossing, en meer.",
+    "published_at": "2026-05-07 10:00",
+    "scraped_at": "2026-05-07T10:09:46.347990"
+  },
+  {
+    "id": "fb9f3b7bd37f3e00fb1e9fc437a12fbb",
+    "categorie": "Beursnieuws",
+    "titel": "Zweedse Riksbank handhaaft rente",
+    "link": "https://www.beurs.nl/Nieuws/863360/Zweedse-Riksbank-handhaaft-rente.aspx",
+    "intro": "De centrale bank van Zweden heeft de rente onveranderd gelaten op 1,75 procent en verwacht dit niveau nog een tijd te zullen handhaven. Dit bleek donderdag uit het rentebesluit van de Riksbank.",
+    "published_at": "2026-05-07 09:53",
+    "scraped_at": "2026-05-07T10:09:46.347990"
+  },
+  {
+    "id": "11d27eccab8595ad83a320abd8501fcc",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: kleine meevaller bij Shell",
+    "link": "https://www.beurs.nl/Nieuws/863359/Beursblik-kleine-meevaller-bij-Shell.aspx",
+    "intro": "De kwartaalupdate van Shell is een kleine meevaller. Dit stelden analisten van Jefferies donderdag in een rapport.",
+    "published_at": "2026-05-07 09:49",
+    "scraped_at": "2026-05-07T10:09:46.347990"
+  },
+  {
     "id": "2abdf6622ecda40cbc0c15761011c3b2",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Degroof Petercam verhoogt koersdoel AMG",
     "link": "https://www.beurs.nl/Nieuws/863357/Beursblik-Degroof-Petercam-verhoogt-koersdoel-AMG.aspx",
     "intro": "Degroof Petercam heeft het koersdoel voor AMG verhoogd van 38,00 naar 40,00 euro, na de resultaten over het eerste kwartaal. Dit bleek donderdag uit een rapport van analist Frank Claassen, waarin de analist zijn Houden advies handhaafde.",
     "published_at": "2026-05-07 09:40",
-    "scraped_at": "2026-05-07T07:43:58.145890"
+    "scraped_at": "2026-05-07T10:09:46.347990"
   },
   {
     "id": "2528161752ecaf0a36a9f0e0f6aae44d",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863355/AEX-nipt-in-het-rood-van-start-na-cijfers-Shell.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong met 0,1 procent nipt lager op 1.029,88, terwijl de Midkap 0,3 procent won.",
     "published_at": "2026-05-07 09:18",
-    "scraped_at": "2026-05-07T07:43:58.145890"
-  },
-  {
-    "id": "ea984d85720451aa188ff16a86471bdc",
-    "categorie": "Beursnieuws",
-    "titel": "Value8 verhoogt dividend",
-    "link": "https://www.beurs.nl/Nieuws/863352/Value8-verhoogt-dividend.aspx",
-    "intro": "Value8 heeft over het boekjaar 2025 een keuzedividend voorgesteld van 0,21 euro per gewoon aandeel, een stijging van 5 procent ten opzichte van het vorige boekjaar. Dit meldde de investeerder donderdagochtend.",
-    "published_at": "2026-05-07 09:08",
-    "scraped_at": "2026-05-07T07:43:58.145890"
-  },
-  {
-    "id": "a1c664e05f58a09e0cd9cb2d18176583",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse fabrieksorders flink omhoog",
-    "link": "https://www.beurs.nl/Nieuws/863351/Duitse-fabrieksorders-flink-omhoog.aspx",
-    "intro": "De Duitse fabrieksorders zijn in maart flink gestegen. Dit bleek donderdagochtend uit cijfers van statistiekbureau Destatis.",
-    "published_at": "2026-05-07 08:53",
-    "scraped_at": "2026-05-07T07:43:58.145890"
-  },
-  {
-    "id": "8b9c723f3e0e21be39a57f942e839895",
-    "categorie": "Beursnieuws",
-    "titel": "Vopak neemt meerderheidsbelang in GES",
-    "link": "https://www.beurs.nl/Nieuws/863350/Vopak-neemt-meerderheidsbelang-in-GES.aspx",
-    "intro": "Vopak heeft een akkoord bereikt met Green Energy Storage voor de overname van een meerderheidsbelang in het bedrijf. Dit maakte Vopak donderdagochtend bekend, zonder financiële details vrij te geven.",
-    "published_at": "2026-05-07 08:50",
-    "scraped_at": "2026-05-07T07:43:58.145890"
-  },
-  {
-    "id": "c2c234c49c4a23e514342196aa2e6f63",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet en aantrekkende winstgevendheid voor ForFarmers",
-    "link": "https://www.beurs.nl/Nieuws/863349/Meer-omzet-en-aantrekkende-winstgevendheid-voor-ForFarmers.aspx",
-    "intro": "ForFarmers heeft in het eerste kwartaal van 2026 de omzet en winstgevendheid zien stijgen, voornamelijk dankzij overnames. Dit bleek donderdag uit een kwartaalupdate van de veevoerproducent.",
-    "published_at": "2026-05-07 08:38",
-    "scraped_at": "2026-05-07T07:43:58.145890"
-  },
-  {
-    "id": "9000bbb93291d2c97d64bee2038e865c",
-    "categorie": "Beursnieuws",
-    "titel": "Envipco aan de slag voor Netto Polska",
-    "link": "https://www.beurs.nl/Nieuws/863342/Envipco-aan-de-slag-voor-Netto-Polska.aspx",
-    "intro": "Envipco heeft een opdracht voor 700 statiegeldmachines ontvangen van Netto Polska. Dit maakte de Amersfoortse fabrikant donderdagochtend bekend.",
-    "published_at": "2026-05-07 08:26",
-    "scraped_at": "2026-05-07T07:43:58.145890"
-  },
-  {
-    "id": "712a37d7fdcfd79a73ac45e613a46c69",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start na recordregen",
-    "link": "https://www.beurs.nl/Nieuws/863340/AEX-hoger-van-start-na-recordregen.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag hoger van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,2 procent.",
-    "published_at": "2026-05-07 08:18",
-    "scraped_at": "2026-05-07T07:43:58.145890"
-  },
-  {
-    "id": "8ddc1e58d36b7188376d4cc76336a8ce",
-    "categorie": "Beursnieuws",
-    "titel": "Meer winst voor Shell dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/863339/Meer-winst-voor-Shell-dan-verwacht.aspx",
-    "intro": "Shell heeft in het eerste kwartaal van 2026 meer winst geboekt dan een jaar eerder, terwijl de operationele kasstroom daalde, maar veel minder sterk dan voorzien. Dit bleek donderdag voorbeurs uit een kwartaalupdate van de energiereus.",
-    "published_at": "2026-05-07 08:15",
-    "scraped_at": "2026-05-07T07:43:58.145890"
-  },
-  {
-    "id": "1eeaec86754b63a48058d5c4769a9b7e",
-    "categorie": "Beursnieuws",
-    "titel": "BAM meldt solide jaarstart",
-    "link": "https://www.beurs.nl/Nieuws/863331/BAM-meldt-solide-jaarstart.aspx",
-    "intro": "BAM zag in het eerste kwartaal van 2026 de omzet en aangepaste EBITDA op jaarbasis aantrekken, en het bedrijf verwacht voor het hele jaar ook een groei van de omzet en de aangepaste EBITDA te realiseren. Dit bleek uit een kwartaalupdate die de Nederlandse bouwer donderdagochtend publiceerde.",
-    "published_at": "2026-05-07 07:50",
-    "scraped_at": "2026-05-07T07:43:58.145890"
+    "scraped_at": "2026-05-07T10:09:46.347990"
   }
 ]
