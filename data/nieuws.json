@@ -1,12 +1,21 @@
 [
   {
+    "id": "930f1717a1b5d7fa7227b773ca0152e4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/863495/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten, met RELX als enige stijger.",
+    "published_at": "2026-05-07 22:44",
+    "scraped_at": "2026-05-07T21:41:03.686702"
+  },
+  {
     "id": "ae72741fc913206063f5a6549c8747dd",
     "categorie": "Beursnieuws",
     "titel": "CoreWeave ziet verlies oplopen",
     "link": "https://www.beurs.nl/Nieuws/863493/CoreWeave-ziet-verlies-oplopen.aspx",
     "intro": "Het aandeel CoreWeave stond donderdagavond nabeurs hoger, na gemengde eerstekwartaalcijfers, met een oplopend verlies bij een sterk stijgende omzet.",
     "published_at": "2026-05-07 22:38",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   },
   {
     "id": "c39cb3f500ffb12254a75f2d31001df4",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/863490/Coinbase-boekt-verlies.aspx",
     "intro": "Coinbase heeft een onverwacht verlies geboekt over het eerste kwartaal, ten prooi vallend aan de langdurige malaiase voor cryptomunten. Dat bleek donderdag uit de cijfers van het Amerikaanse bedrijf.",
     "published_at": "2026-05-07 22:28",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   },
   {
     "id": "f8d00b92046160ca5efaba3bd2dd5723",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/863487/Meer-ritten-voor-Lyft.aspx",
     "intro": "Lyft heeft in het eerste kwartaal zijn omzet laten stijgen, dankzij toenemend aantallen ritten en chauffeurs, geholpen door samenwerkingen van het taxi-platform met luchtvaartmaatschappijen en creditcardbedrijven. Dat bleek donderdagavond.",
     "published_at": "2026-05-07 22:22",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   },
   {
     "id": "13fbc1896142a3ece3e2503927a15396",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/863480/Wall-Street-sluit-lager.aspx",
     "intro": "De Amerikaanse aandelenbeurzen zakten donderdag in de rode cijfers, na een licht hogere opening en koerswinsten woensdag, wachtend op een voorlopig akkoord tussen de VS en Iran.",
     "published_at": "2026-05-07 22:09",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   },
   {
     "id": "91323125f1e000aa9a1d1331fd7fe2c7",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863479/Olieprijs-daalt-licht.aspx",
     "intro": "De olieprijs in New York is donderdag licht lager gesloten, nadat aanvankelijk optimisme over een vredesakkoord in het Midden-Oosten wegebde.",
     "published_at": "2026-05-07 21:31",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   },
   {
     "id": "f80b869b834b2d00c9b072b4bbc4a324",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863468/Wall-Street-zakt-in-het-rood.aspx",
     "intro": "Amerikaanse aandelenbeurzen zakten donderdag in de rode cijfers, na een licht hogere opening en koerswinsten woensdag, wachtend op een voorlopig akkoord tussen de VS en Iran.",
     "published_at": "2026-05-07 20:18",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   },
   {
     "id": "9dcf1681852495b60d491b233e9d74f2",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863455/Europese-beurzen-sluiten-lager.aspx",
     "intro": "De Europese aandelenmarkten deden donderdag een stap terug, na de koersstijgingen van woensdag. Beleggers wachtten op het vredesakkoord tussen de VS en Iran, dat van Amerikaanse zijde steeds weer wordt beloofd.",
     "published_at": "2026-05-07 18:52",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   },
   {
     "id": "37755b8364804d2b107ee08da27eafe3",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863449/Stabiel-resultaat-voor-Eurocommercial-Properties.aspx",
     "intro": "Eurocommercial Properties heeft in het eerste kwartaal een stabiel beleggingsresultaat geboekt, met stijgende huurinkomsten. Dit bleek donderdag uit de update van het vastgoedbedrijf.",
     "published_at": "2026-05-07 18:24",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   },
   {
     "id": "c045e95ad40763612dc9e0109e0d5b8b",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863442/Rood-slot-AEX-door-Shell-en-databedrijven.aspx",
     "intro": "De Amsterdamse beurs is donderdag met verlies gesloten. De AEX daalde met 1,2 procent naar 1.019,42 punten.",
     "published_at": "2026-05-07 17:49",
-    "scraped_at": "2026-05-07T20:44:32.110225"
-  },
-  {
-    "id": "48cb1027650884804d81a32993993a3d",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel Shake Shack onderuit na kwartaalverlies",
-    "link": "https://www.beurs.nl/Nieuws/863435/Aandeel-Shake-Shack-onderuit-na-kwartaalverlies.aspx",
-    "intro": "De Amerikaanse fastfoodketen Shake Shack heeft in het eerste kwartaal een klein verlies geboekt. Dat resulteerde wel in een koersverlies van 30 procent.",
-    "published_at": "2026-05-07 17:05",
-    "scraped_at": "2026-05-07T20:44:32.110225"
+    "scraped_at": "2026-05-07T21:41:03.686702"
   }
 ]
