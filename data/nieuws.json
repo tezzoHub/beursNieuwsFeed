@@ -1,12 +1,48 @@
 [
   {
+    "id": "ebacd979e275c94955f887453eef1d05",
+    "categorie": "Beursnieuws",
+    "titel": "S&P 500 op weg naar de zesde winnende week op rij",
+    "link": "https://www.beurs.nl/Nieuws/863643/SP-500-op-weg-naar-de-zesde-winnende-week-op-rij.aspx",
+    "intro": "De Amerikaanse aandelen stegen vrijdag, aangevoerd door de technologiesector. Beleggers verwerkten een verrassend sterk banenrapport over april en hielden tegelijkertijd rekening met de oplopende spanningen tussen Washington en Teheran.",
+    "published_at": "2026-05-08 19:42",
+    "scraped_at": "2026-05-08T17:51:36.016016"
+  },
+  {
+    "id": "d575091a92c83f0df674a8a43166da84",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Intel sluit chipdeal met Apple",
+    "link": "https://www.beurs.nl/Nieuws/863642/Media-Intel-sluit-chipdeal-met-Apple.aspx",
+    "intro": "Intel heeft een deal gesloten met Apple om chips te maken voor de apparaten van de techgigant. Dit meldde The Wall Street Journal vrijdag.",
+    "published_at": "2026-05-08 19:12",
+    "scraped_at": "2026-05-08T17:51:36.016016"
+  },
+  {
+    "id": "9ba8e3ba60c4b2072137aae184212545",
+    "categorie": "Beursnieuws",
+    "titel": "Trumps tariefdreiging drukt Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/863639/Trumps-tariefdreiging-drukt-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen zijn vrijdag lager gesloten, na dreigementen van de Amerikaanse president Donald Trump met nieuwe tarieven voor de Europese Unie en aanhoudende spanningen in het Midden-Oosten. Op weekbasis bleef de STOXX Europe 600 nagenoeg ongewijzigd.",
+    "published_at": "2026-05-08 18:40",
+    "scraped_at": "2026-05-08T17:51:36.016016"
+  },
+  {
+    "id": "c1112d86d7d0828f71cad385473c52d5",
+    "categorie": "Beursnieuws",
+    "titel": "Euronext meldt lagere volumes",
+    "link": "https://www.beurs.nl/Nieuws/863638/Euronext-meldt-lagere-volumes.aspx",
+    "intro": "De handelsvolumes van contante effecten op Euronext zijn in april gedaald. Dit maakte de Europese beursuitbater vrijdagavond bekend.",
+    "published_at": "2026-05-08 18:16",
+    "scraped_at": "2026-05-08T17:51:36.016016"
+  },
+  {
     "id": "137f17a707c8adef3b495fa67da1b8bd",
     "categorie": "Beurs vandaag",
     "titel": "Slotcall: dagverlies, maar fraaie start van meimaand",
     "link": "https://www.beurs.nl/Artikel/863617/Slotcall-dagverlies-maar-fraaie-start-van-meimaand.aspx",
     "intro": "AEX eindigt 0,2% lager. Pharming en Kendrion zijn de sterren van de dag. Positieve stemming op Wall Street, vooral bij chipaandelen Micron, Qualcomm, AMD en Intel.",
     "published_at": "2026-05-08 18:15",
-    "scraped_at": "2026-05-08T16:23:46.196283"
+    "scraped_at": "2026-05-08T17:51:36.016016"
   },
   {
     "id": "c97d8dcd29df131eb90760ec7a256fc9",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863634/Chippers-trekken-AEX-net-niet-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs is vrijdag iets lager gesloten, ondanks de winsten voor de halfgeleideraandelen.",
     "published_at": "2026-05-08 17:52",
-    "scraped_at": "2026-05-08T16:23:46.196283"
+    "scraped_at": "2026-05-08T17:51:36.016016"
   },
   {
     "id": "206849b5bc5150d19c4fe9490835fb16",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863616/VS-beschieten-Iraanse-olietankers-in-Golf-van-Oman.aspx",
     "intro": "Het Amerikaanse leger heeft vrijdag twee Iraanse olietankers beschoten in de Golf van Oman, nadat de schepen een Amerikaanse marineblokkade probeerden te doorbreken. Dit maakte het Amerikaanse Centrale Commando bekend.",
     "published_at": "2026-05-08 16:46",
-    "scraped_at": "2026-05-08T16:23:46.196283"
+    "scraped_at": "2026-05-08T17:51:36.016016"
   },
   {
     "id": "14d7fb96afd26eaa88ebd846fd4aebb5",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863609/Consumentenvertrouwen-VS-daalt-verder.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in mei verder gedaald. Dit bleek vrijdag uit voorlopige cijfers van de Universiteit van Michigan.",
     "published_at": "2026-05-08 16:06",
-    "scraped_at": "2026-05-08T16:23:46.196283"
+    "scraped_at": "2026-05-08T17:51:36.016016"
   },
   {
     "id": "1a9c7af39d1c0fe42f1702f3af351e11",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863612/Groothandelsvoorraden-VS-opnieuw-gestegen.aspx",
     "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in maart opnieuw gestegen gestegen. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-05-08 16:06",
-    "scraped_at": "2026-05-08T16:23:46.196283"
+    "scraped_at": "2026-05-08T17:51:36.016016"
   },
   {
     "id": "73408591b940a40794f3115c171941cc",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863605/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 18 mei 2026:",
     "published_at": "2026-05-08 15:56",
-    "scraped_at": "2026-05-08T16:23:46.196283"
-  },
-  {
-    "id": "7bb2b281653b76bba09767f1523d142c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/863607/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 18 mei 2026:MAANDAG 11 MEI 2026",
-    "published_at": "2026-05-08 15:56",
-    "scraped_at": "2026-05-08T16:23:46.196283"
-  },
-  {
-    "id": "68629da8b4efe24d3f04649f78c416d0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/863608/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 18 mei 2026:",
-    "published_at": "2026-05-08 15:56",
-    "scraped_at": "2026-05-08T16:23:46.196283"
-  },
-  {
-    "id": "f5674d2ff6c1cb81cf97e41d6b5ad06d",
-    "categorie": "Beursnieuws",
-    "titel": "Citi verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/863604/Citi-verhoogt-koersdoel-ING.aspx",
-    "intro": "Citi Research heeft vrijdag het koersdoel voor ING verhoogd van 28,70 naar 30,20 euro met een herhaling van het koopadvies. Dit bleek uit een analistenrapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-05-08 15:44",
-    "scraped_at": "2026-05-08T16:23:46.196283"
-  },
-  {
-    "id": "cab01d32c0fd73247a6b89b4e3507d41",
-    "categorie": "Beursnieuws",
-    "titel": "ABN AMRO verhoogt koersdoel Kendrion stevig",
-    "link": "https://www.beurs.nl/Nieuws/863599/ABN-AMRO-verhoogt-koersdoel-Kendrion-stevig.aspx",
-    "intro": "ABN AMRO Oddo heeft vrijdag het koersdoel voor Kendrion verhoogd van 17,50 naar 22,00 euro met een onveranderd Outperform advies. Dit bleek uit een rapport van analist Martijn den Drijver.",
-    "published_at": "2026-05-08 14:55",
-    "scraped_at": "2026-05-08T16:23:46.196283"
+    "scraped_at": "2026-05-08T17:51:36.016016"
   }
 ]
