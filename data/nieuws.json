@@ -1,12 +1,39 @@
 [
   {
+    "id": "fc0b57d9a81d1f2366096fd1f23a3460",
+    "categorie": "Beursnieuws",
+    "titel": "Minder Amerikaanse banen erbij in april",
+    "link": "https://www.beurs.nl/Nieuws/863597/Minder-Amerikaanse-banen-erbij-in-april.aspx",
+    "intro": "Er zijn in april 115.000 Amerikaanse banen bijgekomen, veel minder dan in maart, maar wel meer dan verwacht. Dit bleek vrijdag uit het banenrapport van de Amerikaanse overheid.",
+    "published_at": "2026-05-08 14:33",
+    "scraped_at": "2026-05-08T13:00:11.502026"
+  },
+  {
+    "id": "48834691b0a8d5ff7d6a4bf9d4a2bb3c",
+    "categorie": "Crypto",
+    "titel": "Dogecoin veert op uit het dal, maar deze grens blijft cruciaal",
+    "link": "https://www.tostrams.nl/artikel/863592/Dogecoin-veert-op-uit-het-dal-maar-deze-grens-blijft-cruciaal.aspx",
+    "intro": "Dogecoin was jarenlang vooral de speelse outsider van de cryptomarkt, maar groeide tijdens de hausse van 2021 en 2024 uit tot een serieus speculatief beleggingsobject. Na een forse terugval van meer dan 80% lijkt de rust nu voorzichtig terug te keren.",
+    "published_at": "2026-05-08 14:10",
+    "scraped_at": "2026-05-08T13:00:11.502026"
+  },
+  {
+    "id": "57eee53bc699629570ad5f83566cb553",
+    "categorie": "Beursnieuws",
+    "titel": "Damrak: Kendrion en Pharming aan kop",
+    "link": "https://www.beurs.nl/Nieuws/863591/Damrak-Kendrion-en-Pharming-aan-kop.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag op verlies. De AEX daalt met 0,4 procent naar 1.016 punten.",
+    "published_at": "2026-05-08 13:58",
+    "scraped_at": "2026-05-08T13:00:11.502026"
+  },
+  {
     "id": "4575ca574a9b36dd533f9509084f945b",
     "categorie": "Beursnieuws",
     "titel": "AI helpt CloudFlare personeelsbestand in te krimpen",
     "link": "https://www.beurs.nl/Nieuws/863586/AI-helpt-CloudFlare-personeelsbestand-in-te-krimpen.aspx",
     "intro": "CloudFlare denkt dat het met behulp van AI meer dan een vijfde van zijn personeel kan missen. Dit bleek donderdagavond uit cijfers die de aanbieder van cloudnetwerken verstrekte.",
     "published_at": "2026-05-08 13:14",
-    "scraped_at": "2026-05-08T11:39:04.369397"
+    "scraped_at": "2026-05-08T13:00:11.502026"
   },
   {
     "id": "00a9edca76ea906a0a39421e3b95509d",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/863585/Amerikaanse-futures-kleuren-groen.aspx",
     "intro": "De Amerikaanse aandelenmarkten lijken vrijdag, in afwachting van het banenrapport, met winst van start te zullen gaan.",
     "published_at": "2026-05-08 13:04",
-    "scraped_at": "2026-05-08T11:39:04.369397"
+    "scraped_at": "2026-05-08T13:00:11.502026"
   },
   {
     "id": "90e760c67c75d160e6c07e4d55196836",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863576/Rood-domineert-op-Europese-beursvloeren.aspx",
     "intro": "De Europese aandelenmarkten stonden vrijdag onder druk, nu er nog altijd geen akkoord is bereikt dat een einde maakt aan de oorlog in Iran. Verder is het wachten op het Amerikaanse banenrapport.",
     "published_at": "2026-05-08 12:10",
-    "scraped_at": "2026-05-08T11:39:04.369397"
+    "scraped_at": "2026-05-08T13:00:11.502026"
   },
   {
     "id": "df223faea488ea215eaf8ad215b79851",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863567/Rode-koersen-op-Damrak.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend in het rood, in afwachting van het Amerikaanse banenrapport vanmiddag.",
     "published_at": "2026-05-08 11:08",
-    "scraped_at": "2026-05-08T11:39:04.369397"
+    "scraped_at": "2026-05-08T13:00:11.502026"
   },
   {
     "id": "d0f8270609982dd5908acecb4bee0253",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863559/UBS-verlaagt-koersdoel-Shell.aspx",
     "intro": "UBS heeft het koersdoel voor Shell verlaagd van 38,50 naar 35,00 Britse pond met handhaving van het advies op Neutraal. Dit bleek vrijdag uit een rapport van de Zwitserse bank.",
     "published_at": "2026-05-08 10:28",
-    "scraped_at": "2026-05-08T11:39:04.369397"
+    "scraped_at": "2026-05-08T13:00:11.502026"
   },
   {
     "id": "301a7e832dccf3dd22a88564a509263f",
@@ -51,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/863423/Must-read-wijzen-dalende-verkopen-van-witgoed-op-een-crisis.aspx",
     "intro": "De vraag naar huishoudelijke apparaten is niet zo laag geweest sinds de financiële crisis van 2008. Wijst dit op een crisis? Plus: van TACO's naar NACHO's, Trump dreigt EU met hogere importheffingen, 7 groeiaandelen die dividend uitkeren en meer.",
     "published_at": "2026-05-08 10:15",
-    "scraped_at": "2026-05-08T11:39:04.369397"
+    "scraped_at": "2026-05-08T13:00:11.502026"
   },
   {
     "id": "73358b0348ad49f7bba0d664b86e02c8",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863548/KBC-Securities-verhoogt-advies-Philips.aspx",
     "intro": "KBC Securities heeft het advies voor Philips verhoogd van Accumuleren naar Kopen, maar herhaalde het koersdoel van 27,50 euro. Dit bleek vrijdag uit een rapport van analist Michiel Declercq.",
     "published_at": "2026-05-08 09:29",
-    "scraped_at": "2026-05-08T11:39:04.369397"
-  },
-  {
-    "id": "c4531b4f497d0391275800c8f80445f1",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start gegaan, koerssprong Sif",
-    "link": "https://www.beurs.nl/Nieuws/863545/AEX-lager-van-start-gegaan-koerssprong-Sif.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong ruim een half procent lager op 1.013,84 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
-    "published_at": "2026-05-08 09:12",
-    "scraped_at": "2026-05-08T11:39:04.369397"
-  },
-  {
-    "id": "7e1f3a8d6d2e7a315306108b47403714",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse export licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/863539/Duitse-export-licht-gestegen.aspx",
-    "intro": "De Duitse export is in maart gestegen. Dit bleek vrijdag uit cijfers van het Duitse statistiekbureau Destatis.",
-    "published_at": "2026-05-08 08:56",
-    "scraped_at": "2026-05-08T11:39:04.369397"
-  },
-  {
-    "id": "a5b996c7cc338bccbd4040fb937f7f0b",
-    "categorie": "Beursnieuws",
-    "titel": "Productie Duitse industrie onverwachts gedaald",
-    "link": "https://www.beurs.nl/Nieuws/863537/Productie-Duitse-industrie-onverwachts-gedaald.aspx",
-    "intro": "De productie van de Duitse industrie is in maart gedaald. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-05-08 08:47",
-    "scraped_at": "2026-05-08T11:39:04.369397"
+    "scraped_at": "2026-05-08T13:00:11.502026"
   }
 ]
