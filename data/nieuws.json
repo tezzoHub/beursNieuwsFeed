@@ -1,12 +1,57 @@
 [
   {
+    "id": "73358b0348ad49f7bba0d664b86e02c8",
+    "categorie": "Beursnieuws",
+    "titel": "KBC Securities verhoogt advies Philips",
+    "link": "https://www.beurs.nl/Nieuws/863548/KBC-Securities-verhoogt-advies-Philips.aspx",
+    "intro": "KBC Securities heeft het advies voor Philips verhoogd van Accumuleren naar Kopen, maar herhaalde het koersdoel van 27,50 euro. Dit bleek vrijdag uit een rapport van analist Michiel Declercq.",
+    "published_at": "2026-05-08 09:29",
+    "scraped_at": "2026-05-08T08:07:31.056171"
+  },
+  {
+    "id": "c4531b4f497d0391275800c8f80445f1",
+    "categorie": "Beursnieuws",
+    "titel": "AEX lager van start gegaan, koerssprong Sif",
+    "link": "https://www.beurs.nl/Nieuws/863545/AEX-lager-van-start-gegaan-koerssprong-Sif.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong ruim een half procent lager op 1.013,84 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
+    "published_at": "2026-05-08 09:12",
+    "scraped_at": "2026-05-08T08:07:31.056171"
+  },
+  {
+    "id": "7e1f3a8d6d2e7a315306108b47403714",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse export licht gestegen",
+    "link": "https://www.beurs.nl/Nieuws/863539/Duitse-export-licht-gestegen.aspx",
+    "intro": "De Duitse export is in maart gestegen. Dit bleek vrijdag uit cijfers van het Duitse statistiekbureau Destatis.",
+    "published_at": "2026-05-08 08:56",
+    "scraped_at": "2026-05-08T08:07:31.056171"
+  },
+  {
+    "id": "a5b996c7cc338bccbd4040fb937f7f0b",
+    "categorie": "Beursnieuws",
+    "titel": "Productie Duitse industrie onverwachts gedaald",
+    "link": "https://www.beurs.nl/Nieuws/863537/Productie-Duitse-industrie-onverwachts-gedaald.aspx",
+    "intro": "De productie van de Duitse industrie is in maart gedaald. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-05-08 08:47",
+    "scraped_at": "2026-05-08T08:07:31.056171"
+  },
+  {
+    "id": "46694dd1e28981988aa93bf6c2fae37d",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine omzetdaling voor TSMC",
+    "link": "https://www.beurs.nl/Nieuws/863534/Kleine-omzetdaling-voor-TSMC.aspx",
+    "intro": "TSMC heeft in april iets minder omzet behaald dan in de maand ervoor, hoewel er op jaarbasis wel sprake was van een dubbelcijferige omzetstijging. Dit bleek vrijdagochtend uit cijfers van de Taiwanese chipgigant.",
+    "published_at": "2026-05-08 08:28",
+    "scraped_at": "2026-05-08T08:07:31.056171"
+  },
+  {
     "id": "d0c9aab1e731b98546e89a49879f82e4",
     "categorie": "Beursnieuws",
     "titel": "AEX start handelsdag lager na oplopende spanningen in Midden-Oosten",
     "link": "https://www.beurs.nl/Nieuws/863530/AEX-start-handelsdag-lager-na-oplopende-spanningen-in-Midden-Oosten.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,4 procent.",
     "published_at": "2026-05-08 08:13",
-    "scraped_at": "2026-05-08T06:24:04.872870"
+    "scraped_at": "2026-05-08T08:07:31.056171"
   },
   {
     "id": "6ec38f38f8679d4d76e7dcce7408f134",
@@ -15,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/863364/AEX-opent-lager-Heijmans-handhaaft-outlook-en-we-hebben-TSMC-ook-nog.aspx",
     "intro": "De AEX staat voor een lagere opening nadat ook de beurzen in de VS en Azië de wind van voren kregen. Op het Damrak krijgen we cijfers Heijmans en Sif, vanmiddag Amerikaanse banencijfers.",
     "published_at": "2026-05-08 08:10",
-    "scraped_at": "2026-05-08T06:24:04.872870"
+    "scraped_at": "2026-05-08T08:07:31.056171"
   },
   {
     "id": "a582c137e6187ab2725d419b67aef817",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863526/Brunel-boekt-autonoom-weer-groei.aspx",
     "intro": "Brunel heeft in het eerste kwartaal de eerste tekenen van een herstel gezien met een terugkeer naar autonome groei. Dit bleek vrijdag voorbeurs uit een update van de specialistische detacheerder.",
     "published_at": "2026-05-08 08:03",
-    "scraped_at": "2026-05-08T06:24:04.872870"
+    "scraped_at": "2026-05-08T08:07:31.056171"
   },
   {
     "id": "f208ca2ce4987264b1ed9671934ddd07",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863521/Heijmans-handhaaft-outlook-voor-2026.aspx",
     "intro": "Heijmans ligt op koers om de outlook voor 2026 te halen. Dit bleek vrijdag voorbeurs uit een update van de bouwer.",
     "published_at": "2026-05-08 07:48",
-    "scraped_at": "2026-05-08T06:24:04.872870"
+    "scraped_at": "2026-05-08T08:07:31.056171"
   },
   {
     "id": "6cd829d6ea83b897e04112f3ab606b04",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863520/Europese-beurzen-openen-in-het-rood.aspx",
     "intro": "De Europese beurzen gaan vrijdag een rode opening tegemoet, in afwachting van het Amerikaanse banenrapport en nog altijd hopend op een akkoord tussen de VS en Iran.",
     "published_at": "2026-05-08 07:37",
-    "scraped_at": "2026-05-08T06:24:04.872870"
-  },
-  {
-    "id": "f12e3e68919751ae9924a0b8a7e1a0de",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren in het rood",
-    "link": "https://www.beurs.nl/Nieuws/863515/Aziatische-beurzen-noteren-in-het-rood.aspx",
-    "intro": "De Aziatische beurzen stonden vrijdagochtend flink onder druk, na berichten over hernieuwde vijandelijkheden tussen Iran en de VS, te midden van een fragiel staakt-het-vuren.",
-    "published_at": "2026-05-08 07:19",
-    "scraped_at": "2026-05-08T06:24:04.872870"
-  },
-  {
-    "id": "7d900045b21bdd648deac0114b298a34",
-    "categorie": "Beursnieuws",
-    "titel": "Sif ziet winstgevendheid verdubbelen",
-    "link": "https://www.beurs.nl/Nieuws/863514/Sif-ziet-winstgevendheid-verdubbelen.aspx",
-    "intro": "Sif heeft in het eerste kwartaal de resultaten zien stijgen en herhaalde de outlook voor heel dit jaar. Dit bleek vrijdag uit cijfers van de Roermondse funderingsspecialist.",
-    "published_at": "2026-05-08 07:15",
-    "scraped_at": "2026-05-08T06:24:04.872870"
-  },
-  {
-    "id": "f49d35ffca6b64c72c10d92204c9a1f0",
-    "categorie": "Beursnieuws",
-    "titel": "Flinke productiestijging Nederlandse industrie",
-    "link": "https://www.beurs.nl/Nieuws/863513/Flinke-productiestijging-Nederlandse-industrie.aspx",
-    "intro": "De Nederlandse industrie heeft in maart meer geproduceerd dan in dezelfde periode vorig jaar. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek",
-    "published_at": "2026-05-08 07:00",
-    "scraped_at": "2026-05-08T06:24:04.872870"
-  },
-  {
-    "id": "844b15c77f28171b2d77e434f9728737",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/863509/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 15 mei 2026:",
-    "published_at": "2026-05-08 06:55",
-    "scraped_at": "2026-05-08T06:24:04.872870"
-  },
-  {
-    "id": "97cea9569dded127942d68c22bb75a3f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/863510/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 15 mei 2026:",
-    "published_at": "2026-05-08 06:55",
-    "scraped_at": "2026-05-08T06:24:04.872870"
+    "scraped_at": "2026-05-08T08:07:31.056171"
   }
 ]
