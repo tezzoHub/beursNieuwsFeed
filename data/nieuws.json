@@ -1,92 +1,20 @@
 [
   {
-    "id": "84ab5917f029fc07eddc9fac83e1b4d6",
+    "id": "c2802a3c1eae48d9c2623e9c45bfb9b8",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/863655/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-05-08 22:22",
-    "scraped_at": "2026-05-09T14:55:37.336671"
+    "titel": "Volatiele beursweek met tussentijds record voor de AEX",
+    "link": "https://www.beurs.nl/Nieuws/863659/Volatiele-beursweek-met-tussentijds-record-voor-de-AEX.aspx",
+    "intro": "De Amsterdamse beurs heeft een turbulente week achter de rug, die vooral in het teken stond van de oorlog in het Midden-Oosten. Er werd gehint en gehoopt op een akkoord tussen de VS en Iran, maar die er niet kwam.",
+    "published_at": "2026-05-09 17:37",
+    "scraped_at": "2026-05-09T15:56:03.435446"
   },
   {
-    "id": "3076ca65594ec1ec0734c604a373a28b",
+    "id": "60014e838dd53c7f03dd22fa80166e66",
     "categorie": "Beursnieuws",
-    "titel": "Technologie trekt S&P 500 en Nasdaq naar nieuwe records",
-    "link": "https://www.beurs.nl/Nieuws/863654/Technologie-trekt-SP-500-en-Nasdaq-naar-nieuwe-records.aspx",
-    "intro": "De Amerikaanse aandelen zijn vrijdag hoger gesloten, aangevoerd door de technologiesector. Beleggers verwerkten een verrassend sterk banenrapport over april en hielden tegelijkertijd rekening met de oplopende spanningen tussen Washington en Teheran.",
-    "published_at": "2026-05-08 22:16",
-    "scraped_at": "2026-05-09T14:55:37.336671"
-  },
-  {
-    "id": "e9482133a79f6bf0afab790bae0c5c64",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen afwachtend het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/863648/Olieprijzen-afwachtend-het-weekend-in.aspx",
-    "intro": "De olieprijzen zijn vrijdag licht hoger gesloten. Beleggers wachten op een reactie van Iran op de Amerikaanse eisen, waarbij Trump dreigt opnieuw te bombarderen als Teheran niet akkoord gaat.",
-    "published_at": "2026-05-08 21:08",
-    "scraped_at": "2026-05-09T14:55:37.336671"
-  },
-  {
-    "id": "990e2004b1aea1203718a4d2229dc0f7",
-    "categorie": "Beursnieuws",
-    "titel": "Trump kondigt staakt-het-vuren aan in Oekraïne",
-    "link": "https://www.beurs.nl/Nieuws/863647/Trump-kondigt-staakt-het-vuren-aan-in-Oekraine.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft vrijdag via zijn Truth Social aangekondigd dat Rusland en Oekraïne dit weekend een driedaags staakt-het-vuren ingaan. Het bestand omvat ook een uitwisseling van duizend gevangenen van elke kant.",
-    "published_at": "2026-05-08 20:39",
-    "scraped_at": "2026-05-09T14:55:37.336671"
-  },
-  {
-    "id": "ebacd979e275c94955f887453eef1d05",
-    "categorie": "Beursnieuws",
-    "titel": "S&P 500 op weg naar de zesde winnende week op rij",
-    "link": "https://www.beurs.nl/Nieuws/863643/SP-500-op-weg-naar-de-zesde-winnende-week-op-rij.aspx",
-    "intro": "De Amerikaanse aandelen stegen vrijdag, aangevoerd door de technologiesector. Beleggers verwerkten een verrassend sterk banenrapport over april en hielden tegelijkertijd rekening met de oplopende spanningen tussen Washington en Teheran.",
-    "published_at": "2026-05-08 19:42",
-    "scraped_at": "2026-05-09T14:55:37.336671"
-  },
-  {
-    "id": "5705cee1c9de4bd8bad6adbab382f0fc",
-    "categorie": "Beursnieuws",
-    "titel": "WSJ: Intel sluit chipdeal met Apple",
-    "link": "https://www.beurs.nl/Nieuws/863642/WSJ-Intel-sluit-chipdeal-met-Apple.aspx",
-    "intro": "Intel heeft een deal gesloten met Apple om chips te maken voor de apparaten van de techgigant. Dit meldde The Wall Street Journal vrijdag.",
-    "published_at": "2026-05-08 19:12",
-    "scraped_at": "2026-05-09T14:55:37.336671"
-  },
-  {
-    "id": "9ba8e3ba60c4b2072137aae184212545",
-    "categorie": "Beursnieuws",
-    "titel": "Trumps tariefdreiging drukt Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/863639/Trumps-tariefdreiging-drukt-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen zijn vrijdag lager gesloten, na dreigementen van de Amerikaanse president Donald Trump met nieuwe tarieven voor de Europese Unie en aanhoudende spanningen in het Midden-Oosten. Op weekbasis bleef de STOXX Europe 600 nagenoeg ongewijzigd.",
-    "published_at": "2026-05-08 18:40",
-    "scraped_at": "2026-05-09T14:55:37.336671"
-  },
-  {
-    "id": "c1112d86d7d0828f71cad385473c52d5",
-    "categorie": "Beursnieuws",
-    "titel": "Euronext meldt lagere volumes",
-    "link": "https://www.beurs.nl/Nieuws/863638/Euronext-meldt-lagere-volumes.aspx",
-    "intro": "De handelsvolumes van contante effecten op Euronext zijn in april gedaald. Dit maakte de Europese beursuitbater vrijdagavond bekend.",
-    "published_at": "2026-05-08 18:16",
-    "scraped_at": "2026-05-09T14:55:37.336671"
-  },
-  {
-    "id": "137f17a707c8adef3b495fa67da1b8bd",
-    "categorie": "Beurs vandaag",
-    "titel": "Slotcall: dagverlies, maar fraaie start van meimaand",
-    "link": "https://www.beurs.nl/Artikel/863617/Slotcall-dagverlies-maar-fraaie-start-van-meimaand.aspx",
-    "intro": "AEX eindigt 0,2% lager. Pharming en Kendrion zijn de sterren van de dag. Positieve stemming op Wall Street, vooral bij chipaandelen Micron, Qualcomm, AMD en Intel.",
-    "published_at": "2026-05-08 18:15",
-    "scraped_at": "2026-05-09T14:55:37.336671"
-  },
-  {
-    "id": "c97d8dcd29df131eb90760ec7a256fc9",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers trekken AEX net niet in het groen",
-    "link": "https://www.beurs.nl/Nieuws/863634/Chippers-trekken-AEX-net-niet-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag iets lager gesloten, ondanks de winsten voor de halfgeleideraandelen.",
-    "published_at": "2026-05-08 17:52",
-    "scraped_at": "2026-05-09T14:55:37.336671"
+    "titel": "VS sanctioneren bedrijven en personen die Iraanse militaire apparaat steunen",
+    "link": "https://www.beurs.nl/Nieuws/863658/VS-sanctioneren-bedrijven-en-personen-die-Iraanse-militaire-apparaat-steunen.aspx",
+    "intro": "De Verenigde Staten hebben sancties opgelegd aan elf bedrijven en drie personen in Iran, China, Wit-Rusland en de Verenigde Arabische Emiraten omdat zij Teheran hebben geholpen bij de aankoop van wapens. Dit meldde het Amerikaanse Department of State.",
+    "published_at": "2026-05-09 17:16",
+    "scraped_at": "2026-05-09T15:56:03.435446"
   }
 ]
