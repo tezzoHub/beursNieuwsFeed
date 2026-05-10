@@ -1,11 +1,29 @@
 [
   {
+    "id": "8d2b67ff3898a33d890d79afb97d6a35",
+    "categorie": "Beursnieuws",
+    "titel": "Beursweek in teken van inflatiecijfers en bezoek Trump aan Xi",
+    "link": "https://www.beurs.nl/Nieuws/863664/Beursweek-in-teken-van-inflatiecijfers-en-bezoek-Trump-aan-Xi.aspx",
+    "intro": "Na wederom een drukke week met veel bedrijfsresultaten en meevallende banencijfers in de VS, kunnen beleggers het komende week iets rustiger aan doen.",
+    "published_at": "2026-05-10 12:02",
+    "scraped_at": "2026-05-10T10:42:09.434644"
+  },
+  {
+    "id": "502c637266221ee9a0954d16b0719c5b",
+    "categorie": "Beursnieuws",
+    "titel": "Flinke koersbewegingen maar AEX per saldo slechts licht hoger",
+    "link": "https://www.beurs.nl/Nieuws/863662/Flinke-koersbewegingen-maar-AEX-per-saldo-slechts-licht-hoger.aspx",
+    "intro": "De laatste echte drukke week met bedrijfscijfers resulteerde op het Damrak in een bescheiden koerswinst voor de AEX van 0,3 procent, maar individueel waren de koersuitslagen een stuk groter.",
+    "published_at": "2026-05-10 11:22",
+    "scraped_at": "2026-05-10T10:42:09.434644"
+  },
+  {
     "id": "d87c5f7da8cabbeba02ab598d711bcac",
     "categorie": "Beursnieuws",
     "titel": "Stevige winststijging voor Saudi Aramco",
     "link": "https://www.beurs.nl/Nieuws/863661/Stevige-winststijging-voor-Saudi-Aramco.aspx",
     "intro": "Saudi Aramco heeft in het eerste kwartaal van 2026 flink meer winst behaald. Dit maakte de Saoedische staatsoliemaatschappij zondag bekend.",
     "published_at": "2026-05-10 10:24",
-    "scraped_at": "2026-05-10T09:10:08.387870"
+    "scraped_at": "2026-05-10T10:42:09.434644"
   }
 ]
