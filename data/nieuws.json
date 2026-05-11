@@ -1,12 +1,48 @@
 [
   {
+    "id": "4f42dfc4e3626bd9a3b01dbbe0336459",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen overwegend hoger gesloten ondanks impasse vredesdeal",
+    "link": "https://www.beurs.nl/Nieuws/863798/Europese-beurzen-overwegend-hoger-gesloten-ondanks-impasse-vredesdeal.aspx",
+    "intro": "De Europese beurzen zijn maandag overwegend hoger gesloten, terwijl beleggers de impasse rond een vredesdeal in het Midden-Oosten en de gevolgen ervan analyseerden.",
+    "published_at": "2026-05-11 18:45",
+    "scraped_at": "2026-05-11T17:28:10.513197"
+  },
+  {
+    "id": "d23446b523243b5508677b423e932d65",
+    "categorie": "Beursnieuws",
+    "titel": "Jaarvergadering ASMI akkoord met alle agendapunten",
+    "link": "https://www.beurs.nl/Nieuws/863797/Jaarvergadering-ASMI-akkoord-met-alle-agendapunten.aspx",
+    "intro": "De aandeelhouders van ASMI zijn maandag tijdens de jaarvergadering akkoord gegaan met alle agendapunten. Dit meldde het bedrijf na afloop van de bijeenkomst.",
+    "published_at": "2026-05-11 18:36",
+    "scraped_at": "2026-05-11T17:28:10.513197"
+  },
+  {
+    "id": "853ef668e79a53eb0e5d5a8b69adb131",
+    "categorie": "Beursnieuws",
+    "titel": "Stabiel kwartaal voor Vastned",
+    "link": "https://www.beurs.nl/Nieuws/863796/Stabiel-kwartaal-voor-Vastned.aspx",
+    "intro": "Vastned heeft in het eerste kwartaal van 2026 stabiele resultaten behaald en de vastgoedportefeuille in waarde zien stijgen. Dit bleek maandag nabeurs uit het tussentijdse handelsbericht van het vastgoedfonds.",
+    "published_at": "2026-05-11 18:12",
+    "scraped_at": "2026-05-11T17:28:10.513197"
+  },
+  {
+    "id": "29a891ab61b7dae2b135fe98b6448030",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit licht lager na vrij rustige sessie",
+    "link": "https://www.beurs.nl/Nieuws/863787/AEX-sluit-licht-lager-na-vrij-rustige-sessie.aspx",
+    "intro": "De Amsterdamse beurs is maandag licht lager geëindigd, na een vrij rustige sessie.",
+    "published_at": "2026-05-11 17:50",
+    "scraped_at": "2026-05-11T17:28:10.513197"
+  },
+  {
     "id": "b362894f3bae769755366cb56ccd813e",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/863773/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 19 mei 2026:",
     "published_at": "2026-05-11 16:31",
-    "scraped_at": "2026-05-11T14:57:55.921593"
+    "scraped_at": "2026-05-11T17:28:10.513197"
   },
   {
     "id": "bd62a71616e360463a3486781ffce4c9",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863775/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 19 mei 2026:",
     "published_at": "2026-05-11 16:31",
-    "scraped_at": "2026-05-11T14:57:55.921593"
+    "scraped_at": "2026-05-11T17:28:10.513197"
   },
   {
     "id": "08a459e47b7754b3d1e25e0cd63548aa",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863776/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 19 mei 2026:",
     "published_at": "2026-05-11 16:31",
-    "scraped_at": "2026-05-11T14:57:55.921593"
+    "scraped_at": "2026-05-11T17:28:10.513197"
   },
   {
     "id": "d4f1085b7b0fb17be18a4933076e860a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863774/Beursagenda-Belgische-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor België tot en met dinsdag 19 mei 2026:",
     "published_at": "2026-05-11 16:28",
-    "scraped_at": "2026-05-11T14:57:55.921593"
+    "scraped_at": "2026-05-11T17:28:10.513197"
   },
   {
     "id": "d4186dd1cd35d52b5d16ea5d5bbc08cf",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863771/Bestaande-woningverkopen-VS-stijgen-licht.aspx",
     "intro": "De bestaande woningverkopen in de Verenigde Staten zijn in april licht gestegen. Dit bleek maandag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-05-11 16:11",
-    "scraped_at": "2026-05-11T14:57:55.921593"
+    "scraped_at": "2026-05-11T17:28:10.513197"
   },
   {
     "id": "1ccf127fd4d9360b58c489e43568fdd2",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863761/Europese-Commissie-mogelijk-in-zee-met-OpenAI-voor-cyberbeveiliging.aspx",
     "intro": "De Europese Commissie praat met OpenAI over mogelijke toegang tot een nieuwe versie van het AI-model van het Amerikaanse bedrijf, dat focust op cyberbeveiliging. Dit bevestigde een woordvoerder in Brussel maandag.",
     "published_at": "2026-05-11 14:55",
-    "scraped_at": "2026-05-11T14:57:55.921593"
-  },
-  {
-    "id": "caef85043d3737e58770360b02092dad",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street start nieuwe week afwachtend",
-    "link": "https://www.beurs.nl/Nieuws/863762/Wall-Street-start-nieuwe-week-afwachtend.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een terughoudende opening tegemoet. Ongeveer een half uur voor de openingsbel noteerden de futures op de SP 500 tot 0,1 procent lager.",
-    "published_at": "2026-05-11 14:54",
-    "scraped_at": "2026-05-11T14:57:55.921593"
-  },
-  {
-    "id": "16b30aa620a65ab6a569b6cdfeb18da5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: klein verlies op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/863755/Beursupdate-klein-verlies-op-Damrak.aspx",
-    "intro": "De AEX noteerde maandagmiddag licht in het rood. De AEX daalde met 0,2 procent naar 1.015,30 punten.",
-    "published_at": "2026-05-11 14:12",
-    "scraped_at": "2026-05-11T14:57:55.921593"
-  },
-  {
-    "id": "e2961cd2d38896399c718176714b20f6",
-    "categorie": "Beursnieuws",
-    "titel": "Media: LVMH wil afslanken",
-    "link": "https://www.beurs.nl/Nieuws/863748/Media-LVMH-wil-afslanken.aspx",
-    "intro": "LVMH onderzoekt de verkoop van enkele van zijn mode- en cosmeticamerken en ook de drankdivisie zou worden bekeken, in antwoord op een periode van afnemende vraag voor de toonaangevende verkoper van luxe-artikelen, zo meldde de Financial Times maandag op basis van bronnen.",
-    "published_at": "2026-05-11 13:19",
-    "scraped_at": "2026-05-11T14:57:55.921593"
-  },
-  {
-    "id": "958ce92b2dcd2e1ee25594f81124a2ba",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen afwachtende opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/863745/Futures-voorspellen-afwachtende-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een terughoudende opening tegemoet, met rond lunchtijd een licht verlies voor de SP 500-futures.",
-    "published_at": "2026-05-11 13:03",
-    "scraped_at": "2026-05-11T14:57:55.921593"
+    "scraped_at": "2026-05-11T17:28:10.513197"
   }
 ]
