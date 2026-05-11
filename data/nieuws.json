@@ -1,12 +1,84 @@
 [
   {
+    "id": "b362894f3bae769755366cb56ccd813e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/863773/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 19 mei 2026:",
+    "published_at": "2026-05-11 16:31",
+    "scraped_at": "2026-05-11T14:57:55.921593"
+  },
+  {
+    "id": "bd62a71616e360463a3486781ffce4c9",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/863775/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 19 mei 2026:",
+    "published_at": "2026-05-11 16:31",
+    "scraped_at": "2026-05-11T14:57:55.921593"
+  },
+  {
+    "id": "08a459e47b7754b3d1e25e0cd63548aa",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/863776/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 19 mei 2026:",
+    "published_at": "2026-05-11 16:31",
+    "scraped_at": "2026-05-11T14:57:55.921593"
+  },
+  {
+    "id": "d4f1085b7b0fb17be18a4933076e860a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Belgische bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/863774/Beursagenda-Belgische-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor België tot en met dinsdag 19 mei 2026:",
+    "published_at": "2026-05-11 16:28",
+    "scraped_at": "2026-05-11T14:57:55.921593"
+  },
+  {
+    "id": "d4186dd1cd35d52b5d16ea5d5bbc08cf",
+    "categorie": "Beursnieuws",
+    "titel": "Bestaande woningverkopen VS stijgen licht",
+    "link": "https://www.beurs.nl/Nieuws/863771/Bestaande-woningverkopen-VS-stijgen-licht.aspx",
+    "intro": "De bestaande woningverkopen in de Verenigde Staten zijn in april licht gestegen. Dit bleek maandag uit cijfers van makelaarsorganisatie NAR.",
+    "published_at": "2026-05-11 16:11",
+    "scraped_at": "2026-05-11T14:57:55.921593"
+  },
+  {
+    "id": "1ccf127fd4d9360b58c489e43568fdd2",
+    "categorie": "Beursnieuws",
+    "titel": "Europese Commissie mogelijk in zee met OpenAI voor cyberbeveiliging",
+    "link": "https://www.beurs.nl/Nieuws/863761/Europese-Commissie-mogelijk-in-zee-met-OpenAI-voor-cyberbeveiliging.aspx",
+    "intro": "De Europese Commissie praat met OpenAI over mogelijke toegang tot een nieuwe versie van het AI-model van het Amerikaanse bedrijf, dat focust op cyberbeveiliging. Dit bevestigde een woordvoerder in Brussel maandag.",
+    "published_at": "2026-05-11 14:55",
+    "scraped_at": "2026-05-11T14:57:55.921593"
+  },
+  {
+    "id": "caef85043d3737e58770360b02092dad",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street start nieuwe week afwachtend",
+    "link": "https://www.beurs.nl/Nieuws/863762/Wall-Street-start-nieuwe-week-afwachtend.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een terughoudende opening tegemoet. Ongeveer een half uur voor de openingsbel noteerden de futures op de SP 500 tot 0,1 procent lager.",
+    "published_at": "2026-05-11 14:54",
+    "scraped_at": "2026-05-11T14:57:55.921593"
+  },
+  {
+    "id": "16b30aa620a65ab6a569b6cdfeb18da5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: klein verlies op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/863755/Beursupdate-klein-verlies-op-Damrak.aspx",
+    "intro": "De AEX noteerde maandagmiddag licht in het rood. De AEX daalde met 0,2 procent naar 1.015,30 punten.",
+    "published_at": "2026-05-11 14:12",
+    "scraped_at": "2026-05-11T14:57:55.921593"
+  },
+  {
     "id": "e2961cd2d38896399c718176714b20f6",
     "categorie": "Beursnieuws",
     "titel": "Media: LVMH wil afslanken",
     "link": "https://www.beurs.nl/Nieuws/863748/Media-LVMH-wil-afslanken.aspx",
     "intro": "LVMH onderzoekt de verkoop van enkele van zijn mode- en cosmeticamerken en ook de drankdivisie zou worden bekeken, in antwoord op een periode van afnemende vraag voor de toonaangevende verkoper van luxe-artikelen, zo meldde de Financial Times maandag op basis van bronnen.",
     "published_at": "2026-05-11 13:19",
-    "scraped_at": "2026-05-11T11:51:45.137673"
+    "scraped_at": "2026-05-11T14:57:55.921593"
   },
   {
     "id": "958ce92b2dcd2e1ee25594f81124a2ba",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863745/Futures-voorspellen-afwachtende-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een terughoudende opening tegemoet, met rond lunchtijd een licht verlies voor de SP 500-futures.",
     "published_at": "2026-05-11 13:03",
-    "scraped_at": "2026-05-11T11:51:45.137673"
-  },
-  {
-    "id": "e9830311b9add317ce943ac598e8b6e1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: contract Apple voor Intel goed nieuws voor Nederlandse chippers",
-    "link": "https://www.beurs.nl/Nieuws/863738/Beursblik-contract-Apple-voor-Intel-goed-nieuws-voor-Nederlandse-chippers.aspx",
-    "intro": "Een Apple-contract voor Intel zou ook goed nieuws zijn voor de Nederlandse 'chippers'. Dit blijkt maandag uit een analistenrapport van Bank of America.",
-    "published_at": "2026-05-11 12:17",
-    "scraped_at": "2026-05-11T11:51:45.137673"
-  },
-  {
-    "id": "4cfd909ec3305c239dfa4860d39193bf",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Chinese autofabrikanten slaan toe in Europa",
-    "link": "https://www.beurs.nl/Nieuws/863737/Beursblik-Chinese-autofabrikanten-slaan-toe-in-Europa.aspx",
-    "intro": "Bank of America heeft de adviezen voor de Europese autofabrikanten Stellantis en Renault verlaagd, vanwege de sterke groei van de verkoop van Chinese auto's in Europa. Dit bleek maandag uit een analistenrapport van de Amerikaanse bank.",
-    "published_at": "2026-05-11 12:12",
-    "scraped_at": "2026-05-11T11:51:45.137673"
-  },
-  {
-    "id": "4ff4fc592946f2f5e62d157790394f4e",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verdeeld rond lunchtijd",
-    "link": "https://www.beurs.nl/Nieuws/863734/Europese-beurzen-verdeeld-rond-lunchtijd.aspx",
-    "intro": "De Europese beurzen noteerden maandag rond het middaguur verdeeld, terwijl de olieprijzen weer stegen.",
-    "published_at": "2026-05-11 11:55",
-    "scraped_at": "2026-05-11T11:51:45.137673"
-  },
-  {
-    "id": "56fd8ce6dd36b65152c793f329021d44",
-    "categorie": "Beursnieuws",
-    "titel": "Rustige ochtend aan het Damrak",
-    "link": "https://www.beurs.nl/Nieuws/863726/Rustige-ochtend-aan-het-Damrak.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagochtend iets onder de slotstand van vrijdag. De AEX daalde licht tot 1.016,19 punten.",
-    "published_at": "2026-05-11 11:20",
-    "scraped_at": "2026-05-11T11:51:45.137673"
-  },
-  {
-    "id": "1f1400fa9da402b9952cffb78f8b4b71",
-    "categorie": "Beursnieuws",
-    "titel": "Kepler verhoogt koersdoel BAM",
-    "link": "https://www.beurs.nl/Nieuws/863722/Kepler-verhoogt-koersdoel-BAM.aspx",
-    "intro": "Kepler Cheuvreux heeft maandag het koersdoel voor BAM Groep verhoogd van 10,50 naar 12,10 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van de zakenbank.",
-    "published_at": "2026-05-11 10:15",
-    "scraped_at": "2026-05-11T11:51:45.137673"
-  },
-  {
-    "id": "3541598ed0640cdd11c52c4a3118c92d",
-    "categorie": "IEX",
-    "titel": "Must read: Vertrouwen zakt, prijzen dreigen te stijgen",
-    "link": "https://www.iex.nl/artikel/863715/Must-read-Vertrouwen-zakt-prijzen-dreigen-te-stijgen.aspx",
-    "intro": "Het ondernemersvertrouwen is sinds begin 2022 niet meer zo hard gedaald, terwijl meer bedrijven verwachten hun prijzen te verhogen. Plus: impactinvesteringen doen niet onder voor traditionele beleggingen, AI verandert de bestuurskamer, olie (alweer) boven $100 en meer.",
-    "published_at": "2026-05-11 10:00",
-    "scraped_at": "2026-05-11T11:51:45.137673"
-  },
-  {
-    "id": "67e926e4801a823f17253423ffc27e17",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/863718/AEX-licht-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste maandag kort na de beursgong 0,3 procent hoger op 1.020,20 punten, terwijl de Midkap 0,1 procent prijs moest geven.",
-    "published_at": "2026-05-11 09:15",
-    "scraped_at": "2026-05-11T11:51:45.137673"
-  },
-  {
-    "id": "da7e9a059a0c8ea03b13d5428d16f404",
-    "categorie": "Voorbeurs",
-    "titel": "Iranoorlog weer vol op tafel, ogen gericht op Trump en Xi",
-    "link": "https://www.beurs.nl/Artikel/863671/Iranoorlog-weer-vol-op-tafel-ogen-gericht-op-Trump-en-Xi.aspx",
-    "intro": "Trump veegt vredesvoorstel van tafel en ontmoet later in de week Xi. Olieprijzen lopen weer op. En verder: Prosus, BAM, Moderna en vliegende SOX.",
-    "published_at": "2026-05-11 08:30",
-    "scraped_at": "2026-05-11T11:51:45.137673"
+    "scraped_at": "2026-05-11T14:57:55.921593"
   }
 ]
