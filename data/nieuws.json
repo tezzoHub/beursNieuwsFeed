@@ -1,47 +1,92 @@
 [
   {
-    "id": "28de2d9a4d17f98196db4926855a6732",
+    "id": "fe1e40a8127081b6e2a6a6ecb687cd50",
     "categorie": "Beursnieuws",
-    "titel": "Trump noemt reactie Iran totaal onacceptabel",
-    "link": "https://www.beurs.nl/Nieuws/863675/Trump-noemt-reactie-Iran-totaal-onacceptabel.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft zondagavond de reactie van Iran op het Amerikaanse voorstel om een einde te maken aan de oorlog \"totaal onacceptabel\" genoemd.",
-    "published_at": "2026-05-10 22:46",
-    "scraped_at": "2026-05-11T01:30:43.824665"
+    "titel": "Twee nieuwe grondposities voor WDP",
+    "link": "https://www.beurs.nl/Nieuws/863702/Twee-nieuwe-grondposities-voor-WDP.aspx",
+    "intro": "WDP heeft maandag twee nieuwe grondposities in Frankrijk aangekondigd, op de luchthaven Paris Charles de Gaulle en ten noorden van Toulouse.",
+    "published_at": "2026-05-11 07:40",
+    "scraped_at": "2026-05-11T05:44:32.645531"
   },
   {
-    "id": "915d797f6430f4fe1746851065098606",
+    "id": "7083cf534f67a06890b23198b01bed6a",
     "categorie": "Beursnieuws",
-    "titel": "Media: Teheran levert antwoord op Amerikaans voorstel in",
-    "link": "https://www.beurs.nl/Nieuws/863674/Media-Teheran-levert-antwoord-op-Amerikaans-voorstel-in.aspx",
-    "intro": "Iran heeft een officiële reactie gegeven op het voorstel dat Washington indiende om een einde te maken aan de oorlog. Dit meldde het Iraanse persbureau Irna zondag na een bevestiging hiervan door de Pakistaanse premier Shehbaz Sharif.",
-    "published_at": "2026-05-10 21:36",
-    "scraped_at": "2026-05-11T01:30:43.824665"
+    "titel": "BAM van start met aandeleninkoop",
+    "link": "https://www.beurs.nl/Nieuws/863701/BAM-van-start-met-aandeleninkoop.aspx",
+    "intro": "BAM Groep gaat maandag van start met het op 19 februari aangekondigde aandeleninkoopprogramma. Dit maakte de bouwer maandag voorbeurs bekend.",
+    "published_at": "2026-05-11 07:37",
+    "scraped_at": "2026-05-11T05:44:32.645531"
   },
   {
-    "id": "8d2b67ff3898a33d890d79afb97d6a35",
-    "categorie": "Beursnieuws",
-    "titel": "Beursweek in teken van inflatiecijfers en bezoek Trump aan Xi",
-    "link": "https://www.beurs.nl/Nieuws/863664/Beursweek-in-teken-van-inflatiecijfers-en-bezoek-Trump-aan-Xi.aspx",
-    "intro": "Na wederom een drukke week met veel bedrijfsresultaten en meevallende banencijfers in de VS, kunnen beleggers het komende week iets rustiger aan doen.",
-    "published_at": "2026-05-10 12:02",
-    "scraped_at": "2026-05-11T01:30:43.824665"
+    "id": "471f7cec53226a6fcf9a95faca5717bb",
+    "categorie": "Voorbeurs",
+    "titel": "XX Morning call",
+    "link": "https://www.beurs.nl/Artikel/863671/XX-Morning-call.aspx",
+    "intro": "",
+    "published_at": "2026-05-11 07:30",
+    "scraped_at": "2026-05-11T05:44:32.645531"
   },
   {
-    "id": "502c637266221ee9a0954d16b0719c5b",
+    "id": "7588c4e947b195fe23d1c61c17ab543b",
     "categorie": "Beursnieuws",
-    "titel": "Flinke koersbewegingen maar AEX per saldo slechts licht hoger",
-    "link": "https://www.beurs.nl/Nieuws/863662/Flinke-koersbewegingen-maar-AEX-per-saldo-slechts-licht-hoger.aspx",
-    "intro": "De laatste echte drukke week met bedrijfscijfers resulteerde op het Damrak in een bescheiden koerswinst voor de AEX van 0,3 procent, maar individueel waren de koersuitslagen een stuk groter.",
-    "published_at": "2026-05-10 11:22",
-    "scraped_at": "2026-05-11T01:30:43.824665"
+    "titel": "CFO Wereldhave vertrekt al na enkele maanden",
+    "link": "https://www.beurs.nl/Nieuws/863694/CFO-Wereldhave-vertrekt-al-na-enkele-maanden.aspx",
+    "intro": "Chief Financial Officer Marcel Eggenkamp verlaat Wereldhave al na enkele maanden, omdat de wederzijdse verwachtingen niet overeenkwamen. Dit maakte het vastgoedbedrijf maandagochtend bekend.",
+    "published_at": "2026-05-11 07:26",
+    "scraped_at": "2026-05-11T05:44:32.645531"
   },
   {
-    "id": "d87c5f7da8cabbeba02ab598d711bcac",
+    "id": "c3b459b8b96fbddce540a34031e168f8",
     "categorie": "Beursnieuws",
-    "titel": "Stevige winststijging voor Saudi Aramco",
-    "link": "https://www.beurs.nl/Nieuws/863661/Stevige-winststijging-voor-Saudi-Aramco.aspx",
-    "intro": "Saudi Aramco heeft in het eerste kwartaal van 2026 flink meer winst behaald. Dit maakte de Saoedische staatsoliemaatschappij zondag bekend.",
-    "published_at": "2026-05-10 10:24",
-    "scraped_at": "2026-05-11T01:30:43.824665"
+    "titel": "Aziatische beurzen overwegend in het rood en olieprijzen scherp in de lift",
+    "link": "https://www.beurs.nl/Nieuws/863693/Aziatische-beurzen-overwegend-in-het-rood-en-olieprijzen-scherp-in-de-lift.aspx",
+    "intro": "De Aziatische beurzen koersten maandagochtend overwegend lager, terwijl de olieprijzen juist scherp opliepen.",
+    "published_at": "2026-05-11 07:24",
+    "scraped_at": "2026-05-11T05:44:32.645531"
+  },
+  {
+    "id": "585df6fda520b6479991bd330d516409",
+    "categorie": "Beursnieuws",
+    "titel": "Chinese inflatie omhoog",
+    "link": "https://www.beurs.nl/Nieuws/863692/Chinese-inflatie-omhoog.aspx",
+    "intro": "De Chinese consumentenprijzen zijn in april harder gestegen dan in maart. Dit bleek maandag uit overheidscijfers.",
+    "published_at": "2026-05-11 07:16",
+    "scraped_at": "2026-05-11T05:44:32.645531"
+  },
+  {
+    "id": "a29880c302abd26e41d9929788dce183",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen voorzichtig",
+    "link": "https://www.beurs.nl/Nieuws/863688/Europese-beurzen-openen-voorzichtig.aspx",
+    "intro": "De aandelenmarkten in Europa gaan maandag een terughoudende opening tegemoet. Volgens de Amerikaanse president Donald Trump is de reactie van Iran op het Amerikaanse voorstel om de oorlog te beëindigen onacceptabel. Later deze week bezoekt Trump China en heeft een ontmoeting met Xi Jinping.IG voorziet een openingsverlies van 28 punten voor de Duitse DAX en een min van 9 punten voor de Franse CAC 40. De beurs in Londen opent vermoedelijk 9 punten hoger. De olieprijzen liepen vanochtend weer duidelijk op.",
+    "published_at": "2026-05-11 07:04",
+    "scraped_at": "2026-05-11T05:44:32.645531"
+  },
+  {
+    "id": "599f9e86bf478faeaaff2cde29f2727b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/863686/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 18 mei 2026:",
+    "published_at": "2026-05-11 06:54",
+    "scraped_at": "2026-05-11T05:44:32.645531"
+  },
+  {
+    "id": "25951b7c032fdbdd00c62f5010b9c8fd",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/863685/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 18 mei 2026:",
+    "published_at": "2026-05-11 06:53",
+    "scraped_at": "2026-05-11T05:44:32.645531"
+  },
+  {
+    "id": "84623aabb3465e23caea8c8092987817",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/863684/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 18 mei 2026:",
+    "published_at": "2026-05-11 06:52",
+    "scraped_at": "2026-05-11T05:44:32.645531"
   }
 ]
