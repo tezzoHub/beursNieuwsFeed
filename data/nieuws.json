@@ -1,12 +1,66 @@
 [
   {
-    "id": "af0da2566e956a94d3e9868a63168c1f",
+    "id": "e2961cd2d38896399c718176714b20f6",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Kepler verhoogt koersdoel BAM",
-    "link": "https://www.beurs.nl/Nieuws/863722/Beursblik-Kepler-verhoogt-koersdoel-BAM.aspx",
+    "titel": "Media: LVMH wil afslanken",
+    "link": "https://www.beurs.nl/Nieuws/863748/Media-LVMH-wil-afslanken.aspx",
+    "intro": "LVMH onderzoekt de verkoop van enkele van zijn mode- en cosmeticamerken en ook de drankdivisie zou worden bekeken, in antwoord op een periode van afnemende vraag voor de toonaangevende verkoper van luxe-artikelen, zo meldde de Financial Times maandag op basis van bronnen.",
+    "published_at": "2026-05-11 13:19",
+    "scraped_at": "2026-05-11T11:51:45.137673"
+  },
+  {
+    "id": "958ce92b2dcd2e1ee25594f81124a2ba",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen afwachtende opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/863745/Futures-voorspellen-afwachtende-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een terughoudende opening tegemoet, met rond lunchtijd een licht verlies voor de SP 500-futures.",
+    "published_at": "2026-05-11 13:03",
+    "scraped_at": "2026-05-11T11:51:45.137673"
+  },
+  {
+    "id": "e9830311b9add317ce943ac598e8b6e1",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: contract Apple voor Intel goed nieuws voor Nederlandse chippers",
+    "link": "https://www.beurs.nl/Nieuws/863738/Beursblik-contract-Apple-voor-Intel-goed-nieuws-voor-Nederlandse-chippers.aspx",
+    "intro": "Een Apple-contract voor Intel zou ook goed nieuws zijn voor de Nederlandse 'chippers'. Dit blijkt maandag uit een analistenrapport van Bank of America.",
+    "published_at": "2026-05-11 12:17",
+    "scraped_at": "2026-05-11T11:51:45.137673"
+  },
+  {
+    "id": "4cfd909ec3305c239dfa4860d39193bf",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Chinese autofabrikanten slaan toe in Europa",
+    "link": "https://www.beurs.nl/Nieuws/863737/Beursblik-Chinese-autofabrikanten-slaan-toe-in-Europa.aspx",
+    "intro": "Bank of America heeft de adviezen voor de Europese autofabrikanten Stellantis en Renault verlaagd, vanwege de sterke groei van de verkoop van Chinese auto's in Europa. Dit bleek maandag uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-05-11 12:12",
+    "scraped_at": "2026-05-11T11:51:45.137673"
+  },
+  {
+    "id": "4ff4fc592946f2f5e62d157790394f4e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen verdeeld rond lunchtijd",
+    "link": "https://www.beurs.nl/Nieuws/863734/Europese-beurzen-verdeeld-rond-lunchtijd.aspx",
+    "intro": "De Europese beurzen noteerden maandag rond het middaguur verdeeld, terwijl de olieprijzen weer stegen.",
+    "published_at": "2026-05-11 11:55",
+    "scraped_at": "2026-05-11T11:51:45.137673"
+  },
+  {
+    "id": "56fd8ce6dd36b65152c793f329021d44",
+    "categorie": "Beursnieuws",
+    "titel": "Rustige ochtend aan het Damrak",
+    "link": "https://www.beurs.nl/Nieuws/863726/Rustige-ochtend-aan-het-Damrak.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagochtend iets onder de slotstand van vrijdag. De AEX daalde licht tot 1.016,19 punten.",
+    "published_at": "2026-05-11 11:20",
+    "scraped_at": "2026-05-11T11:51:45.137673"
+  },
+  {
+    "id": "1f1400fa9da402b9952cffb78f8b4b71",
+    "categorie": "Beursnieuws",
+    "titel": "Kepler verhoogt koersdoel BAM",
+    "link": "https://www.beurs.nl/Nieuws/863722/Kepler-verhoogt-koersdoel-BAM.aspx",
     "intro": "Kepler Cheuvreux heeft maandag het koersdoel voor BAM Groep verhoogd van 10,50 naar 12,10 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van de zakenbank.",
     "published_at": "2026-05-11 10:15",
-    "scraped_at": "2026-05-11T08:49:12.813074"
+    "scraped_at": "2026-05-11T11:51:45.137673"
   },
   {
     "id": "3541598ed0640cdd11c52c4a3118c92d",
@@ -15,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/863715/Must-read-Vertrouwen-zakt-prijzen-dreigen-te-stijgen.aspx",
     "intro": "Het ondernemersvertrouwen is sinds begin 2022 niet meer zo hard gedaald, terwijl meer bedrijven verwachten hun prijzen te verhogen. Plus: impactinvesteringen doen niet onder voor traditionele beleggingen, AI verandert de bestuurskamer, olie (alweer) boven $100 en meer.",
     "published_at": "2026-05-11 10:00",
-    "scraped_at": "2026-05-11T08:49:12.813074"
+    "scraped_at": "2026-05-11T11:51:45.137673"
   },
   {
     "id": "67e926e4801a823f17253423ffc27e17",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863718/AEX-licht-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste maandag kort na de beursgong 0,3 procent hoger op 1.020,20 punten, terwijl de Midkap 0,1 procent prijs moest geven.",
     "published_at": "2026-05-11 09:15",
-    "scraped_at": "2026-05-11T08:49:12.813074"
+    "scraped_at": "2026-05-11T11:51:45.137673"
   },
   {
     "id": "da7e9a059a0c8ea03b13d5428d16f404",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Artikel/863671/Iranoorlog-weer-vol-op-tafel-ogen-gericht-op-Trump-en-Xi.aspx",
     "intro": "Trump veegt vredesvoorstel van tafel en ontmoet later in de week Xi. Olieprijzen lopen weer op. En verder: Prosus, BAM, Moderna en vliegende SOX.",
     "published_at": "2026-05-11 08:30",
-    "scraped_at": "2026-05-11T08:49:12.813074"
-  },
-  {
-    "id": "e1a628c8e673393974a36b58d7a234d5",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsweek waarschijnlijk afwachtend met olieprijzen flink in de lift",
-    "link": "https://www.beurs.nl/Nieuws/863705/AEX-start-handelsweek-waarschijnlijk-afwachtend-met-olieprijzen-flink-in-de-lift.aspx",
-    "intro": "De Amsterdamse beurs maakt zich maandag op voor een terughoudende opening. Futures op de AEX-index wezen ongeveer een uur voor de beursgong op een winst van 0,3 procent.",
-    "published_at": "2026-05-11 08:10",
-    "scraped_at": "2026-05-11T08:49:12.813074"
-  },
-  {
-    "id": "f14f7b63c9f0a37f7ec5f718c7efe30d",
-    "categorie": "Beursnieuws",
-    "titel": "Prosus verkoopt belang van 5% in Delivery Hero",
-    "link": "https://www.beurs.nl/Nieuws/863703/Prosus-verkoopt-belang-van-5-in-Delivery-Hero.aspx",
-    "intro": "Prosus verkoopt een belang van 5 procent in Delivery Hero aan Aspex Management. Dit maakte Prosus maandagochtend bekend.",
-    "published_at": "2026-05-11 07:50",
-    "scraped_at": "2026-05-11T08:49:12.813074"
-  },
-  {
-    "id": "fe1e40a8127081b6e2a6a6ecb687cd50",
-    "categorie": "Beursnieuws",
-    "titel": "Twee nieuwe grondposities voor WDP",
-    "link": "https://www.beurs.nl/Nieuws/863702/Twee-nieuwe-grondposities-voor-WDP.aspx",
-    "intro": "WDP heeft maandag twee nieuwe grondposities in Frankrijk aangekondigd, op de luchthaven Paris Charles de Gaulle en ten noorden van Toulouse.",
-    "published_at": "2026-05-11 07:40",
-    "scraped_at": "2026-05-11T08:49:12.813074"
-  },
-  {
-    "id": "7083cf534f67a06890b23198b01bed6a",
-    "categorie": "Beursnieuws",
-    "titel": "BAM van start met aandeleninkoop",
-    "link": "https://www.beurs.nl/Nieuws/863701/BAM-van-start-met-aandeleninkoop.aspx",
-    "intro": "BAM Groep gaat maandag van start met het op 19 februari aangekondigde aandeleninkoopprogramma. Dit maakte de bouwer maandag voorbeurs bekend.",
-    "published_at": "2026-05-11 07:37",
-    "scraped_at": "2026-05-11T08:49:12.813074"
-  },
-  {
-    "id": "7588c4e947b195fe23d1c61c17ab543b",
-    "categorie": "Beursnieuws",
-    "titel": "CFO Wereldhave vertrekt al na enkele maanden",
-    "link": "https://www.beurs.nl/Nieuws/863694/CFO-Wereldhave-vertrekt-al-na-enkele-maanden.aspx",
-    "intro": "Chief Financial Officer Marcel Eggenkamp verlaat Wereldhave al na enkele maanden, omdat de wederzijdse verwachtingen niet overeenkwamen. Dit maakte het vastgoedbedrijf maandagochtend bekend.",
-    "published_at": "2026-05-11 07:26",
-    "scraped_at": "2026-05-11T08:49:12.813074"
-  },
-  {
-    "id": "c3b459b8b96fbddce540a34031e168f8",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen overwegend in het rood en olieprijzen scherp in de lift",
-    "link": "https://www.beurs.nl/Nieuws/863693/Aziatische-beurzen-overwegend-in-het-rood-en-olieprijzen-scherp-in-de-lift.aspx",
-    "intro": "De Aziatische beurzen koersten maandagochtend overwegend lager, terwijl de olieprijzen juist scherp opliepen.",
-    "published_at": "2026-05-11 07:24",
-    "scraped_at": "2026-05-11T08:49:12.813074"
+    "scraped_at": "2026-05-11T11:51:45.137673"
   }
 ]
