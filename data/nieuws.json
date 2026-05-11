@@ -1,12 +1,39 @@
 [
   {
+    "id": "7c2b7f56b02696018dfc40a371eaf4aa",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen hoger gesloten nu staakt-het-vuren wankelt",
+    "link": "https://www.beurs.nl/Nieuws/863805/Olieprijzen-hoger-gesloten-nu-staakt-het-vuren-wankelt.aspx",
+    "intro": "De olieprijzen zijn maandag hoger gesloten nadat president Donald Trump zei dat het staakt-het-vuren met Iran op instorten staat, nadat hij het tegenvoorstel van Teheran om het conflict te beëindigen had afgewezen.",
+    "published_at": "2026-05-11 21:01",
+    "scraped_at": "2026-05-11T19:20:25.336839"
+  },
+  {
+    "id": "fef7a984bbe730d904dea2de0a223e9a",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Musk en Cook reizen mee met Trump naar China",
+    "link": "https://www.beurs.nl/Nieuws/863804/Media-Musk-en-Cook-reizen-mee-met-Trump-naar-China.aspx",
+    "intro": "De Amerikaanse president Donald Trump neemt een grote delegatie van topbestuurders mee naar China. Dat meldde persbureau Bloomberg maandag op basis van een woordvoerder van het Witte Huis.",
+    "published_at": "2026-05-11 20:47",
+    "scraped_at": "2026-05-11T19:20:25.336839"
+  },
+  {
+    "id": "8a461535ab1eddb78f21d4038670a288",
+    "categorie": "Beursnieuws",
+    "titel": "Chipsector VS dendert door",
+    "link": "https://www.beurs.nl/Nieuws/863801/Chipsector-VS-dendert-door.aspx",
+    "intro": "De Amerikaanse aandelen stegen maandag, wederom aangevoerd door de chipsector. Zo bereikte zwaargewicht Nvidia nieuwe records en boekte Qualcomm en Micron opnieuw flinke koerswinsten",
+    "published_at": "2026-05-11 19:51",
+    "scraped_at": "2026-05-11T19:20:25.336839"
+  },
+  {
     "id": "4f42dfc4e3626bd9a3b01dbbe0336459",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen overwegend hoger gesloten ondanks impasse vredesdeal",
     "link": "https://www.beurs.nl/Nieuws/863798/Europese-beurzen-overwegend-hoger-gesloten-ondanks-impasse-vredesdeal.aspx",
     "intro": "De Europese beurzen zijn maandag overwegend hoger gesloten, terwijl beleggers de impasse rond een vredesdeal in het Midden-Oosten en de gevolgen ervan analyseerden.",
     "published_at": "2026-05-11 18:45",
-    "scraped_at": "2026-05-11T17:28:10.513197"
+    "scraped_at": "2026-05-11T19:20:25.336839"
   },
   {
     "id": "d23446b523243b5508677b423e932d65",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/863797/Jaarvergadering-ASMI-akkoord-met-alle-agendapunten.aspx",
     "intro": "De aandeelhouders van ASMI zijn maandag tijdens de jaarvergadering akkoord gegaan met alle agendapunten. Dit meldde het bedrijf na afloop van de bijeenkomst.",
     "published_at": "2026-05-11 18:36",
-    "scraped_at": "2026-05-11T17:28:10.513197"
+    "scraped_at": "2026-05-11T19:20:25.336839"
   },
   {
     "id": "853ef668e79a53eb0e5d5a8b69adb131",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863796/Stabiel-kwartaal-voor-Vastned.aspx",
     "intro": "Vastned heeft in het eerste kwartaal van 2026 stabiele resultaten behaald en de vastgoedportefeuille in waarde zien stijgen. Dit bleek maandag nabeurs uit het tussentijdse handelsbericht van het vastgoedfonds.",
     "published_at": "2026-05-11 18:12",
-    "scraped_at": "2026-05-11T17:28:10.513197"
+    "scraped_at": "2026-05-11T19:20:25.336839"
   },
   {
     "id": "29a891ab61b7dae2b135fe98b6448030",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863787/AEX-sluit-licht-lager-na-vrij-rustige-sessie.aspx",
     "intro": "De Amsterdamse beurs is maandag licht lager geëindigd, na een vrij rustige sessie.",
     "published_at": "2026-05-11 17:50",
-    "scraped_at": "2026-05-11T17:28:10.513197"
+    "scraped_at": "2026-05-11T19:20:25.336839"
   },
   {
     "id": "b362894f3bae769755366cb56ccd813e",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863773/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 19 mei 2026:",
     "published_at": "2026-05-11 16:31",
-    "scraped_at": "2026-05-11T17:28:10.513197"
+    "scraped_at": "2026-05-11T19:20:25.336839"
   },
   {
     "id": "bd62a71616e360463a3486781ffce4c9",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863775/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 19 mei 2026:",
     "published_at": "2026-05-11 16:31",
-    "scraped_at": "2026-05-11T17:28:10.513197"
+    "scraped_at": "2026-05-11T19:20:25.336839"
   },
   {
     "id": "08a459e47b7754b3d1e25e0cd63548aa",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863776/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 19 mei 2026:",
     "published_at": "2026-05-11 16:31",
-    "scraped_at": "2026-05-11T17:28:10.513197"
-  },
-  {
-    "id": "d4f1085b7b0fb17be18a4933076e860a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Belgische bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/863774/Beursagenda-Belgische-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor België tot en met dinsdag 19 mei 2026:",
-    "published_at": "2026-05-11 16:28",
-    "scraped_at": "2026-05-11T17:28:10.513197"
-  },
-  {
-    "id": "d4186dd1cd35d52b5d16ea5d5bbc08cf",
-    "categorie": "Beursnieuws",
-    "titel": "Bestaande woningverkopen VS stijgen licht",
-    "link": "https://www.beurs.nl/Nieuws/863771/Bestaande-woningverkopen-VS-stijgen-licht.aspx",
-    "intro": "De bestaande woningverkopen in de Verenigde Staten zijn in april licht gestegen. Dit bleek maandag uit cijfers van makelaarsorganisatie NAR.",
-    "published_at": "2026-05-11 16:11",
-    "scraped_at": "2026-05-11T17:28:10.513197"
-  },
-  {
-    "id": "1ccf127fd4d9360b58c489e43568fdd2",
-    "categorie": "Beursnieuws",
-    "titel": "Europese Commissie mogelijk in zee met OpenAI voor cyberbeveiliging",
-    "link": "https://www.beurs.nl/Nieuws/863761/Europese-Commissie-mogelijk-in-zee-met-OpenAI-voor-cyberbeveiliging.aspx",
-    "intro": "De Europese Commissie praat met OpenAI over mogelijke toegang tot een nieuwe versie van het AI-model van het Amerikaanse bedrijf, dat focust op cyberbeveiliging. Dit bevestigde een woordvoerder in Brussel maandag.",
-    "published_at": "2026-05-11 14:55",
-    "scraped_at": "2026-05-11T17:28:10.513197"
+    "scraped_at": "2026-05-11T19:20:25.336839"
   }
 ]
