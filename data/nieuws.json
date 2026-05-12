@@ -1,92 +1,47 @@
 [
   {
-    "id": "f0f23f1f8eb7f7581fef4dc5b7a7c883",
+    "id": "212f8caf9b936601657043da896d3eb5",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/863814/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-05-11 22:38",
-    "scraped_at": "2026-05-12T01:26:06.319071"
+    "titel": "Aziatische beurzen noteren verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/863839/Aziatische-beurzen-noteren-verdeeld.aspx",
+    "intro": "De Aziatische beurzen noteerden dinsdagochtend verdeeld, zonder heel grote koersuitslagen. In Tokio won de Nikkei index meer dan een half procent, terwijl de Indiase beurs ruim een half procent prijs gaf.",
+    "published_at": "2026-05-12 07:18",
+    "scraped_at": "2026-05-12T05:25:29.313697"
   },
   {
-    "id": "e49b417e65348678978d5e355ec32727",
+    "id": "edd5738abae19ac1422bcd76377e135e",
     "categorie": "Beursnieuws",
-    "titel": "Hims & Hers lijdt kwartaalverlies ondanks omzetgroei",
-    "link": "https://www.beurs.nl/Nieuws/863813/Hims-Hers-lijdt-kwartaalverlies-ondanks-omzetgroei.aspx",
-    "intro": "Hims  Hers Health heeft in het eerste kwartaal van 2026 de omzet licht zien stijgen, maar een fors nettoverlies geleden. Het Amerikaanse digitale zorgplatform publiceerde tegelijkertijd de outlook voor heel 2026. Dit bleek maandagavond uit de cijfers van het bedrijf.",
-    "published_at": "2026-05-11 22:32",
-    "scraped_at": "2026-05-12T01:26:06.319071"
+    "titel": "Europese beurzen openen naar verwachting lager",
+    "link": "https://www.beurs.nl/Nieuws/863837/Europese-beurzen-openen-naar-verwachting-lager.aspx",
+    "intro": "De Europese beurzen gaan dinsdag een rode opening tegemoet, nu Iran en de VS nog altijd geen akkoord hebben bereikt over een einde van de oorlog of de heropening van de Straat van Hormuz. Verder is het wachten op nieuwe inflatiecijfers uit Amerika.",
+    "published_at": "2026-05-12 07:02",
+    "scraped_at": "2026-05-12T05:25:29.313697"
   },
   {
-    "id": "37a27b35972662473a363cc6cab9b4da",
+    "id": "c4c2d7d459ef9ab03eeb7babb5a89577",
     "categorie": "Beursnieuws",
-    "titel": "S&P 500 sluit voor eerst boven 7.400 punten",
-    "link": "https://www.beurs.nl/Nieuws/863812/SP-500-sluit-voor-eerst-boven-7400-punten.aspx",
-    "intro": "De Amerikaanse aandelen zijn maandag licht hoger gesloten, met wederom veel steun uit de chipsector. Zo bereikte zwaargewicht Nvidia nieuwe records en boekten Qualcomm en Micron opnieuw flinke koerswinsten.",
-    "published_at": "2026-05-11 22:19",
-    "scraped_at": "2026-05-12T01:26:06.319071"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/863832/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 19 mei 2026:",
+    "published_at": "2026-05-12 06:54",
+    "scraped_at": "2026-05-12T05:25:29.313697"
   },
   {
-    "id": "7c2b7f56b02696018dfc40a371eaf4aa",
+    "id": "de1234cf3f7bf35b687103b11d98d930",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen hoger gesloten nu staakt-het-vuren wankelt",
-    "link": "https://www.beurs.nl/Nieuws/863805/Olieprijzen-hoger-gesloten-nu-staakt-het-vuren-wankelt.aspx",
-    "intro": "De olieprijzen zijn maandag hoger gesloten nadat president Donald Trump zei dat het staakt-het-vuren met Iran op instorten staat, nadat hij het tegenvoorstel van Teheran om het conflict te beëindigen had afgewezen.",
-    "published_at": "2026-05-11 21:01",
-    "scraped_at": "2026-05-12T01:26:06.319071"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/863834/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 19 mei 2026:",
+    "published_at": "2026-05-12 06:54",
+    "scraped_at": "2026-05-12T05:25:29.313697"
   },
   {
-    "id": "fef7a984bbe730d904dea2de0a223e9a",
+    "id": "c2a3c1a03bf742ae56ed486aab051e10",
     "categorie": "Beursnieuws",
-    "titel": "Media: Musk en Cook reizen mee met Trump naar China",
-    "link": "https://www.beurs.nl/Nieuws/863804/Media-Musk-en-Cook-reizen-mee-met-Trump-naar-China.aspx",
-    "intro": "De Amerikaanse president Donald Trump neemt een grote delegatie van topbestuurders mee naar China. Dat meldde persbureau Bloomberg maandag op basis van een woordvoerder van het Witte Huis.",
-    "published_at": "2026-05-11 20:47",
-    "scraped_at": "2026-05-12T01:26:06.319071"
-  },
-  {
-    "id": "8a461535ab1eddb78f21d4038670a288",
-    "categorie": "Beursnieuws",
-    "titel": "Chipsector VS dendert door",
-    "link": "https://www.beurs.nl/Nieuws/863801/Chipsector-VS-dendert-door.aspx",
-    "intro": "De Amerikaanse aandelen stegen maandag, wederom aangevoerd door de chipsector. Zo bereikte zwaargewicht Nvidia nieuwe records en boekte Qualcomm en Micron opnieuw flinke koerswinsten",
-    "published_at": "2026-05-11 19:51",
-    "scraped_at": "2026-05-12T01:26:06.319071"
-  },
-  {
-    "id": "4f42dfc4e3626bd9a3b01dbbe0336459",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen overwegend hoger gesloten ondanks impasse vredesdeal",
-    "link": "https://www.beurs.nl/Nieuws/863798/Europese-beurzen-overwegend-hoger-gesloten-ondanks-impasse-vredesdeal.aspx",
-    "intro": "De Europese beurzen zijn maandag overwegend hoger gesloten, terwijl beleggers de impasse rond een vredesdeal in het Midden-Oosten en de gevolgen ervan analyseerden.",
-    "published_at": "2026-05-11 18:45",
-    "scraped_at": "2026-05-12T01:26:06.319071"
-  },
-  {
-    "id": "d23446b523243b5508677b423e932d65",
-    "categorie": "Beursnieuws",
-    "titel": "Jaarvergadering ASMI akkoord met alle agendapunten",
-    "link": "https://www.beurs.nl/Nieuws/863797/Jaarvergadering-ASMI-akkoord-met-alle-agendapunten.aspx",
-    "intro": "De aandeelhouders van ASMI zijn maandag tijdens de jaarvergadering akkoord gegaan met alle agendapunten. Dit meldde het bedrijf na afloop van de bijeenkomst.",
-    "published_at": "2026-05-11 18:36",
-    "scraped_at": "2026-05-12T01:26:06.319071"
-  },
-  {
-    "id": "853ef668e79a53eb0e5d5a8b69adb131",
-    "categorie": "Beursnieuws",
-    "titel": "Stabiel kwartaal voor Vastned",
-    "link": "https://www.beurs.nl/Nieuws/863796/Stabiel-kwartaal-voor-Vastned.aspx",
-    "intro": "Vastned heeft in het eerste kwartaal van 2026 stabiele resultaten behaald en de vastgoedportefeuille in waarde zien stijgen. Dit bleek maandag nabeurs uit het tussentijdse handelsbericht van het vastgoedfonds.",
-    "published_at": "2026-05-11 18:12",
-    "scraped_at": "2026-05-12T01:26:06.319071"
-  },
-  {
-    "id": "29a891ab61b7dae2b135fe98b6448030",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit licht lager na vrij rustige sessie",
-    "link": "https://www.beurs.nl/Nieuws/863787/AEX-sluit-licht-lager-na-vrij-rustige-sessie.aspx",
-    "intro": "De Amsterdamse beurs is maandag licht lager geëindigd, na een vrij rustige sessie.",
-    "published_at": "2026-05-11 17:50",
-    "scraped_at": "2026-05-12T01:26:06.319071"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/863835/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 19 mei 2026:",
+    "published_at": "2026-05-12 06:54",
+    "scraped_at": "2026-05-12T05:25:29.313697"
   }
 ]
