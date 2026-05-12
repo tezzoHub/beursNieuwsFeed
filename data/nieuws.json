@@ -1,12 +1,66 @@
 [
   {
+    "id": "2b00c8d97bf7971fc46bb225fd0b6f0e",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst lager",
+    "link": "https://www.beurs.nl/Nieuws/863998/Wall-Street-koerst-lager.aspx",
+    "intro": "De Amerikaanse beurzen noteerden dinsdag lager met nog een paar uur handel te gaan.",
+    "published_at": "2026-05-12 19:32",
+    "scraped_at": "2026-05-12T17:50:05.519979"
+  },
+  {
+    "id": "8aa8f0235b014693b1e13ea98c35de13",
+    "categorie": "Beursnieuws",
+    "titel": "Alfen verslaat verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/863997/Alfen-verslaat-verwachtingen.aspx",
+    "intro": "Alfen heeft in het eerste kwartaal de omzet en aangepaste EBITDA zien aantrekken, terwijl de brutomarge daalde. Dit bleek dinsdagavond uit een update van de specialist in energieoplossingen, waarin de outlook voor dit jaar werd herhaald.",
+    "published_at": "2026-05-12 19:13",
+    "scraped_at": "2026-05-12T17:50:05.519979"
+  },
+  {
+    "id": "d4969c8e4f0b29e925e15d1f22907464",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse Senaat benoemt Warsh tot Fed-bestuurder",
+    "link": "https://www.beurs.nl/Nieuws/863996/Amerikaanse-Senaat-benoemt-Warsh-tot-Fed-bestuurder.aspx",
+    "intro": "De Amerikaanse Senaat heeft dinsdag met 51 tegen 45 ingestemd om Kevin Warsh te benoemen tot lid van de raad van bestuur van de Federal Reserve, wat de weg vrijmaakt om hem ook te benoemen tot voorzitter van de centrale bank in de Verenigde Staten.",
+    "published_at": "2026-05-12 19:01",
+    "scraped_at": "2026-05-12T17:50:05.519979"
+  },
+  {
+    "id": "19baa90ff168ab03d21a1c0e96cb35eb",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: tech en AI staan centraal bij bezoek Trump aan China",
+    "link": "https://www.beurs.nl/Nieuws/863995/Beursblik-tech-en-AI-staan-centraal-bij-bezoek-Trump-aan-China.aspx",
+    "intro": "Bij het bezoek van de Amerikaanse president Donald Trump aan China eind deze week staan technologie en kunstmatige intelligentie bovenaan de agenda. Dit stelden analisten van Jefferies in een rapport.",
+    "published_at": "2026-05-12 18:53",
+    "scraped_at": "2026-05-12T17:50:05.519979"
+  },
+  {
+    "id": "18ae06b0ff10d2a2220252b29d657edc",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten lager",
+    "link": "https://www.beurs.nl/Nieuws/863994/Europese-beurzen-sluiten-lager.aspx",
+    "intro": "De Europese beurzen zijn dinsdag lager geëindigd, terwijl de olieprijzen ruim boven de 100 dollar per vat noteerden.",
+    "published_at": "2026-05-12 18:33",
+    "scraped_at": "2026-05-12T17:50:05.519979"
+  },
+  {
+    "id": "9c178095259e50a6e09bba0780902e96",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit nipt onder de 1.000 punten",
+    "link": "https://www.beurs.nl/Nieuws/863978/AEX-sluit-nipt-onder-de-1000-punten.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag flink lager geëindigd, nu een snel vredesakkoord tussen de VS en Iran steeds onwaarschijnlijker wordt. De oplopende olieprijzen, inflatie en rentes lijken beleggers een steeds ongemakkelijker gevoel te geven.",
+    "published_at": "2026-05-12 17:49",
+    "scraped_at": "2026-05-12T17:50:05.519979"
+  },
+  {
     "id": "e35f1743a19c6ff8547260995710839e",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/863960/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 20 mei 2026:",
     "published_at": "2026-05-12 16:33",
-    "scraped_at": "2026-05-12T15:34:16.738480"
+    "scraped_at": "2026-05-12T17:50:05.519979"
   },
   {
     "id": "f7364e1c9cd816f3da6c5d11dd9c7b59",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863961/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 20 mei 2026:",
     "published_at": "2026-05-12 16:33",
-    "scraped_at": "2026-05-12T15:34:16.738480"
+    "scraped_at": "2026-05-12T17:50:05.519979"
   },
   {
     "id": "f1e8700e892ec2544fbfb3d0a634c7f5",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863962/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 20 mei 2026:",
     "published_at": "2026-05-12 16:33",
-    "scraped_at": "2026-05-12T15:34:16.738480"
+    "scraped_at": "2026-05-12T17:50:05.519979"
   },
   {
     "id": "a72bd5b0c8d1858ddb0e0346ee018d3b",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863957/Beursblik-hogere-resultaten-Alfen-verwacht.aspx",
     "intro": "Alfen heeft in het eerste kwartaal de omzet en aangepaste EBITDA vermoedelijk zien aantrekken, terwijl de brutomarge is gedaald. Dit verwachten analisten die bijdroegen aan de bedrijfsconsensus.",
     "published_at": "2026-05-12 16:27",
-    "scraped_at": "2026-05-12T15:34:16.738480"
-  },
-  {
-    "id": "feb138e387f0483f7d4c85af0ab48b0b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel TKH",
-    "link": "https://www.beurs.nl/Nieuws/863956/Beursblik-Jefferies-verhoogt-koersdoel-TKH.aspx",
-    "intro": "Jefferies heeft het koersdoel voor TKH Group verhoogd van 50,00 naar 58,00 euro met handhaving van het koopadvies. Dit bleek dinsdagmiddag uit een rapport van analist David Kerstens, na de kwartaalupdate waarmee het bedrijf vanochtend kwam.",
-    "published_at": "2026-05-12 16:19",
-    "scraped_at": "2026-05-12T15:34:16.738480"
-  },
-  {
-    "id": "14fb78438c7390760fc62cd466826929",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street op weg naar lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/863938/Wall-Street-op-weg-naar-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, na de nieuwe recordstanden dankzij kleine plussen van maandag. De olieprijzen liepen op en een inflatiecijfer voor april viel nog iets hoger uit dan verwacht.",
-    "published_at": "2026-05-12 15:02",
-    "scraped_at": "2026-05-12T15:34:16.738480"
-  },
-  {
-    "id": "1c1e00f02027aaf11eb822c1a3ec5ad0",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie VS sterker gestegen dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/863932/Inflatie-VS-sterker-gestegen-dan-verwacht.aspx",
-    "intro": "De consumentenprijzen in de Verenigde Staten zijn in april sterker gestegen dan verwacht. De stijgende energieprijzen door de oorlog in het Midden-Oosten eisten z opnieuw hun tol. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
-    "published_at": "2026-05-12 14:39",
-    "scraped_at": "2026-05-12T15:34:16.738480"
-  },
-  {
-    "id": "ddc1bc2c4421d45d8d417e80889f5c1c",
-    "categorie": "Beursnieuws",
-    "titel": "Fastned start uitgifte nieuwe obligaties",
-    "link": "https://www.beurs.nl/Nieuws/863929/Fastned-start-uitgifte-nieuwe-obligaties.aspx",
-    "intro": "Fastned opent een nieuwe inschrijving voor een obligatie-uitgifte. Dit maakte het snellaadbedrijf dinsdag bekend.",
-    "published_at": "2026-05-12 14:10",
-    "scraped_at": "2026-05-12T15:34:16.738480"
-  },
-  {
-    "id": "3d7c81aa591d439f58c18630defecaa8",
-    "categorie": "Beursnieuws",
-    "titel": "ACM legt PostNL miljoenenboete op",
-    "link": "https://www.beurs.nl/Nieuws/863925/ACM-legt-PostNL-miljoenenboete-op.aspx",
-    "intro": "De Autoriteit Consument  Markt heeft PostNL een boete van bijna 7 miljoen euro opgelegd, omdat het postbedrijf in 2023 de wettelijke bezorgnorm niet haalde. Dit maakte de toezichthouder dinsdag bekend.",
-    "published_at": "2026-05-12 13:57",
-    "scraped_at": "2026-05-12T15:34:16.738480"
-  },
-  {
-    "id": "6e9733afe19aca57105275442b07700b",
-    "categorie": "Beursnieuws",
-    "titel": "Prosus stevig onderuit in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/863924/Prosus-stevig-onderuit-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag in het rood, waarbij de koersval van Prosus opviel.",
-    "published_at": "2026-05-12 13:55",
-    "scraped_at": "2026-05-12T15:34:16.738480"
+    "scraped_at": "2026-05-12T17:50:05.519979"
   }
 ]
