@@ -1,12 +1,75 @@
 [
   {
+    "id": "e35f1743a19c6ff8547260995710839e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/863960/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 20 mei 2026:",
+    "published_at": "2026-05-12 16:33",
+    "scraped_at": "2026-05-12T15:34:16.738480"
+  },
+  {
+    "id": "f7364e1c9cd816f3da6c5d11dd9c7b59",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/863961/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 20 mei 2026:",
+    "published_at": "2026-05-12 16:33",
+    "scraped_at": "2026-05-12T15:34:16.738480"
+  },
+  {
+    "id": "f1e8700e892ec2544fbfb3d0a634c7f5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/863962/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 20 mei 2026:",
+    "published_at": "2026-05-12 16:33",
+    "scraped_at": "2026-05-12T15:34:16.738480"
+  },
+  {
+    "id": "a72bd5b0c8d1858ddb0e0346ee018d3b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: hogere resultaten Alfen verwacht",
+    "link": "https://www.beurs.nl/Nieuws/863957/Beursblik-hogere-resultaten-Alfen-verwacht.aspx",
+    "intro": "Alfen heeft in het eerste kwartaal de omzet en aangepaste EBITDA vermoedelijk zien aantrekken, terwijl de brutomarge is gedaald. Dit verwachten analisten die bijdroegen aan de bedrijfsconsensus.",
+    "published_at": "2026-05-12 16:27",
+    "scraped_at": "2026-05-12T15:34:16.738480"
+  },
+  {
+    "id": "feb138e387f0483f7d4c85af0ab48b0b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verhoogt koersdoel TKH",
+    "link": "https://www.beurs.nl/Nieuws/863956/Beursblik-Jefferies-verhoogt-koersdoel-TKH.aspx",
+    "intro": "Jefferies heeft het koersdoel voor TKH Group verhoogd van 50,00 naar 58,00 euro met handhaving van het koopadvies. Dit bleek dinsdagmiddag uit een rapport van analist David Kerstens, na de kwartaalupdate waarmee het bedrijf vanochtend kwam.",
+    "published_at": "2026-05-12 16:19",
+    "scraped_at": "2026-05-12T15:34:16.738480"
+  },
+  {
+    "id": "14fb78438c7390760fc62cd466826929",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street op weg naar lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/863938/Wall-Street-op-weg-naar-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, na de nieuwe recordstanden dankzij kleine plussen van maandag. De olieprijzen liepen op en een inflatiecijfer voor april viel nog iets hoger uit dan verwacht.",
+    "published_at": "2026-05-12 15:02",
+    "scraped_at": "2026-05-12T15:34:16.738480"
+  },
+  {
+    "id": "1c1e00f02027aaf11eb822c1a3ec5ad0",
+    "categorie": "Beursnieuws",
+    "titel": "Inflatie VS sterker gestegen dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/863932/Inflatie-VS-sterker-gestegen-dan-verwacht.aspx",
+    "intro": "De consumentenprijzen in de Verenigde Staten zijn in april sterker gestegen dan verwacht. De stijgende energieprijzen door de oorlog in het Midden-Oosten eisten z opnieuw hun tol. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-05-12 14:39",
+    "scraped_at": "2026-05-12T15:34:16.738480"
+  },
+  {
     "id": "ddc1bc2c4421d45d8d417e80889f5c1c",
     "categorie": "Beursnieuws",
     "titel": "Fastned start uitgifte nieuwe obligaties",
     "link": "https://www.beurs.nl/Nieuws/863929/Fastned-start-uitgifte-nieuwe-obligaties.aspx",
     "intro": "Fastned opent een nieuwe inschrijving voor een obligatie-uitgifte. Dit maakte het snellaadbedrijf dinsdag bekend.",
     "published_at": "2026-05-12 14:10",
-    "scraped_at": "2026-05-12T12:30:04.094982"
+    "scraped_at": "2026-05-12T15:34:16.738480"
   },
   {
     "id": "3d7c81aa591d439f58c18630defecaa8",
@@ -15,78 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/863925/ACM-legt-PostNL-miljoenenboete-op.aspx",
     "intro": "De Autoriteit Consument  Markt heeft PostNL een boete van bijna 7 miljoen euro opgelegd, omdat het postbedrijf in 2023 de wettelijke bezorgnorm niet haalde. Dit maakte de toezichthouder dinsdag bekend.",
     "published_at": "2026-05-12 13:57",
-    "scraped_at": "2026-05-12T12:30:04.094982"
+    "scraped_at": "2026-05-12T15:34:16.738480"
   },
   {
-    "id": "80a441899a0ec95ab0019a74933b8846",
+    "id": "6e9733afe19aca57105275442b07700b",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Prosus stevig onderuit in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/863924/Beursupdate-Prosus-stevig-onderuit-in-rode-AEX.aspx",
+    "titel": "Prosus stevig onderuit in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/863924/Prosus-stevig-onderuit-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagmiddag in het rood, waarbij de koersval van Prosus opviel.",
     "published_at": "2026-05-12 13:55",
-    "scraped_at": "2026-05-12T12:30:04.094982"
-  },
-  {
-    "id": "e5eae56166baa702090469341484c230",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: kredietrisico en beloningen drukken winst ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/863922/Beursblik-kredietrisico-en-beloningen-drukken-winst-ABN-AMRO.aspx",
-    "intro": "ABN AMRO zal in het eerste kwartaal van 2026 naar verwachting minder winst hebben geboekt dan een jaar eerder, door hogere voorzieningen voor oninbare leningen en stijgende kosten. Dit blijkt uit een consensusverwachting van analisten, gepubliceerd door de bank.",
-    "published_at": "2026-05-12 13:40",
-    "scraped_at": "2026-05-12T12:30:04.094982"
-  },
-  {
-    "id": "c54134815aa8a30bb3276cd32d9589f9",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Futures Wall Street wijzen omlaag",
-    "link": "https://www.beurs.nl/Nieuws/863918/Update-Futures-Wall-Street-wijzen-omlaag.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, na kleine plussen maandag die zorgden voor nieuwe records voor de SP500 en Nasdaq Composite.",
-    "published_at": "2026-05-12 13:38",
-    "scraped_at": "2026-05-12T12:30:04.094982"
-  },
-  {
-    "id": "babbc395956a5f64976ddf80a7473e66",
-    "categorie": "Beursnieuws",
-    "titel": "Medeoprichter Delivery Hero stapt op als CEO",
-    "link": "https://www.beurs.nl/Nieuws/863917/Medeoprichter-Delivery-Hero-stapt-op-als-CEO.aspx",
-    "intro": "CEO Niklas Östberg legt zijn functie als topman van Delivery Hero neer. Dit maakte het Duitse bezorgplatform dinsdag bekend.",
-    "published_at": "2026-05-12 13:16",
-    "scraped_at": "2026-05-12T12:30:04.094982"
-  },
-  {
-    "id": "0fd44f084f5394a1eba9795a76ddabe9",
-    "categorie": "Beursnieuws",
-    "titel": "eBay wijst overnamebod van GameStop af",
-    "link": "https://www.beurs.nl/Nieuws/863913/eBay-wijst-overnamebod-van-GameStop-af.aspx",
-    "intro": "eBay heeft het ongevraagde overnamebod van GameStop ter waarde van bijna 56 miljard dollar afgewezen. Dit maakte de uitbater van online marktplaatsen dinsdag bekend.",
-    "published_at": "2026-05-12 12:51",
-    "scraped_at": "2026-05-12T12:30:04.094982"
-  },
-  {
-    "id": "4d8a8a72f6a4caad8e98276db4c03358",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere rentes en olieprijzen drukken sentiment op Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/863912/Hogere-rentes-en-olieprijzen-drukken-sentiment-op-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur lager. Een snel vredesakkoord tussen de VS en Iran lijkt steeds onwaarschijnlijker.",
-    "published_at": "2026-05-12 12:42",
-    "scraped_at": "2026-05-12T12:30:04.094982"
-  },
-  {
-    "id": "0940c4d677f3f3c79ba719fc49380e8d",
-    "categorie": "Beursnieuws",
-    "titel": "Weer winst voor JD.com",
-    "link": "https://www.beurs.nl/Nieuws/863910/Weer-winst-voor-JDcom.aspx",
-    "intro": "JD.com boekte in het eerste kwartaal van 2026 weer winst, maar zag die wel halveren ten opzichte van een jaar eerder. Dit bleek dinsdag uit de kwartaalcijfers van de Chinese e-commercereus.",
-    "published_at": "2026-05-12 12:31",
-    "scraped_at": "2026-05-12T12:30:04.094982"
-  },
-  {
-    "id": "a06fec67879de63d4491429610294339",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers stabiel",
-    "link": "https://www.beurs.nl/Nieuws/863907/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-stabiel.aspx",
-    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in april nagenoeg stabiel gebleven. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
-    "published_at": "2026-05-12 12:08",
-    "scraped_at": "2026-05-12T12:30:04.094982"
+    "scraped_at": "2026-05-12T15:34:16.738480"
   }
 ]
