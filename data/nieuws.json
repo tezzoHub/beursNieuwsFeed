@@ -1,12 +1,30 @@
 [
   {
+    "id": "d50c865814701976deffcabd84d3d8cf",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs stijgt verder",
+    "link": "https://www.beurs.nl/Nieuws/864006/Olieprijs-stijgt-verder.aspx",
+    "intro": "De olieprijs is dinsdag verder gestegen, nu een doorbraak in de vredesonderhandelingen tussen de Verenigde Staten en Iran uit lijkt te blijven.",
+    "published_at": "2026-05-12 21:01",
+    "scraped_at": "2026-05-12T19:25:02.355098"
+  },
+  {
+    "id": "5b6f06add5fc80d72c95850749337e6a",
+    "categorie": "Beursnieuws",
+    "titel": "Media: EU wil meedoen aan Amerikaans techinitiatief",
+    "link": "https://www.beurs.nl/Nieuws/864001/Media-EU-wil-meedoen-aan-Amerikaans-techinitiatief.aspx",
+    "intro": "De Europese Unie wil toetreden tot een door de Verenigde Staten geleid initiatief om de toeleveringsketens voor kunstmatige intelligentie en halfgeleiders te beveiligen, nu de concurrentie met China toeneemt. Dit meldde persbureau Bloomberg dinsdag op basis van bronnen.",
+    "published_at": "2026-05-12 19:56",
+    "scraped_at": "2026-05-12T19:25:02.355098"
+  },
+  {
     "id": "2b00c8d97bf7971fc46bb225fd0b6f0e",
     "categorie": "Beursnieuws",
     "titel": "Wall Street koerst lager",
     "link": "https://www.beurs.nl/Nieuws/863998/Wall-Street-koerst-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag lager met nog een paar uur handel te gaan.",
     "published_at": "2026-05-12 19:32",
-    "scraped_at": "2026-05-12T17:50:05.519979"
+    "scraped_at": "2026-05-12T19:25:02.355098"
   },
   {
     "id": "8aa8f0235b014693b1e13ea98c35de13",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/863997/Alfen-verslaat-verwachtingen.aspx",
     "intro": "Alfen heeft in het eerste kwartaal de omzet en aangepaste EBITDA zien aantrekken, terwijl de brutomarge daalde. Dit bleek dinsdagavond uit een update van de specialist in energieoplossingen, waarin de outlook voor dit jaar werd herhaald.",
     "published_at": "2026-05-12 19:13",
-    "scraped_at": "2026-05-12T17:50:05.519979"
+    "scraped_at": "2026-05-12T19:25:02.355098"
   },
   {
     "id": "d4969c8e4f0b29e925e15d1f22907464",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/863996/Amerikaanse-Senaat-benoemt-Warsh-tot-Fed-bestuurder.aspx",
     "intro": "De Amerikaanse Senaat heeft dinsdag met 51 tegen 45 ingestemd om Kevin Warsh te benoemen tot lid van de raad van bestuur van de Federal Reserve, wat de weg vrijmaakt om hem ook te benoemen tot voorzitter van de centrale bank in de Verenigde Staten.",
     "published_at": "2026-05-12 19:01",
-    "scraped_at": "2026-05-12T17:50:05.519979"
+    "scraped_at": "2026-05-12T19:25:02.355098"
   },
   {
     "id": "19baa90ff168ab03d21a1c0e96cb35eb",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/863995/Beursblik-tech-en-AI-staan-centraal-bij-bezoek-Trump-aan-China.aspx",
     "intro": "Bij het bezoek van de Amerikaanse president Donald Trump aan China eind deze week staan technologie en kunstmatige intelligentie bovenaan de agenda. Dit stelden analisten van Jefferies in een rapport.",
     "published_at": "2026-05-12 18:53",
-    "scraped_at": "2026-05-12T17:50:05.519979"
+    "scraped_at": "2026-05-12T19:25:02.355098"
   },
   {
     "id": "18ae06b0ff10d2a2220252b29d657edc",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/863994/Europese-beurzen-sluiten-lager.aspx",
     "intro": "De Europese beurzen zijn dinsdag lager geëindigd, terwijl de olieprijzen ruim boven de 100 dollar per vat noteerden.",
     "published_at": "2026-05-12 18:33",
-    "scraped_at": "2026-05-12T17:50:05.519979"
+    "scraped_at": "2026-05-12T19:25:02.355098"
   },
   {
     "id": "9c178095259e50a6e09bba0780902e96",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/863978/AEX-sluit-nipt-onder-de-1000-punten.aspx",
     "intro": "De Amsterdamse beurs is dinsdag flink lager geëindigd, nu een snel vredesakkoord tussen de VS en Iran steeds onwaarschijnlijker wordt. De oplopende olieprijzen, inflatie en rentes lijken beleggers een steeds ongemakkelijker gevoel te geven.",
     "published_at": "2026-05-12 17:49",
-    "scraped_at": "2026-05-12T17:50:05.519979"
+    "scraped_at": "2026-05-12T19:25:02.355098"
   },
   {
     "id": "e35f1743a19c6ff8547260995710839e",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/863960/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 20 mei 2026:",
     "published_at": "2026-05-12 16:33",
-    "scraped_at": "2026-05-12T17:50:05.519979"
+    "scraped_at": "2026-05-12T19:25:02.355098"
   },
   {
     "id": "f7364e1c9cd816f3da6c5d11dd9c7b59",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/863961/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 20 mei 2026:",
     "published_at": "2026-05-12 16:33",
-    "scraped_at": "2026-05-12T17:50:05.519979"
-  },
-  {
-    "id": "f1e8700e892ec2544fbfb3d0a634c7f5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/863962/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 20 mei 2026:",
-    "published_at": "2026-05-12 16:33",
-    "scraped_at": "2026-05-12T17:50:05.519979"
-  },
-  {
-    "id": "a72bd5b0c8d1858ddb0e0346ee018d3b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: hogere resultaten Alfen verwacht",
-    "link": "https://www.beurs.nl/Nieuws/863957/Beursblik-hogere-resultaten-Alfen-verwacht.aspx",
-    "intro": "Alfen heeft in het eerste kwartaal de omzet en aangepaste EBITDA vermoedelijk zien aantrekken, terwijl de brutomarge is gedaald. Dit verwachten analisten die bijdroegen aan de bedrijfsconsensus.",
-    "published_at": "2026-05-12 16:27",
-    "scraped_at": "2026-05-12T17:50:05.519979"
+    "scraped_at": "2026-05-12T19:25:02.355098"
   }
 ]
