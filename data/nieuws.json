@@ -1,92 +1,92 @@
 [
   {
+    "id": "0940c4d677f3f3c79ba719fc49380e8d",
+    "categorie": "Beursnieuws",
+    "titel": "Weer winst voor JD.com",
+    "link": "https://www.beurs.nl/Nieuws/863910/Weer-winst-voor-JDcom.aspx",
+    "intro": "JD.com boekte in het eerste kwartaal van 2026 weer winst, maar zag die wel halveren ten opzichte van een jaar eerder. Dit bleek dinsdag uit de kwartaalcijfers van de Chinese e-commercereus.",
+    "published_at": "2026-05-12 12:31",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
+    "id": "a06fec67879de63d4491429610294339",
+    "categorie": "Beursnieuws",
+    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers stabiel",
+    "link": "https://www.beurs.nl/Nieuws/863907/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-stabiel.aspx",
+    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in april nagenoeg stabiel gebleven. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
+    "published_at": "2026-05-12 12:08",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
+    "id": "a73fac155a562e6a502963062f5b3961",
+    "categorie": "Beursnieuws",
+    "titel": "Obligatie: Nederland haalt ruim 2,7 miljard euro op met tienjarige lening",
+    "link": "https://www.beurs.nl/Nieuws/863893/Obligatie-Nederland-haalt-ruim-27-miljard-euro-op-met-tienjarige-lening.aspx",
+    "intro": "De Nederlandse staat heeft met de uitgifte van een tienjarige lening ruim 2,7 miljard euro opgehaald. Dit meldde het Agentschap van het ministerie van Financiën dinsdag.",
+    "published_at": "2026-05-12 11:56",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
+    "id": "1577fca59effd801a1746800804476fc",
+    "categorie": "Beursnieuws",
+    "titel": "CSG en FNSS bouwen samen Karpat-tank",
+    "link": "https://www.beurs.nl/Nieuws/863888/CSG-en-FNSS-bouwen-samen-Karpat-tank.aspx",
+    "intro": "CSG gaat samen met het Turkse defensiebedrijf FNSS Savunma Sistemleri de nieuwe tank CFL-120 Karpat bouwen. Dat maakte de Tsjechische defensiefabrikant dinsdag bekend.",
+    "published_at": "2026-05-12 11:24",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
+    "id": "ed684a731446a78bade6ad7eb1ab6f4d",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse ZEW-index krabbelt op",
+    "link": "https://www.beurs.nl/Nieuws/863886/Duitse-ZEW-index-krabbelt-op.aspx",
+    "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in mei verbeterd, maar bleef negatief, na de sterke dalingen in maart en april. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
+    "published_at": "2026-05-12 11:21",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
+    "id": "10f20c7ee8672f319621ec4b02a8be91",
+    "categorie": "Beursnieuws",
+    "titel": "TKH en vooral Kendrion omhoog na kwartaalcijfers",
+    "link": "https://www.beurs.nl/Nieuws/863887/TKH-en-vooral-Kendrion-omhoog-na-kwartaalcijfers.aspx",
+    "intro": "De Amsterdamse beurs leverde dinsdag in, ondanks de koerswinst voor de oliebedrijven Shell en SBM Offshore.",
+    "published_at": "2026-05-12 11:18",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
+    "id": "adb365741f84244af57bd7ece5e3279d",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof verhoogt koersdoel TKH",
+    "link": "https://www.beurs.nl/Nieuws/863877/Degroof-verhoogt-koersdoel-TKH.aspx",
+    "intro": "Degroof Petercam heeft dinsdag het koersdoel voor TKH Group verhoogd van 48,00 naar 55,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Michael Roeg.",
+    "published_at": "2026-05-12 10:38",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
+    "id": "0c8fb66d3dc267d4bc317138d351253d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: meevallend kwartaal Kendrion",
+    "link": "https://www.beurs.nl/Nieuws/863874/Beursblik-meevallendkwartaalKendrion.aspx",
+    "intro": "Kendrion heeft een sterk eerste kwartaal achter de rug, waarin de omzet en EBITDA hoger uitvielen dan verwacht. Dit stelde analist Martijn den Drijver van ABN AMRO Oddo dinsdag in een rapport.",
+    "published_at": "2026-05-12 10:25",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
+    "id": "631ec9fe68f503e1b1d3fc80ccb97b56",
+    "categorie": "Beursnieuws",
+    "titel": "ABU: uren in uitzendbranche blijven onder druk",
+    "link": "https://www.beurs.nl/Nieuws/863872/ABU-uren-in-uitzendbranche-blijven-onder-druk.aspx",
+    "intro": "Het aantal gewerkte uren in de Nederlandse uitzendsector is in periode 4 van 2026 opnieuw gedaald, terwijl de omzet verder steeg. Dit bleek dinsdag uit cijfers van brancheorganisatie ABU.",
+    "published_at": "2026-05-12 10:17",
+    "scraped_at": "2026-05-12T10:44:39.528598"
+  },
+  {
     "id": "a6ffdb5929e3c1d3575ca6bc010066b8",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: koersdruk Prosus overdreven",
     "link": "https://www.beurs.nl/Nieuws/863870/Beursblik-koersdruk-Prosus-overdreven.aspx",
     "intro": "De onverwachte trading update die Prosus dinsdag voorbeurs gaf, heeft slechts een beperkte impact op de intrinsieke waarde van het bedrijf. Dit schreven analisten van Jefferies in een rapport naar aanleiding van de update.",
     "published_at": "2026-05-12 10:00",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "75fc401aeb7b57370ef3305c7505eefd",
-    "categorie": "IEX",
-    "titel": "Must read: Rode vlaggen genegeerd",
-    "link": "https://www.iex.nl/artikel/863739/Must-read-Rode-vlaggen-genegeerd.aspx",
-    "intro": "Plus: water is wel/niet het lichtblauwe goud, wereldwijd olietekort komt dichtbij, AI maakt analisten menselijker, tweedeling woningmarkt verdiept zich verder, en meer.",
-    "published_at": "2026-05-12 09:50",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "280b2bc9a61f38831f4dba6936cfc1d5",
-    "categorie": "Beursnieuws",
-    "titel": "KBC Securities verhoogt koersdoel TKH",
-    "link": "https://www.beurs.nl/Nieuws/863868/KBC-Securities-verhoogt-koersdoel-TKH.aspx",
-    "intro": "KBC Securities heeft dinsdag het koersdoel voor TKH verhoogd van 42,00 naar 49,00 euro, terwijl het advies werd verlaagd van Kopen naar Accumuleren. Dit bleek uit een rapport van analist Thibault Leneeuw.",
-    "published_at": "2026-05-12 09:35",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "2b59bf7e1290b20e5472c0ab571e7987",
-    "categorie": "Beursnieuws",
-    "titel": "Nettovermogenswaarde HAL stijgt",
-    "link": "https://www.beurs.nl/Nieuws/863864/Nettovermogenswaarde-HAL-stijgt.aspx",
-    "intro": "HAL heeft de nettovermogenswaarde in het eerste kwartaal zien stijgen met bijna 1,2 miljard euro, of 13,13 euro per aandeel. Dit bleek dinsdag uit een update van de beursgenoteerde investeerder.",
-    "published_at": "2026-05-12 09:25",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "ef745b49969e809148db88e642926725",
-    "categorie": "Beursnieuws",
-    "titel": "AEX onder aanvoering van Prosus lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/863863/AEX-onder-aanvoering-van-Prosus-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste dinsdag kort na de beursgong 1,2 procent lager op 1.002,55 punten, terwijl de Midkap 0,9 procent prijs moest geven.",
-    "published_at": "2026-05-12 09:19",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "467545788d3d2e65fd1d5a641e1871f1",
-    "categorie": "Beursnieuws",
-    "titel": "CVC wil John Hourican als nieuwe CFO",
-    "link": "https://www.beurs.nl/Nieuws/863861/CVC-wil-John-Hourican-als-nieuwe-CFO.aspx",
-    "intro": "CVC Capital Partners heeft John Hourican voorgesteld als Chief Financial Officer, met ingang van 1 september 2026. Dit meldde CVC dinsdag voorbeurs in een persbericht.",
-    "published_at": "2026-05-12 09:05",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "d221a2fe3d5a865652ac338beb604334",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse inflatie inderdaad gestegen naar 2,9 procent",
-    "link": "https://www.beurs.nl/Nieuws/863860/Duitse-inflatie-inderdaad-gestegen-naar-29-procent.aspx",
-    "intro": "De Duitse inflatie is in april verder gestegen, doordat energie opnieuw flink duurder werd. Dit bleek dinsdag uit definitieve cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-05-12 09:00",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "5aa2582afb5875ea921f2c24063ed1ae",
-    "categorie": "Beursnieuws",
-    "titel": "Prosus behaalt jaardoelstelling en zet in op groei",
-    "link": "https://www.beurs.nl/Nieuws/863857/Prosus-behaalt-jaardoelstelling-en-zet-in-op-groei.aspx",
-    "intro": "Prosus heeft zijn financiële doelstellingen voor het boekjaar 2026 behaald en zet nu vol in op winstgevende groei in het boekjaar 2027. Dit meldde de internetinvesteerder met een notering op het Damrak dinsdag voorbeurs.",
-    "published_at": "2026-05-12 08:42",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "7a264029c5d1277d4382d67729c0d6d2",
-    "categorie": "Beursnieuws",
-    "titel": "\"Brunel staat klaar om opleving te benutten\"",
-    "link": "https://www.beurs.nl/Nieuws/863851/Brunel-staat-klaar-om-opleving-te-benutten.aspx",
-    "intro": "Brunel wil in de komende jaren de omzet laten groeien met een percentage dat \"hoog in de enkele cijfers\" ligt en een EBIT-marge van meer dan 5 procent bereiken in 2029. Dat meldde het bedrijf dinsdag voorafgaand aan zijn beleggersdag.",
-    "published_at": "2026-05-12 08:11",
-    "scraped_at": "2026-05-12T08:14:01.543181"
-  },
-  {
-    "id": "5c5f7ffecb5b89bd6e3c932ff69b20b1",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag terughoudend met inflatiecijfers VS in het vooruitzicht",
-    "link": "https://www.beurs.nl/Nieuws/863848/AEX-start-handelsdag-terughoudend-met-inflatiecijfers-VS-in-het-vooruitzicht.aspx",
-    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een min of meer vlakke opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,2 procent.",
-    "published_at": "2026-05-12 08:02",
-    "scraped_at": "2026-05-12T08:14:01.543181"
+    "scraped_at": "2026-05-12T10:44:39.528598"
   }
 ]
