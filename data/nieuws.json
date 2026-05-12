@@ -1,47 +1,92 @@
 [
   {
-    "id": "212f8caf9b936601657043da896d3eb5",
+    "id": "a6ffdb5929e3c1d3575ca6bc010066b8",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/863839/Aziatische-beurzen-noteren-verdeeld.aspx",
-    "intro": "De Aziatische beurzen noteerden dinsdagochtend verdeeld, zonder heel grote koersuitslagen. In Tokio won de Nikkei index meer dan een half procent, terwijl de Indiase beurs ruim een half procent prijs gaf.",
-    "published_at": "2026-05-12 07:18",
-    "scraped_at": "2026-05-12T05:25:29.313697"
+    "titel": "Beursblik: koersdruk Prosus overdreven",
+    "link": "https://www.beurs.nl/Nieuws/863870/Beursblik-koersdruk-Prosus-overdreven.aspx",
+    "intro": "De onverwachte trading update die Prosus dinsdag voorbeurs gaf, heeft slechts een beperkte impact op de intrinsieke waarde van het bedrijf. Dit schreven analisten van Jefferies in een rapport naar aanleiding van de update.",
+    "published_at": "2026-05-12 10:00",
+    "scraped_at": "2026-05-12T08:14:01.543181"
   },
   {
-    "id": "edd5738abae19ac1422bcd76377e135e",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen naar verwachting lager",
-    "link": "https://www.beurs.nl/Nieuws/863837/Europese-beurzen-openen-naar-verwachting-lager.aspx",
-    "intro": "De Europese beurzen gaan dinsdag een rode opening tegemoet, nu Iran en de VS nog altijd geen akkoord hebben bereikt over een einde van de oorlog of de heropening van de Straat van Hormuz. Verder is het wachten op nieuwe inflatiecijfers uit Amerika.",
-    "published_at": "2026-05-12 07:02",
-    "scraped_at": "2026-05-12T05:25:29.313697"
+    "id": "75fc401aeb7b57370ef3305c7505eefd",
+    "categorie": "IEX",
+    "titel": "Must read: Rode vlaggen genegeerd",
+    "link": "https://www.iex.nl/artikel/863739/Must-read-Rode-vlaggen-genegeerd.aspx",
+    "intro": "Plus: water is wel/niet het lichtblauwe goud, wereldwijd olietekort komt dichtbij, AI maakt analisten menselijker, tweedeling woningmarkt verdiept zich verder, en meer.",
+    "published_at": "2026-05-12 09:50",
+    "scraped_at": "2026-05-12T08:14:01.543181"
   },
   {
-    "id": "c4c2d7d459ef9ab03eeb7babb5a89577",
+    "id": "280b2bc9a61f38831f4dba6936cfc1d5",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/863832/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 19 mei 2026:",
-    "published_at": "2026-05-12 06:54",
-    "scraped_at": "2026-05-12T05:25:29.313697"
+    "titel": "KBC Securities verhoogt koersdoel TKH",
+    "link": "https://www.beurs.nl/Nieuws/863868/KBC-Securities-verhoogt-koersdoel-TKH.aspx",
+    "intro": "KBC Securities heeft dinsdag het koersdoel voor TKH verhoogd van 42,00 naar 49,00 euro, terwijl het advies werd verlaagd van Kopen naar Accumuleren. Dit bleek uit een rapport van analist Thibault Leneeuw.",
+    "published_at": "2026-05-12 09:35",
+    "scraped_at": "2026-05-12T08:14:01.543181"
   },
   {
-    "id": "de1234cf3f7bf35b687103b11d98d930",
+    "id": "2b59bf7e1290b20e5472c0ab571e7987",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/863834/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 19 mei 2026:",
-    "published_at": "2026-05-12 06:54",
-    "scraped_at": "2026-05-12T05:25:29.313697"
+    "titel": "Nettovermogenswaarde HAL stijgt",
+    "link": "https://www.beurs.nl/Nieuws/863864/Nettovermogenswaarde-HAL-stijgt.aspx",
+    "intro": "HAL heeft de nettovermogenswaarde in het eerste kwartaal zien stijgen met bijna 1,2 miljard euro, of 13,13 euro per aandeel. Dit bleek dinsdag uit een update van de beursgenoteerde investeerder.",
+    "published_at": "2026-05-12 09:25",
+    "scraped_at": "2026-05-12T08:14:01.543181"
   },
   {
-    "id": "c2a3c1a03bf742ae56ed486aab051e10",
+    "id": "ef745b49969e809148db88e642926725",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/863835/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 19 mei 2026:",
-    "published_at": "2026-05-12 06:54",
-    "scraped_at": "2026-05-12T05:25:29.313697"
+    "titel": "AEX onder aanvoering van Prosus lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/863863/AEX-onder-aanvoering-van-Prosus-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 1,2 procent lager op 1.002,55 punten, terwijl de Midkap 0,9 procent prijs moest geven.",
+    "published_at": "2026-05-12 09:19",
+    "scraped_at": "2026-05-12T08:14:01.543181"
+  },
+  {
+    "id": "467545788d3d2e65fd1d5a641e1871f1",
+    "categorie": "Beursnieuws",
+    "titel": "CVC wil John Hourican als nieuwe CFO",
+    "link": "https://www.beurs.nl/Nieuws/863861/CVC-wil-John-Hourican-als-nieuwe-CFO.aspx",
+    "intro": "CVC Capital Partners heeft John Hourican voorgesteld als Chief Financial Officer, met ingang van 1 september 2026. Dit meldde CVC dinsdag voorbeurs in een persbericht.",
+    "published_at": "2026-05-12 09:05",
+    "scraped_at": "2026-05-12T08:14:01.543181"
+  },
+  {
+    "id": "d221a2fe3d5a865652ac338beb604334",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse inflatie inderdaad gestegen naar 2,9 procent",
+    "link": "https://www.beurs.nl/Nieuws/863860/Duitse-inflatie-inderdaad-gestegen-naar-29-procent.aspx",
+    "intro": "De Duitse inflatie is in april verder gestegen, doordat energie opnieuw flink duurder werd. Dit bleek dinsdag uit definitieve cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-05-12 09:00",
+    "scraped_at": "2026-05-12T08:14:01.543181"
+  },
+  {
+    "id": "5aa2582afb5875ea921f2c24063ed1ae",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus behaalt jaardoelstelling en zet in op groei",
+    "link": "https://www.beurs.nl/Nieuws/863857/Prosus-behaalt-jaardoelstelling-en-zet-in-op-groei.aspx",
+    "intro": "Prosus heeft zijn financiële doelstellingen voor het boekjaar 2026 behaald en zet nu vol in op winstgevende groei in het boekjaar 2027. Dit meldde de internetinvesteerder met een notering op het Damrak dinsdag voorbeurs.",
+    "published_at": "2026-05-12 08:42",
+    "scraped_at": "2026-05-12T08:14:01.543181"
+  },
+  {
+    "id": "7a264029c5d1277d4382d67729c0d6d2",
+    "categorie": "Beursnieuws",
+    "titel": "\"Brunel staat klaar om opleving te benutten\"",
+    "link": "https://www.beurs.nl/Nieuws/863851/Brunel-staat-klaar-om-opleving-te-benutten.aspx",
+    "intro": "Brunel wil in de komende jaren de omzet laten groeien met een percentage dat \"hoog in de enkele cijfers\" ligt en een EBIT-marge van meer dan 5 procent bereiken in 2029. Dat meldde het bedrijf dinsdag voorafgaand aan zijn beleggersdag.",
+    "published_at": "2026-05-12 08:11",
+    "scraped_at": "2026-05-12T08:14:01.543181"
+  },
+  {
+    "id": "5c5f7ffecb5b89bd6e3c932ff69b20b1",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsdag terughoudend met inflatiecijfers VS in het vooruitzicht",
+    "link": "https://www.beurs.nl/Nieuws/863848/AEX-start-handelsdag-terughoudend-met-inflatiecijfers-VS-in-het-vooruitzicht.aspx",
+    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een min of meer vlakke opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,2 procent.",
+    "published_at": "2026-05-12 08:02",
+    "scraped_at": "2026-05-12T08:14:01.543181"
   }
 ]
