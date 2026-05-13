@@ -1,12 +1,75 @@
 [
   {
+    "id": "8bda01704aa842e60a4ce939fbe30b66",
+    "categorie": "Beursnieuws",
+    "titel": "AEX schudt tegenvallende macrocijfers van zich af",
+    "link": "https://www.beurs.nl/Nieuws/864186/AEX-schudt-tegenvallende-macrocijfers-van-zich-af.aspx",
+    "intro": "De Amsterdamse beurs is woensdag hoger gesloten, ondanks tegenvallende macro-economische data.",
+    "published_at": "2026-05-13 17:46",
+    "scraped_at": "2026-05-13T16:11:21.771341"
+  },
+  {
+    "id": "6211ea2ce04c4a5a3fa256a771d672b4",
+    "categorie": "IEX",
+    "titel": "Slotcall: met vallen en opstaan, maar AEX toch ruim in het groen",
+    "link": "https://www.iex.nl/artikel/864167/Slotcall-met-vallen-en-opstaan-maar-AEX-toch-ruim-in-het-groen.aspx",
+    "intro": "Na een goede start zakte de index gedurende de middag steeds verder terug, mede door tegenvallende Amerikaanse producentenprijzen, maar richting het slot kwamen de kopers toch weer terug.",
+    "published_at": "2026-05-13 17:35",
+    "scraped_at": "2026-05-13T16:11:21.771341"
+  },
+  {
+    "id": "f5c5f54102fbd85a7732f98d64519b76",
+    "categorie": "Beursnieuws",
+    "titel": "Nebius profiteert van AI-boom",
+    "link": "https://www.beurs.nl/Nieuws/864177/Nebius-profiteert-van-AI-boom.aspx",
+    "intro": "Het aandeel Nebius noteerde woensdag fors hoger nadat het Nederlandse AI-cloudbedrijf, met een notering op Wall Street, beter dan verwachte kwartaalcijfers rapporteerde.",
+    "published_at": "2026-05-13 17:16",
+    "scraped_at": "2026-05-13T16:11:21.771341"
+  },
+  {
+    "id": "c2b0d663fe09d6ff074ee93886576196",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden opnieuw gedaald",
+    "link": "https://www.beurs.nl/Nieuws/864173/Amerikaanse-olievoorraden-opnieuw-gedaald.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week opnieuw gedaald. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-05-13 16:45",
+    "scraped_at": "2026-05-13T16:11:21.771341"
+  },
+  {
+    "id": "0dda0addbcc2c328fa4594220cba4a0a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/864157/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 21 mei 2026:",
+    "published_at": "2026-05-13 15:51",
+    "scraped_at": "2026-05-13T16:11:21.771341"
+  },
+  {
+    "id": "a71be9e1b50fb8fcaffc2bdd6c67d2c9",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/864158/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 21 mei 2026:",
+    "published_at": "2026-05-13 15:50",
+    "scraped_at": "2026-05-13T16:11:21.771341"
+  },
+  {
+    "id": "17498788d2c2048cb77356fe73d29af9",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/864159/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 21 mei 2026:",
+    "published_at": "2026-05-13 15:50",
+    "scraped_at": "2026-05-13T16:11:21.771341"
+  },
+  {
     "id": "09dfc5bf68769d33d927202619928d91",
     "categorie": "Beursnieuws",
     "titel": "Hormuz-sluiting dwingt OPEC prognose te verlagen",
     "link": "https://www.beurs.nl/Nieuws/864144/Hormuz-sluiting-dwingt-OPEC-prognose-te-verlagen.aspx",
     "intro": "OPEC heeft zijn prognose voor de wereldwijde olievraaggroei dit jaar verlaagd, nadat de nagenoeg gesloten Straat van Hormuz grote Golfproducenten dwong de productie terug te schroeven en exportroutes te verleggen. Dit maakte de OPEC woensdag bekend.",
     "published_at": "2026-05-13 15:07",
-    "scraped_at": "2026-05-13T13:33:15.322709"
+    "scraped_at": "2026-05-13T16:11:21.771341"
   },
   {
     "id": "305c0c3b456bbaae650687249b61cf67",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864139/Wall-Street-staat-verdeelde-opening-te-wachten.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een verdeelde opening tegemoet na tegenvallende inflatiecijfers. Dit terwijl de Amerikaanse president Donald Trump was geland in China voor een presidentiële topontmoeting met zijn Chinese tegenhanger, Xi Jinping.",
     "published_at": "2026-05-13 14:52",
-    "scraped_at": "2026-05-13T13:33:15.322709"
+    "scraped_at": "2026-05-13T16:11:21.771341"
   },
   {
     "id": "7e83f84ecc7a5d929ceb750ae18dfd7c",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864135/Media-Tsjechische-CSG-wil-belang-in-tankbouwer-KNDS.aspx",
     "intro": "Czechoslovak Group heeft een voorstel gedaan om een belang te nemen in de Frans-Duitse tankbouwer KNDS. Dit meldde de Financial Times woensdag op basis van ingewijden.",
     "published_at": "2026-05-13 14:45",
-    "scraped_at": "2026-05-13T13:33:15.322709"
-  },
-  {
-    "id": "b2437cb98acb0807b8306d13b047d6e0",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse producentenprijzen harder gestegen dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/864132/Amerikaanse-producentenprijzen-harder-gestegen-dan-verwacht.aspx",
-    "intro": "De producentenprijzen in de Verenigde Staten zijn in april harder gestegen dan verwacht. Dit meldde het Amerikaanse ministerie van Arbeid woensdagmiddag.",
-    "published_at": "2026-05-13 14:40",
-    "scraped_at": "2026-05-13T13:33:15.322709"
-  },
-  {
-    "id": "a62bdd86a4c8d85c88558c7042d2d393",
-    "categorie": "Beursnieuws",
-    "titel": "ABN Amro uitblinker in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/864126/ABN-Amro-uitblinker-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagmiddag overtuigend in het groen, dankzij de koerswinsten van ABN Amro en de 'chippers'. Rond de klok van twee uur won de AEX 0,7 procent op 1.005,92 punten.",
-    "published_at": "2026-05-13 14:03",
-    "scraped_at": "2026-05-13T13:33:15.322709"
-  },
-  {
-    "id": "740c325c6127f801994aa9b70a11a4d5",
-    "categorie": "Beursnieuws",
-    "titel": "Triodos verkoopt Duitse glasvezelportefeuille",
-    "link": "https://www.beurs.nl/Nieuws/864123/Triodos-verkoopt-Duitse-glasvezelportefeuille.aspx",
-    "intro": "Triodos Bank heeft een akkoord bereikt over de verkoop van een niet-kernportefeuille van circa 180 miljoen euro aan leningen in de Duitse glasvezelmarkt aan Deutsche Bank. Dit maakte de duurzame bank woensdag bekend.",
-    "published_at": "2026-05-13 13:39",
-    "scraped_at": "2026-05-13T13:33:15.322709"
-  },
-  {
-    "id": "bcb757605a8f724ba96b9c882617efbd",
-    "categorie": "Beursnieuws",
-    "titel": "IEA verwacht dat energieschok maanden aanhoudt",
-    "link": "https://www.beurs.nl/Nieuws/864121/IEA-verwacht-dat-energieschok-maanden-aanhoudt.aspx",
-    "intro": "De sluiting van de Straat van Hormuz heeft geleid tot een ongekende aanbodschok op de wereldwijde energiemarkten, die de olieaanvoer mogelijk nog maanden beperkt kan houden, zelfs nadat de scheepvaart door de cruciale waterweg is hervat. Dit stelde het Internationaal Energieagentschap woensdag in een maandrapport.",
-    "published_at": "2026-05-13 13:15",
-    "scraped_at": "2026-05-13T13:33:15.322709"
-  },
-  {
-    "id": "922f6571ee414ea86a413e87aa42a150",
-    "categorie": "Beursnieuws",
-    "titel": "Licht hogere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/864118/Licht-hogere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,2 procent in het groen. Techbeurs Nasdaq lijkt zelfs 0,8 procent hoger te gaan openen.",
-    "published_at": "2026-05-13 12:59",
-    "scraped_at": "2026-05-13T13:33:15.322709"
-  },
-  {
-    "id": "ce887c91a5d3f31cc16229c1c20f0828",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen overwegend hoger rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/864116/Europese-beurzen-overwegend-hoger-rond-middaguur.aspx",
-    "intro": "De Europese beurzen noteerden woensdag rond het middaguur overwegend hoger en herstelden zich enigszins van de verliezen van de vorige dag.",
-    "published_at": "2026-05-13 12:49",
-    "scraped_at": "2026-05-13T13:33:15.322709"
-  },
-  {
-    "id": "8cf611e35423867494a622659dddde0d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: uitdagingen Alfen blijven",
-    "link": "https://www.beurs.nl/Nieuws/864115/Beursblik-uitdagingen-Alfen-blijven.aspx",
-    "intro": "Alfen is 2026 sterk gestart, maar de uitdagingen blijven. Dit stelde analist Luuk van Beek van Degroof Petercam woensdag in een rapport.",
-    "published_at": "2026-05-13 12:47",
-    "scraped_at": "2026-05-13T13:33:15.322709"
+    "scraped_at": "2026-05-13T16:11:21.771341"
   }
 ]
