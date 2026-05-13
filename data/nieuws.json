@@ -1,12 +1,30 @@
 [
   {
+    "id": "9630b210a4e3421ce1ed7070e6f0990a",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs iets lager",
+    "link": "https://www.beurs.nl/Nieuws/864204/Olieprijs-iets-lager.aspx",
+    "intro": "De olieprijs is woensdag licht gedaald, terwijl de Amerikaanse president Donald Trump, vergezeld van de CEO's van Nvidia, Tesla en Apple, arriveerde in Beijing voor een belangrijke top met de Chinese leider Xi Jinping.",
+    "published_at": "2026-05-13 21:23",
+    "scraped_at": "2026-05-13T20:14:59.394902"
+  },
+  {
+    "id": "5b3e7ea1f15ed16acaa125897278396b",
+    "categorie": "Beursnieuws",
+    "titel": "Chipsector stuwt Nasdaq",
+    "link": "https://www.beurs.nl/Nieuws/864203/Chipsector-stuwt-Nasdaq.aspx",
+    "intro": "De Amerikaanse aandelenbeurzen stonden woensdagavond verdeeld, met winst voor techbeurs Nasdaq dankzij de chipsector en optimisme over een Amerikaans-Chinese top. Grote namen uit de halfgeleiderindustrie zoals Nvidia en Alphabet leidden de sector omhoog.",
+    "published_at": "2026-05-13 20:49",
+    "scraped_at": "2026-05-13T20:14:59.394902"
+  },
+  {
     "id": "ee7ef21d865ada8aadca88c9d0b53aac",
     "categorie": "Beursnieuws",
     "titel": "Arcadis plaatst vijfjarige obligatie",
     "link": "https://www.beurs.nl/Nieuws/864196/Arcadis-plaatst-vijfjarige-obligatie.aspx",
     "intro": "Arcadis heeft 300 miljoen euro opgehaald met de uitgifte van een vijfjarige obligatie. Dat maakte het bedrijf woensdag bekend.",
     "published_at": "2026-05-13 19:55",
-    "scraped_at": "2026-05-13T18:20:38.606459"
+    "scraped_at": "2026-05-13T20:14:59.394902"
   },
   {
     "id": "1f8e3d2e35fa13a3b54c3697d4298291",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/864193/Europese-beurzen-sluiten-hoger.aspx",
     "intro": "De Europese beurzen zijn woensdag hoger gesloten, herstellend van de verliezen van de vorige dag, ondanks matige economische cijfers. De chipsector profiteerde van hoop op een doorbraak voor de sector door een top tussen Trump en Xi.",
     "published_at": "2026-05-13 19:13",
-    "scraped_at": "2026-05-13T18:20:38.606459"
+    "scraped_at": "2026-05-13T20:14:59.394902"
   },
   {
     "id": "8bda01704aa842e60a4ce939fbe30b66",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/864186/AEX-schudt-tegenvallende-macrocijfers-van-zich-af.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger gesloten, ondanks tegenvallende macro-economische data.",
     "published_at": "2026-05-13 17:46",
-    "scraped_at": "2026-05-13T18:20:38.606459"
+    "scraped_at": "2026-05-13T20:14:59.394902"
   },
   {
     "id": "6211ea2ce04c4a5a3fa256a771d672b4",
@@ -33,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/864167/Slotcall-met-vallen-en-opstaan-maar-AEX-toch-ruim-in-het-groen.aspx",
     "intro": "Na een goede start zakte de index gedurende de middag steeds verder terug, mede door tegenvallende Amerikaanse producentenprijzen, maar richting het slot kwamen de kopers toch weer terug.",
     "published_at": "2026-05-13 17:35",
-    "scraped_at": "2026-05-13T18:20:38.606459"
+    "scraped_at": "2026-05-13T20:14:59.394902"
   },
   {
     "id": "f5c5f54102fbd85a7732f98d64519b76",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/864177/Nebius-profiteert-van-AI-boom.aspx",
     "intro": "Het aandeel Nebius noteerde woensdag fors hoger nadat het Nederlandse AI-cloudbedrijf, met een notering op Wall Street, beter dan verwachte kwartaalcijfers rapporteerde.",
     "published_at": "2026-05-13 17:16",
-    "scraped_at": "2026-05-13T18:20:38.606459"
+    "scraped_at": "2026-05-13T20:14:59.394902"
   },
   {
     "id": "c2b0d663fe09d6ff074ee93886576196",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/864173/Amerikaanse-olievoorraden-opnieuw-gedaald.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week opnieuw gedaald. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-05-13 16:45",
-    "scraped_at": "2026-05-13T18:20:38.606459"
+    "scraped_at": "2026-05-13T20:14:59.394902"
   },
   {
     "id": "0dda0addbcc2c328fa4594220cba4a0a",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864157/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 21 mei 2026:",
     "published_at": "2026-05-13 15:51",
-    "scraped_at": "2026-05-13T18:20:38.606459"
+    "scraped_at": "2026-05-13T20:14:59.394902"
   },
   {
     "id": "a71be9e1b50fb8fcaffc2bdd6c67d2c9",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864158/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 21 mei 2026:",
     "published_at": "2026-05-13 15:50",
-    "scraped_at": "2026-05-13T18:20:38.606459"
-  },
-  {
-    "id": "17498788d2c2048cb77356fe73d29af9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/864159/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 21 mei 2026:",
-    "published_at": "2026-05-13 15:50",
-    "scraped_at": "2026-05-13T18:20:38.606459"
-  },
-  {
-    "id": "09dfc5bf68769d33d927202619928d91",
-    "categorie": "Beursnieuws",
-    "titel": "Hormuz-sluiting dwingt OPEC prognose te verlagen",
-    "link": "https://www.beurs.nl/Nieuws/864144/Hormuz-sluiting-dwingt-OPEC-prognose-te-verlagen.aspx",
-    "intro": "OPEC heeft zijn prognose voor de wereldwijde olievraaggroei dit jaar verlaagd, nadat de nagenoeg gesloten Straat van Hormuz grote Golfproducenten dwong de productie terug te schroeven en exportroutes te verleggen. Dit maakte de OPEC woensdag bekend.",
-    "published_at": "2026-05-13 15:07",
-    "scraped_at": "2026-05-13T18:20:38.606459"
+    "scraped_at": "2026-05-13T20:14:59.394902"
   }
 ]
