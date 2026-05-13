@@ -1,12 +1,30 @@
 [
   {
+    "id": "ee7ef21d865ada8aadca88c9d0b53aac",
+    "categorie": "Beursnieuws",
+    "titel": "Arcadis plaatst vijfjarige obligatie",
+    "link": "https://www.beurs.nl/Nieuws/864196/Arcadis-plaatst-vijfjarige-obligatie.aspx",
+    "intro": "Arcadis heeft 300 miljoen euro opgehaald met de uitgifte van een vijfjarige obligatie. Dat maakte het bedrijf woensdag bekend.",
+    "published_at": "2026-05-13 19:55",
+    "scraped_at": "2026-05-13T18:20:38.606459"
+  },
+  {
+    "id": "1f8e3d2e35fa13a3b54c3697d4298291",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten hoger",
+    "link": "https://www.beurs.nl/Nieuws/864193/Europese-beurzen-sluiten-hoger.aspx",
+    "intro": "De Europese beurzen zijn woensdag hoger gesloten, herstellend van de verliezen van de vorige dag, ondanks matige economische cijfers. De chipsector profiteerde van hoop op een doorbraak voor de sector door een top tussen Trump en Xi.",
+    "published_at": "2026-05-13 19:13",
+    "scraped_at": "2026-05-13T18:20:38.606459"
+  },
+  {
     "id": "8bda01704aa842e60a4ce939fbe30b66",
     "categorie": "Beursnieuws",
     "titel": "AEX schudt tegenvallende macrocijfers van zich af",
     "link": "https://www.beurs.nl/Nieuws/864186/AEX-schudt-tegenvallende-macrocijfers-van-zich-af.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger gesloten, ondanks tegenvallende macro-economische data.",
     "published_at": "2026-05-13 17:46",
-    "scraped_at": "2026-05-13T16:11:21.771341"
+    "scraped_at": "2026-05-13T18:20:38.606459"
   },
   {
     "id": "6211ea2ce04c4a5a3fa256a771d672b4",
@@ -15,7 +33,7 @@
     "link": "https://www.iex.nl/artikel/864167/Slotcall-met-vallen-en-opstaan-maar-AEX-toch-ruim-in-het-groen.aspx",
     "intro": "Na een goede start zakte de index gedurende de middag steeds verder terug, mede door tegenvallende Amerikaanse producentenprijzen, maar richting het slot kwamen de kopers toch weer terug.",
     "published_at": "2026-05-13 17:35",
-    "scraped_at": "2026-05-13T16:11:21.771341"
+    "scraped_at": "2026-05-13T18:20:38.606459"
   },
   {
     "id": "f5c5f54102fbd85a7732f98d64519b76",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/864177/Nebius-profiteert-van-AI-boom.aspx",
     "intro": "Het aandeel Nebius noteerde woensdag fors hoger nadat het Nederlandse AI-cloudbedrijf, met een notering op Wall Street, beter dan verwachte kwartaalcijfers rapporteerde.",
     "published_at": "2026-05-13 17:16",
-    "scraped_at": "2026-05-13T16:11:21.771341"
+    "scraped_at": "2026-05-13T18:20:38.606459"
   },
   {
     "id": "c2b0d663fe09d6ff074ee93886576196",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/864173/Amerikaanse-olievoorraden-opnieuw-gedaald.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week opnieuw gedaald. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-05-13 16:45",
-    "scraped_at": "2026-05-13T16:11:21.771341"
+    "scraped_at": "2026-05-13T18:20:38.606459"
   },
   {
     "id": "0dda0addbcc2c328fa4594220cba4a0a",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/864157/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 21 mei 2026:",
     "published_at": "2026-05-13 15:51",
-    "scraped_at": "2026-05-13T16:11:21.771341"
+    "scraped_at": "2026-05-13T18:20:38.606459"
   },
   {
     "id": "a71be9e1b50fb8fcaffc2bdd6c67d2c9",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/864158/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 21 mei 2026:",
     "published_at": "2026-05-13 15:50",
-    "scraped_at": "2026-05-13T16:11:21.771341"
+    "scraped_at": "2026-05-13T18:20:38.606459"
   },
   {
     "id": "17498788d2c2048cb77356fe73d29af9",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864159/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 21 mei 2026:",
     "published_at": "2026-05-13 15:50",
-    "scraped_at": "2026-05-13T16:11:21.771341"
+    "scraped_at": "2026-05-13T18:20:38.606459"
   },
   {
     "id": "09dfc5bf68769d33d927202619928d91",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864144/Hormuz-sluiting-dwingt-OPEC-prognose-te-verlagen.aspx",
     "intro": "OPEC heeft zijn prognose voor de wereldwijde olievraaggroei dit jaar verlaagd, nadat de nagenoeg gesloten Straat van Hormuz grote Golfproducenten dwong de productie terug te schroeven en exportroutes te verleggen. Dit maakte de OPEC woensdag bekend.",
     "published_at": "2026-05-13 15:07",
-    "scraped_at": "2026-05-13T16:11:21.771341"
-  },
-  {
-    "id": "305c0c3b456bbaae650687249b61cf67",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street staat verdeelde opening te wachten",
-    "link": "https://www.beurs.nl/Nieuws/864139/Wall-Street-staat-verdeelde-opening-te-wachten.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een verdeelde opening tegemoet na tegenvallende inflatiecijfers. Dit terwijl de Amerikaanse president Donald Trump was geland in China voor een presidentiële topontmoeting met zijn Chinese tegenhanger, Xi Jinping.",
-    "published_at": "2026-05-13 14:52",
-    "scraped_at": "2026-05-13T16:11:21.771341"
-  },
-  {
-    "id": "7e83f84ecc7a5d929ceb750ae18dfd7c",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Tsjechische CSG wil belang in tankbouwer KNDS",
-    "link": "https://www.beurs.nl/Nieuws/864135/Media-Tsjechische-CSG-wil-belang-in-tankbouwer-KNDS.aspx",
-    "intro": "Czechoslovak Group heeft een voorstel gedaan om een belang te nemen in de Frans-Duitse tankbouwer KNDS. Dit meldde de Financial Times woensdag op basis van ingewijden.",
-    "published_at": "2026-05-13 14:45",
-    "scraped_at": "2026-05-13T16:11:21.771341"
+    "scraped_at": "2026-05-13T18:20:38.606459"
   }
 ]
