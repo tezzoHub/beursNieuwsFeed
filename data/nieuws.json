@@ -1,65 +1,92 @@
 [
   {
-    "id": "1f99aac6a56ab7c33185a358df2e7fbc",
+    "id": "f97db66ce2d75c624febe3c7641b975b",
     "categorie": "Beursnieuws",
-    "titel": "InPost ziet omzet flink aantrekken",
-    "link": "https://www.beurs.nl/Nieuws/864039/InPost-ziet-omzet-flink-aantrekken.aspx",
-    "intro": "InPost heeft in het eerste kwartaal van dit jaar de omzet fors zien aantrekken, mede dankzij flink gestegen pakketvolumes. Dit bleek uit een kwartaalupdate van het Poolse pakketkluisjesbedrijf.",
-    "published_at": "2026-05-13 07:24",
-    "scraped_at": "2026-05-13T05:35:46.116814"
+    "titel": "Beursblik: veelbelovende jaarstart voor ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/864071/Beursblik-veelbelovende-jaarstart-voor-ABN-AMRO.aspx",
+    "intro": "ABN AMRO is 2026 veelbelovend gestart. Dit stelde analist. Theo Massing van Jefferies woensdag in een rapport.",
+    "published_at": "2026-05-13 10:20",
+    "scraped_at": "2026-05-13T08:26:03.521621"
   },
   {
-    "id": "58e94bedefb9fbbbefac93d5f28e9568",
-    "categorie": "Beursnieuws",
-    "titel": "Sterk eerste kwartaal voor ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/864040/Sterk-eerste-kwartaal-voor-ABN-AMRO.aspx",
-    "intro": "ABN AMRO heeft in het eerste kwartaal van 2026 meer inkomsten behaald dan verwacht, terwijl de kosten juist werden teruggedrongen. Dit bleek woensdag voorbeurs uit de cijfers van de bank.",
-    "published_at": "2026-05-13 07:24",
-    "scraped_at": "2026-05-13T05:35:46.116814"
+    "id": "e5a87af47f90aa4f4795471ae43d635a",
+    "categorie": null,
+    "titel": "Theon corrigeert fout in Q1-cijfers na vraag IEX-analist",
+    "link": "https://www.beurs.nl/Artikel/864065/Theon-corrigeert-fout-in-Q1-cijfers-na-vraag-IEX-analist.aspx",
+    "intro": "",
+    "published_at": "2026-05-13 09:50",
+    "scraped_at": "2026-05-13T08:26:03.521621"
   },
   {
-    "id": "bd53ee44f409b4942974c01e43ebef8d",
+    "id": "af165028fe4d3f229a4f1f354222f981",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: InPost vermoedelijk verder gegroeid",
-    "link": "https://www.beurs.nl/Nieuws/864033/Beursblik-InPost-vermoedelijk-verder-gegroeid.aspx",
-    "intro": "InPost is in het eerste kwartaal vermoedelijk verder gegroeid. Dit is de verwachting van het Poolse kluisjesbedrijf zelf.",
-    "published_at": "2026-05-13 06:53",
-    "scraped_at": "2026-05-13T05:35:46.116814"
+    "titel": "Adecco ziet omzet aantrekken",
+    "link": "https://www.beurs.nl/Nieuws/864066/Adecco-ziet-omzet-aantrekken.aspx",
+    "intro": "Adecco heeft in het eerste kwartaal van dit jaar de omzet zien aantrekken. Dit bleek woensdag uit cijfers van de Zwitserse uitzender.",
+    "published_at": "2026-05-13 09:44",
+    "scraped_at": "2026-05-13T08:26:03.521621"
   },
   {
-    "id": "5313f0044780c43ad96eb09ee2523480",
+    "id": "0af2ec01b35624b44dfec7ffdf2eda9d",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen hoger",
-    "link": "https://www.beurs.nl/Nieuws/864032/Europese-beurzen-openen-hoger.aspx",
-    "intro": "De aandelenmarkten in Europa gaan woensdag een groene opening tegemoet, na een rood slot een dag eerder.",
-    "published_at": "2026-05-13 06:48",
-    "scraped_at": "2026-05-13T05:35:46.116814"
+    "titel": "AEX hoger geopend onder leiding van ABN Amro",
+    "link": "https://www.beurs.nl/Nieuws/864061/AEX-hoger-geopend-onder-leiding-van-ABN-Amro.aspx",
+    "intro": "De Amsterdamse beurs is woensdag hoger geopend, mede dankzij de koerswinsten bij de halfgeleiders en ABN AMRO na cijfers.",
+    "published_at": "2026-05-13 09:14",
+    "scraped_at": "2026-05-13T08:26:03.521621"
   },
   {
-    "id": "2770a97d0a26d193cbad09a2ad7ef66a",
+    "id": "9fa6d9a0dad1285d272c2221ed3c7564",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/864030/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 20 mei 2026:",
-    "published_at": "2026-05-13 06:44",
-    "scraped_at": "2026-05-13T05:35:46.116814"
+    "titel": "Franse inflatie neemt flink toe door stijging energieprijzen",
+    "link": "https://www.beurs.nl/Nieuws/864058/Franse-inflatie-neemt-flink-toe-door-stijging-energieprijzen.aspx",
+    "intro": "De inflatie in Frankrijk is in april flink toegenomen, door een forse stijging van de energieprijzen, die oplopen sinds het begin van de oorlog in het Midden-Oosten. Dit bleek woensdag uit cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-05-13 09:03",
+    "scraped_at": "2026-05-13T08:26:03.521621"
   },
   {
-    "id": "21133a0f27df226334f545e0f34229e9",
+    "id": "473b1dc614150075ebbd8734085741dc",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/864028/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 20 mei 2026:",
-    "published_at": "2026-05-13 06:43",
-    "scraped_at": "2026-05-13T05:35:46.116814"
+    "titel": "Media: topman Nvidia vergezelt Trump op reis naar China",
+    "link": "https://www.beurs.nl/Nieuws/864056/Media-topman-Nvidia-vergezelt-Trump-op-reis-naar-China.aspx",
+    "intro": "CEO Jensen Huang van Nvidia zal de Amerikaanse president Donald Trump vergezellen op zijn reis naar China. Dit meldde Bloomberg vanochtend.",
+    "published_at": "2026-05-13 08:51",
+    "scraped_at": "2026-05-13T08:26:03.521621"
   },
   {
-    "id": "c8d7b16b1fa7c41bd85cd101157be87d",
+    "id": "b7c38a0bab97a2e60196e3d7246438e2",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/864029/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 20 mei 2026:",
-    "published_at": "2026-05-13 06:43",
-    "scraped_at": "2026-05-13T05:35:46.116814"
+    "titel": "Berenberg verhoogt koersdoel TKH",
+    "link": "https://www.beurs.nl/Nieuws/864054/Berenberg-verhoogt-koersdoel-TKH.aspx",
+    "intro": "Berenberg heeft woensdag het koersdoel voor TKH Group verhoogd van 55,00 naar 60,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Trion Reid.",
+    "published_at": "2026-05-13 08:38",
+    "scraped_at": "2026-05-13T08:26:03.521621"
+  },
+  {
+    "id": "d69f437d9e992f9f64d302bf6f0bd0ac",
+    "categorie": "Voorbeurs",
+    "titel": "Duidelijk hogere opening in verschiet en let straks op ABN Amro",
+    "link": "https://www.beurs.nl/Artikel/863937/Duidelijk-hogere-opening-in-verschiet-en-let-straks-op-ABN-Amro.aspx",
+    "intro": "Openingsindicatie: +0,8%. Cijfers ABN Amro, Alfen en InPost. Verder zijn de ogen gericht op de topontmoeting tussen Trump en Xi, mét Jensen Huang.",
+    "published_at": "2026-05-13 08:30",
+    "scraped_at": "2026-05-13T08:26:03.521621"
+  },
+  {
+    "id": "5f6e818c1cb204a063a15cdff6315c80",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterk meevallend eerste kwartaal voor ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/864052/Beursblik-sterk-meevallend-eerste-kwartaal-voor-ABN-AMRO.aspx",
+    "intro": "ABN AMRO is 2026 sterk gestart. Dit stelden analisten van Citi Research woensdag in een rapport.",
+    "published_at": "2026-05-13 08:19",
+    "scraped_at": "2026-05-13T08:26:03.521621"
+  },
+  {
+    "id": "9101321d6daa319804f2184746442bcd",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/864048/Hogere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,8 procent in het groen. Dinsdag eindigde de hoofdgraadmeter nog 1,6 procent lager op 999,44 punten.",
+    "published_at": "2026-05-13 08:04",
+    "scraped_at": "2026-05-13T08:26:03.521621"
   }
 ]
