@@ -1,12 +1,75 @@
 [
   {
+    "id": "09dfc5bf68769d33d927202619928d91",
+    "categorie": "Beursnieuws",
+    "titel": "Hormuz-sluiting dwingt OPEC prognose te verlagen",
+    "link": "https://www.beurs.nl/Nieuws/864144/Hormuz-sluiting-dwingt-OPEC-prognose-te-verlagen.aspx",
+    "intro": "OPEC heeft zijn prognose voor de wereldwijde olievraaggroei dit jaar verlaagd, nadat de nagenoeg gesloten Straat van Hormuz grote Golfproducenten dwong de productie terug te schroeven en exportroutes te verleggen. Dit maakte de OPEC woensdag bekend.",
+    "published_at": "2026-05-13 15:07",
+    "scraped_at": "2026-05-13T13:33:15.322709"
+  },
+  {
+    "id": "305c0c3b456bbaae650687249b61cf67",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street staat verdeelde opening te wachten",
+    "link": "https://www.beurs.nl/Nieuws/864139/Wall-Street-staat-verdeelde-opening-te-wachten.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een verdeelde opening tegemoet na tegenvallende inflatiecijfers. Dit terwijl de Amerikaanse president Donald Trump was geland in China voor een presidentiële topontmoeting met zijn Chinese tegenhanger, Xi Jinping.",
+    "published_at": "2026-05-13 14:52",
+    "scraped_at": "2026-05-13T13:33:15.322709"
+  },
+  {
+    "id": "7e83f84ecc7a5d929ceb750ae18dfd7c",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Tsjechische CSG wil belang in tankbouwer KNDS",
+    "link": "https://www.beurs.nl/Nieuws/864135/Media-Tsjechische-CSG-wil-belang-in-tankbouwer-KNDS.aspx",
+    "intro": "Czechoslovak Group heeft een voorstel gedaan om een belang te nemen in de Frans-Duitse tankbouwer KNDS. Dit meldde de Financial Times woensdag op basis van ingewijden.",
+    "published_at": "2026-05-13 14:45",
+    "scraped_at": "2026-05-13T13:33:15.322709"
+  },
+  {
+    "id": "b2437cb98acb0807b8306d13b047d6e0",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse producentenprijzen harder gestegen dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/864132/Amerikaanse-producentenprijzen-harder-gestegen-dan-verwacht.aspx",
+    "intro": "De producentenprijzen in de Verenigde Staten zijn in april harder gestegen dan verwacht. Dit meldde het Amerikaanse ministerie van Arbeid woensdagmiddag.",
+    "published_at": "2026-05-13 14:40",
+    "scraped_at": "2026-05-13T13:33:15.322709"
+  },
+  {
+    "id": "a62bdd86a4c8d85c88558c7042d2d393",
+    "categorie": "Beursnieuws",
+    "titel": "ABN Amro uitblinker in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/864126/ABN-Amro-uitblinker-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdagmiddag overtuigend in het groen, dankzij de koerswinsten van ABN Amro en de 'chippers'. Rond de klok van twee uur won de AEX 0,7 procent op 1.005,92 punten.",
+    "published_at": "2026-05-13 14:03",
+    "scraped_at": "2026-05-13T13:33:15.322709"
+  },
+  {
+    "id": "740c325c6127f801994aa9b70a11a4d5",
+    "categorie": "Beursnieuws",
+    "titel": "Triodos verkoopt Duitse glasvezelportefeuille",
+    "link": "https://www.beurs.nl/Nieuws/864123/Triodos-verkoopt-Duitse-glasvezelportefeuille.aspx",
+    "intro": "Triodos Bank heeft een akkoord bereikt over de verkoop van een niet-kernportefeuille van circa 180 miljoen euro aan leningen in de Duitse glasvezelmarkt aan Deutsche Bank. Dit maakte de duurzame bank woensdag bekend.",
+    "published_at": "2026-05-13 13:39",
+    "scraped_at": "2026-05-13T13:33:15.322709"
+  },
+  {
+    "id": "bcb757605a8f724ba96b9c882617efbd",
+    "categorie": "Beursnieuws",
+    "titel": "IEA verwacht dat energieschok maanden aanhoudt",
+    "link": "https://www.beurs.nl/Nieuws/864121/IEA-verwacht-dat-energieschok-maanden-aanhoudt.aspx",
+    "intro": "De sluiting van de Straat van Hormuz heeft geleid tot een ongekende aanbodschok op de wereldwijde energiemarkten, die de olieaanvoer mogelijk nog maanden beperkt kan houden, zelfs nadat de scheepvaart door de cruciale waterweg is hervat. Dit stelde het Internationaal Energieagentschap woensdag in een maandrapport.",
+    "published_at": "2026-05-13 13:15",
+    "scraped_at": "2026-05-13T13:33:15.322709"
+  },
+  {
     "id": "922f6571ee414ea86a413e87aa42a150",
     "categorie": "Beursnieuws",
     "titel": "Licht hogere opening Wall Street voorzien",
     "link": "https://www.beurs.nl/Nieuws/864118/Licht-hogere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,2 procent in het groen. Techbeurs Nasdaq lijkt zelfs 0,8 procent hoger te gaan openen.",
     "published_at": "2026-05-13 12:59",
-    "scraped_at": "2026-05-13T11:16:30.712081"
+    "scraped_at": "2026-05-13T13:33:15.322709"
   },
   {
     "id": "ce887c91a5d3f31cc16229c1c20f0828",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864116/Europese-beurzen-overwegend-hoger-rond-middaguur.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur overwegend hoger en herstelden zich enigszins van de verliezen van de vorige dag.",
     "published_at": "2026-05-13 12:49",
-    "scraped_at": "2026-05-13T11:16:30.712081"
+    "scraped_at": "2026-05-13T13:33:15.322709"
   },
   {
     "id": "8cf611e35423867494a622659dddde0d",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864115/Beursblik-uitdagingen-Alfen-blijven.aspx",
     "intro": "Alfen is 2026 sterk gestart, maar de uitdagingen blijven. Dit stelde analist Luuk van Beek van Degroof Petercam woensdag in een rapport.",
     "published_at": "2026-05-13 12:47",
-    "scraped_at": "2026-05-13T11:16:30.712081"
-  },
-  {
-    "id": "5aa5db635a912bca28571dd2a9bee9d1",
-    "categorie": "Beursnieuws",
-    "titel": "CTP breidt samenwerking met Leroy Merlin uit in Roemenië",
-    "link": "https://www.beurs.nl/Nieuws/864108/CTP-breidt-samenwerking-met-Leroy-Merlin-uit-in-Roemenie.aspx",
-    "intro": "CTP heeft een overeenkomst gesloten met de Roemeense retailer Leroy Merlin over een uitbreiding van het distributiecentrum CTPark Bucharest West. Dit maakte de vastgoedinvesteerder woensdag bekend.",
-    "published_at": "2026-05-13 12:27",
-    "scraped_at": "2026-05-13T11:16:30.712081"
-  },
-  {
-    "id": "168604524a2aa181176ac50929f11ec3",
-    "categorie": "Beursnieuws",
-    "titel": "Alibaba ziet omzet bescheiden groeien",
-    "link": "https://www.beurs.nl/Nieuws/864105/Alibaba-ziet-omzet-bescheiden-groeien.aspx",
-    "intro": "Alibaba heeft in het vierde kwartaal van het gebroken boekjaar de omzet wat zien groeien, maar de winst schoot wel omhoog dankzij beleggingen en desinvesteringen. Dit bleek woensdag uit cijfers van de Chinese techreus.",
-    "published_at": "2026-05-13 12:18",
-    "scraped_at": "2026-05-13T11:16:30.712081"
-  },
-  {
-    "id": "bac4630ebac56a36244d3ce444e81201",
-    "categorie": "Beursnieuws",
-    "titel": "Tencent houdt winstgroei op peil",
-    "link": "https://www.beurs.nl/Nieuws/864087/Tencent-houdt-winstgroei-op-peil.aspx",
-    "intro": "Tencent heeft in het eerste kwartaal van 2026 de winst verder zien stijgen, ondanks fors hogere investeringen in kunstmatige intelligentie. De omzet groeide minder hard dan analisten hadden verwacht. Dit bleek woensdag uit cijfers van de Chinese techreus, waarin het in Amsterdam genoteerde Prosus een flink belang heeft.",
-    "published_at": "2026-05-13 11:38",
-    "scraped_at": "2026-05-13T11:16:30.712081"
-  },
-  {
-    "id": "fa494df7095b120c373790b8512d1a31",
-    "categorie": "Beursnieuws",
-    "titel": "Industriele productie eurozone licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/864085/Industriele-productie-eurozone-licht-gestegen.aspx",
-    "intro": "De industriële productie in de eurozone is in maart licht gestegen. Dit bleek woensdag uit cijfers van Eurostat, het statistiekbureau van de EU.",
-    "published_at": "2026-05-13 11:22",
-    "scraped_at": "2026-05-13T11:16:30.712081"
-  },
-  {
-    "id": "e041d85f5893749be45a943e0d3018eb",
-    "categorie": "Beursnieuws",
-    "titel": "ABN AMRO flink hoger na cijfers in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/864083/ABN-AMRO-flink-hoger-na-cijfers-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdag hoger. Rond de klok van elf uur won de AEX 0,6 procent op 1.005,84 punten.",
-    "published_at": "2026-05-13 11:20",
-    "scraped_at": "2026-05-13T11:16:30.712081"
-  },
-  {
-    "id": "b93700c47d00c218bf151911af52f383",
-    "categorie": "Beursnieuws",
-    "titel": "Economische groei eurozone valt nagenoeg stil",
-    "link": "https://www.beurs.nl/Nieuws/864082/Economische-groei-eurozone-valt-nagenoeg-stil.aspx",
-    "intro": "De economie in de eurozone is in het eerste kwartaal van 2026 nagenoeg stil gevallen. Dit bleek woensdag uit voorlopige cijfers van Eurostat.",
-    "published_at": "2026-05-13 11:11",
-    "scraped_at": "2026-05-13T11:16:30.712081"
-  },
-  {
-    "id": "056219f6cd4fd539055c71a6e74a65e3",
-    "categorie": "IEX",
-    "titel": "Must read: Nederland in kopgroep meest productieve economieën",
-    "link": "https://www.iex.nl/artikel/864057/Must-read-Nederland-in-kopgroep-meest-productieve-economieen.aspx",
-    "intro": "Nederland behoort tot de kopgroep qua bbp in Europa. Elke CEO van een biljoenenbedrijf gaat mee met Trump naar China en de stoelpoten onder Starmer kraken, wat te merken is in de Gilt yields",
-    "published_at": "2026-05-13 10:30",
-    "scraped_at": "2026-05-13T11:16:30.712081"
+    "scraped_at": "2026-05-13T13:33:15.322709"
   }
 ]
