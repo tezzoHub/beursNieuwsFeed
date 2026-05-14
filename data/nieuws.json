@@ -1,92 +1,92 @@
 [
   {
-    "id": "67ca9b563a5d203bf5bafd8a0c4de397",
+    "id": "7be8149f5fc5a907057484471e49bbef",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: chippers in trek tijdens rustige handel op Hemelvaart",
-    "link": "https://www.beurs.nl/Nieuws/864306/Beursupdate-chippers-in-trek-tijdens-rustige-handel-op-Hemelvaart.aspx",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/864326/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 22 mei 2026:",
+    "published_at": "2026-05-14 16:32",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "feea4e6479184b7cff5126395c126b8b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/864324/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 22 mei 2026:",
+    "published_at": "2026-05-14 16:31",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "87f2d58d1728d573895757b30be42471",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/864325/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 22 mei 2026:",
+    "published_at": "2026-05-14 16:31",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "bd442d4c252d859d8658669c337868e7",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse bedrijfsvoorraden stijgen harder",
+    "link": "https://www.beurs.nl/Nieuws/864319/Amerikaanse-bedrijfsvoorraden-stijgen-harder.aspx",
+    "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in maart harder gestegen dan in de maand ervoor. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-05-14 16:06",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "383da5b0561c9dc8d70df3485b35e4b7",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street staat hogere opening te wachten",
+    "link": "https://www.beurs.nl/Nieuws/864314/Wall-Street-staat-hogere-opening-te-wachten.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,4 procent in het groen. Futures op techeurs Nasdaq koersten 0,3 procent hoger.",
+    "published_at": "2026-05-14 14:53",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "dcdd9baf456663cfa2ca392802fb3965",
+    "categorie": "Beursnieuws",
+    "titel": "Brandstof stuwt Amerikaanse importprijzen",
+    "link": "https://www.beurs.nl/Nieuws/864312/Brandstof-stuwt-Amerikaanse-importprijzen.aspx",
+    "intro": "De Amerikaanse importprijzen zijn in april harder gestegen dan verwacht, terwijl de brandstofprijzen flink stegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-05-14 14:45",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "fc40a749dc990f97a1280026829539f3",
+    "categorie": "Beursnieuws",
+    "titel": "Betaalbedrijf Klarna schrijft zwarte cijfers",
+    "link": "https://www.beurs.nl/Nieuws/864309/Betaalbedrijf-Klarna-schrijft-zwarte-cijfers.aspx",
+    "intro": "Klarna heeft in het eerste kwartaal weer winst geboekt, terwijl de omzet steeg. Dit bleek donderdagmiddag uit de cijfers van het Zweedse betaalbedrijf.",
+    "published_at": "2026-05-14 14:39",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "0874d6843db6e0c59beaf552d35c643f",
+    "categorie": "Beursnieuws",
+    "titel": "Detailhandelsverkopen VS stijgen minder hard",
+    "link": "https://www.beurs.nl/Nieuws/864311/Detailhandelsverkopen-VS-stijgen-minder-hard.aspx",
+    "intro": "De verkopen in de Amerikaanse detailhandel zijn in april minder hard gestegen dan in de maand ervoor, toen de benzineverkopen nog een impuls gaven. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-05-14 14:38",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "1d9e0bea87ab9991a94c8fcbf2136fd4",
+    "categorie": "Beursnieuws",
+    "titel": "Meer nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/864310/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-05-14 14:36",
+    "scraped_at": "2026-05-14T15:01:48.341084"
+  },
+  {
+    "id": "9ba5c28dc56b657cdb739a76cde350d6",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers in trek tijdens rustige handel op Hemelvaart",
+    "link": "https://www.beurs.nl/Nieuws/864306/Chippers-in-trek-tijdens-rustige-handel-op-Hemelvaart.aspx",
     "intro": "De Amsterdamse beurs noteerde donderdagmiddag hoger tijdens een rustige Hemelvaart. Rond de klok van twee uur won de AEX 0,9 procent op bijna 1.019 punten.",
     "published_at": "2026-05-14 13:54",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "1c96760a67259b593838ef4d1ef7a670",
-    "categorie": "Beursnieuws",
-    "titel": "Video: zijn defensieaandelen nog belegbaar?",
-    "link": "https://www.beurs.nl/Nieuws/864305/Video-zijn-defensieaandelen-nog-belegbaar.aspx",
-    "intro": "Defensieaandelen beleven vooralsnog een moeilijk jaar, met dalingen van tientallen procenten. Zijn deze aandelen nog belegbaar?",
-    "published_at": "2026-05-14 13:43",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "512b6948340f340f85edb31767ccfa88",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Ahold Delhaize gesteund door groeistrategie VS",
-    "link": "https://www.beurs.nl/Nieuws/864298/Beursblik-Ahold-Delhaize-gesteund-door-groeistrategie-VS.aspx",
-    "intro": "Het eerste kwartaal van Ahold Delhaize markeerde een duidelijk keerpunt in de Amerikaanse activiteiten. Dit oordeelde Bank of America donderdag in een rapport over de supermarktketen, die vorige week kwartaalcijfers publiceerde.",
-    "published_at": "2026-05-14 12:59",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "ccf4e80a1d587b63c01aef9d0eba9dcc",
-    "categorie": "Beursnieuws",
-    "titel": "Licht hogere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/864297/Licht-hogere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,2 procent in het groen.",
-    "published_at": "2026-05-14 12:57",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "838a8f48de0ba48829d3abb26355ca13",
-    "categorie": "Beursnieuws",
-    "titel": "Sterke resultaten Foxconn",
-    "link": "https://www.beurs.nl/Nieuws/864293/Sterke-resultaten-Foxconn.aspx",
-    "intro": "Foxconn Technology Group heeft een sterk eerste kwartaal achter de rug, nadat het de productie van onder meer serverracks, andere geavanceerde apparatuur en consumentenelektronica opvoerde voor de wereldwijde uitrol van kunstmatige intelligentie. Dit bleek donderdag uit cijfers van het Taiwanese bedrijf.",
-    "published_at": "2026-05-14 12:26",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "4099a6fc9007893cdd54d166cd367bee",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/864291/UBS-verhoogt-koersdoel-ABN-AMRO.aspx",
-    "intro": "UBS heeft het koersdoel voor ABN AMRO verhoogd van 38,50 naar 41,00 euro, met een ongewijzigde koopaanbeveling. Dit bleek donderdag uit een rapport van de Zwitserse bank.",
-    "published_at": "2026-05-14 12:13",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "723133bbf3a31ccf0daddf3e1b59df3e",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hoger rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/864285/Europese-beurzen-hoger-rond-middaguur.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden donderdag rond het middaguur hoger, gesteund door de chiprally op Wall Street een dag eerder.",
-    "published_at": "2026-05-14 11:53",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "11b7616ef538b1e966569ae61aced017",
-    "categorie": "Beursnieuws",
-    "titel": "Topman Kendrion tevreden over jaarstart",
-    "link": "https://www.beurs.nl/Nieuws/864283/Topman-Kendrion-tevreden-over-jaarstart.aspx",
-    "intro": "Kendrion is 2026 sterk gestart. Dit zei CEO Joep van Beurden in gesprek met ABM Financial News.",
-    "published_at": "2026-05-14 11:50",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "549a742f21ad6c5ebe5c17e03fb525db",
-    "categorie": "Beursnieuws",
-    "titel": "NEPI Rockcastle ziet huurinkomsten aantrekken",
-    "link": "https://www.beurs.nl/Nieuws/864280/NEPI-Rockcastle-ziet-huurinkomsten-aantrekken.aspx",
-    "intro": "NEPI Rockcastle heeft in het eerste kwartaal van dit jaar de huurinkomsten zien aantrekken. Dat maakte het in Amsterdam gevestigde Europese vastgoedbedrijf donderdag bekend.",
-    "published_at": "2026-05-14 11:32",
-    "scraped_at": "2026-05-14T12:09:14.320456"
-  },
-  {
-    "id": "8acef70b9cdc2dc86135780191ee9f66",
-    "categorie": "Beursnieuws",
-    "titel": "ABN AMRO opnieuw in trek in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/864277/ABN-AMRO-opnieuw-in-trek-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagochtend hoger, met opnieuw winst voor het aandeel ABN AMRO in de nasleep van cijfers op woensdag. Rond de klok van elf uur won de AEX 0,6 procent op 1.016,47 punten.",
-    "published_at": "2026-05-14 11:04",
-    "scraped_at": "2026-05-14T12:09:14.320456"
+    "scraped_at": "2026-05-14T15:01:48.341084"
   }
 ]
