@@ -1,12 +1,75 @@
 [
   {
+    "id": "723133bbf3a31ccf0daddf3e1b59df3e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/864285/Europese-beurzen-hoger-rond-middaguur.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden donderdag rond het middaguur hoger, gesteund door de chiprally op Wall Street een dag eerder.",
+    "published_at": "2026-05-14 11:53",
+    "scraped_at": "2026-05-14T10:00:49.505919"
+  },
+  {
+    "id": "11b7616ef538b1e966569ae61aced017",
+    "categorie": "Beursnieuws",
+    "titel": "Topman Kendrion tevreden over jaarstart",
+    "link": "https://www.beurs.nl/Nieuws/864283/Topman-Kendrion-tevreden-over-jaarstart.aspx",
+    "intro": "Kendrion is 2026 sterk gestart. Dit zei CEO Joep van Beurden in gesprek met ABM Financial News.",
+    "published_at": "2026-05-14 11:50",
+    "scraped_at": "2026-05-14T10:00:49.505919"
+  },
+  {
+    "id": "549a742f21ad6c5ebe5c17e03fb525db",
+    "categorie": "Beursnieuws",
+    "titel": "NEPI Rockcastle ziet huurinkomsten aantrekken",
+    "link": "https://www.beurs.nl/Nieuws/864280/NEPI-Rockcastle-ziet-huurinkomsten-aantrekken.aspx",
+    "intro": "NEPI Rockcastle heeft in het eerste kwartaal van dit jaar de huurinkomsten zien aantrekken. Dat maakte het in Amsterdam gevestigde Europese vastgoedbedrijf donderdag bekend.",
+    "published_at": "2026-05-14 11:32",
+    "scraped_at": "2026-05-14T10:00:49.505919"
+  },
+  {
+    "id": "8acef70b9cdc2dc86135780191ee9f66",
+    "categorie": "Beursnieuws",
+    "titel": "ABN AMRO opnieuw in trek in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/864277/ABN-AMRO-opnieuw-in-trek-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend hoger, met opnieuw winst voor het aandeel ABN AMRO in de nasleep van cijfers op woensdag. Rond de klok van elf uur won de AEX 0,6 procent op 1.016,47 punten.",
+    "published_at": "2026-05-14 11:04",
+    "scraped_at": "2026-05-14T10:00:49.505919"
+  },
+  {
+    "id": "b8f75307eb1c50e944224f4a5673a2bf",
+    "categorie": "IEX",
+    "titel": "Must read: Trump en Xi sparren in Beijing",
+    "link": "https://www.iex.nl/artikel/864267/Must-read-Trump-en-Xi-sparren-in-Beijing.aspx",
+    "intro": "Plus: ABN Amro verlaagt aandelenadvies, impactbeleggers moeten ook beurs aandoen, zoeken naar Europese koopjes, Nederlanders zijn rijk en meer.",
+    "published_at": "2026-05-14 10:00",
+    "scraped_at": "2026-05-14T10:00:49.505919"
+  },
+  {
+    "id": "43f1b0eaf8785e6ff8dede5c96aa7c4a",
+    "categorie": "Beursnieuws",
+    "titel": "Spaanse inflatie nog iets lager",
+    "link": "https://www.beurs.nl/Nieuws/864274/Spaanse-inflatie-nog-iets-lager.aspx",
+    "intro": "De Spaanse inflatie is in april iets minder hard toegenomen dan een maand eerder. Dit bleek donderdag uit cijfers van het Spaanse statistiekbureau Ine.",
+    "published_at": "2026-05-14 09:32",
+    "scraped_at": "2026-05-14T10:00:49.505919"
+  },
+  {
+    "id": "430acbc9b3279f6a15c711f5e5ee44a1",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/864273/Deutsche-Bank-verhoogt-koersdoel-ABN-AMRO.aspx",
+    "intro": "Deutsche Bank heeft donderdag het koersdoel voor ABN AMRO verhoogd van 28,00 naar 31,00 euro bij handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-05-14 09:29",
+    "scraped_at": "2026-05-14T10:00:49.505919"
+  },
+  {
     "id": "6d4146d30f2b428e51ce6cca5220b01d",
     "categorie": "Beursnieuws",
     "titel": "AEX licht hoger van start gegaan",
     "link": "https://www.beurs.nl/Nieuws/864268/AEX-licht-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong 0,3 procent hoger op 1.013,62 punten, terwijl de Midkap ook 0,3 procent won.",
     "published_at": "2026-05-14 09:09",
-    "scraped_at": "2026-05-14T07:35:17.024265"
+    "scraped_at": "2026-05-14T10:00:49.505919"
   },
   {
     "id": "fde19b15111daac0d1b86ab843a1db9c",
@@ -15,78 +78,15 @@
     "link": "https://www.ieximpact.nl/artikel/864166/Bouw-landwindmolens-totaal-stilgevallen.aspx",
     "intro": "In 2025 kwamen er in Nederland slechts netto negen windturbines bij, goed voor 96 megawatt extra vermogen. Daarmee is de groei bijna tot stilstand gekomen, terwijl voor 2026 zelfs een daling van het opgesteld vermogen wordt verwacht. Wat is hier aan de hand?",
     "published_at": "2026-05-14 09:00",
-    "scraped_at": "2026-05-14T07:35:17.024265"
+    "scraped_at": "2026-05-14T10:00:49.505919"
   },
   {
     "id": "01000d49e4aaa77542653832769bfc0d",
     "categorie": "Voorbeurs",
     "titel": "Dauwtrappen op een groene beurs en wat brengt top Trump-Xi?",
     "link": "https://www.beurs.nl/Artikel/864236/Dauwtrappen-op-een-groene-beurs-en-wat-brengt-top-Trump-Xi.aspx",
-    "intro": "Openingsindicatie: +0,4%. Beladen ontmoeting tussen Trump en Xi Jinping. Witte rook boven de Fed en let vandaag op Cisco en Applied Materials.",
+    "intro": "Beladen ontmoeting tussen Trump en Xi Jinping. Witte rook boven de Fed en let vandaag op Cisco en Applied Materials.",
     "published_at": "2026-05-14 08:30",
-    "scraped_at": "2026-05-14T07:35:17.024265"
-  },
-  {
-    "id": "fd378244872c709098fd462cd09b27ef",
-    "categorie": "Beursnieuws",
-    "titel": "Britse export trekt aan",
-    "link": "https://www.beurs.nl/Nieuws/864262/Britse-export-trekt-aan.aspx",
-    "intro": "De Britse export is in maart gestegen, net als de import. Dit meldde het Britse statistiekbureau ONS donderdag.",
-    "published_at": "2026-05-14 08:19",
-    "scraped_at": "2026-05-14T07:35:17.024265"
-  },
-  {
-    "id": "1977df0c8e405db14fbc1a6b53f08d19",
-    "categorie": "Beursnieuws",
-    "titel": "Britse industriële productie loopt op",
-    "link": "https://www.beurs.nl/Nieuws/864259/Britse-industriele-productie-loopt-op.aspx",
-    "intro": "De industriële productie in het Verenigd Koninkrijk is in het afgelopen kwartaal opgelopen. Dit bleek donderdag uit cijfers van het Britse officiële statistiekbureau.",
-    "published_at": "2026-05-14 08:14",
-    "scraped_at": "2026-05-14T07:35:17.024265"
-  },
-  {
-    "id": "08cff8aec262c36916868045854c57d0",
-    "categorie": "Beursnieuws",
-    "titel": "Britse economie groeit harder",
-    "link": "https://www.beurs.nl/Nieuws/864258/Britse-economie-groeit-harder.aspx",
-    "intro": "De Britse economie is in het eerste kwartaal van 2026 harder gegroeid dan een kwartaal eerder. Dit bleek donderdag uit cijfers van het Britse statistiekbureau ONS.",
-    "published_at": "2026-05-14 08:11",
-    "scraped_at": "2026-05-14T07:35:17.024265"
-  },
-  {
-    "id": "00e7f76288d8699643420ee42728f462",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start met vizier gericht op top tussen Trump en Xi",
-    "link": "https://www.beurs.nl/Nieuws/864255/AEX-hoger-van-start-met-vizier-gericht-op-top-tussen-Trump-en-Xi.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag naar verwachting hoger van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,6 procent.",
-    "published_at": "2026-05-14 08:03",
-    "scraped_at": "2026-05-14T07:35:17.024265"
-  },
-  {
-    "id": "779da5fdf980a0eeb78c7e3f6724e2c0",
-    "categorie": "Opinie",
-    "titel": "Effectief impact boeken kan niet zonder beursgenoteerde bedrijven",
-    "link": "https://www.ieximpact.nl/artikel/863906/Effectief-impact-boeken-kan-niet-zonder-beursgenoteerde-bedrijven.aspx",
-    "intro": "Impactbeleggers kunnen de publieke markten niet links laten liggen, betoogt Hadewych Kuiper. Juist daar zit volgens de managing director van Triodos Investment Management het kapitaal, de schaal én de invloed om positieve verandering te boeken.",
-    "published_at": "2026-05-14 07:50",
-    "scraped_at": "2026-05-14T07:35:17.024265"
-  },
-  {
-    "id": "e06fb413f09dbbfa041902cd13c05cba",
-    "categorie": "Beursnieuws",
-    "titel": "Verdeeld beeld op Aziatische beurzen met vizier gericht op top tussen Trump en Xi",
-    "link": "https://www.beurs.nl/Nieuws/864249/Verdeeld-beeld-op-Aziatische-beurzen-met-vizier-gericht-op-top-tussen-Trump-en-Xi.aspx",
-    "intro": "De Aziatische beurzen noteerden donderdagochtend overwegend licht hoger, met als negatieve uitzondering de Shanghai Composite met een verlies van ongeveer een procent.",
-    "published_at": "2026-05-14 07:25",
-    "scraped_at": "2026-05-14T07:35:17.024265"
-  },
-  {
-    "id": "45e438a7e439fe75791f0ecd1fa272ca",
-    "categorie": "Beursnieuws",
-    "titel": "Theon investeert in Twin Prime",
-    "link": "https://www.beurs.nl/Nieuws/864248/Theon-investeert-in-Twin-Prime.aspx",
-    "intro": "Theon International gaat 3 miljoen dollar investeren in het Amerikaanse Twin Prime en zet hiervoor ook een joint venture op. Dit bleek woensdagavond uit een bericht van de Griekse maker van militaire nachtkijkers met een notering aan het Amsterdamse Damrak.",
-    "published_at": "2026-05-14 07:09",
-    "scraped_at": "2026-05-14T07:35:17.024265"
+    "scraped_at": "2026-05-14T10:00:49.505919"
   }
 ]
