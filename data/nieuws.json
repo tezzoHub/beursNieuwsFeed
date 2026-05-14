@@ -1,92 +1,92 @@
 [
   {
-    "id": "5cbf086d1bfbe081dbb529048e5906e2",
+    "id": "6d4146d30f2b428e51ce6cca5220b01d",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/864213/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag de meeste van de acht van de AEX-genoteerde fondsen weinig veranderd gesloten ten opzichte van het slot in Amsterdam. Alleen ASML was een stevige stijger.",
-    "published_at": "2026-05-13 22:52",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "titel": "AEX licht hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/864268/AEX-licht-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong 0,3 procent hoger op 1.013,62 punten, terwijl de Midkap ook 0,3 procent won.",
+    "published_at": "2026-05-14 09:09",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "99f53330e65c1a714ff328cdd2c9d463",
-    "categorie": "Beursnieuws",
-    "titel": "Cisco ziet AI-gerelateerde orders exploderen",
-    "link": "https://www.beurs.nl/Nieuws/864212/Cisco-ziet-AI-gerelateerde-orders-exploderen.aspx",
-    "intro": "Cisco Systems heeft de verwachtingen overtroffen door sterke vraag naar zijn netwerkapparatuur in het afgelopen kwartaal en heeft zijn verwachting voor AI-gerelateerde orders dit boekjaar sterk verhoogd. Dat bleek woensdagavond bij de kwartaalupdate van het Amerikaanse bedrijf.",
-    "published_at": "2026-05-13 22:47",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "id": "fde19b15111daac0d1b86ab843a1db9c",
+    "categorie": "Nieuws",
+    "titel": "Bouw landwindmolens totaal stilgevallen",
+    "link": "https://www.ieximpact.nl/artikel/864166/Bouw-landwindmolens-totaal-stilgevallen.aspx",
+    "intro": "In 2025 kwamen er in Nederland slechts netto negen windturbines bij, goed voor 96 megawatt extra vermogen. Daarmee is de groei bijna tot stilstand gekomen, terwijl voor 2026 zelfs een daling van het opgesteld vermogen wordt verwacht. Wat is hier aan de hand?",
+    "published_at": "2026-05-14 09:00",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "803f7c0b332a4060947688968ae5e60f",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit overwegend hoger",
-    "link": "https://www.beurs.nl/Nieuws/864211/Wall-Street-sluit-overwegend-hoger.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen zijn woensdag overwegend hoger gesloten, met winst voor techbeurs Nasdaq dankzij de chipsector en optimisme over een Amerikaans-Chinese top. Grote namen uit de halfgeleiderindustrie zoals Nvidia en Alphabet leidden de sector omhoog.",
-    "published_at": "2026-05-13 22:32",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "id": "01000d49e4aaa77542653832769bfc0d",
+    "categorie": "Voorbeurs",
+    "titel": "Dauwtrappen op een groene beurs en wat brengt top Trump-Xi?",
+    "link": "https://www.beurs.nl/Artikel/864236/Dauwtrappen-op-een-groene-beurs-en-wat-brengt-top-Trump-Xi.aspx",
+    "intro": "Openingsindicatie: +0,4%. Beladen ontmoeting tussen Trump en Xi Jinping. Witte rook boven de Fed en let vandaag op Cisco en Applied Materials.",
+    "published_at": "2026-05-14 08:30",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "f5790a4b8fe9726bd1a901b28519fbf4",
+    "id": "fd378244872c709098fd462cd09b27ef",
     "categorie": "Beursnieuws",
-    "titel": "Verdeelde senaat bevestigt Warsh als Fed-voorzitter",
-    "link": "https://www.beurs.nl/Nieuws/864210/Verdeelde-senaat-bevestigt-Warsh-als-Fed-voorzitter.aspx",
-    "intro": "De Amerikaanse senaat heeft woensdag Kevin Warsh bevestigd als de nieuwe voorzitter van de Federal Reserve, in een stemming langs partijlijnen die weerspiegelt hoezeer de Amerikaanse centrale bank de politieke arena is ingetrokken door de regering van Donald Trump.",
-    "published_at": "2026-05-13 22:22",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "titel": "Britse export trekt aan",
+    "link": "https://www.beurs.nl/Nieuws/864262/Britse-export-trekt-aan.aspx",
+    "intro": "De Britse export is in maart gestegen, net als de import. Dit meldde het Britse statistiekbureau ONS donderdag.",
+    "published_at": "2026-05-14 08:19",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "9630b210a4e3421ce1ed7070e6f0990a",
+    "id": "1977df0c8e405db14fbc1a6b53f08d19",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs iets lager",
-    "link": "https://www.beurs.nl/Nieuws/864204/Olieprijs-iets-lager.aspx",
-    "intro": "De olieprijs is woensdag licht gedaald, terwijl de Amerikaanse president Donald Trump, vergezeld van de CEO's van Nvidia, Tesla en Apple, arriveerde in Beijing voor een belangrijke top met de Chinese leider Xi Jinping.",
-    "published_at": "2026-05-13 21:23",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "titel": "Britse industriële productie loopt op",
+    "link": "https://www.beurs.nl/Nieuws/864259/Britse-industriele-productie-loopt-op.aspx",
+    "intro": "De industriële productie in het Verenigd Koninkrijk is in het afgelopen kwartaal opgelopen. Dit bleek donderdag uit cijfers van het Britse officiële statistiekbureau.",
+    "published_at": "2026-05-14 08:14",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "5b3e7ea1f15ed16acaa125897278396b",
+    "id": "08cff8aec262c36916868045854c57d0",
     "categorie": "Beursnieuws",
-    "titel": "Chipsector stuwt Nasdaq",
-    "link": "https://www.beurs.nl/Nieuws/864203/Chipsector-stuwt-Nasdaq.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen stonden woensdagavond verdeeld, met winst voor techbeurs Nasdaq dankzij de chipsector en optimisme over een Amerikaans-Chinese top. Grote namen uit de halfgeleiderindustrie zoals Nvidia en Alphabet leidden de sector omhoog.",
-    "published_at": "2026-05-13 20:49",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "titel": "Britse economie groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/864258/Britse-economie-groeit-harder.aspx",
+    "intro": "De Britse economie is in het eerste kwartaal van 2026 harder gegroeid dan een kwartaal eerder. Dit bleek donderdag uit cijfers van het Britse statistiekbureau ONS.",
+    "published_at": "2026-05-14 08:11",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "ee7ef21d865ada8aadca88c9d0b53aac",
+    "id": "00e7f76288d8699643420ee42728f462",
     "categorie": "Beursnieuws",
-    "titel": "Arcadis plaatst vijfjarige obligatie",
-    "link": "https://www.beurs.nl/Nieuws/864196/Arcadis-plaatst-vijfjarige-obligatie.aspx",
-    "intro": "Arcadis heeft 300 miljoen euro opgehaald met de uitgifte van een vijfjarige obligatie. Dat maakte het bedrijf woensdag bekend.",
-    "published_at": "2026-05-13 19:55",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "titel": "AEX hoger van start met vizier gericht op top tussen Trump en Xi",
+    "link": "https://www.beurs.nl/Nieuws/864255/AEX-hoger-van-start-met-vizier-gericht-op-top-tussen-Trump-en-Xi.aspx",
+    "intro": "De Amsterdamse beurs gaat donderdag naar verwachting hoger van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,6 procent.",
+    "published_at": "2026-05-14 08:03",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "1f8e3d2e35fa13a3b54c3697d4298291",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten hoger",
-    "link": "https://www.beurs.nl/Nieuws/864193/Europese-beurzen-sluiten-hoger.aspx",
-    "intro": "De Europese beurzen zijn woensdag hoger gesloten, herstellend van de verliezen van de vorige dag, ondanks matige economische cijfers. De chipsector profiteerde van hoop op een doorbraak voor de sector door een top tussen Trump en Xi.",
-    "published_at": "2026-05-13 19:13",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "id": "779da5fdf980a0eeb78c7e3f6724e2c0",
+    "categorie": "Opinie",
+    "titel": "Effectief impact boeken kan niet zonder beursgenoteerde bedrijven",
+    "link": "https://www.ieximpact.nl/artikel/863906/Effectief-impact-boeken-kan-niet-zonder-beursgenoteerde-bedrijven.aspx",
+    "intro": "Impactbeleggers kunnen de publieke markten niet links laten liggen, betoogt Hadewych Kuiper. Juist daar zit volgens de managing director van Triodos Investment Management het kapitaal, de schaal én de invloed om positieve verandering te boeken.",
+    "published_at": "2026-05-14 07:50",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "8bda01704aa842e60a4ce939fbe30b66",
+    "id": "e06fb413f09dbbfa041902cd13c05cba",
     "categorie": "Beursnieuws",
-    "titel": "AEX schudt tegenvallende macrocijfers van zich af",
-    "link": "https://www.beurs.nl/Nieuws/864186/AEX-schudt-tegenvallende-macrocijfers-van-zich-af.aspx",
-    "intro": "De Amsterdamse beurs is woensdag hoger gesloten, ondanks tegenvallende macro-economische data.",
-    "published_at": "2026-05-13 17:46",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "titel": "Verdeeld beeld op Aziatische beurzen met vizier gericht op top tussen Trump en Xi",
+    "link": "https://www.beurs.nl/Nieuws/864249/Verdeeld-beeld-op-Aziatische-beurzen-met-vizier-gericht-op-top-tussen-Trump-en-Xi.aspx",
+    "intro": "De Aziatische beurzen noteerden donderdagochtend overwegend licht hoger, met als negatieve uitzondering de Shanghai Composite met een verlies van ongeveer een procent.",
+    "published_at": "2026-05-14 07:25",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   },
   {
-    "id": "6211ea2ce04c4a5a3fa256a771d672b4",
-    "categorie": "IEX",
-    "titel": "Slotcall: met vallen en opstaan, maar AEX toch ruim in het groen",
-    "link": "https://www.iex.nl/artikel/864167/Slotcall-met-vallen-en-opstaan-maar-AEX-toch-ruim-in-het-groen.aspx",
-    "intro": "Na een goede start zakte de index gedurende de middag steeds verder terug, mede door tegenvallende Amerikaanse producentenprijzen, maar richting het slot kwamen de kopers toch weer terug.",
-    "published_at": "2026-05-13 17:35",
-    "scraped_at": "2026-05-14T04:25:52.331702"
+    "id": "45e438a7e439fe75791f0ecd1fa272ca",
+    "categorie": "Beursnieuws",
+    "titel": "Theon investeert in Twin Prime",
+    "link": "https://www.beurs.nl/Nieuws/864248/Theon-investeert-in-Twin-Prime.aspx",
+    "intro": "Theon International gaat 3 miljoen dollar investeren in het Amerikaanse Twin Prime en zet hiervoor ook een joint venture op. Dit bleek woensdagavond uit een bericht van de Griekse maker van militaire nachtkijkers met een notering aan het Amsterdamse Damrak.",
+    "published_at": "2026-05-14 07:09",
+    "scraped_at": "2026-05-14T07:35:17.024265"
   }
 ]
