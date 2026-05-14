@@ -1,12 +1,48 @@
 [
   {
+    "id": "9c4035620a8b49bf1397972dfa14ac77",
+    "categorie": "Beursnieuws",
+    "titel": "Trump meldt Chinese order voor Boeing",
+    "link": "https://www.beurs.nl/Nieuws/864342/Trump-meldt-Chinese-order-voor-Boeing.aspx",
+    "intro": "Het aandeel Boeing stond donderdag 4 procent lager op het nieuws dat de Chinese president Xi Jinping 200 vliegtuigen van de Amerikaanse fabrikant wil bestellen.",
+    "published_at": "2026-05-14 19:09",
+    "scraped_at": "2026-05-14T17:16:31.060102"
+  },
+  {
+    "id": "ba8f2b5400315ca9b42d0d14cbc6afea",
+    "categorie": "Beursnieuws",
+    "titel": "AMG neemt Zinnwald Lithium volledig over",
+    "link": "https://www.beurs.nl/Nieuws/864339/AMG-neemt-Zinnwald-Lithium-volledig-over.aspx",
+    "intro": "AMG Critical Materials heeft overeenstemming bereikt om het Duitse Zinnwald Lithium volledig over te nemen. Dit meldde AMG donderdagavond.",
+    "published_at": "2026-05-14 18:40",
+    "scraped_at": "2026-05-14T17:16:31.060102"
+  },
+  {
+    "id": "ec0c1432fc2a963608c9f7f60819c050",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers in trek op rustige Hemelvaartsdag",
+    "link": "https://www.beurs.nl/Nieuws/864335/Chippers-in-trek-op-rustige-Hemelvaartsdag.aspx",
+    "intro": "De Amsterdamse beurs is donderdag hoger geëindigd, nadat halfgeleideraandelen opnieuw in trek waren en ABN AMRO voor de tweede dag op rij werd beloond voor de kwartaalcijfers.",
+    "published_at": "2026-05-14 17:52",
+    "scraped_at": "2026-05-14T17:16:31.060102"
+  },
+  {
+    "id": "69d1325f169752bc15b62cd15834780d",
+    "categorie": "Beursnieuws",
+    "titel": "Reuters: Nvidia mag H200-chips aan tien Chinese bedrijven verkopen",
+    "link": "https://www.beurs.nl/Nieuws/864334/Reuters-Nvidia-mag-H200-chips-aan-tien-Chinese-bedrijven-verkopen.aspx",
+    "intro": "De Verenigde Staten hebben ongeveer 10 Chinese bedrijven toestemming gegeven om Nvidia's op één na krachtigste AI-chip, de H200, te kopen. Dit meldde persbureau Reuters donderdag op basis van bronnen.",
+    "published_at": "2026-05-14 17:31",
+    "scraped_at": "2026-05-14T17:16:31.060102"
+  },
+  {
     "id": "7be8149f5fc5a907057484471e49bbef",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/864326/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 22 mei 2026:",
     "published_at": "2026-05-14 16:32",
-    "scraped_at": "2026-05-14T15:01:48.341084"
+    "scraped_at": "2026-05-14T17:16:31.060102"
   },
   {
     "id": "feea4e6479184b7cff5126395c126b8b",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/864324/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 22 mei 2026:",
     "published_at": "2026-05-14 16:31",
-    "scraped_at": "2026-05-14T15:01:48.341084"
+    "scraped_at": "2026-05-14T17:16:31.060102"
   },
   {
     "id": "87f2d58d1728d573895757b30be42471",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/864325/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 22 mei 2026:",
     "published_at": "2026-05-14 16:31",
-    "scraped_at": "2026-05-14T15:01:48.341084"
+    "scraped_at": "2026-05-14T17:16:31.060102"
   },
   {
     "id": "bd442d4c252d859d8658669c337868e7",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/864319/Amerikaanse-bedrijfsvoorraden-stijgen-harder.aspx",
     "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in maart harder gestegen dan in de maand ervoor. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-05-14 16:06",
-    "scraped_at": "2026-05-14T15:01:48.341084"
+    "scraped_at": "2026-05-14T17:16:31.060102"
   },
   {
     "id": "383da5b0561c9dc8d70df3485b35e4b7",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864314/Wall-Street-staat-hogere-opening-te-wachten.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,4 procent in het groen. Futures op techeurs Nasdaq koersten 0,3 procent hoger.",
     "published_at": "2026-05-14 14:53",
-    "scraped_at": "2026-05-14T15:01:48.341084"
+    "scraped_at": "2026-05-14T17:16:31.060102"
   },
   {
     "id": "dcdd9baf456663cfa2ca392802fb3965",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864312/Brandstof-stuwt-Amerikaanse-importprijzen.aspx",
     "intro": "De Amerikaanse importprijzen zijn in april harder gestegen dan verwacht, terwijl de brandstofprijzen flink stegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-05-14 14:45",
-    "scraped_at": "2026-05-14T15:01:48.341084"
-  },
-  {
-    "id": "fc40a749dc990f97a1280026829539f3",
-    "categorie": "Beursnieuws",
-    "titel": "Betaalbedrijf Klarna schrijft zwarte cijfers",
-    "link": "https://www.beurs.nl/Nieuws/864309/Betaalbedrijf-Klarna-schrijft-zwarte-cijfers.aspx",
-    "intro": "Klarna heeft in het eerste kwartaal weer winst geboekt, terwijl de omzet steeg. Dit bleek donderdagmiddag uit de cijfers van het Zweedse betaalbedrijf.",
-    "published_at": "2026-05-14 14:39",
-    "scraped_at": "2026-05-14T15:01:48.341084"
-  },
-  {
-    "id": "0874d6843db6e0c59beaf552d35c643f",
-    "categorie": "Beursnieuws",
-    "titel": "Detailhandelsverkopen VS stijgen minder hard",
-    "link": "https://www.beurs.nl/Nieuws/864311/Detailhandelsverkopen-VS-stijgen-minder-hard.aspx",
-    "intro": "De verkopen in de Amerikaanse detailhandel zijn in april minder hard gestegen dan in de maand ervoor, toen de benzineverkopen nog een impuls gaven. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-05-14 14:38",
-    "scraped_at": "2026-05-14T15:01:48.341084"
-  },
-  {
-    "id": "1d9e0bea87ab9991a94c8fcbf2136fd4",
-    "categorie": "Beursnieuws",
-    "titel": "Meer nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/864310/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-05-14 14:36",
-    "scraped_at": "2026-05-14T15:01:48.341084"
-  },
-  {
-    "id": "9ba5c28dc56b657cdb739a76cde350d6",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers in trek tijdens rustige handel op Hemelvaart",
-    "link": "https://www.beurs.nl/Nieuws/864306/Chippers-in-trek-tijdens-rustige-handel-op-Hemelvaart.aspx",
-    "intro": "De Amsterdamse beurs noteerde donderdagmiddag hoger tijdens een rustige Hemelvaart. Rond de klok van twee uur won de AEX 0,9 procent op bijna 1.019 punten.",
-    "published_at": "2026-05-14 13:54",
-    "scraped_at": "2026-05-14T15:01:48.341084"
+    "scraped_at": "2026-05-14T17:16:31.060102"
   }
 ]
