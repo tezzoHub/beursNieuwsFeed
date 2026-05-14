@@ -1,12 +1,66 @@
 [
   {
+    "id": "67ca9b563a5d203bf5bafd8a0c4de397",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: chippers in trek tijdens rustige handel op Hemelvaart",
+    "link": "https://www.beurs.nl/Nieuws/864306/Beursupdate-chippers-in-trek-tijdens-rustige-handel-op-Hemelvaart.aspx",
+    "intro": "De Amsterdamse beurs noteerde donderdagmiddag hoger tijdens een rustige Hemelvaart. Rond de klok van twee uur won de AEX 0,9 procent op bijna 1.019 punten.",
+    "published_at": "2026-05-14 13:54",
+    "scraped_at": "2026-05-14T12:09:14.320456"
+  },
+  {
+    "id": "1c96760a67259b593838ef4d1ef7a670",
+    "categorie": "Beursnieuws",
+    "titel": "Video: zijn defensieaandelen nog belegbaar?",
+    "link": "https://www.beurs.nl/Nieuws/864305/Video-zijn-defensieaandelen-nog-belegbaar.aspx",
+    "intro": "Defensieaandelen beleven vooralsnog een moeilijk jaar, met dalingen van tientallen procenten. Zijn deze aandelen nog belegbaar?",
+    "published_at": "2026-05-14 13:43",
+    "scraped_at": "2026-05-14T12:09:14.320456"
+  },
+  {
+    "id": "512b6948340f340f85edb31767ccfa88",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Ahold Delhaize gesteund door groeistrategie VS",
+    "link": "https://www.beurs.nl/Nieuws/864298/Beursblik-Ahold-Delhaize-gesteund-door-groeistrategie-VS.aspx",
+    "intro": "Het eerste kwartaal van Ahold Delhaize markeerde een duidelijk keerpunt in de Amerikaanse activiteiten. Dit oordeelde Bank of America donderdag in een rapport over de supermarktketen, die vorige week kwartaalcijfers publiceerde.",
+    "published_at": "2026-05-14 12:59",
+    "scraped_at": "2026-05-14T12:09:14.320456"
+  },
+  {
+    "id": "ccf4e80a1d587b63c01aef9d0eba9dcc",
+    "categorie": "Beursnieuws",
+    "titel": "Licht hogere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/864297/Licht-hogere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,2 procent in het groen.",
+    "published_at": "2026-05-14 12:57",
+    "scraped_at": "2026-05-14T12:09:14.320456"
+  },
+  {
+    "id": "838a8f48de0ba48829d3abb26355ca13",
+    "categorie": "Beursnieuws",
+    "titel": "Sterke resultaten Foxconn",
+    "link": "https://www.beurs.nl/Nieuws/864293/Sterke-resultaten-Foxconn.aspx",
+    "intro": "Foxconn Technology Group heeft een sterk eerste kwartaal achter de rug, nadat het de productie van onder meer serverracks, andere geavanceerde apparatuur en consumentenelektronica opvoerde voor de wereldwijde uitrol van kunstmatige intelligentie. Dit bleek donderdag uit cijfers van het Taiwanese bedrijf.",
+    "published_at": "2026-05-14 12:26",
+    "scraped_at": "2026-05-14T12:09:14.320456"
+  },
+  {
+    "id": "4099a6fc9007893cdd54d166cd367bee",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/864291/UBS-verhoogt-koersdoel-ABN-AMRO.aspx",
+    "intro": "UBS heeft het koersdoel voor ABN AMRO verhoogd van 38,50 naar 41,00 euro, met een ongewijzigde koopaanbeveling. Dit bleek donderdag uit een rapport van de Zwitserse bank.",
+    "published_at": "2026-05-14 12:13",
+    "scraped_at": "2026-05-14T12:09:14.320456"
+  },
+  {
     "id": "723133bbf3a31ccf0daddf3e1b59df3e",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen hoger rond middaguur",
     "link": "https://www.beurs.nl/Nieuws/864285/Europese-beurzen-hoger-rond-middaguur.aspx",
     "intro": "De aandelenmarkten in Europa noteerden donderdag rond het middaguur hoger, gesteund door de chiprally op Wall Street een dag eerder.",
     "published_at": "2026-05-14 11:53",
-    "scraped_at": "2026-05-14T10:00:49.505919"
+    "scraped_at": "2026-05-14T12:09:14.320456"
   },
   {
     "id": "11b7616ef538b1e966569ae61aced017",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/864283/Topman-Kendrion-tevreden-over-jaarstart.aspx",
     "intro": "Kendrion is 2026 sterk gestart. Dit zei CEO Joep van Beurden in gesprek met ABM Financial News.",
     "published_at": "2026-05-14 11:50",
-    "scraped_at": "2026-05-14T10:00:49.505919"
+    "scraped_at": "2026-05-14T12:09:14.320456"
   },
   {
     "id": "549a742f21ad6c5ebe5c17e03fb525db",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864280/NEPI-Rockcastle-ziet-huurinkomsten-aantrekken.aspx",
     "intro": "NEPI Rockcastle heeft in het eerste kwartaal van dit jaar de huurinkomsten zien aantrekken. Dat maakte het in Amsterdam gevestigde Europese vastgoedbedrijf donderdag bekend.",
     "published_at": "2026-05-14 11:32",
-    "scraped_at": "2026-05-14T10:00:49.505919"
+    "scraped_at": "2026-05-14T12:09:14.320456"
   },
   {
     "id": "8acef70b9cdc2dc86135780191ee9f66",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864277/ABN-AMRO-opnieuw-in-trek-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagochtend hoger, met opnieuw winst voor het aandeel ABN AMRO in de nasleep van cijfers op woensdag. Rond de klok van elf uur won de AEX 0,6 procent op 1.016,47 punten.",
     "published_at": "2026-05-14 11:04",
-    "scraped_at": "2026-05-14T10:00:49.505919"
-  },
-  {
-    "id": "b8f75307eb1c50e944224f4a5673a2bf",
-    "categorie": "IEX",
-    "titel": "Must read: Trump en Xi sparren in Beijing",
-    "link": "https://www.iex.nl/artikel/864267/Must-read-Trump-en-Xi-sparren-in-Beijing.aspx",
-    "intro": "Plus: ABN Amro verlaagt aandelenadvies, impactbeleggers moeten ook beurs aandoen, zoeken naar Europese koopjes, Nederlanders zijn rijk en meer.",
-    "published_at": "2026-05-14 10:00",
-    "scraped_at": "2026-05-14T10:00:49.505919"
-  },
-  {
-    "id": "43f1b0eaf8785e6ff8dede5c96aa7c4a",
-    "categorie": "Beursnieuws",
-    "titel": "Spaanse inflatie nog iets lager",
-    "link": "https://www.beurs.nl/Nieuws/864274/Spaanse-inflatie-nog-iets-lager.aspx",
-    "intro": "De Spaanse inflatie is in april iets minder hard toegenomen dan een maand eerder. Dit bleek donderdag uit cijfers van het Spaanse statistiekbureau Ine.",
-    "published_at": "2026-05-14 09:32",
-    "scraped_at": "2026-05-14T10:00:49.505919"
-  },
-  {
-    "id": "430acbc9b3279f6a15c711f5e5ee44a1",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/864273/Deutsche-Bank-verhoogt-koersdoel-ABN-AMRO.aspx",
-    "intro": "Deutsche Bank heeft donderdag het koersdoel voor ABN AMRO verhoogd van 28,00 naar 31,00 euro bij handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-05-14 09:29",
-    "scraped_at": "2026-05-14T10:00:49.505919"
-  },
-  {
-    "id": "6d4146d30f2b428e51ce6cca5220b01d",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/864268/AEX-licht-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 0,3 procent hoger op 1.013,62 punten, terwijl de Midkap ook 0,3 procent won.",
-    "published_at": "2026-05-14 09:09",
-    "scraped_at": "2026-05-14T10:00:49.505919"
-  },
-  {
-    "id": "fde19b15111daac0d1b86ab843a1db9c",
-    "categorie": "Nieuws",
-    "titel": "Bouw landwindmolens totaal stilgevallen",
-    "link": "https://www.ieximpact.nl/artikel/864166/Bouw-landwindmolens-totaal-stilgevallen.aspx",
-    "intro": "In 2025 kwamen er in Nederland slechts netto negen windturbines bij, goed voor 96 megawatt extra vermogen. Daarmee is de groei bijna tot stilstand gekomen, terwijl voor 2026 zelfs een daling van het opgesteld vermogen wordt verwacht. Wat is hier aan de hand?",
-    "published_at": "2026-05-14 09:00",
-    "scraped_at": "2026-05-14T10:00:49.505919"
-  },
-  {
-    "id": "01000d49e4aaa77542653832769bfc0d",
-    "categorie": "Voorbeurs",
-    "titel": "Dauwtrappen op een groene beurs en wat brengt top Trump-Xi?",
-    "link": "https://www.beurs.nl/Artikel/864236/Dauwtrappen-op-een-groene-beurs-en-wat-brengt-top-Trump-Xi.aspx",
-    "intro": "Beladen ontmoeting tussen Trump en Xi Jinping. Witte rook boven de Fed en let vandaag op Cisco en Applied Materials.",
-    "published_at": "2026-05-14 08:30",
-    "scraped_at": "2026-05-14T10:00:49.505919"
+    "scraped_at": "2026-05-14T12:09:14.320456"
   }
 ]
