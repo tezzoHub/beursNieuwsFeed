@@ -1,12 +1,48 @@
 [
   {
+    "id": "cde2f826830a8fac36b4ebd34ffa8fc4",
+    "categorie": "Beursnieuws",
+    "titel": "Chipaandelen dalen op roodgekleurd Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/864487/Chipaandelen-dalen-op-roodgekleurd-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden vrijdag lager met nog een paar uur handel te gaan, waarbij halfgeleideraandelen onder druk stonden.",
+    "published_at": "2026-05-15 19:40",
+    "scraped_at": "2026-05-15T18:14:13.346315"
+  },
+  {
+    "id": "5375170456c424e058d3ea58c459ab6d",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies: overname Magnum Ice voorlopig niet aan de orde",
+    "link": "https://www.beurs.nl/Nieuws/864486/Jefferies-overname-Magnum-Ice-voorlopig-niet-aan-de-orde.aspx",
+    "intro": "Het aandeel van Magnum Ice schoot vrijdag omhoog op overnamespeculatie, maar volgens Jefferies zou een dergelijke transactie te vroeg komen. Dit bleek vrijdagavond uit een rapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-05-15 19:22",
+    "scraped_at": "2026-05-15T18:14:13.346315"
+  },
+  {
+    "id": "e029cb90e0d1e6a29c71fd7c7a550fe7",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verhoogt koersdoel ABN Amro",
+    "link": "https://www.beurs.nl/Nieuws/864485/Citi-verhoogt-koersdoel-ABN-Amro.aspx",
+    "intro": "Citi Research heeft vrijdagavond het koersdoel voor ABN Amro verhoogd van 38,10 naar 41,00 euro met een herhaling van de koopaanbeveling. Dit bleek uit een rapport van analist Shrey Srivastava.",
+    "published_at": "2026-05-15 18:35",
+    "scraped_at": "2026-05-15T18:14:13.346315"
+  },
+  {
+    "id": "ac6624f5efa91a006874ba9c5d43b817",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen flink lager het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/864484/Europese-beurzen-flink-lager-het-weekend-in.aspx",
+    "intro": "De Europese beurzen zijn vrijdag flink lager geëindigd, met de halfgeleideraandelen als opvallende dalers.",
+    "published_at": "2026-05-15 18:30",
+    "scraped_at": "2026-05-15T18:14:13.346315"
+  },
+  {
     "id": "715b80e557af3e51bbecfe64f60dd4f8",
     "categorie": "Beursnieuws",
     "titel": "AEX sluit beweeglijke week lager af",
     "link": "https://www.beurs.nl/Nieuws/864482/AEX-sluit-beweeglijke-week-lager-af.aspx",
     "intro": "De Amsterdamse beurs is vrijdag lager gesloten, terwijl de oplopende inflatie en hogere rentes ondertussen hun tol lijken te gaan eisen.",
     "published_at": "2026-05-15 17:54",
-    "scraped_at": "2026-05-15T16:29:18.332402"
+    "scraped_at": "2026-05-15T18:14:13.346315"
   },
   {
     "id": "d17c839a9233837e3b42b5ab5d478944",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/864476/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 25 mei 2026:",
     "published_at": "2026-05-15 16:30",
-    "scraped_at": "2026-05-15T16:29:18.332402"
+    "scraped_at": "2026-05-15T18:14:13.346315"
   },
   {
     "id": "9bf9bc7ab74b1dafdfbddfd02beaed35",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/864477/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 25 mei 2026:",
     "published_at": "2026-05-15 16:30",
-    "scraped_at": "2026-05-15T16:29:18.332402"
+    "scraped_at": "2026-05-15T18:14:13.346315"
   },
   {
     "id": "20c2127595854bb3e25a5868eef6ff15",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/864475/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 25 mei 2026:",
     "published_at": "2026-05-15 16:29",
-    "scraped_at": "2026-05-15T16:29:18.332402"
+    "scraped_at": "2026-05-15T18:14:13.346315"
   },
   {
     "id": "f54f7ee183353be1ca7f9aa6c07febd7",
@@ -42,7 +78,7 @@
     "link": "https://www.ieximpact.nl/artikel/864170/IEX-Impact-Videopodcast-De-kunst-van-effectief-impact-boeken.aspx",
     "intro": "In de eerste videopodcast van IEX Impact onderzoekt Rob Stallinga samen met Yvonne Bakkum en Raymond de Kuiper hoe beleggers 'relatief' eenvoudig veel impact kunnen boeken. Het gesprek voert onder meer langs klimaat, biodiversiteit, private markten en green bonds.",
     "published_at": "2026-05-15 16:00",
-    "scraped_at": "2026-05-15T16:29:18.332402"
+    "scraped_at": "2026-05-15T18:14:13.346315"
   },
   {
     "id": "58570601a2eb01589525d056b9010385",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864469/Starbucks-snijdt-in-de-kosten.aspx",
     "intro": "Starbucks moet 400 miljoen dollar aan reorganisatiekosten nemen vanwege de eerder aangekondigde 'Back to Starbucks' strategie. Dit maakte de Amerikaanse koffieketen vrijdag bekend in een document ingediend bij de Amerikaanse beurswaakhond SEC.",
     "published_at": "2026-05-15 15:34",
-    "scraped_at": "2026-05-15T16:29:18.332402"
-  },
-  {
-    "id": "cd55a5e5e7380f06a767c810d4add768",
-    "categorie": "Beursnieuws",
-    "titel": "Industriële productie VS sterker gegroeid dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/864466/Industriele-productie-VS-sterker-gegroeid-dan-verwacht.aspx",
-    "intro": "De industriële productie in de Verenigde Staten is in april sterker gegroeid dan verwacht. Dit bleek vrijdag uit cijfers van de Federal Reserve.",
-    "published_at": "2026-05-15 15:21",
-    "scraped_at": "2026-05-15T16:29:18.332402"
-  },
-  {
-    "id": "9546d8116f9c2b4a749ee3ce3866420a",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op rode opening",
-    "link": "https://www.beurs.nl/Nieuws/864460/Wall-Street-koerst-af-op-rode-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, terwijl de rentes stevig oplopen. Beleggers lijken winst te nemen op de technamen die de afgelopen weken hard zijn gestegen.",
-    "published_at": "2026-05-15 14:58",
-    "scraped_at": "2026-05-15T16:29:18.332402"
-  },
-  {
-    "id": "f9732e06e3672b47a7bf55fe0c9e3b48",
-    "categorie": "Beursnieuws",
-    "titel": "Empire State index verder omhoog",
-    "link": "https://www.beurs.nl/Nieuws/864456/Empire-State-index-verder-omhoog.aspx",
-    "intro": "De bedrijvigheid in de industrie in de regio New York is in mei verder toegenomen. Dit bleek vrijdag uit de zogeheten Empire State index van de New York Fed.",
-    "published_at": "2026-05-15 14:37",
-    "scraped_at": "2026-05-15T16:29:18.332402"
-  },
-  {
-    "id": "7fa84c1cb9683fb8629da7be92976368",
-    "categorie": "Beursnieuws",
-    "titel": "Bill Ackman meldt belang in Microsoft",
-    "link": "https://www.beurs.nl/Nieuws/864455/Bill-Ackman-meldt-belang-in-Microsoft.aspx",
-    "intro": "Hedgefondsmanager Bill Ackman heeft via Pershing Square een belang genomen in Microsoft. Dit meldde Ackman op X, wat volgens hem later vandaag zal worden bekendgemaakt in een melding bij de Amerikaanse beurswaakhond SEC.",
-    "published_at": "2026-05-15 14:32",
-    "scraped_at": "2026-05-15T16:29:18.332402"
+    "scraped_at": "2026-05-15T18:14:13.346315"
   }
 ]
