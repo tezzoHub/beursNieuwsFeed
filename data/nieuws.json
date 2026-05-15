@@ -1,12 +1,39 @@
 [
   {
+    "id": "1f17220b66692c47683353bf1acb7582",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street wijzen op lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/864446/Futures-Wall-Street-wijzen-op-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, terwijl het lijkt dat de topontmoeting tussen president Donald Trump en de Chinese president Xi Jinping geen belangrijke beleidsdoorbraken heeft opgeleverd.",
+    "published_at": "2026-05-15 13:32",
+    "scraped_at": "2026-05-15T12:15:03.701118"
+  },
+  {
+    "id": "57cb249bde40dd62e3fcc8344dc4a1da",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen dalen door inflatievrees",
+    "link": "https://www.beurs.nl/Nieuws/864443/Europese-beurzen-dalen-door-inflatievrees.aspx",
+    "intro": "De Europese aandelenbeurzen daalden vrijdag rond het middaguur, doordat beleggers zich weer zorgen maken over de inflatie na een week met oplopende prijzen in de VS en Europa.",
+    "published_at": "2026-05-15 12:45",
+    "scraped_at": "2026-05-15T12:15:03.701118"
+  },
+  {
+    "id": "2568981466babefc4390d92966202b93",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel Magnum Ice schiet omhoog door overnamegerucht",
+    "link": "https://www.beurs.nl/Nieuws/864440/Aandeel-Magnum-Ice-schiet-omhoog-door-overnamegerucht.aspx",
+    "intro": "Blackstone en CDR bestuderen een overname van Magnum Ice. Dit meldde persbureau Reuters vrijdag op basis van bronnen.",
+    "published_at": "2026-05-15 12:15",
+    "scraped_at": "2026-05-15T12:15:03.701118"
+  },
+  {
     "id": "d82009942438ab2c49b75bdc9b14df6d",
     "categorie": "Nieuws",
     "titel": "Nederlandse natuur in de knel: vooral bijen en vlinders verdwijnen",
     "link": "https://www.ieximpact.nl/artikel/864422/Nederlandse-natuur-in-de-knel-vooral-bijen-en-vlinders-verdwijnen.aspx",
     "intro": "Het is vandaag Internationale Bedreigde Soortendag, en de cijfers stemmen somber. Van de Nederlandse soorten die goed in kaart zijn gebracht, is ongeveer de helft bedreigd. Vooral bijen en dagvlinders hebben het moeilijk.",
     "published_at": "2026-05-15 11:55",
-    "scraped_at": "2026-05-15T10:08:53.364762"
+    "scraped_at": "2026-05-15T12:15:03.701118"
   },
   {
     "id": "904209a67010a6730571a30451fb9f42",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/864429/Chippers-duwen-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdag rond half twaalf in het rood, net als de omringende beurzen.",
     "published_at": "2026-05-15 11:34",
-    "scraped_at": "2026-05-15T10:08:53.364762"
+    "scraped_at": "2026-05-15T12:15:03.701118"
   },
   {
     "id": "42e9e4117721b384ac6ddb5cdc4cb857",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/864423/Italiaanse-inflatie-verder-opgelopen.aspx",
     "intro": "De Italiaanse consumentenprijzen zijn in april verder opgelopen door hogere prijzen voor energie en voedsel. Dit bleek vrijdag uit cijfers van Istat, het Italiaanse bureau voor de statistiek.",
     "published_at": "2026-05-15 11:14",
-    "scraped_at": "2026-05-15T10:08:53.364762"
+    "scraped_at": "2026-05-15T12:15:03.701118"
   },
   {
     "id": "8444a207016fdc99f45cd5c36dbc4521",
@@ -33,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/864409/Must-read-Wall-Street-is-weer-een-chipbedrijf-rijker.aspx",
     "intro": "Cerebras Systems had een zeer succesvolle beursgang (+89%). Plus: GameStop-CEO blijkt een bizar slechte verliezer, Stellantis sluit deal met Dongfeng en de Japanse rente gaat omhoog.",
     "published_at": "2026-05-15 10:20",
-    "scraped_at": "2026-05-15T10:08:53.364762"
+    "scraped_at": "2026-05-15T12:15:03.701118"
   },
   {
     "id": "453127d7070b7ac946d608768d740a63",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/864412/Stellantis-sluit-deal-met-Dongfeng.aspx",
     "intro": "Stellantis heeft de ondertekening van een strategische overeenkomst met het Chinese Dongfeng Group aangekondigd.",
     "published_at": "2026-05-15 09:52",
-    "scraped_at": "2026-05-15T10:08:53.364762"
+    "scraped_at": "2026-05-15T12:15:03.701118"
   },
   {
     "id": "b23e8de938ce46c50eafd281aff5e408",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864405/AEX-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong 0,9 procent lager op 1.012,53 punten, terwijl de Midkap ook 0,9 procent prijs moest geven.",
     "published_at": "2026-05-15 09:16",
-    "scraped_at": "2026-05-15T10:08:53.364762"
+    "scraped_at": "2026-05-15T12:15:03.701118"
   },
   {
     "id": "914efccaaaf629334972cdd8caeb2f09",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864402/Xi-China-en-VS-stabiliseren-handelsrelatie.aspx",
     "intro": "China en de VS zijn overeengekomen om hun handelsrelatie te stabiliseren. Dit meldde persbureau Bloomberg vrijdag op basis van uitspraken van Xi Jinping.",
     "published_at": "2026-05-15 08:58",
-    "scraped_at": "2026-05-15T10:08:53.364762"
-  },
-  {
-    "id": "71bf20e8f3de4f060d6f9f61aef00822",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel Banijay",
-    "link": "https://www.beurs.nl/Nieuws/864398/Beursblik-Deutsche-Bank-verhoogt-koersdoel-Banijay.aspx",
-    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor Banijay Group verhoogd van 13,00 naar 14,40 euro. Dit bleek uit een rapport van analist Annabel Hames over het aan het Damrak genoteerde bedrijf.",
-    "published_at": "2026-05-15 08:33",
-    "scraped_at": "2026-05-15T10:08:53.364762"
-  },
-  {
-    "id": "c4942d7ad1d0a2bc614314e2c9adb125",
-    "categorie": "Voorbeurs",
-    "titel": "Nieuwe records voor Nvidia en S&P500, maar de AEX opent fors lager",
-    "link": "https://www.iex.nl/artikel/864284/Nieuwe-records-voor-Nvidia-en-SP500-maar-de-AEX-opent-fors-lager.aspx",
-    "intro": "In Azië is vooral de Kospi afgestraft. Bij TKH, Corbion, Havas en Wereldhave kunt u rekenen op wat koersdruk.",
-    "published_at": "2026-05-15 08:10",
-    "scraped_at": "2026-05-15T10:08:53.364762"
-  },
-  {
-    "id": "3570f0c6c7a8a629f4489199dcb42e83",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag naar verwachting in het rood",
-    "link": "https://www.beurs.nl/Nieuws/864392/AEX-start-handelsdag-naar-verwachting-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,1 procent. De Aziatische beurzen staan vanochtend per saldo ook flink onder druk.",
-    "published_at": "2026-05-15 08:06",
-    "scraped_at": "2026-05-15T10:08:53.364762"
+    "scraped_at": "2026-05-15T12:15:03.701118"
   }
 ]
