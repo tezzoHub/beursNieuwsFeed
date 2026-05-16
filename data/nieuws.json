@@ -1,92 +1,29 @@
 [
   {
-    "id": "05ed28dbe2e1f8487e6b6e3ae03100ef",
+    "id": "6a22cd3ffd1f239c4f8e633cf2b87c30",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/864492/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-05-15 22:15",
-    "scraped_at": "2026-05-16T09:16:33.057914"
+    "titel": "Berkshire Hathaway veel groter in Alphabet",
+    "link": "https://www.beurs.nl/Nieuws/864509/Berkshire-Hathaway-veel-groter-in-Alphabet.aspx",
+    "intro": "Berkshire Hathaway heeft in het eerste kwartaal zijn aandelenbelang in Alphabet aanzienlijk vergroot en een nieuwe positie in Delta Air Lines ingenomen, terwijl het een groot aantal beleggingen, waaronder Mastercard, Visa, Amazon en UnitedHealth, heeft verkocht. Dit bleek vrijdagavond laat uit een zogeheten 13-F-document dat werd ingediend bij de Amerikaanse toezichthouder SEC.",
+    "published_at": "2026-05-16 12:24",
+    "scraped_at": "2026-05-16T10:41:45.406700"
   },
   {
-    "id": "4cf9c43b41fdd16c80951acd34b6b4e6",
+    "id": "ed1d13b95a39b79505cd7505adda733d",
     "categorie": "Beursnieuws",
-    "titel": "Inflatiezorgen en dalende chipaandelen zetten Wall Street lager",
-    "link": "https://www.beurs.nl/Nieuws/864491/Inflatiezorgen-en-dalende-chipaandelen-zetten-Wall-Street-lager.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag lager geëindigd, terwijl halfgeleideraandelen hun recente rally staakten.",
-    "published_at": "2026-05-15 22:11",
-    "scraped_at": "2026-05-16T09:16:33.057914"
+    "titel": "AEX neemt weer afstand van record",
+    "link": "https://www.beurs.nl/Nieuws/864506/AEX-neemt-weer-afstand-van-record.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week gedaald en nam zo weer afstand van het record dat eerder deze maand werd neergezet.",
+    "published_at": "2026-05-16 12:06",
+    "scraped_at": "2026-05-16T10:41:45.406700"
   },
   {
-    "id": "e8e30f1641184683818b962c61e90252",
+    "id": "438a457ebd9030e1d3e23f4f90ad53f7",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt flink nu hoop op snelle heropening Hormuz vervaagt",
-    "link": "https://www.beurs.nl/Nieuws/864489/Olieprijs-stijgt-flink-nu-hoop-op-snelle-heropening-Hormuz-vervaagt.aspx",
-    "intro": "De olieprijs is vrijdag flink gestegen, nu de hoop op een snelle heropening van de Straat van Hormuz steeds meer vervaagt.",
-    "published_at": "2026-05-15 21:31",
-    "scraped_at": "2026-05-16T09:16:33.057914"
-  },
-  {
-    "id": "191ead981e4ea3d8c917dc6a39fc85f6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Moody's verhoogt kredietrating CTP",
-    "link": "https://www.beurs.nl/Nieuws/864488/Beursblik-Moodys-verhoogt-kredietrating-CTP.aspx",
-    "intro": "Moody’s heeft de kredietrating voor CTP verhoogd van Baa3 naar Baa2 met een stabiele outlook. Dit meldde de logistieke vastgoedinvesteerder vrijdag op basis van een rapport van de Amerikaanse kredietwaardigheidsbeoordelaar.",
-    "published_at": "2026-05-15 20:06",
-    "scraped_at": "2026-05-16T09:16:33.057914"
-  },
-  {
-    "id": "cde2f826830a8fac36b4ebd34ffa8fc4",
-    "categorie": "Beursnieuws",
-    "titel": "Chipaandelen dalen op roodgekleurd Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/864487/Chipaandelen-dalen-op-roodgekleurd-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag lager met nog een paar uur handel te gaan, waarbij halfgeleideraandelen onder druk stonden.",
-    "published_at": "2026-05-15 19:40",
-    "scraped_at": "2026-05-16T09:16:33.057914"
-  },
-  {
-    "id": "5375170456c424e058d3ea58c459ab6d",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies: overname Magnum Ice voorlopig niet aan de orde",
-    "link": "https://www.beurs.nl/Nieuws/864486/Jefferies-overname-Magnum-Ice-voorlopig-niet-aan-de-orde.aspx",
-    "intro": "Het aandeel van Magnum Ice schoot vrijdag omhoog op overnamespeculatie, maar volgens Jefferies zou een dergelijke transactie te vroeg komen. Dit bleek vrijdagavond uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-05-15 19:22",
-    "scraped_at": "2026-05-16T09:16:33.057914"
-  },
-  {
-    "id": "e029cb90e0d1e6a29c71fd7c7a550fe7",
-    "categorie": "Beursnieuws",
-    "titel": "Citi verhoogt koersdoel ABN Amro",
-    "link": "https://www.beurs.nl/Nieuws/864485/Citi-verhoogt-koersdoel-ABN-Amro.aspx",
-    "intro": "Citi Research heeft vrijdagavond het koersdoel voor ABN Amro verhoogd van 38,10 naar 41,00 euro met een herhaling van de koopaanbeveling. Dit bleek uit een rapport van analist Shrey Srivastava.",
-    "published_at": "2026-05-15 18:35",
-    "scraped_at": "2026-05-16T09:16:33.057914"
-  },
-  {
-    "id": "ac6624f5efa91a006874ba9c5d43b817",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen flink lager het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/864484/Europese-beurzen-flink-lager-het-weekend-in.aspx",
-    "intro": "De Europese beurzen zijn vrijdag flink lager geëindigd, met de halfgeleideraandelen als opvallende dalers.",
-    "published_at": "2026-05-15 18:30",
-    "scraped_at": "2026-05-16T09:16:33.057914"
-  },
-  {
-    "id": "715b80e557af3e51bbecfe64f60dd4f8",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit beweeglijke week lager af",
-    "link": "https://www.beurs.nl/Nieuws/864482/AEX-sluit-beweeglijke-week-lager-af.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag lager gesloten, terwijl de oplopende inflatie en hogere rentes ondertussen hun tol lijken te gaan eisen.",
-    "published_at": "2026-05-15 17:54",
-    "scraped_at": "2026-05-16T09:16:33.057914"
-  },
-  {
-    "id": "d17c839a9233837e3b42b5ab5d478944",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/864476/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 25 mei 2026:",
-    "published_at": "2026-05-15 16:30",
-    "scraped_at": "2026-05-16T09:16:33.057914"
+    "titel": "Powell blijft nog even aan als Fed-voorzitter",
+    "link": "https://www.beurs.nl/Nieuws/864508/Powell-blijft-nog-even-aan-als-Fed-voorzitter.aspx",
+    "intro": "Vertrekkend voorzitter van de Federal Reserve Jerome Powell blijft voorlopig nog aan, totdat zijn opvolger Kevin Warsh kan worden beëdigd. Dit meldde de Fed vrijdagavond laat.",
+    "published_at": "2026-05-16 12:02",
+    "scraped_at": "2026-05-16T10:41:45.406700"
   }
 ]
