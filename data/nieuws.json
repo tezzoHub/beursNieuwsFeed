@@ -1,12 +1,21 @@
 [
   {
+    "id": "fcb79bcf46e779211a201b648b27fb75",
+    "categorie": "Beursnieuws",
+    "titel": "Komende week aandacht voor resultaten Nvidia",
+    "link": "https://www.beurs.nl/Nieuws/864518/Komende-week-aandacht-voor-resultaten-Nvidia.aspx",
+    "intro": "Komende week zal de aandacht vooral uitgaan naar de resultaten van Nvidia, nadat de chipreus afgelopen week al naar een recordkoers steeg en zelfs een marktwaarde van 5,5 biljoen dollar bereikte, terwijl CEO Jensen Huang meereisde met de Amerikaanse president Donald Trump naar China. Dit werd gezien als een gunstig signaal voor de verkoop van Nvidia-chips aan China.",
+    "published_at": "2026-05-17 14:38",
+    "scraped_at": "2026-05-17T14:16:02.416258"
+  },
+  {
     "id": "fcc754ba5a231cbcc9c125d78a2f1dda",
     "categorie": "Beursnieuws",
     "titel": "ASML gaat samenwerken met Tata Electronics",
     "link": "https://www.beurs.nl/Nieuws/864517/ASML-gaat-samenwerken-met-Tata-Electronics.aspx",
     "intro": "ASML gaat samenwerken met het Indiase Tata Electronics om het ecosysteem voor halfgeleiderproductie in India te bevorderen. Dit meldde ASML zaterdag na het ondertekenen van een intentieverklaring tijdens een bezoek van de Indiase premier Narendra Modi aan Nederland.",
     "published_at": "2026-05-17 12:53",
-    "scraped_at": "2026-05-17T12:42:45.824725"
+    "scraped_at": "2026-05-17T14:16:02.416258"
   },
   {
     "id": "0008339708485882572cd2db467ba16a",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/864515/Magnum-Ice-stijgt-op-overnamespeculatie-en-ABN-AMRO-beloond-na-cijfers.aspx",
     "intro": "Financiële waarden waren afgelopen week in trek op het Damrak, onder aanvoering van ABN AMRO dat met sterke kwartaalcijfers kwam, terwijl halfgeleideraandelen uiteindelijk niet echt konden meeliften op het succes van Nvidia en prima cijfers van Foxconn.",
     "published_at": "2026-05-17 12:37",
-    "scraped_at": "2026-05-17T12:42:45.824725"
+    "scraped_at": "2026-05-17T14:16:02.416258"
   },
   {
     "id": "8d96c651caa071933495f1187d66da20",
@@ -24,6 +33,6 @@
     "link": "https://www.iex.nl/artikel/864350/Vooruitblik-bij-Nvidia-en-dit-andere-bedrijf-is-het-zelden-rustig.aspx",
     "intro": "",
     "published_at": "2026-05-17 10:30",
-    "scraped_at": "2026-05-17T12:42:45.824725"
+    "scraped_at": "2026-05-17T14:16:02.416258"
   }
 ]
