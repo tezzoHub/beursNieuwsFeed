@@ -1,38 +1,92 @@
 [
   {
-    "id": "fcb79bcf46e779211a201b648b27fb75",
+    "id": "d4f4492edc44ba2b85ba1e261df369b6",
     "categorie": "Beursnieuws",
-    "titel": "Komende week aandacht voor resultaten Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/864518/Komende-week-aandacht-voor-resultaten-Nvidia.aspx",
-    "intro": "Komende week zal de aandacht vooral uitgaan naar de resultaten van Nvidia, nadat de chipreus afgelopen week al naar een recordkoers steeg en zelfs een marktwaarde van 5,5 biljoen dollar bereikte, terwijl CEO Jensen Huang meereisde met de Amerikaanse president Donald Trump naar China. Dit werd gezien als een gunstig signaal voor de verkoop van Nvidia-chips aan China.",
-    "published_at": "2026-05-17 14:38",
-    "scraped_at": "2026-05-18T04:48:01.205576"
+    "titel": "Beursblik: Jefferies verhoogt koersdoel Suss sterk",
+    "link": "https://www.beurs.nl/Nieuws/864574/Beursblik-Jefferies-verhoogt-koersdoel-Suss-sterk.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Suss MicroTec sterk verhoogd van 58,00 naar 109,00 euro, met behoud van het koopadvies, op basis van de sterke ordertrends. Dit bleek maandag uit een rapport van analist Janardan Menon.",
+    "published_at": "2026-05-18 09:52",
+    "scraped_at": "2026-05-18T08:37:56.220475"
   },
   {
-    "id": "fcc754ba5a231cbcc9c125d78a2f1dda",
+    "id": "36330cb2f285f103dd328e95e828a72c",
     "categorie": "Beursnieuws",
-    "titel": "ASML gaat samenwerken met Tata Electronics",
-    "link": "https://www.beurs.nl/Nieuws/864517/ASML-gaat-samenwerken-met-Tata-Electronics.aspx",
-    "intro": "ASML gaat samenwerken met het Indiase Tata Electronics om het ecosysteem voor halfgeleiderproductie in India te bevorderen. Dit meldde ASML zaterdag na het ondertekenen van een intentieverklaring tijdens een bezoek van de Indiase premier Narendra Modi aan Nederland.",
-    "published_at": "2026-05-17 12:53",
-    "scraped_at": "2026-05-18T04:48:01.205576"
+    "titel": "AEX lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/864569/AEX-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 0,4 procent lager naar 1.006 punten, terwijl de Midkap 0,9 procent prijs moest geven.",
+    "published_at": "2026-05-18 09:18",
+    "scraped_at": "2026-05-18T08:37:56.220475"
   },
   {
-    "id": "0008339708485882572cd2db467ba16a",
+    "id": "a53bb08cd39481c56aa5242b141cdff4",
     "categorie": "Beursnieuws",
-    "titel": "Magnum Ice stijgt op overnamespeculatie en ABN AMRO beloond na cijfers",
-    "link": "https://www.beurs.nl/Nieuws/864515/Magnum-Ice-stijgt-op-overnamespeculatie-en-ABN-AMRO-beloond-na-cijfers.aspx",
-    "intro": "Financiële waarden waren afgelopen week in trek op het Damrak, onder aanvoering van ABN AMRO dat met sterke kwartaalcijfers kwam, terwijl halfgeleideraandelen uiteindelijk niet echt konden meeliften op het succes van Nvidia en prima cijfers van Foxconn.",
-    "published_at": "2026-05-17 12:37",
-    "scraped_at": "2026-05-18T04:48:01.205576"
+    "titel": "Ryanair boekt fors meer winst",
+    "link": "https://www.beurs.nl/Nieuws/864564/Ryanair-boekt-fors-meer-winst.aspx",
+    "intro": "Ryanair heeft in het afgelopen boekjaar de winst sterk zien stijgen dankzij prijsverhogingen, maar onthoudt zich voor dit jaar van een winstverwachting gezien alle onzekerheden, ondanks het afdekken van de kerosineprijzen. Dit bleek maandag uit de jaarresultaten van de Ierse budgetvliegmaatschappij.",
+    "published_at": "2026-05-18 08:53",
+    "scraped_at": "2026-05-18T08:37:56.220475"
   },
   {
-    "id": "8d96c651caa071933495f1187d66da20",
-    "categorie": "",
-    "titel": "Vooruitblik: bij Nvidia en dit andere bedrijf is het zelden rustig",
-    "link": "https://www.iex.nl/artikel/864350/Vooruitblik-bij-Nvidia-en-dit-andere-bedrijf-is-het-zelden-rustig.aspx",
-    "intro": "",
-    "published_at": "2026-05-17 10:30",
-    "scraped_at": "2026-05-18T04:48:01.205576"
+    "id": "8aeac2c90b15906a09cd1fea170d9f35",
+    "categorie": "Beursnieuws",
+    "titel": "Envipco definitief aan de slag voor Iceland Foods",
+    "link": "https://www.beurs.nl/Nieuws/864559/Envipco-definitief-aan-de-slag-voor-Iceland-Foods.aspx",
+    "intro": "Envipco heeft een definitief leveringscontract voor statiegeldmachines getekend met Iceland Foods in het Verenigd Koninkrijk. Dit maakte de Amersfoortse fabrikant maandagochtend bekend, zonder financiële details vrij te geven.",
+    "published_at": "2026-05-18 08:22",
+    "scraped_at": "2026-05-18T08:37:56.220475"
+  },
+  {
+    "id": "1063b81f438a59f60ef78d721fb2344a",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent lager terwijl voor Iran 'de klok tikt'",
+    "link": "https://www.beurs.nl/Artikel/864533/AEX-opent-lager-terwijl-voor-Iran-de-klok-tikt.aspx",
+    "intro": "Openingsindicatie: -0,9%. President Trump voert druk op Iran weer op. Olieprijzen en obligatierentes zitten in de lift, goudprijs blijft aardig liggen. Berkshire vergroot belang in Alphabet. En wat brengt deze beursweek?",
+    "published_at": "2026-05-18 08:15",
+    "scraped_at": "2026-05-18T08:37:56.220475"
+  },
+  {
+    "id": "0c8a44455604fc584ef186e851a2bd33",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsweek in het rood met focus op olieprijzen en rentes",
+    "link": "https://www.beurs.nl/Nieuws/864552/AEX-start-handelsweek-in-het-rood-met-focus-op-olieprijzen-en-rentes.aspx",
+    "intro": "De Amsterdamse beurs maakt zich maandag op voor een lagere opening. Futures op de AEX-index wezen ongeveer een uur voor de beursgong op een verlies van ruim een half procent.",
+    "published_at": "2026-05-18 08:00",
+    "scraped_at": "2026-05-18T08:37:56.220475"
+  },
+  {
+    "id": "57d00f569cebe5f261118be31cb85e01",
+    "categorie": "Beleggen",
+    "titel": "Nieuwste energieschok versnelt energietransitie",
+    "link": "https://www.ieximpact.nl/artikel/864172/Nieuwste-energieschok-versnelt-energietransitie.aspx",
+    "intro": "Hernieuwbare energie verschuift in Europa van klimaatdossier naar strategische infrastructuur. De spanning rond de Straat van Hormuz laat volgens Joost Bergsma van Nuveen Infrastructure zien dat schone energie niet alleen relevant is voor decarbonisatie, maar ook voor energiezekerheid en het verminderen van de blootstelling aan volatiele fossiele energieprijzen.",
+    "published_at": "2026-05-18 08:00",
+    "scraped_at": "2026-05-18T08:37:56.220475"
+  },
+  {
+    "id": "849acf0485a7d5e7caf395f6290c2c26",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verlaagt koersdoel Unilever",
+    "link": "https://www.beurs.nl/Nieuws/864551/Jefferies-verlaagt-koersdoel-Unilever.aspx",
+    "intro": "Jefferies heeft maandag het koersdoel voor Unilever verlaagd van 43,00 naar 37,00 Britse pond, met een herhaling van het Underperform advies. Dit bleek uit een rapport van analist David Hayes.",
+    "published_at": "2026-05-18 07:58",
+    "scraped_at": "2026-05-18T08:37:56.220475"
+  },
+  {
+    "id": "08cb58bcdd675af536d81d31de024896",
+    "categorie": "Beursnieuws",
+    "titel": "Heijmans aan de slag met Drechttunnel",
+    "link": "https://www.beurs.nl/Nieuws/864547/Heijmans-aan-de-slag-met-Drechttunnel.aspx",
+    "intro": "Heijmans gaat in opdracht van Rijkswaterstaat aan de slag met de renovatie van de Drechttunnel. Dit maakte de bouwer maandagochtend bekend.",
+    "published_at": "2026-05-18 07:26",
+    "scraped_at": "2026-05-18T08:37:56.220475"
+  },
+  {
+    "id": "a6c279138b5326a9d7364c3c08dbfeac",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/864545/Aziatische-beurzen-in-het-rood.aspx",
+    "intro": "De Aziatische beurzen deden maandagochtend een stap terug, met verliezen oplopend tot anderhalf procent voor de ASX 200 in Sydney en de Hang Seng index in Hongkong. In Seoel noteerde de KOSPI index wel licht in het groen, na de koersval van vorige week.",
+    "published_at": "2026-05-18 07:19",
+    "scraped_at": "2026-05-18T08:37:56.220475"
   }
 ]
