@@ -1,12 +1,57 @@
 [
   {
+    "id": "d4518c00ac9f209e3009af01de4da991",
+    "categorie": "Beursnieuws",
+    "titel": "Verdeeld beeld op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/864683/Verdeeld-beeld-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden maandag verdeeld met nog een paar uur handel te gaan. Beleggers hielden de olieprijzen en obligatierentes in de gaten in afwachting van verdere ontwikkelingen in het conflict in het Midden-Oosten.",
+    "published_at": "2026-05-18 19:55",
+    "scraped_at": "2026-05-18T18:06:46.472323"
+  },
+  {
+    "id": "2794640d3a95b9fb576f07482856afd6",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Kevin Warsh vrijdag beëdigd als Fed-voorzitter",
+    "link": "https://www.beurs.nl/Nieuws/864678/Media-Kevin-Warsh-vrijdag-beedigd-als-Fed-voorzitter.aspx",
+    "intro": "Kevin Warsh wordt vrijdag naar verwachting beëdigd als nieuwe voorzitter van de Amerikaanse Federal Reserve. Dit meldde een functionaris van het Witte Huis aan CNBC.",
+    "published_at": "2026-05-18 19:12",
+    "scraped_at": "2026-05-18T18:06:46.472323"
+  },
+  {
+    "id": "a3e35fe71c7c1ad7a9ee014b707f11bb",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger gesloten",
+    "link": "https://www.beurs.nl/Nieuws/864673/Europese-beurzen-hoger-gesloten.aspx",
+    "intro": "De Europese beurzen zijn maandag overwegend hoger gesloten, na een negatieve opening. Iraanse staatsmedia meldden vandaag dat de VS bereid zijn oliesancties tegen Iran tijdelijk op te schorten tijdens de lopende vredesonderhandelingen.",
+    "published_at": "2026-05-18 18:42",
+    "scraped_at": "2026-05-18T18:06:46.472323"
+  },
+  {
+    "id": "84a880cf2e33157676fc5aca592ddcf4",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere resultaten voor Banijay",
+    "link": "https://www.beurs.nl/Nieuws/864672/Hogere-resultaten-voor-Banijay.aspx",
+    "intro": "Banijay Group heeft in het eerste kwartaal van 2026 de omzet en winst flink zien stijgen, terwijl de outlook werd herhaald. Dit bleek maandag uit cijfers van het media- en gokbedrijf.",
+    "published_at": "2026-05-18 18:39",
+    "scraped_at": "2026-05-18T18:06:46.472323"
+  },
+  {
+    "id": "445b31772b07c0b5b3178f8a822e0502",
+    "categorie": "Beursnieuws",
+    "titel": "Databedrijven voeren groene AEX aan",
+    "link": "https://www.beurs.nl/Nieuws/864662/Databedrijven-voeren-groene-AEX-aan.aspx",
+    "intro": "De Amsterdamse beurs is maandag hoger gesloten. RELX en Wolters Kluwer stuwden de index omhoog met flinke koerswinsten.",
+    "published_at": "2026-05-18 17:52",
+    "scraped_at": "2026-05-18T18:06:46.472323"
+  },
+  {
     "id": "e3a35870f4613aeea2c056bb923d87df",
     "categorie": "Beursnieuws",
     "titel": "Uber vergroot belang in Delivery Hero",
     "link": "https://www.beurs.nl/Nieuws/864657/Uber-vergroot-belang-in-Delivery-Hero.aspx",
     "intro": "Uber heeft het belang in Delivery Hero verhoogd naar 19,5 procent, met een optie om nog eens een belang van 5,6 procent te kunnen verwerven. Dit maakte de Duitse maaltijdbezorger maandagmiddag bekend.",
     "published_at": "2026-05-18 17:20",
-    "scraped_at": "2026-05-18T15:59:32.671355"
+    "scraped_at": "2026-05-18T18:06:46.472323"
   },
   {
     "id": "b8f8bf02ec2f8bcdb0ee9463c65694e8",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/864652/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 26 mei 2026:",
     "published_at": "2026-05-18 16:32",
-    "scraped_at": "2026-05-18T15:59:32.671355"
+    "scraped_at": "2026-05-18T18:06:46.472323"
   },
   {
     "id": "8359bf1f5ee46f0f2d3062e5791b9a84",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/864650/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 26 mei 2026:",
     "published_at": "2026-05-18 16:31",
-    "scraped_at": "2026-05-18T15:59:32.671355"
+    "scraped_at": "2026-05-18T18:06:46.472323"
   },
   {
     "id": "5517fa2bcb688dfb0218b034378fccd8",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864651/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 26 mei 2026:",
     "published_at": "2026-05-18 16:31",
-    "scraped_at": "2026-05-18T15:59:32.671355"
+    "scraped_at": "2026-05-18T18:06:46.472323"
   },
   {
     "id": "6666d65401cafbee42b47f009055d261",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864648/CSG-verdedigt-zich-opnieuw-tegen-aantijgingen-Hunterbrook-Media.aspx",
     "intro": "CSG heeft zich maandag opnieuw verweerd tegen de aantijgingen van Hunterbrook Media in een tweede artikel over het Tsjechische defensiebedrijf met een notering aan het Damrak.",
     "published_at": "2026-05-18 16:09",
-    "scraped_at": "2026-05-18T15:59:32.671355"
-  },
-  {
-    "id": "dbc66e7230327683e9f500f0f9cfd55d",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen Amerikaanse huizenbouwers stijgt",
-    "link": "https://www.beurs.nl/Nieuws/864643/Vertrouwen-Amerikaanse-huizenbouwers-stijgt.aspx",
-    "intro": "Het vertrouwen onder Amerikaanse huizenbouwers is in mei gestegen. Dit bleek maandag uit data van de National Association of Home Builders.",
-    "published_at": "2026-05-18 16:06",
-    "scraped_at": "2026-05-18T15:59:32.671355"
-  },
-  {
-    "id": "1dfd560254b3bb373d7e2ba5b7b9e120",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street op weg naar groene opening",
-    "link": "https://www.beurs.nl/Nieuws/864630/Wall-Street-op-weg-naar-groene-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag toch een hogere opening tegemoet, nadat de Amerikanen zich bereid zouden hebben verklaard de oliesancties tegen Iran te schrappen gedurende de onderhandelingen over een nieuw akkoord. Dit meldde het semi-officiële staatsnieuwsagenstschap Tasnim maandagmiddag op basis van een Iraanse bron.",
-    "published_at": "2026-05-18 15:06",
-    "scraped_at": "2026-05-18T15:59:32.671355"
-  },
-  {
-    "id": "9e60c9e9f2adac8924089a0130da9809",
-    "categorie": "Beursnieuws",
-    "titel": "Media: VS bieden Iran tijdelijke sanctieverlichting aan",
-    "link": "https://www.beurs.nl/Nieuws/864631/Media-VS-bieden-Iran-tijdelijke-sanctieverlichting-aan.aspx",
-    "intro": "De Verenigde Staten zouden bereid zijn om de oliesancties tegen Iran tijdelijk op te schorten, terwijl de twee landen onderhandelen over een definitief vredesakkoord. Dit meldde het semi-officiële staatspersbureau Tasnim maandagmiddag op basis van een Iraanse bron.",
-    "published_at": "2026-05-18 15:02",
-    "scraped_at": "2026-05-18T15:59:32.671355"
-  },
-  {
-    "id": "95c8751c6013e2ba2578c85b8e3fd68f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Shell en databedrijven houden AEX in het groen",
-    "link": "https://www.beurs.nl/Nieuws/864622/Beursupdate-Shell-en-databedrijven-houden-AEX-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagmiddag licht in het groen, geholpen door de koerswinsten voor Shell en de databedrijven RELX en Wolters Kluwer.",
-    "published_at": "2026-05-18 14:11",
-    "scraped_at": "2026-05-18T15:59:32.671355"
-  },
-  {
-    "id": "d18594696994792767a8e625e3950689",
-    "categorie": "Beursnieuws",
-    "titel": "Geopolitiek bullygedrag duwt futures Wall Street omlaag",
-    "link": "https://www.beurs.nl/Nieuws/864619/Geopolitiek-bullygedrag-duwt-futures-Wall-Street-omlaag.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, nadat de Amerikaanse president Donald Trump zijn dreigement herhaalde dat er \"niets van overblijft\" van Iran, als het land niet snel beweegt in impasse rond de straat van Hormuz.",
-    "published_at": "2026-05-18 13:44",
-    "scraped_at": "2026-05-18T15:59:32.671355"
+    "scraped_at": "2026-05-18T18:06:46.472323"
   }
 ]
