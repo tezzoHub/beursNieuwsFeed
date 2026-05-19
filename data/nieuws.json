@@ -1,12 +1,30 @@
 [
   {
+    "id": "c614d0694824abf676025463fca33bae",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street doet stap terug",
+    "link": "https://www.beurs.nl/Nieuws/864840/Wall-Street-doet-stap-terug.aspx",
+    "intro": "De Amerikaanse beurzen stonden dinsdag lager, maar herstelden van grotere verliezen, hoewel de rentes hoog bleven door de inflatiezorgen.",
+    "published_at": "2026-05-19 20:21",
+    "scraped_at": "2026-05-19T18:29:08.242181"
+  },
+  {
+    "id": "6c5ab637e5ec6048f4378860b803634a",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/864837/Europese-beurzen-sluiten-verdeeld.aspx",
+    "intro": "De Europese aandelenmarkten zijn dinsdag verdeelde gesloten, nadat de Amerikanen de geplande aanval op Irak uitstelden, terwijl er ruimte leek te zijn voor diplomatie.",
+    "published_at": "2026-05-19 19:03",
+    "scraped_at": "2026-05-19T18:29:08.242181"
+  },
+  {
     "id": "edf66d052b2f53c9e91a991e32746f99",
     "categorie": "Beursnieuws",
     "titel": "Euronext blijft groeien met dubbele cijfers",
     "link": "https://www.beurs.nl/Nieuws/864825/Euronext-blijft-groeien-met-dubbele-cijfers.aspx",
     "intro": "Euronext heeft in het eerste kwartaal van 2026 opnieuw een sterk resultaat geboekt. Het was het achtste kwartaal op rij met een omzetgroeipercentage in de dubbele cijfers. Dit bleek dinsdag uit de cijfers van de pan-Europese beursuitbater.",
     "published_at": "2026-05-19 18:08",
-    "scraped_at": "2026-05-19T16:41:19.904524"
+    "scraped_at": "2026-05-19T18:29:08.242181"
   },
   {
     "id": "b7bd8294e7cf033fa7fedda87d711b75",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/864823/AEX-trotseert-rentedruk.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger gesloten door toegenomen hoop op vrede in het Midden-Oosten, al beperkten oplopende rentes de winst.",
     "published_at": "2026-05-19 17:45",
-    "scraped_at": "2026-05-19T16:41:19.904524"
+    "scraped_at": "2026-05-19T18:29:08.242181"
   },
   {
     "id": "d6a52f5e60a02b65fcbcbe9dc7908e33",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/864808/Aanstaande-woningverkopen-in-de-VS-opnieuw-toegenomen.aspx",
     "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in april bijna even hard gestegen als een maand eerder. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-05-19 16:13",
-    "scraped_at": "2026-05-19T16:41:19.904524"
+    "scraped_at": "2026-05-19T18:29:08.242181"
   },
   {
     "id": "4725f5ba3d466498839e4e39bc32bd42",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/864803/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 27 mei 2026:",
     "published_at": "2026-05-19 15:43",
-    "scraped_at": "2026-05-19T16:41:19.904524"
+    "scraped_at": "2026-05-19T18:29:08.242181"
   },
   {
     "id": "14125364d7bd2ac480d69e328cd7f41f",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/864805/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 27 mei 2026:",
     "published_at": "2026-05-19 15:43",
-    "scraped_at": "2026-05-19T16:41:19.904524"
+    "scraped_at": "2026-05-19T18:29:08.242181"
   },
   {
     "id": "e8a6966c6fa4649c32f478e2c26cd9b1",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/864806/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 27 mei 2026:",
     "published_at": "2026-05-19 15:43",
-    "scraped_at": "2026-05-19T16:41:19.904524"
+    "scraped_at": "2026-05-19T18:29:08.242181"
   },
   {
     "id": "10b490e50730af1f6dd911a07bfe8e6e",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/864793/Media-Shell-ziet-eigen-aandeel-ondergewaardeerd.aspx",
     "intro": "Shell verwacht dat de vraag naar olie en gas de komende decennia essentieel blijft. Dit meldde persbureau Reuters dinsdag op basis van uitspraken van topman Wael Sawan tijdens de jaarlijkse aandeelhoudersvergadering.",
     "published_at": "2026-05-19 15:06",
-    "scraped_at": "2026-05-19T16:41:19.904524"
+    "scraped_at": "2026-05-19T18:29:08.242181"
   },
   {
     "id": "f256d3253a3c9e172fcfa99385e3f210",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/864797/Beursblik-opnieuw-sterk-kwartaal-voor-Nvidia-verwacht.aspx",
     "intro": "Nvidia heeft in het eerste kwartaal van zijn lopende boekjaar vermoedelijk een flink hogere omzet en winst geboekt. Dit verwachten analisten in aanloop naar de cijfers van de Amerikaanse chipreus, woensdag na het slot van Wall Street.",
     "published_at": "2026-05-19 15:06",
-    "scraped_at": "2026-05-19T16:41:19.904524"
-  },
-  {
-    "id": "1403fb2065778e3755f0f1bd4bace593",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht terughoudende opening",
-    "link": "https://www.beurs.nl/Nieuws/864788/Wall-Street-wacht-terughoudende-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet. De futures op de SP 500 noteerden ongeveer een half uur voor de opening tot 0,4 procent lager.",
-    "published_at": "2026-05-19 14:47",
-    "scraped_at": "2026-05-19T16:41:19.904524"
-  },
-  {
-    "id": "61c39c5cc6304d90a961430747810cdf",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX stabiliseert na hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/864779/Beursupdate-AEX-stabiliseert-na-hogere-opening.aspx",
-    "intro": "De hernieuwde hoop op een vredesdeal in het Midden-Oosten zorgde dinsdag voor een opgewekte stemming tijdens de opening, maar een sterk vervolg blijft vooralsnog uit.",
-    "published_at": "2026-05-19 13:41",
-    "scraped_at": "2026-05-19T16:41:19.904524"
+    "scraped_at": "2026-05-19T18:29:08.242181"
   }
 ]
