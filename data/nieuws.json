@@ -1,92 +1,92 @@
 [
   {
+    "id": "f52e72602ed2d66dd976851aabc670e7",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen lichtrode opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/864767/Futures-voorspellen-lichtrode-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een lichtrode opening tegemoet. De futures op de SP 500 noteerden rond lunchtijd 0,4 procent lager.",
+    "published_at": "2026-05-19 12:31",
+    "scraped_at": "2026-05-19T10:45:58.258092"
+  },
+  {
+    "id": "7ace13d339d75d97a7f0319d0598dfcf",
+    "categorie": "Beursnieuws",
+    "titel": "Home Depot ziet stabiele vraag onder klussers",
+    "link": "https://www.beurs.nl/Nieuws/864766/Home-Depot-ziet-stabiele-vraag-onder-klussers.aspx",
+    "intro": "Home Depot heeft in het eerste kwartaal een lagere winst geboekt, terwijl de omzet wel verbeterde. Dit bleek dinsdagmiddag uit de resultaten van de Amerikaanse doe-het-zelfketen.",
+    "published_at": "2026-05-19 12:20",
+    "scraped_at": "2026-05-19T10:45:58.258092"
+  },
+  {
+    "id": "043c51e0462195c684ca949155161e50",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger na hernieuwde vredeshoop",
+    "link": "https://www.beurs.nl/Nieuws/864758/Europese-beurzen-hoger-na-hernieuwde-vredeshoop.aspx",
+    "intro": "De Europese aandelenmarkten stonden rond het middaguur duidelijk hoger. Beleggers reageerden positief op het laatste nieuws rond Iran. Maandagavond liet president Donald Trump via Truth Social weten dat hij een geplande aanval op Iran heeft uitgesteld. Verschillende Golfstaten hadden hem daartoe verzocht. Zij gaven aan dat er serieuze onderhandelingen gaande zijn. Trump noemde een deal mogelijk.",
+    "published_at": "2026-05-19 12:01",
+    "scraped_at": "2026-05-19T10:45:58.258092"
+  },
+  {
+    "id": "14fc62ebc8bc5b328ec7cf5c5f868b66",
+    "categorie": "Beursnieuws",
+    "titel": "Handelsoverschot eurozone veel kleiner",
+    "link": "https://www.beurs.nl/Nieuws/864754/Handelsoverschot-eurozone-veel-kleiner.aspx",
+    "intro": "De export in de eurozone is in maart gedaald, terwijl de import juist toenam, wat resulteerde in een veel kleiner handelsoverschot dan een jaar eerder. Dit bleek dinsdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
+    "published_at": "2026-05-19 11:09",
+    "scraped_at": "2026-05-19T10:45:58.258092"
+  },
+  {
+    "id": "265f2ec52de9a6c3d6098fe5ec175ac9",
+    "categorie": "Beursnieuws",
+    "titel": "AEX keurig in het groen",
+    "link": "https://www.beurs.nl/Nieuws/864751/AEX-keurig-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagochtend in het groen. De AEX noteerde rond de klok van elf uur 0,8 procent hoger op 1.023,66 punten.",
+    "published_at": "2026-05-19 10:50",
+    "scraped_at": "2026-05-19T10:45:58.258092"
+  },
+  {
+    "id": "8f6676a0ba7a79e1864db432573a17cb",
+    "categorie": "IEX",
+    "titel": "Must read: reken maar even niet op een hogere goudprijs",
+    "link": "https://www.iex.nl/artikel/864592/Must-read-reken-maar-even-niet-op-een-hogere-goudprijs.aspx",
+    "intro": "Plus: Europese deflatie dreigt, Koreaanse beurs maakt nerveus, energie-opslag heeft fiscale wind mee, grondstoffen zijn big business, miljardenmarkt lonkt, en meer.",
+    "published_at": "2026-05-19 10:00",
+    "scraped_at": "2026-05-19T10:45:58.258092"
+  },
+  {
+    "id": "fceca8099283d1bf5d8b5ee84997c35a",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/864733/AEX-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,4 procent hoger op 1.019,74 punten, terwijl de Midkap vlak noteerde.",
+    "published_at": "2026-05-19 09:12",
+    "scraped_at": "2026-05-19T10:45:58.258092"
+  },
+  {
+    "id": "38bf39eb082ef8ee8f9d9a3779d73171",
+    "categorie": "Nieuws",
+    "titel": "Fiscaal voordeel jaagt investeringen in energieopslag aan",
+    "link": "https://www.ieximpact.nl/artikel/864454/Fiscaal-voordeel-jaagt-investeringen-in-energieopslag-aan.aspx",
+    "intro": "Nederlandse ondernemers hebben vorig jaar fors meer geld gestoken in energiezuinige technieken. De besparing die dat oplevert, staat gelijk aan het jaarlijkse energieverbruik van ruim 723.000 huishoudens.",
+    "published_at": "2026-05-19 09:00",
+    "scraped_at": "2026-05-19T10:45:58.258092"
+  },
+  {
     "id": "4525331d3c2f7b5346c0a13bb93336e9",
     "categorie": "Beursnieuws",
     "titel": "ArcelorMittal verkoopt belang in Vallourec deels",
     "link": "https://www.beurs.nl/Nieuws/864730/ArcelorMittal-verkoopt-belang-in-Vallourec-deels.aspx",
     "intro": "ArcelorMittal heeft een deel van zijn belang in de Franse buizenfabrikant Vallourec verkocht om extra waarde voor aandeelhouders te creëren. Dit maakte het staalconcern dinsdag voorbeurs bekend.",
     "published_at": "2026-05-19 08:47",
-    "scraped_at": "2026-05-19T07:02:59.849638"
+    "scraped_at": "2026-05-19T10:45:58.258092"
   },
   {
-    "id": "c4558641941ffff9dfa85c4232a5c896",
+    "id": "1072e8ea60a5cb81245677943a4e96f0",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke jaarstart voor Ferrari Group",
-    "link": "https://www.beurs.nl/Nieuws/864729/Beursblik-sterke-jaarstart-voor-Ferrari-Group.aspx",
+    "titel": "Sterke jaarstart voor Ferrari Group",
+    "link": "https://www.beurs.nl/Nieuws/864729/Sterke-jaarstart-voor-Ferrari-Group.aspx",
     "intro": "Ferrari Group wist in het eerste kwartaal de verwachting van Jefferies te verslaan met een sterke jaarstart. Dit concludeerde analist David Kerstens van de zakenbank dinsdagochtend in een rapport.",
     "published_at": "2026-05-19 08:40",
-    "scraped_at": "2026-05-19T07:02:59.849638"
-  },
-  {
-    "id": "7c3ec26483fcbbe1d80166c95eb2f029",
-    "categorie": "Beursnieuws",
-    "titel": "ABN Amro haalt TKH van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/864725/ABN-Amro-haalt-TKH-van-de-kooplijst.aspx",
-    "intro": "ABN AMRO Oddo heeft maandag het advies voor TKH Group verlaagd van Outperform naar Neutraal, terwijl het koersdoel juist omhoog ging van 48,00 naar 53,00 euro. Dit bleek uit een rapport van analist Martijn den Drijver.",
-    "published_at": "2026-05-19 08:25",
-    "scraped_at": "2026-05-19T07:02:59.849638"
-  },
-  {
-    "id": "7f6e656f71d8c2c8ac664dae1a282480",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke jaarstart voor Banijay",
-    "link": "https://www.beurs.nl/Nieuws/864724/Beursblik-sterke-jaarstart-voor-Banijay.aspx",
-    "intro": "Banijay kende een sterke start van het jaar, hoewel het eerste kwartaal traditioneel het kwartaal is met de laagste winstbijdrage, terwijl de volatiliteit hoog kan zijn. Dit concludeerden analisten van Berenberg dinsdag in een rapport, na de update van het media- en gokbedrijf met een notering in Amsterdam maandagavond.",
-    "published_at": "2026-05-19 08:19",
-    "scraped_at": "2026-05-19T07:02:59.849638"
-  },
-  {
-    "id": "3c98a530e6a0d336419070d0f1499b82",
-    "categorie": "Beursnieuws",
-    "titel": "Britse werkloosheid loopt weer licht op",
-    "link": "https://www.beurs.nl/Nieuws/864723/Britse-werkloosheid-loopt-weer-licht-op.aspx",
-    "intro": "De Britse werkloosheid is in de drie maanden tot en met maart weer licht gestegen op jaarbasis. Dit bleek dinsdag uit cijfers van de Britse overheid.",
-    "published_at": "2026-05-19 08:09",
-    "scraped_at": "2026-05-19T07:02:59.849638"
-  },
-  {
-    "id": "c5739758a401101e7032bc49b2ecc476",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag vermoedelijk licht hoger na uitstel Amerikaanse aanval op Iran",
-    "link": "https://www.beurs.nl/Nieuws/864719/AEX-start-handelsdag-vermoedelijk-licht-hoger-na-uitstel-Amerikaanse-aanval-op-Iran.aspx",
-    "intro": "De Amsterdamse beurs maakt zich dinsdag op voor een licht hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,2 procent.",
-    "published_at": "2026-05-19 07:59",
-    "scraped_at": "2026-05-19T07:02:59.849638"
-  },
-  {
-    "id": "917a8aca6d1570ef1886d426dcde5053",
-    "categorie": "Beursnieuws",
-    "titel": "Dreiging en diplomatie houden Wall Street in hun greep",
-    "link": "https://www.beurs.nl/Nieuws/864695/Dreiging-en-diplomatie-houden-Wall-Street-in-hun-greep.aspx",
-    "intro": "De Amerikaanse aandelenmarkten zijn maandag verdeeld gesloten. Beleggers waren enigszins terughoudend in afwachting van verdere ontwikkelingen in het conflict in het Midden-Oosten.",
-    "published_at": "2026-05-19 07:30",
-    "scraped_at": "2026-05-19T07:02:59.849638"
-  },
-  {
-    "id": "8926d96b0070839319e75c8ffd5ead2c",
-    "categorie": "Beursnieuws",
-    "titel": "Ferrari Group groeit verder door",
-    "link": "https://www.beurs.nl/Nieuws/864714/Ferrari-Group-groeit-verder-door.aspx",
-    "intro": "Ferrari Group is in het eerste kwartaal van dit jaar verder gegroeid. Dit bleek dinsdagochtend uit een update van het logistiekbedrijf in luxegoederen met een notering aan het Damrak.",
-    "published_at": "2026-05-19 07:25",
-    "scraped_at": "2026-05-19T07:02:59.849638"
-  },
-  {
-    "id": "3a2de6f294810d01616b0cb1915f0000",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen omhoog na uitstel Amerikaanse aanval op Iran",
-    "link": "https://www.beurs.nl/Nieuws/864711/Aziatische-beurzen-omhoog-na-uitstel-Amerikaanse-aanval-op-Iran.aspx",
-    "intro": "De Aziatische beurzen noteerden dinsdagochtend overwegend in het groen, maar de winsten bleven beperkt. Koploper was de grondstofgevoelige ASX 200 index in Sydney met een winst van 0,8 procent.",
-    "published_at": "2026-05-19 07:12",
-    "scraped_at": "2026-05-19T07:02:59.849638"
-  },
-  {
-    "id": "8525f9cbfd014f3feababd203018c447",
-    "categorie": "Beursnieuws",
-    "titel": "Sterke groei in Japan",
-    "link": "https://www.beurs.nl/Nieuws/864708/Sterke-groei-in-Japan.aspx",
-    "intro": "De Japanse economie is in het eerste kwartaal veel sterker gegroeid dan analisten hadden verwacht. Dit bleek dinsdag uit cijfers van de Japanse overheid.",
-    "published_at": "2026-05-19 07:04",
-    "scraped_at": "2026-05-19T07:02:59.849638"
+    "scraped_at": "2026-05-19T10:45:58.258092"
   }
 ]
