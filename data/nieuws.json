@@ -1,92 +1,83 @@
 [
   {
-    "id": "f1a8e480f05739a9670578bbb56a134d",
+    "id": "a4f54a8b78728e69b26cd83b02074fa7",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/864846/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. Aegon was de grootste daler.",
-    "published_at": "2026-05-19 22:27",
-    "scraped_at": "2026-05-20T01:28:52.966052"
+    "titel": "Aziatische beurzen onder druk",
+    "link": "https://www.beurs.nl/Nieuws/864882/Aziatische-beurzen-onder-druk.aspx",
+    "intro": "De Aziatische beurzen koersten woensdag lager.",
+    "published_at": "2026-05-20 07:31",
+    "scraped_at": "2026-05-20T05:52:50.366163"
   },
   {
-    "id": "507ffa143662eb20258cfc3740e06b54",
+    "id": "288ef62af43f8d540530a37ed4804ee1",
     "categorie": "Beursnieuws",
-    "titel": "Inflatievrees drukt Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/864845/Inflatievrees-drukt-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag lager gesloten nadat de rentes hoog bleven door de inflatiezorgen.",
-    "published_at": "2026-05-19 22:21",
-    "scraped_at": "2026-05-20T01:28:52.966052"
+    "titel": "Envipco ziet omzet onder druk staan",
+    "link": "https://www.beurs.nl/Nieuws/864877/Envipco-ziet-omzet-onder-druk-staan.aspx",
+    "intro": "Envipco heeft in het eerste kwartaal van dit jaar de omzet onder druk zien staan. Dit maakte de Amersfoortse fabrikant woensdagochtend bekend.",
+    "published_at": "2026-05-20 07:16",
+    "scraped_at": "2026-05-20T05:52:50.366163"
   },
   {
-    "id": "3c7f46ad86ddcd982f0c3ffeb43688c9",
+    "id": "621b7075e1de36be8fd0356297998328",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs licht lager na uitstel militaire actie Trump",
-    "link": "https://www.beurs.nl/Nieuws/864841/Olieprijs-licht-lager-na-uitstel-militaire-actie-Trump.aspx",
-    "intro": "De olieprijs is dinsdag gedaald in rustige handel, nadat president Trump zei dat hij een paar dagen of misschien tot begin volgende week zal wachten, voordat hij weer militair ingrijpt tegen Iran, om in de tussentijd een vredesakkoord te bereiken.",
-    "published_at": "2026-05-19 21:36",
-    "scraped_at": "2026-05-20T01:28:52.966052"
+    "titel": "Nederlandse inflatie loopt op",
+    "link": "https://www.beurs.nl/Nieuws/864875/Nederlandse-inflatie-loopt-op.aspx",
+    "intro": "De Nederlandse inflatie is in april opgelopen naar 2,8 procent. Dit meldde het Centraal Bureau voor de Statistiek woensdag.",
+    "published_at": "2026-05-20 07:06",
+    "scraped_at": "2026-05-20T05:52:50.366163"
   },
   {
-    "id": "c614d0694824abf676025463fca33bae",
+    "id": "b61923056777b5960b843fb53e864f29",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street doet stap terug",
-    "link": "https://www.beurs.nl/Nieuws/864840/Wall-Street-doet-stap-terug.aspx",
-    "intro": "De Amerikaanse beurzen stonden dinsdag lager, maar herstelden van grotere verliezen, hoewel de rentes hoog bleven door de inflatiezorgen.",
-    "published_at": "2026-05-19 20:21",
-    "scraped_at": "2026-05-20T01:28:52.966052"
+    "titel": "China houdt rente ongewijzigd",
+    "link": "https://www.beurs.nl/Nieuws/864872/China-houdt-rente-ongewijzigd.aspx",
+    "intro": "De Chinese centrale bank heeft de belangrijkste rentes ongemoeid gelaten. Dit bleek woensdag uit het rentebesluit van de People's Bank of China.",
+    "published_at": "2026-05-20 06:59",
+    "scraped_at": "2026-05-20T05:52:50.366163"
   },
   {
-    "id": "6c5ab637e5ec6048f4378860b803634a",
+    "id": "0733600ce991124b2b7baf179fe352c7",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/864837/Europese-beurzen-sluiten-verdeeld.aspx",
-    "intro": "De Europese aandelenmarkten zijn dinsdag verdeelde gesloten, nadat de Amerikanen de geplande aanval op Irak uitstelden, terwijl er ruimte leek te zijn voor diplomatie.",
-    "published_at": "2026-05-19 19:03",
-    "scraped_at": "2026-05-20T01:28:52.966052"
+    "titel": "Europese beurzen openen lager",
+    "link": "https://www.beurs.nl/Nieuws/864871/Europese-beurzen-openen-lager.aspx",
+    "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet. IG Markets voorziet een openingsverlies van 180 punten voor de Duitse DAX, een min van 44 punten voor de Franse CAC 40 en een daling van 69 punten voor de Britse FTSE 100.",
+    "published_at": "2026-05-20 06:53",
+    "scraped_at": "2026-05-20T05:52:50.366163"
   },
   {
-    "id": "edf66d052b2f53c9e91a991e32746f99",
-    "categorie": "Beursnieuws",
-    "titel": "Euronext blijft groeien met dubbele cijfers",
-    "link": "https://www.beurs.nl/Nieuws/864825/Euronext-blijft-groeien-met-dubbele-cijfers.aspx",
-    "intro": "Euronext heeft in het eerste kwartaal van 2026 opnieuw een sterk resultaat geboekt. Het was het achtste kwartaal op rij met een omzetgroeipercentage in de dubbele cijfers. Dit bleek dinsdag uit de cijfers van de pan-Europese beursuitbater.",
-    "published_at": "2026-05-19 18:08",
-    "scraped_at": "2026-05-20T01:28:52.966052"
+    "id": "9440e93487da1a90bf4001124b9d94b9",
+    "categorie": "Beurs vandaag",
+    "titel": "Kan Nvidia de torenhoge verwachtingen waarmaken?",
+    "link": "https://www.beurs.nl/Artikel/864736/Kan-Nvidia-de-torenhoge-verwachtingen-waarmaken.aspx",
+    "intro": "In de afgelopen acht kwartaalrapportages reageerde de koers vier keer positief en vier keer negatief op de cijfers.",
+    "published_at": "2026-05-20 06:50",
+    "scraped_at": "2026-05-20T05:52:50.366163"
   },
   {
-    "id": "b7bd8294e7cf033fa7fedda87d711b75",
-    "categorie": "Beursnieuws",
-    "titel": "AEX trotseert rentedruk",
-    "link": "https://www.beurs.nl/Nieuws/864823/AEX-trotseert-rentedruk.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag hoger gesloten door toegenomen hoop op vrede in het Midden-Oosten, al beperkten oplopende rentes de winst.",
-    "published_at": "2026-05-19 17:45",
-    "scraped_at": "2026-05-20T01:28:52.966052"
-  },
-  {
-    "id": "d6a52f5e60a02b65fcbcbe9dc7908e33",
-    "categorie": "Beursnieuws",
-    "titel": "Aanstaande woningverkopen in de VS opnieuw toegenomen",
-    "link": "https://www.beurs.nl/Nieuws/864808/Aanstaande-woningverkopen-in-de-VS-opnieuw-toegenomen.aspx",
-    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in april bijna even hard gestegen als een maand eerder. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
-    "published_at": "2026-05-19 16:13",
-    "scraped_at": "2026-05-20T01:28:52.966052"
-  },
-  {
-    "id": "4725f5ba3d466498839e4e39bc32bd42",
+    "id": "cb23e6f8fc92ae8f88a03d66cf725c39",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/864803/Beursagenda-Nederlandse-bedrijven.aspx",
+    "link": "https://www.beurs.nl/Nieuws/864868/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 27 mei 2026:",
-    "published_at": "2026-05-19 15:43",
-    "scraped_at": "2026-05-20T01:28:52.966052"
+    "published_at": "2026-05-20 06:49",
+    "scraped_at": "2026-05-20T05:52:50.366163"
   },
   {
-    "id": "14125364d7bd2ac480d69e328cd7f41f",
+    "id": "7d3b5bae59d9f38efd0a3ebe289d7853",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/864805/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/864867/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 27 mei 2026:",
-    "published_at": "2026-05-19 15:43",
-    "scraped_at": "2026-05-20T01:28:52.966052"
+    "published_at": "2026-05-20 06:48",
+    "scraped_at": "2026-05-20T05:52:50.366163"
+  },
+  {
+    "id": "f26c4b6a2bee8f25da9a73b5dff86dcd",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/864866/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 27 mei 2026:",
+    "published_at": "2026-05-20 06:47",
+    "scraped_at": "2026-05-20T05:52:50.366163"
   }
 ]
