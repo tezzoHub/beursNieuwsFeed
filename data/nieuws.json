@@ -1,83 +1,92 @@
 [
   {
-    "id": "a4f54a8b78728e69b26cd83b02074fa7",
+    "id": "f8b1b527bd435c6b2521953a607c9988",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen onder druk",
-    "link": "https://www.beurs.nl/Nieuws/864882/Aziatische-beurzen-onder-druk.aspx",
-    "intro": "De Aziatische beurzen koersten woensdag lager.",
-    "published_at": "2026-05-20 07:31",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "titel": "Beursupdate: ASML en ASMI trekken AEX uit het rood",
+    "link": "https://www.beurs.nl/Nieuws/864926/Beursupdate-ASML-en-ASMI-trekken-AEX-uit-het-rood.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdag aan het einde van de ochtend hoger, waarmee eerdere bescheiden verliezen werden weggewerkt. Rond de klok van elf uur won de AEX 0,4 procent op 1.021,94 punten.",
+    "published_at": "2026-05-20 11:16",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   },
   {
-    "id": "288ef62af43f8d540530a37ed4804ee1",
+    "id": "4d908f255dc1a608ba803651bcc7ef09",
     "categorie": "Beursnieuws",
-    "titel": "Envipco ziet omzet onder druk staan",
-    "link": "https://www.beurs.nl/Nieuws/864877/Envipco-ziet-omzet-onder-druk-staan.aspx",
-    "intro": "Envipco heeft in het eerste kwartaal van dit jaar de omzet onder druk zien staan. Dit maakte de Amersfoortse fabrikant woensdagochtend bekend.",
-    "published_at": "2026-05-20 07:16",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "titel": "Inflatie eurozone verder opgelopen",
+    "link": "https://www.beurs.nl/Nieuws/864925/Inflatie-eurozone-verder-opgelopen.aspx",
+    "intro": "De inflatie in de eurozone is in april flink opgelopen, door de sterke stijging van de energieprijzen. Dit bleek woensdag uit de definitieve cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-05-20 11:11",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   },
   {
-    "id": "621b7075e1de36be8fd0356297998328",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse inflatie loopt op",
-    "link": "https://www.beurs.nl/Nieuws/864875/Nederlandse-inflatie-loopt-op.aspx",
-    "intro": "De Nederlandse inflatie is in april opgelopen naar 2,8 procent. Dit meldde het Centraal Bureau voor de Statistiek woensdag.",
-    "published_at": "2026-05-20 07:06",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "id": "0d2bc7343657ed430ca90ebbe928512b",
+    "categorie": "IEX",
+    "titel": "Must read: Nederlandse inflatie tikt omhoog",
+    "link": "https://www.iex.nl/artikel/864899/Must-read-Nederlandse-inflatie-tikt-omhoog.aspx",
+    "intro": "Nederlandse inflatie kruipt omhoog terwijl de gasopslag achterblijft. Bond yields in de VS bereiken gevarenzone en Europese defensie-aandelen kunnen nog een rondje mee.",
+    "published_at": "2026-05-20 10:45",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   },
   {
-    "id": "b61923056777b5960b843fb53e864f29",
+    "id": "2e3b9c915e4ab9c764482922d48936cd",
     "categorie": "Beursnieuws",
-    "titel": "China houdt rente ongewijzigd",
-    "link": "https://www.beurs.nl/Nieuws/864872/China-houdt-rente-ongewijzigd.aspx",
-    "intro": "De Chinese centrale bank heeft de belangrijkste rentes ongemoeid gelaten. Dit bleek woensdag uit het rentebesluit van de People's Bank of China.",
-    "published_at": "2026-05-20 06:59",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "titel": "Update: Beursblik: sterke omzetgroei Euronext",
+    "link": "https://www.beurs.nl/Nieuws/864825/Update-Beursblik-sterke-omzetgroei-Euronext.aspx",
+    "intro": "Euronext heeft in het eerste kwartaal een sterke omzetgroei gerealiseerd. Dit stelde analist Thomas Couvreur van KBC Securities woensdag in een rapport.",
+    "published_at": "2026-05-20 10:36",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   },
   {
-    "id": "0733600ce991124b2b7baf179fe352c7",
+    "id": "23812b6e1b0d64dde2ed96ec13b3c51e",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/864871/Europese-beurzen-openen-lager.aspx",
-    "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet. IG Markets voorziet een openingsverlies van 180 punten voor de Duitse DAX, een min van 44 punten voor de Franse CAC 40 en een daling van 69 punten voor de Britse FTSE 100.",
-    "published_at": "2026-05-20 06:53",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "titel": "UBS verhoogt koersdoel ASML met €300",
+    "link": "https://www.beurs.nl/Nieuws/864920/UBS-verhoogt-koersdoel-ASML-met-300.aspx",
+    "intro": "UBS heeft woensdag het koersdoel voor ASML verhoogd van 1.600 naar 1.900 euro met een herhaling van het koopadvies. Dit bleek uit een analistenrapport van de Zwitserse bank.",
+    "published_at": "2026-05-20 10:30",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   },
   {
-    "id": "9440e93487da1a90bf4001124b9d94b9",
-    "categorie": "Beurs vandaag",
-    "titel": "Kan Nvidia de torenhoge verwachtingen waarmaken?",
-    "link": "https://www.beurs.nl/Artikel/864736/Kan-Nvidia-de-torenhoge-verwachtingen-waarmaken.aspx",
-    "intro": "In de afgelopen acht kwartaalrapportages reageerde de koers vier keer positief en vier keer negatief op de cijfers.",
-    "published_at": "2026-05-20 06:50",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "id": "86ed61800f822af6feeb4f2d93b8f0dd",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verhoogt koersdoelen Aperam en ArcelorMittal",
+    "link": "https://www.beurs.nl/Nieuws/864910/Citi-verhoogt-koersdoelen-Aperam-en-ArcelorMittal.aspx",
+    "intro": "Citi Research heeft de koersdoelen voor Aperam en ArcelorMittal verhoogd. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-05-20 09:53",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   },
   {
-    "id": "cb23e6f8fc92ae8f88a03d66cf725c39",
+    "id": "5020fe3ae4ea951d43d9340f9a520d6f",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/864868/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 27 mei 2026:",
-    "published_at": "2026-05-20 06:49",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "titel": "Beursblik: sterke omzetgroei Euronext",
+    "link": "https://www.beurs.nl/Nieuws/864908/Beursblik-sterke-omzetgroei-Euronext.aspx",
+    "intro": "Euronext heeft in het eerste kwartaal een sterke omzetgroei gerealiseerd. Dit stelde analist Thomas Couvreur van KBC Securities woensdag in een rapport.",
+    "published_at": "2026-05-20 09:36",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   },
   {
-    "id": "7d3b5bae59d9f38efd0a3ebe289d7853",
+    "id": "c4a42550335026da9ba6451b7f002f89",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/864867/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 27 mei 2026:",
-    "published_at": "2026-05-20 06:48",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "titel": "Beursblik: goed kwartaal CSG",
+    "link": "https://www.beurs.nl/Nieuws/864906/Beursblik-goed-kwartaal-CSG.aspx",
+    "intro": "CSG heeft een goed eerste kwartaal achter de rug. Dit stelden analisten van Jefferies woensdag in een rapport.",
+    "published_at": "2026-05-20 09:25",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   },
   {
-    "id": "f26c4b6a2bee8f25da9a73b5dff86dcd",
+    "id": "029ad0bedff8b72c8142b4ffee6be19d",
+    "categorie": "IEX Nieuws",
+    "titel": "Accountant weigert jaarrekening VEB goed te keuren",
+    "link": "https://www.beurs.nl/Artikel/864902/Accountant-weigert-jaarrekening-VEB-goed-te-keuren.aspx",
+    "intro": "De accountant die al 22 jaar de boeken controleert weigert de jaarrekening van de VEB goed te keuren.",
+    "published_at": "2026-05-20 09:20",
+    "scraped_at": "2026-05-20T09:38:09.903984"
+  },
+  {
+    "id": "aa61c6d89cfaff19d1b7c667d84ddcc8",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/864866/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 27 mei 2026:",
-    "published_at": "2026-05-20 06:47",
-    "scraped_at": "2026-05-20T05:52:50.366163"
+    "titel": "Chris Oomen meldt belang in BAM",
+    "link": "https://www.beurs.nl/Nieuws/864905/Chris-Oomen-meldt-belang-in-BAM.aspx",
+    "intro": "Chris Oomen heeft voor het eerst een belang in bouwbedrijf BAM gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 15 mei 2026.",
+    "published_at": "2026-05-20 09:19",
+    "scraped_at": "2026-05-20T09:38:09.903984"
   }
 ]
