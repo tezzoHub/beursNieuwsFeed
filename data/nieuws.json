@@ -1,12 +1,48 @@
 [
   {
+    "id": "eecb37f4d799a3be8c9c908afa95d1a1",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst voorzichtig hoger",
+    "link": "https://www.beurs.nl/Nieuws/865191/Wall-Street-koerst-voorzichtig-hoger.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag voorzichtig hoger met nog een paar uur handel te gaan.",
+    "published_at": "2026-05-21 19:36",
+    "scraped_at": "2026-05-21T18:16:05.405467"
+  },
+  {
+    "id": "32e98dd619720d4e4e7c040b1679817c",
+    "categorie": "Beursnieuws",
+    "titel": "Jaarvergadering Van Lanschot Kempen akkoord met alle punten",
+    "link": "https://www.beurs.nl/Nieuws/865187/Jaarvergadering-Van-Lanschot-Kempen-akkoord-met-alle-punten.aspx",
+    "intro": "De aandeelhouders van Van Lanschot Kempen hebben donderdag tijdens de jaarvergadering ingestemd met alle agendapunten. Dit bleek na afloop van de bijeenkomst.",
+    "published_at": "2026-05-21 18:37",
+    "scraped_at": "2026-05-21T18:16:05.405467"
+  },
+  {
+    "id": "8e503f5431ce9f492ed5551a54caf841",
+    "categorie": "Beursnieuws",
+    "titel": "Jaarvergadering Brunel akkoord met alle punten",
+    "link": "https://www.beurs.nl/Nieuws/865182/Jaarvergadering-Brunel-akkoord-met-alle-punten.aspx",
+    "intro": "De aandeelhouders van Brunel hebben donderdag tijdens de jaarvergadering ingestemd met alle agendapunten. Dit bleek na afloop van de bijeenkomst.",
+    "published_at": "2026-05-21 18:29",
+    "scraped_at": "2026-05-21T18:16:05.405467"
+  },
+  {
+    "id": "aed1b88d855a21ae869ca4085ef28deb",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen leveren winst in",
+    "link": "https://www.beurs.nl/Nieuws/865181/Europese-beurzen-leveren-winst-in.aspx",
+    "intro": "De Europese beurzen zijn donderdag overwegend lager geëindigd, na een aanvankelijk groene sessie.",
+    "published_at": "2026-05-21 18:27",
+    "scraped_at": "2026-05-21T18:16:05.405467"
+  },
+  {
     "id": "8a83afe009493776002f04c6a20adbce",
     "categorie": "Beursnieuws",
     "titel": "Alfen en Heijmans in trek op hoger Damrak",
     "link": "https://www.beurs.nl/Nieuws/865173/Alfen-en-Heijmans-in-trek-op-hoger-Damrak.aspx",
     "intro": "De Amsterdamse beurs is donderdag hoger gesloten, na een gematigde reactie op sterke resultaten van Nvidia, terwijl de olieprijs weer opliep. Heijmans en Alfen vonden de weg omhoog na positieve commentaren.",
     "published_at": "2026-05-21 17:53",
-    "scraped_at": "2026-05-21T16:15:26.055035"
+    "scraped_at": "2026-05-21T18:16:05.405467"
   },
   {
     "id": "be3ab56e7465a6677a6382032a9dfe67",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/865160/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 29 mei 2026:",
     "published_at": "2026-05-21 16:28",
-    "scraped_at": "2026-05-21T16:15:26.055035"
+    "scraped_at": "2026-05-21T18:16:05.405467"
   },
   {
     "id": "20211959ffa8d293be383c20e46179c1",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/865162/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 29 mei 2026:",
     "published_at": "2026-05-21 16:28",
-    "scraped_at": "2026-05-21T16:15:26.055035"
+    "scraped_at": "2026-05-21T18:16:05.405467"
   },
   {
     "id": "f2cb5ebba202db34972cd6b640fbc56d",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/865163/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 29 mei 2026:",
     "published_at": "2026-05-21 16:28",
-    "scraped_at": "2026-05-21T16:15:26.055035"
+    "scraped_at": "2026-05-21T18:16:05.405467"
   },
   {
     "id": "664d3ff6b249e438396cbeba97ba61e2",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/865157/Consumentenvertrouwen-eurozone-verbetert-licht.aspx",
     "intro": "Het consumentenvertrouwen in de eurozone is in mei licht verbeterd, hoewel het cijfer wel duidelijk negatief bleef. Dit bleek donderdag uit voorlopige cijfers van de Europese Commissie.",
     "published_at": "2026-05-21 16:08",
-    "scraped_at": "2026-05-21T16:15:26.055035"
+    "scraped_at": "2026-05-21T18:16:05.405467"
   },
   {
     "id": "a2e472c249bb5278c78d6f420ceeef72",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/865154/Media-Mojtaba-Khamenei-verordonneert-dat-verrijkt-uranium-in-Iran-blijft.aspx",
     "intro": "De hoogste leider van Iran, Mojtaba Khamenei, heeft een decreet uitgevaardigd dat het uranium in Iran niet naar het buitenland mag worden gebracht. Dit meldde persbureau Reuters donderdag op basis van twee hooggeplaatste Iraanse bronnen.",
     "published_at": "2026-05-21 15:59",
-    "scraped_at": "2026-05-21T16:15:26.055035"
-  },
-  {
-    "id": "48497e72865ab43d1f8d6979370e9476",
-    "categorie": "Beursnieuws",
-    "titel": "Samengestelde inkoopmanagersindex VS ongewijzigd in mei",
-    "link": "https://www.beurs.nl/Nieuws/865155/Samengestelde-inkoopmanagersindex-VS-ongewijzigd-in-mei.aspx",
-    "intro": "De dienstensector in de Verenigde Staten was in mei nagenoeg stabiel, terwijl de Amerikaanse industrie iets verbeterde, waardoor de samengestelde index ongewijzigd bleef. Dit bleek donderdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-05-21 15:59",
-    "scraped_at": "2026-05-21T16:15:26.055035"
-  },
-  {
-    "id": "9ee7c71a9442c62f306771bbc3a9b4b6",
-    "categorie": "Beursnieuws",
-    "titel": "Lagere start voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/865145/Lagere-start-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, na lauw ontvangen cijfers van AI-barometer Nvidia en een toename van 'haviken' in de laatste vergadering van de Fed, terwijl de olieprijs weer opliep.",
-    "published_at": "2026-05-21 14:58",
-    "scraped_at": "2026-05-21T16:15:26.055035"
-  },
-  {
-    "id": "86b09c210c850cdd0286ac64f56592f4",
-    "categorie": "Beursnieuws",
-    "titel": "Philadelphia Fed index daalt",
-    "link": "https://www.beurs.nl/Nieuws/865141/Philadelphia-Fed-index-daalt.aspx",
-    "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in april sterk gedaald. Dit bleek donderdag uit de zogeheten Philly Fed index.",
-    "published_at": "2026-05-21 14:40",
-    "scraped_at": "2026-05-21T16:15:26.055035"
-  },
-  {
-    "id": "6dab35a04300eb13d29900f8955130e5",
-    "categorie": "Beursnieuws",
-    "titel": "Meer Amerikaanse bouwvergunningen afgegeven",
-    "link": "https://www.beurs.nl/Nieuws/865140/Meer-Amerikaanse-bouwvergunningen-afgegeven.aspx",
-    "intro": "Het aantal afgegeven bouwvergunningen in de Verenigde Staten is in april sterker dan verwacht gestegen, terwijl het aantal in aanbouw genomen woningen minder sterk daalde. Dit bleek donderdag uit overheidscijfers.",
-    "published_at": "2026-05-21 14:39",
-    "scraped_at": "2026-05-21T16:15:26.055035"
+    "scraped_at": "2026-05-21T18:16:05.405467"
   }
 ]
