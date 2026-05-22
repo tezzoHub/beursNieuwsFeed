@@ -1,12 +1,39 @@
 [
   {
+    "id": "2121f24ffbd1c095ed41c51f1af5dc47",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten sterke week positief af",
+    "link": "https://www.beurs.nl/Nieuws/865347/Europese-beurzen-sluiten-sterke-week-positief-af.aspx",
+    "intro": "De Europese beurzen zijn vrijdag hoger geëindigd en rondden daarmee een week vol rentevolatiliteit, Iran-onrust en Nvidia-cijfers positief af.",
+    "published_at": "2026-05-22 18:43",
+    "scraped_at": "2026-05-22T17:29:32.546743"
+  },
+  {
+    "id": "71a671750a509ff6bc3875a9c38b93ef",
+    "categorie": "Beursnieuws",
+    "titel": "NSI zoekt nieuwe topman",
+    "link": "https://www.beurs.nl/Nieuws/865345/NSI-zoekt-nieuwe-topman.aspx",
+    "intro": "CEO Bernd Stahli vertrekt na tien jaar bij NSI. Dit meldde het vastgoedconcern vrijdagavond.",
+    "published_at": "2026-05-22 18:35",
+    "scraped_at": "2026-05-22T17:29:32.546743"
+  },
+  {
+    "id": "82ba654776332c4cd685e55944d419e6",
+    "categorie": "Beursnieuws",
+    "titel": "Halfgeleiders stuwen AEX naar nieuw record",
+    "link": "https://www.beurs.nl/Nieuws/865342/Halfgeleiders-stuwen-AEX-naar-nieuw-record.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, geholpen door winsten van de 'chippers'.",
+    "published_at": "2026-05-22 17:52",
+    "scraped_at": "2026-05-22T17:29:32.546743"
+  },
+  {
     "id": "333d7e1cf42bb73515c18aafc5c40519",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/865334/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 1 juni 2026:",
     "published_at": "2026-05-22 16:30",
-    "scraped_at": "2026-05-22T15:27:53.506757"
+    "scraped_at": "2026-05-22T17:29:32.546743"
   },
   {
     "id": "9493a3fa622562708cd25b083e275825",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/865331/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 1 juni 2026:",
     "published_at": "2026-05-22 16:29",
-    "scraped_at": "2026-05-22T15:27:53.506757"
+    "scraped_at": "2026-05-22T17:29:32.546743"
   },
   {
     "id": "e5e2a28df7865559b4388ceadd12cd9a",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/865333/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 1 juni 2026:",
     "published_at": "2026-05-22 16:29",
-    "scraped_at": "2026-05-22T15:27:53.506757"
+    "scraped_at": "2026-05-22T17:29:32.546743"
   },
   {
     "id": "4a2d787b76a434fa308fa3bc629a9d99",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/865335/Fed-moet-niet-automatisch-meer-uitgaan-van-verdere-renteverlagingen.aspx",
     "intro": "De toenemende inflatierisico’s betekenen dat de Federal Reserve niet meer automatisch moet uitgaan van verdere renteverlagingen. Dit zei gouverneur Christopher Waller vrijdag in een toespraak bij de Europese Centrale Bank.",
     "published_at": "2026-05-22 16:28",
-    "scraped_at": "2026-05-22T15:27:53.506757"
+    "scraped_at": "2026-05-22T17:29:32.546743"
   },
   {
     "id": "ade5d8a59ff86b4676781d9396ca4d4a",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/865323/Update-leidende-indicatoren-VS-dalen-weer.aspx",
     "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in april licht gestegen, na een daling in maart, maar over de afgelopen zes en twaalf maanden stond de index desondanks onder druk. Dit bleek vrijdag uit cijfers van The Conference Board.",
     "published_at": "2026-05-22 16:18",
-    "scraped_at": "2026-05-22T15:27:53.506757"
+    "scraped_at": "2026-05-22T17:29:32.546743"
   },
   {
     "id": "0e2a03043874e42c01c00208c3b0439c",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/865322/Consumentenvertrouwen-VS-naar-historisch-dieptepunt.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in mei veel sterker gedaald dan eerder gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
     "published_at": "2026-05-22 16:08",
-    "scraped_at": "2026-05-22T15:27:53.506757"
+    "scraped_at": "2026-05-22T17:29:32.546743"
   },
   {
     "id": "ef6d76cf13d0b8b557f3cd1fc22fd257",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/865321/Media-Qatar-gaat-bemiddelen-tussen-VS-en-Iran.aspx",
     "intro": "Qatar gaat de Verenigde Staten en Iran helpen om een permanent vredesakkoord te sluiten. Dit meldde persbureau Reuters vrijdag op basis van een bron. De bemiddeling zou plaatsvinden in overleg met de VS.",
     "published_at": "2026-05-22 16:00",
-    "scraped_at": "2026-05-22T15:27:53.506757"
-  },
-  {
-    "id": "3e5d5a142cd7dc90a8ee9b3843c1262b",
-    "categorie": "Beursnieuws",
-    "titel": "Novo Nordisk krijgt positief advies EU voor afslankpil",
-    "link": "https://www.beurs.nl/Nieuws/865319/Novo-Nordisk-krijgt-positief-advies-EU-voor-afslankpil.aspx",
-    "intro": "Het Comité voor geneesmiddelen voor menselijk gebruik van het Europees Geneesmiddelenbureau heeft een positief advies uitgebracht over de Wegovy-afslankpil van Novo Nordisk. Dit meldde de Deense farmaceut vrijdagmiddag.",
-    "published_at": "2026-05-22 15:31",
-    "scraped_at": "2026-05-22T15:27:53.506757"
-  },
-  {
-    "id": "95444f4b34d95f5a2e84619801cf0a0e",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht groene opening",
-    "link": "https://www.beurs.nl/Nieuws/865313/Wall-Street-wacht-groene-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een groene opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel tot 0,4 procent hoger.",
-    "published_at": "2026-05-22 14:52",
-    "scraped_at": "2026-05-22T15:27:53.506757"
-  },
-  {
-    "id": "e3047d72123136dc9cf5b0aba40496c0",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders duwen AEX richting nieuw record",
-    "link": "https://www.beurs.nl/Nieuws/865309/Halfgeleiders-duwen-AEX-richting-nieuw-record.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdagmiddag hoger, geholpen door winsten van de 'chippers'.",
-    "published_at": "2026-05-22 13:55",
-    "scraped_at": "2026-05-22T15:27:53.506757"
+    "scraped_at": "2026-05-22T17:29:32.546743"
   }
 ]
