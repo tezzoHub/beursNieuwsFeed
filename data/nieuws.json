@@ -1,92 +1,92 @@
 [
   {
-    "id": "0887b227db7f9aabd3dae1b8e20e6b3b",
+    "id": "333d7e1cf42bb73515c18aafc5c40519",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: halfgeleiders duwen AEX richting nieuw record",
-    "link": "https://www.beurs.nl/Nieuws/865309/Beursupdate-halfgeleiders-duwen-AEX-richting-nieuw-record.aspx",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/865334/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 1 juni 2026:",
+    "published_at": "2026-05-22 16:30",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "9493a3fa622562708cd25b083e275825",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/865331/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 1 juni 2026:",
+    "published_at": "2026-05-22 16:29",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "e5e2a28df7865559b4388ceadd12cd9a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/865333/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 1 juni 2026:",
+    "published_at": "2026-05-22 16:29",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "4a2d787b76a434fa308fa3bc629a9d99",
+    "categorie": "Beursnieuws",
+    "titel": "Fed moet niet automatisch meer uitgaan van verdere renteverlagingen",
+    "link": "https://www.beurs.nl/Nieuws/865335/Fed-moet-niet-automatisch-meer-uitgaan-van-verdere-renteverlagingen.aspx",
+    "intro": "De toenemende inflatierisico’s betekenen dat de Federal Reserve niet meer automatisch moet uitgaan van verdere renteverlagingen. Dit zei gouverneur Christopher Waller vrijdag in een toespraak bij de Europese Centrale Bank.",
+    "published_at": "2026-05-22 16:28",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "ade5d8a59ff86b4676781d9396ca4d4a",
+    "categorie": "Beursnieuws",
+    "titel": "Update: leidende indicatoren VS dalen weer",
+    "link": "https://www.beurs.nl/Nieuws/865323/Update-leidende-indicatoren-VS-dalen-weer.aspx",
+    "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in april licht gestegen, na een daling in maart, maar over de afgelopen zes en twaalf maanden stond de index desondanks onder druk. Dit bleek vrijdag uit cijfers van The Conference Board.",
+    "published_at": "2026-05-22 16:18",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "0e2a03043874e42c01c00208c3b0439c",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen VS naar historisch dieptepunt",
+    "link": "https://www.beurs.nl/Nieuws/865322/Consumentenvertrouwen-VS-naar-historisch-dieptepunt.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in mei veel sterker gedaald dan eerder gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-05-22 16:08",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "ef6d76cf13d0b8b557f3cd1fc22fd257",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Qatar gaat bemiddelen tussen VS en Iran",
+    "link": "https://www.beurs.nl/Nieuws/865321/Media-Qatar-gaat-bemiddelen-tussen-VS-en-Iran.aspx",
+    "intro": "Qatar gaat de Verenigde Staten en Iran helpen om een permanent vredesakkoord te sluiten. Dit meldde persbureau Reuters vrijdag op basis van een bron. De bemiddeling zou plaatsvinden in overleg met de VS.",
+    "published_at": "2026-05-22 16:00",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "3e5d5a142cd7dc90a8ee9b3843c1262b",
+    "categorie": "Beursnieuws",
+    "titel": "Novo Nordisk krijgt positief advies EU voor afslankpil",
+    "link": "https://www.beurs.nl/Nieuws/865319/Novo-Nordisk-krijgt-positief-advies-EU-voor-afslankpil.aspx",
+    "intro": "Het Comité voor geneesmiddelen voor menselijk gebruik van het Europees Geneesmiddelenbureau heeft een positief advies uitgebracht over de Wegovy-afslankpil van Novo Nordisk. Dit meldde de Deense farmaceut vrijdagmiddag.",
+    "published_at": "2026-05-22 15:31",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "95444f4b34d95f5a2e84619801cf0a0e",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht groene opening",
+    "link": "https://www.beurs.nl/Nieuws/865313/Wall-Street-wacht-groene-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een groene opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel tot 0,4 procent hoger.",
+    "published_at": "2026-05-22 14:52",
+    "scraped_at": "2026-05-22T15:27:53.506757"
+  },
+  {
+    "id": "e3047d72123136dc9cf5b0aba40496c0",
+    "categorie": "Beursnieuws",
+    "titel": "Halfgeleiders duwen AEX richting nieuw record",
+    "link": "https://www.beurs.nl/Nieuws/865309/Halfgeleiders-duwen-AEX-richting-nieuw-record.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagmiddag hoger, geholpen door winsten van de 'chippers'.",
     "published_at": "2026-05-22 13:55",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "df0dfa1257784cdac525542cf8eafb77",
-    "categorie": "Beursnieuws",
-    "titel": "Selectieproces voor nieuwe CEO Heineken bijna afgerond",
-    "link": "https://www.beurs.nl/Nieuws/865305/Selectieproces-voor-nieuwe-CEO-Heineken-bijna-afgerond.aspx",
-    "intro": "Het selectieproces om een nieuwe CEO voor Heineken te vinden, verloopt voorspoedig. Dit meldde Peter Wennink, voorzitter van de raad van commissarissen van de brouwer, vrijdag in een persbericht, waarin de vertrekkende topman Dolf van den Brink werd bedankt voor zijn diensten.",
-    "published_at": "2026-05-22 13:22",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "9a8d3a565e17012e346f4b0671b0d75b",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen lichtgroene opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/865299/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,1 procent hoger.",
-    "published_at": "2026-05-22 12:49",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "2c45eb92caebe1d5187eabaead46f6e8",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hoger rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/865290/Europese-beurzen-hoger-rond-middaguur.aspx",
-    "intro": "De Europese beurzen noteerden vrijdag rond het middaguur hoger, hopend op een spoedige vrede in het Midden-Oosten.",
-    "published_at": "2026-05-22 12:00",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "dec613f4b9c2d95c038d75dfddc4df2b",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verlaagt koersdoel CSG",
-    "link": "https://www.beurs.nl/Nieuws/865288/Jefferies-verlaagt-koersdoel-CSG.aspx",
-    "intro": "Jefferies heeft het koersdoel voor CSG verlaagd van 35,00 naar 30,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een sectorrapport van de zakenbank, waarin ook de koersdoelen voor Renk en Rheinmetall werden verlaagd naar respectievelijk 70,00 en 1.890 euro.",
-    "published_at": "2026-05-22 11:49",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "ac5f12da4f33859234ed61881cec862c",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders aan kop in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/865282/Halfgeleiders-aan-kop-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdag overtuigend hoger, geholpen door winsten van de 'chippers'.",
-    "published_at": "2026-05-22 11:05",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "cc1d3426497841137c8efcc6461c8c3e",
-    "categorie": "Beursnieuws",
-    "titel": "Mondiale staalproductie blijft dalen",
-    "link": "https://www.beurs.nl/Nieuws/865281/Mondiale-staalproductie-blijft-dalen.aspx",
-    "intro": "De mondiale staalproductie is in april opnieuw gedaald, net als in de maanden ervoor. Dit bleek vrijdag uit cijfers van brancheorganisatie World Steel Association.",
-    "published_at": "2026-05-22 10:53",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "c6e50429ed3a3efc761621a054eb60cf",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse Ifo index licht omhoog",
-    "link": "https://www.beurs.nl/Nieuws/865278/Duitse-Ifo-index-licht-omhoog.aspx",
-    "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in mei gestegen. Dit bleek vrijdag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
-    "published_at": "2026-05-22 10:32",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "1f16bd441bc089bd980ed12a576c5e5f",
-    "categorie": "Beursnieuws",
-    "titel": "Berenberg verhoogt koersdoel Colt CZ",
-    "link": "https://www.beurs.nl/Nieuws/865275/Berenberg-verhoogt-koersdoel-Colt-CZ.aspx",
-    "intro": "Berenberg heeft vrijdag het koersdoel voor Colt CZ verhoogd van 48,00 naar 50,00 euro met een herhaling van het koopadvies. Dit bleek uit een analistenrapport van de zakenbank.",
-    "published_at": "2026-05-22 10:27",
-    "scraped_at": "2026-05-22T12:08:26.954029"
-  },
-  {
-    "id": "7e650c80ed33ff3461d8499fce8a4d5b",
-    "categorie": "Must read",
-    "titel": "Must read: Koperprijs onder druk door inflatievrees",
-    "link": "https://www.iex.nl/artikel/865153/Must-read-Koperprijs-onder-druk-door-inflatievrees.aspx",
-    "intro": "De prijzen van industriële metalen zijn volatiel door de toenemende inflatievrees. Plus: NAVO kijkt gespannen naar Trump, consumentenvertrouwen daalt verder, waarom uw portefeuille minder gespreid is dan u denkt en meer.",
-    "published_at": "2026-05-22 10:25",
-    "scraped_at": "2026-05-22T12:08:26.954029"
+    "scraped_at": "2026-05-22T15:27:53.506757"
   }
 ]
