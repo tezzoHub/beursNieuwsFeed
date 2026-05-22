@@ -1,92 +1,74 @@
 [
   {
-    "id": "29d2dff785149d569421e54a205649d8",
+    "id": "a98a144c436ec80c15d48f01a18d3f91",
     "categorie": "Beursnieuws",
-    "titel": "Zoom verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/865206/Zoom-verhoogt-outlook.aspx",
-    "intro": "Zoom Communications heeft in het eerste kwartaal een hogere omzet en marge geboekt en verhoogt de outlook voor heel het boekjaar. Dit bleek donderdag uit de cijfers van het Amerikaanse softwarebedrijf, dat online vergaderdiensten aanbiedt.",
-    "published_at": "2026-05-21 22:37",
-    "scraped_at": "2026-05-22T01:26:57.149257"
+    "titel": "Retail Estates sluit boekjaar af met licht hoger resultaat",
+    "link": "https://www.beurs.nl/Nieuws/865241/Retail-Estates-sluit-boekjaar-af-met-licht-hoger-resultaat.aspx",
+    "intro": "Retail Estates heeft in het boekjaar 2025/2026 een licht hoger EPRA-resultaat geboekt. Dit maakte de specialist in de verhuur van winkelvastgoed aan de stadsranden in België en Nederland vrijdagochtend bekend",
+    "published_at": "2026-05-22 07:35",
+    "scraped_at": "2026-05-22T05:51:46.279654"
   },
   {
-    "id": "fa14d8aab885413822d95c997fe40b26",
+    "id": "5a881df27e97bc89c50ef8bf6ffb9346",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/865203/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag zeven van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-05-21 22:13",
-    "scraped_at": "2026-05-22T01:26:57.149257"
+    "titel": "Nederlandse koopwoningen ruim 4 procent duurder",
+    "link": "https://www.beurs.nl/Nieuws/865239/Nederlandse-koopwoningen-ruim-4-procent-duurder.aspx",
+    "intro": "Bestaande Nederlandse koopwoningen zijn in april opnieuw duurder geworden. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
+    "published_at": "2026-05-22 07:23",
+    "scraped_at": "2026-05-22T05:51:46.279654"
   },
   {
-    "id": "c0011ce6b05f3ec478e022bcfea745c5",
+    "id": "3360bcfeaa2c4420fc95630cf2968144",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street hoopt op spoedige vrede Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/865202/Wall-Street-hoopt-op-spoedige-vrede-Midden-Oosten.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdag na een opleving  voorzichtig hoger geëindigd, gesteund door hernieuwde hoop op een snel einde aan het conflict tussen de Verenigde Staten en Iran.",
-    "published_at": "2026-05-21 22:08",
-    "scraped_at": "2026-05-22T01:26:57.149257"
+    "titel": "LTM neemt techtak van Randstad over",
+    "link": "https://www.beurs.nl/Nieuws/865232/LTM-neemt-techtak-van-Randstad-over.aspx",
+    "intro": "Randstad en LTM gaan een strategische samenwerking aan, waarbij laatstgenoemde de divisie Technology and Consulting Services in Europa en Australië overneemt van Randstad tegen een waardering van 160 miljoen euro in contanten. Dit maakte de uitzender vrijdagochtend bekend.",
+    "published_at": "2026-05-22 07:09",
+    "scraped_at": "2026-05-22T05:51:46.279654"
   },
   {
-    "id": "bd167c68954dd2e6fb677b8e3876a006",
+    "id": "052f1af1ec703d510d831624593c4787",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Amerikaanse concurrentie voor ING in Duitsland",
-    "link": "https://www.beurs.nl/Nieuws/865198/Beursblik-Amerikaanse-concurrentie-voor-ING-in-Duitsland.aspx",
-    "intro": "De komst van de digitale bank Chase, onderdeel van JPMorgan, naar Duitsland, vormt een bedreiging voor ING. Dit stelden analisten van Citi Research donderdag in een rapport.",
-    "published_at": "2026-05-21 21:22",
-    "scraped_at": "2026-05-22T01:26:57.149257"
+    "titel": "Aziatische beurzen noteren in het groen",
+    "link": "https://www.beurs.nl/Nieuws/865233/Aziatische-beurzen-noteren-in-het-groen.aspx",
+    "intro": "De Aziatische beurzen hebben vrijdag eensgezind de weg omhoog gevonden. Koploper was de Japanse Nikkei index met een winst van 2,6 procent, terwijl de Hang Seng index in Hongkong meer dan een procent won. De winsten voor de Australische en Indiase beurs bleven beperkt tot ongeveer een half procent.",
+    "published_at": "2026-05-22 07:08",
+    "scraped_at": "2026-05-22T05:51:46.279654"
   },
   {
-    "id": "1e297a5fa0f1e615852644a1d30d69ee",
+    "id": "2b4a3fdde50623cec7384fd5d7038583",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt verder",
-    "link": "https://www.beurs.nl/Nieuws/865195/Olieprijs-daalt-verder.aspx",
-    "intro": "De olieprijs is donderdag verder gedaald, ondanks een opleving eerder op de dag.",
-    "published_at": "2026-05-21 20:58",
-    "scraped_at": "2026-05-22T01:26:57.149257"
+    "titel": "Europese beurzen openen flink hoger",
+    "link": "https://www.beurs.nl/Nieuws/865231/Europese-beurzen-openen-flink-hoger.aspx",
+    "intro": "De aandelenmarkten in Europa gaan vrijdag een groene opening tegemoet, na een verdeeld slot op donderdag, toen de winsten tijdens de middaghandel werden verspeeld, nadat er berichten verschenen dat Iran niet bereid is om zijn verrijkt uranium op te geven.",
+    "published_at": "2026-05-22 07:01",
+    "scraped_at": "2026-05-22T05:51:46.279654"
   },
   {
-    "id": "5b86a0f7b906a7e461d9ea838bf682ab",
+    "id": "5bdd5a8f804d28a894b9a3130e709a89",
     "categorie": "Beursnieuws",
-    "titel": "Trump stelt uitvoeringsbesluit over AI uit",
-    "link": "https://www.beurs.nl/Nieuws/865194/Trump-stelt-uitvoeringsbesluit-over-AI-uit.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft donderdag de ondertekening uitgesteld van een uitvoeringsbesluit dat de overheid meer toezicht op de sector voor kunstmatige intelligentie zou hebben gegeven. Dit meldde The Wall Street Journal.",
-    "published_at": "2026-05-21 20:46",
-    "scraped_at": "2026-05-22T01:26:57.149257"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/865229/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 29 mei 2026:",
+    "published_at": "2026-05-22 06:54",
+    "scraped_at": "2026-05-22T05:51:46.279654"
   },
   {
-    "id": "b1bb94d2774ddc06561931700b0f74bd",
+    "id": "ddfc593fb9f40c41cd32a9cbcf2207a1",
     "categorie": "Beursnieuws",
-    "titel": "Spotify lanceert AI-tool voor artiesten Universal Music",
-    "link": "https://www.beurs.nl/Nieuws/865193/Spotify-lanceert-AI-tool-voor-artiesten-Universal-Music.aspx",
-    "intro": "Spotify is van plan een door kunstmatige intelligentie aangestuurde tool te lanceren waarmee gebruikers covers en remixes kunnen maken van nummers van artiesten van Universal Music Group. Dit werd donderdagavond bekend.",
-    "published_at": "2026-05-21 20:38",
-    "scraped_at": "2026-05-22T01:26:57.149257"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/865230/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 29 mei 2026:",
+    "published_at": "2026-05-22 06:54",
+    "scraped_at": "2026-05-22T05:51:46.279654"
   },
   {
-    "id": "93c445b679b0547b8eda90552e1e5c5d",
+    "id": "311e52f4bd1eb01b072dfe5ac5d2d35b",
     "categorie": "Beursnieuws",
-    "titel": "Media: Anthropic en Microsoft praten over deal voor AI-chips",
-    "link": "https://www.beurs.nl/Nieuws/865192/Media-Anthropic-en-Microsoft-praten-over-deal-voor-AI-chips.aspx",
-    "intro": "Microsoft is in gesprek om zijn op maat gemaakte chips voor kunstmatige intelligentie aan Anthropic te leveren. Dit bevestigde CNBC donderdag, nadat The Information dit ook al meldde.",
-    "published_at": "2026-05-21 20:27",
-    "scraped_at": "2026-05-22T01:26:57.149257"
-  },
-  {
-    "id": "eecb37f4d799a3be8c9c908afa95d1a1",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst voorzichtig hoger",
-    "link": "https://www.beurs.nl/Nieuws/865191/Wall-Street-koerst-voorzichtig-hoger.aspx",
-    "intro": "De Amerikaanse beurzen noteerden donderdag voorzichtig hoger met nog een paar uur handel te gaan.",
-    "published_at": "2026-05-21 19:36",
-    "scraped_at": "2026-05-22T01:26:57.149257"
-  },
-  {
-    "id": "32e98dd619720d4e4e7c040b1679817c",
-    "categorie": "Beursnieuws",
-    "titel": "Jaarvergadering Van Lanschot Kempen akkoord met alle punten",
-    "link": "https://www.beurs.nl/Nieuws/865187/Jaarvergadering-Van-Lanschot-Kempen-akkoord-met-alle-punten.aspx",
-    "intro": "De aandeelhouders van Van Lanschot Kempen hebben donderdag tijdens de jaarvergadering ingestemd met alle agendapunten. Dit bleek na afloop van de bijeenkomst.",
-    "published_at": "2026-05-21 18:37",
-    "scraped_at": "2026-05-22T01:26:57.149257"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/865227/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 29 mei 2026:",
+    "published_at": "2026-05-22 06:53",
+    "scraped_at": "2026-05-22T05:51:46.279654"
   }
 ]
