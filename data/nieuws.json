@@ -1,12 +1,57 @@
 [
   {
+    "id": "0887b227db7f9aabd3dae1b8e20e6b3b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: halfgeleiders duwen AEX richting nieuw record",
+    "link": "https://www.beurs.nl/Nieuws/865309/Beursupdate-halfgeleiders-duwen-AEX-richting-nieuw-record.aspx",
+    "intro": "De Amsterdamse beurs koerste vrijdagmiddag hoger, geholpen door winsten van de 'chippers'.",
+    "published_at": "2026-05-22 13:55",
+    "scraped_at": "2026-05-22T12:08:26.954029"
+  },
+  {
+    "id": "df0dfa1257784cdac525542cf8eafb77",
+    "categorie": "Beursnieuws",
+    "titel": "Selectieproces voor nieuwe CEO Heineken bijna afgerond",
+    "link": "https://www.beurs.nl/Nieuws/865305/Selectieproces-voor-nieuwe-CEO-Heineken-bijna-afgerond.aspx",
+    "intro": "Het selectieproces om een nieuwe CEO voor Heineken te vinden, verloopt voorspoedig. Dit meldde Peter Wennink, voorzitter van de raad van commissarissen van de brouwer, vrijdag in een persbericht, waarin de vertrekkende topman Dolf van den Brink werd bedankt voor zijn diensten.",
+    "published_at": "2026-05-22 13:22",
+    "scraped_at": "2026-05-22T12:08:26.954029"
+  },
+  {
+    "id": "9a8d3a565e17012e346f4b0671b0d75b",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen lichtgroene opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/865299/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,1 procent hoger.",
+    "published_at": "2026-05-22 12:49",
+    "scraped_at": "2026-05-22T12:08:26.954029"
+  },
+  {
+    "id": "2c45eb92caebe1d5187eabaead46f6e8",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/865290/Europese-beurzen-hoger-rond-middaguur.aspx",
+    "intro": "De Europese beurzen noteerden vrijdag rond het middaguur hoger, hopend op een spoedige vrede in het Midden-Oosten.",
+    "published_at": "2026-05-22 12:00",
+    "scraped_at": "2026-05-22T12:08:26.954029"
+  },
+  {
+    "id": "dec613f4b9c2d95c038d75dfddc4df2b",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verlaagt koersdoel CSG",
+    "link": "https://www.beurs.nl/Nieuws/865288/Jefferies-verlaagt-koersdoel-CSG.aspx",
+    "intro": "Jefferies heeft het koersdoel voor CSG verlaagd van 35,00 naar 30,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een sectorrapport van de zakenbank, waarin ook de koersdoelen voor Renk en Rheinmetall werden verlaagd naar respectievelijk 70,00 en 1.890 euro.",
+    "published_at": "2026-05-22 11:49",
+    "scraped_at": "2026-05-22T12:08:26.954029"
+  },
+  {
     "id": "ac5f12da4f33859234ed61881cec862c",
     "categorie": "Beursnieuws",
     "titel": "Halfgeleiders aan kop in groene AEX",
     "link": "https://www.beurs.nl/Nieuws/865282/Halfgeleiders-aan-kop-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdag overtuigend hoger, geholpen door winsten van de 'chippers'.",
     "published_at": "2026-05-22 11:05",
-    "scraped_at": "2026-05-22T09:29:35.831358"
+    "scraped_at": "2026-05-22T12:08:26.954029"
   },
   {
     "id": "cc1d3426497841137c8efcc6461c8c3e",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/865281/Mondiale-staalproductie-blijft-dalen.aspx",
     "intro": "De mondiale staalproductie is in april opnieuw gedaald, net als in de maanden ervoor. Dit bleek vrijdag uit cijfers van brancheorganisatie World Steel Association.",
     "published_at": "2026-05-22 10:53",
-    "scraped_at": "2026-05-22T09:29:35.831358"
+    "scraped_at": "2026-05-22T12:08:26.954029"
   },
   {
     "id": "c6e50429ed3a3efc761621a054eb60cf",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/865278/Duitse-Ifo-index-licht-omhoog.aspx",
     "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in mei gestegen. Dit bleek vrijdag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
     "published_at": "2026-05-22 10:32",
-    "scraped_at": "2026-05-22T09:29:35.831358"
+    "scraped_at": "2026-05-22T12:08:26.954029"
   },
   {
     "id": "1f16bd441bc089bd980ed12a576c5e5f",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/865275/Berenberg-verhoogt-koersdoel-Colt-CZ.aspx",
     "intro": "Berenberg heeft vrijdag het koersdoel voor Colt CZ verhoogd van 48,00 naar 50,00 euro met een herhaling van het koopadvies. Dit bleek uit een analistenrapport van de zakenbank.",
     "published_at": "2026-05-22 10:27",
-    "scraped_at": "2026-05-22T09:29:35.831358"
+    "scraped_at": "2026-05-22T12:08:26.954029"
   },
   {
     "id": "7e650c80ed33ff3461d8499fce8a4d5b",
@@ -42,51 +87,6 @@
     "link": "https://www.iex.nl/artikel/865153/Must-read-Koperprijs-onder-druk-door-inflatievrees.aspx",
     "intro": "De prijzen van industriële metalen zijn volatiel door de toenemende inflatievrees. Plus: NAVO kijkt gespannen naar Trump, consumentenvertrouwen daalt verder, waarom uw portefeuille minder gespreid is dan u denkt en meer.",
     "published_at": "2026-05-22 10:25",
-    "scraped_at": "2026-05-22T09:29:35.831358"
-  },
-  {
-    "id": "06320fd59e6275f5e72d170e448245fb",
-    "categorie": "Beursnieuws",
-    "titel": "Goldman Sachs verhoogt koersdoelen NN en ASR",
-    "link": "https://www.beurs.nl/Nieuws/865269/Goldman-Sachs-verhoogt-koersdoelen-NN-en-ASR.aspx",
-    "intro": "Goldman Sachs heeft de koersdoelen voor NN en ASR verhoogd, terwijl de koopadviezen werden gehandhaafd. Dit bleek uit een sectorrapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-05-22 10:02",
-    "scraped_at": "2026-05-22T09:29:35.831358"
-  },
-  {
-    "id": "5227a28bdf1e47532e13ce80a36b0a7e",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/865260/AEX-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,7 procent hoger op 1.042,51 punten, terwijl de Midkap vlak noteerde.",
-    "published_at": "2026-05-22 09:13",
-    "scraped_at": "2026-05-22T09:29:35.831358"
-  },
-  {
-    "id": "f381b85d628ace28e422898760c61fe0",
-    "categorie": "Beursnieuws",
-    "titel": "\"Overname Recordati belangrijke stap voor GBL\"",
-    "link": "https://www.beurs.nl/Nieuws/865259/Overname-Recordati-belangrijke-stap-voor-GBL.aspx",
-    "intro": "GBL heeft met de beoogde overname van het Italiaanse Recordati een belangrijke stap genomen in de strategische verschuiving van beursgenoteerde naar private beleggingen. Dit oordeelden analisten van KBC Securities vrijdag in een rapport.",
-    "published_at": "2026-05-22 09:03",
-    "scraped_at": "2026-05-22T09:29:35.831358"
-  },
-  {
-    "id": "2249df0f62bab326fac0ece457154393",
-    "categorie": "Beursnieuws",
-    "titel": "Britse detailhandelsverkopen gedaald",
-    "link": "https://www.beurs.nl/Nieuws/865257/Britse-detailhandelsverkopen-gedaald.aspx",
-    "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in april gedaald. Dit bleek vrijdag uit cijfers van het Britse bureau voor de statistiek.",
-    "published_at": "2026-05-22 08:46",
-    "scraped_at": "2026-05-22T09:29:35.831358"
-  },
-  {
-    "id": "b16b0764b2dbbf680deaca792c6f0a06",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse consumentenvertrouwen verbetert iets",
-    "link": "https://www.beurs.nl/Nieuws/865255/Duitse-consumentenvertrouwen-verbetert-iets.aspx",
-    "intro": "Het consumentenvertrouwen in Duitsland is in juni iets hersteld, maar blijft negatief mede door de aanhoudende oorlog in Iran. Dit bleek vrijdag uit nieuwe metingen van onderzoeksbureau GfK, dat een maand vooruit meet.",
-    "published_at": "2026-05-22 08:27",
-    "scraped_at": "2026-05-22T09:29:35.831358"
+    "scraped_at": "2026-05-22T12:08:26.954029"
   }
 ]
