@@ -1,56 +1,11 @@
 [
   {
-    "id": "a72eff43883f58aaeedd2bac41f5c202",
+    "id": "bf2b3dc9ed50c7973e318ce8e5f883c7",
     "categorie": "Beursnieuws",
-    "titel": "Trump: vredesdeal met Iran bijna rond",
-    "link": "https://www.beurs.nl/Nieuws/865371/Trump-vredesdeal-met-Iran-bijna-rond.aspx",
-    "intro": "De Verenigde Staten en Iran zouden dicht bij een intentieverklaring zijn waarmee een definitief vredesakkoord kan worden gesloten. Dit meldde de Amerikaanse president Donald Trump zaterdag op Truth Social.",
-    "published_at": "2026-05-23 23:49",
-    "scraped_at": "2026-05-24T05:47:44.573976"
-  },
-  {
-    "id": "0e5d646247370ecd831b8bd20112422a",
-    "categorie": "",
-    "titel": "Vooruitblik: alles draait de komende week om macrocijfers",
-    "link": "https://www.iex.nl/artikel/865151/Vooruitblik-alles-draait-de-komende-week-om-macrocijfers.aspx",
-    "intro": "",
-    "published_at": "2026-05-23 13:30",
-    "scraped_at": "2026-05-24T05:47:44.573976"
-  },
-  {
-    "id": "02690456cf98af12086d35f84921a593",
-    "categorie": "Beursnieuws",
-    "titel": "Vredeshoop helpt AEX aan nieuw record",
-    "link": "https://www.beurs.nl/Nieuws/865369/Vredeshoop-helpt-AEX-aan-nieuw-record.aspx",
-    "intro": "De Amsterdamse beurs wist afgelopen week zijn recordstand aan te scherpen, gesteund door hoop op een permanent vredesakkoord in het Midden-Oosten.",
-    "published_at": "2026-05-23 13:00",
-    "scraped_at": "2026-05-24T05:47:44.573976"
-  },
-  {
-    "id": "7f8698d1569d55f5ec8b0ba48163a37b",
-    "categorie": "Beursnieuws",
-    "titel": "Media: VS bereiden nieuwe militaire aanvallen op Iran voor",
-    "link": "https://www.beurs.nl/Nieuws/865365/Media-VS-bereiden-nieuwe-militaire-aanvallen-op-Iran-voor.aspx",
-    "intro": "De Amerikaanse regering bereidt zich voor op een nieuwe reeks militaire aanvallen op Iran. Dit meldde CBS News vrijdagavond op basis van bronnen. Intussen worden ook de diplomatieke inspanningen voortgezet.",
-    "published_at": "2026-05-23 10:53",
-    "scraped_at": "2026-05-24T05:47:44.573976"
-  },
-  {
-    "id": "4d0c1697f6ff2b2b3dceca204b9cfb8f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Fitch handhaaft kredietrating AMG",
-    "link": "https://www.beurs.nl/Nieuws/865364/Beursblik-Fitch-handhaaft-kredietrating-AMG.aspx",
-    "intro": "Fitch Ratings heeft de kredietrating van AMG Critical Materials en AMG Vanadium gehandhaafd op BB-, met een stabiele outlook. Dit bleek vrijdagavond uit een persbericht van de Amerikaanse kredietwaardigheidsbeoordelaar.",
-    "published_at": "2026-05-23 10:40",
-    "scraped_at": "2026-05-24T05:47:44.573976"
-  },
-  {
-    "id": "3f3ce6141b1d9ce86f88589daaf8f466",
-    "categorie": "Beursnieuws",
-    "titel": "Fitch handhaaft kredietstatus België",
-    "link": "https://www.beurs.nl/Nieuws/865363/Fitch-handhaaft-kredietstatus-Belgie.aspx",
-    "intro": "Fitch Ratings heeft de kredietrating van België gehandhaafd op A+, met een stabiele outlook. Dit meldde de Amerikaanse kredietwaardigheidsbeoordelaar vrijdagavond laat.",
-    "published_at": "2026-05-23 10:20",
-    "scraped_at": "2026-05-24T05:47:44.573976"
+    "titel": "Chippers in trek in recordhoge AEX",
+    "link": "https://www.beurs.nl/Nieuws/865373/Chippers-in-trek-in-recordhoge-AEX.aspx",
+    "intro": "De AEX wist afgelopen week zijn recordstand aan te scherpen tot 1.046 punten, met hulp van de halfgeleideraandelen, die ondanks de lichte teleurstelling rond de cijfers van Nvidia, toch hoger koersten.",
+    "published_at": "2026-05-24 09:35",
+    "scraped_at": "2026-05-24T08:09:33.792580"
   }
 ]
