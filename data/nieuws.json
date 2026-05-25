@@ -1,65 +1,92 @@
 [
   {
-    "id": "d5376017f78d6cd71cfdc586640fe79e",
+    "id": "af6fa74ea9d768a4fec4224a623cc28e",
     "categorie": "Beursnieuws",
-    "titel": "Huawei kan tegen 2031 concurrerende chips ontwikkelen",
-    "link": "https://www.beurs.nl/Nieuws/865404/Huawei-kan-tegen-2031-concurrerende-chips-ontwikkelen.aspx",
+    "titel": "CSG rondt overname Poolse DOMAR MS af",
+    "link": "https://www.beurs.nl/Nieuws/865430/CSG-rondt-overname-Poolse-DOMAR-MS-af.aspx",
+    "intro": "De Tsjechische defensiegroep CSG heeft via zijn dochteronderneming CSG Polska de overname van DOMAR MS afgerond. Dit maakte het bedrijf maandag bekend.",
+    "published_at": "2026-05-25 12:35",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "94bb5b8330a8680e34e9533ac94bf2d9",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger rond lunchtijd",
+    "link": "https://www.beurs.nl/Nieuws/865426/Europese-beurzen-hoger-rond-lunchtijd.aspx",
+    "intro": "De Europese beurzen noteerden maandag rond lunchtijd in het groen.",
+    "published_at": "2026-05-25 12:02",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "ea803e3e4cc476071389547727203081",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel Delivery Hero uitblinker",
+    "link": "https://www.beurs.nl/Nieuws/865422/Aandeel-Delivery-Hero-uitblinker.aspx",
+    "intro": "Het aandeel Delivery Hero is maandag de uitblinker op de Europese beurzen met een koerswinst van meer dan 10 procent tot ruim 37 euro.",
+    "published_at": "2026-05-25 11:03",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "5e45659d23d1a3f7071d6bb5d433c666",
+    "categorie": "Beursnieuws",
+    "titel": "AEX scherpt record aan met steun van Prosus",
+    "link": "https://www.beurs.nl/Nieuws/865418/AEX-scherpt-record-aan-met-steun-van-Prosus.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend op een nieuw record.",
+    "published_at": "2026-05-25 10:28",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "35f60a09acc1c34556bbb625e669c83e",
+    "categorie": "Beursnieuws",
+    "titel": "Valuta: dollar onder druk door optimisme over vredesdeal",
+    "link": "https://www.beurs.nl/Nieuws/865415/Valuta-dollar-onder-druk-door-optimisme-over-vredesdeal.aspx",
+    "intro": "De euro/dollar noteerde maandagochtend licht hoger op 1,1636, in een dunne handel, nu meerdere beurzen gesloten zijn vanwege feestdagen. Op Wall Street wordt vandaag niet gehandeld vanwege Memorial Day in de VS.",
+    "published_at": "2026-05-25 10:04",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "a087bbd9aa4690db17dcdf416300040d",
+    "categorie": "Beursnieuws",
+    "titel": "SoftBank geeft voor miljarden aan obligaties uit",
+    "link": "https://www.beurs.nl/Nieuws/865413/SoftBank-geeft-voor-miljarden-aan-obligaties-uit.aspx",
+    "intro": "SoftBank Group is van plan om in Japan voor 260 miljard yen, of 1,6 miljard dollar, aan langlopende obligaties uit te geven, voornamelijk aan particuliere beleggers. Dit maakte het Japanse bedrijf maandagochtend bekend.",
+    "published_at": "2026-05-25 09:47",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "e81e4db128216ec08971d857662eb6da",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger geopend",
+    "link": "https://www.beurs.nl/Nieuws/865411/AEX-hoger-geopend.aspx",
+    "intro": "De Amsterdamse beurs is maandag hoger geopend. De AEX noteerde net na 09:00 uur 0,5 procent hoger op 1.050 punten, oftewel een nieuw record.",
+    "published_at": "2026-05-25 09:09",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "e2a2add4f9208bb397b1aa8900c9410f",
+    "categorie": "Nieuws",
+    "titel": "Alphabet wil in 2030 100% klimaatneutraal opereren",
+    "link": "https://www.ieximpact.nl/artikel/865112/Alphabet-wil-in-2030-100-klimaatneutraal-opereren.aspx",
+    "intro": "De AI-race jaagt het stroomverbruik van datacenters omhoog.  Toch houdt Alphabet van Google vast aan zijn belofte: in 2030 moet elke kilowattuur, elk uur van de dag, lokaal worden gedekt door CO2-vrije energie.",
+    "published_at": "2026-05-25 09:00",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "14b6ad3857f4c9ea3f8a9a4683831624",
+    "categorie": "Voorbeurs",
+    "titel": "Chaos rond Iran, maar AEX opent hoger en olieprijs zakt onder $100",
+    "link": "https://www.beurs.nl/Artikel/865385/Chaos-rond-Iran-maar-AEX-opent-hoger-en-olieprijs-zakt-onder-100.aspx",
+    "intro": "Hoop op akkoord tussen VS en Iran zet beurzen hoger en olieprijs lager. Mijlpaal voor Pharming. Wall Street is vandaag dicht. En verder: Qualcomm, SpaceX, Huawei en Merck.",
+    "published_at": "2026-05-25 08:30",
+    "scraped_at": "2026-05-25T10:59:42.249629"
+  },
+  {
+    "id": "b3ac27d63e1bf34967a45e84d11db40f",
+    "categorie": "Beursnieuws",
+    "titel": "\"Huawei kan tegen 2031 concurrerende chips maken\"",
+    "link": "https://www.beurs.nl/Nieuws/865404/Huawei-kan-tegen-2031-concurrerende-chips-maken.aspx",
     "intro": "Huawei Technologies heeft een oplossing ontwikkeld waarmee het tegen 2031 chips kan produceren die vergelijkbaar zijn met toonaangevende producten van Intel en andere grote halfgeleiderbedrijven. Dit meldde een van de bestuurders van het Chinese bedrijf maandag tijdens een techconferentie in Shanghai.",
     "published_at": "2026-05-25 08:19",
-    "scraped_at": "2026-05-25T06:36:58.484821"
-  },
-  {
-    "id": "88f7d72ded9bc4d1959aa398ae1e28ef",
-    "categorie": "Beursnieuws",
-    "titel": "AEX maakt zich voor op voor groene tweede Pinksterdag",
-    "link": "https://www.beurs.nl/Nieuws/865399/AEX-maakt-zich-voor-op-voor-groene-tweede-Pinksterdag.aspx",
-    "intro": "De Amsterdamse beurs maakt zich maandag op voor een fors hogere opening, na een scherpe daling van de olieprijzen in de Aziatische handel vanochtend, terwijl onder meer Wall Street vandaag de deuren gesloten houdt vanwege Memorial Day.",
-    "published_at": "2026-05-25 08:04",
-    "scraped_at": "2026-05-25T06:36:58.484821"
-  },
-  {
-    "id": "37e0be927fd1cc5ab7f179102f3986ae",
-    "categorie": "Beursnieuws",
-    "titel": "Tokio scherpt recordstand aan terwijl olieprijzen onder druk staan",
-    "link": "https://www.beurs.nl/Nieuws/865394/Tokio-scherpt-recordstand-aan-terwijl-olieprijzen-onder-druk-staan.aspx",
-    "intro": "De Aziatische beurzen vonden maandagochtend de weg omhoog, met als absolute koploper de Nikkei index in Tokio met een winst van 3 procent. In Mumbai won de Nifty 50 index 1 procent, terwijl de Australische beurs ongeveer een half procent won.",
-    "published_at": "2026-05-25 07:15",
-    "scraped_at": "2026-05-25T06:36:58.484821"
-  },
-  {
-    "id": "9c9185c7101e038fc6d96b5a80272c31",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen wacht hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/865393/Europese-beurzen-wacht-hogere-opening.aspx",
-    "intro": "De aandelenmarkten in Europa gaan maandag een hogere opening tegemoet op wat vermoedelijk een vrij rustige Tweede Pinksterdag zal worden, waarbij verschillende beurzen gesloten zijn, waaronder Londen en Hongkong. In de VS is het maandag Memorial Day en dus vindt op Wall Street ook geen handel plaats.",
-    "published_at": "2026-05-25 06:55",
-    "scraped_at": "2026-05-25T06:36:58.484821"
-  },
-  {
-    "id": "e646d187dd7912daf40b38f9468fb59a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/865390/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 1 juni 2026:",
-    "published_at": "2026-05-25 06:45",
-    "scraped_at": "2026-05-25T06:36:58.484821"
-  },
-  {
-    "id": "55c79e62f588a34e08c38d8f5919144f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/865387/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 1 juni 2026:",
-    "published_at": "2026-05-25 06:44",
-    "scraped_at": "2026-05-25T06:36:58.484821"
-  },
-  {
-    "id": "09238ca12277554ecdf186c68861d35a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/865389/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 1 juni 2026:",
-    "published_at": "2026-05-25 06:44",
-    "scraped_at": "2026-05-25T06:36:58.484821"
+    "scraped_at": "2026-05-25T10:59:42.249629"
   }
 ]
