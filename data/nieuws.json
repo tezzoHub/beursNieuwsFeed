@@ -1,12 +1,39 @@
 [
   {
+    "id": "a7dff81aa2b40d176709db49d05e6d56",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Prosus wil geen gedwongen Delivery Hero-verkoop",
+    "link": "https://www.beurs.nl/Nieuws/865438/Media-Prosus-wil-geen-gedwongen-Delivery-Hero-verkoop.aspx",
+    "intro": "Prosus heeft de Europese Commissie gevraagd om de verplichting te laten vallen om zijn belang in Delivery Hero te verkopen. Dit meldde persbureau Bloomberg maandag op basis van ingewijden.",
+    "published_at": "2026-05-25 15:04",
+    "scraped_at": "2026-05-25T14:14:51.441423"
+  },
+  {
+    "id": "3da65f5f1e7439823040769eb0ec1f36",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street gesloten op Memorial Day",
+    "link": "https://www.beurs.nl/Nieuws/865437/Wall-Street-gesloten-op-Memorial-Day.aspx",
+    "intro": "De Amerikaanse beurzen blijven maandag gesloten vanwege Memorial Day in de Verenigde Staten.",
+    "published_at": "2026-05-25 14:49",
+    "scraped_at": "2026-05-25T14:14:51.441423"
+  },
+  {
+    "id": "59cc1d964518e9e6c087ff0c2f2a26c2",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus aan kop in overwegend groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/865433/Prosus-aan-kop-in-overwegend-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste maandagmiddag hoger, geholpen door onder meer Prosus en de financiële waarden.",
+    "published_at": "2026-05-25 14:04",
+    "scraped_at": "2026-05-25T14:14:51.441423"
+  },
+  {
     "id": "af6fa74ea9d768a4fec4224a623cc28e",
     "categorie": "Beursnieuws",
     "titel": "CSG rondt overname Poolse DOMAR MS af",
     "link": "https://www.beurs.nl/Nieuws/865430/CSG-rondt-overname-Poolse-DOMAR-MS-af.aspx",
     "intro": "De Tsjechische defensiegroep CSG heeft via zijn dochteronderneming CSG Polska de overname van DOMAR MS afgerond. Dit maakte het bedrijf maandag bekend.",
     "published_at": "2026-05-25 12:35",
-    "scraped_at": "2026-05-25T10:59:42.249629"
+    "scraped_at": "2026-05-25T14:14:51.441423"
   },
   {
     "id": "94bb5b8330a8680e34e9533ac94bf2d9",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/865426/Europese-beurzen-hoger-rond-lunchtijd.aspx",
     "intro": "De Europese beurzen noteerden maandag rond lunchtijd in het groen.",
     "published_at": "2026-05-25 12:02",
-    "scraped_at": "2026-05-25T10:59:42.249629"
+    "scraped_at": "2026-05-25T14:14:51.441423"
   },
   {
     "id": "ea803e3e4cc476071389547727203081",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/865422/Aandeel-Delivery-Hero-uitblinker.aspx",
     "intro": "Het aandeel Delivery Hero is maandag de uitblinker op de Europese beurzen met een koerswinst van meer dan 10 procent tot ruim 37 euro.",
     "published_at": "2026-05-25 11:03",
-    "scraped_at": "2026-05-25T10:59:42.249629"
+    "scraped_at": "2026-05-25T14:14:51.441423"
   },
   {
     "id": "5e45659d23d1a3f7071d6bb5d433c666",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/865418/AEX-scherpt-record-aan-met-steun-van-Prosus.aspx",
     "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend op een nieuw record.",
     "published_at": "2026-05-25 10:28",
-    "scraped_at": "2026-05-25T10:59:42.249629"
+    "scraped_at": "2026-05-25T14:14:51.441423"
   },
   {
     "id": "35f60a09acc1c34556bbb625e669c83e",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/865415/Valuta-dollar-onder-druk-door-optimisme-over-vredesdeal.aspx",
     "intro": "De euro/dollar noteerde maandagochtend licht hoger op 1,1636, in een dunne handel, nu meerdere beurzen gesloten zijn vanwege feestdagen. Op Wall Street wordt vandaag niet gehandeld vanwege Memorial Day in de VS.",
     "published_at": "2026-05-25 10:04",
-    "scraped_at": "2026-05-25T10:59:42.249629"
+    "scraped_at": "2026-05-25T14:14:51.441423"
   },
   {
     "id": "a087bbd9aa4690db17dcdf416300040d",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/865413/SoftBank-geeft-voor-miljarden-aan-obligaties-uit.aspx",
     "intro": "SoftBank Group is van plan om in Japan voor 260 miljard yen, of 1,6 miljard dollar, aan langlopende obligaties uit te geven, voornamelijk aan particuliere beleggers. Dit maakte het Japanse bedrijf maandagochtend bekend.",
     "published_at": "2026-05-25 09:47",
-    "scraped_at": "2026-05-25T10:59:42.249629"
+    "scraped_at": "2026-05-25T14:14:51.441423"
   },
   {
     "id": "e81e4db128216ec08971d857662eb6da",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/865411/AEX-hoger-geopend.aspx",
     "intro": "De Amsterdamse beurs is maandag hoger geopend. De AEX noteerde net na 09:00 uur 0,5 procent hoger op 1.050 punten, oftewel een nieuw record.",
     "published_at": "2026-05-25 09:09",
-    "scraped_at": "2026-05-25T10:59:42.249629"
-  },
-  {
-    "id": "e2a2add4f9208bb397b1aa8900c9410f",
-    "categorie": "Nieuws",
-    "titel": "Alphabet wil in 2030 100% klimaatneutraal opereren",
-    "link": "https://www.ieximpact.nl/artikel/865112/Alphabet-wil-in-2030-100-klimaatneutraal-opereren.aspx",
-    "intro": "De AI-race jaagt het stroomverbruik van datacenters omhoog.  Toch houdt Alphabet van Google vast aan zijn belofte: in 2030 moet elke kilowattuur, elk uur van de dag, lokaal worden gedekt door CO2-vrije energie.",
-    "published_at": "2026-05-25 09:00",
-    "scraped_at": "2026-05-25T10:59:42.249629"
-  },
-  {
-    "id": "14b6ad3857f4c9ea3f8a9a4683831624",
-    "categorie": "Voorbeurs",
-    "titel": "Chaos rond Iran, maar AEX opent hoger en olieprijs zakt onder $100",
-    "link": "https://www.beurs.nl/Artikel/865385/Chaos-rond-Iran-maar-AEX-opent-hoger-en-olieprijs-zakt-onder-100.aspx",
-    "intro": "Hoop op akkoord tussen VS en Iran zet beurzen hoger en olieprijs lager. Mijlpaal voor Pharming. Wall Street is vandaag dicht. En verder: Qualcomm, SpaceX, Huawei en Merck.",
-    "published_at": "2026-05-25 08:30",
-    "scraped_at": "2026-05-25T10:59:42.249629"
-  },
-  {
-    "id": "b3ac27d63e1bf34967a45e84d11db40f",
-    "categorie": "Beursnieuws",
-    "titel": "\"Huawei kan tegen 2031 concurrerende chips maken\"",
-    "link": "https://www.beurs.nl/Nieuws/865404/Huawei-kan-tegen-2031-concurrerende-chips-maken.aspx",
-    "intro": "Huawei Technologies heeft een oplossing ontwikkeld waarmee het tegen 2031 chips kan produceren die vergelijkbaar zijn met toonaangevende producten van Intel en andere grote halfgeleiderbedrijven. Dit meldde een van de bestuurders van het Chinese bedrijf maandag tijdens een techconferentie in Shanghai.",
-    "published_at": "2026-05-25 08:19",
-    "scraped_at": "2026-05-25T10:59:42.249629"
+    "scraped_at": "2026-05-25T14:14:51.441423"
   }
 ]
