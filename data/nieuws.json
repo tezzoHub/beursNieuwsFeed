@@ -1,12 +1,48 @@
 [
   {
+    "id": "1b182214c89e740cc9ed46fc31e3207b",
+    "categorie": "Beursnieuws",
+    "titel": "Hoop op snelle heropening Hormuz stuwt AEX naar nieuw record",
+    "link": "https://www.beurs.nl/Nieuws/865446/Hoop-op-snelle-heropening-Hormuz-stuwt-AEX-naar-nieuw-record.aspx",
+    "intro": "De Amsterdamse beurs is maandag voor de zesde dag op rij hoger gesloten en scherpte de recordstanden verder aan. Ondanks alle onzekerheid lijken beleggers te rekenen op een snelle heropening van de Straat van Hormuz.",
+    "published_at": "2026-05-25 17:49",
+    "scraped_at": "2026-05-25T16:36:02.920176"
+  },
+  {
+    "id": "32378778010b65c4d824863de919b769",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/865444/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 2 juni 2026:",
+    "published_at": "2026-05-25 17:21",
+    "scraped_at": "2026-05-25T16:36:02.920176"
+  },
+  {
+    "id": "483800f065a1182a2d48805509bc74ec",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/865445/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 2 juni 2026:",
+    "published_at": "2026-05-25 17:21",
+    "scraped_at": "2026-05-25T16:36:02.920176"
+  },
+  {
+    "id": "9f1fca3b55ba30fb1a17a7f7eb378e25",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/865442/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 2 juni 2026:",
+    "published_at": "2026-05-25 17:20",
+    "scraped_at": "2026-05-25T16:36:02.920176"
+  },
+  {
     "id": "a7dff81aa2b40d176709db49d05e6d56",
     "categorie": "Beursnieuws",
     "titel": "Media: Prosus wil geen gedwongen Delivery Hero-verkoop",
     "link": "https://www.beurs.nl/Nieuws/865438/Media-Prosus-wil-geen-gedwongen-Delivery-Hero-verkoop.aspx",
     "intro": "Prosus heeft de Europese Commissie gevraagd om de verplichting te laten vallen om zijn belang in Delivery Hero te verkopen. Dit meldde persbureau Bloomberg maandag op basis van ingewijden.",
     "published_at": "2026-05-25 15:04",
-    "scraped_at": "2026-05-25T14:14:51.441423"
+    "scraped_at": "2026-05-25T16:36:02.920176"
   },
   {
     "id": "3da65f5f1e7439823040769eb0ec1f36",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/865437/Wall-Street-gesloten-op-Memorial-Day.aspx",
     "intro": "De Amerikaanse beurzen blijven maandag gesloten vanwege Memorial Day in de Verenigde Staten.",
     "published_at": "2026-05-25 14:49",
-    "scraped_at": "2026-05-25T14:14:51.441423"
+    "scraped_at": "2026-05-25T16:36:02.920176"
   },
   {
     "id": "59cc1d964518e9e6c087ff0c2f2a26c2",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/865433/Prosus-aan-kop-in-overwegend-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste maandagmiddag hoger, geholpen door onder meer Prosus en de financiële waarden.",
     "published_at": "2026-05-25 14:04",
-    "scraped_at": "2026-05-25T14:14:51.441423"
+    "scraped_at": "2026-05-25T16:36:02.920176"
   },
   {
     "id": "af6fa74ea9d768a4fec4224a623cc28e",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/865430/CSG-rondt-overname-Poolse-DOMAR-MS-af.aspx",
     "intro": "De Tsjechische defensiegroep CSG heeft via zijn dochteronderneming CSG Polska de overname van DOMAR MS afgerond. Dit maakte het bedrijf maandag bekend.",
     "published_at": "2026-05-25 12:35",
-    "scraped_at": "2026-05-25T14:14:51.441423"
+    "scraped_at": "2026-05-25T16:36:02.920176"
   },
   {
     "id": "94bb5b8330a8680e34e9533ac94bf2d9",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/865426/Europese-beurzen-hoger-rond-lunchtijd.aspx",
     "intro": "De Europese beurzen noteerden maandag rond lunchtijd in het groen.",
     "published_at": "2026-05-25 12:02",
-    "scraped_at": "2026-05-25T14:14:51.441423"
+    "scraped_at": "2026-05-25T16:36:02.920176"
   },
   {
     "id": "ea803e3e4cc476071389547727203081",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/865422/Aandeel-Delivery-Hero-uitblinker.aspx",
     "intro": "Het aandeel Delivery Hero is maandag de uitblinker op de Europese beurzen met een koerswinst van meer dan 10 procent tot ruim 37 euro.",
     "published_at": "2026-05-25 11:03",
-    "scraped_at": "2026-05-25T14:14:51.441423"
-  },
-  {
-    "id": "5e45659d23d1a3f7071d6bb5d433c666",
-    "categorie": "Beursnieuws",
-    "titel": "AEX scherpt record aan met steun van Prosus",
-    "link": "https://www.beurs.nl/Nieuws/865418/AEX-scherpt-record-aan-met-steun-van-Prosus.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend op een nieuw record.",
-    "published_at": "2026-05-25 10:28",
-    "scraped_at": "2026-05-25T14:14:51.441423"
-  },
-  {
-    "id": "35f60a09acc1c34556bbb625e669c83e",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: dollar onder druk door optimisme over vredesdeal",
-    "link": "https://www.beurs.nl/Nieuws/865415/Valuta-dollar-onder-druk-door-optimisme-over-vredesdeal.aspx",
-    "intro": "De euro/dollar noteerde maandagochtend licht hoger op 1,1636, in een dunne handel, nu meerdere beurzen gesloten zijn vanwege feestdagen. Op Wall Street wordt vandaag niet gehandeld vanwege Memorial Day in de VS.",
-    "published_at": "2026-05-25 10:04",
-    "scraped_at": "2026-05-25T14:14:51.441423"
-  },
-  {
-    "id": "a087bbd9aa4690db17dcdf416300040d",
-    "categorie": "Beursnieuws",
-    "titel": "SoftBank geeft voor miljarden aan obligaties uit",
-    "link": "https://www.beurs.nl/Nieuws/865413/SoftBank-geeft-voor-miljarden-aan-obligaties-uit.aspx",
-    "intro": "SoftBank Group is van plan om in Japan voor 260 miljard yen, of 1,6 miljard dollar, aan langlopende obligaties uit te geven, voornamelijk aan particuliere beleggers. Dit maakte het Japanse bedrijf maandagochtend bekend.",
-    "published_at": "2026-05-25 09:47",
-    "scraped_at": "2026-05-25T14:14:51.441423"
-  },
-  {
-    "id": "e81e4db128216ec08971d857662eb6da",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger geopend",
-    "link": "https://www.beurs.nl/Nieuws/865411/AEX-hoger-geopend.aspx",
-    "intro": "De Amsterdamse beurs is maandag hoger geopend. De AEX noteerde net na 09:00 uur 0,5 procent hoger op 1.050 punten, oftewel een nieuw record.",
-    "published_at": "2026-05-25 09:09",
-    "scraped_at": "2026-05-25T14:14:51.441423"
+    "scraped_at": "2026-05-25T16:36:02.920176"
   }
 ]
