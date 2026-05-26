@@ -1,12 +1,84 @@
 [
   {
+    "id": "88db09407249fd34607deb40aee10664",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen doen stap terug",
+    "link": "https://www.beurs.nl/Nieuws/865580/Europese-beurzen-doen-stap-terug.aspx",
+    "intro": "De Europese beurzen zijn dinsdag lager gesloten, nadat de VS militaire aanvallen uitvoerden op Iran.",
+    "published_at": "2026-05-26 19:03",
+    "scraped_at": "2026-05-26T17:27:19.510407"
+  },
+  {
+    "id": "a64465a1e350570ad01c2f4a94b71c43",
+    "categorie": "Beursnieuws",
+    "titel": "Avantium aan de slag met slaapkussen",
+    "link": "https://www.beurs.nl/Nieuws/865577/Avantium-aan-de-slag-met-slaapkussen.aspx",
+    "intro": "Avantium heeft samen met het Nederlandse Heynen Systems een prototype kussen ontwikkeld waarin releaf is verwerkt. Dit maakte Avantium dinsdagavond bekend.",
+    "published_at": "2026-05-26 18:13",
+    "scraped_at": "2026-05-26T17:27:19.510407"
+  },
+  {
+    "id": "83e01d0c6992ebdd2c0d981fdf29157f",
+    "categorie": "Beursnieuws",
+    "titel": "AEX neemt gas terug na aanscherping record",
+    "link": "https://www.beurs.nl/Nieuws/865574/AEX-neemt-gas-terug-na-aanscherping-record.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag lager geëindigd, nadat de Verenigde Staten militaire aanvallen uitvoerden op Iran.",
+    "published_at": "2026-05-26 17:49",
+    "scraped_at": "2026-05-26T17:27:19.510407"
+  },
+  {
+    "id": "7cc44ae9d30317531e732a3a109a84cd",
+    "categorie": "Beursnieuws",
+    "titel": "DNB: snelle ontwikkeling AI bedreigt financiële stabiliteit",
+    "link": "https://www.beurs.nl/Nieuws/865573/DNB-snelle-ontwikkeling-AI-bedreigt-financiele-stabiliteit.aspx",
+    "intro": "Cyberrisico’s behoren tot de grootste bedreigingen voor de financiële stabiliteit, door de snelle ontwikkeling in kunstmatige intelligentie (AI), in combinatie met toegenomen geopolitieke spanningen. Dat staat in halfjaarlijkse Overzicht Financiële Stabiliteit (OFS) van De Nederlandsche Bank, dat dinsdag werd gepubliceerd.",
+    "published_at": "2026-05-26 17:34",
+    "scraped_at": "2026-05-26T17:27:19.510407"
+  },
+  {
+    "id": "1c3512e31def572a6b00797a770237e0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/865543/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 3 juni 2026:",
+    "published_at": "2026-05-26 16:23",
+    "scraped_at": "2026-05-26T17:27:19.510407"
+  },
+  {
+    "id": "4dc2913ef44ae90ac6ad814996b20eb8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/865545/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 3 juni 2026:",
+    "published_at": "2026-05-26 16:23",
+    "scraped_at": "2026-05-26T17:27:19.510407"
+  },
+  {
+    "id": "1544e34aae42d201b3035542af6f0b7a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/865546/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 3 juni 2026:",
+    "published_at": "2026-05-26 16:23",
+    "scraped_at": "2026-05-26T17:27:19.510407"
+  },
+  {
+    "id": "dd7393f5ba602218ebd7a8f61a99dd1a",
+    "categorie": "Beursnieuws",
+    "titel": "Conference Board: Amerikaanse consument somberder in mei",
+    "link": "https://www.beurs.nl/Nieuws/865540/Conference-Board-Amerikaanse-consument-somberder-in-mei.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in mei gedaald. Dit bleek dinsdag uit cijfers van The Conference Board.",
+    "published_at": "2026-05-26 16:12",
+    "scraped_at": "2026-05-26T17:27:19.510407"
+  },
+  {
     "id": "3fe5a27566d09d81dd3ecce0a634150c",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse huizenprijzen stijgen minder hard",
     "link": "https://www.beurs.nl/Nieuws/865538/Amerikaanse-huizenprijzen-stijgen-minder-hard.aspx",
     "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in maart iets minder hard gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
     "published_at": "2026-05-26 15:07",
-    "scraped_at": "2026-05-26T13:54:29.806848"
+    "scraped_at": "2026-05-26T17:27:19.510407"
   },
   {
     "id": "bdbe0f09bfaf88a4dd6cbcc386572c36",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/865534/Wall-Street-wacht-groene-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, waarbij beleggers na een lang weekend kunnen reageren op de laatste ontwikkelingen in het Midden-Oosten.",
     "published_at": "2026-05-26 14:46",
-    "scraped_at": "2026-05-26T13:54:29.806848"
-  },
-  {
-    "id": "7507249ae755daa9239e5a5446df052e",
-    "categorie": "Beursnieuws",
-    "titel": "Chicago Fed index stijgt weer boven nul",
-    "link": "https://www.beurs.nl/Nieuws/865533/Chicago-Fed-index-stijgt-weer-boven-nul.aspx",
-    "intro": "De Chicago Fed-Index is in april weer licht toegenomen. Dit maakte de centrale bank van Chicago dinsdag bekend.",
-    "published_at": "2026-05-26 14:34",
-    "scraped_at": "2026-05-26T13:54:29.806848"
-  },
-  {
-    "id": "e072526659fc2d6dc9dda734a61ef90a",
-    "categorie": "Interview",
-    "titel": "Travis Spence: “Europa denkt nog te veel vanuit de goedkoopste ETF”",
-    "link": "https://www.iex.nl/artikel/865274/Travis-Spence-Europa-denkt-nog-te-veel-vanuit-de-goedkoopste-ETF.aspx",
-    "intro": "Een interview met Travis Spence, Global Head of ETF's bij J.P. Morgan Asset Management over actief versus passief, kosten, klantbehoeften, groei in Azië en de vooruitzichten richting 2030.",
-    "published_at": "2026-05-26 14:30",
-    "scraped_at": "2026-05-26T13:54:29.806848"
-  },
-  {
-    "id": "1fd765d5dcbde4bafb0d265920ebdaa4",
-    "categorie": "Beursnieuws",
-    "titel": "AEX komt wat op adem",
-    "link": "https://www.beurs.nl/Nieuws/865531/AEX-komt-wat-op-adem.aspx",
-    "intro": "De Amsterdamse beurs koerste dinsdagmiddag lager, nu het vredesoptimisme van maandag plaats lijkt te maken voor bezorgdheid.",
-    "published_at": "2026-05-26 14:11",
-    "scraped_at": "2026-05-26T13:54:29.806848"
-  },
-  {
-    "id": "692f6027e0e26adba88e4f9f9f2ef4e1",
-    "categorie": "Beursnieuws",
-    "titel": "BP stuurt bestuursvoorzitter weg",
-    "link": "https://www.beurs.nl/Nieuws/865525/BP-stuurt-bestuursvoorzitter-weg.aspx",
-    "intro": "BP heeft afscheid genomen van zijn bestuursvoorzitter Albert Manifold vanwege onbehoorlijk gedrag. Dit meldde het Britse energieconcern dinsdag.",
-    "published_at": "2026-05-26 13:44",
-    "scraped_at": "2026-05-26T13:54:29.806848"
-  },
-  {
-    "id": "54bbaf04818aeda2ce9cc6b2feb6be18",
-    "categorie": "Beursnieuws",
-    "titel": "Staatssecretaris verbiedt Amerikaanse overname DigiD",
-    "link": "https://www.beurs.nl/Nieuws/865524/Staatssecretaris-verbiedt-Amerikaanse-overname-DigiD.aspx",
-    "intro": "Staatssecretaris Willemijn Aerdts van Economische Zaken heeft de overname van Solvinity door het Amerikaanse Kyndryl verboden. Dit schreef de staatssecretaris dinsdag in een brief aan de Tweede Kamer.",
-    "published_at": "2026-05-26 13:26",
-    "scraped_at": "2026-05-26T13:54:29.806848"
-  },
-  {
-    "id": "403cd0835fd4607345a681d22c5a4c52",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/865522/Futures-Wall-Street-signaleren-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, waarbij beleggers na een lang weekend kunnen reageren op de laatste ontwikkelingen in het Midden-Oosten.",
-    "published_at": "2026-05-26 12:39",
-    "scraped_at": "2026-05-26T13:54:29.806848"
-  },
-  {
-    "id": "6b9980701b7d1f2bcd171d691065c6a9",
-    "categorie": "Beursnieuws",
-    "titel": "Xiaomi boekt minder omzet en winst",
-    "link": "https://www.beurs.nl/Nieuws/865521/Xiaomi-boekt-minder-omzet-en-winst.aspx",
-    "intro": "Xiaomi heeft in het eerste kwartaal van 2026 een omzetdaling van bijna 11 procent geboekt als gevolg van duurdere componenten en meer concurrentie. Dit bleek dinsdag uit de kwartaalcijfers van de Chinese techgigant.",
-    "published_at": "2026-05-26 12:36",
-    "scraped_at": "2026-05-26T13:54:29.806848"
-  },
-  {
-    "id": "bd9acc55ab37870adc65a38f0312074a",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lager rond lunchtijd",
-    "link": "https://www.beurs.nl/Nieuws/865520/Europese-beurzen-lager-rond-lunchtijd.aspx",
-    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur overwegend lager, nadat de VS militaire aanvallen uitvoerden op Iran.",
-    "published_at": "2026-05-26 12:23",
-    "scraped_at": "2026-05-26T13:54:29.806848"
+    "scraped_at": "2026-05-26T17:27:19.510407"
   }
 ]
