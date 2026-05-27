@@ -1,12 +1,39 @@
 [
   {
+    "id": "ff4e52b32cbaaa555aaf3c0c0f112c45",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/865731/Europese-beurzen-sluiten-verdeeld.aspx",
+    "intro": "De Europese beurzen zijn woensdag verdeeld gesloten, nadat optimisme rond de Straat van Hormuz de olieprijs liet dalen en luxemerken in trek waren.",
+    "published_at": "2026-05-27 19:04",
+    "scraped_at": "2026-05-27T18:14:16.208839"
+  },
+  {
+    "id": "996f514b30420ab18a08aeb7f17e7686",
+    "categorie": "Beursnieuws",
+    "titel": "CFO Tandowsky verlaat Adyen",
+    "link": "https://www.beurs.nl/Nieuws/865728/CFO-Tandowsky-verlaat-Adyen.aspx",
+    "intro": "Chief financial officer Ethan Tandowsky verlaat Adyen per eind augustus, voor een rol bij een ander bedrijf buiten de fintechsector. Dat maakte het Amsterdamse betaalbedrijf woensdag bekend.",
+    "published_at": "2026-05-27 18:49",
+    "scraped_at": "2026-05-27T18:14:16.208839"
+  },
+  {
+    "id": "959036b98a4d9ac782a3f74892225a3f",
+    "categorie": "Beursnieuws",
+    "titel": "Lichtrood slot AEX ondanks koersexplosie Akzo",
+    "link": "https://www.beurs.nl/Nieuws/865718/Lichtrood-slot-AEX-ondanks-koersexplosie-Akzo.aspx",
+    "intro": "De Amsterdamse beurs is woensdag met verlies gesloten. De AEX leverde 0,2 procent in op 1.039,95 punten, ondanks de koersexplosie van AkzoNobel.",
+    "published_at": "2026-05-27 17:52",
+    "scraped_at": "2026-05-27T18:14:16.208839"
+  },
+  {
     "id": "06577c84bc9ed762636ae10fd7cd952c",
     "categorie": "IEX",
     "titel": "Slotcall: AkzoNobel en Flow Traders tegenpolen op rood Damrak",
     "link": "https://www.iex.nl/artikel/865712/Slotcall-AkzoNobel-en-Flow-Traders-tegenpolen-op-rood-Damrak.aspx",
     "intro": "De AEX leek vandaag onderweg naar een keurige plus, maar gaf het in de slotfase alsnog weg. De index eindigt rond 1.040 punten, goed voor een verlies van 0,2%.",
     "published_at": "2026-05-27 17:35",
-    "scraped_at": "2026-05-27T15:49:12.657147"
+    "scraped_at": "2026-05-27T18:14:16.208839"
   },
   {
     "id": "281bf366d18ccac3142ceb8d44e3fc18",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/865714/Nippon-Paint-en-Sherwin-Williams-overwegen-vervolgstappen.aspx",
     "intro": "Nippon Paint en Sherwin-Williams overwegen eventuele volgende stappen, nadat AkzoNobel woensdag bekendmaakte een overnamebod van diens sectorgenoten te hebben afgewezen.",
     "published_at": "2026-05-27 17:04",
-    "scraped_at": "2026-05-27T15:49:12.657147"
+    "scraped_at": "2026-05-27T18:14:16.208839"
   },
   {
     "id": "1fb5085b87ec5e4ec951e7ca376dfc33",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/865706/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 4 juni 2026:",
     "published_at": "2026-05-27 16:24",
-    "scraped_at": "2026-05-27T15:49:12.657147"
+    "scraped_at": "2026-05-27T18:14:16.208839"
   },
   {
     "id": "601e703cd380ac994ddb5b9db339a8d4",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/865705/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 4 juni 2026:",
     "published_at": "2026-05-27 16:23",
-    "scraped_at": "2026-05-27T15:49:12.657147"
+    "scraped_at": "2026-05-27T18:14:16.208839"
   },
   {
     "id": "192f98e8a4090f43ea8ab993f6d4776e",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/865704/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 4 juni 2026:",
     "published_at": "2026-05-27 16:22",
-    "scraped_at": "2026-05-27T15:49:12.657147"
+    "scraped_at": "2026-05-27T18:14:16.208839"
   },
   {
     "id": "d3d0ea921488352ef94bfb79dd7070c1",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/865702/Wolters-Kluwer-publiceert-radiologie-tijdschriften.aspx",
     "intro": "Wolters Kluwer gaat een portefeuille met vijf tijdschriften van de Radiological Society of North America (RSNA) uitgeven en beter beschikbaar maken voor medische professionals via zijn platforms. Dit maakte het Nederlandse databedrijf woensdagmiddag bekend, zonder financiële details te geven.",
     "published_at": "2026-05-27 15:58",
-    "scraped_at": "2026-05-27T15:49:12.657147"
+    "scraped_at": "2026-05-27T18:14:16.208839"
   },
   {
     "id": "f5d5c7816c290e02e72ddae22712e9f7",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/865696/Olieprijs-zakt-verder-in.aspx",
     "intro": "De olieprijs stond woensdagmiddag onder druk, na geruchten dat Iran de Straat van Hormuz weer zal heropenen, als onderdeel van een deal met de VS.",
     "published_at": "2026-05-27 15:09",
-    "scraped_at": "2026-05-27T15:49:12.657147"
-  },
-  {
-    "id": "8279e01a93fd225128e8e99a106230c5",
-    "categorie": "Beleggen",
-    "titel": "Nieuwste energiecrisis maakt energietransitie extra noodzakelijk",
-    "link": "https://www.ieximpact.nl/artikel/865675/Nieuwste-energiecrisis-maakt-energietransitie-extra-noodzakelijk.aspx",
-    "intro": "Volgens Minal Patel (zie foto) en Duncan Hale van Schroders is het afsluiten van de Straat van Hormuz een extra reden om vol in te zetten op de energietransitie. \"De energietransitie draait steeds minder alleen om klimaatbeleid en steeds meer om economische weerbaarheid.\" Aan beleggingskansen geen gebrek.",
-    "published_at": "2026-05-27 15:00",
-    "scraped_at": "2026-05-27T15:49:12.657147"
-  },
-  {
-    "id": "a895565beff1fbc68462cffe3e9dcb77",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street staat hogere opening te wachten",
-    "link": "https://www.beurs.nl/Nieuws/865693/Wall-Street-staat-hogere-opening-te-wachten.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,3 procent in het groen. De Nasdaq lijkt zelfs 0,8 procent hoger te gaan openen.",
-    "published_at": "2026-05-27 14:53",
-    "scraped_at": "2026-05-27T15:49:12.657147"
-  },
-  {
-    "id": "6f2ba6e62afc69d969ce641a0e08b67e",
-    "categorie": "Beursnieuws",
-    "titel": "AEX breidt winsten uit",
-    "link": "https://www.beurs.nl/Nieuws/865684/AEX-breidt-winsten-uit.aspx",
-    "intro": "De Amsterdamse beurs wist woensdag gedurende de middag de winsten van eerder op de dag uit te breiden. Rond de klok van twee uur won de AEX 0,6 procent op 1.048,37 punten.",
-    "published_at": "2026-05-27 13:46",
-    "scraped_at": "2026-05-27T15:49:12.657147"
+    "scraped_at": "2026-05-27T18:14:16.208839"
   }
 ]
