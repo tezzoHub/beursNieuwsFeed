@@ -1,12 +1,57 @@
 [
   {
+    "id": "809fcbc8e430c75cc59d756d0cb7033b",
+    "categorie": "Beursnieuws",
+    "titel": "Sterke outlook Marvell",
+    "link": "https://www.beurs.nl/Nieuws/865743/Sterke-outlook-Marvell.aspx",
+    "intro": "Marvell Technology heeft een sterke outlook afgegeven voor het tweede kwartaal, nadat het eerste kwartaal aan de verwachtingen voldeed. Dat bleek woensdag nabeurs.",
+    "published_at": "2026-05-27 22:24",
+    "scraped_at": "2026-05-27T20:30:48.260264"
+  },
+  {
+    "id": "3938d9a6052a1d352aabadec4a2e93bf",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/865742/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag drie van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten. ArcelorMittal was de sterkste stijger.",
+    "published_at": "2026-05-27 22:16",
+    "scraped_at": "2026-05-27T20:30:48.260264"
+  },
+  {
+    "id": "ca96b8ff9607e4a268f9640b0e47d4a1",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit licht hoger",
+    "link": "https://www.beurs.nl/Nieuws/865741/Wall-Street-sluit-licht-hoger.aspx",
+    "intro": "De Amerikaanse aandelenbeurzen zijn woensdagavond vlak tot licht hoger gesloten, terwijl de olieprijs daalde en de rally van technologie-aandelen een adempauze nam.",
+    "published_at": "2026-05-27 22:12",
+    "scraped_at": "2026-05-27T20:30:48.260264"
+  },
+  {
+    "id": "2bf55717b02ee898f18dc76d282f68dc",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt hard",
+    "link": "https://www.beurs.nl/Nieuws/865734/Olieprijs-daalt-hard.aspx",
+    "intro": "De olieprijs is woensdag hard gedaald, nadat de Islamitische Revolutionaire Garde in Iran liet blijken dat de kans klein is dat de oorlog met de Verenigde Staten weer zal oplaaien.",
+    "published_at": "2026-05-27 21:05",
+    "scraped_at": "2026-05-27T20:30:48.260264"
+  },
+  {
+    "id": "9b2a12426bc1a836c6ba146fd1eed53e",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street blijft dicht bij huis",
+    "link": "https://www.beurs.nl/Nieuws/865732/Wall-Street-blijft-dicht-bij-huis.aspx",
+    "intro": "De Amerikaanse aandelenbeurzen stonden woensdagavond vlak tot licht hoger, terwijl de olieprijs daalde en de rally van technologie-aandelen een adempauze nam.",
+    "published_at": "2026-05-27 20:23",
+    "scraped_at": "2026-05-27T20:30:48.260264"
+  },
+  {
     "id": "ff4e52b32cbaaa555aaf3c0c0f112c45",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten verdeeld",
     "link": "https://www.beurs.nl/Nieuws/865731/Europese-beurzen-sluiten-verdeeld.aspx",
     "intro": "De Europese beurzen zijn woensdag verdeeld gesloten, nadat optimisme rond de Straat van Hormuz de olieprijs liet dalen en luxemerken in trek waren.",
     "published_at": "2026-05-27 19:04",
-    "scraped_at": "2026-05-27T18:14:16.208839"
+    "scraped_at": "2026-05-27T20:30:48.260264"
   },
   {
     "id": "996f514b30420ab18a08aeb7f17e7686",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/865728/CFO-Tandowsky-verlaat-Adyen.aspx",
     "intro": "Chief financial officer Ethan Tandowsky verlaat Adyen per eind augustus, voor een rol bij een ander bedrijf buiten de fintechsector. Dat maakte het Amsterdamse betaalbedrijf woensdag bekend.",
     "published_at": "2026-05-27 18:49",
-    "scraped_at": "2026-05-27T18:14:16.208839"
+    "scraped_at": "2026-05-27T20:30:48.260264"
   },
   {
     "id": "959036b98a4d9ac782a3f74892225a3f",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/865718/Lichtrood-slot-AEX-ondanks-koersexplosie-Akzo.aspx",
     "intro": "De Amsterdamse beurs is woensdag met verlies gesloten. De AEX leverde 0,2 procent in op 1.039,95 punten, ondanks de koersexplosie van AkzoNobel.",
     "published_at": "2026-05-27 17:52",
-    "scraped_at": "2026-05-27T18:14:16.208839"
+    "scraped_at": "2026-05-27T20:30:48.260264"
   },
   {
     "id": "06577c84bc9ed762636ae10fd7cd952c",
@@ -33,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/865712/Slotcall-AkzoNobel-en-Flow-Traders-tegenpolen-op-rood-Damrak.aspx",
     "intro": "De AEX leek vandaag onderweg naar een keurige plus, maar gaf het in de slotfase alsnog weg. De index eindigt rond 1.040 punten, goed voor een verlies van 0,2%.",
     "published_at": "2026-05-27 17:35",
-    "scraped_at": "2026-05-27T18:14:16.208839"
+    "scraped_at": "2026-05-27T20:30:48.260264"
   },
   {
     "id": "281bf366d18ccac3142ceb8d44e3fc18",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/865714/Nippon-Paint-en-Sherwin-Williams-overwegen-vervolgstappen.aspx",
     "intro": "Nippon Paint en Sherwin-Williams overwegen eventuele volgende stappen, nadat AkzoNobel woensdag bekendmaakte een overnamebod van diens sectorgenoten te hebben afgewezen.",
     "published_at": "2026-05-27 17:04",
-    "scraped_at": "2026-05-27T18:14:16.208839"
-  },
-  {
-    "id": "1fb5085b87ec5e4ec951e7ca376dfc33",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/865706/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 4 juni 2026:",
-    "published_at": "2026-05-27 16:24",
-    "scraped_at": "2026-05-27T18:14:16.208839"
-  },
-  {
-    "id": "601e703cd380ac994ddb5b9db339a8d4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/865705/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 4 juni 2026:",
-    "published_at": "2026-05-27 16:23",
-    "scraped_at": "2026-05-27T18:14:16.208839"
-  },
-  {
-    "id": "192f98e8a4090f43ea8ab993f6d4776e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/865704/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 4 juni 2026:",
-    "published_at": "2026-05-27 16:22",
-    "scraped_at": "2026-05-27T18:14:16.208839"
-  },
-  {
-    "id": "d3d0ea921488352ef94bfb79dd7070c1",
-    "categorie": "Beursnieuws",
-    "titel": "Wolters Kluwer publiceert radiologie-tijdschriften",
-    "link": "https://www.beurs.nl/Nieuws/865702/Wolters-Kluwer-publiceert-radiologie-tijdschriften.aspx",
-    "intro": "Wolters Kluwer gaat een portefeuille met vijf tijdschriften van de Radiological Society of North America (RSNA) uitgeven en beter beschikbaar maken voor medische professionals via zijn platforms. Dit maakte het Nederlandse databedrijf woensdagmiddag bekend, zonder financiële details te geven.",
-    "published_at": "2026-05-27 15:58",
-    "scraped_at": "2026-05-27T18:14:16.208839"
-  },
-  {
-    "id": "f5d5c7816c290e02e72ddae22712e9f7",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijs zakt verder in",
-    "link": "https://www.beurs.nl/Nieuws/865696/Olieprijs-zakt-verder-in.aspx",
-    "intro": "De olieprijs stond woensdagmiddag onder druk, na geruchten dat Iran de Straat van Hormuz weer zal heropenen, als onderdeel van een deal met de VS.",
-    "published_at": "2026-05-27 15:09",
-    "scraped_at": "2026-05-27T18:14:16.208839"
+    "scraped_at": "2026-05-27T20:30:48.260264"
   }
 ]
