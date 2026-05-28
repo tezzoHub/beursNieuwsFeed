@@ -1,12 +1,48 @@
 [
   {
+    "id": "2810d959201516fdd4ea1451213a29d3",
+    "categorie": "Beursnieuws",
+    "titel": "Retailer Gap onderuit na outlookverlaging",
+    "link": "https://www.beurs.nl/Nieuws/865917/Retailer-Gap-onderuit-na-outlookverlaging.aspx",
+    "intro": "Het aandeel van kledingretailer Gap noteerde donderdag nabeurs flink lager na een outlookverlaging van het bedrijf.",
+    "published_at": "2026-05-28 22:39",
+    "scraped_at": "2026-05-28T22:01:25.751382"
+  },
+  {
+    "id": "4a91fe9fddfd66f268b4c99ad03fba1f",
+    "categorie": "Beursnieuws",
+    "titel": "Dell verslaat verwachtingen met recordresultaten",
+    "link": "https://www.beurs.nl/Nieuws/865916/Dell-verslaat-verwachtingen-met-recordresultaten.aspx",
+    "intro": "Dell Technologies heeft in het eerste kwartaal beter dan verwachte resultaten geboekt, profiterend van de vraag naar AI-producten. Dit bleek donderdagavond uit de cijfers van het Amerikaanse computer- en serverbedrijf, dat ook de outlook verhoogde.",
+    "published_at": "2026-05-28 22:29",
+    "scraped_at": "2026-05-28T22:01:25.751382"
+  },
+  {
+    "id": "18142d89a3629723d6fffb0762e1e71a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/865915/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag zes van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-05-28 22:14",
+    "scraped_at": "2026-05-28T22:01:25.751382"
+  },
+  {
+    "id": "071f8ec60b3ce20aced629df488917f9",
+    "categorie": "Beursnieuws",
+    "titel": "Kwartaalcijfers en vredeshoop helpen Wall Street aan verse records",
+    "link": "https://www.beurs.nl/Nieuws/865914/Kwartaalcijfers-en-vredeshoop-helpen-Wall-Street-aan-verse-records.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag hoger geëindigd nadat nieuwssite Axios meldde dat er een akkoord zou zijn bereikt tussen de VS en Iran om de wapenstilstand met 60 dagen te verlengen en in die periode te onderhandelen over het atoomprogramma van Iran.",
+    "published_at": "2026-05-28 22:11",
+    "scraped_at": "2026-05-28T22:01:25.751382"
+  },
+  {
     "id": "8dc76775b80015522fe0c54cbae627af",
     "categorie": "Beursnieuws",
     "titel": "Anthropic bijna 1 biljoen dollar waard",
     "link": "https://www.beurs.nl/Nieuws/865913/Anthropic-bijna-1-biljoen-dollar-waard.aspx",
     "intro": "Anthropic heeft 65 miljard dollar opgehaald in een nieuwe financieringsronde. Dit meldde het Amerikaanse kunstmatige inteilligentiebedrijf donderdagavond op zijn website.",
     "published_at": "2026-05-28 21:24",
-    "scraped_at": "2026-05-28T19:57:55.580299"
+    "scraped_at": "2026-05-28T22:01:25.751382"
   },
   {
     "id": "63ad5d123619adae4a14fb366069168d",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/865912/Olieprijs-stabiliseert-na-bericht-over-deal-VS-en-Iran.aspx",
     "intro": "De olieprijs is donderdag gestabiliseerd na een eerdere stijging. Een vat West Texas Intermediate kostte bij de settlement 88,90 dollar en werd daarmee 0,3 procent duurder dan woensdag.",
     "published_at": "2026-05-28 21:02",
-    "scraped_at": "2026-05-28T19:57:55.580299"
+    "scraped_at": "2026-05-28T22:01:25.751382"
   },
   {
     "id": "7fef8cd68555b88fa3ef0455883766cf",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/865907/Media-Duitsland-schendt-mogelijk-Europese-handelsdeal-met-VS.aspx",
     "intro": "Duitsland wil Amerikaanse streamingdiensten verplichten te investeren in de Duitse filmsector en dat zou een schending zijn van de handelsovereenkomst tussen de Europese Unie en de VS. Dit stelde de Amerikaanse handelsvertegenwoordiger Jamieson Greer donderdag tegenover Bloomberg.",
     "published_at": "2026-05-28 20:12",
-    "scraped_at": "2026-05-28T19:57:55.580299"
+    "scraped_at": "2026-05-28T22:01:25.751382"
   },
   {
     "id": "225f69092431cf68c377508f71ea50d7",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/865904/Wall-Street-scherpt-records-aan.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag overwegend hoger met nog een paar uur handel te gaan, nadat nieuwssite Axios meldde dat er een akkoord zou zijn bereikt tussen de VS en Iran om de wapenstilstand met 60 dagen te verlengen en in die periode te onderhandelen over het atoomprogramma van Iran.",
     "published_at": "2026-05-28 19:46",
-    "scraped_at": "2026-05-28T19:57:55.580299"
+    "scraped_at": "2026-05-28T22:01:25.751382"
   },
   {
     "id": "55700c65d333ebecb47ea26df6cc0cc2",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/865902/Amerikaanse-olievoorraden-verder-geslonken.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week verder geslonken. Dit bleek donderdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-05-28 19:29",
-    "scraped_at": "2026-05-28T19:57:55.580299"
+    "scraped_at": "2026-05-28T22:01:25.751382"
   },
   {
     "id": "14542755e94d4ef68dc92dc8ab00a48c",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/865899/Jaarvergadering-Adyen-akkoord-met-alle-agendapunten.aspx",
     "intro": "De aandeelhouders van Adyen hebben donderdag tijdens de jaarvergadering ingestemd met alle voorstellen die op de agenda stonden. Dit meldde het fintechbedrijf na afloop van de bijeenkomst.",
     "published_at": "2026-05-28 19:23",
-    "scraped_at": "2026-05-28T19:57:55.580299"
-  },
-  {
-    "id": "4dc8a3426b7e4fb73c5055ffa7561d62",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen niet overtuigd van mogelijk akkoord Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/865896/Europese-beurzen-niet-overtuigd-van-mogelijk-akkoord-Midden-Oosten.aspx",
-    "intro": "De Europese beurzen zijn donderdag lager geëindigd en legden zo de berichtgeving over een mogelijke deal tussen de Verenigde Staten en Iran grotendeels naast zich neer. Volgens Axios zou er een intentieverklaring zijn tussen de VS en Iran om de wapenstilstand met 60 dagen te verlengen en in die periode te onderhandelen over het atoomprogramma van Iran.",
-    "published_at": "2026-05-28 18:31",
-    "scraped_at": "2026-05-28T19:57:55.580299"
-  },
-  {
-    "id": "0a59c4302d508b0fffecb71421edbb69",
-    "categorie": "Beursnieuws",
-    "titel": "GBL rondt overname af van belang in Rayner",
-    "link": "https://www.beurs.nl/Nieuws/865889/GBL-rondt-overname-af-van-belang-in-Rayner.aspx",
-    "intro": "GBL heeft de overname van een co-controlerend belang in medtechbedrijf Rayner afgerond. Dit meldde de holding donderdagavond.",
-    "published_at": "2026-05-28 17:58",
-    "scraped_at": "2026-05-28T19:57:55.580299"
-  },
-  {
-    "id": "66480b54b4af28e70d6d5b2791af528f",
-    "categorie": "Beursnieuws",
-    "titel": "AkzoNobel weer spekkoper in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/865888/AkzoNobel-weer-spekkoper-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs is donderdag lager gesloten, nadat het conflict in het Midden-Oosten toch weer oplaaide, zowel in Iran als in Libanon, door Amerikaanse en Israëlische aanvallen.",
-    "published_at": "2026-05-28 17:56",
-    "scraped_at": "2026-05-28T19:57:55.580299"
-  },
-  {
-    "id": "2bdaa5bd84798100a0cea1cb6f749bd6",
-    "categorie": "Beursnieuws",
-    "titel": "Brussel beboet Temu voor onveilige producten",
-    "link": "https://www.beurs.nl/Nieuws/865883/Brussel-beboet-Temu-voor-onveilige-producten.aspx",
-    "intro": "De Europese Unie heeft de Chinese e-commercegroep Temu een boete van 200 miljoen euro opgelegd, omdat consumenten in de EU een grote kans lopen om illegale artikelen tegen te komen op het platform.",
-    "published_at": "2026-05-28 17:16",
-    "scraped_at": "2026-05-28T19:57:55.580299"
+    "scraped_at": "2026-05-28T22:01:25.751382"
   }
 ]
