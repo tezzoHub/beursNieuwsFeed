@@ -1,56 +1,92 @@
 [
   {
-    "id": "af73c0c8f3413a5b27c10ee63032fffa",
+    "id": "df548bc2853b03006d8a9b90ec548a26",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen in het rood terwijl olieprijzen weer stijgen",
-    "link": "https://www.beurs.nl/Nieuws/865774/Aziatische-beurzen-in-het-rood-terwijl-olieprijzen-weer-stijgen.aspx",
-    "intro": "De Aziatische beurzen koersten donderdagochtend eensgezind lager.",
-    "published_at": "2026-05-28 07:20",
-    "scraped_at": "2026-05-28T05:55:46.933616"
+    "titel": "Media: Mistral overweegt om zelf chips te gaan ontwerpen",
+    "link": "https://www.beurs.nl/Nieuws/865812/Media-Mistral-overweegt-om-zelf-chips-te-gaan-ontwerpen.aspx",
+    "intro": "Het Franse AI-bedrijf Mistral onderzoekt mogelijkheden om zelf chips te ontwerpen en uiteindelijk ook zelf te ontwikkelen. Dat meldde nieuwszender CNBC.",
+    "published_at": "2026-05-28 11:32",
+    "scraped_at": "2026-05-28T10:10:10.118646"
   },
   {
-    "id": "c8b70f41d54ba900a83c1d59052a1183",
+    "id": "4a5f634550584e933419fe6ec37fda96",
     "categorie": "Beursnieuws",
-    "titel": "Aegon kondigt akkoord aan met Vereniging Aegon",
-    "link": "https://www.beurs.nl/Nieuws/865773/Aegon-kondigt-akkoord-aan-met-Vereniging-Aegon.aspx",
-    "intro": "Aegon heeft een akkoord bereikt met grootaandeelhouder Vereniging Aegon over hun toekomstige relatie. Dit maakte de verzekeraar donderdagochtend bekend.",
-    "published_at": "2026-05-28 07:14",
-    "scraped_at": "2026-05-28T05:55:46.933616"
+    "titel": "Besi aan kop in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/865809/Besi-aan-kop-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend lager, al wisten onder meer Besi en CVC Capital zich te onttrekken aan dit negatieve sentiment. Kort na de klok van elf uur daalde de AEX met 0,4 procent tot 1.036,32 punten.",
+    "published_at": "2026-05-28 11:20",
+    "scraped_at": "2026-05-28T10:10:10.118646"
   },
   {
-    "id": "b66150bc0a703cd1b2c23a76cd41af9a",
+    "id": "d5cc50f7cc62e8965250ebb7d034bc8b",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen flink lager na Amerikaanse aanval",
-    "link": "https://www.beurs.nl/Nieuws/865772/Europese-beurzen-openen-flink-lager-na-Amerikaanse-aanval.aspx",
-    "intro": "De Europese beurzen gaan donderdag een duidelijk lagere opening tegemoet, nadat de VS nieuwe aanvallen uitvoeren op Iran, waardoor de twijfels toenemen of de twee landen wel tot een nieuw akkoord zullen komen.",
-    "published_at": "2026-05-28 06:56",
-    "scraped_at": "2026-05-28T05:55:46.933616"
+    "titel": "Bescheiden herstel consumentenvertrouwen eurozone",
+    "link": "https://www.beurs.nl/Nieuws/865807/Bescheiden-herstel-consumentenvertrouwen-eurozone.aspx",
+    "intro": "Het consumentenvertrouwen in de eurozone is in mei licht hersteld. Dit bleek donderdag uit cijfers van de Europese Commissie.",
+    "published_at": "2026-05-28 11:08",
+    "scraped_at": "2026-05-28T10:10:10.118646"
   },
   {
-    "id": "41648fe21e3dfe893d1bd05913bdc47b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/865770/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 4 juni 2026:",
-    "published_at": "2026-05-28 06:49",
-    "scraped_at": "2026-05-28T05:55:46.933616"
+    "id": "b602aa2a0f53c2d27d21cf14c7efde38",
+    "categorie": "IEX",
+    "titel": "Must read: Niks geen aandelenbubbel",
+    "link": "https://www.iex.nl/artikel/865500/Must-read-Niks-geen-aandelenbubbel.aspx",
+    "intro": "Plus: Wat te denken van de energietransitie, de nieuwe Fed-voorzitter, de beursgang van SpaceX, goedkope softwarebedrijven en de prijs van zilver? En nog meer natuurlijk.",
+    "published_at": "2026-05-28 10:00",
+    "scraped_at": "2026-05-28T10:10:10.118646"
   },
   {
-    "id": "07c5b7180ef59da518dfd8bf3730661f",
+    "id": "ccab2902ef98158c80bb291ec4e99cb8",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/865768/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 4 juni 2026:",
-    "published_at": "2026-05-28 06:48",
-    "scraped_at": "2026-05-28T05:55:46.933616"
+    "titel": "AEX nipt lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/865795/AEX-nipt-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong 0,1 procent lager op 1.039,48 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
+    "published_at": "2026-05-28 09:09",
+    "scraped_at": "2026-05-28T10:10:10.118646"
   },
   {
-    "id": "d863e2f7614a1bbdf4bcd29acb8487c4",
+    "id": "dea0fa69ee6df686ad4fbac2349c5d9b",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/865769/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 4 juni 2026:",
-    "published_at": "2026-05-28 06:48",
-    "scraped_at": "2026-05-28T05:55:46.933616"
+    "titel": "Winst Holland Colours onder druk",
+    "link": "https://www.beurs.nl/Nieuws/865794/Winst-Holland-Colours-onder-druk.aspx",
+    "intro": "Holland Colours heeft in het boekjaar 2025/2026 de omzet en winst onder druk zien staan. Dit maakte de Apeldoornse fabrikant van kleurstoffen voor met name kunststoffen donderdagochtend bekend.",
+    "published_at": "2026-05-28 09:03",
+    "scraped_at": "2026-05-28T10:10:10.118646"
+  },
+  {
+    "id": "50a6d0e29f83c7053c44ad8925f0865f",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Azerion ziet omzet aantrekken",
+    "link": "https://www.beurs.nl/Nieuws/865792/Update-Azerion-ziet-omzet-aantrekken.aspx",
+    "intro": "Azerion heeft in het eerste kwartaal van dit jaar de omzet van de voortgezette activiteiten zien aantrekken, terwijl het verlies afnam. Dit bleek donderdag uit de kwartaalcijfers van het Nederlandse platform voor digital advertising en entertainment.",
+    "published_at": "2026-05-28 08:56",
+    "scraped_at": "2026-05-28T10:10:10.118646"
+  },
+  {
+    "id": "e9e36b83ed163ebc8f01937279d34dbb",
+    "categorie": "Nieuws",
+    "titel": "Vastgoedwaarderingen weerspiegelen klimaatrisico onvoldoende",
+    "link": "https://www.ieximpact.nl/artikel/865647/Vastgoedwaarderingen-weerspiegelen-klimaatrisico-onvoldoende.aspx",
+    "intro": "Het klimaatrisico is volgens Van Lanschot Kempen onvoldoende in vastgoedprijzen ingeprijsd, waardoor abrupte waardedalingen dreigen en onder meer pensioenfondsen hard geraakt kunnen worden.",
+    "published_at": "2026-05-28 08:45",
+    "scraped_at": "2026-05-28T10:10:10.118646"
+  },
+  {
+    "id": "45aa95045a56433949579f479b44bf6a",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank haalt Heineken van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/865790/Deutsche-Bank-haalt-Heineken-van-de-kooplijst.aspx",
+    "intro": "Deutsche Bank heeft het advies voor Heineken verlaagd van Kopen naar Houden en het koersdoel bijgesteld van 93,00 naar 76,00 euro. Dit bleek donderdag uit een rapport van analist Mitch Collett.",
+    "published_at": "2026-05-28 08:31",
+    "scraped_at": "2026-05-28T10:10:10.118646"
+  },
+  {
+    "id": "730395f0bcb58e12c3f33156b7f862fe",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsdag in het rood na Amerikaanse aanval",
+    "link": "https://www.beurs.nl/Nieuws/865787/AEX-start-handelsdag-in-het-rood-na-Amerikaanse-aanval.aspx",
+    "intro": "De Amsterdamse beurs gaat donderdag lager van start na een nieuwe Amerikaanse aanval op Iran. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,5 procent.",
+    "published_at": "2026-05-28 08:11",
+    "scraped_at": "2026-05-28T10:10:10.118646"
   }
 ]
