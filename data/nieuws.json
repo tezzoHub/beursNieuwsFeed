@@ -1,92 +1,92 @@
 [
   {
-    "id": "df548bc2853b03006d8a9b90ec548a26",
+    "id": "78facb507172fc4e1605d549a27726d8",
     "categorie": "Beursnieuws",
-    "titel": "Media: Mistral overweegt om zelf chips te gaan ontwerpen",
-    "link": "https://www.beurs.nl/Nieuws/865812/Media-Mistral-overweegt-om-zelf-chips-te-gaan-ontwerpen.aspx",
-    "intro": "Het Franse AI-bedrijf Mistral onderzoekt mogelijkheden om zelf chips te ontwerpen en uiteindelijk ook zelf te ontwikkelen. Dat meldde nieuwszender CNBC.",
-    "published_at": "2026-05-28 11:32",
-    "scraped_at": "2026-05-28T10:10:10.118646"
+    "titel": "IATA: luchtvracht groeit ondanks oorlog in Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/865865/IATA-luchtvracht-groeit-ondanks-oorlog-in-Midden-Oosten.aspx",
+    "intro": "Het mondiale luchtvrachtvervoer is in april gegroeid, ondanks de zware verstoring door de oorlog in het Midden-Oosten. Dit bleek donderdag uit een rapport van de internationale brancheorganisatie IATA.",
+    "published_at": "2026-05-28 15:47",
+    "scraped_at": "2026-05-28T14:07:09.655087"
   },
   {
-    "id": "4a5f634550584e933419fe6ec37fda96",
+    "id": "cd767593075123428361caaef9b7da9e",
     "categorie": "Beursnieuws",
-    "titel": "Besi aan kop in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/865809/Besi-aan-kop-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagochtend lager, al wisten onder meer Besi en CVC Capital zich te onttrekken aan dit negatieve sentiment. Kort na de klok van elf uur daalde de AEX met 0,4 procent tot 1.036,32 punten.",
-    "published_at": "2026-05-28 11:20",
-    "scraped_at": "2026-05-28T10:10:10.118646"
+    "titel": "Wall Street waarschijnlijk vlak van start na serie macrocijfers",
+    "link": "https://www.beurs.nl/Nieuws/865860/Wall-Street-waarschijnlijk-vlak-van-start-na-serie-macrocijfers.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een fractioneel lagere opening tegemoet, nadat de hoop op vrede in het Midden-Oosten aan het wankelen werd gebracht door nieuwe Amerikaanse aanvallen op Iran.",
+    "published_at": "2026-05-28 15:03",
+    "scraped_at": "2026-05-28T14:07:09.655087"
   },
   {
-    "id": "d5cc50f7cc62e8965250ebb7d034bc8b",
+    "id": "08562a2acde169c87f35bdf14a24ff95",
     "categorie": "Beursnieuws",
-    "titel": "Bescheiden herstel consumentenvertrouwen eurozone",
-    "link": "https://www.beurs.nl/Nieuws/865807/Bescheiden-herstel-consumentenvertrouwen-eurozone.aspx",
-    "intro": "Het consumentenvertrouwen in de eurozone is in mei licht hersteld. Dit bleek donderdag uit cijfers van de Europese Commissie.",
-    "published_at": "2026-05-28 11:08",
-    "scraped_at": "2026-05-28T10:10:10.118646"
+    "titel": "Amerikaanse groei trekt minder sterk aan",
+    "link": "https://www.beurs.nl/Nieuws/865855/Amerikaanse-groei-trekt-minder-sterk-aan.aspx",
+    "intro": "De Amerikaanse economie is in het eerste kwartaal van 2026 harder gegroeid dan in de laatste maanden van 2025, maar minder sterk dan aanvankelijk voorzien. Dit werd donderdag bevestigd door nieuwe cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-05-28 14:49",
+    "scraped_at": "2026-05-28T14:07:09.655087"
   },
   {
-    "id": "b602aa2a0f53c2d27d21cf14c7efde38",
-    "categorie": "IEX",
-    "titel": "Must read: Niks geen aandelenbubbel",
-    "link": "https://www.iex.nl/artikel/865500/Must-read-Niks-geen-aandelenbubbel.aspx",
-    "intro": "Plus: Wat te denken van de energietransitie, de nieuwe Fed-voorzitter, de beursgang van SpaceX, goedkope softwarebedrijven en de prijs van zilver? En nog meer natuurlijk.",
-    "published_at": "2026-05-28 10:00",
-    "scraped_at": "2026-05-28T10:10:10.118646"
-  },
-  {
-    "id": "ccab2902ef98158c80bb291ec4e99cb8",
+    "id": "6bfc00d5aea243cb8f85c36b76d38202",
     "categorie": "Beursnieuws",
-    "titel": "AEX nipt lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/865795/AEX-nipt-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 0,1 procent lager op 1.039,48 punten, terwijl de Midkap 0,3 procent prijs moest geven.",
-    "published_at": "2026-05-28 09:09",
-    "scraped_at": "2026-05-28T10:10:10.118646"
+    "titel": "Amerikaanse PCE-inflatie gestegen",
+    "link": "https://www.beurs.nl/Nieuws/865856/Amerikaanse-PCE-inflatie-gestegen.aspx",
+    "intro": "Het inflatiecijfer in het PCE-rapport is in april gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-05-28 14:48",
+    "scraped_at": "2026-05-28T14:07:09.655087"
   },
   {
-    "id": "dea0fa69ee6df686ad4fbac2349c5d9b",
+    "id": "0e9bb238b42d9655d5e59f804ba66e3b",
     "categorie": "Beursnieuws",
-    "titel": "Winst Holland Colours onder druk",
-    "link": "https://www.beurs.nl/Nieuws/865794/Winst-Holland-Colours-onder-druk.aspx",
-    "intro": "Holland Colours heeft in het boekjaar 2025/2026 de omzet en winst onder druk zien staan. Dit maakte de Apeldoornse fabrikant van kleurstoffen voor met name kunststoffen donderdagochtend bekend.",
-    "published_at": "2026-05-28 09:03",
-    "scraped_at": "2026-05-28T10:10:10.118646"
+    "titel": "Meer nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/865857/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-05-28 14:48",
+    "scraped_at": "2026-05-28T14:07:09.655087"
   },
   {
-    "id": "50a6d0e29f83c7053c44ad8925f0865f",
+    "id": "0651c60bfd13d28f734e8842ebf0f77e",
     "categorie": "Beursnieuws",
-    "titel": "Update: Azerion ziet omzet aantrekken",
-    "link": "https://www.beurs.nl/Nieuws/865792/Update-Azerion-ziet-omzet-aantrekken.aspx",
-    "intro": "Azerion heeft in het eerste kwartaal van dit jaar de omzet van de voortgezette activiteiten zien aantrekken, terwijl het verlies afnam. Dit bleek donderdag uit de kwartaalcijfers van het Nederlandse platform voor digital advertising en entertainment.",
-    "published_at": "2026-05-28 08:56",
-    "scraped_at": "2026-05-28T10:10:10.118646"
+    "titel": "Fors meer orders voor duurzame goederen in VS",
+    "link": "https://www.beurs.nl/Nieuws/865854/Fors-meer-orders-voor-duurzame-goederen-in-VS.aspx",
+    "intro": "De orders voor duurzame goederen in de VS zijn in april sterker dan verwacht gestegen, door fors hogere orders voor verkeersvliegtuigen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-05-28 14:44",
+    "scraped_at": "2026-05-28T14:07:09.655087"
   },
   {
-    "id": "e9e36b83ed163ebc8f01937279d34dbb",
-    "categorie": "Nieuws",
-    "titel": "Vastgoedwaarderingen weerspiegelen klimaatrisico onvoldoende",
-    "link": "https://www.ieximpact.nl/artikel/865647/Vastgoedwaarderingen-weerspiegelen-klimaatrisico-onvoldoende.aspx",
-    "intro": "Het klimaatrisico is volgens Van Lanschot Kempen onvoldoende in vastgoedprijzen ingeprijsd, waardoor abrupte waardedalingen dreigen en onder meer pensioenfondsen hard geraakt kunnen worden.",
-    "published_at": "2026-05-28 08:45",
-    "scraped_at": "2026-05-28T10:10:10.118646"
-  },
-  {
-    "id": "45aa95045a56433949579f479b44bf6a",
+    "id": "2756a8db71e2cf5bba22168d3db2d2b1",
     "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank haalt Heineken van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/865790/Deutsche-Bank-haalt-Heineken-van-de-kooplijst.aspx",
-    "intro": "Deutsche Bank heeft het advies voor Heineken verlaagd van Kopen naar Houden en het koersdoel bijgesteld van 93,00 naar 76,00 euro. Dit bleek donderdag uit een rapport van analist Mitch Collett.",
-    "published_at": "2026-05-28 08:31",
-    "scraped_at": "2026-05-28T10:10:10.118646"
+    "titel": "Kohl's brengt verlies iets terug",
+    "link": "https://www.beurs.nl/Nieuws/865850/Kohls-brengt-verlies-iets-terug.aspx",
+    "intro": "Kohl's heeft in het eerste kwartaal van dit jaar het verlies wat teruggebracht en realiseerde naar eigen zeggen de beste vergelijkbare omzetgroei in jaren. Dit bleek donderdag uit de kwartaalcijfers van de Amerikaanse warenhuisketen.",
+    "published_at": "2026-05-28 14:26",
+    "scraped_at": "2026-05-28T14:07:09.655087"
   },
   {
-    "id": "730395f0bcb58e12c3f33156b7f862fe",
+    "id": "a34ac968ad2c1be1d67c1ad4a2a6bce7",
     "categorie": "Beursnieuws",
-    "titel": "AEX start handelsdag in het rood na Amerikaanse aanval",
-    "link": "https://www.beurs.nl/Nieuws/865787/AEX-start-handelsdag-in-het-rood-na-Amerikaanse-aanval.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag lager van start na een nieuwe Amerikaanse aanval op Iran. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,5 procent.",
-    "published_at": "2026-05-28 08:11",
-    "scraped_at": "2026-05-28T10:10:10.118646"
+    "titel": "AkzoNobel verder omhoog in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/865846/AkzoNobel-verder-omhoog-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagmiddag in de min. Rond de klok van twee uur daalde de AEX met 0,4 procent tot 1.035,98 punten.",
+    "published_at": "2026-05-28 13:59",
+    "scraped_at": "2026-05-28T14:07:09.655087"
+  },
+  {
+    "id": "5a3d1b3d01b000db81a20b288df617fc",
+    "categorie": "Beursnieuws",
+    "titel": "Fertitta wil Caesars Entertainment overnemen",
+    "link": "https://www.beurs.nl/Nieuws/865844/Fertitta-wil-Caesars-Entertainment-overnemen.aspx",
+    "intro": "Fertitta Entertainment heeft een overeenkomst bereikt over de overname van Caesars Entertainment voor een bedrag van 5,7 miljard dollar, exclusief schulden. Dit maakten beide casino-uitbaters donderdag bekend.",
+    "published_at": "2026-05-28 13:47",
+    "scraped_at": "2026-05-28T14:07:09.655087"
+  },
+  {
+    "id": "f81fdf8648240f843eaf64a38d2381e7",
+    "categorie": "Beursnieuws",
+    "titel": "Rheinmetall levert vrachtwagens aan Duitsland",
+    "link": "https://www.beurs.nl/Nieuws/865838/Rheinmetall-levert-vrachtwagens-aan-Duitsland.aspx",
+    "intro": "Rheinmetall heeft van het Duitse leger een opdracht ter waarde van 1,015 miljard euro gekregen voor de levering van meer dan 2.000 militaire vrachtwagens. Dat maakte het defensiebedrijf donderdag bekend.",
+    "published_at": "2026-05-28 13:37",
+    "scraped_at": "2026-05-28T14:07:09.655087"
   }
 ]
