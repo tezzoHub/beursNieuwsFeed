@@ -1,92 +1,56 @@
 [
   {
-    "id": "2b333f1a00047367708f8fecb8c63abd",
+    "id": "af73c0c8f3413a5b27c10ee63032fffa",
     "categorie": "Beursnieuws",
-    "titel": "Snowflake de lucht in op omzetverwachting",
-    "link": "https://www.beurs.nl/Nieuws/865747/Snowflake-de-lucht-in-op-omzetverwachting.aspx",
-    "intro": "Het aandeel Snowflake steeg woensdag nadat de producent van bedrijfssoftware meevallende kwartaalcijfers bekendmaakte en zijn outlook verhoogde dankzij sterke groei op het gebied van kunstmatige intelligentie. Dat bleek uit de kwartaalcijfers.",
-    "published_at": "2026-05-27 22:49",
-    "scraped_at": "2026-05-28T01:27:15.565646"
+    "titel": "Aziatische beurzen in het rood terwijl olieprijzen weer stijgen",
+    "link": "https://www.beurs.nl/Nieuws/865774/Aziatische-beurzen-in-het-rood-terwijl-olieprijzen-weer-stijgen.aspx",
+    "intro": "De Aziatische beurzen koersten donderdagochtend eensgezind lager.",
+    "published_at": "2026-05-28 07:20",
+    "scraped_at": "2026-05-28T05:55:46.933616"
   },
   {
-    "id": "57fb33698ff55d5fae89274d89946638",
+    "id": "c8b70f41d54ba900a83c1d59052a1183",
     "categorie": "Beursnieuws",
-    "titel": "Vooruitblik Salesforce stelt teleur",
-    "link": "https://www.beurs.nl/Nieuws/865746/Vooruitblik-Salesforce-stelt-teleur.aspx",
-    "intro": "Salesforce heeft in het afgelopen kwartaal veel winst geboekt, maar schokte niet met sterker dan verwachte omzetgroei. Dit bleek woensdag nabeurs uit de resultaten van het Amerikaanse bedrijf.",
-    "published_at": "2026-05-27 22:41",
-    "scraped_at": "2026-05-28T01:27:15.565646"
+    "titel": "Aegon kondigt akkoord aan met Vereniging Aegon",
+    "link": "https://www.beurs.nl/Nieuws/865773/Aegon-kondigt-akkoord-aan-met-Vereniging-Aegon.aspx",
+    "intro": "Aegon heeft een akkoord bereikt met grootaandeelhouder Vereniging Aegon over hun toekomstige relatie. Dit maakte de verzekeraar donderdagochtend bekend.",
+    "published_at": "2026-05-28 07:14",
+    "scraped_at": "2026-05-28T05:55:46.933616"
   },
   {
-    "id": "809fcbc8e430c75cc59d756d0cb7033b",
+    "id": "b66150bc0a703cd1b2c23a76cd41af9a",
     "categorie": "Beursnieuws",
-    "titel": "Sterke outlook Marvell",
-    "link": "https://www.beurs.nl/Nieuws/865743/Sterke-outlook-Marvell.aspx",
-    "intro": "Marvell Technology heeft een sterke outlook afgegeven voor het tweede kwartaal, nadat het eerste kwartaal aan de verwachtingen voldeed. Dat bleek woensdag nabeurs.",
-    "published_at": "2026-05-27 22:24",
-    "scraped_at": "2026-05-28T01:27:15.565646"
+    "titel": "Europese beurzen openen flink lager na Amerikaanse aanval",
+    "link": "https://www.beurs.nl/Nieuws/865772/Europese-beurzen-openen-flink-lager-na-Amerikaanse-aanval.aspx",
+    "intro": "De Europese beurzen gaan donderdag een duidelijk lagere opening tegemoet, nadat de VS nieuwe aanvallen uitvoeren op Iran, waardoor de twijfels toenemen of de twee landen wel tot een nieuw akkoord zullen komen.",
+    "published_at": "2026-05-28 06:56",
+    "scraped_at": "2026-05-28T05:55:46.933616"
   },
   {
-    "id": "3938d9a6052a1d352aabadec4a2e93bf",
+    "id": "41648fe21e3dfe893d1bd05913bdc47b",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/865742/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag drie van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten. ArcelorMittal was de sterkste stijger.",
-    "published_at": "2026-05-27 22:16",
-    "scraped_at": "2026-05-28T01:27:15.565646"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/865770/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 4 juni 2026:",
+    "published_at": "2026-05-28 06:49",
+    "scraped_at": "2026-05-28T05:55:46.933616"
   },
   {
-    "id": "ca96b8ff9607e4a268f9640b0e47d4a1",
+    "id": "07c5b7180ef59da518dfd8bf3730661f",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit licht hoger",
-    "link": "https://www.beurs.nl/Nieuws/865741/Wall-Street-sluit-licht-hoger.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen zijn woensdagavond vlak tot licht hoger gesloten, terwijl de olieprijs daalde en de rally van technologie-aandelen een adempauze nam.",
-    "published_at": "2026-05-27 22:12",
-    "scraped_at": "2026-05-28T01:27:15.565646"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/865768/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 4 juni 2026:",
+    "published_at": "2026-05-28 06:48",
+    "scraped_at": "2026-05-28T05:55:46.933616"
   },
   {
-    "id": "2bf55717b02ee898f18dc76d282f68dc",
+    "id": "d863e2f7614a1bbdf4bcd29acb8487c4",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt hard",
-    "link": "https://www.beurs.nl/Nieuws/865734/Olieprijs-daalt-hard.aspx",
-    "intro": "De olieprijs is woensdag hard gedaald, nadat de Islamitische Revolutionaire Garde in Iran liet blijken dat de kans klein is dat de oorlog met de Verenigde Staten weer zal oplaaien.",
-    "published_at": "2026-05-27 21:05",
-    "scraped_at": "2026-05-28T01:27:15.565646"
-  },
-  {
-    "id": "9b2a12426bc1a836c6ba146fd1eed53e",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street blijft dicht bij huis",
-    "link": "https://www.beurs.nl/Nieuws/865732/Wall-Street-blijft-dicht-bij-huis.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen stonden woensdagavond vlak tot licht hoger, terwijl de olieprijs daalde en de rally van technologie-aandelen een adempauze nam.",
-    "published_at": "2026-05-27 20:23",
-    "scraped_at": "2026-05-28T01:27:15.565646"
-  },
-  {
-    "id": "ff4e52b32cbaaa555aaf3c0c0f112c45",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/865731/Europese-beurzen-sluiten-verdeeld.aspx",
-    "intro": "De Europese beurzen zijn woensdag verdeeld gesloten, nadat optimisme rond de Straat van Hormuz de olieprijs liet dalen en luxemerken in trek waren.",
-    "published_at": "2026-05-27 19:04",
-    "scraped_at": "2026-05-28T01:27:15.565646"
-  },
-  {
-    "id": "996f514b30420ab18a08aeb7f17e7686",
-    "categorie": "Beursnieuws",
-    "titel": "CFO Tandowsky verlaat Adyen",
-    "link": "https://www.beurs.nl/Nieuws/865728/CFO-Tandowsky-verlaat-Adyen.aspx",
-    "intro": "Chief financial officer Ethan Tandowsky verlaat Adyen per eind augustus, voor een rol bij een ander bedrijf buiten de fintechsector. Dat maakte het Amsterdamse betaalbedrijf woensdag bekend.",
-    "published_at": "2026-05-27 18:49",
-    "scraped_at": "2026-05-28T01:27:15.565646"
-  },
-  {
-    "id": "959036b98a4d9ac782a3f74892225a3f",
-    "categorie": "Beursnieuws",
-    "titel": "Lichtrood slot AEX ondanks koersexplosie Akzo",
-    "link": "https://www.beurs.nl/Nieuws/865718/Lichtrood-slot-AEX-ondanks-koersexplosie-Akzo.aspx",
-    "intro": "De Amsterdamse beurs is woensdag met verlies gesloten. De AEX leverde 0,2 procent in op 1.039,95 punten, ondanks de koersexplosie van AkzoNobel.",
-    "published_at": "2026-05-27 17:52",
-    "scraped_at": "2026-05-28T01:27:15.565646"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/865769/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 4 juni 2026:",
+    "published_at": "2026-05-28 06:48",
+    "scraped_at": "2026-05-28T05:55:46.933616"
   }
 ]
