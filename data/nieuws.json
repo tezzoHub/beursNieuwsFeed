@@ -1,92 +1,74 @@
 [
   {
-    "id": "2810d959201516fdd4ea1451213a29d3",
+    "id": "9d9d2d974d27861988a68707f38c00e3",
     "categorie": "Beursnieuws",
-    "titel": "Retailer Gap onderuit na outlookverlaging",
-    "link": "https://www.beurs.nl/Nieuws/865917/Retailer-Gap-onderuit-na-outlookverlaging.aspx",
-    "intro": "Het aandeel van kledingretailer Gap noteerde donderdag nabeurs flink lager na een outlookverlaging van het bedrijf.",
-    "published_at": "2026-05-28 22:39",
-    "scraped_at": "2026-05-29T01:48:07.709886"
+    "titel": "Citi verhoogt koersdoel AMG",
+    "link": "https://www.beurs.nl/Nieuws/865948/Citi-verhoogt-koersdoel-AMG.aspx",
+    "intro": "Citi Research heeft vrijdag het koersdoel voor AMG verhoogd van 45,00 naar 52,00 euro met handhaving van het koopadvies. Dit bleek uit een rapport van de Amerikaanse bank.",
+    "published_at": "2026-05-29 07:32",
+    "scraped_at": "2026-05-29T05:59:08.521446"
   },
   {
-    "id": "4a91fe9fddfd66f268b4c99ad03fba1f",
+    "id": "77cc43a4b1829973d015e42aa8e628e3",
     "categorie": "Beursnieuws",
-    "titel": "Dell verslaat verwachtingen met recordresultaten",
-    "link": "https://www.beurs.nl/Nieuws/865916/Dell-verslaat-verwachtingen-met-recordresultaten.aspx",
-    "intro": "Dell Technologies heeft in het eerste kwartaal beter dan verwachte resultaten geboekt, profiterend van de vraag naar AI-producten. Dit bleek donderdagavond uit de cijfers van het Amerikaanse computer- en serverbedrijf, dat ook de outlook verhoogde.",
-    "published_at": "2026-05-28 22:29",
-    "scraped_at": "2026-05-29T01:48:07.709886"
+    "titel": "ABN Amro zet BAM op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/865947/ABN-Amro-zet-BAM-op-de-kooplijst.aspx",
+    "intro": "ABN AMRO Oddo heeft vrijdag het advies voor BAM Groep verhoogd van Underperform naar Outperfom met een verhoging van het koersdoel van 8,10 naar 13,50 euro. Dit bleek uit een rapport van analist Martijn den Drijver.",
+    "published_at": "2026-05-29 07:22",
+    "scraped_at": "2026-05-29T05:59:08.521446"
   },
   {
-    "id": "18142d89a3629723d6fffb0762e1e71a",
+    "id": "6224f952d7e15cc02cc4f8debb2f2bc1",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/865915/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag zes van de acht de AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-05-28 22:14",
-    "scraped_at": "2026-05-29T01:48:07.709886"
+    "titel": "Aziatische beurzen noteren in het groen",
+    "link": "https://www.beurs.nl/Nieuws/865944/Aziatische-beurzen-noteren-in-het-groen.aspx",
+    "intro": "De Aziatische beurzen wisten vrijdagochtend de weg omhoog te vinden.",
+    "published_at": "2026-05-29 07:13",
+    "scraped_at": "2026-05-29T05:59:08.521446"
   },
   {
-    "id": "071f8ec60b3ce20aced629df488917f9",
+    "id": "8fcb562ef987ec15e30dfdab461e9f6c",
     "categorie": "Beursnieuws",
-    "titel": "Kwartaalcijfers en vredeshoop helpen Wall Street aan verse records",
-    "link": "https://www.beurs.nl/Nieuws/865914/Kwartaalcijfers-en-vredeshoop-helpen-Wall-Street-aan-verse-records.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdag hoger geëindigd nadat nieuwssite Axios meldde dat er een akkoord zou zijn bereikt tussen de VS en Iran om de wapenstilstand met 60 dagen te verlengen en in die periode te onderhandelen over het atoomprogramma van Iran.",
-    "published_at": "2026-05-28 22:11",
-    "scraped_at": "2026-05-29T01:48:07.709886"
+    "titel": "Nederlandse producentenprijzen gestegen",
+    "link": "https://www.beurs.nl/Nieuws/865943/Nederlandse-producentenprijzen-gestegen.aspx",
+    "intro": "De afzetprijzen van de Nederlandse industrie zijn in april gestegen. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-05-29 07:05",
+    "scraped_at": "2026-05-29T05:59:08.521446"
   },
   {
-    "id": "8dc76775b80015522fe0c54cbae627af",
+    "id": "53731ea2f7848fff151425c06d5b27c4",
     "categorie": "Beursnieuws",
-    "titel": "Anthropic bijna 1 biljoen dollar waard",
-    "link": "https://www.beurs.nl/Nieuws/865913/Anthropic-bijna-1-biljoen-dollar-waard.aspx",
-    "intro": "Anthropic heeft 65 miljard dollar opgehaald in een nieuwe financieringsronde. Dit meldde het Amerikaanse kunstmatige inteilligentiebedrijf donderdagavond op zijn website.",
-    "published_at": "2026-05-28 21:24",
-    "scraped_at": "2026-05-29T01:48:07.709886"
+    "titel": "Europese beurzen openen hoger",
+    "link": "https://www.beurs.nl/Nieuws/865942/Europese-beurzen-openen-hoger.aspx",
+    "intro": "De aandelenmarkten in Europa gaan vrijdag een hogere opening tegemoet, in afwachting van inflatiecijfers uit verschillende eurozonelanden.",
+    "published_at": "2026-05-29 06:59",
+    "scraped_at": "2026-05-29T05:59:08.521446"
   },
   {
-    "id": "63ad5d123619adae4a14fb366069168d",
+    "id": "47a0cf792038332d2b09ecc5358b2fbd",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stabiliseert na bericht over deal VS en Iran",
-    "link": "https://www.beurs.nl/Nieuws/865912/Olieprijs-stabiliseert-na-bericht-over-deal-VS-en-Iran.aspx",
-    "intro": "De olieprijs is donderdag gestabiliseerd na een eerdere stijging. Een vat West Texas Intermediate kostte bij de settlement 88,90 dollar en werd daarmee 0,3 procent duurder dan woensdag.",
-    "published_at": "2026-05-28 21:02",
-    "scraped_at": "2026-05-29T01:48:07.709886"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/865938/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 5 juni 2026:",
+    "published_at": "2026-05-29 06:50",
+    "scraped_at": "2026-05-29T05:59:08.521446"
   },
   {
-    "id": "7fef8cd68555b88fa3ef0455883766cf",
+    "id": "ac2eb9187eb5fb6767e7adb399e779c0",
     "categorie": "Beursnieuws",
-    "titel": "Media: Duitsland schendt mogelijk Europese handelsdeal met VS",
-    "link": "https://www.beurs.nl/Nieuws/865907/Media-Duitsland-schendt-mogelijk-Europese-handelsdeal-met-VS.aspx",
-    "intro": "Duitsland wil Amerikaanse streamingdiensten verplichten te investeren in de Duitse filmsector en dat zou een schending zijn van de handelsovereenkomst tussen de Europese Unie en de VS. Dit stelde de Amerikaanse handelsvertegenwoordiger Jamieson Greer donderdag tegenover Bloomberg.",
-    "published_at": "2026-05-28 20:12",
-    "scraped_at": "2026-05-29T01:48:07.709886"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/865939/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 5 juni 2026:",
+    "published_at": "2026-05-29 06:50",
+    "scraped_at": "2026-05-29T05:59:08.521446"
   },
   {
-    "id": "225f69092431cf68c377508f71ea50d7",
+    "id": "b96a06ea389a764964beb3b78edd6438",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street scherpt records aan",
-    "link": "https://www.beurs.nl/Nieuws/865904/Wall-Street-scherpt-records-aan.aspx",
-    "intro": "De Amerikaanse beurzen noteerden donderdag overwegend hoger met nog een paar uur handel te gaan, nadat nieuwssite Axios meldde dat er een akkoord zou zijn bereikt tussen de VS en Iran om de wapenstilstand met 60 dagen te verlengen en in die periode te onderhandelen over het atoomprogramma van Iran.",
-    "published_at": "2026-05-28 19:46",
-    "scraped_at": "2026-05-29T01:48:07.709886"
-  },
-  {
-    "id": "55700c65d333ebecb47ea26df6cc0cc2",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden verder geslonken",
-    "link": "https://www.beurs.nl/Nieuws/865902/Amerikaanse-olievoorraden-verder-geslonken.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week verder geslonken. Dit bleek donderdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-05-28 19:29",
-    "scraped_at": "2026-05-29T01:48:07.709886"
-  },
-  {
-    "id": "14542755e94d4ef68dc92dc8ab00a48c",
-    "categorie": "Beursnieuws",
-    "titel": "Jaarvergadering Adyen akkoord met alle agendapunten",
-    "link": "https://www.beurs.nl/Nieuws/865899/Jaarvergadering-Adyen-akkoord-met-alle-agendapunten.aspx",
-    "intro": "De aandeelhouders van Adyen hebben donderdag tijdens de jaarvergadering ingestemd met alle voorstellen die op de agenda stonden. Dit meldde het fintechbedrijf na afloop van de bijeenkomst.",
-    "published_at": "2026-05-28 19:23",
-    "scraped_at": "2026-05-29T01:48:07.709886"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/865940/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 5 juni 2026:",
+    "published_at": "2026-05-29 06:50",
+    "scraped_at": "2026-05-29T05:59:08.521446"
   }
 ]
