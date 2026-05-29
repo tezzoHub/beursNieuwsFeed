@@ -1,12 +1,39 @@
 [
   {
+    "id": "f8432a2acde4f2fecb24722966156f77",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs fors lager in mei",
+    "link": "https://www.beurs.nl/Nieuws/866072/Olieprijs-fors-lager-in-mei.aspx",
+    "intro": "De olieprijs is vrijdag gedaald, nadat de Amerikaanse president Donald Trump bevestigde dat hij spoedig zal beslissen over een akkoord tussen de VS en Iran.",
+    "published_at": "2026-05-29 21:06",
+    "scraped_at": "2026-05-29T19:44:37.814940"
+  },
+  {
+    "id": "9257ebc981395d7fafda8a7abc07b51c",
+    "categorie": "Beursnieuws",
+    "titel": "UMG wijst bod Pershing Square formeel af",
+    "link": "https://www.beurs.nl/Nieuws/866071/UMG-wijst-bod-Pershing-Square-formeel-af.aspx",
+    "intro": "Universal Music Group heeft besloten om het overnamevoorstel van Pershing Square af te wijzen. Dit meldde UMG vrijdagavond.",
+    "published_at": "2026-05-29 20:04",
+    "scraped_at": "2026-05-29T19:44:37.814940"
+  },
+  {
+    "id": "ee4dced53203483ea47e1c89b9bab868",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst hoger",
+    "link": "https://www.beurs.nl/Nieuws/866070/Wall-Street-koerst-hoger.aspx",
+    "intro": "De Amerikaanse beurzen noteerden vrijdag licht hoger met nog een paar uur handel te gaan.",
+    "published_at": "2026-05-29 19:31",
+    "scraped_at": "2026-05-29T19:44:37.814940"
+  },
+  {
     "id": "26be9b99b95c79da31a1ce389469157d",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen voorzichtig het weekend in",
     "link": "https://www.beurs.nl/Nieuws/866065/Europese-beurzen-voorzichtig-het-weekend-in.aspx",
     "intro": "De Europese beurzen zijn vrijdag dicht bij huis gebleven, terwijl inflatiecijfers uit een aantal eurozonelanden een verdeeld beeld lieten zien.",
     "published_at": "2026-05-29 18:47",
-    "scraped_at": "2026-05-29T17:21:48.372518"
+    "scraped_at": "2026-05-29T19:44:37.814940"
   },
   {
     "id": "5e8ec9396a01632fe9ec2e6ccff3a7fa",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/866064/Uiterlijk-eind-juni-duidelijkheid-over-fusie-OCI-en-Orascom.aspx",
     "intro": "De onafhankelijke bestuurders die bepalen of de fusie tussen OCI en Orascom kan worden voorgelegd aan de aandeelhouders, streven ernaar om uiterlijk eind juni uitsluitsel hierover te geven. Dit werd vrijdag bekend in een update van OCI over het eerste kwartaal.",
     "published_at": "2026-05-29 18:38",
-    "scraped_at": "2026-05-29T17:21:48.372518"
+    "scraped_at": "2026-05-29T19:44:37.814940"
   },
   {
     "id": "c8aa3522632c9a461d2a20986a5b3833",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/866060/SBM-Offshore-wint-twee-FPSO-contracten-Petrobras.aspx",
     "intro": "SBM Offshore heeft van het Braziliaanse staatsoliebedrijf Petrobras twee contracten gewonnen voor de bouw en exploitatie van de drijvende productie-installaties SEAP-I en SEAP-II in het Sergipe-Alagoas bassin voor de kust van Brazilië. Dit maakte het Amsterdamse offshore-bedrijf vrijdagavond bekend.",
     "published_at": "2026-05-29 18:15",
-    "scraped_at": "2026-05-29T17:21:48.372518"
+    "scraped_at": "2026-05-29T19:44:37.814940"
   },
   {
     "id": "3303d38e59026086da445bcda6211a2d",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/866057/BAM-en-AMG-uitblinkers-op-lichtrood-Damrak.aspx",
     "intro": "De Amsterdamse beurs is vrijdag met een klein verlies gesloten, na een rustig verlopen handelsdag, die aan het einde wat werd opgeschud na nieuws over de vredesdeal tussen de Verenigde Staten en Iran.",
     "published_at": "2026-05-29 17:50",
-    "scraped_at": "2026-05-29T17:21:48.372518"
+    "scraped_at": "2026-05-29T19:44:37.814940"
   },
   {
     "id": "d878763eb8313f2dff5c64b6d4e49bc0",
@@ -42,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/866050/Slotcall-analistenrapporten-bepalen-de-gang-van-zaken.aspx",
     "intro": "",
     "published_at": "2026-05-29 17:35",
-    "scraped_at": "2026-05-29T17:21:48.372518"
+    "scraped_at": "2026-05-29T19:44:37.814940"
   },
   {
     "id": "ff7b55ae066446fa747991a639bf1996",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/866052/Trump-beslist-over-vredesakkoord-VS-en-Iran.aspx",
     "intro": "De Amerikaanse president Donald Trump heeft vrijdag op Truth Social bevestigd dat de VS en Iran dicht bij een akkoord zijn over een einde aan het conflict. Trump heeft zich in de Situation Room teruggetrokken voor een definitieve beslissing, zo gaf hij aan op sociale media.",
     "published_at": "2026-05-29 16:50",
-    "scraped_at": "2026-05-29T17:21:48.372518"
+    "scraped_at": "2026-05-29T19:44:37.814940"
   },
   {
     "id": "9e4e51c62f51e66893c998c3d02d11a1",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/866047/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 8 juni 2026:",
     "published_at": "2026-05-29 16:30",
-    "scraped_at": "2026-05-29T17:21:48.372518"
-  },
-  {
-    "id": "0ff533207482cdfd9f09b2adf63e9412",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/866048/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 8 juni 2026:",
-    "published_at": "2026-05-29 16:30",
-    "scraped_at": "2026-05-29T17:21:48.372518"
-  },
-  {
-    "id": "16be9e3d069eb6c83b5efd9b06820085",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/866049/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 8 juni 2026:",
-    "published_at": "2026-05-29 16:30",
-    "scraped_at": "2026-05-29T17:21:48.372518"
-  },
-  {
-    "id": "2bcbc4d911cb23895c62c0fa8f09c20b",
-    "categorie": "Beursnieuws",
-    "titel": "Inkoopmanagersindex Chicago fors toegenomen",
-    "link": "https://www.beurs.nl/Nieuws/866043/Inkoopmanagersindex-Chicago-fors-toegenomen.aspx",
-    "intro": "De inkoopmanagersindex voor de regio Chicago is in mei fors toegenomen en vertoond daardoor weer groei. Dit meldde het ISM vrijdagmiddag.",
-    "published_at": "2026-05-29 15:57",
-    "scraped_at": "2026-05-29T17:21:48.372518"
+    "scraped_at": "2026-05-29T19:44:37.814940"
   }
 ]
