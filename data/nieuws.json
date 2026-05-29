@@ -1,74 +1,92 @@
 [
   {
-    "id": "9d9d2d974d27861988a68707f38c00e3",
+    "id": "63412e80092a054fb8c3348b4ee12c1b",
     "categorie": "Beursnieuws",
-    "titel": "Citi verhoogt koersdoel AMG",
-    "link": "https://www.beurs.nl/Nieuws/865948/Citi-verhoogt-koersdoel-AMG.aspx",
-    "intro": "Citi Research heeft vrijdag het koersdoel voor AMG verhoogd van 45,00 naar 52,00 euro met handhaving van het koopadvies. Dit bleek uit een rapport van de Amerikaanse bank.",
-    "published_at": "2026-05-29 07:32",
-    "scraped_at": "2026-05-29T05:59:08.521446"
+    "titel": "Italiaanse inflatie verder opgelopen",
+    "link": "https://www.beurs.nl/Nieuws/865996/Italiaanse-inflatie-verder-opgelopen.aspx",
+    "intro": "De Italiaanse consumentenprijzen zijn in mei verder opgelopen door hogere prijzen voor energie. Dit bleek vrijdag uit voorlopige cijfers van Istat, het Italiaanse bureau voor de statistiek.",
+    "published_at": "2026-05-29 11:15",
+    "scraped_at": "2026-05-29T10:10:54.358505"
   },
   {
-    "id": "77cc43a4b1829973d015e42aa8e628e3",
+    "id": "b9cdeab48226d4461742b8002d737c59",
     "categorie": "Beursnieuws",
-    "titel": "ABN Amro zet BAM op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/865947/ABN-Amro-zet-BAM-op-de-kooplijst.aspx",
-    "intro": "ABN AMRO Oddo heeft vrijdag het advies voor BAM Groep verhoogd van Underperform naar Outperfom met een verhoging van het koersdoel van 8,10 naar 13,50 euro. Dit bleek uit een rapport van analist Martijn den Drijver.",
-    "published_at": "2026-05-29 07:22",
-    "scraped_at": "2026-05-29T05:59:08.521446"
+    "titel": "BAM schiet omhoog op groen Damrak",
+    "link": "https://www.beurs.nl/Nieuws/865991/BAM-schiet-omhoog-op-groen-Damrak.aspx",
+    "intro": "De Amsterdamse beurs koerste vrijdagochtend hoger. Rond de klok van elf uur won de AEX 0,5 procent op 1.042,53 punten.",
+    "published_at": "2026-05-29 11:07",
+    "scraped_at": "2026-05-29T10:10:54.358505"
   },
   {
-    "id": "6224f952d7e15cc02cc4f8debb2f2bc1",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren in het groen",
-    "link": "https://www.beurs.nl/Nieuws/865944/Aziatische-beurzen-noteren-in-het-groen.aspx",
-    "intro": "De Aziatische beurzen wisten vrijdagochtend de weg omhoog te vinden.",
-    "published_at": "2026-05-29 07:13",
-    "scraped_at": "2026-05-29T05:59:08.521446"
+    "id": "2858943599dbc0186c4940f2d7f0775c",
+    "categorie": "IEX",
+    "titel": "Must read: Waarom is er geen recessie in de VS?",
+    "link": "https://www.iex.nl/artikel/865820/Must-read-Waarom-is-er-geen-recessie-in-de-VS.aspx",
+    "intro": "De rijken houden de economie drijvende. Plus; BAM doet bam, de Paus steunt Ferrari en alles gaat prima in Zuid-Korea.",
+    "published_at": "2026-05-29 10:10",
+    "scraped_at": "2026-05-29T10:10:54.358505"
   },
   {
-    "id": "8fcb562ef987ec15e30dfdab461e9f6c",
+    "id": "d8d76832be6070de81188bb55ffbaf2d",
     "categorie": "Beursnieuws",
-    "titel": "Nederlandse producentenprijzen gestegen",
-    "link": "https://www.beurs.nl/Nieuws/865943/Nederlandse-producentenprijzen-gestegen.aspx",
-    "intro": "De afzetprijzen van de Nederlandse industrie zijn in april gestegen. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-05-29 07:05",
-    "scraped_at": "2026-05-29T05:59:08.521446"
+    "titel": "Duitse werkloosheid loopt licht terug",
+    "link": "https://www.beurs.nl/Nieuws/865979/Duitse-werkloosheid-loopt-licht-terug.aspx",
+    "intro": "Het aantal werklozen in Duitsland is in mei iets gedaald. Dit bleek vrijdag uit overheidscijfers.",
+    "published_at": "2026-05-29 10:04",
+    "scraped_at": "2026-05-29T10:10:54.358505"
   },
   {
-    "id": "53731ea2f7848fff151425c06d5b27c4",
+    "id": "dae8f3628502c885b4ee49baceb27664",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen hoger",
-    "link": "https://www.beurs.nl/Nieuws/865942/Europese-beurzen-openen-hoger.aspx",
-    "intro": "De aandelenmarkten in Europa gaan vrijdag een hogere opening tegemoet, in afwachting van inflatiecijfers uit verschillende eurozonelanden.",
-    "published_at": "2026-05-29 06:59",
-    "scraped_at": "2026-05-29T05:59:08.521446"
+    "titel": "Spaanse inflatie stabiel",
+    "link": "https://www.beurs.nl/Nieuws/865974/Spaanse-inflatie-stabiel.aspx",
+    "intro": "De Spaanse inflatie is in mei in een stabiel tempo gestegen. Dit bleek vrijdag uit cijfers van het Spaanse statistiekbureau Ine.",
+    "published_at": "2026-05-29 09:45",
+    "scraped_at": "2026-05-29T10:10:54.358505"
   },
   {
-    "id": "47a0cf792038332d2b09ecc5358b2fbd",
+    "id": "02172f5b277f115ce3404633fa901d66",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/865938/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 5 juni 2026:",
-    "published_at": "2026-05-29 06:50",
-    "scraped_at": "2026-05-29T05:59:08.521446"
+    "titel": "AEX vlak van start en koerssprong BAM",
+    "link": "https://www.beurs.nl/Nieuws/865969/AEX-vlak-van-start-en-koerssprong-BAM.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,1 procent hoger op 1.037,81 punten, terwijl de Midkap 1,0 procent won.",
+    "published_at": "2026-05-29 09:12",
+    "scraped_at": "2026-05-29T10:10:54.358505"
   },
   {
-    "id": "ac2eb9187eb5fb6767e7adb399e779c0",
+    "id": "bdd0c5876475fc96f58c46e5b4aa75d3",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/865939/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 5 juni 2026:",
-    "published_at": "2026-05-29 06:50",
-    "scraped_at": "2026-05-29T05:59:08.521446"
+    "titel": "Kleine krimp Franse economie",
+    "link": "https://www.beurs.nl/Nieuws/865963/Kleine-krimp-Franse-economie.aspx",
+    "intro": "De Franse economie is in het eerste kwartaal nipt gekrompen. Dit bleek vrijdag uit cijfers van Insee, het Franse bureau voor de statistiek.",
+    "published_at": "2026-05-29 08:54",
+    "scraped_at": "2026-05-29T10:10:54.358505"
   },
   {
-    "id": "b96a06ea389a764964beb3b78edd6438",
+    "id": "430f8c9a49996b8b69052262fd9cc2d6",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/865940/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 5 juni 2026:",
-    "published_at": "2026-05-29 06:50",
-    "scraped_at": "2026-05-29T05:59:08.521446"
+    "titel": "Franse inflatie stijgt door",
+    "link": "https://www.beurs.nl/Nieuws/865964/Franse-inflatie-stijgt-door.aspx",
+    "intro": "De inflatie in Frankrijk is in mei verder toegenomen. Dit bleek vrijdag uit voorlopige cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-05-29 08:54",
+    "scraped_at": "2026-05-29T10:10:54.358505"
+  },
+  {
+    "id": "32dee6c51cb4471bf473bb7334c2b623",
+    "categorie": "Beursnieuws",
+    "titel": "Causeway Capital meldt belang in Philips",
+    "link": "https://www.beurs.nl/Nieuws/865959/Causeway-Capital-meldt-belang-in-Philips.aspx",
+    "intro": "Causeway Capital Management heeft voor het eerst een belang in Philips gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 26 mei.",
+    "published_at": "2026-05-29 08:34",
+    "scraped_at": "2026-05-29T10:10:54.358505"
+  },
+  {
+    "id": "486851f78919540e1e82bb82791930a4",
+    "categorie": "Beleggen",
+    "titel": "Beleggen in de energietransitie: rendement opgeven hoeft zeker niet",
+    "link": "https://www.ieximpact.nl/artikel/864147/Beleggen-in-de-energietransitie-rendement-opgeven-hoeft-zeker-niet.aspx",
+    "intro": "Duurzaam beleggen wordt nog te vaak gezien als een keuze waarbij rendement moet worden ingeleverd. Onterecht, stellen de deelnemers aan de IEX Impact-rondetafel. De energietransitie is volgens hen een structurele groeimarkt. \"De energietransitie is op dit moment één van de drie grote beleggingsthema’s, naast AI en defensie.”",
+    "published_at": "2026-05-29 08:30",
+    "scraped_at": "2026-05-29T10:10:54.358505"
   }
 ]
