@@ -1,92 +1,38 @@
 [
   {
-    "id": "2589f89efdac34f5b0151ad04b27f754",
+    "id": "b29e8b79b58a701508004a1f4965472b",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/866249/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-06-01 22:23",
-    "scraped_at": "2026-06-02T00:00:14.572716"
+    "titel": "Verdere stijging inflatie",
+    "link": "https://www.beurs.nl/Nieuws/866268/Verdere-stijging-inflatie.aspx",
+    "intro": "De Nederlandse inflatie is in mei verder gestegen. Dit bleek dinsdag uit een snelle raming van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-06-02 06:50",
+    "scraped_at": "2026-06-02T05:06:01.464436"
   },
   {
-    "id": "ad55a668d3d4b82fa4718afe40f22862",
+    "id": "18e6e278897d32104122a9786e749e31",
     "categorie": "Beursnieuws",
-    "titel": "HPE overtreft verwachtingen met recordkwartaal",
-    "link": "https://www.beurs.nl/Nieuws/866248/HPE-overtreft-verwachtingen-met-recordkwartaal.aspx",
-    "intro": "Hewlett Packard Enterprise heeft in het tweede kwartaal van het gebroken boekjaar 2026 recordcijfers geboekt en de verwachtingen ruimschoots overtroffen. Dit maakte het Amerikaanse technologiebedrijf maandag nabeurs bekend.",
-    "published_at": "2026-06-01 22:21",
-    "scraped_at": "2026-06-02T00:00:14.572716"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/866265/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 9 juni 2026:",
+    "published_at": "2026-06-02 06:46",
+    "scraped_at": "2026-06-02T05:06:01.464436"
   },
   {
-    "id": "a457e49560fce0971ca1b4aaad1e4ea2",
+    "id": "dc0b6cf64ac1b8f423dc153dbd951c8f",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street naar nieuwe records ondanks vastgelopen vredesgesprekken",
-    "link": "https://www.beurs.nl/Nieuws/866247/Wall-Street-naar-nieuwe-records-ondanks-vastgelopen-vredesgesprekken.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag op nieuwe records gesloten, ondanks de vastgelopen gesprekken in het Midden-Oosten. Ook maandag voerde de technologiesector de boventoon, waarbij onder meer zwaargewicht Nvidia ruim 6 procent kon bijschrijven.",
-    "published_at": "2026-06-01 22:14",
-    "scraped_at": "2026-06-02T00:00:14.572716"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/866266/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 9 juni 2026:",
+    "published_at": "2026-06-02 06:46",
+    "scraped_at": "2026-06-02T05:06:01.464436"
   },
   {
-    "id": "1230412a6086e20ad5110bb0164eaca4",
+    "id": "f38bbd1c67c16cb22a29c933655a5d89",
     "categorie": "Beursnieuws",
-    "titel": "SBM Offshore en Solstad slaan handen ineen",
-    "link": "https://www.beurs.nl/Nieuws/866244/SBM-Offshore-en-Solstad-slaan-handen-ineen.aspx",
-    "intro": "SBM Offshore en het Noorse Solstad Offshore hebben een overeenkomst gesloten voor de bouw van een nieuw multifunctioneel diepwater-installatie- en constructievaartuig. Dit maakte Solstad maandagavond bekend.",
-    "published_at": "2026-06-01 21:22",
-    "scraped_at": "2026-06-02T00:00:14.572716"
-  },
-  {
-    "id": "147f07c643c308885f2b64e1262e89c6",
-    "categorie": "Beursnieuws",
-    "titel": "Hormuz-dreiging stuwt olieprijzen omhoog",
-    "link": "https://www.beurs.nl/Nieuws/866240/Hormuz-dreiging-stuwt-olieprijzen-omhoog.aspx",
-    "intro": "De olieprijzen zijn maandag hoger gesloten, na berichtgeving dat de vredesgesprekken tussen de VS en Iran zijn vastgelopen. Een deel van de initiële stijging werd gedurende de handelssessie echter weer ingeleverd, nadat de Amerikaanse president Donald Trump het nieuws eneigszins bagatelliseerde en suggereerde dat de gesprekken snel zouden worden hervat.",
-    "published_at": "2026-06-01 20:58",
-    "scraped_at": "2026-06-02T00:00:14.572716"
-  },
-  {
-    "id": "2b6b30a8cc62a62872bb455505e28710",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street verdeeld ondanks hogere olieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/866238/Wall-Street-verdeeld-ondanks-hogere-olieprijzen.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag verdeeld met nog een paar uur handel te gaan. Ondanks de vastgelopen vredesgesprekken met Iran voerde de technologiesector opnieuw de boventoon.",
-    "published_at": "2026-06-01 19:52",
-    "scraped_at": "2026-06-02T00:00:14.572716"
-  },
-  {
-    "id": "af65f19fb2f1df86435d07d4e6927d55",
-    "categorie": "Beursnieuws",
-    "titel": "Theon International haalt nieuwe orders binnen",
-    "link": "https://www.beurs.nl/Nieuws/866235/Theon-International-haalt-nieuwe-orders-binnen.aspx",
-    "intro": "Theon International heeft in het tweede kwartaal van 2026 tot dusver voor circa 42 miljoen euro aan nieuwe opdrachten binnengehaald, met aanvullende opties ter waarde van circa 27 miljoen euro. Dit maakte het Griekse defensiebedrijf maandag nabeurs bekend.",
-    "published_at": "2026-06-01 19:42",
-    "scraped_at": "2026-06-02T00:00:14.572716"
-  },
-  {
-    "id": "569b57ddb3d876b00a37e8747c679c0f",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Trump onverschillig over mislukken vredesgesprekken",
-    "link": "https://www.beurs.nl/Nieuws/866234/Media-Trump-onverschillig-over-mislukken-vredesgesprekken.aspx",
-    "intro": "De Amerikaanse president Donald Trump toonde zich maandag onverschillig over het mogelijke mislukken van de vredesonderhandelingen met Iran. \"Het kan me eerlijk gezegd niet schelen of ze voorbij zijn\", zei Trump in een telefonisch interview met CNBC.",
-    "published_at": "2026-06-01 19:08",
-    "scraped_at": "2026-06-02T00:00:14.572716"
-  },
-  {
-    "id": "e1b0bd7d1696f6c72834412019087db2",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lager gesloten na vastgelopen vredesgesprekken",
-    "link": "https://www.beurs.nl/Nieuws/866231/Europese-beurzen-lager-gesloten-na-vastgelopen-vredesgesprekken.aspx",
-    "intro": "De Europese beurzen zijn de eerste handelsdag van juni lager gesloten, nadat Iran aankondigde te stoppen met berichtenuitwisseling met Washington en dreigde de Straat van Hormuz volledig af te sluiten. Hierdoor stegen de olieprijzen flink en liepen ook de rentes weer op.",
-    "published_at": "2026-06-01 18:45",
-    "scraped_at": "2026-06-02T00:00:14.572716"
-  },
-  {
-    "id": "ed1b6177964cb285b6bc805d873d361d",
-    "categorie": "Beursnieuws",
-    "titel": "Anthropic dient aanvraag voor beursgang in",
-    "link": "https://www.beurs.nl/Nieuws/866228/Anthropic-dient-aanvraag-voor-beursgang-in.aspx",
-    "intro": "Anthropic, het Amerikaanse AI-bedrijf achter chatbot Claude, heeft maandag vertrouwelijk een aanvraag ingediend voor een beursgang. Dit blijkt uit een melding op de website van de onderneming.",
-    "published_at": "2026-06-01 18:21",
-    "scraped_at": "2026-06-02T00:00:14.572716"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/866267/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 9 juni 2026:",
+    "published_at": "2026-06-02 06:46",
+    "scraped_at": "2026-06-02T05:06:01.464436"
   }
 ]
