@@ -1,12 +1,84 @@
 [
   {
+    "id": "3836c15addf929d6191f8ba0ef13bb54",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op licht lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/866353/Wall-Street-koerst-af-op-licht-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag naar verwachting een lichtrode opening tegemoet, nadat de drie belangrijkste indices maandag nog op nieuwe records sloten.",
+    "published_at": "2026-06-02 14:48",
+    "scraped_at": "2026-06-02T13:02:04.226697"
+  },
+  {
+    "id": "4a44e20391d610fc6186066943a80574",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verhoogt koersdoel voor Infineon stevig",
+    "link": "https://www.beurs.nl/Nieuws/866349/Jefferies-verhoogt-koersdoel-voor-Infineon-stevig.aspx",
+    "intro": "Jefferies heeft dinsdag het koersdoel voor Infineon fors verhoogd van 75,00 naar 96,00 euro met een herhaling van het koopadvies. Dit bleek uit een analistenrapport van de bank.",
+    "published_at": "2026-06-02 14:26",
+    "scraped_at": "2026-06-02T13:02:04.226697"
+  },
+  {
+    "id": "af72516fad4d2528e6aa003a78901421",
+    "categorie": "Beursnieuws",
+    "titel": "AEX breidt winsten verder uit",
+    "link": "https://www.beurs.nl/Nieuws/866342/AEX-breidt-winsten-verder-uit.aspx",
+    "intro": "De Amsterdamse beurs koerste dinsdagmiddag in de plus en wist de openingswinsten zo wat uit te breiden, nu ook de chippers de weg omhoog weer zijn ingeslagen.",
+    "published_at": "2026-06-02 14:01",
+    "scraped_at": "2026-06-02T13:02:04.226697"
+  },
+  {
+    "id": "9fdfbb11c736ff759377bef7d82821ca",
+    "categorie": "Beursnieuws",
+    "titel": "Barclays verhoogt koersdoel AkzoNobel",
+    "link": "https://www.beurs.nl/Nieuws/866343/Barclays-verhoogt-koersdoel-AkzoNobel.aspx",
+    "intro": "Barclays heeft dinsdag het koersdoel voor AkzoNobel verhoogd van 47,00 naar 57,00 euro met een onveranderd Gelijkgewogen advies. Dit bleek uit een analistenrapport van de Britse bank.",
+    "published_at": "2026-06-02 13:58",
+    "scraped_at": "2026-06-02T13:02:04.226697"
+  },
+  {
+    "id": "da1b9b4228f73b0564ed26b6a809a408",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel Victoria's Secret omhoog na sterke kwartaalupdate",
+    "link": "https://www.beurs.nl/Nieuws/866339/Aandeel-Victorias-Secret-omhoog-na-sterke-kwartaalupdate.aspx",
+    "intro": "Victoria's Secret heeft in het eerste kwartaal meer omzet en winst behaald dan verwacht en stelde de outlook voor het hele jaar flink naar boven bij. Dit bleek dinsdag uit cijfers die het lingeriemerk publiceerde.",
+    "published_at": "2026-06-02 13:41",
+    "scraped_at": "2026-06-02T13:02:04.226697"
+  },
+  {
+    "id": "7b2375b5b84aa526257a621a361504e1",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street licht in het rood",
+    "link": "https://www.beurs.nl/Nieuws/866334/Futures-Wall-Street-licht-in-het-rood.aspx",
+    "intro": "De Amerikaanse aandelenfutures daalden dinsdagmiddag nadat de drie belangrijkste indices maandag nog op nieuwe records sloten.",
+    "published_at": "2026-06-02 13:15",
+    "scraped_at": "2026-06-02T13:02:04.226697"
+  },
+  {
+    "id": "e24514ed400e7bccde0b0f7f426d9f4e",
+    "categorie": "Beursnieuws",
+    "titel": "Adyen aan de slag voor de Britse overheid",
+    "link": "https://www.beurs.nl/Nieuws/866330/Adyen-aan-de-slag-voor-de-Britse-overheid.aspx",
+    "intro": "Adyen wordt verantwoordelijk voor de afhandeling van betalingen voor de Britse overheid. Dit meldde de Amsterdamse betaalspecialist dinsdagmiddag.",
+    "published_at": "2026-06-02 12:27",
+    "scraped_at": "2026-06-02T13:02:04.226697"
+  },
+  {
+    "id": "0d6c9b1839fb944cbdc841691a43ef1a",
+    "categorie": "Beursnieuws",
+    "titel": "Herstel op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/866326/Herstel-op-Europese-beurzen.aspx",
+    "intro": "De Europese aandelenmarkten herstelden zich dinsdag, gedreven door optimisme over kunstmatige intelligentie en de hoop op vooruitgang in de vredesbesprekingen tussen de VS en Iran.",
+    "published_at": "2026-06-02 12:13",
+    "scraped_at": "2026-06-02T13:02:04.226697"
+  },
+  {
     "id": "b64dfba8307e5f861a716063c6ab0a2a",
     "categorie": "Beursnieuws",
     "titel": "Inflatie eurozone verder opgelopen",
     "link": "https://www.beurs.nl/Nieuws/866312/Inflatie-eurozone-verder-opgelopen.aspx",
     "intro": "De inflatie in de eurozone is in mei verder opgelopen, vooral door de aanhoudende hoge energieprijzen. Dit bleek dinsdag uit voorlopige cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-06-02 11:07",
-    "scraped_at": "2026-06-02T09:44:01.429594"
+    "scraped_at": "2026-06-02T13:02:04.226697"
   },
   {
     "id": "8d57501cb3ef645331a9b092d9acb92c",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/866310/Aandeel-Marvell-schiet-de-lucht-in.aspx",
     "intro": "Het aandeel Marvell Technology lijkt dinsdag bijna 24 procent hoger te gaan openen.",
     "published_at": "2026-06-02 11:02",
-    "scraped_at": "2026-06-02T09:44:01.429594"
-  },
-  {
-    "id": "777068e9bd4656b0e00ebc26b79aba9d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Prosus uitblinker in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/866308/Beursupdate-Prosus-uitblinker-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag rond elf uur in het groen. De Amerikaanse president Donald Trump heeft aangegeven dat de gesprekken met Iran nog steeds doorgaan en dat hij verwacht binnen een week een akkoord te kunnen bereiken. Dit stemt beleggers hoopvol.",
-    "published_at": "2026-06-02 10:51",
-    "scraped_at": "2026-06-02T09:44:01.429594"
-  },
-  {
-    "id": "1ef961d36f38dd28f4fbc7f4b17beb3e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: ING positiever over ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/866305/Beursblik-ING-positiever-over-ABN-AMRO.aspx",
-    "intro": "ING heeft het advies voor ABN AMRO verhoogd van Houden naar Kopen en stelde daarbij het koersdoel flink opwaarts bij, van 24,00 naar 40,50 euro. Dit bleek uit een analistenrapport van ING na de \"sterke\" cijfers van de bank over het eerste kwartaal.",
-    "published_at": "2026-06-02 10:29",
-    "scraped_at": "2026-06-02T09:44:01.429594"
-  },
-  {
-    "id": "2263dd5030e056ea6b7057aedd79271e",
-    "categorie": "IEX",
-    "titel": "Must read: Financiële druk huiseigenaren op hoogste niveau ooit",
-    "link": "https://www.iex.nl/artikel/866134/Must-read-Financiele-druk-huiseigenaren-op-hoogste-niveau-ooit.aspx",
-    "intro": "Plus: we naderen de beurstop, steenrijke elite gevaar voor mensheid, niet elk AI-bedrijf is een goede belegging, inflatie naar 3,5%, en meer.",
-    "published_at": "2026-06-02 10:05",
-    "scraped_at": "2026-06-02T09:44:01.429594"
-  },
-  {
-    "id": "73df3c136a2c6681b305bfed56445152",
-    "categorie": "Beursnieuws",
-    "titel": "Media: SK Hynix verdubbelt chipproductie voor AI",
-    "link": "https://www.beurs.nl/Nieuws/866300/Media-SK-Hynix-verdubbelt-chipproductie-voor-AI.aspx",
-    "intro": "SK Hynix wil zijn productiecapaciteit voor geheugenchips de komende vijf jaar verdubbelen, inspelend op het tekort aan deze chips. Dit meldde Bloomberg dinsdag op basis van uitspraken van voorzitter Chey Tae-won op de Computex-beurs in Taipei.",
-    "published_at": "2026-06-02 09:51",
-    "scraped_at": "2026-06-02T09:44:01.429594"
-  },
-  {
-    "id": "317aa34186c3144b066abaf048d16d9c",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start gegaan onder aanvoering van Prosus",
-    "link": "https://www.beurs.nl/Nieuws/866294/AEX-hoger-van-start-gegaan-onder-aanvoering-van-Prosus.aspx",
-    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,8 procent hoger op 1.044,66 punten, terwijl de Midkap ook 0,8 procent won.",
-    "published_at": "2026-06-02 09:14",
-    "scraped_at": "2026-06-02T09:44:01.429594"
-  },
-  {
-    "id": "76b5f75cbed400b730b14bdf024eaa12",
-    "categorie": "Beursnieuws",
-    "titel": "Arm verwacht omzetdoelstelling eerder te halen",
-    "link": "https://www.beurs.nl/Nieuws/866293/Arm-verwacht-omzetdoelstelling-eerder-te-halen.aspx",
-    "intro": "Arm Holdings denkt met de verkoop van zijn eigen AI-chip de doelstelling van 15 miljard dollar aan omzet eerder dan verwacht te bereiken. Dit meldde CEO Rene Haas in gesprek met Bloomberg op de Computex-beurs in Taipei.",
-    "published_at": "2026-06-02 09:10",
-    "scraped_at": "2026-06-02T09:44:01.429594"
-  },
-  {
-    "id": "26b2299e2788d1e2309f32884448fa67",
-    "categorie": "Beursnieuws",
-    "titel": "Omzet detailhandel opnieuw gestegen",
-    "link": "https://www.beurs.nl/Nieuws/866288/Omzet-detailhandel-opnieuw-gestegen.aspx",
-    "intro": "De Nederlandse detailhandel heeft in april meer omgezet. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-06-02 08:27",
-    "scraped_at": "2026-06-02T09:44:01.429594"
-  },
-  {
-    "id": "7e1c3eb27d362c15404f20a4a5ed55b2",
-    "categorie": "Beursnieuws",
-    "titel": "STMicroelectronics verdubbelt omzetverwachting voor datacenters",
-    "link": "https://www.beurs.nl/Nieuws/866287/STMicroelectronics-verdubbelt-omzetverwachting-voor-datacenters.aspx",
-    "intro": "STMicroelectronics heeft zijn omzetdoelstelling voor datacenters fors verhoogd, wijzend op de aanhoudend sterke vraag naar AI-infrastructuur. Dit maakte het chipbedrijf dinsdagochtend bekend.",
-    "published_at": "2026-06-02 08:12",
-    "scraped_at": "2026-06-02T09:44:01.429594"
+    "scraped_at": "2026-06-02T13:02:04.226697"
   }
 ]
