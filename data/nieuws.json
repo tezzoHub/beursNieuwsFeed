@@ -1,92 +1,92 @@
 [
   {
-    "id": "2e4c73d3014d81927ecb24f1e8311469",
+    "id": "0833a583b82c49d72c9698daed5b2ff6",
     "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil tot 2,5 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/866501/Obligatie-Nederland-wil-tot-25-miljard-euro-ophalen.aspx",
-    "intro": "Nederland wil dinsdag 9 juni tot 2,5 miljard euro ophalen met de heropening van een tienjarige lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-06-03 13:42",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "titel": "AEX lager gesloten ondanks steun chippers en zwaargewichten",
+    "link": "https://www.beurs.nl/Nieuws/866544/AEX-lager-gesloten-ondanks-steun-chippers-en-zwaargewichten.aspx",
+    "intro": "De Amsterdamse beurs is woensdag lager gesloten, maar de verliezen bleven nog relatief beperkt dankzij de koerswinsten voor de chippers en de zwaargewichten. Dit terwijl de handelsoorlog met de VS aan een nieuw hoofdstuk lijkt te beginnen en nieuws uit het Midden-Oosten de olieprijzen weer opdrijft.",
+    "published_at": "2026-06-03 17:54",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "b90659d45a8e928b0e6597e207709be0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: deal Wolters Kluwer met OpenAI kan sentiment wat verbeteren",
-    "link": "https://www.beurs.nl/Nieuws/866498/Beursblik-deal-Wolters-Kluwer-met-OpenAI-kan-sentiment-wat-verbeteren.aspx",
-    "intro": "Het sentiment rond het aandeel Wolters Kluwer is \"onterecht negatief\" en mogelijk dat het nieuws over een deal met OpenAI voor wat verbetering kan zorgen. Dit stelde analist Thomas Couvreur van KBC Securities woensdag in een rapport.",
-    "published_at": "2026-06-03 13:39",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "id": "a32c803eaaf3d89511d2778133deb420",
+    "categorie": "IEX",
+    "titel": "Slotcall: overnamepremie komt te paard en gaat te paard",
+    "link": "https://www.iex.nl/artikel/866539/Slotcall-overnamepremie-komt-te-paard-en-gaat-te-paard.aspx",
+    "intro": "De handelsdag zit erop en de AEX is zojuist met een verlies van 0,5% gesloten op 1043,95 punten. De opening was wel hoger, maar toen lag de handel in AkzoNobel nog stil.",
+    "published_at": "2026-06-03 17:35",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "97aad802203d34cc383b6f9a3dbe52b8",
+    "id": "b4718b10336f8c0e9cdae8288de1f380",
     "categorie": "Beursnieuws",
-    "titel": "Macy's verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/866497/Macys-verhoogt-outlook.aspx",
-    "intro": "Macy's heeft in het eerste kwartaal van 2026 de sterkste vergelijkbare omzetgroei in vier jaar geboekt. De Amerikaanse warenhuisketen verhoogde bovendien de verwachtingen voor het hele jaar. Dit bleek woensdag uit de kwartaalcijfers van het bedrijf.",
-    "published_at": "2026-06-03 13:26",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/866534/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 11 juni 2026:",
+    "published_at": "2026-06-03 16:43",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "f11b36c5e75608fdf14ee1b71c49aed8",
-    "categorie": "Nieuws",
-    "titel": "Nederlandse bedrijven voeren duurzame investeringen verder op",
-    "link": "https://www.ieximpact.nl/artikel/866437/Nederlandse-bedrijven-voeren-duurzame-investeringen-verder-op.aspx",
-    "intro": "Twee derde van de Nederlandse bedrijven ziet duurzame investeringen als aanjager van innovatie en concurrentiekracht, zo blijkt uit nieuw onderzoek van ING. Hobbels op de weg zijn er ook. Vooral inconsistent overheidsbeleid en het snel afbouwen van subsidies maken langetermijninvesteringen lastiger.",
-    "published_at": "2026-06-03 13:15",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "id": "3b761c1e6b077c1bbe0cea3f11b016a6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/866535/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 11 juni 2026:",
+    "published_at": "2026-06-03 16:43",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "2c5f33002357878d560fa3c431e14d57",
+    "id": "427313920aedb47e048ef3a7cfb69ef9",
     "categorie": "Beursnieuws",
-    "titel": "Terughoudende opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/866492/Terughoudende-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een vlakke tot licht lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,1 procent in het rood.",
-    "published_at": "2026-06-03 13:05",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/866533/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 11 juni 2026:",
+    "published_at": "2026-06-03 16:42",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "14d4b631ebd19e23bca8f7103bc2a3c7",
+    "id": "c56d0f777e97885954f274defe1bf290",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Bank of America verhoogt koersdoel ArcelorMittal",
-    "link": "https://www.beurs.nl/Nieuws/866490/Beursblik-Bank-of-America-verhoogt-koersdoel-ArcelorMittal.aspx",
-    "intro": "Bank of America heeft woensdag het koersdoel voor ArcelorMittal verhoogd van 62,00 naar 69,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-06-03 12:59",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "titel": "Amerikaanse olievoorraden fors gedaald",
+    "link": "https://www.beurs.nl/Nieuws/866532/Amerikaanse-olievoorraden-fors-gedaald.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week verder geslonken. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-06-03 16:40",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "226e3fa204692145691da6ba8fdd3d40",
+    "id": "ab35c9b0863463e5559c8f2a1068476a",
     "categorie": "Beursnieuws",
-    "titel": "Media: Iran ziet volgens Trump af van kernwapens",
-    "link": "https://www.beurs.nl/Nieuws/866491/Media-Iran-ziet-volgens-Trump-af-van-kernwapens.aspx",
-    "intro": "Iran heeft ingestemd om geen kernwapens te ontwikkelen. Dat zei de Amerikaanse president Donald Trump in een podcast van de New York Post. Hij voegde toe dat Teheran zich nog kan bedenken. Dit meldde CNBC woensdag op basis van het gepubliceerde interview.",
-    "published_at": "2026-06-03 12:57",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "titel": "ISM: meer groei in Amerikaanse dienstensector",
+    "link": "https://www.beurs.nl/Nieuws/866527/ISM-meer-groei-in-Amerikaanse-dienstensector.aspx",
+    "intro": "De Amerikaanse dienstensector is in mei harder gegroeid dan een maand eerder. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
+    "published_at": "2026-06-03 16:11",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "24b758a414e96ba8fe8ffc8f6bdf4c98",
+    "id": "42a7bcc14195f2955b324bb1f61e388b",
     "categorie": "Beursnieuws",
-    "titel": "Tarieven en olieprijs drukken Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/866484/Tarieven-en-olieprijs-drukken-Europese-beurzen.aspx",
-    "intro": "De Europese aandelenbeurzen daalden woensdag rond lunchtijd. De VS en Iran raakten opnieuw in gevecht. Daarnaast lijkt de tarievenoorlog aan een nieuw hoofdstuk te beginnen.",
-    "published_at": "2026-06-03 12:37",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "titel": "Amerikaanse fabrieksorders omhoog",
+    "link": "https://www.beurs.nl/Nieuws/866525/Amerikaanse-fabrieksorders-omhoog.aspx",
+    "intro": "De Amerikaanse fabrieksorders zijn in april gestegen, vooral dankzij een toename van de orders voor transportmiddelen. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-06-03 16:06",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "77a63dc31556a81d0673abd7f421464d",
+    "id": "4fc91ccd2ece0b29dc2719b265277cff",
     "categorie": "Beursnieuws",
-    "titel": "AkzoNobel onderuit in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/866470/AkzoNobel-onderuit-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdag aan het einde van de ochtend licht lager. Rond half twaalf daalde de AEX fractioneel tot 1.049 punten.",
-    "published_at": "2026-06-03 11:31",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "titel": "S&P: Amerikaanse dienstensector iets minder hard gegroeid",
+    "link": "https://www.beurs.nl/Nieuws/866524/SP-Amerikaanse-dienstensector-iets-minder-hard-gegroeid.aspx",
+    "intro": "De Amerikaanse dienstensector is in mei iets minder hard gegroeid dan vorige maand. Dit bleek woensdag uit cijfers van SP Global.",
+    "published_at": "2026-06-03 15:54",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   },
   {
-    "id": "386d1e480a888108f4e456bf3c90c65f",
+    "id": "841d2e7fc95211761e261af0437c2bd5",
     "categorie": "Beursnieuws",
-    "titel": "Producentenprijzen eurozone stijgen licht na afname energieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/866469/Producentenprijzen-eurozone-stijgen-licht-na-afname-energieprijzen.aspx",
-    "intro": "De producentenprijzen in de eurozone zijn in april gestegen, maar minder sterk dan in maart. Dit bleek woensdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
-    "published_at": "2026-06-03 11:23",
-    "scraped_at": "2026-06-03T12:16:09.017069"
+    "titel": "BAM opgenomen in Stoxx Europe 600",
+    "link": "https://www.beurs.nl/Nieuws/866518/BAM-opgenomen-in-Stoxx-Europe-600.aspx",
+    "intro": "Het aandeel BAM wordt per 22 juni opgenomen in de Stoxx Europe 600 index. Dit maakte de bouwer woensdag bekend.",
+    "published_at": "2026-06-03 15:12",
+    "scraped_at": "2026-06-03T17:23:25.770050"
   }
 ]
