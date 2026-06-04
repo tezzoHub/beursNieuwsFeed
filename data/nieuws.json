@@ -1,12 +1,84 @@
 [
   {
+    "id": "2c73c5023b1ec7e0bfc53b1246398fb0",
+    "categorie": "Beursnieuws",
+    "titel": "Brown-Forman waardeert af",
+    "link": "https://www.beurs.nl/Nieuws/866685/Brown-Forman-waardeert-af.aspx",
+    "intro": "Brown-Forman heeft in het afgelopen kwartaal meer omzet maar minder winst geboekt dan verwacht, door afwaarderingen. Dat maakte de Amerikaanse producent van Jack Daniels whisky donderdag bekend.",
+    "published_at": "2026-06-04 15:18",
+    "scraped_at": "2026-06-04T13:39:07.483012"
+  },
+  {
+    "id": "d926ee35e4a52835e737b615372ae1b5",
+    "categorie": "Beursnieuws",
+    "titel": "Stijging arbeidskosten VS valt mee",
+    "link": "https://www.beurs.nl/Nieuws/866679/Stijging-arbeidskosten-VS-valt-mee.aspx",
+    "intro": "De groei van de arbeidskosten in de Verenigde Staten in het eerste kwartaal van 2026 is neerwaarts bijgesteld, evenals de groei van de productiviteit. Dit bleek donderdag uit definitieve cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-06-04 14:42",
+    "scraped_at": "2026-06-04T13:39:07.483012"
+  },
+  {
+    "id": "7f1d213d3cf8c6c14087b9fe1b670c18",
+    "categorie": "Beursnieuws",
+    "titel": "Meer nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/866676/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-06-04 14:34",
+    "scraped_at": "2026-06-04T13:39:07.483012"
+  },
+  {
+    "id": "80a24575d6424d264228d19cccda6843",
+    "categorie": "Beursnieuws",
+    "titel": "Philips krijgt groot contract van Amerikaanse Wellspan",
+    "link": "https://www.beurs.nl/Nieuws/866673/Philips-krijgt-groot-contract-van-Amerikaanse-Wellspan.aspx",
+    "intro": "Philips heeft donderdag een omvangrijke strategische samenwerking aangekondigd met WellSpan in de Verenigde Staten.",
+    "published_at": "2026-06-04 13:56",
+    "scraped_at": "2026-06-04T13:39:07.483012"
+  },
+  {
+    "id": "07ddc72f52584f917366befe41d50b59",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel CrowdStrike onderuit ondanks outlookverhoging",
+    "link": "https://www.beurs.nl/Nieuws/866670/Aandeel-CrowdStrike-onderuit-ondanks-outlookverhoging.aspx",
+    "intro": "Het aandeel CrowdStrike noteerde donderdag voorbeurs 10 procent lager, ondanks dat het bedrijf kwartaalcijfers rapporteerde die beter waren dan de analistenverwachtingen.",
+    "published_at": "2026-06-04 13:48",
+    "scraped_at": "2026-06-04T13:39:07.483012"
+  },
+  {
+    "id": "22e068c29f64e323e4644daa00f76aed",
+    "categorie": "Beursnieuws",
+    "titel": "AEX komt nog niet uit het rood",
+    "link": "https://www.beurs.nl/Nieuws/866667/AEX-komt-nog-niet-uit-het-rood.aspx",
+    "intro": "Donderdagmiddag noteerde de AEX nog altijd op verlies, met een daling van de AEX van 0,8 procent tot 1.036 punten.",
+    "published_at": "2026-06-04 13:33",
+    "scraped_at": "2026-06-04T13:39:07.483012"
+  },
+  {
+    "id": "7db813bb2cffb0f0656ef582e7d42a7d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verhoogt koersdoel Infineon",
+    "link": "https://www.beurs.nl/Nieuws/866665/Beursblik-Bank-of-America-verhoogt-koersdoel-Infineon.aspx",
+    "intro": "Bank of America heeft donderdag het koersdoel voor Infineon verhoogd van 95,00 naar 108,00 euro met een herhaling van de koopaanbeveling. Dit bleek uit een rapport van analist Didier Scemama.",
+    "published_at": "2026-06-04 13:24",
+    "scraped_at": "2026-06-04T13:39:07.483012"
+  },
+  {
+    "id": "5b780d1bd1da9175b97d26ce64fa9678",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street wijzen omlaag",
+    "link": "https://www.beurs.nl/Nieuws/866663/Futures-Wall-Street-wijzen-omlaag.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een verdeelde opening tegemoet, nadat een teleurstellende update van Broadcom de rally in AI-gerelateerde aandelen afremde.",
+    "published_at": "2026-06-04 13:06",
+    "scraped_at": "2026-06-04T13:39:07.483012"
+  },
+  {
     "id": "a6569102068049d00beb53a14b7924d6",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: UBS ziet veel kansen voor Euronext",
     "link": "https://www.beurs.nl/Nieuws/866659/Beursblik-UBS-ziet-veel-kansen-voor-Euronext.aspx",
     "intro": "UBS blijft positief over het aandeel Euronext en noemt het de favoriet onder de Europese beursbedrijven, met een onveranderd koersdoel van 175 euro en een herhaling van het koopadvies. Dit bleek donderdag uit een analistenrapport van de Zwitserse bank.",
     "published_at": "2026-06-04 12:13",
-    "scraped_at": "2026-06-04T10:24:35.094400"
+    "scraped_at": "2026-06-04T13:39:07.483012"
   },
   {
     "id": "2858787d4aa305fcc868abad1d3eb36d",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/866658/Verdeeld-beeld-op-Europese-beurzen.aspx",
     "intro": "De Europese beurzen lieten een verdeeld beeld zien, met winsten voor de beurzen in Parijs en Frankfurt. In Amsterdam had de AEX juist last van het negatieve sentiment rond halfgeleiders na een kwartaalupdate van Broadcom.",
     "published_at": "2026-06-04 12:08",
-    "scraped_at": "2026-06-04T10:24:35.094400"
-  },
-  {
-    "id": "34c1a077e06f9953029662cf2c26c4b0",
-    "categorie": "Beursnieuws",
-    "titel": "Quantinuum voor 60 dollar per aandeel naar de Nasdaq",
-    "link": "https://www.beurs.nl/Nieuws/866655/Quantinuum-voor-60-dollar-per-aandeel-naar-de-Nasdaq.aspx",
-    "intro": "Quantinuum maakt vandaag zijn debuut op de Nasdaq voor 60,00 dollar per aandeel.",
-    "published_at": "2026-06-04 12:03",
-    "scraped_at": "2026-06-04T10:24:35.094400"
-  },
-  {
-    "id": "4c63454c4dc8ddbea4a08b24e26cff88",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel ASML",
-    "link": "https://www.beurs.nl/Nieuws/866649/Bank-of-America-verhoogt-koersdoel-ASML.aspx",
-    "intro": "Bank of America heeft het koersdoel voor ASML verhoogd van 1.710 naar 1.921 euro met een herhaling van de koopaanbeveling. Dit bleek donderdag uit een rapport van analist Didier Scemama naar aanleiding van een ontmoeting met hoofd-IR Jim Cavanagh van ASML.",
-    "published_at": "2026-06-04 11:39",
-    "scraped_at": "2026-06-04T10:24:35.094400"
-  },
-  {
-    "id": "8f44a40b95dc5dad1217e956e20ffaf0",
-    "categorie": "Beursnieuws",
-    "titel": "UMG onderuit in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/866644/UMG-onderuit-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagochtend lager. Rond de klok van elf uur daalde de AEX met 0,8 procent tot 1.036,13 punten.",
-    "published_at": "2026-06-04 11:06",
-    "scraped_at": "2026-06-04T10:24:35.094400"
-  },
-  {
-    "id": "4da8938648a734bb1704723271ccfb5b",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine daling detailhandelsverkopen in de eurozone",
-    "link": "https://www.beurs.nl/Nieuws/866643/Kleine-daling-detailhandelsverkopen-in-de-eurozone.aspx",
-    "intro": "De detailhandelsverkopen in de eurozone zijn in april licht gedaald. Dit bleek donderdag uit cijfers van het Europese statistiekbureau Eurostat.",
-    "published_at": "2026-06-04 11:04",
-    "scraped_at": "2026-06-04T10:24:35.094400"
-  },
-  {
-    "id": "e9657d894a8d627751dbf00e662904f5",
-    "categorie": "Beursnieuws",
-    "titel": "Goldman Sachs start opvolging Prosus met Neutraal advies",
-    "link": "https://www.beurs.nl/Nieuws/866635/Goldman-Sachs-start-opvolging-Prosus-met-Neutraal-advies.aspx",
-    "intro": "Goldman Sachs is donderdag gestart met het volgen van Prosus met een Neutraal advies en een koersdoel van 41,00 euro. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-06-04 10:17",
-    "scraped_at": "2026-06-04T10:24:35.094400"
-  },
-  {
-    "id": "104c80bf79d3aa870987db53e694112b",
-    "categorie": "Beursnieuws",
-    "titel": "Media: ING overweegt bod op Spaanse Singular Bank",
-    "link": "https://www.beurs.nl/Nieuws/866634/Media-ING-overweegt-bod-op-Spaanse-Singular-Bank.aspx",
-    "intro": "ING overweegt om een bod uit te brengen op het Spaanse Singular Bank. Dit schreef de Spaanse krant Cinco Dias donderdag op basis van bronnen.",
-    "published_at": "2026-06-04 10:03",
-    "scraped_at": "2026-06-04T10:24:35.094400"
-  },
-  {
-    "id": "2493dfdb1b7e16e554ef01bf73a954f1",
-    "categorie": "Beursnieuws",
-    "titel": "Remy Cointreau verwacht komend jaar weer omzetgroei",
-    "link": "https://www.beurs.nl/Nieuws/866633/Remy-Cointreau-verwacht-komend-jaar-weer-omzetgroei.aspx",
-    "intro": "Remy Cointreau verwacht in het komende jaar weer autonoom te zullen groeien, waarbij de marges eveneens aantrekken, geholpen door kostenbesparingen. Dit meldde de Franse drankenfabrikant donderdag bij de jaarcijfers.",
-    "published_at": "2026-06-04 10:01",
-    "scraped_at": "2026-06-04T10:24:35.094400"
-  },
-  {
-    "id": "d398be94a9cf7085b68fe0d208c7d984",
-    "categorie": "IEX",
-    "titel": "Must read: ING rekent op voortzetting chiprally",
-    "link": "https://www.iex.nl/artikel/855588/Must-read-ING-rekent-op-voortzetting-chiprally.aspx",
-    "intro": "Plus: olieprijs kan nog veel hoger, beursgang SpaceX is linke soep, Nederlandse bedrijven voeren duurzame investeringen op, gemiddeld aandeel levert op lange termijn verlies op, en meer.",
-    "published_at": "2026-06-04 09:30",
-    "scraped_at": "2026-06-04T10:24:35.094400"
+    "scraped_at": "2026-06-04T13:39:07.483012"
   }
 ]
