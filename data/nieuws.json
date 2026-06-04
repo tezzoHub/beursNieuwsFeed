@@ -1,12 +1,57 @@
 [
   {
+    "id": "ab8b1a28b2d4f99aaf4d32dfe14080a6",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt na wapenstilstand Libanon",
+    "link": "https://www.beurs.nl/Nieuws/866724/Olieprijs-daalt-na-wapenstilstand-Libanon.aspx",
+    "intro": "De olieprijs is donderdag lager geëindigd, nadat Israël en Libanon een staakt-het-vuren aankondigden.",
+    "published_at": "2026-06-04 20:57",
+    "scraped_at": "2026-06-04T19:08:46.930882"
+  },
+  {
+    "id": "5d8085fae9f262f542cd79f887441d8b",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeelhouders Theon keuren dividend goed",
+    "link": "https://www.beurs.nl/Nieuws/866723/Aandeelhouders-Theon-keuren-dividend-goed.aspx",
+    "intro": "De aandeelhoudersvergadering van Theon is donderdag akkoord gegaan met het voorgestelde dividend en ook voor alle andere agendapunten kwam groen licht. Dit meldde het Griekse defensiebedrijf met een notering in Amsterdam na afloop van de bijeenkomst.",
+    "published_at": "2026-06-04 20:45",
+    "scraped_at": "2026-06-04T19:08:46.930882"
+  },
+  {
+    "id": "b6afc28f9c247b1d3ee90f82df90e27e",
+    "categorie": "Beursnieuws",
+    "titel": "Pinterest betaalt miljarden voor clouddiensten Amazon",
+    "link": "https://www.beurs.nl/Nieuws/866718/Pinterest-betaalt-miljarden-voor-clouddiensten-Amazon.aspx",
+    "intro": "Social mediabedrijf Pinterest zal in de komende vijf jaar zo'n 4 miljard dollar uitgeven aan de clouddiensten van Amazon. Dit maakten de bedrijven donderdag bekend.",
+    "published_at": "2026-06-04 19:36",
+    "scraped_at": "2026-06-04T19:08:46.930882"
+  },
+  {
+    "id": "fb34d501ce870c44b5feabdfc5135740",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street kleurt overwegend groen",
+    "link": "https://www.beurs.nl/Nieuws/866717/Wall-Street-kleurt-overwegend-groen.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag overwegend hoger met nog een paar uur handel te gaan.",
+    "published_at": "2026-06-04 19:32",
+    "scraped_at": "2026-06-04T19:08:46.930882"
+  },
+  {
+    "id": "0ad87e15b3bbd3006ae8ff12d17d3b03",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten hoger",
+    "link": "https://www.beurs.nl/Nieuws/866715/Europese-beurzen-sluiten-hoger.aspx",
+    "intro": "De Europese aandelenmarkten zijn donderdag hoger geëindigd, waarbij vooral de Duitse en Franse beurzen een aardige dag kenden.",
+    "published_at": "2026-06-04 18:48",
+    "scraped_at": "2026-06-04T19:08:46.930882"
+  },
+  {
     "id": "b558a67f4d26a7cada1416012b930e76",
     "categorie": "Beursnieuws",
     "titel": "Corbion ziet voorzitter van RvC vertrekken",
     "link": "https://www.beurs.nl/Nieuws/866712/Corbion-ziet-voorzitter-van-RvC-vertrekken.aspx",
     "intro": "De voorzitter van de raad van commissarissen van Corbion, Ilona Haaijer, heeft om persoonlijke redenen besloten om per 1 augustus terug te treden. Dit meldde Corbion donderdagavond.",
     "published_at": "2026-06-04 18:27",
-    "scraped_at": "2026-06-04T16:38:17.797213"
+    "scraped_at": "2026-06-04T19:08:46.930882"
   },
   {
     "id": "98d89a9ecdda81678ae6822d06e68fbc",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/866711/Triple-Finance-Group-tekent-intentieverklaring-voor-AI-infrastructuur.aspx",
     "intro": "Triple Finance Group heeft een intentieverklaring getekend met een Europese Neocloud voor de financiering van Nvidia GPU-infrastructuur voor AI-rekenkracht in Europa. Dit meldde het voormalige Lavide donderdagavond.",
     "published_at": "2026-06-04 18:21",
-    "scraped_at": "2026-06-04T16:38:17.797213"
+    "scraped_at": "2026-06-04T19:08:46.930882"
   },
   {
     "id": "b5340b0ed62b3c69fd9e9ff1edbed835",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/866706/AEX-krabbelt-op-en-sluit-licht-hoger.aspx",
     "intro": "De Amsterdamse beurs is donderdag licht hoger gesloten, nadat de koersen in de loop van de middag opkrabbelden.",
     "published_at": "2026-06-04 17:52",
-    "scraped_at": "2026-06-04T16:38:17.797213"
+    "scraped_at": "2026-06-04T19:08:46.930882"
   },
   {
     "id": "9af5221b9bf24b7523c56e9c23e4221a",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/866693/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 12 juni 2026:",
     "published_at": "2026-06-04 16:29",
-    "scraped_at": "2026-06-04T16:38:17.797213"
+    "scraped_at": "2026-06-04T19:08:46.930882"
   },
   {
     "id": "13bd1b583550164d822f44ae0e38a145",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/866694/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 12 juni 2026:",
     "published_at": "2026-06-04 16:29",
-    "scraped_at": "2026-06-04T16:38:17.797213"
-  },
-  {
-    "id": "b032fb66f9e1bff3bb1cba656ca71d3e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/866695/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 12 juni 2026:",
-    "published_at": "2026-06-04 16:29",
-    "scraped_at": "2026-06-04T16:38:17.797213"
-  },
-  {
-    "id": "2c73c5023b1ec7e0bfc53b1246398fb0",
-    "categorie": "Beursnieuws",
-    "titel": "Brown-Forman waardeert af",
-    "link": "https://www.beurs.nl/Nieuws/866685/Brown-Forman-waardeert-af.aspx",
-    "intro": "Brown-Forman heeft in het afgelopen kwartaal meer omzet maar minder winst geboekt dan verwacht, door afwaarderingen. Dat maakte de Amerikaanse producent van Jack Daniels whisky donderdag bekend.",
-    "published_at": "2026-06-04 15:18",
-    "scraped_at": "2026-06-04T16:38:17.797213"
-  },
-  {
-    "id": "ff362de8e30d888e48cd2ad634547102",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street op weg naar verdeelde start",
-    "link": "https://www.beurs.nl/Nieuws/866681/Wall-Street-op-weg-naar-verdeelde-start.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een verdeelde opening tegemoet, nadat een teleurstellende update van Broadcom de rally in AI-gerelateerde aandelen afremde.",
-    "published_at": "2026-06-04 15:02",
-    "scraped_at": "2026-06-04T16:38:17.797213"
-  },
-  {
-    "id": "d926ee35e4a52835e737b615372ae1b5",
-    "categorie": "Beursnieuws",
-    "titel": "Stijging arbeidskosten VS valt mee",
-    "link": "https://www.beurs.nl/Nieuws/866679/Stijging-arbeidskosten-VS-valt-mee.aspx",
-    "intro": "De groei van de arbeidskosten in de Verenigde Staten in het eerste kwartaal van 2026 is neerwaarts bijgesteld, evenals de groei van de productiviteit. Dit bleek donderdag uit definitieve cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-06-04 14:42",
-    "scraped_at": "2026-06-04T16:38:17.797213"
-  },
-  {
-    "id": "7f1d213d3cf8c6c14087b9fe1b670c18",
-    "categorie": "Beursnieuws",
-    "titel": "Meer nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/866676/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-06-04 14:34",
-    "scraped_at": "2026-06-04T16:38:17.797213"
+    "scraped_at": "2026-06-04T19:08:46.930882"
   }
 ]
