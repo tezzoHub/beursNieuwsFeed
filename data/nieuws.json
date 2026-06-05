@@ -1,12 +1,39 @@
 [
   {
+    "id": "071032bdf063012ec486e9ef836a649f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/866861/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-06-05 22:21",
+    "scraped_at": "2026-06-05T21:00:05.051889"
+  },
+  {
+    "id": "d65adb7468b41e993822e5ac6f803178",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street lager gesloten, Nasdaq kleurt dieprood",
+    "link": "https://www.beurs.nl/Nieuws/866860/Wall-Street-lager-gesloten-Nasdaq-kleurt-dieprood.aspx",
+    "intro": "De Amerikaanse aandelenbeurzen zijn vrijdag flink lager gesloten, mede door de aanhoudende verkoop van technologieaandelen en stijgende rentes op staatsobligaties na een veel sterker dan verwacht banenrapport voor mei.",
+    "published_at": "2026-06-05 22:14",
+    "scraped_at": "2026-06-05T21:00:05.051889"
+  },
+  {
+    "id": "bb05252b66aa5629bcee021c75fb0ed6",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen lager gesloten door toenemende vredeshoop",
+    "link": "https://www.beurs.nl/Nieuws/866857/Olieprijzen-lager-gesloten-door-toenemende-vredeshoop.aspx",
+    "intro": "De olieprijzen zijn vrijdag lager gesloten, doordat beleggers er steeds meer vertrouwen in lijken te krijgen dat een hernieuwd conflict tussen de VS en Iran minder waarschijnlijk wordt. Dat gebeurde ondanks aanhoudende, tegenstrijdige berichtgeving over de onderhandelingen.",
+    "published_at": "2026-06-05 21:11",
+    "scraped_at": "2026-06-05T21:00:05.051889"
+  },
+  {
     "id": "cc2d845ce215100e41dd766db62c4afd",
     "categorie": "Beursnieuws",
     "titel": "Nasdaq 3 procent onderuit",
     "link": "https://www.beurs.nl/Nieuws/866854/Nasdaq-3-procent-onderuit.aspx",
     "intro": "De Amerikaanse aandelenbeurzen daalden vrijdag, mede door de aanhoudende verkoop van belangrijke technologie gerelateerde aandelen en stijgende rentes op staatsobligaties na een veel sterker dan verwacht banenrapport voor mei.",
     "published_at": "2026-06-05 19:40",
-    "scraped_at": "2026-06-05T19:12:41.553519"
+    "scraped_at": "2026-06-05T21:00:05.051889"
   },
   {
     "id": "6939583b4cdb01f6d78ca80c0f69c524",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/866853/Europese-beurzen-overwegend-lager-het-weekend-in.aspx",
     "intro": "De Europese beurzen zijn vrijdag overwegend lager gesloten, terwijl de sectorrotatie uit technologie gerelateerde aandelen aanhield. Ook zorgde een sterk Amerikaans banenrapport ervoor dat de rentes opliepen.",
     "published_at": "2026-06-05 18:51",
-    "scraped_at": "2026-06-05T19:12:41.553519"
+    "scraped_at": "2026-06-05T21:00:05.051889"
   },
   {
     "id": "a0f4a0f9e175a17556de5dfecbe7fa37",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/866850/Euronext-meldt-lagere-volumes.aspx",
     "intro": "De handelsvolumes van contante effecten op Euronext zijn in mei gedaald. Dit maakte de Europese beursuitbater vrijdagavond bekend.",
     "published_at": "2026-06-05 18:36",
-    "scraped_at": "2026-06-05T19:12:41.553519"
+    "scraped_at": "2026-06-05T21:00:05.051889"
   },
   {
     "id": "d3ece51d2afc14ad3df1d8269d105432",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/866846/Adyen-en-chippers-houden-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is vrijdag lager geëindigd, maar wist op weekbasis wel licht te stijgen. Halfgeleiders waren richting het weekend de gebeten hond, als gevolg van een sectorrotatie weg van techaandelen.",
     "published_at": "2026-06-05 17:49",
-    "scraped_at": "2026-06-05T19:12:41.553519"
+    "scraped_at": "2026-06-05T21:00:05.051889"
   },
   {
     "id": "18008a8efe9efae78c8dd9ffec1f7d27",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/866841/Adyen-probeert-markt-gerust-te-stellen-na-onverwachte-koersval.aspx",
     "intro": "Adyen heeft vrijdag gereageerd op de onverwachte, stevige koersval van het aandeel, mogelijk als gevolg van een negatief analistenrapport van Cleveland Research.",
     "published_at": "2026-06-05 17:03",
-    "scraped_at": "2026-06-05T19:12:41.553519"
+    "scraped_at": "2026-06-05T21:00:05.051889"
   },
   {
     "id": "2bb18ec582ceda3c7e38f69dc996c11d",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/866837/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 15 juni 2026:",
     "published_at": "2026-06-05 16:29",
-    "scraped_at": "2026-06-05T19:12:41.553519"
+    "scraped_at": "2026-06-05T21:00:05.051889"
   },
   {
     "id": "8f04a3a025abf583f0d40ca56c63afbe",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/866835/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 15 juni 2026:",
     "published_at": "2026-06-05 16:28",
-    "scraped_at": "2026-06-05T19:12:41.553519"
-  },
-  {
-    "id": "a28f6f29ad91b8578966b16889c23975",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/866836/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 15 juni 2026:",
-    "published_at": "2026-06-05 16:28",
-    "scraped_at": "2026-06-05T19:12:41.553519"
-  },
-  {
-    "id": "2e79f8eff5e97e0d1628c72543f88506",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht lagere opening na sterk banenrapport",
-    "link": "https://www.beurs.nl/Nieuws/866822/Wall-Street-wacht-lagere-opening-na-sterk-banenrapport.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een overwegend lagere opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de opening 0,6 procent lager. De Nasdaq dreigt ruim een procent lager te gaan openen.",
-    "published_at": "2026-06-05 14:49",
-    "scraped_at": "2026-06-05T19:12:41.553519"
-  },
-  {
-    "id": "865a411eb9cea2a7b54ca791d17075e0",
-    "categorie": "Beursnieuws",
-    "titel": "Banengroei VS veel sterker dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/866817/Banengroei-VS-veel-sterker-dan-verwacht.aspx",
-    "intro": "Er zijn in mei 172.000 banen gecreëerd in de Verenigde Staten, wat veel meer was dan verwacht. Dit bleek vrijdag uit het banenrapport van de Amerikaanse overheid.",
-    "published_at": "2026-06-05 14:36",
-    "scraped_at": "2026-06-05T19:12:41.553519"
+    "scraped_at": "2026-06-05T21:00:05.051889"
   }
 ]
