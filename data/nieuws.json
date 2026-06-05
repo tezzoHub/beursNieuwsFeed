@@ -1,12 +1,75 @@
 [
   {
+    "id": "2bb18ec582ceda3c7e38f69dc996c11d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/866837/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 15 juni 2026:",
+    "published_at": "2026-06-05 16:29",
+    "scraped_at": "2026-06-05T14:54:53.770141"
+  },
+  {
+    "id": "8f04a3a025abf583f0d40ca56c63afbe",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/866835/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 15 juni 2026:",
+    "published_at": "2026-06-05 16:28",
+    "scraped_at": "2026-06-05T14:54:53.770141"
+  },
+  {
+    "id": "a28f6f29ad91b8578966b16889c23975",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/866836/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 15 juni 2026:",
+    "published_at": "2026-06-05 16:28",
+    "scraped_at": "2026-06-05T14:54:53.770141"
+  },
+  {
+    "id": "2e79f8eff5e97e0d1628c72543f88506",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht lagere opening na sterk banenrapport",
+    "link": "https://www.beurs.nl/Nieuws/866822/Wall-Street-wacht-lagere-opening-na-sterk-banenrapport.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een overwegend lagere opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de opening 0,6 procent lager. De Nasdaq dreigt ruim een procent lager te gaan openen.",
+    "published_at": "2026-06-05 14:49",
+    "scraped_at": "2026-06-05T14:54:53.770141"
+  },
+  {
+    "id": "865a411eb9cea2a7b54ca791d17075e0",
+    "categorie": "Beursnieuws",
+    "titel": "Banengroei VS veel sterker dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/866817/Banengroei-VS-veel-sterker-dan-verwacht.aspx",
+    "intro": "Er zijn in mei 172.000 banen gecreëerd in de Verenigde Staten, wat veel meer was dan verwacht. Dit bleek vrijdag uit het banenrapport van de Amerikaanse overheid.",
+    "published_at": "2026-06-05 14:36",
+    "scraped_at": "2026-06-05T14:54:53.770141"
+  },
+  {
+    "id": "549e7921845f1ec6db141d3ebcd5acbd",
+    "categorie": "Beursnieuws",
+    "titel": "Koersalarm: Adyen onder druk na analistenrapport",
+    "link": "https://www.beurs.nl/Nieuws/866816/Koersalarm-Adyen-onder-druk-na-analistenrapport.aspx",
+    "intro": "Het aandeel van Adyen stond vrijdagmiddag uit het niets stevig onder druk. Handelaren wezen op een negatief analistenrapport van Cleveland Research.",
+    "published_at": "2026-06-05 14:24",
+    "scraped_at": "2026-06-05T14:54:53.770141"
+  },
+  {
+    "id": "8b6e7bcd128ad3c579b12dbcb58c2593",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: chippers houden AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/866812/Beursupdate-chippers-houden-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag licht in het rood, waarbij de 'chippers' de gebeten hond waren, als gevolg van een sectorrotatie weg van techaandelen. Vanmiddag volgt nog het Amerikaanse banenrapport.",
+    "published_at": "2026-06-05 13:57",
+    "scraped_at": "2026-06-05T14:54:53.770141"
+  },
+  {
     "id": "bb2c7ad085b179eb3013c91f7feee5e1",
     "categorie": "Beursnieuws",
     "titel": "Futures voorspellen lagere opening voor Wall Street",
     "link": "https://www.beurs.nl/Nieuws/866808/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een overwegend lagere opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,4 procent lager. De Nasdaq dreigt 0,9 procent lager te gaan openen.",
     "published_at": "2026-06-05 12:51",
-    "scraped_at": "2026-06-05T11:52:08.572221"
+    "scraped_at": "2026-06-05T14:54:53.770141"
   },
   {
     "id": "cbcafa3e0f3f6c0399f1d68af7efbe90",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/866799/Europese-beurzen-veren-op.aspx",
     "intro": "De Europese aandelenmarkten noteerden vrijdag rond het middaguur licht hoger, na eerder nog een voorzichtige start.",
     "published_at": "2026-06-05 12:03",
-    "scraped_at": "2026-06-05T11:52:08.572221"
+    "scraped_at": "2026-06-05T14:54:53.770141"
   },
   {
     "id": "3baa8c6162281d0e23fb56db81f6587f",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/866795/Economie-eurozone-onder-druk.aspx",
     "intro": "De economie in de eurozone is in het eerste kwartaal gekrompen. Dit meldde het statistiekbureau Eurostat vrijdag.",
     "published_at": "2026-06-05 11:06",
-    "scraped_at": "2026-06-05T11:52:08.572221"
-  },
-  {
-    "id": "980051abe38ad8c2b71ae268799ebcb1",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders duwen AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/866791/Halfgeleiders-duwen-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdagochtend lager, waarbij zwaargewichten als Besi, ASML en ASMI het moesten ontgelden. Rond de klok van half elf verloor de AEX 0,4 procent op 1.042,71 punten.",
-    "published_at": "2026-06-05 10:34",
-    "scraped_at": "2026-06-05T11:52:08.572221"
-  },
-  {
-    "id": "de8acb5bfa9ee57803be16f943458c59",
-    "categorie": "IEX",
-    "titel": "Must read: in 2026 gaan er wel 100 bedrijven naar de beurs",
-    "link": "https://www.iex.nl/artikel/866772/Must-read-in-2026-gaan-er-wel-100-bedrijven-naar-de-beurs.aspx",
-    "intro": "Goldman Sachs verwacht dat er in 2026 in de VS ongeveer 100 IPO's zullen plaatsvinden die zo'n 160 miljard dollar zullen ophalen. Plus: SpaceX moet wachten op plek in S&P 500, wat is een staakt-het-vuren nog waard, ABN Amro slaat alarm, en meer.",
-    "published_at": "2026-06-05 10:30",
-    "scraped_at": "2026-06-05T11:52:08.572221"
-  },
-  {
-    "id": "51bd4ad12d34c781c531eb05d28bf366",
-    "categorie": "Beursnieuws",
-    "titel": "Kepler Cheuvreux verlaagt koersdoel WDP",
-    "link": "https://www.beurs.nl/Nieuws/866782/Kepler-Cheuvreux-verlaagt-koersdoel-WDP.aspx",
-    "intro": "Kepler Cheuvreux heeft vrijdag het koersdoel voor WDP verlaagd van 27,00 naar 25,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de bank.",
-    "published_at": "2026-06-05 09:54",
-    "scraped_at": "2026-06-05T11:52:08.572221"
-  },
-  {
-    "id": "a02ce1e1069b89f02325754d8ee849c6",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/866776/AEX-lager-van-start-gegaan.aspx",
-    "intro": "De AEX-index koerste vrijdag kort na de beursgong 0,5 procent lager op 1.041,60 punten, terwijl de midkap 0,1 procent prijs moest geven.",
-    "published_at": "2026-06-05 09:09",
-    "scraped_at": "2026-06-05T11:52:08.572221"
-  },
-  {
-    "id": "c9d14dd3488e9256061ce8a228832904",
-    "categorie": "Beursnieuws",
-    "titel": "Productie Franse industrie licht omhoog",
-    "link": "https://www.beurs.nl/Nieuws/866763/Productie-Franse-industrie-licht-omhoog.aspx",
-    "intro": "De Franse industriële productie is in april licht gestegen. Dit bleek vrijdag uit cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-06-05 08:50",
-    "scraped_at": "2026-06-05T11:52:08.572221"
-  },
-  {
-    "id": "60adff8ca9d89efb383da3b3e444fcca",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start waarschijnlijk afwachtend na sectorrotatie op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/866759/AEX-start-waarschijnlijk-afwachtend-na-sectorrotatie-op-Wall-Street.aspx",
-    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer vlakke opening. Futures op de AEX-index kwamen ongeveer een uur voor de beursgong nog niet echt van hun plaats.",
-    "published_at": "2026-06-05 08:12",
-    "scraped_at": "2026-06-05T11:52:08.572221"
-  },
-  {
-    "id": "1523d3843e7127a7bd9fd512ef39e478",
-    "categorie": "Beleggen",
-    "titel": "Risico's remmen de energietransitie niet af",
-    "link": "https://www.ieximpact.nl/artikel/864151/Risicos-remmen-de-energietransitie-niet-af.aspx",
-    "intro": "De energietransitie staat voor grote uitdagingen, van hogere rentes, netcongestie tot personeelstekorten, maar tegelijkertijd biedt het afscheid van fossiele energie beleggers enorme groeikansen, aldus de vier experts aan het rondetafelgesprek van IEX Impact.",
-    "published_at": "2026-06-05 08:00",
-    "scraped_at": "2026-06-05T11:52:08.572221"
+    "scraped_at": "2026-06-05T14:54:53.770141"
   }
 ]
