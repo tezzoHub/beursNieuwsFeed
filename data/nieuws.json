@@ -1,12 +1,39 @@
 [
   {
-    "id": "c14873a4cb619fd79914099b53e7e1e1",
+    "id": "bb2c7ad085b179eb3013c91f7feee5e1",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: halfgeleiders duwen AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/866791/Beursupdate-halfgeleiders-duwen-AEX-in-het-rood.aspx",
+    "titel": "Futures voorspellen lagere opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/866808/Futures-voorspellen-lagere-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een overwegend lagere opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,4 procent lager. De Nasdaq dreigt 0,9 procent lager te gaan openen.",
+    "published_at": "2026-06-05 12:51",
+    "scraped_at": "2026-06-05T11:52:08.572221"
+  },
+  {
+    "id": "cbcafa3e0f3f6c0399f1d68af7efbe90",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen veren op",
+    "link": "https://www.beurs.nl/Nieuws/866799/Europese-beurzen-veren-op.aspx",
+    "intro": "De Europese aandelenmarkten noteerden vrijdag rond het middaguur licht hoger, na eerder nog een voorzichtige start.",
+    "published_at": "2026-06-05 12:03",
+    "scraped_at": "2026-06-05T11:52:08.572221"
+  },
+  {
+    "id": "3baa8c6162281d0e23fb56db81f6587f",
+    "categorie": "Beursnieuws",
+    "titel": "Economie eurozone onder druk",
+    "link": "https://www.beurs.nl/Nieuws/866795/Economie-eurozone-onder-druk.aspx",
+    "intro": "De economie in de eurozone is in het eerste kwartaal gekrompen. Dit meldde het statistiekbureau Eurostat vrijdag.",
+    "published_at": "2026-06-05 11:06",
+    "scraped_at": "2026-06-05T11:52:08.572221"
+  },
+  {
+    "id": "980051abe38ad8c2b71ae268799ebcb1",
+    "categorie": "Beursnieuws",
+    "titel": "Halfgeleiders duwen AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/866791/Halfgeleiders-duwen-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagochtend lager, waarbij zwaargewichten als Besi, ASML en ASMI het moesten ontgelden. Rond de klok van half elf verloor de AEX 0,4 procent op 1.042,71 punten.",
     "published_at": "2026-06-05 10:34",
-    "scraped_at": "2026-06-05T08:43:39.723879"
+    "scraped_at": "2026-06-05T11:52:08.572221"
   },
   {
     "id": "de8acb5bfa9ee57803be16f943458c59",
@@ -15,7 +42,7 @@
     "link": "https://www.iex.nl/artikel/866772/Must-read-in-2026-gaan-er-wel-100-bedrijven-naar-de-beurs.aspx",
     "intro": "Goldman Sachs verwacht dat er in 2026 in de VS ongeveer 100 IPO's zullen plaatsvinden die zo'n 160 miljard dollar zullen ophalen. Plus: SpaceX moet wachten op plek in S&P 500, wat is een staakt-het-vuren nog waard, ABN Amro slaat alarm, en meer.",
     "published_at": "2026-06-05 10:30",
-    "scraped_at": "2026-06-05T08:43:39.723879"
+    "scraped_at": "2026-06-05T11:52:08.572221"
   },
   {
     "id": "51bd4ad12d34c781c531eb05d28bf366",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/866782/Kepler-Cheuvreux-verlaagt-koersdoel-WDP.aspx",
     "intro": "Kepler Cheuvreux heeft vrijdag het koersdoel voor WDP verlaagd van 27,00 naar 25,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de bank.",
     "published_at": "2026-06-05 09:54",
-    "scraped_at": "2026-06-05T08:43:39.723879"
+    "scraped_at": "2026-06-05T11:52:08.572221"
   },
   {
     "id": "a02ce1e1069b89f02325754d8ee849c6",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/866776/AEX-lager-van-start-gegaan.aspx",
     "intro": "De AEX-index koerste vrijdag kort na de beursgong 0,5 procent lager op 1.041,60 punten, terwijl de midkap 0,1 procent prijs moest geven.",
     "published_at": "2026-06-05 09:09",
-    "scraped_at": "2026-06-05T08:43:39.723879"
+    "scraped_at": "2026-06-05T11:52:08.572221"
   },
   {
     "id": "c9d14dd3488e9256061ce8a228832904",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/866763/Productie-Franse-industrie-licht-omhoog.aspx",
     "intro": "De Franse industriële productie is in april licht gestegen. Dit bleek vrijdag uit cijfers van het Franse statistiekbureau Insee.",
     "published_at": "2026-06-05 08:50",
-    "scraped_at": "2026-06-05T08:43:39.723879"
+    "scraped_at": "2026-06-05T11:52:08.572221"
   },
   {
     "id": "60adff8ca9d89efb383da3b3e444fcca",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/866759/AEX-start-waarschijnlijk-afwachtend-na-sectorrotatie-op-Wall-Street.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een min of meer vlakke opening. Futures op de AEX-index kwamen ongeveer een uur voor de beursgong nog niet echt van hun plaats.",
     "published_at": "2026-06-05 08:12",
-    "scraped_at": "2026-06-05T08:43:39.723879"
+    "scraped_at": "2026-06-05T11:52:08.572221"
   },
   {
     "id": "1523d3843e7127a7bd9fd512ef39e478",
@@ -60,33 +87,6 @@
     "link": "https://www.ieximpact.nl/artikel/864151/Risicos-remmen-de-energietransitie-niet-af.aspx",
     "intro": "De energietransitie staat voor grote uitdagingen, van hogere rentes, netcongestie tot personeelstekorten, maar tegelijkertijd biedt het afscheid van fossiele energie beleggers enorme groeikansen, aldus de vier experts aan het rondetafelgesprek van IEX Impact.",
     "published_at": "2026-06-05 08:00",
-    "scraped_at": "2026-06-05T08:43:39.723879"
-  },
-  {
-    "id": "6326bc80273fa625debf7370836827a6",
-    "categorie": "Beursnieuws",
-    "titel": "Citi zet AkzoNobel op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/866755/Citi-zet-AkzoNobel-op-de-kooplijst.aspx",
-    "intro": "Citi Research heeft een koopadvies geplakt op AkzoNobel met een koersdoel van 61,00 euro. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-06-05 07:47",
-    "scraped_at": "2026-06-05T08:43:39.723879"
-  },
-  {
-    "id": "f8a90b61affbc12970b1d0bb4783c643",
-    "categorie": "Beursnieuws",
-    "titel": "ForFarmers rondt aandeleninkoop af",
-    "link": "https://www.beurs.nl/Nieuws/866752/ForFarmers-rondt-aandeleninkoop-af.aspx",
-    "intro": "ForFarmers heeft met de inkoop van 40.416 aandelen het einde bereikt van zijn inkoopprogramma. Dit meldde de veevoerspecialist vrijdag voorbeurs.",
-    "published_at": "2026-06-05 07:40",
-    "scraped_at": "2026-06-05T08:43:39.723879"
-  },
-  {
-    "id": "b7afd7ea0ffdf59900abaa52e41fbbf1",
-    "categorie": "Beursnieuws",
-    "titel": "Givaudan neemt meerderheidsbelang in Eurofragance",
-    "link": "https://www.beurs.nl/Nieuws/866749/Givaudan-neemt-meerderheidsbelang-in-Eurofragance.aspx",
-    "intro": "Givaudan heeft een akkoord bereikt over de aankoop van een meerderheidsbelang in het Spaanse Eurofragance. Dit maakte de Zwitserse producent van geur- en smaakstoffen vrijdagochtend bekend.",
-    "published_at": "2026-06-05 07:26",
-    "scraped_at": "2026-06-05T08:43:39.723879"
+    "scraped_at": "2026-06-05T11:52:08.572221"
   }
 ]
