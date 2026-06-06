@@ -1,92 +1,56 @@
 [
   {
-    "id": "071032bdf063012ec486e9ef836a649f",
+    "id": "3545bf66b98875060825953e3480e2c3",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/866861/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-06-05 22:21",
-    "scraped_at": "2026-06-06T08:16:10.532726"
+    "titel": "Media: beursgang SpaceX twee keer overschreven",
+    "link": "https://www.beurs.nl/Nieuws/866873/Media-beursgang-SpaceX-twee-keer-overschreven.aspx",
+    "intro": "SpaceX heeft bij zijn beursgang een vraag van beleggers van ongeveer 150 miljard dollar gegenereerd, ongeveer het dubbele van de 75 miljard dollar die het bedrijf hoopt op te halen. Dit meldde persbureau Reuters vrijdagavond laat op basis van twee bronnen.",
+    "published_at": "2026-06-06 11:08",
+    "scraped_at": "2026-06-06T10:27:40.708247"
   },
   {
-    "id": "d65adb7468b41e993822e5ac6f803178",
+    "id": "9f4907c0e1d587364ea25329bdea7cac",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street lager gesloten, Nasdaq kleurt dieprood",
-    "link": "https://www.beurs.nl/Nieuws/866860/Wall-Street-lager-gesloten-Nasdaq-kleurt-dieprood.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen zijn vrijdag flink lager gesloten, mede door de aanhoudende verkoop van technologieaandelen en stijgende rentes op staatsobligaties na een veel sterker dan verwacht banenrapport voor mei.",
-    "published_at": "2026-06-05 22:14",
-    "scraped_at": "2026-06-06T08:16:10.532726"
+    "titel": "Chipbedrijf Marvell Technology opgenomen in S&P 500",
+    "link": "https://www.beurs.nl/Nieuws/866872/Chipbedrijf-Marvell-Technology-opgenomen-in-SP-500.aspx",
+    "intro": "Chipfabrikant Marvell Technology wordt samen met AI-bedrijf Flex opgenomen in de SP 500. Dit maakte SP Dow Jones Indices vrijdagavond laat bekend.",
+    "published_at": "2026-06-06 10:59",
+    "scraped_at": "2026-06-06T10:27:40.708247"
   },
   {
-    "id": "bb05252b66aa5629bcee021c75fb0ed6",
+    "id": "e857fe57c60b9c07168a4e78f27c9083",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen lager gesloten door toenemende vredeshoop",
-    "link": "https://www.beurs.nl/Nieuws/866857/Olieprijzen-lager-gesloten-door-toenemende-vredeshoop.aspx",
-    "intro": "De olieprijzen zijn vrijdag lager gesloten, doordat beleggers er steeds meer vertrouwen in lijken te krijgen dat een hernieuwd conflict tussen de VS en Iran minder waarschijnlijk wordt. Dat gebeurde ondanks aanhoudende, tegenstrijdige berichtgeving over de onderhandelingen.",
-    "published_at": "2026-06-05 21:11",
-    "scraped_at": "2026-06-06T08:16:10.532726"
+    "titel": "Massachusetts groter in AkzoNobel",
+    "link": "https://www.beurs.nl/Nieuws/866871/Massachusetts-groter-in-AkzoNobel.aspx",
+    "intro": "Massachusetts Financial Services heeft een groter belang in AkzoNobel gemeld. Dat bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 3 juni 2026.",
+    "published_at": "2026-06-06 10:42",
+    "scraped_at": "2026-06-06T10:27:40.708247"
   },
   {
-    "id": "cc2d845ce215100e41dd766db62c4afd",
+    "id": "32595e53aa3e10480ce07fcb6b833254",
     "categorie": "Beursnieuws",
-    "titel": "Nasdaq 3 procent onderuit",
-    "link": "https://www.beurs.nl/Nieuws/866854/Nasdaq-3-procent-onderuit.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen daalden vrijdag, mede door de aanhoudende verkoop van belangrijke technologie gerelateerde aandelen en stijgende rentes op staatsobligaties na een veel sterker dan verwacht banenrapport voor mei.",
-    "published_at": "2026-06-05 19:40",
-    "scraped_at": "2026-06-06T08:16:10.532726"
+    "titel": "Acadian meldt groter belang in Alfen",
+    "link": "https://www.beurs.nl/Nieuws/866870/Acadian-meldt-groter-belang-in-Alfen.aspx",
+    "intro": "Acadian Asset Management heeft een groter belang in Alfen gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 4 juni 2026.",
+    "published_at": "2026-06-06 10:37",
+    "scraped_at": "2026-06-06T10:27:40.708247"
   },
   {
-    "id": "6939583b4cdb01f6d78ca80c0f69c524",
+    "id": "d7d593d6ff7b0593c2ab991643385e8b",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen overwegend lager het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/866853/Europese-beurzen-overwegend-lager-het-weekend-in.aspx",
-    "intro": "De Europese beurzen zijn vrijdag overwegend lager gesloten, terwijl de sectorrotatie uit technologie gerelateerde aandelen aanhield. Ook zorgde een sterk Amerikaans banenrapport ervoor dat de rentes opliepen.",
-    "published_at": "2026-06-05 18:51",
-    "scraped_at": "2026-06-06T08:16:10.532726"
+    "titel": "Novo Nordisk boekt succes met diabetesmiddel",
+    "link": "https://www.beurs.nl/Nieuws/866869/Novo-Nordisk-boekt-succes-met-diabetesmiddel.aspx",
+    "intro": "Novo Nordisk heeft succes geboekt met een onderzoeksstudie naar het diabetesmiddel zenagamtide.  Dit meldde de Deense farmareus zaterdag.",
+    "published_at": "2026-06-06 10:33",
+    "scraped_at": "2026-06-06T10:27:40.708247"
   },
   {
-    "id": "a0f4a0f9e175a17556de5dfecbe7fa37",
+    "id": "46def37d27aa452abd574e9dd860fc0b",
     "categorie": "Beursnieuws",
-    "titel": "Euronext meldt lagere volumes",
-    "link": "https://www.beurs.nl/Nieuws/866850/Euronext-meldt-lagere-volumes.aspx",
-    "intro": "De handelsvolumes van contante effecten op Euronext zijn in mei gedaald. Dit maakte de Europese beursuitbater vrijdagavond bekend.",
-    "published_at": "2026-06-05 18:36",
-    "scraped_at": "2026-06-06T08:16:10.532726"
-  },
-  {
-    "id": "d3ece51d2afc14ad3df1d8269d105432",
-    "categorie": "Beursnieuws",
-    "titel": "Adyen en chippers houden AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/866846/Adyen-en-chippers-houden-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag lager geëindigd, maar wist op weekbasis wel licht te stijgen. Halfgeleiders waren richting het weekend de gebeten hond, als gevolg van een sectorrotatie weg van techaandelen.",
-    "published_at": "2026-06-05 17:49",
-    "scraped_at": "2026-06-06T08:16:10.532726"
-  },
-  {
-    "id": "18008a8efe9efae78c8dd9ffec1f7d27",
-    "categorie": "Beursnieuws",
-    "titel": "Adyen probeert markt gerust te stellen na onverwachte koersval",
-    "link": "https://www.beurs.nl/Nieuws/866841/Adyen-probeert-markt-gerust-te-stellen-na-onverwachte-koersval.aspx",
-    "intro": "Adyen heeft vrijdag gereageerd op de onverwachte, stevige koersval van het aandeel, mogelijk als gevolg van een negatief analistenrapport van Cleveland Research.",
-    "published_at": "2026-06-05 17:03",
-    "scraped_at": "2026-06-06T08:16:10.532726"
-  },
-  {
-    "id": "2bb18ec582ceda3c7e38f69dc996c11d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/866837/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 15 juni 2026:",
-    "published_at": "2026-06-05 16:29",
-    "scraped_at": "2026-06-06T08:16:10.532726"
-  },
-  {
-    "id": "8f04a3a025abf583f0d40ca56c63afbe",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/866835/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 15 juni 2026:",
-    "published_at": "2026-06-05 16:28",
-    "scraped_at": "2026-06-06T08:16:10.532726"
+    "titel": "Consumentenkrediet VS stijgt minder hard",
+    "link": "https://www.beurs.nl/Nieuws/866868/Consumentenkrediet-VS-stijgt-minder-hard.aspx",
+    "intro": "Het consumentenkrediet in de Verenigde Staten is in april minder hard gestegen dan in de maand ervoor. Dit maakte de Federal Reserve vrijdagavond bekend.",
+    "published_at": "2026-06-06 10:22",
+    "scraped_at": "2026-06-06T10:27:40.708247"
   }
 ]
