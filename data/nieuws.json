@@ -1,12 +1,21 @@
 [
   {
+    "id": "d4b1a6404ec35dbfb9e36d57315dda7b",
+    "categorie": "Beursnieuws",
+    "titel": "Focus op rentebesluit ECB en beursgang SpaceX",
+    "link": "https://www.beurs.nl/Nieuws/866886/Focus-op-rentebesluit-ECB-en-beursgang-SpaceX.aspx",
+    "intro": "Tegen de achtergrond van het voortdurende conflict in het Midden-Oosten, met krantenkoppen die telkens veranderen, maakt de Europese Centrale Bank komende week zijn rentebesluit bekend. Daarnaast maakt SpaceX van Elon Musk zijn langverwachte beursdebuut op Wall Street.",
+    "published_at": "2026-06-07 13:22",
+    "scraped_at": "2026-06-07T11:48:35.146290"
+  },
+  {
     "id": "032bb102208acba362fb2d1406b780af",
     "categorie": "Beursnieuws",
     "titel": "Media: OpenAI wil ChatGPT omvormen tot superapp",
     "link": "https://www.beurs.nl/Nieuws/866885/Media-OpenAI-wil-ChatGPT-omvormen-tot-superapp.aspx",
     "intro": "OpenAI zou ChatGPT willen omvormen tot een zogeheten 'superapp' die programmeertools en AI-agenten combineert. Dit meldde de Financial Times zondag op basis van uitspraken van ingewijden.",
     "published_at": "2026-06-07 11:34",
-    "scraped_at": "2026-06-07T09:52:05.630283"
+    "scraped_at": "2026-06-07T11:48:35.146290"
   },
   {
     "id": "7076d199bdefe68d97ae6c41bab8d804",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/866883/Consortium-met-Bouygues-neemt-telecomgroep-SFR-over.aspx",
     "intro": "Een consortium onder leiding van Bouygues Telecom heeft een intentieverklaring ondertekend voor de overname van een groot deel van SFR, het Franse telecombedrijf van miljardair Patrick Drahi. Dit meldden de partijen zaterdagavond laat.",
     "published_at": "2026-06-07 10:52",
-    "scraped_at": "2026-06-07T09:52:05.630283"
+    "scraped_at": "2026-06-07T11:48:35.146290"
   },
   {
     "id": "4501c0c14b4ffcce959aab7a35557167",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/866882/Media-OPEC-houdt-vast-aan-productieverhogingen.aspx",
     "intro": "OPEC+ zal zondag waarschijnlijk overeenstemming bereiken over een vierde productieverhoging in evenveel maanden. Dit meldde persbureau Reuters zondag op basis van bronnen.",
     "published_at": "2026-06-07 10:34",
-    "scraped_at": "2026-06-07T09:52:05.630283"
+    "scraped_at": "2026-06-07T11:48:35.146290"
   },
   {
     "id": "b2d31bf40f61e059c97001bae22ba175",
@@ -33,6 +42,6 @@
     "link": "https://www.beurs.nl/Nieuws/866880/Databedrijven-blinken-uit-te-midden-van-chipmalaise.aspx",
     "intro": "Terwijl het cijferseizoen zo goed als voorbij is, wisten databedrijven afgelopen week goed te scoren op het Damrak.",
     "published_at": "2026-06-07 10:16",
-    "scraped_at": "2026-06-07T09:52:05.630283"
+    "scraped_at": "2026-06-07T11:48:35.146290"
   }
 ]
