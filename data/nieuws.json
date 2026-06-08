@@ -1,92 +1,92 @@
 [
   {
-    "id": "5b69b7a05f958ef2f9335e81533f54af",
+    "id": "544be6b29b1753fd6f2261ab666c4ad3",
     "categorie": "Beursnieuws",
-    "titel": "Japanse economie groeit minder sterk",
-    "link": "https://www.beurs.nl/Nieuws/866940/Japanse-economie-groeit-minder-sterk.aspx",
-    "intro": "De economie in Japan is in het eerste kwartaal van 2026 iets minders sterk gegroeid dan eerder gemeld. Dit bleek maandag uit cijfers van de Japanse overheid.",
-    "published_at": "2026-06-08 08:53",
-    "scraped_at": "2026-06-08T07:10:35.858215"
+    "titel": "Beursupdate: AEX hoger na stabiliseren olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/866992/Beursupdate-AEX-hoger-na-stabiliseren-olieprijs.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagmiddag hoger, nadat de olieprijs stabiliseerde en technologie-aandelen overeind bleven, ondanks de koersval op Nasdaq vrijdag.",
+    "published_at": "2026-06-08 14:00",
+    "scraped_at": "2026-06-08T12:11:57.171195"
   },
   {
-    "id": "ba3e4704a5145b669d544e3558b4813a",
-    "categorie": "Opinie",
-    "titel": "“Impactbeleggen is geen filantropie. Het is echt investeren”",
-    "link": "https://www.ieximpact.nl/artikel/866160/Impactbeleggen-is-geen-filantropie-Het-is-echt-investeren.aspx",
-    "intro": "De naam Goldman Sachs roept eerder associaties op met harde rendementseisen en grote deals dan met duurzame energie, schoon water en sociale obligaties, maar Tim Verheyden, hoofd duurzaamheid publieke beleggingen van Goldman Sachs AM (GSAM), ziet die tegenstelling niet. “Zonder return gaat impactbeleggen niet groot worden.”",
-    "published_at": "2026-06-08 08:50",
-    "scraped_at": "2026-06-08T07:10:35.858215"
-  },
-  {
-    "id": "4ab86978491f0a3f8cfdb3f3ae5e3939",
+    "id": "93db2924decd440f0032c4d96531f584",
     "categorie": "Beursnieuws",
-    "titel": "Duitse fabrieksorders fors gedaald",
-    "link": "https://www.beurs.nl/Nieuws/866934/Duitse-fabrieksorders-fors-gedaald.aspx",
-    "intro": "De Duitse fabrieksorders zijn in april sterk gedaald. Dit bleek maandag uit cijfers van statistiekbureau Destatis.",
-    "published_at": "2026-06-08 08:29",
-    "scraped_at": "2026-06-08T07:10:35.858215"
+    "titel": "Eli Lilly boekt succes met nieuw afslankmedicijn",
+    "link": "https://www.beurs.nl/Nieuws/866980/Eli-Lilly-boekt-succes-met-nieuw-afslankmedicijn.aspx",
+    "intro": "Het aandeel Eli Lilly schoot maandag tijdens de voorbeurshandel op Wall Street omhoog, in reactie op sterke onderzoeksresultaten van zijn afslankmedicijn retatrutide, die het Amerikaanse farmabedrijf afgelopen weekend presenteerde.",
+    "published_at": "2026-06-08 12:52",
+    "scraped_at": "2026-06-08T12:11:57.171195"
   },
   {
-    "id": "79117c92134d3e5748c94dc27bfbacff",
+    "id": "b0fff5adc120730f7461dc8f58ab63d2",
     "categorie": "Beursnieuws",
-    "titel": "ING benoemt Andrea Cesaroni als chief risk officer",
-    "link": "https://www.beurs.nl/Nieuws/866936/ING-benoemt-Andrea-Cesaroni-als-chief-risk-officer.aspx",
-    "intro": "ING heeft Andrea Cesaroni benoemd als chief risk officer. Dit maakte de bank maandagochtend bekend.",
-    "published_at": "2026-06-08 08:29",
-    "scraped_at": "2026-06-08T07:10:35.858215"
+    "titel": "Futures voorspellen hersteldag op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/866973/Futures-voorspellen-hersteldag-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een hogere opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,3 procent hoger. Voor de Nasdaq ligt een openingswinst van 0,7 procent in het verschiet.",
+    "published_at": "2026-06-08 12:35",
+    "scraped_at": "2026-06-08T12:11:57.171195"
   },
   {
-    "id": "0423f73f53b659a7aee1b0f8d8772748",
-    "categorie": "Voorbeurs",
-    "titel": "Slechte start beursweek na chip-sell-off in Azië en beschietingen Midden-Oosten",
-    "link": "https://www.beurs.nl/Artikel/866891/Slechte-start-beursweek-na-chip-sell-off-in-Azie-en-beschietingen-Midden-Oosten.aspx",
-    "intro": "Openingsindicatie: -1,5%. Sell-off in techsector ijlt na, Iran en Israël beschieten elkaar over en weer. Olieprijzen en obligatierentes zijn verder opgelopen en ook paniekbarometer VIX stijgt.",
-    "published_at": "2026-06-08 08:10",
-    "scraped_at": "2026-06-08T07:10:35.858215"
-  },
-  {
-    "id": "34ddbe90a59a6e4e0645e8345900535b",
+    "id": "a49688281992e700b109692b3a154c60",
     "categorie": "Beursnieuws",
-    "titel": "AEX start handelsweek in het rood na koersval Nasdaq",
-    "link": "https://www.beurs.nl/Nieuws/866930/AEX-start-handelsweek-in-het-rood-na-koersval-Nasdaq.aspx",
-    "intro": "De Amsterdamse beurs maakt zich maandag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 1,2 procent.",
-    "published_at": "2026-06-08 08:03",
-    "scraped_at": "2026-06-08T07:10:35.858215"
+    "titel": "Europese beurzen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/866967/Europese-beurzen-in-het-rood.aspx",
+    "intro": "De Europese beurzen noteerden maandag rond het middaguur lager, op hogere olieprijzen en een verkoopgolf van AI-gerelateerde aandelen, maar vergeleken met Azië bleven de koersdalingen beperkt.",
+    "published_at": "2026-06-08 12:08",
+    "scraped_at": "2026-06-08T12:11:57.171195"
   },
   {
-    "id": "14429eca95a667edcd2ba616659af70b",
+    "id": "33a0700d641004cf61a8e7744cc79206",
     "categorie": "Beursnieuws",
-    "titel": "Citi verlaagt koersdoel Prosus",
-    "link": "https://www.beurs.nl/Nieuws/866929/Citi-verlaagt-koersdoel-Prosus.aspx",
-    "intro": "Citi Research heeft het koersdoel voor Prosus verlaagd van 57,00 naar 54,00 euro met een herhaling van het koopadvies. Dit bleek maandag uit een analistenrapport van de Amerikaanse bank.",
-    "published_at": "2026-06-08 08:02",
-    "scraped_at": "2026-06-08T07:10:35.858215"
+    "titel": "UBS zet Porsche op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/866958/UBS-zet-Porsche-op-de-kooplijst.aspx",
+    "intro": "UBS heeft het aandeel Porsche op zijn kooplijst gezet, na een verhoging van het koersdoel van 40,00 naar 60,00 euro, omdat de analisten geloven dat een jarenlange reorganisatie de Duitse autofabrikant weer op de juiste koers heeft gezet.",
+    "published_at": "2026-06-08 11:09",
+    "scraped_at": "2026-06-08T12:11:57.171195"
   },
   {
-    "id": "b263df5dbffa09b1a7637eb065c283ce",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen in het rood na koersval Nasdaq en nieuwe stijging olieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/866924/Aziatische-beurzen-in-het-rood-na-koersval-Nasdaq-en-nieuwe-stijging-olieprijzen.aspx",
-    "intro": "De Aziatische beurzen koersten maandagochtend eensgezind in het rood na onder meer een scherpe terugval op vrijdag van techbeurs Nasdaq.",
-    "published_at": "2026-06-08 07:32",
-    "scraped_at": "2026-06-08T07:10:35.858215"
+    "id": "2bfeafbea852e8d20c21120043988d02",
+    "categorie": "Nieuws",
+    "titel": "Thuisbatterij enorm in opmars",
+    "link": "https://www.ieximpact.nl/artikel/866945/Thuisbatterij-enorm-in-opmars.aspx",
+    "intro": "Steeds meer huishoudens kiezen voor een thuisbatterij om zelf opgewekte zonnestroom op te slaan. In Nederland verdubbelde het aantal batterijsystemen in één jaar. Ook wereldwijd is de groei sterk.",
+    "published_at": "2026-06-08 11:00",
+    "scraped_at": "2026-06-08T12:11:57.171195"
   },
   {
-    "id": "e89e9bd29f00d4acc003f1dd6624f7f0",
+    "id": "ac90fcf56b481edc37fa7b803d0650f7",
     "categorie": "Beursnieuws",
-    "titel": "Intesa Sanpaolo brengt bod uit op MPS",
-    "link": "https://www.beurs.nl/Nieuws/866921/Intesa-Sanpaolo-brengt-bod-uit-op-MPS.aspx",
-    "intro": "Intesa Sanpaolo brengt een vrijwillig openbaar bod uit op alle aandelen van Banca Monte dei Paschi di Siena. Intesa meldde dit maandagochtend.",
-    "published_at": "2026-06-08 07:25",
-    "scraped_at": "2026-06-08T07:10:35.858215"
+    "titel": "AEX in het rood na terugval Nasdaq",
+    "link": "https://www.beurs.nl/Nieuws/866957/AEX-in-het-rood-na-terugval-Nasdaq.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend lager, nadat de techsector op Wall Street vrijdag hard onderuit ging.",
+    "published_at": "2026-06-08 10:36",
+    "scraped_at": "2026-06-08T12:11:57.171195"
   },
   {
-    "id": "eed7649446e278fe5bb0587ff5eb6486",
+    "id": "6d70d14313ff1e7f61d5b439f2b3cbd4",
+    "categorie": "IEX",
+    "titel": "Must read: Wall Street nadert gevaarlijke dotcomzone",
+    "link": "https://www.iex.nl/artikel/866943/Must-read-Wall-Street-nadert-gevaarlijke-dotcomzone.aspx",
+    "intro": "De verhouding tussen het momentum van de S&P 500 en aandelen met lage volatiliteit nadert de pieken van de technologiebubbel. Plus: paniek om brandstoftekorten blijkt voorbarig, J.P. Morgan tipt 2 beursnieuwkomers, de techindex loopt harder op dan in 1999, en meer.",
+    "published_at": "2026-06-08 10:30",
+    "scraped_at": "2026-06-08T12:11:57.171195"
+  },
+  {
+    "id": "6834577e24245005a56214ac85ef7607",
     "categorie": "Beursnieuws",
-    "titel": "Nvidia en SK Hynix slaan handen ineen",
-    "link": "https://www.beurs.nl/Nieuws/866920/Nvidia-en-SK-Hynix-slaan-handen-ineen.aspx",
-    "intro": "Nvidia en SK Hynix hebben een akkoord bereikt over een meerjarige samenwerking voor geavanceerde geheugenchips voor AI-fabrieken. Dit maakten de twee bedrijven zondag bekend.",
-    "published_at": "2026-06-08 07:17",
-    "scraped_at": "2026-06-08T07:10:35.858215"
+    "titel": "Intesa Sanpaolo en BPM in gevecht om Monte dei Paschi",
+    "link": "https://www.beurs.nl/Nieuws/866953/Intesa-Sanpaolo-en-BPM-in-gevecht-om-Monte-dei-Paschi.aspx",
+    "intro": "Intesa Sanpaolo brengt een vrijwillig openbaar bod uit op alle aandelen van Banca Monte dei Paschi di Siena. Intesa meldde dit maandagochtend, enkele uren nadat Banco BPM liet weten met Monte dei Paschi te willen fuseren.",
+    "published_at": "2026-06-08 10:07",
+    "scraped_at": "2026-06-08T12:11:57.171195"
+  },
+  {
+    "id": "77c720f0ad6a94b17b5c3bfa37e22e09",
+    "categorie": "Beursnieuws",
+    "titel": "Goldman Sachs zet DSM en Syensqo op de verkooplijst",
+    "link": "https://www.beurs.nl/Nieuws/866947/Goldman-Sachs-zet-DSM-en-Syensqo-op-de-verkooplijst.aspx",
+    "intro": "Goldman Sachs heeft de aandelen DSM-Firmenich en Syensqo op de verkooplijst geplaatst. Dit bleek maandag uit een sectorrapport van de Amerikaanse bank.",
+    "published_at": "2026-06-08 09:28",
+    "scraped_at": "2026-06-08T12:11:57.171195"
   }
 ]
