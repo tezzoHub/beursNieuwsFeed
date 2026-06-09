@@ -1,12 +1,39 @@
 [
   {
+    "id": "0d6ed733b84c0b4f7fb4e90966864cc0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/867196/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag alle acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-06-09 22:18",
+    "scraped_at": "2026-06-09T21:24:41.672409"
+  },
+  {
+    "id": "aa16de9483e8c81c24cefa577495553f",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street krabbelt op ondanks nieuwe verkoopgolf techaandelen",
+    "link": "https://www.beurs.nl/Nieuws/867195/Wall-Street-krabbelt-op-ondanks-nieuwe-verkoopgolf-techaandelen.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend lager geëindigd, waarbij halfgeleideraandelen opnieuw onder druk stonden. De indices sloten wel boven het laagste punt van de dag.",
+    "published_at": "2026-06-09 22:14",
+    "scraped_at": "2026-06-09T21:24:41.672409"
+  },
+  {
+    "id": "d3dcab03bae8bfa8d06be65242b66870",
+    "categorie": "Beursnieuws",
+    "titel": "Lakefront gaat aandelen inkopen",
+    "link": "https://www.beurs.nl/Nieuws/867194/Lakefront-gaat-aandelen-inkopen.aspx",
+    "intro": "Lakefront Biotherapeutics gaat voor maximaal 50 miljoen euro aan aandelen inkopen. Dit meldde het voormalige Galapagos dinsdagavond.",
+    "published_at": "2026-06-09 22:09",
+    "scraped_at": "2026-06-09T21:24:41.672409"
+  },
+  {
     "id": "4ae94c1c08cf2517a34b30039fccaf02",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs daalt weer flink",
     "link": "https://www.beurs.nl/Nieuws/867190/Olieprijs-daalt-weer-flink.aspx",
     "intro": "De olieprijs is dinsdag weer flink gedaald, terwijl de situatie tussen Iran en Israël niet opnieuw escaleerde.",
     "published_at": "2026-06-09 20:53",
-    "scraped_at": "2026-06-09T19:31:12.820911"
+    "scraped_at": "2026-06-09T21:24:41.672409"
   },
   {
     "id": "f4d0d5b8ee22bad79f29b49c0b12e8ce",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Artikel/867187/Cumulex-benoemt-drie-nieuwe-bestuurders.aspx",
     "intro": "De raad van bestuur wordt uitgebreid naar vijf personen.",
     "published_at": "2026-06-09 19:45",
-    "scraped_at": "2026-06-09T19:31:12.820911"
+    "scraped_at": "2026-06-09T21:24:41.672409"
   },
   {
     "id": "150e5d63b6144902e5eb18b5d40c94f3",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/867186/Herstel-op-Wall-Street-van-korte-duur.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag flink lager met nog een paar uur handel te gaan, waarbij halfgeleideraandelen opnieuw onder druk stonden.",
     "published_at": "2026-06-09 19:41",
-    "scraped_at": "2026-06-09T19:31:12.820911"
+    "scraped_at": "2026-06-09T21:24:41.672409"
   },
   {
     "id": "32ff4d963892ad2ff8f7f674c2c81fbe",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/867185/Aalberts-vult-AEX-index-aan.aspx",
     "intro": "Bij de jaarlijkse herweging van de aandelenindices op Euronext Amsterdam zal Aalberts worden toegevoegd aan de lijst met AEX-fondsen. Dat maakte Euronext dinsdag nabeurs bekend.",
     "published_at": "2026-06-09 19:09",
-    "scraped_at": "2026-06-09T19:31:12.820911"
+    "scraped_at": "2026-06-09T21:24:41.672409"
   },
   {
     "id": "bc72fc05591159d46f9964bb5d7d58e3",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/867184/Europese-beurzen-verspelen-winst-na-nieuwe-tech-selloff.aspx",
     "intro": "De Europese aandelenmarkten zijn dinsdag overwegend lager geëindigd, nadat de eerdere winsten verdampten, terwijl op Wall Street een nieuwe verkoopgolf werd ingezet.",
     "published_at": "2026-06-09 18:41",
-    "scraped_at": "2026-06-09T19:31:12.820911"
+    "scraped_at": "2026-06-09T21:24:41.672409"
   },
   {
     "id": "e075ad416eedb798ba1e1dca180eb669",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867181/UMG-geeft-voor-1-miljard-aan-obligaties-uit.aspx",
     "intro": "Universal Music Group geeft voor 1 miljard euro aan nieuwe obligaties uit met verschillende looptijden. Dit meldde het muziekbedrijf dinsdagavond.",
     "published_at": "2026-06-09 18:27",
-    "scraped_at": "2026-06-09T19:31:12.820911"
+    "scraped_at": "2026-06-09T21:24:41.672409"
   },
   {
     "id": "06f9b12ddecace15707c5223ee42a3d7",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867179/AkzoNobel-haalt-750-miljoen-euro-op.aspx",
     "intro": "AkzoNobel heeft dinsdag nabeurs de uitgifte aangekondigd van een obligatie ter waarde van 750 miljoen euro.",
     "published_at": "2026-06-09 18:20",
-    "scraped_at": "2026-06-09T19:31:12.820911"
-  },
-  {
-    "id": "85a6760c08b90eb4545a1a23c8469a98",
-    "categorie": "Beursnieuws",
-    "titel": "Euronext koopt eigen aandelen in",
-    "link": "https://www.beurs.nl/Nieuws/867176/Euronext-koopt-eigen-aandelen-in.aspx",
-    "intro": "Euronext gaat 270.000 eigen aandelen inkopen. Dit meldde het beursbedrijf dinsdagavond.",
-    "published_at": "2026-06-09 17:57",
-    "scraped_at": "2026-06-09T19:31:12.820911"
-  },
-  {
-    "id": "d881e82f0b4a4e7b11e271243ffb74b5",
-    "categorie": "Beursnieuws",
-    "titel": "DSM blinkt uit in licht hogere AEX",
-    "link": "https://www.beurs.nl/Nieuws/867172/DSM-blinkt-uit-in-licht-hogere-AEX.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag hoger gesloten, nadat de vrees voor escalatie in het Midden-Oosten afnam en de olieprijs daalde. DSM-Firmenich blonk uit na een gunstig sectorrapport.",
-    "published_at": "2026-06-09 17:52",
-    "scraped_at": "2026-06-09T19:31:12.820911"
-  },
-  {
-    "id": "300726d535bcc4564ff5dbf44275f1df",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: ingrediëntenbedrijven geven sterke boodschap",
-    "link": "https://www.beurs.nl/Nieuws/867169/Beursblik-ingredientenbedrijven-geven-sterke-boodschap.aspx",
-    "intro": "Ingrediëntenbedrijven hebben een zelfverzekerde boodschap afgegeven in aanloop naar de cijfers over het tweede kwartaal. Dit stelden analisten van Deutsche Bank dinsdag in een rapport.",
-    "published_at": "2026-06-09 17:25",
-    "scraped_at": "2026-06-09T19:31:12.820911"
+    "scraped_at": "2026-06-09T21:24:41.672409"
   }
 ]
