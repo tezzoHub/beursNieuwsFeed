@@ -1,12 +1,57 @@
 [
   {
+    "id": "9e030f93fee73b8d04d9399f2dc14b52",
+    "categorie": "Beursnieuws",
+    "titel": "BP schrapt divisie voor duurzame energie",
+    "link": "https://www.beurs.nl/Nieuws/867151/BP-schrapt-divisie-voor-duurzame-energie.aspx",
+    "intro": "BP schrapt zijn divisie voor koolstofarme energie en heeft Gordon Birrell benoemd tot hoofd van de divisie Upstream en Richard Harding tot tijdelijke eindverantwoordelijk voor de tak downstream. Dit maakte het Britse olieconcern dinsdag bekend.",
+    "published_at": "2026-06-09 15:38",
+    "scraped_at": "2026-06-09T14:07:53.880652"
+  },
+  {
+    "id": "41a931ca90f9ae7afac4f67a4394c538",
+    "categorie": "Beursnieuws",
+    "titel": "Herstel op Wall Street krijgt meer tractie",
+    "link": "https://www.beurs.nl/Nieuws/867147/Herstel-op-Wall-Street-krijgt-meer-tractie.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, nadat technologieaandelen maandag opveerden van de terugval vrijdag en de olieprijs daalde.",
+    "published_at": "2026-06-09 14:58",
+    "scraped_at": "2026-06-09T14:07:53.880652"
+  },
+  {
+    "id": "af6b82b303753430a81ffd4e8b227dbf",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: hele wereld kijkt uit naar IPO van SpaceX",
+    "link": "https://www.beurs.nl/Nieuws/867146/Beursblik-hele-wereld-kijkt-uit-naar-IPO-van-SpaceX.aspx",
+    "intro": "SpaceX bereidt zich voor op een beursgang op Wall Street deze week. Het AI- en ruimtevaartbedrijf van Elon Musk wil dan 555,6 miljoen aandelen naar de beurs brengen tegen 135 dollar per stuk, goed voor 75 miljard dollar. De IPO wordt op 11 juni afgerond en zou SpaceX waarderen op 1,8 biljoen dollar.",
+    "published_at": "2026-06-09 14:54",
+    "scraped_at": "2026-06-09T14:07:53.880652"
+  },
+  {
+    "id": "ee01731013cfc563091996a671abf6fb",
+    "categorie": "Beursnieuws",
+    "titel": "Tekort Amerikaanse handelsbalans licht gedaald",
+    "link": "https://www.beurs.nl/Nieuws/867144/Tekort-Amerikaanse-handelsbalans-licht-gedaald.aspx",
+    "intro": "Het tekort op de Amerikaanse handelsbalans is in april licht gedaald, doordat de export iets harder steeg dan de import. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-06-09 14:39",
+    "scraped_at": "2026-06-09T14:07:53.880652"
+  },
+  {
+    "id": "d8d2eb2e634ac85643c7c6e83682bad6",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuw record AEX binnen handbereik",
+    "link": "https://www.beurs.nl/Nieuws/867137/Nieuw-record-AEX-binnen-handbereik.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag hoger, nadat onder meer technologieaandelen verder opveerden van de terugval vrijdag en de olieprijs daalde.",
+    "published_at": "2026-06-09 13:50",
+    "scraped_at": "2026-06-09T14:07:53.880652"
+  },
+  {
     "id": "7a510c7acc7ff0e4265ba31e6620e1e3",
     "categorie": "Beursnieuws",
     "titel": "Valuta: dollarrally verliest wat stoom",
     "link": "https://www.beurs.nl/Nieuws/867134/Valuta-dollarrally-verliest-wat-stoom.aspx",
     "intro": "De opmars van de dollar verliest aan kracht nu de risicobereidheid op de financiële markten herstelt. Dit stelde valutastrateeg Chris Turner van ING dinsdag. Het aantrekkende sentiment helpt de euro/dollar om een deel van het stevige verlies van vrijdag weer goed te maken.",
     "published_at": "2026-06-09 13:11",
-    "scraped_at": "2026-06-09T11:37:14.968292"
+    "scraped_at": "2026-06-09T14:07:53.880652"
   },
   {
     "id": "5a45081c9a6b10d2bc4d414d9e66fed0",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/867131/Futures-Wall-Street-wijzen-op-verder-herstel.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, nadat technologieaandelen maandag opveerden van de terugval vrijdag en de olieprijs daalde.",
     "published_at": "2026-06-09 13:08",
-    "scraped_at": "2026-06-09T11:37:14.968292"
+    "scraped_at": "2026-06-09T14:07:53.880652"
   },
   {
     "id": "d0124fd49d6cd5a00429f7c9703815d7",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/867128/Video-beleg-waar-wordt-geinvesteerd.aspx",
     "intro": "\"Beleggers moeten niet te negatief worden.\" Dit zei Ralph Wessels, Hoofd Beleggingsstrategie van ABN AMRO, voor de camera van ABM Financial News. \"Er zijn namelijk best kansen.\"",
     "published_at": "2026-06-09 12:49",
-    "scraped_at": "2026-06-09T11:37:14.968292"
+    "scraped_at": "2026-06-09T14:07:53.880652"
   },
   {
     "id": "de2c2a4f42bc91f179d58ab2fdcf85e8",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867123/Obligatie-Nederland-haalt-25-miljard-euro-op.aspx",
     "intro": "Nederland heeft 2,5 miljard euro opgehaald met de heropening van een tienjarige lening. Dit meldde het agentschap van het ministerie van Financiën dinsdag.",
     "published_at": "2026-06-09 12:19",
-    "scraped_at": "2026-06-09T11:37:14.968292"
+    "scraped_at": "2026-06-09T14:07:53.880652"
   },
   {
     "id": "42c37a9b56b805afdd1830f08cf507f5",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867119/Europese-beurzen-overwegend-hoger-door-herstel-risicobereidheid.aspx",
     "intro": "De Europese beurzen noteerden dinsdag rond het middaguur hoger, terwijl de risicobereidheid lijkt te herstellen na de recente verkoop van technologieaandelen. Ook de hernieuwde vredeshoop in het Midden-Oosten droeg bij aan het verbeterde sentiment, wat terug te zien viel in een dalende olieprijs.",
     "published_at": "2026-06-09 12:09",
-    "scraped_at": "2026-06-09T11:37:14.968292"
-  },
-  {
-    "id": "c5fc14f5106dfa0ad7d7b71e21a5f8be",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers gedaald",
-    "link": "https://www.beurs.nl/Nieuws/867118/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-gedaald.aspx",
-    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in mei gedaald. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
-    "published_at": "2026-06-09 12:07",
-    "scraped_at": "2026-06-09T11:37:14.968292"
-  },
-  {
-    "id": "3dc8a863ae489f94b797c8f96416993f",
-    "categorie": "Nieuws",
-    "titel": "\"We verwachten dat financiële instellingen specifiek aandacht hebben voor klimaat- en natuurrisico’s\"",
-    "link": "https://www.ieximpact.nl/artikel/866286/We-verwachten-dat-financiele-instellingen-specifiek-aandacht-hebben-voor-klimaat-en-natuurrisicos.aspx",
-    "intro": "Klimaatverandering en biodiversiteitsverlies zijn volgens DNB grote financiële risico’s. De toezichthouder wil daarom dat financiële instellingen deze risico’s zichtbaar meenemen in hun beleggingsproces. Tenminste, als dat past binnen het brede beleggingsbeleid, de risicohouding en (bij pensioenfondsen) het belang van de deelnemer.",
-    "published_at": "2026-06-09 11:00",
-    "scraped_at": "2026-06-09T11:37:14.968292"
-  },
-  {
-    "id": "9bb98d922c7fedfa9edd383b41201f5a",
-    "categorie": "Beursnieuws",
-    "titel": "AEX kruipt weer richting recordstanden",
-    "link": "https://www.beurs.nl/Nieuws/867108/AEX-kruipt-weer-richting-recordstanden.aspx",
-    "intro": "De Amsterdamse beurs wist dinsdagochtend de openingswinsten verder uit te breiden en lijkt weer langzaam richting de oude recordstanden rond de 1.053 punten te klimmen.",
-    "published_at": "2026-06-09 10:59",
-    "scraped_at": "2026-06-09T11:37:14.968292"
-  },
-  {
-    "id": "2788caf35d1431e52c5c17e5ad2c756b",
-    "categorie": "Beursnieuws",
-    "titel": "ABU: uren in uitzendbranche blijven onder druk",
-    "link": "https://www.beurs.nl/Nieuws/867102/ABU-uren-in-uitzendbranche-blijven-onder-druk.aspx",
-    "intro": "Het aantal gewerkte uren in de Nederlandse uitzendsector is in periode 5 van 2026 opnieuw gedaald, terwijl de omzet wel weer steeg. Dit bleek dinsdag uit cijfers van brancheorganisatie ABU.",
-    "published_at": "2026-06-09 10:19",
-    "scraped_at": "2026-06-09T11:37:14.968292"
-  },
-  {
-    "id": "05e8622da447de21551f733af045fd64",
-    "categorie": "IEX",
-    "titel": "Must read: Beleggingsthema robotisering maakt belofte waar",
-    "link": "https://www.iex.nl/artikel/867016/Must-read-Beleggingsthema-robotisering-maakt-belofte-waar.aspx",
-    "intro": "Plus: beurscorrectie nog niet aan de orde, beursgang van SpaceX is bizar, waardedaling bitcoin verklaard, China is grote winnaar van nieuwste energiecrisis, en meer.",
-    "published_at": "2026-06-09 09:50",
-    "scraped_at": "2026-06-09T11:37:14.968292"
+    "scraped_at": "2026-06-09T14:07:53.880652"
   }
 ]
