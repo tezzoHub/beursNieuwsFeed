@@ -1,92 +1,92 @@
 [
   {
-    "id": "0d6ed733b84c0b4f7fb4e90966864cc0",
+    "id": "13e3c349e3e896a33632aefab076c743",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/867196/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag alle acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-06-09 22:18",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "titel": "Beursblik: UBS verhoogt koersdoel ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/867267/Beursblik-UBS-verhoogt-koersdoel-ABN-AMRO.aspx",
+    "intro": "UBS heeft woensdag het koersdoel voor ABN AMRO verhoogd van 41,00 naar 42,00 euro, met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de bank.",
+    "published_at": "2026-06-10 10:44",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "aa16de9483e8c81c24cefa577495553f",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street krabbelt op ondanks nieuwe verkoopgolf techaandelen",
-    "link": "https://www.beurs.nl/Nieuws/867195/Wall-Street-krabbelt-op-ondanks-nieuwe-verkoopgolf-techaandelen.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend lager geëindigd, waarbij halfgeleideraandelen opnieuw onder druk stonden. De indices sloten wel boven het laagste punt van de dag.",
-    "published_at": "2026-06-09 22:14",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "id": "0e1d3260e84eb9ab3ddf22c77a0def2a",
+    "categorie": "IEX",
+    "titel": "Must read: Pharmaceutische labs in de ruimte",
+    "link": "https://www.iex.nl/artikel/867163/Must-read-Pharmaceutische-labs-in-de-ruimte.aspx",
+    "intro": "Plus: Banken zijn toch niet zo groen als ze zich voordoen, de Nederlandse productie groeit en AI gaat voor cupido spelen op datingapps.",
+    "published_at": "2026-06-10 10:30",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "d3dcab03bae8bfa8d06be65242b66870",
+    "id": "487cf18cfd9afcca774dcdc3abafbec3",
     "categorie": "Beursnieuws",
-    "titel": "Lakefront gaat aandelen inkopen",
-    "link": "https://www.beurs.nl/Nieuws/867194/Lakefront-gaat-aandelen-inkopen.aspx",
-    "intro": "Lakefront Biotherapeutics gaat voor maximaal 50 miljoen euro aan aandelen inkopen. Dit meldde het voormalige Galapagos dinsdagavond.",
-    "published_at": "2026-06-09 22:09",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "titel": "Beursblik: UBS zet Basic-Fit op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/867265/Beursblik-UBS-zet-Basic-Fit-op-de-kooplijst.aspx",
+    "intro": "UBS heeft woensdag het advies voor Basic-Fit verhoogd van Neutraal naar Kopen en stelde het koersdoel opwaarts bij van 23,50 naar 43,50 euro. Dit bleek uit een analistenrapport van de Zwitserse bank.",
+    "published_at": "2026-06-10 10:23",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "4ae94c1c08cf2517a34b30039fccaf02",
+    "id": "226e8746dbc3c37b220ee48f5baea70e",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt weer flink",
-    "link": "https://www.beurs.nl/Nieuws/867190/Olieprijs-daalt-weer-flink.aspx",
-    "intro": "De olieprijs is dinsdag weer flink gedaald, terwijl de situatie tussen Iran en Israël niet opnieuw escaleerde.",
-    "published_at": "2026-06-09 20:53",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "titel": ".Degroof verhoogt koersdoel Besi",
+    "link": "https://www.beurs.nl/Nieuws/867260/Degroof-verhoogt-koersdoel-Besi.aspx",
+    "intro": "Degroof Petercam heeft het koersdoel voor BE Semiconductor Industries verhoogd naar 270 euro, maar handhaafde daarbij wel het Reduceren advies. Dit bleek woensdag uit een rapport van analist Michael Roeg.",
+    "published_at": "2026-06-10 09:39",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "f4d0d5b8ee22bad79f29b49c0b12e8ce",
-    "categorie": null,
-    "titel": "Cumulex benoemt drie nieuwe bestuurders",
-    "link": "https://www.beurs.nl/Artikel/867187/Cumulex-benoemt-drie-nieuwe-bestuurders.aspx",
-    "intro": "De raad van bestuur wordt uitgebreid naar vijf personen.",
-    "published_at": "2026-06-09 19:45",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "id": "00ed99f370050023e247506946c1d305",
+    "categorie": "IEX Beleggersdag",
+    "titel": "Dit kun je zien en doen op de IEX Beleggersdag",
+    "link": "https://www.beurs.nl/Artikel/866970/Dit-kun-je-zien-en-doen-op-de-IEX-Beleggersdag.aspx",
+    "intro": "6 CEO's, tientallen kooptips, interessante masterclasses en een live podcastopname. Dit kun je verwachten van de IEX Beleggersdag op 19 juni.",
+    "published_at": "2026-06-10 09:20",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "150e5d63b6144902e5eb18b5d40c94f3",
+    "id": "88be76f98421c5583fb01352dafe4c27",
     "categorie": "Beursnieuws",
-    "titel": "Herstel op Wall Street van korte duur",
-    "link": "https://www.beurs.nl/Nieuws/867186/Herstel-op-Wall-Street-van-korte-duur.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag flink lager met nog een paar uur handel te gaan, waarbij halfgeleideraandelen opnieuw onder druk stonden.",
-    "published_at": "2026-06-09 19:41",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "titel": "AEX vlak geopend",
+    "link": "https://www.beurs.nl/Nieuws/867250/AEX-vlak-geopend.aspx",
+    "intro": "De Amsterdamse beurs is woensdag vlak geopend. Kort na opening van de handel, koerste de AEX 0,1 procent hoger op 1.047,81 punten.",
+    "published_at": "2026-06-10 09:10",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "32ff4d963892ad2ff8f7f674c2c81fbe",
-    "categorie": "Beursnieuws",
-    "titel": "Aalberts vult AEX-index aan",
-    "link": "https://www.beurs.nl/Nieuws/867185/Aalberts-vult-AEX-index-aan.aspx",
-    "intro": "Bij de jaarlijkse herweging van de aandelenindices op Euronext Amsterdam zal Aalberts worden toegevoegd aan de lijst met AEX-fondsen. Dat maakte Euronext dinsdag nabeurs bekend.",
-    "published_at": "2026-06-09 19:09",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "id": "e0318ed7cd2be215a508d7c9e43e5495",
+    "categorie": "Voorbeurs",
+    "titel": "Aanvallen in Golfregio, Aalberts in AEX en lichte omzetgroei TSMC",
+    "link": "https://www.beurs.nl/Artikel/867221/Aanvallen-in-Golfregio-Aalberts-in-AEX-en-lichte-omzetgroei-TSMC.aspx",
+    "intro": "Openingsindicatie: +0,4%. Iran en VS vallen elkaar weer aan. TSMC boekt bescheiden omzetgroei. En verder: Lakefront, Euronext en Nuvalent.",
+    "published_at": "2026-06-10 08:30",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "bc72fc05591159d46f9964bb5d7d58e3",
+    "id": "678685951b3958c7f29c8c5c072c554e",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verspelen winst na nieuwe tech-selloff",
-    "link": "https://www.beurs.nl/Nieuws/867184/Europese-beurzen-verspelen-winst-na-nieuwe-tech-selloff.aspx",
-    "intro": "De Europese aandelenmarkten zijn dinsdag overwegend lager geëindigd, nadat de eerdere winsten verdampten, terwijl op Wall Street een nieuwe verkoopgolf werd ingezet.",
-    "published_at": "2026-06-09 18:41",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "titel": "Unibail neemt resterende belang van Westfield UTC over",
+    "link": "https://www.beurs.nl/Nieuws/867244/Unibail-neemt-resterende-belang-van-Westfield-UTC-over.aspx",
+    "intro": "Unibail-Rodamco-Westfield heeft een akkoord bereikt om het resterende belang van 50 procent in Westfield UTC over te nemen van zijn partner. Dit maakte het vastgoedbedrijf woensdagochtend bekend.",
+    "published_at": "2026-06-10 08:29",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "e075ad416eedb798ba1e1dca180eb669",
+    "id": "03c6816a9d1c4455bad4282c2217b53b",
     "categorie": "Beursnieuws",
-    "titel": "UMG geeft voor 1 miljard aan obligaties uit",
-    "link": "https://www.beurs.nl/Nieuws/867181/UMG-geeft-voor-1-miljard-aan-obligaties-uit.aspx",
-    "intro": "Universal Music Group geeft voor 1 miljard euro aan nieuwe obligaties uit met verschillende looptijden. Dit meldde het muziekbedrijf dinsdagavond.",
-    "published_at": "2026-06-09 18:27",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "titel": "Kleine omzetstijging voor TSMC",
+    "link": "https://www.beurs.nl/Nieuws/867243/Kleine-omzetstijging-voor-TSMC.aspx",
+    "intro": "TSMC heeft in mei iets meer omzet behaald dan in de maand ervoor, terwijl er op jaarbasis opnieuw sprake was van een dubbelcijferige omzetstijging. Dit bleek woensdagochtend uit cijfers van de Taiwanese chipgigant.",
+    "published_at": "2026-06-10 08:13",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   },
   {
-    "id": "06f9b12ddecace15707c5223ee42a3d7",
+    "id": "817c373ca225339c88efdf5ef028db6b",
     "categorie": "Beursnieuws",
-    "titel": "AkzoNobel haalt 750 miljoen euro op",
-    "link": "https://www.beurs.nl/Nieuws/867179/AkzoNobel-haalt-750-miljoen-euro-op.aspx",
-    "intro": "AkzoNobel heeft dinsdag nabeurs de uitgifte aangekondigd van een obligatie ter waarde van 750 miljoen euro.",
-    "published_at": "2026-06-09 18:20",
-    "scraped_at": "2026-06-10T04:53:54.420072"
+    "titel": "Berenberg verhoogt koersdoel Besi stevig",
+    "link": "https://www.beurs.nl/Nieuws/867238/Berenberg-verhoogt-koersdoel-Besi-stevig.aspx",
+    "intro": "Berenberg heeft woensdag het koersdoel voor BE Semiconductor Industries verhoogd van 140 naar 240 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist Trion Reid.",
+    "published_at": "2026-06-10 08:04",
+    "scraped_at": "2026-06-10T08:49:56.220724"
   }
 ]
