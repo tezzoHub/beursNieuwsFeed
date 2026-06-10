@@ -1,12 +1,48 @@
 [
   {
+    "id": "c2eb1106bcbe5742c8588cef81759632",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Recordkwartaal voor Oracle gedreven door AI-cloud",
+    "link": "https://www.beurs.nl/Nieuws/867372/Update-Recordkwartaal-voor-Oracle-gedreven-door-AI-cloud.aspx",
+    "intro": "Oracle heeft in het vierde kwartaal de verwachtingen overtroffen met records voor omzet, winst en orderboek. Dit bleek woensdag nabeurs uit de gepubliceerde kwartaalcijfers. Het aandeel daalde nabeurs niettemin met bijna 6 procent.",
+    "published_at": "2026-06-10 23:03",
+    "scraped_at": "2026-06-10T21:16:43.203793"
+  },
+  {
+    "id": "ec74ac8352c0c015f93d58cbd1ffabaf",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/867373/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag alle acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-06-10 22:46",
+    "scraped_at": "2026-06-10T21:16:43.203793"
+  },
+  {
+    "id": "6a4413d1092bd06ca2c74d0ddfff632b",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street flink lager gesloten, Nasdaq verliest 2 procent",
+    "link": "https://www.beurs.nl/Nieuws/867371/Wall-Street-flink-lager-gesloten-Nasdaq-verliest-2-procent.aspx",
+    "intro": "De Amerikaanse beurzen zijn woensdag flink lager geëindigd, terwijl de Amerikaanse president Donald Trump de dreigende retoriek richting Iran verder opschroefde en de vrees voor escalatie aanwakkerde.",
+    "published_at": "2026-06-10 22:22",
+    "scraped_at": "2026-06-10T21:16:43.203793"
+  },
+  {
+    "id": "f288a7f513063316365f48ceb7ff589c",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen gestegen na dreigende taal Trump",
+    "link": "https://www.beurs.nl/Nieuws/867363/Olieprijzen-gestegen-na-dreigende-taal-Trump.aspx",
+    "intro": "De olieprijzen zijn woensdag hoger gesloten, nadat de Amerikaanse president Donald Trump dreigde Iran \"zeer hard\" aan te vallen, wat de vrees voor een hernieuwd grootschalig conflict aanwakkerde. Toch blijven de stijgingen vooralsnog beperkt.",
+    "published_at": "2026-06-10 21:03",
+    "scraped_at": "2026-06-10T21:16:43.203793"
+  },
+  {
     "id": "26e5ea12b98964c7ba1140c225f0dfa7",
     "categorie": "Beursnieuws",
     "titel": "Wall Street zakt verder weg na hernieuwde dreigingen aan Iran",
     "link": "https://www.beurs.nl/Nieuws/867354/Wall-Street-zakt-verder-weg-na-hernieuwde-dreigingen-aan-Iran.aspx",
     "intro": "De Amerikaanse beurzen noteerden woensdag lager met nog een paar uur handel te gaan, terwijl de Amerikaanse president Donald Trump de dreigende retoriek richting Iran verder opschroefde.",
     "published_at": "2026-06-10 19:50",
-    "scraped_at": "2026-06-10T18:44:59.918099"
+    "scraped_at": "2026-06-10T21:16:43.203793"
   },
   {
     "id": "11b0388df47ad2726839fbdc652ff8ca",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/867353/Media-ASML-schrapt-minder-banen-na-vakbondsoverleg.aspx",
     "intro": "ASML schrapt minder banen dan aanvankelijk aangekondigd, na onderhandelingen met de Nederlandse vakbonden. Dit meldde persbureau Bloomberg op basis van de betrokken vakbonden.",
     "published_at": "2026-06-10 19:47",
-    "scraped_at": "2026-06-10T18:44:59.918099"
+    "scraped_at": "2026-06-10T21:16:43.203793"
   },
   {
     "id": "594da10c06af5f1cfde3e040dfee075f",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/867347/MotorK-benoemt-Zoltan-Gelencser-als-interim-CEO.aspx",
     "intro": "Het Italiaanse automotive softwarebedrijf MotorK heeft Zoltan Gelencser benoemd tot interim CEO. Dat maakte het bedrijf met een Amsterdamse beursnotering woensdag nabeurs bekend.",
     "published_at": "2026-06-10 18:39",
-    "scraped_at": "2026-06-10T18:44:59.918099"
+    "scraped_at": "2026-06-10T21:16:43.203793"
   },
   {
     "id": "7aae7b65000028bd90d1edbb3c683658",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/867348/Europese-beurzen-na-wisselvallige-dag-verdeeld-gesloten.aspx",
     "intro": "De Europese aandelenmarkten zijn woensdag na een beweeglijke dag uiteindelijk verdeeld gesloten. Amerikaanse inflatiecijfers en meer escalatie in het Midden-Oosten hielden beleggers vandaag bezig.",
     "published_at": "2026-06-10 18:38",
-    "scraped_at": "2026-06-10T18:44:59.918099"
+    "scraped_at": "2026-06-10T21:16:43.203793"
   },
   {
     "id": "2447f89c6d3416104b468918fd5f89f9",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867344/AEX-sluit-licht-hoger-na-onrustige-handel.aspx",
     "intro": "De Amsterdamse beurs is woensdag licht hoger gesloten, na een wisselvallige handelsdag, waarin de koersen van technologie-aandelen sterk schommelden. Uiteindelijk keerden veel aandelen terug naar de standen aan het begin van de handel en bleven de uitslagen beperkt.",
     "published_at": "2026-06-10 17:56",
-    "scraped_at": "2026-06-10T18:44:59.918099"
+    "scraped_at": "2026-06-10T21:16:43.203793"
   },
   {
     "id": "8aefd282da40ebf91a44e7f123221f38",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867343/Havas-koopt-belang-in-Archrival.aspx",
     "intro": "Havas heeft een meerderheidsbelang genomen in het Amerikaanse Archrival. Dit maakte het Franse mediabureau met een notering aan het Amsterdamse Damrak woensdagavond bekend.",
     "published_at": "2026-06-10 17:54",
-    "scraped_at": "2026-06-10T18:44:59.918099"
-  },
-  {
-    "id": "80c470c9ed9248a0ff9375a1af423e9d",
-    "categorie": "IEX",
-    "titel": "Slotcall: feestdag op het Damrak met twee jubilarissen",
-    "link": "https://www.iex.nl/artikel/867339/Slotcall-feestdag-op-het-Damrak-met-twee-jubilarissen.aspx",
-    "intro": "De AEX heeft de handelsdag toch nog met overtuiging in het groen afgesloten. Lange tijd was het vooral ploeteren rond de slotstand van gisteren, maar na de Amerikaanse inflatiecijfers leefde de index toch weer op. De AEX sluit 0,5% hoger op circa 1.051 punten.",
-    "published_at": "2026-06-10 17:35",
-    "scraped_at": "2026-06-10T18:44:59.918099"
-  },
-  {
-    "id": "2554c1684357135e2d8070648cb3e8e4",
-    "categorie": "Beursnieuws",
-    "titel": "Video: IPO SpaceX geen teken dat zeepbel op knappen staat",
-    "link": "https://www.beurs.nl/Nieuws/867340/Video-IPO-SpaceX-geen-teken-dat-zeepbel-op-knappen-staat.aspx",
-    "intro": "Met de enorme beursgangen van SpaceX, OpenAI en Anthropic in het verschiet, vrezen beleggers dat de liquiditeit opdroogt en dat het einde van het feest in zicht is.",
-    "published_at": "2026-06-10 17:14",
-    "scraped_at": "2026-06-10T18:44:59.918099"
-  },
-  {
-    "id": "6ae5775f0b60a4a0eac735fe162962d6",
-    "categorie": "Nieuws",
-    "titel": "Pymwymic neemt voedseltransitiefonds van Triodos IM  over",
-    "link": "https://www.ieximpact.nl/artikel/867336/Pymwymic-neemt-voedseltransitiefonds-van-Triodos-IM-over.aspx",
-    "intro": "Impactinvesteerder Pymwymic verbreedt zijn rol in de voedselketen. De overname van het Triodos Food Transition Europe Fund markeert een nieuwe fase. Triodos Investment Management brengt met het afstoten van het fonds extra focus aan.",
-    "published_at": "2026-06-10 17:00",
-    "scraped_at": "2026-06-10T18:44:59.918099"
-  },
-  {
-    "id": "37fbb8ae2b2a5715618b2ebf22c477ed",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden blijven fors dalen",
-    "link": "https://www.beurs.nl/Nieuws/867335/Amerikaanse-olievoorraden-blijven-fors-dalen.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week verder geslonken waarbij de neerwaartse trend zich blijft doorzetten net als in de vorige weken. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-06-10 16:38",
-    "scraped_at": "2026-06-10T18:44:59.918099"
+    "scraped_at": "2026-06-10T21:16:43.203793"
   }
 ]
