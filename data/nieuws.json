@@ -1,74 +1,92 @@
 [
   {
-    "id": "71015599d83a09a2f08d4052fc579d36",
+    "id": "937c2914bc9d0b63d37b738bb128ba40",
     "categorie": "Beursnieuws",
-    "titel": "AEX start vermoedelijk lager na escalatie VS en Iran en cijfers Oracle",
-    "link": "https://www.beurs.nl/Nieuws/867407/AEX-start-vermoedelijk-lager-na-escalatie-VS-en-Iran-en-cijfers-Oracle.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag lager van start nu de oorlog tussen de VS en Iran weer oplaait, en na de negatief ontvangen kwartaalcijfers van Oracle woensdagavond op Wall Street.",
-    "published_at": "2026-06-11 08:09",
-    "scraped_at": "2026-06-11T06:28:47.325190"
+    "titel": "Futures wijzen op hogere opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/867461/Futures-wijzen-op-hogere-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,8 procent in het groen. Techbeurs Nasdaq lijkt zelfs 1,2 procent hoger te gaan openen.",
+    "published_at": "2026-06-11 13:00",
+    "scraped_at": "2026-06-11T11:15:13.199291"
   },
   {
-    "id": "1e363b253e89e3d9f52e28669c213da8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel Aalberts",
-    "link": "https://www.beurs.nl/Nieuws/867400/Beursblik-Jefferies-verhoogt-koersdoel-Aalberts.aspx",
-    "intro": "Jefferies heeft donderdag het koersdoel voor Aalberts verhoogd van 45,00 naar 50,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de zakenbank.",
-    "published_at": "2026-06-11 07:44",
-    "scraped_at": "2026-06-11T06:28:47.325190"
+    "id": "552665c62d454a238066bd82d3629906",
+    "categorie": "Opinie",
+    "titel": "WK 2026: de duurzame winnaar is?",
+    "link": "https://www.ieximpact.nl/artikel/867321/WK-2026-de-duurzame-winnaar-is.aspx",
+    "intro": "Miljoenen voetbalfans hebben zich ongetwijfeld opnieuw gewaagd aan voorspellingen, poules en analyses. Obligatiebelegger Gerard Moerman kon de verleiding niet weerstaan om het toernooi, dat vandaag begint, vanuit een ander perspectief te bekijken: duurzaamheid.",
+    "published_at": "2026-06-11 13:00",
+    "scraped_at": "2026-06-11T11:15:13.199291"
   },
   {
-    "id": "af764e389b355658c535d4d8f14a8586",
+    "id": "72aab368ee7ee3770b6242dbdc8bade2",
     "categorie": "Beursnieuws",
-    "titel": "Verlies Vivoryon slinkt",
-    "link": "https://www.beurs.nl/Nieuws/867399/Verlies-Vivoryon-slinkt.aspx",
-    "intro": "Vivoryon heeft in het eerste kwartaal van 2026 nog altijd geen omzet geboekt, maar het verlies slonk wel, nu de kosten daalden. Dit bleek donderdagochtend uit de cijfers van het Duitse biotechbedrijf met een notering aan Euronext Amsterdam.",
-    "published_at": "2026-06-11 07:34",
-    "scraped_at": "2026-06-11T06:28:47.325190"
+    "titel": "Beursblik: wees voorzichtig met Europese IT-aandelen",
+    "link": "https://www.beurs.nl/Nieuws/867454/Beursblik-wees-voorzichtig-met-Europese-IT-aandelen.aspx",
+    "intro": "Europese aandelen profiteren van aantrekkende winstvooruitzichten en redelijke waarderingen, toch is het zaak om selectief te zijn en voorzichtiger te worden met IT-aandelen. Dit stelden analisten van UBS donderdag in een rapport.",
+    "published_at": "2026-06-11 12:15",
+    "scraped_at": "2026-06-11T11:15:13.199291"
   },
   {
-    "id": "97cd6badbd78ba37bd7fd1983b9a6318",
+    "id": "76a8f57547f6f4ad187577b4702f926d",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen tonen veerkracht na cijfers Oracle en escalatie in het Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/867396/Aziatische-beurzen-tonen-veerkracht-na-cijfers-Oracle-en-escalatie-in-het-Midden-Oosten.aspx",
-    "intro": "De Aziatische beurzen noteerden donderdagochtend verdeeld, na een escalatie tussen de VS en Iran en negatief ontvangen cijfers van Oracle.",
-    "published_at": "2026-06-11 07:18",
-    "scraped_at": "2026-06-11T06:28:47.325190"
+    "titel": "Europese beurzen hoger in aanloop naar ECB",
+    "link": "https://www.beurs.nl/Nieuws/867447/Europese-beurzen-hoger-in-aanloop-naar-ECB.aspx",
+    "intro": "De Europese aandelenmarkten noteerden donderdag rond het middaguur overwegend hoger, in afwachting van het rentebesluit van de Europese Centrale Bank.",
+    "published_at": "2026-06-11 11:56",
+    "scraped_at": "2026-06-11T11:15:13.199291"
   },
   {
-    "id": "7a572e3c90582bd67b2824df543b9d2c",
+    "id": "db0a0dcb25c20901dae33d7c9fdc0ae4",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het rood",
-    "link": "https://www.beurs.nl/Nieuws/867393/Europese-beurzen-openen-in-het-rood.aspx",
-    "intro": "De aandelenmarkten in Europa gaan donderdag een rode opening tegemoet, in afwachting van het rentebesluit van de ECB later op de dag. Ook zullen beleggers de hernieuwde spanningen in het Midden-Oosten op de voet volgen.",
-    "published_at": "2026-06-11 07:04",
-    "scraped_at": "2026-06-11T06:28:47.325190"
+    "titel": "Halfgeleiders aan kop in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/867441/Halfgeleiders-aan-kop-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend hoger, onder leiding van halfgeleiders. Rond de klok van elf uur won de AEX 0,9 procent op 1.061,51 punten.",
+    "published_at": "2026-06-11 11:10",
+    "scraped_at": "2026-06-11T11:15:13.199291"
   },
   {
-    "id": "a83fbc2b194315e491367cf1e5bf1a1a",
+    "id": "b42d7a210859a5a5e67d9113ec769c9c",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/867392/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 18 juni 2026:",
-    "published_at": "2026-06-11 06:57",
-    "scraped_at": "2026-06-11T06:28:47.325190"
+    "titel": "ABN AMRO haalt Sligro van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/867433/ABN-AMRO-haalt-Sligro-van-de-kooplijst.aspx",
+    "intro": "ABN AMRO Oddo heeft donderdag het advies voor Sligro verlaagd van Outperform naar Neutraal, terwijl het koersdoel van 15,00 naar 14 ,00euro ging. Dit bleek uit een analistenrapport van ABN AMRO.",
+    "published_at": "2026-06-11 10:40",
+    "scraped_at": "2026-06-11T11:15:13.199291"
   },
   {
-    "id": "f406d117df99c9bd8db92fecc08858e1",
+    "id": "e3558ec5d851af891540c732afa39161",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/867391/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 18 juni 2026:",
-    "published_at": "2026-06-11 06:56",
-    "scraped_at": "2026-06-11T06:28:47.325190"
+    "titel": "Barclays verhoogt koersdoel ASMI stevig",
+    "link": "https://www.beurs.nl/Nieuws/867431/Barclays-verhoogt-koersdoel-ASMI-stevig.aspx",
+    "intro": "Barclays heeft donderdag het koersdoel voor ASMI stevig verhoogd, van 950 naar 1.200 euro, met handhaving van het Overwogen advies. Dit bleek uit een rapport van analist Simon Coles.",
+    "published_at": "2026-06-11 10:25",
+    "scraped_at": "2026-06-11T11:15:13.199291"
   },
   {
-    "id": "a0137a94b2c57c978239f2147c2cac8f",
+    "id": "0296fc65b8b5368e8b3e411e9418d8aa",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/867389/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 18 juni 2026:",
-    "published_at": "2026-06-11 06:55",
-    "scraped_at": "2026-06-11T06:28:47.325190"
+    "titel": "Goldman Sachs positiever over Nederlandse chippers",
+    "link": "https://www.beurs.nl/Nieuws/867418/Goldman-Sachs-positiever-over-Nederlandse-chippers.aspx",
+    "intro": "Goldman Sachs heeft de koersdoelen voor de Nederlandse halfgeleideraandelen verhoogd. Dit bleek donderdag uit een sectorrapport van de Amerikaanse bank.",
+    "published_at": "2026-06-11 09:30",
+    "scraped_at": "2026-06-11T11:15:13.199291"
+  },
+  {
+    "id": "a407f40a71a2a112cbb9927f59d64782",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/867413/AEX-licht-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong 0,3 procent hoger op 1.054,73 punten, terwijl de Midkap 0,1 procent won.",
+    "published_at": "2026-06-11 09:08",
+    "scraped_at": "2026-06-11T11:15:13.199291"
+  },
+  {
+    "id": "f4c91a53f8a8d6ad5c0c5d69c9a63e2e",
+    "categorie": "IEX",
+    "titel": "Must read: Megabeursgangen strijden om het geld van beleggers",
+    "link": "https://www.iex.nl/artikel/867403/Must-read-Megabeursgangen-strijden-om-het-geld-van-beleggers.aspx",
+    "intro": "Plus: de duurzame winnaar van het WK, Europese renteverhoging is logisch, oorlog VS-Iran begint beleggers pijn te doen, AI raakt arbeidsmarkt, en meer.",
+    "published_at": "2026-06-11 09:00",
+    "scraped_at": "2026-06-11T11:15:13.199291"
   }
 ]
