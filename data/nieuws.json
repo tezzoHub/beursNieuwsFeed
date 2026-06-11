@@ -1,12 +1,39 @@
 [
   {
+    "id": "15f501fc08750a85e7f89294ae44e0bb",
+    "categorie": "Beursnieuws",
+    "titel": "Adyen neemt Orb over",
+    "link": "https://www.beurs.nl/Nieuws/867516/Adyen-neemt-Orb-over.aspx",
+    "intro": "Adyen neemt voor 335 miljoen dollar het factureringsbedrijf Orb over door middel van een omgekeerde driehoeksfusie. Dat maakte het Amsterdamse betaalbedrijf donderdag bekend.",
+    "published_at": "2026-06-11 19:49",
+    "scraped_at": "2026-06-11T18:24:23.131556"
+  },
+  {
+    "id": "a6e3b5c9882f001c0f5927a2ca75176d",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten hoger",
+    "link": "https://www.beurs.nl/Nieuws/867514/Europese-beurzen-sluiten-hoger.aspx",
+    "intro": "De Europese aandelenmarkten zijn donderdag hoger gesloten, nadat de Europese Centrale Bank voor het eerst in drie jaar de rente verhoogde en softwarebedrijven een stap terug deden.",
+    "published_at": "2026-06-11 18:59",
+    "scraped_at": "2026-06-11T18:24:23.131556"
+  },
+  {
+    "id": "69edd56d9e67c2d493a95a3593b7cc93",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers helpen AEX aan nieuw record",
+    "link": "https://www.beurs.nl/Nieuws/867512/Chippers-helpen-AEX-aan-nieuw-record.aspx",
+    "intro": "De Amsterdamse beurs is donderdag hoger geëindigd, onder aanvoering van de chippers die flink wisten te stijgen na een positief analistenrapport van Goldman Sachs.",
+    "published_at": "2026-06-11 17:51",
+    "scraped_at": "2026-06-11T18:24:23.131556"
+  },
+  {
     "id": "306e2f798740d618879714a79aa4e9c7",
     "categorie": "Beursnieuws",
     "titel": "ECB zet als eerste grote centrale bank nieuwe verkrappingscyclus in",
     "link": "https://www.beurs.nl/Nieuws/867502/ECB-zet-als-eerste-grote-centrale-bank-nieuwe-verkrappingscyclus-in.aspx",
     "intro": "De Europese Centrale Bank heeft donderdag als eerste van de grote centrale banken de rente verhoogd vanwege de toenemende inflatie als gevolg van de oorlog in het Midden-Oosten.",
     "published_at": "2026-06-11 16:52",
-    "scraped_at": "2026-06-11T14:59:52.361784"
+    "scraped_at": "2026-06-11T18:24:23.131556"
   },
   {
     "id": "496f992314144d99c23cd16acac73d06",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/867498/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 19 juni 2026:",
     "published_at": "2026-06-11 16:28",
-    "scraped_at": "2026-06-11T14:59:52.361784"
+    "scraped_at": "2026-06-11T18:24:23.131556"
   },
   {
     "id": "789c42dc00c51f9a05835f9658a5fbcf",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/867496/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 19 juni 2026:",
     "published_at": "2026-06-11 16:27",
-    "scraped_at": "2026-06-11T14:59:52.361784"
+    "scraped_at": "2026-06-11T18:24:23.131556"
   },
   {
     "id": "b786bcac9575d9fab623f28ee25cbf72",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/867497/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 19 juni 2026:",
     "published_at": "2026-06-11 16:27",
-    "scraped_at": "2026-06-11T14:59:52.361784"
+    "scraped_at": "2026-06-11T18:24:23.131556"
   },
   {
     "id": "017bd5f186fefbc39e7816e2215d44e2",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/867483/Beursblik-slechts-korte-verkrappingscyclus-voor-ECB.aspx",
     "intro": "De verkrappingscyclus die de Europese Centrale Bank donderdag is gestart, zal slechts een korte zijn. Dit is de verwachting van Deutsche Bank na het rentebesluit van de ECB vanmiddag.",
     "published_at": "2026-06-11 15:00",
-    "scraped_at": "2026-06-11T14:59:52.361784"
+    "scraped_at": "2026-06-11T18:24:23.131556"
   },
   {
     "id": "7d0bf22d6ea4ccb7f882caaed22a8857",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867480/Wall-Street-wacht-licht-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,3 procent in het groen. Techbeurs Nasdaq lijkt 0,5 procent hoger te gaan openen.",
     "published_at": "2026-06-11 14:47",
-    "scraped_at": "2026-06-11T14:59:52.361784"
+    "scraped_at": "2026-06-11T18:24:23.131556"
   },
   {
     "id": "41e5fba445a8c579b7527c205f808b24",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867479/Trump-dreigt-met-aanvallen-op-Iraanse-energievoorziening.aspx",
     "intro": "De Verenigde Staten zullen Iran donderdagavond \"heel hard\" aanpakken. Hiermee dreigde de Amerikaanse president Donald Trump donderdag op Truth Social.",
     "published_at": "2026-06-11 14:43",
-    "scraped_at": "2026-06-11T14:59:52.361784"
-  },
-  {
-    "id": "a0f0d04b194d2f522176b4507ab610c4",
-    "categorie": "Beursnieuws",
-    "titel": "Update: ECB verhoogt rente voor het eerst in drie jaar",
-    "link": "https://www.beurs.nl/Nieuws/867154/Update-ECB-verhoogt-rente-voor-het-eerst-in-drie-jaar.aspx",
-    "intro": "De Europese Centrale Bank heeft de rente voor het eerst in drie jaar verhoogd. Dit bleek donderdag uit het rentebesluit van de centrale bank.",
-    "published_at": "2026-06-11 14:43",
-    "scraped_at": "2026-06-11T14:59:52.361784"
-  },
-  {
-    "id": "584e2920fa448df94aabc5cfb9c1df22",
-    "categorie": "Beursnieuws",
-    "titel": "Meer nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/867475/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-06-11 14:37",
-    "scraped_at": "2026-06-11T14:59:52.361784"
-  },
-  {
-    "id": "4eca8ed717fa7509b31b5847e483fefd",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse producentenprijzen stijgen harder dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/867476/Amerikaanse-producentenprijzen-stijgen-harder-dan-verwacht.aspx",
-    "intro": "De producentenprijzen in de Verenigde Staten zijn in mei in een stabiel tempo gestegen, maar wel harder dan vooraf voorspeld. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-06-11 14:37",
-    "scraped_at": "2026-06-11T14:59:52.361784"
+    "scraped_at": "2026-06-11T18:24:23.131556"
   }
 ]
