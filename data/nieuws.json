@@ -1,92 +1,74 @@
 [
   {
-    "id": "c2eb1106bcbe5742c8588cef81759632",
+    "id": "71015599d83a09a2f08d4052fc579d36",
     "categorie": "Beursnieuws",
-    "titel": "Update: Recordkwartaal voor Oracle gedreven door AI-cloud",
-    "link": "https://www.beurs.nl/Nieuws/867372/Update-Recordkwartaal-voor-Oracle-gedreven-door-AI-cloud.aspx",
-    "intro": "Oracle heeft in het vierde kwartaal de verwachtingen overtroffen met records voor omzet, winst en orderboek. Dit bleek woensdag nabeurs uit de gepubliceerde kwartaalcijfers. Het aandeel daalde nabeurs niettemin met bijna 6 procent.",
-    "published_at": "2026-06-10 23:03",
-    "scraped_at": "2026-06-11T01:43:54.488201"
+    "titel": "AEX start vermoedelijk lager na escalatie VS en Iran en cijfers Oracle",
+    "link": "https://www.beurs.nl/Nieuws/867407/AEX-start-vermoedelijk-lager-na-escalatie-VS-en-Iran-en-cijfers-Oracle.aspx",
+    "intro": "De Amsterdamse beurs gaat donderdag lager van start nu de oorlog tussen de VS en Iran weer oplaait, en na de negatief ontvangen kwartaalcijfers van Oracle woensdagavond op Wall Street.",
+    "published_at": "2026-06-11 08:09",
+    "scraped_at": "2026-06-11T06:28:47.325190"
   },
   {
-    "id": "ec74ac8352c0c015f93d58cbd1ffabaf",
+    "id": "1e363b253e89e3d9f52e28669c213da8",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/867373/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag alle acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-06-10 22:46",
-    "scraped_at": "2026-06-11T01:43:54.488201"
+    "titel": "Beursblik: Jefferies verhoogt koersdoel Aalberts",
+    "link": "https://www.beurs.nl/Nieuws/867400/Beursblik-Jefferies-verhoogt-koersdoel-Aalberts.aspx",
+    "intro": "Jefferies heeft donderdag het koersdoel voor Aalberts verhoogd van 45,00 naar 50,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de zakenbank.",
+    "published_at": "2026-06-11 07:44",
+    "scraped_at": "2026-06-11T06:28:47.325190"
   },
   {
-    "id": "6a4413d1092bd06ca2c74d0ddfff632b",
+    "id": "af764e389b355658c535d4d8f14a8586",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street flink lager gesloten, Nasdaq verliest 2 procent",
-    "link": "https://www.beurs.nl/Nieuws/867371/Wall-Street-flink-lager-gesloten-Nasdaq-verliest-2-procent.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag flink lager geëindigd, terwijl de Amerikaanse president Donald Trump de dreigende retoriek richting Iran verder opschroefde en de vrees voor escalatie aanwakkerde.",
-    "published_at": "2026-06-10 22:22",
-    "scraped_at": "2026-06-11T01:43:54.488201"
+    "titel": "Verlies Vivoryon slinkt",
+    "link": "https://www.beurs.nl/Nieuws/867399/Verlies-Vivoryon-slinkt.aspx",
+    "intro": "Vivoryon heeft in het eerste kwartaal van 2026 nog altijd geen omzet geboekt, maar het verlies slonk wel, nu de kosten daalden. Dit bleek donderdagochtend uit de cijfers van het Duitse biotechbedrijf met een notering aan Euronext Amsterdam.",
+    "published_at": "2026-06-11 07:34",
+    "scraped_at": "2026-06-11T06:28:47.325190"
   },
   {
-    "id": "f288a7f513063316365f48ceb7ff589c",
+    "id": "97cd6badbd78ba37bd7fd1983b9a6318",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen gestegen na dreigende taal Trump",
-    "link": "https://www.beurs.nl/Nieuws/867363/Olieprijzen-gestegen-na-dreigende-taal-Trump.aspx",
-    "intro": "De olieprijzen zijn woensdag hoger gesloten, nadat de Amerikaanse president Donald Trump dreigde Iran \"zeer hard\" aan te vallen, wat de vrees voor een hernieuwd grootschalig conflict aanwakkerde. Toch blijven de stijgingen vooralsnog beperkt.",
-    "published_at": "2026-06-10 21:03",
-    "scraped_at": "2026-06-11T01:43:54.488201"
+    "titel": "Aziatische beurzen tonen veerkracht na cijfers Oracle en escalatie in het Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/867396/Aziatische-beurzen-tonen-veerkracht-na-cijfers-Oracle-en-escalatie-in-het-Midden-Oosten.aspx",
+    "intro": "De Aziatische beurzen noteerden donderdagochtend verdeeld, na een escalatie tussen de VS en Iran en negatief ontvangen cijfers van Oracle.",
+    "published_at": "2026-06-11 07:18",
+    "scraped_at": "2026-06-11T06:28:47.325190"
   },
   {
-    "id": "26e5ea12b98964c7ba1140c225f0dfa7",
+    "id": "7a572e3c90582bd67b2824df543b9d2c",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street zakt verder weg na hernieuwde dreigingen aan Iran",
-    "link": "https://www.beurs.nl/Nieuws/867354/Wall-Street-zakt-verder-weg-na-hernieuwde-dreigingen-aan-Iran.aspx",
-    "intro": "De Amerikaanse beurzen noteerden woensdag lager met nog een paar uur handel te gaan, terwijl de Amerikaanse president Donald Trump de dreigende retoriek richting Iran verder opschroefde.",
-    "published_at": "2026-06-10 19:50",
-    "scraped_at": "2026-06-11T01:43:54.488201"
+    "titel": "Europese beurzen openen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/867393/Europese-beurzen-openen-in-het-rood.aspx",
+    "intro": "De aandelenmarkten in Europa gaan donderdag een rode opening tegemoet, in afwachting van het rentebesluit van de ECB later op de dag. Ook zullen beleggers de hernieuwde spanningen in het Midden-Oosten op de voet volgen.",
+    "published_at": "2026-06-11 07:04",
+    "scraped_at": "2026-06-11T06:28:47.325190"
   },
   {
-    "id": "11b0388df47ad2726839fbdc652ff8ca",
+    "id": "a83fbc2b194315e491367cf1e5bf1a1a",
     "categorie": "Beursnieuws",
-    "titel": "Media: ASML schrapt minder banen na vakbondsoverleg",
-    "link": "https://www.beurs.nl/Nieuws/867353/Media-ASML-schrapt-minder-banen-na-vakbondsoverleg.aspx",
-    "intro": "ASML schrapt minder banen dan aanvankelijk aangekondigd, na onderhandelingen met de Nederlandse vakbonden. Dit meldde persbureau Bloomberg op basis van de betrokken vakbonden.",
-    "published_at": "2026-06-10 19:47",
-    "scraped_at": "2026-06-11T01:43:54.488201"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/867392/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 18 juni 2026:",
+    "published_at": "2026-06-11 06:57",
+    "scraped_at": "2026-06-11T06:28:47.325190"
   },
   {
-    "id": "594da10c06af5f1cfde3e040dfee075f",
+    "id": "f406d117df99c9bd8db92fecc08858e1",
     "categorie": "Beursnieuws",
-    "titel": "MotorK benoemt Zoltan Gelencser als interim CEO",
-    "link": "https://www.beurs.nl/Nieuws/867347/MotorK-benoemt-Zoltan-Gelencser-als-interim-CEO.aspx",
-    "intro": "Het Italiaanse automotive softwarebedrijf MotorK heeft Zoltan Gelencser benoemd tot interim CEO. Dat maakte het bedrijf met een Amsterdamse beursnotering woensdag nabeurs bekend.",
-    "published_at": "2026-06-10 18:39",
-    "scraped_at": "2026-06-11T01:43:54.488201"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/867391/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 18 juni 2026:",
+    "published_at": "2026-06-11 06:56",
+    "scraped_at": "2026-06-11T06:28:47.325190"
   },
   {
-    "id": "7aae7b65000028bd90d1edbb3c683658",
+    "id": "a0137a94b2c57c978239f2147c2cac8f",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen na wisselvallige dag verdeeld gesloten",
-    "link": "https://www.beurs.nl/Nieuws/867348/Europese-beurzen-na-wisselvallige-dag-verdeeld-gesloten.aspx",
-    "intro": "De Europese aandelenmarkten zijn woensdag na een beweeglijke dag uiteindelijk verdeeld gesloten. Amerikaanse inflatiecijfers en meer escalatie in het Midden-Oosten hielden beleggers vandaag bezig.",
-    "published_at": "2026-06-10 18:38",
-    "scraped_at": "2026-06-11T01:43:54.488201"
-  },
-  {
-    "id": "2447f89c6d3416104b468918fd5f89f9",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit licht hoger na onrustige handel",
-    "link": "https://www.beurs.nl/Nieuws/867344/AEX-sluit-licht-hoger-na-onrustige-handel.aspx",
-    "intro": "De Amsterdamse beurs is woensdag licht hoger gesloten, na een wisselvallige handelsdag, waarin de koersen van technologie-aandelen sterk schommelden. Uiteindelijk keerden veel aandelen terug naar de standen aan het begin van de handel en bleven de uitslagen beperkt.",
-    "published_at": "2026-06-10 17:56",
-    "scraped_at": "2026-06-11T01:43:54.488201"
-  },
-  {
-    "id": "8aefd282da40ebf91a44e7f123221f38",
-    "categorie": "Beursnieuws",
-    "titel": "Havas koopt belang in Archrival",
-    "link": "https://www.beurs.nl/Nieuws/867343/Havas-koopt-belang-in-Archrival.aspx",
-    "intro": "Havas heeft een meerderheidsbelang genomen in het Amerikaanse Archrival. Dit maakte het Franse mediabureau met een notering aan het Amsterdamse Damrak woensdagavond bekend.",
-    "published_at": "2026-06-10 17:54",
-    "scraped_at": "2026-06-11T01:43:54.488201"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/867389/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 18 juni 2026:",
+    "published_at": "2026-06-11 06:55",
+    "scraped_at": "2026-06-11T06:28:47.325190"
   }
 ]
