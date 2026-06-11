@@ -1,12 +1,30 @@
 [
   {
-    "id": "9c27828265f6b37a78d4b8b666e61bb2",
+    "id": "de2777af5d85511bc3279d12bc66d746",
     "categorie": "Beursnieuws",
-    "titel": "SpaceX haalt 75 miljard op met recordbeursgang",
-    "link": "https://www.beurs.nl/Nieuws/867524/SpaceX-haalt-75-miljard-op-met-recordbeursgang.aspx",
-    "intro": "SpaceX heeft 75 miljard dollar opgehaald met de uitgifte van 555.555.555 aandelen voor 135 dollar per stuk, zoals gepland. Dat maakte het ruimtevaartbedrijf donderdag bekend.",
-    "published_at": "2026-06-11 22:04",
-    "scraped_at": "2026-06-11T20:42:31.321152"
+    "titel": "Update: SpaceX haalt 75 miljard op met recordbeursgang",
+    "link": "https://www.beurs.nl/Nieuws/867524/Update-SpaceX-haalt-75-miljard-op-met-recordbeursgang.aspx",
+    "intro": "SpaceX heeft 75 miljard dollar opgehaald met de uitgifte van 555.555.555 aandelen voor 135 dollar per stuk, zoals gepland. Dat maakte het ruimtevaartbedrijf donderdag een half uur voor het sluiten van de beurs bekend.",
+    "published_at": "2026-06-11 23:20",
+    "scraped_at": "2026-06-11T22:30:52.699253"
+  },
+  {
+    "id": "fe81e35a14a9903c189b443da4902f4d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/867528/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdagvijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten, met ArcelorMittal en ASML als grote uitschieters.",
+    "published_at": "2026-06-11 22:47",
+    "scraped_at": "2026-06-11T22:30:52.699253"
+  },
+  {
+    "id": "745ccacb41cf4e0772fb36744c749fd5",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street stijgt sterk na afblazen aanval op Iran",
+    "link": "https://www.beurs.nl/Nieuws/867527/Wall-Street-stijgt-sterk-na-afblazen-aanval-op-Iran.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag ruim hoger gesloten, nadat president Trump een aanval op Iran afblies en AI-gerelateerde aandelen sterk opveerden terwijl SpaceX een recordbeursgang aankondigde.",
+    "published_at": "2026-06-11 22:39",
+    "scraped_at": "2026-06-11T22:30:52.699253"
   },
   {
     "id": "308e6c6682f2206da845a992b6855687",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/867523/Olieprijs-daalt-na-afblazen-Amerikaanse-aanval-op-Iran.aspx",
     "intro": "De olieprijs is donderdag gedaald, nadat president Trump eerst dreigde met meer aanvallen op Iran, maar dat dreigement daarna weer introk en de hoop voedde, dat het einde van het conflict nadert.",
     "published_at": "2026-06-11 21:19",
-    "scraped_at": "2026-06-11T20:42:31.321152"
+    "scraped_at": "2026-06-11T22:30:52.699253"
   },
   {
     "id": "cc6b64aa7ea0067fade0a7523f3c9fed",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/867522/Tech-stuwt-Wall-Street-weer-op.aspx",
     "intro": "De Amerikaanse beurzen stonden donderdag hoger, nadat beleggers hun zorgen over toenemende spanningen tussen de VS en Iran en hoge AI-kosten bij Oracle van zich af lieten glijden en de AI-gerelateerde aandelen weer sterk opveerden na recente dalingen.",
     "published_at": "2026-06-11 20:41",
-    "scraped_at": "2026-06-11T20:42:31.321152"
+    "scraped_at": "2026-06-11T22:30:52.699253"
   },
   {
     "id": "15f501fc08750a85e7f89294ae44e0bb",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/867516/Adyen-neemt-Orb-over.aspx",
     "intro": "Adyen neemt voor 335 miljoen dollar het factureringsbedrijf Orb over door middel van een omgekeerde driehoeksfusie. Dat maakte het Amsterdamse betaalbedrijf donderdag bekend.",
     "published_at": "2026-06-11 19:49",
-    "scraped_at": "2026-06-11T20:42:31.321152"
+    "scraped_at": "2026-06-11T22:30:52.699253"
   },
   {
     "id": "a6e3b5c9882f001c0f5927a2ca75176d",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/867514/Europese-beurzen-sluiten-hoger.aspx",
     "intro": "De Europese aandelenmarkten zijn donderdag hoger gesloten, nadat de Europese Centrale Bank voor het eerst in drie jaar de rente verhoogde en softwarebedrijven een stap terug deden.",
     "published_at": "2026-06-11 18:59",
-    "scraped_at": "2026-06-11T20:42:31.321152"
+    "scraped_at": "2026-06-11T22:30:52.699253"
   },
   {
     "id": "69edd56d9e67c2d493a95a3593b7cc93",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/867512/Chippers-helpen-AEX-aan-nieuw-record.aspx",
     "intro": "De Amsterdamse beurs is donderdag hoger geëindigd, onder aanvoering van de chippers die flink wisten te stijgen na een positief analistenrapport van Goldman Sachs.",
     "published_at": "2026-06-11 17:51",
-    "scraped_at": "2026-06-11T20:42:31.321152"
+    "scraped_at": "2026-06-11T22:30:52.699253"
   },
   {
     "id": "306e2f798740d618879714a79aa4e9c7",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867502/ECB-zet-als-eerste-grote-centrale-bank-nieuwe-verkrappingscyclus-in.aspx",
     "intro": "De Europese Centrale Bank heeft donderdag als eerste van de grote centrale banken de rente verhoogd vanwege de toenemende inflatie als gevolg van de oorlog in het Midden-Oosten.",
     "published_at": "2026-06-11 16:52",
-    "scraped_at": "2026-06-11T20:42:31.321152"
+    "scraped_at": "2026-06-11T22:30:52.699253"
   },
   {
     "id": "496f992314144d99c23cd16acac73d06",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867498/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 19 juni 2026:",
     "published_at": "2026-06-11 16:28",
-    "scraped_at": "2026-06-11T20:42:31.321152"
-  },
-  {
-    "id": "789c42dc00c51f9a05835f9658a5fbcf",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/867496/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 19 juni 2026:",
-    "published_at": "2026-06-11 16:27",
-    "scraped_at": "2026-06-11T20:42:31.321152"
-  },
-  {
-    "id": "b786bcac9575d9fab623f28ee25cbf72",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/867497/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 19 juni 2026:",
-    "published_at": "2026-06-11 16:27",
-    "scraped_at": "2026-06-11T20:42:31.321152"
+    "scraped_at": "2026-06-11T22:30:52.699253"
   }
 ]
