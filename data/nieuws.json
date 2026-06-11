@@ -1,12 +1,39 @@
 [
   {
+    "id": "9c27828265f6b37a78d4b8b666e61bb2",
+    "categorie": "Beursnieuws",
+    "titel": "SpaceX haalt 75 miljard op met recordbeursgang",
+    "link": "https://www.beurs.nl/Nieuws/867524/SpaceX-haalt-75-miljard-op-met-recordbeursgang.aspx",
+    "intro": "SpaceX heeft 75 miljard dollar opgehaald met de uitgifte van 555.555.555 aandelen voor 135 dollar per stuk, zoals gepland. Dat maakte het ruimtevaartbedrijf donderdag bekend.",
+    "published_at": "2026-06-11 22:04",
+    "scraped_at": "2026-06-11T20:42:31.321152"
+  },
+  {
+    "id": "308e6c6682f2206da845a992b6855687",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt na afblazen Amerikaanse aanval op Iran",
+    "link": "https://www.beurs.nl/Nieuws/867523/Olieprijs-daalt-na-afblazen-Amerikaanse-aanval-op-Iran.aspx",
+    "intro": "De olieprijs is donderdag gedaald, nadat president Trump eerst dreigde met meer aanvallen op Iran, maar dat dreigement daarna weer introk en de hoop voedde, dat het einde van het conflict nadert.",
+    "published_at": "2026-06-11 21:19",
+    "scraped_at": "2026-06-11T20:42:31.321152"
+  },
+  {
+    "id": "cc6b64aa7ea0067fade0a7523f3c9fed",
+    "categorie": "Beursnieuws",
+    "titel": "Tech stuwt Wall Street weer op",
+    "link": "https://www.beurs.nl/Nieuws/867522/Tech-stuwt-Wall-Street-weer-op.aspx",
+    "intro": "De Amerikaanse beurzen stonden donderdag hoger, nadat beleggers hun zorgen over toenemende spanningen tussen de VS en Iran en hoge AI-kosten bij Oracle van zich af lieten glijden en de AI-gerelateerde aandelen weer sterk opveerden na recente dalingen.",
+    "published_at": "2026-06-11 20:41",
+    "scraped_at": "2026-06-11T20:42:31.321152"
+  },
+  {
     "id": "15f501fc08750a85e7f89294ae44e0bb",
     "categorie": "Beursnieuws",
     "titel": "Adyen neemt Orb over",
     "link": "https://www.beurs.nl/Nieuws/867516/Adyen-neemt-Orb-over.aspx",
     "intro": "Adyen neemt voor 335 miljoen dollar het factureringsbedrijf Orb over door middel van een omgekeerde driehoeksfusie. Dat maakte het Amsterdamse betaalbedrijf donderdag bekend.",
     "published_at": "2026-06-11 19:49",
-    "scraped_at": "2026-06-11T18:24:23.131556"
+    "scraped_at": "2026-06-11T20:42:31.321152"
   },
   {
     "id": "a6e3b5c9882f001c0f5927a2ca75176d",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/867514/Europese-beurzen-sluiten-hoger.aspx",
     "intro": "De Europese aandelenmarkten zijn donderdag hoger gesloten, nadat de Europese Centrale Bank voor het eerst in drie jaar de rente verhoogde en softwarebedrijven een stap terug deden.",
     "published_at": "2026-06-11 18:59",
-    "scraped_at": "2026-06-11T18:24:23.131556"
+    "scraped_at": "2026-06-11T20:42:31.321152"
   },
   {
     "id": "69edd56d9e67c2d493a95a3593b7cc93",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/867512/Chippers-helpen-AEX-aan-nieuw-record.aspx",
     "intro": "De Amsterdamse beurs is donderdag hoger geëindigd, onder aanvoering van de chippers die flink wisten te stijgen na een positief analistenrapport van Goldman Sachs.",
     "published_at": "2026-06-11 17:51",
-    "scraped_at": "2026-06-11T18:24:23.131556"
+    "scraped_at": "2026-06-11T20:42:31.321152"
   },
   {
     "id": "306e2f798740d618879714a79aa4e9c7",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/867502/ECB-zet-als-eerste-grote-centrale-bank-nieuwe-verkrappingscyclus-in.aspx",
     "intro": "De Europese Centrale Bank heeft donderdag als eerste van de grote centrale banken de rente verhoogd vanwege de toenemende inflatie als gevolg van de oorlog in het Midden-Oosten.",
     "published_at": "2026-06-11 16:52",
-    "scraped_at": "2026-06-11T18:24:23.131556"
+    "scraped_at": "2026-06-11T20:42:31.321152"
   },
   {
     "id": "496f992314144d99c23cd16acac73d06",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/867498/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 19 juni 2026:",
     "published_at": "2026-06-11 16:28",
-    "scraped_at": "2026-06-11T18:24:23.131556"
+    "scraped_at": "2026-06-11T20:42:31.321152"
   },
   {
     "id": "789c42dc00c51f9a05835f9658a5fbcf",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867496/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 19 juni 2026:",
     "published_at": "2026-06-11 16:27",
-    "scraped_at": "2026-06-11T18:24:23.131556"
+    "scraped_at": "2026-06-11T20:42:31.321152"
   },
   {
     "id": "b786bcac9575d9fab623f28ee25cbf72",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867497/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 19 juni 2026:",
     "published_at": "2026-06-11 16:27",
-    "scraped_at": "2026-06-11T18:24:23.131556"
-  },
-  {
-    "id": "017bd5f186fefbc39e7816e2215d44e2",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: slechts korte verkrappingscyclus voor ECB",
-    "link": "https://www.beurs.nl/Nieuws/867483/Beursblik-slechts-korte-verkrappingscyclus-voor-ECB.aspx",
-    "intro": "De verkrappingscyclus die de Europese Centrale Bank donderdag is gestart, zal slechts een korte zijn. Dit is de verwachting van Deutsche Bank na het rentebesluit van de ECB vanmiddag.",
-    "published_at": "2026-06-11 15:00",
-    "scraped_at": "2026-06-11T18:24:23.131556"
-  },
-  {
-    "id": "7d0bf22d6ea4ccb7f882caaed22a8857",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht licht hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/867480/Wall-Street-wacht-licht-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,3 procent in het groen. Techbeurs Nasdaq lijkt 0,5 procent hoger te gaan openen.",
-    "published_at": "2026-06-11 14:47",
-    "scraped_at": "2026-06-11T18:24:23.131556"
-  },
-  {
-    "id": "41e5fba445a8c579b7527c205f808b24",
-    "categorie": "Beursnieuws",
-    "titel": "Trump dreigt met aanvallen op Iraanse energievoorziening",
-    "link": "https://www.beurs.nl/Nieuws/867479/Trump-dreigt-met-aanvallen-op-Iraanse-energievoorziening.aspx",
-    "intro": "De Verenigde Staten zullen Iran donderdagavond \"heel hard\" aanpakken. Hiermee dreigde de Amerikaanse president Donald Trump donderdag op Truth Social.",
-    "published_at": "2026-06-11 14:43",
-    "scraped_at": "2026-06-11T18:24:23.131556"
+    "scraped_at": "2026-06-11T20:42:31.321152"
   }
 ]
