@@ -1,12 +1,48 @@
 [
   {
+    "id": "301d068c7aef20fb8f9ebb0378b332a6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/867663/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-06-12 22:17",
+    "scraped_at": "2026-06-12T20:31:41.901640"
+  },
+  {
+    "id": "83be83a742c41249ffe713db7c752877",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street omarmt astronomische beursgang SpaceX",
+    "link": "https://www.beurs.nl/Nieuws/867662/Wall-Street-omarmt-astronomische-beursgang-SpaceX.aspx",
+    "intro": "De Amerikaanse beurzen zijn vrijdag hoger geëindigd, waarbij veel aandacht uitging naar de langverwachte beursgang van Elon Musks SpaceX. Ook positieve geluiden over een vredesdeal tussen de VS en Iran hielpen het sentiment.",
+    "published_at": "2026-06-12 22:13",
+    "scraped_at": "2026-06-12T20:31:41.901640"
+  },
+  {
+    "id": "b26ea772b78b07a6093107f3b2ee775c",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt verder nu kans op vrede Midden-Oosten toeneemt",
+    "link": "https://www.beurs.nl/Nieuws/867661/Olieprijs-daalt-verder-nu-kans-op-vrede-Midden-Oosten-toeneemt.aspx",
+    "intro": "De olieprijs is vrijdag verder gedaald, terwijl de hoop op een vredesakkoord tussen de Verenigde Staten en Iran verder toenam.",
+    "published_at": "2026-06-12 20:54",
+    "scraped_at": "2026-06-12T20:31:41.901640"
+  },
+  {
+    "id": "598967840fc524f6b5c726cbc76de732",
+    "categorie": "Beursnieuws",
+    "titel": "BlackRock krijgt meer verzoeken tot opnames uit private credit fonds",
+    "link": "https://www.beurs.nl/Nieuws/867658/BlackRock-krijgt-meer-verzoeken-tot-opnames-uit-private-credit-fonds.aspx",
+    "intro": "Beleggers in het vlaggenschipfonds voor particuliere kredieten van BlackRock hebben in het tweede kwartaal verzocht om in totaal 13,3 procent van de aandelen van het fonds te laten terugkopen, een stijging ten opzichte van 9,3 procent in de voorgaande periode.",
+    "published_at": "2026-06-12 20:40",
+    "scraped_at": "2026-06-12T20:31:41.901640"
+  },
+  {
     "id": "48d4d74828a28028932ba8fb0bfae7e8",
     "categorie": "Beursnieuws",
     "titel": "Wall Street stijgt bij debuut SpaceX",
     "link": "https://www.beurs.nl/Nieuws/867656/Wall-Street-stijgt-bij-debuut-SpaceX.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag hoger met nog een paar uur handel te gaan, waarbij veel aandacht uitging naar de langverwachte beursgang van Elon Musks SpaceX. Ook positieve geluiden over een vredesdeal tussen de VS en Iran hielpen het sentiment.",
     "published_at": "2026-06-12 19:36",
-    "scraped_at": "2026-06-12T18:14:47.936734"
+    "scraped_at": "2026-06-12T20:31:41.901640"
   },
   {
     "id": "d4cb7035d77e9913d02afb631e54b144",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/867651/Europese-beurzen-hoopvol-het-weekend-in.aspx",
     "intro": "De Europese aandelenmarkten zijn vrijdag hoger geëindigd, met beleggers die zich opnieuw hoopvol toonden over een mogelijke vredesdeal tussen de Verenigde Staten en Iran.",
     "published_at": "2026-06-12 18:30",
-    "scraped_at": "2026-06-12T18:14:47.936734"
+    "scraped_at": "2026-06-12T20:31:41.901640"
   },
   {
     "id": "848f51ae3f3bff1aa71a9d9e74fa8f46",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/867646/Aandeel-SpaceX-opent-op-150-dollar.aspx",
     "intro": "De eerste officiële koers voor SpaceX is vrijdag vastgesteld op 150 dollar.",
     "published_at": "2026-06-12 17:50",
-    "scraped_at": "2026-06-12T18:14:47.936734"
+    "scraped_at": "2026-06-12T20:31:41.901640"
   },
   {
     "id": "38de45af76c2bde7d7bdceb56189b442",
@@ -33,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/867642/IEX-Slotcall-Aandelen-gaan-als-een-raket-AEX-sluit-op-nieuw-record.aspx",
     "intro": "",
     "published_at": "2026-06-12 17:50",
-    "scraped_at": "2026-06-12T18:14:47.936734"
+    "scraped_at": "2026-06-12T20:31:41.901640"
   },
   {
     "id": "d5484a6c334452e6e87bd8b15b948f62",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867645/AEX-met-nieuw-record-het-weekend-in.aspx",
     "intro": "De Amsterdamse beurs is vrijdag op een nieuw record gesloten, mede dankzij hernieuwde vredeshoop en het positieve sentiment omtrent de beursgang van SpaceX.",
     "published_at": "2026-06-12 17:46",
-    "scraped_at": "2026-06-12T18:14:47.936734"
+    "scraped_at": "2026-06-12T20:31:41.901640"
   },
   {
     "id": "6d8c2fb25ae250c7e557c1c2e15e7b56",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867641/Shell-schort-aandeleninkoop-op.aspx",
     "intro": "Shell schort zijn aandeleninkoopprogramma voorlopig op. Dit meldde de oliereus vrijdagmiddag.",
     "published_at": "2026-06-12 16:57",
-    "scraped_at": "2026-06-12T18:14:47.936734"
-  },
-  {
-    "id": "27663f2cad9e9f70ffbfc8a66f2b4998",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/867635/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 22 juni 2026:",
-    "published_at": "2026-06-12 16:28",
-    "scraped_at": "2026-06-12T18:14:47.936734"
-  },
-  {
-    "id": "171f23e03bb137c1d44640d80f4cf550",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/867636/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 22 juni 2026:",
-    "published_at": "2026-06-12 16:28",
-    "scraped_at": "2026-06-12T18:14:47.936734"
-  },
-  {
-    "id": "196e68789bb73369b2971bd2aa3183f9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/867637/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 22 juni 2026:",
-    "published_at": "2026-06-12 16:28",
-    "scraped_at": "2026-06-12T18:14:47.936734"
-  },
-  {
-    "id": "cfb5ea6a42802045fa33e157d10ab524",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen VS laat herstel zien",
-    "link": "https://www.beurs.nl/Nieuws/867631/Consumentenvertrouwen-VS-laat-herstel-zien.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is begin juni wat hersteld na de forse daling in mei. Dit bleek vrijdag uit de voorlopige cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-06-12 16:12",
-    "scraped_at": "2026-06-12T18:14:47.936734"
+    "scraped_at": "2026-06-12T20:31:41.901640"
   }
 ]
