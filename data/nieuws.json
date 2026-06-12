@@ -1,12 +1,48 @@
 [
   {
-    "id": "3066bcf3f59a569572b01caa0ed04bc2",
+    "id": "68a49da908069707b777acf63becd6d8",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Kepler Cheuvreux verhoogt koersdoel voor Lakefront licht",
-    "link": "https://www.beurs.nl/Nieuws/867586/Beursblik-Kepler-Cheuvreux-verhoogt-koersdoel-voor-Lakefront-licht.aspx",
+    "titel": "Beursupdate: procent winst voor de AEX",
+    "link": "https://www.beurs.nl/Nieuws/867597/Beursupdate-procent-winst-voor-de-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag in het groen, in afwachting van de IPO van SpaceX.",
+    "published_at": "2026-06-12 13:50",
+    "scraped_at": "2026-06-12T12:43:50.507636"
+  },
+  {
+    "id": "f56a1e2731954196252124ce0f2f8873",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street signaleren groene opening",
+    "link": "https://www.beurs.nl/Nieuws/867592/Futures-Wall-Street-signaleren-groene-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet, nu de hoop op een snelle vrede in het Midden-Oosten en de beursgang van SpaceX voor een positief sentiment zorgen.",
+    "published_at": "2026-06-12 13:18",
+    "scraped_at": "2026-06-12T12:43:50.507636"
+  },
+  {
+    "id": "d9ff03e88b34158091b500ea57697144",
+    "categorie": "Beursnieuws",
+    "titel": "DNB waarschuwt voor flinke groeivertraging",
+    "link": "https://www.beurs.nl/Nieuws/867590/DNB-waarschuwt-voor-flinke-groeivertraging.aspx",
+    "intro": "De Nederlandse economie zal dit jaar veel minder sterk groeien dan eerder voorzien. Hiervoor waarschuwde De Nederlandsche Bank vrijdag in de Voorjaarsraming.",
+    "published_at": "2026-06-12 12:45",
+    "scraped_at": "2026-06-12T12:43:50.507636"
+  },
+  {
+    "id": "ff0ac935361b6ca6e5aeaadaeb07be49",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen flink hoger door hernieuwde vredeshoop",
+    "link": "https://www.beurs.nl/Nieuws/867589/Europese-beurzen-flink-hoger-door-hernieuwde-vredeshoop.aspx",
+    "intro": "De Europese aandelenmarkten noteerden vrijdag rond het middaguur flink hoger, nadat de Iraanse staatsmedia meldden dat een voorgesteld vredesakkoord zou kunnen leiden tot de heropening van de Straat van Hormuz.",
+    "published_at": "2026-06-12 12:30",
+    "scraped_at": "2026-06-12T12:43:50.507636"
+  },
+  {
+    "id": "9ce3d15e8b8590201136091a469f294c",
+    "categorie": "Beursnieuws",
+    "titel": "Kepler Cheuvreux verhoogt koersdoel voor Lakefront licht",
+    "link": "https://www.beurs.nl/Nieuws/867586/Kepler-Cheuvreux-verhoogt-koersdoel-voor-Lakefront-licht.aspx",
     "intro": "Kepler Cheuvreux heeft het koersdoel voor Lakefront Biotherapeutics verhoogd van 23,50 naar 24,50 euro, maar handhaafde het Reduceren advies. Dit bleek vrijdag uit een analistenrapport.",
     "published_at": "2026-06-12 11:30",
-    "scraped_at": "2026-06-12T09:39:26.715684"
+    "scraped_at": "2026-06-12T12:43:50.507636"
   },
   {
     "id": "12244c658cce858399232164e3f0d593",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/867581/AEX-overtuigend-hoger.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagochtend beduidend hoger. Rond de klok van elf uur won de AEX 1,0 procent op 1.073,43 punten.",
     "published_at": "2026-06-12 10:55",
-    "scraped_at": "2026-06-12T09:39:26.715684"
+    "scraped_at": "2026-06-12T12:43:50.507636"
   },
   {
     "id": "f62586ae45a6685c3324d39d58ec16a0",
@@ -24,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/867569/Must-read-Alles-met-SpaceX-wordt-goud-waard.aspx",
     "intro": "Voor beleggers lijkt alles wat met SpaceX te maken heeft goud waard. Plus: Elon Musk wordt biljonair, de oliemarkt staat in de startblokken, financiële druk remt toekomstplannen van Gen Z en millennials, en meer.",
     "published_at": "2026-06-12 10:15",
-    "scraped_at": "2026-06-12T09:39:26.715684"
+    "scraped_at": "2026-06-12T12:43:50.507636"
   },
   {
     "id": "78dda3907329b841fda26646309d8b42",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/867572/AEX-scherpt-recordstand-aan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong meer dan een half procent hoger op 1.070,48 punten, een nieuw record, terwijl de Midkap 1,5 procent bijschreef.",
     "published_at": "2026-06-12 09:11",
-    "scraped_at": "2026-06-12T09:39:26.715684"
+    "scraped_at": "2026-06-12T12:43:50.507636"
   },
   {
     "id": "933a057865e45b2f69eb6d81bf2da9a5",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867567/De-Tijd-ING-en-Rabobank-azen-op-Belfius.aspx",
     "intro": "De Nederlandse banken ING en Rabobank en het Franse Crédit Agricole azen op een belang in Belfius, de staatsbank die deels zal worden verkocht. Dit bleek vrijdag uit een artikel van De Tijd.",
     "published_at": "2026-06-12 08:47",
-    "scraped_at": "2026-06-12T09:39:26.715684"
+    "scraped_at": "2026-06-12T12:43:50.507636"
   },
   {
     "id": "91409d0a2bb7b4f4bead34982d94365f",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867564/Recordomzet-voor-Adobe.aspx",
     "intro": "Adobe heeft in het tweede kwartaal een recordomzet behaald en in het derde kwartaal zal de omzet nog iets verder stijgen. Dit bleek uit de kwartaalcijfers die het Amerikaanse bedrijf donderdagavond publiceerde.",
     "published_at": "2026-06-12 08:37",
-    "scraped_at": "2026-06-12T09:39:26.715684"
-  },
-  {
-    "id": "64088664089a468964275bc80f0cd5ce",
-    "categorie": "Beursnieuws",
-    "titel": "Britse industriële productie onder lichte druk",
-    "link": "https://www.beurs.nl/Nieuws/867563/Britse-industriele-productie-onder-lichte-druk.aspx",
-    "intro": "De industriële productie in het Verenigd Koninkrijk is in de drie maanden tot april iets teruggelopen. Dit bleek vrijdag uit cijfers van het Britse officiële statistiekbureau.",
-    "published_at": "2026-06-12 08:34",
-    "scraped_at": "2026-06-12T09:39:26.715684"
-  },
-  {
-    "id": "996a14db40b4a1c431555c8b8a3fb0ea",
-    "categorie": "Beursnieuws",
-    "titel": "Goldman Sachs haalt Signify van de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/867560/Goldman-Sachs-haalt-Signify-van-de-kooplijst.aspx",
-    "intro": "Goldman Sachs heeft vrijdag het advies voor Signify verlaagd van Kopen naar Neutraal, maar met een ongewijzigd koersdoel van 21,00 euro. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-06-12 08:30",
-    "scraped_at": "2026-06-12T09:39:26.715684"
-  },
-  {
-    "id": "2bf5f794a36e11359487a77a297f1105",
-    "categorie": "Nieuws",
-    "titel": "De beursgang van SpaceX stelt pensioenfondsen voor een lastige indexvraag",
-    "link": "https://www.ieximpact.nl/artikel/867274/De-beursgang-van-SpaceX-stelt-pensioenfondsen-voor-een-lastige-indexvraag.aspx",
-    "intro": "Vandaag gaat SpaceX naar de beurs. Het wordt een van de grootste IPO's ooit. Voor pensioenfondsen is vooral de vervolgvraag relevant: wat moeten zij doen als het bedrijf van Elon Musk na een beursgang automatisch in hun indexportefeuille verschijnt? Volgens Achmea Investment Management begint daar de echte verantwoordelijkheid.",
-    "published_at": "2026-06-12 08:30",
-    "scraped_at": "2026-06-12T09:39:26.715684"
-  },
-  {
-    "id": "38edebabfefad9500b3722cd426ef6e1",
-    "categorie": "Beursnieuws",
-    "titel": "Britse export trekt aan",
-    "link": "https://www.beurs.nl/Nieuws/867561/Britse-export-trekt-aan.aspx",
-    "intro": "De Britse export is in april gestegen, net als de import. Dit meldde het Britse statistiekbureau ONS vrijdag.",
-    "published_at": "2026-06-12 08:28",
-    "scraped_at": "2026-06-12T09:39:26.715684"
+    "scraped_at": "2026-06-12T12:43:50.507636"
   }
 ]
