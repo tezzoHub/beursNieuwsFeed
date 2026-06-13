@@ -1,12 +1,21 @@
 [
   {
+    "id": "3bccf08a94ab45c95c31626aea00646c",
+    "categorie": "Beursnieuws",
+    "titel": "Trump verwacht zondag ondertekening van deal met Iran",
+    "link": "https://www.beurs.nl/Nieuws/867681/Trump-verwacht-zondag-ondertekening-van-deal-met-Iran.aspx",
+    "intro": "De Verenigde Staten en Iran naderen een raamwerkakkoord om aan permanente vrede te werken; een deal die zondag zou moeten worden ondertekend. Dit zei de Amerikaanse president Donald Trump zaterdag op Truth Social.",
+    "published_at": "2026-06-13 19:03",
+    "scraped_at": "2026-06-13T19:02:04.753393"
+  },
+  {
     "id": "64f8e86726e0aecb272c4600801555fb",
     "categorie": "Beursnieuws",
     "titel": "AEX in sterke beursweek naar nieuw record",
     "link": "https://www.beurs.nl/Nieuws/867679/AEX-in-sterke-beursweek-naar-nieuw-record.aspx",
     "intro": "De Amsterdamse beurs heeft een zeer sterke week achter de rug, waarin een nieuw record werd bereikt en chipaandelen goede zaken deden.",
     "published_at": "2026-06-13 12:31",
-    "scraped_at": "2026-06-13T17:49:38.811216"
+    "scraped_at": "2026-06-13T19:02:04.753393"
   },
   {
     "id": "e82f7945ca693402f57df421f3e259e5",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/867676/Anthropic-blokkeert-gebruik-van-krachtigste-AI-tools.aspx",
     "intro": "De regering-Trump heeft buitenlandse overheden, bedrijven en personen verboden om gebruik te maken van de krachtigste AI-tools van Anthropic, wat het Amerikaanse bedrijf ertoe heeft aangezet de toegang voor iedereen te blokkeren om aan deze nieuwe regel te voldoen.",
     "published_at": "2026-06-13 11:49",
-    "scraped_at": "2026-06-13T17:49:38.811216"
+    "scraped_at": "2026-06-13T19:02:04.753393"
   },
   {
     "id": "e5bc84836e8cb99ed17c1524318199f9",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/867675/Amerikaanse-regering-akkoord-met-overname-Warner-door-Paramount.aspx",
     "intro": "Het Amerikaanse ministerie van Justitie heeft groen licht gegeven voor de overname van Warner Bros. Discovery door Paramount ter waarde van 81 miljard dollar. Dit werd vrijdagavond laat bekend.",
     "published_at": "2026-06-13 11:31",
-    "scraped_at": "2026-06-13T17:49:38.811216"
+    "scraped_at": "2026-06-13T19:02:04.753393"
   },
   {
     "id": "02037f336aff5bce5d1da627aa6ff181",
@@ -33,6 +42,6 @@
     "link": "https://www.beurs.nl/Nieuws/867674/Impactive-halveert-belang-in-Basic-Fit-bijna.aspx",
     "intro": "Impactive Capital heeft een nog veel kleiner belang in Basic-Fit gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 10 juni 2026.",
     "published_at": "2026-06-13 11:18",
-    "scraped_at": "2026-06-13T17:49:38.811216"
+    "scraped_at": "2026-06-13T19:02:04.753393"
   }
 ]
