@@ -1,92 +1,38 @@
 [
   {
-    "id": "301d068c7aef20fb8f9ebb0378b332a6",
+    "id": "64f8e86726e0aecb272c4600801555fb",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/867663/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-06-12 22:17",
-    "scraped_at": "2026-06-13T08:13:30.020559"
+    "titel": "AEX in sterke beursweek naar nieuw record",
+    "link": "https://www.beurs.nl/Nieuws/867679/AEX-in-sterke-beursweek-naar-nieuw-record.aspx",
+    "intro": "De Amsterdamse beurs heeft een zeer sterke week achter de rug, waarin een nieuw record werd bereikt en chipaandelen goede zaken deden.",
+    "published_at": "2026-06-13 12:31",
+    "scraped_at": "2026-06-13T10:41:15.027436"
   },
   {
-    "id": "83be83a742c41249ffe713db7c752877",
+    "id": "e82f7945ca693402f57df421f3e259e5",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street omarmt astronomische beursgang SpaceX",
-    "link": "https://www.beurs.nl/Nieuws/867662/Wall-Street-omarmt-astronomische-beursgang-SpaceX.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag hoger geëindigd, waarbij veel aandacht uitging naar de langverwachte beursgang van Elon Musks SpaceX. Ook positieve geluiden over een vredesdeal tussen de VS en Iran hielpen het sentiment.",
-    "published_at": "2026-06-12 22:13",
-    "scraped_at": "2026-06-13T08:13:30.020559"
+    "titel": "Anthropic blokkeert gebruik van krachtigste AI-tools",
+    "link": "https://www.beurs.nl/Nieuws/867676/Anthropic-blokkeert-gebruik-van-krachtigste-AI-tools.aspx",
+    "intro": "De regering-Trump heeft buitenlandse overheden, bedrijven en personen verboden om gebruik te maken van de krachtigste AI-tools van Anthropic, wat het Amerikaanse bedrijf ertoe heeft aangezet de toegang voor iedereen te blokkeren om aan deze nieuwe regel te voldoen.",
+    "published_at": "2026-06-13 11:49",
+    "scraped_at": "2026-06-13T10:41:15.027436"
   },
   {
-    "id": "b26ea772b78b07a6093107f3b2ee775c",
+    "id": "e5bc84836e8cb99ed17c1524318199f9",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt verder nu kans op vrede Midden-Oosten toeneemt",
-    "link": "https://www.beurs.nl/Nieuws/867661/Olieprijs-daalt-verder-nu-kans-op-vrede-Midden-Oosten-toeneemt.aspx",
-    "intro": "De olieprijs is vrijdag verder gedaald, terwijl de hoop op een vredesakkoord tussen de Verenigde Staten en Iran verder toenam.",
-    "published_at": "2026-06-12 20:54",
-    "scraped_at": "2026-06-13T08:13:30.020559"
+    "titel": "Amerikaanse regering akkoord met overname Warner door Paramount",
+    "link": "https://www.beurs.nl/Nieuws/867675/Amerikaanse-regering-akkoord-met-overname-Warner-door-Paramount.aspx",
+    "intro": "Het Amerikaanse ministerie van Justitie heeft groen licht gegeven voor de overname van Warner Bros. Discovery door Paramount ter waarde van 81 miljard dollar. Dit werd vrijdagavond laat bekend.",
+    "published_at": "2026-06-13 11:31",
+    "scraped_at": "2026-06-13T10:41:15.027436"
   },
   {
-    "id": "598967840fc524f6b5c726cbc76de732",
+    "id": "02037f336aff5bce5d1da627aa6ff181",
     "categorie": "Beursnieuws",
-    "titel": "BlackRock krijgt meer verzoeken tot opnames uit private credit fonds",
-    "link": "https://www.beurs.nl/Nieuws/867658/BlackRock-krijgt-meer-verzoeken-tot-opnames-uit-private-credit-fonds.aspx",
-    "intro": "Beleggers in het vlaggenschipfonds voor particuliere kredieten van BlackRock hebben in het tweede kwartaal verzocht om in totaal 13,3 procent van de aandelen van het fonds te laten terugkopen, een stijging ten opzichte van 9,3 procent in de voorgaande periode.",
-    "published_at": "2026-06-12 20:40",
-    "scraped_at": "2026-06-13T08:13:30.020559"
-  },
-  {
-    "id": "48d4d74828a28028932ba8fb0bfae7e8",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street stijgt bij debuut SpaceX",
-    "link": "https://www.beurs.nl/Nieuws/867656/Wall-Street-stijgt-bij-debuut-SpaceX.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag hoger met nog een paar uur handel te gaan, waarbij veel aandacht uitging naar de langverwachte beursgang van Elon Musks SpaceX. Ook positieve geluiden over een vredesdeal tussen de VS en Iran hielpen het sentiment.",
-    "published_at": "2026-06-12 19:36",
-    "scraped_at": "2026-06-13T08:13:30.020559"
-  },
-  {
-    "id": "d4cb7035d77e9913d02afb631e54b144",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hoopvol het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/867651/Europese-beurzen-hoopvol-het-weekend-in.aspx",
-    "intro": "De Europese aandelenmarkten zijn vrijdag hoger geëindigd, met beleggers die zich opnieuw hoopvol toonden over een mogelijke vredesdeal tussen de Verenigde Staten en Iran.",
-    "published_at": "2026-06-12 18:30",
-    "scraped_at": "2026-06-13T08:13:30.020559"
-  },
-  {
-    "id": "848f51ae3f3bff1aa71a9d9e74fa8f46",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel SpaceX opent op 150 dollar",
-    "link": "https://www.beurs.nl/Nieuws/867646/Aandeel-SpaceX-opent-op-150-dollar.aspx",
-    "intro": "De eerste officiële koers voor SpaceX is vrijdag vastgesteld op 150 dollar.",
-    "published_at": "2026-06-12 17:50",
-    "scraped_at": "2026-06-13T08:13:30.020559"
-  },
-  {
-    "id": "38de45af76c2bde7d7bdceb56189b442",
-    "categorie": null,
-    "titel": "IEX Slotcall: Aandelen gaan als een raket, AEX sluit op nieuw record",
-    "link": "https://www.iex.nl/artikel/867642/IEX-Slotcall-Aandelen-gaan-als-een-raket-AEX-sluit-op-nieuw-record.aspx",
-    "intro": "",
-    "published_at": "2026-06-12 17:50",
-    "scraped_at": "2026-06-13T08:13:30.020559"
-  },
-  {
-    "id": "d5484a6c334452e6e87bd8b15b948f62",
-    "categorie": "Beursnieuws",
-    "titel": "AEX met nieuw record het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/867645/AEX-met-nieuw-record-het-weekend-in.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag op een nieuw record gesloten, mede dankzij hernieuwde vredeshoop en het positieve sentiment omtrent de beursgang van SpaceX.",
-    "published_at": "2026-06-12 17:46",
-    "scraped_at": "2026-06-13T08:13:30.020559"
-  },
-  {
-    "id": "6d8c2fb25ae250c7e557c1c2e15e7b56",
-    "categorie": "Beursnieuws",
-    "titel": "Shell schort aandeleninkoop op",
-    "link": "https://www.beurs.nl/Nieuws/867641/Shell-schort-aandeleninkoop-op.aspx",
-    "intro": "Shell schort zijn aandeleninkoopprogramma voorlopig op. Dit meldde de oliereus vrijdagmiddag.",
-    "published_at": "2026-06-12 16:57",
-    "scraped_at": "2026-06-13T08:13:30.020559"
+    "titel": "Impactive halveert belang in Basic-Fit bijna",
+    "link": "https://www.beurs.nl/Nieuws/867674/Impactive-halveert-belang-in-Basic-Fit-bijna.aspx",
+    "intro": "Impactive Capital heeft een nog veel kleiner belang in Basic-Fit gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 10 juni 2026.",
+    "published_at": "2026-06-13 11:18",
+    "scraped_at": "2026-06-13T10:41:15.027436"
   }
 ]
