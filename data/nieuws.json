@@ -1,12 +1,48 @@
 [
   {
+    "id": "db0ba3cf7649db453b4d55d65a54c626",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/868003/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-06-16 22:16",
+    "scraped_at": "2026-06-16T21:23:38.890887"
+  },
+  {
+    "id": "3579a6663600274c4c6c65973745900d",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuw record voor Dow op verdeeld Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/868000/Nieuw-record-voor-Dow-op-verdeeld-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag verdeeld geëindigd, waarbij de Dow Jones index zijn recordreeks een vervolg gaf, terwijl techaandelen de overige indices onder druk zetten.",
+    "published_at": "2026-06-16 22:10",
+    "scraped_at": "2026-06-16T21:23:38.890887"
+  },
+  {
+    "id": "8041cb5fafa0a67168ace8d79b5c92b1",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt naar laagste niveau in maanden",
+    "link": "https://www.beurs.nl/Nieuws/867995/Olieprijs-daalt-naar-laagste-niveau-in-maanden.aspx",
+    "intro": "De olieprijs is dinsdag verder gedaald. Een vat West Texas Intermediate kostte bij de settlement 76,05 dollar en werd daarmee nog eens 6 procent goedkoper dan maandag, toen de prijs ook al met zo'n 5 procent daalde.",
+    "published_at": "2026-06-16 21:21",
+    "scraped_at": "2026-06-16T21:23:38.890887"
+  },
+  {
+    "id": "13a0573083fd0e51dec29b3cda438348",
+    "categorie": "Beursnieuws",
+    "titel": "BMW verlaagt outlook",
+    "link": "https://www.beurs.nl/Nieuws/867993/BMW-verlaagt-outlook.aspx",
+    "intro": "BMW heeft zijn outlook voor heel het jaar naar beneden bijgesteld, nu het conflict in het Midden-Oosten zwaarder weegt dan verwacht en de Chinese automarkt verder is verslechterd. Dit meldde de Duitse autofabrikant dinsdagavond.",
+    "published_at": "2026-06-16 21:00",
+    "scraped_at": "2026-06-16T21:23:38.890887"
+  },
+  {
     "id": "a53fdb5f5c9122c960619f21b20d7bc6",
     "categorie": "Beursnieuws",
     "titel": "Media: Binance krijgt geen vergunning in EU",
     "link": "https://www.beurs.nl/Nieuws/867985/Media-Binance-krijgt-geen-vergunning-in-EU.aspx",
     "intro": "Binance, 's werelds grootste cryptobeurs, zal vanaf volgende maand waarschijnlijk de toestemming verliezen om klanten in de Europese Unie te bedienen, omdat zijn vergunningaanvraag op het punt staat te worden afgewezen. Dit meldde persbureau Reuters dinsdag op basis van bronnen.",
     "published_at": "2026-06-16 19:49",
-    "scraped_at": "2026-06-16T18:12:22.657075"
+    "scraped_at": "2026-06-16T21:23:38.890887"
   },
   {
     "id": "dc81b53fc59d90bdb727deea57c52de9",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/867984/Dow-zet-recordreeks-voort-op-terughoudend-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag verdeeld met nog een paar uur handel te gaan, waarbij de Dow Jones index opvallend sterk presteerde en zijn recordreeks een vervolg gaf.",
     "published_at": "2026-06-16 19:36",
-    "scraped_at": "2026-06-16T18:12:22.657075"
+    "scraped_at": "2026-06-16T21:23:38.890887"
   },
   {
     "id": "a523e6bae6287afe39b2402ed14ade13",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/867978/Europese-beurzen-sluiten-hoger.aspx",
     "intro": "De Europese aandelenmarkten zijn dinsdag hoger geëindigd, in afwachting van meer details over het vredesakkoord dat de Verenigde Staten en Iran hebben gesloten.",
     "published_at": "2026-06-16 18:51",
-    "scraped_at": "2026-06-16T18:12:22.657075"
+    "scraped_at": "2026-06-16T21:23:38.890887"
   },
   {
     "id": "0615c6035a085b2f7c5d852b47f0cf5d",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/867976/Hoogesteger-reserveert-capaciteit-bij-Avantium.aspx",
     "intro": "Hoogesteger heeft capaciteit gereserveerd bij Avantium voor de levering van releaf. Dit maakte Avantium dinsdagavond bekend.",
     "published_at": "2026-06-16 18:32",
-    "scraped_at": "2026-06-16T18:12:22.657075"
+    "scraped_at": "2026-06-16T21:23:38.890887"
   },
   {
     "id": "16e2d66dc9ebc5551f004bf4b5e962bc",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/867971/Chippers-duwen-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is dinsdag lager gesloten, omdat de halfgeleideraandelen een stap terug deden, terwijl betaalbedrijf Adyen juist herstelde van zijn recente terugval.",
     "published_at": "2026-06-16 17:52",
-    "scraped_at": "2026-06-16T18:12:22.657075"
+    "scraped_at": "2026-06-16T21:23:38.890887"
   },
   {
     "id": "b455ec81df0ad7692162de403cc11e82",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/867966/Analist-Cor-Kluis-beste-analist-van-de-Benelux.aspx",
     "intro": "Analist Cor Kluis van ABN AMRO Oddo is dit jaar verkozen tot beste analist van de Benelux. Dit maakte Extel dinsdag bekend.",
     "published_at": "2026-06-16 17:23",
-    "scraped_at": "2026-06-16T18:12:22.657075"
-  },
-  {
-    "id": "6f63be358fe80518e0ce7db98a64ee1f",
-    "categorie": "IEX Beleggersdag",
-    "titel": "Primeur: officiële gongslag van Euronext op de IEX Beleggersdag",
-    "link": "https://www.beurs.nl/Artikel/867898/Primeur-officiele-gongslag-van-Euronext-op-de-IEX-Beleggersdag.aspx",
-    "intro": "Op de IEX Beleggersdag krijgen beleggers een zeldzame kans om een bijzondere traditie van dichtbij mee te maken.",
-    "published_at": "2026-06-16 16:55",
-    "scraped_at": "2026-06-16T18:12:22.657075"
-  },
-  {
-    "id": "7788aee246582d5d4c20c240518a23d4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/867959/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 24 juni 2026:",
-    "published_at": "2026-06-16 16:32",
-    "scraped_at": "2026-06-16T18:12:22.657075"
-  },
-  {
-    "id": "30b3aaa8387ea3822b287b65538ac3b4",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/867960/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 24 juni 2026:",
-    "published_at": "2026-06-16 16:32",
-    "scraped_at": "2026-06-16T18:12:22.657075"
-  },
-  {
-    "id": "ab8bcf7d912fc2c0a81ccf47cf05827d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/867958/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 24 juni 2026:",
-    "published_at": "2026-06-16 16:31",
-    "scraped_at": "2026-06-16T18:12:22.657075"
+    "scraped_at": "2026-06-16T21:23:38.890887"
   }
 ]
