@@ -1,12 +1,48 @@
 [
   {
+    "id": "0d8c8e3ded422134d713b3d41fcd7b6b",
+    "categorie": "Beursnieuws",
+    "titel": "'Dot plot' toont snelle toename haviken bij Fed",
+    "link": "https://www.beurs.nl/Nieuws/868169/Dot-plot-toont-snelle-toename-haviken-bij-Fed.aspx",
+    "intro": "De nieuwste ‘dot plot’ van de Fed toont dat het aantal haviken bij de centrale bank sterk is gestegen sinds de vorige vergadering in maart. Dat bleek uit de grafiek die woensdag werd gepubliceerd bij het rentebesluit van de Federal Reserve.",
+    "published_at": "2026-06-17 20:17",
+    "scraped_at": "2026-06-17T18:37:40.111143"
+  },
+  {
+    "id": "551afa264503c10506835deae081d8c6",
+    "categorie": "Beursnieuws",
+    "titel": "Fed handhaaft rente zoals verwacht",
+    "link": "https://www.beurs.nl/Nieuws/868160/Fed-handhaaft-rente-zoals-verwacht.aspx",
+    "intro": "De Amerikaanse Federal Reserve heeft de rente zoals verwacht onveranderd gelaten op 3,50 tot 3,75 procent. Dat bleek woensdag uit het rentebesluit.",
+    "published_at": "2026-06-17 20:04",
+    "scraped_at": "2026-06-17T18:37:40.111143"
+  },
+  {
+    "id": "37c090a06a4e6ab2c788152f477f3293",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street noteert verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/868158/Wall-Street-noteert-verdeeld.aspx",
+    "intro": "De Amerikaanse beurzen noteerden woensdagavond verdeeld, in aanloop naar het eerste rentebesluit van de Federal Reserve onder de nieuwe voorzitter Kevin Warsh.",
+    "published_at": "2026-06-17 19:40",
+    "scraped_at": "2026-06-17T18:37:40.111143"
+  },
+  {
+    "id": "d546afbeee925a5c79405cae0d2c5ad8",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen eindigen overwegend hoger",
+    "link": "https://www.beurs.nl/Nieuws/868157/Europese-beurzen-eindigen-overwegend-hoger.aspx",
+    "intro": "De Europese beurzen zijn woensdag overwegend hoger gesloten, in aanloop naar het eerste rentebesluit van de Federal Reserve met Kevin Warsh als voorzitter.",
+    "published_at": "2026-06-17 19:16",
+    "scraped_at": "2026-06-17T18:37:40.111143"
+  },
+  {
     "id": "fc58305dbd27dd3f29a429d51564c94d",
     "categorie": "Beursnieuws",
     "titel": "AEX hoger gesloten in aanloop naar rentebesluit VS",
     "link": "https://www.beurs.nl/Nieuws/868147/AEX-hoger-gesloten-in-aanloop-naar-rentebesluit-VS.aspx",
     "intro": "De Amsterdamse beurs is woensdag hoger gesloten in aanloop naar het rentebesluit in de VS, terwijl de Amerikaanse president Donald Trump de onderhandelingen met Iran op scherp zette.",
     "published_at": "2026-06-17 17:46",
-    "scraped_at": "2026-06-17T16:09:02.894238"
+    "scraped_at": "2026-06-17T18:37:40.111143"
   },
   {
     "id": "f65b5750bce7a5bffd212c76a5005a16",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/868140/Amerikaanse-olievoorraden-blijven-fors-dalen.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week opnieuw verder geslonken waarbij de neerwaartse trend zich blijft doorzetten net als in de vorige weken. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-06-17 16:36",
-    "scraped_at": "2026-06-17T16:09:02.894238"
+    "scraped_at": "2026-06-17T18:37:40.111143"
   },
   {
     "id": "41249d9aee65f26a838696f87b10b6aa",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/868137/Aanstaande-woningverkopen-VS-nemen-toe.aspx",
     "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in mei harder gestegen dan een maand eerder. Dit bleek woensdag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-06-17 16:10",
-    "scraped_at": "2026-06-17T16:09:02.894238"
+    "scraped_at": "2026-06-17T18:37:40.111143"
   },
   {
     "id": "e1e70ff2b85fd872ad6b7b149a891176",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868136/Amerikaanse-bedrijfsvoorraden-minder-hard-gestegen.aspx",
     "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in april minder hard gestegen dan in de maand ervoor. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-06-17 16:06",
-    "scraped_at": "2026-06-17T16:09:02.894238"
+    "scraped_at": "2026-06-17T18:37:40.111143"
   },
   {
     "id": "66239d1afa510ea69eb1543ab0512b8e",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/868134/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 25 juni 2026:",
     "published_at": "2026-06-17 15:48",
-    "scraped_at": "2026-06-17T16:09:02.894238"
+    "scraped_at": "2026-06-17T18:37:40.111143"
   },
   {
     "id": "9dda03b3d3ec868c2299b9a84cc29c4c",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868132/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 25 juni 2026:",
     "published_at": "2026-06-17 15:47",
-    "scraped_at": "2026-06-17T16:09:02.894238"
-  },
-  {
-    "id": "03ce9b1bac9bdf2f00f40aa8193bdb63",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/868133/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 25 juni 2026:",
-    "published_at": "2026-06-17 15:47",
-    "scraped_at": "2026-06-17T16:09:02.894238"
-  },
-  {
-    "id": "8648df78cbc7c3ca19e10ef2f993b235",
-    "categorie": "Beursnieuws",
-    "titel": "AMG wordt enige chroomproducent in de VS",
-    "link": "https://www.beurs.nl/Nieuws/868123/AMG-wordt-enige-chroomproducent-in-de-VS.aspx",
-    "intro": "AMG Critical Materials heeft woensdag een fabriek voor chroommetaal geopend in het Amerikaanse New Castle, Pennsylvania. Daarmee wordt het in Amsterdam genoteerde bedrijf naar eigen zeggen de enige producent van chroommetaal in de Verenigde Staten.",
-    "published_at": "2026-06-17 15:13",
-    "scraped_at": "2026-06-17T16:09:02.894238"
-  },
-  {
-    "id": "1bc13b1d6863ae44107aae08ca9f2f3b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Bank of England houdt kruit droog",
-    "link": "https://www.beurs.nl/Nieuws/868118/Beursblik-Bank-of-England-houdt-kruit-droog.aspx",
-    "intro": "De Bank of England zal de belangrijkste rente donderdag vermoedelijk handhaven op 3,75 procent, maar de druk op zowel de inflatie als de economie neemt toe. En dus is het de vraag wat de Britse centrale bank de komende maanden gaat doen, ook met het vredesakkoord tussen de VS en Iran en de verwachte heropening van de Straat van Hormuz in het achterhoofd.",
-    "published_at": "2026-06-17 15:11",
-    "scraped_at": "2026-06-17T16:09:02.894238"
-  },
-  {
-    "id": "965d5d075cf3a778ace5b43dee6cb219",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: beleggers rekenen op hogere doelen bij Besi",
-    "link": "https://www.beurs.nl/Nieuws/868117/Beursblik-beleggers-rekenen-op-hogere-doelen-bij-Besi.aspx",
-    "intro": "BE Semiconductor Industries zal tijdens een beleggersdag donderdag in Amsterdam de doelen voor de lange termijn verhogen. Dit verwachten analisten geraadpleegd door ABM Financial News.",
-    "published_at": "2026-06-17 15:09",
-    "scraped_at": "2026-06-17T16:09:02.894238"
+    "scraped_at": "2026-06-17T18:37:40.111143"
   }
 ]
