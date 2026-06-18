@@ -1,38 +1,92 @@
 [
   {
-    "id": "c4c2cbb06ef3f79886b7d8bc017beb90",
+    "id": "972f2b0d39ba79e89440a6b551a67e35",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het rood",
-    "link": "https://www.beurs.nl/Nieuws/868207/Europese-beurzen-openen-in-het-rood.aspx",
-    "intro": "De Europese beurzen gaan donderdag een lagere opening tegemoet, na rode koersen op Wall Street, na het rentebesluit van de Amerikaanse Federal Reserve.",
-    "published_at": "2026-06-18 07:01",
-    "scraped_at": "2026-06-18T05:10:41.605941"
+    "titel": "Aandeel Intel verder omhoog dankzij Trump",
+    "link": "https://www.beurs.nl/Nieuws/868258/Aandeel-Intel-verder-omhoog-dankzij-Trump.aspx",
+    "intro": "Het aandeel Intel lijkt donderdag ruim 9 procent hoger te openen, dankzij de Amerikaanse president Donald Trump.",
+    "published_at": "2026-06-18 11:13",
+    "scraped_at": "2026-06-18T09:49:27.109416"
   },
   {
-    "id": "1c308b462cdc80482a899848f2d66a85",
+    "id": "b2f34aaca90549e0a823e2dec4924edc",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/868205/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 25 juni 2026:",
-    "published_at": "2026-06-18 06:52",
-    "scraped_at": "2026-06-18T05:10:41.605941"
+    "titel": "Chippers houden AEX niet in het groen",
+    "link": "https://www.beurs.nl/Nieuws/868245/Chippers-houden-AEX-niet-in-het-groen.aspx",
+    "intro": "De AEX weet donderdag het groen nog niet te vinden, ondanks de koerswinsten voor de 'chippers'.",
+    "published_at": "2026-06-18 10:28",
+    "scraped_at": "2026-06-18T09:49:27.109416"
   },
   {
-    "id": "9035db37b5a1f73444e80d1533cdc5bb",
+    "id": "d368b4ada63dd71d8c6cfbe641281bb3",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/868203/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 25 juni 2026:",
-    "published_at": "2026-06-18 06:51",
-    "scraped_at": "2026-06-18T05:10:41.605941"
+    "titel": "Noorse centrale bank handhaaft de rente",
+    "link": "https://www.beurs.nl/Nieuws/868243/Noorse-centrale-bank-handhaaft-de-rente.aspx",
+    "intro": "Norges Bank heeft de rente op 4,25 procent gehouden. Dit maakte de Noorse centrale bank donderdag bekend.",
+    "published_at": "2026-06-18 10:07",
+    "scraped_at": "2026-06-18T09:49:27.109416"
   },
   {
-    "id": "95f7796a51d4f10a2653c0dd28576888",
+    "id": "ef226d37ff857424c3f5475efaad935a",
+    "categorie": "Must read",
+    "titel": "Must read: Vergeet de farmasector niet",
+    "link": "https://www.iex.nl/artikel/868079/Must-read-Vergeet-de-farmasector-niet.aspx",
+    "intro": "Plus: energietransitie is Europese aangelegenheid, dividendaandelen doen het echt beter, gemengde portefeuille is niet dood, online-gokgedrag loopt uit de hand en veel meer.",
+    "published_at": "2026-06-18 10:00",
+    "scraped_at": "2026-06-18T09:49:27.109416"
+  },
+  {
+    "id": "02bc3338a483409aa0280328a3097922",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/868204/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 25 juni 2026:",
-    "published_at": "2026-06-18 06:51",
-    "scraped_at": "2026-06-18T05:10:41.605941"
+    "titel": "Zwitserse centrale bank houdt rente weer op nul",
+    "link": "https://www.beurs.nl/Nieuws/868237/Zwitserse-centrale-bank-houdt-rente-weer-op-nul.aspx",
+    "intro": "De Zwitserse centrale bank heeft de rente opnieuw op nul gehouden. Dit bleek donderdag uit het rentebesluit van de centrale bank.",
+    "published_at": "2026-06-18 09:43",
+    "scraped_at": "2026-06-18T09:49:27.109416"
+  },
+  {
+    "id": "9b62df24fef5539749fe7aa796c9777d",
+    "categorie": "Beursnieuws",
+    "titel": "Van Lanschot keert op 25 juni uit",
+    "link": "https://www.beurs.nl/Nieuws/868233/Van-Lanschot-keert-op-25-juni-uit.aspx",
+    "intro": "Van Lanschot Kempen zal op 25 juni 0,80 per aandeel uitkeren aan de aandeelhouders. Dit maakte de private bank donderdagochtend bekend.",
+    "published_at": "2026-06-18 09:18",
+    "scraped_at": "2026-06-18T09:49:27.109416"
+  },
+  {
+    "id": "c331ddca44081e2302b46633676c2d93",
+    "categorie": "Beursnieuws",
+    "titel": "AEX lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/868231/AEX-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong 0,4 procent lager op 1.078,65 punten, terwijl de Midkap 0,1 procent lager noteerde.",
+    "published_at": "2026-06-18 09:11",
+    "scraped_at": "2026-06-18T09:49:27.109416"
+  },
+  {
+    "id": "f8d25e7edbf9d7e31882eb0949c55f9e",
+    "categorie": "Beursnieuws",
+    "titel": "L'Oréal neemt meerderheidsbelang in Indiase Innovist",
+    "link": "https://www.beurs.nl/Nieuws/868228/LOreal-neemt-meerderheidsbelang-in-Indiase-Innovist.aspx",
+    "intro": "Cosmeticaconcern L'Oréal heeft donderdag een overeenkomst gesloten voor de overname van een meerderheidsbelang in beautygroep Innovist, een Indiaas bedrijf met diverse merken voor persoonlijke verzorging.",
+    "published_at": "2026-06-18 08:56",
+    "scraped_at": "2026-06-18T09:49:27.109416"
+  },
+  {
+    "id": "efc542783ffb62a433d5194a9192686a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: outlookverhoging Besi verrast niet",
+    "link": "https://www.beurs.nl/Nieuws/868227/Beursblik-outlookverhoging-Besi-verrast-niet.aspx",
+    "intro": "BE Semiconductor Industries heeft de omzetverwachting vanochtend met circa 15 procent verhoogd, maar de verwachtingen waren al hooggespannen. Dit zei analist Marc Hesselink van ING donderdag in een reactie.",
+    "published_at": "2026-06-18 08:54",
+    "scraped_at": "2026-06-18T09:49:27.109416"
+  },
+  {
+    "id": "df07f9285e881dd0cd94068db7c7a1a2",
+    "categorie": "Nieuws",
+    "titel": "Net zero in 2050? Bedrijven koersen eerder af op 2090",
+    "link": "https://www.ieximpact.nl/artikel/867742/Net-zero-in-2050-Bedrijven-koersen-eerder-af-op-2090.aspx",
+    "intro": "Bedrijven praten graag over hun klimaatambities, maar de praktijk blijkt weerbarstig. Volgens Schroders zullen veel beursgenoteerde ondernemingen hun doel van netto nul uitstoot in 2050 op basis van hun huidige gedrag pas rond 2090 bereiken.",
+    "published_at": "2026-06-18 08:45",
+    "scraped_at": "2026-06-18T09:49:27.109416"
   }
 ]
