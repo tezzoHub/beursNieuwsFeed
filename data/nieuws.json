@@ -1,12 +1,57 @@
 [
   {
+    "id": "adf40938f278ee1a7d118792a6c86d73",
+    "categorie": "Beursnieuws",
+    "titel": "Exor stelt extra CEO aan",
+    "link": "https://www.beurs.nl/Nieuws/868322/Exor-stelt-extra-CEO-aan.aspx",
+    "intro": "Exor stelt Benoît Ribadeau-Dumas met ingang van 1 juli aan als adjunct-CEO. Dit meldde het bedrijf met een notering in Amsterdam donderdagavond.",
+    "published_at": "2026-06-18 19:55",
+    "scraped_at": "2026-06-18T18:38:26.408944"
+  },
+  {
+    "id": "c431172309c7c43318f80ab4904b3557",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst hoger met hulp van chippers",
+    "link": "https://www.beurs.nl/Nieuws/868320/Wall-Street-koerst-hoger-met-hulp-van-chippers.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag hoger  met nog een paar uur handel te gaan. Beleggers maken zich op voor een lang weekend vanwege Juneteenth in de Verenigde Staten op vrijdag.",
+    "published_at": "2026-06-18 19:37",
+    "scraped_at": "2026-06-18T18:38:26.408944"
+  },
+  {
+    "id": "de0fb01ed26b434168bc768892554105",
+    "categorie": "Beursnieuws",
+    "titel": "IPOgo moet beursgangen mkb op Euronext Growth eenvoudiger maken",
+    "link": "https://www.beurs.nl/Nieuws/868319/IPOgo-moet-beursgangen-mkb-op-Euronext-Growth-eenvoudiger-maken.aspx",
+    "intro": "Euronext introduceert IPOgo, een nieuwe oplossing die het midden- en kleinbedrijf een eenvoudigere, snellere en kostenefficiëntere beursintroductie op Euronext Growth biedt. Dit meldde de beursuitbater donderdagavond.",
+    "published_at": "2026-06-18 19:01",
+    "scraped_at": "2026-06-18T18:38:26.408944"
+  },
+  {
+    "id": "1b7ac0ba77ca4bf43e31f62a67f68298",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeelhouders accorderen jaarrekening Lavide",
+    "link": "https://www.beurs.nl/Nieuws/868317/Aandeelhouders-accorderen-jaarrekening-Lavide.aspx",
+    "intro": "De aandeelhouders van Lavide hebben tijdens de jaarvergadering woensdag ingestemd met de jaarrekening. Dat maakte het bedrijf donderdagavond bekend.",
+    "published_at": "2026-06-18 18:40",
+    "scraped_at": "2026-06-18T18:38:26.408944"
+  },
+  {
+    "id": "ade9c87a9dfd3826ecc7564d4277dfd2",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen trekken zich op aan Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/868316/Europese-beurzen-trekken-zich-op-aan-Wall-Street.aspx",
+    "intro": "De Europese beurzen zijn donderdag verdeeld geëindigd, met een kleine impuls van een hogere opening op Wall Street, maar ook zorgen over een mogelijke Amerikaanse renteverhoging die boven de markt hangt.",
+    "published_at": "2026-06-18 18:34",
+    "scraped_at": "2026-06-18T18:38:26.408944"
+  },
+  {
     "id": "cef85d4ba911ba90a1c7ad3d231eccda",
     "categorie": "Beursnieuws",
     "titel": "AEX eindigt nipt lager",
     "link": "https://www.beurs.nl/Nieuws/868313/AEX-eindigt-nipt-lager.aspx",
     "intro": "De Amsterdamse beurs is donderdag nipt lager gesloten, door koersdalingen voor de segmenten olie en staal, maar hield het verlies beperkt dankzij de chipbedrijven in de hoofdindex en betaalbedrijf Adyen.",
     "published_at": "2026-06-18 17:51",
-    "scraped_at": "2026-06-18T16:18:28.114898"
+    "scraped_at": "2026-06-18T18:38:26.408944"
   },
   {
     "id": "ffd6c1bcd1c9b7e329b20c2052ce05e6",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/868310/InPost-ondertekent-intentieverklaring-met-Allegro.aspx",
     "intro": "InPost en Allegro hebben een niet-bindende intentieverklaring ondertekend, om in de komende maanden een nieuwe raamovereenkomst te sluiten. Dit meldde het Poolse kluisjesbedrijf met een notering in Amsterdam donderdag.",
     "published_at": "2026-06-18 17:36",
-    "scraped_at": "2026-06-18T16:18:28.114898"
+    "scraped_at": "2026-06-18T18:38:26.408944"
   },
   {
     "id": "c73bfb8d61ea5f2c19f74afd3f02851b",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868299/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 26 juni 2026:",
     "published_at": "2026-06-18 16:27",
-    "scraped_at": "2026-06-18T16:18:28.114898"
+    "scraped_at": "2026-06-18T18:38:26.408944"
   },
   {
     "id": "12b7fb98eb40041232518b7d0ae061a7",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/868300/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 26 juni 2026:",
     "published_at": "2026-06-18 16:27",
-    "scraped_at": "2026-06-18T16:18:28.114898"
+    "scraped_at": "2026-06-18T18:38:26.408944"
   },
   {
     "id": "69d67b233b792a3fb8c726138dfb9f4b",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868301/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 26 juni 2026:",
     "published_at": "2026-06-18 16:27",
-    "scraped_at": "2026-06-18T16:18:28.114898"
-  },
-  {
-    "id": "1f3bb5754f8398d01862277a43560bd3",
-    "categorie": "Beursnieuws",
-    "titel": "Leidende indicatoren VS stijgen verder",
-    "link": "https://www.beurs.nl/Nieuws/868297/Leidende-indicatoren-VS-stijgen-verder.aspx",
-    "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in mei licht gestegen, net als in april. Dit bleek donderdag uit cijfers van The Conference Board.",
-    "published_at": "2026-06-18 16:11",
-    "scraped_at": "2026-06-18T16:18:28.114898"
-  },
-  {
-    "id": "3b655a0ac7e89976b53574f8ce7e1fad",
-    "categorie": "Beursnieuws",
-    "titel": "Ahold Delhaize nomineert Claire Peters als CEO in de VS",
-    "link": "https://www.beurs.nl/Nieuws/868278/Ahold-Delhaize-nomineert-Claire-Peters-als-CEO-in-de-VS.aspx",
-    "intro": "De raad van commissarissen van Ahold Delhaize heeft Claire Peters voorgedragen als CEO van de Amerikaanse tak van het bedrijf, Ahold Delhaize USA. Dit maakte het supermarktconcern donderdagmiddag bekend.",
-    "published_at": "2026-06-18 15:45",
-    "scraped_at": "2026-06-18T16:18:28.114898"
-  },
-  {
-    "id": "a3d3f7c6312499968c284c1640f802a5",
-    "categorie": "Beursnieuws",
-    "titel": "Video: krapper Amerikaans rentebeleid geen grote zorg voor beleggers",
-    "link": "https://www.beurs.nl/Nieuws/868277/Video-krapper-Amerikaans-rentebeleid-geen-grote-zorg-voor-beleggers.aspx",
-    "intro": "Hoewel de nieuwe voorzitter van de Amerikaanse Federal Reserve, Kevin Warsh, niet gelooft in forward guidance, lijkt het er sterk op dat de centrale bank de rente wel degelijk gaat verhogen. Dit concludeerde beleggingsstrateeg Joost van Leenders van Van Lanschot Kempen.",
-    "published_at": "2026-06-18 15:36",
-    "scraped_at": "2026-06-18T16:18:28.114898"
-  },
-  {
-    "id": "fdfed306d898cc557c03374119c0100b",
-    "categorie": "Beursnieuws",
-    "titel": "Ajax ziet Ziggo vertrekken als hoofdsponsor",
-    "link": "https://www.beurs.nl/Nieuws/868276/Ajax-ziet-Ziggo-vertrekken-als-hoofdsponsor.aspx",
-    "intro": "Het hoofdsponsorschap van Ajax door Ziggo eindigt per 1 juli 2027. Dit maakte de Amsterdamse voetbalclub donderdagmiddag bekend.",
-    "published_at": "2026-06-18 15:17",
-    "scraped_at": "2026-06-18T16:18:28.114898"
-  },
-  {
-    "id": "0f45346fac1f9c98c09ad4f3b8639361",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street veert weer op",
-    "link": "https://www.beurs.nl/Nieuws/868274/Wall-Street-veert-weer-op.aspx",
-    "intro": "De Amerikaanse beurzen zullen donderdag met flinke winsten van start gaan, nadat de toelichting op het rentebesluit van de Federal Reserve woensdagavond nog druk zette op de financiële markten.",
-    "published_at": "2026-06-18 15:04",
-    "scraped_at": "2026-06-18T16:18:28.114898"
+    "scraped_at": "2026-06-18T18:38:26.408944"
   }
 ]
