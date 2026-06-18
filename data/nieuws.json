@@ -1,92 +1,38 @@
 [
   {
-    "id": "3d45af98c90468ca4bf9be1d83df021f",
+    "id": "c4c2cbb06ef3f79886b7d8bc017beb90",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/868181/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag alle acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-06-17 22:26",
-    "scraped_at": "2026-06-18T00:04:59.668850"
+    "titel": "Europese beurzen openen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/868207/Europese-beurzen-openen-in-het-rood.aspx",
+    "intro": "De Europese beurzen gaan donderdag een lagere opening tegemoet, na rode koersen op Wall Street, na het rentebesluit van de Amerikaanse Federal Reserve.",
+    "published_at": "2026-06-18 07:01",
+    "scraped_at": "2026-06-18T05:10:41.605941"
   },
   {
-    "id": "0e85eea6d32739a9cb6df319936caed0",
+    "id": "1c308b462cdc80482a899848f2d66a85",
     "categorie": "Beursnieuws",
-    "titel": "Haviken Fed duwen Wall Street in het rood",
-    "link": "https://www.beurs.nl/Nieuws/868178/Haviken-Fed-duwen-Wall-Street-in-het-rood.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag lager gesloten, nadat de Federal Reserve de rente ongemoeid liet en hintte op een renteverhoging later in het jaar, na de eerste rentevergadering onder voorzitter Kevin Warsh.",
-    "published_at": "2026-06-17 22:12",
-    "scraped_at": "2026-06-18T00:04:59.668850"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/868205/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 25 juni 2026:",
+    "published_at": "2026-06-18 06:52",
+    "scraped_at": "2026-06-18T05:10:41.605941"
   },
   {
-    "id": "33ff3cb41f601c4b3016bf5832b13310",
+    "id": "9035db37b5a1f73444e80d1533cdc5bb",
     "categorie": "Beursnieuws",
-    "titel": "Valuta: dollar in de lift na rentebesluit Fed",
-    "link": "https://www.beurs.nl/Nieuws/868177/Valuta-dollar-in-de-lift-na-rentebesluit-Fed.aspx",
-    "intro": "De dollar en de rendementen op Amerikaanse staatsleningen zijn woensdag gestegen, nadat de Federal Reserve unaniem besloot de rente ongewijzigd te laten.",
-    "published_at": "2026-06-17 21:47",
-    "scraped_at": "2026-06-18T00:04:59.668850"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/868203/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 25 juni 2026:",
+    "published_at": "2026-06-18 06:51",
+    "scraped_at": "2026-06-18T05:10:41.605941"
   },
   {
-    "id": "1ab9ba30fec931fca38236be19f3a0b6",
+    "id": "95f7796a51d4f10a2653c0dd28576888",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt nipt",
-    "link": "https://www.beurs.nl/Nieuws/868176/Olieprijs-stijgt-nipt.aspx",
-    "intro": "De oliefutures zijn woensdag beperkt gestegen, na een handelsdag waarin de prijs op en neer bewoog.",
-    "published_at": "2026-06-17 21:34",
-    "scraped_at": "2026-06-18T00:04:59.668850"
-  },
-  {
-    "id": "82558fc0d8da673ffef476fda63d835e",
-    "categorie": "Beursnieuws",
-    "titel": "Fed-voorzitter Warsh belooft inflatie te 'fiksen'",
-    "link": "https://www.beurs.nl/Nieuws/868175/Fed-voorzitter-Warsh-belooft-inflatie-te-fiksen.aspx",
-    "intro": "De nieuwe voorzitter van de Federal Reserve Kevin Warsh laat onderzoeken hoe de centrale bank communiceert en beleid maakt en belooft het probleem van te hoge inflatie op te lossen. Dat zei Warsh woensdag tijdens een persconferentie bij het rentebesluit van de Federal Reserve.",
-    "published_at": "2026-06-17 21:11",
-    "scraped_at": "2026-06-18T00:04:59.668850"
-  },
-  {
-    "id": "a310c8ef764ccd5d3bc87e5baea8c242",
-    "categorie": "Beursnieuws",
-    "titel": "Theon neemt HGH Systèmes Infrarouges over",
-    "link": "https://www.beurs.nl/Nieuws/868174/Theon-neemt-HGH-Systemes-Infrarouges-over.aspx",
-    "intro": "Theon International neemt HGH Systèmes Infrarouges over, door een overname van de houdstermaatschappij SAS Stéropès voor circa 30 miljoen euro. Dat maakte het Griekse nachtkijkerbedrijf woensdag bekend.",
-    "published_at": "2026-06-17 20:42",
-    "scraped_at": "2026-06-18T00:04:59.668850"
-  },
-  {
-    "id": "0d8c8e3ded422134d713b3d41fcd7b6b",
-    "categorie": "Beursnieuws",
-    "titel": "'Dot plot' toont snelle toename haviken bij Fed",
-    "link": "https://www.beurs.nl/Nieuws/868169/Dot-plot-toont-snelle-toename-haviken-bij-Fed.aspx",
-    "intro": "De nieuwste ‘dot plot’ van de Fed toont dat het aantal haviken bij de centrale bank sterk is gestegen sinds de vorige vergadering in maart. Dat bleek uit de grafiek die woensdag werd gepubliceerd bij het rentebesluit van de Federal Reserve.",
-    "published_at": "2026-06-17 20:17",
-    "scraped_at": "2026-06-18T00:04:59.668850"
-  },
-  {
-    "id": "551afa264503c10506835deae081d8c6",
-    "categorie": "Beursnieuws",
-    "titel": "Fed handhaaft rente zoals verwacht",
-    "link": "https://www.beurs.nl/Nieuws/868160/Fed-handhaaft-rente-zoals-verwacht.aspx",
-    "intro": "De Amerikaanse Federal Reserve heeft de rente zoals verwacht onveranderd gelaten op 3,50 tot 3,75 procent. Dat bleek woensdag uit het rentebesluit.",
-    "published_at": "2026-06-17 20:04",
-    "scraped_at": "2026-06-18T00:04:59.668850"
-  },
-  {
-    "id": "37c090a06a4e6ab2c788152f477f3293",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street noteert verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/868158/Wall-Street-noteert-verdeeld.aspx",
-    "intro": "De Amerikaanse beurzen noteerden woensdagavond verdeeld, in aanloop naar het eerste rentebesluit van de Federal Reserve onder de nieuwe voorzitter Kevin Warsh.",
-    "published_at": "2026-06-17 19:40",
-    "scraped_at": "2026-06-18T00:04:59.668850"
-  },
-  {
-    "id": "d546afbeee925a5c79405cae0d2c5ad8",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen eindigen overwegend hoger",
-    "link": "https://www.beurs.nl/Nieuws/868157/Europese-beurzen-eindigen-overwegend-hoger.aspx",
-    "intro": "De Europese beurzen zijn woensdag overwegend hoger gesloten, in aanloop naar het eerste rentebesluit van de Federal Reserve met Kevin Warsh als voorzitter.",
-    "published_at": "2026-06-17 19:16",
-    "scraped_at": "2026-06-18T00:04:59.668850"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/868204/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 25 juni 2026:",
+    "published_at": "2026-06-18 06:51",
+    "scraped_at": "2026-06-18T05:10:41.605941"
   }
 ]
