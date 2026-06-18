@@ -1,12 +1,57 @@
 [
   {
+    "id": "8d75a3e49c57c32d1c2d06be51be46b4",
+    "categorie": "Beursnieuws",
+    "titel": "Rode AEX ondanks winsten halfgeleiders",
+    "link": "https://www.beurs.nl/Nieuws/868269/Rode-AEX-ondanks-winsten-halfgeleiders.aspx",
+    "intro": "De Amsterdamse beurs noteerde donderdagmiddag in het rood, maar in vergelijking tot de omringende beurzen bleef het verlies beperkt dankzij de chipbedrijven in de hoofdindex.",
+    "published_at": "2026-06-18 14:28",
+    "scraped_at": "2026-06-18T12:42:47.386450"
+  },
+  {
+    "id": "376e511008c0a2cc457ac814aa65360c",
+    "categorie": "Beursnieuws",
+    "titel": "Meevallende omzet voor Kroger",
+    "link": "https://www.beurs.nl/Nieuws/868267/Meevallende-omzet-voor-Kroger.aspx",
+    "intro": "Kroger heeft in het eerste kwartaal meer omzet geboekt dan verwacht, terwijl de winst juist iets lager uitviel dan voorzien. Dit bleek donderdag uit de kwartaalupdate van het Amerikaanse supermarktbedrijf.",
+    "published_at": "2026-06-18 13:46",
+    "scraped_at": "2026-06-18T12:42:47.386450"
+  },
+  {
+    "id": "528b0727fbcfcae7cd9c6d6baaea198c",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of England handhaaft rente",
+    "link": "https://www.beurs.nl/Nieuws/868263/Bank-of-England-handhaaft-rente.aspx",
+    "intro": "De Bank of England heeft zijn beleidsrente donderdag zoals verwacht op 3,75 procent gehouden. Dit bleek vanmiddag uit het Britse rentebesluit.",
+    "published_at": "2026-06-18 13:08",
+    "scraped_at": "2026-06-18T12:42:47.386450"
+  },
+  {
+    "id": "3f6f77007d9a9ee5893ec4efc9dab551",
+    "categorie": "Beursnieuws",
+    "titel": "Herstel op Wall Street verwacht",
+    "link": "https://www.beurs.nl/Nieuws/868262/Herstel-op-Wall-Street-verwacht.aspx",
+    "intro": "De Amerikaanse beurzen zullen donderdag met flinke winsten van start gaan, nadat het rentebesluit van de Federal Reserve woensdagavond nog druk zette op de financiële markten.",
+    "published_at": "2026-06-18 12:35",
+    "scraped_at": "2026-06-18T12:42:47.386450"
+  },
+  {
+    "id": "9505028742e3a809c65d5ae31829dbff",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen verdeeld na hints op renteverhoging Fed",
+    "link": "https://www.beurs.nl/Nieuws/868260/Europese-beurzen-verdeeld-na-hints-op-renteverhoging-Fed.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur verdeeld, nadat de Federal Reserve een sterkere neiging om de renteverhogingen liet blijken.",
+    "published_at": "2026-06-18 12:23",
+    "scraped_at": "2026-06-18T12:42:47.386450"
+  },
+  {
     "id": "972f2b0d39ba79e89440a6b551a67e35",
     "categorie": "Beursnieuws",
     "titel": "Aandeel Intel verder omhoog dankzij Trump",
     "link": "https://www.beurs.nl/Nieuws/868258/Aandeel-Intel-verder-omhoog-dankzij-Trump.aspx",
     "intro": "Het aandeel Intel lijkt donderdag ruim 9 procent hoger te openen, dankzij de Amerikaanse president Donald Trump.",
     "published_at": "2026-06-18 11:13",
-    "scraped_at": "2026-06-18T09:49:27.109416"
+    "scraped_at": "2026-06-18T12:42:47.386450"
   },
   {
     "id": "b2f34aaca90549e0a823e2dec4924edc",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/868245/Chippers-houden-AEX-niet-in-het-groen.aspx",
     "intro": "De AEX weet donderdag het groen nog niet te vinden, ondanks de koerswinsten voor de 'chippers'.",
     "published_at": "2026-06-18 10:28",
-    "scraped_at": "2026-06-18T09:49:27.109416"
+    "scraped_at": "2026-06-18T12:42:47.386450"
   },
   {
     "id": "d368b4ada63dd71d8c6cfbe641281bb3",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868243/Noorse-centrale-bank-handhaaft-de-rente.aspx",
     "intro": "Norges Bank heeft de rente op 4,25 procent gehouden. Dit maakte de Noorse centrale bank donderdag bekend.",
     "published_at": "2026-06-18 10:07",
-    "scraped_at": "2026-06-18T09:49:27.109416"
+    "scraped_at": "2026-06-18T12:42:47.386450"
   },
   {
     "id": "ef226d37ff857424c3f5475efaad935a",
@@ -33,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/868079/Must-read-Vergeet-de-farmasector-niet.aspx",
     "intro": "Plus: energietransitie is Europese aangelegenheid, dividendaandelen doen het echt beter, gemengde portefeuille is niet dood, online-gokgedrag loopt uit de hand en veel meer.",
     "published_at": "2026-06-18 10:00",
-    "scraped_at": "2026-06-18T09:49:27.109416"
+    "scraped_at": "2026-06-18T12:42:47.386450"
   },
   {
     "id": "02bc3338a483409aa0280328a3097922",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868237/Zwitserse-centrale-bank-houdt-rente-weer-op-nul.aspx",
     "intro": "De Zwitserse centrale bank heeft de rente opnieuw op nul gehouden. Dit bleek donderdag uit het rentebesluit van de centrale bank.",
     "published_at": "2026-06-18 09:43",
-    "scraped_at": "2026-06-18T09:49:27.109416"
-  },
-  {
-    "id": "9b62df24fef5539749fe7aa796c9777d",
-    "categorie": "Beursnieuws",
-    "titel": "Van Lanschot keert op 25 juni uit",
-    "link": "https://www.beurs.nl/Nieuws/868233/Van-Lanschot-keert-op-25-juni-uit.aspx",
-    "intro": "Van Lanschot Kempen zal op 25 juni 0,80 per aandeel uitkeren aan de aandeelhouders. Dit maakte de private bank donderdagochtend bekend.",
-    "published_at": "2026-06-18 09:18",
-    "scraped_at": "2026-06-18T09:49:27.109416"
-  },
-  {
-    "id": "c331ddca44081e2302b46633676c2d93",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/868231/AEX-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong 0,4 procent lager op 1.078,65 punten, terwijl de Midkap 0,1 procent lager noteerde.",
-    "published_at": "2026-06-18 09:11",
-    "scraped_at": "2026-06-18T09:49:27.109416"
-  },
-  {
-    "id": "f8d25e7edbf9d7e31882eb0949c55f9e",
-    "categorie": "Beursnieuws",
-    "titel": "L'Oréal neemt meerderheidsbelang in Indiase Innovist",
-    "link": "https://www.beurs.nl/Nieuws/868228/LOreal-neemt-meerderheidsbelang-in-Indiase-Innovist.aspx",
-    "intro": "Cosmeticaconcern L'Oréal heeft donderdag een overeenkomst gesloten voor de overname van een meerderheidsbelang in beautygroep Innovist, een Indiaas bedrijf met diverse merken voor persoonlijke verzorging.",
-    "published_at": "2026-06-18 08:56",
-    "scraped_at": "2026-06-18T09:49:27.109416"
-  },
-  {
-    "id": "efc542783ffb62a433d5194a9192686a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: outlookverhoging Besi verrast niet",
-    "link": "https://www.beurs.nl/Nieuws/868227/Beursblik-outlookverhoging-Besi-verrast-niet.aspx",
-    "intro": "BE Semiconductor Industries heeft de omzetverwachting vanochtend met circa 15 procent verhoogd, maar de verwachtingen waren al hooggespannen. Dit zei analist Marc Hesselink van ING donderdag in een reactie.",
-    "published_at": "2026-06-18 08:54",
-    "scraped_at": "2026-06-18T09:49:27.109416"
-  },
-  {
-    "id": "df07f9285e881dd0cd94068db7c7a1a2",
-    "categorie": "Nieuws",
-    "titel": "Net zero in 2050? Bedrijven koersen eerder af op 2090",
-    "link": "https://www.ieximpact.nl/artikel/867742/Net-zero-in-2050-Bedrijven-koersen-eerder-af-op-2090.aspx",
-    "intro": "Bedrijven praten graag over hun klimaatambities, maar de praktijk blijkt weerbarstig. Volgens Schroders zullen veel beursgenoteerde ondernemingen hun doel van netto nul uitstoot in 2050 op basis van hun huidige gedrag pas rond 2090 bereiken.",
-    "published_at": "2026-06-18 08:45",
-    "scraped_at": "2026-06-18T09:49:27.109416"
+    "scraped_at": "2026-06-18T12:42:47.386450"
   }
 ]
