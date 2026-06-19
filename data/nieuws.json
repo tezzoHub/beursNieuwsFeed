@@ -1,12 +1,75 @@
 [
   {
-    "id": "07c594481566621e71558e99032bf1a7",
+    "id": "13e2681d45516a532c71a7fa968959f9",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX nagenoeg vlak tijdens matte handel",
-    "link": "https://www.beurs.nl/Nieuws/868394/Beursupdate-AEX-nagenoeg-vlak-tijdens-matte-handel.aspx",
+    "titel": "UniCredit vergroot belang in Commerzbank tot ruim 40 procent",
+    "link": "https://www.beurs.nl/Nieuws/868409/UniCredit-vergroot-belang-in-Commerzbank-tot-ruim-40-procent.aspx",
+    "intro": "UniCredit heeft tijdens de eerste aanmeldingsperiode voor het bod op Commerzbank, nog eens 12,51 procent van de aandelen van de Duitse bank in handen gekregen. Dit bevestigde de Italiaanse bank vrijdag, op basis van een eerder bericht van persbureau Bloomberg.",
+    "published_at": "2026-06-19 16:43",
+    "scraped_at": "2026-06-19T15:22:51.318557"
+  },
+  {
+    "id": "4cea58c9253b1450a00d88c435d670ec",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/868407/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 29 juni 2026:",
+    "published_at": "2026-06-19 16:29",
+    "scraped_at": "2026-06-19T15:22:51.318557"
+  },
+  {
+    "id": "09b823c36611db75b20dec7af167bf22",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/868408/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 29 juni 2026:",
+    "published_at": "2026-06-19 16:29",
+    "scraped_at": "2026-06-19T15:22:51.318557"
+  },
+  {
+    "id": "7353027f2543f6b4a8ca47f52847b099",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/868406/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 29 juni 2026:",
+    "published_at": "2026-06-19 16:28",
+    "scraped_at": "2026-06-19T15:22:51.318557"
+  },
+  {
+    "id": "129b1b41c18108ca6718860b5e2f6825",
+    "categorie": "Beursnieuws",
+    "titel": "Ryanair nog jaren door met topman O'Leary",
+    "link": "https://www.beurs.nl/Nieuws/868402/Ryanair-nog-jaren-door-met-topman-OLeary.aspx",
+    "intro": "Ryanair heeft het contract met CEO Michael O’Leary verlengd tot 2032. Dit meldde de Ierse prijsvechter vrijdag.",
+    "published_at": "2026-06-19 15:36",
+    "scraped_at": "2026-06-19T15:22:51.318557"
+  },
+  {
+    "id": "24f1bb5122a249a2d27464f52bce7aaf",
+    "categorie": "Beursnieuws",
+    "titel": "Media: UniCredit verstevigt greep op Commerzbank",
+    "link": "https://www.beurs.nl/Nieuws/868400/Media-UniCredit-verstevigt-greep-op-Commerzbank.aspx",
+    "intro": "UniCredit heeft in de eerste aanmeldingsperiode van zijn overnamebod op Commerzbank aandeelhouders met 12,51 procent van de aandelen weten te overtuigen, waarmee de Italiaanse bank een stap dichter komt bij wat de grootste bankenovername van Europa in decennia zou worden. Dit meldde Bloomberg vrijdag.",
+    "published_at": "2026-06-19 15:18",
+    "scraped_at": "2026-06-19T15:22:51.318557"
+  },
+  {
+    "id": "fc93f10c9212196631cc59c05a1a8137",
+    "categorie": "Beursnieuws",
+    "titel": "Geen handel op Wall Street vanwege Juneteenth",
+    "link": "https://www.beurs.nl/Nieuws/868397/Geen-handel-op-Wall-Street-vanwege-Juneteenth.aspx",
+    "intro": "Wall Street houdt vrijdag de deuren gesloten vanwege Juneteenth Day. Tijdens deze dag wordt de afschaffing van de slavernij in de VS herdacht.",
+    "published_at": "2026-06-19 14:33",
+    "scraped_at": "2026-06-19T15:22:51.318557"
+  },
+  {
+    "id": "ded99d70adaab1939f31418878568dd0",
+    "categorie": "Beursnieuws",
+    "titel": "AEX nagenoeg vlak tijdens matte handel",
+    "link": "https://www.beurs.nl/Nieuws/868394/AEX-nagenoeg-vlak-tijdens-matte-handel.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdagmiddag bijna onveranderd tijdens een zeer tamme handelssessie. Wall Street houdt de deuren vandaag gesloten vanwege Juneteenth Day.",
     "published_at": "2026-06-19 13:49",
-    "scraped_at": "2026-06-19T11:55:02.322077"
+    "scraped_at": "2026-06-19T15:22:51.318557"
   },
   {
     "id": "5c361eff7b6d3c523cdd2f5bdb3928d7",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/868392/Financieringsbehoefte-Nederland-iets-lager-in-2026.aspx",
     "intro": "De financieringsbehoefte van de Nederlandse Staat ligt in 2026 iets lager dan eerder voorspeld. Dit bleek vrijdag uit een nieuwe indicatie van het agentschap van het ministerie van Financiën, DSTA.",
     "published_at": "2026-06-19 13:14",
-    "scraped_at": "2026-06-19T11:55:02.322077"
+    "scraped_at": "2026-06-19T15:22:51.318557"
   },
   {
     "id": "a75bfd95d8535e7a07175e8c9ed7e383",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868384/Weinig-beweging-op-Europese-beurzen.aspx",
     "intro": "De Europese beurzen bleven vrijdag rond het middaguur dicht bij huis, terwijl Wall Street vandaag gesloten blijft vanwege Juneteenth.",
     "published_at": "2026-06-19 12:04",
-    "scraped_at": "2026-06-19T11:55:02.322077"
-  },
-  {
-    "id": "49d0019ce60a549dc4bf90bb810349f2",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel Air France-KLM",
-    "link": "https://www.beurs.nl/Nieuws/868380/UBS-verhoogt-koersdoel-Air-France-KLM.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor Air France-KLM verhoogd van 10,00 naar 13,50 euro, maar met handhaving van het advies op Neutraal. Dit bleek uit een rapport van analist Jarrod Castle.",
-    "published_at": "2026-06-19 11:20",
-    "scraped_at": "2026-06-19T11:55:02.322077"
-  },
-  {
-    "id": "a2844a849c52a01e4c8a38d83aba44b5",
-    "categorie": "Beursnieuws",
-    "titel": "Rustige vrijdag op het Damrak",
-    "link": "https://www.beurs.nl/Nieuws/868377/Rustige-vrijdag-op-het-Damrak.aspx",
-    "intro": "De Amsterdamse beurs doet het rustig aan, en Wall Street blijft vandaag gesloten vanwege Juneteenth Day.",
-    "published_at": "2026-06-19 10:52",
-    "scraped_at": "2026-06-19T11:55:02.322077"
-  },
-  {
-    "id": "752b9a5230f59fd1ee62da809ad4e800",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel Besi fors",
-    "link": "https://www.beurs.nl/Nieuws/868372/UBS-verhoogt-koersdoel-Besi-fors.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 280 naar 370 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Francois-Xavier Bouvignies.",
-    "published_at": "2026-06-19 10:16",
-    "scraped_at": "2026-06-19T11:55:02.322077"
-  },
-  {
-    "id": "fd9e8602a4085ee9b6f8cf57cb7d5ad0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel Givaudan",
-    "link": "https://www.beurs.nl/Nieuws/868368/Beursblik-Jefferies-verhoogt-koersdoel-Givaudan.aspx",
-    "intro": "Jefferies heeft met de cijfers over het tweede kwartaal in het zicht, het koersdoel voor Givaudan verhoogd van 3.300 naar 3.700 Zwitserse frank, met handhaving van het koopadvies. Dit bleek vrijdagochtend uit een rapport van de analisten Marcus Dunford-Castro en Helena Xu.",
-    "published_at": "2026-06-19 09:29",
-    "scraped_at": "2026-06-19T11:55:02.322077"
-  },
-  {
-    "id": "f784545cf607d36eb7f5af2c63893b43",
-    "categorie": "Beursnieuws",
-    "titel": "AEX lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/868365/AEX-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,3 procent lager naar 1.078,56 punten, terwijl de Midkap vlak noteerde.",
-    "published_at": "2026-06-19 09:10",
-    "scraped_at": "2026-06-19T11:55:02.322077"
-  },
-  {
-    "id": "cb1f0295f3ea4b51acc11fe065628f2e",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse producentenprijzen stijgen door duurdere grondstoffen en energie",
-    "link": "https://www.beurs.nl/Nieuws/868362/Duitse-producentenprijzen-stijgen-door-duurdere-grondstoffen-en-energie.aspx",
-    "intro": "De producentenprijzen in Duitsland zijn in mei met gemiddeld 2,2 procent gestegen ten opzichte van een jaar eerder. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-06-19 08:45",
-    "scraped_at": "2026-06-19T11:55:02.322077"
-  },
-  {
-    "id": "c3a73dd0e9920dfed2e589914a407287",
-    "categorie": "Opinie",
-    "titel": "Podcast: Impact maken dicht bij huis vraagt om scherpe keuzes",
-    "link": "https://www.ieximpact.nl/artikel/868246/Podcast-Impact-maken-dicht-bij-huis-vraagt-om-scherpe-keuzes.aspx",
-    "intro": "Hoe maak je als belegger impact in Nederland? Die vraag staat centraal in deze IEX Impact videopodcast. Wat zijn de kansen? Waar liggen de grenzen? Podcasthost Yvonne Schreuder gaat in gesprek met Michiel Meerman van Invest-NL en Deanne Arends van Achmea Investment Management.",
-    "published_at": "2026-06-19 08:30",
-    "scraped_at": "2026-06-19T11:55:02.322077"
+    "scraped_at": "2026-06-19T15:22:51.318557"
   }
 ]
