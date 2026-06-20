@@ -1,11 +1,20 @@
 [
   {
+    "id": "a4ce4e698f8458e6db75df268f71032d",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Iran sluit Straat van Hormuz weer af",
+    "link": "https://www.beurs.nl/Nieuws/868419/Media-Iran-sluit-Straat-van-Hormuz-weer-af.aspx",
+    "intro": "Iran heeft de Straat van Hormuz weer afgesloten. Dit meldde het Iraanse persbureau Tasnim zaterdagmiddag.",
+    "published_at": "2026-06-20 15:45",
+    "scraped_at": "2026-06-20T15:19:25.094829"
+  },
+  {
     "id": "51cdfc2511b98ef95da6d03f14ece654",
     "categorie": "",
     "titel": "Vooruitblik: inkoopindices, Signify en Micron als AI-indicator",
     "link": "https://www.iex.nl/artikel/868396/Vooruitblik-inkoopindices-Signify-en-Micron-als-AI-indicator.aspx",
     "intro": "",
     "published_at": "2026-06-20 13:00",
-    "scraped_at": "2026-06-20T13:15:42.497417"
+    "scraped_at": "2026-06-20T15:19:25.094829"
   }
 ]
