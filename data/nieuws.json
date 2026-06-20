@@ -1,92 +1,11 @@
 [
   {
-    "id": "81806b2919ddacf4cbc672ce78ff6a73",
-    "categorie": "Beursnieuws",
-    "titel": "Rusland verlaagt rente verder",
-    "link": "https://www.beurs.nl/Nieuws/868418/Rusland-verlaagt-rente-verder.aspx",
-    "intro": "De centrale bank in Rusland heeft haar basisrente voor de negende keer op rij verlaagd. Dit werd vrijdag bekend.",
-    "published_at": "2026-06-19 19:19",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "9dcde3c1d2bdd9af30031a60632935a1",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten lager na rustige handelsdag",
-    "link": "https://www.beurs.nl/Nieuws/868417/Europese-beurzen-sluiten-lager-na-rustige-handelsdag.aspx",
-    "intro": "De Europese beurzen zijn vrijdag bij een gebrek aan impulsen licht lager geëindigd, met twijfels over het voorlopige vredesakkoord tussen de VS en Iran die boven de markt hingen.",
-    "published_at": "2026-06-19 18:40",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "cdb4a082e31f2c5b4310612aa57e447e",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht lager gesloten na inspiratieloze handelsdag",
-    "link": "https://www.beurs.nl/Nieuws/868410/AEX-licht-lager-gesloten-na-inspiratieloze-handelsdag.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag dicht bij huis gebleven tijdens een inspiratieloze handelssessie. Wall Street houdt de deuren vandaag gesloten vanwege Juneteenth Day in de Verenigde Staten.",
-    "published_at": "2026-06-19 17:52",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "13e2681d45516a532c71a7fa968959f9",
-    "categorie": "Beursnieuws",
-    "titel": "UniCredit vergroot belang in Commerzbank tot ruim 40 procent",
-    "link": "https://www.beurs.nl/Nieuws/868409/UniCredit-vergroot-belang-in-Commerzbank-tot-ruim-40-procent.aspx",
-    "intro": "UniCredit heeft tijdens de eerste aanmeldingsperiode voor het bod op Commerzbank, nog eens 12,51 procent van de aandelen van de Duitse bank in handen gekregen. Dit bevestigde de Italiaanse bank vrijdag, op basis van een eerder bericht van persbureau Bloomberg.",
-    "published_at": "2026-06-19 16:43",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "4cea58c9253b1450a00d88c435d670ec",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/868407/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 29 juni 2026:",
-    "published_at": "2026-06-19 16:29",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "09b823c36611db75b20dec7af167bf22",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/868408/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 29 juni 2026:",
-    "published_at": "2026-06-19 16:29",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "7353027f2543f6b4a8ca47f52847b099",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/868406/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 29 juni 2026:",
-    "published_at": "2026-06-19 16:28",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "129b1b41c18108ca6718860b5e2f6825",
-    "categorie": "Beursnieuws",
-    "titel": "Ryanair nog jaren door met topman O'Leary",
-    "link": "https://www.beurs.nl/Nieuws/868402/Ryanair-nog-jaren-door-met-topman-OLeary.aspx",
-    "intro": "Ryanair heeft het contract met CEO Michael O’Leary verlengd tot 2032. Dit meldde de Ierse prijsvechter vrijdag.",
-    "published_at": "2026-06-19 15:36",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "24f1bb5122a249a2d27464f52bce7aaf",
-    "categorie": "Beursnieuws",
-    "titel": "Media: UniCredit verstevigt greep op Commerzbank",
-    "link": "https://www.beurs.nl/Nieuws/868400/Media-UniCredit-verstevigt-greep-op-Commerzbank.aspx",
-    "intro": "UniCredit heeft in de eerste aanmeldingsperiode van zijn overnamebod op Commerzbank aandeelhouders met 12,51 procent van de aandelen weten te overtuigen, waarmee de Italiaanse bank een stap dichter komt bij wat de grootste bankenovername van Europa in decennia zou worden. Dit meldde Bloomberg vrijdag.",
-    "published_at": "2026-06-19 15:18",
-    "scraped_at": "2026-06-20T09:46:05.901444"
-  },
-  {
-    "id": "fc93f10c9212196631cc59c05a1a8137",
-    "categorie": "Beursnieuws",
-    "titel": "Geen handel op Wall Street vanwege Juneteenth",
-    "link": "https://www.beurs.nl/Nieuws/868397/Geen-handel-op-Wall-Street-vanwege-Juneteenth.aspx",
-    "intro": "Wall Street houdt vrijdag de deuren gesloten vanwege Juneteenth Day. Tijdens deze dag wordt de afschaffing van de slavernij in de VS herdacht.",
-    "published_at": "2026-06-19 14:33",
-    "scraped_at": "2026-06-20T09:46:05.901444"
+    "id": "51cdfc2511b98ef95da6d03f14ece654",
+    "categorie": "",
+    "titel": "Vooruitblik: inkoopindices, Signify en Micron als AI-indicator",
+    "link": "https://www.iex.nl/artikel/868396/Vooruitblik-inkoopindices-Signify-en-Micron-als-AI-indicator.aspx",
+    "intro": "",
+    "published_at": "2026-06-20 13:00",
+    "scraped_at": "2026-06-20T11:45:58.570314"
   }
 ]
