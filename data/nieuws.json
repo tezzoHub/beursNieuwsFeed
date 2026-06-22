@@ -1,12 +1,30 @@
 [
   {
+    "id": "81d9a6ae2879f893a9f93de1f253798e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/868587/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-06-22 22:16",
+    "scraped_at": "2026-06-22T22:04:00.443891"
+  },
+  {
+    "id": "b21dc566932966e13cbe950504d4acc0",
+    "categorie": "Beursnieuws",
+    "titel": "'Mag7'-aandelen trekken Wall Street in het rood",
+    "link": "https://www.beurs.nl/Nieuws/868586/Mag7-aandelen-trekken-Wall-Street-in-het-rood.aspx",
+    "intro": "De Amerikaanse beurzen zijn maandag overwegend lager geëindigd.",
+    "published_at": "2026-06-22 22:10",
+    "scraped_at": "2026-06-22T22:04:00.443891"
+  },
+  {
     "id": "f9f68d192d2fbc1b2e534964bcce2744",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs daalt verder",
     "link": "https://www.beurs.nl/Nieuws/868581/Olieprijs-daalt-verder.aspx",
     "intro": "De olieprijs is maandag verder gedaald, nadat een vat West Texas Intermediate vorige week al 10 procent goedkoper werd.",
     "published_at": "2026-06-22 20:54",
-    "scraped_at": "2026-06-22T19:51:32.660740"
+    "scraped_at": "2026-06-22T22:04:00.443891"
   },
   {
     "id": "e786caa8067690c5282ae184b1ed86a3",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/868578/Micron-investeert-in-Anthropic.aspx",
     "intro": "Micron Technology heeft geïnvesteerd in Anthropic en zal de AI-startup in het kader van een meerjarige overeenkomst voorzien van geheugen- en opslagproducten. Dit maakte het Amerikaanse chipbedrijf maandag bekend.",
     "published_at": "2026-06-22 20:46",
-    "scraped_at": "2026-06-22T19:51:32.660740"
+    "scraped_at": "2026-06-22T22:04:00.443891"
   },
   {
     "id": "71d8413891444a74985945a721579fc0",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/868567/Wall-Street-koerst-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden maandag overwegend lager met nog een paar uur handel te gaan.",
     "published_at": "2026-06-22 19:37",
-    "scraped_at": "2026-06-22T19:51:32.660740"
+    "scraped_at": "2026-06-22T22:04:00.443891"
   },
   {
     "id": "1ef4ce7c09408446c42d837fdd7c8c5c",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/868566/Theon-ontvangt-voor-70-miljoen-euro-aan-orders.aspx",
     "intro": "Theon heeft voor ongeveer 70 miljoen euro aan orders ontvangen, waarbij een aanzienlijk deel afkomstig is van de Duitse defensiereus Rheinmetall. Dit meldde het Griekse bedrijf met een notering in Amsterdam maandagavond.",
     "published_at": "2026-06-22 19:19",
-    "scraped_at": "2026-06-22T19:51:32.660740"
+    "scraped_at": "2026-06-22T22:04:00.443891"
   },
   {
     "id": "4b8965004ddf9ce5e6d23ad98add0d35",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/868563/Europese-beurzen-sluiten-verdeeld.aspx",
     "intro": "De Europese beurzen zijn maandag verdeeld gesloten, terwijl beleggers bleven kijken naar de voortgang van de vredesbesprekingen tussen de VS en Iran.",
     "published_at": "2026-06-22 18:43",
-    "scraped_at": "2026-06-22T19:51:32.660740"
+    "scraped_at": "2026-06-22T22:04:00.443891"
   },
   {
     "id": "a664453f2784fd4bfeb78bc3f8a77eee",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868556/Akzo-en-Besi-helpen-AEX-aan-winst.aspx",
     "intro": "De Amsterdamse beurs is maandag hoger gesloten, geholpen door de halfgeleiderbedrijven en AkzoNobel.",
     "published_at": "2026-06-22 18:01",
-    "scraped_at": "2026-06-22T19:51:32.660740"
+    "scraped_at": "2026-06-22T22:04:00.443891"
   },
   {
     "id": "bf98c8c73eb8ca1273b60df2c79df0a0",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/868546/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 30 juni 2026:",
     "published_at": "2026-06-22 16:33",
-    "scraped_at": "2026-06-22T19:51:32.660740"
+    "scraped_at": "2026-06-22T22:04:00.443891"
   },
   {
     "id": "90210155fc246937e0c624cf6ac3f234",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868547/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 30 juni 2026:",
     "published_at": "2026-06-22 16:33",
-    "scraped_at": "2026-06-22T19:51:32.660740"
-  },
-  {
-    "id": "2112653a3ef3de1179404985f135bd1a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/868545/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 30 juni 2026:",
-    "published_at": "2026-06-22 16:32",
-    "scraped_at": "2026-06-22T19:51:32.660740"
-  },
-  {
-    "id": "5010684413511a67329d159f91603adc",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen eurozone verbetert licht",
-    "link": "https://www.beurs.nl/Nieuws/868539/Consumentenvertrouwen-eurozone-verbetert-licht.aspx",
-    "intro": "Het consumentenvertrouwen in de eurozone is in juni zoals verwacht licht verbeterd, maar bleef negatief. Dit bleek maandag uit voorlopige cijfers van de Europese Commissie.",
-    "published_at": "2026-06-22 16:08",
-    "scraped_at": "2026-06-22T19:51:32.660740"
+    "scraped_at": "2026-06-22T22:04:00.443891"
   }
 ]
