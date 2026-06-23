@@ -1,12 +1,21 @@
 [
   {
+    "id": "432fc53d016fcdfbe52066f79025f18b",
+    "categorie": "Beursnieuws",
+    "titel": "AI-twijfels trekken Wall Street omlaag",
+    "link": "https://www.beurs.nl/Nieuws/868736/AI-twijfels-trekken-Wall-Street-omlaag.aspx",
+    "intro": "De Amerikaanse beurzen stonden dinsdag overwegend lager, terwijl technologieaandelen voor de tweede dag op rij daalden.",
+    "published_at": "2026-06-23 20:38",
+    "scraped_at": "2026-06-23T19:31:48.666274"
+  },
+  {
     "id": "405e7d2072a806883ccc235d4e7e34f3",
     "categorie": "Beursnieuws",
     "titel": "Twijfels over AI-industrie drukken Europese beurzen",
     "link": "https://www.beurs.nl/Nieuws/868734/Twijfels-over-AI-industrie-drukken-Europese-beurzen.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag lager gesloten, gedrukt door een wereldwijde verkoopgolf van technologie-aandelen, na twijfels over hoge waarderingen in de AI-hausse. Ook de toenemende rentevrees hielp het sentiment niet.",
     "published_at": "2026-06-23 19:20",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   },
   {
     "id": "50bdcb4694256cfab953cd1c69e9b014",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/868731/Alumexx-heeft-vertrouwen-in-tweede-jaarhelft.aspx",
     "intro": "Alumexx heeft ondanks de uitdagende marktomstandigheden vertrouwen in de tweede jaarhelft. Dit meldde de fabrikant van aluminium trappen voorafgaand aan de jaarvergadering.",
     "published_at": "2026-06-23 18:50",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   },
   {
     "id": "954f10583fca202f3b1187c743b5120c",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/868726/Techaandelen-trekken-AEX-flink-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is dinsdag flink lager geëindigd, nadat techaandelen de gebeten hond waren te midden van een wereldwijde verkoopgolf.",
     "published_at": "2026-06-23 17:52",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   },
   {
     "id": "67bc637a59e68c61af5220ae584fae68",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/868712/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 1 juli 2026:",
     "published_at": "2026-06-23 16:28",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   },
   {
     "id": "f2e6c76418a49a1b1b764b420dbf94ae",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/868713/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 1 juli 2026:",
     "published_at": "2026-06-23 16:28",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   },
   {
     "id": "decfcb790d4bf5535411edbfff6be419",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/868714/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 1 juli 2026:",
     "published_at": "2026-06-23 16:28",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   },
   {
     "id": "441bc79c03c5d94be6c4f5a7663f2544",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868711/Video-private-credit-is-geen-systeemrisico.aspx",
     "intro": "Private credit is geen systeemrisico. Dit zei Jorn Veeneman van JPMorgan Asset Management voor de camera van ABM Financial News.",
     "published_at": "2026-06-23 16:16",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   },
   {
     "id": "c0bc4e215021519f0b3179161e04ea3f",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/868710/Amerikaanse-industrie-en-dienstensector-groeien-harder.aspx",
     "intro": "De dienstensector in de Verenigde Staten is in juni iets sneller gegroeid, terwijl ook de activiteit in de Amerikaanse industrie iets verbeterde, waardoor de samengestelde index steeg. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-06-23 16:00",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   },
   {
     "id": "55677ad9938ea0b16fb2c45c00f1c7b7",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868708/BAM-aan-de-slag-met-Spoorzone-Rijen.aspx",
     "intro": "BAM gaat in opdracht van ProRail en de gemeente Gilze en Rijen aan de slag met het vernieuwen van de Spoorzone in Rijen. Dit maakte de bouwer dinsdagmiddag bekend.",
     "published_at": "2026-06-23 15:41",
-    "scraped_at": "2026-06-23T17:31:15.865276"
-  },
-  {
-    "id": "5dd338af6477deb24185f7a2e15b8c22",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: reusachtige winstsprong Micron verwacht",
-    "link": "https://www.beurs.nl/Nieuws/868703/Beursblik-reusachtige-winstsprong-Micron-verwacht.aspx",
-    "intro": "Micron Technology heeft in het derde kwartaal van het lopende boekjaar vermoedelijk een reusachtige winstgroei gerealiseerd, terwijl ook de omzet met honderden procenten zou zijn gestegen. Dit is de verwachting in aanloop naar de resultaten van het Amerikaanse halfgeleiderbedrijf dat computergeheugen en opslagproducten produceert.",
-    "published_at": "2026-06-23 15:24",
-    "scraped_at": "2026-06-23T17:31:15.865276"
+    "scraped_at": "2026-06-23T19:31:48.666274"
   }
 ]
