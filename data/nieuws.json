@@ -1,12 +1,66 @@
 [
   {
+    "id": "a21a748c0cb32b60036bbca96293ea66",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers slepen AEX mee omlaag",
+    "link": "https://www.beurs.nl/Nieuws/868687/Chippers-slepen-AEX-mee-omlaag.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag lager, gedrukt door een stevig rondje winstnemingen in de chippers.",
+    "published_at": "2026-06-23 13:44",
+    "scraped_at": "2026-06-23T12:34:12.584539"
+  },
+  {
+    "id": "383f6ae2500c19f2f0d94d328873ae32",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street signaleren flink lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/868683/Futures-Wall-Street-signaleren-flink-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen openen dinsdag naar verwachting lager, aangevoerd door opnieuw een flink lagere Nasdaq, nadat de technologieaandelen ook maandag al onder druk stonden.",
+    "published_at": "2026-06-23 12:45",
+    "scraped_at": "2026-06-23T12:34:12.584539"
+  },
+  {
+    "id": "3287ccc9dbe7e79d07329edbdac1db7a",
+    "categorie": "Beursnieuws",
+    "titel": "Video: Van Lanschot blijft positief over IT-aandelen",
+    "link": "https://www.beurs.nl/Nieuws/868682/Video-Van-Lanschot-blijft-positief-over-IT-aandelen.aspx",
+    "intro": "Van Lanschot Kempen houdt vast aan een overweging op IT-aandelen. Dit zei beleggingsstrateeg Joost van Leenders voor de camera van ABM Financial News.",
+    "published_at": "2026-06-23 12:42",
+    "scraped_at": "2026-06-23T12:34:12.584539"
+  },
+  {
+    "id": "0b5c49f12256c510d1164a0f6912a028",
+    "categorie": "Beursnieuws",
+    "titel": "Verkoopgolf techaandelen drukt Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/868675/Verkoopgolf-techaandelen-drukt-Europese-beurzen.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur lager, waarbij de verkoopgolf van techaandelen wereldwijd de stemming drukte. Ook de toenemende rentevrees helpt het sentiment niet.",
+    "published_at": "2026-06-23 12:22",
+    "scraped_at": "2026-06-23T12:34:12.584539"
+  },
+  {
+    "id": "7d03b6b7b75d7d01f708c4b4e73264c2",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of America rekent op lagere olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/868670/Bank-of-America-rekent-op-lagere-olieprijs.aspx",
+    "intro": "Bank of America heeft de ramingen voor de olieprijs naar beneden bijgesteld. Dit bleek dinsdag uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-06-23 12:06",
+    "scraped_at": "2026-06-23T12:34:12.584539"
+  },
+  {
+    "id": "cd80b4a916859ffc70dd085e6ce04f81",
+    "categorie": "Beursnieuws",
+    "titel": "Obligatie: Nederland haalt bijna 2 miljard op",
+    "link": "https://www.beurs.nl/Nieuws/868669/Obligatie-Nederland-haalt-bijna-2-miljard-op.aspx",
+    "intro": "Nederland heeft met de veiling van een langlopende lening bijna 2 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën dinsdag bekend.",
+    "published_at": "2026-06-23 12:02",
+    "scraped_at": "2026-06-23T12:34:12.584539"
+  },
+  {
     "id": "465e6524a5510dbb9aad055d9989483d",
     "categorie": "Beursnieuws",
     "titel": "Valuta: rentevrees stuwt dollar naar hoogste punt in een jaar",
     "link": "https://www.beurs.nl/Nieuws/868665/Valuta-rentevrees-stuwt-dollar-naar-hoogste-punt-in-een-jaar.aspx",
     "intro": "De dollar noteerde dinsdag rond het hoogste niveau in een jaar ten opzichte van de euro, nu beleggers een renteverhoging door de Federal Reserve na de zomer steeds meer inprijzen.",
     "published_at": "2026-06-23 11:20",
-    "scraped_at": "2026-06-23T09:51:43.228040"
+    "scraped_at": "2026-06-23T12:34:12.584539"
   },
   {
     "id": "c6d281a13d20dbd79991c9f5c4f95557",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868663/Mondiale-staalproductie-daalt-nog-slechts-fractioneel.aspx",
     "intro": "De mondiale staalproductie is in mei opnieuw gedaald, maar minder sterk dan in de maanden ervoor. Dit bleek dinsdag uit cijfers van brancheorganisatie World Steel Association.",
     "published_at": "2026-06-23 11:18",
-    "scraped_at": "2026-06-23T09:51:43.228040"
+    "scraped_at": "2026-06-23T12:34:12.584539"
   },
   {
     "id": "8ac85dd2fd70629cc531d34d7fe02fe2",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/868664/Chippers-onderuit-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagochtend duidelijk lager, waarbij er een stevig rondje winstnemingen in de 'chippers' plaatsvond.",
     "published_at": "2026-06-23 11:16",
-    "scraped_at": "2026-06-23T09:51:43.228040"
+    "scraped_at": "2026-06-23T12:34:12.584539"
   },
   {
     "id": "63f93520906cabc13564aaa54107f384",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868651/Britse-dienstensector-zakt-verder-weg.aspx",
     "intro": "De dienstensector in het Verenigd Koninkrijk is in juni sterker gekrompen, terwijl de groei in de industrie afnam. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-06-23 10:42",
-    "scraped_at": "2026-06-23T09:51:43.228040"
-  },
-  {
-    "id": "3bca45bd8e8cd9205218a5808d0a760c",
-    "categorie": "IEX",
-    "titel": "Must read: Afkoeling woningmarkt zet door",
-    "link": "https://www.iex.nl/artikel/868494/Must-read-Afkoeling-woningmarkt-zet-door.aspx",
-    "intro": "Plus: duurzame landbouw biedt rendement en impact, wat betreft de Spielerei-portefeuille, Alan Greenspan is dood, 10 jaar Brexit in cijfers en meer.",
-    "published_at": "2026-06-23 10:30",
-    "scraped_at": "2026-06-23T09:51:43.228040"
-  },
-  {
-    "id": "14ed9f534014eae9cffe80604b9d8bf9",
-    "categorie": "Beursnieuws",
-    "titel": "Europese dienstensector krimpt minder hard",
-    "link": "https://www.beurs.nl/Nieuws/868645/Europese-dienstensector-krimpt-minder-hard.aspx",
-    "intro": "De dienstensector in de eurozone is in juni minder hard gekrompen, terwijl de groei in de industrie verder afnam. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-06-23 10:10",
-    "scraped_at": "2026-06-23T09:51:43.228040"
-  },
-  {
-    "id": "6ee196727ffd86d31b8b4c900d343835",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof: dividendbeleid Signify stelt teleur",
-    "link": "https://www.beurs.nl/Nieuws/868641/Degroof-dividendbeleid-Signify-stelt-teleur.aspx",
-    "intro": "De keuze van Signify om het dividendbeleid aan te passen, is een teleurstelling. Dit stelde analist Frank Claassen van Degroof Petercam dinsdag in een rapport, naar aanleiding van de nieuwe doelstellingen die het verlichtingsbedrijf rond zijn beleggersdag presenteerde.",
-    "published_at": "2026-06-23 10:04",
-    "scraped_at": "2026-06-23T09:51:43.228040"
-  },
-  {
-    "id": "082efcfa7f7f35b54679ae21268edbb8",
-    "categorie": "Beursnieuws",
-    "titel": "Franse ondernemersvertrouwen licht omhoog",
-    "link": "https://www.beurs.nl/Nieuws/868640/Franse-ondernemersvertrouwen-licht-omhoog.aspx",
-    "intro": "Het vertrouwen van Franse ondernemers in de economie is in juni licht verbeterd. Dit bleek dinsdag uit data van statistiekbureau Insee.",
-    "published_at": "2026-06-23 09:58",
-    "scraped_at": "2026-06-23T09:51:43.228040"
-  },
-  {
-    "id": "93da3418f05f287ea12d9bdbbcc45d74",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof zet Heineken op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/868637/Degroof-zet-Heineken-op-de-kooplijst.aspx",
-    "intro": "Degroof Petercam heeft dinsdag het advies voor Heineken verhoogd van Houden naar Kopen en stelde daarbij het koersdoel opwaarts bij van 78,00 naar 84,00 euro. Dit bleek uit een rapport van analist Fernand de Boer.",
-    "published_at": "2026-06-23 09:45",
-    "scraped_at": "2026-06-23T09:51:43.228040"
-  },
-  {
-    "id": "d48ecd1e23dc001496f6b71e54c25cb1",
-    "categorie": "Beursnieuws",
-    "titel": "Krimp in Duitse dienstensector houdt aan",
-    "link": "https://www.beurs.nl/Nieuws/868636/Krimp-in-Duitse-dienstensector-houdt-aan.aspx",
-    "intro": "De dienstensector in Duitsland is in juni opnieuw gekrompen, terwijl de industrie stagneerde. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-06-23 09:37",
-    "scraped_at": "2026-06-23T09:51:43.228040"
+    "scraped_at": "2026-06-23T12:34:12.584539"
   }
 ]
