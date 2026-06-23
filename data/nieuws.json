@@ -1,92 +1,92 @@
 [
   {
+    "id": "67bc637a59e68c61af5220ae584fae68",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/868712/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 1 juli 2026:",
+    "published_at": "2026-06-23 16:28",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
+    "id": "f2e6c76418a49a1b1b764b420dbf94ae",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/868713/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 1 juli 2026:",
+    "published_at": "2026-06-23 16:28",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
+    "id": "decfcb790d4bf5535411edbfff6be419",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/868714/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 1 juli 2026:",
+    "published_at": "2026-06-23 16:28",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
+    "id": "441bc79c03c5d94be6c4f5a7663f2544",
+    "categorie": "Beursnieuws",
+    "titel": "Video: private credit is geen systeemrisico",
+    "link": "https://www.beurs.nl/Nieuws/868711/Video-private-credit-is-geen-systeemrisico.aspx",
+    "intro": "Private credit is geen systeemrisico. Dit zei Jorn Veeneman van JPMorgan Asset Management voor de camera van ABM Financial News.",
+    "published_at": "2026-06-23 16:16",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
+    "id": "c0bc4e215021519f0b3179161e04ea3f",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse industrie en dienstensector groeien harder",
+    "link": "https://www.beurs.nl/Nieuws/868710/Amerikaanse-industrie-en-dienstensector-groeien-harder.aspx",
+    "intro": "De dienstensector in de Verenigde Staten is in juni iets sneller gegroeid, terwijl ook de activiteit in de Amerikaanse industrie iets verbeterde, waardoor de samengestelde index steeg. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-06-23 16:00",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
+    "id": "55677ad9938ea0b16fb2c45c00f1c7b7",
+    "categorie": "Beursnieuws",
+    "titel": "BAM aan de slag met Spoorzone Rijen",
+    "link": "https://www.beurs.nl/Nieuws/868708/BAM-aan-de-slag-met-Spoorzone-Rijen.aspx",
+    "intro": "BAM gaat in opdracht van ProRail en de gemeente Gilze en Rijen aan de slag met het vernieuwen van de Spoorzone in Rijen. Dit maakte de bouwer dinsdagmiddag bekend.",
+    "published_at": "2026-06-23 15:41",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
+    "id": "5dd338af6477deb24185f7a2e15b8c22",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: reusachtige winstsprong Micron verwacht",
+    "link": "https://www.beurs.nl/Nieuws/868703/Beursblik-reusachtige-winstsprong-Micron-verwacht.aspx",
+    "intro": "Micron Technology heeft in het derde kwartaal van het lopende boekjaar vermoedelijk een reusachtige winstgroei gerealiseerd, terwijl ook de omzet met honderden procenten zou zijn gestegen. Dit is de verwachting in aanloop naar de resultaten van het Amerikaanse halfgeleiderbedrijf dat computergeheugen en opslagproducten produceert.",
+    "published_at": "2026-06-23 15:24",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
+    "id": "e699e45c5069ae78ccec0c30771fd136",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus brengt AI naar miljoenen partners",
+    "link": "https://www.beurs.nl/Nieuws/868699/Prosus-brengt-AI-naar-miljoenen-partners.aspx",
+    "intro": "Prosus heeft twee nieuwe kunstmatige-intelligentiediensten gelanceerd genaamd ToqanClaw en Zapia. Dit maakte de in Amsterdam genoteerde investeerder dinsdag bekend.",
+    "published_at": "2026-06-23 15:00",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
+    "id": "e5773403284298634e7d4985ac4b8b4a",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street op weg naar rode opening",
+    "link": "https://www.beurs.nl/Nieuws/868696/Wall-Street-op-weg-naar-rode-opening.aspx",
+    "intro": "De Amerikaanse beurzen openen dinsdag naar verwachting lager, aangevoerd door een opnieuw flink lagere Nasdaq, nadat de technologieaandelen ook maandag al onder druk stonden.",
+    "published_at": "2026-06-23 14:55",
+    "scraped_at": "2026-06-23T15:40:15.342681"
+  },
+  {
     "id": "a21a748c0cb32b60036bbca96293ea66",
     "categorie": "Beursnieuws",
     "titel": "Chippers slepen AEX mee omlaag",
     "link": "https://www.beurs.nl/Nieuws/868687/Chippers-slepen-AEX-mee-omlaag.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagmiddag lager, gedrukt door een stevig rondje winstnemingen in de chippers.",
     "published_at": "2026-06-23 13:44",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "383f6ae2500c19f2f0d94d328873ae32",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren flink lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/868683/Futures-Wall-Street-signaleren-flink-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen openen dinsdag naar verwachting lager, aangevoerd door opnieuw een flink lagere Nasdaq, nadat de technologieaandelen ook maandag al onder druk stonden.",
-    "published_at": "2026-06-23 12:45",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "3287ccc9dbe7e79d07329edbdac1db7a",
-    "categorie": "Beursnieuws",
-    "titel": "Video: Van Lanschot blijft positief over IT-aandelen",
-    "link": "https://www.beurs.nl/Nieuws/868682/Video-Van-Lanschot-blijft-positief-over-IT-aandelen.aspx",
-    "intro": "Van Lanschot Kempen houdt vast aan een overweging op IT-aandelen. Dit zei beleggingsstrateeg Joost van Leenders voor de camera van ABM Financial News.",
-    "published_at": "2026-06-23 12:42",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "0b5c49f12256c510d1164a0f6912a028",
-    "categorie": "Beursnieuws",
-    "titel": "Verkoopgolf techaandelen drukt Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/868675/Verkoopgolf-techaandelen-drukt-Europese-beurzen.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur lager, waarbij de verkoopgolf van techaandelen wereldwijd de stemming drukte. Ook de toenemende rentevrees helpt het sentiment niet.",
-    "published_at": "2026-06-23 12:22",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "7d03b6b7b75d7d01f708c4b4e73264c2",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America rekent op lagere olieprijs",
-    "link": "https://www.beurs.nl/Nieuws/868670/Bank-of-America-rekent-op-lagere-olieprijs.aspx",
-    "intro": "Bank of America heeft de ramingen voor de olieprijs naar beneden bijgesteld. Dit bleek dinsdag uit een analistenrapport van de Amerikaanse bank.",
-    "published_at": "2026-06-23 12:06",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "cd80b4a916859ffc70dd085e6ce04f81",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland haalt bijna 2 miljard op",
-    "link": "https://www.beurs.nl/Nieuws/868669/Obligatie-Nederland-haalt-bijna-2-miljard-op.aspx",
-    "intro": "Nederland heeft met de veiling van een langlopende lening bijna 2 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën dinsdag bekend.",
-    "published_at": "2026-06-23 12:02",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "465e6524a5510dbb9aad055d9989483d",
-    "categorie": "Beursnieuws",
-    "titel": "Valuta: rentevrees stuwt dollar naar hoogste punt in een jaar",
-    "link": "https://www.beurs.nl/Nieuws/868665/Valuta-rentevrees-stuwt-dollar-naar-hoogste-punt-in-een-jaar.aspx",
-    "intro": "De dollar noteerde dinsdag rond het hoogste niveau in een jaar ten opzichte van de euro, nu beleggers een renteverhoging door de Federal Reserve na de zomer steeds meer inprijzen.",
-    "published_at": "2026-06-23 11:20",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "c6d281a13d20dbd79991c9f5c4f95557",
-    "categorie": "Beursnieuws",
-    "titel": "Mondiale staalproductie daalt nog slechts fractioneel",
-    "link": "https://www.beurs.nl/Nieuws/868663/Mondiale-staalproductie-daalt-nog-slechts-fractioneel.aspx",
-    "intro": "De mondiale staalproductie is in mei opnieuw gedaald, maar minder sterk dan in de maanden ervoor. Dit bleek dinsdag uit cijfers van brancheorganisatie World Steel Association.",
-    "published_at": "2026-06-23 11:18",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "8ac85dd2fd70629cc531d34d7fe02fe2",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers onderuit in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/868664/Chippers-onderuit-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagochtend duidelijk lager, waarbij er een stevig rondje winstnemingen in de 'chippers' plaatsvond.",
-    "published_at": "2026-06-23 11:16",
-    "scraped_at": "2026-06-23T12:34:12.584539"
-  },
-  {
-    "id": "63f93520906cabc13564aaa54107f384",
-    "categorie": "Beursnieuws",
-    "titel": "Britse dienstensector zakt verder weg",
-    "link": "https://www.beurs.nl/Nieuws/868651/Britse-dienstensector-zakt-verder-weg.aspx",
-    "intro": "De dienstensector in het Verenigd Koninkrijk is in juni sterker gekrompen, terwijl de groei in de industrie afnam. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-06-23 10:42",
-    "scraped_at": "2026-06-23T12:34:12.584539"
+    "scraped_at": "2026-06-23T15:40:15.342681"
   }
 ]
