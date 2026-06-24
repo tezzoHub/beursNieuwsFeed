@@ -1,56 +1,92 @@
 [
   {
+    "id": "85afeaaf35631b8f4bdeb94eb41b917c",
+    "categorie": "Beursnieuws",
+    "titel": "AEX witte raaf in roodgekleurd Europa",
+    "link": "https://www.beurs.nl/Nieuws/868806/AEX-witte-raaf-in-roodgekleurd-Europa.aspx",
+    "intro": "De Amsterdamse beurs noteerde woensdag hoger, en was daarmee een witte raaf in een roodgekleurd Europa.",
+    "published_at": "2026-06-24 11:01",
+    "scraped_at": "2026-06-24T09:33:14.359858"
+  },
+  {
+    "id": "b45445c893db4a57c4cf9a9c70cb6875",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse Ifo index licht omhoog",
+    "link": "https://www.beurs.nl/Nieuws/868798/Duitse-Ifo-index-licht-omhoog.aspx",
+    "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in juni licht gestegen. Dit bleek woensdag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
+    "published_at": "2026-06-24 10:05",
+    "scraped_at": "2026-06-24T09:33:14.359858"
+  },
+  {
+    "id": "ec2f4fca9bc5c6654dfcf8ec07e0a959",
+    "categorie": "Beursnieuws",
+    "titel": "Duitsland trekt opdracht voor nieuwe oorlogsschepen in",
+    "link": "https://www.beurs.nl/Nieuws/868797/Duitsland-trekt-opdracht-voor-nieuwe-oorlogsschepen-in.aspx",
+    "intro": "De Duitse regering wil een miljardenproject voor de bouw van het grootste oorlogsschip sinds de Tweede Wereldoorlog schrappen. Dit meldde de Financial Times dinsdag op basis van ingewijden, na eerdere berichtgeving door Der Spiegel.",
+    "published_at": "2026-06-24 10:04",
+    "scraped_at": "2026-06-24T09:33:14.359858"
+  },
+  {
+    "id": "e8e0a3417d588b3f572b3eeab49b7ad6",
+    "categorie": "IEX",
+    "titel": "Must read: Taiwan en Korea domineren inmiddels de opkomende-marktenindex",
+    "link": "https://www.iex.nl/artikel/868694/Must-read-Taiwan-en-Korea-domineren-inmiddels-de-opkomende-marktenindex.aspx",
+    "intro": "Plus: 5 kansrijke Europese dividendleiders, Europese defensiegigant naar de beurs, SpaceX moet fuseren met Tesla, goud- en olieprijs dalen verder, en meer.",
+    "published_at": "2026-06-24 10:00",
+    "scraped_at": "2026-06-24T09:33:14.359858"
+  },
+  {
+    "id": "baa9823eba70ab7d121f215b5904052d",
+    "categorie": "Beursnieuws",
+    "titel": "SEGRO wijst overnamebod Prologis af",
+    "link": "https://www.beurs.nl/Nieuws/868792/SEGRO-wijst-overnamebod-Prologis-af.aspx",
+    "intro": "De Britse vastgoedonderneming SEGRO heeft een indicatief overnamebod van branchegenoot Prologis afgewezen. Dit maakte het Amerikaanse Prologis, de grootste beursgenoteerde logistieke vastgoedonderneming ter wereld, woensdagochtend bekend.",
+    "published_at": "2026-06-24 09:30",
+    "scraped_at": "2026-06-24T09:33:14.359858"
+  },
+  {
+    "id": "67768cf00b232129190888ab0783f66b",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht hoger van start gegaan, koerssprong WDP en Prosus",
+    "link": "https://www.beurs.nl/Nieuws/868788/AEX-licht-hoger-van-start-gegaan-koerssprong-WDP-en-Prosus.aspx",
+    "intro": "De AEX index koerste woensdag kort na de beursgong 0,1 procent hoger op 1.066,47 punten, terwijl de Midkap 0,1 procent prijs moest geven.",
+    "published_at": "2026-06-24 09:14",
+    "scraped_at": "2026-06-24T09:33:14.359858"
+  },
+  {
+    "id": "dc7dda297fa9a5af169dbb86b9b5fb74",
+    "categorie": "Voorbeurs",
+    "titel": "AEX houdt zich staande ondanks uitverkoop chipaandelen Wall Street",
+    "link": "https://www.beurs.nl/Artikel/868764/AEX-houdt-zich-staande-ondanks-uitverkoop-chipaandelen-Wall-Street.aspx",
+    "intro": "'Paniekbarometer' VIX loopt op en chipaandelen op Wall Street door het putje. Maar AEX lijkt vlak te openen. En verder: FedEx, Micron en Fastned.",
+    "published_at": "2026-06-24 08:20",
+    "scraped_at": "2026-06-24T09:33:14.359858"
+  },
+  {
+    "id": "30c03380aed56f32f7f8bc5dcdf35b97",
+    "categorie": "Beursnieuws",
+    "titel": "AEX maakt zich op voor een licht hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/868782/AEX-maakt-zich-op-voor-een-licht-hogere-opening.aspx",
+    "intro": "De AEX gaat woensdag naar verwachting licht hoger van start. Futures op de hoofdindex wezen ongeveer een uur voor de beursgong op een bescheiden winst van 0,2 procent.",
+    "published_at": "2026-06-24 08:10",
+    "scraped_at": "2026-06-24T09:33:14.359858"
+  },
+  {
     "id": "318b526562665335229dd879ad61bcec",
     "categorie": "Beursnieuws",
     "titel": "Aziatische beurzen tonen verdeeld beeld",
     "link": "https://www.beurs.nl/Nieuws/868776/Aziatische-beurzen-tonen-verdeeld-beeld.aspx",
     "intro": "De Aziatische beurzen toonden woensdag een verdeeld beeld, na een lager slot op Wall Street, waar opnieuw de chipgerelateerde aandelen flink onder druk stonden.",
     "published_at": "2026-06-24 07:39",
-    "scraped_at": "2026-06-24T05:52:42.735540"
+    "scraped_at": "2026-06-24T09:33:14.359858"
   },
   {
-    "id": "3e7b05c2d517c8d949b5f003c4108f55",
+    "id": "35a1fc997584e085f740001c455f8f00",
     "categorie": "Beursnieuws",
-    "titel": "Fastned haalt ruim 36 miljoen euro op",
-    "link": "https://www.beurs.nl/Nieuws/868775/Fastned-haalt-ruim-36-miljoen-euro-op.aspx",
+    "titel": "Fastned haalt ruim €36 miljoen op",
+    "link": "https://www.beurs.nl/Nieuws/868775/Fastned-haalt-ruim-36-miljoen-op.aspx",
     "intro": "Fastned heeft 36,5 miljoen euro opgehaald met een obligatie-uitgifte. Dit maakte de exploitant van snellaadstations woensdagochtend bekend.",
     "published_at": "2026-06-24 07:28",
-    "scraped_at": "2026-06-24T05:52:42.735540"
-  },
-  {
-    "id": "ca5fd12a7d7b795dafba4d02b1171fe1",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/868770/Europese-beurzen-openen-lager.aspx",
-    "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet, na de verliezen dinsdag op Wall Street.",
-    "published_at": "2026-06-24 06:51",
-    "scraped_at": "2026-06-24T05:52:42.735540"
-  },
-  {
-    "id": "d43fba13c285c3aeeeb6f5b900523bde",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/868766/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 1 juli 2026:",
-    "published_at": "2026-06-24 06:45",
-    "scraped_at": "2026-06-24T05:52:42.735540"
-  },
-  {
-    "id": "a7b1aaf86bc23bf413ab0a46b99d4103",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/868767/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 1 juli 2026:",
-    "published_at": "2026-06-24 06:45",
-    "scraped_at": "2026-06-24T05:52:42.735540"
-  },
-  {
-    "id": "1edba0010341f4018a4975c1b3ee094d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/868768/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 1 juli 2026:",
-    "published_at": "2026-06-24 06:45",
-    "scraped_at": "2026-06-24T05:52:42.735540"
+    "scraped_at": "2026-06-24T09:33:14.359858"
   }
 ]
