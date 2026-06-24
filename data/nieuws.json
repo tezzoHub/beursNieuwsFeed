@@ -1,12 +1,21 @@
 [
   {
+    "id": "a0cfa585e43a4a0a5867583c58ff7ca7",
+    "categorie": "Beursnieuws",
+    "titel": "Bod van 4,10 euro per aandeel OCI",
+    "link": "https://www.beurs.nl/Nieuws/868906/Bod-van-410-euro-per-aandeel-OCI.aspx",
+    "intro": "NNS Holding wil een bod uitbrengen van 4,10 euro per aandeel OCI. Dit bevestigde OCI woensdagavond.",
+    "published_at": "2026-06-24 23:31",
+    "scraped_at": "2026-06-24T22:43:04.764062"
+  },
+  {
     "id": "6ee8e9dea5c3f41c69c1e764e6f67470",
     "categorie": "Beursnieuws",
     "titel": "Beursupdate: AEX op Wall Street",
     "link": "https://www.beurs.nl/Nieuws/868902/Beursupdate-AEX-op-Wall-Street.aspx",
     "intro": "Op Wall Street zijn woensdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
     "published_at": "2026-06-24 22:36",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   },
   {
     "id": "33586342facd6aadf5bd0871a55f813b",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/868899/Micron-overtreft-verwachtingen-ruimschoots.aspx",
     "intro": "Micron heeft in het derde kwartaal een enorme winststijging geboekt. Dit bleek woensdagavond uit cijfers die de fabrikant van geheugenchips presenteerde.",
     "published_at": "2026-06-24 22:27",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   },
   {
     "id": "9f9f58f11959f9bb40e94ca176a46642",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/868898/Verdeeld-slot-voor-Amerikaanse-beurzen.aspx",
     "intro": "De Amerikaanse beurzen zijn woensdag verdeeld gesloten, in afwachting van de kwartaalupdate van Micron die nabeurs nog volgt.",
     "published_at": "2026-06-24 22:16",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   },
   {
     "id": "a9e1ce6e405abb1a05dfd78537b31565",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/868894/Olieprijs-terug-naar-vooroorlogs-niveau.aspx",
     "intro": "De olieprijs daalt deze week tot het niveau van voor de oorlog in het Midden-Oosten, terwijl de aandelenmarkten stabiliseerden na een verkoopgolf van AI-gerelateerde aandelen.",
     "published_at": "2026-06-24 20:58",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   },
   {
     "id": "9aa2942789ad540ed0e74aeb0e65db2e",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/868890/Adempauze-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden woensdag hoger, terwijl de koersen van AI-gerelateerde aandelen stabiliseerden, na een forse correctie in de afgelopen paar dagen. Beleggers wachten op een kwartaalupdate van Micron nabeurs.",
     "published_at": "2026-06-24 19:50",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   },
   {
     "id": "e46a846170603e87e39b8b79e721713b",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/868888/Europese-beurzen-sluiten-verdeeld.aspx",
     "intro": "De aandelenmarkten in Europa zijn woensdag verdeeld gesloten, nadat de beurzen een adempauze inlasten na twee dagen waarin door de AI-hausse sterk gestegen technologie-aandelen hun koerswinsten inleverden.",
     "published_at": "2026-06-24 18:48",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   },
   {
     "id": "96280b289db16cc6c2e2cbe901173c35",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868880/AEX-houdt-voeten-droog-in-verdeeld-Europa.aspx",
     "intro": "De Amsterdamse beurs is woensdag vlak gesloten, nadat techaandelen verder daalden, maar de verliezen beperkt hielden, terwijl onder andere Magnum Ice en Heineken er goed bij lagen, mogelijk dankzij het warme weer in Europa.",
     "published_at": "2026-06-24 17:56",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   },
   {
     "id": "a2a1aec47cb73bf6d7752ea16a285db6",
@@ -69,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/868876/Slotcall-AEX-doet-een-dagje-niks-op-een-bloedheet-Damrak.aspx",
     "intro": "De AEX sluit de dag op nagenoeg dezelfde stand als waarop ze begon. Na wat groene pogingen in de ochtend en een dip richting het slot eindigt de index vrijwel vlak op 1.065,35 punten.",
     "published_at": "2026-06-24 17:35",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   },
   {
     "id": "94c604932907e19bd37a2f39aa9f779f",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868852/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 2 juli 2026:",
     "published_at": "2026-06-24 16:44",
-    "scraped_at": "2026-06-24T21:04:11.212543"
-  },
-  {
-    "id": "32bb2e24428efc778238e60d78e63b31",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/868851/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 2 juli 2026:",
-    "published_at": "2026-06-24 16:43",
-    "scraped_at": "2026-06-24T21:04:11.212543"
+    "scraped_at": "2026-06-24T22:43:04.764062"
   }
 ]
