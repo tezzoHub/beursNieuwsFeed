@@ -1,12 +1,30 @@
 [
   {
+    "id": "a9e1ce6e405abb1a05dfd78537b31565",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs terug naar vooroorlogs niveau",
+    "link": "https://www.beurs.nl/Nieuws/868894/Olieprijs-terug-naar-vooroorlogs-niveau.aspx",
+    "intro": "De olieprijs daalt deze week tot het niveau van voor de oorlog in het Midden-Oosten, terwijl de aandelenmarkten stabiliseerden na een verkoopgolf van AI-gerelateerde aandelen.",
+    "published_at": "2026-06-24 20:58",
+    "scraped_at": "2026-06-24T19:09:02.426259"
+  },
+  {
+    "id": "9aa2942789ad540ed0e74aeb0e65db2e",
+    "categorie": "Beursnieuws",
+    "titel": "Adempauze op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/868890/Adempauze-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden woensdag hoger, terwijl de koersen van AI-gerelateerde aandelen stabiliseerden, na een forse correctie in de afgelopen paar dagen. Beleggers wachten op een kwartaalupdate van Micron nabeurs.",
+    "published_at": "2026-06-24 19:50",
+    "scraped_at": "2026-06-24T19:09:02.426259"
+  },
+  {
     "id": "e46a846170603e87e39b8b79e721713b",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten verdeeld",
     "link": "https://www.beurs.nl/Nieuws/868888/Europese-beurzen-sluiten-verdeeld.aspx",
     "intro": "De aandelenmarkten in Europa zijn woensdag verdeeld gesloten, nadat de beurzen een adempauze inlasten na twee dagen waarin door de AI-hausse sterk gestegen technologie-aandelen hun koerswinsten inleverden.",
     "published_at": "2026-06-24 18:48",
-    "scraped_at": "2026-06-24T17:23:44.281006"
+    "scraped_at": "2026-06-24T19:09:02.426259"
   },
   {
     "id": "96280b289db16cc6c2e2cbe901173c35",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/868880/AEX-houdt-voeten-droog-in-verdeeld-Europa.aspx",
     "intro": "De Amsterdamse beurs is woensdag vlak gesloten, nadat techaandelen verder daalden, maar de verliezen beperkt hielden, terwijl onder andere Magnum Ice en Heineken er goed bij lagen, mogelijk dankzij het warme weer in Europa.",
     "published_at": "2026-06-24 17:56",
-    "scraped_at": "2026-06-24T17:23:44.281006"
+    "scraped_at": "2026-06-24T19:09:02.426259"
   },
   {
     "id": "a2a1aec47cb73bf6d7752ea16a285db6",
@@ -24,7 +42,7 @@
     "link": "https://www.iex.nl/artikel/868876/Slotcall-AEX-doet-een-dagje-niks-op-een-bloedheet-Damrak.aspx",
     "intro": "De AEX sluit de dag op nagenoeg dezelfde stand als waarop ze begon. Na wat groene pogingen in de ochtend en een dip richting het slot eindigt de index vrijwel vlak op 1.065,35 punten.",
     "published_at": "2026-06-24 17:35",
-    "scraped_at": "2026-06-24T17:23:44.281006"
+    "scraped_at": "2026-06-24T19:09:02.426259"
   },
   {
     "id": "94c604932907e19bd37a2f39aa9f779f",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/868852/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 2 juli 2026:",
     "published_at": "2026-06-24 16:44",
-    "scraped_at": "2026-06-24T17:23:44.281006"
+    "scraped_at": "2026-06-24T19:09:02.426259"
   },
   {
     "id": "32bb2e24428efc778238e60d78e63b31",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/868851/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 2 juli 2026:",
     "published_at": "2026-06-24 16:43",
-    "scraped_at": "2026-06-24T17:23:44.281006"
+    "scraped_at": "2026-06-24T19:09:02.426259"
   },
   {
     "id": "03d14c3a907b5fd124be49db83bac4bc",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868850/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 2 juli 2026:",
     "published_at": "2026-06-24 16:41",
-    "scraped_at": "2026-06-24T17:23:44.281006"
+    "scraped_at": "2026-06-24T19:09:02.426259"
   },
   {
     "id": "23c1a5c240b529707f407a50ba1deb9b",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/868849/Amerikaanse-olievoorraden-blijven-fors-dalen.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week opnieuw gedaald. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-06-24 16:40",
-    "scraped_at": "2026-06-24T17:23:44.281006"
+    "scraped_at": "2026-06-24T19:09:02.426259"
   },
   {
     "id": "d20d72b6d91e4d8ee199c743356ec42e",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868848/Zuid-Koreaanse-SK-Hynix-trekt-naar-de-Nasdaq.aspx",
     "intro": "SK Hynix wil meer dan 29 miljard dollar ophalen met een notering aan de Amerikaanse Nasdaq. Dit bleek woensdag uit documenten die de Zuid-Koreaanse fabrikant van geheugenchips indiende bij de Amerikaanse beurswaakhond SEC.",
     "published_at": "2026-06-24 16:35",
-    "scraped_at": "2026-06-24T17:23:44.281006"
-  },
-  {
-    "id": "4bca031f431b1cc77d2da9d5ebc5d24a",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe woningverkopen VS omlaag",
-    "link": "https://www.beurs.nl/Nieuws/868845/Nieuwe-woningverkopen-VS-omlaag.aspx",
-    "intro": "Er zijn in mei minder nieuwe eengezinswoningen verkocht in de Verenigde Staten dan in de maand ervoor. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Handel.",
-    "published_at": "2026-06-24 16:07",
-    "scraped_at": "2026-06-24T17:23:44.281006"
-  },
-  {
-    "id": "df262df0ae48be18e4dbfefe5e941d82",
-    "categorie": "Opinie",
-    "titel": "Super El Niño dreigt voedselprijzen omhoog te jagen",
-    "link": "https://www.ieximpact.nl/artikel/868523/Super-El-Nino-dreigt-voedselprijzen-omhoog-te-jagen.aspx",
-    "intro": "Een zeer krachtige El Niño kan de wereldeconomie in 2026 hard raken. David Rees, hoofd van het Economics team bij Schroders, houdt er rekening mee dat extreem weer en meststoffenschaarste de voedselinflatie volgend jaar naar dubbele cijfers zal duwen. \"Een verdubbeling van sommige prijzen is goed mogelijk.\"",
-    "published_at": "2026-06-24 15:25",
-    "scraped_at": "2026-06-24T17:23:44.281006"
+    "scraped_at": "2026-06-24T19:09:02.426259"
   }
 ]
