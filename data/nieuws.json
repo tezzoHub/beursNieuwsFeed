@@ -1,12 +1,57 @@
 [
   {
+    "id": "7d6d6855c9020d414e99a7b9ec7c5d4d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX weet kleine plus vast te houden",
+    "link": "https://www.beurs.nl/Nieuws/868832/Beursupdate-AEX-weet-kleine-plus-vast-te-houden.aspx",
+    "intro": "De Amsterdamse beurs noteerde woensdagmiddag licht hoger, in aanloop naar de cijfers van Micron Technology vanavond nabeurs.",
+    "published_at": "2026-06-24 13:56",
+    "scraped_at": "2026-06-24T12:10:33.626820"
+  },
+  {
+    "id": "d4121c872d8d59c2a02531540b83634a",
+    "categorie": "Beursnieuws",
+    "titel": "Video: financials en basisindustrie bieden kansen maar wegblijven bij energie en consumentensectoren",
+    "link": "https://www.beurs.nl/Nieuws/868827/Video-financials-en-basisindustrie-bieden-kansen-maar-wegblijven-bij-energie-en-consumentensectoren.aspx",
+    "intro": "Van Lanschot Kempen is niet alleen overwogen in IT-aandelen, maar ook in financials. Dit zei beleggingsstrateeg Joost van Leenders van Van Lanschot Kempen voor de camera van ABM Financial News.",
+    "published_at": "2026-06-24 13:41",
+    "scraped_at": "2026-06-24T12:10:33.626820"
+  },
+  {
+    "id": "709e18b5fd366cbd99092eb6cf478537",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street verdeeld in aanloop naar cijfers Micron",
+    "link": "https://www.beurs.nl/Nieuws/868825/Futures-Wall-Street-verdeeld-in-aanloop-naar-cijfers-Micron.aspx",
+    "intro": "De Amerikaanse beurzen openen woensdag naar verwachting verdeeld. In aanloop naar een kwartaalupdate van Micron, laten techaandelen vermoedelijk een herstel zien van de koersdalingen van dinsdag.",
+    "published_at": "2026-06-24 12:58",
+    "scraped_at": "2026-06-24T12:10:33.626820"
+  },
+  {
+    "id": "a9b95461de00e56594dcee579e5d0920",
+    "categorie": "Beursnieuws",
+    "titel": "Defensie onderuit in verdeeld Europa",
+    "link": "https://www.beurs.nl/Nieuws/868819/Defensie-onderuit-in-verdeeld-Europa.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden woensdag rond het middaguur verdeeld en lijken een adempauze in te lassen na de recente koersdalingen.",
+    "published_at": "2026-06-24 12:15",
+    "scraped_at": "2026-06-24T12:10:33.626820"
+  },
+  {
+    "id": "3022aaa050f2c26ca0c964a5e627b786",
+    "categorie": "Beursnieuws",
+    "titel": "Citi: tegenvaller voor Rheinmetall geen verrassing",
+    "link": "https://www.beurs.nl/Nieuws/868816/Citi-tegenvaller-voor-Rheinmetall-geen-verrassing.aspx",
+    "intro": "Het aandeel Rheinmetall staat woensdag stevig onder druk, na berichtgeving dat Berlijn een order voor zes F126-fregatten intrekt.",
+    "published_at": "2026-06-24 12:02",
+    "scraped_at": "2026-06-24T12:10:33.626820"
+  },
+  {
     "id": "85afeaaf35631b8f4bdeb94eb41b917c",
     "categorie": "Beursnieuws",
     "titel": "AEX witte raaf in roodgekleurd Europa",
     "link": "https://www.beurs.nl/Nieuws/868806/AEX-witte-raaf-in-roodgekleurd-Europa.aspx",
     "intro": "De Amsterdamse beurs noteerde woensdag hoger, en was daarmee een witte raaf in een roodgekleurd Europa.",
     "published_at": "2026-06-24 11:01",
-    "scraped_at": "2026-06-24T09:33:14.359858"
+    "scraped_at": "2026-06-24T12:10:33.626820"
   },
   {
     "id": "b45445c893db4a57c4cf9a9c70cb6875",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/868798/Duitse-Ifo-index-licht-omhoog.aspx",
     "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in juni licht gestegen. Dit bleek woensdag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
     "published_at": "2026-06-24 10:05",
-    "scraped_at": "2026-06-24T09:33:14.359858"
+    "scraped_at": "2026-06-24T12:10:33.626820"
   },
   {
     "id": "ec2f4fca9bc5c6654dfcf8ec07e0a959",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/868797/Duitsland-trekt-opdracht-voor-nieuwe-oorlogsschepen-in.aspx",
     "intro": "De Duitse regering wil een miljardenproject voor de bouw van het grootste oorlogsschip sinds de Tweede Wereldoorlog schrappen. Dit meldde de Financial Times dinsdag op basis van ingewijden, na eerdere berichtgeving door Der Spiegel.",
     "published_at": "2026-06-24 10:04",
-    "scraped_at": "2026-06-24T09:33:14.359858"
+    "scraped_at": "2026-06-24T12:10:33.626820"
   },
   {
     "id": "e8e0a3417d588b3f572b3eeab49b7ad6",
@@ -33,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/868694/Must-read-Taiwan-en-Korea-domineren-inmiddels-de-opkomende-marktenindex.aspx",
     "intro": "Plus: 5 kansrijke Europese dividendleiders, Europese defensiegigant naar de beurs, SpaceX moet fuseren met Tesla, goud- en olieprijs dalen verder, en meer.",
     "published_at": "2026-06-24 10:00",
-    "scraped_at": "2026-06-24T09:33:14.359858"
+    "scraped_at": "2026-06-24T12:10:33.626820"
   },
   {
     "id": "baa9823eba70ab7d121f215b5904052d",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868792/SEGRO-wijst-overnamebod-Prologis-af.aspx",
     "intro": "De Britse vastgoedonderneming SEGRO heeft een indicatief overnamebod van branchegenoot Prologis afgewezen. Dit maakte het Amerikaanse Prologis, de grootste beursgenoteerde logistieke vastgoedonderneming ter wereld, woensdagochtend bekend.",
     "published_at": "2026-06-24 09:30",
-    "scraped_at": "2026-06-24T09:33:14.359858"
-  },
-  {
-    "id": "67768cf00b232129190888ab0783f66b",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht hoger van start gegaan, koerssprong WDP en Prosus",
-    "link": "https://www.beurs.nl/Nieuws/868788/AEX-licht-hoger-van-start-gegaan-koerssprong-WDP-en-Prosus.aspx",
-    "intro": "De AEX index koerste woensdag kort na de beursgong 0,1 procent hoger op 1.066,47 punten, terwijl de Midkap 0,1 procent prijs moest geven.",
-    "published_at": "2026-06-24 09:14",
-    "scraped_at": "2026-06-24T09:33:14.359858"
-  },
-  {
-    "id": "dc7dda297fa9a5af169dbb86b9b5fb74",
-    "categorie": "Voorbeurs",
-    "titel": "AEX houdt zich staande ondanks uitverkoop chipaandelen Wall Street",
-    "link": "https://www.beurs.nl/Artikel/868764/AEX-houdt-zich-staande-ondanks-uitverkoop-chipaandelen-Wall-Street.aspx",
-    "intro": "'Paniekbarometer' VIX loopt op en chipaandelen op Wall Street door het putje. Maar AEX lijkt vlak te openen. En verder: FedEx, Micron en Fastned.",
-    "published_at": "2026-06-24 08:20",
-    "scraped_at": "2026-06-24T09:33:14.359858"
-  },
-  {
-    "id": "30c03380aed56f32f7f8bc5dcdf35b97",
-    "categorie": "Beursnieuws",
-    "titel": "AEX maakt zich op voor een licht hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/868782/AEX-maakt-zich-op-voor-een-licht-hogere-opening.aspx",
-    "intro": "De AEX gaat woensdag naar verwachting licht hoger van start. Futures op de hoofdindex wezen ongeveer een uur voor de beursgong op een bescheiden winst van 0,2 procent.",
-    "published_at": "2026-06-24 08:10",
-    "scraped_at": "2026-06-24T09:33:14.359858"
-  },
-  {
-    "id": "318b526562665335229dd879ad61bcec",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen tonen verdeeld beeld",
-    "link": "https://www.beurs.nl/Nieuws/868776/Aziatische-beurzen-tonen-verdeeld-beeld.aspx",
-    "intro": "De Aziatische beurzen toonden woensdag een verdeeld beeld, na een lager slot op Wall Street, waar opnieuw de chipgerelateerde aandelen flink onder druk stonden.",
-    "published_at": "2026-06-24 07:39",
-    "scraped_at": "2026-06-24T09:33:14.359858"
-  },
-  {
-    "id": "35a1fc997584e085f740001c455f8f00",
-    "categorie": "Beursnieuws",
-    "titel": "Fastned haalt ruim €36 miljoen op",
-    "link": "https://www.beurs.nl/Nieuws/868775/Fastned-haalt-ruim-36-miljoen-op.aspx",
-    "intro": "Fastned heeft 36,5 miljoen euro opgehaald met een obligatie-uitgifte. Dit maakte de exploitant van snellaadstations woensdagochtend bekend.",
-    "published_at": "2026-06-24 07:28",
-    "scraped_at": "2026-06-24T09:33:14.359858"
+    "scraped_at": "2026-06-24T12:10:33.626820"
   }
 ]
