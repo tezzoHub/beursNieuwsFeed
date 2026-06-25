@@ -1,12 +1,57 @@
 [
   {
+    "id": "27aa012aeda2bf82d4c7f977424ad3fc",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street verdeeld ondanks koerssprong Micron",
+    "link": "https://www.beurs.nl/Nieuws/869052/Wall-Street-verdeeld-ondanks-koerssprong-Micron.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag verdeeld met nog een paar uur handel te gaan. De cijfers van Micron werden positief ontvangen maar de Magnificent Seven-aandelen stonden opnieuw onder druk.",
+    "published_at": "2026-06-25 19:46",
+    "scraped_at": "2026-06-25T17:56:05.436086"
+  },
+  {
+    "id": "fb51144ca85983bd1b7c8a521595b030",
+    "categorie": "Beursnieuws",
+    "titel": "Obligatie Air France-KLM brengt 500 miljoen euro op",
+    "link": "https://www.beurs.nl/Nieuws/869051/Obligatie-Air-France-KLM-brengt-500-miljoen-euro-op.aspx",
+    "intro": "Air France-KLM heeft 500 miljoen euro opgehaald met de uitgifte van een vijfjarige ongedekte obligatielening. Dit meldde het Frans-Nederlandse luchtvaartbedrijf donderdagavond.",
+    "published_at": "2026-06-25 18:51",
+    "scraped_at": "2026-06-25T17:56:05.436086"
+  },
+  {
+    "id": "b4da28f0cddc4830ac6a620ebcf450ae",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurs naar record na juridisch succes Bayer",
+    "link": "https://www.beurs.nl/Nieuws/869049/Europese-beurs-naar-record-na-juridisch-succes-Bayer.aspx",
+    "intro": "De Europese beurzen zijn donderdag hoger geëindigd, nadat de zorgen over de omvang van investeringen in AI-infrastructuur en oververhitte waarderingen afnamen dankzij de uitstekende resultaten van Micron Technology. Juridisch succes voor Bayer gaf de beurs in Frankfurt en de Stoxx 600 een extra impuls.",
+    "published_at": "2026-06-25 18:41",
+    "scraped_at": "2026-06-25T17:56:05.436086"
+  },
+  {
+    "id": "bd6dc1a9c35b62089044dcbfa605c4c4",
+    "categorie": "Beursnieuws",
+    "titel": "Flow Traders meldt lagere volaliteit na vredesakkoord",
+    "link": "https://www.beurs.nl/Nieuws/869046/Flow-Traders-meldt-lagere-volaliteit-na-vredesakkoord.aspx",
+    "intro": "Flow Traders heeft in het bijna afgelopen tweede kwartaal van dit jaar in de meeste regio's en beleggingscategorieën de handelsvolumes zien stijgen, maar de dynamiek week wel af van het voorgaande kwartaal. Dat meldde het handelshuis aan analisten, voor de radiostilte die voorafgaat aan de kwartaalresultaten op 31 juli.",
+    "published_at": "2026-06-25 18:20",
+    "scraped_at": "2026-06-25T17:56:05.436086"
+  },
+  {
+    "id": "d8e5d289d82caa5f1334110748126deb",
+    "categorie": "Beursnieuws",
+    "titel": "AEX beperkt winst",
+    "link": "https://www.beurs.nl/Nieuws/869043/AEX-beperkt-winst.aspx",
+    "intro": "De Amsterdamse beurs is donderdag hoger gesloten, maar de 'chippers' beperkten hun winsten van eerder op de dag, nadat de Nasdaq na een half uur handel in negatief terrein zakte, na een sterke start in reactie op de resultaten van Micron.",
+    "published_at": "2026-06-25 17:49",
+    "scraped_at": "2026-06-25T17:56:05.436086"
+  },
+  {
     "id": "bc04958c2287ac727c1cd7b3adafd7f1",
     "categorie": "Beursnieuws",
     "titel": "Bayer krijgt gelijk van Hooggerechtshof VS in Roundup-zaak",
     "link": "https://www.beurs.nl/Nieuws/869038/Bayer-krijgt-gelijk-van-Hooggerechtshof-VS-in-Roundup-zaak.aspx",
     "intro": "Het Amerikaanse Hooggerechtshof heeft donderdag Bayer in het gelijk gesteld in de slepende zaak waarin het Duitse chemie- en farmabedrijf werd verweten dat het consumenten niet had gewaarschuwd dat de onkruidverdelger Roundup kanker veroorzaakt.",
     "published_at": "2026-06-25 16:52",
-    "scraped_at": "2026-06-25T15:33:45.569888"
+    "scraped_at": "2026-06-25T17:56:05.436086"
   },
   {
     "id": "81be760219734c919a0684db57711be2",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/869032/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 3 juli 2026:",
     "published_at": "2026-06-25 16:25",
-    "scraped_at": "2026-06-25T15:33:45.569888"
+    "scraped_at": "2026-06-25T17:56:05.436086"
   },
   {
     "id": "5d38186f8a7dd7f7d1a73f94cb395eaf",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/869030/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 3 juli 2026:",
     "published_at": "2026-06-25 16:24",
-    "scraped_at": "2026-06-25T15:33:45.569888"
+    "scraped_at": "2026-06-25T17:56:05.436086"
   },
   {
     "id": "0c67bc93c308952e4eaa01b586ba79f3",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869031/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 3 juli 2026:",
     "published_at": "2026-06-25 16:24",
-    "scraped_at": "2026-06-25T15:33:45.569888"
+    "scraped_at": "2026-06-25T17:56:05.436086"
   },
   {
     "id": "9c71b22e4d1b2cce82883b8daca9f238",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869028/Adobe-koopt-AI-beeldbedrijf-Topaz-Labs.aspx",
     "intro": "Adobe koopt Topaz Labs, dat gespecialiseerd is in AI-modellen voor video- en beeldverbetering. Dit maakte het Amerikaanse bedrijf donderdag bekend.",
     "published_at": "2026-06-25 15:57",
-    "scraped_at": "2026-06-25T15:33:45.569888"
-  },
-  {
-    "id": "099e9009e503c82be1fbc885bbea9b1b",
-    "categorie": "Beursnieuws",
-    "titel": "Apple verhoogt prijzen vanwege dure geheugenchips",
-    "link": "https://www.beurs.nl/Nieuws/869025/Apple-verhoogt-prijzen-vanwege-dure-geheugenchips.aspx",
-    "intro": "Apple heeft de prijzen van zijn MacBooks en iPads flink verhoogd, een week nadat CEO Tim Cook waarschuwde dat de sterke prijsstijgingen van geheugen- en opslagchips het bedrijf tot deze stap zouden dwingen. Onder meer The Wall Street Journal en Bloomberg schreven dit donderdag.",
-    "published_at": "2026-06-25 15:31",
-    "scraped_at": "2026-06-25T15:33:45.569888"
-  },
-  {
-    "id": "a77a67689bcf3c1e29e405d2ebf50ef7",
-    "categorie": "Beursnieuws",
-    "titel": "Update: groei Amerikaanse economie opwaarts bijgesteld",
-    "link": "https://www.beurs.nl/Nieuws/869019/Update-groei-Amerikaanse-economie-opwaarts-bijgesteld.aspx",
-    "intro": "Het groeicijfer voor de Amerikaanse economie in het eerste kwartaal is opwaarts bijgesteld, vooral omdat er minder werd ingevoerd dan eerder was becijferd. Dit bleek donderdag uit de derde raming van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-06-25 15:04",
-    "scraped_at": "2026-06-25T15:33:45.569888"
-  },
-  {
-    "id": "339b5480f96e9ee7d196f8d07a7bc7f2",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street gaat hoger openen",
-    "link": "https://www.beurs.nl/Nieuws/869022/Wall-Street-gaat-hoger-openen.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een beduidend hogere opening tegemoet, nadat Micron de zorgen over een AI-bubbel wegnam en nieuwe inflatiecijfers niet verrasten.",
-    "published_at": "2026-06-25 15:02",
-    "scraped_at": "2026-06-25T15:33:45.569888"
-  },
-  {
-    "id": "b0d1f2f09f96af1acbd8ab30b9bec870",
-    "categorie": "Beursnieuws",
-    "titel": "Minder nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/869013/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-06-25 14:45",
-    "scraped_at": "2026-06-25T15:33:45.569888"
-  },
-  {
-    "id": "1401b41d1fd9c711859d1a6e75038fd7",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse PCE-inflatie gestegen",
-    "link": "https://www.beurs.nl/Nieuws/869012/Amerikaanse-PCE-inflatie-gestegen.aspx",
-    "intro": "Het inflatiecijfer in het PCE-rapport is in mei zoals verwacht gestegen tot meer dan 4 procent. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-06-25 14:44",
-    "scraped_at": "2026-06-25T15:33:45.569888"
+    "scraped_at": "2026-06-25T17:56:05.436086"
   }
 ]
