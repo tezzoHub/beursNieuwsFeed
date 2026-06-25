@@ -1,30 +1,84 @@
 [
   {
+    "id": "792b81f90f05b75598ba68613328e272",
+    "categorie": "IEX",
+    "titel": "Stem op uw favoriete AEX-aandeel voor juli",
+    "link": "https://www.iex.nl/artikel/868985/Stem-op-uw-favoriete-AEX-aandeel-voor-juli.aspx",
+    "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van juli? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
+    "published_at": "2026-06-25 12:15",
+    "scraped_at": "2026-06-25T10:22:35.327672"
+  },
+  {
+    "id": "e94566e3aadb56792d8aaf20670cc9a5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Degroof Petercam verlaagt koersdoel Signify",
+    "link": "https://www.beurs.nl/Nieuws/868976/Beursblik-Degroof-Petercam-verlaagt-koersdoel-Signify.aspx",
+    "intro": "Degroof Petercam heeft het koersdoel voor Signify verlaagd van 17,00 naar 16,00 euro en handhaafde het Reduceren advies. Dit bleek donderdag uit een analistenrapport na de beleggersdag van de verlichtingsspecialist.",
+    "published_at": "2026-06-25 11:51",
+    "scraped_at": "2026-06-25T10:22:35.327672"
+  },
+  {
+    "id": "515581d825e582b9530378ab33af74fb",
+    "categorie": "Beursnieuws",
+    "titel": "Kepler verhoogt koersdoel ASML",
+    "link": "https://www.beurs.nl/Nieuws/868973/Kepler-verhoogt-koersdoel-ASML.aspx",
+    "intro": "Kepler Cheuvreux heeft donderdag het koersdoel voor ASML verhoogd van 1.460 naar 1.830 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Ruben Devos.",
+    "published_at": "2026-06-25 11:22",
+    "scraped_at": "2026-06-25T10:22:35.327672"
+  },
+  {
+    "id": "a239e8e4209a0f1a77ed36042ff61eb4",
+    "categorie": "Beursnieuws",
+    "titel": "Micron zet AEX in het groen",
+    "link": "https://www.beurs.nl/Nieuws/868967/Micron-zet-AEX-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs noteerde donderdagochtend in het groen, met een koerswinst van 0,7 procent voor de AEX.",
+    "published_at": "2026-06-25 10:39",
+    "scraped_at": "2026-06-25T10:22:35.327672"
+  },
+  {
+    "id": "fd2e1d7f62bd995d8a928f692b31b4e1",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof verlaagt koersdoel OCI",
+    "link": "https://www.beurs.nl/Nieuws/868952/Degroof-verlaagt-koersdoel-OCI.aspx",
+    "intro": "Degroof Petercam heeft donderdag het koersdoel voor OCI verlaagd van 4,30 naar 4,10 euro met handhaving van het Houden advies. Dit bleek uit een rapport van analist Frank Claassen.",
+    "published_at": "2026-06-25 09:39",
+    "scraped_at": "2026-06-25T10:22:35.327672"
+  },
+  {
+    "id": "c58025fc1f6b4c462d55fe0fcbdc65e6",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger van start gegaan onder aanvoering van de chippers",
+    "link": "https://www.beurs.nl/Nieuws/868948/AEX-hoger-van-start-gegaan-onder-aanvoering-van-de-chippers.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong een half procent hoger op 1.071,27 punten, terwijl de Midkap enkele tienden van een procent prijs moest geven.",
+    "published_at": "2026-06-25 09:14",
+    "scraped_at": "2026-06-25T10:22:35.327672"
+  },
+  {
     "id": "3ef317a0f0cea3b1ac61caf4536610c2",
     "categorie": "Beursnieuws",
     "titel": "Frans consumentenvertrouwen trekt aan",
     "link": "https://www.beurs.nl/Nieuws/868945/Frans-consumentenvertrouwen-trekt-aan.aspx",
     "intro": "Het consumentenvertrouwen in Frankrijk is in juni gestegen. Dit bleek donderdag uit cijfers van Insee, het Franse bureau voor de statistiek.",
     "published_at": "2026-06-25 08:53",
-    "scraped_at": "2026-06-25T07:02:20.741752"
+    "scraped_at": "2026-06-25T10:22:35.327672"
   },
   {
-    "id": "acdf894a2acb1902c411b2f3cb5467bd",
+    "id": "f039485dc294f0a79dba6b03180da175",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verlaagt koersdoelen voor aanbieders van logistiek vastgoed",
-    "link": "https://www.beurs.nl/Nieuws/868939/Beursblik-Deutsche-Bank-verlaagt-koersdoelen-voor-aanbieders-van-logistiek-vastgoed.aspx",
+    "titel": "Deutsche Bank verlaagt koersdoelen voor aanbieders van logistiek vastgoed",
+    "link": "https://www.beurs.nl/Nieuws/868939/Deutsche-Bank-verlaagt-koersdoelen-voor-aanbieders-van-logistiek-vastgoed.aspx",
     "intro": "Deutsche Bank heeft de koersdoelen voor aanbieders van logistiek vastgoed verlaagd. Dit bleek donderdag uit een rapport van de Duitse bank.",
     "published_at": "2026-06-25 08:38",
-    "scraped_at": "2026-06-25T07:02:20.741752"
+    "scraped_at": "2026-06-25T10:22:35.327672"
   },
   {
-    "id": "b93fdcc6dfdc920944c447892e6f09d8",
+    "id": "6191314c946d2457f28c084dbdb187fb",
     "categorie": "Beursnieuws",
-    "titel": "easyJet wijst ook nieuw overnamebod af",
-    "link": "https://www.beurs.nl/Nieuws/868938/easyJet-wijst-ook-nieuw-overnamebod-af.aspx",
+    "titel": "EasyJet wijst ook nieuw overnamebod af",
+    "link": "https://www.beurs.nl/Nieuws/868938/EasyJet-wijst-ook-nieuw-overnamebod-af.aspx",
     "intro": "easyJet heeft ook het nieuwste overnamebod van Castlelake afgewezen. Dit maakte de prijsvechter donderdagochtend bekend.",
     "published_at": "2026-06-25 08:24",
-    "scraped_at": "2026-06-25T07:02:20.741752"
+    "scraped_at": "2026-06-25T10:22:35.327672"
   },
   {
     "id": "8083e480176adddd082ad1ff99c76a46",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/868937/Duits-consumentenvertrouwen-verbetert-opnieuw.aspx",
     "intro": "Het consumentenvertrouwen in Duitsland is opnieuw iets hersteld, maar blijft negatief. Dit bleek donderdag uit nieuwe metingen van onderzoeksbureau GfK, dat een maand vooruit meet.",
     "published_at": "2026-06-25 08:22",
-    "scraped_at": "2026-06-25T07:02:20.741752"
-  },
-  {
-    "id": "2a253edc72d8cd794717245418a7a15f",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start in het groen na sterke cijfers Micron",
-    "link": "https://www.beurs.nl/Nieuws/868934/AEX-start-in-het-groen-na-sterke-cijfers-Micron.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag naar verwachting hoger van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,4 procent.",
-    "published_at": "2026-06-25 08:04",
-    "scraped_at": "2026-06-25T07:02:20.741752"
-  },
-  {
-    "id": "b7d446aa25e8b4babcb6ae0f9ecf7a20",
-    "categorie": "Beursnieuws",
-    "titel": "Beurzen in Tokio en Seoel scherp in de lift na cijfers Micron",
-    "link": "https://www.beurs.nl/Nieuws/868932/Beurzen-in-Tokio-en-Seoel-scherp-in-de-lift-na-cijfers-Micron.aspx",
-    "intro": "De Aziatische beurzen noteerden donderdagochtend verdeeld, maar met extreme uitschieters, na de vrijgave van cijfers door Micron woensdagavond op Wall Street.",
-    "published_at": "2026-06-25 07:29",
-    "scraped_at": "2026-06-25T07:02:20.741752"
-  },
-  {
-    "id": "2b13d8cd3b402ca33072719f5c1b56cf",
-    "categorie": "Beursnieuws",
-    "titel": "Prosus investeert in Franse healthtechbedrijf Alan",
-    "link": "https://www.beurs.nl/Nieuws/868928/Prosus-investeert-in-Franse-healthtechbedrijf-Alan.aspx",
-    "intro": "Prosus investeert in het Europese healthtechbedrijf Alan. Dit maakte de investeerder met een notering aan het Damrak woensdagavond bekend.",
-    "published_at": "2026-06-25 07:08",
-    "scraped_at": "2026-06-25T07:02:20.741752"
-  },
-  {
-    "id": "1dcb16cb10fd0cd8cd1b193d1287d5c5",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen voorzichtig uit de strartblokken",
-    "link": "https://www.beurs.nl/Nieuws/868927/Europese-beurzen-voorzichtig-uit-de-strartblokken.aspx",
-    "intro": "De Europese beurzen gaan donderdag een terughoudende opening tegemoet, ondanks meevallende resultaten van Micron.",
-    "published_at": "2026-06-25 06:50",
-    "scraped_at": "2026-06-25T07:02:20.741752"
-  },
-  {
-    "id": "27b15621e35a3262551dddd1b1a65eb3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/868922/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 2 juli 2026:",
-    "published_at": "2026-06-25 06:38",
-    "scraped_at": "2026-06-25T07:02:20.741752"
-  },
-  {
-    "id": "57b44a4945fb81cfff41f6fc070f7bba",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/868923/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 2 juli 2026:",
-    "published_at": "2026-06-25 06:38",
-    "scraped_at": "2026-06-25T07:02:20.741752"
+    "scraped_at": "2026-06-25T10:22:35.327672"
   }
 ]
