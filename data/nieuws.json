@@ -1,12 +1,48 @@
 [
   {
+    "id": "3f3cc2d0d5c16a2d5fc63a49a84838ef",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/869197/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-06-26 22:22",
+    "scraped_at": "2026-06-26T21:01:19.112858"
+  },
+  {
+    "id": "16837e93e70667564b0aa754580276ee",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street voorzichtig het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/869196/Wall-Street-voorzichtig-het-weekend-in.aspx",
+    "intro": "De Amerikaanse beurzen zijn vrijdag uiteindelijk dicht bij huis gebleven en eindigden daarmee een negatieve week die vooral in het teken stond van winstnemingen in technologie gerelateerde aandelen en verder dalende olieprijzen.",
+    "published_at": "2026-06-26 22:17",
+    "scraped_at": "2026-06-26T21:01:19.112858"
+  },
+  {
+    "id": "f3a3f7629d7d9026d17e67c36d83687a",
+    "categorie": "Beursnieuws",
+    "titel": "Tankers ontvluchten Hormuz, olieprijs zakt verder weg",
+    "link": "https://www.beurs.nl/Nieuws/869195/Tankers-ontvluchten-Hormuz-olieprijs-zakt-verder-weg.aspx",
+    "intro": "De olieprijzen zijn vrijdag flink lager gesloten. Ondanks een aanval op een schip weten steeds meer tankers de strategisch cruciale Straat van Hormuz te verlaten, wat de zorgen over de bevoorrading vermindert.",
+    "published_at": "2026-06-26 21:02",
+    "scraped_at": "2026-06-26T21:01:19.112858"
+  },
+  {
+    "id": "3ccdca84763e329f56ae3170c41e3be9",
+    "categorie": "Nieuws",
+    "titel": "Wie belegt er nog in olie?",
+    "link": "https://www.ieximpact.nl/artikel/868810/Wie-belegt-er-nog-in-olie.aspx",
+    "intro": "Wereldwijd houden institutionele beleggers volgens de Duitse ngo  Urgewald nog altijd duizenden miljarden dollars aan in fossiele bedrijven. Voor Nederlandse pensioenfondsen ligt de nadruk steeds meer op afbouw en transparantie. Vooral PFZW neemt het afscheid van olie serieus.",
+    "published_at": "2026-06-26 21:00",
+    "scraped_at": "2026-06-26T21:01:19.112858"
+  },
+  {
     "id": "b40e106e5d4a835e86acd4e864d15364",
     "categorie": "Beursnieuws",
     "titel": "Wall Street weet openingsverliezen weg te werken",
     "link": "https://www.beurs.nl/Nieuws/869194/Wall-Street-weet-openingsverliezen-weg-te-werken.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag licht hoger en wisten daarmee de eerdere verliezen weg te werken.",
     "published_at": "2026-06-26 19:52",
-    "scraped_at": "2026-06-26T19:12:39.626589"
+    "scraped_at": "2026-06-26T21:01:19.112858"
   },
   {
     "id": "48b618451f0ae2a9f265ff6b44dd320e",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/869188/Europese-beurzen-lager-het-weekend-in.aspx",
     "intro": "De Europese beurzen zijn vrijdag lager gesloten en eindigden daarmee een week die vooral in het teken stond van winstnemingen in technologie gerelateerde aandelen en verder dalende olieprijzen.",
     "published_at": "2026-06-26 18:43",
-    "scraped_at": "2026-06-26T19:12:39.626589"
+    "scraped_at": "2026-06-26T21:01:19.112858"
   },
   {
     "id": "9c666e2216b71887204fd561a7c4725f",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/869185/Trump-dreigt-Europa-met-nieuwe-importheffingen.aspx",
     "intro": "Elk land dat een belasting wil heffen op de digitale diensten van Amerikaanse bedrijven, zal \"onmiddellijk\" te maken krijgen met een invoerheffing van 100 procent op alle goederen die naar de Verenigde Staten worden verzonden. Hiermee dreigde de Amerikaanse president Donald Trump vrijdag op Truth Social.",
     "published_at": "2026-06-26 18:39",
-    "scraped_at": "2026-06-26T19:12:39.626589"
+    "scraped_at": "2026-06-26T21:01:19.112858"
   },
   {
     "id": "553dbd7c9e6fd1b532d92c3657bd695a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/869182/Fed-bestuurder-Kashkari-verwacht-een-renteverhoging-dit-jaar.aspx",
     "intro": "Neel Kashkari, president van de Federal Reserve van Minneapolis, verwacht dit jaar één renteverhoging. Dat zei hij vrijdag tijdens een paneldiscussie op het Aspen Ideas Festival, ruim een week nadat de Fed besloot de rente ongewijzigd te laten.",
     "published_at": "2026-06-26 18:23",
-    "scraped_at": "2026-06-26T19:12:39.626589"
+    "scraped_at": "2026-06-26T21:01:19.112858"
   },
   {
     "id": "570828c468575eacbe9946c0426cbce4",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869178/Techmalaise-zorgt-ook-voor-code-rood-op-Damrak.aspx",
     "intro": "De Amsterdamse beurs is vrijdag lager geëindigd, waarbij halfgeleideraandelen de gebeten hond waren te midden van een wereldwijde techmalaise.",
     "published_at": "2026-06-26 17:52",
-    "scraped_at": "2026-06-26T19:12:39.626589"
+    "scraped_at": "2026-06-26T21:01:19.112858"
   },
   {
     "id": "4c3ac0d4f7d8167ae12984aafb1ae23e",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869171/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 juli 2026:",
     "published_at": "2026-06-26 16:31",
-    "scraped_at": "2026-06-26T19:12:39.626589"
-  },
-  {
-    "id": "46246da88a6ffc5c1a1729cd27cce1ef",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/869173/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 6 juli 2026:",
-    "published_at": "2026-06-26 16:31",
-    "scraped_at": "2026-06-26T19:12:39.626589"
-  },
-  {
-    "id": "312c319cbbf637128cfe91ea11104def",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/869172/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 6 juli 2026:",
-    "published_at": "2026-06-26 16:31",
-    "scraped_at": "2026-06-26T19:12:39.626589"
-  },
-  {
-    "id": "52fc848f59a8e80793dfb42f811a10bb",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen VS laat herstel zien",
-    "link": "https://www.beurs.nl/Nieuws/869169/Consumentenvertrouwen-VS-laat-herstel-zien.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in juni wat hersteld na de forse daling in mei. Dit bleek vrijdag uit de definitieve cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-06-26 16:09",
-    "scraped_at": "2026-06-26T19:12:39.626589"
-  },
-  {
-    "id": "37a66c76ecb6cb071bfd03e5af7952ff",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht rode opening",
-    "link": "https://www.beurs.nl/Nieuws/869152/Wall-Street-wacht-rode-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een overwegend rode opening tegemoet, terwijl de aandelen van halfgeleiderfabrikanten flink terrein verliezen.",
-    "published_at": "2026-06-26 14:53",
-    "scraped_at": "2026-06-26T19:12:39.626589"
+    "scraped_at": "2026-06-26T21:01:19.112858"
   }
 ]
