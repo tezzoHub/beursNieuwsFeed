@@ -1,56 +1,92 @@
 [
   {
-    "id": "6f0908c9ea231138895e632a40a85cbf",
+    "id": "2577cf18dcc53ee74796d878299953a3",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Citi zet KPN op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/869079/Beursblik-Citi-zet-KPN-op-de-kooplijst.aspx",
-    "intro": "Citi Research heeft vrijdag het advies voor KPN verhoogd van Neutraal naar Kopen en het koersdoel van 4,60 naar 5,00 euro. Dit bleek uit een analistenrapport van de Amerikaanse bank.",
-    "published_at": "2026-06-26 07:40",
-    "scraped_at": "2026-06-26T05:56:52.713159"
+    "titel": "Media: Volkswagen bestudeert enorme ontslagronde",
+    "link": "https://www.beurs.nl/Nieuws/869117/Media-Volkswagen-bestudeert-enorme-ontslagronde.aspx",
+    "intro": "Volkswagen onderzoekt de opties om een grootschalige ontslagronde door te voeren. Dit schreef Manager Magazin vrijdag op basis van een presentatie die de CEO eerder deze week hield voor het management board.",
+    "published_at": "2026-06-26 10:52",
+    "scraped_at": "2026-06-26T09:39:54.968803"
   },
   {
-    "id": "422077ed4d862d2132136ee95f8e29b6",
+    "id": "b5c4e51b527e7bf6508f46641802bacc",
     "categorie": "Beursnieuws",
-    "titel": "Techaandelen in de uitverkoop in Tokio en Seoel",
-    "link": "https://www.beurs.nl/Nieuws/869078/Techaandelen-in-de-uitverkoop-in-Tokio-en-Seoel.aspx",
-    "intro": "De Aziatische beurzen koersten vrijdagochtend stevig lager.",
-    "published_at": "2026-06-26 07:27",
-    "scraped_at": "2026-06-26T05:56:52.713159"
+    "titel": "Rode koersen op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/869113/Rode-koersen-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagochtend in het rood, met als grootste dalers de 'chippers'.",
+    "published_at": "2026-06-26 10:31",
+    "scraped_at": "2026-06-26T09:39:54.968803"
   },
   {
-    "id": "25d8ec150749962807663c7adb7cf419",
+    "id": "8063956b32b6b0ccd365126b1a7077e2",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het rood",
-    "link": "https://www.beurs.nl/Nieuws/869076/Europese-beurzen-openen-in-het-rood.aspx",
-    "intro": "De aandelenmarkten in Europa gaan vrijdag een rode opening tegemoet, nadat de Stoxx Europe 600 donderdag nog zijn hoogste slotstand ooit bereikte. Juridisch succes voor Bayer gaf de pan-Europese beurs gisteren een extra impuls. Chipaandelen in Europa profiteerden van de sterke cijfers van Micron, maar sloten wel onder hun hoogste stand van de dag.",
-    "published_at": "2026-06-26 07:01",
-    "scraped_at": "2026-06-26T05:56:52.713159"
+    "titel": "KBC Securities verhoogt advies Besi fors",
+    "link": "https://www.beurs.nl/Nieuws/869103/KBC-Securities-verhoogt-advies-Besi-fors.aspx",
+    "intro": "KBC Securities heeft het koersdoel voor BE Semiconductor Industries verhoogd van 150 naar 225 euro, maar verlaagde het advies van Houden naar Reduceren. Dit bleek vrijdag uit een rapport van analist Thibault Leneeuw.",
+    "published_at": "2026-06-26 09:23",
+    "scraped_at": "2026-06-26T09:39:54.968803"
   },
   {
-    "id": "9f709d98d955c58bc83d9ea6e1aafabe",
+    "id": "0952b05cf0c2ce979c7231636add5e97",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/869072/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 3 juli 2026:",
-    "published_at": "2026-06-26 06:48",
-    "scraped_at": "2026-06-26T05:56:52.713159"
+    "titel": "Beursupdate: AEX lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/869098/Beursupdate-AEX-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,5 procent lager op 1.062,43 punten, terwijl de Midkap 0,2 procent prijs moest geven.",
+    "published_at": "2026-06-26 09:09",
+    "scraped_at": "2026-06-26T09:39:54.968803"
   },
   {
-    "id": "98ac05a942493dfb86e8526e6085c51a",
+    "id": "fcb896bc1034f9ff184701c7783ffabc",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/869073/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 3 juli 2026:",
-    "published_at": "2026-06-26 06:48",
-    "scraped_at": "2026-06-26T05:56:52.713159"
+    "titel": "Media: IPO van OpenAI mogelijk vertraagd",
+    "link": "https://www.beurs.nl/Nieuws/869096/Media-IPO-van-OpenAI-mogelijk-vertraagd.aspx",
+    "intro": "De beursgang van OpenAI zal mogelijk pas in 2027 plaatsvinden. Dit schreef The New York Times vrijdag op basis van bronnen.",
+    "published_at": "2026-06-26 08:52",
+    "scraped_at": "2026-06-26T09:39:54.968803"
   },
   {
-    "id": "aad45d3687d3ce27797be8d62e06db4d",
+    "id": "d6c7f121b5324def51fceb56e57b2031",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/869074/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 3 juli 2026:",
-    "published_at": "2026-06-26 06:48",
-    "scraped_at": "2026-06-26T05:56:52.713159"
+    "titel": "Betaalbedrijf Wise groeit stevig door",
+    "link": "https://www.beurs.nl/Nieuws/869095/Betaalbedrijf-Wise-groeit-stevig-door.aspx",
+    "intro": "Wise heeft in het boekjaar 2026 sterke resultaten behaald en herhaalde de outlook voor de langetermijn. Dit bleek vrijdag uit cijfers van het Britse betaalbedrijf en sectorgenoot van het Amsterdamse Adyen.",
+    "published_at": "2026-06-26 08:38",
+    "scraped_at": "2026-06-26T09:39:54.968803"
+  },
+  {
+    "id": "bc32c09013c238b2cf971909dadd0e2c",
+    "categorie": "Voorbeurs",
+    "titel": "Code rood, ook op de beurs",
+    "link": "https://www.beurs.nl/Artikel/869093/Code-rood-ook-op-de-beurs.aspx",
+    "intro": "Openingsidicatie: -0,8%. 'Micron-tax' voor Apple maakt beleggers huiverig, hele Magnificent 7 onderuit, koersdreun SK Hynix en Softbank.",
+    "published_at": "2026-06-26 08:30",
+    "scraped_at": "2026-06-26T09:39:54.968803"
+  },
+  {
+    "id": "e8cd3791c31cd9794582bd4013def1cf",
+    "categorie": "Beursnieuws",
+    "titel": "Stevige groei voor Ease2pay",
+    "link": "https://www.beurs.nl/Nieuws/869092/Stevige-groei-voor-Ease2pay.aspx",
+    "intro": "Ease2pay verwacht over de eerste helft van 2026 een groei van 70 procent in het aantal transacties ten opzichte van dezelfde periode in 2025, exclusief de Miele appWash. Dit maakte het betaalplatform bekend in aanloop naar de jaarvergadering later vandaag.",
+    "published_at": "2026-06-26 08:12",
+    "scraped_at": "2026-06-26T09:39:54.968803"
+  },
+  {
+    "id": "640bf5d33a1252e34325bed74395fb54",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start lager na draai AI-sentiment",
+    "link": "https://www.beurs.nl/Nieuws/869087/AEX-start-lager-na-draai-AI-sentiment.aspx",
+    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,7 procent.",
+    "published_at": "2026-06-26 08:04",
+    "scraped_at": "2026-06-26T09:39:54.968803"
+  },
+  {
+    "id": "5e722d50a34f9b0478a76ce40ccfc796",
+    "categorie": "Beursnieuws",
+    "titel": "Green Earth rondt haalbaarheidsonderzoek DRC succesvol af",
+    "link": "https://www.beurs.nl/Nieuws/869083/Green-Earth-rondt-haalbaarheidsonderzoek-DRC-succesvol-af.aspx",
+    "intro": "Green Earth Group heeft het haalbaarheidsonderzoek voor zijn landherstelproject in de Democratische Republiek Congo succesvol afgerond. De eerste operationele fase van het project gaat officieel van start. Dit meldde het in Amsterdam genoteerde bedrijf vrijdag voorbeurs.",
+    "published_at": "2026-06-26 07:54",
+    "scraped_at": "2026-06-26T09:39:54.968803"
   }
 ]
