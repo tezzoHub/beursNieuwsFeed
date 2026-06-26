@@ -1,12 +1,48 @@
 [
   {
+    "id": "48b618451f0ae2a9f265ff6b44dd320e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen lager het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/869188/Europese-beurzen-lager-het-weekend-in.aspx",
+    "intro": "De Europese beurzen zijn vrijdag lager gesloten en eindigden daarmee een week die vooral in het teken stond van winstnemingen in technologie gerelateerde aandelen en verder dalende olieprijzen.",
+    "published_at": "2026-06-26 18:43",
+    "scraped_at": "2026-06-26T17:12:15.503842"
+  },
+  {
+    "id": "9c666e2216b71887204fd561a7c4725f",
+    "categorie": "Beursnieuws",
+    "titel": "Trump dreigt Europa met nieuwe importheffingen",
+    "link": "https://www.beurs.nl/Nieuws/869185/Trump-dreigt-Europa-met-nieuwe-importheffingen.aspx",
+    "intro": "Elk land dat een belasting wil heffen op de digitale diensten van Amerikaanse bedrijven, zal \"onmiddellijk\" te maken krijgen met een invoerheffing van 100 procent op alle goederen die naar de Verenigde Staten worden verzonden. Hiermee dreigde de Amerikaanse president Donald Trump vrijdag op Truth Social.",
+    "published_at": "2026-06-26 18:39",
+    "scraped_at": "2026-06-26T17:12:15.503842"
+  },
+  {
+    "id": "553dbd7c9e6fd1b532d92c3657bd695a",
+    "categorie": "Beursnieuws",
+    "titel": "Fed-bestuurder Kashkari verwacht één renteverhoging dit jaar",
+    "link": "https://www.beurs.nl/Nieuws/869182/Fed-bestuurder-Kashkari-verwacht-een-renteverhoging-dit-jaar.aspx",
+    "intro": "Neel Kashkari, president van de Federal Reserve van Minneapolis, verwacht dit jaar één renteverhoging. Dat zei hij vrijdag tijdens een paneldiscussie op het Aspen Ideas Festival, ruim een week nadat de Fed besloot de rente ongewijzigd te laten.",
+    "published_at": "2026-06-26 18:23",
+    "scraped_at": "2026-06-26T17:12:15.503842"
+  },
+  {
+    "id": "570828c468575eacbe9946c0426cbce4",
+    "categorie": "Beursnieuws",
+    "titel": "Techmalaise zorgt ook voor 'code rood' op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/869178/Techmalaise-zorgt-ook-voor-code-rood-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag lager geëindigd, waarbij halfgeleideraandelen de gebeten hond waren te midden van een wereldwijde techmalaise.",
+    "published_at": "2026-06-26 17:52",
+    "scraped_at": "2026-06-26T17:12:15.503842"
+  },
+  {
     "id": "4c3ac0d4f7d8167ae12984aafb1ae23e",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/869171/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 juli 2026:",
     "published_at": "2026-06-26 16:31",
-    "scraped_at": "2026-06-26T15:06:36.655123"
+    "scraped_at": "2026-06-26T17:12:15.503842"
   },
   {
     "id": "46246da88a6ffc5c1a1729cd27cce1ef",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/869173/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 6 juli 2026:",
     "published_at": "2026-06-26 16:31",
-    "scraped_at": "2026-06-26T15:06:36.655123"
+    "scraped_at": "2026-06-26T17:12:15.503842"
   },
   {
     "id": "312c319cbbf637128cfe91ea11104def",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/869172/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 6 juli 2026:",
     "published_at": "2026-06-26 16:31",
-    "scraped_at": "2026-06-26T15:06:36.655123"
+    "scraped_at": "2026-06-26T17:12:15.503842"
   },
   {
     "id": "52fc848f59a8e80793dfb42f811a10bb",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/869169/Consumentenvertrouwen-VS-laat-herstel-zien.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in juni wat hersteld na de forse daling in mei. Dit bleek vrijdag uit de definitieve cijfers van de Universiteit van Michigan.",
     "published_at": "2026-06-26 16:09",
-    "scraped_at": "2026-06-26T15:06:36.655123"
+    "scraped_at": "2026-06-26T17:12:15.503842"
   },
   {
     "id": "37a66c76ecb6cb071bfd03e5af7952ff",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869152/Wall-Street-wacht-rode-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een overwegend rode opening tegemoet, terwijl de aandelen van halfgeleiderfabrikanten flink terrein verliezen.",
     "published_at": "2026-06-26 14:53",
-    "scraped_at": "2026-06-26T15:06:36.655123"
+    "scraped_at": "2026-06-26T17:12:15.503842"
   },
   {
     "id": "255f5284ef214c0ca2176e304a55e2dd",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869144/Rode-koersen-op-het-Damrak.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdagmiddag, in lijn met de code rood van het KNMI, op verlies.",
     "published_at": "2026-06-26 13:00",
-    "scraped_at": "2026-06-26T15:06:36.655123"
-  },
-  {
-    "id": "b18c7ab2f0d16178a74be3201acf34e8",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorzien lagere opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/869140/Futures-voorzien-lagere-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een rode opening tegemoet, terwijl de aandelen van halfgeleiderfabrikanten flink terrein verliezen.",
-    "published_at": "2026-06-26 12:54",
-    "scraped_at": "2026-06-26T15:06:36.655123"
-  },
-  {
-    "id": "54d67f39922e5459806aa914a29873e3",
-    "categorie": "Beursnieuws",
-    "titel": "EU start onderzoek naar concurrentieverstorend gedrag Sanofi",
-    "link": "https://www.beurs.nl/Nieuws/869135/EU-start-onderzoek-naar-concurrentieverstorend-gedrag-Sanofi.aspx",
-    "intro": "De Europese Commissie heeft een formeel mededingingsonderzoek ingesteld om na te gaan of de Franse farmareus Sanofi de Europese mededingingsregels heeft geschonden. Dit meldde de toezichthouder van de Europese Unie vrijdag.",
-    "published_at": "2026-06-26 12:32",
-    "scraped_at": "2026-06-26T15:06:36.655123"
-  },
-  {
-    "id": "f68eb8c7bcc098034f314d710d6e4f59",
-    "categorie": "Beursnieuws",
-    "titel": "Italië start onderzoek naar Microsoft",
-    "link": "https://www.beurs.nl/Nieuws/869133/Italie-start-onderzoek-naar-Microsoft.aspx",
-    "intro": "De Italiaanse mededingingsautoriteiten zijn een onderzoek gestart naar Microsoft. Dit werd vrijdag door de toezichthouder gemeld.",
-    "published_at": "2026-06-26 12:30",
-    "scraped_at": "2026-06-26T15:06:36.655123"
-  },
-  {
-    "id": "260ed73d070c39c1f199fe7c36bb9d74",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lager rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/869126/Europese-beurzen-lager-rond-middaguur.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond lunchtijd lager, waarbij techaandelen opnieuw de gebeten hond waren, na de verkoopgolf die donderdagavond al op Wall Street werd ingezet.",
-    "published_at": "2026-06-26 12:05",
-    "scraped_at": "2026-06-26T15:06:36.655123"
+    "scraped_at": "2026-06-26T17:12:15.503842"
   }
 ]
