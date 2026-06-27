@@ -1,92 +1,29 @@
 [
   {
-    "id": "3f3cc2d0d5c16a2d5fc63a49a84838ef",
+    "id": "3b05c65ca166733b176b62b4ed5adc1e",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/869197/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-06-26 22:22",
-    "scraped_at": "2026-06-27T08:19:07.197209"
+    "titel": "Media: Apple wil geheugenchips kopen van CXMT",
+    "link": "https://www.beurs.nl/Nieuws/869209/Media-Apple-wil-geheugenchips-kopen-van-CXMT.aspx",
+    "intro": "Apple lobbyt bij de Amerikaanse regering om toestemming te krijgen om geheugenchips te kopen van het Chinese CXMT, dat in de Verenigde Staten op een zwarte lijst staat vanwege vermeende banden met het Chinese leger. Dit meldde de Financial Times zaterdag op basis van verschillende bronnen.",
+    "published_at": "2026-06-27 12:05",
+    "scraped_at": "2026-06-27T10:30:22.797480"
   },
   {
-    "id": "16837e93e70667564b0aa754580276ee",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street voorzichtig het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/869196/Wall-Street-voorzichtig-het-weekend-in.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag uiteindelijk dicht bij huis gebleven en eindigden daarmee een negatieve week die vooral in het teken stond van winstnemingen in technologie gerelateerde aandelen en verder dalende olieprijzen.",
-    "published_at": "2026-06-26 22:17",
-    "scraped_at": "2026-06-27T08:19:07.197209"
+    "id": "72e6e341ac8690a4cc76c62789058052",
+    "categorie": "",
+    "titel": "Vooruitblik: rondje bodemvissen met Prosus en Nike",
+    "link": "https://www.iex.nl/artikel/869143/Vooruitblik-rondje-bodemvissen-met-Prosus-en-Nike.aspx",
+    "intro": "",
+    "published_at": "2026-06-27 11:20",
+    "scraped_at": "2026-06-27T10:30:22.797480"
   },
   {
-    "id": "f3a3f7629d7d9026d17e67c36d83687a",
+    "id": "ebe27f6640983b1070acc24b32aec8bf",
     "categorie": "Beursnieuws",
-    "titel": "Tankers ontvluchten Hormuz, olieprijs zakt verder weg",
-    "link": "https://www.beurs.nl/Nieuws/869195/Tankers-ontvluchten-Hormuz-olieprijs-zakt-verder-weg.aspx",
-    "intro": "De olieprijzen zijn vrijdag flink lager gesloten. Ondanks een aanval op een schip weten steeds meer tankers de strategisch cruciale Straat van Hormuz te verlaten, wat de zorgen over de bevoorrading vermindert.",
-    "published_at": "2026-06-26 21:02",
-    "scraped_at": "2026-06-27T08:19:07.197209"
-  },
-  {
-    "id": "3ccdca84763e329f56ae3170c41e3be9",
-    "categorie": "Nieuws",
-    "titel": "Wie belegt er nog in olie?",
-    "link": "https://www.ieximpact.nl/artikel/868810/Wie-belegt-er-nog-in-olie.aspx",
-    "intro": "Wereldwijd houden institutionele beleggers volgens de Duitse ngo  Urgewald nog altijd duizenden miljarden dollars aan in fossiele bedrijven. Voor Nederlandse pensioenfondsen ligt de nadruk steeds meer op afbouw en transparantie. Vooral PFZW neemt het afscheid van olie serieus.",
-    "published_at": "2026-06-26 21:00",
-    "scraped_at": "2026-06-27T08:19:07.197209"
-  },
-  {
-    "id": "b40e106e5d4a835e86acd4e864d15364",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street weet openingsverliezen weg te werken",
-    "link": "https://www.beurs.nl/Nieuws/869194/Wall-Street-weet-openingsverliezen-weg-te-werken.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag licht hoger en wisten daarmee de eerdere verliezen weg te werken.",
-    "published_at": "2026-06-26 19:52",
-    "scraped_at": "2026-06-27T08:19:07.197209"
-  },
-  {
-    "id": "48b618451f0ae2a9f265ff6b44dd320e",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lager het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/869188/Europese-beurzen-lager-het-weekend-in.aspx",
-    "intro": "De Europese beurzen zijn vrijdag lager gesloten en eindigden daarmee een week die vooral in het teken stond van winstnemingen in technologie gerelateerde aandelen en verder dalende olieprijzen.",
-    "published_at": "2026-06-26 18:43",
-    "scraped_at": "2026-06-27T08:19:07.197209"
-  },
-  {
-    "id": "9c666e2216b71887204fd561a7c4725f",
-    "categorie": "Beursnieuws",
-    "titel": "Trump dreigt Europa met nieuwe importheffingen",
-    "link": "https://www.beurs.nl/Nieuws/869185/Trump-dreigt-Europa-met-nieuwe-importheffingen.aspx",
-    "intro": "Elk land dat een belasting wil heffen op de digitale diensten van Amerikaanse bedrijven, zal \"onmiddellijk\" te maken krijgen met een invoerheffing van 100 procent op alle goederen die naar de Verenigde Staten worden verzonden. Hiermee dreigde de Amerikaanse president Donald Trump vrijdag op Truth Social.",
-    "published_at": "2026-06-26 18:39",
-    "scraped_at": "2026-06-27T08:19:07.197209"
-  },
-  {
-    "id": "553dbd7c9e6fd1b532d92c3657bd695a",
-    "categorie": "Beursnieuws",
-    "titel": "Fed-bestuurder Kashkari verwacht één renteverhoging dit jaar",
-    "link": "https://www.beurs.nl/Nieuws/869182/Fed-bestuurder-Kashkari-verwacht-een-renteverhoging-dit-jaar.aspx",
-    "intro": "Neel Kashkari, president van de Federal Reserve van Minneapolis, verwacht dit jaar één renteverhoging. Dat zei hij vrijdag tijdens een paneldiscussie op het Aspen Ideas Festival, ruim een week nadat de Fed besloot de rente ongewijzigd te laten.",
-    "published_at": "2026-06-26 18:23",
-    "scraped_at": "2026-06-27T08:19:07.197209"
-  },
-  {
-    "id": "570828c468575eacbe9946c0426cbce4",
-    "categorie": "Beursnieuws",
-    "titel": "Techmalaise zorgt ook voor 'code rood' op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/869178/Techmalaise-zorgt-ook-voor-code-rood-op-Damrak.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag lager geëindigd, waarbij halfgeleideraandelen de gebeten hond waren te midden van een wereldwijde techmalaise.",
-    "published_at": "2026-06-26 17:52",
-    "scraped_at": "2026-06-27T08:19:07.197209"
-  },
-  {
-    "id": "4c3ac0d4f7d8167ae12984aafb1ae23e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/869171/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 6 juli 2026:",
-    "published_at": "2026-06-26 16:31",
-    "scraped_at": "2026-06-27T08:19:07.197209"
+    "titel": "Olieprijs veert op na Amerikaanse aanval op Iran",
+    "link": "https://www.beurs.nl/Nieuws/869204/Olieprijs-veert-op-na-Amerikaanse-aanval-op-Iran.aspx",
+    "intro": "De olieprijs veerde vrijdagavond laat op, nadat bekend werd dat de Verenigde Staten een militaire aanval op Iran hebben uitgevoerd, als vergelding voor een Iraanse aanval op een Singaporese tanker in de Straat van Hormuz een dag eerder.",
+    "published_at": "2026-06-27 10:30",
+    "scraped_at": "2026-06-27T10:30:22.797480"
   }
 ]
