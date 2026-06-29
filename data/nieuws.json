@@ -1,38 +1,92 @@
 [
   {
-    "id": "08ceae658c4fbb15b0ca4d0bdabe29ab",
+    "id": "fbdfbc7e2870fbc7ef8bdf34c2ce5f35",
     "categorie": "Beursnieuws",
-    "titel": "BIS: AI-hausse kan uitmonden in langdurige investeringscrisis",
-    "link": "https://www.beurs.nl/Nieuws/869225/BIS-AI-hausse-kan-uitmonden-in-langdurige-investeringscrisis.aspx",
-    "intro": "De enorme uitgaven van grote techbedrijven op het gebied van kunstmatige intelligentie kunnen leiden tot een schadelijke en langdurige \"investeringscrisis\", met gevolgen voor de wereldeconomie. Hiervoor waarschuwde de Bank voor Internationale Betalingen zondag in zijn jaarverslag.",
-    "published_at": "2026-06-28 19:52",
-    "scraped_at": "2026-06-29T04:07:24.496944"
+    "titel": "Kleine winst voor AEX",
+    "link": "https://www.beurs.nl/Nieuws/869290/Kleine-winst-voor-AEX.aspx",
+    "intro": "Prosus beloond voor cijfers, maar Alfen afgestraft na vertrek CFO.",
+    "published_at": "2026-06-29 10:54",
+    "scraped_at": "2026-06-29T09:13:05.417191"
   },
   {
-    "id": "79f1589583abe422aa9e0401327932ed",
+    "id": "885891d38cf89d13f8adf2760f7d65c9",
     "categorie": "Beursnieuws",
-    "titel": "Focus op banenrapporten en Sintra in verkorte Amerikaanse beursweek",
-    "link": "https://www.beurs.nl/Nieuws/869220/Focus-op-banenrapporten-en-Sintra-in-verkorte-Amerikaanse-beursweek.aspx",
-    "intro": "Het is komende week opnieuw een verkorte beursweek in de Verenigde Staten, net als twee weken geleden, ditmaal vanwege Onafhankelijkheidsdag op zaterdag 4 juli, waardoor Wall Street op vrijdag al de deuren gesloten houdt.",
-    "published_at": "2026-06-28 14:11",
-    "scraped_at": "2026-06-29T04:07:24.496944"
+    "titel": "SBM Offshore ondertekent nieuw contract met Chinese partners",
+    "link": "https://www.beurs.nl/Nieuws/869285/SBM-Offshore-ondertekent-nieuw-contract-met-Chinese-partners.aspx",
+    "intro": "SBM Offshore heeft maandag een nieuw contract ondertekend met twee dochterondernemingen van het Chinese CSSC, voor de bouw van de zevende generieke Multi Purpose Floater. Dit meldde de oliedienstverlener maandagochtend.",
+    "published_at": "2026-06-29 10:27",
+    "scraped_at": "2026-06-29T09:13:05.417191"
   },
   {
-    "id": "d32047556483fe414f72a8fe1ef60f3e",
+    "id": "5fe5fda6c9899c7248f84f500cca219e",
     "categorie": "Beursnieuws",
-    "titel": "VS en Iran stellen broze wapenstilstand op de proef",
-    "link": "https://www.beurs.nl/Nieuws/869217/VS-en-Iran-stellen-broze-wapenstilstand-op-de-proef.aspx",
-    "intro": "De Verenigde Staten en Iran hebben zaterdag in de Perzische Golf opnieuw aanvallen uitgevoerd, waarmee het broze staakt-het-vuren flink op de proef wordt gesteld.",
-    "published_at": "2026-06-28 11:43",
-    "scraped_at": "2026-06-29T04:07:24.496944"
+    "titel": "CVC neemt Irca over van Advent",
+    "link": "https://www.beurs.nl/Nieuws/869281/CVC-neemt-Irca-over-van-Advent.aspx",
+    "intro": "CVC heeft een akkoord bereikt over de overname van Irca van Advent. Dit meldde CVC maandagochtend.",
+    "published_at": "2026-06-29 10:15",
+    "scraped_at": "2026-06-29T09:13:05.417191"
   },
   {
-    "id": "b5af4cf1ac1bd96f948ed819ce96823b",
+    "id": "bc5f829850900e1544d0435283c4b83f",
     "categorie": "Beursnieuws",
-    "titel": "Chippers afgestraft in volatiele beursweek op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/869215/Chippers-afgestraft-in-volatiele-beursweek-op-Damrak.aspx",
-    "intro": "Terwijl Europa afgelopen week gebukt ging onder een hittegolf, met een weeralarm tot gevolg, was het op de beurs in Amsterdam ook 'code rood' voor de halfgeleideraandelen. Aandelen in de consumentengoederen industrie profiteerden juist van het weer, met winsten van ongeveer 6 tot 7,5 procent voor Heineken, Unilever en Magnum Ice.",
-    "published_at": "2026-06-28 11:28",
-    "scraped_at": "2026-06-29T04:07:24.496944"
+    "titel": "Spaanse inflatie blijft stabiel",
+    "link": "https://www.beurs.nl/Nieuws/869276/Spaanse-inflatie-blijft-stabiel.aspx",
+    "intro": "De Spaanse inflatie is ook in juni stabiel gebleven. Dit bleek maandag uit voorlopige cijfers van het Spaanse statistiekbureau Ine.",
+    "published_at": "2026-06-29 10:03",
+    "scraped_at": "2026-06-29T09:13:05.417191"
+  },
+  {
+    "id": "9a9bd3164cb7620a120b0b210d4717df",
+    "categorie": "IEX",
+    "titel": "Must read: Winsten en rente maken aandelen en obligaties kansrijk",
+    "link": "https://www.iex.nl/artikel/869224/Must-read-Winsten-en-rente-maken-aandelen-en-obligaties-kansrijk.aspx",
+    "intro": "Plus: China werkt aan einde dollardominantie, chipaandelen domineren EM-index, Europese bankfusies blijven moeilijk, goudprijs terug naar fair value, en meer.",
+    "published_at": "2026-06-29 10:00",
+    "scraped_at": "2026-06-29T09:13:05.417191"
+  },
+  {
+    "id": "e9e8ad89ee4e617da7a1a33baa0aeb04",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke resultaten bij Prosus",
+    "link": "https://www.beurs.nl/Nieuws/869275/Beursblik-sterke-resultaten-bij-Prosus.aspx",
+    "intro": "Prosus heeft maandag sterke resultaten bekendgemaakt, die de eigen doelstellingen ruimschoots overtroffen. Dit stelde analist Maxime Lejeune van Degroof Petercam vanochtend in reactie op de cijfers van de internetinvesteerder.",
+    "published_at": "2026-06-29 09:54",
+    "scraped_at": "2026-06-29T09:13:05.417191"
+  },
+  {
+    "id": "400449889f8b3e0ff878251cc6e4022c",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel AkzoNobel",
+    "link": "https://www.beurs.nl/Nieuws/869273/Deutsche-Bank-verhoogt-koersdoel-AkzoNobel.aspx",
+    "intro": "Deutsche Bank heeft maandag het koersdoel voor AkzoNobel verhoogd van 55,00 naar 59,00 euro met een onveranderd Houden advies in aanloop naar de cijfers over het tweede kwartaal die op 22 juli verschijnen. Dit bleek vanochtend uit een rapport van de Duitse bank.",
+    "published_at": "2026-06-29 09:39",
+    "scraped_at": "2026-06-29T09:13:05.417191"
+  },
+  {
+    "id": "8cfe5c01e0e91cda166ad254e79db593",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht hoger van start gegaan met Prosus aan kop",
+    "link": "https://www.beurs.nl/Nieuws/869268/AEX-licht-hoger-van-start-gegaan-met-Prosus-aan-kop.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong fractioneel in het groen op 1.062,00 punten, terwijl de Midkap nipt lager noteerde.",
+    "published_at": "2026-06-29 09:15",
+    "scraped_at": "2026-06-29T09:13:05.417191"
+  },
+  {
+    "id": "fc840d3d0162c7ef1b0fd84019b66c83",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies: cijfers Prosus vertroebeld door toevoeging Just Eat",
+    "link": "https://www.beurs.nl/Nieuws/869264/Jefferies-cijfers-Prosus-vertroebeld-door-toevoeging-Just-Eat.aspx",
+    "intro": "De resultaten van Prosus over de tweede helft van het boekjaar 2026 zien er op het eerste gezicht goed uit, maar het beeld wordt vertroebeld door de \"willekeurige\" toevoeging van Just Eat Takeaway. Dit stelde zakenbank Jefferies in een eerste reactie op de cijfers waarmee de internetinvesteerder vanochtend kwam.",
+    "published_at": "2026-06-29 09:03",
+    "scraped_at": "2026-06-29T09:13:05.417191"
+  },
+  {
+    "id": "85e00150203f2bf3d344ed228488bbe1",
+    "categorie": "Beursnieuws",
+    "titel": "Flinke winstsprong voor Prosus",
+    "link": "https://www.beurs.nl/Nieuws/869261/Flinke-winstsprong-voor-Prosus.aspx",
+    "intro": "Prosus heeft in het afgelopen boekjaar een veel hogere winst geboekt, terwijl het de innovatie op het gebied van kunstmatige intelligentie versnelde. Dit meldde de internetinvesteerder maandagochtend bij de volledige jaarcijfers.",
+    "published_at": "2026-06-29 08:31",
+    "scraped_at": "2026-06-29T09:13:05.417191"
   }
 ]
