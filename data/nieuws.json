@@ -1,12 +1,84 @@
 [
   {
+    "id": "39df87d160c6a121c0e8ef30ff72ed7d",
+    "categorie": "Beursnieuws",
+    "titel": "Avantium onderzoekt PEF voor kleine flesjes",
+    "link": "https://www.beurs.nl/Nieuws/869371/Avantium-onderzoekt-PEF-voor-kleine-flesjes.aspx",
+    "intro": "Avantium gaat met Gepack en Frubaça onderzoeken of Avantiums bioplastic PEF kan worden gebruikt in kleine flesjes voor zogenaamde functionele drankshots. Dat maakte het bioplasticbedrijf maandag nabeurs bekend.",
+    "published_at": "2026-06-29 18:38",
+    "scraped_at": "2026-06-29T16:47:01.968311"
+  },
+  {
+    "id": "fbbffafad275bd7e7355caac906ee189",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus houdt AEX in het groen",
+    "link": "https://www.beurs.nl/Nieuws/869366/Prosus-houdt-AEX-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs is maandag hoger gesloten, na een relatief rustige handelsdag waarop de beurs even kon uitblazen na de sterke dalingen van technologie-aandelen vorige week.",
+    "published_at": "2026-06-29 17:56",
+    "scraped_at": "2026-06-29T16:47:01.968311"
+  },
+  {
+    "id": "d4a0b6cc37a94798edd8b931eaa21771",
+    "categorie": "Beursnieuws",
+    "titel": "Strategy opent deur voor mogelijke bitcoinverkoop",
+    "link": "https://www.beurs.nl/Nieuws/869359/Strategy-opent-deur-voor-mogelijke-bitcoinverkoop.aspx",
+    "intro": "Strategy kan voortaan onder voorwaarden bitcoins verkopen. Dat maakt deel uit van een nieuw kapitaalraamwerk dat het bedrijf maandag presenteerde.",
+    "published_at": "2026-06-29 16:46",
+    "scraped_at": "2026-06-29T16:47:01.968311"
+  },
+  {
+    "id": "23dffd4462990721e62da2d02e6b6c2e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/869346/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 7 juli 2026:",
+    "published_at": "2026-06-29 16:04",
+    "scraped_at": "2026-06-29T16:47:01.968311"
+  },
+  {
+    "id": "69c7d6f5eea47823ff72235a331b99ea",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/869348/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 7 juli 2026:",
+    "published_at": "2026-06-29 16:04",
+    "scraped_at": "2026-06-29T16:47:01.968311"
+  },
+  {
+    "id": "5d2d6b4c036232869fd4571441e081f6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/869349/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 7 juli 2026:",
+    "published_at": "2026-06-29 16:04",
+    "scraped_at": "2026-06-29T16:47:01.968311"
+  },
+  {
+    "id": "163a9e8bd78109d6fae15f66b5970745",
+    "categorie": "Beursnieuws",
+    "titel": "Rocket Lab neemt satellietnetwerk Iridium over",
+    "link": "https://www.beurs.nl/Nieuws/869343/Rocket-Lab-neemt-satellietnetwerk-Iridium-over.aspx",
+    "intro": "Rocket Lab neemt de aanbieder van satellietdiensten Iridium Communications over voor ongeveer 8 miljard dollar. Dit maakte de Amerikaanse fabrikant van raketten en satellieten maandag bekend.",
+    "published_at": "2026-06-29 15:57",
+    "scraped_at": "2026-06-29T16:47:01.968311"
+  },
+  {
+    "id": "774fcb1e4e527a5cc5c80bcabd07a38f",
+    "categorie": "Beursnieuws",
+    "titel": "Honeywell rondt afsplitsing luchtvaarttak af",
+    "link": "https://www.beurs.nl/Nieuws/869342/Honeywell-rondt-afsplitsing-luchtvaarttak-af.aspx",
+    "intro": "Honeywell Technologies heeft de afsplitsing van zijn luchtvaarttak afgerond. Dit maakte het Amerikaanse bedrijf maandagmiddag bekend.",
+    "published_at": "2026-06-29 15:49",
+    "scraped_at": "2026-06-29T16:47:01.968311"
+  },
+  {
     "id": "1f3d2e6187a3848ef9c9b8c83fb506ed",
     "categorie": "Beursnieuws",
     "titel": "Wall Street licht positief in de startblokken",
     "link": "https://www.beurs.nl/Nieuws/869333/Wall-Street-licht-positief-in-de-startblokken.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een hogere opening tegemoet met enig herstel in de technologiesector, die vorige week forse stappen terug moest doen door zorgen over hoge waarderingen na een enorme AI-hausse op de wereldwijde beurzen.",
     "published_at": "2026-06-29 15:00",
-    "scraped_at": "2026-06-29T13:48:35.247931"
+    "scraped_at": "2026-06-29T16:47:01.968311"
   },
   {
     "id": "bc780386b53c4d1abb8ad9f053f33279",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869325/Comcast-kondigt-opsplitsing-aan.aspx",
     "intro": "De aandelen van Comcast zijn maandag omhooggeschoten, nadat het bedrijf bekendmaakte dat het zijn media- en entertainmentbedrijf NBCUniversal wil afsplitsen.",
     "published_at": "2026-06-29 14:17",
-    "scraped_at": "2026-06-29T13:48:35.247931"
-  },
-  {
-    "id": "8a282bdf62a232865441e4d99bcf8d1f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Prosus beloond op lichtgroen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/869321/Beursupdate-Prosus-beloond-op-lichtgroen-Damrak.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagmiddag licht hoger, op een relatief rustige handelsdag, na de dalingen van technologie-aandelen vorige week.",
-    "published_at": "2026-06-29 13:56",
-    "scraped_at": "2026-06-29T13:48:35.247931"
-  },
-  {
-    "id": "6d70b2bb33fb90ac0614ac3eccf8d977",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street wijzen omhoog",
-    "link": "https://www.beurs.nl/Nieuws/869318/Futures-Wall-Street-wijzen-omhoog.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een hogere opening tegemoet met een herstel in de technologiesector, die vorige week forse stappen terug moest doen door zorgen over hoge waarderingen na een enorme AI-hausse op de wereldwijde beurzen.",
-    "published_at": "2026-06-29 13:08",
-    "scraped_at": "2026-06-29T13:48:35.247931"
-  },
-  {
-    "id": "2a667dd4743a8e54f855b2b62ce3de66",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen terughoudend rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/869315/Europese-beurzen-terughoudend-rond-middaguur.aspx",
-    "intro": "De aandelenmarkten in Europa bleven maandag rond het middaguur dicht bij huis, na een weekend van aanvallen tussen de VS en Iran, die inmiddels wel bereid zouden zijn tot nieuwe gesprekken.",
-    "published_at": "2026-06-29 12:28",
-    "scraped_at": "2026-06-29T13:48:35.247931"
-  },
-  {
-    "id": "e35a6c876eeeed0d0562d5fa84f6275c",
-    "categorie": "Beursnieuws",
-    "titel": "Directeur Beuker vertrekt bij Ajax",
-    "link": "https://www.beurs.nl/Nieuws/869312/Directeur-Beuker-vertrekt-bij-Ajax.aspx",
-    "intro": "Marijn Beuker stopt per 1 juli van dit jaar als directeur voetbal bij Ajax. Dit maakte de Amsterdamse voetbalclub maandag bekend.",
-    "published_at": "2026-06-29 12:20",
-    "scraped_at": "2026-06-29T13:48:35.247931"
-  },
-  {
-    "id": "b0930c91fd40e0ff49ba2064c6f8b15f",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen eurozone inderdaad licht verbeterd",
-    "link": "https://www.beurs.nl/Nieuws/869296/Consumentenvertrouwen-eurozone-inderdaad-licht-verbeterd.aspx",
-    "intro": "Het consumentenvertrouwen in de eurozone is in juni zoals verwacht licht verbeterd, maar bleef negatief. Dit bleek maandag uit definitieve cijfers van de Europese Commissie.",
-    "published_at": "2026-06-29 11:09",
-    "scraped_at": "2026-06-29T13:48:35.247931"
-  },
-  {
-    "id": "035833c609091e92611fe8b17d4b993a",
-    "categorie": "Beursnieuws",
-    "titel": "British American Tobacco snijdt flink in personeelsbestand",
-    "link": "https://www.beurs.nl/Nieuws/869295/British-American-Tobacco-snijdt-flink-in-personeelsbestand.aspx",
-    "intro": "British American Tobacco is van plan om bijna een vijfde van zijn personeelsbestand te schrappen, als onderdeel van een strategie om kosten te besparen en de bedrijfsvoering te stroomlijnen. Dit meldde de Britse fabrikant van sigarettenmerken als Lucky Strike en Kent maandagochtend.",
-    "published_at": "2026-06-29 11:06",
-    "scraped_at": "2026-06-29T13:48:35.247931"
-  },
-  {
-    "id": "fbdfbc7e2870fbc7ef8bdf34c2ce5f35",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine winst voor AEX",
-    "link": "https://www.beurs.nl/Nieuws/869290/Kleine-winst-voor-AEX.aspx",
-    "intro": "Prosus beloond voor cijfers, maar Alfen afgestraft na vertrek CFO.",
-    "published_at": "2026-06-29 10:54",
-    "scraped_at": "2026-06-29T13:48:35.247931"
-  },
-  {
-    "id": "885891d38cf89d13f8adf2760f7d65c9",
-    "categorie": "Beursnieuws",
-    "titel": "SBM Offshore ondertekent nieuw contract met Chinese partners",
-    "link": "https://www.beurs.nl/Nieuws/869285/SBM-Offshore-ondertekent-nieuw-contract-met-Chinese-partners.aspx",
-    "intro": "SBM Offshore heeft maandag een nieuw contract ondertekend met twee dochterondernemingen van het Chinese CSSC, voor de bouw van de zevende generieke Multi Purpose Floater. Dit meldde de oliedienstverlener maandagochtend.",
-    "published_at": "2026-06-29 10:27",
-    "scraped_at": "2026-06-29T13:48:35.247931"
+    "scraped_at": "2026-06-29T16:47:01.968311"
   }
 ]
