@@ -1,12 +1,84 @@
 [
   {
+    "id": "1f3d2e6187a3848ef9c9b8c83fb506ed",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street licht positief in de startblokken",
+    "link": "https://www.beurs.nl/Nieuws/869333/Wall-Street-licht-positief-in-de-startblokken.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een hogere opening tegemoet met enig herstel in de technologiesector, die vorige week forse stappen terug moest doen door zorgen over hoge waarderingen na een enorme AI-hausse op de wereldwijde beurzen.",
+    "published_at": "2026-06-29 15:00",
+    "scraped_at": "2026-06-29T13:48:35.247931"
+  },
+  {
+    "id": "bc780386b53c4d1abb8ad9f053f33279",
+    "categorie": "Beursnieuws",
+    "titel": "Comcast kondigt opsplitsing aan",
+    "link": "https://www.beurs.nl/Nieuws/869325/Comcast-kondigt-opsplitsing-aan.aspx",
+    "intro": "De aandelen van Comcast zijn maandag omhooggeschoten, nadat het bedrijf bekendmaakte dat het zijn media- en entertainmentbedrijf NBCUniversal wil afsplitsen.",
+    "published_at": "2026-06-29 14:17",
+    "scraped_at": "2026-06-29T13:48:35.247931"
+  },
+  {
+    "id": "8a282bdf62a232865441e4d99bcf8d1f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: Prosus beloond op lichtgroen Damrak",
+    "link": "https://www.beurs.nl/Nieuws/869321/Beursupdate-Prosus-beloond-op-lichtgroen-Damrak.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagmiddag licht hoger, op een relatief rustige handelsdag, na de dalingen van technologie-aandelen vorige week.",
+    "published_at": "2026-06-29 13:56",
+    "scraped_at": "2026-06-29T13:48:35.247931"
+  },
+  {
+    "id": "6d70b2bb33fb90ac0614ac3eccf8d977",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street wijzen omhoog",
+    "link": "https://www.beurs.nl/Nieuws/869318/Futures-Wall-Street-wijzen-omhoog.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een hogere opening tegemoet met een herstel in de technologiesector, die vorige week forse stappen terug moest doen door zorgen over hoge waarderingen na een enorme AI-hausse op de wereldwijde beurzen.",
+    "published_at": "2026-06-29 13:08",
+    "scraped_at": "2026-06-29T13:48:35.247931"
+  },
+  {
+    "id": "2a667dd4743a8e54f855b2b62ce3de66",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen terughoudend rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/869315/Europese-beurzen-terughoudend-rond-middaguur.aspx",
+    "intro": "De aandelenmarkten in Europa bleven maandag rond het middaguur dicht bij huis, na een weekend van aanvallen tussen de VS en Iran, die inmiddels wel bereid zouden zijn tot nieuwe gesprekken.",
+    "published_at": "2026-06-29 12:28",
+    "scraped_at": "2026-06-29T13:48:35.247931"
+  },
+  {
+    "id": "e35a6c876eeeed0d0562d5fa84f6275c",
+    "categorie": "Beursnieuws",
+    "titel": "Directeur Beuker vertrekt bij Ajax",
+    "link": "https://www.beurs.nl/Nieuws/869312/Directeur-Beuker-vertrekt-bij-Ajax.aspx",
+    "intro": "Marijn Beuker stopt per 1 juli van dit jaar als directeur voetbal bij Ajax. Dit maakte de Amsterdamse voetbalclub maandag bekend.",
+    "published_at": "2026-06-29 12:20",
+    "scraped_at": "2026-06-29T13:48:35.247931"
+  },
+  {
+    "id": "b0930c91fd40e0ff49ba2064c6f8b15f",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen eurozone inderdaad licht verbeterd",
+    "link": "https://www.beurs.nl/Nieuws/869296/Consumentenvertrouwen-eurozone-inderdaad-licht-verbeterd.aspx",
+    "intro": "Het consumentenvertrouwen in de eurozone is in juni zoals verwacht licht verbeterd, maar bleef negatief. Dit bleek maandag uit definitieve cijfers van de Europese Commissie.",
+    "published_at": "2026-06-29 11:09",
+    "scraped_at": "2026-06-29T13:48:35.247931"
+  },
+  {
+    "id": "035833c609091e92611fe8b17d4b993a",
+    "categorie": "Beursnieuws",
+    "titel": "British American Tobacco snijdt flink in personeelsbestand",
+    "link": "https://www.beurs.nl/Nieuws/869295/British-American-Tobacco-snijdt-flink-in-personeelsbestand.aspx",
+    "intro": "British American Tobacco is van plan om bijna een vijfde van zijn personeelsbestand te schrappen, als onderdeel van een strategie om kosten te besparen en de bedrijfsvoering te stroomlijnen. Dit meldde de Britse fabrikant van sigarettenmerken als Lucky Strike en Kent maandagochtend.",
+    "published_at": "2026-06-29 11:06",
+    "scraped_at": "2026-06-29T13:48:35.247931"
+  },
+  {
     "id": "fbdfbc7e2870fbc7ef8bdf34c2ce5f35",
     "categorie": "Beursnieuws",
     "titel": "Kleine winst voor AEX",
     "link": "https://www.beurs.nl/Nieuws/869290/Kleine-winst-voor-AEX.aspx",
     "intro": "Prosus beloond voor cijfers, maar Alfen afgestraft na vertrek CFO.",
     "published_at": "2026-06-29 10:54",
-    "scraped_at": "2026-06-29T09:13:05.417191"
+    "scraped_at": "2026-06-29T13:48:35.247931"
   },
   {
     "id": "885891d38cf89d13f8adf2760f7d65c9",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869285/SBM-Offshore-ondertekent-nieuw-contract-met-Chinese-partners.aspx",
     "intro": "SBM Offshore heeft maandag een nieuw contract ondertekend met twee dochterondernemingen van het Chinese CSSC, voor de bouw van de zevende generieke Multi Purpose Floater. Dit meldde de oliedienstverlener maandagochtend.",
     "published_at": "2026-06-29 10:27",
-    "scraped_at": "2026-06-29T09:13:05.417191"
-  },
-  {
-    "id": "5fe5fda6c9899c7248f84f500cca219e",
-    "categorie": "Beursnieuws",
-    "titel": "CVC neemt Irca over van Advent",
-    "link": "https://www.beurs.nl/Nieuws/869281/CVC-neemt-Irca-over-van-Advent.aspx",
-    "intro": "CVC heeft een akkoord bereikt over de overname van Irca van Advent. Dit meldde CVC maandagochtend.",
-    "published_at": "2026-06-29 10:15",
-    "scraped_at": "2026-06-29T09:13:05.417191"
-  },
-  {
-    "id": "bc5f829850900e1544d0435283c4b83f",
-    "categorie": "Beursnieuws",
-    "titel": "Spaanse inflatie blijft stabiel",
-    "link": "https://www.beurs.nl/Nieuws/869276/Spaanse-inflatie-blijft-stabiel.aspx",
-    "intro": "De Spaanse inflatie is ook in juni stabiel gebleven. Dit bleek maandag uit voorlopige cijfers van het Spaanse statistiekbureau Ine.",
-    "published_at": "2026-06-29 10:03",
-    "scraped_at": "2026-06-29T09:13:05.417191"
-  },
-  {
-    "id": "9a9bd3164cb7620a120b0b210d4717df",
-    "categorie": "IEX",
-    "titel": "Must read: Winsten en rente maken aandelen en obligaties kansrijk",
-    "link": "https://www.iex.nl/artikel/869224/Must-read-Winsten-en-rente-maken-aandelen-en-obligaties-kansrijk.aspx",
-    "intro": "Plus: China werkt aan einde dollardominantie, chipaandelen domineren EM-index, Europese bankfusies blijven moeilijk, goudprijs terug naar fair value, en meer.",
-    "published_at": "2026-06-29 10:00",
-    "scraped_at": "2026-06-29T09:13:05.417191"
-  },
-  {
-    "id": "e9e8ad89ee4e617da7a1a33baa0aeb04",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke resultaten bij Prosus",
-    "link": "https://www.beurs.nl/Nieuws/869275/Beursblik-sterke-resultaten-bij-Prosus.aspx",
-    "intro": "Prosus heeft maandag sterke resultaten bekendgemaakt, die de eigen doelstellingen ruimschoots overtroffen. Dit stelde analist Maxime Lejeune van Degroof Petercam vanochtend in reactie op de cijfers van de internetinvesteerder.",
-    "published_at": "2026-06-29 09:54",
-    "scraped_at": "2026-06-29T09:13:05.417191"
-  },
-  {
-    "id": "400449889f8b3e0ff878251cc6e4022c",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel AkzoNobel",
-    "link": "https://www.beurs.nl/Nieuws/869273/Deutsche-Bank-verhoogt-koersdoel-AkzoNobel.aspx",
-    "intro": "Deutsche Bank heeft maandag het koersdoel voor AkzoNobel verhoogd van 55,00 naar 59,00 euro met een onveranderd Houden advies in aanloop naar de cijfers over het tweede kwartaal die op 22 juli verschijnen. Dit bleek vanochtend uit een rapport van de Duitse bank.",
-    "published_at": "2026-06-29 09:39",
-    "scraped_at": "2026-06-29T09:13:05.417191"
-  },
-  {
-    "id": "8cfe5c01e0e91cda166ad254e79db593",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht hoger van start gegaan met Prosus aan kop",
-    "link": "https://www.beurs.nl/Nieuws/869268/AEX-licht-hoger-van-start-gegaan-met-Prosus-aan-kop.aspx",
-    "intro": "De AEX index koerste maandag kort na de beursgong fractioneel in het groen op 1.062,00 punten, terwijl de Midkap nipt lager noteerde.",
-    "published_at": "2026-06-29 09:15",
-    "scraped_at": "2026-06-29T09:13:05.417191"
-  },
-  {
-    "id": "fc840d3d0162c7ef1b0fd84019b66c83",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies: cijfers Prosus vertroebeld door toevoeging Just Eat",
-    "link": "https://www.beurs.nl/Nieuws/869264/Jefferies-cijfers-Prosus-vertroebeld-door-toevoeging-Just-Eat.aspx",
-    "intro": "De resultaten van Prosus over de tweede helft van het boekjaar 2026 zien er op het eerste gezicht goed uit, maar het beeld wordt vertroebeld door de \"willekeurige\" toevoeging van Just Eat Takeaway. Dit stelde zakenbank Jefferies in een eerste reactie op de cijfers waarmee de internetinvesteerder vanochtend kwam.",
-    "published_at": "2026-06-29 09:03",
-    "scraped_at": "2026-06-29T09:13:05.417191"
-  },
-  {
-    "id": "85e00150203f2bf3d344ed228488bbe1",
-    "categorie": "Beursnieuws",
-    "titel": "Flinke winstsprong voor Prosus",
-    "link": "https://www.beurs.nl/Nieuws/869261/Flinke-winstsprong-voor-Prosus.aspx",
-    "intro": "Prosus heeft in het afgelopen boekjaar een veel hogere winst geboekt, terwijl het de innovatie op het gebied van kunstmatige intelligentie versnelde. Dit meldde de internetinvesteerder maandagochtend bij de volledige jaarcijfers.",
-    "published_at": "2026-06-29 08:31",
-    "scraped_at": "2026-06-29T09:13:05.417191"
+    "scraped_at": "2026-06-29T13:48:35.247931"
   }
 ]
