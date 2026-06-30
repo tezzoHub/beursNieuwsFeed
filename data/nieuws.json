@@ -1,92 +1,92 @@
 [
   {
+    "id": "e55a40946a4ac0b125d4b4499961ea23",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse inflatie gedaald",
+    "link": "https://www.beurs.nl/Nieuws/869489/Duitse-inflatie-gedaald.aspx",
+    "intro": "De Duitse inflatie is in juni onverwacht gedaald, dankzij minder sterk stijgende energieprijzen. Dit bleek dinsdag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-06-30 14:17",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
+    "id": "69698d960644cabf7068a2322b1273c1",
+    "categorie": "IEX",
+    "titel": "Laatste kans: stem op uw favoriete AEX-aandeel voor juli",
+    "link": "https://www.iex.nl/artikel/868985/Laatste-kans-stem-op-uw-favoriete-AEX-aandeel-voor-juli.aspx",
+    "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van juli? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
+    "published_at": "2026-06-30 14:15",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
+    "id": "099a669f09d04e16f7c312fc0b0326dd",
+    "categorie": "Beursnieuws",
+    "titel": "Zwaargewicht ASML trekt de kar in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/869486/Zwaargewicht-ASML-trekt-de-kar-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag hoger en is daarmee op weg om een sterk kwartaal positief af te sluiten.",
+    "published_at": "2026-06-30 13:50",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
+    "id": "72b54c6383ef50cd99d7af6fcd3ef11f",
+    "categorie": "Beursnieuws",
+    "titel": "Video: Vastrentende waarden verdienen hun plek in de portefeuille",
+    "link": "https://www.beurs.nl/Nieuws/869483/Video-Vastrentende-waarden-verdienen-hun-plek-in-de-portefeuille.aspx",
+    "intro": "Vastrentende waarden verdienen hun plek in de portefeuille. Dit zegt beleggingsstrateeg Jorn Veeneman van JPMorgan Asset Management voor de camera van ABM Financial News op Beursplein 5.",
+    "published_at": "2026-06-30 13:33",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
+    "id": "46e15102555dbc494f4488407bc163bf",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street signaleren vlakke opening",
+    "link": "https://www.beurs.nl/Nieuws/869481/Futures-Wall-Street-signaleren-vlakke-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een vrijwel vlakke opening tegemoet, aan het einde van een bijzonder sterk kwartaal.",
+    "published_at": "2026-06-30 12:57",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
+    "id": "72951e75c4f29de34402253f724685b6",
+    "categorie": "Beursnieuws",
+    "titel": "Holland Colours presenteert nieuwe CEO",
+    "link": "https://www.beurs.nl/Nieuws/869480/Holland-Colours-presenteert-nieuwe-CEO.aspx",
+    "intro": "Holland Colours wil Chris Roggeband benoemen als nieuwe CEO. Dit maakte het Apeldoornse bedrijf dinsdag bekend.",
+    "published_at": "2026-06-30 12:52",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
+    "id": "ce9d32bd2ede507d89bc66055685ed12",
+    "categorie": "Crypto",
+    "titel": "Waarom Binance Coin op een cruciaal punt is beland",
+    "link": "https://www.beurs.nl/Artikel/869341/Waarom-Binance-Coin-op-een-cruciaal-punt-is-beland.aspx",
+    "intro": "De cryptomarkt heeft het de afgelopen tijd lastig en ook Binance Coin ontsnapt niet aan de zwakte. De cryptomunt behoorde de afgelopen jaren nog tot de sterkere spelers, maar zowel fundamenteel als technisch nemen de risico's toe.",
+    "published_at": "2026-06-30 12:50",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
+    "id": "11f6be8f1b89b43d8b7d2879e1e9f9c4",
+    "categorie": "Beursnieuws",
+    "titel": "Media: VS onderzoekt proeven Merck en AbbVie in China",
+    "link": "https://www.beurs.nl/Nieuws/869477/Media-VS-onderzoekt-proeven-Merck-en-AbbVie-in-China.aspx",
+    "intro": "Een groep Amerikaanse parlementsleden is een nationaal veiligheidsonderzoek gestart naar de farmaceuten Merck en AbbVie wegens klinische studies die zij in China hebben uitgevoerd. Dit meldde persbureau Reuters dinsdag op basis van ingeziene brieven.",
+    "published_at": "2026-06-30 12:28",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
+    "id": "7307e00c4f63ca12aa5ac1254b463e20",
+    "categorie": "Beursnieuws",
+    "titel": "Chipsector leidt Europese beurzen omhoog",
+    "link": "https://www.beurs.nl/Nieuws/869478/Chipsector-leidt-Europese-beurzen-omhoog.aspx",
+    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur hoger, geleid door aandelen van technologie- en industriebedrijven.",
+    "published_at": "2026-06-30 12:28",
+    "scraped_at": "2026-06-30T12:26:33.010794"
+  },
+  {
     "id": "2f692c1b26541038fdf42dc498d640e0",
     "categorie": "Opinie",
     "titel": "Europa heeft een dubbel energieprobleem",
     "link": "https://www.ieximpact.nl/artikel/869447/Europa-heeft-een-dubbel-energieprobleem.aspx",
     "intro": "Volgens Triodos-econoom Joeri de Wilde is het versnellen van de energietransitie de enige manier om de Europese energiezekerheid veilig te stellen en daarmee ook de toekomstige economische groei.",
     "published_at": "2026-06-30 11:55",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "e6465f5245fa525f826e95fae08be6d5",
-    "categorie": "Beursnieuws",
-    "titel": "Italiaanse inflatie daalt",
-    "link": "https://www.beurs.nl/Nieuws/869464/Italiaanse-inflatie-daalt.aspx",
-    "intro": "De inflatie van de consumentenprijzen in Italië is in juni gedaald op jaarbasis, doordat de prijzen stabiel bleven ten opzichte van de voorgaande maand. Dit bleek dinsdag uit voorlopige cijfers van statistiekbureau Istat.",
-    "published_at": "2026-06-30 11:37",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "7cd50d71f8b7e85c1dce96caf8fbc35c",
-    "categorie": "Beursnieuws",
-    "titel": "ASML aan kop in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/869461/ASML-aan-kop-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagochtend in het groen dankzij de chipaandelen, en is op weg naar een positieve afsluiting van een sterk eerste halfjaar.",
-    "published_at": "2026-06-30 11:12",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "dd94e6bb960210f32f6fa91368711861",
-    "categorie": "Beursnieuws",
-    "titel": "ArcelorMittal kondigde tweede tranche aandeleninkoop aan",
-    "link": "https://www.beurs.nl/Nieuws/869454/ArcelorMittal-kondigde-tweede-tranche-aandeleninkoop-aan.aspx",
-    "intro": "ArcelorMittal heeft dinsdag de start van de tweede tranche van zijn aandeleninkoopprogramma aangekondigd, nadat de eerste tranche van 10 miljoen aandelen werd afgerond.",
-    "published_at": "2026-06-30 10:51",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "bfc4fff6d58ba6436de997f72acab1c4",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Duitse werkloosheid loopt licht terug",
-    "link": "https://www.beurs.nl/Nieuws/869444/Update-Duitse-werkloosheid-loopt-licht-terug.aspx",
-    "intro": "Het aantal werklozen in Duitsland is in juni iets gedaald. Dit bleek dinsdag uit overheidscijfers.",
-    "published_at": "2026-06-30 10:41",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "b943d05bce606168b4d88e0c86afd9b7",
-    "categorie": "Beursnieuws",
-    "titel": "CTP ontwikkelt logistiekpark in Zuid-Hongarije",
-    "link": "https://www.beurs.nl/Nieuws/869448/CTP-ontwikkelt-logistiekpark-in-Zuid-Hongarije.aspx",
-    "intro": "CTP gaat in het zuiden van Hongarije een nieuw park ontwikkelen met een oppervlakte van maximaal 66.000 vierkante meter. Dit meldde de in Amsterdam genoteerde vastgoedinvesteerder dinsdag.",
-    "published_at": "2026-06-30 10:37",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "3a92be4be5012c5b9dfdd811fb17c2a5",
-    "categorie": "IEX",
-    "titel": "Must read: De optimistische beleggingsvisie van ING",
-    "link": "https://www.iex.nl/artikel/869338/Must-read-De-optimistische-beleggingsvisie-van-ING.aspx",
-    "intro": "Plus: Amerikaanse staatsschuld loopt uit de hand, de juiste dividendstrategie, Chinese economie groeit weer, goudprijs veert zeker op, en meer.",
-    "published_at": "2026-06-30 10:00",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "b0e6cddd72f0af9ce7e50094ca5a2f72",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam zet ASML op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/869440/Degroof-Petercam-zet-ASML-op-de-kooplijst.aspx",
-    "intro": "Degroof Petercam heeft dinsdag het advies voor ASML verhoogd van Houden naar Kopen en het koersdoel van 1.325 naar 2.100 euro. Dit bleek uit een rapport van analist Michael Roeg.",
-    "published_at": "2026-06-30 09:37",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "d115c27764f7b766d995d967a68d2564",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel Abivax veert op na nieuwe studieresultaten",
-    "link": "https://www.beurs.nl/Nieuws/869439/Aandeel-Abivax-veert-op-na-nieuwe-studieresultaten.aspx",
-    "intro": "Het aandeel Abivax is dinsdag fors gestegen, nadat het Franse biotechbedrijf maandagavond nieuwe studieresultaten publiceerde over zijn belangrijkste medicijn tegen darmziekten.",
-    "published_at": "2026-06-30 09:36",
-    "scraped_at": "2026-06-30T10:04:33.465857"
-  },
-  {
-    "id": "7254615a4015e6ee3baad303e1e025cd",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start gegaan dankzij de chippers",
-    "link": "https://www.beurs.nl/Nieuws/869436/AEX-hoger-van-start-gegaan-dankzij-de-chippers.aspx",
-    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,6 procent in het groen op 1.071,21 punten, terwijl de Midkap 0,3 procent kon bijschrijven.",
-    "published_at": "2026-06-30 09:20",
-    "scraped_at": "2026-06-30T10:04:33.465857"
+    "scraped_at": "2026-06-30T12:26:33.010794"
   }
 ]
