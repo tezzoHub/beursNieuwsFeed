@@ -1,12 +1,39 @@
 [
   {
+    "id": "42340bb9ad270f85202ae8e0a0808b8a",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt met ruim 30 procent",
+    "link": "https://www.beurs.nl/Nieuws/869535/Olieprijs-daalt-met-ruim-30-procent.aspx",
+    "intro": "De olieprijs is dinsdag gedaald, terwijl beleggers in afwachting waren van nieuws uit Doha, waar de VS en Iran afzonderlijk opnieuw onderhandelen over een definitieve vredesdeal.",
+    "published_at": "2026-06-30 21:03",
+    "scraped_at": "2026-06-30T19:15:03.311639"
+  },
+  {
+    "id": "fcf1d41a67626e1c4a5bc0899ffcf0d3",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street op koers voor flinke kwartaalwinst",
+    "link": "https://www.beurs.nl/Nieuws/869532/Wall-Street-op-koers-voor-flinke-kwartaalwinst.aspx",
+    "intro": "De Amerikaanse beurzen noteerden dinsdag hoger met nog een paar uur handel te gaan.",
+    "published_at": "2026-06-30 19:32",
+    "scraped_at": "2026-06-30T19:15:03.311639"
+  },
+  {
+    "id": "9eacfd652ddb446001d1ffd495969e5a",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Jaarrapport Envipco loopt nog meer vertraging op",
+    "link": "https://www.beurs.nl/Nieuws/856554/Update-Jaarrapport-Envipco-loopt-nog-meer-vertraging-op.aspx",
+    "intro": "De afronding van het jaarrapport 2025 van Envicpo heeft nog meer vertraging opgelopen. Dit maakte de fabrikant van onder meer statiegeldmachines dinsdagavond bekend.",
+    "published_at": "2026-06-30 19:28",
+    "scraped_at": "2026-06-30T19:15:03.311639"
+  },
+  {
     "id": "f5eef38ae26d36006be375ffa8653791",
     "categorie": "Beursnieuws",
     "titel": "Jaarrapport Envipco loop nog meer vertraging op",
     "link": "https://www.beurs.nl/Nieuws/869531/Jaarrapport-Envipco-loop-nog-meer-vertraging-op.aspx",
     "intro": "De afronding van het jaarrapport 2025 van Envicpo heeft nog meer vertraging opgelopen. Dit maakte de fabrikant van onder meer statiegeldmachines dinsdagavond bekend.",
     "published_at": "2026-06-30 18:44",
-    "scraped_at": "2026-06-30T17:21:44.878572"
+    "scraped_at": "2026-06-30T19:15:03.311639"
   },
   {
     "id": "76cd0abaed442042a9629918e56b13df",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/869530/Europese-beurzen-sluiten-sterk-kwartaal-positief-af.aspx",
     "intro": "De Europese beurzen zijn dinsdag hoger geëindigd, waarbij halfgeleideraandelen goede zaken deden. Daarmee kwam er een positief einde aan een sterk tweede kwartaal.",
     "published_at": "2026-06-30 18:42",
-    "scraped_at": "2026-06-30T17:21:44.878572"
+    "scraped_at": "2026-06-30T19:15:03.311639"
   },
   {
     "id": "d3b5b47b083f4c9cb788197826065293",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/869521/Beursblik-Prosus-blijft-koopwaardig.aspx",
     "intro": "Citi Research heeft dinsdag het koersdoel voor Prosus verlaagd van 53,00 naar 52,00, maar handhaafde wel het koopadvies. Dit bleek uit een rapport van analist Monique Pollard.",
     "published_at": "2026-06-30 17:59",
-    "scraped_at": "2026-06-30T17:21:44.878572"
+    "scraped_at": "2026-06-30T19:15:03.311639"
   },
   {
     "id": "2bfc3895c43b6ed4137d7948570cc82a",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/869519/ASML-helpt-AEX-aan-stevige-winst.aspx",
     "intro": "De Amsterdamse beurs is dinsdag flink gestegen en wist zo een sterk kwartaal positief af te sluiten, met hulp van herstellende koersen van de bedrijven in de halfgeleiderindustrie.",
     "published_at": "2026-06-30 17:54",
-    "scraped_at": "2026-06-30T17:21:44.878572"
+    "scraped_at": "2026-06-30T19:15:03.311639"
   },
   {
     "id": "9b86157a8e4a0c67b92df22dfae9de6d",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/869511/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 8 juli 2026:",
     "published_at": "2026-06-30 16:33",
-    "scraped_at": "2026-06-30T17:21:44.878572"
+    "scraped_at": "2026-06-30T19:15:03.311639"
   },
   {
     "id": "53e6e02168fb34505e7dabb511378a5e",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869509/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 8 juli 2026:",
     "published_at": "2026-06-30 16:32",
-    "scraped_at": "2026-06-30T17:21:44.878572"
+    "scraped_at": "2026-06-30T19:15:03.311639"
   },
   {
     "id": "2702d951f696fb0e7e00ea79f3fbfe91",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869510/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 8 juli 2026:",
     "published_at": "2026-06-30 16:32",
-    "scraped_at": "2026-06-30T17:21:44.878572"
-  },
-  {
-    "id": "3ad26eff6665f20376fec2514010b89a",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse consument iets positiever in juni",
-    "link": "https://www.beurs.nl/Nieuws/869504/Amerikaanse-consument-iets-positiever-in-juni.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in juni iets verbeterd, nadat het cijfer voor de maand ervoor flink neerwaarts werd bijgesteld. Dit bleek dinsdag uit cijfers van The Conference Board.",
-    "published_at": "2026-06-30 16:15",
-    "scraped_at": "2026-06-30T17:21:44.878572"
-  },
-  {
-    "id": "49b8457d58ce68408e71dcca8b1710c5",
-    "categorie": "Beursnieuws",
-    "titel": "Stabiel aantal vacatures in de VS",
-    "link": "https://www.beurs.nl/Nieuws/869503/Stabiel-aantal-vacatures-in-de-VS.aspx",
-    "intro": "Het aantal vacatures in de Verenigde Staten is in mei gelijk gebleven. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-06-30 16:12",
-    "scraped_at": "2026-06-30T17:21:44.878572"
-  },
-  {
-    "id": "e31563d87e14476fe8515c8b16dbe0e7",
-    "categorie": "Beursnieuws",
-    "titel": "Inkoopmanagersindex Chicago daalt",
-    "link": "https://www.beurs.nl/Nieuws/869502/Inkoopmanagersindex-Chicago-daalt.aspx",
-    "intro": "De inkoopmanagersindex voor de regio Chicago is in juni zoals verwacht gedaald, maar wel minder dan verwacht. Dit meldde het ISM dinsdagmiddag.",
-    "published_at": "2026-06-30 15:55",
-    "scraped_at": "2026-06-30T17:21:44.878572"
+    "scraped_at": "2026-06-30T19:15:03.311639"
   }
 ]
