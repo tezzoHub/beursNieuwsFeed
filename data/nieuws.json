@@ -1,12 +1,84 @@
 [
   {
+    "id": "9b86157a8e4a0c67b92df22dfae9de6d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/869511/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 8 juli 2026:",
+    "published_at": "2026-06-30 16:33",
+    "scraped_at": "2026-06-30T15:22:38.799129"
+  },
+  {
+    "id": "53e6e02168fb34505e7dabb511378a5e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/869509/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 8 juli 2026:",
+    "published_at": "2026-06-30 16:32",
+    "scraped_at": "2026-06-30T15:22:38.799129"
+  },
+  {
+    "id": "2702d951f696fb0e7e00ea79f3fbfe91",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/869510/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 8 juli 2026:",
+    "published_at": "2026-06-30 16:32",
+    "scraped_at": "2026-06-30T15:22:38.799129"
+  },
+  {
+    "id": "3ad26eff6665f20376fec2514010b89a",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse consument iets positiever in juni",
+    "link": "https://www.beurs.nl/Nieuws/869504/Amerikaanse-consument-iets-positiever-in-juni.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in juni iets verbeterd, nadat het cijfer voor de maand ervoor flink neerwaarts werd bijgesteld. Dit bleek dinsdag uit cijfers van The Conference Board.",
+    "published_at": "2026-06-30 16:15",
+    "scraped_at": "2026-06-30T15:22:38.799129"
+  },
+  {
+    "id": "49b8457d58ce68408e71dcca8b1710c5",
+    "categorie": "Beursnieuws",
+    "titel": "Stabiel aantal vacatures in de VS",
+    "link": "https://www.beurs.nl/Nieuws/869503/Stabiel-aantal-vacatures-in-de-VS.aspx",
+    "intro": "Het aantal vacatures in de Verenigde Staten is in mei gelijk gebleven. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-06-30 16:12",
+    "scraped_at": "2026-06-30T15:22:38.799129"
+  },
+  {
+    "id": "e31563d87e14476fe8515c8b16dbe0e7",
+    "categorie": "Beursnieuws",
+    "titel": "Inkoopmanagersindex Chicago daalt",
+    "link": "https://www.beurs.nl/Nieuws/869502/Inkoopmanagersindex-Chicago-daalt.aspx",
+    "intro": "De inkoopmanagersindex voor de regio Chicago is in juni zoals verwacht gedaald, maar wel minder dan verwacht. Dit meldde het ISM dinsdagmiddag.",
+    "published_at": "2026-06-30 15:55",
+    "scraped_at": "2026-06-30T15:22:38.799129"
+  },
+  {
+    "id": "7eef6d3573c2a00c25dc12e6fa435068",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse huizenprijzen stijgen harder",
+    "link": "https://www.beurs.nl/Nieuws/869499/Amerikaanse-huizenprijzen-stijgen-harder.aspx",
+    "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in april harder gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
+    "published_at": "2026-06-30 15:12",
+    "scraped_at": "2026-06-30T15:22:38.799129"
+  },
+  {
+    "id": "81f6c49b811d6802a8f740f8564a7d44",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op vlakke opening",
+    "link": "https://www.beurs.nl/Nieuws/869493/Wall-Street-koerst-af-op-vlakke-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een vrijwel vlakke opening tegemoet, aan het einde van een bijzonder sterk kwartaal.",
+    "published_at": "2026-06-30 14:50",
+    "scraped_at": "2026-06-30T15:22:38.799129"
+  },
+  {
     "id": "e55a40946a4ac0b125d4b4499961ea23",
     "categorie": "Beursnieuws",
     "titel": "Duitse inflatie gedaald",
     "link": "https://www.beurs.nl/Nieuws/869489/Duitse-inflatie-gedaald.aspx",
     "intro": "De Duitse inflatie is in juni onverwacht gedaald, dankzij minder sterk stijgende energieprijzen. Dit bleek dinsdag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-06-30 14:17",
-    "scraped_at": "2026-06-30T12:26:33.010794"
+    "scraped_at": "2026-06-30T15:22:38.799129"
   },
   {
     "id": "69698d960644cabf7068a2322b1273c1",
@@ -15,78 +87,6 @@
     "link": "https://www.iex.nl/artikel/868985/Laatste-kans-stem-op-uw-favoriete-AEX-aandeel-voor-juli.aspx",
     "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van juli? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
     "published_at": "2026-06-30 14:15",
-    "scraped_at": "2026-06-30T12:26:33.010794"
-  },
-  {
-    "id": "099a669f09d04e16f7c312fc0b0326dd",
-    "categorie": "Beursnieuws",
-    "titel": "Zwaargewicht ASML trekt de kar in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/869486/Zwaargewicht-ASML-trekt-de-kar-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag hoger en is daarmee op weg om een sterk kwartaal positief af te sluiten.",
-    "published_at": "2026-06-30 13:50",
-    "scraped_at": "2026-06-30T12:26:33.010794"
-  },
-  {
-    "id": "72b54c6383ef50cd99d7af6fcd3ef11f",
-    "categorie": "Beursnieuws",
-    "titel": "Video: Vastrentende waarden verdienen hun plek in de portefeuille",
-    "link": "https://www.beurs.nl/Nieuws/869483/Video-Vastrentende-waarden-verdienen-hun-plek-in-de-portefeuille.aspx",
-    "intro": "Vastrentende waarden verdienen hun plek in de portefeuille. Dit zegt beleggingsstrateeg Jorn Veeneman van JPMorgan Asset Management voor de camera van ABM Financial News op Beursplein 5.",
-    "published_at": "2026-06-30 13:33",
-    "scraped_at": "2026-06-30T12:26:33.010794"
-  },
-  {
-    "id": "46e15102555dbc494f4488407bc163bf",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren vlakke opening",
-    "link": "https://www.beurs.nl/Nieuws/869481/Futures-Wall-Street-signaleren-vlakke-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een vrijwel vlakke opening tegemoet, aan het einde van een bijzonder sterk kwartaal.",
-    "published_at": "2026-06-30 12:57",
-    "scraped_at": "2026-06-30T12:26:33.010794"
-  },
-  {
-    "id": "72951e75c4f29de34402253f724685b6",
-    "categorie": "Beursnieuws",
-    "titel": "Holland Colours presenteert nieuwe CEO",
-    "link": "https://www.beurs.nl/Nieuws/869480/Holland-Colours-presenteert-nieuwe-CEO.aspx",
-    "intro": "Holland Colours wil Chris Roggeband benoemen als nieuwe CEO. Dit maakte het Apeldoornse bedrijf dinsdag bekend.",
-    "published_at": "2026-06-30 12:52",
-    "scraped_at": "2026-06-30T12:26:33.010794"
-  },
-  {
-    "id": "ce9d32bd2ede507d89bc66055685ed12",
-    "categorie": "Crypto",
-    "titel": "Waarom Binance Coin op een cruciaal punt is beland",
-    "link": "https://www.beurs.nl/Artikel/869341/Waarom-Binance-Coin-op-een-cruciaal-punt-is-beland.aspx",
-    "intro": "De cryptomarkt heeft het de afgelopen tijd lastig en ook Binance Coin ontsnapt niet aan de zwakte. De cryptomunt behoorde de afgelopen jaren nog tot de sterkere spelers, maar zowel fundamenteel als technisch nemen de risico's toe.",
-    "published_at": "2026-06-30 12:50",
-    "scraped_at": "2026-06-30T12:26:33.010794"
-  },
-  {
-    "id": "11f6be8f1b89b43d8b7d2879e1e9f9c4",
-    "categorie": "Beursnieuws",
-    "titel": "Media: VS onderzoekt proeven Merck en AbbVie in China",
-    "link": "https://www.beurs.nl/Nieuws/869477/Media-VS-onderzoekt-proeven-Merck-en-AbbVie-in-China.aspx",
-    "intro": "Een groep Amerikaanse parlementsleden is een nationaal veiligheidsonderzoek gestart naar de farmaceuten Merck en AbbVie wegens klinische studies die zij in China hebben uitgevoerd. Dit meldde persbureau Reuters dinsdag op basis van ingeziene brieven.",
-    "published_at": "2026-06-30 12:28",
-    "scraped_at": "2026-06-30T12:26:33.010794"
-  },
-  {
-    "id": "7307e00c4f63ca12aa5ac1254b463e20",
-    "categorie": "Beursnieuws",
-    "titel": "Chipsector leidt Europese beurzen omhoog",
-    "link": "https://www.beurs.nl/Nieuws/869478/Chipsector-leidt-Europese-beurzen-omhoog.aspx",
-    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur hoger, geleid door aandelen van technologie- en industriebedrijven.",
-    "published_at": "2026-06-30 12:28",
-    "scraped_at": "2026-06-30T12:26:33.010794"
-  },
-  {
-    "id": "2f692c1b26541038fdf42dc498d640e0",
-    "categorie": "Opinie",
-    "titel": "Europa heeft een dubbel energieprobleem",
-    "link": "https://www.ieximpact.nl/artikel/869447/Europa-heeft-een-dubbel-energieprobleem.aspx",
-    "intro": "Volgens Triodos-econoom Joeri de Wilde is het versnellen van de energietransitie de enige manier om de Europese energiezekerheid veilig te stellen en daarmee ook de toekomstige economische groei.",
-    "published_at": "2026-06-30 11:55",
-    "scraped_at": "2026-06-30T12:26:33.010794"
+    "scraped_at": "2026-06-30T15:22:38.799129"
   }
 ]
