@@ -1,12 +1,84 @@
 [
   {
+    "id": "22960514a18e93a61768716ea536734c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/869696/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 9 juli 2026:",
+    "published_at": "2026-07-01 15:43",
+    "scraped_at": "2026-07-01T13:56:47.436496"
+  },
+  {
+    "id": "1cbce25258a8016de1e645c13babee27",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/869697/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 9 juli 2026:",
+    "published_at": "2026-07-01 15:42",
+    "scraped_at": "2026-07-01T13:56:47.436496"
+  },
+  {
+    "id": "32b6c7c55d7af5acf534f2512cd51a42",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/869698/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 9 juli 2026:",
+    "published_at": "2026-07-01 15:42",
+    "scraped_at": "2026-07-01T13:56:47.436496"
+  },
+  {
+    "id": "1f23325e426e5656235aadea85a63a3e",
+    "categorie": "Beursnieuws",
+    "titel": "Adyen rondt overnames Talon.One en Orb af",
+    "link": "https://www.beurs.nl/Nieuws/869690/Adyen-rondt-overnames-TalonOne-en-Orb-af.aspx",
+    "intro": "Adyen heeft de eerder aangekondigde overnames van Talon.One en Orb afgerond. Dit maakte het Nederlandse betaalbedrijf woensdag bekend.",
+    "published_at": "2026-07-01 15:10",
+    "scraped_at": "2026-07-01T13:56:47.436496"
+  },
+  {
+    "id": "942ffa385690479c7e1bb996550c72c6",
+    "categorie": "Beursnieuws",
+    "titel": "Licht lagere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/869679/Licht-lagere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een wat lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening krap 0,2 procent in het rood.",
+    "published_at": "2026-07-01 14:44",
+    "scraped_at": "2026-07-01T13:56:47.436496"
+  },
+  {
+    "id": "8f6c1cbc7639ff0d329257fdd03b1d26",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Google moet Klarna bijna 2 miljard dollar betalen",
+    "link": "https://www.beurs.nl/Nieuws/869674/Media-Google-moet-Klarna-bijna-2-miljard-dollar-betalen.aspx",
+    "intro": "Google moet bijna 2 miljard dollar betalen aan Pricerunner, een onderdeel van het Zweedse Klarna, wegens misbruik van zijn machtspositie op de markt voor prijsvergelijkingsdiensten. Dit meldde persbureau Bloomberg woensdag op basis van een vonnis van de rechtbank in Stockholm.",
+    "published_at": "2026-07-01 14:30",
+    "scraped_at": "2026-07-01T13:56:47.436496"
+  },
+  {
+    "id": "923deb9255d14cd33257b3fc28e6e12e",
+    "categorie": "Beursnieuws",
+    "titel": "ADP: tegenvallende banengroei in private sector VS",
+    "link": "https://www.beurs.nl/Nieuws/869673/ADP-tegenvallende-banengroei-in-private-sector-VS.aspx",
+    "intro": "De werkgelegenheid in de private sector in de Verenigde Staten is in juni minder hard dan verwacht gestegen. Dit bleek woensdag uit cijfers van loonstrookjesverwerker ADP.",
+    "published_at": "2026-07-01 14:21",
+    "scraped_at": "2026-07-01T13:56:47.436496"
+  },
+  {
+    "id": "32a91e6db570b910b1ce8846fb6dc4a6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX lager rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/869666/Beursupdate-AEX-lager-rond-middaguur.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdagmiddag lager. Rond de klok van twee uur daalde de AEX met krap 0,4 procent tot 1.076,17 punten.",
+    "published_at": "2026-07-01 13:51",
+    "scraped_at": "2026-07-01T13:56:47.436496"
+  },
+  {
     "id": "cb80efcc73938aeb86f04f18b04aff08",
     "categorie": "Beursnieuws",
     "titel": "Kroger koopt retailer Giant Eagle",
     "link": "https://www.beurs.nl/Nieuws/869655/Kroger-koopt-retailer-Giant-Eagle.aspx",
     "intro": "Kroger heeft een overeenkomst bereikt over de overname van Giant Eagle voor een bedrag van 1,65 miljard dollar. Dit maakte het Amerikaanse retailconcern woensdag bekend.",
     "published_at": "2026-07-01 13:21",
-    "scraped_at": "2026-07-01T11:45:58.428216"
+    "scraped_at": "2026-07-01T13:56:47.436496"
   },
   {
     "id": "280b028e8c998a2e1bc044b1289b81f7",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869654/CTP-opent-distributiecentrum-voor-Saint-Gobain.aspx",
     "intro": "CTP heeft in het Tsjechische Ceská Lípa een distributiecentrum van 11.500 vierkante meter geopend voor Sekurit Service, een dochterbedrijf van de Franse glasproducent Saint-Gobain. Dit meldde de logistieke vastgoedinvesteerder met een notering in Amsterdam woensdag.",
     "published_at": "2026-07-01 13:13",
-    "scraped_at": "2026-07-01T11:45:58.428216"
-  },
-  {
-    "id": "cec5997c097e72013a0fd9170abdb44a",
-    "categorie": "Beursnieuws",
-    "titel": "Futures wijzen op licht lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/869652/Futures-wijzen-op-licht-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een wat lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot krap 0,2 procent in het rood.",
-    "published_at": "2026-07-01 12:52",
-    "scraped_at": "2026-07-01T11:45:58.428216"
-  },
-  {
-    "id": "cd56e2fcc619980d21581280ae0cfd95",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil tot 4 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/869651/Obligatie-Nederland-wil-tot-4-miljard-euro-ophalen.aspx",
-    "intro": "Nederland wil maandag 6 juli tot 4 miljard euro ophalen met de heropening van de kort lopende leningen. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-07-01 12:49",
-    "scraped_at": "2026-07-01T11:45:58.428216"
-  },
-  {
-    "id": "889836b9fec9ea3dbfe34500df906438",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verdeeld rond het middaguur",
-    "link": "https://www.beurs.nl/Nieuws/869648/Europese-beurzen-verdeeld-rond-het-middaguur.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden woensdag rond het middaguur verdeeld, nadat dinsdag een sterk eerste halfjaar werd afgesloten.",
-    "published_at": "2026-07-01 12:29",
-    "scraped_at": "2026-07-01T11:45:58.428216"
-  },
-  {
-    "id": "4643ff4e2cfa308ca88291b2206ecdf0",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone teruggelopen",
-    "link": "https://www.beurs.nl/Nieuws/869632/Inflatie-eurozone-teruggelopen.aspx",
-    "intro": "De inflatie in de eurozone is in juni teruggelopen, maar de energieprijzen blijven nog hoog. Dit bleek woensdag uit voorlopige cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-07-01 11:54",
-    "scraped_at": "2026-07-01T11:45:58.428216"
-  },
-  {
-    "id": "95d55644c44daff87f8b58edef268b7d",
-    "categorie": "Beursnieuws",
-    "titel": "Minder groei voor Britse industrie",
-    "link": "https://www.beurs.nl/Nieuws/869630/Minder-groei-voor-Britse-industrie.aspx",
-    "intro": "De industrie in het Verenigd Koninkrijk is in juni in een lager hoger tempo gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
-    "published_at": "2026-07-01 11:48",
-    "scraped_at": "2026-07-01T11:45:58.428216"
-  },
-  {
-    "id": "a11cddd9f4299f6f3a03ae5e0d7d7043",
-    "categorie": "Beursnieuws",
-    "titel": "Omzet detailhandel opnieuw gestegen",
-    "link": "https://www.beurs.nl/Nieuws/869624/Omzet-detailhandel-opnieuw-gestegen.aspx",
-    "intro": "De Nederlandse detailhandel heeft in mei meer omgezet. Dit bleek woensdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-07-01 11:31",
-    "scraped_at": "2026-07-01T11:45:58.428216"
-  },
-  {
-    "id": "44ef3ad7a3bb837c138dad0d60031a70",
-    "categorie": "Beursnieuws",
-    "titel": "ASMI aan kop in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/869616/ASMI-aan-kop-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs bleef woensdagochtend dicht bij huis. Rond de klok van elf uur daalde de AEX 0,2 procent tot 1.078,50 punten.",
-    "published_at": "2026-07-01 11:06",
-    "scraped_at": "2026-07-01T11:45:58.428216"
-  },
-  {
-    "id": "20455852555ab6895c49a2bb5672fdca",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: UBS verhoogt koersdoel ASMI",
-    "link": "https://www.beurs.nl/Nieuws/869615/Beursblik-UBS-verhoogt-koersdoel-ASMI.aspx",
-    "intro": "UBS heeft woensdag het koersdoel voor ASMI verhoogd van 1.000 naar 1.150 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Francois-Xavier Bouvignies.",
-    "published_at": "2026-07-01 10:38",
-    "scraped_at": "2026-07-01T11:45:58.428216"
+    "scraped_at": "2026-07-01T13:56:47.436496"
   }
 ]
