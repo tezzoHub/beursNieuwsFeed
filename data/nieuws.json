@@ -1,12 +1,39 @@
 [
   {
+    "id": "81fb2cd9c37f53e9c0c55100d09f6e5a",
+    "categorie": "Beursnieuws",
+    "titel": "Tech lager op vlak Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/869747/Tech-lager-op-vlak-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen waren woensdagavond grotendeels in evenwicht, hoewel technologie-aandelen een stap terug deden na de winsten van dinsdag, na een verrassende stap van Meta en negatief commentaar over de grote koerswinsten van AI-gerelateerde aandelen van de bekende investeerder en shortseller Michael Burry.",
+    "published_at": "2026-07-01 20:42",
+    "scraped_at": "2026-07-01T18:51:27.257033"
+  },
+  {
+    "id": "45b06650a99b8e5744879544b9da4a6f",
+    "categorie": "Beursnieuws",
+    "titel": "Omzet GM blijft dalen",
+    "link": "https://www.beurs.nl/Nieuws/869746/Omzet-GM-blijft-dalen.aspx",
+    "intro": "General Motors heeft in het tweede kwartaal de verkoopcijfers met 4,2 procent zien dalen, door afnemende vraag naar zijn elektrische auto's en Chevrolet Silverado-pick-ups. Dat maakte de Amerikaanse autofabrikant woensdag bekend.",
+    "published_at": "2026-07-01 19:51",
+    "scraped_at": "2026-07-01T18:51:27.257033"
+  },
+  {
+    "id": "0a562036ff7e295ab23bbc58ffb24360",
+    "categorie": "Beursnieuws",
+    "titel": "Tech doet weer stap terug op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/869737/Tech-doet-weer-stap-terug-op-Europese-beurzen.aspx",
+    "intro": "De aandelenmarkten in Europa deden woensdag een stap terug. Halfgeleiderbedrijven leverden de winsten van dinsdag weer in, terwijl defensie en andere industriële sectoren het beter deden.",
+    "published_at": "2026-07-01 19:07",
+    "scraped_at": "2026-07-01T18:51:27.257033"
+  },
+  {
     "id": "c1e900438ff087b100e46b7d7c06fb76",
     "categorie": "Beursnieuws",
     "titel": "Lagarde noemt risico's inflatie en groei meer in evenwicht",
     "link": "https://www.beurs.nl/Nieuws/869727/Lagarde-noemt-risicos-inflatie-en-groei-meer-in-evenwicht.aspx",
     "intro": "De risico’s voor de inflatie en de economische groei in de eurozone zijn evenwichtiger geworden, na de daling van de energieprijzen in de afgelopen maand. Dat zei Christine Lagarde, president van de Europese Centrale Bank, woensdag.",
     "published_at": "2026-07-01 18:12",
-    "scraped_at": "2026-07-01T16:30:08.769091"
+    "scraped_at": "2026-07-01T18:51:27.257033"
   },
   {
     "id": "043953961a290fc64a5883e0e421b5f8",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/869728/CSG-richt-Amerikaanse-defensiedochter-op.aspx",
     "intro": "CSG heeft een Amerikaanse dochteronderneming CSG Land Systems North America opgericht, om zijn industriële aanwezigheid in de VS te vergroten. Dit maakte de industrie- en technologiegroep woensdag bekend.",
     "published_at": "2026-07-01 18:12",
-    "scraped_at": "2026-07-01T16:30:08.769091"
+    "scraped_at": "2026-07-01T18:51:27.257033"
   },
   {
     "id": "0ce0f8d8c321fbd9ff93e4eef4a5291f",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/869719/Zwaargewicht-ASML-drukt-AEX-naar-lager-slot.aspx",
     "intro": "De Amsterdamse beurs is woensdag lager gesloten, terwijl centrale bankiers tijdens de ECB-bijeenkomst in Portugal de kaarten tegen de borst hielden.",
     "published_at": "2026-07-01 17:48",
-    "scraped_at": "2026-07-01T16:30:08.769091"
+    "scraped_at": "2026-07-01T18:51:27.257033"
   },
   {
     "id": "f096faa7852d4f480d77306bbf634a3f",
@@ -33,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/869711/Slotcall-AEX-begint-nieuwe-beursmaand-met-verlies.aspx",
     "intro": "De AEX is de eerste handelsdag van juli niet zonder kleerscheuren doorgekomen. De index sluit uiteindelijk op 1073,14 punten, goed voor een verlies van 0,7%.",
     "published_at": "2026-07-01 17:35",
-    "scraped_at": "2026-07-01T16:30:08.769091"
+    "scraped_at": "2026-07-01T18:51:27.257033"
   },
   {
     "id": "8c2898bfeb68617c26e33835c2abe401",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/869709/Media-Meta-gaat-AI-rekenkracht-verkopen.aspx",
     "intro": "Meta Platforms werkt aan plannen voor een cloudtak die toegang tot AI-rekenkracht en AI-modellen gaat verkopen. Dit meldde persbureau Bloomberg woensdag op basis van ingewijden.",
     "published_at": "2026-07-01 16:40",
-    "scraped_at": "2026-07-01T16:30:08.769091"
+    "scraped_at": "2026-07-01T18:51:27.257033"
   },
   {
     "id": "734298986de6f9a82d3db68403281255",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869710/Amerikaanse-olievoorraden-blijven-dalen.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week opnieuw gedaald. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-07-01 16:39",
-    "scraped_at": "2026-07-01T16:30:08.769091"
+    "scraped_at": "2026-07-01T18:51:27.257033"
   },
   {
     "id": "37b0262d991515a870d741569a13d228",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869707/ISM-Amerikaanse-industrie-groeit-minder-hard.aspx",
     "intro": "De groei van de Amerikaanse industrie is in juni vertraagd. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-07-01 16:17",
-    "scraped_at": "2026-07-01T16:30:08.769091"
-  },
-  {
-    "id": "cfc86c5a216c49c58f61b6f8a28e713c",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse bouwuitgaven opnieuw licht toegenomen",
-    "link": "https://www.beurs.nl/Nieuws/869705/Amerikaanse-bouwuitgaven-opnieuw-licht-toegenomen.aspx",
-    "intro": "De bouwuitgaven in de Verenigde Staten zijn in mei opnieuw licht gestegen. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-07-01 16:06",
-    "scraped_at": "2026-07-01T16:30:08.769091"
-  },
-  {
-    "id": "1bdeeabae81c89021f7132b4b21ee2e7",
-    "categorie": "Beursnieuws",
-    "titel": "S&P: Groei industrie VS vertraagt",
-    "link": "https://www.beurs.nl/Nieuws/869704/SP-Groei-industrie-VS-vertraagt.aspx",
-    "intro": "De groei van de Amerikaanse industrie is in juni vertraagd. Dit bleek woensdag uit cijfers van SP Global.",
-    "published_at": "2026-07-01 15:57",
-    "scraped_at": "2026-07-01T16:30:08.769091"
-  },
-  {
-    "id": "22960514a18e93a61768716ea536734c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/869696/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 9 juli 2026:",
-    "published_at": "2026-07-01 15:43",
-    "scraped_at": "2026-07-01T16:30:08.769091"
+    "scraped_at": "2026-07-01T18:51:27.257033"
   }
 ]
