@@ -1,12 +1,30 @@
 [
   {
+    "id": "c257f5b2fd1229bb3537cf36470c0985",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/869921/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten en drie lager. ASML was de sterkste daler.",
+    "published_at": "2026-07-02 22:24",
+    "scraped_at": "2026-07-02T21:17:36.450972"
+  },
+  {
+    "id": "188840d7e663e8271796c3d3e74e87bb",
+    "categorie": "Beursnieuws",
+    "titel": "AI-twijfels verdelen Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/869920/AI-twijfels-verdelen-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag verdeeld gesloten, met opnieuw stevige verliezen voor de technologiesector en meer gematigde uitslagen voor de rest van de beurs.",
+    "published_at": "2026-07-02 22:16",
+    "scraped_at": "2026-07-02T21:17:36.450972"
+  },
+  {
     "id": "0876835cdcc27f8d4c0f722ff8b3da40",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs blijft dicht bij huis",
     "link": "https://www.beurs.nl/Nieuws/869914/Olieprijs-blijft-dicht-bij-huis.aspx",
     "intro": "De olieprijs is dinsdag dicht bij huis gebleven maar sloot licht hoger, voorafgaand aan een lang weekend voor de beurs vanwege de viering van de Amerikaanse onafhankelijkheid in het komende weekend.",
     "published_at": "2026-07-02 21:41",
-    "scraped_at": "2026-07-02T19:57:47.188246"
+    "scraped_at": "2026-07-02T21:17:36.450972"
   },
   {
     "id": "286f8310d6c2b94a51f9d32399b0defe",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/869907/AI-industrie-levert-opnieuw-winst-in-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen waren donderdag verdeeld, met opnieuw stevige verliezen voor de technologiesector en meer gematigde uitslagen voor de rest van de beurs.",
     "published_at": "2026-07-02 20:18",
-    "scraped_at": "2026-07-02T19:57:47.188246"
+    "scraped_at": "2026-07-02T21:17:36.450972"
   },
   {
     "id": "4da116cff513d4c273e2d97d2721cb44",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/869904/Europese-beurzen-sluiten-op-nieuw-records.aspx",
     "intro": "De Europese beurzen zijn donderdag hoger gesloten, nadat zorgen over een AI-bubbel beleggers lieten omzien naar andere sectoren, waar mooie koerswinsten werden geboekt. Een zwak Amerikaans banencijfer stoorde beleggers niet.",
     "published_at": "2026-07-02 18:59",
-    "scraped_at": "2026-07-02T19:57:47.188246"
+    "scraped_at": "2026-07-02T21:17:36.450972"
   },
   {
     "id": "2a22d8a65bd9b5ffcf6406eab7d6a2ba",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/869898/Dalende-chippers-houden-AEX-in-bedwang.aspx",
     "intro": "De Amsterdamse beurs is donderdag net onder de slotstand van een dag eerder geëindigd, waarbij de stevige verliezen voor de halfgeleiders de AEX in bedwang hielden, waar elders in Europa wel stevige winsten werden geboekt.",
     "published_at": "2026-07-02 17:59",
-    "scraped_at": "2026-07-02T19:57:47.188246"
+    "scraped_at": "2026-07-02T21:17:36.450972"
   },
   {
     "id": "2abf69b673592de6078f0fdb5ab310a8",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/869893/Beursblik-experts-vrezen-voor-slechte-koersprestaties-in-juli.aspx",
     "intro": "Beursexperts blijven somber gestemd. Dit bleek donderdag uit de maandelijkse enquête van analist Corné van Zeijl van Cardano.",
     "published_at": "2026-07-02 16:55",
-    "scraped_at": "2026-07-02T19:57:47.188246"
+    "scraped_at": "2026-07-02T21:17:36.450972"
   },
   {
     "id": "b0c3ca0d153c6f77afc67c35752137d0",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/869891/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 10 juli 2026:",
     "published_at": "2026-07-02 16:35",
-    "scraped_at": "2026-07-02T19:57:47.188246"
+    "scraped_at": "2026-07-02T21:17:36.450972"
   },
   {
     "id": "96119f62cdb063c9ac1f0375be33d552",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869889/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 10 juli 2026:",
     "published_at": "2026-07-02 16:34",
-    "scraped_at": "2026-07-02T19:57:47.188246"
+    "scraped_at": "2026-07-02T21:17:36.450972"
   },
   {
     "id": "93445031d05e82e08499372f7670b257",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869890/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 10 juli 2026:",
     "published_at": "2026-07-02 16:34",
-    "scraped_at": "2026-07-02T19:57:47.188246"
-  },
-  {
-    "id": "36867abd0d4b730957e10d89d33e5f69",
-    "categorie": "Beursnieuws",
-    "titel": "Video: welke aandelen zijn interessant voor de tweede jaarhelft?",
-    "link": "https://www.beurs.nl/Nieuws/869887/Video-welke-aandelen-zijn-interessant-voor-de-tweede-jaarhelft.aspx",
-    "intro": "Er zijn in de tweede jaarhelft voldoende kansen voor de actieve belegger. Dit zei Vincent Juvyns van het ING Global Investment Centre voor de camera van ABM Financial News in Brussel.",
-    "published_at": "2026-07-02 16:21",
-    "scraped_at": "2026-07-02T19:57:47.188246"
-  },
-  {
-    "id": "ff90c08c4c0d62d854a60f6aed4f25a1",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse fabrieksorders omlaag",
-    "link": "https://www.beurs.nl/Nieuws/869884/Amerikaanse-fabrieksorders-omlaag.aspx",
-    "intro": "De Amerikaanse fabrieksorders zijn in mei zoals verwacht gedaald, vooral door minder orders voor commerciële vliegtuigen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-07-02 16:13",
-    "scraped_at": "2026-07-02T19:57:47.188246"
+    "scraped_at": "2026-07-02T21:17:36.450972"
   }
 ]
