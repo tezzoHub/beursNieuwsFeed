@@ -1,56 +1,92 @@
 [
   {
-    "id": "7850be139de5a12d6cb25ebd84647d29",
+    "id": "16154d0528244a6c095102f427750f06",
     "categorie": "Beursnieuws",
-    "titel": "WDP doet Franse acquisitie",
-    "link": "https://www.beurs.nl/Nieuws/869780/WDP-doet-Franse-acquisitie.aspx",
-    "intro": "WDP heeft haar Franse platform versterkt met de aankoop van twee logistieke sites in Alzonne en Vendargues. Dit maakte de logistieke vastgoedspecialist donderdag bekend.",
-    "published_at": "2026-07-02 07:24",
-    "scraped_at": "2026-07-02T06:00:50.222608"
+    "titel": "Tankfabrikant KNDS stelt beursgang uit",
+    "link": "https://www.beurs.nl/Nieuws/869821/Tankfabrikant-KNDS-stelt-beursgang-uit.aspx",
+    "intro": "KNDS heeft zijn plannen voor een dubbele beursgang in Frankfurt en Parijs uitgesteld vanwege de huidige marktvolatiliteit. Dit meldde de Europese tankfabrikant woensdagavond.",
+    "published_at": "2026-07-02 11:31",
+    "scraped_at": "2026-07-02T09:39:28.377514"
   },
   {
-    "id": "87fc6a09b08abaa6c30c74f982d95464",
+    "id": "32ef990aa2b7191917119867ab1ea4d1",
     "categorie": "Beursnieuws",
-    "titel": "AI-chipverkoopgolf zet Aziatische beurzen onder druk",
-    "link": "https://www.beurs.nl/Nieuws/869779/AI-chipverkoopgolf-zet-Aziatische-beurzen-onder-druk.aspx",
-    "intro": "De Aziatische aandelenmarkten noteerden donderdag overwegend lager, waarbij de Zuid-Koreaanse beurs de grootste klappen kreeg.",
-    "published_at": "2026-07-02 07:19",
-    "scraped_at": "2026-07-02T06:00:50.222608"
+    "titel": "Halfgeleiders drukken op AEX",
+    "link": "https://www.beurs.nl/Nieuws/869818/Halfgeleiders-drukken-op-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend wat lager, vooral door verliezen bij halfgeleiders. Rond de klok van elf uur verloor de AEX 0,4 procent op 1.069 punten.",
+    "published_at": "2026-07-02 11:19",
+    "scraped_at": "2026-07-02T09:39:28.377514"
   },
   {
-    "id": "087dd651f33e84783e191371f686dbd2",
+    "id": "03b0cc699ae67af20b8e9ce656e06b16",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen voorzichtig",
-    "link": "https://www.beurs.nl/Nieuws/869778/Europese-beurzen-openen-voorzichtig.aspx",
-    "intro": "De Europese beurzen gaan donderdag een min of meer vlakke opening tegemoet.",
-    "published_at": "2026-07-02 07:10",
-    "scraped_at": "2026-07-02T06:00:50.222608"
+    "titel": "AkzoNobel halveert CO2-uitstoot",
+    "link": "https://www.beurs.nl/Nieuws/869817/AkzoNobel-halveert-CO2-uitstoot.aspx",
+    "intro": "AkzoNobel heeft vier jaar eerder dan gepland zijn doelstelling behaald voor het halveren van de CO2-uitstoot. Dit meldde de fabrikant van verf en coatings donderdag in een persbericht.",
+    "published_at": "2026-07-02 11:17",
+    "scraped_at": "2026-07-02T09:39:28.377514"
   },
   {
-    "id": "487f56ad4e2f88daa58bb5d2cb482395",
+    "id": "feda2ee5c00fc975e3e8adc16a54a2fe",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/869776/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 9 juli 2026:",
-    "published_at": "2026-07-02 07:01",
-    "scraped_at": "2026-07-02T06:00:50.222608"
+    "titel": "Werkloosheid eurozone blijft stabiel",
+    "link": "https://www.beurs.nl/Nieuws/869816/Werkloosheid-eurozone-blijft-stabiel.aspx",
+    "intro": "De werkloosheid in de eurozone is in mei stabiel gebleven, terwijl een lichte stijging werd voorzien. Dit bleek donderdagochtend uit cijfers van Eurostat, het statistiekbureau van de Europese Unie.",
+    "published_at": "2026-07-02 11:10",
+    "scraped_at": "2026-07-02T09:39:28.377514"
   },
   {
-    "id": "fcac56e84cb61388a970f52c6e49dc19",
+    "id": "91467eaef13cb168dc6f15b5b641a129",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/869775/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 9 juli 2026:",
-    "published_at": "2026-07-02 06:59",
-    "scraped_at": "2026-07-02T06:00:50.222608"
+    "titel": "Goldman Sachs verhoogt koersdoel ASML",
+    "link": "https://www.beurs.nl/Nieuws/869812/Goldman-Sachs-verhoogt-koersdoel-ASML.aspx",
+    "intro": "Goldman Sachs heeft donderdag het koersdoel voor ASML verhoogd van 1.770 naar 2.000 euro, met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-07-02 10:34",
+    "scraped_at": "2026-07-02T09:39:28.377514"
   },
   {
-    "id": "a20f8506b89b025978a31c9fe1e8a0c1",
+    "id": "af1f04792971ead52324c54227bdeb33",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/869774/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 9 juli 2026:",
-    "published_at": "2026-07-02 06:58",
-    "scraped_at": "2026-07-02T06:00:50.222608"
+    "titel": "Google verliest beroep tegen EU-boete",
+    "link": "https://www.beurs.nl/Nieuws/869810/Google-verliest-beroep-tegen-EU-boete.aspx",
+    "intro": "Google heeft het beroep tegen een miljardenboete van de Europese Unie over zijn Android-besturingssysteem verloren. Dit oordeelde het Europees Hof van Justitie, de hoogste rechter van de EU, donderdag.",
+    "published_at": "2026-07-02 10:11",
+    "scraped_at": "2026-07-02T09:39:28.377514"
+  },
+  {
+    "id": "8e7f5a4df66bb2d1ae80bdeedf76eb1d",
+    "categorie": "Must read",
+    "titel": "Must read: We zitten dus in een AI-bubbel",
+    "link": "https://www.iex.nl/artikel/869794/Must-read-We-zitten-dus-in-een-AI-bubbel.aspx",
+    "intro": "Plus: Slim beleggen in robots, biotech gaat als een raket, hoog dividend verslaat wel/niet de markt, huurzoekenden de klos en nog veel meer.",
+    "published_at": "2026-07-02 10:05",
+    "scraped_at": "2026-07-02T09:39:28.377514"
+  },
+  {
+    "id": "dda94d02f88fcabc2637674ef48df3d9",
+    "categorie": "Beursnieuws",
+    "titel": "Accsys geeft ruim 3 miljoen aandelen uit",
+    "link": "https://www.beurs.nl/Nieuws/869809/Accsys-geeft-ruim-3-miljoen-aandelen-uit.aspx",
+    "intro": "Accsys Technologies geeft ruim 3 miljoen nieuwe aandelen uit aan twee obligatiehouders die ervoor kozen opgebouwde rente op een converteerbare lening in aandelen te ontvangen. Dit maakte het bedrijf achter het duurzame houtproduct Accoya donderdag bekend.",
+    "published_at": "2026-07-02 10:05",
+    "scraped_at": "2026-07-02T09:39:28.377514"
+  },
+  {
+    "id": "4c0330dbbbb0088c0a355187f71d8b30",
+    "categorie": "Beursnieuws",
+    "titel": "Aperam herhaalt outlook",
+    "link": "https://www.beurs.nl/Nieuws/869805/Aperam-herhaalt-outlook.aspx",
+    "intro": "Aperam heeft de outlook voor het tweede kwartaal herhaald. Dit bleek woensdagavond uit een persbericht van de fabrikant van roestvast staal.",
+    "published_at": "2026-07-02 09:29",
+    "scraped_at": "2026-07-02T09:39:28.377514"
+  },
+  {
+    "id": "61f341dff7f4c7a84484209d718e7f2d",
+    "categorie": "Beursnieuws",
+    "titel": "Sif ziet af van obligatie-uitgifte",
+    "link": "https://www.beurs.nl/Nieuws/869802/Sif-ziet-af-van-obligatie-uitgifte.aspx",
+    "intro": "Sif heeft besloten om de uitgifte van een obligatielening niet door te zetten. Dit maakte de funderingsspecialist uit Roermond woensdagavond bekend.",
+    "published_at": "2026-07-02 09:16",
+    "scraped_at": "2026-07-02T09:39:28.377514"
   }
 ]
