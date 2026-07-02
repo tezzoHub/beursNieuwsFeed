@@ -1,12 +1,66 @@
 [
   {
+    "id": "2a22d8a65bd9b5ffcf6406eab7d6a2ba",
+    "categorie": "Beursnieuws",
+    "titel": "Dalende chippers houden AEX in bedwang",
+    "link": "https://www.beurs.nl/Nieuws/869898/Dalende-chippers-houden-AEX-in-bedwang.aspx",
+    "intro": "De Amsterdamse beurs is donderdag net onder de slotstand van een dag eerder geëindigd, waarbij de stevige verliezen voor de halfgeleiders de AEX in bedwang hielden, waar elders in Europa wel stevige winsten werden geboekt.",
+    "published_at": "2026-07-02 17:59",
+    "scraped_at": "2026-07-02T16:18:04.003085"
+  },
+  {
+    "id": "2abf69b673592de6078f0fdb5ab310a8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: experts vrezen voor slechte koersprestaties in juli",
+    "link": "https://www.beurs.nl/Nieuws/869893/Beursblik-experts-vrezen-voor-slechte-koersprestaties-in-juli.aspx",
+    "intro": "Beursexperts blijven somber gestemd. Dit bleek donderdag uit de maandelijkse enquête van analist Corné van Zeijl van Cardano.",
+    "published_at": "2026-07-02 16:55",
+    "scraped_at": "2026-07-02T16:18:04.003085"
+  },
+  {
+    "id": "b0c3ca0d153c6f77afc67c35752137d0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/869891/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 10 juli 2026:",
+    "published_at": "2026-07-02 16:35",
+    "scraped_at": "2026-07-02T16:18:04.003085"
+  },
+  {
+    "id": "96119f62cdb063c9ac1f0375be33d552",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/869889/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 10 juli 2026:",
+    "published_at": "2026-07-02 16:34",
+    "scraped_at": "2026-07-02T16:18:04.003085"
+  },
+  {
+    "id": "93445031d05e82e08499372f7670b257",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/869890/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 10 juli 2026:",
+    "published_at": "2026-07-02 16:34",
+    "scraped_at": "2026-07-02T16:18:04.003085"
+  },
+  {
+    "id": "36867abd0d4b730957e10d89d33e5f69",
+    "categorie": "Beursnieuws",
+    "titel": "Video: welke aandelen zijn interessant voor de tweede jaarhelft?",
+    "link": "https://www.beurs.nl/Nieuws/869887/Video-welke-aandelen-zijn-interessant-voor-de-tweede-jaarhelft.aspx",
+    "intro": "Er zijn in de tweede jaarhelft voldoende kansen voor de actieve belegger. Dit zei Vincent Juvyns van het ING Global Investment Centre voor de camera van ABM Financial News in Brussel.",
+    "published_at": "2026-07-02 16:21",
+    "scraped_at": "2026-07-02T16:18:04.003085"
+  },
+  {
     "id": "ff90c08c4c0d62d854a60f6aed4f25a1",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse fabrieksorders omlaag",
     "link": "https://www.beurs.nl/Nieuws/869884/Amerikaanse-fabrieksorders-omlaag.aspx",
     "intro": "De Amerikaanse fabrieksorders zijn in mei zoals verwacht gedaald, vooral door minder orders voor commerciële vliegtuigen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-07-02 16:13",
-    "scraped_at": "2026-07-02T14:23:08.936892"
+    "scraped_at": "2026-07-02T16:18:04.003085"
   },
   {
     "id": "8db69f4f25b53003d104b8a3c0031cae",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/869883/BAM-aan-de-slag-bij-hoofdkantoor-Rabobank.aspx",
     "intro": "BAM en Rabobank hebben een bouwteamovereenkomst gesloten om het Matserterrein naast het Rabobank-hoofdkantoor in Utrecht te herontwikkelen. Dit meldde BAM donderdagmiddag.",
     "published_at": "2026-07-02 15:58",
-    "scraped_at": "2026-07-02T14:23:08.936892"
+    "scraped_at": "2026-07-02T16:18:04.003085"
   },
   {
     "id": "7f59d8f6ca34f520c7230b6b0934d825",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869862/Licht-hogere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een vlakke tot licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening 0,1 procent hoger. Techbeurs Nasdaq wacht een 0,2 procent hogere opening. Eerder noteerden de futures nog licht lager.",
     "published_at": "2026-07-02 14:50",
-    "scraped_at": "2026-07-02T14:23:08.936892"
+    "scraped_at": "2026-07-02T16:18:04.003085"
   },
   {
     "id": "2baae6dd69fe910f2d18d3ba9af22479",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869857/Iets-minder-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week iets gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-07-02 14:37",
-    "scraped_at": "2026-07-02T14:23:08.936892"
-  },
-  {
-    "id": "8a2978d99f20da37adb198c05c7d9dd8",
-    "categorie": "Beursnieuws",
-    "titel": "Banengroei VS flink vertraagd",
-    "link": "https://www.beurs.nl/Nieuws/869858/Banengroei-VS-flink-vertraagd.aspx",
-    "intro": "Er zijn in juni minder banen gecreëerd in de Verenigde Staten dan in de maand ervoor, en ook minder dan vooraf werd verwacht. Dit bleek donderdag uit het banenrapport van de Amerikaanse overheid.",
-    "published_at": "2026-07-02 14:37",
-    "scraped_at": "2026-07-02T14:23:08.936892"
-  },
-  {
-    "id": "cd67eb2dfcdbac32e38b0f9eba8db63e",
-    "categorie": "Beursnieuws",
-    "titel": "AEX in het rood door halfgeleiders",
-    "link": "https://www.beurs.nl/Nieuws/869846/AEX-in-het-rood-door-halfgeleiders.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagmiddag wat lager, vooral door verliezen bij halfgeleiders. Rond de klok van twee uur daalde de AEX met 0,2 procent tot 1.071,33 punten.",
-    "published_at": "2026-07-02 13:57",
-    "scraped_at": "2026-07-02T14:23:08.936892"
-  },
-  {
-    "id": "4dabd46caeae994560fdfeeeb2f8b773",
-    "categorie": "Beursnieuws",
-    "titel": "\"ING koopt belang in Spaanse Singular Bank\"",
-    "link": "https://www.beurs.nl/Nieuws/869840/ING-koopt-belang-in-Spaanse-Singular-Bank.aspx",
-    "intro": "ING heeft een belang van 40 procent in Singular Bank gekocht. Dit meldde de Spaanse krant Expansion.",
-    "published_at": "2026-07-02 13:00",
-    "scraped_at": "2026-07-02T14:23:08.936892"
-  },
-  {
-    "id": "4e0f96d302d9be333efd0e93f3f129a4",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/869839/Vlakke-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd fractioneel lager. Techbeurs Nasdaq wacht een 0,4 procent lagere opening.",
-    "published_at": "2026-07-02 12:55",
-    "scraped_at": "2026-07-02T14:23:08.936892"
-  },
-  {
-    "id": "82e157ae5599da3c6d12e59a58d855cd",
-    "categorie": "Beursnieuws",
-    "titel": "CVC verkoopt Klara Renewables",
-    "link": "https://www.beurs.nl/Nieuws/869837/CVC-verkoopt-Klara-Renewables.aspx",
-    "intro": "CVC DIF heeft een akkoord bereikt met Actis over de verkoop van Klara Renewables. Dit maakte moederbedrijf CVC donderdag bekend.",
-    "published_at": "2026-07-02 12:30",
-    "scraped_at": "2026-07-02T14:23:08.936892"
-  },
-  {
-    "id": "45b23f75d4f5b6f927429a2168c924de",
-    "categorie": "Beursnieuws",
-    "titel": "Boskalis en Van Oord aan de slag in Zweedse haven",
-    "link": "https://www.beurs.nl/Nieuws/869836/Boskalis-en-Van-Oord-aan-de-slag-in-Zweedse-haven.aspx",
-    "intro": "Boskalis en Van Oord hebben een contract toegekend gekregen voor grootschalige baggerwerkzaamheden in de haven van het Zweedse Luleå. Dit maakten de twee Nederlandse maritieme dienstverleners donderdag bekend.",
-    "published_at": "2026-07-02 12:25",
-    "scraped_at": "2026-07-02T14:23:08.936892"
+    "scraped_at": "2026-07-02T16:18:04.003085"
   }
 ]
