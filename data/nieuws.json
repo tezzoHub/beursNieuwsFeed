@@ -1,21 +1,48 @@
 [
   {
+    "id": "7ee146d2e2a4fa8b414980f20511454a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/870018/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 13 juli 2026:",
+    "published_at": "2026-07-03 16:29",
+    "scraped_at": "2026-07-03T15:31:16.969587"
+  },
+  {
+    "id": "bd2a1ed0f03d9ab5dc37c667916ae0e7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/870019/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 13 juli 2026:",
+    "published_at": "2026-07-03 16:29",
+    "scraped_at": "2026-07-03T15:31:16.969587"
+  },
+  {
+    "id": "05740873bd6cdd2f913706bce8750482",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/870020/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 13 juli 2026:",
+    "published_at": "2026-07-03 16:29",
+    "scraped_at": "2026-07-03T15:31:16.969587"
+  },
+  {
     "id": "9051c32100f6558d4c94e7160017058a",
     "categorie": "Beursnieuws",
     "titel": "Wall Street gesloten terwijl VS onafhankelijkheid viert",
     "link": "https://www.beurs.nl/Nieuws/870006/Wall-Street-gesloten-terwijl-VS-onafhankelijkheid-viert.aspx",
     "intro": "Wall Street houdt de deuren vrijdag gesloten, terwijl Amerikanen 250 jaar onafhankelijkheid vieren. Independence Day vindt zaterdag plaats, maar in de Verenigde Staten heeft men al een dagje eerder vrij.",
     "published_at": "2026-07-03 14:44",
-    "scraped_at": "2026-07-03T13:17:39.890689"
+    "scraped_at": "2026-07-03T15:31:16.969587"
   },
   {
-    "id": "6ac25c6ae44aa96302e3c78bff09aafd",
+    "id": "b2c17f0aac75277c53753e588f4f48e2",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Citi verlaagt koersdoel Ahold Delhaize",
-    "link": "https://www.beurs.nl/Nieuws/870007/Beursblik-Citi-verlaagt-koersdoel-Ahold-Delhaize.aspx",
+    "titel": "Citi verlaagt koersdoel Ahold Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/870007/Citi-verlaagt-koersdoel-Ahold-Delhaize.aspx",
     "intro": "Citi Research heeft vrijdag het koersdoel voor Ahold Delhaize verlaagd van 40,50 naar 38,40 euro, met een ongewijzigd Neutraal advies. Dit bleek uit een rapport van de Amerikaanse bank.",
     "published_at": "2026-07-03 14:44",
-    "scraped_at": "2026-07-03T13:17:39.890689"
+    "scraped_at": "2026-07-03T15:31:16.969587"
   },
   {
     "id": "238561e41aec38d60ca519a1d3c2dd58",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Artikel/869980/Dit-is-de-grootste-koopkans-op-het-Damrak-volgens-experts.aspx",
     "intro": "Beleggingsexperts blijven opvallend somber over de beurs, ondanks de sterke opmars van de AEX dit jaar. Toch zien zij voor juli kansen in enkele achterblijvers, zo blijkt uit de beursenquête van Corné van Zeijl van Cardano.",
     "published_at": "2026-07-03 14:30",
-    "scraped_at": "2026-07-03T13:17:39.890689"
+    "scraped_at": "2026-07-03T15:31:16.969587"
   },
   {
     "id": "997dce099b1e262b9a2f716a95558cf6",
@@ -33,16 +60,16 @@
     "link": "https://www.beurs.nl/Nieuws/870004/Video-na-perfecte-storm-grootste-kans-in-20-jaar.aspx",
     "intro": "De obligatiemarkten hebben een \"perfect storm\" achter de rug, maar dat biedt kansen. Dit zei beleggingsstrateeg Vincent Juvyns van het ING Global Investment Centre voor de camera van ABM Financial News in Brussel.",
     "published_at": "2026-07-03 14:21",
-    "scraped_at": "2026-07-03T13:17:39.890689"
+    "scraped_at": "2026-07-03T15:31:16.969587"
   },
   {
-    "id": "07c9aaf4e944db7be85780cc2303c046",
+    "id": "1b4f3a4a1e69246f1f670b95a7a8f1aa",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX weet kleine winst vast te houden",
-    "link": "https://www.beurs.nl/Nieuws/870002/Beursupdate-AEX-weet-kleine-winst-vast-te-houden.aspx",
+    "titel": "AEX weet kleine winst vast te houden",
+    "link": "https://www.beurs.nl/Nieuws/870002/AEX-weet-kleine-winst-vast-te-houden.aspx",
     "intro": "De Amsterdamse beurs kabbelde vrijdagmiddag voort, bij relatief lage omzetten nu Wall Street de deuren gesloten in verband met de viering van de Amerikaanse onafhankelijkheid op zaterdag.",
     "published_at": "2026-07-03 13:49",
-    "scraped_at": "2026-07-03T13:17:39.890689"
+    "scraped_at": "2026-07-03T15:31:16.969587"
   },
   {
     "id": "74f014a8bcac5bded59a2b666a9c4efa",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869994/Europese-beurzen-verdeeld-rond-middaguur.aspx",
     "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd verdeeld, bij een gebrek aan impulsen nu Wall Street gesloten blijft vanwege de Amerikaanse onafhankelijkheid die dit weekend wordt gevierd.",
     "published_at": "2026-07-03 12:24",
-    "scraped_at": "2026-07-03T13:17:39.890689"
+    "scraped_at": "2026-07-03T15:31:16.969587"
   },
   {
     "id": "3a70af5879d55838767bd856ab53f599",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869992/Barclays-verlaagt-koersdoel-Ahold-Delhaize.aspx",
     "intro": "Barclays heeft het koersdoel voor Ahold Delhaize vrijdag licht verlaagd, van 39,50 tot 38,00 euro, terwijl het Gelijkgewogen advies bleef staan. Dit bleek uit een rapport van de Britse bank.",
     "published_at": "2026-07-03 11:38",
-    "scraped_at": "2026-07-03T13:17:39.890689"
-  },
-  {
-    "id": "8832519be06df187b400543e4da68fc6",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays verhoogt koersdoel Aalberts",
-    "link": "https://www.beurs.nl/Nieuws/869990/Barclays-verhoogt-koersdoel-Aalberts.aspx",
-    "intro": "Barclays heeft het koersdoel voor Aalberts verhoogd van 43,00 naar 46,00 euro, bij handhaving van het Overwogen advies. Dit bleek vrijdag uit een rapport van analist Rajesh Patki.",
-    "published_at": "2026-07-03 11:36",
-    "scraped_at": "2026-07-03T13:17:39.890689"
-  },
-  {
-    "id": "f6dbd7f7dea16d033008844de818907c",
-    "categorie": "Beursnieuws",
-    "titel": "Aalberts uitblinker in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/869988/Aalberts-uitblinker-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend in het groen, gelopen door de koerswinsten voor de 'chippers' en van Aalberts.",
-    "published_at": "2026-07-03 11:18",
-    "scraped_at": "2026-07-03T13:17:39.890689"
-  },
-  {
-    "id": "3cdde7a1e9c14b4e6a37eece10bdb50c",
-    "categorie": "Beursnieuws",
-    "titel": "Britse dienstensector verder onder druk",
-    "link": "https://www.beurs.nl/Nieuws/869982/Britse-dienstensector-verder-onder-druk.aspx",
-    "intro": "De dienstensector in het Verenigd Koninkrijk is in juni sterker gekrompen. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-07-03 10:45",
-    "scraped_at": "2026-07-03T13:17:39.890689"
+    "scraped_at": "2026-07-03T15:31:16.969587"
   }
 ]
