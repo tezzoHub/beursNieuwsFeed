@@ -1,12 +1,57 @@
 [
   {
+    "id": "9051c32100f6558d4c94e7160017058a",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street gesloten terwijl VS onafhankelijkheid viert",
+    "link": "https://www.beurs.nl/Nieuws/870006/Wall-Street-gesloten-terwijl-VS-onafhankelijkheid-viert.aspx",
+    "intro": "Wall Street houdt de deuren vrijdag gesloten, terwijl Amerikanen 250 jaar onafhankelijkheid vieren. Independence Day vindt zaterdag plaats, maar in de Verenigde Staten heeft men al een dagje eerder vrij.",
+    "published_at": "2026-07-03 14:44",
+    "scraped_at": "2026-07-03T13:17:39.890689"
+  },
+  {
+    "id": "6ac25c6ae44aa96302e3c78bff09aafd",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Citi verlaagt koersdoel Ahold Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/870007/Beursblik-Citi-verlaagt-koersdoel-Ahold-Delhaize.aspx",
+    "intro": "Citi Research heeft vrijdag het koersdoel voor Ahold Delhaize verlaagd van 40,50 naar 38,40 euro, met een ongewijzigd Neutraal advies. Dit bleek uit een rapport van de Amerikaanse bank.",
+    "published_at": "2026-07-03 14:44",
+    "scraped_at": "2026-07-03T13:17:39.890689"
+  },
+  {
+    "id": "238561e41aec38d60ca519a1d3c2dd58",
+    "categorie": "IEX Nieuws",
+    "titel": "Dit is de grootste koopkans op het Damrak volgens experts",
+    "link": "https://www.beurs.nl/Artikel/869980/Dit-is-de-grootste-koopkans-op-het-Damrak-volgens-experts.aspx",
+    "intro": "Beleggingsexperts blijven opvallend somber over de beurs, ondanks de sterke opmars van de AEX dit jaar. Toch zien zij voor juli kansen in enkele achterblijvers, zo blijkt uit de beursenquête van Corné van Zeijl van Cardano.",
+    "published_at": "2026-07-03 14:30",
+    "scraped_at": "2026-07-03T13:17:39.890689"
+  },
+  {
+    "id": "997dce099b1e262b9a2f716a95558cf6",
+    "categorie": "Beursnieuws",
+    "titel": "Video: na perfecte storm grootste kans in 20 jaar",
+    "link": "https://www.beurs.nl/Nieuws/870004/Video-na-perfecte-storm-grootste-kans-in-20-jaar.aspx",
+    "intro": "De obligatiemarkten hebben een \"perfect storm\" achter de rug, maar dat biedt kansen. Dit zei beleggingsstrateeg Vincent Juvyns van het ING Global Investment Centre voor de camera van ABM Financial News in Brussel.",
+    "published_at": "2026-07-03 14:21",
+    "scraped_at": "2026-07-03T13:17:39.890689"
+  },
+  {
+    "id": "07c9aaf4e944db7be85780cc2303c046",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX weet kleine winst vast te houden",
+    "link": "https://www.beurs.nl/Nieuws/870002/Beursupdate-AEX-weet-kleine-winst-vast-te-houden.aspx",
+    "intro": "De Amsterdamse beurs kabbelde vrijdagmiddag voort, bij relatief lage omzetten nu Wall Street de deuren gesloten in verband met de viering van de Amerikaanse onafhankelijkheid op zaterdag.",
+    "published_at": "2026-07-03 13:49",
+    "scraped_at": "2026-07-03T13:17:39.890689"
+  },
+  {
     "id": "74f014a8bcac5bded59a2b666a9c4efa",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen verdeeld rond middaguur",
     "link": "https://www.beurs.nl/Nieuws/869994/Europese-beurzen-verdeeld-rond-middaguur.aspx",
     "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd verdeeld, bij een gebrek aan impulsen nu Wall Street gesloten blijft vanwege de Amerikaanse onafhankelijkheid die dit weekend wordt gevierd.",
     "published_at": "2026-07-03 12:24",
-    "scraped_at": "2026-07-03T11:18:43.901334"
+    "scraped_at": "2026-07-03T13:17:39.890689"
   },
   {
     "id": "3a70af5879d55838767bd856ab53f599",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/869992/Barclays-verlaagt-koersdoel-Ahold-Delhaize.aspx",
     "intro": "Barclays heeft het koersdoel voor Ahold Delhaize vrijdag licht verlaagd, van 39,50 tot 38,00 euro, terwijl het Gelijkgewogen advies bleef staan. Dit bleek uit een rapport van de Britse bank.",
     "published_at": "2026-07-03 11:38",
-    "scraped_at": "2026-07-03T11:18:43.901334"
+    "scraped_at": "2026-07-03T13:17:39.890689"
   },
   {
     "id": "8832519be06df187b400543e4da68fc6",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/869990/Barclays-verhoogt-koersdoel-Aalberts.aspx",
     "intro": "Barclays heeft het koersdoel voor Aalberts verhoogd van 43,00 naar 46,00 euro, bij handhaving van het Overwogen advies. Dit bleek vrijdag uit een rapport van analist Rajesh Patki.",
     "published_at": "2026-07-03 11:36",
-    "scraped_at": "2026-07-03T11:18:43.901334"
+    "scraped_at": "2026-07-03T13:17:39.890689"
   },
   {
     "id": "f6dbd7f7dea16d033008844de818907c",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/869988/Aalberts-uitblinker-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend in het groen, gelopen door de koerswinsten voor de 'chippers' en van Aalberts.",
     "published_at": "2026-07-03 11:18",
-    "scraped_at": "2026-07-03T11:18:43.901334"
+    "scraped_at": "2026-07-03T13:17:39.890689"
   },
   {
     "id": "3cdde7a1e9c14b4e6a37eece10bdb50c",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/869982/Britse-dienstensector-verder-onder-druk.aspx",
     "intro": "De dienstensector in het Verenigd Koninkrijk is in juni sterker gekrompen. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
     "published_at": "2026-07-03 10:45",
-    "scraped_at": "2026-07-03T11:18:43.901334"
-  },
-  {
-    "id": "ee13eef5495cc3613c05e365eeca4441",
-    "categorie": "Beursnieuws",
-    "titel": "Nog slechts heel lichte krimp in Europese dienstensector",
-    "link": "https://www.beurs.nl/Nieuws/869974/Nog-slechts-heel-lichte-krimp-in-Europese-dienstensector.aspx",
-    "intro": "De dienstensector in de eurozone is in juni opnieuw gekrompen, maar in een minder hoog tempo. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-07-03 10:06",
-    "scraped_at": "2026-07-03T11:18:43.901334"
-  },
-  {
-    "id": "0ab5d2f87d59cb555a1d77c455aa4dc5",
-    "categorie": "Beursnieuws",
-    "titel": "Krimp in Duitse dienstensector houdt aan",
-    "link": "https://www.beurs.nl/Nieuws/869972/Krimp-in-Duitse-dienstensector-houdt-aan.aspx",
-    "intro": "De dienstensector in Duitsland is in juni opnieuw gekrompen, maar wel in een iets minder sterk tempo. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-07-03 09:58",
-    "scraped_at": "2026-07-03T11:18:43.901334"
-  },
-  {
-    "id": "8b709a19608b03f91f90473a83516abb",
-    "categorie": "Beursnieuws",
-    "titel": "Franse dienstensector krimpt minder hard",
-    "link": "https://www.beurs.nl/Nieuws/869971/Franse-dienstensector-krimpt-minder-hard.aspx",
-    "intro": "De Franse dienstensector bleef in juni onder druk staan. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-07-03 09:54",
-    "scraped_at": "2026-07-03T11:18:43.901334"
-  },
-  {
-    "id": "a9f8da1114f4cc1f906f7179e2b863ec",
-    "categorie": "Beursnieuws",
-    "titel": "Italiaanse dienstensector groeit weer",
-    "link": "https://www.beurs.nl/Nieuws/869969/Italiaanse-dienstensector-groeit-weer.aspx",
-    "intro": "De dienstensector in Italië is in juni weer gegroeid. Dit bleek vrijdag uit cijfers van SP Global.",
-    "published_at": "2026-07-03 09:49",
-    "scraped_at": "2026-07-03T11:18:43.901334"
-  },
-  {
-    "id": "e34b9d97e243dc85757972eb1b568715",
-    "categorie": "Beursnieuws",
-    "titel": "Video: zitten we in een AI-bubbel?",
-    "link": "https://www.beurs.nl/Nieuws/869968/Video-zitten-we-in-een-AI-bubbel.aspx",
-    "intro": "SpaceX is naar de beurs en dat zorgt voor bubbelpraat onder beleggers, maar is er ook sprake van een AI-bubbel?",
-    "published_at": "2026-07-03 09:36",
-    "scraped_at": "2026-07-03T11:18:43.901334"
+    "scraped_at": "2026-07-03T13:17:39.890689"
   }
 ]
