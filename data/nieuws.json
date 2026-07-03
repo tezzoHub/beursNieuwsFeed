@@ -1,38 +1,92 @@
 [
   {
-    "id": "9e6ff8b7869efb4502f78e69936a3599",
+    "id": "ee13eef5495cc3613c05e365eeca4441",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen hoger",
-    "link": "https://www.beurs.nl/Nieuws/869937/Europese-beurzen-openen-hoger.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet. Vanwege een feestdag blijft Wall Street vandaag gesloten.",
-    "published_at": "2026-07-03 07:03",
-    "scraped_at": "2026-07-03T05:08:38.407792"
+    "titel": "Nog slechts heel lichte krimp in Europese dienstensector",
+    "link": "https://www.beurs.nl/Nieuws/869974/Nog-slechts-heel-lichte-krimp-in-Europese-dienstensector.aspx",
+    "intro": "De dienstensector in de eurozone is in juni opnieuw gekrompen, maar in een minder hoog tempo. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-07-03 10:06",
+    "scraped_at": "2026-07-03T08:30:51.472161"
   },
   {
-    "id": "d3bcf8c0f235b2623e70b0435692ac33",
+    "id": "0ab5d2f87d59cb555a1d77c455aa4dc5",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/869934/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 10 juli 2026:",
-    "published_at": "2026-07-03 06:54",
-    "scraped_at": "2026-07-03T05:08:38.407792"
+    "titel": "Krimp in Duitse dienstensector houdt aan",
+    "link": "https://www.beurs.nl/Nieuws/869972/Krimp-in-Duitse-dienstensector-houdt-aan.aspx",
+    "intro": "De dienstensector in Duitsland is in juni opnieuw gekrompen, maar wel in een iets minder sterk tempo. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-07-03 09:58",
+    "scraped_at": "2026-07-03T08:30:51.472161"
   },
   {
-    "id": "69fbd0d252ec6162da132a36252f7a94",
+    "id": "8b709a19608b03f91f90473a83516abb",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/869935/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 10 juli 2026:",
-    "published_at": "2026-07-03 06:54",
-    "scraped_at": "2026-07-03T05:08:38.407792"
+    "titel": "Franse dienstensector krimpt minder hard",
+    "link": "https://www.beurs.nl/Nieuws/869971/Franse-dienstensector-krimpt-minder-hard.aspx",
+    "intro": "De Franse dienstensector bleef in juni onder druk staan. Dit bleek vrijdag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-07-03 09:54",
+    "scraped_at": "2026-07-03T08:30:51.472161"
   },
   {
-    "id": "1dc4b17bd82f1b75cdfc8b7954ae5ec6",
+    "id": "a9f8da1114f4cc1f906f7179e2b863ec",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/869936/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 10 juli 2026:",
-    "published_at": "2026-07-03 06:54",
-    "scraped_at": "2026-07-03T05:08:38.407792"
+    "titel": "Italiaanse dienstensector groeit weer",
+    "link": "https://www.beurs.nl/Nieuws/869969/Italiaanse-dienstensector-groeit-weer.aspx",
+    "intro": "De dienstensector in Italië is in juni weer gegroeid. Dit bleek vrijdag uit cijfers van SP Global.",
+    "published_at": "2026-07-03 09:49",
+    "scraped_at": "2026-07-03T08:30:51.472161"
+  },
+  {
+    "id": "e34b9d97e243dc85757972eb1b568715",
+    "categorie": "Beursnieuws",
+    "titel": "Video: zitten we in een AI-bubbel?",
+    "link": "https://www.beurs.nl/Nieuws/869968/Video-zitten-we-in-een-AI-bubbel.aspx",
+    "intro": "SpaceX is naar de beurs en dat zorgt voor bubbelpraat onder beleggers, maar is er ook sprake van een AI-bubbel?",
+    "published_at": "2026-07-03 09:36",
+    "scraped_at": "2026-07-03T08:30:51.472161"
+  },
+  {
+    "id": "149f3e83c413b1ffd4fc82f8c8b67b23",
+    "categorie": "Must read",
+    "titel": "Must read: waarom de technologiesector steeds dominanter wordt",
+    "link": "https://www.iex.nl/artikel/869831/Must-read-waarom-de-technologiesector-steeds-dominanter-wordt.aspx",
+    "intro": "Technologie vertegenwoordigt inmiddels bijna 40% van de S&P500 en is verantwoordelijk voor het grootste deel van het rendement. De vraag is of dit houdbaar is. Plus; de Fed ziet het inflatierisico dalen en hoe kunnen beleggers zich voorbereiden op meer volatiliteit?",
+    "published_at": "2026-07-03 09:20",
+    "scraped_at": "2026-07-03T08:30:51.472161"
+  },
+  {
+    "id": "2cec88dd958208ab0be33731a606264f",
+    "categorie": "Beursnieuws",
+    "titel": "Spaanse dienstensector groeit veel harder",
+    "link": "https://www.beurs.nl/Nieuws/869962/Spaanse-dienstensector-groeit-veel-harder.aspx",
+    "intro": "De dienstensector in Spanje is in juni stevig gegroeid. Dit bleek vrijdag uit cijfers van SP Global.",
+    "published_at": "2026-07-03 09:19",
+    "scraped_at": "2026-07-03T08:30:51.472161"
+  },
+  {
+    "id": "417686c3a3968a52a24dbc21e8121506",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger van start gegaan onder aanvoering van de halfgeleiders",
+    "link": "https://www.beurs.nl/Nieuws/869961/AEX-hoger-van-start-gegaan-onder-aanvoering-van-de-halfgeleiders.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,4 procent hoger op 1.077,04 punten, terwijl de Midkap ook 0,4 procent won.",
+    "published_at": "2026-07-03 09:11",
+    "scraped_at": "2026-07-03T08:30:51.472161"
+  },
+  {
+    "id": "685612acc93d588fe18bdcc7d0ce749d",
+    "categorie": "Beursnieuws",
+    "titel": "Rheinmetall waarschuwt voor gevolgen verlies Duitse fregrattenopdracht",
+    "link": "https://www.beurs.nl/Nieuws/869956/Rheinmetallwaarschuwtvoorgevolgenverlies-Duitse-fregrattenopdracht.aspx",
+    "intro": "Rheinmetall heeft gewaarschuwd voor de gevolgen voor het mislopen van een grote Duitse opdracht voor de bouw van een aantal F126-fregatten. Dit deed de Duitse defensiereus vrijdag voorbeurs.",
+    "published_at": "2026-07-03 09:01",
+    "scraped_at": "2026-07-03T08:30:51.472161"
+  },
+  {
+    "id": "fa0b72bfc7d8b2fc7c477776a96c44d2",
+    "categorie": "Beleggen",
+    "titel": "\"De grootste impact maak je aan de financieringstafel\"",
+    "link": "https://www.ieximpact.nl/artikel/869332/De-grootste-impact-maak-je-aan-de-financieringstafel.aspx",
+    "intro": "Wie tastbare impact en rendement wil boeken, helpt mee het Nederlandse MKB te financieren, betoogt Erik Bakker, CEO van OHV Vermogensbeheer in een gastcolumn. \"Niet op de beurs, maar in het Nederlandse midden- en kleinbedrijf maakt kapitaal het grootste verschil.\"",
+    "published_at": "2026-07-03 09:00",
+    "scraped_at": "2026-07-03T08:30:51.472161"
   }
 ]
