@@ -1,12 +1,66 @@
 [
   {
+    "id": "f05c0fb0af5ed0435610e7211ad4f047",
+    "categorie": "Beursnieuws",
+    "titel": "Green Earth groeit door",
+    "link": "https://www.beurs.nl/Nieuws/870198/Green-Earth-groeit-door.aspx",
+    "intro": "Green Earth is in de afgelopen maanden verder gegroeid, terwijl de commerciële doorbraak volgens eigen zeggen doorzet. Dit meldde de ontwikkelaar van natuurprojecten maandagavond nabeurs.",
+    "published_at": "2026-07-06 18:53",
+    "scraped_at": "2026-07-06T17:30:08.702376"
+  },
+  {
+    "id": "b457b85e05098572231561600ba9e8b4",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen verdeeld gesloten",
+    "link": "https://www.beurs.nl/Nieuws/870197/Europese-beurzen-verdeeld-gesloten.aspx",
+    "intro": "De Europese beurzen zijn maandag verdeeld gesloten, terwijl beleggers voorzichtig manoeuvreerden in aanloop naar onder meer de Fed-notulen en de voorlopige cijfers van Samsung die dinsdag geagendeerd staan.",
+    "published_at": "2026-07-06 18:44",
+    "scraped_at": "2026-07-06T17:30:08.702376"
+  },
+  {
+    "id": "719f25f429071993792518014e96aded",
+    "categorie": "Beursnieuws",
+    "titel": "Euronext meldt hogere volumes",
+    "link": "https://www.beurs.nl/Nieuws/870195/Euronext-meldt-hogere-volumes.aspx",
+    "intro": "De handelsvolumes van contante effecten op Euronext zijn in juni gestegen. Dit maakte de Europese beursuitbater maandagavond bekend.",
+    "published_at": "2026-07-06 18:19",
+    "scraped_at": "2026-07-06T17:30:08.702376"
+  },
+  {
+    "id": "02efbd4a22333b508385a2538ee62d09",
+    "categorie": "Beursnieuws",
+    "titel": "Ease2pay levert ICT-diensten voor ANWB-app",
+    "link": "https://www.beurs.nl/Nieuws/870194/Ease2pay-levert-ICT-diensten-voor-ANWB-app.aspx",
+    "intro": "Ease2pay en ANWB hebben een overeenkomst getekend waarmee Ease2pay vanaf 2027 de ICT-diensten levert voor de parkeertransacties in de ANWB Onderweg app. Dit meldde het betaalplatform maandagavond.",
+    "published_at": "2026-07-06 18:13",
+    "scraped_at": "2026-07-06T17:30:08.702376"
+  },
+  {
+    "id": "6afc4b9f2c040f5476c4d30b9acf965c",
+    "categorie": "Beursnieuws",
+    "titel": "Besi gebeten hond in lichtrode AEX",
+    "link": "https://www.beurs.nl/Nieuws/870189/Besi-gebeten-hond-in-lichtrode-AEX.aspx",
+    "intro": "De Amsterdamse beurs is maandag licht lager geëindigd, waarbij Besi een opvallende daler was. De AEX verloor uiteindelijk minder dan 0,1 procent op 1.082,41 punten.",
+    "published_at": "2026-07-06 17:52",
+    "scraped_at": "2026-07-06T17:30:08.702376"
+  },
+  {
+    "id": "3eb496b130d93a1350b3a2edbae1c20d",
+    "categorie": "Beursnieuws",
+    "titel": "Xbox op de schop bij grote reorganisatie Microsoft",
+    "link": "https://www.beurs.nl/Nieuws/870179/Xbox-op-de-schop-bij-grote-reorganisatie-Microsoft.aspx",
+    "intro": "Microsoft verkoopt of verzelfstandigt vier gamestudio's en onderzoekt strategische opties voor een vijfde, als onderdeel van een ingrijpende reorganisatie van zijn gamingdivisie Xbox. Dat maakte het softwareconcern maandag bekend.",
+    "published_at": "2026-07-06 16:34",
+    "scraped_at": "2026-07-06T17:30:08.702376"
+  },
+  {
     "id": "47646222440f674f77f0890749ceb125",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/870176/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 14 juli 2026:",
     "published_at": "2026-07-06 16:29",
-    "scraped_at": "2026-07-06T14:39:53.325497"
+    "scraped_at": "2026-07-06T17:30:08.702376"
   },
   {
     "id": "2201ba58292e8c944e87d08daf0136b0",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870177/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 14 juli 2026:",
     "published_at": "2026-07-06 16:29",
-    "scraped_at": "2026-07-06T14:39:53.325497"
+    "scraped_at": "2026-07-06T17:30:08.702376"
   },
   {
     "id": "2bcfa292a0a58bc4f0e84c3fc70aba0f",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870178/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 14 juli 2026:",
     "published_at": "2026-07-06 16:29",
-    "scraped_at": "2026-07-06T14:39:53.325497"
+    "scraped_at": "2026-07-06T17:30:08.702376"
   },
   {
     "id": "f3d2bed2dab25256a4e90f6c29951adf",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870172/ISM-dienstensector-VS-vertraagt-weer.aspx",
     "intro": "De activiteit in de Amerikaanse dienstensector is in juni weer vertraagd. Dit bleek maandag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-07-06 16:10",
-    "scraped_at": "2026-07-06T14:39:53.325497"
-  },
-  {
-    "id": "f6828655823a711afd7ba35d39f99ce1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: geen zorgen voor lange termijn bij Besi",
-    "link": "https://www.beurs.nl/Nieuws/870171/Beursblik-geen-zorgen-voor-lange-termijn-bij-Besi.aspx",
-    "intro": "Het aandeel BE Semiconductor Industries staat maandag stevig onder druk. Aanleiding is berichtgeving uit Zuid-Korea dat SK Hynix en Samsung hun timing voor de adoptie van hybrid bonding zouden herzien.",
-    "published_at": "2026-07-06 16:04",
-    "scraped_at": "2026-07-06T14:39:53.325497"
-  },
-  {
-    "id": "2d3ff1d05ecb32a6e54216fbb044232d",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse dienstensector groeit inderdaad iets sneller",
-    "link": "https://www.beurs.nl/Nieuws/870169/Amerikaanse-dienstensector-groeit-inderdaad-iets-sneller.aspx",
-    "intro": "De dienstensector in de Verenigde Staten is in juni inderdaad iets sneller gegroeid dan in de maand ervoor. Dit bleek maandag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-07-06 15:52",
-    "scraped_at": "2026-07-06T14:39:53.325497"
-  },
-  {
-    "id": "b1dc2473c90eb364759ae2de32141c99",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: beleggers vrezen voor oververhitting bij AI-aandelen",
-    "link": "https://www.beurs.nl/Nieuws/870166/Beursblik-beleggers-vrezen-voor-oververhitting-bij-AI-aandelen.aspx",
-    "intro": "Beleggers zijn bang voor oververhitting bij AI-aandelen, maar het thema blijft wel kansrijk. Dit bleek uit een rapport samengesteld op een onderzoek onder beleggers van Lynx.",
-    "published_at": "2026-07-06 15:39",
-    "scraped_at": "2026-07-06T14:39:53.325497"
-  },
-  {
-    "id": "ea885ab77a6dd8a3782de8f882d48923",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel Unilever licht",
-    "link": "https://www.beurs.nl/Nieuws/870164/Beursblik-Jefferies-verhoogt-koersdoel-Unilever-licht.aspx",
-    "intro": "Jefferies heeft het koersdoel voor Unilever licht verhoogd, van 37,00 naar 38,00 Britse pond, in aanloop naar de kwartaalcijfers later deze maand. Dit bleek maandag uit een rapport van de zakenbank, dat zijn Underperform advies handhaafde.",
-    "published_at": "2026-07-06 15:32",
-    "scraped_at": "2026-07-06T14:39:53.325497"
-  },
-  {
-    "id": "787d4998c7731aa040290f17c166fa8f",
-    "categorie": "Beursnieuws",
-    "titel": "Tech wacht herstel op Wall Street na lang weekend",
-    "link": "https://www.beurs.nl/Nieuws/870154/Tech-wacht-herstel-op-Wall-Street-na-lang-weekend.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een overwegend hogere opening tegemoet, nadat de beursvloer op Wall Street vrijdag leeg bleef vanwege de viering van de Amerikaanse onafhankelijkheid.",
-    "published_at": "2026-07-06 14:45",
-    "scraped_at": "2026-07-06T14:39:53.325497"
-  },
-  {
-    "id": "56e56aedbbf42830a6f6f11f24328ab6",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse beursgang SK Hynix goed nieuws voor ASML",
-    "link": "https://www.beurs.nl/Nieuws/870149/Amerikaanse-beursgangSK-Hynix-goed-nieuws-voor-ASML.aspx",
-    "intro": "SK Hynix wil voor bijna 12 biljoen Koreaanse won aan EUV-scanners kopen. Dit bleek maandag uit documenten die het Zuid-Koreaanse bedrijf indiende bij de Amerikaanse beurswaakhond SEC in aanloop naar de IPO die het bedrijf plant voor aanstaande vrijdag aan de Nasdaq.",
-    "published_at": "2026-07-06 14:24",
-    "scraped_at": "2026-07-06T14:39:53.325497"
+    "scraped_at": "2026-07-06T17:30:08.702376"
   }
 ]
