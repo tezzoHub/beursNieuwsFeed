@@ -1,12 +1,30 @@
 [
   {
+    "id": "6541cc17efc2985733a7c53d8504401d",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street hoger gesloten, Dow Jones scherpt recordstanden aan",
+    "link": "https://www.beurs.nl/Nieuws/870210/Wall-Street-hoger-gesloten-Dow-Jones-scherpt-recordstanden-aan.aspx",
+    "intro": "De Amerikaanse beurzen zijn maandag hoger gesloten, na een relatief kalme handelssessie.",
+    "published_at": "2026-07-06 22:24",
+    "scraped_at": "2026-07-06T21:09:40.661931"
+  },
+  {
+    "id": "de0cc11563fb5b2883b0f419e7aec5d7",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street hoger gesloten, Dow Jones scherpt recordstanden aan",
+    "link": "https://www.beurs.nl/Nieuws/870209/Wall-Street-hoger-gesloten-Dow-Jones-scherpt-recordstanden-aan.aspx",
+    "intro": "De Amerikaanse beurzen zijn maandag hoger gesloten, na een relatief kalme handelssessie.",
+    "published_at": "2026-07-06 22:15",
+    "scraped_at": "2026-07-06T21:09:40.661931"
+  },
+  {
     "id": "f578942c4a3f815aa3acf8f7f708f6cc",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen dicht bij huis gebleven",
     "link": "https://www.beurs.nl/Nieuws/870208/Olieprijzen-dicht-bij-huis-gebleven.aspx",
     "intro": "De olieprijzen zijn maandag licht lager gesloten en bewogen rond de niveaus van vóór het conflict met Iran. De daling volgde nadat Saoedi-Arabië zijn officiële verkoopprijzen fors verlaagde, OPEC+ instemde met een verdere productieverhoging vanaf augustus en de export via de Straat van Hormuz verder aantrok.",
     "published_at": "2026-07-06 20:49",
-    "scraped_at": "2026-07-06T19:24:01.427597"
+    "scraped_at": "2026-07-06T21:09:40.661931"
   },
   {
     "id": "60a7e39024f5bafad7c3d3df690f5121",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/870205/Chipaandelen-trekken-Wall-Street-omhoog.aspx",
     "intro": "De Amerikaanse beurzen noteerden maandag overwegend hoger, waarbij beleggers zich weer op technologieaandelen stortten nadat de handel in AI-gerelateerde aandelen in de aanloop naar het afgelopen feestweekeinde was afgezwakt.",
     "published_at": "2026-07-06 19:40",
-    "scraped_at": "2026-07-06T19:24:01.427597"
+    "scraped_at": "2026-07-06T21:09:40.661931"
   },
   {
     "id": "f05c0fb0af5ed0435610e7211ad4f047",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/870198/Green-Earth-groeit-door.aspx",
     "intro": "Green Earth is in de afgelopen maanden verder gegroeid, terwijl de commerciële doorbraak volgens eigen zeggen doorzet. Dit meldde de ontwikkelaar van natuurprojecten maandagavond nabeurs.",
     "published_at": "2026-07-06 18:53",
-    "scraped_at": "2026-07-06T19:24:01.427597"
+    "scraped_at": "2026-07-06T21:09:40.661931"
   },
   {
     "id": "b457b85e05098572231561600ba9e8b4",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/870197/Europese-beurzen-verdeeld-gesloten.aspx",
     "intro": "De Europese beurzen zijn maandag verdeeld gesloten, terwijl beleggers voorzichtig manoeuvreerden in aanloop naar onder meer de Fed-notulen en de voorlopige cijfers van Samsung die dinsdag geagendeerd staan.",
     "published_at": "2026-07-06 18:44",
-    "scraped_at": "2026-07-06T19:24:01.427597"
+    "scraped_at": "2026-07-06T21:09:40.661931"
   },
   {
     "id": "719f25f429071993792518014e96aded",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870195/Euronext-meldt-hogere-volumes.aspx",
     "intro": "De handelsvolumes van contante effecten op Euronext zijn in juni gestegen. Dit maakte de Europese beursuitbater maandagavond bekend.",
     "published_at": "2026-07-06 18:19",
-    "scraped_at": "2026-07-06T19:24:01.427597"
+    "scraped_at": "2026-07-06T21:09:40.661931"
   },
   {
     "id": "02efbd4a22333b508385a2538ee62d09",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870194/Ease2pay-levert-ICT-diensten-voor-ANWB-app.aspx",
     "intro": "Ease2pay en ANWB hebben een overeenkomst getekend waarmee Ease2pay vanaf 2027 de ICT-diensten levert voor de parkeertransacties in de ANWB Onderweg app. Dit meldde het betaalplatform maandagavond.",
     "published_at": "2026-07-06 18:13",
-    "scraped_at": "2026-07-06T19:24:01.427597"
+    "scraped_at": "2026-07-06T21:09:40.661931"
   },
   {
     "id": "6afc4b9f2c040f5476c4d30b9acf965c",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870189/Besi-gebeten-hond-in-lichtrode-AEX.aspx",
     "intro": "De Amsterdamse beurs is maandag licht lager geëindigd, waarbij Besi een opvallende daler was. De AEX verloor uiteindelijk minder dan 0,1 procent op 1.082,41 punten.",
     "published_at": "2026-07-06 17:52",
-    "scraped_at": "2026-07-06T19:24:01.427597"
+    "scraped_at": "2026-07-06T21:09:40.661931"
   },
   {
     "id": "3eb496b130d93a1350b3a2edbae1c20d",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870179/Xbox-op-de-schop-bij-grote-reorganisatie-Microsoft.aspx",
     "intro": "Microsoft verkoopt of verzelfstandigt vier gamestudio's en onderzoekt strategische opties voor een vijfde, als onderdeel van een ingrijpende reorganisatie van zijn gamingdivisie Xbox. Dat maakte het softwareconcern maandag bekend.",
     "published_at": "2026-07-06 16:34",
-    "scraped_at": "2026-07-06T19:24:01.427597"
-  },
-  {
-    "id": "47646222440f674f77f0890749ceb125",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/870176/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 14 juli 2026:",
-    "published_at": "2026-07-06 16:29",
-    "scraped_at": "2026-07-06T19:24:01.427597"
-  },
-  {
-    "id": "2201ba58292e8c944e87d08daf0136b0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/870177/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 14 juli 2026:",
-    "published_at": "2026-07-06 16:29",
-    "scraped_at": "2026-07-06T19:24:01.427597"
+    "scraped_at": "2026-07-06T21:09:40.661931"
   }
 ]
