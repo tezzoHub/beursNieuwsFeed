@@ -1,29 +1,83 @@
 [
   {
-    "id": "4e2bb4cae9b02e54820caa7254d5f379",
+    "id": "0012d9eb638d90822569858337e21cec",
     "categorie": "Beursnieuws",
-    "titel": "OPEC gaat weer meer olie produceren",
-    "link": "https://www.beurs.nl/Nieuws/870054/OPEC-gaat-weer-meer-olie-produceren.aspx",
-    "intro": "Oliekartel OPEC heeft besloten om de productie in augustus opnieuw te verhogen. Dit bleek zondagmiddag na een vergadering.",
-    "published_at": "2026-07-05 17:20",
-    "scraped_at": "2026-07-06T01:28:29.438800"
+    "titel": "AEX start handelsweek afwachtend",
+    "link": "https://www.beurs.nl/Nieuws/870079/AEX-start-handelsweek-afwachtend.aspx",
+    "intro": "De Amsterdamse beurs maakt zich maandag op voor een licht lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent.",
+    "published_at": "2026-07-06 08:02",
+    "scraped_at": "2026-07-06T06:11:08.156973"
   },
   {
-    "id": "1094dbd36081be75563eba47577796cd",
+    "id": "cc71183afdefa4f83b5368c3da9f8a21",
     "categorie": "Beursnieuws",
-    "titel": "Focus op notulen centrale banken",
-    "link": "https://www.beurs.nl/Nieuws/870048/Focus-op-notulen-centrale-banken.aspx",
-    "intro": "De komende beursweek begint maandag met inkoopmanagersindices voor de Amerikaanse dienstensector, die wat later verschijnen vanwege het lange weekend in de VS vanwege de viering van Onafhankelijkheidsdag.",
-    "published_at": "2026-07-05 12:45",
-    "scraped_at": "2026-07-06T01:28:29.438800"
+    "titel": "Avantium splitst elektrochemiebedrijf af",
+    "link": "https://www.beurs.nl/Nieuws/870076/Avantium-splitst-elektrochemiebedrijf-af.aspx",
+    "intro": "Avantium heeft zijn elektrochemische platform Carbeau, voorheen bekend als Volta Technology, met terugwerkende kracht vanaf 1 april 2026 afgesplitst in een nieuw, onafhankelijk bedrijf, waarin Avantium een belang van 32,7 procent behoudt. Dit maakte het bioplasticbedrijf maandag bekend.",
+    "published_at": "2026-07-06 07:51",
+    "scraped_at": "2026-07-06T06:11:08.156973"
   },
   {
-    "id": "131fb3c08c871e8a98cbb91dbe335248",
+    "id": "abe8973321cd885651152ee40eb480eb",
     "categorie": "Beursnieuws",
-    "titel": "Sterke week voor defensie-aandelen",
-    "link": "https://www.beurs.nl/Nieuws/870046/Sterke-week-voor-defensie-aandelen.aspx",
-    "intro": "In de eerste week van het derde kwartaal bleef het aantal dalers op het Damrak relatief beperkt. KPN was een negatieve uitschieter met een verlies van ruim 5 procent.",
-    "published_at": "2026-07-05 12:22",
-    "scraped_at": "2026-07-06T01:28:29.438800"
+    "titel": "ING neemt belang in Spaanse Singular bank",
+    "link": "https://www.beurs.nl/Nieuws/870073/ING-neemt-belang-in-Spaanse-Singular-bank.aspx",
+    "intro": "ING Groep heeft maandag een strategische investering in het Spaanse Singular Bank aangekondigd.",
+    "published_at": "2026-07-06 07:44",
+    "scraped_at": "2026-07-06T06:11:08.156973"
+  },
+  {
+    "id": "bceb0892addc87f5c8ad3ba3da4796ab",
+    "categorie": "Beursnieuws",
+    "titel": "Commissaris Koster vertrekt bij Sif",
+    "link": "https://www.beurs.nl/Nieuws/870071/Commissaris-Koster-vertrekt-bij-Sif.aspx",
+    "intro": "Mathijs Koster is per direct vertrokken als lid van de raad van commissarissen van Sif. Dit meldde de Roermondse funderingsspecialist maandag in een persbericht.",
+    "published_at": "2026-07-06 07:26",
+    "scraped_at": "2026-07-06T06:11:08.156973"
+  },
+  {
+    "id": "d2128c61ce9cdd2327555e045af8e5ab",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen noteren verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/870070/Aziatische-beurzen-noteren-verdeeld.aspx",
+    "intro": "De Aziatische aandelenbeurzen lieten maandagochtend een verdeeld beeld zien.",
+    "published_at": "2026-07-06 07:16",
+    "scraped_at": "2026-07-06T06:11:08.156973"
+  },
+  {
+    "id": "b703abfcc8ecf7ec2eb559c446514b6b",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen lijken voorzichtig te gaan openen",
+    "link": "https://www.beurs.nl/Nieuws/870068/Europese-beurzen-lijken-voorzichtig-te-gaan-openen.aspx",
+    "intro": "De aandelenmarkten in Europa gaan maandag een voorzichtige opening tegemoet, nadat de Stoxx Europe 600 vrijdag zijn hoogste slotstand ooit bereikte.",
+    "published_at": "2026-07-06 07:10",
+    "scraped_at": "2026-07-06T06:11:08.156973"
+  },
+  {
+    "id": "ff252af02ccd1a7072cc143048fcf85c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/870067/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 13 juli 2026:",
+    "published_at": "2026-07-06 07:03",
+    "scraped_at": "2026-07-06T06:11:08.156973"
+  },
+  {
+    "id": "9f84edc59d8d6898a7bd22558eaa670e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/870065/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 13 juli 2026:",
+    "published_at": "2026-07-06 07:02",
+    "scraped_at": "2026-07-06T06:11:08.156973"
+  },
+  {
+    "id": "39c8e1ac28f66d983e199008ab5d6e59",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/870066/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 13 juli 2026:",
+    "published_at": "2026-07-06 07:02",
+    "scraped_at": "2026-07-06T06:11:08.156973"
   }
 ]
