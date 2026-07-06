@@ -1,83 +1,92 @@
 [
   {
-    "id": "0012d9eb638d90822569858337e21cec",
+    "id": "25fc1c263f1a13795d1855f2be2aae6b",
     "categorie": "Beursnieuws",
-    "titel": "AEX start handelsweek afwachtend",
-    "link": "https://www.beurs.nl/Nieuws/870079/AEX-start-handelsweek-afwachtend.aspx",
-    "intro": "De Amsterdamse beurs maakt zich maandag op voor een licht lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent.",
-    "published_at": "2026-07-06 08:02",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "Citi rekent op nieuwe kwartaalmeevallers bij Amerikaanse chipbedrijven",
+    "link": "https://www.beurs.nl/Nieuws/870137/Citi-rekent-op-nieuwe-kwartaalmeevallers-bij-Amerikaanse-chipbedrijven.aspx",
+    "intro": "Analisten van Citi Research verwachten dat Amerikaanse halfgeleiderbedrijven ook in het tweede kwartaal van 2026 positief zullen verrassen. Dit bleek maandag uit een rapport van de Amerikaanse bank.",
+    "published_at": "2026-07-06 12:46",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   },
   {
-    "id": "cc71183afdefa4f83b5368c3da9f8a21",
+    "id": "78427c6480419cc78621e85b284e32a8",
     "categorie": "Beursnieuws",
-    "titel": "Avantium splitst elektrochemiebedrijf af",
-    "link": "https://www.beurs.nl/Nieuws/870076/Avantium-splitst-elektrochemiebedrijf-af.aspx",
-    "intro": "Avantium heeft zijn elektrochemische platform Carbeau, voorheen bekend als Volta Technology, met terugwerkende kracht vanaf 1 april 2026 afgesplitst in een nieuw, onafhankelijk bedrijf, waarin Avantium een belang van 32,7 procent behoudt. Dit maakte het bioplasticbedrijf maandag bekend.",
-    "published_at": "2026-07-06 07:51",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "Futures voorspellen groene opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/870134/Futures-voorspellen-groene-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een hogere opening tegemoet, nadat de beursvloer op Wall Street vrijdag leeg bleef vanwege de viering van de Amerikaanse onafhankelijkheid.",
+    "published_at": "2026-07-06 12:45",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   },
   {
-    "id": "abe8973321cd885651152ee40eb480eb",
+    "id": "39da7cd64a12aab14ab9b07fc8768ecb",
     "categorie": "Beursnieuws",
-    "titel": "ING neemt belang in Spaanse Singular bank",
-    "link": "https://www.beurs.nl/Nieuws/870073/ING-neemt-belang-in-Spaanse-Singular-bank.aspx",
-    "intro": "ING Groep heeft maandag een strategische investering in het Spaanse Singular Bank aangekondigd.",
-    "published_at": "2026-07-06 07:44",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "Europese beurzen licht omhoog",
+    "link": "https://www.beurs.nl/Nieuws/870123/Europese-beurzen-licht-omhoog.aspx",
+    "intro": "De Europese beurzen noteerden maandag rond het middaguur licht hoger, terwijl de chipindustrie terrein verloor en andere sectoren in de lift zaten.",
+    "published_at": "2026-07-06 12:06",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   },
   {
-    "id": "bceb0892addc87f5c8ad3ba3da4796ab",
+    "id": "bfc6b3d6da6ab8c79e8ab53a5477d07b",
     "categorie": "Beursnieuws",
-    "titel": "Commissaris Koster vertrekt bij Sif",
-    "link": "https://www.beurs.nl/Nieuws/870071/Commissaris-Koster-vertrekt-bij-Sif.aspx",
-    "intro": "Mathijs Koster is per direct vertrokken als lid van de raad van commissarissen van Sif. Dit meldde de Roermondse funderingsspecialist maandag in een persbericht.",
-    "published_at": "2026-07-06 07:26",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "Obligatie: Nederland haalt bijna 4 miljard op",
+    "link": "https://www.beurs.nl/Nieuws/870121/Obligatie-Nederland-haalt-bijna-4-miljard-op.aspx",
+    "intro": "Nederland heeft met de veiling van twee korte leningen 3,92 miljard euro opgehaald. Dit maakte het Agentschap van het ministerie van Financiën maandag bekend.",
+    "published_at": "2026-07-06 11:58",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   },
   {
-    "id": "d2128c61ce9cdd2327555e045af8e5ab",
+    "id": "23d5be3a6fe3daf90a08b52688ea4f60",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/870070/Aziatische-beurzen-noteren-verdeeld.aspx",
-    "intro": "De Aziatische aandelenbeurzen lieten maandagochtend een verdeeld beeld zien.",
-    "published_at": "2026-07-06 07:16",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "Kleine stijging detailhandelsverkopen eurozone",
+    "link": "https://www.beurs.nl/Nieuws/870112/Kleine-stijging-detailhandelsverkopen-eurozone.aspx",
+    "intro": "De detailhandelsverkopen in de eurozone zijn in mei licht gestegen. Dit bleek maandag uit cijfers van het Europese statistiekbureau Eurostat.",
+    "published_at": "2026-07-06 11:14",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   },
   {
-    "id": "b703abfcc8ecf7ec2eb559c446514b6b",
+    "id": "33893b611c08d051a74092adf5e4f047",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lijken voorzichtig te gaan openen",
-    "link": "https://www.beurs.nl/Nieuws/870068/Europese-beurzen-lijken-voorzichtig-te-gaan-openen.aspx",
-    "intro": "De aandelenmarkten in Europa gaan maandag een voorzichtige opening tegemoet, nadat de Stoxx Europe 600 vrijdag zijn hoogste slotstand ooit bereikte.",
-    "published_at": "2026-07-06 07:10",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "Producentenprijzen eurozone stijgen nauwelijks",
+    "link": "https://www.beurs.nl/Nieuws/870111/Producentenprijzen-eurozone-stijgen-nauwelijks.aspx",
+    "intro": "De producentenprijzen in de eurozone zijn in mei nauwelijks meer gestegen, na de sterke vertraging in april. Dit bleek maandag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
+    "published_at": "2026-07-06 11:11",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   },
   {
-    "id": "ff252af02ccd1a7072cc143048fcf85c",
+    "id": "f84b4ce9a75df63ec5ef697bdb0a3e63",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/870067/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 13 juli 2026:",
-    "published_at": "2026-07-06 07:03",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "Damrak blijft dicht bij huis ondanks koersval Besi",
+    "link": "https://www.beurs.nl/Nieuws/870110/Damrak-blijft-dicht-bij-huis-ondanks-koersval-Besi.aspx",
+    "intro": "De Amsterdamse beurs maakte maandag aan het einde van de ochtend een pas op de plaats, ondanks de verliezen voor de halfgeleideraandelen.",
+    "published_at": "2026-07-06 10:58",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   },
   {
-    "id": "9f84edc59d8d6898a7bd22558eaa670e",
+    "id": "5ea851cc9d5b30cf96a48f95ae388d81",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/870065/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 13 juli 2026:",
-    "published_at": "2026-07-06 07:02",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "UBS verlaagt koersdoel Ahold Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/870106/UBS-verlaagt-koersdoel-Ahold-Delhaize.aspx",
+    "intro": "UBS heeft maandag het koersdoel voor Ahold Delhaize verlaagd van 42,00 naar 38,00 euro, met herhaling van het neutrale advies. Dit bleek uit een analistenrapport van de Zwitserse bank.",
+    "published_at": "2026-07-06 10:28",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   },
   {
-    "id": "39c8e1ac28f66d983e199008ab5d6e59",
+    "id": "8084ac2168ab7821a2766d6b4d287c39",
+    "categorie": "IEX",
+    "titel": "Must read: Alle beleggers profiteren van een lage olieprijs",
+    "link": "https://www.iex.nl/artikel/870053/Must-read-Alle-beleggers-profiteren-van-een-lage-olieprijs.aspx",
+    "intro": "Plus: corruptie regeert in Washington, dividend x aandeleninkoop, slim beleggen in de grid, vertrouwen in de huizenmarkt daalt verder, en meer.",
+    "published_at": "2026-07-06 10:00",
+    "scraped_at": "2026-07-06T11:09:29.454836"
+  },
+  {
+    "id": "da82398a72a1562baba25733573baf5b",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/870066/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 13 juli 2026:",
-    "published_at": "2026-07-06 07:02",
-    "scraped_at": "2026-07-06T06:11:08.156973"
+    "titel": "CVC haalt 3 miljard op voor het Europese middensegment",
+    "link": "https://www.beurs.nl/Nieuws/870103/CVC-haalt-3-miljard-op-voor-het-Europese-middensegment.aspx",
+    "intro": "CVC Capital Partners heeft zijn private-equityfonds voor het Europese middensegment gevuld met ongeveer 3 miljard euro, fors meer dan de doelstelling van 1,75 miljard euro. Dit maakte het bedrijf maandagochtend bekend.",
+    "published_at": "2026-07-06 09:41",
+    "scraped_at": "2026-07-06T11:09:29.454836"
   }
 ]
