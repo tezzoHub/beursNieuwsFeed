@@ -1,12 +1,30 @@
 [
   {
+    "id": "8d4cfaea3312b5063c7a6c7809d4b358",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit lager",
+    "link": "https://www.beurs.nl/Nieuws/870345/Wall-Street-sluit-lager.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag lager gesloten, nadat de terugval van de sterk gestegen koersen van veel chipaandelen aanhield na resultaten van de Zuid-Koreaanse grootmacht Samsung.",
+    "published_at": "2026-07-07 22:15",
+    "scraped_at": "2026-07-07T20:20:03.022410"
+  },
+  {
+    "id": "636837e923528381ed2bbcaff8b85569",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs veert op na aanvallen in Straat van Hormuz",
+    "link": "https://www.beurs.nl/Nieuws/870343/Olieprijs-veert-op-na-aanvallen-in-Straat-van-Hormuz.aspx",
+    "intro": "De olieprijs is dinsdag gestegen, nadat Iran vaartuigen aanviel aan de Omaanse kant van de Straat van Hormuz, die gesteund wordt door de Verenigde Staten.",
+    "published_at": "2026-07-07 21:33",
+    "scraped_at": "2026-07-07T20:20:03.022410"
+  },
+  {
     "id": "79de2f4fc3df1b9033e685b1e63ca81e",
     "categorie": "Beursnieuws",
     "titel": "Wall Street in het rood",
     "link": "https://www.beurs.nl/Nieuws/870336/Wall-Street-in-het-rood.aspx",
     "intro": "De Amerikaanse beurzen stonden dinsdagavond verdeeld, nadat de verkoopgolf van chipaandelen aanhield.",
     "published_at": "2026-07-07 20:06",
-    "scraped_at": "2026-07-07T18:08:41.550209"
+    "scraped_at": "2026-07-07T20:20:03.022410"
   },
   {
     "id": "e28d56f2dd7174482f9f429a9c06b68d",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/870335/Europese-beurzen-sluiten-lager.aspx",
     "intro": "De Europese beurzen zijn dinsdag overwegend lager gesloten, waarbij vooral het verlies voor de Duitse beurs opviel. De chipindustrie stond opnieuw zwaar onder druk, terwijl Frankfurt ook Siemens Energy, Hochtief en Airbus fors inleverden.",
     "published_at": "2026-07-07 19:11",
-    "scraped_at": "2026-07-07T18:08:41.550209"
+    "scraped_at": "2026-07-07T20:20:03.022410"
   },
   {
     "id": "8ed07892571fb758c5c52e0b6d421b9f",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/870325/Shell-en-Unilever-kunnen-AEX-niet-in-het-groen-houden.aspx",
     "intro": "De Amsterdamse beurs is dinsdag licht lager geëindigd, ondanks steun van Unilever, Shell en de databedrijven. Die konden niet voldoende compenseren voor de verliezen van de 'chippers'.",
     "published_at": "2026-07-07 17:51",
-    "scraped_at": "2026-07-07T18:08:41.550209"
+    "scraped_at": "2026-07-07T20:20:03.022410"
   },
   {
     "id": "ba9f4ce2fe82c7405f44e890a053b9cd",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/870310/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 15 juli 2026:",
     "published_at": "2026-07-07 16:27",
-    "scraped_at": "2026-07-07T18:08:41.550209"
+    "scraped_at": "2026-07-07T20:20:03.022410"
   },
   {
     "id": "c1214598e7a3f1ac70094e1a6af57a9b",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870311/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 15 juli 2026:",
     "published_at": "2026-07-07 16:27",
-    "scraped_at": "2026-07-07T18:08:41.550209"
+    "scraped_at": "2026-07-07T20:20:03.022410"
   },
   {
     "id": "369c4620f55f45e22ddd56f549287e3a",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870309/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 15 juli 2026:",
     "published_at": "2026-07-07 16:26",
-    "scraped_at": "2026-07-07T18:08:41.550209"
+    "scraped_at": "2026-07-07T20:20:03.022410"
   },
   {
     "id": "a660dc6b1e9c552e65851cd635bf0a2c",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870305/Deutsche-Post-verhoogt-outlook.aspx",
     "intro": "Deutsche Post heeft in het tweede kwartaal beter dan verwacht gepresteerd en verhoogt de outlook voor heel 2026. Dit bleek dinsdag uit een persbericht van het Duitse postbedrijf.",
     "published_at": "2026-07-07 15:33",
-    "scraped_at": "2026-07-07T18:08:41.550209"
+    "scraped_at": "2026-07-07T20:20:03.022410"
   },
   {
     "id": "7788fcaf7f2572ffe1f188f2c4c99baa",
@@ -69,24 +87,6 @@
     "link": "https://www.ieximpact.nl/artikel/870293/Brussel-snoeit-in-regels-duurzaamheidsrapportage.aspx",
     "intro": "De herziene duurzaamheidsstandaarden van de EU moeten bedrijven minder werk bezorgen in hun duurzaamheidsrapportages, kleinere ondernemingen beschermen tegen ketendruk en beleggers toch voldoende relevante informatie blijven geven. Minder regels kan?",
     "published_at": "2026-07-07 15:00",
-    "scraped_at": "2026-07-07T18:08:41.550209"
-  },
-  {
-    "id": "4da861ac6472a104a625a3337bbba7c5",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op verdeelde opening",
-    "link": "https://www.beurs.nl/Nieuws/870296/Wall-Street-koerst-af-op-verdeelde-opening.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag op weg naar een verdeelde opening, terwijl de verkoopgolf van chipaandelen vanuit Azië en Europa naar Wall Street lijkt over te slaan.",
-    "published_at": "2026-07-07 14:53",
-    "scraped_at": "2026-07-07T18:08:41.550209"
-  },
-  {
-    "id": "5b83155ea893b92898206cc2b273325c",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaans handelstekort loopt op",
-    "link": "https://www.beurs.nl/Nieuws/870294/Amerikaans-handelstekort-loopt-op.aspx",
-    "intro": "Het tekort op de Amerikaanse handelsbalans is in mei opgelopen ten opzichte van de maand ervoor. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-07-07 14:36",
-    "scraped_at": "2026-07-07T18:08:41.550209"
+    "scraped_at": "2026-07-07T20:20:03.022410"
   }
 ]
