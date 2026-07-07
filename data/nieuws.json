@@ -1,12 +1,66 @@
 [
   {
+    "id": "7788fcaf7f2572ffe1f188f2c4c99baa",
+    "categorie": "Nieuws",
+    "titel": "Brussel snoeit in regels duurzaamheidsrapportage",
+    "link": "https://www.ieximpact.nl/artikel/870293/Brussel-snoeit-in-regels-duurzaamheidsrapportage.aspx",
+    "intro": "De herziene duurzaamheidsstandaarden van de EU moeten bedrijven minder werk bezorgen in hun duurzaamheidsrapportages, kleinere ondernemingen beschermen tegen ketendruk en beleggers toch voldoende relevante informatie blijven geven. Minder regels kan?",
+    "published_at": "2026-07-07 15:00",
+    "scraped_at": "2026-07-07T13:07:08.408926"
+  },
+  {
+    "id": "4da861ac6472a104a625a3337bbba7c5",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op verdeelde opening",
+    "link": "https://www.beurs.nl/Nieuws/870296/Wall-Street-koerst-af-op-verdeelde-opening.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag op weg naar een verdeelde opening, terwijl de verkoopgolf van chipaandelen vanuit Azië en Europa naar Wall Street lijkt over te slaan.",
+    "published_at": "2026-07-07 14:53",
+    "scraped_at": "2026-07-07T13:07:08.408926"
+  },
+  {
+    "id": "5b83155ea893b92898206cc2b273325c",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaans handelstekort loopt op",
+    "link": "https://www.beurs.nl/Nieuws/870294/Amerikaans-handelstekort-loopt-op.aspx",
+    "intro": "Het tekort op de Amerikaanse handelsbalans is in mei opgelopen ten opzichte van de maand ervoor. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-07-07 14:36",
+    "scraped_at": "2026-07-07T13:07:08.408926"
+  },
+  {
+    "id": "5013ebb046e1ff0728988216933c0f74",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers flink lager in lichtgroene AEX",
+    "link": "https://www.beurs.nl/Nieuws/870288/Chippers-flink-lager-in-lichtgroene-AEX.aspx",
+    "intro": "De Amsterdamse beurs zag de winst dinsdagmiddag wat afbrokkelen, doordat de chippers verder wegzakten. De zwaargewichten Shell en Unilever boden daarentegen tegenwicht.",
+    "published_at": "2026-07-07 13:49",
+    "scraped_at": "2026-07-07T13:07:08.408926"
+  },
+  {
+    "id": "a3eba2d2e19131200bad4aed77c66ef9",
+    "categorie": "Beursnieuws",
+    "titel": "Media: DeepSeek ontwikkelt eigen AI-chip",
+    "link": "https://www.beurs.nl/Nieuws/870282/Media-DeepSeek-ontwikkelt-eigen-AI-chip.aspx",
+    "intro": "Het Chinese DeepSeek werkt aan de ontwikkeling van een eigen AI-chip, waarmee het zijn afhankelijkheid van chips van Nvidia en Huawei zou kunnen verkleinen. Dit meldde persbureau Reuters dinsdag op basis van drie ingewijden.",
+    "published_at": "2026-07-07 12:58",
+    "scraped_at": "2026-07-07T13:07:08.408926"
+  },
+  {
+    "id": "c052d496629d845d27c51161f1273dec",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street signaleren verdeelde opening",
+    "link": "https://www.beurs.nl/Nieuws/870281/Futures-Wall-Street-signaleren-verdeelde-opening.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag op weg naar een verdeelde opening, terwijl de verkoopgolf van chipaandelen vanuit Azië en Europa naar Wall Street lijkt over te slaan.",
+    "published_at": "2026-07-07 12:42",
+    "scraped_at": "2026-07-07T13:07:08.408926"
+  },
+  {
     "id": "93839dfba5cefbeb463a6c801d5cf3fe",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen verdeeld rond middaguur",
     "link": "https://www.beurs.nl/Nieuws/870279/Europese-beurzen-verdeeld-rond-middaguur.aspx",
     "intro": "De Europese beurzen noteerden dinsdag rond het middaguur verdeeld, waarbij vooral het verlies voor de Duitse beurs opviel. Tech stond opnieuw onder druk.",
     "published_at": "2026-07-07 12:12",
-    "scraped_at": "2026-07-07T10:37:14.528325"
+    "scraped_at": "2026-07-07T13:07:08.408926"
   },
   {
     "id": "dbb69dc9ea5b0c98a9dd401b0d5d34f8",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870239/Correctie-Duitse-industriele-productie-in-mei-toegenomen.aspx",
     "intro": "De productie van de Duitse industrie is in mei toegenomen vergeleken met de voorgaande maand. Dit bleek dinsdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-07-07 11:57",
-    "scraped_at": "2026-07-07T10:37:14.528325"
+    "scraped_at": "2026-07-07T13:07:08.408926"
   },
   {
     "id": "2446f901e2ab9c4b36fd8d96fcefdc73",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870270/Citi-enorm-positieve-update-Shell.aspx",
     "intro": "Shell is met een enorm positieve update over het tweede kwartaal gekomen. Dit stelden analisten van Citi Research dinsdag in een rapport.",
     "published_at": "2026-07-07 11:54",
-    "scraped_at": "2026-07-07T10:37:14.528325"
+    "scraped_at": "2026-07-07T13:07:08.408926"
   },
   {
     "id": "59ccd7257b45398435a084491fa02807",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870268/Rheinmetall-en-Lockheed-willen-joint-venture-oprichten.aspx",
     "intro": "Rheinmetall en Lockheed Martin hebben dinsdag tijdens de NAVO-top in Ankara een intentieverklaring ondertekend om in te spelen op de onmiddellijke vraag naar lokaal geproduceerde munitie in Europa. Dit meldden de twee bedrijven in een persbericht.",
     "published_at": "2026-07-07 11:38",
-    "scraped_at": "2026-07-07T10:37:14.528325"
-  },
-  {
-    "id": "3af999b0e33817597ad4b57199e5e836",
-    "categorie": "IEX Nieuws",
-    "titel": "Wat beleggers 's nachts wakker houdt",
-    "link": "https://www.beurs.nl/Artikel/870260/Wat-beleggers-s-nachts-wakker-houdt.aspx",
-    "intro": "Beleggers zien nog altijd kansen, maar worden steeds kritischer over de waarderingen.",
-    "published_at": "2026-07-07 11:30",
-    "scraped_at": "2026-07-07T10:37:14.528325"
-  },
-  {
-    "id": "d71b5ee569da26a36fe32c1d31a0826e",
-    "categorie": "Beursnieuws",
-    "titel": "ASR neemt pensioenverplichtingen Ecolab over",
-    "link": "https://www.beurs.nl/Nieuws/870266/ASR-neemt-pensioenverplichtingen-Ecolab-over.aspx",
-    "intro": "ASR en Stichting Pensioenfonds Ecolab hebben afgesproken de pensioenverplichtingen van het fonds over te dragen aan ASR. Dat maakten beide partijen dinsdag bekend.",
-    "published_at": "2026-07-07 11:18",
-    "scraped_at": "2026-07-07T10:37:14.528325"
-  },
-  {
-    "id": "d64b72f1865db0155bba6b401f95d6c9",
-    "categorie": "Beursnieuws",
-    "titel": "Zwaargewichten Shell en Unilever trekken AEX omhoog",
-    "link": "https://www.beurs.nl/Nieuws/870261/Zwaargewichten-Shell-en-Unilever-trekken-AEX-omhoog.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag rond de klok van elf uur in het groen, geholpen door de koerswinsten van de zwaargewichten Shell en Unilever.",
-    "published_at": "2026-07-07 11:04",
-    "scraped_at": "2026-07-07T10:37:14.528325"
-  },
-  {
-    "id": "e1ea7271c099179dcc2ac9941236ea01",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies: sterke tussentijdse update van Shell",
-    "link": "https://www.beurs.nl/Nieuws/870259/Jefferies-sterke-tussentijdse-update-van-Shell.aspx",
-    "intro": "De voorlopige kwartaalupdate van Shell laat betere volumes zien bij Integrated Gas en Upstream dan gevreesd, terwijl de handelstak het \"significant\" beter deed dan in het eerste kwartaal. Dit concludeerde analist Mark Wilson van Jefferies dinsdag in een rapport.",
-    "published_at": "2026-07-07 10:11",
-    "scraped_at": "2026-07-07T10:37:14.528325"
-  },
-  {
-    "id": "d9f9d0b67f38f2415dc61377b635c595",
-    "categorie": "Beursnieuws",
-    "titel": "ABU: uren in uitzendbranche blijven onder druk",
-    "link": "https://www.beurs.nl/Nieuws/870258/ABU-uren-in-uitzendbranche-blijven-onder-druk.aspx",
-    "intro": "Het aantal gewerkte uren in de Nederlandse uitzendsector is in periode 6 van 2026 opnieuw gedaald, terwijl de omzet wel weer steeg. Dit bleek dinsdag uit cijfers van brancheorganisatie ABU.",
-    "published_at": "2026-07-07 10:09",
-    "scraped_at": "2026-07-07T10:37:14.528325"
-  },
-  {
-    "id": "cd54beda954d86161c44e2a9ba5e5f5c",
-    "categorie": "IEX",
-    "titel": "Must read: Beleggers steeds gevoeliger voor het mooie verhaal",
-    "link": "https://www.iex.nl/artikel/870148/Must-read-Beleggers-steeds-gevoeliger-voor-het-mooie-verhaal.aspx",
-    "intro": "Plus: grote duurzaamheidsthema's zetten onverminderd door, goud profiteert ditmaal niet van geopolitieke spanningen, de steeds grotere rol van banken, 7 Europese beursparels, en meer.",
-    "published_at": "2026-07-07 10:00",
-    "scraped_at": "2026-07-07T10:37:14.528325"
+    "scraped_at": "2026-07-07T13:07:08.408926"
   }
 ]
