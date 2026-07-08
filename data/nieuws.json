@@ -1,12 +1,57 @@
 [
   {
+    "id": "0c9d7fb094bcf7d3cd71cd2d846d04bf",
+    "categorie": "Beursnieuws",
+    "titel": "Terughoudende opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/870450/Terughoudende-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,6 procent in het rood. Techbeurs Nasdaq lijkt 0,8 procent lager te gaan openen.",
+    "published_at": "2026-07-08 14:51",
+    "scraped_at": "2026-07-08T13:17:19.282590"
+  },
+  {
+    "id": "9fb3746a80140046ba416a95e4af1791",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Tesco overweegt verkoop van meerdere Europese divisies",
+    "link": "https://www.beurs.nl/Nieuws/870445/Media-Tesco-overweegt-verkoop-van-meerdere-Europese-divisies.aspx",
+    "intro": "Tesco overweegt een verkoop van de activiteiten in Centraal- en Midden-Europa. Dit schreef de Financial Times woensdag op basis van bronnen.",
+    "published_at": "2026-07-08 14:15",
+    "scraped_at": "2026-07-08T13:17:19.282590"
+  },
+  {
+    "id": "2c2e3e78ff0ba060d01a4da24d56d891",
+    "categorie": "Beursnieuws",
+    "titel": "AEX onder druk door onrust Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/870444/AEX-onder-druk-door-onrust-Midden-Oosten.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdagmiddag lager, vanwege hernieuwde onrust in het Midden-Oosten. Ook de andere Europese beurzen stonden onder druk.",
+    "published_at": "2026-07-08 13:57",
+    "scraped_at": "2026-07-08T13:17:19.282590"
+  },
+  {
+    "id": "ac1eec89c2b4ae61840a4564f5e72cf1",
+    "categorie": "Beursnieuws",
+    "titel": "Obligatie: Nederland wil tot 3,5 miljard euro ophalen",
+    "link": "https://www.beurs.nl/Nieuws/870439/Obligatie-Nederland-wil-tot-35-miljard-euro-ophalen.aspx",
+    "intro": "Nederland wil dinsdag 14 juli tot 3,5 miljard euro ophalen met de heropening een middellange lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
+    "published_at": "2026-07-08 13:27",
+    "scraped_at": "2026-07-08T13:17:19.282590"
+  },
+  {
+    "id": "df9ba7624783f6938a3b5d6af7710f58",
+    "categorie": "Beursnieuws",
+    "titel": "Sanofi doet toezeggingen aan Europese Commissie",
+    "link": "https://www.beurs.nl/Nieuws/870440/Sanofi-doet-toezeggingen-aan-Europese-Commissie.aspx",
+    "intro": "De Franse farmaceut Sanofi heeft de Europese Commissie een reeks toezeggingen aangeboden om een mededingingsonderzoek te beëindigen. Brussel vraagt marktpartijen nu om uiterlijk 21 augustus te reageren op dat voorstel.",
+    "published_at": "2026-07-08 13:27",
+    "scraped_at": "2026-07-08T13:17:19.282590"
+  },
+  {
     "id": "c4ef03cb90fd782467f4f047207fc695",
     "categorie": "Nieuws",
     "titel": "Kosten en vol energienet remmen duurzame investeringen",
     "link": "https://www.ieximpact.nl/artikel/870411/Kosten-en-vol-energienet-remmen-duurzame-investeringen.aspx",
     "intro": "Minder Nederlandse bedrijven investeren dit jaar in het verduurzamen van hun bedrijfsvoering. Niet omdat ze niet willen, maar omdat financiële beperkingen, beleidsmatige onzekerheid en netcongestie zwaar wegen. Vooral voor kleinere en middelgrote bedrijven is de drempel hoger geworden, constateert het CBS.",
     "published_at": "2026-07-08 13:03",
-    "scraped_at": "2026-07-08T11:31:30.841561"
+    "scraped_at": "2026-07-08T13:17:19.282590"
   },
   {
     "id": "ba1dd4196904a23b64c112b80443b5d6",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870433/Futures-onder-druk-na-hernieuwde-spanning-in-Midden-Oosten.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,9 procent in het rood. Techbeurs Nasdaq lijkt zelfs 1,2 procent lager te gaan openen.",
     "published_at": "2026-07-08 12:54",
-    "scraped_at": "2026-07-08T11:31:30.841561"
+    "scraped_at": "2026-07-08T13:17:19.282590"
   },
   {
     "id": "21e2bad2e9ac1f0cb1b58f60afb506df",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870431/Apple-en-Broadcom-slaan-handen-ineen.aspx",
     "intro": "Apple gaat de komende vijf jaar meer dan 30 miljard dollar uitgeven aan in de Verenigde Staten geproduceerde chips van Broadcom. Dat maakte de iPhone-maker woensdag bekend. De overeenkomst met de langjarige partner moet de productie van ruim 15 miljard chips op Amerikaanse bodem aanjagen.",
     "published_at": "2026-07-08 12:35",
-    "scraped_at": "2026-07-08T11:31:30.841561"
+    "scraped_at": "2026-07-08T13:17:19.282590"
   },
   {
     "id": "2f858b137ed2873c4003c7b4fcc4399b",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870430/Oplaaiende-oorlogsretoriek-zet-Europese-beurzen-onder-druk.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur flink lager, nadat de Amerikaanse president Donald Trump de staakt-het-vurenovereenkomst met Teheran introk. De hernieuwde vijandelijkheden in het Midden-Oosten joegen de olieprijzen aan en versterken de vrees voor oplopende inflatie.",
     "published_at": "2026-07-08 12:33",
-    "scraped_at": "2026-07-08T11:31:30.841561"
+    "scraped_at": "2026-07-08T13:17:19.282590"
   },
   {
     "id": "196a2b08bf42890a4bc0ed3ad708a6e5",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870415/Rentes-schieten-omhoog-na-uiteenvallen-deal-Iran-en-VS.aspx",
     "intro": "De Europese rentes trokken woensdag scherp aan tot de hoogste niveaus in vier weken, nadat de Amerikaanse president Donald Trump aankondigde dat de afgesproken staakt-het-vurenovereenkomst met Iran van tafel is.",
     "published_at": "2026-07-08 11:48",
-    "scraped_at": "2026-07-08T11:31:30.841561"
-  },
-  {
-    "id": "9957b68db5fb9f15696ad7c9e93fa87d",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays verhoogt koersdoel ArcelorMittal",
-    "link": "https://www.beurs.nl/Nieuws/870409/Barclays-verhoogt-koersdoel-ArcelorMittal.aspx",
-    "intro": "Barclays ziet een structurele verbetering voor de Europese staalindustrie nu sinds 1 juli de nieuwe tariefquota van kracht zijn. De bank verhoogde het koersdoel voor ArcelorMittal van 45,00 naar 55,00 euro bij een handhaving van het Gelijkgewogen advies.",
-    "published_at": "2026-07-08 11:29",
-    "scraped_at": "2026-07-08T11:31:30.841561"
-  },
-  {
-    "id": "3155705462cd07577bacd5c1bf19cf24",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays verhoogt koersdoel Air France-KLM",
-    "link": "https://www.beurs.nl/Nieuws/870408/Barclays-verhoogt-koersdoel-Air-France-KLM.aspx",
-    "intro": "Barclays heeft woensdag het koersdoel voor Air France-KLM verhoogd van 10,00 naar 12,00 euro bij handhaving van het Onderwogen advies. Dit bleek uit een rapport van de Britse bank.",
-    "published_at": "2026-07-08 11:27",
-    "scraped_at": "2026-07-08T11:31:30.841561"
-  },
-  {
-    "id": "e092eac80005c9c78ac442d8044877d5",
-    "categorie": "Beursnieuws",
-    "titel": "Adyen lager in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/870403/Adyen-lager-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend wat lager. Rond de klok van elf uur daalde de AEX met 0,4 procent tot 1.074,94 punten.",
-    "published_at": "2026-07-08 11:00",
-    "scraped_at": "2026-07-08T11:31:30.841561"
-  },
-  {
-    "id": "a4392816abb4c6526d472a100cd1e724",
-    "categorie": "IEX",
-    "titel": "Must read: Ligt oorlog weer in de kaarten?",
-    "link": "https://www.iex.nl/artikel/870387/Must-read-Ligt-oorlog-weer-in-de-kaarten.aspx",
-    "intro": "Plus: Consumptie van Nederlandse huishoudens licht gestegen, Jeremy Grantham ziet het niet zitten met SpaceX. En miljonairs hebben meer miljoenen.",
-    "published_at": "2026-07-08 10:30",
-    "scraped_at": "2026-07-08T11:31:30.841561"
-  },
-  {
-    "id": "39897ba372eb3de915a7d714e0d0b3bf",
-    "categorie": "Beursnieuws",
-    "titel": "UniCredit nadert belang van 48% in Commerzbank",
-    "link": "https://www.beurs.nl/Nieuws/870401/UniCredit-nadert-belang-van-48-in-Commerzbank.aspx",
-    "intro": "UniCredit heeft bekendgemaakt dat het via het openbare bod, dat woensdag eindigde, een extra belang van 17,60 procent in Commerzbank heeft verworven. De Italiaanse bank publiceerde dit nieuws woensdag in een persbericht.",
-    "published_at": "2026-07-08 10:24",
-    "scraped_at": "2026-07-08T11:31:30.841561"
+    "scraped_at": "2026-07-08T13:17:19.282590"
   }
 ]
