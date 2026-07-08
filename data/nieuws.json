@@ -1,12 +1,84 @@
 [
   {
+    "id": "9957b68db5fb9f15696ad7c9e93fa87d",
+    "categorie": "Beursnieuws",
+    "titel": "Barclays verhoogt koersdoel ArcelorMittal",
+    "link": "https://www.beurs.nl/Nieuws/870409/Barclays-verhoogt-koersdoel-ArcelorMittal.aspx",
+    "intro": "Barclays ziet een structurele verbetering voor de Europese staalindustrie nu sinds 1 juli de nieuwe tariefquota van kracht zijn. De bank verhoogde het koersdoel voor ArcelorMittal van 45,00 naar 55,00 euro bij een handhaving van het Gelijkgewogen advies.",
+    "published_at": "2026-07-08 11:29",
+    "scraped_at": "2026-07-08T09:42:12.712653"
+  },
+  {
+    "id": "3155705462cd07577bacd5c1bf19cf24",
+    "categorie": "Beursnieuws",
+    "titel": "Barclays verhoogt koersdoel Air France-KLM",
+    "link": "https://www.beurs.nl/Nieuws/870408/Barclays-verhoogt-koersdoel-Air-France-KLM.aspx",
+    "intro": "Barclays heeft woensdag het koersdoel voor Air France-KLM verhoogd van 10,00 naar 12,00 euro bij handhaving van het Onderwogen advies. Dit bleek uit een rapport van de Britse bank.",
+    "published_at": "2026-07-08 11:27",
+    "scraped_at": "2026-07-08T09:42:12.712653"
+  },
+  {
+    "id": "e092eac80005c9c78ac442d8044877d5",
+    "categorie": "Beursnieuws",
+    "titel": "Adyen lager in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/870403/Adyen-lager-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdagochtend wat lager. Rond de klok van elf uur daalde de AEX met 0,4 procent tot 1.074,94 punten.",
+    "published_at": "2026-07-08 11:00",
+    "scraped_at": "2026-07-08T09:42:12.712653"
+  },
+  {
+    "id": "a4392816abb4c6526d472a100cd1e724",
+    "categorie": "IEX",
+    "titel": "Must read: Ligt oorlog weer in de kaarten?",
+    "link": "https://www.iex.nl/artikel/870387/Must-read-Ligt-oorlog-weer-in-de-kaarten.aspx",
+    "intro": "Plus: Consumptie van Nederlandse huishoudens licht gestegen, Jeremy Grantham ziet het niet zitten met SpaceX. En miljonairs hebben meer miljoenen.",
+    "published_at": "2026-07-08 10:30",
+    "scraped_at": "2026-07-08T09:42:12.712653"
+  },
+  {
+    "id": "4ab0fd3048f2049a51c68e9f4061d0e3",
+    "categorie": "Beursnieuws",
+    "titel": "UniCredit nadert belang van 48 procent in Commerzbank",
+    "link": "https://www.beurs.nl/Nieuws/870401/UniCredit-nadert-belang-van-48-procent-in-Commerzbank.aspx",
+    "intro": "UniCredit heeft bekendgemaakt dat het via het openbare bod, dat woensdag eindigde, een extra belang van 17,60 procent in Commerzbank heeft verworven. De Italiaanse bank publiceerde dit nieuws woensdag in een persbericht.",
+    "published_at": "2026-07-08 10:24",
+    "scraped_at": "2026-07-08T09:42:12.712653"
+  },
+  {
+    "id": "4750e445b7a2ed45bbcfd8ce3aff3808",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: UBS verhoogt koersdoel ArcelorMittal stevig",
+    "link": "https://www.beurs.nl/Nieuws/870400/Beursblik-UBS-verhoogt-koersdoel-ArcelorMittal-stevig.aspx",
+    "intro": "UBS heeft woensdag het koersdoel voor ArcelorMittal verhoogd van 45,00 naar 59,00 euro, maar met handhaving van het Neutraal advies. Dit bleek uit een rapport van de Zwitserse zakenbank.",
+    "published_at": "2026-07-08 10:13",
+    "scraped_at": "2026-07-08T09:42:12.712653"
+  },
+  {
+    "id": "e02f36bdc72970cecfc9e4ac97c358be",
+    "categorie": "Beursnieuws",
+    "titel": "KBC Securities verhoogt koersdoel ASML naar €1.400",
+    "link": "https://www.beurs.nl/Nieuws/870393/KBC-Securities-verhoogt-koersdoel-ASML-naar-1400.aspx",
+    "intro": "KBC Securities heeft woensdag het koersdoel voor ASML verhoogd van 1.175 naar 1.400 euro, maar handhaafde het advies op Houden. Dit bleek uit een rapport van analist Thomas Couvreur.",
+    "published_at": "2026-07-08 09:38",
+    "scraped_at": "2026-07-08T09:42:12.712653"
+  },
+  {
+    "id": "331445544ba39577787e2bf6d4a3734f",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus aan kop in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/870389/Prosus-aan-kop-in-vlakke-AEX.aspx",
+    "intro": "De Amsterdamse beurs is woensdag vlak geopend. Kort na opening van de beurs, koerste de AEX fractioneel lager op 1.078,81 punten.",
+    "published_at": "2026-07-08 09:11",
+    "scraped_at": "2026-07-08T09:42:12.712653"
+  },
+  {
     "id": "f21a62e8e426a6670c343b8349a7b0ed",
     "categorie": "Voorbeurs",
     "titel": "Vlam slaat weer in de pan in Iran en grote techrotatie in Azië",
     "link": "https://www.beurs.nl/Artikel/870316/Vlam-slaat-weer-in-de-pan-in-Iran-en-grote-techrotatie-in-Azie.aspx",
     "intro": "Openingsindicatie: +0,1%. VS en Iran vallen elkaar weer aan. Kan Trumpfluisteraar Rutte vrede bewaren? Rotatie in Azië: Chinese techaandelen vliegen, koersdruk in Japan en Zuid-Korea.",
     "published_at": "2026-07-08 08:25",
-    "scraped_at": "2026-07-08T07:17:08.049633"
+    "scraped_at": "2026-07-08T09:42:12.712653"
   },
   {
     "id": "05cc68b67a19e28a07ab25fc0ec153c0",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870384/Farm-Fresh-kiest-voor-membranen-van-NX-Filtration.aspx",
     "intro": "Farm Fresh, één van de grootste producenten van zuivel- en theedranken in Maleisië, heeft gekozen voor de microfiltratiemembranen van NX Filtration voor een nieuwe productielijn van premium thee. Dit meldde NX Filtration woensdag.",
     "published_at": "2026-07-08 08:21",
-    "scraped_at": "2026-07-08T07:17:08.049633"
-  },
-  {
-    "id": "0d6d62bd5da3d1161d867a1a6e1c5a5e",
-    "categorie": "Beursnieuws",
-    "titel": "Berenberg verhoogt koersdoel ASR",
-    "link": "https://www.beurs.nl/Nieuws/870380/Berenberg-verhoogt-koersdoel-ASR.aspx",
-    "intro": "Berenberg heeft woensdag het koersdoel voor ASR verhoogd van 74,00 naar 81,00 euro, met herhaling van de koopaanbeveling. Dit bleek uit een rapport van analist Michael Huttner.",
-    "published_at": "2026-07-08 08:03",
-    "scraped_at": "2026-07-08T07:17:08.049633"
-  },
-  {
-    "id": "835d93cd58b6ee041e21a9a5440db63e",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/870379/Vlakke-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een vlakke tot licht hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,2 procent in het groen. Dinsdag eindigde de hoofdgraadmeter 0,3 procent lager op 1.079,00 punten.",
-    "published_at": "2026-07-08 08:02",
-    "scraped_at": "2026-07-08T07:17:08.049633"
-  },
-  {
-    "id": "04f2a6ad896ea326cb967bc14bb591c9",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt koersdoel DSM-Firmenich fors",
-    "link": "https://www.beurs.nl/Nieuws/870377/Jefferies-verhoogt-koersdoel-DSM-Firmenich-fors.aspx",
-    "intro": "Jefferies heeft woensdag het koersdoel voor DSM-Firmenich verhoogd van 77,00 naar 95,00 euro, met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de bank.",
-    "published_at": "2026-07-08 07:43",
-    "scraped_at": "2026-07-08T07:17:08.049633"
-  },
-  {
-    "id": "60ee02cd095b2eb390961fb9c329def8",
-    "categorie": "Beursnieuws",
-    "titel": "Avantium aan de slag met Portugese textielfabrikant",
-    "link": "https://www.beurs.nl/Nieuws/870375/Avantium-aan-de-slag-met-Portugese-textielfabrikant.aspx",
-    "intro": "Avantium heeft woensdag een samenwerking aangekondigd met de Portugese textielfabrikant Casa da Malha en het sportkledingmerk Lacatoni voor de ontwikkeling en presentatie van textielprototypes gemaakt van PEF.",
-    "published_at": "2026-07-08 07:39",
-    "scraped_at": "2026-07-08T07:17:08.049633"
-  },
-  {
-    "id": "ee8330b0b008bf84365014c111195409",
-    "categorie": "Beursnieuws",
-    "titel": "Zuid-Koreaanse Kospi opnieuw onderuit op verdeelde Aziatische beurzen",
-    "link": "https://www.beurs.nl/Nieuws/870370/Zuid-Koreaanse-Kospi-opnieuw-onderuit-op-verdeelde-Aziatische-beurzen.aspx",
-    "intro": "De Aziatische beurzen lieten woensdag een verdeeld beeld zien, met winsten in China, maar forse verliezen in Zuid-Korea, waar tech opnieuw in de uitverkoop ging.",
-    "published_at": "2026-07-08 07:24",
-    "scraped_at": "2026-07-08T07:17:08.049633"
-  },
-  {
-    "id": "2a43705378ea167034be2efa85ec7699",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe Britse overheidsopdracht voor Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/870371/Nieuwe-Britse-overheidsopdracht-voor-Arcadis.aspx",
-    "intro": "Arcadis heeft een opdracht binnengehaald van het UK Government Commercial Agency voor het leveren van consultancydiensten rond de nieuwe raamovereenkomsten onder CPS2. Dit meldde het adviesbureau woensdag voorbeurs.",
-    "published_at": "2026-07-08 07:23",
-    "scraped_at": "2026-07-08T07:17:08.049633"
-  },
-  {
-    "id": "25f8dd9745e29cbcf2480dd678d2877d",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager na Amerikaanse aanvallen op Iran",
-    "link": "https://www.beurs.nl/Nieuws/870368/Europese-beurzen-openen-lager-na-Amerikaanse-aanvallen-op-Iran.aspx",
-    "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet, nadat de VS nieuwe aanvallen uitvoerden op Iran, nadat Teheran in de afgelopen dagen meerdere schepen aanviel in de Straat van Hormuz. De Amerikaanse aanvallen werden door Iran beantwoord met tegenaanvallen.",
-    "published_at": "2026-07-08 07:01",
-    "scraped_at": "2026-07-08T07:17:08.049633"
-  },
-  {
-    "id": "a4fd4df2c79ba5cc3dec9768e39db267",
-    "categorie": "Beursnieuws",
-    "titel": "Huishoudens geven meer uit",
-    "link": "https://www.beurs.nl/Nieuws/870366/Huishoudens-geven-meer-uit.aspx",
-    "intro": "Nederlandse huishoudens hebben in mei meer geconsumeerd dan in dezelfde periode vorig jaar. Dit bleek woensdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-07-08 06:50",
-    "scraped_at": "2026-07-08T07:17:08.049633"
+    "scraped_at": "2026-07-08T09:42:12.712653"
   }
 ]
