@@ -1,12 +1,30 @@
 [
   {
+    "id": "30965b26159c33918d7012375fbf983c",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs stijgt sterk",
+    "link": "https://www.beurs.nl/Nieuws/870486/Olieprijs-stijgt-sterk.aspx",
+    "intro": "De olieprijs is woensdag sterk gestegen, nadat de Verenigde Staten en Iran elkaar weer bestookten in de Straat van Hormuz, en de Amerikanen de ontheffing van de sancties tegen Iraanse olie introk.",
+    "published_at": "2026-07-08 21:36",
+    "scraped_at": "2026-07-08T20:21:36.905354"
+  },
+  {
+    "id": "f5d1c22e143605d15bc32698d8280727",
+    "categorie": "Beursnieuws",
+    "titel": "Enkele haviken bij Fed zagen reden voor renteverhoging",
+    "link": "https://www.beurs.nl/Nieuws/870477/Enkele-haviken-bij-Fed-zagen-reden-voor-renteverhoging.aspx",
+    "intro": "Volgens de notulen van de vergadering van de Federal Reserve van vorige maand, zagen „enkele” functionarissen van de Federal Reserve redenen voor een renteverhoging in juni. Dat blijkt uit de notulen die woensdag werden gepubliceerd.",
+    "published_at": "2026-07-08 20:55",
+    "scraped_at": "2026-07-08T20:21:36.905354"
+  },
+  {
     "id": "3529eebfb67feb6bf639e9dc0813fc35",
     "categorie": "Beursnieuws",
     "titel": "Wall Street beperkt verliezen",
     "link": "https://www.beurs.nl/Nieuws/870476/Wall-Street-beperkt-verliezen.aspx",
     "intro": "De Amerikaanse beurzen stonden woensdagavond lager, maar beperkten hun eerdere verliezen, nadat de zorgen over een verstoring van het vredesproces tussen de VS en Iran afnamen en ook de verliezen van techaandelen terugliepen, na een verkoopgolf van enkele dagen.",
     "published_at": "2026-07-08 20:36",
-    "scraped_at": "2026-07-08T18:51:22.374514"
+    "scraped_at": "2026-07-08T20:21:36.905354"
   },
   {
     "id": "23387fa1c3c072ba2aec5ebd818e1be4",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/870474/Europese-beurzen-sluiten-lager-na-oplopen-olieprijs.aspx",
     "intro": "De Europese beurzen zijn woensdag fors lager gesloten, nadat de Amerikaanse president Donald Trump het bestand met Teheran introk en de vijandelijkheden rond de Straat van Hormuz weer oplaaiden.",
     "published_at": "2026-07-08 19:11",
-    "scraped_at": "2026-07-08T18:51:22.374514"
+    "scraped_at": "2026-07-08T20:21:36.905354"
   },
   {
     "id": "3d5e00ecdcb72aefbb6cf89c74f85e66",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/870470/Havas-neemt-Spaanse-MUT-over.aspx",
     "intro": "Havas neemt het Spaanse MUT over. Dit maakte het Parijse reclamebureau met een notering in Amsterdam woensdag nabeurs bekend.",
     "published_at": "2026-07-08 17:54",
-    "scraped_at": "2026-07-08T18:51:22.374514"
+    "scraped_at": "2026-07-08T20:21:36.905354"
   },
   {
     "id": "93f5585d96e3a04b163bea7857c923b4",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/870469/AEX-door-oplaaiende-oorlogsretoriek-lager-gesloten.aspx",
     "intro": "De Amsterdamse beurs is woensdag lager gesloten door de oplopende spanningen in het Midden-Oosten en oorlogsretoriek van de Amerikaanse president Donald Trump.",
     "published_at": "2026-07-08 17:46",
-    "scraped_at": "2026-07-08T18:51:22.374514"
+    "scraped_at": "2026-07-08T20:21:36.905354"
   },
   {
     "id": "3b9ca2d2031b3600af95c8bce6242de8",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870464/Trendbreuk-in-Amerikaanse-olievoorraden.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week voor het eerst in bijna 3 maanden gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-07-08 16:45",
-    "scraped_at": "2026-07-08T18:51:22.374514"
+    "scraped_at": "2026-07-08T20:21:36.905354"
   },
   {
     "id": "59f596320e7d643076e3414351872c9c",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870459/Groothandelsvoorraden-VS-minder-hard-gestegen-dan-verwacht.aspx",
     "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in mei minder hard gestegen dan verwacht. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-07-08 16:11",
-    "scraped_at": "2026-07-08T18:51:22.374514"
+    "scraped_at": "2026-07-08T20:21:36.905354"
   },
   {
     "id": "43666d5472c3066610f512b8a532983b",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870454/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 16 juli 2026:",
     "published_at": "2026-07-08 15:45",
-    "scraped_at": "2026-07-08T18:51:22.374514"
+    "scraped_at": "2026-07-08T20:21:36.905354"
   },
   {
     "id": "93a79012901ddee1dcd6fa9e339591b2",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870455/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 16 juli 2026:",
     "published_at": "2026-07-08 15:45",
-    "scraped_at": "2026-07-08T18:51:22.374514"
-  },
-  {
-    "id": "66485abc85cdd8d73704902455b7213c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/870457/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 16 juli 2026:",
-    "published_at": "2026-07-08 15:45",
-    "scraped_at": "2026-07-08T18:51:22.374514"
-  },
-  {
-    "id": "0c9d7fb094bcf7d3cd71cd2d846d04bf",
-    "categorie": "Beursnieuws",
-    "titel": "Terughoudende opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/870450/Terughoudende-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,6 procent in het rood. Techbeurs Nasdaq lijkt 0,8 procent lager te gaan openen.",
-    "published_at": "2026-07-08 14:51",
-    "scraped_at": "2026-07-08T18:51:22.374514"
+    "scraped_at": "2026-07-08T20:21:36.905354"
   }
 ]
