@@ -1,12 +1,30 @@
 [
   {
+    "id": "3d5e00ecdcb72aefbb6cf89c74f85e66",
+    "categorie": "Beursnieuws",
+    "titel": "Havas neemt Spaanse MUT over",
+    "link": "https://www.beurs.nl/Nieuws/870470/Havas-neemt-Spaanse-MUT-over.aspx",
+    "intro": "Havas neemt het Spaanse MUT over. Dit maakte het Parijse reclamebureau met een notering in Amsterdam woensdag nabeurs bekend.",
+    "published_at": "2026-07-08 17:54",
+    "scraped_at": "2026-07-08T17:12:27.248963"
+  },
+  {
+    "id": "93f5585d96e3a04b163bea7857c923b4",
+    "categorie": "Beursnieuws",
+    "titel": "AEX door oplaaiende oorlogsretoriek lager gesloten",
+    "link": "https://www.beurs.nl/Nieuws/870469/AEX-door-oplaaiende-oorlogsretoriek-lager-gesloten.aspx",
+    "intro": "De Amsterdamse beurs is woensdag lager gesloten door de oplopende spanningen in het Midden-Oosten en oorlogsretoriek van de Amerikaanse president Donald Trump.",
+    "published_at": "2026-07-08 17:46",
+    "scraped_at": "2026-07-08T17:12:27.248963"
+  },
+  {
     "id": "3b9ca2d2031b3600af95c8bce6242de8",
     "categorie": "Beursnieuws",
     "titel": "Trendbreuk in Amerikaanse olievoorraden",
     "link": "https://www.beurs.nl/Nieuws/870464/Trendbreuk-in-Amerikaanse-olievoorraden.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn vorige week voor het eerst in bijna 3 maanden gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-07-08 16:45",
-    "scraped_at": "2026-07-08T15:38:35.227184"
+    "scraped_at": "2026-07-08T17:12:27.248963"
   },
   {
     "id": "59f596320e7d643076e3414351872c9c",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/870459/Groothandelsvoorraden-VS-minder-hard-gestegen-dan-verwacht.aspx",
     "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in mei minder hard gestegen dan verwacht. Dit bleek woensdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-07-08 16:11",
-    "scraped_at": "2026-07-08T15:38:35.227184"
+    "scraped_at": "2026-07-08T17:12:27.248963"
   },
   {
     "id": "43666d5472c3066610f512b8a532983b",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/870454/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 16 juli 2026:",
     "published_at": "2026-07-08 15:45",
-    "scraped_at": "2026-07-08T15:38:35.227184"
+    "scraped_at": "2026-07-08T17:12:27.248963"
   },
   {
     "id": "93a79012901ddee1dcd6fa9e339591b2",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/870455/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 16 juli 2026:",
     "published_at": "2026-07-08 15:45",
-    "scraped_at": "2026-07-08T15:38:35.227184"
+    "scraped_at": "2026-07-08T17:12:27.248963"
   },
   {
     "id": "66485abc85cdd8d73704902455b7213c",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870457/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 16 juli 2026:",
     "published_at": "2026-07-08 15:45",
-    "scraped_at": "2026-07-08T15:38:35.227184"
+    "scraped_at": "2026-07-08T17:12:27.248963"
   },
   {
     "id": "0c9d7fb094bcf7d3cd71cd2d846d04bf",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870450/Terughoudende-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,6 procent in het rood. Techbeurs Nasdaq lijkt 0,8 procent lager te gaan openen.",
     "published_at": "2026-07-08 14:51",
-    "scraped_at": "2026-07-08T15:38:35.227184"
+    "scraped_at": "2026-07-08T17:12:27.248963"
   },
   {
     "id": "9fb3746a80140046ba416a95e4af1791",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870445/Media-Tesco-overweegt-verkoop-van-meerdere-Europese-divisies.aspx",
     "intro": "Tesco overweegt een verkoop van de activiteiten in Centraal- en Midden-Europa. Dit schreef de Financial Times woensdag op basis van bronnen.",
     "published_at": "2026-07-08 14:15",
-    "scraped_at": "2026-07-08T15:38:35.227184"
+    "scraped_at": "2026-07-08T17:12:27.248963"
   },
   {
     "id": "2c2e3e78ff0ba060d01a4da24d56d891",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870444/AEX-onder-druk-door-onrust-Midden-Oosten.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagmiddag lager, vanwege hernieuwde onrust in het Midden-Oosten. Ook de andere Europese beurzen stonden onder druk.",
     "published_at": "2026-07-08 13:57",
-    "scraped_at": "2026-07-08T15:38:35.227184"
-  },
-  {
-    "id": "ac1eec89c2b4ae61840a4564f5e72cf1",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil tot 3,5 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/870439/Obligatie-Nederland-wil-tot-35-miljard-euro-ophalen.aspx",
-    "intro": "Nederland wil dinsdag 14 juli tot 3,5 miljard euro ophalen met de heropening een middellange lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-07-08 13:27",
-    "scraped_at": "2026-07-08T15:38:35.227184"
-  },
-  {
-    "id": "df9ba7624783f6938a3b5d6af7710f58",
-    "categorie": "Beursnieuws",
-    "titel": "Sanofi doet toezeggingen aan Europese Commissie",
-    "link": "https://www.beurs.nl/Nieuws/870440/Sanofi-doet-toezeggingen-aan-Europese-Commissie.aspx",
-    "intro": "De Franse farmaceut Sanofi heeft de Europese Commissie een reeks toezeggingen aangeboden om een mededingingsonderzoek te beëindigen. Brussel vraagt marktpartijen nu om uiterlijk 21 augustus te reageren op dat voorstel.",
-    "published_at": "2026-07-08 13:27",
-    "scraped_at": "2026-07-08T15:38:35.227184"
+    "scraped_at": "2026-07-08T17:12:27.248963"
   }
 ]
