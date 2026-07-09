@@ -1,12 +1,39 @@
 [
   {
+    "id": "e7354eac63797725095c06ef3b3ba08f",
+    "categorie": "Beursnieuws",
+    "titel": "Chipaandelen hoger op goedgemutst Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/870626/Chipaandelen-hoger-op-goedgemutst-Wall-Street.aspx",
+    "intro": "Beleggers op Wall Street zijn donderdag beter gestemd, nadat de olieprijzen stabiliseerden na een flinke sprong eerder in de week.",
+    "published_at": "2026-07-09 19:31",
+    "scraped_at": "2026-07-09T18:14:28.937684"
+  },
+  {
+    "id": "1e3321c561ba61b40dbba303be451439",
+    "categorie": "Beursnieuws",
+    "titel": "Fusie Banijay Entertainment en All3Media afgerond",
+    "link": "https://www.beurs.nl/Nieuws/870625/Fusie-Banijay-Entertainment-en-All3Media-afgerond.aspx",
+    "intro": "Banijay Group en RedBird IMI hebben de fusie tussen Banijay Entertainment en All3Media afgerond. Dit meldde Banijay donderdagavond.",
+    "published_at": "2026-07-09 18:53",
+    "scraped_at": "2026-07-09T18:14:28.937684"
+  },
+  {
+    "id": "bf65f436d69ed59bab55bd9440e39a8f",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen negeren oplaaiend geweld Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/870624/Europese-beurzen-negeren-oplaaiend-geweld-Midden-Oosten.aspx",
+    "intro": "De Europese beurzen zijn donderdag overwegend hoger geëindigd, ondanks de weer oplaaiende oorlog tussen de Verenigde Staten en Iran.",
+    "published_at": "2026-07-09 18:33",
+    "scraped_at": "2026-07-09T18:14:28.937684"
+  },
+  {
     "id": "ce2972243787e474634e21306b175d53",
     "categorie": "Beursnieuws",
     "titel": "Halfgeleiders duwen Damrak omhoog",
     "link": "https://www.beurs.nl/Nieuws/870617/Halfgeleiders-duwen-Damrak-omhoog.aspx",
     "intro": "De Amsterdamse beurs is donderdag hoger gesloten, met hulp van de halfgeleiders, die stevig herstelden na de volatiele koersbewegingen van de voorgaande dagen.",
     "published_at": "2026-07-09 17:53",
-    "scraped_at": "2026-07-09T16:17:06.586813"
+    "scraped_at": "2026-07-09T18:14:28.937684"
   },
   {
     "id": "4b0d69a13317b0197fa8bc968bbc8a1d",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/870615/Media-overnamefantasie-zet-Qiagen-hoger.aspx",
     "intro": "Biotechnologiebedrijf Qiagen heeft de belangstelling getrokken van verschillende investeringsmaatschappijen, waaronder EQT AB, Advent en KKR  Co, om te worden overgenomen. Dat schreef Bloomberg donderdag op basis van bronnen.",
     "published_at": "2026-07-09 17:38",
-    "scraped_at": "2026-07-09T16:17:06.586813"
+    "scraped_at": "2026-07-09T18:14:28.937684"
   },
   {
     "id": "20d2944e7c02c5f33fbfe77ba5aba629",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/870608/SK-Hynix-stelt-introductieprijs-vast-op-149.aspx",
     "intro": "Het Zuid-Koreaanse SK Hynix wil de nieuw uit te geven aandelen bij de Amerikaanse IPO vrijdag verkopen voor 149 dollar per zogeheten American depositary receipt. Dit meldde Reuters donderdag op basis van bronnen.",
     "published_at": "2026-07-09 16:35",
-    "scraped_at": "2026-07-09T16:17:06.586813"
+    "scraped_at": "2026-07-09T18:14:28.937684"
   },
   {
     "id": "1d834060958853fe758c87b2cd03fec7",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870607/Bestaande-woningverkopen-VS-dalen.aspx",
     "intro": "De verkoop van bestaande woningen in de Verenigde Staten is in juni gedaald, zo bleek donderdag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-07-09 16:30",
-    "scraped_at": "2026-07-09T16:17:06.586813"
+    "scraped_at": "2026-07-09T18:14:28.937684"
   },
   {
     "id": "1257f3e28225b33ad925a7e9aba9cb6a",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870604/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 17 juli 2026:",
     "published_at": "2026-07-09 16:28",
-    "scraped_at": "2026-07-09T16:17:06.586813"
+    "scraped_at": "2026-07-09T18:14:28.937684"
   },
   {
     "id": "c464964511f52e4e9b2b20cebd4236ae",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870605/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 17 juli 2026:",
     "published_at": "2026-07-09 16:28",
-    "scraped_at": "2026-07-09T16:17:06.586813"
+    "scraped_at": "2026-07-09T18:14:28.937684"
   },
   {
     "id": "ef000ad768079cbb64c9ec5191a6b159",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870603/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 17 juli 2026:",
     "published_at": "2026-07-09 16:27",
-    "scraped_at": "2026-07-09T16:17:06.586813"
-  },
-  {
-    "id": "4d28f30ccb07b3884ff259fd35c975a9",
-    "categorie": "Beursnieuws",
-    "titel": "Holland Colours stelt dividend vast",
-    "link": "https://www.beurs.nl/Nieuws/870594/Holland-Colours-stelt-dividend-vast.aspx",
-    "intro": "Holland Colours heeft donderdag tijdens de jaarvergadering groen licht gekregen op alle agendapunten, waaronder het dividend. Dit maakte het Apeldoornse bedrijf na afloop van de vergadering bekend.",
-    "published_at": "2026-07-09 16:02",
-    "scraped_at": "2026-07-09T16:17:06.586813"
-  },
-  {
-    "id": "d3cd3d30d52112ab7703ed424a161a39",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America ziet weinig risico bij Europese mijnbouwers",
-    "link": "https://www.beurs.nl/Nieuws/870590/Bank-of-America-ziet-weinig-risico-bij-Europese-mijnbouwers.aspx",
-    "intro": "Bank of America heeft zijn advies voor Europese mijnbouwbedrijven verhoogd naar 'marketweight', ofwel Houden, omdat de analisten weinig neerwaarts risico meer zien, ondanks de afkoelende stemming rond AI. Dit bleek donderdag uit een analistenrapport.",
-    "published_at": "2026-07-09 15:45",
-    "scraped_at": "2026-07-09T16:17:06.586813"
-  },
-  {
-    "id": "6d0f963d1e6a2881fa39c83cbc533558",
-    "categorie": "Beursnieuws",
-    "titel": "ECB kon bij rentebesluit niet om inflatie door energieschok heen",
-    "link": "https://www.beurs.nl/Nieuws/870584/ECB-kon-bij-rentebesluit-niet-om-inflatie-door-energieschok-heen.aspx",
-    "intro": "De Europese Centrale Bank kon tijdens zijn monetaire beleidsvergadering in juni niet langer betwijfelen of de hogere energieprijzen door de oorlog in Iran de algehele inflatie op middellange termijn boven de doelstelling van 2 procent zouden duwen. Dit bleek donderdag uit de notulen van de vergadering.",
-    "published_at": "2026-07-09 15:13",
-    "scraped_at": "2026-07-09T16:17:06.586813"
+    "scraped_at": "2026-07-09T18:14:28.937684"
   }
 ]
