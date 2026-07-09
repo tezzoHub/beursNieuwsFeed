@@ -1,12 +1,84 @@
 [
   {
+    "id": "6d0f963d1e6a2881fa39c83cbc533558",
+    "categorie": "Beursnieuws",
+    "titel": "ECB kon bij rentebesluit niet om inflatie door energieschok heen",
+    "link": "https://www.beurs.nl/Nieuws/870584/ECB-kon-bij-rentebesluit-niet-om-inflatie-door-energieschok-heen.aspx",
+    "intro": "De Europese Centrale Bank kon tijdens zijn monetaire beleidsvergadering in juni niet langer betwijfelen of de hogere energieprijzen door de oorlog in Iran de algehele inflatie op middellange termijn boven de doelstelling van 2 procent zouden duwen. Dit bleek donderdag uit de notulen van de vergadering.",
+    "published_at": "2026-07-09 15:13",
+    "scraped_at": "2026-07-09T13:38:05.765387"
+  },
+  {
+    "id": "a3fd59d64eaacd24b003580ed78ed739",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street klaar voor hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/870582/Wall-Street-klaar-voor-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet.",
+    "published_at": "2026-07-09 14:57",
+    "scraped_at": "2026-07-09T13:38:05.765387"
+  },
+  {
+    "id": "ca8df60c67a8f8114cbe5dba8ca0a984",
+    "categorie": "Beursnieuws",
+    "titel": "Fugro benoemt tijdelijke CFO",
+    "link": "https://www.beurs.nl/Nieuws/870581/Fugro-benoemt-tijdelijke-CFO.aspx",
+    "intro": "Fugro heeft Cees den Ouden per direct als interim CFO benoemd. Dit maakte de bodemonderzoeker donderdag bekend.",
+    "published_at": "2026-07-09 14:51",
+    "scraped_at": "2026-07-09T13:38:05.765387"
+  },
+  {
+    "id": "8f7507546e797bba47bab829936d59bf",
+    "categorie": "Beursnieuws",
+    "titel": "Iets minder nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/870576/Iets-minder-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week iets gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-07-09 14:39",
+    "scraped_at": "2026-07-09T13:38:05.765387"
+  },
+  {
+    "id": "902abaf6c3ff40488793027a319779c4",
+    "categorie": "Beursnieuws",
+    "titel": "Markt rekent op nieuwe outlookverhoging ASML",
+    "link": "https://www.beurs.nl/Nieuws/870570/Markt-rekent-op-nieuwe-outlookverhoging-ASML.aspx",
+    "intro": "ASML heeft in het tweede kwartaal de eigen outlook gehaald en ziet wellicht ruimte om de verwachtingen voor heel 2026 opnieuw naar boven bij te stellen. Dit bleek uit een rondgang van ABM Financial News onder analisten.",
+    "published_at": "2026-07-09 13:59",
+    "scraped_at": "2026-07-09T13:38:05.765387"
+  },
+  {
+    "id": "ac0cc13ed01d53c3d5965e51870f90a7",
+    "categorie": "Beursnieuws",
+    "titel": "Wolters en halfgeleiders aan kop in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/870569/Wolters-en-halfgeleiders-aan-kop-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagmiddag hoger, onder aanvoering van Wolters Kluwer en de halfgeleiders. Rond de klok van half twee won de AEX 0,5 procent op 1.081,28 punten.",
+    "published_at": "2026-07-09 13:41",
+    "scraped_at": "2026-07-09T13:38:05.765387"
+  },
+  {
+    "id": "71c0bd220c48943a525d0b0f82528cd5",
+    "categorie": "Beursnieuws",
+    "titel": "Salzgitter neemt Hüttenwerke Krupp Mannesman geheel over",
+    "link": "https://www.beurs.nl/Nieuws/870563/Salzgitter-neemt-Huttenwerke-Krupp-Mannesman-geheel-over.aspx",
+    "intro": "Salzgitter wordt volledig eigenaar van Hüttenwerke Krupp Mannesmann, omdat mede-aandeelhouders Thyssenkrupp en Vallourec zich gaan terugtrekken uit de joint venture. Dit maakte Salzgitter donderdag bekend.",
+    "published_at": "2026-07-09 13:12",
+    "scraped_at": "2026-07-09T13:38:05.765387"
+  },
+  {
+    "id": "2c245f1219bb35b840270e85fba9039f",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op licht hogere opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/870560/Futures-wijzen-op-licht-hogere-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een iets hogere opening tegemoet.",
+    "published_at": "2026-07-09 13:01",
+    "scraped_at": "2026-07-09T13:38:05.765387"
+  },
+  {
     "id": "25444e8aa8cb05a13e89067852b49792",
     "categorie": "Beursnieuws",
     "titel": "Meer omzet en winst voor Pepsico",
     "link": "https://www.beurs.nl/Nieuws/870556/Meer-omzet-en-winst-voor-Pepsico.aspx",
     "intro": "PepsiCo heeft in het tweede kwartaal meer omzet en winst behaald en herhaalde de outlook voor 2026. Dit bleek donderdag uit cijfers van de Amerikaanse gigant in frisdranken en snacks.",
     "published_at": "2026-07-09 12:17",
-    "scraped_at": "2026-07-09T10:36:25.205288"
+    "scraped_at": "2026-07-09T13:38:05.765387"
   },
   {
     "id": "c484c2f60d1231325af31eea30e962c0",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870555/Europese-beurzen-in-de-lift.aspx",
     "intro": "De Europese beurzen noteerden donderdag rond het middaguur overwegend hoger, nadat olieprijzen stabiliseerden na de stijging van woensdag.",
     "published_at": "2026-07-09 12:15",
-    "scraped_at": "2026-07-09T10:36:25.205288"
-  },
-  {
-    "id": "96851b24e94d6e856ef199a5c3b39ce1",
-    "categorie": null,
-    "titel": "Lunchbericht: AEX doet het wat rustiger aan",
-    "link": "https://www.iex.nl/artikel/870554/Lunchbericht-AEX-doet-het-wat-rustiger-aan.aspx",
-    "intro": "",
-    "published_at": "2026-07-09 12:15",
-    "scraped_at": "2026-07-09T10:36:25.205288"
-  },
-  {
-    "id": "983fdf218291948383f8aea83a9684ba",
-    "categorie": "Beursnieuws",
-    "titel": "Fugro helpt Saipem Britse kooldioxide opslaan onder de Noordzee",
-    "link": "https://www.beurs.nl/Nieuws/870548/Fugro-helpt-Saipem-Britse-kooldioxide-opslaan-onder-de-Noordzee.aspx",
-    "intro": "Fugro gaat maritieme meet- en inspectiediensten leveren aan Saipem voor het Northern Endurance Partnership (NEP), een Brits project voor het transport en de opslag van kooldioxide. Saipem leidt de engineering en installatie van de offshore-pijpleiding voor NEP. Dat maakte Fugro donderdag bekend.",
-    "published_at": "2026-07-09 11:35",
-    "scraped_at": "2026-07-09T10:36:25.205288"
-  },
-  {
-    "id": "fc929d0db70303404a214e36a9e4898c",
-    "categorie": "Beursnieuws",
-    "titel": "CEO Philips in bestuur GSK",
-    "link": "https://www.beurs.nl/Nieuws/870544/CEO-Philips-in-bestuur-GSK.aspx",
-    "intro": "CEO Roy Jakobs van Philips treedt toe tot het bestuur van GSK als niet-uitvoerend lid. Dit maakte GSK donderdag bekend.",
-    "published_at": "2026-07-09 11:29",
-    "scraped_at": "2026-07-09T10:36:25.205288"
-  },
-  {
-    "id": "e4b6b4a43ccc57c3598e38eb63645046",
-    "categorie": "Beursnieuws",
-    "titel": "Covestro positiever over winstgevendheid",
-    "link": "https://www.beurs.nl/Nieuws/870543/Covestro-positiever-over-winstgevendheid.aspx",
-    "intro": "Covestro heeft de verwachtingen voor de EBITDA dit jaar opwaarts bijgesteld. Dit maakte de Duitse chemiereus donderdag bekend.",
-    "published_at": "2026-07-09 11:04",
-    "scraped_at": "2026-07-09T10:36:25.205288"
-  },
-  {
-    "id": "bd3595f380591b271a83b206b4bd1211",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders in trek op groen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/870541/Halfgeleiders-in-trek-op-groen-Damrak.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagochtend hoger, met winsten voor de halfgeleiders. Rond de klok van elf uur won de AEX 0,4 procent op 1.080,69 punten.",
-    "published_at": "2026-07-09 10:54",
-    "scraped_at": "2026-07-09T10:36:25.205288"
-  },
-  {
-    "id": "8a48ed109ff7aaef3d2fb299e27cbd44",
-    "categorie": "Beursnieuws",
-    "titel": "Berenberg: uitstekend kwartaal Shell goed nieuws voor aandeleninkoop",
-    "link": "https://www.beurs.nl/Nieuws/870536/Berenberg-uitstekend-kwartaal-Shell-goed-nieuws-voor-aandeleninkoop.aspx",
-    "intro": "Shell kan de omvang van zijn aandeleninkopen mogelijk weer opvoeren naar 3,5 miljard dollar per kwartaal. Dit schreef analist Henry Tarr van Berenberg donderdag in een rapport.",
-    "published_at": "2026-07-09 10:30",
-    "scraped_at": "2026-07-09T10:36:25.205288"
-  },
-  {
-    "id": "4588cc12383c72ee7daa12e595ceacc4",
-    "categorie": "IEX",
-    "titel": "Must read: Woningmarkt koelt verder af",
-    "link": "https://www.iex.nl/artikel/870394/Must-read-Woningmarkt-koelt-verder-af.aspx",
-    "intro": "Plus: waardering SpaceX is krankzinnig, dollar gevraagd, de geweldige vooruitzichten van goud, 'erfbelasting gaat niet omhoog', duurzame investeringen afgeremd, en meer.",
-    "published_at": "2026-07-09 10:00",
-    "scraped_at": "2026-07-09T10:36:25.205288"
-  },
-  {
-    "id": "b293d3d855845f90a6f64dfc4a945a95",
-    "categorie": "Beursnieuws",
-    "titel": "Wolters Kluwer schiet omhoog in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/870531/Wolters-Kluwer-schiet-omhoog-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs is donderdag met winst geopend. Kort na opening van de beurs, koerste de AEX 0,9 procent hoger op 1.085,47 punten.",
-    "published_at": "2026-07-09 09:11",
-    "scraped_at": "2026-07-09T10:36:25.205288"
+    "scraped_at": "2026-07-09T13:38:05.765387"
   }
 ]
