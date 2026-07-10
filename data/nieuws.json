@@ -1,38 +1,92 @@
 [
   {
-    "id": "48c5d595ecced3579840d1b9d66bb0b9",
+    "id": "e86dc131ec9abef10800b53f18bd82cc",
     "categorie": "Beursnieuws",
-    "titel": "Nederlandse productie blijft op stoom",
-    "link": "https://www.beurs.nl/Nieuws/870656/Nederlandse-productie-blijft-op-stoom.aspx",
-    "intro": "De Nederlandse industrie heeft in mei opnieuw flink meer geproduceerd. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-07-10 06:59",
-    "scraped_at": "2026-07-10T05:13:57.492516"
+    "titel": "Jefferies zet CTP op de favorietenlijst",
+    "link": "https://www.beurs.nl/Nieuws/870690/Jefferies-zet-CTP-op-de-favorietenlijst.aspx",
+    "intro": "Jefferies heeft het aandeel CTP op de lijst met favoriete midcapaandelen gezet. Dit bleek vrijdag uit een rapport van de zakenbank.",
+    "published_at": "2026-07-10 10:03",
+    "scraped_at": "2026-07-10T08:45:46.832596"
   },
   {
-    "id": "04ae67d3fbff79cf8d26df72c90532b6",
+    "id": "4ecc7ef397f58783339c3959258fc32e",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/870654/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 17 juli 2026:",
-    "published_at": "2026-07-10 06:56",
-    "scraped_at": "2026-07-10T05:13:57.492516"
+    "titel": "Deutsche Bank verhoogt koersdoelen ASML en ASMI",
+    "link": "https://www.beurs.nl/Nieuws/870689/Deutsche-Bank-verhoogt-koersdoelen-ASML-en-ASMI.aspx",
+    "intro": "Deutsche Bank heeft vrijdag de koersdoelen voor ASML en ASMI verhoogd, terwijl de koopaanbevelingen op beide aandelen van kracht bleven.",
+    "published_at": "2026-07-10 09:48",
+    "scraped_at": "2026-07-10T08:45:46.832596"
   },
   {
-    "id": "62a6ebc05fa7295b99f64eb0bba810fe",
+    "id": "1a9a0996e5285994f5fb6785020eb449",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/870652/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 17 juli 2026:",
-    "published_at": "2026-07-10 06:55",
-    "scraped_at": "2026-07-10T05:13:57.492516"
+    "titel": "Franse inflatie gedaald",
+    "link": "https://www.beurs.nl/Nieuws/870688/Franse-inflatie-gedaald.aspx",
+    "intro": "De inflatie in Frankrijk is in juni gedaald. Dit bleek vrijdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-07-10 09:32",
+    "scraped_at": "2026-07-10T08:45:46.832596"
   },
   {
-    "id": "bc1132058bc0050d5e7881096bb87699",
+    "id": "6af068733f27bc947167f69f18a78211",
+    "categorie": "IEX",
+    "titel": "Must read: Nvidia is wel erg goedkoop",
+    "link": "https://www.iex.nl/artikel/870559/Must-read-Nvidia-is-wel-erg-goedkoop.aspx",
+    "intro": "Weer net zo goedkoop als voor de AI-boom. Plus: riemen vast voor het cijferseizoen, wat als je collega een robot is en inverse-Cramer is echt een strategie.",
+    "published_at": "2026-07-10 09:30",
+    "scraped_at": "2026-07-10T08:45:46.832596"
+  },
+  {
+    "id": "db0341d055585664de8c3c16e1eb1993",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/870653/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 17 juli 2026:",
-    "published_at": "2026-07-10 06:55",
-    "scraped_at": "2026-07-10T05:13:57.492516"
+    "titel": "Chipaandelen drukken sentiment op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/870684/Chipaandelen-drukken-sentiment-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs is vrijdagochtend met verlies geopend. Kort na openingsgong koerste de AEX 0,3 procent lager op 1.080,26 punten.",
+    "published_at": "2026-07-10 09:17",
+    "scraped_at": "2026-07-10T08:45:46.832596"
+  },
+  {
+    "id": "4c9e3c3a0545ad6ee90fb57572c649b2",
+    "categorie": "Opinie",
+    "titel": "Impactmeting: professioneler dan ooit, maar nog zonder gedeelde taal",
+    "link": "https://www.ieximpact.nl/artikel/870160/Impactmeting-professioneler-dan-ooit-maar-nog-zonder-gedeelde-taal.aspx",
+    "intro": "Impactbeleggers werken met steeds meer data, frameworks en indicatoren, maar een eenduidige manier om impact te definiëren en te meten ontbreekt nog altijd. Vier specialisten gaan met elkaar het gesprek aan.",
+    "published_at": "2026-07-10 09:10",
+    "scraped_at": "2026-07-10T08:45:46.832596"
+  },
+  {
+    "id": "24d6b6276209471f4c1e19a031316f9d",
+    "categorie": "Beursnieuws",
+    "titel": "JPMorgan verhoogt koersdoel Aperam",
+    "link": "https://www.beurs.nl/Nieuws/870681/JPMorgan-verhoogt-koersdoel-Aperam.aspx",
+    "intro": "JPMorgan Research heeft het koersdoel voor Aperam verhoogd van 42,70 naar 46,10 euro met een onveranderd Neutraal advies. Dit bleek vrijdag uit een sectorrapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-07-10 09:10",
+    "scraped_at": "2026-07-10T08:45:46.832596"
+  },
+  {
+    "id": "f0df3e52f5aae293b361293946cbdde4",
+    "categorie": "Beursnieuws",
+    "titel": "Hays positief gestemd",
+    "link": "https://www.beurs.nl/Nieuws/870679/Hays-positief-gestemd.aspx",
+    "intro": "Uitzender Hays verwacht dat de operationele winst in het gebroken boekjaar 2026 aan de bovenkant van de analistenverwachtingen zal uitkomen. Dit maakte het Britse bedrijf vrijdagochtend bekend bij de presentatie van de cijfers over het vierde kwartaal.",
+    "published_at": "2026-07-10 08:56",
+    "scraped_at": "2026-07-10T08:45:46.832596"
+  },
+  {
+    "id": "4ae6f1f064377fb536de1dd552047829",
+    "categorie": "Beursnieuws",
+    "titel": "BAM rondt aandeleninkoop af",
+    "link": "https://www.beurs.nl/Nieuws/870678/BAM-rondt-aandeleninkoop-af.aspx",
+    "intro": "BAM Groep heeft een aandeleninkoopprogramma ter waarde van 40 miljoen euro afgerond. Dit maakte de bouwer vrijdagochtend bekend.",
+    "published_at": "2026-07-10 08:51",
+    "scraped_at": "2026-07-10T08:45:46.832596"
+  },
+  {
+    "id": "47820f9584ffc5fff9d545890b17cd84",
+    "categorie": "Beursnieuws",
+    "titel": "Apollo troeft Castlelake af met bod op easyJet",
+    "link": "https://www.beurs.nl/Nieuws/870677/Apollo-troeft-Castlelake-af-met-bod-op-easyJet.aspx",
+    "intro": "Apollo Global Management heeft vrijdag een bod uitgebracht op de Britse prijsvechter easyJet van 7,15 pond per aandeel, waarmee het overnamebod van Castlelake ruimschoots wordt overtroffen.",
+    "published_at": "2026-07-10 08:50",
+    "scraped_at": "2026-07-10T08:45:46.832596"
   }
 ]
