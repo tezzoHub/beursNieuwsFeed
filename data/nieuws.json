@@ -1,12 +1,57 @@
 [
   {
+    "id": "1069a21692b6202658914d76f8ad1068",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: wegblijven bij chips en Europese aandelen",
+    "link": "https://www.beurs.nl/Nieuws/870739/Beursblik-wegblijven-bij-chips-en-Europese-aandelen.aspx",
+    "intro": "Ondanks de koersdalingen van de halfgeleideraandelen is het nog geen moment om deze op te pikken. Dit stelden analisten van Bank of America vrijdag in een rapport.",
+    "published_at": "2026-07-10 15:14",
+    "scraped_at": "2026-07-10T13:45:30.482642"
+  },
+  {
+    "id": "e112a58667f9b94cca57580d5b40e30f",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op verdeelde opening",
+    "link": "https://www.beurs.nl/Nieuws/870736/Wall-Street-koerst-af-op-verdeelde-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een verdeelde opening tegemoet, terwijl beleggers wachten op het Amerikaanse debuut van SK Hynix.",
+    "published_at": "2026-07-10 14:55",
+    "scraped_at": "2026-07-10T13:45:30.482642"
+  },
+  {
+    "id": "fc0c701d70e0b2b616900390e6ead08d",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verhoogt koersdoel ING",
+    "link": "https://www.beurs.nl/Nieuws/870734/Citi-verhoogt-koersdoel-ING.aspx",
+    "intro": "Citi Research heeft het koersdoel voor ING Groep verhoogd van 30,20 naar 31,20 euro, met handhaving van het koopadvies. Dit bleek vrijdag uit een rapport van de Amerikaanse zakenbank, vooruitlopend op de cijfers over het tweede kwartaal.",
+    "published_at": "2026-07-10 14:47",
+    "scraped_at": "2026-07-10T13:45:30.482642"
+  },
+  {
+    "id": "807cc8a492c1b90ca116e3ce415b5986",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: TomTom vangt omzetdruk goed op",
+    "link": "https://www.beurs.nl/Nieuws/870726/Beursblik-TomTom-vangt-omzetdruk-goed-op.aspx",
+    "intro": "TomTom heeft in het tweede kwartaal van dit jaar naar verwachting minder omzet behaald dan in dezelfde periode vorig jaar, maar wist de winstgevendheid wel te verbeteren. Dit bleek uit een consensusverwachting van analisten die werd samengesteld door de navigatiespecialist zelf.",
+    "published_at": "2026-07-10 14:17",
+    "scraped_at": "2026-07-10T13:45:30.482642"
+  },
+  {
+    "id": "805e503bf11b5b481f1046c90b89eab4",
+    "categorie": "Beursnieuws",
+    "titel": "AEX weet verliezen grotendeels weg te poetsen",
+    "link": "https://www.beurs.nl/Nieuws/870722/AEX-weet-verliezen-grotendeels-weg-te-poetsen.aspx",
+    "intro": "De Amsterdamse beurs koerste vrijdagmiddag nagenoeg vlak en wist daarmee de openingsverliezen weg te poetsen.",
+    "published_at": "2026-07-10 13:39",
+    "scraped_at": "2026-07-10T13:45:30.482642"
+  },
+  {
     "id": "ca5e5adf36ae43a40709063c0f84e24a",
     "categorie": "Beursnieuws",
     "titel": "EC: Meta houdt zich niet aan de regels",
     "link": "https://www.beurs.nl/Nieuws/870720/EC-Meta-houdt-zich-niet-aan-de-regels.aspx",
     "intro": "Het Amerikaanse Meta, moederbedrijf van onder meer Facebook, houdt zich niet aan de Europes regels van de Digital Services Act. Dit stelde de Europese Commissie vrijdag in een voorlopig rapport.",
     "published_at": "2026-07-10 13:07",
-    "scraped_at": "2026-07-10T11:36:34.566033"
+    "scraped_at": "2026-07-10T13:45:30.482642"
   },
   {
     "id": "aaf60308259e5dc6126fde53269f5532",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870717/Futures-Wall-Street-signaleren-verdeelde-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een verdeelde opening tegemoet, terwijl beleggers wachten op het Amerikaanse debuut van SK Hynix.",
     "published_at": "2026-07-10 12:57",
-    "scraped_at": "2026-07-10T11:36:34.566033"
+    "scraped_at": "2026-07-10T13:45:30.482642"
   },
   {
     "id": "4c51bbd1bd1aba921ae31026f9edc396",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870716/Delta-overtreft-eigen-verwachting-in-tweede-kwartaal.aspx",
     "intro": "Delta Air Lines heeft in het tweede kwartaal beter gepresteerd dan het zelf had voorzien en dat gaf ruimte aan de Amerikaanse luchtvaartmaatschappij om het dividend met 15 procent te verhogen en de jaaroutlook te herhalen. Dit bleek vrijdag uit de kwartaalupdate.",
     "published_at": "2026-07-10 12:52",
-    "scraped_at": "2026-07-10T11:36:34.566033"
+    "scraped_at": "2026-07-10T13:45:30.482642"
   },
   {
     "id": "e7eb91b4fbec0101c858736eb6722555",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870710/Europese-beurzen-blijven-dicht-bij-huis.aspx",
     "intro": "Europese aandelen bleven vrijdag rond het middaguur dicht bij huis, waarbij vooral de defensienamen en halfgeleiders onder druk stonden.",
     "published_at": "2026-07-10 12:12",
-    "scraped_at": "2026-07-10T11:36:34.566033"
+    "scraped_at": "2026-07-10T13:45:30.482642"
   },
   {
     "id": "3c0e91deb95f33ad6e6de2387deb7cf3",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870699/IEA-ziet-herstel-in-oliemarkt-vorm-krijgen.aspx",
     "intro": "De mondiale vraag naar olie stevent in 2026 af op een daling van 1 miljoen vaten per dag, de eerste afname sinds 2020. Dit meldde het Internationaal Energieagentschap (IEA) vrijdag in zijn oliemarktrapport.",
     "published_at": "2026-07-10 11:09",
-    "scraped_at": "2026-07-10T11:36:34.566033"
-  },
-  {
-    "id": "423ce1738178c3a7cd5b0d9841c79dd0",
-    "categorie": "Beursnieuws",
-    "titel": "ArcelorMittal opvallende stijger in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/870695/ArcelorMittal-opvallende-stijger-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdagochtend lager, waarbij de 'chippers' op het sentiment drukten. Rond de klok van elf uur daalde de AEX met 0,4 procent tot 1.079,29 punten.",
-    "published_at": "2026-07-10 10:41",
-    "scraped_at": "2026-07-10T11:36:34.566033"
-  },
-  {
-    "id": "e86dc131ec9abef10800b53f18bd82cc",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies zet CTP op de favorietenlijst",
-    "link": "https://www.beurs.nl/Nieuws/870690/Jefferies-zet-CTP-op-de-favorietenlijst.aspx",
-    "intro": "Jefferies heeft het aandeel CTP op de lijst met favoriete midcapaandelen gezet. Dit bleek vrijdag uit een rapport van de zakenbank.",
-    "published_at": "2026-07-10 10:03",
-    "scraped_at": "2026-07-10T11:36:34.566033"
-  },
-  {
-    "id": "4ecc7ef397f58783339c3959258fc32e",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoelen ASML en ASMI",
-    "link": "https://www.beurs.nl/Nieuws/870689/Deutsche-Bank-verhoogt-koersdoelen-ASML-en-ASMI.aspx",
-    "intro": "Deutsche Bank heeft vrijdag de koersdoelen voor ASML en ASMI verhoogd, terwijl de koopaanbevelingen op beide aandelen van kracht bleven.",
-    "published_at": "2026-07-10 09:48",
-    "scraped_at": "2026-07-10T11:36:34.566033"
-  },
-  {
-    "id": "1a9a0996e5285994f5fb6785020eb449",
-    "categorie": "Beursnieuws",
-    "titel": "Franse inflatie gedaald",
-    "link": "https://www.beurs.nl/Nieuws/870688/Franse-inflatie-gedaald.aspx",
-    "intro": "De inflatie in Frankrijk is in juni gedaald. Dit bleek vrijdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-07-10 09:32",
-    "scraped_at": "2026-07-10T11:36:34.566033"
-  },
-  {
-    "id": "6af068733f27bc947167f69f18a78211",
-    "categorie": "IEX",
-    "titel": "Must read: Nvidia is wel erg goedkoop",
-    "link": "https://www.iex.nl/artikel/870559/Must-read-Nvidia-is-wel-erg-goedkoop.aspx",
-    "intro": "Weer net zo goedkoop als voor de AI-boom. Plus: riemen vast voor het cijferseizoen, wat als je collega een robot is en inverse-Cramer is echt een strategie.",
-    "published_at": "2026-07-10 09:30",
-    "scraped_at": "2026-07-10T11:36:34.566033"
+    "scraped_at": "2026-07-10T13:45:30.482642"
   }
 ]
