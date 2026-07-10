@@ -1,92 +1,38 @@
 [
   {
-    "id": "1b1717799856f0119f10374f12edaf2d",
+    "id": "48c5d595ecced3579840d1b9d66bb0b9",
     "categorie": "Beursnieuws",
-    "titel": "Media: Volkswagen bereikt geen akkoord over nieuwe massaontslagen",
-    "link": "https://www.beurs.nl/Nieuws/870643/Media-Volkswagen-bereikt-geen-akkoord-over-nieuwe-massaontslagen.aspx",
-    "intro": "Volkswagen is van plan om het aanbod flink in te perken, nu eerder genoemde massaontslagen er voorlopig niet lijken te komen. Dit meldde persbureau Bloomberg donderdagavond.",
-    "published_at": "2026-07-09 22:56",
-    "scraped_at": "2026-07-10T01:04:45.177178"
+    "titel": "Nederlandse productie blijft op stoom",
+    "link": "https://www.beurs.nl/Nieuws/870656/Nederlandse-productie-blijft-op-stoom.aspx",
+    "intro": "De Nederlandse industrie heeft in mei opnieuw flink meer geproduceerd. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-07-10 06:59",
+    "scraped_at": "2026-07-10T05:13:57.492516"
   },
   {
-    "id": "6f69e9d4bbd24df46c40543d3d4471c2",
+    "id": "04ae67d3fbff79cf8d26df72c90532b6",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/870642/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten. ArcelorMittal was een duidelijke stijger en ASML daalde.",
-    "published_at": "2026-07-09 22:27",
-    "scraped_at": "2026-07-10T01:04:45.177178"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/870654/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 17 juli 2026:",
+    "published_at": "2026-07-10 06:56",
+    "scraped_at": "2026-07-10T05:13:57.492516"
   },
   {
-    "id": "45906d206c54dac061f67fff269a7b93",
+    "id": "62a6ebc05fa7295b99f64eb0bba810fe",
     "categorie": "Beursnieuws",
-    "titel": "Chipaandelen helpen Wall Street aan winst",
-    "link": "https://www.beurs.nl/Nieuws/870641/Chipaandelen-helpen-Wall-Street-aan-winst.aspx",
-    "intro": "De belangrijkste indices op Wall Street zijn donderdag gesloten met plussen op de borden, nadat de olieprijzen waren gestabiliseerd na een behoorlijke sprong eerder in de week. Chipaandelen waren in trek bij beleggers.",
-    "published_at": "2026-07-09 22:14",
-    "scraped_at": "2026-07-10T01:04:45.177178"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/870652/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 17 juli 2026:",
+    "published_at": "2026-07-10 06:55",
+    "scraped_at": "2026-07-10T05:13:57.492516"
   },
   {
-    "id": "62b0bfb4343c9fb9943e2d18e15ae3c6",
+    "id": "bc1132058bc0050d5e7881096bb87699",
     "categorie": "Beursnieuws",
-    "titel": "Micron verhoogt AI-uitgaven naar 250 miljard dollar",
-    "link": "https://www.beurs.nl/Nieuws/870640/Micron-verhoogt-AI-uitgaven-naar-250-miljard-dollar.aspx",
-    "intro": "Micron Technology heeft zijn verwachte uitgaven voor de chipproductie in de Verenigde Staten tot 2035 verhoogd naar 250 miljard dollar. Dit meldde het Amerikaanse halfgeleiderbedrijf donderdag.",
-    "published_at": "2026-07-09 21:45",
-    "scraped_at": "2026-07-10T01:04:45.177178"
-  },
-  {
-    "id": "3d1a1536e714b04009aa7efa8aaa7293",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijs weer behoorlijk gedaald",
-    "link": "https://www.beurs.nl/Nieuws/870637/Olieprijs-weer-behoorlijk-gedaald.aspx",
-    "intro": "De olieprijs is donderdag behoorlijk gedaald, ondanks dat de Verenigde Staten en Iran elkaar weer bestookten in de Straat van Hormuz en de Amerikanen de ontheffing van de sancties tegen Iraanse olie introkken.",
-    "published_at": "2026-07-09 21:04",
-    "scraped_at": "2026-07-10T01:04:45.177178"
-  },
-  {
-    "id": "e7354eac63797725095c06ef3b3ba08f",
-    "categorie": "Beursnieuws",
-    "titel": "Chipaandelen hoger op goedgemutst Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/870626/Chipaandelen-hoger-op-goedgemutst-Wall-Street.aspx",
-    "intro": "Beleggers op Wall Street zijn donderdag beter gestemd, nadat de olieprijzen stabiliseerden na een flinke sprong eerder in de week.",
-    "published_at": "2026-07-09 19:31",
-    "scraped_at": "2026-07-10T01:04:45.177178"
-  },
-  {
-    "id": "1e3321c561ba61b40dbba303be451439",
-    "categorie": "Beursnieuws",
-    "titel": "Fusie Banijay Entertainment en All3Media afgerond",
-    "link": "https://www.beurs.nl/Nieuws/870625/Fusie-Banijay-Entertainment-en-All3Media-afgerond.aspx",
-    "intro": "Banijay Group en RedBird IMI hebben de fusie tussen Banijay Entertainment en All3Media afgerond. Dit meldde Banijay donderdagavond.",
-    "published_at": "2026-07-09 18:53",
-    "scraped_at": "2026-07-10T01:04:45.177178"
-  },
-  {
-    "id": "bf65f436d69ed59bab55bd9440e39a8f",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen negeren oplaaiend geweld Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/870624/Europese-beurzen-negeren-oplaaiend-geweld-Midden-Oosten.aspx",
-    "intro": "De Europese beurzen zijn donderdag overwegend hoger geëindigd, ondanks de weer oplaaiende oorlog tussen de Verenigde Staten en Iran.",
-    "published_at": "2026-07-09 18:33",
-    "scraped_at": "2026-07-10T01:04:45.177178"
-  },
-  {
-    "id": "ce2972243787e474634e21306b175d53",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders duwen Damrak omhoog",
-    "link": "https://www.beurs.nl/Nieuws/870617/Halfgeleiders-duwen-Damrak-omhoog.aspx",
-    "intro": "De Amsterdamse beurs is donderdag hoger gesloten, met hulp van de halfgeleiders, die stevig herstelden na de volatiele koersbewegingen van de voorgaande dagen.",
-    "published_at": "2026-07-09 17:53",
-    "scraped_at": "2026-07-10T01:04:45.177178"
-  },
-  {
-    "id": "4b0d69a13317b0197fa8bc968bbc8a1d",
-    "categorie": "Beursnieuws",
-    "titel": "Media: overnamefantasie zet Qiagen hoger",
-    "link": "https://www.beurs.nl/Nieuws/870615/Media-overnamefantasie-zet-Qiagen-hoger.aspx",
-    "intro": "Biotechnologiebedrijf Qiagen heeft de belangstelling getrokken van verschillende investeringsmaatschappijen, waaronder EQT AB, Advent en KKR  Co, om te worden overgenomen. Dat schreef Bloomberg donderdag op basis van bronnen.",
-    "published_at": "2026-07-09 17:38",
-    "scraped_at": "2026-07-10T01:04:45.177178"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/870653/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 17 juli 2026:",
+    "published_at": "2026-07-10 06:55",
+    "scraped_at": "2026-07-10T05:13:57.492516"
   }
 ]
