@@ -1,12 +1,66 @@
 [
   {
+    "id": "29eed9d9676ab2fbab4f9106e5a6a9a7",
+    "categorie": "Nieuws",
+    "titel": "Elektriciteit verduurzaamt, maar de planeet niet",
+    "link": "https://www.ieximpact.nl/artikel/870835/Elektriciteit-verduurzaamt-maar-de-planeet-niet.aspx",
+    "intro": "De vooruitgang in schone elektriciteitsproductie versnelt, maar dat verandert de structuur van het wereldwijde energiesysteem niet fundamenteel, zegt Philippe Waechter van Ostrum Asset Manegement. \"Fossiele brandstoffen, olie, gas en steenkool, waren in 2025 nog altijd goed voor 86,2 procent van het mondiale primaire energieverbruik.\"",
+    "published_at": "2026-07-13 14:13",
+    "scraped_at": "2026-07-13T12:42:52.932326"
+  },
+  {
+    "id": "d3236ecabb9f76e6db79fa06c0a80854",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX probeert verlies goed te maken",
+    "link": "https://www.beurs.nl/Nieuws/870879/Beursupdate-AEX-probeert-verlies-goed-te-maken.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagmiddag nog fractioneel lager, terwijl de chippers onder druk stonden, maar zwaargewicht Shell kon profiteren van de oplopende olieprijs.",
+    "published_at": "2026-07-13 14:06",
+    "scraped_at": "2026-07-13T12:42:52.932326"
+  },
+  {
+    "id": "f3ce2b2ec21fc07b729c12f8a9e67f1e",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street wijzen op lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/870872/Futures-Wall-Street-wijzen-op-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen kunnen maandag een lagere opening verwachten, terwijl de olieprijzen in de lift zitten, nadat de VS en Iran afgelopen weekend over en weer aanvallen hebben uitgevoerd.",
+    "published_at": "2026-07-13 13:10",
+    "scraped_at": "2026-07-13T12:42:52.932326"
+  },
+  {
+    "id": "af8a95b9be070794b734736e965a29b7",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of America verlaagt koersdoel Wolters Kluwer",
+    "link": "https://www.beurs.nl/Nieuws/870871/Bank-of-America-verlaagt-koersdoel-Wolters-Kluwer.aspx",
+    "intro": "Bank of America heeft maandag het koersdoel voor Wolters Kluwer verlaagd van 99,00 naar 95,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een sectorrapport van de Amerikaanse bank.",
+    "published_at": "2026-07-13 12:31",
+    "scraped_at": "2026-07-13T12:42:52.932326"
+  },
+  {
+    "id": "08fdbbc210006405af76379123537836",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verhoogt koersdoel Tesla",
+    "link": "https://www.beurs.nl/Nieuws/870870/Jefferies-verhoogt-koersdoel-Tesla.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Tesla verhoogd van 375 naar 400 dollar, maar met een onveranderd Houden advies. Dit bleek uit een analistenrapport van de zakenbank.",
+    "published_at": "2026-07-13 12:16",
+    "scraped_at": "2026-07-13T12:42:52.932326"
+  },
+  {
+    "id": "c61ca2e9dd78c41fe102e74c9fbf4270",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen kijken voorzichtig omhoog",
+    "link": "https://www.beurs.nl/Nieuws/870869/Europese-beurzen-kijken-voorzichtig-omhoog.aspx",
+    "intro": "De Europese beurzen noteerden maandag rond lunchtijd licht hoger, terwijl halfgeleideraandelen opnieuw onder druk stonden.",
+    "published_at": "2026-07-13 12:14",
+    "scraped_at": "2026-07-13T12:42:52.932326"
+  },
+  {
     "id": "43e9deb137ba5c3df5ef4c144322c74b",
     "categorie": "Beursnieuws",
     "titel": "Olympia langer sponsor van Ajax",
     "link": "https://www.beurs.nl/Nieuws/870844/Olympia-langer-sponsor-van-Ajax.aspx",
     "intro": "Ajax en Olympia hebben besloten om hun samenwerking tot minimaal 2029 te verlengen. Dit meldde de Amsterdamse voetbalclub maandag zonder financiële details te geven.De arbeidsbemiddelaar blijft daarmee official partner en hoofdsponsor van de Ajax-jeugd.",
     "published_at": "2026-07-13 10:53",
-    "scraped_at": "2026-07-13T10:00:48.667507"
+    "scraped_at": "2026-07-13T12:42:52.932326"
   },
   {
     "id": "5e36045eb90a674e44fdc7e450efcd2c",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870843/Chippers-trekken-AEX-licht-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend licht lager, terwijl de chippers onder druk stonden.",
     "published_at": "2026-07-13 10:50",
-    "scraped_at": "2026-07-13T10:00:48.667507"
+    "scraped_at": "2026-07-13T12:42:52.932326"
   },
   {
     "id": "13a7e6553210482a9637cc6b9d82c3c0",
@@ -24,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/870792/Must-read-Gaat-de-bullmarkt-verder.aspx",
     "intro": "Plus: Waterfonds bestaat 25 jaar, Morningstar waardeert goudmijners af, chippers cashen, IPO-boom in Europa, brede welvaart op recordstand, en meer.",
     "published_at": "2026-07-13 10:10",
-    "scraped_at": "2026-07-13T10:00:48.667507"
+    "scraped_at": "2026-07-13T12:42:52.932326"
   },
   {
     "id": "4e6be1ac274dc486c20a56b8dd39c7c6",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870840/Rheinmetall-haalt-grote-Britse-opdracht-binnen.aspx",
     "intro": "Rheinmetall Electronics UK heeft een grote opdracht ontvangen van het Britse leger. Dit maakte het Duitse defensiebedrijf maandag bekend.",
     "published_at": "2026-07-13 10:07",
-    "scraped_at": "2026-07-13T10:00:48.667507"
-  },
-  {
-    "id": "d6696ae6102a1356cb02e4b553125f27",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Deutsche Bank en UniCredit klagen Linde aan voor Russische verliezen",
-    "link": "https://www.beurs.nl/Nieuws/870836/Media-Deutsche-Bank-en-UniCredit-klagen-Linde-aan-voor-Russische-verliezen.aspx",
-    "intro": "Deutsche Bank, UniCredit en enkele Duitse banken zijn een proefproces gestart tegen Linde, om compensatie te eisen voor verliezen die zijn geleden als gevolg van inbeslagname door Rusland na de terugtrekking van het Duitse industriële concern uit het Ust-Luga-project. Dit meldde de Financial Times maandagochtend.",
-    "published_at": "2026-07-13 09:43",
-    "scraped_at": "2026-07-13T10:00:48.667507"
-  },
-  {
-    "id": "1f18930ac62b430bfac31f6f978453a7",
-    "categorie": "Beursnieuws",
-    "titel": "Stellantis levert meer auto's af",
-    "link": "https://www.beurs.nl/Nieuws/870833/Stellantis-levert-meer-autos-af.aspx",
-    "intro": "Stellantis heeft flink meer auto's afgeleverd in het tweede kwartaal. Dit maakte de autofabrikant maandag bekend.",
-    "published_at": "2026-07-13 09:20",
-    "scraped_at": "2026-07-13T10:00:48.667507"
-  },
-  {
-    "id": "f21e3f74fc4ffea834651d290878b526",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht lager geopend",
-    "link": "https://www.beurs.nl/Nieuws/870830/AEX-licht-lager-geopend.aspx",
-    "intro": "De Amsterdamse beurs is maandag lager geopend, terwijl de chippers in Azië fors daalden en de oorlog in het Midden-Oosten verder oplaaide.",
-    "published_at": "2026-07-13 09:08",
-    "scraped_at": "2026-07-13T10:00:48.667507"
-  },
-  {
-    "id": "068fc5e40aa7c895bae1d4d053f0ab8d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: interessant bod op decoratieve verven van AkzoNobel",
-    "link": "https://www.beurs.nl/Nieuws/870826/Beursblik-interessant-bod-op-decoratieve-verven-van-AkzoNobel.aspx",
-    "intro": "Nippon Paint heeft een interessant bod gedaan op de decoratieve verven van AkzoNobel, hoewel de Nederlandse verfmaker onverminderd blijft vasthouden aan de fusieplannen met Axalta. Dit stelde zakenbank Jefferies maandag in een rapport.",
-    "published_at": "2026-07-13 08:48",
-    "scraped_at": "2026-07-13T10:00:48.667507"
-  },
-  {
-    "id": "215e7a6ec406688efe617ef20737c367",
-    "categorie": "Beursnieuws",
-    "titel": "Page Group handhaaft outlook",
-    "link": "https://www.beurs.nl/Nieuws/870825/Page-Group-handhaaft-outlook.aspx",
-    "intro": "Page Group heeft in het tweede kwartaal een vrijwel stabiele winst geboekt, nadat er in de eerste drie maanden van het jaar nog sprake was van een krimp van bijna 5 procent. Dit bleek maandagochtend uit een update van de Britse sectorgenoot van Randstad.",
-    "published_at": "2026-07-13 08:42",
-    "scraped_at": "2026-07-13T10:00:48.667507"
-  },
-  {
-    "id": "3c11ddf76a88065803a1e1bd3c5c07a3",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Nippon Paint deed bod op verftak AkzoNobel",
-    "link": "https://www.beurs.nl/Nieuws/870811/Update-Nippon-Paint-deed-bod-op-verftak-AkzoNobel.aspx",
-    "intro": "Nippon Paint heeft een bod van 7,5 miljard euro uitgebracht op de tak decoratieve verven van AkzoNobel. Dit bevestigde de Japanse fabrikant maandag, nadat Bloomberg melding maakte van het bod.",
-    "published_at": "2026-07-13 08:14",
-    "scraped_at": "2026-07-13T10:00:48.667507"
+    "scraped_at": "2026-07-13T12:42:52.932326"
   }
 ]
