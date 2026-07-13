@@ -1,12 +1,57 @@
 [
   {
+    "id": "8909edaac0fe3fd6835988b6c9aeff77",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Watches of Switzerland stijgt op overnamegerucht",
+    "link": "https://www.beurs.nl/Nieuws/870912/Media-Watches-of-Switzerland-stijgt-op-overnamegerucht.aspx",
+    "intro": "Het aandeel Watches of Switzerland is maandag naar het hoogste niveau in drie jaar gestegen, na een bericht dat de luxe horlogeverkoper onlangs in overnamegesprekken was. Dit meldde Reuters op basis van bronnen.",
+    "published_at": "2026-07-13 19:28",
+    "scraped_at": "2026-07-13T17:44:33.636817"
+  },
+  {
+    "id": "4c8a64faf84e95c57f6729a2299faad9",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen dicht bij huis gebleven",
+    "link": "https://www.beurs.nl/Nieuws/870911/Europese-beurzen-dicht-bij-huis-gebleven.aspx",
+    "intro": "De Europese beurzen zijn maandag dicht bij huis gebleven, ondanks de oplopende spanningen in het Midden-Oosten.",
+    "published_at": "2026-07-13 18:44",
+    "scraped_at": "2026-07-13T17:44:33.636817"
+  },
+  {
+    "id": "0d5eb8086bb8a2f200c8ef6cbc96b1ea",
+    "categorie": "Beursnieuws",
+    "titel": "Media: twaalf Amerikaanse staten dagen Paramount-deal voor de rechter",
+    "link": "https://www.beurs.nl/Nieuws/870908/Media-twaalf-Amerikaanse-staten-dagen-Paramount-deal-voor-de-rechter.aspx",
+    "intro": "Een groep van twaalf Amerikaanse procureurs-generaal heeft een rechtszaak aangespannen tegen de voorgenomen overname van Warner Bros. Discovery door Paramount Skydance. Dit meldde CNBC maandag.",
+    "published_at": "2026-07-13 18:16",
+    "scraped_at": "2026-07-13T17:44:33.636817"
+  },
+  {
+    "id": "23f64bf308144bc77d87dde01a498e35",
+    "categorie": "Beursnieuws",
+    "titel": "Eurocommercial sluit Zweedse lening af",
+    "link": "https://www.beurs.nl/Nieuws/870904/Eurocommercial-sluit-Zweedse-lening-af.aspx",
+    "intro": "Eurocommercial Properties heeft een groene lening van 700 miljoen Zweedse kroon, omgerekend circa 63,5 miljoen euro, opgenomen bij Skandinaviska Enskilda Banken. Dit maakte het vastgoedbedrijf maandag nabeurs bekend.",
+    "published_at": "2026-07-13 18:00",
+    "scraped_at": "2026-07-13T17:44:33.636817"
+  },
+  {
+    "id": "316e850a923c328adf3e0ae9e3b73696",
+    "categorie": "Beursnieuws",
+    "titel": "Olieaandelen en databedrijven aan kop in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/870903/Olieaandelen-en-databedrijven-aan-kop-in-vlakke-AEX.aspx",
+    "intro": "De Amsterdamse beurs is maandag iets hoger gesloten, nadat de Verenigde Staten en Iran elkaar in het weekend nog flink aanpakten.",
+    "published_at": "2026-07-13 17:54",
+    "scraped_at": "2026-07-13T17:44:33.636817"
+  },
+  {
     "id": "dd3343231fdcaa8f47a1aa7f85130b2c",
     "categorie": "Beursnieuws",
     "titel": "Trump wil tolheffing van 20 procent in Straat van Hormuz",
     "link": "https://www.beurs.nl/Nieuws/870899/Trump-wil-tolheffing-van-20-procent-in-Straat-van-Hormuz.aspx",
     "intro": "De Amerikaanse president Donald Trump heeft aangekondigd dat Iran de toegang tot de Straat van Hormuz wordt geweigerd, terwijl de Verenigde Staten een vergoeding van 20 procent gaan heffen op alle vracht die door de zeestraat wordt verscheept. Dit schreef Trump maandag op zijn platform Truth Social.",
     "published_at": "2026-07-13 16:41",
-    "scraped_at": "2026-07-13T15:36:12.756726"
+    "scraped_at": "2026-07-13T17:44:33.636817"
   },
   {
     "id": "d32d93ec6a44fe0581f31f5f20157da1",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870897/Shell-verkoopt-Indiase-Sprng-Energy.aspx",
     "intro": "Shell verkoopt zijn Indiase groene-energiegroep Sprng Energy aan Aditya Birla Renewables voor 1,8 miljard dollar. Dit maakte de Britse energiereus maandagmiddag bekend.",
     "published_at": "2026-07-13 16:26",
-    "scraped_at": "2026-07-13T15:36:12.756726"
+    "scraped_at": "2026-07-13T17:44:33.636817"
   },
   {
     "id": "4938502f284d41300b22587693c0a15f",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870895/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 21 juli 2026:",
     "published_at": "2026-07-13 16:23",
-    "scraped_at": "2026-07-13T15:36:12.756726"
+    "scraped_at": "2026-07-13T17:44:33.636817"
   },
   {
     "id": "c8d174eb65e239029ee535da46e435be",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870896/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 21 juli 2026:",
     "published_at": "2026-07-13 16:23",
-    "scraped_at": "2026-07-13T15:36:12.756726"
+    "scraped_at": "2026-07-13T17:44:33.636817"
   },
   {
     "id": "b408acd7ba1b5e429e7682b268fd82e0",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870894/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 21 juli 2026:",
     "published_at": "2026-07-13 16:22",
-    "scraped_at": "2026-07-13T15:36:12.756726"
-  },
-  {
-    "id": "93f9f160b3c13fca4dfa7b73b99607ea",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Trump wil geld voor bewaken van de Straat van Hormuz",
-    "link": "https://www.beurs.nl/Nieuws/870891/Media-Trump-wil-geld-voor-bewaken-van-de-Straat-van-Hormuz.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft maandag laten weten dat de Verenigde Staten betaald willen worden voor het bewaken van de Straat van Hormuz, de belangrijke doorvaartroute voor olie en het brandpunt van de weer oplaaiende oorlog met Iran. Dit deed de president in een interview met Fox News.",
-    "published_at": "2026-07-13 16:17",
-    "scraped_at": "2026-07-13T15:36:12.756726"
-  },
-  {
-    "id": "656ea59ee2d00cee19b617e67c30ff77",
-    "categorie": "Beursnieuws",
-    "titel": "Akzo Nobel verliest controle over Russische dochterbedrijven",
-    "link": "https://www.beurs.nl/Nieuws/870890/Akzo-Nobel-verliest-controle-over-Russische-dochterbedrijven.aspx",
-    "intro": "AkzoNobel heeft kennisgenomen van een presidentieel decreet dat de Russische dochterondernemingen van het bedrijf per direct onder extern bestuur plaatst. Het decreet werd maandag ondertekend door de Russische president.",
-    "published_at": "2026-07-13 16:00",
-    "scraped_at": "2026-07-13T15:36:12.756726"
-  },
-  {
-    "id": "854c39eb959e45ef620a66a40133390d",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/870886/Wall-Street-wacht-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen koersen maandag af op een lagere opening. Tegelijkertijd zitten de olieprijzen in de lift, nadat de VS en Iran afgelopen weekend over en weer aanvallen hebben uitgevoerd. Beleggers houden ook de techsector nauwlettend in de gaten.",
-    "published_at": "2026-07-13 15:09",
-    "scraped_at": "2026-07-13T15:36:12.756726"
-  },
-  {
-    "id": "29eed9d9676ab2fbab4f9106e5a6a9a7",
-    "categorie": "Nieuws",
-    "titel": "Elektriciteit verduurzaamt, maar de planeet niet",
-    "link": "https://www.ieximpact.nl/artikel/870835/Elektriciteit-verduurzaamt-maar-de-planeet-niet.aspx",
-    "intro": "De vooruitgang in schone elektriciteitsproductie versnelt, maar dat verandert de structuur van het wereldwijde energiesysteem niet fundamenteel, zegt Philippe Waechter van Ostrum Asset Manegement. \"Fossiele brandstoffen, olie, gas en steenkool, waren in 2025 nog altijd goed voor 86,2 procent van het mondiale primaire energieverbruik.\"",
-    "published_at": "2026-07-13 14:13",
-    "scraped_at": "2026-07-13T15:36:12.756726"
-  },
-  {
-    "id": "d3236ecabb9f76e6db79fa06c0a80854",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX probeert verlies goed te maken",
-    "link": "https://www.beurs.nl/Nieuws/870879/Beursupdate-AEX-probeert-verlies-goed-te-maken.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagmiddag nog fractioneel lager, terwijl de chippers onder druk stonden, maar zwaargewicht Shell kon profiteren van de oplopende olieprijs.",
-    "published_at": "2026-07-13 14:06",
-    "scraped_at": "2026-07-13T15:36:12.756726"
+    "scraped_at": "2026-07-13T17:44:33.636817"
   }
 ]
