@@ -1,20 +1,83 @@
 [
   {
-    "id": "63fd506bff7e3065018adad58acaf2d8",
+    "id": "3c11ddf76a88065803a1e1bd3c5c07a3",
     "categorie": "Beursnieuws",
-    "titel": "Focus op Amerikaanse inflatie, cijferseizoen en optreden Warsh",
-    "link": "https://www.beurs.nl/Nieuws/870791/Focus-op-Amerikaanse-inflatie-cijferseizoen-en-optreden-Warsh.aspx",
-    "intro": "In de komende beursweek gaat het cijferseizoen aan beide kanten van de oceaan van start, met in de VS de banken die de boeken openen en in Europa met ASML.",
-    "published_at": "2026-07-12 13:11",
-    "scraped_at": "2026-07-13T03:25:54.939180"
+    "titel": "Update: Nippon Paint deed bod op verftak AkzoNobel",
+    "link": "https://www.beurs.nl/Nieuws/870811/Update-Nippon-Paint-deed-bod-op-verftak-AkzoNobel.aspx",
+    "intro": "Nippon Paint heeft een bod van 7,5 miljard euro uitgebracht op de tak decoratieve verven van AkzoNobel. Dit bevestigde de Japanse fabrikant maandag, nadat Bloomberg melding maakte van het bod.",
+    "published_at": "2026-07-13 08:14",
+    "scraped_at": "2026-07-13T06:40:11.057212"
   },
   {
-    "id": "88360a114dafcf597ade2fcaf43f464b",
+    "id": "059e68d764b33fe8d3e93c97f5009d17",
     "categorie": "Beursnieuws",
-    "titel": "Opnieuw moeizame week voor de chippers",
-    "link": "https://www.beurs.nl/Nieuws/870789/Opnieuw-moeizame-week-voor-de-chippers.aspx",
-    "intro": "Terwijl de spanningen in het Midden-Oosten afgelopen week weer oplaaiden en het cijferseizoen nadert, bleven ook de zorgen over AI aanwezig en dat zette opnieuw druk op halfgeleideraandelen en duwde de techzware AEX in het rood.",
-    "published_at": "2026-07-12 09:53",
-    "scraped_at": "2026-07-13T03:25:54.939180"
+    "titel": "AEX wacht lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/870820/AEX-wacht-lagere-opening.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag een lagere opening tegemoet, nu de chippers in Azië fors dalen en de oorlog in het Midden-Oosten verder oplaait. Vrijdag sloot de hoofdgraadmeter op het Damrak nog op ruim 1.084 punten, wat een aanscherping betekende van de hoogste slotstand ooit.",
+    "published_at": "2026-07-13 08:06",
+    "scraped_at": "2026-07-13T06:40:11.057212"
+  },
+  {
+    "id": "9bde5732d12d4b6b2a0a3017b5d86c3f",
+    "categorie": "Beursnieuws",
+    "titel": "Omzetgroei TSMC trekt aan",
+    "link": "https://www.beurs.nl/Nieuws/870817/Omzetgroei-TSMC-trekt-aan.aspx",
+    "intro": "TSMC heeft in juni iets meer omzet behaald dan in de maand ervoor, terwijl er op jaarbasis sprake was van een enorme omzetstijging. Dit bleek maandagochtend uit cijfers van de Taiwanese chipgigant, die voor het weekend nog werden uitgesteld vanwege orkaan Bavi.",
+    "published_at": "2026-07-13 07:43",
+    "scraped_at": "2026-07-13T06:40:11.057212"
+  },
+  {
+    "id": "a6a6d6efc234d611afeef81c0399a034",
+    "categorie": "Beursnieuws",
+    "titel": "Nederlandse export trekt verder aan",
+    "link": "https://www.beurs.nl/Nieuws/870813/Nederlandse-export-trekt-verder-aan.aspx",
+    "intro": "Nederland heeft in mei opnieuw meer geëxporteerd. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-07-13 07:30",
+    "scraped_at": "2026-07-13T06:40:11.057212"
+  },
+  {
+    "id": "62accc7fce5c7c40f0e8e1b517a9e89d",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen flink in het rood",
+    "link": "https://www.beurs.nl/Nieuws/870812/Aziatische-beurzen-flink-in-het-rood.aspx",
+    "intro": "De Aziatische beurzen noteerden maandag flink lager, waarbij vooral het verlies voor de Koreaanse beurs opviel. De Japanse Nikkie verloor meer dan 2 procent en de Chinese beurs 1,7 procent.",
+    "published_at": "2026-07-13 07:25",
+    "scraped_at": "2026-07-13T06:40:11.057212"
+  },
+  {
+    "id": "b0ec7bff8ad762ab644136333db82728",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen lijken stevig lager te openen na oplaaiende oorlog in Iran",
+    "link": "https://www.beurs.nl/Nieuws/870808/Europese-beurzen-lijken-stevig-lager-te-openen-na-oplaaiende-oorlog-in-Iran.aspx",
+    "intro": "De aandelenmarkten in Europa gaan maandag een felrode opening tegemoet, na een weekend vol militaire operaties in het Midden-Oosten. IG voorziet een openingsverlies van 285 punten voor de Duitse DAX en een min van 71 punten voor de Franse CAC 40. De Britse FTSE lijkt 30 punten lager te zullen openen.",
+    "published_at": "2026-07-13 06:54",
+    "scraped_at": "2026-07-13T06:40:11.057212"
+  },
+  {
+    "id": "c7243610e393e8083959c74c3e61cc95",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/870804/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 20 juli 2026:",
+    "published_at": "2026-07-13 06:44",
+    "scraped_at": "2026-07-13T06:40:11.057212"
+  },
+  {
+    "id": "17abc82561a584baf27e42e97253e13b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/870805/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 20 juli 2026:",
+    "published_at": "2026-07-13 06:44",
+    "scraped_at": "2026-07-13T06:40:11.057212"
+  },
+  {
+    "id": "b0e9f45f0c032c57fb9f9d49d58e2d08",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/870806/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 20 juli 2026:",
+    "published_at": "2026-07-13 06:44",
+    "scraped_at": "2026-07-13T06:40:11.057212"
   }
 ]
