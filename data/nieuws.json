@@ -1,12 +1,30 @@
 [
   {
+    "id": "86f930b02f39bf4932cb27a27dca6c51",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen bijna 10 procent hoger gesloten",
+    "link": "https://www.beurs.nl/Nieuws/870917/Olieprijzen-bijna-10-procent-hoger-gesloten.aspx",
+    "intro": "De olieprijzen zijn maandag fors hoger gesloten nadat president Donald Trump liet weten de blokkade van Iraanse scheepvaart in de Straat van Hormuz te hervatten. Andere landen moeten volgens Trump een vergoeding van 20 procent betalen op alle vracht die door de zeestraat wordt verscheept.",
+    "published_at": "2026-07-13 20:53",
+    "scraped_at": "2026-07-13T19:05:37.929785"
+  },
+  {
+    "id": "e21c7c3ceac82e0bc03f9b231a85c98c",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere olieprijzen drukken sentiment Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/870913/Hogere-olieprijzen-drukken-sentiment-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden maandag lager met nog een paar uur handel te gaan. Hernieuwde spanningen rondom de Straat van Hormuz, hogere olieprijzen en angst voor aanhoudende inflatie drukten het sentiment.",
+    "published_at": "2026-07-13 19:43",
+    "scraped_at": "2026-07-13T19:05:37.929785"
+  },
+  {
     "id": "8909edaac0fe3fd6835988b6c9aeff77",
     "categorie": "Beursnieuws",
     "titel": "Media: Watches of Switzerland stijgt op overnamegerucht",
     "link": "https://www.beurs.nl/Nieuws/870912/Media-Watches-of-Switzerland-stijgt-op-overnamegerucht.aspx",
     "intro": "Het aandeel Watches of Switzerland is maandag naar het hoogste niveau in drie jaar gestegen, na een bericht dat de luxe horlogeverkoper onlangs in overnamegesprekken was. Dit meldde Reuters op basis van bronnen.",
     "published_at": "2026-07-13 19:28",
-    "scraped_at": "2026-07-13T17:44:33.636817"
+    "scraped_at": "2026-07-13T19:05:37.929785"
   },
   {
     "id": "4c8a64faf84e95c57f6729a2299faad9",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/870911/Europese-beurzen-dicht-bij-huis-gebleven.aspx",
     "intro": "De Europese beurzen zijn maandag dicht bij huis gebleven, ondanks de oplopende spanningen in het Midden-Oosten.",
     "published_at": "2026-07-13 18:44",
-    "scraped_at": "2026-07-13T17:44:33.636817"
+    "scraped_at": "2026-07-13T19:05:37.929785"
   },
   {
     "id": "0d5eb8086bb8a2f200c8ef6cbc96b1ea",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/870908/Media-twaalf-Amerikaanse-staten-dagen-Paramount-deal-voor-de-rechter.aspx",
     "intro": "Een groep van twaalf Amerikaanse procureurs-generaal heeft een rechtszaak aangespannen tegen de voorgenomen overname van Warner Bros. Discovery door Paramount Skydance. Dit meldde CNBC maandag.",
     "published_at": "2026-07-13 18:16",
-    "scraped_at": "2026-07-13T17:44:33.636817"
+    "scraped_at": "2026-07-13T19:05:37.929785"
   },
   {
     "id": "23f64bf308144bc77d87dde01a498e35",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/870904/Eurocommercial-sluit-Zweedse-lening-af.aspx",
     "intro": "Eurocommercial Properties heeft een groene lening van 700 miljoen Zweedse kroon, omgerekend circa 63,5 miljoen euro, opgenomen bij Skandinaviska Enskilda Banken. Dit maakte het vastgoedbedrijf maandag nabeurs bekend.",
     "published_at": "2026-07-13 18:00",
-    "scraped_at": "2026-07-13T17:44:33.636817"
+    "scraped_at": "2026-07-13T19:05:37.929785"
   },
   {
     "id": "316e850a923c328adf3e0ae9e3b73696",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870903/Olieaandelen-en-databedrijven-aan-kop-in-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs is maandag iets hoger gesloten, nadat de Verenigde Staten en Iran elkaar in het weekend nog flink aanpakten.",
     "published_at": "2026-07-13 17:54",
-    "scraped_at": "2026-07-13T17:44:33.636817"
+    "scraped_at": "2026-07-13T19:05:37.929785"
   },
   {
     "id": "dd3343231fdcaa8f47a1aa7f85130b2c",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870899/Trump-wil-tolheffing-van-20-procent-in-Straat-van-Hormuz.aspx",
     "intro": "De Amerikaanse president Donald Trump heeft aangekondigd dat Iran de toegang tot de Straat van Hormuz wordt geweigerd, terwijl de Verenigde Staten een vergoeding van 20 procent gaan heffen op alle vracht die door de zeestraat wordt verscheept. Dit schreef Trump maandag op zijn platform Truth Social.",
     "published_at": "2026-07-13 16:41",
-    "scraped_at": "2026-07-13T17:44:33.636817"
+    "scraped_at": "2026-07-13T19:05:37.929785"
   },
   {
     "id": "d32d93ec6a44fe0581f31f5f20157da1",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870897/Shell-verkoopt-Indiase-Sprng-Energy.aspx",
     "intro": "Shell verkoopt zijn Indiase groene-energiegroep Sprng Energy aan Aditya Birla Renewables voor 1,8 miljard dollar. Dit maakte de Britse energiereus maandagmiddag bekend.",
     "published_at": "2026-07-13 16:26",
-    "scraped_at": "2026-07-13T17:44:33.636817"
+    "scraped_at": "2026-07-13T19:05:37.929785"
   },
   {
     "id": "4938502f284d41300b22587693c0a15f",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870895/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 21 juli 2026:",
     "published_at": "2026-07-13 16:23",
-    "scraped_at": "2026-07-13T17:44:33.636817"
-  },
-  {
-    "id": "c8d174eb65e239029ee535da46e435be",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/870896/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 21 juli 2026:",
-    "published_at": "2026-07-13 16:23",
-    "scraped_at": "2026-07-13T17:44:33.636817"
-  },
-  {
-    "id": "b408acd7ba1b5e429e7682b268fd82e0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/870894/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 21 juli 2026:",
-    "published_at": "2026-07-13 16:22",
-    "scraped_at": "2026-07-13T17:44:33.636817"
+    "scraped_at": "2026-07-13T19:05:37.929785"
   }
 ]
