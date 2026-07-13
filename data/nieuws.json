@@ -1,83 +1,92 @@
 [
   {
+    "id": "43e9deb137ba5c3df5ef4c144322c74b",
+    "categorie": "Beursnieuws",
+    "titel": "Olympia langer sponsor van Ajax",
+    "link": "https://www.beurs.nl/Nieuws/870844/Olympia-langer-sponsor-van-Ajax.aspx",
+    "intro": "Ajax en Olympia hebben besloten om hun samenwerking tot minimaal 2029 te verlengen. Dit meldde de Amsterdamse voetbalclub maandag zonder financiële details te geven.De arbeidsbemiddelaar blijft daarmee official partner en hoofdsponsor van de Ajax-jeugd.",
+    "published_at": "2026-07-13 10:53",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
+    "id": "5e36045eb90a674e44fdc7e450efcd2c",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers trekken AEX licht in het rood",
+    "link": "https://www.beurs.nl/Nieuws/870843/Chippers-trekken-AEX-licht-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend licht lager, terwijl de chippers onder druk stonden.",
+    "published_at": "2026-07-13 10:50",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
+    "id": "13a7e6553210482a9637cc6b9d82c3c0",
+    "categorie": "IEX",
+    "titel": "Must read: Gaat de bullmarkt verder?",
+    "link": "https://www.iex.nl/artikel/870792/Must-read-Gaat-de-bullmarkt-verder.aspx",
+    "intro": "Plus: Waterfonds bestaat 25 jaar, Morningstar waardeert goudmijners af, chippers cashen, IPO-boom in Europa, brede welvaart op recordstand, en meer.",
+    "published_at": "2026-07-13 10:10",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
+    "id": "4e6be1ac274dc486c20a56b8dd39c7c6",
+    "categorie": "Beursnieuws",
+    "titel": "Rheinmetall haalt grote Britse opdracht binnen",
+    "link": "https://www.beurs.nl/Nieuws/870840/Rheinmetall-haalt-grote-Britse-opdracht-binnen.aspx",
+    "intro": "Rheinmetall Electronics UK heeft een grote opdracht ontvangen van het Britse leger. Dit maakte het Duitse defensiebedrijf maandag bekend.",
+    "published_at": "2026-07-13 10:07",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
+    "id": "d6696ae6102a1356cb02e4b553125f27",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Deutsche Bank en UniCredit klagen Linde aan voor Russische verliezen",
+    "link": "https://www.beurs.nl/Nieuws/870836/Media-Deutsche-Bank-en-UniCredit-klagen-Linde-aan-voor-Russische-verliezen.aspx",
+    "intro": "Deutsche Bank, UniCredit en enkele Duitse banken zijn een proefproces gestart tegen Linde, om compensatie te eisen voor verliezen die zijn geleden als gevolg van inbeslagname door Rusland na de terugtrekking van het Duitse industriële concern uit het Ust-Luga-project. Dit meldde de Financial Times maandagochtend.",
+    "published_at": "2026-07-13 09:43",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
+    "id": "1f18930ac62b430bfac31f6f978453a7",
+    "categorie": "Beursnieuws",
+    "titel": "Stellantis levert meer auto's af",
+    "link": "https://www.beurs.nl/Nieuws/870833/Stellantis-levert-meer-autos-af.aspx",
+    "intro": "Stellantis heeft flink meer auto's afgeleverd in het tweede kwartaal. Dit maakte de autofabrikant maandag bekend.",
+    "published_at": "2026-07-13 09:20",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
+    "id": "f21e3f74fc4ffea834651d290878b526",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht lager geopend",
+    "link": "https://www.beurs.nl/Nieuws/870830/AEX-licht-lager-geopend.aspx",
+    "intro": "De Amsterdamse beurs is maandag lager geopend, terwijl de chippers in Azië fors daalden en de oorlog in het Midden-Oosten verder oplaaide.",
+    "published_at": "2026-07-13 09:08",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
+    "id": "068fc5e40aa7c895bae1d4d053f0ab8d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: interessant bod op decoratieve verven van AkzoNobel",
+    "link": "https://www.beurs.nl/Nieuws/870826/Beursblik-interessant-bod-op-decoratieve-verven-van-AkzoNobel.aspx",
+    "intro": "Nippon Paint heeft een interessant bod gedaan op de decoratieve verven van AkzoNobel, hoewel de Nederlandse verfmaker onverminderd blijft vasthouden aan de fusieplannen met Axalta. Dit stelde zakenbank Jefferies maandag in een rapport.",
+    "published_at": "2026-07-13 08:48",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
+    "id": "215e7a6ec406688efe617ef20737c367",
+    "categorie": "Beursnieuws",
+    "titel": "Page Group handhaaft outlook",
+    "link": "https://www.beurs.nl/Nieuws/870825/Page-Group-handhaaft-outlook.aspx",
+    "intro": "Page Group heeft in het tweede kwartaal een vrijwel stabiele winst geboekt, nadat er in de eerste drie maanden van het jaar nog sprake was van een krimp van bijna 5 procent. Dit bleek maandagochtend uit een update van de Britse sectorgenoot van Randstad.",
+    "published_at": "2026-07-13 08:42",
+    "scraped_at": "2026-07-13T10:00:48.667507"
+  },
+  {
     "id": "3c11ddf76a88065803a1e1bd3c5c07a3",
     "categorie": "Beursnieuws",
     "titel": "Update: Nippon Paint deed bod op verftak AkzoNobel",
     "link": "https://www.beurs.nl/Nieuws/870811/Update-Nippon-Paint-deed-bod-op-verftak-AkzoNobel.aspx",
     "intro": "Nippon Paint heeft een bod van 7,5 miljard euro uitgebracht op de tak decoratieve verven van AkzoNobel. Dit bevestigde de Japanse fabrikant maandag, nadat Bloomberg melding maakte van het bod.",
     "published_at": "2026-07-13 08:14",
-    "scraped_at": "2026-07-13T06:40:11.057212"
-  },
-  {
-    "id": "059e68d764b33fe8d3e93c97f5009d17",
-    "categorie": "Beursnieuws",
-    "titel": "AEX wacht lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/870820/AEX-wacht-lagere-opening.aspx",
-    "intro": "De Amsterdamse beurs gaat maandag een lagere opening tegemoet, nu de chippers in Azië fors dalen en de oorlog in het Midden-Oosten verder oplaait. Vrijdag sloot de hoofdgraadmeter op het Damrak nog op ruim 1.084 punten, wat een aanscherping betekende van de hoogste slotstand ooit.",
-    "published_at": "2026-07-13 08:06",
-    "scraped_at": "2026-07-13T06:40:11.057212"
-  },
-  {
-    "id": "9bde5732d12d4b6b2a0a3017b5d86c3f",
-    "categorie": "Beursnieuws",
-    "titel": "Omzetgroei TSMC trekt aan",
-    "link": "https://www.beurs.nl/Nieuws/870817/Omzetgroei-TSMC-trekt-aan.aspx",
-    "intro": "TSMC heeft in juni iets meer omzet behaald dan in de maand ervoor, terwijl er op jaarbasis sprake was van een enorme omzetstijging. Dit bleek maandagochtend uit cijfers van de Taiwanese chipgigant, die voor het weekend nog werden uitgesteld vanwege orkaan Bavi.",
-    "published_at": "2026-07-13 07:43",
-    "scraped_at": "2026-07-13T06:40:11.057212"
-  },
-  {
-    "id": "a6a6d6efc234d611afeef81c0399a034",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse export trekt verder aan",
-    "link": "https://www.beurs.nl/Nieuws/870813/Nederlandse-export-trekt-verder-aan.aspx",
-    "intro": "Nederland heeft in mei opnieuw meer geëxporteerd. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-07-13 07:30",
-    "scraped_at": "2026-07-13T06:40:11.057212"
-  },
-  {
-    "id": "62accc7fce5c7c40f0e8e1b517a9e89d",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen flink in het rood",
-    "link": "https://www.beurs.nl/Nieuws/870812/Aziatische-beurzen-flink-in-het-rood.aspx",
-    "intro": "De Aziatische beurzen noteerden maandag flink lager, waarbij vooral het verlies voor de Koreaanse beurs opviel. De Japanse Nikkie verloor meer dan 2 procent en de Chinese beurs 1,7 procent.",
-    "published_at": "2026-07-13 07:25",
-    "scraped_at": "2026-07-13T06:40:11.057212"
-  },
-  {
-    "id": "b0ec7bff8ad762ab644136333db82728",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lijken stevig lager te openen na oplaaiende oorlog in Iran",
-    "link": "https://www.beurs.nl/Nieuws/870808/Europese-beurzen-lijken-stevig-lager-te-openen-na-oplaaiende-oorlog-in-Iran.aspx",
-    "intro": "De aandelenmarkten in Europa gaan maandag een felrode opening tegemoet, na een weekend vol militaire operaties in het Midden-Oosten. IG voorziet een openingsverlies van 285 punten voor de Duitse DAX en een min van 71 punten voor de Franse CAC 40. De Britse FTSE lijkt 30 punten lager te zullen openen.",
-    "published_at": "2026-07-13 06:54",
-    "scraped_at": "2026-07-13T06:40:11.057212"
-  },
-  {
-    "id": "c7243610e393e8083959c74c3e61cc95",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/870804/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 20 juli 2026:",
-    "published_at": "2026-07-13 06:44",
-    "scraped_at": "2026-07-13T06:40:11.057212"
-  },
-  {
-    "id": "17abc82561a584baf27e42e97253e13b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/870805/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 20 juli 2026:",
-    "published_at": "2026-07-13 06:44",
-    "scraped_at": "2026-07-13T06:40:11.057212"
-  },
-  {
-    "id": "b0e9f45f0c032c57fb9f9d49d58e2d08",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/870806/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 20 juli 2026:",
-    "published_at": "2026-07-13 06:44",
-    "scraped_at": "2026-07-13T06:40:11.057212"
+    "scraped_at": "2026-07-13T10:00:48.667507"
   }
 ]
