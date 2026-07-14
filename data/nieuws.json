@@ -1,12 +1,66 @@
 [
   {
+    "id": "0de7ebec1dcb5d782ad9489f68cdbc68",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: UBS verhoogt koersdoel ING",
+    "link": "https://www.beurs.nl/Nieuws/870968/Beursblik-UBS-verhoogt-koersdoel-ING.aspx",
+    "intro": "UBS heeft het koersdoel voor ING verhoogd van 29,50 naar 31,50 euro, met een herhaling van het koopadvies. Dit bleek dinsdag uit een rapport van analist Johan Ekblom.",
+    "published_at": "2026-07-14 10:21",
+    "scraped_at": "2026-07-14T08:55:07.112417"
+  },
+  {
+    "id": "dc4cccc907367def1a26c8d1779c8edd",
+    "categorie": "IEX",
+    "titel": "Must read: Dividendbeleggen is dood",
+    "link": "https://www.iex.nl/artikel/870888/Must-read-Dividendbeleggen-is-dood.aspx",
+    "intro": "Plus: Structurele groeitrends spelen impactbeleggers in de kaart, fossiele energie blijft dominant, Amerikaanse staatsschuld explodeert, beleggen is net wielrennen, en meer.",
+    "published_at": "2026-07-14 10:00",
+    "scraped_at": "2026-07-14T08:55:07.112417"
+  },
+  {
+    "id": "aaa2610a1a62fa7e792870316dbbb35a",
+    "categorie": "Beursnieuws",
+    "titel": "Lagere omzet en minder winst voor Ericsson",
+    "link": "https://www.beurs.nl/Nieuws/870965/Lagere-omzet-en-minder-winst-voor-Ericsson.aspx",
+    "intro": "Ericsson heeft in het tweede kwartaal minder omzet behaald dan in dezelfde periode vorig jaar.  Dit maakte de Zweedse technologiegroep dinsdagochtend bekend.",
+    "published_at": "2026-07-14 09:49",
+    "scraped_at": "2026-07-14T08:55:07.112417"
+  },
+  {
+    "id": "fdf89760958ac8262b5e205c45b53d29",
+    "categorie": "Beursnieuws",
+    "titel": "Beleggersvertrouwen naar hoogste niveau in maanden",
+    "link": "https://www.beurs.nl/Nieuws/870958/Beleggersvertrouwen-naar-hoogste-niveau-in-maanden.aspx",
+    "intro": "Het beleggerssentiment onder Nederlandse particuliere beleggers is deze maand sterk verbeterd. Dit blijkt uit de maandelijkse enquete van enquête van Saxo Bank onder zijn klanten.",
+    "published_at": "2026-07-14 09:20",
+    "scraped_at": "2026-07-14T08:55:07.112417"
+  },
+  {
+    "id": "43ff5dfc360671e9066cf68c3e00e3b8",
+    "categorie": "Beursnieuws",
+    "titel": "Shell krijgt AEX niet in het groen",
+    "link": "https://www.beurs.nl/Nieuws/870955/Shell-krijgt-AEX-niet-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag met een klein verlies van start gegaan, ondanks de winsten voor de oliefondsen.",
+    "published_at": "2026-07-14 09:06",
+    "scraped_at": "2026-07-14T08:55:07.112417"
+  },
+  {
+    "id": "3f5d14f64aedd7a9343b241ffe86ef07",
+    "categorie": "Opinie",
+    "titel": "Impact en structurele beleggingsthema's gaan steeds meer hand in hand",
+    "link": "https://www.ieximpact.nl/artikel/870285/Impact-en-structurele-beleggingsthemas-gaan-steeds-meer-hand-in-hand.aspx",
+    "intro": "Thema’s als energiezekerheid, fysieke klimaatrisico’s, natuurlijk kapitaal en stewardship winnen volgens Elodie Laugel van het Franse Amundi duidelijk aan gewicht. \"Het gaat beleggers steeds minder om impact om de impact, maar om structurele investeringsthema’s waar financiële materialiteit en positieve impact vaker samenvallen.\"",
+    "published_at": "2026-07-14 09:04",
+    "scraped_at": "2026-07-14T08:55:07.112417"
+  },
+  {
     "id": "71ca11efea314439329f19fe5505b88b",
     "categorie": "Beursnieuws",
     "titel": "Lichtrode opening in de maak in aanloop naar cijferseizoen",
     "link": "https://www.beurs.nl/Nieuws/870949/Lichtrode-opening-in-de-maak-in-aanloop-naar-cijferseizoen.aspx",
     "intro": "De Amsterdamse beurs gaat dinsdag een iets lagere opening tegemoet.",
     "published_at": "2026-07-14 08:04",
-    "scraped_at": "2026-07-14T06:31:17.377203"
+    "scraped_at": "2026-07-14T08:55:07.112417"
   },
   {
     "id": "b57ca0e62abb712febb5e8ceeaae2ae9",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870947/RBC-verhoogt-koersdoel-ASML.aspx",
     "intro": "RBC heeft dinsdag het koersdoel voor ASML verhoogd van 1.700 naar 2.000 dollar met handhaving van het Outperform advies. Dit bleek uit een rapport van de Canadese bank en vermogensbeheerder.",
     "published_at": "2026-07-14 07:37",
-    "scraped_at": "2026-07-14T06:31:17.377203"
+    "scraped_at": "2026-07-14T08:55:07.112417"
   },
   {
     "id": "f9a7bba1bfb03bebe1f474968f1c7abd",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870943/Lichtrode-beurzen-in-Azie.aspx",
     "intro": "De Aziatische beurzen noteerden dinsdag in het rood, maar de verliezen bleven relatief beperkt.",
     "published_at": "2026-07-14 07:21",
-    "scraped_at": "2026-07-14T06:31:17.377203"
+    "scraped_at": "2026-07-14T08:55:07.112417"
   },
   {
     "id": "9748be058c44d8b4d5e08e70666d7f7c",
@@ -33,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870939/Europese-beurzen-openen-naar-verwachting-in-het-rood.aspx",
     "intro": "De aandelenmarkten in Europa gaan dinsdag een rode opening tegemoet, na nieuwe aanvallen van de VS op Iran.",
     "published_at": "2026-07-14 07:03",
-    "scraped_at": "2026-07-14T06:31:17.377203"
-  },
-  {
-    "id": "60630610605bab96cbecb05679eeac90",
-    "categorie": "Beursnieuws",
-    "titel": "Exportgroei in China flink aangetrokken",
-    "link": "https://www.beurs.nl/Nieuws/870938/Exportgroei-in-China-flink-aangetrokken.aspx",
-    "intro": "De export in China is in juni nog sterker gestegen. Dit bleek dinsdag uit cijfers van het Chinese douanebureau.",
-    "published_at": "2026-07-14 06:55",
-    "scraped_at": "2026-07-14T06:31:17.377203"
-  },
-  {
-    "id": "7eac00e62d25d219514f27fc06a0a28b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/870935/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 21 juli 2026:",
-    "published_at": "2026-07-14 06:48",
-    "scraped_at": "2026-07-14T06:31:17.377203"
-  },
-  {
-    "id": "2fc209bfee72ca299060b46725e5216d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/870936/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 21 juli 2026:",
-    "published_at": "2026-07-14 06:48",
-    "scraped_at": "2026-07-14T06:31:17.377203"
-  },
-  {
-    "id": "fff4b31f29bd9a885e92eeec72e14efa",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/870934/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 21 juli 2026:",
-    "published_at": "2026-07-14 06:47",
-    "scraped_at": "2026-07-14T06:31:17.377203"
+    "scraped_at": "2026-07-14T08:55:07.112417"
   }
 ]
