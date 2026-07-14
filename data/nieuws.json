@@ -1,21 +1,57 @@
 [
   {
-    "id": "0de7ebec1dcb5d782ad9489f68cdbc68",
+    "id": "d45f797ec7113be45847bce1bcfd3ba4",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: UBS verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/870968/Beursblik-UBS-verhoogt-koersdoel-ING.aspx",
+    "titel": "Futures Wall Street signaleren terughoudende opening",
+    "link": "https://www.beurs.nl/Nieuws/870992/Futures-Wall-Street-signaleren-terughoudende-opening.aspx",
+    "intro": "De Amerikaanse beurzen lijken dinsdag op weg naar een per saldo verdeelde opening, na een verliessessie op maandag, toen handelaren probeerden om te gaan met de oplopende spanningen tussen Iran en de Verenigde Staten.",
+    "published_at": "2026-07-14 12:30",
+    "scraped_at": "2026-07-14T10:47:39.650134"
+  },
+  {
+    "id": "9b3c431bda298a3694fd91ce8226b05f",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen lager door oplopende olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/870989/Europese-beurzen-lager-door-oplopende-olieprijs.aspx",
+    "intro": "De Europese beurzen noteerden dinsdag rond lunchtijd lager, terwijl de olieprijs verder opliep en beleggers wachtten op de kwartaalcijfers van vijf grote Amerikaanse banken en nieuwe inflatiedata uit de Verenigde Staten.",
+    "published_at": "2026-07-14 12:14",
+    "scraped_at": "2026-07-14T10:47:39.650134"
+  },
+  {
+    "id": "d69ab873109242d8adb552b8b0566495",
+    "categorie": "Beursnieuws",
+    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers weer gestegen",
+    "link": "https://www.beurs.nl/Nieuws/870988/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-weer-gestegen.aspx",
+    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in juni gestegen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
+    "published_at": "2026-07-14 12:11",
+    "scraped_at": "2026-07-14T10:47:39.650134"
+  },
+  {
+    "id": "d57874ad252345dcc28a47051c077b3f",
+    "categorie": "Beursnieuws",
+    "titel": "AEX in het rood richting cijferseizoen",
+    "link": "https://www.beurs.nl/Nieuws/870979/AEX-in-het-rood-richting-cijferseizoen.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het rood.",
+    "published_at": "2026-07-14 11:22",
+    "scraped_at": "2026-07-14T10:47:39.650134"
+  },
+  {
+    "id": "afe44a7556456566c174cf781e60ee23",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel ING",
+    "link": "https://www.beurs.nl/Nieuws/870968/UBS-verhoogt-koersdoel-ING.aspx",
     "intro": "UBS heeft het koersdoel voor ING verhoogd van 29,50 naar 31,50 euro, met een herhaling van het koopadvies. Dit bleek dinsdag uit een rapport van analist Johan Ekblom.",
     "published_at": "2026-07-14 10:21",
-    "scraped_at": "2026-07-14T08:55:07.112417"
+    "scraped_at": "2026-07-14T10:47:39.650134"
   },
   {
     "id": "dc4cccc907367def1a26c8d1779c8edd",
     "categorie": "IEX",
     "titel": "Must read: Dividendbeleggen is dood",
     "link": "https://www.iex.nl/artikel/870888/Must-read-Dividendbeleggen-is-dood.aspx",
-    "intro": "Plus: Structurele groeitrends spelen impactbeleggers in de kaart, fossiele energie blijft dominant, Amerikaanse staatsschuld explodeert, beleggen is net wielrennen, en meer.",
+    "intro": "Plus: structurele groeitrends spelen impactbeleggers in de kaart, fossiele energie blijft dominant, Amerikaanse staatsschuld explodeert, beleggen is net wielrennen, en meer.",
     "published_at": "2026-07-14 10:00",
-    "scraped_at": "2026-07-14T08:55:07.112417"
+    "scraped_at": "2026-07-14T10:47:39.650134"
   },
   {
     "id": "aaa2610a1a62fa7e792870316dbbb35a",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/870965/Lagere-omzet-en-minder-winst-voor-Ericsson.aspx",
     "intro": "Ericsson heeft in het tweede kwartaal minder omzet behaald dan in dezelfde periode vorig jaar.  Dit maakte de Zweedse technologiegroep dinsdagochtend bekend.",
     "published_at": "2026-07-14 09:49",
-    "scraped_at": "2026-07-14T08:55:07.112417"
+    "scraped_at": "2026-07-14T10:47:39.650134"
   },
   {
     "id": "fdf89760958ac8262b5e205c45b53d29",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870958/Beleggersvertrouwen-naar-hoogste-niveau-in-maanden.aspx",
     "intro": "Het beleggerssentiment onder Nederlandse particuliere beleggers is deze maand sterk verbeterd. Dit blijkt uit de maandelijkse enquete van enquête van Saxo Bank onder zijn klanten.",
     "published_at": "2026-07-14 09:20",
-    "scraped_at": "2026-07-14T08:55:07.112417"
+    "scraped_at": "2026-07-14T10:47:39.650134"
   },
   {
     "id": "43ff5dfc360671e9066cf68c3e00e3b8",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870955/Shell-krijgt-AEX-niet-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs is dinsdag met een klein verlies van start gegaan, ondanks de winsten voor de oliefondsen.",
     "published_at": "2026-07-14 09:06",
-    "scraped_at": "2026-07-14T08:55:07.112417"
+    "scraped_at": "2026-07-14T10:47:39.650134"
   },
   {
     "id": "3f5d14f64aedd7a9343b241ffe86ef07",
@@ -51,42 +87,6 @@
     "link": "https://www.ieximpact.nl/artikel/870285/Impact-en-structurele-beleggingsthemas-gaan-steeds-meer-hand-in-hand.aspx",
     "intro": "Thema’s als energiezekerheid, fysieke klimaatrisico’s, natuurlijk kapitaal en stewardship winnen volgens Elodie Laugel van het Franse Amundi duidelijk aan gewicht. \"Het gaat beleggers steeds minder om impact om de impact, maar om structurele investeringsthema’s waar financiële materialiteit en positieve impact vaker samenvallen.\"",
     "published_at": "2026-07-14 09:04",
-    "scraped_at": "2026-07-14T08:55:07.112417"
-  },
-  {
-    "id": "71ca11efea314439329f19fe5505b88b",
-    "categorie": "Beursnieuws",
-    "titel": "Lichtrode opening in de maak in aanloop naar cijferseizoen",
-    "link": "https://www.beurs.nl/Nieuws/870949/Lichtrode-opening-in-de-maak-in-aanloop-naar-cijferseizoen.aspx",
-    "intro": "De Amsterdamse beurs gaat dinsdag een iets lagere opening tegemoet.",
-    "published_at": "2026-07-14 08:04",
-    "scraped_at": "2026-07-14T08:55:07.112417"
-  },
-  {
-    "id": "b57ca0e62abb712febb5e8ceeaae2ae9",
-    "categorie": "Beursnieuws",
-    "titel": "RBC verhoogt koersdoel ASML",
-    "link": "https://www.beurs.nl/Nieuws/870947/RBC-verhoogt-koersdoel-ASML.aspx",
-    "intro": "RBC heeft dinsdag het koersdoel voor ASML verhoogd van 1.700 naar 2.000 dollar met handhaving van het Outperform advies. Dit bleek uit een rapport van de Canadese bank en vermogensbeheerder.",
-    "published_at": "2026-07-14 07:37",
-    "scraped_at": "2026-07-14T08:55:07.112417"
-  },
-  {
-    "id": "f9a7bba1bfb03bebe1f474968f1c7abd",
-    "categorie": "Beursnieuws",
-    "titel": "Lichtrode beurzen in Azië",
-    "link": "https://www.beurs.nl/Nieuws/870943/Lichtrode-beurzen-in-Azie.aspx",
-    "intro": "De Aziatische beurzen noteerden dinsdag in het rood, maar de verliezen bleven relatief beperkt.",
-    "published_at": "2026-07-14 07:21",
-    "scraped_at": "2026-07-14T08:55:07.112417"
-  },
-  {
-    "id": "9748be058c44d8b4d5e08e70666d7f7c",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen naar verwachting in het rood",
-    "link": "https://www.beurs.nl/Nieuws/870939/Europese-beurzen-openen-naar-verwachting-in-het-rood.aspx",
-    "intro": "De aandelenmarkten in Europa gaan dinsdag een rode opening tegemoet, na nieuwe aanvallen van de VS op Iran.",
-    "published_at": "2026-07-14 07:03",
-    "scraped_at": "2026-07-14T08:55:07.112417"
+    "scraped_at": "2026-07-14T10:47:39.650134"
   }
 ]
