@@ -1,12 +1,48 @@
 [
   {
+    "id": "c20741ea382c3b9d1f24d5ab4f4d7625",
+    "categorie": "Beursnieuws",
+    "titel": "Boeing levert meer vliegtuigen",
+    "link": "https://www.beurs.nl/Nieuws/871070/Boeing-levert-meer-vliegtuigen.aspx",
+    "intro": "Boeing heeft in het tweede kwartaal van dit jaar meer vliegtuigen geleverd dan in dezelfde periode een jaar eerder en ook meer dan in de eerste drie maanden van 2026. Dit bleek dinsdag uit cijfers van de Amerikaanse vliegtuigbouwer.",
+    "published_at": "2026-07-14 19:03",
+    "scraped_at": "2026-07-14T17:16:04.091763"
+  },
+  {
+    "id": "5a0b4e90db9f01b9af5b7c06a160434f",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen veren op na gunstige inflatiecijfers",
+    "link": "https://www.beurs.nl/Nieuws/871067/Europese-beurzen-veren-op-na-gunstige-inflatiecijfers.aspx",
+    "intro": "De Europese beurzen zijn dinsdag tijdens de middagsessie hersteld, nadat Amerikaanse inflatiecijfers gunstig bleken, waardoor de rentevrees afnam. Intussen liepen de olieprijzen wel verder op, nu een snelle oplossing tussen de Verenigde Staten en Iran steeds verder uit zicht raakt. Dat zou de inflatie op termijn weer op kunnen stuwen.",
+    "published_at": "2026-07-14 18:36",
+    "scraped_at": "2026-07-14T17:16:04.091763"
+  },
+  {
+    "id": "cc964565c1ca9658ed6bd48bf27b81ea",
+    "categorie": "Beursnieuws",
+    "titel": "Trump ziet toch af van tolheffing Straat van Hormuz",
+    "link": "https://www.beurs.nl/Nieuws/871063/Trump-ziet-toch-af-van-tolheffing-Straat-van-Hormuz.aspx",
+    "intro": "De Amerikaanse president Donald Trump ziet toch af van het plan om een tolheffing van 20 procent in te voeren voor commerciële schepen die de Straat van Hormuz passeren. Dit meldde Trump dinsdag op Truth Social.",
+    "published_at": "2026-07-14 18:12",
+    "scraped_at": "2026-07-14T17:16:04.091763"
+  },
+  {
+    "id": "e512721dd20417be44ba817c40e37f10",
+    "categorie": "Beursnieuws",
+    "titel": "AEX weet slotrecord verder aan te scherpen",
+    "link": "https://www.beurs.nl/Nieuws/871058/AEX-weet-slotrecord-verder-aan-te-scherpen.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag weer hoger gesloten, terwijl beleggers meevallende inflatiecijfers in de VS en een stroom aan bedrijfscijfers verwerkten.",
+    "published_at": "2026-07-14 17:50",
+    "scraped_at": "2026-07-14T17:16:04.091763"
+  },
+  {
     "id": "bc28fcc15200512f6906e70c7b7a4e43",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: afnemende prijsdruk in VS tempert speculatie over aanstaande renteverhoging Fed",
     "link": "https://www.beurs.nl/Nieuws/871055/Beursblik-afnemende-prijsdruk-in-VS-tempert-speculatie-over-aanstaande-renteverhoging-Fed.aspx",
     "intro": "De Amerikaanse inflatiecijfers bleken dinsdag gunstiger dan verwacht, waardoor de marktverwachtingen voor een renteverhoging door de Federal Reserve afnamen, maar ING vindt deze verwachtingen nog steeds te hoog en rekent op een langdurige pauze. Dit stelde econoom James Knightley in een rapport in reactie op de meevallende data.",
     "published_at": "2026-07-14 17:24",
-    "scraped_at": "2026-07-14T15:52:42.295898"
+    "scraped_at": "2026-07-14T17:16:04.091763"
   },
   {
     "id": "d9bf52be753f4a0d3cfd2f59c0b0a8ea",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871047/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 22 juli 2026:",
     "published_at": "2026-07-14 16:31",
-    "scraped_at": "2026-07-14T15:52:42.295898"
+    "scraped_at": "2026-07-14T17:16:04.091763"
   },
   {
     "id": "22568e3c7722675996de6c2bc6cf9c10",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871048/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 22 juli 2026:",
     "published_at": "2026-07-14 16:31",
-    "scraped_at": "2026-07-14T15:52:42.295898"
+    "scraped_at": "2026-07-14T17:16:04.091763"
   },
   {
     "id": "0c0f1f1e81a582ac278cafde46880648",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871046/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 22 juli 2026:",
     "published_at": "2026-07-14 16:30",
-    "scraped_at": "2026-07-14T15:52:42.295898"
+    "scraped_at": "2026-07-14T17:16:04.091763"
   },
   {
     "id": "66b414791abd2ef09961c852826bd3ed",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871031/Warsh-Fed-krijgt-de-inflatie-onder-controle.aspx",
     "intro": "Voorzitter Kevin Warsh van de Federal Reserve heeft het Committee on Financial Services van het Amerikaanse Huis van Afgevaardigden beloofd dat de centrale bank de inflatie onder controle zal krijgen. Dit deed de bankier dinsdag tijdens zijn eerste officiële optreden voor de parlementsleden.",
     "published_at": "2026-07-14 15:09",
-    "scraped_at": "2026-07-14T15:52:42.295898"
+    "scraped_at": "2026-07-14T17:16:04.091763"
   },
   {
     "id": "5303a628d518ed52964aa8acc44fcce2",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871030/Wall-Street-koerst-af-op-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen koersen dinsdag af op een overwegend groene opening, terwijl beleggers de oplopende olieprijzen, meevallende inflatiecijfers en een stroom aan bedrijfscijfers verwerkten.",
     "published_at": "2026-07-14 15:07",
-    "scraped_at": "2026-07-14T15:52:42.295898"
-  },
-  {
-    "id": "8e0c1e3015dd675b319fa4b870c8a73f",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse inflatie flink gedaald",
-    "link": "https://www.beurs.nl/Nieuws/871019/Amerikaanse-inflatie-flink-gedaald.aspx",
-    "intro": "De inflatie in de Verenigde Staten is in juni gedaald. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
-    "published_at": "2026-07-14 14:40",
-    "scraped_at": "2026-07-14T15:52:42.295898"
-  },
-  {
-    "id": "7ba124f7eacc5db3452ce6082ef10fac",
-    "categorie": "Beursnieuws",
-    "titel": "Citigroup boekt beste kwartaal in tien jaar",
-    "link": "https://www.beurs.nl/Nieuws/871018/Citigroup-boekt-beste-kwartaal-in-tien-jaar.aspx",
-    "intro": "Citigroup heeft in het tweede kwartaal een fors hogere omzet en nettowinst geboekt, waarbij vier van de vijf divisies bijdroegen aan de groei. Dit bleek dinsdag uit cijfers van de Amerikaanse bank.",
-    "published_at": "2026-07-14 14:16",
-    "scraped_at": "2026-07-14T15:52:42.295898"
-  },
-  {
-    "id": "55ceb8780fc14fea59e3b06b5b1facbf",
-    "categorie": "Beursnieuws",
-    "titel": "Bloomberg: Samsung wil ADR-voorbeeld SK Hynix volgen",
-    "link": "https://www.beurs.nl/Nieuws/871011/Bloomberg-Samsung-wil-ADR-voorbeeld-SK-Hynix-volgen.aspx",
-    "intro": "Samsung Electronics overweegt om in navolging van SK Hynix geld op te halen in de VS. Dit meldde persbureau Bloomberg dinsdag op basis van bronnen.",
-    "published_at": "2026-07-14 13:57",
-    "scraped_at": "2026-07-14T15:52:42.295898"
-  },
-  {
-    "id": "cf345686819e8c7a53d2e3e95733b425",
-    "categorie": "Beursnieuws",
-    "titel": "AEX probeert verlies goed te maken",
-    "link": "https://www.beurs.nl/Nieuws/871010/AEX-probeert-verlies-goed-te-maken.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag licht lager, terwijl beleggers met argusogen de oplopende olieprijzen volgen.",
-    "published_at": "2026-07-14 13:51",
-    "scraped_at": "2026-07-14T15:52:42.295898"
+    "scraped_at": "2026-07-14T17:16:04.091763"
   }
 ]
