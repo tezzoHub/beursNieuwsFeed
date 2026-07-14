@@ -1,92 +1,74 @@
 [
   {
-    "id": "555d2bf3b0be6fd6803db76350f5190b",
+    "id": "71ca11efea314439329f19fe5505b88b",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/870921/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-07-13 22:27",
-    "scraped_at": "2026-07-14T04:20:13.843971"
+    "titel": "Lichtrode opening in de maak in aanloop naar cijferseizoen",
+    "link": "https://www.beurs.nl/Nieuws/870949/Lichtrode-opening-in-de-maak-in-aanloop-naar-cijferseizoen.aspx",
+    "intro": "De Amsterdamse beurs gaat dinsdag een iets lagere opening tegemoet.",
+    "published_at": "2026-07-14 08:04",
+    "scraped_at": "2026-07-14T06:31:17.377203"
   },
   {
-    "id": "e2919393161d4fd38ddf393a40795f1c",
+    "id": "b57ca0e62abb712febb5e8ceeaae2ae9",
     "categorie": "Beursnieuws",
-    "titel": "Bestuurslid verlaat Lakefront Biotherapeutics voor Sanofi",
-    "link": "https://www.beurs.nl/Nieuws/870920/Bestuurslid-verlaat-Lakefront-Biotherapeutics-voor-Sanofi.aspx",
-    "intro": "Paulo Fontoura legt zijn functie als lid van de Raad van Bestuur van Lakefront Biotherapeutics neer, na zijn benoeming tot Global Head of Research  Development Pharma bij het Franse Sanofi. Dit maakte het voormalige Galapagos maandagavond bekend.",
-    "published_at": "2026-07-13 22:20",
-    "scraped_at": "2026-07-14T04:20:13.843971"
+    "titel": "RBC verhoogt koersdoel ASML",
+    "link": "https://www.beurs.nl/Nieuws/870947/RBC-verhoogt-koersdoel-ASML.aspx",
+    "intro": "RBC heeft dinsdag het koersdoel voor ASML verhoogd van 1.700 naar 2.000 dollar met handhaving van het Outperform advies. Dit bleek uit een rapport van de Canadese bank en vermogensbeheerder.",
+    "published_at": "2026-07-14 07:37",
+    "scraped_at": "2026-07-14T06:31:17.377203"
   },
   {
-    "id": "c3e3f4aa2cd5b0c0986871f5902963fd",
+    "id": "f9a7bba1bfb03bebe1f474968f1c7abd",
     "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders en hogere olieprijs drukken sentiment Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/870919/Halfgeleiders-en-hogere-olieprijs-drukken-sentiment-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag lager gesloten. Hernieuwde spanningen rondom de Straat van Hormuz, hogere olieprijzen, angst voor aanhoudende inflatie en de daling van de halfgeleiders drukten het sentiment.",
-    "published_at": "2026-07-13 22:15",
-    "scraped_at": "2026-07-14T04:20:13.843971"
+    "titel": "Lichtrode beurzen in Azië",
+    "link": "https://www.beurs.nl/Nieuws/870943/Lichtrode-beurzen-in-Azie.aspx",
+    "intro": "De Aziatische beurzen noteerden dinsdag in het rood, maar de verliezen bleven relatief beperkt.",
+    "published_at": "2026-07-14 07:21",
+    "scraped_at": "2026-07-14T06:31:17.377203"
   },
   {
-    "id": "86f930b02f39bf4932cb27a27dca6c51",
+    "id": "9748be058c44d8b4d5e08e70666d7f7c",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen bijna 10 procent hoger gesloten",
-    "link": "https://www.beurs.nl/Nieuws/870917/Olieprijzen-bijna-10-procent-hoger-gesloten.aspx",
-    "intro": "De olieprijzen zijn maandag fors hoger gesloten nadat president Donald Trump liet weten de blokkade van Iraanse scheepvaart in de Straat van Hormuz te hervatten. Andere landen moeten volgens Trump een vergoeding van 20 procent betalen op alle vracht die door de zeestraat wordt verscheept.",
-    "published_at": "2026-07-13 20:53",
-    "scraped_at": "2026-07-14T04:20:13.843971"
+    "titel": "Europese beurzen openen naar verwachting in het rood",
+    "link": "https://www.beurs.nl/Nieuws/870939/Europese-beurzen-openen-naar-verwachting-in-het-rood.aspx",
+    "intro": "De aandelenmarkten in Europa gaan dinsdag een rode opening tegemoet, na nieuwe aanvallen van de VS op Iran.",
+    "published_at": "2026-07-14 07:03",
+    "scraped_at": "2026-07-14T06:31:17.377203"
   },
   {
-    "id": "e21c7c3ceac82e0bc03f9b231a85c98c",
+    "id": "60630610605bab96cbecb05679eeac90",
     "categorie": "Beursnieuws",
-    "titel": "Hogere olieprijzen drukken sentiment Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/870913/Hogere-olieprijzen-drukken-sentiment-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag lager met nog een paar uur handel te gaan. Hernieuwde spanningen rondom de Straat van Hormuz, hogere olieprijzen en angst voor aanhoudende inflatie drukten het sentiment.",
-    "published_at": "2026-07-13 19:43",
-    "scraped_at": "2026-07-14T04:20:13.843971"
+    "titel": "Exportgroei in China flink aangetrokken",
+    "link": "https://www.beurs.nl/Nieuws/870938/Exportgroei-in-China-flink-aangetrokken.aspx",
+    "intro": "De export in China is in juni nog sterker gestegen. Dit bleek dinsdag uit cijfers van het Chinese douanebureau.",
+    "published_at": "2026-07-14 06:55",
+    "scraped_at": "2026-07-14T06:31:17.377203"
   },
   {
-    "id": "8909edaac0fe3fd6835988b6c9aeff77",
+    "id": "7eac00e62d25d219514f27fc06a0a28b",
     "categorie": "Beursnieuws",
-    "titel": "Media: Watches of Switzerland stijgt op overnamegerucht",
-    "link": "https://www.beurs.nl/Nieuws/870912/Media-Watches-of-Switzerland-stijgt-op-overnamegerucht.aspx",
-    "intro": "Het aandeel Watches of Switzerland is maandag naar het hoogste niveau in drie jaar gestegen, na een bericht dat de luxe horlogeverkoper onlangs in overnamegesprekken was. Dit meldde Reuters op basis van bronnen.",
-    "published_at": "2026-07-13 19:28",
-    "scraped_at": "2026-07-14T04:20:13.843971"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/870935/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 21 juli 2026:",
+    "published_at": "2026-07-14 06:48",
+    "scraped_at": "2026-07-14T06:31:17.377203"
   },
   {
-    "id": "4c8a64faf84e95c57f6729a2299faad9",
+    "id": "2fc209bfee72ca299060b46725e5216d",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen dicht bij huis gebleven",
-    "link": "https://www.beurs.nl/Nieuws/870911/Europese-beurzen-dicht-bij-huis-gebleven.aspx",
-    "intro": "De Europese beurzen zijn maandag dicht bij huis gebleven, ondanks de oplopende spanningen in het Midden-Oosten.",
-    "published_at": "2026-07-13 18:44",
-    "scraped_at": "2026-07-14T04:20:13.843971"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/870936/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 21 juli 2026:",
+    "published_at": "2026-07-14 06:48",
+    "scraped_at": "2026-07-14T06:31:17.377203"
   },
   {
-    "id": "0d5eb8086bb8a2f200c8ef6cbc96b1ea",
+    "id": "fff4b31f29bd9a885e92eeec72e14efa",
     "categorie": "Beursnieuws",
-    "titel": "Media: twaalf Amerikaanse staten dagen Paramount-deal voor de rechter",
-    "link": "https://www.beurs.nl/Nieuws/870908/Media-twaalf-Amerikaanse-staten-dagen-Paramount-deal-voor-de-rechter.aspx",
-    "intro": "Een groep van twaalf Amerikaanse procureurs-generaal heeft een rechtszaak aangespannen tegen de voorgenomen overname van Warner Bros. Discovery door Paramount Skydance. Dit meldde CNBC maandag.",
-    "published_at": "2026-07-13 18:16",
-    "scraped_at": "2026-07-14T04:20:13.843971"
-  },
-  {
-    "id": "23f64bf308144bc77d87dde01a498e35",
-    "categorie": "Beursnieuws",
-    "titel": "Eurocommercial sluit Zweedse lening af",
-    "link": "https://www.beurs.nl/Nieuws/870904/Eurocommercial-sluit-Zweedse-lening-af.aspx",
-    "intro": "Eurocommercial Properties heeft een groene lening van 700 miljoen Zweedse kroon, omgerekend circa 63,5 miljoen euro, opgenomen bij Skandinaviska Enskilda Banken. Dit maakte het vastgoedbedrijf maandag nabeurs bekend.",
-    "published_at": "2026-07-13 18:00",
-    "scraped_at": "2026-07-14T04:20:13.843971"
-  },
-  {
-    "id": "316e850a923c328adf3e0ae9e3b73696",
-    "categorie": "Beursnieuws",
-    "titel": "Olieaandelen en databedrijven aan kop in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/870903/Olieaandelen-en-databedrijven-aan-kop-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs is maandag iets hoger gesloten, nadat de Verenigde Staten en Iran elkaar in het weekend nog flink aanpakten.",
-    "published_at": "2026-07-13 17:54",
-    "scraped_at": "2026-07-14T04:20:13.843971"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/870934/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 21 juli 2026:",
+    "published_at": "2026-07-14 06:47",
+    "scraped_at": "2026-07-14T06:31:17.377203"
   }
 ]
