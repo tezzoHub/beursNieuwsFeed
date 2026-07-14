@@ -1,12 +1,66 @@
 [
   {
+    "id": "6f35a51bc2a1317f1d38f7c0c3ba0c77",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX probeert verlies goed te maken",
+    "link": "https://www.beurs.nl/Nieuws/871010/Beursupdate-AEX-probeert-verlies-goed-te-maken.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag licht lager, terwijl beleggers met argusogen de oplopende olieprijzen volgen.",
+    "published_at": "2026-07-14 13:51",
+    "scraped_at": "2026-07-14T12:02:53.359610"
+  },
+  {
+    "id": "fb50be4abb2a97f7a2d01f2ce4e0409f",
+    "categorie": "Beursnieuws",
+    "titel": "Goldman Sachs ziet winst flink aantrekken",
+    "link": "https://www.beurs.nl/Nieuws/871008/Goldman-Sachs-ziet-winst-flink-aantrekken.aspx",
+    "intro": "Goldman Sachs heeft in het tweede kwartaal fors meer winst geboekt, waarbij vooral de handelsactiviteiten en de investeringsbank een sterke stijging van de opbrengsten lieten zien. Dit bleek dinsdag uit de kwartaalcijfers van de Amerikaanse zakenbank.",
+    "published_at": "2026-07-14 13:36",
+    "scraped_at": "2026-07-14T12:02:53.359610"
+  },
+  {
+    "id": "fa50374edf7214ab9de16d6426a68af4",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel IBM schiet omlaag",
+    "link": "https://www.beurs.nl/Nieuws/871005/Aandeel-IBM-schiet-omlaag.aspx",
+    "intro": "IBM heeft zijn aandeelhouders gewaarschuwd voor de resultaten in het tweede kwartaal. Dit deed CEO Arvind Krishna vandaag in een brief aan zijn aandeelhouders.",
+    "published_at": "2026-07-14 13:23",
+    "scraped_at": "2026-07-14T12:02:53.359610"
+  },
+  {
+    "id": "ff3a0b309cdd854dda4e989b5a4799f1",
+    "categorie": "Beursnieuws",
+    "titel": "Flink meer winst voor JPMorgan",
+    "link": "https://www.beurs.nl/Nieuws/870996/Flink-meer-winst-voor-JPMorgan.aspx",
+    "intro": "JPMorgan Chase heeft in het tweede kwartaal veel meer winst geboekt, dankzij hogere inkomsten en lagere voorzieningen voor oninbare leningen. Dit maakte de Amerikaanse zakenbank dinsdagmiddag bekend.",
+    "published_at": "2026-07-14 13:12",
+    "scraped_at": "2026-07-14T12:02:53.359610"
+  },
+  {
+    "id": "9f96e468e2c21a2027963f5b99eb84a3",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Wells Fargo overtreft verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/871000/Update-Wells-Fargo-overtreft-verwachtingen.aspx",
+    "intro": "Wells Fargo heeft in het tweede kwartaal een hogere omzet en nettowinst geboekt en presteerde daarmee beter dan analisten hadden voorzien. Dit bleek dinsdag voorbeurs uit de kwartaalcijfers van de Amerikaanse bank.",
+    "published_at": "2026-07-14 13:07",
+    "scraped_at": "2026-07-14T12:02:53.359610"
+  },
+  {
+    "id": "ab9e89f4dc09c79b023d9459f43a7f26",
+    "categorie": "Beursnieuws",
+    "titel": "Winst Bank of America schiet omhoog",
+    "link": "https://www.beurs.nl/Nieuws/871001/Winst-Bank-of-America-schiet-omhoog.aspx",
+    "intro": "Bank of America heeft in het tweede kwartaal flink meer winst geboekt. Dit bleek dinsdag uit cijfers van de bank.",
+    "published_at": "2026-07-14 12:56",
+    "scraped_at": "2026-07-14T12:02:53.359610"
+  },
+  {
     "id": "d45f797ec7113be45847bce1bcfd3ba4",
     "categorie": "Beursnieuws",
     "titel": "Futures Wall Street signaleren terughoudende opening",
     "link": "https://www.beurs.nl/Nieuws/870992/Futures-Wall-Street-signaleren-terughoudende-opening.aspx",
     "intro": "De Amerikaanse beurzen lijken dinsdag op weg naar een per saldo verdeelde opening, na een verliessessie op maandag, toen handelaren probeerden om te gaan met de oplopende spanningen tussen Iran en de Verenigde Staten.",
     "published_at": "2026-07-14 12:30",
-    "scraped_at": "2026-07-14T10:47:39.650134"
+    "scraped_at": "2026-07-14T12:02:53.359610"
   },
   {
     "id": "9b3c431bda298a3694fd91ce8226b05f",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/870989/Europese-beurzen-lager-door-oplopende-olieprijs.aspx",
     "intro": "De Europese beurzen noteerden dinsdag rond lunchtijd lager, terwijl de olieprijs verder opliep en beleggers wachtten op de kwartaalcijfers van vijf grote Amerikaanse banken en nieuwe inflatiedata uit de Verenigde Staten.",
     "published_at": "2026-07-14 12:14",
-    "scraped_at": "2026-07-14T10:47:39.650134"
+    "scraped_at": "2026-07-14T12:02:53.359610"
   },
   {
     "id": "d69ab873109242d8adb552b8b0566495",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870988/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-weer-gestegen.aspx",
     "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in juni gestegen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
     "published_at": "2026-07-14 12:11",
-    "scraped_at": "2026-07-14T10:47:39.650134"
+    "scraped_at": "2026-07-14T12:02:53.359610"
   },
   {
     "id": "d57874ad252345dcc28a47051c077b3f",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/870979/AEX-in-het-rood-richting-cijferseizoen.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het rood.",
     "published_at": "2026-07-14 11:22",
-    "scraped_at": "2026-07-14T10:47:39.650134"
-  },
-  {
-    "id": "afe44a7556456566c174cf781e60ee23",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/870968/UBS-verhoogt-koersdoel-ING.aspx",
-    "intro": "UBS heeft het koersdoel voor ING verhoogd van 29,50 naar 31,50 euro, met een herhaling van het koopadvies. Dit bleek dinsdag uit een rapport van analist Johan Ekblom.",
-    "published_at": "2026-07-14 10:21",
-    "scraped_at": "2026-07-14T10:47:39.650134"
-  },
-  {
-    "id": "dc4cccc907367def1a26c8d1779c8edd",
-    "categorie": "IEX",
-    "titel": "Must read: Dividendbeleggen is dood",
-    "link": "https://www.iex.nl/artikel/870888/Must-read-Dividendbeleggen-is-dood.aspx",
-    "intro": "Plus: structurele groeitrends spelen impactbeleggers in de kaart, fossiele energie blijft dominant, Amerikaanse staatsschuld explodeert, beleggen is net wielrennen, en meer.",
-    "published_at": "2026-07-14 10:00",
-    "scraped_at": "2026-07-14T10:47:39.650134"
-  },
-  {
-    "id": "aaa2610a1a62fa7e792870316dbbb35a",
-    "categorie": "Beursnieuws",
-    "titel": "Lagere omzet en minder winst voor Ericsson",
-    "link": "https://www.beurs.nl/Nieuws/870965/Lagere-omzet-en-minder-winst-voor-Ericsson.aspx",
-    "intro": "Ericsson heeft in het tweede kwartaal minder omzet behaald dan in dezelfde periode vorig jaar.  Dit maakte de Zweedse technologiegroep dinsdagochtend bekend.",
-    "published_at": "2026-07-14 09:49",
-    "scraped_at": "2026-07-14T10:47:39.650134"
-  },
-  {
-    "id": "fdf89760958ac8262b5e205c45b53d29",
-    "categorie": "Beursnieuws",
-    "titel": "Beleggersvertrouwen naar hoogste niveau in maanden",
-    "link": "https://www.beurs.nl/Nieuws/870958/Beleggersvertrouwen-naar-hoogste-niveau-in-maanden.aspx",
-    "intro": "Het beleggerssentiment onder Nederlandse particuliere beleggers is deze maand sterk verbeterd. Dit blijkt uit de maandelijkse enquete van enquête van Saxo Bank onder zijn klanten.",
-    "published_at": "2026-07-14 09:20",
-    "scraped_at": "2026-07-14T10:47:39.650134"
-  },
-  {
-    "id": "43ff5dfc360671e9066cf68c3e00e3b8",
-    "categorie": "Beursnieuws",
-    "titel": "Shell krijgt AEX niet in het groen",
-    "link": "https://www.beurs.nl/Nieuws/870955/Shell-krijgt-AEX-niet-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag met een klein verlies van start gegaan, ondanks de winsten voor de oliefondsen.",
-    "published_at": "2026-07-14 09:06",
-    "scraped_at": "2026-07-14T10:47:39.650134"
-  },
-  {
-    "id": "3f5d14f64aedd7a9343b241ffe86ef07",
-    "categorie": "Opinie",
-    "titel": "Impact en structurele beleggingsthema's gaan steeds meer hand in hand",
-    "link": "https://www.ieximpact.nl/artikel/870285/Impact-en-structurele-beleggingsthemas-gaan-steeds-meer-hand-in-hand.aspx",
-    "intro": "Thema’s als energiezekerheid, fysieke klimaatrisico’s, natuurlijk kapitaal en stewardship winnen volgens Elodie Laugel van het Franse Amundi duidelijk aan gewicht. \"Het gaat beleggers steeds minder om impact om de impact, maar om structurele investeringsthema’s waar financiële materialiteit en positieve impact vaker samenvallen.\"",
-    "published_at": "2026-07-14 09:04",
-    "scraped_at": "2026-07-14T10:47:39.650134"
+    "scraped_at": "2026-07-14T12:02:53.359610"
   }
 ]
