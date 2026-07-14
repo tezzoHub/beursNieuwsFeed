@@ -1,12 +1,57 @@
 [
   {
-    "id": "6f35a51bc2a1317f1d38f7c0c3ba0c77",
+    "id": "66b414791abd2ef09961c852826bd3ed",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX probeert verlies goed te maken",
-    "link": "https://www.beurs.nl/Nieuws/871010/Beursupdate-AEX-probeert-verlies-goed-te-maken.aspx",
+    "titel": "Warsh: Fed krijgt de inflatie onder controle",
+    "link": "https://www.beurs.nl/Nieuws/871031/Warsh-Fed-krijgt-de-inflatie-onder-controle.aspx",
+    "intro": "Voorzitter Kevin Warsh van de Federal Reserve heeft het Committee on Financial Services van het Amerikaanse Huis van Afgevaardigden beloofd dat de centrale bank de inflatie onder controle zal krijgen. Dit deed de bankier dinsdag tijdens zijn eerste officiële optreden voor de parlementsleden.",
+    "published_at": "2026-07-14 15:09",
+    "scraped_at": "2026-07-14T14:19:45.661999"
+  },
+  {
+    "id": "5303a628d518ed52964aa8acc44fcce2",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/871030/Wall-Street-koerst-af-op-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen koersen dinsdag af op een overwegend groene opening, terwijl beleggers de oplopende olieprijzen, meevallende inflatiecijfers en een stroom aan bedrijfscijfers verwerkten.",
+    "published_at": "2026-07-14 15:07",
+    "scraped_at": "2026-07-14T14:19:45.661999"
+  },
+  {
+    "id": "8e0c1e3015dd675b319fa4b870c8a73f",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse inflatie flink gedaald",
+    "link": "https://www.beurs.nl/Nieuws/871019/Amerikaanse-inflatie-flink-gedaald.aspx",
+    "intro": "De inflatie in de Verenigde Staten is in juni gedaald. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-07-14 14:40",
+    "scraped_at": "2026-07-14T14:19:45.661999"
+  },
+  {
+    "id": "7ba124f7eacc5db3452ce6082ef10fac",
+    "categorie": "Beursnieuws",
+    "titel": "Citigroup boekt beste kwartaal in tien jaar",
+    "link": "https://www.beurs.nl/Nieuws/871018/Citigroup-boekt-beste-kwartaal-in-tien-jaar.aspx",
+    "intro": "Citigroup heeft in het tweede kwartaal een fors hogere omzet en nettowinst geboekt, waarbij vier van de vijf divisies bijdroegen aan de groei. Dit bleek dinsdag uit cijfers van de Amerikaanse bank.",
+    "published_at": "2026-07-14 14:16",
+    "scraped_at": "2026-07-14T14:19:45.661999"
+  },
+  {
+    "id": "55ceb8780fc14fea59e3b06b5b1facbf",
+    "categorie": "Beursnieuws",
+    "titel": "Bloomberg: Samsung wil ADR-voorbeeld SK Hynix volgen",
+    "link": "https://www.beurs.nl/Nieuws/871011/Bloomberg-Samsung-wil-ADR-voorbeeld-SK-Hynix-volgen.aspx",
+    "intro": "Samsung Electronics overweegt om in navolging van SK Hynix geld op te halen in de VS. Dit meldde persbureau Bloomberg dinsdag op basis van bronnen.",
+    "published_at": "2026-07-14 13:57",
+    "scraped_at": "2026-07-14T14:19:45.661999"
+  },
+  {
+    "id": "cf345686819e8c7a53d2e3e95733b425",
+    "categorie": "Beursnieuws",
+    "titel": "AEX probeert verlies goed te maken",
+    "link": "https://www.beurs.nl/Nieuws/871010/AEX-probeert-verlies-goed-te-maken.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagmiddag licht lager, terwijl beleggers met argusogen de oplopende olieprijzen volgen.",
     "published_at": "2026-07-14 13:51",
-    "scraped_at": "2026-07-14T12:02:53.359610"
+    "scraped_at": "2026-07-14T14:19:45.661999"
   },
   {
     "id": "fb50be4abb2a97f7a2d01f2ce4e0409f",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871008/Goldman-Sachs-ziet-winst-flink-aantrekken.aspx",
     "intro": "Goldman Sachs heeft in het tweede kwartaal fors meer winst geboekt, waarbij vooral de handelsactiviteiten en de investeringsbank een sterke stijging van de opbrengsten lieten zien. Dit bleek dinsdag uit de kwartaalcijfers van de Amerikaanse zakenbank.",
     "published_at": "2026-07-14 13:36",
-    "scraped_at": "2026-07-14T12:02:53.359610"
+    "scraped_at": "2026-07-14T14:19:45.661999"
   },
   {
     "id": "fa50374edf7214ab9de16d6426a68af4",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871005/Aandeel-IBM-schiet-omlaag.aspx",
     "intro": "IBM heeft zijn aandeelhouders gewaarschuwd voor de resultaten in het tweede kwartaal. Dit deed CEO Arvind Krishna vandaag in een brief aan zijn aandeelhouders.",
     "published_at": "2026-07-14 13:23",
-    "scraped_at": "2026-07-14T12:02:53.359610"
+    "scraped_at": "2026-07-14T14:19:45.661999"
   },
   {
     "id": "ff3a0b309cdd854dda4e989b5a4799f1",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/870996/Flink-meer-winst-voor-JPMorgan.aspx",
     "intro": "JPMorgan Chase heeft in het tweede kwartaal veel meer winst geboekt, dankzij hogere inkomsten en lagere voorzieningen voor oninbare leningen. Dit maakte de Amerikaanse zakenbank dinsdagmiddag bekend.",
     "published_at": "2026-07-14 13:12",
-    "scraped_at": "2026-07-14T12:02:53.359610"
+    "scraped_at": "2026-07-14T14:19:45.661999"
   },
   {
     "id": "9f96e468e2c21a2027963f5b99eb84a3",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871000/Update-Wells-Fargo-overtreft-verwachtingen.aspx",
     "intro": "Wells Fargo heeft in het tweede kwartaal een hogere omzet en nettowinst geboekt en presteerde daarmee beter dan analisten hadden voorzien. Dit bleek dinsdag voorbeurs uit de kwartaalcijfers van de Amerikaanse bank.",
     "published_at": "2026-07-14 13:07",
-    "scraped_at": "2026-07-14T12:02:53.359610"
-  },
-  {
-    "id": "ab9e89f4dc09c79b023d9459f43a7f26",
-    "categorie": "Beursnieuws",
-    "titel": "Winst Bank of America schiet omhoog",
-    "link": "https://www.beurs.nl/Nieuws/871001/Winst-Bank-of-America-schiet-omhoog.aspx",
-    "intro": "Bank of America heeft in het tweede kwartaal flink meer winst geboekt. Dit bleek dinsdag uit cijfers van de bank.",
-    "published_at": "2026-07-14 12:56",
-    "scraped_at": "2026-07-14T12:02:53.359610"
-  },
-  {
-    "id": "d45f797ec7113be45847bce1bcfd3ba4",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren terughoudende opening",
-    "link": "https://www.beurs.nl/Nieuws/870992/Futures-Wall-Street-signaleren-terughoudende-opening.aspx",
-    "intro": "De Amerikaanse beurzen lijken dinsdag op weg naar een per saldo verdeelde opening, na een verliessessie op maandag, toen handelaren probeerden om te gaan met de oplopende spanningen tussen Iran en de Verenigde Staten.",
-    "published_at": "2026-07-14 12:30",
-    "scraped_at": "2026-07-14T12:02:53.359610"
-  },
-  {
-    "id": "9b3c431bda298a3694fd91ce8226b05f",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lager door oplopende olieprijs",
-    "link": "https://www.beurs.nl/Nieuws/870989/Europese-beurzen-lager-door-oplopende-olieprijs.aspx",
-    "intro": "De Europese beurzen noteerden dinsdag rond lunchtijd lager, terwijl de olieprijs verder opliep en beleggers wachtten op de kwartaalcijfers van vijf grote Amerikaanse banken en nieuwe inflatiedata uit de Verenigde Staten.",
-    "published_at": "2026-07-14 12:14",
-    "scraped_at": "2026-07-14T12:02:53.359610"
-  },
-  {
-    "id": "d69ab873109242d8adb552b8b0566495",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers weer gestegen",
-    "link": "https://www.beurs.nl/Nieuws/870988/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-weer-gestegen.aspx",
-    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in juni gestegen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
-    "published_at": "2026-07-14 12:11",
-    "scraped_at": "2026-07-14T12:02:53.359610"
-  },
-  {
-    "id": "d57874ad252345dcc28a47051c077b3f",
-    "categorie": "Beursnieuws",
-    "titel": "AEX in het rood richting cijferseizoen",
-    "link": "https://www.beurs.nl/Nieuws/870979/AEX-in-het-rood-richting-cijferseizoen.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het rood.",
-    "published_at": "2026-07-14 11:22",
-    "scraped_at": "2026-07-14T12:02:53.359610"
+    "scraped_at": "2026-07-14T14:19:45.661999"
   }
 ]
