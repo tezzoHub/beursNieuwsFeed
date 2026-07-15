@@ -1,12 +1,66 @@
 [
   {
+    "id": "9b12f33dd611d50f742e7c176bfe7577",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse producentenprijzen dalen licht",
+    "link": "https://www.beurs.nl/Nieuws/871201/Amerikaanse-producentenprijzen-dalen-licht.aspx",
+    "intro": "De producentenprijzen in de Verenigde Staten zijn in juni iets teruggelopen. Dit bleek woensdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-07-15 14:38",
+    "scraped_at": "2026-07-15T12:47:14.459733"
+  },
+  {
+    "id": "18734a1c2d077e356d1845507256f056",
+    "categorie": "Beursnieuws",
+    "titel": "Empire State index veert op",
+    "link": "https://www.beurs.nl/Nieuws/871200/Empire-State-index-veert-op.aspx",
+    "intro": "De bedrijvigheid in de industrie in de regio New York is in juli gestegen. Dit bleek woensdag uit de zogeheten Empire State index van de New York Fed.",
+    "published_at": "2026-07-15 14:36",
+    "scraped_at": "2026-07-15T12:47:14.459733"
+  },
+  {
+    "id": "43fdc98c81951623c5dcbffb090fa5d8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: uitdagende omstandigheden voor NSI houden aan",
+    "link": "https://www.beurs.nl/Nieuws/871197/Beursblik-uitdagende-omstandigheden-voor-NSI-houden-aan.aspx",
+    "intro": "NSI heeft in de eerste helft van 2026 een aanhoudend uitdagende periode achter de rug en moest als gevolg de outlook voor 2026 neerwaarts bijstellen. Dit merkte analist Vincent Koppmair van Degroof Petercam woensdag op in een rapport.",
+    "published_at": "2026-07-15 14:23",
+    "scraped_at": "2026-07-15T12:47:14.459733"
+  },
+  {
+    "id": "fbe77dce0a64df1d573508ef33bf0394",
+    "categorie": "Beursnieuws",
+    "titel": "ASML blijft aan kop in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/871194/ASML-blijft-aan-kop-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdag hoger, dankzij koerswinsten van onder meer ASML, Prosus en ASMI. Rond de klok van twee uur won de AEX bijna 0,9 procent op 1.099,37 punten.",
+    "published_at": "2026-07-15 13:52",
+    "scraped_at": "2026-07-15T12:47:14.459733"
+  },
+  {
+    "id": "eaaf5c9a9013f161e279ed360b6dc7d7",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street gaat hogere opening tegemoet",
+    "link": "https://www.beurs.nl/Nieuws/871190/Wall-Street-gaat-hogere-opening-tegemoet.aspx",
+    "intro": "De Amerikaanse beurzen kunnen woensdag een hogere opening verwachten. De olieprijzen tikten het hoogste punt in een maand aan.",
+    "published_at": "2026-07-15 13:24",
+    "scraped_at": "2026-07-15T12:47:14.459733"
+  },
+  {
+    "id": "bb7acb1e5ad27269474a985c28f07846",
+    "categorie": "Beursnieuws",
+    "titel": "Morgan Stanley verslaat verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/871191/Morgan-Stanley-verslaat-verwachtingen.aspx",
+    "intro": "Morgan Stanley heeft in het tweede kwartaal de omzet- en winstverwachtingen weten te overtreffen. Dit bleek woensdag uit cijfers van de Amerikaanse bank.",
+    "published_at": "2026-07-15 13:24",
+    "scraped_at": "2026-07-15T12:47:14.459733"
+  },
+  {
     "id": "2112d4c6ff61dedc877329fc465623ef",
     "categorie": "Beursnieuws",
     "titel": "BlackRock ziet beheerd vermogen naar recordhoogte stijgen",
     "link": "https://www.beurs.nl/Nieuws/871187/BlackRock-ziet-beheerd-vermogen-naar-recordhoogte-stijgen.aspx",
     "intro": "BlackRock heeft in het tweede kwartaal van 2026 het beheerd vermogen flink zien stijgen ten opzichte van het eerste kwartaal. Dit bleek uit de cijfers die de Amerikaanse financiële gigant woensdag voorbeurs publiceerde.",
     "published_at": "2026-07-15 12:44",
-    "scraped_at": "2026-07-15T11:05:08.252799"
+    "scraped_at": "2026-07-15T12:47:14.459733"
   },
   {
     "id": "da106e63fc409d5815cedd2f693d9b1f",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871186/Weer-outlookverhoging-Johnson-Johnson.aspx",
     "intro": "Johnson  Johnson heeft opnieuw de outlook verhoogd voor heel dit jaar. Dit bleek woensdagmiddag uit de resultaten van het Amerikaanse farmabedrijf.",
     "published_at": "2026-07-15 12:35",
-    "scraped_at": "2026-07-15T11:05:08.252799"
+    "scraped_at": "2026-07-15T12:47:14.459733"
   },
   {
     "id": "48de0a5fe55f79cfee7d67fef185e142",
@@ -24,69 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/871178/Overwegend-rode-koersen-in-Europa.aspx",
     "intro": "De Europese beurzen noteerden woensdag rond het middaguur overwegend lager.",
     "published_at": "2026-07-15 12:16",
-    "scraped_at": "2026-07-15T11:05:08.252799"
+    "scraped_at": "2026-07-15T12:47:14.459733"
   },
   {
-    "id": "7b362ee7ebbd3f817ed716dc04aa2ad4",
+    "id": "821509538e8c62ae8dcd0f52d42383b6",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Goldman Sachs positief over CVC",
-    "link": "https://www.beurs.nl/Nieuws/871174/Beursblik-GoldmanSachspositief-over-CVC.aspx",
+    "titel": "Goldman Sachs positief over CVC",
+    "link": "https://www.beurs.nl/Nieuws/871174/GoldmanSachspositief-over-CVC.aspx",
     "intro": "CVC heeft vermoedelijk een sterke eerste jaarhelft achter de rug. Dit verwachten analisten van Goldman Sachs.",
     "published_at": "2026-07-15 12:03",
-    "scraped_at": "2026-07-15T11:05:08.252799"
-  },
-  {
-    "id": "ce111103c1e71f96646fc3cff4dfdc0c",
-    "categorie": "Beursnieuws",
-    "titel": "BASF verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/871173/BASF-verhoogt-outlook.aspx",
-    "intro": "BASF heeft woensdag de outlook voor heel dit jaar verhoogd. Dit maakte de Duitse chemiereus bekend.",
-    "published_at": "2026-07-15 12:02",
-    "scraped_at": "2026-07-15T11:05:08.252799"
-  },
-  {
-    "id": "f9e3cbfdb4e79b11bb1247bcf113d4f3",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders in trek op groen Damrak na cijfers ASML",
-    "link": "https://www.beurs.nl/Nieuws/871162/Halfgeleiders-in-trek-op-groen-Damrak-na-cijfers-ASML.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend overtuigend hoger, dankzij cijfers en een flinke outlookverhoging van ASML. Kort na de klok van elf uur won de AEX 0,9 procent op 1.099,96 punten.",
-    "published_at": "2026-07-15 11:17",
-    "scraped_at": "2026-07-15T11:05:08.252799"
-  },
-  {
-    "id": "25801a3067089e3957923f24de90eadc",
-    "categorie": "Beursnieuws",
-    "titel": "Industriële productie eurozone omlaag",
-    "link": "https://www.beurs.nl/Nieuws/871154/Industriele-productie-eurozone-omlaag.aspx",
-    "intro": "De industriële productie in de eurozone is in mei licht gedaald. Dit bleek woensdag uit voorlopige cijfers van Eurostat, het statistiekbureau van de EU.",
-    "published_at": "2026-07-15 11:05",
-    "scraped_at": "2026-07-15T11:05:08.252799"
-  },
-  {
-    "id": "1985e4a59ae05535aa2ced7fb0bcb12d",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verlaagt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/871150/UBS-verlaagt-koersdoel-Adyen.aspx",
-    "intro": "UBS heeft woensdag het koersdoel voor Adyen verlaagd van 1.600 naar 1.350 euro, maar met een herhaling van het koopadvies. Dit bleek uit een vanochtend gepubliceerd analistenrapport, waarin de Zwitserse bank al vooruitblikte op de kwartaalcijfers.",
-    "published_at": "2026-07-15 10:35",
-    "scraped_at": "2026-07-15T11:05:08.252799"
-  },
-  {
-    "id": "c5b42b253ad3aa7255a8e448ed57a537",
-    "categorie": "IEX",
-    "titel": "Must read: IBM kent slechtste beursdag sinds 1968",
-    "link": "https://www.iex.nl/artikel/871138/Must-read-IBM-kent-slechtste-beursdag-sinds-1968.aspx",
-    "intro": "Plus: Chinese groei komt lager uit dan eigen verwachtingen, verzekeraars en pensioenfondsen beleggen steeds vaker in ondoorzichtige markten. En DNB roept ABN Amro op het matje",
-    "published_at": "2026-07-15 10:15",
-    "scraped_at": "2026-07-15T11:05:08.252799"
-  },
-  {
-    "id": "a494d7efea8db9a7ebfab69e0653d797",
-    "categorie": "Beursnieuws",
-    "titel": "Spaanse inflatie blijft stabiel",
-    "link": "https://www.beurs.nl/Nieuws/871145/Spaanse-inflatie-blijft-stabiel.aspx",
-    "intro": "De Spaanse inflatie is in juni stabiel gebleven. Dit bleek woensdag uit definitieve cijfers van het Spaanse statistiekbureau Ine.",
-    "published_at": "2026-07-15 09:48",
-    "scraped_at": "2026-07-15T11:05:08.252799"
+    "scraped_at": "2026-07-15T12:47:14.459733"
   }
 ]
