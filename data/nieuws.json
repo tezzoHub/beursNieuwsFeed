@@ -1,12 +1,57 @@
 [
   {
+    "id": "48a0a0e97bb39ad11c81efb993d2d709",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street moet openingswinsten grotendeels inleveren",
+    "link": "https://www.beurs.nl/Nieuws/871246/Wall-Street-moet-openingswinsten-grotendeels-inleveren.aspx",
+    "intro": "De Amerikaanse beurzen noteerden woensdag licht hoger met nog een paar uur handel te gaan, waarbij de eerdere koerswinsten grotendeels werden ingeleverd door met name de dalingen bij de chipmakers.",
+    "published_at": "2026-07-15 19:37",
+    "scraped_at": "2026-07-15T17:42:36.554885"
+  },
+  {
+    "id": "b54f74dbc90255033c81629bfb72c5cb",
+    "categorie": "Beursnieuws",
+    "titel": "CSG start bouw munitiefabriek in Verenigde Staten",
+    "link": "https://www.beurs.nl/Nieuws/871245/CSG-start-bouw-munitiefabriek-in-Verenigde-Staten.aspx",
+    "intro": "CSG Group is via zijn Amerikaanse dochter MSM North America begonnen met de bouw van een nieuwe munitiefabriek voor het Amerikaanse leger. Dit maakte de Tsjechische defensiegroep woensdag nabeurs bekend.",
+    "published_at": "2026-07-15 19:28",
+    "scraped_at": "2026-07-15T17:42:36.554885"
+  },
+  {
+    "id": "920e7885a857cd7544ab8c2f3d41338e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: hogere winst en omzet Netflix verwacht",
+    "link": "https://www.beurs.nl/Nieuws/871244/Beursblik-hogere-winst-en-omzet-Netflix-verwacht.aspx",
+    "intro": "Netflix heeft in het tweede kwartaal naar verwachting een hogere winst en omzet geboekt dan een jaar eerder. Dit is de verwachting van analisten en van de Amerikaanse streamingreus zelf.",
+    "published_at": "2026-07-15 19:17",
+    "scraped_at": "2026-07-15T17:42:36.554885"
+  },
+  {
+    "id": "5792942624a34ef54298d02834c334f0",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen verdeeld gesloten",
+    "link": "https://www.beurs.nl/Nieuws/871239/Europese-beurzen-verdeeld-gesloten.aspx",
+    "intro": "De Europese beurzen zijn woensdag verdeeld gesloten, na nieuwe bedrijfscijfers en de laatste ontwikkelingen in het Midden-Oosten.",
+    "published_at": "2026-07-15 18:44",
+    "scraped_at": "2026-07-15T17:42:36.554885"
+  },
+  {
+    "id": "f391697c3d454e7ec41e324457d4acde",
+    "categorie": "Beursnieuws",
+    "titel": "CVC en Prosus helpen AEX aan nieuw slotrecord",
+    "link": "https://www.beurs.nl/Nieuws/871230/CVC-en-Prosus-helpen-AEX-aan-nieuw-slotrecord.aspx",
+    "intro": "De Amsterdamse beurs is woensdag hoger gesloten, na nieuwe bedrijfscijfers en de laatste ontwikkelingen in het Midden-Oosten.",
+    "published_at": "2026-07-15 18:00",
+    "scraped_at": "2026-07-15T17:42:36.554885"
+  },
+  {
     "id": "f101712fae71e09883e347ac6f171f4b",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Jefferies verhoogt koersdoel ABN AMRO",
     "link": "https://www.beurs.nl/Nieuws/871226/Beursblik-Jefferies-verhoogt-koersdoel-ABN-AMRO.aspx",
     "intro": "Jefferies heeft woensdag het koersdoel voor ABN AMRO verhoogd van 39,00 naar 45,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Theo Massing.",
     "published_at": "2026-07-15 17:44",
-    "scraped_at": "2026-07-15T16:09:25.403067"
+    "scraped_at": "2026-07-15T17:42:36.554885"
   },
   {
     "id": "3a4f730461458557b147f966b66bdb3d",
@@ -15,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/871221/Slotcall-ASML-verspeelt-winst-en-dus-geen-1100-punten-voor-de-AEX.aspx",
     "intro": "De AEX kan zwaaien naar een slotstand boven 1.100 punten, want ASML is de dag afgesloten in het rood. Einde dag staat de AEX-teller op 1097,90, om precies te zijn.",
     "published_at": "2026-07-15 17:35",
-    "scraped_at": "2026-07-15T16:09:25.403067"
+    "scraped_at": "2026-07-15T17:42:36.554885"
   },
   {
     "id": "e5605b38b8889ae7f51368c7fbfc2903",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871224/Amerikaanse-olievoorraden-toch-weer-gedaald.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn toch weer gedaald, nadat vorige week bleek dat deze voor het eerst in drie maanden waren gestegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-07-15 16:44",
-    "scraped_at": "2026-07-15T16:09:25.403067"
+    "scraped_at": "2026-07-15T17:42:36.554885"
   },
   {
     "id": "298ca3e1100c7e873b1e7f39c3deb5c0",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871217/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 23 juli 2026:",
     "published_at": "2026-07-15 16:03",
-    "scraped_at": "2026-07-15T16:09:25.403067"
+    "scraped_at": "2026-07-15T17:42:36.554885"
   },
   {
     "id": "6ab63e9ca4636bba5942564447aee24c",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871215/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 23 juli 2026:",
     "published_at": "2026-07-15 16:02",
-    "scraped_at": "2026-07-15T16:09:25.403067"
-  },
-  {
-    "id": "1035ba69f4785401b2ca5d87fccf4e02",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/871216/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 23 juli 2026:",
-    "published_at": "2026-07-15 16:02",
-    "scraped_at": "2026-07-15T16:09:25.403067"
-  },
-  {
-    "id": "2e1f5af7a51c4cee62cd09b688c1fe37",
-    "categorie": "Beursnieuws",
-    "titel": "SBM test nieuwe vliegertechnologie",
-    "link": "https://www.beurs.nl/Nieuws/871213/SBM-test-nieuwe-vliegertechnologie.aspx",
-    "intro": "SBM Offshore en TotalEnergies gaan samen met het Franse Beyond the Sea een kite inzetten om een olieproductieplatform naar Suriname te vervoeren. Dit maakte de Nederlandse toeleverancier voor de olie- en gassector woensdag bekend.",
-    "published_at": "2026-07-15 15:55",
-    "scraped_at": "2026-07-15T16:09:25.403067"
-  },
-  {
-    "id": "f6302fcd65a6f8d9c7d736da202e0331",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/871208/Wall-Street-koerst-af-op-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen stevenen woensdag af op een hogere opening verwachten. De olieprijzen tikten het hoogste punt in een maand aan.",
-    "published_at": "2026-07-15 15:00",
-    "scraped_at": "2026-07-15T16:09:25.403067"
-  },
-  {
-    "id": "9b12f33dd611d50f742e7c176bfe7577",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse producentenprijzen dalen licht",
-    "link": "https://www.beurs.nl/Nieuws/871201/Amerikaanse-producentenprijzen-dalen-licht.aspx",
-    "intro": "De producentenprijzen in de Verenigde Staten zijn in juni iets teruggelopen. Dit bleek woensdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-07-15 14:38",
-    "scraped_at": "2026-07-15T16:09:25.403067"
-  },
-  {
-    "id": "18734a1c2d077e356d1845507256f056",
-    "categorie": "Beursnieuws",
-    "titel": "Empire State index veert op",
-    "link": "https://www.beurs.nl/Nieuws/871200/Empire-State-index-veert-op.aspx",
-    "intro": "De bedrijvigheid in de industrie in de regio New York is in juli gestegen. Dit bleek woensdag uit de zogeheten Empire State index van de New York Fed.",
-    "published_at": "2026-07-15 14:36",
-    "scraped_at": "2026-07-15T16:09:25.403067"
+    "scraped_at": "2026-07-15T17:42:36.554885"
   }
 ]
