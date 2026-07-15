@@ -1,92 +1,92 @@
 [
   {
-    "id": "478fbfd525820a64f8fcfb991d3328e7",
+    "id": "d42f6b8fd3dc25c6f2f9bcc7d9c5e925",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/871077/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-07-14 22:18",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "Beursblik: ASML kijkt met vertrouwen vooruit",
+    "link": "https://www.beurs.nl/Nieuws/871132/Beursblik-ASML-kijkt-met-vertrouwen-vooruit.aspx",
+    "intro": "ASML geniet van een sterke vraag naar zijn producten. Dit concludeerde analist Andrew Gardiner van Citi Research woensdag in een rapport.",
+    "published_at": "2026-07-15 08:24",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "a4a12c408ec8312fe6ae5f38e4f2956f",
+    "id": "48d5c9275ff11c7533df8409a9aa362f",
     "categorie": "Beursnieuws",
-    "titel": "SK Hynix leidt Wall Street naar winst",
-    "link": "https://www.beurs.nl/Nieuws/871076/SK-Hynix-leidt-Wall-Street-naar-winst.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag hoger geëindigd, waarbij chipaandelen als SK Hynix in trek waren, maar IBM onderuit ging na een waarschuwing. Verder hielp de flink afkoelende inflatie in de VS het sentiment en openden de eerste banken hun boeken.",
-    "published_at": "2026-07-14 22:13",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "Media: overnamebod op PayPal",
+    "link": "https://www.beurs.nl/Nieuws/871131/Media-overnamebod-op-PayPal.aspx",
+    "intro": "Stripe en Advent International hebben een overnamebod uitgebracht op PayPal. Dit meldde persbureau Reuters op basis van bronnen.",
+    "published_at": "2026-07-15 08:11",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "f321eeeba045c6f5b797443dc78a34c9",
+    "id": "a5ca577fc73759206ffb34e8b4f7e69d",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt verder",
-    "link": "https://www.beurs.nl/Nieuws/871074/Olieprijs-stijgt-verder.aspx",
-    "intro": "De olieprijs is dinsdag verder gestegen, ondanks dat de Amerikaanse president Donald Trump aangaf af te zien van tolheffingen van 20 procent in de Straat van Hormuz.",
-    "published_at": "2026-07-14 21:09",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "ASML helpt AEX aan groene opening",
+    "link": "https://www.beurs.nl/Nieuws/871128/ASML-helpt-AEX-aan-groene-opening.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet, geholpen door cijfers en vooral de sterke outlookverhoging van ASML.",
+    "published_at": "2026-07-15 08:02",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "68db69856ee16d0b4138aab45e6463d0",
+    "id": "a5e51c8dcbb253a31f9aea1491e5aaba",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street op winst na meevallend inflatiecijfer",
-    "link": "https://www.beurs.nl/Nieuws/871073/Wall-Street-op-winst-na-meevallend-inflatiecijfer.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag overwegend hoger met nog een paar uur handel te gaan, waarbij de koersval van IBM opviel, net als de flink afkoelende inflatie in de VS. Intussen openden de eerste banken hun boeken.",
-    "published_at": "2026-07-14 19:37",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "ASML bereikt mijlpaal met Intel",
+    "link": "https://www.beurs.nl/Nieuws/871123/ASML-bereikt-mijlpaal-met-Intel.aspx",
+    "intro": "Intel is gestart met de grootschalige productie van zijn Intel Cora Ultra Series 3-processor met behulp van de EUV-technologie van ASML. Dit maakte het Nederlandse bedrijf woensdag bekend.",
+    "published_at": "2026-07-15 07:40",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "23e912799eb33cbd4a1c170578a84d18",
+    "id": "5c0a738952164b8530ac027cc72a392f",
     "categorie": "Beursnieuws",
-    "titel": "Media: Apple praat met start-up die AI-modellen verkleint",
-    "link": "https://www.beurs.nl/Nieuws/871071/Media-Apple-praat-met-start-up-die-AI-modellen-verkleint.aspx",
-    "intro": "Apple onderzoekt de technologie van startup PrismML, die krachtige AI-modellen zo ver zou kunnen verkleinen dat ze rechtstreeks op een iPhone kunnen draaien, terwijl ze tot 15 keer minder geheugen verbruiken. Dit meldde CNBC dinsdagavond op basis van uitspraken van de CEO van PrismML, Babak Hassibi.",
-    "published_at": "2026-07-14 19:13",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "NSI waarschuwt voor lagere winst",
+    "link": "https://www.beurs.nl/Nieuws/871120/NSI-waarschuwt-voor-lagere-winst.aspx",
+    "intro": "NSI heeft in de eerste helft van dit jaar de huurinkomsten flink onder druk zien staan en waarschuwde dat de winst dit jaar lager zal uitvallen dan verwacht. Dit bleek woensdag voorbeurs uit kwartaalcijfers van het vastgoedfonds.",
+    "published_at": "2026-07-15 07:30",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "c20741ea382c3b9d1f24d5ab4f4d7625",
+    "id": "a01573da724a1d559c8f7ae9bbf649e6",
     "categorie": "Beursnieuws",
-    "titel": "Boeing levert meer vliegtuigen",
-    "link": "https://www.beurs.nl/Nieuws/871070/Boeing-levert-meer-vliegtuigen.aspx",
-    "intro": "Boeing heeft in het tweede kwartaal van dit jaar meer vliegtuigen geleverd dan in dezelfde periode een jaar eerder en ook meer dan in de eerste drie maanden van 2026. Dit bleek dinsdag uit cijfers van de Amerikaanse vliegtuigbouwer.",
-    "published_at": "2026-07-14 19:03",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "Omzet en winst TomTom lopen flink terug",
+    "link": "https://www.beurs.nl/Nieuws/871118/Omzet-en-winst-TomTom-lopen-flink-terug.aspx",
+    "intro": "TomTom heeft in het tweede kwartaal de omzet en winst flink terug zien lopen, conform de verwachtingen van analisten. Dit bleek woensdag uit cijfers van de navigatiespecialist.",
+    "published_at": "2026-07-15 07:17",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "5a0b4e90db9f01b9af5b7c06a160434f",
+    "id": "7871323f0326b9eafe50a54898bfa0d0",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen veren op na gunstige inflatiecijfers",
-    "link": "https://www.beurs.nl/Nieuws/871067/Europese-beurzen-veren-op-na-gunstige-inflatiecijfers.aspx",
-    "intro": "De Europese beurzen zijn dinsdag tijdens de middagsessie hersteld, nadat Amerikaanse inflatiecijfers gunstig bleken, waardoor de rentevrees afnam. Intussen liepen de olieprijzen wel verder op, nu een snelle oplossing tussen de Verenigde Staten en Iran steeds verder uit zicht raakt. Dat zou de inflatie op termijn weer op kunnen stuwen.",
-    "published_at": "2026-07-14 18:36",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "ASML verhoogt opnieuw outlook voor 2026",
+    "link": "https://www.beurs.nl/Nieuws/871113/ASML-verhoogt-opnieuw-outlook-voor-2026.aspx",
+    "intro": "ASML heeft in het tweede kwartaal de eigen outlook gehaald en werd flink positiever over de verwachtingen voor heel dit jaar. Dit bleek woensdag voorbeurs uit de kwartaalcijfers van de halfgeleiderspecialist uit Veldhoven, waarmee het Amsterdamse cijferseizoen werd afgetrapt.",
+    "published_at": "2026-07-15 07:09",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "cc964565c1ca9658ed6bd48bf27b81ea",
+    "id": "6114d5ac7affc1df1beebeabbb3cca5c",
     "categorie": "Beursnieuws",
-    "titel": "Trump ziet toch af van tolheffing Straat van Hormuz",
-    "link": "https://www.beurs.nl/Nieuws/871063/Trump-ziet-toch-af-van-tolheffing-Straat-van-Hormuz.aspx",
-    "intro": "De Amerikaanse president Donald Trump ziet toch af van het plan om een tolheffing van 20 procent in te voeren voor commerciële schepen die de Straat van Hormuz passeren. Dit meldde Trump dinsdag op Truth Social.",
-    "published_at": "2026-07-14 18:12",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "Zuid-Koreaanse beurs schiet omhoog",
+    "link": "https://www.beurs.nl/Nieuws/871112/Zuid-Koreaanse-beurs-schiet-omhoog.aspx",
+    "intro": "De Aziatische beurzen koersten woensdag overwegend hoger, met forse winsten voor de Zuid-Koreaanse Kospi-index.",
+    "published_at": "2026-07-15 06:57",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "e512721dd20417be44ba817c40e37f10",
+    "id": "e0cde9cfdbcf80f922065587941984e7",
     "categorie": "Beursnieuws",
-    "titel": "AEX weet slotrecord verder aan te scherpen",
-    "link": "https://www.beurs.nl/Nieuws/871058/AEX-weet-slotrecord-verder-aan-te-scherpen.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag weer hoger gesloten, terwijl beleggers meevallende inflatiecijfers in de VS en een stroom aan bedrijfscijfers verwerkten.",
-    "published_at": "2026-07-14 17:50",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "Europese beurzen openen lager",
+    "link": "https://www.beurs.nl/Nieuws/871111/Europese-beurzen-openen-lager.aspx",
+    "intro": "De aandelenmarkten in Europa gaan woensdag een lagere opening tegemoet, na een groen slot op Wall Street dinsdag, waarbij chippers goede zaken deden.",
+    "published_at": "2026-07-15 06:54",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   },
   {
-    "id": "bc28fcc15200512f6906e70c7b7a4e43",
+    "id": "cc052c4323b278a29e1c958b74433ded",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: afnemende prijsdruk in VS tempert speculatie over aanstaande renteverhoging Fed",
-    "link": "https://www.beurs.nl/Nieuws/871055/Beursblik-afnemende-prijsdruk-in-VS-tempert-speculatie-over-aanstaande-renteverhoging-Fed.aspx",
-    "intro": "De Amerikaanse inflatiecijfers bleken dinsdag gunstiger dan verwacht, waardoor de marktverwachtingen voor een renteverhoging door de Federal Reserve afnamen, maar ING vindt deze verwachtingen nog steeds te hoog en rekent op een langdurige pauze. Dit stelde econoom James Knightley in een rapport in reactie op de meevallende data.",
-    "published_at": "2026-07-14 17:24",
-    "scraped_at": "2026-07-15T04:20:05.500295"
+    "titel": "Groeivertraging voor Chinese economie",
+    "link": "https://www.beurs.nl/Nieuws/871110/Groeivertraging-voor-Chinese-economie.aspx",
+    "intro": "De Chinese economie is in het tweede kwartaal van 2026 minder hard gegroeid. Dit bleek woensdag uit overheidscijfers.",
+    "published_at": "2026-07-15 06:47",
+    "scraped_at": "2026-07-15T06:33:31.901969"
   }
 ]
