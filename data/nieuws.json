@@ -1,12 +1,75 @@
 [
   {
-    "id": "e4ccf8255ec484dfeee52a8eaeb4b7df",
+    "id": "2112d4c6ff61dedc877329fc465623ef",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: UBS verlaagt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/871150/Beursblik-UBS-verlaagt-koersdoel-Adyen.aspx",
+    "titel": "BlackRock ziet beheerd vermogen naar recordhoogte stijgen",
+    "link": "https://www.beurs.nl/Nieuws/871187/BlackRock-ziet-beheerd-vermogen-naar-recordhoogte-stijgen.aspx",
+    "intro": "BlackRock heeft in het tweede kwartaal van 2026 het beheerd vermogen flink zien stijgen ten opzichte van het eerste kwartaal. Dit bleek uit de cijfers die de Amerikaanse financiële gigant woensdag voorbeurs publiceerde.",
+    "published_at": "2026-07-15 12:44",
+    "scraped_at": "2026-07-15T11:05:08.252799"
+  },
+  {
+    "id": "da106e63fc409d5815cedd2f693d9b1f",
+    "categorie": "Beursnieuws",
+    "titel": "Weer outlookverhoging Johnson & Johnson",
+    "link": "https://www.beurs.nl/Nieuws/871186/Weer-outlookverhoging-Johnson-Johnson.aspx",
+    "intro": "Johnson  Johnson heeft opnieuw de outlook verhoogd voor heel dit jaar. Dit bleek woensdagmiddag uit de resultaten van het Amerikaanse farmabedrijf.",
+    "published_at": "2026-07-15 12:35",
+    "scraped_at": "2026-07-15T11:05:08.252799"
+  },
+  {
+    "id": "48de0a5fe55f79cfee7d67fef185e142",
+    "categorie": "Beursnieuws",
+    "titel": "Overwegend rode koersen in Europa",
+    "link": "https://www.beurs.nl/Nieuws/871178/Overwegend-rode-koersen-in-Europa.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur overwegend lager.",
+    "published_at": "2026-07-15 12:16",
+    "scraped_at": "2026-07-15T11:05:08.252799"
+  },
+  {
+    "id": "7b362ee7ebbd3f817ed716dc04aa2ad4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Goldman Sachs positief over CVC",
+    "link": "https://www.beurs.nl/Nieuws/871174/Beursblik-GoldmanSachspositief-over-CVC.aspx",
+    "intro": "CVC heeft vermoedelijk een sterke eerste jaarhelft achter de rug. Dit verwachten analisten van Goldman Sachs.",
+    "published_at": "2026-07-15 12:03",
+    "scraped_at": "2026-07-15T11:05:08.252799"
+  },
+  {
+    "id": "ce111103c1e71f96646fc3cff4dfdc0c",
+    "categorie": "Beursnieuws",
+    "titel": "BASF verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/871173/BASF-verhoogt-outlook.aspx",
+    "intro": "BASF heeft woensdag de outlook voor heel dit jaar verhoogd. Dit maakte de Duitse chemiereus bekend.",
+    "published_at": "2026-07-15 12:02",
+    "scraped_at": "2026-07-15T11:05:08.252799"
+  },
+  {
+    "id": "f9e3cbfdb4e79b11bb1247bcf113d4f3",
+    "categorie": "Beursnieuws",
+    "titel": "Halfgeleiders in trek op groen Damrak na cijfers ASML",
+    "link": "https://www.beurs.nl/Nieuws/871162/Halfgeleiders-in-trek-op-groen-Damrak-na-cijfers-ASML.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdagochtend overtuigend hoger, dankzij cijfers en een flinke outlookverhoging van ASML. Kort na de klok van elf uur won de AEX 0,9 procent op 1.099,96 punten.",
+    "published_at": "2026-07-15 11:17",
+    "scraped_at": "2026-07-15T11:05:08.252799"
+  },
+  {
+    "id": "25801a3067089e3957923f24de90eadc",
+    "categorie": "Beursnieuws",
+    "titel": "Industriële productie eurozone omlaag",
+    "link": "https://www.beurs.nl/Nieuws/871154/Industriele-productie-eurozone-omlaag.aspx",
+    "intro": "De industriële productie in de eurozone is in mei licht gedaald. Dit bleek woensdag uit voorlopige cijfers van Eurostat, het statistiekbureau van de EU.",
+    "published_at": "2026-07-15 11:05",
+    "scraped_at": "2026-07-15T11:05:08.252799"
+  },
+  {
+    "id": "1985e4a59ae05535aa2ced7fb0bcb12d",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verlaagt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/871150/UBS-verlaagt-koersdoel-Adyen.aspx",
     "intro": "UBS heeft woensdag het koersdoel voor Adyen verlaagd van 1.600 naar 1.350 euro, maar met een herhaling van het koopadvies. Dit bleek uit een vanochtend gepubliceerd analistenrapport, waarin de Zwitserse bank al vooruitblikte op de kwartaalcijfers.",
     "published_at": "2026-07-15 10:35",
-    "scraped_at": "2026-07-15T09:01:31.351653"
+    "scraped_at": "2026-07-15T11:05:08.252799"
   },
   {
     "id": "c5b42b253ad3aa7255a8e448ed57a537",
@@ -15,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/871138/Must-read-IBM-kent-slechtste-beursdag-sinds-1968.aspx",
     "intro": "Plus: Chinese groei komt lager uit dan eigen verwachtingen, verzekeraars en pensioenfondsen beleggen steeds vaker in ondoorzichtige markten. En DNB roept ABN Amro op het matje",
     "published_at": "2026-07-15 10:15",
-    "scraped_at": "2026-07-15T09:01:31.351653"
+    "scraped_at": "2026-07-15T11:05:08.252799"
   },
   {
     "id": "a494d7efea8db9a7ebfab69e0653d797",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871145/Spaanse-inflatie-blijft-stabiel.aspx",
     "intro": "De Spaanse inflatie is in juni stabiel gebleven. Dit bleek woensdag uit definitieve cijfers van het Spaanse statistiekbureau Ine.",
     "published_at": "2026-07-15 09:48",
-    "scraped_at": "2026-07-15T09:01:31.351653"
-  },
-  {
-    "id": "ddd7621afb9a8fed38eb1e257a8d935e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: ASML verrast positief",
-    "link": "https://www.beurs.nl/Nieuws/871144/Beursblik-ASML-verrast-positief.aspx",
-    "intro": "De kwartaalcijfers en nieuwe outlook van ASML betekenen dat de prognoses opnieuw omhoog kunnen. Dit stelde analist Michael Roeg van Degroof Petercam woensdag in een rapport.",
-    "published_at": "2026-07-15 09:43",
-    "scraped_at": "2026-07-15T09:01:31.351653"
-  },
-  {
-    "id": "e90a7d39d4fa8f2122eb73e6b39fca25",
-    "categorie": "Beursnieuws",
-    "titel": "ASML uitblinker in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/871139/ASML-uitblinker-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs is woensdag dankzij ASML met een mooie winst van start gegaan.",
-    "published_at": "2026-07-15 09:06",
-    "scraped_at": "2026-07-15T09:01:31.351653"
-  },
-  {
-    "id": "ddafb035d50ff3afcfc2fc2f63a03b79",
-    "categorie": "Opinie",
-    "titel": "Meetdrift maakt impactbeleggen nog niet geloofwaardig",
-    "link": "https://www.ieximpact.nl/artikel/870588/Meetdrift-maakt-impactbeleggen-nog-niet-geloofwaardig.aspx",
-    "intro": "\"Impactbeleggen heeft een meetprobleem.  We meten veel, maar meer cijfers brengen ons niet automatisch dichter bij de waarheid\", dat schrijft Lina Arrifi van DPAM in een gastcolumn voor IEX Impact. Wat is dan wel de oplossing?",
-    "published_at": "2026-07-15 09:00",
-    "scraped_at": "2026-07-15T09:01:31.351653"
-  },
-  {
-    "id": "6ef3c4e6813ad4ce0548b89e293f99c9",
-    "categorie": "Beursnieuws",
-    "titel": "Sterke omzetcijfers bij Richemont",
-    "link": "https://www.beurs.nl/Nieuws/871137/Sterke-omzetcijfers-bij-Richemont.aspx",
-    "intro": "Richemont heeft in het tweede kwartaal een stevige omzetgroei geboekt dankzij de juwelentak. Dit bleek woensdag uit cijfers van het Zwitserse luxeconcern.",
-    "published_at": "2026-07-15 08:56",
-    "scraped_at": "2026-07-15T09:01:31.351653"
-  },
-  {
-    "id": "2bdd85668d796c681019ddaf18a9044c",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Omzet TomTom loopt terug",
-    "link": "https://www.beurs.nl/Nieuws/870726/Update-Omzet-TomTom-loopt-terug.aspx",
-    "intro": "TomTom heeft in het tweede kwartaal de omzet terug zien lopen, conform de verwachtingen van analisten. Dit bleek woensdag uit cijfers van de navigatiespecialist.",
-    "published_at": "2026-07-15 08:39",
-    "scraped_at": "2026-07-15T09:01:31.351653"
-  },
-  {
-    "id": "4228af4a5c65d880b7fb602f94ab33d4",
-    "categorie": "Beursnieuws",
-    "titel": "Citi: ASML kijkt met vertrouwen vooruit",
-    "link": "https://www.beurs.nl/Nieuws/871132/Citi-ASML-kijkt-met-vertrouwen-vooruit.aspx",
-    "intro": "ASML geniet van een sterke vraag naar zijn producten. Dit concludeerde analist Andrew Gardiner van Citi Research woensdag in een rapport.",
-    "published_at": "2026-07-15 08:24",
-    "scraped_at": "2026-07-15T09:01:31.351653"
-  },
-  {
-    "id": "48d5c9275ff11c7533df8409a9aa362f",
-    "categorie": "Beursnieuws",
-    "titel": "Media: overnamebod op PayPal",
-    "link": "https://www.beurs.nl/Nieuws/871131/Media-overnamebod-op-PayPal.aspx",
-    "intro": "Stripe en Advent International hebben een overnamebod uitgebracht op PayPal. Dit meldde persbureau Reuters op basis van bronnen.",
-    "published_at": "2026-07-15 08:11",
-    "scraped_at": "2026-07-15T09:01:31.351653"
+    "scraped_at": "2026-07-15T11:05:08.252799"
   }
 ]
