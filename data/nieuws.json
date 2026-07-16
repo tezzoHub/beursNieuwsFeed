@@ -1,12 +1,75 @@
 [
   {
+    "id": "1fa6e018fb93c17e025716146a5f1b37",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/871343/Wall-Street-wacht-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,4 procent in het rood.",
+    "published_at": "2026-07-16 14:46",
+    "scraped_at": "2026-07-16T12:57:39.299933"
+  },
+  {
+    "id": "6ff01b4238b1410a076a6262359765bf",
+    "categorie": "Beursnieuws",
+    "titel": "Philadelphia Fed index verbetert sterk",
+    "link": "https://www.beurs.nl/Nieuws/871342/Philadelphia-Fed-index-verbetert-sterk.aspx",
+    "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in juli enorm verbeterd. Dit bleek donderdag uit de zogeheten Philly Fed index.",
+    "published_at": "2026-07-16 14:37",
+    "scraped_at": "2026-07-16T12:57:39.299933"
+  },
+  {
+    "id": "2783583f2b0fd706112d4b28c16a774b",
+    "categorie": "Beursnieuws",
+    "titel": "Minder nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/871340/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-07-16 14:34",
+    "scraped_at": "2026-07-16T12:57:39.299933"
+  },
+  {
+    "id": "71d674e3903058d2b16b868d997ee2d4",
+    "categorie": "Beursnieuws",
+    "titel": "Detailhandelsverkopen VS licht gestegen",
+    "link": "https://www.beurs.nl/Nieuws/871341/Detailhandelsverkopen-VS-licht-gestegen.aspx",
+    "intro": "De verkopen in de Amerikaanse detailhandel zijn in juni licht gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-07-16 14:34",
+    "scraped_at": "2026-07-16T12:57:39.299933"
+  },
+  {
+    "id": "a44f924e32fde2c00e55a3a8244ef5fc",
+    "categorie": "Beursnieuws",
+    "titel": "Meevallend tweede kwartaal voor Manpower",
+    "link": "https://www.beurs.nl/Nieuws/871338/Meevallend-tweede-kwartaal-voor-Manpower.aspx",
+    "intro": "Manpower heeft in het tweede kwartaal de omzet duidelijk zien stijgen, dankzij een sterke vraag in de VS, Latijns-Amerika en verschillende Europese landen, waardoor de winst hoger uitviel dan voorzien. Dit maakte de Amerikaanse uitzender donderdag bekend.",
+    "published_at": "2026-07-16 14:02",
+    "scraped_at": "2026-07-16T12:57:39.299933"
+  },
+  {
+    "id": "47926b23b4dbe89006c36002b71e16fc",
+    "categorie": "Beursnieuws",
+    "titel": "AEX zakt weg",
+    "link": "https://www.beurs.nl/Nieuws/871337/AEX-zakt-weg.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagmiddag lager en zag de openingsverliezen wat oplopen. Rond de klok van twee uur daalde de AEX met 0,6 procent tot 1.091,26 punten.",
+    "published_at": "2026-07-16 13:51",
+    "scraped_at": "2026-07-16T12:57:39.299933"
+  },
+  {
+    "id": "902ee55aaaaa9ddef2c6bbf7054fa765",
+    "categorie": "Beursnieuws",
+    "titel": "Eli Lilly neemt AtaiBeckley over",
+    "link": "https://www.beurs.nl/Nieuws/871334/Eli-Lilly-neemt-AtaiBeckley-over.aspx",
+    "intro": "Eli Lilly heeft een akkoord bereikt over de overname van AtaiBeckley voor een bedrag van circa 2,8 miljard dollar. Dit maakte de Amerikaanse farmaceut donderdag bekend.",
+    "published_at": "2026-07-16 13:30",
+    "scraped_at": "2026-07-16T12:57:39.299933"
+  },
+  {
     "id": "fed4e23053ad72637d6bd97dfbeb7b5f",
     "categorie": "Beursnieuws",
     "titel": "Futures wijzen op licht lagere opening Wall Street",
     "link": "https://www.beurs.nl/Nieuws/871332/Futures-wijzen-op-licht-lagere-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een licht lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,2 procent in het rood.",
     "published_at": "2026-07-16 13:06",
-    "scraped_at": "2026-07-16T11:22:07.544251"
+    "scraped_at": "2026-07-16T12:57:39.299933"
   },
   {
     "id": "8cc575275eb56119c7684b897235fe4d",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871331/GE-Aerospace-overtreft-verwachtingen-en-verhoogt-outlook.aspx",
     "intro": "GE Aerospace heeft in het tweede kwartaal een hoger dan voorziene omzet en winst geboekt en besloot de outlook voor 2026 te verhogen. Dit bleek donderdag uit cijfers van de Amerikaanse fabrikant van vliegtuigmotoren.",
     "published_at": "2026-07-16 12:53",
-    "scraped_at": "2026-07-16T11:22:07.544251"
+    "scraped_at": "2026-07-16T12:57:39.299933"
   },
   {
     "id": "995f2bc85e17381218d9a62172bc9fe8",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871329/UnitedHealth-verhoogt-opnieuw-de-outlook.aspx",
     "intro": "UnitedHealth Group heeft in het tweede kwartaal van dit jaar de winst zien aantrekken en verhoogde opnieuw de outlook voor 2026. Dit bleek donderdag uit de kwartaalcijfers van de Amerikaanse zorgverzekeraar.",
     "published_at": "2026-07-16 12:17",
-    "scraped_at": "2026-07-16T11:22:07.544251"
-  },
-  {
-    "id": "7b38c3a7a1f2539909f3837dbc213b09",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen onder druk",
-    "link": "https://www.beurs.nl/Nieuws/871328/Europese-beurzen-onder-druk.aspx",
-    "intro": "De Europese beurzen noteerden donderdag rond het middaguur lager.",
-    "published_at": "2026-07-16 12:01",
-    "scraped_at": "2026-07-16T11:22:07.544251"
-  },
-  {
-    "id": "55505258e03e90adad953e6f929ef7c9",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel ASML",
-    "link": "https://www.beurs.nl/Nieuws/871326/Bank-of-America-verhoogt-koersdoel-ASML.aspx",
-    "intro": "Bank of America heeft donderdag het koersdoel voor ASML verhoogd van 2.022 naar 2.452 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Didier Scemama.",
-    "published_at": "2026-07-16 11:45",
-    "scraped_at": "2026-07-16T11:22:07.544251"
-  },
-  {
-    "id": "27c94472f5721c568168fd2e172ed7b6",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel ASMI",
-    "link": "https://www.beurs.nl/Nieuws/871323/Bank-of-America-verhoogt-koersdoel-ASMI.aspx",
-    "intro": "Bank of America heeft donderdag het koersdoel voor ASMI verhoogd van 1.290 naar 1.435 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van Didier Scemama.",
-    "published_at": "2026-07-16 11:33",
-    "scraped_at": "2026-07-16T11:22:07.544251"
-  },
-  {
-    "id": "f924030ae28726fd9f6c9842d00de293",
-    "categorie": "Beursnieuws",
-    "titel": "Europese export stijgt fractioneel",
-    "link": "https://www.beurs.nl/Nieuws/871318/Europese-export-stijgt-fractioneel.aspx",
-    "intro": "De export in de eurozone is in mei fractioneel gestegen. Dit bleek donderdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
-    "published_at": "2026-07-16 11:09",
-    "scraped_at": "2026-07-16T11:22:07.544251"
-  },
-  {
-    "id": "df0be78732b2ba309b61b3cd0a002377",
-    "categorie": "Beursnieuws",
-    "titel": "AEX houdt winst niet vast",
-    "link": "https://www.beurs.nl/Nieuws/871317/AEX-houdt-winst-niet-vast.aspx",
-    "intro": "De Amsterdamse beurs wist donderdag de openingswinst niet vast te houden. Rond de klok van elf uur daalde de AEX met 0,4 procent tot 1.093,64 punten.",
-    "published_at": "2026-07-16 11:01",
-    "scraped_at": "2026-07-16T11:22:07.544251"
-  },
-  {
-    "id": "979462afd3c6f605b0ff13e82b8979ab",
-    "categorie": "Beursnieuws",
-    "titel": "ING verhoogt koersdoel ASML naar 2.000 euro",
-    "link": "https://www.beurs.nl/Nieuws/871314/ING-verhoogt-koersdoel-ASML-naar-2000-euro.aspx",
-    "intro": "ING heeft donderdag het koersdoel voor ASML verhoogd van 1.700 naar 2.000 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Marc Hesselink.",
-    "published_at": "2026-07-16 10:37",
-    "scraped_at": "2026-07-16T11:22:07.544251"
-  },
-  {
-    "id": "19029e527e187db15818c4736464614b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Kepler Cheuvreux verhoogt koersdoel ASML",
-    "link": "https://www.beurs.nl/Nieuws/871311/Beursblik-KeplerCheuvreuxverhoogt-koersdoel-ASML.aspx",
-    "intro": "Kepler Cheuvreux heeft donderdag het koersdoel voor ASML verhoogd van 1.830 naar 2.300 euro met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-07-16 10:20",
-    "scraped_at": "2026-07-16T11:22:07.544251"
+    "scraped_at": "2026-07-16T12:57:39.299933"
   }
 ]
