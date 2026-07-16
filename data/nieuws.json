@@ -1,12 +1,48 @@
 [
   {
+    "id": "b01ed4caff32fdb08a930675cc64352f",
+    "categorie": "Beursnieuws",
+    "titel": "Alcoa verlaagt productie-outlook",
+    "link": "https://www.beurs.nl/Nieuws/871403/Alcoa-verlaagt-productie-outlook.aspx",
+    "intro": "Alcoa heeft de outlook voor de jaarproductie van aluminiumoxide naar beneden bijgesteld vanwege problemen bij zijn aluminiumoxidefabriek in het Australische Pinjarra. Dit bleek donderdagavond bij de cijfers van de Amerikaanse aluminiumproducent.",
+    "published_at": "2026-07-16 22:45",
+    "scraped_at": "2026-07-16T21:29:10.763362"
+  },
+  {
+    "id": "16670c5d9477e8c4b484f124cb09768f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/871402/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-07-16 22:33",
+    "scraped_at": "2026-07-16T21:29:10.763362"
+  },
+  {
+    "id": "5b79d25f07f6f4f469b86a936deca1eb",
+    "categorie": "Beursnieuws",
+    "titel": "Halfgeleideraandelen drukken sentiment op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/871401/Halfgeleideraandelen-drukken-sentiment-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen sloten donderdag in het rood af, terwijl halfgeleideraandelen onder druk stonden. De spanningen tussen de VS en Iran blijven intussen hoog, ook nu president Donald Trump verdere militaire operaties overweegt in Iran. Verder zei een Fed-bestuurder dat de rente moet worden verhoogd om de inflatie te bestrijden.",
+    "published_at": "2026-07-16 22:20",
+    "scraped_at": "2026-07-16T21:29:10.763362"
+  },
+  {
+    "id": "0548af97142ff2dbf54c300a0e3b83ab",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere winst en omzet voor Netflix",
+    "link": "https://www.beurs.nl/Nieuws/871400/Hogere-winst-en-omzet-voor-Netflix.aspx",
+    "intro": "Netflix heeft in het tweede kwartaal een hogere winst en omzet geboekt dan een jaar eerder, maar de omzet kwam wel onder de verwachting uit. Dit bleek donderdagavond uit de cijfers van de Amerikaanse streamingreus.",
+    "published_at": "2026-07-16 22:14",
+    "scraped_at": "2026-07-16T21:29:10.763362"
+  },
+  {
     "id": "cb3fd27caad3e9cd1ecab9677b3c9cea",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs daalt licht maar geopolitieke dreiging blijft",
     "link": "https://www.beurs.nl/Nieuws/871393/Olieprijs-daalt-licht-maar-geopolitieke-dreiging-blijft.aspx",
     "intro": "De olieprijs is donderdag licht gedaald, na een aantal dagen van stijgingen. De settlement voor een vat West Texas Intermediate was 78,95 dollar en daarmee daalde de prijs 0,8 procent ten opzichte van woensdag.",
     "published_at": "2026-07-16 20:54",
-    "scraped_at": "2026-07-16T20:15:27.033080"
+    "scraped_at": "2026-07-16T21:29:10.763362"
   },
   {
     "id": "3407e48111e0229e70223a1ff4829c10",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871392/Fed-bestuurder-Logan-wil-rente-verhogen.aspx",
     "intro": "De Federal Reserve moet de rente verhogen om de hoge inflatie in de Verenigde Staten te bestrijden. Dit zei Lorie Logan, president van de Dallas Fed, donderdag in een toespraak in Houston.",
     "published_at": "2026-07-16 20:34",
-    "scraped_at": "2026-07-16T20:15:27.033080"
+    "scraped_at": "2026-07-16T21:29:10.763362"
   },
   {
     "id": "4a381194e042e4a2b1a164ed7152b9f9",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871390/Chipaandelen-trekken-Wall-Street-in-het-rood.aspx",
     "intro": "De Amerikaanse beurzen kleurden donderdag rood, terwijl halfgeleideraandelen onder druk stonden. De spanningen tussen de VS en Iran blijven intussen hoog, ook nu president Donald Trump verdere militaire operaties overweegt in Iran.",
     "published_at": "2026-07-16 19:54",
-    "scraped_at": "2026-07-16T20:15:27.033080"
+    "scraped_at": "2026-07-16T21:29:10.763362"
   },
   {
     "id": "a78dd1d2ab6da4ef878878fd21fbe29b",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871383/Europese-beurzen-sluiten-verdeeld.aspx",
     "intro": "De meeste Europese beurzen zijn donderdag lager geëindigd, terwijl de zorgen over AI weer oplaaiden.",
     "published_at": "2026-07-16 18:32",
-    "scraped_at": "2026-07-16T20:15:27.033080"
+    "scraped_at": "2026-07-16T21:29:10.763362"
   },
   {
     "id": "2f5ba2002845a417b02fc4d0f9f2e949",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871381/AEX-sluit-met-winst-dankzij-zwaargewichten.aspx",
     "intro": "De Amsterdamse beurs is donderdag met winst gesloten. De AEX ging mooi van start, maar zakte toen weg om richting het einde van de dag toch weer op te veren.",
     "published_at": "2026-07-16 18:03",
-    "scraped_at": "2026-07-16T20:15:27.033080"
+    "scraped_at": "2026-07-16T21:29:10.763362"
   },
   {
     "id": "be876c8648472f2e47b0a38d2a6affa0",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871369/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 24 juli 2026:",
     "published_at": "2026-07-16 16:32",
-    "scraped_at": "2026-07-16T20:15:27.033080"
-  },
-  {
-    "id": "7acca7133972d789131db7410efb0a63",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/871367/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 24 juli 2026:",
-    "published_at": "2026-07-16 16:31",
-    "scraped_at": "2026-07-16T20:15:27.033080"
-  },
-  {
-    "id": "6ced883e40e88e60dad8597d614f905f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/871368/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 24 juli 2026:",
-    "published_at": "2026-07-16 16:31",
-    "scraped_at": "2026-07-16T20:15:27.033080"
-  },
-  {
-    "id": "da3a10575c11e92edac7a0597d112c82",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse bedrijfsvoorraden weer gestegen",
-    "link": "https://www.beurs.nl/Nieuws/871351/Amerikaanse-bedrijfsvoorraden-weer-gestegen.aspx",
-    "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in mei gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
-    "published_at": "2026-07-16 16:22",
-    "scraped_at": "2026-07-16T20:15:27.033080"
-  },
-  {
-    "id": "3eb2e4cf2dd74f68467dc742b34de898",
-    "categorie": "Beursnieuws",
-    "titel": "Aanstaande woningverkopen VS flink gedaald",
-    "link": "https://www.beurs.nl/Nieuws/871349/Aanstaande-woningverkopen-VS-flink-gedaald.aspx",
-    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in juni flink afgenomen. Dit bleek donderdag uit cijfers van makelaarsorganisatie NAR.",
-    "published_at": "2026-07-16 16:06",
-    "scraped_at": "2026-07-16T20:15:27.033080"
+    "scraped_at": "2026-07-16T21:29:10.763362"
   }
 ]
