@@ -1,12 +1,84 @@
 [
   {
+    "id": "be876c8648472f2e47b0a38d2a6affa0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/871369/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 24 juli 2026:",
+    "published_at": "2026-07-16 16:32",
+    "scraped_at": "2026-07-16T15:08:30.760553"
+  },
+  {
+    "id": "7acca7133972d789131db7410efb0a63",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/871367/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 24 juli 2026:",
+    "published_at": "2026-07-16 16:31",
+    "scraped_at": "2026-07-16T15:08:30.760553"
+  },
+  {
+    "id": "6ced883e40e88e60dad8597d614f905f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/871368/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 24 juli 2026:",
+    "published_at": "2026-07-16 16:31",
+    "scraped_at": "2026-07-16T15:08:30.760553"
+  },
+  {
+    "id": "da3a10575c11e92edac7a0597d112c82",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse bedrijfsvoorraden weer gestegen",
+    "link": "https://www.beurs.nl/Nieuws/871351/Amerikaanse-bedrijfsvoorraden-weer-gestegen.aspx",
+    "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in mei gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-07-16 16:22",
+    "scraped_at": "2026-07-16T15:08:30.760553"
+  },
+  {
+    "id": "3eb2e4cf2dd74f68467dc742b34de898",
+    "categorie": "Beursnieuws",
+    "titel": "Aanstaande woningverkopen VS flink gedaald",
+    "link": "https://www.beurs.nl/Nieuws/871349/Aanstaande-woningverkopen-VS-flink-gedaald.aspx",
+    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in juni flink afgenomen. Dit bleek donderdag uit cijfers van makelaarsorganisatie NAR.",
+    "published_at": "2026-07-16 16:06",
+    "scraped_at": "2026-07-16T15:08:30.760553"
+  },
+  {
+    "id": "712c3f53f1fa08f966e5448e774687de",
+    "categorie": "Beursnieuws",
+    "titel": "Vertrouwen Amerikaanse huizenbouwers verder gedaald",
+    "link": "https://www.beurs.nl/Nieuws/871350/Vertrouwen-Amerikaanse-huizenbouwers-verder-gedaald.aspx",
+    "intro": "Het vertrouwen onder Amerikaanse huizenbouwers is in juli verder gedaald. Dit bleek donderdag uit data van de National Association of Home Builders.",
+    "published_at": "2026-07-16 16:06",
+    "scraped_at": "2026-07-16T15:08:30.760553"
+  },
+  {
+    "id": "80e272431afa60345c285d6c9915e493",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Barclays verhoogt koersdoel ASML naar 2.400 euro",
+    "link": "https://www.beurs.nl/Nieuws/871347/Beursblik-Barclays-verhoogt-koersdoel-ASML-naar-2400-euro.aspx",
+    "intro": "Barclays heeft het koersdoel voor ASML verhoogd van 2.000 naar 2.400 euro met een onveranderd Overwogen advies. Dit bleek donderdag uit een analistenrapport van de Britse bank.",
+    "published_at": "2026-07-16 15:53",
+    "scraped_at": "2026-07-16T15:08:30.760553"
+  },
+  {
+    "id": "54e219558ef1638d5d73793d3784a659",
+    "categorie": "Beursnieuws",
+    "titel": "BAM krijgt opdrachten voor asfaltonderhoud",
+    "link": "https://www.beurs.nl/Nieuws/871345/BAM-krijgt-opdrachten-voor-asfaltonderhoud.aspx",
+    "intro": "BAM heeft twee opdrachten gewonnen voor het asfaltonderhoud in de gemeenten Den Haag en Moerdijk. Dit maakte de bouwer donderdagmiddag bekend.",
+    "published_at": "2026-07-16 15:13",
+    "scraped_at": "2026-07-16T15:08:30.760553"
+  },
+  {
     "id": "1fa6e018fb93c17e025716146a5f1b37",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht lagere opening",
     "link": "https://www.beurs.nl/Nieuws/871343/Wall-Street-wacht-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,4 procent in het rood.",
     "published_at": "2026-07-16 14:46",
-    "scraped_at": "2026-07-16T12:57:39.299933"
+    "scraped_at": "2026-07-16T15:08:30.760553"
   },
   {
     "id": "6ff01b4238b1410a076a6262359765bf",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871342/Philadelphia-Fed-index-verbetert-sterk.aspx",
     "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in juli enorm verbeterd. Dit bleek donderdag uit de zogeheten Philly Fed index.",
     "published_at": "2026-07-16 14:37",
-    "scraped_at": "2026-07-16T12:57:39.299933"
-  },
-  {
-    "id": "2783583f2b0fd706112d4b28c16a774b",
-    "categorie": "Beursnieuws",
-    "titel": "Minder nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/871340/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-07-16 14:34",
-    "scraped_at": "2026-07-16T12:57:39.299933"
-  },
-  {
-    "id": "71d674e3903058d2b16b868d997ee2d4",
-    "categorie": "Beursnieuws",
-    "titel": "Detailhandelsverkopen VS licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/871341/Detailhandelsverkopen-VS-licht-gestegen.aspx",
-    "intro": "De verkopen in de Amerikaanse detailhandel zijn in juni licht gestegen. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-07-16 14:34",
-    "scraped_at": "2026-07-16T12:57:39.299933"
-  },
-  {
-    "id": "a44f924e32fde2c00e55a3a8244ef5fc",
-    "categorie": "Beursnieuws",
-    "titel": "Meevallend tweede kwartaal voor Manpower",
-    "link": "https://www.beurs.nl/Nieuws/871338/Meevallend-tweede-kwartaal-voor-Manpower.aspx",
-    "intro": "Manpower heeft in het tweede kwartaal de omzet duidelijk zien stijgen, dankzij een sterke vraag in de VS, Latijns-Amerika en verschillende Europese landen, waardoor de winst hoger uitviel dan voorzien. Dit maakte de Amerikaanse uitzender donderdag bekend.",
-    "published_at": "2026-07-16 14:02",
-    "scraped_at": "2026-07-16T12:57:39.299933"
-  },
-  {
-    "id": "47926b23b4dbe89006c36002b71e16fc",
-    "categorie": "Beursnieuws",
-    "titel": "AEX zakt weg",
-    "link": "https://www.beurs.nl/Nieuws/871337/AEX-zakt-weg.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagmiddag lager en zag de openingsverliezen wat oplopen. Rond de klok van twee uur daalde de AEX met 0,6 procent tot 1.091,26 punten.",
-    "published_at": "2026-07-16 13:51",
-    "scraped_at": "2026-07-16T12:57:39.299933"
-  },
-  {
-    "id": "902ee55aaaaa9ddef2c6bbf7054fa765",
-    "categorie": "Beursnieuws",
-    "titel": "Eli Lilly neemt AtaiBeckley over",
-    "link": "https://www.beurs.nl/Nieuws/871334/Eli-Lilly-neemt-AtaiBeckley-over.aspx",
-    "intro": "Eli Lilly heeft een akkoord bereikt over de overname van AtaiBeckley voor een bedrag van circa 2,8 miljard dollar. Dit maakte de Amerikaanse farmaceut donderdag bekend.",
-    "published_at": "2026-07-16 13:30",
-    "scraped_at": "2026-07-16T12:57:39.299933"
-  },
-  {
-    "id": "fed4e23053ad72637d6bd97dfbeb7b5f",
-    "categorie": "Beursnieuws",
-    "titel": "Futures wijzen op licht lagere opening Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/871332/Futures-wijzen-op-licht-lagere-opening-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een licht lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,2 procent in het rood.",
-    "published_at": "2026-07-16 13:06",
-    "scraped_at": "2026-07-16T12:57:39.299933"
-  },
-  {
-    "id": "8cc575275eb56119c7684b897235fe4d",
-    "categorie": "Beursnieuws",
-    "titel": "GE Aerospace overtreft verwachtingen en verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/871331/GE-Aerospace-overtreft-verwachtingen-en-verhoogt-outlook.aspx",
-    "intro": "GE Aerospace heeft in het tweede kwartaal een hoger dan voorziene omzet en winst geboekt en besloot de outlook voor 2026 te verhogen. Dit bleek donderdag uit cijfers van de Amerikaanse fabrikant van vliegtuigmotoren.",
-    "published_at": "2026-07-16 12:53",
-    "scraped_at": "2026-07-16T12:57:39.299933"
-  },
-  {
-    "id": "995f2bc85e17381218d9a62172bc9fe8",
-    "categorie": "Beursnieuws",
-    "titel": "UnitedHealth verhoogt opnieuw de outlook",
-    "link": "https://www.beurs.nl/Nieuws/871329/UnitedHealth-verhoogt-opnieuw-de-outlook.aspx",
-    "intro": "UnitedHealth Group heeft in het tweede kwartaal van dit jaar de winst zien aantrekken en verhoogde opnieuw de outlook voor 2026. Dit bleek donderdag uit de kwartaalcijfers van de Amerikaanse zorgverzekeraar.",
-    "published_at": "2026-07-16 12:17",
-    "scraped_at": "2026-07-16T12:57:39.299933"
+    "scraped_at": "2026-07-16T15:08:30.760553"
   }
 ]
