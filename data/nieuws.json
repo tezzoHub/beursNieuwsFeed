@@ -1,12 +1,84 @@
 [
   {
+    "id": "f924030ae28726fd9f6c9842d00de293",
+    "categorie": "Beursnieuws",
+    "titel": "Europese export stijgt fractioneel",
+    "link": "https://www.beurs.nl/Nieuws/871318/Europese-export-stijgt-fractioneel.aspx",
+    "intro": "De export in de eurozone is in mei fractioneel gestegen. Dit bleek donderdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
+    "published_at": "2026-07-16 11:09",
+    "scraped_at": "2026-07-16T09:32:56.118228"
+  },
+  {
+    "id": "6d3e4326c558d99dca9b88b0a0493bc7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX houdt winst niet vast",
+    "link": "https://www.beurs.nl/Nieuws/871317/Beursupdate-AEX-houdt-winst-niet-vast.aspx",
+    "intro": "De Amsterdamse beurs wist donderdag de openingswinst niet vast te houden. Rond de klok van elf uur daalde de AEX met 0,4 procent tot 1.093,64 punten.",
+    "published_at": "2026-07-16 11:01",
+    "scraped_at": "2026-07-16T09:32:56.118228"
+  },
+  {
+    "id": "750f439b15772593c762fa312e58aa1a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: ING verhoogt koersdoel ASML naar 2.000 euro",
+    "link": "https://www.beurs.nl/Nieuws/871314/Beursblik-ING-verhoogt-koersdoel-ASML-naar-2000-euro.aspx",
+    "intro": "ING heeft donderdag het koersdoel voor ASML verhoogd van 1.700 naar 2.000 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Marc Hesselink.",
+    "published_at": "2026-07-16 10:37",
+    "scraped_at": "2026-07-16T09:32:56.118228"
+  },
+  {
+    "id": "19029e527e187db15818c4736464614b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Kepler Cheuvreux verhoogt koersdoel ASML",
+    "link": "https://www.beurs.nl/Nieuws/871311/Beursblik-KeplerCheuvreuxverhoogt-koersdoel-ASML.aspx",
+    "intro": "Kepler Cheuvreux heeft donderdag het koersdoel voor ASML verhoogd van 1.830 naar 2.300 euro met handhaving van het koopadvies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-07-16 10:20",
+    "scraped_at": "2026-07-16T09:32:56.118228"
+  },
+  {
+    "id": "88f03aa328fbfb6ddf952dacaa0a8b3a",
+    "categorie": "Must read",
+    "titel": "Must read: De markt kijkt met een roze bril naar inflatie",
+    "link": "https://www.iex.nl/artikel/871177/Must-read-De-markt-kijkt-met-een-roze-bril-naar-inflatie.aspx",
+    "intro": "Plus: de energietransitie is niet dood, Warren Buffett waarschuwt, AI-hype nadert wel/niet piek, toezichthouder waarschuwt voor linke pensioenbeleggingen en meer.",
+    "published_at": "2026-07-16 10:10",
+    "scraped_at": "2026-07-16T09:32:56.118228"
+  },
+  {
+    "id": "25010d8e050dd4f3b09c6b77a1c2e34a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Heineken interesse in Belgische Haacht",
+    "link": "https://www.beurs.nl/Nieuws/871310/Beursblik-Heineken-interesse-in-Belgische-Haacht.aspx",
+    "intro": "Heineken behoort volgens geruchten in de markt tot de partijen met interesse in de Belgische Brouwerij Haacht. Dit stelde analist Wim Hoste van KBC Securities donderdag in een rapport.",
+    "published_at": "2026-07-16 09:59",
+    "scraped_at": "2026-07-16T09:32:56.118228"
+  },
+  {
+    "id": "78f56c049d1cad8a693e82321160a197",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht hoger geopend met hulp van ASML",
+    "link": "https://www.beurs.nl/Nieuws/871305/AEX-licht-hoger-geopend-met-hulp-van-ASML.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdag licht hoger, onder aanvoering van ASML. Kort na opening van de beurs, won de AEX 0,1 procent op 1.099,48 punten.",
+    "published_at": "2026-07-16 09:14",
+    "scraped_at": "2026-07-16T09:32:56.118228"
+  },
+  {
+    "id": "408070cb87cf631a58feec8e7a736745",
+    "categorie": "Beursnieuws",
+    "titel": "Update: TSMC eindigt aan bovenkant eigen outlook",
+    "link": "https://www.beurs.nl/Nieuws/871303/Update-TSMC-eindigt-aan-bovenkant-eigen-outlook.aspx",
+    "intro": "TSMC heeft in het tweede kwartaal ruim een derde meer omzet behaald. Dit bleek donderdagochtend uit cijfers van de Taiwanese chipgigant.",
+    "published_at": "2026-07-16 09:07",
+    "scraped_at": "2026-07-16T09:32:56.118228"
+  },
+  {
     "id": "396f977da7efcc77bf236134c05ee900",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Deutsche Bank verhoogt koersdoel ASML",
     "link": "https://www.beurs.nl/Nieuws/871301/Beursblik-Deutsche-Bank-verhoogt-koersdoel-ASML.aspx",
     "intro": "Deutsche Bank heeft donderdag het koersdoel voor ASML verhoogd van 1.800 naar 2.150 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Robert Sanders.",
     "published_at": "2026-07-16 08:59",
-    "scraped_at": "2026-07-16T07:10:22.341733"
+    "scraped_at": "2026-07-16T09:32:56.118228"
   },
   {
     "id": "8cf5316d9179b24537b2e5b66e43083e",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871299/Britse-export-trekt-aan.aspx",
     "intro": "De Britse export is in mei gestegen, net als de import. Dit meldde het Britse statistiekbureau ONS donderdag.",
     "published_at": "2026-07-16 08:51",
-    "scraped_at": "2026-07-16T07:10:22.341733"
-  },
-  {
-    "id": "ad13de951463267d5f2480c62ad20d1a",
-    "categorie": "Beursnieuws",
-    "titel": "Britse industriële productie licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/871297/Britse-industriele-productie-licht-gestegen.aspx",
-    "intro": "De industriële productie in het Verenigd Koninkrijk is in de drie maanden tot en met mei iets opgelopen. Dit bleek donderdag uit cijfers van het Britse officiële statistiekbureau.",
-    "published_at": "2026-07-16 08:44",
-    "scraped_at": "2026-07-16T07:10:22.341733"
-  },
-  {
-    "id": "1f06dd460349ce0eaad438c4eed2ad89",
-    "categorie": "Opinie",
-    "titel": "De energietransitie is zeker niet dood",
-    "link": "https://www.ieximpact.nl/artikel/871151/De-energietransitie-is-zeker-niet-dood.aspx",
-    "intro": "Volgens Legal & General zitten veel beleggers vast in twee misvattingen over de energietransitie: dat de transitie is stilgevallen en dat onzekerheid langetermijnanalyse zinloos maakt. Deze misvattingen kunnen volgens L&G leiden tot verkeerde keuzes, dus rendementsverlies.",
-    "published_at": "2026-07-16 08:40",
-    "scraped_at": "2026-07-16T07:10:22.341733"
-  },
-  {
-    "id": "9527772146fa52bfd56ca38f8aad6937",
-    "categorie": "Beursnieuws",
-    "titel": "Acomo rondt overname Citromil af",
-    "link": "https://www.beurs.nl/Nieuws/871295/Acomo-rondt-overname-Citromil-af.aspx",
-    "intro": "Acomo heeft de overname van het Spaanse Citromil afgerond. Dit maakte Acomo, dat aan Euronext Amsterdam is genoteerd, donderdag voorbeurs bekend.",
-    "published_at": "2026-07-16 08:32",
-    "scraped_at": "2026-07-16T07:10:22.341733"
-  },
-  {
-    "id": "10dd827efd2251fd091aa32a3e88853d",
-    "categorie": "Beursnieuws",
-    "titel": "Alfen sluit nieuwe samenwerking met CATL",
-    "link": "https://www.beurs.nl/Nieuws/871294/Alfen-sluit-nieuwe-samenwerking-met-CATL.aspx",
-    "intro": "Alfen heeft een nieuwe samenwerking gesloten met CATL voor de uitrol van 5 GWh aan geavanceerde sodium-ion batterij-energieopslagsystemen in heel Europa. Dit maakte Alfen donderdagochtend bekend zonder financiële details te geven.",
-    "published_at": "2026-07-16 08:26",
-    "scraped_at": "2026-07-16T07:10:22.341733"
-  },
-  {
-    "id": "58a5a11e85694a730b0d99ba79136d91",
-    "categorie": "Beursnieuws",
-    "titel": "Uber doet bod op Delivery Hero",
-    "link": "https://www.beurs.nl/Nieuws/871291/Uber-doet-bod-op-Delivery-Hero.aspx",
-    "intro": "Uber heeft een bod uitgebracht op Delivery Hero van 41,50 euro per aandeel, goed voor een totale waardering van de Duitse maaltijdbezorger van 14,8 miljard dollar. Dit maakte Uber donderdagochtend bekend.",
-    "published_at": "2026-07-16 08:16",
-    "scraped_at": "2026-07-16T07:10:22.341733"
-  },
-  {
-    "id": "d3975beed63c5aac7e5fe04da461886d",
-    "categorie": "Beursnieuws",
-    "titel": "Serie koersdoelverhogingen voor ASML",
-    "link": "https://www.beurs.nl/Nieuws/871290/Serie-koersdoelverhogingen-voor-ASML.aspx",
-    "intro": "Verschillende analisten hebben donderdag hun koersdoel voor ASML verhoogd, nadat de halfgeleiderspecialist uit Veldhoven woensdag met de cijfers over het tweede kwartaal kwam en toen opnieuw de outlook voor 2026 verhoogde.",
-    "published_at": "2026-07-16 08:14",
-    "scraped_at": "2026-07-16T07:10:22.341733"
-  },
-  {
-    "id": "f3374ca83b58a9f41d66bbcc6e7d460a",
-    "categorie": "Beursnieuws",
-    "titel": "Licht hogere opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/871288/Licht-hogere-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat donderdag een licht hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,4 procent in het groen. Woensdag eindigde de hoofdgraadmeter al 0,7 procent hoger op 1.097,90 punten.",
-    "published_at": "2026-07-16 08:02",
-    "scraped_at": "2026-07-16T07:10:22.341733"
-  },
-  {
-    "id": "7fd5c33ba01d48a7a39e188dcad3e4f3",
-    "categorie": "Beursnieuws",
-    "titel": "TSMC eindigt aan bovenkant eigen outlook",
-    "link": "https://www.beurs.nl/Nieuws/871286/TSMC-eindigt-aan-bovenkant-eigen-outlook.aspx",
-    "intro": "TSMC heeft in het tweede kwartaal ruim een derde meer omzet behaald. Dit bleek donderdagochtend uit cijfers van de Taiwanese chipgigant.",
-    "published_at": "2026-07-16 07:49",
-    "scraped_at": "2026-07-16T07:10:22.341733"
+    "scraped_at": "2026-07-16T09:32:56.118228"
   }
 ]
