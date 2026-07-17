@@ -1,12 +1,75 @@
 [
   {
+    "id": "7371d5aa38b48c4802163af86ef689e5",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen VS flink gestegen",
+    "link": "https://www.beurs.nl/Nieuws/871515/Consumentenvertrouwen-VS-flink-gestegen.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in juli flink gestegen. Dit bleek vrijdag uit de voorlopige cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-07-17 16:07",
+    "scraped_at": "2026-07-17T14:19:39.109483"
+  },
+  {
+    "id": "dc41e289b938190bc1fc39c3f0679b4e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/871508/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 27 juli 2026:",
+    "published_at": "2026-07-17 15:50",
+    "scraped_at": "2026-07-17T14:19:39.109483"
+  },
+  {
+    "id": "17083a2e3c3a881ae6bcd9455aa79f08",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/871509/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 27 juli 2026:",
+    "published_at": "2026-07-17 15:50",
+    "scraped_at": "2026-07-17T14:19:39.109483"
+  },
+  {
+    "id": "19fafc2cee9b3890bec15a39fb6b0712",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/871510/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 27 juli 2026:",
+    "published_at": "2026-07-17 15:49",
+    "scraped_at": "2026-07-17T14:19:39.109483"
+  },
+  {
+    "id": "9826f4f0d1ae4a785e8d19289b9f120a",
+    "categorie": "Beursnieuws",
+    "titel": "Industriële productie VS licht gegroeid",
+    "link": "https://www.beurs.nl/Nieuws/871505/Industriele-productie-VS-licht-gegroeid.aspx",
+    "intro": "De industriële productie in de Verenigde Staten is in juni gegroeid, maar opnieuw bescheiden. Dit bleek vrijdag uit cijfers van de Federal Reserve.",
+    "published_at": "2026-07-17 15:17",
+    "scraped_at": "2026-07-17T14:19:39.109483"
+  },
+  {
+    "id": "2fb327ac313468ecfb4a65db0336a5d0",
+    "categorie": "Beursnieuws",
+    "titel": "Stevig openingsverlies voor Nasdaq dreigt",
+    "link": "https://www.beurs.nl/Nieuws/871499/Stevig-openingsverlies-voor-Nasdaq-dreigt.aspx",
+    "intro": "De Amerikaanse aandelenmarkten gaan vrijdag met een flink verlies van start.",
+    "published_at": "2026-07-17 14:59",
+    "scraped_at": "2026-07-17T14:19:39.109483"
+  },
+  {
+    "id": "6c3cb0d641837473a54de9e53e52972d",
+    "categorie": "Beursnieuws",
+    "titel": "Fors meer woningen in aanbouw genomen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/871498/Fors-meer-woningen-in-aanbouw-genomen-in-de-VS.aspx",
+    "intro": "Het aantal in aanbouw genomen woningen in de VS is in juni fors gestegen, terwijl het aantal afgegeven bouwvergunningen juist daalde. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-07-17 14:38",
+    "scraped_at": "2026-07-17T14:19:39.109483"
+  },
+  {
     "id": "fe6d8bcf30c1284f83c2ae95476454b8",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse importprijzen nog maar licht gestegen",
     "link": "https://www.beurs.nl/Nieuws/871496/Amerikaanse-importprijzen-nog-maar-licht-gestegen.aspx",
     "intro": "De Amerikaanse importprijzen zijn in juni gestegen, maar veel minder sterk dan in mei. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-07-17 14:34",
-    "scraped_at": "2026-07-17T12:38:30.847981"
+    "scraped_at": "2026-07-17T14:19:39.109483"
   },
   {
     "id": "3183c20efc1f123fb7809342e5cf43b0",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871491/Shell-en-KPN-voorkomen-verlies-AEX-niet.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdagmiddag in het rood, door stevige verliezen voor de halfgeleideraandelen.",
     "published_at": "2026-07-17 13:49",
-    "scraped_at": "2026-07-17T12:38:30.847981"
+    "scraped_at": "2026-07-17T14:19:39.109483"
   },
   {
     "id": "bc48764f5ffabd6e410cbcee7e597975",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871486/Berlijn-wil-misschien-toch-praten-over-overname-Commerzbank.aspx",
     "intro": "De Duitse regering legt de laatste hand aan de belangrijkste voorwaarden voor eventuele gesprekken met UniCredit over de overname van Commerzbank. Dit meldde Bloomberg vrijdag op basis van bronnen.",
     "published_at": "2026-07-17 13:10",
-    "scraped_at": "2026-07-17T12:38:30.847981"
-  },
-  {
-    "id": "fc6c9a3bfabfb9b3bb6a86866e447d8a",
-    "categorie": "Beursnieuws",
-    "titel": "Rode start op Wall Street dreigt",
-    "link": "https://www.beurs.nl/Nieuws/871484/Rode-start-op-Wall-Street-dreigt.aspx",
-    "intro": "De Amerikaanse aandelenmarkten zullen vrijdag met verlies van start gaan.",
-    "published_at": "2026-07-17 12:55",
-    "scraped_at": "2026-07-17T12:38:30.847981"
-  },
-  {
-    "id": "1f7d11813481724407f6e9c3c58ad2bb",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen in het rood",
-    "link": "https://www.beurs.nl/Nieuws/871477/Europese-beurzen-in-het-rood.aspx",
-    "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd over de brede linie lager.",
-    "published_at": "2026-07-17 11:50",
-    "scraped_at": "2026-07-17T12:38:30.847981"
-  },
-  {
-    "id": "60e9b1bd019469b5c4191066f7cc5fd6",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone omlaag",
-    "link": "https://www.beurs.nl/Nieuws/871465/Inflatie-eurozone-omlaag.aspx",
-    "intro": "De inflatie in de eurozone is in juni gedaald. Dit bleek vrijdag uit definitieve cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-07-17 11:02",
-    "scraped_at": "2026-07-17T12:38:30.847981"
-  },
-  {
-    "id": "24b9d87b764d523c3260702e437a1ce8",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders zetten AEX lager",
-    "link": "https://www.beurs.nl/Nieuws/871462/Halfgeleiders-zetten-AEX-lager.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdagochtend lager, met verliezen voor zwaargewichten als ASML en ASMI. Rond de klok van half elf verloor de AEX 1,0 procent op 1.091,67 punten.",
-    "published_at": "2026-07-17 10:35",
-    "scraped_at": "2026-07-17T12:38:30.847981"
-  },
-  {
-    "id": "4f5c73519ac13827067fea0317ddbcda",
-    "categorie": "Beursnieuws",
-    "titel": "UBS: \"Nieuwe outlookverhoging ABN AMRO waarschijnlijk\"",
-    "link": "https://www.beurs.nl/Nieuws/871457/UBS-Nieuwe-outlookverhoging-ABN-AMRO-waarschijnlijk.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor ABN AMRO verhoogd van 42,00 naar 43,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Johan Ekblom.",
-    "published_at": "2026-07-17 10:22",
-    "scraped_at": "2026-07-17T12:38:30.847981"
-  },
-  {
-    "id": "fe82c514b0a2fede6bb62fbd1a21f0a7",
-    "categorie": "Must read",
-    "titel": "Must read: halfgeleiders zijn een koopje",
-    "link": "https://www.iex.nl/artikel/871324/Must-read-halfgeleiders-zijn-een-koopje.aspx",
-    "intro": "Beleggen in de toekomst is goedkoop, wat gaat de ECB volgende week doen, Buffett schenkt niks meer aan de Gates Foundation en Zuid-Koreanen moesten massaal bijstorten.",
-    "published_at": "2026-07-17 10:15",
-    "scraped_at": "2026-07-17T12:38:30.847981"
-  },
-  {
-    "id": "9bb749bacb568a5f89553ab30755d551",
-    "categorie": "Beursnieuws",
-    "titel": "EQT boekt meer winst",
-    "link": "https://www.beurs.nl/Nieuws/871452/EQT-boekt-meer-winst.aspx",
-    "intro": "EQT verwacht een sterk momentum in de tweede jaarhelft, nadat het de omzet en de winst in de eerste jaarhelft zag aantrekken. Dit bleek vrijdag uit cijfers van de Zweedse private equityfirma.",
-    "published_at": "2026-07-17 09:32",
-    "scraped_at": "2026-07-17T12:38:30.847981"
+    "scraped_at": "2026-07-17T14:19:39.109483"
   }
 ]
