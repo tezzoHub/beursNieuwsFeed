@@ -1,12 +1,39 @@
 [
   {
+    "id": "fe6d8bcf30c1284f83c2ae95476454b8",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse importprijzen nog maar licht gestegen",
+    "link": "https://www.beurs.nl/Nieuws/871496/Amerikaanse-importprijzen-nog-maar-licht-gestegen.aspx",
+    "intro": "De Amerikaanse importprijzen zijn in juni gestegen, maar veel minder sterk dan in mei. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-07-17 14:34",
+    "scraped_at": "2026-07-17T12:38:30.847981"
+  },
+  {
+    "id": "3183c20efc1f123fb7809342e5cf43b0",
+    "categorie": "Beursnieuws",
+    "titel": "Shell en KPN voorkomen verlies AEX niet",
+    "link": "https://www.beurs.nl/Nieuws/871491/Shell-en-KPN-voorkomen-verlies-AEX-niet.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag in het rood, door stevige verliezen voor de halfgeleideraandelen.",
+    "published_at": "2026-07-17 13:49",
+    "scraped_at": "2026-07-17T12:38:30.847981"
+  },
+  {
+    "id": "bc48764f5ffabd6e410cbcee7e597975",
+    "categorie": "Beursnieuws",
+    "titel": "\"Berlijn wil misschien toch praten over overname Commerzbank\"",
+    "link": "https://www.beurs.nl/Nieuws/871486/Berlijn-wil-misschien-toch-praten-over-overname-Commerzbank.aspx",
+    "intro": "De Duitse regering legt de laatste hand aan de belangrijkste voorwaarden voor eventuele gesprekken met UniCredit over de overname van Commerzbank. Dit meldde Bloomberg vrijdag op basis van bronnen.",
+    "published_at": "2026-07-17 13:10",
+    "scraped_at": "2026-07-17T12:38:30.847981"
+  },
+  {
     "id": "fc6c9a3bfabfb9b3bb6a86866e447d8a",
     "categorie": "Beursnieuws",
     "titel": "Rode start op Wall Street dreigt",
     "link": "https://www.beurs.nl/Nieuws/871484/Rode-start-op-Wall-Street-dreigt.aspx",
     "intro": "De Amerikaanse aandelenmarkten zullen vrijdag met verlies van start gaan.",
     "published_at": "2026-07-17 12:55",
-    "scraped_at": "2026-07-17T11:05:13.309154"
+    "scraped_at": "2026-07-17T12:38:30.847981"
   },
   {
     "id": "1f7d11813481724407f6e9c3c58ad2bb",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/871477/Europese-beurzen-in-het-rood.aspx",
     "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd over de brede linie lager.",
     "published_at": "2026-07-17 11:50",
-    "scraped_at": "2026-07-17T11:05:13.309154"
+    "scraped_at": "2026-07-17T12:38:30.847981"
   },
   {
     "id": "60e9b1bd019469b5c4191066f7cc5fd6",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871465/Inflatie-eurozone-omlaag.aspx",
     "intro": "De inflatie in de eurozone is in juni gedaald. Dit bleek vrijdag uit definitieve cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-07-17 11:02",
-    "scraped_at": "2026-07-17T11:05:13.309154"
+    "scraped_at": "2026-07-17T12:38:30.847981"
   },
   {
     "id": "24b9d87b764d523c3260702e437a1ce8",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871462/Halfgeleiders-zetten-AEX-lager.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagochtend lager, met verliezen voor zwaargewichten als ASML en ASMI. Rond de klok van half elf verloor de AEX 1,0 procent op 1.091,67 punten.",
     "published_at": "2026-07-17 10:35",
-    "scraped_at": "2026-07-17T11:05:13.309154"
+    "scraped_at": "2026-07-17T12:38:30.847981"
   },
   {
     "id": "4f5c73519ac13827067fea0317ddbcda",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871457/UBS-Nieuwe-outlookverhoging-ABN-AMRO-waarschijnlijk.aspx",
     "intro": "UBS heeft vrijdag het koersdoel voor ABN AMRO verhoogd van 42,00 naar 43,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Johan Ekblom.",
     "published_at": "2026-07-17 10:22",
-    "scraped_at": "2026-07-17T11:05:13.309154"
+    "scraped_at": "2026-07-17T12:38:30.847981"
   },
   {
     "id": "fe82c514b0a2fede6bb62fbd1a21f0a7",
@@ -51,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/871324/Must-read-halfgeleiders-zijn-een-koopje.aspx",
     "intro": "Beleggen in de toekomst is goedkoop, wat gaat de ECB volgende week doen, Buffett schenkt niks meer aan de Gates Foundation en Zuid-Koreanen moesten massaal bijstorten.",
     "published_at": "2026-07-17 10:15",
-    "scraped_at": "2026-07-17T11:05:13.309154"
+    "scraped_at": "2026-07-17T12:38:30.847981"
   },
   {
     "id": "9bb749bacb568a5f89553ab30755d551",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871452/EQT-boekt-meer-winst.aspx",
     "intro": "EQT verwacht een sterk momentum in de tweede jaarhelft, nadat het de omzet en de winst in de eerste jaarhelft zag aantrekken. Dit bleek vrijdag uit cijfers van de Zweedse private equityfirma.",
     "published_at": "2026-07-17 09:32",
-    "scraped_at": "2026-07-17T11:05:13.309154"
-  },
-  {
-    "id": "7dc9ed62a015bf900743d4a9819286c3",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders drukken AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/871446/Halfgeleiders-drukken-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag lager geopend, vooral door verliezen bij halfgeleiders. Kort na opening van de beurs, koerste de AEX 0,8 procent lager op 1.093,41 punten.",
-    "published_at": "2026-07-17 09:16",
-    "scraped_at": "2026-07-17T11:05:13.309154"
-  },
-  {
-    "id": "c54edfecf4bb5ee463c6f1ea5823eab6",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verlaagt koersdoel CSG",
-    "link": "https://www.beurs.nl/Nieuws/871444/Deutsche-Bank-verlaagt-koersdoel-CSG.aspx",
-    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor CSG verlaagd van 30,00 naar 25,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een rapport van de Duitse bank.",
-    "published_at": "2026-07-17 09:09",
-    "scraped_at": "2026-07-17T11:05:13.309154"
-  },
-  {
-    "id": "2f96cd9bb5db381ced8756a34874e93b",
-    "categorie": "Opinie",
-    "titel": "Impactmeting: van terugkijken naar bijsturen",
-    "link": "https://www.ieximpact.nl/artikel/870693/Impactmeting-van-terugkijken-naar-bijsturen.aspx",
-    "intro": "Impactmeting draait allang niet meer alleen om het afleggen van verantwoording. Steeds vaker gebruiken beleggers impactdata om keuzes te maken bij selectie, due diligence en bij het vormgeven en aanpassen van portefeuilles. Dat vertellen vier impactspecialisten tijdens een recent rondetafelgesprek van IEX Impact.",
-    "published_at": "2026-07-17 09:00",
-    "scraped_at": "2026-07-17T11:05:13.309154"
+    "scraped_at": "2026-07-17T12:38:30.847981"
   }
 ]
