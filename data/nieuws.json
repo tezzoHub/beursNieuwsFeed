@@ -1,12 +1,84 @@
 [
   {
+    "id": "60e9b1bd019469b5c4191066f7cc5fd6",
+    "categorie": "Beursnieuws",
+    "titel": "Inflatie eurozone omlaag",
+    "link": "https://www.beurs.nl/Nieuws/871465/Inflatie-eurozone-omlaag.aspx",
+    "intro": "De inflatie in de eurozone is in juni gedaald. Dit bleek vrijdag uit definitieve cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-07-17 11:02",
+    "scraped_at": "2026-07-17T09:24:17.563223"
+  },
+  {
+    "id": "4394b70f1962c6ec5e92b5c98ffe37cc",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: halfgeleiders drukken AEX lager",
+    "link": "https://www.beurs.nl/Nieuws/871462/Beursupdate-halfgeleiders-drukken-AEX-lager.aspx",
+    "intro": "De Amsterdamse beurs koerste vrijdagochtend lager, met verliezen voor zwaargewichten als ASML en ASMI. Rond de klok van half elf verloor de AEX 1,0 procent op 1.091,67 punten.",
+    "published_at": "2026-07-17 10:35",
+    "scraped_at": "2026-07-17T09:24:17.563223"
+  },
+  {
+    "id": "09d734ec23f8ad3c45d08c5b7dc6b002",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: nieuwe outlookverhoging ABN AMRO waarschijnlijk.",
+    "link": "https://www.beurs.nl/Nieuws/871457/Beursblik-nieuwe-outlookverhoging-ABN-AMRO-waarschijnlijk.aspx",
+    "intro": "UBS heeft vrijdag het koersdoel voor ABN AMRO verhoogd van 42,00 naar 43,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Johan Ekblom.",
+    "published_at": "2026-07-17 10:22",
+    "scraped_at": "2026-07-17T09:24:17.563223"
+  },
+  {
+    "id": "fe82c514b0a2fede6bb62fbd1a21f0a7",
+    "categorie": "Must read",
+    "titel": "Must read: halfgeleiders zijn een koopje",
+    "link": "https://www.iex.nl/artikel/871324/Must-read-halfgeleiders-zijn-een-koopje.aspx",
+    "intro": "Beleggen in de toekomst is goedkoop, wat gaat de ECB volgende week doen, Buffett schenkt niks meer aan de Gates Foundation en Zuid-Koreanen moesten massaal bijstorten.",
+    "published_at": "2026-07-17 10:15",
+    "scraped_at": "2026-07-17T09:24:17.563223"
+  },
+  {
+    "id": "9bb749bacb568a5f89553ab30755d551",
+    "categorie": "Beursnieuws",
+    "titel": "EQT boekt meer winst",
+    "link": "https://www.beurs.nl/Nieuws/871452/EQT-boekt-meer-winst.aspx",
+    "intro": "EQT verwacht een sterk momentum in de tweede jaarhelft, nadat het de omzet en de winst in de eerste jaarhelft zag aantrekken. Dit bleek vrijdag uit cijfers van de Zweedse private equityfirma.",
+    "published_at": "2026-07-17 09:32",
+    "scraped_at": "2026-07-17T09:24:17.563223"
+  },
+  {
+    "id": "7dc9ed62a015bf900743d4a9819286c3",
+    "categorie": "Beursnieuws",
+    "titel": "Halfgeleiders drukken AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/871446/Halfgeleiders-drukken-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag lager geopend, vooral door verliezen bij halfgeleiders. Kort na opening van de beurs, koerste de AEX 0,8 procent lager op 1.093,41 punten.",
+    "published_at": "2026-07-17 09:16",
+    "scraped_at": "2026-07-17T09:24:17.563223"
+  },
+  {
+    "id": "c54edfecf4bb5ee463c6f1ea5823eab6",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verlaagt koersdoel CSG",
+    "link": "https://www.beurs.nl/Nieuws/871444/Deutsche-Bank-verlaagt-koersdoel-CSG.aspx",
+    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor CSG verlaagd van 30,00 naar 25,00 euro, maar met handhaving van het koopadvies. Dit bleek uit een rapport van de Duitse bank.",
+    "published_at": "2026-07-17 09:09",
+    "scraped_at": "2026-07-17T09:24:17.563223"
+  },
+  {
+    "id": "2f96cd9bb5db381ced8756a34874e93b",
+    "categorie": "Opinie",
+    "titel": "Impactmeting: van terugkijken naar bijsturen",
+    "link": "https://www.ieximpact.nl/artikel/870693/Impactmeting-van-terugkijken-naar-bijsturen.aspx",
+    "intro": "Impactmeting draait allang niet meer alleen om het afleggen van verantwoording. Steeds vaker gebruiken beleggers impactdata om keuzes te maken bij selectie, due diligence en bij het vormgeven en aanpassen van portefeuilles. Dat vertellen vier impactspecialisten tijdens een recent rondetafelgesprek van IEX Impact.",
+    "published_at": "2026-07-17 09:00",
+    "scraped_at": "2026-07-17T09:24:17.563223"
+  },
+  {
     "id": "2d7e6184f957d668e60f750d78cc2cc3",
     "categorie": "Nieuws",
     "titel": "Investeerders gezocht voor verduurzaming en vernieuwing vastgoed",
     "link": "https://www.ieximpact.nl/artikel/871438/Investeerders-gezocht-voor-verduurzaming-en-vernieuwing-vastgoed.aspx",
     "intro": "Tal van kansrijke vastgoedprojecten in Nederland kunnen niet worden gefinancierd. Particuliere beleggers pakken alleen kleine projecten op, institutionele beleggers mikken alleen op de grootste investeringsdeals. “Hierdoor is in het segment ertussen een financieringsgat ontstaan dat de verduurzaming, (her-)ontwikkeling en vernieuwing van Nederlands vastgoed afremt”, aldus Dirkjan Takke, directeur van NLInvesteert.",
     "published_at": "2026-07-17 08:57",
-    "scraped_at": "2026-07-17T07:04:58.708788"
+    "scraped_at": "2026-07-17T09:24:17.563223"
   },
   {
     "id": "841ba3d4bdfed615ea870bae17ce294d",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871441/Deutsche-Bank-verhoogt-koersdoel-ABN-Amro.aspx",
     "intro": "Deutsche Bank heeft vrijdag het koersdoel voor ABN Amro verhoogd van 31,00 naar 34,00 euro met een onveranderd Houden-advies. Dit bleek uit een rapport van Benjamin Goy.",
     "published_at": "2026-07-17 08:47",
-    "scraped_at": "2026-07-17T07:04:58.708788"
-  },
-  {
-    "id": "9aff372c9343c6253f55f98418b9b1f6",
-    "categorie": "Beursnieuws",
-    "titel": "Correctie: Aziatische beurzen onderuit",
-    "link": "https://www.beurs.nl/Nieuws/871424/Correctie-Aziatische-beurzen-onderuit.aspx",
-    "intro": "De Aziatische aandelenmarkten stonden vrijdag flink onder druk.",
-    "published_at": "2026-07-17 08:33",
-    "scraped_at": "2026-07-17T07:04:58.708788"
-  },
-  {
-    "id": "0d395b6d6907fcaed522781269cc9de5",
-    "categorie": "Beursnieuws",
-    "titel": "Omzetgroei voor Burberry",
-    "link": "https://www.beurs.nl/Nieuws/871437/Omzetgroei-voor-Burberry.aspx",
-    "intro": "Burberry heeft in het afgelopen kwartaal de omzet zien aantrekken. Dit bleek vrijdag uit kwartaalcijfers van de Britse retailer.",
-    "published_at": "2026-07-17 08:28",
-    "scraped_at": "2026-07-17T07:04:58.708788"
-  },
-  {
-    "id": "0a882d1872b6bed3eb1595c97d48438e",
-    "categorie": "Beursnieuws",
-    "titel": "Groei voor betaalbedrijf Wise",
-    "link": "https://www.beurs.nl/Nieuws/871436/Groei-voor-betaalbedrijf-Wise.aspx",
-    "intro": "Wise heeft in het eerste kwartaal het aantal gebruikers en de betaalvolumes met dubbele cijfers zien stijgen. Dit bleek uit cijfers van het Britse betaalbedrijf.",
-    "published_at": "2026-07-17 08:23",
-    "scraped_at": "2026-07-17T07:04:58.708788"
-  },
-  {
-    "id": "0edd5c83fddac510734662b293892e0e",
-    "categorie": "Beursnieuws",
-    "titel": "Lagere opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/871431/Lagere-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat vrijdag een lagere opening tegemoet, met verliezen voor de halfgeleiders. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,9 procent in het rood. Donderdag eindigde de hoofdgraadmeter nog 0,4 procent hoger op 1.102,38 punten.",
-    "published_at": "2026-07-17 08:03",
-    "scraped_at": "2026-07-17T07:04:58.708788"
-  },
-  {
-    "id": "0b2214ee549ba1bca170bc06326089fd",
-    "categorie": "Beursnieuws",
-    "titel": "Citi verhoogt koersdoel ASML",
-    "link": "https://www.beurs.nl/Nieuws/871429/Citi-verhoogt-koersdoel-ASML.aspx",
-    "intro": "Citi Research heeft vrijdag het koersdoel voor ASML verhoogd van 1.675 naar 2.200 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Andrew Gardiner.",
-    "published_at": "2026-07-17 07:49",
-    "scraped_at": "2026-07-17T07:04:58.708788"
-  },
-  {
-    "id": "bdde93af8b988b5edd3caa4968915bc8",
-    "categorie": "Beursnieuws",
-    "titel": "Berenberg: terugkerende omzet stuwt marges Nedap",
-    "link": "https://www.beurs.nl/Nieuws/871426/Berenberg-terugkerende-omzet-stuwt-marges-Nedap.aspx",
-    "intro": "De aanhoudende groei van de terugkerende omzet bij Nedap ondersteunt de marges en zorgde in het eerste halfjaar bovendien voor een operationele hefboom. Dit stelde analist Trion Reid van Berenberg vrijdag in een rapport.",
-    "published_at": "2026-07-17 07:30",
-    "scraped_at": "2026-07-17T07:04:58.708788"
-  },
-  {
-    "id": "55d76c289bbe9201a964f5b8a05fdfec",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen waarschijnlijk in het rood",
-    "link": "https://www.beurs.nl/Nieuws/871418/Europese-beurzen-openen-waarschijnlijk-in-het-rood.aspx",
-    "intro": "De aandelenmarkten in Europa gaan vrijdag een rode opening tegemoet, na een lager slot op Wall Street. In Azië staan de beurzen vanochtend stevig onder druk, waarbij vooral techaandelen het zwaar hebben.",
-    "published_at": "2026-07-17 06:59",
-    "scraped_at": "2026-07-17T07:04:58.708788"
-  },
-  {
-    "id": "dfb7d59a6a5b400ce6844381e12dea59",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/871414/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 24 juli 2026:",
-    "published_at": "2026-07-17 06:50",
-    "scraped_at": "2026-07-17T07:04:58.708788"
+    "scraped_at": "2026-07-17T09:24:17.563223"
   }
 ]
