@@ -1,92 +1,11 @@
 [
   {
-    "id": "2a3542a543f737d0532511e021ba512f",
+    "id": "fa37989eb45054e879db9b59a7602e97",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/871549/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-07-17 22:19",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "cdfc2682372f4413183d1c62c617d1a6",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit negatieve week lager af",
-    "link": "https://www.beurs.nl/Nieuws/871548/Wall-Street-sluit-negatieve-week-lager-af.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag lager gesloten en sluiten daarmee de week negatief af die vooral in het teken stond van de volatiliteit bij chipaandelen en de hernieuwde spanningen in het Midden-Oosten.",
-    "published_at": "2026-07-17 22:14",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "b6f5617b8b3fe530968de9a3223f5056",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen flink hoger het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/871531/Olieprijzen-flink-hoger-het-weekend-in.aspx",
-    "intro": "De olieprijzen zijn vrijdag verder gestegen, mede doordat Koeweit verklaarde dat Iran een elektriciteits- en ontziltingscentrale had aangevallen, terwijl de gevechten in de Perzische Golf escaleerden.",
-    "published_at": "2026-07-17 21:00",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "283966909434ff52ac2d1f3a62edc94b",
-    "categorie": "Beursnieuws",
-    "titel": "Chipaandelen proberen wat te herstellen op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/871530/Chipaandelen-proberen-wat-te-herstellen-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen kleurden vrijdag rood, terwijl halfgeleideraandelen na de initiële verliezen wat trachten te herstellen en de oplopende spanningen tussen de VS en Iran op het sentiment drukten.",
-    "published_at": "2026-07-17 19:46",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "d6ae1df9df92b65aac594d88241e7dfd",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Anthropic praat met Meta over rekenkracht",
-    "link": "https://www.beurs.nl/Nieuws/871529/Media-Anthropic-praat-met-Meta-over-rekenkracht.aspx",
-    "intro": "AI-bedrijf Anthropic voert eerste gesprekken met Meta Platforms over het huren van rekenkracht. Dit meldde de Amerikaanse nieuwszender CNBC vrijdag op basis van een ingewijde.",
-    "published_at": "2026-07-17 18:59",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "4452b5e6f5af50f09db38880433c4ad5",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen overwegend lager gesloten",
-    "link": "https://www.beurs.nl/Nieuws/871528/Europese-beurzen-overwegend-lager-gesloten.aspx",
-    "intro": "De Europese beurzen zijn vrijdag lager gesloten, nu chipaandelen opnieuw onder druk stonden en de oplopende spanningen tussen de VS en Iran ook op het sentiment drukten.",
-    "published_at": "2026-07-17 18:42",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "e462d1e5b15254a02d5feb9eaa785c4c",
-    "categorie": "Beursnieuws",
-    "titel": "Salzgitter verhoogt outlook na sterk halfjaar",
-    "link": "https://www.beurs.nl/Nieuws/871527/Salzgitter-verhoogt-outlook-na-sterk-halfjaar.aspx",
-    "intro": "Salzgitter heeft de verwachtingen voor heel 2026 verhoogd, na een sterk eerste halfjaar waarin vooral de staal- en handelsdivisies en de technologietak beter presteerden. Dit meldde de Duitse staalproducent vrijdag nabeurs in een persbericht.",
-    "published_at": "2026-07-17 18:29",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "a2970a722226cf7a2f4ade6858579b03",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers drukken AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/871522/Chippers-drukken-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag lager gesloten, door stevige verliezen voor de 'chippers'.",
-    "published_at": "2026-07-17 17:52",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "7371d5aa38b48c4802163af86ef689e5",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen VS flink gestegen",
-    "link": "https://www.beurs.nl/Nieuws/871515/Consumentenvertrouwen-VS-flink-gestegen.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in juli flink gestegen. Dit bleek vrijdag uit de voorlopige cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-07-17 16:07",
-    "scraped_at": "2026-07-18T05:39:13.690653"
-  },
-  {
-    "id": "dc41e289b938190bc1fc39c3f0679b4e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/871508/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 27 juli 2026:",
-    "published_at": "2026-07-17 15:50",
-    "scraped_at": "2026-07-18T05:39:13.690653"
+    "titel": "AEX voor het eerst boven 1.100 punten",
+    "link": "https://www.beurs.nl/Nieuws/871552/AEX-voor-het-eerst-boven-1100-punten.aspx",
+    "intro": "De Amsterdamse beurs wist afgelopen week voor het eerst boven de 1.100 punten te stijgen, onder meer dankzij sterke cijfers en een outlookverhoging van ASML.",
+    "published_at": "2026-07-18 09:11",
+    "scraped_at": "2026-07-18T07:19:51.724152"
   }
 ]
