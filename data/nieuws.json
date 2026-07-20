@@ -1,12 +1,39 @@
 [
   {
+    "id": "944c726a69ea893046e31c436c8b9dfc",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse aandelenmarkten openen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/871659/Amerikaanse-aandelenmarkten-openen-in-het-groen.aspx",
+    "intro": "Wall Street gaat maandag de handelsdag met winst beginnen, terwijl beleggers de oorlogshandelingen in het Midden-Oosten in de gaten houden.",
+    "published_at": "2026-07-20 14:43",
+    "scraped_at": "2026-07-20T13:21:37.844243"
+  },
+  {
+    "id": "9377d59f8f69292ec34459b80e1af193",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: Prosus en Mittal trekken AEX in het groen",
+    "link": "https://www.beurs.nl/Nieuws/871653/Beursupdate-Prosus-en-Mittal-trekken-AEX-in-het-groen.aspx",
+    "intro": "De AEX noteerde maandagmiddag in het groen, met een winst van 0,4 procent op 1.096 punten.",
+    "published_at": "2026-07-20 14:03",
+    "scraped_at": "2026-07-20T13:21:37.844243"
+  },
+  {
+    "id": "5edf635bd545a7865cc67539c188d499",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine omzetdaling bij KPN verwacht",
+    "link": "https://www.beurs.nl/Nieuws/871652/Kleine-omzetdaling-bij-KPN-verwacht.aspx",
+    "intro": "KPN heeft in het tweede kwartaal naar verwachting een lagere omzet geboekt, met een daling van de aangepaste EBITDA tot gevolg. Dit bleek uit een analistenconsensus die het telecombedrijf op zijn website plaatste.",
+    "published_at": "2026-07-20 13:45",
+    "scraped_at": "2026-07-20T13:21:37.844243"
+  },
+  {
     "id": "bb7fbe41a5ecbd110b045002f6f4a927",
     "categorie": "Beursnieuws",
     "titel": "BP verkoopt groot deel activiteiten in Oostenrijk",
     "link": "https://www.beurs.nl/Nieuws/871647/BP-verkoopt-groot-deel-activiteiten-in-Oostenrijk.aspx",
     "intro": "BP heeft een overeenkomst bereikt om de activiteiten op het gebied van mobiliteit, gemakswinkels en het laden van elektrische voertuigen in Oostenrijk te verkopen aan Volenergy AG.",
     "published_at": "2026-07-20 13:04",
-    "scraped_at": "2026-07-20T11:17:49.769404"
+    "scraped_at": "2026-07-20T13:21:37.844243"
   },
   {
     "id": "fe526b3cc4a9f253f598d5d46349cc4e",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/871646/Wall-Street-lijkt-positief-te-openen.aspx",
     "intro": "De Amerikaanse aandelenmarkten zullen maandag met winst van start gaan, terwijl beleggers de verdere escalatie in het Midden-Oosten in de gaten houden.",
     "published_at": "2026-07-20 12:46",
-    "scraped_at": "2026-07-20T11:17:49.769404"
+    "scraped_at": "2026-07-20T13:21:37.844243"
   },
   {
     "id": "459189eea2528e129d85066428e4a671",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871642/Rustige-handel-op-Europese-beursvloeren.aspx",
     "intro": "De Europese beurzen doen het maandagochtend rustig aan, met een beursagenda die vrijwel leeg is. Later in de week wordt het drukker, met redelijk wat bedrijfsresultaten en een rentebesluit van de Europese Centrale Bank.",
     "published_at": "2026-07-20 12:22",
-    "scraped_at": "2026-07-20T11:17:49.769404"
+    "scraped_at": "2026-07-20T13:21:37.844243"
   },
   {
     "id": "429168b014d7767031e3a99650de7bc3",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871630/Verdere-groei-voor-Randstad-verwacht.aspx",
     "intro": "De autonome omzet van Randstad is in het tweede kwartaal verder gestegen, na een onverwachte groei in de eerste drie maanden van het jaar. Dit is de verwachting op basis van een analistenconsensus die Randstad zelf heeft samengesteld.",
     "published_at": "2026-07-20 11:27",
-    "scraped_at": "2026-07-20T11:17:49.769404"
+    "scraped_at": "2026-07-20T13:21:37.844243"
   },
   {
     "id": "0e526e9172bb7ad54ecb3034acc601d7",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871619/AEX-koerst-licht-hoger.aspx",
     "intro": "De Amsterdamse beurs koerste maandagochtend licht hoger. Rond de klok van half elf won de AEX 0,1 procent op 1.093,44 punten.",
     "published_at": "2026-07-20 10:48",
-    "scraped_at": "2026-07-20T11:17:49.769404"
+    "scraped_at": "2026-07-20T13:21:37.844243"
   },
   {
     "id": "d3e51702a2b415992af1e845d5f3fb0b",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871615/Lagere-omzet-en-winst-voor-AkzoNobel-verwacht.aspx",
     "intro": "AkzoNobel heeft in het tweede kwartaal naar verwachting een lagere omzet en vermoedelijk ook een lager aangepast resultaat geboekt ten opzichte van een jaar eerder, maar op kwartaalbasis zou wel sprake zijn geweest van een verbetering. Dat blijkt uit een consensusverwachting van analisten die het bedrijf publiceerde in aanloop naar de cijfers woensdag voorbeurs.",
     "published_at": "2026-07-20 10:25",
-    "scraped_at": "2026-07-20T11:17:49.769404"
+    "scraped_at": "2026-07-20T13:21:37.844243"
   },
   {
     "id": "583ef703b3d41aedae7d0610c8db136c",
@@ -60,33 +87,6 @@
     "link": "https://www.iex.nl/artikel/871567/Must-read-Super-El-Nino-kan-voedselprijzen-hard-raken.aspx",
     "intro": "Plus: nieuw rondje Amerikaanse heffingenchaos op komst, Europese defensie-aandelen in de rebound, home bias pakt echt altijd slecht uit, niet elke EV is een winnaar, en meer.",
     "published_at": "2026-07-20 10:15",
-    "scraped_at": "2026-07-20T11:17:49.769404"
-  },
-  {
-    "id": "ffe236a64638adb01bcee38b17d9ee6d",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verhoogt koersdoel DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/871610/Degroof-Petercam-verhoogt-koersdoel-DSM-Firmenich.aspx",
-    "intro": "Degroof Petercam heeft het koersdoel voor DSM-Firmenich verhoogd van 85,00 naar 95,00 euro met een onveranderd koopadvies. Dit bleek maandagochtend uit een analistenrapport van de zakenbank.",
-    "published_at": "2026-07-20 09:41",
-    "scraped_at": "2026-07-20T11:17:49.769404"
-  },
-  {
-    "id": "93aa13cf0ab6885fa2e861e8bb4877d4",
-    "categorie": "Beursnieuws",
-    "titel": "Grote order voor Italiaans Prysmian",
-    "link": "https://www.beurs.nl/Nieuws/871607/Grote-order-voor-Italiaans-Prysmian.aspx",
-    "intro": "Prysmian heeft een tienjarige deal getekend met Molex, een dochteronderneming van de Amerikaanse Koch Group, voor de levering van optische kabels voor datacenters. De overeenkomst heeft een waarde van maximaal 5,5 miljard euro. De Italiaanse kabelmaker maakte de overeenkomst maandagochtend bekend en gaf aan dat er een vooruitbetaling van 550 miljoen euro wordt gedaan door Molex.",
-    "published_at": "2026-07-20 09:35",
-    "scraped_at": "2026-07-20T11:17:49.769404"
-  },
-  {
-    "id": "7efa3f7ca0462d571858a92eacf4e145",
-    "categorie": "Beursnieuws",
-    "titel": "Prosus en Shell aan kop",
-    "link": "https://www.beurs.nl/Nieuws/871604/Prosus-en-Shell-aan-kop.aspx",
-    "intro": "De Amsterdamse beurs is maandag zonder grote beweging van start gegaan. Kort na de opening noteerde de AEX op 1.092 punten, fractioneel hoger dan het slot op vrijdag.",
-    "published_at": "2026-07-20 09:06",
-    "scraped_at": "2026-07-20T11:17:49.769404"
+    "scraped_at": "2026-07-20T13:21:37.844243"
   }
 ]
