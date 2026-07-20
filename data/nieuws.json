@@ -1,12 +1,30 @@
 [
   {
+    "id": "969fae5d382fa29b99466fca5b2beaac",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen verdeeld gesloten",
+    "link": "https://www.beurs.nl/Nieuws/871687/Europese-beurzen-verdeeld-gesloten.aspx",
+    "intro": "De Europese beurzen zijn maandag verdeeld gesloten tijdens een relatief matte handelssessie. Later in de week wordt het drukker, met redelijk wat bedrijfsresultaten en een rentebesluit van de Europese Centrale Bank.",
+    "published_at": "2026-07-20 18:44",
+    "scraped_at": "2026-07-20T17:09:48.994254"
+  },
+  {
+    "id": "57df7589455f93c9536604909338d26f",
+    "categorie": "Beursnieuws",
+    "titel": "Lichtrood slot op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/871683/Lichtrood-slot-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs is maandag met een klein verlies aan de nieuwe handelsweek begonnen.",
+    "published_at": "2026-07-20 17:52",
+    "scraped_at": "2026-07-20T17:09:48.994254"
+  },
+  {
     "id": "f67296d68a977ca07c5a188b62513190",
     "categorie": "Beursnieuws",
     "titel": "Besi haalt eigen outlook",
     "link": "https://www.beurs.nl/Nieuws/871677/Besi-haalt-eigen-outlook.aspx",
     "intro": "BE Semiconductor Industries heeft in het tweede kwartaal de eigen outlook gehaald. Dit verwachten analisten die bijdroegen aan een analistenconsensus voorafgaand aan de cijfers over het tweede kwartaal.",
     "published_at": "2026-07-20 16:21",
-    "scraped_at": "2026-07-20T15:25:31.328063"
+    "scraped_at": "2026-07-20T17:09:48.994254"
   },
   {
     "id": "d331310d40bca7a749b8ae3675611d20",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/871674/Leidende-indicatoren-VS-licht-gedaald.aspx",
     "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in juni licht gedaald. Dit bleek maandag uit cijfers van The Conference Board.",
     "published_at": "2026-07-20 16:13",
-    "scraped_at": "2026-07-20T15:25:31.328063"
+    "scraped_at": "2026-07-20T17:09:48.994254"
   },
   {
     "id": "e39d7f388c74ca32eba8159b4072637b",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/871668/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 28 juli 2026:DINSDAG 21 JULI 2026",
     "published_at": "2026-07-20 15:54",
-    "scraped_at": "2026-07-20T15:25:31.328063"
+    "scraped_at": "2026-07-20T17:09:48.994254"
   },
   {
     "id": "2bd38b5f52adf02f6438ba267d07fec6",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871669/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 28 juli 2026:",
     "published_at": "2026-07-20 15:53",
-    "scraped_at": "2026-07-20T15:25:31.328063"
+    "scraped_at": "2026-07-20T17:09:48.994254"
   },
   {
     "id": "8af8aed3eeda67306576a3ceec307c76",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871670/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 28 juli 2026:",
     "published_at": "2026-07-20 15:53",
-    "scraped_at": "2026-07-20T15:25:31.328063"
+    "scraped_at": "2026-07-20T17:09:48.994254"
   },
   {
     "id": "944c726a69ea893046e31c436c8b9dfc",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871659/Amerikaanse-aandelenmarkten-openen-in-het-groen.aspx",
     "intro": "Wall Street gaat maandag de handelsdag met winst beginnen, terwijl beleggers de oorlogshandelingen in het Midden-Oosten in de gaten houden.",
     "published_at": "2026-07-20 14:43",
-    "scraped_at": "2026-07-20T15:25:31.328063"
+    "scraped_at": "2026-07-20T17:09:48.994254"
   },
   {
     "id": "e36d424a93c2c778f89e0a912199eb2f",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871653/Prosus-en-Mittal-trekken-AEX-in-het-groen.aspx",
     "intro": "De AEX noteerde maandagmiddag in het groen, met een winst van 0,4 procent op 1.096 punten.",
     "published_at": "2026-07-20 14:03",
-    "scraped_at": "2026-07-20T15:25:31.328063"
+    "scraped_at": "2026-07-20T17:09:48.994254"
   },
   {
     "id": "5edf635bd545a7865cc67539c188d499",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871652/Kleine-omzetdaling-bij-KPN-verwacht.aspx",
     "intro": "KPN heeft in het tweede kwartaal naar verwachting een lagere omzet geboekt, met een daling van de aangepaste EBITDA tot gevolg. Dit bleek uit een analistenconsensus die het telecombedrijf op zijn website plaatste.",
     "published_at": "2026-07-20 13:45",
-    "scraped_at": "2026-07-20T15:25:31.328063"
-  },
-  {
-    "id": "bb7fbe41a5ecbd110b045002f6f4a927",
-    "categorie": "Beursnieuws",
-    "titel": "BP verkoopt groot deel activiteiten in Oostenrijk",
-    "link": "https://www.beurs.nl/Nieuws/871647/BP-verkoopt-groot-deel-activiteiten-in-Oostenrijk.aspx",
-    "intro": "BP heeft een overeenkomst bereikt om de activiteiten op het gebied van mobiliteit, gemakswinkels en het laden van elektrische voertuigen in Oostenrijk te verkopen aan Volenergy AG.",
-    "published_at": "2026-07-20 13:04",
-    "scraped_at": "2026-07-20T15:25:31.328063"
-  },
-  {
-    "id": "fe526b3cc4a9f253f598d5d46349cc4e",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street lijkt positief te openen",
-    "link": "https://www.beurs.nl/Nieuws/871646/Wall-Street-lijkt-positief-te-openen.aspx",
-    "intro": "De Amerikaanse aandelenmarkten zullen maandag met winst van start gaan, terwijl beleggers de verdere escalatie in het Midden-Oosten in de gaten houden.",
-    "published_at": "2026-07-20 12:46",
-    "scraped_at": "2026-07-20T15:25:31.328063"
+    "scraped_at": "2026-07-20T17:09:48.994254"
   }
 ]
