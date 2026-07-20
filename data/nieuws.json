@@ -1,11 +1,92 @@
 [
   {
-    "id": "bfe766a6b33ec8012c0b35d970e7c750",
+    "id": "4551cde3fe195ba9c46cf546a7469ce6",
     "categorie": "Beursnieuws",
-    "titel": "Cijferseizoen komt op gang",
-    "link": "https://www.beurs.nl/Nieuws/871568/Cijferseizoen-komt-op-gang.aspx",
-    "intro": "Terwijl het cijferseizoen komende week echt goed op gang komt, is het op macro-economisch vlak allemaal wat minder spannend, uitgezonderd het rentebesluit van de Europese Centrale Bank op donderdag, hoewel zelfs dat mogelijk geen grote verrassingen oplevert.",
-    "published_at": "2026-07-19 13:07",
-    "scraped_at": "2026-07-20T04:57:43.566650"
+    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel DSM-Firmenich",
+    "link": "https://www.beurs.nl/Nieuws/871610/Beursblik-Degroof-Petercam-verhoogt-koersdoel-DSM-Firmenich.aspx",
+    "intro": "Degroof Petercam heeft het koersdoel voor DSM-Firmenich verhoogd van 85,00 naar 95,00 euro met een onveranderd koopadvies. Dit bleek maandagochtend uit een analistenrapport van de zakenbank.",
+    "published_at": "2026-07-20 09:41",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "d128a8d45b8b30a48b86d4cd528fb072",
+    "categorie": "Beursnieuws",
+    "titel": "Grote order voor Italiaanse Prysmian",
+    "link": "https://www.beurs.nl/Nieuws/871607/Grote-order-voor-Italiaanse-Prysmian.aspx",
+    "intro": "Prysmian heeft een tienjarige deal getekend met Molex, een dochteronderneming van de Amerikaanse Koch Group, voor de levering van optische kabels voor datacenters. De overeenkomst heeft een waarde van maximaal 5,5 miljard euro. De Italiaanse kabelmaker maakte de overeenkomst maandagochtend bekend en gaf aan dat er een vooruitbetaling van 550 miljoen euro wordt gedaan door Molex.",
+    "published_at": "2026-07-20 09:35",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "7efa3f7ca0462d571858a92eacf4e145",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus en Shell aan kop",
+    "link": "https://www.beurs.nl/Nieuws/871604/Prosus-en-Shell-aan-kop.aspx",
+    "intro": "De Amsterdamse beurs is maandag zonder grote beweging van start gegaan. Kort na de opening noteerde de AEX op 1.092 punten, fractioneel hoger dan het slot op vrijdag.",
+    "published_at": "2026-07-20 09:06",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "daf6fc8b78a7a0335cd4ab21e59cf001",
+    "categorie": "Beleggen",
+    "titel": "Klimaat en natuur zijn twee kanten van dezelfde beleggingsmedaille",
+    "link": "https://www.ieximpact.nl/artikel/870845/Klimaat-en-natuur-zijn-twee-kanten-van-dezelfde-beleggingsmedaille.aspx",
+    "intro": "Wie de energietransitie wil versnellen, kan volgens Robeco niet langer om biodiversiteit heen, want een CO2-neutrale economie bouwen zonder oog te hebben voor de natuur blijkt niet alleen onmogelijk, maar is ook riskant.",
+    "published_at": "2026-07-20 09:05",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "6795e53bd5b45a33b2b2919e3935be62",
+    "categorie": "Beursnieuws",
+    "titel": "Eigen vermogen Value8 stijgt licht",
+    "link": "https://www.beurs.nl/Nieuws/871599/Eigen-vermogen-Value8-stijgt-licht.aspx",
+    "intro": "Het eigen vermogen van Value8 is in het eerste halfjaar van 2026 licht gestegen. Dat bleek uit het halfjaarbericht van Value8.",
+    "published_at": "2026-07-20 08:28",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "3d5a980e1b76223c6a2caf65f76ea723",
+    "categorie": "Voorbeurs",
+    "titel": "Aarzelend begin cijferweek, Chinese AI-start-up schudt de markt op",
+    "link": "https://www.beurs.nl/Artikel/871589/Aarzelend-begin-cijferweek-Chinese-AI-start-up-schudt-de-markt-op.aspx",
+    "intro": "Openingsindicatie: -0,1%. VS en Iran voeren aanvallen op: olieprijs schiet boven $90. Nieuwe Chinese 'DeepSeek' overweegt beursgang.",
+    "published_at": "2026-07-20 08:20",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "a820275cafbadf71e2b01233f4b00ccd",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse producentenprijzen stijgen minder sterk",
+    "link": "https://www.beurs.nl/Nieuws/871598/Duitse-producentenprijzen-stijgen-minder-sterk.aspx",
+    "intro": "De producentenprijzen in Duitsland zijn in juni gestegen ten opzichte van een jaar eerder. Dit bleek maandag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-07-20 08:18",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "f5a78c846436cb248463e1b4db38b308",
+    "categorie": "Beursnieuws",
+    "titel": "Lichtrode opening voor de AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/871594/Lichtrode-opening-voor-de-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag iets lager van start. Futures op de AEX wezen vanochtend rond acht uur op een openingsverlies van 0,2 procent.",
+    "published_at": "2026-07-20 08:06",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "4d54bcec33f6f8513d150622ad895ec6",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere brandstofkosten drukken winstgevendheid Ryanair",
+    "link": "https://www.beurs.nl/Nieuws/871593/Hogere-brandstofkosten-drukken-winstgevendheid-Ryanair.aspx",
+    "intro": "Ryanair heeft in het eerste kwartaal iets meer omzet behaald, maar zag door de sterk gestegen brandstofkosten de winst fors dalen. Dit bleek maandag uit cijfers van de prijsvechter.",
+    "published_at": "2026-07-20 07:54",
+    "scraped_at": "2026-07-20T08:12:33.078080"
+  },
+  {
+    "id": "6993b2126efdbf3627e34416af34dce3",
+    "categorie": "Beursnieuws",
+    "titel": "DEME aan de slag met Nederlands windmolenpark Zeevonk",
+    "link": "https://www.beurs.nl/Nieuws/871592/DEME-aan-de-slag-met-Nederlands-windmolenpark-Zeevonk.aspx",
+    "intro": "DEME gaat aan de slag met het Nederlandse windmolenpark Zeevonk. Dit maakte de maritieme dienstverlener maandagochtend bekend.",
+    "published_at": "2026-07-20 07:35",
+    "scraped_at": "2026-07-20T08:12:33.078080"
   }
 ]
