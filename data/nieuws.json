@@ -1,12 +1,39 @@
 [
   {
+    "id": "e54c6f59b572b2af5e7c35c6b55064c2",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: ECB houdt kruit droog na renteverhoging in juni",
+    "link": "https://www.beurs.nl/Nieuws/871783/Beursblik-ECB-houdt-kruit-droog-na-renteverhoging-in-juni.aspx",
+    "intro": "De Europese Centrale Bank zal de rente aanstaande donderdag vermoedelijk handhaven, nadat de rente in juni voor het eerst in drie jaar werd verhoogd.",
+    "published_at": "2026-07-21 14:10",
+    "scraped_at": "2026-07-21T12:49:54.995706"
+  },
+  {
+    "id": "344ee02e15c86177fd9c975db148bac1",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: weinig beweging",
+    "link": "https://www.beurs.nl/Nieuws/871775/Beursupdate-weinig-beweging.aspx",
+    "intro": "De Amsterdamse beurs doet het dinsdagmiddag rustig aan, met een kleine winst voor de AEX.",
+    "published_at": "2026-07-21 13:45",
+    "scraped_at": "2026-07-21T12:49:54.995706"
+  },
+  {
+    "id": "9df5f5b0a27c1baf38d35f935c0cf31a",
+    "categorie": "Beursnieuws",
+    "titel": "Nvidia onthult belang in Nebius",
+    "link": "https://www.beurs.nl/Nieuws/871773/Nvidia-onthult-belang-in-Nebius.aspx",
+    "intro": "Nvidia heeft een belang van 9,3 procent in Nebius. Dit bleek dinsdag uit een document dat Nvidia indiende bij de Amerikaanse Securities and Exchange Commission.",
+    "published_at": "2026-07-21 13:19",
+    "scraped_at": "2026-07-21T12:49:54.995706"
+  },
+  {
     "id": "72527279bb7cf7aed6279761736f28e1",
     "categorie": "Beursnieuws",
     "titel": "Groene opening op Wall Street verwacht",
     "link": "https://www.beurs.nl/Nieuws/871771/Groene-opening-op-Wall-Street-verwacht.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet.",
     "published_at": "2026-07-21 13:00",
-    "scraped_at": "2026-07-21T11:20:48.938008"
+    "scraped_at": "2026-07-21T12:49:54.995706"
   },
   {
     "id": "ebafce74ec986dcb1575c48e187de3b8",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/871770/GM-verhoogt-outlook.aspx",
     "intro": "General Motors heeft bij de cijfers over het tweede kwartaal de outlook voor heel 2026 opnieuw verhoogd. Dit maakte de Amerikaanse autofabrikant dinsdagmiddag bekend.",
     "published_at": "2026-07-21 12:51",
-    "scraped_at": "2026-07-21T11:20:48.938008"
+    "scraped_at": "2026-07-21T12:49:54.995706"
   },
   {
     "id": "0f4011df2cee873e5162f7fa35624c08",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871767/3M-verhoogt-outlook-voor-2026.aspx",
     "intro": "3M heeft in het tweede kwartaal meer omzet en winst behaald en besloot om de outlook voor heel 2026 te verhogen. Dit bleek dinsdag uit de resultaten van het Amerikaanse maker van onder meer Post-it-notitieblokjes.",
     "published_at": "2026-07-21 12:42",
-    "scraped_at": "2026-07-21T11:20:48.938008"
+    "scraped_at": "2026-07-21T12:49:54.995706"
   },
   {
     "id": "b34e2f2156630f4a8dda70379a5d2e0c",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871763/Beursblik-Bank-of-America-houdt-vertrouwen-in-Wolters-Kluwer.aspx",
     "intro": "De halfjaarcijfers van Wolters Kluwer zullen weinig spektakel opleveren. Dit stelden analisten van Bank of America in een vooruitblik.",
     "published_at": "2026-07-21 12:29",
-    "scraped_at": "2026-07-21T11:20:48.938008"
+    "scraped_at": "2026-07-21T12:49:54.995706"
   },
   {
     "id": "dc9c9a73353acca2efde3cad0f9731f0",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871760/Beursblik-Bank-of-America-verhoogt-koersdoelen-voor-banken-Benelux.aspx",
     "intro": "Banken in de Benelux hebben een sterk tweede kwartaal achter zich. Dit stelden analisten van Bank of America in een rapport, waarin zij hun koersdoelen verhoogden.",
     "published_at": "2026-07-21 12:07",
-    "scraped_at": "2026-07-21T11:20:48.938008"
+    "scraped_at": "2026-07-21T12:49:54.995706"
   },
   {
     "id": "e795d27c9b18b20bc63aa9aa48e18145",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871757/Groen-licht-op-Europese-beurzen.aspx",
     "intro": "De Europese beurzen noteerden dinsdag richting de lunch in het groen.",
     "published_at": "2026-07-21 11:41",
-    "scraped_at": "2026-07-21T11:20:48.938008"
+    "scraped_at": "2026-07-21T12:49:54.995706"
   },
   {
     "id": "fd87e3d90f4b99e962dd81cc65b6641b",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871752/Duitse-ZEW-index-verder-verbeterd.aspx",
     "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in juli verder gestegen. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
     "published_at": "2026-07-21 11:03",
-    "scraped_at": "2026-07-21T11:20:48.938008"
-  },
-  {
-    "id": "911f8e30e15a2760158576439d52455d",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers krijgen AEX met moeite in het groen",
-    "link": "https://www.beurs.nl/Nieuws/871744/Chippers-krijgen-AEX-met-moeite-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagochtend vrijwel onveranderd, ondanks de koerswinsten voor de chippers.",
-    "published_at": "2026-07-21 10:24",
-    "scraped_at": "2026-07-21T11:20:48.938008"
-  },
-  {
-    "id": "e0c2a909bb38722d40408c2f77de2694",
-    "categorie": "IEX",
-    "titel": "Must read: Risico's stapelen zich op",
-    "link": "https://www.iex.nl/artikel/871667/Must-read-Risicos-stapelen-zich-op.aspx",
-    "intro": "Pus: microkrediet is juist niet link, let op stijgende obligatierentes, de financiële schaduwkant van AI, ook het Amerikaans stroomnet staat zwaar onder druk, en meer.",
-    "published_at": "2026-07-21 10:00",
-    "scraped_at": "2026-07-21T11:20:48.938008"
-  },
-  {
-    "id": "468eb192d5986cf30653e73009914ec3",
-    "categorie": "Beursnieuws",
-    "titel": "Saoedische opdracht voor Leonardo",
-    "link": "https://www.beurs.nl/Nieuws/871739/Saoedische-opdracht-voor-Leonardo.aspx",
-    "intro": "The Helicopter Company heeft 11 extra AW139-helikopters besteld bij Leonardo. Dit maakten de twee bedrijven dinsdag tijdens de Farnborough International Airshow bekend.",
-    "published_at": "2026-07-21 09:51",
-    "scraped_at": "2026-07-21T11:20:48.938008"
+    "scraped_at": "2026-07-21T12:49:54.995706"
   }
 ]
