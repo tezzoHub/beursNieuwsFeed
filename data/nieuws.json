@@ -1,12 +1,66 @@
 [
   {
+    "id": "72527279bb7cf7aed6279761736f28e1",
+    "categorie": "Beursnieuws",
+    "titel": "Groene opening op Wall Street verwacht",
+    "link": "https://www.beurs.nl/Nieuws/871771/Groene-opening-op-Wall-Street-verwacht.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet.",
+    "published_at": "2026-07-21 13:00",
+    "scraped_at": "2026-07-21T11:20:48.938008"
+  },
+  {
+    "id": "ebafce74ec986dcb1575c48e187de3b8",
+    "categorie": "Beursnieuws",
+    "titel": "GM verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/871770/GM-verhoogt-outlook.aspx",
+    "intro": "General Motors heeft bij de cijfers over het tweede kwartaal de outlook voor heel 2026 opnieuw verhoogd. Dit maakte de Amerikaanse autofabrikant dinsdagmiddag bekend.",
+    "published_at": "2026-07-21 12:51",
+    "scraped_at": "2026-07-21T11:20:48.938008"
+  },
+  {
+    "id": "0f4011df2cee873e5162f7fa35624c08",
+    "categorie": "Beursnieuws",
+    "titel": "3M verhoogt outlook voor 2026",
+    "link": "https://www.beurs.nl/Nieuws/871767/3M-verhoogt-outlook-voor-2026.aspx",
+    "intro": "3M heeft in het tweede kwartaal meer omzet en winst behaald en besloot om de outlook voor heel 2026 te verhogen. Dit bleek dinsdag uit de resultaten van het Amerikaanse maker van onder meer Post-it-notitieblokjes.",
+    "published_at": "2026-07-21 12:42",
+    "scraped_at": "2026-07-21T11:20:48.938008"
+  },
+  {
+    "id": "b34e2f2156630f4a8dda70379a5d2e0c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America houdt vertrouwen in Wolters Kluwer",
+    "link": "https://www.beurs.nl/Nieuws/871763/Beursblik-Bank-of-America-houdt-vertrouwen-in-Wolters-Kluwer.aspx",
+    "intro": "De halfjaarcijfers van Wolters Kluwer zullen weinig spektakel opleveren. Dit stelden analisten van Bank of America in een vooruitblik.",
+    "published_at": "2026-07-21 12:29",
+    "scraped_at": "2026-07-21T11:20:48.938008"
+  },
+  {
+    "id": "dc9c9a73353acca2efde3cad0f9731f0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verhoogt koersdoelen voor banken Benelux",
+    "link": "https://www.beurs.nl/Nieuws/871760/Beursblik-Bank-of-America-verhoogt-koersdoelen-voor-banken-Benelux.aspx",
+    "intro": "Banken in de Benelux hebben een sterk tweede kwartaal achter zich. Dit stelden analisten van Bank of America in een rapport, waarin zij hun koersdoelen verhoogden.",
+    "published_at": "2026-07-21 12:07",
+    "scraped_at": "2026-07-21T11:20:48.938008"
+  },
+  {
+    "id": "e795d27c9b18b20bc63aa9aa48e18145",
+    "categorie": "Beursnieuws",
+    "titel": "Groen licht op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/871757/Groen-licht-op-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen noteerden dinsdag richting de lunch in het groen.",
+    "published_at": "2026-07-21 11:41",
+    "scraped_at": "2026-07-21T11:20:48.938008"
+  },
+  {
     "id": "fd87e3d90f4b99e962dd81cc65b6641b",
     "categorie": "Beursnieuws",
     "titel": "Duitse ZEW-index verder verbeterd",
     "link": "https://www.beurs.nl/Nieuws/871752/Duitse-ZEW-index-verder-verbeterd.aspx",
     "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in juli verder gestegen. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
     "published_at": "2026-07-21 11:03",
-    "scraped_at": "2026-07-21T09:17:42.770655"
+    "scraped_at": "2026-07-21T11:20:48.938008"
   },
   {
     "id": "911f8e30e15a2760158576439d52455d",
@@ -15,16 +69,16 @@
     "link": "https://www.beurs.nl/Nieuws/871744/Chippers-krijgen-AEX-met-moeite-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagochtend vrijwel onveranderd, ondanks de koerswinsten voor de chippers.",
     "published_at": "2026-07-21 10:24",
-    "scraped_at": "2026-07-21T09:17:42.770655"
+    "scraped_at": "2026-07-21T11:20:48.938008"
   },
   {
     "id": "e0c2a909bb38722d40408c2f77de2694",
     "categorie": "IEX",
     "titel": "Must read: Risico's stapelen zich op",
     "link": "https://www.iex.nl/artikel/871667/Must-read-Risicos-stapelen-zich-op.aspx",
-    "intro": "Pus: Microkrediet is juist niet link, let op stijgende obligatierentes, de financiële schaduwkant van AI, ook het Amerikaans stroomnet staat zwaar onder druk, en meer.",
+    "intro": "Pus: microkrediet is juist niet link, let op stijgende obligatierentes, de financiële schaduwkant van AI, ook het Amerikaans stroomnet staat zwaar onder druk, en meer.",
     "published_at": "2026-07-21 10:00",
-    "scraped_at": "2026-07-21T09:17:42.770655"
+    "scraped_at": "2026-07-21T11:20:48.938008"
   },
   {
     "id": "468eb192d5986cf30653e73009914ec3",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871739/Saoedische-opdracht-voor-Leonardo.aspx",
     "intro": "The Helicopter Company heeft 11 extra AW139-helikopters besteld bij Leonardo. Dit maakten de twee bedrijven dinsdag tijdens de Farnborough International Airshow bekend.",
     "published_at": "2026-07-21 09:51",
-    "scraped_at": "2026-07-21T09:17:42.770655"
-  },
-  {
-    "id": "2940ebbd84a64b5905fd308c4d3a281b",
-    "categorie": "Beursnieuws",
-    "titel": "\"Kleine tegenvaller bij Wereldhave\"",
-    "link": "https://www.beurs.nl/Nieuws/871735/Kleine-tegenvaller-bij-Wereldhave.aspx",
-    "intro": "De resultaten van Wereldhave in de eerste helft van 2026 vielen tegen. Dit stelde analist Lynn Hautekeete van KBC Securities dinsdag in een rapport.",
-    "published_at": "2026-07-21 09:26",
-    "scraped_at": "2026-07-21T09:17:42.770655"
-  },
-  {
-    "id": "a0b004e6a58ed4c20b71b3aec988a8df",
-    "categorie": "Beursnieuws",
-    "titel": "Chipaandelen helpen AEX aan winst",
-    "link": "https://www.beurs.nl/Nieuws/871730/Chipaandelen-helpen-AEX-aan-winst.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag met winst geopend. De AEX steeg met 0,3 procent naar 1.093,47 punten.",
-    "published_at": "2026-07-21 09:05",
-    "scraped_at": "2026-07-21T09:17:42.770655"
-  },
-  {
-    "id": "ec0173a1b04f5b88d373c3ff6f6a013a",
-    "categorie": "Beleggen",
-    "titel": "“Microkrediet is juist niet risicovol!”",
-    "link": "https://www.ieximpact.nl/artikel/871520/Microkrediet-is-juist-niet-risicovol.aspx",
-    "intro": "Triodos Fair Share Fund bereikt 12,2 miljoen mensen in opkomende landen met een portefeuille van 82 financiële instellingen in 40 landen. “Mensen in staat stellen om een duurzame en stabiele toekomst op te bouwen door ze toegang te geven tot financiële diensten. Dat ligt dicht bij mijn hart”, zegt portefeuillemanager Florian Bankeman.",
-    "published_at": "2026-07-21 08:57",
-    "scraped_at": "2026-07-21T09:17:42.770655"
-  },
-  {
-    "id": "e178104b4ac1e75629b7c594386e91e9",
-    "categorie": "Beursnieuws",
-    "titel": "Verdere daling Nederlandse investeringen",
-    "link": "https://www.beurs.nl/Nieuws/871726/Verdere-daling-Nederlandse-investeringen.aspx",
-    "intro": "De Nederlandse investeringen zijn in mei met 3,8 procent op jaarbasis gedaald. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-07-21 08:34",
-    "scraped_at": "2026-07-21T09:17:42.770655"
-  },
-  {
-    "id": "8c53ce8533d4fd2d266c0e389e34c37f",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere omzet maar minder winst voor Novartis",
-    "link": "https://www.beurs.nl/Nieuws/871725/Hogere-omzet-maar-minder-winst-voor-Novartis.aspx",
-    "intro": "Novartis heeft in het tweede kwartaal de omzet opnieuw zien stijgen en boekte ook vooruitgang met de pijplijn. De winst kwam echter lager uit. Dit liet de Zwitserse farmaceut dinsdagochtend weten.",
-    "published_at": "2026-07-21 08:31",
-    "scraped_at": "2026-07-21T09:17:42.770655"
-  },
-  {
-    "id": "093131444bf1a30428cf51069ae85d1d",
-    "categorie": "Beursnieuws",
-    "titel": "Omzet Ctac onder druk",
-    "link": "https://www.beurs.nl/Nieuws/871719/Omzet-Ctac-onder-druk.aspx",
-    "intro": "Ctac heeft in de eerste helft van 2026 de omzet en winstgevendheid onder druk zien staan door uitdagende marktomstandigheden. Dit bleek dinsdag voorbeurs uit cijfers van het bedrijf.",
-    "published_at": "2026-07-21 08:19",
-    "scraped_at": "2026-07-21T09:17:42.770655"
+    "scraped_at": "2026-07-21T11:20:48.938008"
   }
 ]
