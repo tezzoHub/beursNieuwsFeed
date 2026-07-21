@@ -1,12 +1,30 @@
 [
   {
+    "id": "554cd9249aea8eb18fae3827d503b323",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street hoger door chips en bedrijfscijfers",
+    "link": "https://www.beurs.nl/Nieuws/871821/Wall-Street-hoger-door-chips-en-bedrijfscijfers.aspx",
+    "intro": "De Amerikaanse beurzen stegen dinsdagavond, gesteund door chipaandelen en doordat beleggers zich vooral richtten op de sterke kwartaalcijfers van bedrijven. Dit terwijl de spanningen in het Midden-Oosten aanhouden en de olieprijzen verder oplopen.",
+    "published_at": "2026-07-21 19:41",
+    "scraped_at": "2026-07-21T17:52:37.145466"
+  },
+  {
+    "id": "2c19b78151ab57f0661fe17a4e6c3ac7",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger gesloten",
+    "link": "https://www.beurs.nl/Nieuws/871819/Europese-beurzen-hoger-gesloten.aspx",
+    "intro": "De Europese beurzen zijn dinsdag hoger gesloten, nadat er in het laatste uur nog een klein sprintje werd getrokken. Chipaandelen waren weer in trek en de bedrijfscijfers vielen per saldo niet tegen.",
+    "published_at": "2026-07-21 18:41",
+    "scraped_at": "2026-07-21T17:52:37.145466"
+  },
+  {
     "id": "5b74a6b1c476b1ee4f65536c46b29625",
     "categorie": "Beursnieuws",
     "titel": "Airbus kondigt aandeleninkoop van 5 miljard euro aan",
     "link": "https://www.beurs.nl/Nieuws/871813/Airbus-kondigt-aandeleninkoop-van-5-miljard-euro-aan.aspx",
     "intro": "Airbus koopt in de komende drie jaar voor 5 miljard euro eigen aandelen in en presenteerde een nieuwe outlook voor de middellange termijn. Dit bleek dinsdagavond uit een persbericht van de Europese vliegtuigbouwer, voorafgaand aan een bijeenkomst met beleggers en analisten in Londen.",
     "published_at": "2026-07-21 18:01",
-    "scraped_at": "2026-07-21T16:23:34.264189"
+    "scraped_at": "2026-07-21T17:52:37.145466"
   },
   {
     "id": "995bb685142e788f8233e1b865146947",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/871811/Chippers-en-banken-helpen-AEX-aan-winst.aspx",
     "intro": "De Amsterdamse beurs is dinsdag met winst gesloten, geholpen door de koerswinsten voor de chippers en de banken.",
     "published_at": "2026-07-21 17:52",
-    "scraped_at": "2026-07-21T16:23:34.264189"
+    "scraped_at": "2026-07-21T17:52:37.145466"
   },
   {
     "id": "4d2c1137433e63cea22383149640f286",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/871804/Autonome-omzetgroei-Aalberts-houdt-naar-verwachting-aan.aspx",
     "intro": "Aalberts heeft in het eerste halfjaar de omzet autonoom opnieuw zien stijgen en de winstgevendheid zien aantrekken. Dit verwachten analisten.",
     "published_at": "2026-07-21 16:30",
-    "scraped_at": "2026-07-21T16:23:34.264189"
+    "scraped_at": "2026-07-21T17:52:37.145466"
   },
   {
     "id": "1ada453e78e14a9cdbfe7f4741f1d197",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871799/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 29 juli 2026:",
     "published_at": "2026-07-21 16:05",
-    "scraped_at": "2026-07-21T16:23:34.264189"
+    "scraped_at": "2026-07-21T17:52:37.145466"
   },
   {
     "id": "4e75e70de4a2727f68513fc22a6d30be",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871801/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 29 juli 2026:",
     "published_at": "2026-07-21 16:05",
-    "scraped_at": "2026-07-21T16:23:34.264189"
+    "scraped_at": "2026-07-21T17:52:37.145466"
   },
   {
     "id": "595387334198637b9c41fa7eba4ec2a1",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871802/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 29 juli 2026:",
     "published_at": "2026-07-21 16:05",
-    "scraped_at": "2026-07-21T16:23:34.264189"
+    "scraped_at": "2026-07-21T17:52:37.145466"
   },
   {
     "id": "46225da36cbb6a92f082896d1c494f0c",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871791/CSG-bouwt-straalmotoren-voor-drones.aspx",
     "intro": "CSG gaat straalmotoren voor drones bouwen in het Amerikaanse Wisconsin. Dit maakte het Tsjechische defensiebedrijf met een notering in Amsterdam dinsdag bekend.",
     "published_at": "2026-07-21 15:11",
-    "scraped_at": "2026-07-21T16:23:34.264189"
+    "scraped_at": "2026-07-21T17:52:37.145466"
   },
   {
     "id": "dd274fac0ba0d9baae644c991b1af094",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871789/Wall-Street-richting-groene-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een groene opening tegemoet.",
     "published_at": "2026-07-21 14:59",
-    "scraped_at": "2026-07-21T16:23:34.264189"
-  },
-  {
-    "id": "5a6d912e1ff37abd69381fa37d873efa",
-    "categorie": "Beursnieuws",
-    "titel": "ECB houdt kruit waarschijnlijk droog na renteverhoging in juni",
-    "link": "https://www.beurs.nl/Nieuws/871783/ECB-houdt-kruit-waarschijnlijk-droog-na-renteverhoging-in-juni.aspx",
-    "intro": "De Europese Centrale Bank zal de rente aanstaande donderdag vermoedelijk handhaven, nadat de rente in juni voor het eerst in drie jaar werd verhoogd.",
-    "published_at": "2026-07-21 14:10",
-    "scraped_at": "2026-07-21T16:23:34.264189"
-  },
-  {
-    "id": "dd8ac04f09aa91a109a93f2caeef3270",
-    "categorie": "Beursnieuws",
-    "titel": "Weinig beweging aan het Damrak",
-    "link": "https://www.beurs.nl/Nieuws/871775/Weinig-beweging-aan-het-Damrak.aspx",
-    "intro": "De Amsterdamse beurs doet het dinsdagmiddag rustig aan, met een kleine winst voor de AEX.",
-    "published_at": "2026-07-21 13:45",
-    "scraped_at": "2026-07-21T16:23:34.264189"
+    "scraped_at": "2026-07-21T17:52:37.145466"
   }
 ]
