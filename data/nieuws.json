@@ -1,21 +1,75 @@
 [
   {
+    "id": "b14c99e088c7e0f79ddb7c474c60a2b3",
+    "categorie": "Beursnieuws",
+    "titel": "Prologis verhoogt bod op Segro",
+    "link": "https://www.beurs.nl/Nieuws/871957/Prologis-verhoogt-bod-op-Segro.aspx",
+    "intro": "Prologis heeft zijn overnamebod op de Britse sectorgenoot Segro verhoogd tot ongeveer 14 miljard pond, omgerekend 18,7 miljard dollar. Het Amerikaanse vastgoedbedrijf noemde dit woensdag zijn allerlaatste bod en sloot verdere verhogingen uit.",
+    "published_at": "2026-07-22 16:45",
+    "scraped_at": "2026-07-22T15:18:08.821340"
+  },
+  {
+    "id": "0302c6168230eb4161cd7fe1a036f69e",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden toegenomen",
+    "link": "https://www.beurs.nl/Nieuws/871958/Amerikaanse-olievoorraden-toegenomen.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week toegenomen nadat de olievoorraden al geruime tijd in een dalende trend zitten. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-07-22 16:41",
+    "scraped_at": "2026-07-22T15:18:08.821340"
+  },
+  {
+    "id": "c2c67521b59f94d1529c0908436b9e50",
+    "categorie": "Beursnieuws",
+    "titel": "AMD en Anthropic sluiten strategische samenwerking",
+    "link": "https://www.beurs.nl/Nieuws/871956/AMD-en-Anthropic-sluiten-strategische-samenwerking.aspx",
+    "intro": "AMD en Anthropic hebben een strategisch samenwerking gesloten voor de uitrol van maximaal 2 gigawatt aan AMD Instinct MI450-chips. Dit maakten de bedrijven woensdag bekend.",
+    "published_at": "2026-07-22 16:36",
+    "scraped_at": "2026-07-22T15:18:08.821340"
+  },
+  {
+    "id": "6a1b722d6fa1978d746871677671c4cc",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/871949/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 30 juli 2026:",
+    "published_at": "2026-07-22 16:00",
+    "scraped_at": "2026-07-22T15:18:08.821340"
+  },
+  {
+    "id": "1564603d5f48983d91a601d36e708098",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/871948/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 30 juli 2026:",
+    "published_at": "2026-07-22 15:58",
+    "scraped_at": "2026-07-22T15:18:08.821340"
+  },
+  {
+    "id": "708ceda88b27b8fc2944e786b6f3b368",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/871947/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 30 juli 2026:",
+    "published_at": "2026-07-22 15:56",
+    "scraped_at": "2026-07-22T15:18:08.821340"
+  },
+  {
     "id": "d4be9c5591ef3a5cb7790688910b474a",
     "categorie": "Beursnieuws",
     "titel": "Wall Street heeft rode opening in zicht",
     "link": "https://www.beurs.nl/Nieuws/871937/Wall-Street-heeft-rode-opening-in-zicht.aspx",
     "intro": "Wall Street begint woensdag de handelsdag in de min, terwijl de olieprijzen zijn opgelopen en er nabeurs belangrijke kwartaalcijfers uit de techsector op beleggers afkomen.",
     "published_at": "2026-07-22 15:02",
-    "scraped_at": "2026-07-22T13:11:09.588094"
+    "scraped_at": "2026-07-22T15:18:08.821340"
   },
   {
-    "id": "b66dd5b48c3699f7a273c7fb899eb90c",
+    "id": "d9cc8626f017be248b0ebb63d28d534b",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: RBC verhoogt koersdoel Randstad",
-    "link": "https://www.beurs.nl/Nieuws/871935/Beursblik-RBC-verhoogt-koersdoel-Randstad.aspx",
+    "titel": "RBC verhoogt koersdoel Randstad",
+    "link": "https://www.beurs.nl/Nieuws/871935/RBC-verhoogt-koersdoel-Randstad.aspx",
     "intro": "RBC heeft woensdag na de kwartaalupdate van Randstad het koersdoel voor de uitzender verhoogd van 31,00 naar 35,00 euro, met een onveranderd Sector Perform advies. Dit bleek uit een analistenrapport.",
     "published_at": "2026-07-22 14:48",
-    "scraped_at": "2026-07-22T13:11:09.588094"
+    "scraped_at": "2026-07-22T15:18:08.821340"
   },
   {
     "id": "e600ab1e1ff1be38be6df9fbf2f6f1ae",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871931/Beursupdate-pas-op-de-plaats-voor-AEX.aspx",
     "intro": "De AEX is woensdagmiddag, na een rode opening, gestegen richting de slotkoers van dinsdag, op 1.097 punten.",
     "published_at": "2026-07-22 14:12",
-    "scraped_at": "2026-07-22T13:11:09.588094"
+    "scraped_at": "2026-07-22T15:18:08.821340"
   },
   {
     "id": "968564ac9912edfeff23babd4bfbf558",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871924/Obligatie-Nederland-heropent-langlopende-lening.aspx",
     "intro": "Nederland gaat op 28 juli een lening heropenen die op 15 juli 2036 afloopt. Dit maakte het Agentschap van het ministerie van Financiën woensdagmiddag bekend.",
     "published_at": "2026-07-22 13:35",
-    "scraped_at": "2026-07-22T13:11:09.588094"
-  },
-  {
-    "id": "693fe613ee358007ef5278f4418b5af5",
-    "categorie": "Beursnieuws",
-    "titel": "Goed omzetresultaat voor Philip Morris",
-    "link": "https://www.beurs.nl/Nieuws/871923/Goed-omzetresultaat-voor-Philip-Morris.aspx",
-    "intro": "Philip Morris heeft in het tweede kwartaal meer omzet behaald en zag ook de winstgevendheid aantrekken. Dit maakte de Amerikaanse tabaksfabrikant woensdag voorbeurs bekend.",
-    "published_at": "2026-07-22 13:33",
-    "scraped_at": "2026-07-22T13:11:09.588094"
-  },
-  {
-    "id": "955d3198ab16e575fc0e303ed04c689b",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet voor AT&T",
-    "link": "https://www.beurs.nl/Nieuws/871918/Meer-omzet-voor-ATT.aspx",
-    "intro": "ATT heeft in het tweede kwartaal de omzet zien aantrekken, nadat het telecombedrijf er meer postpaid- en internetklanten bijkreeg. Dit bleek woensdag uit cijfers van het telecombedrijf.",
-    "published_at": "2026-07-22 13:06",
-    "scraped_at": "2026-07-22T13:11:09.588094"
-  },
-  {
-    "id": "a5004cb5586cbdfc7ddc039da0d5f1a7",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street begint handelsdag in het rood",
-    "link": "https://www.beurs.nl/Nieuws/871917/Wall-Street-begint-handelsdag-in-het-rood.aspx",
-    "intro": "Wall Street zal woensdag lager van start gaan, terwijl de olieprijzen weer oplopen en een rally in AI-aandelen aan kracht verloor, zo vlak voor de publicatie van belangrijke kwartaalcijfers uit de techsector.",
-    "published_at": "2026-07-22 12:46",
-    "scraped_at": "2026-07-22T13:11:09.588094"
-  },
-  {
-    "id": "096877e2e42685bd22051b86df07e0c4",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen voorzichtig in het groen",
-    "link": "https://www.beurs.nl/Nieuws/871909/Europese-beurzen-voorzichtig-in-het-groen.aspx",
-    "intro": "De Europese beurzen noteerden woensdag rond het middaguur wat hoger, mede geholpen door de energieaandelen.",
-    "published_at": "2026-07-22 12:08",
-    "scraped_at": "2026-07-22T13:11:09.588094"
-  },
-  {
-    "id": "cf2d4717b5609ce5958aafcdd5017021",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: opnieuw omzetkrimp bij Signify verwacht",
-    "link": "https://www.beurs.nl/Nieuws/871902/Beursblik-opnieuw-omzetkrimp-bij-Signify-verwacht.aspx",
-    "intro": "Signify heeft in het tweede kwartaal opnieuw zwak gepresteerd. Dit bleek uit een consensusverwachting samengesteld door het verlichtingsbedrijf zelf.",
-    "published_at": "2026-07-22 11:36",
-    "scraped_at": "2026-07-22T13:11:09.588094"
-  },
-  {
-    "id": "c302063845bfc4e416c718c9395ee920",
-    "categorie": "Beursnieuws",
-    "titel": "Amundi vergroot belang in Wolters Kluwer",
-    "link": "https://www.beurs.nl/Nieuws/871893/Amundi-vergroot-belang-in-Wolters-Kluwer.aspx",
-    "intro": "Amundi Asset Management heeft het belang in Wolters Kluwer vergroot. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 17 juli 2026.",
-    "published_at": "2026-07-22 11:09",
-    "scraped_at": "2026-07-22T13:11:09.588094"
+    "scraped_at": "2026-07-22T15:18:08.821340"
   }
 ]
