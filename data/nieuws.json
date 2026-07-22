@@ -1,12 +1,39 @@
 [
   {
+    "id": "955d3198ab16e575fc0e303ed04c689b",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet voor AT&T",
+    "link": "https://www.beurs.nl/Nieuws/871918/Meer-omzet-voor-ATT.aspx",
+    "intro": "ATT heeft in het tweede kwartaal de omzet zien aantrekken, nadat het telecombedrijf er meer postpaid- en internetklanten bijkreeg. Dit bleek woensdag uit cijfers van het telecombedrijf.",
+    "published_at": "2026-07-22 13:06",
+    "scraped_at": "2026-07-22T11:31:43.787489"
+  },
+  {
+    "id": "a5004cb5586cbdfc7ddc039da0d5f1a7",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street begint handelsdag in het rood",
+    "link": "https://www.beurs.nl/Nieuws/871917/Wall-Street-begint-handelsdag-in-het-rood.aspx",
+    "intro": "Wall Street zal woensdag lager van start gaan, terwijl de olieprijzen weer oplopen en een rally in AI-aandelen aan kracht verloor, zo vlak voor de publicatie van belangrijke kwartaalcijfers uit de techsector.",
+    "published_at": "2026-07-22 12:46",
+    "scraped_at": "2026-07-22T11:31:43.787489"
+  },
+  {
+    "id": "096877e2e42685bd22051b86df07e0c4",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen voorzichtig in het groen",
+    "link": "https://www.beurs.nl/Nieuws/871909/Europese-beurzen-voorzichtig-in-het-groen.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur wat hoger, mede geholpen door de energieaandelen.",
+    "published_at": "2026-07-22 12:08",
+    "scraped_at": "2026-07-22T11:31:43.787489"
+  },
+  {
     "id": "cf2d4717b5609ce5958aafcdd5017021",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: opnieuw omzetkrimp bij Signify verwacht",
     "link": "https://www.beurs.nl/Nieuws/871902/Beursblik-opnieuw-omzetkrimp-bij-Signify-verwacht.aspx",
     "intro": "Signify heeft in het tweede kwartaal opnieuw zwak gepresteerd. Dit bleek uit een consensusverwachting samengesteld door het verlichtingsbedrijf zelf.",
     "published_at": "2026-07-22 11:36",
-    "scraped_at": "2026-07-22T09:43:43.498058"
+    "scraped_at": "2026-07-22T11:31:43.787489"
   },
   {
     "id": "c302063845bfc4e416c718c9395ee920",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/871893/Amundi-vergroot-belang-in-Wolters-Kluwer.aspx",
     "intro": "Amundi Asset Management heeft het belang in Wolters Kluwer vergroot. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 17 juli 2026.",
     "published_at": "2026-07-22 11:09",
-    "scraped_at": "2026-07-22T09:43:43.498058"
+    "scraped_at": "2026-07-22T11:31:43.787489"
   },
   {
     "id": "3648054191f73c7ef333da0e95a26012",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871890/Randstad-schittert-op-vlak-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend vlak tot iets lager. Rond de klok van elf uur daalde de AEX fractioneel tot 1.096,44 punten.",
     "published_at": "2026-07-22 11:05",
-    "scraped_at": "2026-07-22T09:43:43.498058"
+    "scraped_at": "2026-07-22T11:31:43.787489"
   },
   {
     "id": "281bbdd546491765bc58649af4a94cab",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871885/Beursblik-solide-kwartaal-voor-KPN.aspx",
     "intro": "KPN heeft een solide tweede kwartaal achter de rug, maar de groeiverwachtingen werden wel neerwaarts bijgesteld. Dit concludeerden analisten van Berenberg woensdag in een rapport.",
     "published_at": "2026-07-22 10:01",
-    "scraped_at": "2026-07-22T09:43:43.498058"
+    "scraped_at": "2026-07-22T11:31:43.787489"
   },
   {
     "id": "af0c85716809c57c3096360676eef990",
@@ -42,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/871780/Must-read-Tsunami-van-SpaceX-aandelen-komt-eraan.aspx",
     "intro": "Plus: Chinees AI-model kan een nieuw DeepSeek-moment opleveren, meer dividend maar minder buybacks.En chips in elke vorm of maat zijn populair bij beleggers.",
     "published_at": "2026-07-22 09:45",
-    "scraped_at": "2026-07-22T09:43:43.498058"
+    "scraped_at": "2026-07-22T11:31:43.787489"
   },
   {
     "id": "65c8e537d7f380c514bbd382db0d366e",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871883/Degroof-Petercam-verhoogt-koersdoel-Randstad.aspx",
     "intro": "Degroof Petercam heeft woensdag het koersdoel voor Randstad verhoogd van 34,00 naar 38,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Frank Claassen.",
     "published_at": "2026-07-22 09:44",
-    "scraped_at": "2026-07-22T09:43:43.498058"
+    "scraped_at": "2026-07-22T11:31:43.787489"
   },
   {
     "id": "fedb80003b878d245d8bc0c7adbdf2a8",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871882/Degroof-Petercam-verlaagt-koersdoel-Wereldhave.aspx",
     "intro": "Degroof Petercam heeft het koersdoel voor Wereldhave verlaagd van 22,00 naar 20,00 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-07-22 09:43",
-    "scraped_at": "2026-07-22T09:43:43.498058"
-  },
-  {
-    "id": "b45379b485a376442a7aed52691e627c",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers en KPN lager in rode AEX",
-    "link": "https://www.beurs.nl/Nieuws/871880/Chippers-en-KPN-lager-in-rode-AEX.aspx",
-    "intro": "De Amsterdamse beurs is woensdag lager geopend. Kort na opening, koerste de AEX 0,8 procent in het rood op 1.087,65 punten.",
-    "published_at": "2026-07-22 09:13",
-    "scraped_at": "2026-07-22T09:43:43.498058"
-  },
-  {
-    "id": "cc1814a57337ebc282271186f10d3f0c",
-    "categorie": "Beursnieuws",
-    "titel": "KBC Securities verhoogt koersdoel ASML fors",
-    "link": "https://www.beurs.nl/Nieuws/871877/KBC-Securities-verhoogt-koersdoel-ASML-fors.aspx",
-    "intro": "KBC Securities heeft het koersdoel voor ASML verhoogd van 1.400 naar 1.600 euro met een onveranderd Houden advies. Dit bleek uit een analistenrapport van de bank.",
-    "published_at": "2026-07-22 09:08",
-    "scraped_at": "2026-07-22T09:43:43.498058"
-  },
-  {
-    "id": "363fe94ae13731dbec7e83c391616825",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: focus op tegenvallende dienstenomzet KPN",
-    "link": "https://www.beurs.nl/Nieuws/871876/Beursblik-focus-op-tegenvallende-dienstenomzet-KPN.aspx",
-    "intro": "De markt zal vermoedelijk teleurgesteld reageren op de ontwikkeling van de dienstenomzet bij KPN, waardoor de outlook moest worden bijgesteld. Dit stelden analisten van Citi woensdag in een rapport.",
-    "published_at": "2026-07-22 09:07",
-    "scraped_at": "2026-07-22T09:43:43.498058"
+    "scraped_at": "2026-07-22T11:31:43.787489"
   }
 ]
