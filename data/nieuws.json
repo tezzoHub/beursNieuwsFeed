@@ -1,12 +1,30 @@
 [
   {
+    "id": "eab410ea28a8c6dfe721a69a4f3bc0b5",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet en winst voor Deutsche Börse",
+    "link": "https://www.beurs.nl/Nieuws/871978/Meer-omzet-en-winst-voor-Deutsche-Borse.aspx",
+    "intro": "Deutsche Börse heeft in het tweede kwartaal zowel de omzet als de winst zien stijgen. Dit bleek woensdagavond uit cijfers van het Duitse beursbedrijf.",
+    "published_at": "2026-07-22 21:29",
+    "scraped_at": "2026-07-22T19:50:04.384868"
+  },
+  {
+    "id": "1a26b7e8934b1f83eae0649da8b65492",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen vierde dag op rij hoger gesloten",
+    "link": "https://www.beurs.nl/Nieuws/871977/Olieprijzen-vierde-dag-op-rij-hoger-gesloten.aspx",
+    "intro": "De olieprijzen zijn woensdag wederom hoger gesloten en noteerden op het hoogste niveau in zes weken door toenemende zorgen over de bevoorrading, nu de vijandelijkheden tussen de VS en Iran verder escaleerden.",
+    "published_at": "2026-07-22 20:52",
+    "scraped_at": "2026-07-22T19:50:04.384868"
+  },
+  {
     "id": "09cd97cdf58ab4476436a94c0da26655",
     "categorie": "Beursnieuws",
     "titel": "Flatex Degiro verhoogt winstverwachting fors",
     "link": "https://www.beurs.nl/Nieuws/871972/Flatex-Degiro-verhoogt-winstverwachting-fors.aspx",
     "intro": "Flatex Degiro heeft in het tweede kwartaal van 2026 een fors hogere winst geboekt en verhoogt op basis daarvan opnieuw de verwachtingen voor het hele jaar. Dat bleek woensdag uit de voorlopige cijfers van de Duitse broker.",
     "published_at": "2026-07-22 19:46",
-    "scraped_at": "2026-07-22T18:07:50.940841"
+    "scraped_at": "2026-07-22T19:50:04.384868"
   },
   {
     "id": "7f4bae500226bc27de516363fc9519e9",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/871971/Wall-Street-afwachtend-voor-techcijfers-nabeurs.aspx",
     "intro": "De Amerikaanse beurzen kwamen woensdagavond nauwelijks van hun plek, terwijl de olieprijzen verder opliepen en beleggers wachtten op de bedrijfsresultaten nabeurs van onder meer Alphabet, IBM en Tesla.",
     "published_at": "2026-07-22 19:44",
-    "scraped_at": "2026-07-22T18:07:50.940841"
+    "scraped_at": "2026-07-22T19:50:04.384868"
   },
   {
     "id": "68195df71138de9b58c7f668d39d6e57",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/871970/Europese-beurzen-hoger-gesloten.aspx",
     "intro": "De Europese beurzen zijn woensdag hoger gesloten, geholpen door goede bedrijfsresultaten.",
     "published_at": "2026-07-22 18:50",
-    "scraped_at": "2026-07-22T18:07:50.940841"
+    "scraped_at": "2026-07-22T19:50:04.384868"
   },
   {
     "id": "d820bf104af54c32038277dc4fa6c159",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871968/Ascensio-rapporteert-winstgevende-groei.aspx",
     "intro": "Ascencio heeft een succesvolle groei in het derde kwartaal van 2025/26 gerapporteerd. Dat meldde het vastgoedbedrijf woensdag nabeurs.",
     "published_at": "2026-07-22 18:18",
-    "scraped_at": "2026-07-22T18:07:50.940841"
+    "scraped_at": "2026-07-22T19:50:04.384868"
   },
   {
     "id": "2603772492d46b8a1a2ac73c8adad839",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871964/AEX-met-kleine-winst-gesloten.aspx",
     "intro": "De AEX is woensdag met een kleine winst gesloten. Macro-economisch was het een rustige dag, terwijl het conflict in het Midden-Oosten beleggers bleef bezighouden.",
     "published_at": "2026-07-22 17:53",
-    "scraped_at": "2026-07-22T18:07:50.940841"
+    "scraped_at": "2026-07-22T19:50:04.384868"
   },
   {
     "id": "a498e5c8355c3393fe7cc219378a2c87",
@@ -51,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/871953/Slotcall-AEX-boven-1100-punten-en-Randstad-is-echt-niet-te-stoppen.aspx",
     "intro": "De AEX komt vandaag net boven de 1.100 punten uit, maar nog noemenswaardiger is het feit dat Randstad bijna 14% hoger sluit op spetterende kwartaalcijfers.",
     "published_at": "2026-07-22 17:35",
-    "scraped_at": "2026-07-22T18:07:50.940841"
+    "scraped_at": "2026-07-22T19:50:04.384868"
   },
   {
     "id": "b14c99e088c7e0f79ddb7c474c60a2b3",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871957/Prologis-verhoogt-bod-op-Segro.aspx",
     "intro": "Prologis heeft zijn overnamebod op de Britse sectorgenoot Segro verhoogd tot ongeveer 14 miljard pond, omgerekend 18,7 miljard dollar. Het Amerikaanse vastgoedbedrijf noemde dit woensdag zijn allerlaatste bod en sloot verdere verhogingen uit.",
     "published_at": "2026-07-22 16:45",
-    "scraped_at": "2026-07-22T18:07:50.940841"
+    "scraped_at": "2026-07-22T19:50:04.384868"
   },
   {
     "id": "0302c6168230eb4161cd7fe1a036f69e",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871958/Amerikaanse-olievoorraden-toegenomen.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week toegenomen nadat de olievoorraden al geruime tijd in een dalende trend zitten. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-07-22 16:41",
-    "scraped_at": "2026-07-22T18:07:50.940841"
-  },
-  {
-    "id": "c2c67521b59f94d1529c0908436b9e50",
-    "categorie": "Beursnieuws",
-    "titel": "AMD en Anthropic sluiten strategische samenwerking",
-    "link": "https://www.beurs.nl/Nieuws/871956/AMD-en-Anthropic-sluiten-strategische-samenwerking.aspx",
-    "intro": "AMD en Anthropic hebben een strategisch samenwerking gesloten voor de uitrol van maximaal 2 gigawatt aan AMD Instinct MI450-chips. Dit maakten de bedrijven woensdag bekend.",
-    "published_at": "2026-07-22 16:36",
-    "scraped_at": "2026-07-22T18:07:50.940841"
-  },
-  {
-    "id": "6a1b722d6fa1978d746871677671c4cc",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/871949/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 30 juli 2026:",
-    "published_at": "2026-07-22 16:00",
-    "scraped_at": "2026-07-22T18:07:50.940841"
+    "scraped_at": "2026-07-22T19:50:04.384868"
   }
 ]
