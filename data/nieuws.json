@@ -1,12 +1,39 @@
 [
   {
+    "id": "d820bf104af54c32038277dc4fa6c159",
+    "categorie": "Beursnieuws",
+    "titel": "Ascensio rapporteert winstgevende groei",
+    "link": "https://www.beurs.nl/Nieuws/871968/Ascensio-rapporteert-winstgevende-groei.aspx",
+    "intro": "Ascencio heeft een succesvolle groei in het derde kwartaal van 2025/26 gerapporteerd. Dat meldde het vastgoedbedrijf woensdag nabeurs.",
+    "published_at": "2026-07-22 18:18",
+    "scraped_at": "2026-07-22T16:53:13.642591"
+  },
+  {
+    "id": "2603772492d46b8a1a2ac73c8adad839",
+    "categorie": "Beursnieuws",
+    "titel": "AEX met kleine winst gesloten",
+    "link": "https://www.beurs.nl/Nieuws/871964/AEX-met-kleine-winst-gesloten.aspx",
+    "intro": "De AEX is woensdag met een kleine winst gesloten. Macro-economisch was het een rustige dag, terwijl het conflict in het Midden-Oosten beleggers bleef bezighouden.",
+    "published_at": "2026-07-22 17:53",
+    "scraped_at": "2026-07-22T16:53:13.642591"
+  },
+  {
+    "id": "a498e5c8355c3393fe7cc219378a2c87",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX boven 1100 punten en Randstad is echt niet te stoppen",
+    "link": "https://www.iex.nl/artikel/871953/Slotcall-AEX-boven-1100-punten-en-Randstad-is-echt-niet-te-stoppen.aspx",
+    "intro": "De AEX komt vandaag net boven de 1.100 punten uit, maar nog noemenswaardiger is het feit dat Randstad bijna 14% hoger sluit op spetterende kwartaalcijfers.",
+    "published_at": "2026-07-22 17:35",
+    "scraped_at": "2026-07-22T16:53:13.642591"
+  },
+  {
     "id": "b14c99e088c7e0f79ddb7c474c60a2b3",
     "categorie": "Beursnieuws",
     "titel": "Prologis verhoogt bod op Segro",
     "link": "https://www.beurs.nl/Nieuws/871957/Prologis-verhoogt-bod-op-Segro.aspx",
     "intro": "Prologis heeft zijn overnamebod op de Britse sectorgenoot Segro verhoogd tot ongeveer 14 miljard pond, omgerekend 18,7 miljard dollar. Het Amerikaanse vastgoedbedrijf noemde dit woensdag zijn allerlaatste bod en sloot verdere verhogingen uit.",
     "published_at": "2026-07-22 16:45",
-    "scraped_at": "2026-07-22T15:18:08.821340"
+    "scraped_at": "2026-07-22T16:53:13.642591"
   },
   {
     "id": "0302c6168230eb4161cd7fe1a036f69e",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/871958/Amerikaanse-olievoorraden-toegenomen.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week toegenomen nadat de olievoorraden al geruime tijd in een dalende trend zitten. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-07-22 16:41",
-    "scraped_at": "2026-07-22T15:18:08.821340"
+    "scraped_at": "2026-07-22T16:53:13.642591"
   },
   {
     "id": "c2c67521b59f94d1529c0908436b9e50",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/871956/AMD-en-Anthropic-sluiten-strategische-samenwerking.aspx",
     "intro": "AMD en Anthropic hebben een strategisch samenwerking gesloten voor de uitrol van maximaal 2 gigawatt aan AMD Instinct MI450-chips. Dit maakten de bedrijven woensdag bekend.",
     "published_at": "2026-07-22 16:36",
-    "scraped_at": "2026-07-22T15:18:08.821340"
+    "scraped_at": "2026-07-22T16:53:13.642591"
   },
   {
     "id": "6a1b722d6fa1978d746871677671c4cc",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/871949/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 30 juli 2026:",
     "published_at": "2026-07-22 16:00",
-    "scraped_at": "2026-07-22T15:18:08.821340"
+    "scraped_at": "2026-07-22T16:53:13.642591"
   },
   {
     "id": "1564603d5f48983d91a601d36e708098",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/871948/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 30 juli 2026:",
     "published_at": "2026-07-22 15:58",
-    "scraped_at": "2026-07-22T15:18:08.821340"
+    "scraped_at": "2026-07-22T16:53:13.642591"
   },
   {
     "id": "708ceda88b27b8fc2944e786b6f3b368",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/871947/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 30 juli 2026:",
     "published_at": "2026-07-22 15:56",
-    "scraped_at": "2026-07-22T15:18:08.821340"
+    "scraped_at": "2026-07-22T16:53:13.642591"
   },
   {
     "id": "d4be9c5591ef3a5cb7790688910b474a",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/871937/Wall-Street-heeft-rode-opening-in-zicht.aspx",
     "intro": "Wall Street begint woensdag de handelsdag in de min, terwijl de olieprijzen zijn opgelopen en er nabeurs belangrijke kwartaalcijfers uit de techsector op beleggers afkomen.",
     "published_at": "2026-07-22 15:02",
-    "scraped_at": "2026-07-22T15:18:08.821340"
-  },
-  {
-    "id": "d9cc8626f017be248b0ebb63d28d534b",
-    "categorie": "Beursnieuws",
-    "titel": "RBC verhoogt koersdoel Randstad",
-    "link": "https://www.beurs.nl/Nieuws/871935/RBC-verhoogt-koersdoel-Randstad.aspx",
-    "intro": "RBC heeft woensdag na de kwartaalupdate van Randstad het koersdoel voor de uitzender verhoogd van 31,00 naar 35,00 euro, met een onveranderd Sector Perform advies. Dit bleek uit een analistenrapport.",
-    "published_at": "2026-07-22 14:48",
-    "scraped_at": "2026-07-22T15:18:08.821340"
-  },
-  {
-    "id": "e600ab1e1ff1be38be6df9fbf2f6f1ae",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: pas op de plaats voor AEX",
-    "link": "https://www.beurs.nl/Nieuws/871931/Beursupdate-pas-op-de-plaats-voor-AEX.aspx",
-    "intro": "De AEX is woensdagmiddag, na een rode opening, gestegen richting de slotkoers van dinsdag, op 1.097 punten.",
-    "published_at": "2026-07-22 14:12",
-    "scraped_at": "2026-07-22T15:18:08.821340"
-  },
-  {
-    "id": "968564ac9912edfeff23babd4bfbf558",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland heropent langlopende lening",
-    "link": "https://www.beurs.nl/Nieuws/871924/Obligatie-Nederland-heropent-langlopende-lening.aspx",
-    "intro": "Nederland gaat op 28 juli een lening heropenen die op 15 juli 2036 afloopt. Dit maakte het Agentschap van het ministerie van Financiën woensdagmiddag bekend.",
-    "published_at": "2026-07-22 13:35",
-    "scraped_at": "2026-07-22T15:18:08.821340"
+    "scraped_at": "2026-07-22T16:53:13.642591"
   }
 ]
