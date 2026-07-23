@@ -1,12 +1,84 @@
 [
   {
+    "id": "59c3dfee6a3da9d8af0687fe198141f0",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/872105/Wall-Street-wacht-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor de opening van de handel 0,9 procent in het rood. De Nasdaq lijkt 1,3 procent lager te gaan starten.",
+    "published_at": "2026-07-23 14:49",
+    "scraped_at": "2026-07-23T14:03:54.109380"
+  },
+  {
+    "id": "1ff53f0123f77a19599932d57375164b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: ECB last pauze in",
+    "link": "https://www.beurs.nl/Nieuws/872106/Beursblik-ECB-last-pauze-in.aspx",
+    "intro": "De Europese Centrale Bank heeft donderdag de rente ongemoeid gelaten, maar dit is slechts een pauze. Dit stelde econoom Mark Wall van Deutsche Bank in een reactie.",
+    "published_at": "2026-07-23 14:48",
+    "scraped_at": "2026-07-23T14:03:54.109380"
+  },
+  {
+    "id": "a8e8ad44ea86f9c71a5f130478fb932c",
+    "categorie": "Beursnieuws",
+    "titel": "Minder nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/872099/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-07-23 14:36",
+    "scraped_at": "2026-07-23T14:03:54.109380"
+  },
+  {
+    "id": "5fa6133977c0f5f9483946c94cb8c97b",
+    "categorie": "Beursnieuws",
+    "titel": "Chicago Fed index stijgt richting nul",
+    "link": "https://www.beurs.nl/Nieuws/872100/Chicago-Fed-index-stijgt-richting-nul.aspx",
+    "intro": "De Chicago Fed-Index is in juni gestegen tot bijna nul. Dit maakte de centrale bank van Chicago donderdag bekend.",
+    "published_at": "2026-07-23 14:36",
+    "scraped_at": "2026-07-23T14:03:54.109380"
+  },
+  {
+    "id": "78f9b46197332337a3534337a8c50b0c",
+    "categorie": "Beursnieuws",
+    "titel": "Update: ECB houdt rente ongewijzigd",
+    "link": "https://www.beurs.nl/Nieuws/871783/Update-ECB-houdt-rente-ongewijzigd.aspx",
+    "intro": "De Europese Centrale Bank heeft donderdag de rente onveranderd gelaten, zoals analisten ook hadden verwacht.",
+    "published_at": "2026-07-23 14:19",
+    "scraped_at": "2026-07-23T14:03:54.109380"
+  },
+  {
+    "id": "6b870432272db87308c25c7ce4cca838",
+    "categorie": "Beursnieuws",
+    "titel": "ECB houdt rente ongewijzigd",
+    "link": "https://www.beurs.nl/Nieuws/872093/ECB-houdt-rente-ongewijzigd.aspx",
+    "intro": "De Europese Centrale Bank heeft donderdag de rente onveranderd gelaten, zoals analisten ook hadden verwacht.",
+    "published_at": "2026-07-23 14:16",
+    "scraped_at": "2026-07-23T14:03:54.109380"
+  },
+  {
+    "id": "f2ebaec66eb4448c0283b6ed155cb1fc",
+    "categorie": "Beursnieuws",
+    "titel": "Herfinanciering moet CSG miljoenen opleveren",
+    "link": "https://www.beurs.nl/Nieuws/872092/Herfinanciering-moet-CSG-miljoenen-opleveren.aspx",
+    "intro": "CSG heeft met succes een herfinanciering afgerond die miljoenen aan rentekosten moet besparen. Dit maakte het defensiebedrijf met een notering aan het Damrak donderdag bekend.",
+    "published_at": "2026-07-23 14:07",
+    "scraped_at": "2026-07-23T14:03:54.109380"
+  },
+  {
+    "id": "6fcc306cb01671f33597b723d96165ce",
+    "categorie": "Beursnieuws",
+    "titel": "AEX zakt weg",
+    "link": "https://www.beurs.nl/Nieuws/872088/AEX-zakt-weg.aspx",
+    "intro": "De Amsterdamse beurs zakte donderdag gedurende de dag verder weg. Rond de klok van twee uur verloor de AEX 0,7 procent op 1.092,63 punten.",
+    "published_at": "2026-07-23 13:53",
+    "scraped_at": "2026-07-23T14:03:54.109380"
+  },
+  {
     "id": "d0433f843150730a7d634ab529f91394",
     "categorie": "Beursnieuws",
     "titel": "American Airlines boekt winstdaling ondanks recordomzet",
     "link": "https://www.beurs.nl/Nieuws/872085/American-Airlines-boekt-winstdaling-ondanks-recordomzet.aspx",
     "intro": "American Airlines heeft in het tweede kwartaal een recordomzet geboekt, maar zag de winst fors teruglopen door de sterk gestegen brandstofkosten. Dit bleek donderdag uit de kwartaalcijfers van de Amerikaanse luchtvaartmaatschappij.",
     "published_at": "2026-07-23 13:17",
-    "scraped_at": "2026-07-23T11:51:54.955231"
+    "scraped_at": "2026-07-23T14:03:54.109380"
   },
   {
     "id": "f867c5be295383ad4cc8075974196d4c",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872083/Futures-voorspellen-lagere-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,3 procent in het rood. De Nasdaq lijkt 0,2 procent lager te gaan openen.",
     "published_at": "2026-07-23 12:54",
-    "scraped_at": "2026-07-23T11:51:54.955231"
-  },
-  {
-    "id": "cb063e309a88c4e3e6873258ee6dcb51",
-    "categorie": "Beursnieuws",
-    "titel": "Dow Inc boekt winst",
-    "link": "https://www.beurs.nl/Nieuws/872080/Dow-Inc-boekt-winst.aspx",
-    "intro": "Dow Inc heeft in het tweede kwartaal flink meer omzet geboekt en zo weer winst behaald. Dit bleek donderdag uit cijfers van het Amerikaanse chemieconcern.",
-    "published_at": "2026-07-23 12:44",
-    "scraped_at": "2026-07-23T11:51:54.955231"
-  },
-  {
-    "id": "38b12bd853093e6cbbd92779436318e7",
-    "categorie": "Beursnieuws",
-    "titel": "Defensieaandelen in trek op rode Europese beursvloeren",
-    "link": "https://www.beurs.nl/Nieuws/872078/Defensieaandelen-in-trek-op-rode-Europese-beursvloeren.aspx",
-    "intro": "De Europese beurzen lieten donderdag verliezen zien, veroorzaakt door de chipsector, terwijl defensieaandelen juist in trek waren.",
-    "published_at": "2026-07-23 12:28",
-    "scraped_at": "2026-07-23T11:51:54.955231"
-  },
-  {
-    "id": "f0a897fc27a98fbe270bec859dab7956",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet voor Honeywell",
-    "link": "https://www.beurs.nl/Nieuws/872077/Meer-omzet-voor-Honeywell.aspx",
-    "intro": "Honeywell Technologies heeft in het tweede kwartaal de omzet zien stijgen, maar de winstgevendheid onder druk zien staan. Dit bleek donderdag uit cijfers van de Amerikaanse industriereus.",
-    "published_at": "2026-07-23 12:21",
-    "scraped_at": "2026-07-23T11:51:54.955231"
-  },
-  {
-    "id": "e50687da1039021aad94f7aa713347c6",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel Randstad",
-    "link": "https://www.beurs.nl/Nieuws/872066/Deutsche-Bank-verhoogt-koersdoel-Randstad.aspx",
-    "intro": "Deutsche Bank heeft donderdag het koersdoel voor Randstad verhoogd van 26,00 naar 32,00 euro, met handhaving van het Houden advies. Dit bleek uit een rapport van analist Steve Woolf.",
-    "published_at": "2026-07-23 11:51",
-    "scraped_at": "2026-07-23T11:51:54.955231"
-  },
-  {
-    "id": "0ed7514fd8244947dd98a122e3fb00e2",
-    "categorie": "Beursnieuws",
-    "titel": "Mondiale staalproductie groeit weer",
-    "link": "https://www.beurs.nl/Nieuws/872065/Mondiale-staalproductie-groeit-weer.aspx",
-    "intro": "De mondiale staalproductie is in juni gestegen, nadat de krimp in de voorgaande maanden al steeds verder afnam. Dit bleek donderdag uit cijfers van brancheorganisatie World Steel Association.",
-    "published_at": "2026-07-23 11:49",
-    "scraped_at": "2026-07-23T11:51:54.955231"
-  },
-  {
-    "id": "de5247abc8306b85240043413177cd21",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verlaagt koersdoel Prosus licht",
-    "link": "https://www.beurs.nl/Nieuws/872062/Deutsche-Bank-verlaagt-koersdoel-Prosus-licht.aspx",
-    "intro": "Deutsche Bank heeft het koersdoel voor Prosus verlaagd van 74,00 naar 72,00 euro, maar met handhaving van het koopadvies. Dit bleek donderdag uit een analistenrapport van de Duitse bank.",
-    "published_at": "2026-07-23 11:39",
-    "scraped_at": "2026-07-23T11:51:54.955231"
-  },
-  {
-    "id": "aa39e2ce1c481ffa50030a8f4b4bfe04",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verlaagt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/872059/Deutsche-Bank-verlaagt-koersdoel-Adyen.aspx",
-    "intro": "Deutsche Bank heeft donderdag het koersdoel voor Adyen verlaagd van 1.531 naar 1.238 euro, maar met handhaving van het koopadvies. Dit bleek uit een rapport van analist Nooshin Nejati.",
-    "published_at": "2026-07-23 11:29",
-    "scraped_at": "2026-07-23T11:51:54.955231"
-  },
-  {
-    "id": "94cfdcef7f2491a445801dfb430bbe6a",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam herziet advies en koersdoel voor Sligro",
-    "link": "https://www.beurs.nl/Nieuws/872058/Degroof-Petercam-herziet-advies-en-koersdoel-voor-Sligro.aspx",
-    "intro": "Degroof Petercam heeft het advies en het koersdoel voor Sligro Food Group onder herziening geplaatst, na tegenvallende resultaten in het eerste halfjaar van 2026. Dit stelde analist Fernand de Boer van de bank in een rapport.",
-    "published_at": "2026-07-23 11:28",
-    "scraped_at": "2026-07-23T11:51:54.955231"
+    "scraped_at": "2026-07-23T14:03:54.109380"
   }
 ]
