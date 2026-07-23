@@ -1,29 +1,92 @@
 [
   {
-    "id": "4210114e14587c125f00bc925ed8390d",
+    "id": "9c2117d090d588d6559c69b26fdc9602",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/872003/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 30 juli 2026:",
-    "published_at": "2026-07-23 06:35",
-    "scraped_at": "2026-07-23T04:43:51.210570"
+    "titel": "Easyjet ziet winst hard dalen",
+    "link": "https://www.beurs.nl/Nieuws/872034/Easyjet-ziet-winst-hard-dalen.aspx",
+    "intro": "Easyjet heeft in het afgelopen kwartaal fors minder winst geboekt, doordat het conflict in het Midden-Oosten de vraag onder druk zette en de brandstofkosten opdreef. Dit bleek donderdag uit een update van de Britse prijsvechter.",
+    "published_at": "2026-07-23 09:05",
+    "scraped_at": "2026-07-23T07:23:22.871235"
   },
   {
-    "id": "a57c145be26812f467ab9ab766aab6b9",
+    "id": "04ab0e30407e51e76afbd0f0d385ff52",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/872004/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 30 juli 2026:",
-    "published_at": "2026-07-23 06:35",
-    "scraped_at": "2026-07-23T04:43:51.210570"
+    "titel": "BNP Paribas verhoogt dividend na winstsprong",
+    "link": "https://www.beurs.nl/Nieuws/872033/BNP-Paribas-verhoogt-dividend-na-winstsprong.aspx",
+    "intro": "BNP Paribas wil een hoger interim-dividend uitkeren, nadat de resultaten over het tweede kwartaal de verwachtingen overtroffen. Dit bleek donderdag uit cijfers van de Franse bank.",
+    "published_at": "2026-07-23 08:55",
+    "scraped_at": "2026-07-23T07:23:22.871235"
   },
   {
-    "id": "c7e305ff8b890730f137504eabcc4abf",
+    "id": "a423d2a6c727771befbad5d5b61e8959",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/872006/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 30 juli 2026:",
-    "published_at": "2026-07-23 06:35",
-    "scraped_at": "2026-07-23T04:43:51.210570"
+    "titel": "UniCredit verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/872030/UniCredit-verhoogt-outlook.aspx",
+    "intro": "UniCredit heeft de winstverwachting voor 2026 verhoogd, na een recordhalfjaar. Dit maakte de Italiaanse bank donderdagochtend bekend.",
+    "published_at": "2026-07-23 08:48",
+    "scraped_at": "2026-07-23T07:23:22.871235"
+  },
+  {
+    "id": "f07816b84ae7b181db0d2c39bbf39ecc",
+    "categorie": "Beursnieuws",
+    "titel": "Nestle ziet omzet onder druk staan",
+    "link": "https://www.beurs.nl/Nieuws/872031/Nestle-ziet-omzet-onder-druk-staan.aspx",
+    "intro": "Nestlé heeft in de eerste jaarhelft de omzet onder druk zien staan. Dit bleek donderdag uit een update van het Zwitserse voedingsmiddelenbedrijf.",
+    "published_at": "2026-07-23 08:47",
+    "scraped_at": "2026-07-23T07:23:22.871235"
+  },
+  {
+    "id": "2d148807d0086b2819ea18d65cb719e0",
+    "categorie": "Beursnieuws",
+    "titel": "ACEA: flink meer personenauto's verkocht in de EU",
+    "link": "https://www.beurs.nl/Nieuws/872029/ACEA-flink-meer-personenautos-verkocht-in-de-EU.aspx",
+    "intro": "In juni zijn er in de Europese Unie meer nieuwe personenauto's verkocht. Dit bleek donderdag uit de registraties van brancheorganisatie ACEA.",
+    "published_at": "2026-07-23 08:37",
+    "scraped_at": "2026-07-23T07:23:22.871235"
+  },
+  {
+    "id": "217187849475953596718db397c8b042",
+    "categorie": "Beleggen",
+    "titel": "Super El Niño: risico én beleggingskans",
+    "link": "https://www.ieximpact.nl/artikel/871312/Super-El-Nino-risico-en-beleggingskans.aspx",
+    "intro": "Extreem weer heeft steeds vaker directe gevolgen voor bedrijven, toeleveringsketens en de brede economie. De waarschuwing voor een mogelijke super El Niño onderstreept dat opnieuw, schrijft Valentin Vigier van de Franse vermogensbeheerder LFDE.",
+    "published_at": "2026-07-23 08:30",
+    "scraped_at": "2026-07-23T07:23:22.871235"
+  },
+  {
+    "id": "46e175cb8b72bc29632629e0d0f74f31",
+    "categorie": "Beursnieuws",
+    "titel": "RELX verhoogt dividend",
+    "link": "https://www.beurs.nl/Nieuws/872026/RELX-verhoogt-dividend.aspx",
+    "intro": "RELX heeft op basis van de resultaten in de eerste jaarhelft besloten om het dividend te verhogen. Dit bleek donderdag uit een update van het databedrijf.",
+    "published_at": "2026-07-23 08:20",
+    "scraped_at": "2026-07-23T07:23:22.871235"
+  },
+  {
+    "id": "cc711e90b28e3d9774afda13f0b430c6",
+    "categorie": "Beursnieuws",
+    "titel": "Lagere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/872024/Lagere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat donderdag een lagere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,2 procent in het rood. Woensdag sloot de hoofdgraadmeter nog 0,4 procent hoger op 1.100,81 punten.",
+    "published_at": "2026-07-23 08:10",
+    "scraped_at": "2026-07-23T07:23:22.871235"
+  },
+  {
+    "id": "6cb141dd7d49f2476eb32a106065c154",
+    "categorie": "Beursnieuws",
+    "titel": "Sligro ziet volumes onder druk staan en kampt met kosteninflatie",
+    "link": "https://www.beurs.nl/Nieuws/872022/Sligro-ziet-volumes-onder-druk-staan-en-kampt-met-kosteninflatie.aspx",
+    "intro": "Sligro heeft in de eerste helft van 2026 marktaandeel gewonnen in Nederland en België, maar zag de volumes onder druk staan en kampte ook met kosteninflatie. Dit bleek donderdag uit een update van de groothandelaar.",
+    "published_at": "2026-07-23 07:56",
+    "scraped_at": "2026-07-23T07:23:22.871235"
+  },
+  {
+    "id": "f9fb092121c56d964fd42ffb58709965",
+    "categorie": "Beursnieuws",
+    "titel": "Cijfers Aalberts vallen mee",
+    "link": "https://www.beurs.nl/Nieuws/872020/Cijfers-Aalberts-vallen-mee.aspx",
+    "intro": "Aalberts heeft in de eerste helft van 2026 meevallende resultaten geboekt. Dit bleek donderdag uit cijfers van het bedrijf.",
+    "published_at": "2026-07-23 07:44",
+    "scraped_at": "2026-07-23T07:23:22.871235"
   }
 ]
