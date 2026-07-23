@@ -1,12 +1,39 @@
 [
   {
+    "id": "cb4b7479d2a5debd53033eb6e7b14f74",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs stijgt tot ruim 100 dollar",
+    "link": "https://www.beurs.nl/Nieuws/872146/Olieprijs-stijgt-tot-ruim-100-dollar.aspx",
+    "intro": "De olieprijzen zijn donderdag wederom hoger gesloten en noteerden op het hoogste niveau in zes weken door grote zorgen onder beleggers over de escalatie van het conflict tussen de VS en Iran. De bevoorrading met olie dreigt ernstig in gevaar te komen.",
+    "published_at": "2026-07-23 21:07",
+    "scraped_at": "2026-07-23T19:20:00.894934"
+  },
+  {
+    "id": "a5893ee2701d615ff1a3de76664af392",
+    "categorie": "Beursnieuws",
+    "titel": "WDP en Argan fuseren",
+    "link": "https://www.beurs.nl/Nieuws/872145/WDP-en-Argan-fuseren.aspx",
+    "intro": "WDP en het Franse Argan gaan fuseren. Dit maakten de twee vastgoedbedrijven donderdagavond bekend.",
+    "published_at": "2026-07-23 20:58",
+    "scraped_at": "2026-07-23T19:20:00.894934"
+  },
+  {
+    "id": "19f231d8398e73e6969a651fa7dad08d",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street flink in het rood",
+    "link": "https://www.beurs.nl/Nieuws/872141/Wall-Street-flink-in-het-rood.aspx",
+    "intro": "De Amerikaanse beurzen stonden donderdagavond flink in het rood. De druk van het conflict in het Midden-Oosten blijft beleggers parten spelen, net als de zorgen over de techsector.",
+    "published_at": "2026-07-23 20:21",
+    "scraped_at": "2026-07-23T19:20:00.894934"
+  },
+  {
     "id": "94eab0163a57b4dca724774d339958e8",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen over brede linie lager gesloten",
     "link": "https://www.beurs.nl/Nieuws/872138/Europese-beurzen-over-brede-linie-lager-gesloten.aspx",
     "intro": "De Europese beurzen zijn donderdag lager gesloten, terwijl de olieprijs sterk steeg en de Europese Centrale Bank de rente conform verwachting onveranderd hield.",
     "published_at": "2026-07-23 19:27",
-    "scraped_at": "2026-07-23T17:52:08.281412"
+    "scraped_at": "2026-07-23T19:20:00.894934"
   },
   {
     "id": "fe44d86c81a79fa92b37377bd7db0913",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/872130/Havas-handhaaft-outlook.aspx",
     "intro": "Havas heeft in de eerste jaarhelft de autonome omzetgroei weten vast te houden en handhaafde de verwachtingen voor het hele jaar. Dit meldde het Parijse reclamebureau met een notering in Amsterdam donderdagavond.",
     "published_at": "2026-07-23 18:07",
-    "scraped_at": "2026-07-23T17:52:08.281412"
+    "scraped_at": "2026-07-23T19:20:00.894934"
   },
   {
     "id": "e9d1c4e354ea3bcd8e19a47c22cbcf24",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/872129/Amsterdamse-beurs-sluit-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is donderdag in het rood gesloten, terwijl de olieprijs sterk steeg en de Europese Centrale Bank de rente ongemoeid liet.",
     "published_at": "2026-07-23 18:01",
-    "scraped_at": "2026-07-23T17:52:08.281412"
+    "scraped_at": "2026-07-23T19:20:00.894934"
   },
   {
     "id": "0e3fafd46b891e98d8c0248521fbb074",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872124/Aandeel-Arcadis-schiet-omhoog.aspx",
     "intro": "Het aandeel Arcadis noteerde donderdagmiddag ruim 9 procent hoger.",
     "published_at": "2026-07-23 17:05",
-    "scraped_at": "2026-07-23T17:52:08.281412"
+    "scraped_at": "2026-07-23T19:20:00.894934"
   },
   {
     "id": "3e022a1da78f78d11cd678db7b341a48",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872122/Aandeel-Albertsons-hard-omlaag.aspx",
     "intro": "Het aandeel van de Amerikaanse supermarktketen Albertsons staat donderdag stevig onder druk, na slecht ontvangen kwartaalcijfers.",
     "published_at": "2026-07-23 16:41",
-    "scraped_at": "2026-07-23T17:52:08.281412"
+    "scraped_at": "2026-07-23T19:20:00.894934"
   },
   {
     "id": "3b2f8c40061f9c25c25dc3b310475d1d",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872120/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 31 juli 2026:",
     "published_at": "2026-07-23 16:24",
-    "scraped_at": "2026-07-23T17:52:08.281412"
+    "scraped_at": "2026-07-23T19:20:00.894934"
   },
   {
     "id": "81a334b33c8d5ec5ad9118d6ee1aae93",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872119/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 31 juli 2026:",
     "published_at": "2026-07-23 16:22",
-    "scraped_at": "2026-07-23T17:52:08.281412"
-  },
-  {
-    "id": "3e52f29f90bc8d8bfcbf5f20c78a83f8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/872118/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 31 juli 2026:",
-    "published_at": "2026-07-23 16:20",
-    "scraped_at": "2026-07-23T17:52:08.281412"
-  },
-  {
-    "id": "852d644ee79a279027230f82edac7f5d",
-    "categorie": "Beursnieuws",
-    "titel": "McCormick kiest met Unilever-onderdelen voor notering in Londen",
-    "link": "https://www.beurs.nl/Nieuws/872117/McCormick-kiest-met-Unilever-onderdelen-voor-notering-in-Londen.aspx",
-    "intro": "McCormick gaat definitief voor een tweede beursnotering in Londen. Dit heeft de Amerikaanse kruiden- en specerijenreus donderdag bekendgemaakt.",
-    "published_at": "2026-07-23 16:11",
-    "scraped_at": "2026-07-23T17:52:08.281412"
-  },
-  {
-    "id": "01d6d5cd0e4ae84abed5a61db086d1b5",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen eurozone verder verbeterd",
-    "link": "https://www.beurs.nl/Nieuws/872116/Consumentenvertrouwen-eurozone-verder-verbeterd.aspx",
-    "intro": "Het consumentenvertrouwen in de eurozone is in juli verbeterd. Dit bleek donderdag uit voorlopige cijfers van de Europese Commissie.",
-    "published_at": "2026-07-23 16:05",
-    "scraped_at": "2026-07-23T17:52:08.281412"
+    "scraped_at": "2026-07-23T19:20:00.894934"
   }
 ]
