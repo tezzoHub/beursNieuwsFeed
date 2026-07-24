@@ -1,12 +1,30 @@
 [
   {
+    "id": "837a736780d8203f6c89a289951246a6",
+    "categorie": "Beursnieuws",
+    "titel": "Trump dreigt EU met forse heffing na techboetes",
+    "link": "https://www.beurs.nl/Nieuws/872312/Trump-dreigt-EU-met-forse-heffing-na-techboetes.aspx",
+    "intro": "De Amerikaanse president Donald Trump heeft vrijdag gedreigd de Europese Unie te treffen met een \"substantiële\" importheffing, als vergelding voor de miljardenboetes die Brussel oplegt aan Amerikaanse technologiebedrijven. Zijn regering start daarnaast een handelsonderzoek dat de opgelegde boetes moet terugdraaien.",
+    "published_at": "2026-07-24 19:54",
+    "scraped_at": "2026-07-24T18:25:32.602349"
+  },
+  {
+    "id": "e7d0e9d74fc32ed032280c16f0804571",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street trotseert toenemende onzekerheden",
+    "link": "https://www.beurs.nl/Nieuws/872311/Wall-Street-trotseert-toenemende-onzekerheden.aspx",
+    "intro": "De Amerikaanse beurzen noteerden vrijdagavond overwegend hoger, terwijl beleggers de toenemende onzekerheden vooralsnog naast zich neer konden leggen.",
+    "published_at": "2026-07-24 19:43",
+    "scraped_at": "2026-07-24T18:25:32.602349"
+  },
+  {
     "id": "f6d473504608e10c69f75a5a935103a7",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten wisselvallige week hoger af",
     "link": "https://www.beurs.nl/Nieuws/872300/Europese-beurzen-sluiten-wisselvallige-week-hoger-af.aspx",
     "intro": "De Europese beurzen zijn vrijdag hoger gesloten en eindigden daarmee een wisselvallige week, die in het teken stond van een lawine aan bedrijfscijfers en flink hogere olieprijzen als gevolg van de toenemende spanningen in het Midden-Oosten.",
     "published_at": "2026-07-24 18:45",
-    "scraped_at": "2026-07-24T16:59:34.708790"
+    "scraped_at": "2026-07-24T18:25:32.602349"
   },
   {
     "id": "68ed0f7a0719be53ca1418b0d006a3b8",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/872299/Winstgevendheid-MotorK-sterk-gestegen.aspx",
     "intro": "Het Italiaanse softwarebedrijf MotorK heeft in de eerste helft van 2026 de aangepaste EBITDA meer dan verdubbeld dankzij strikte kostenbeheersing. Dit bleek vrijdag nabeurs  uit de kwartaalcijfers van het in Amsterdam genoteerde bedrijf.",
     "published_at": "2026-07-24 18:16",
-    "scraped_at": "2026-07-24T16:59:34.708790"
+    "scraped_at": "2026-07-24T18:25:32.602349"
   },
   {
     "id": "507995e3496a024f66e7bf0ca1efa5ed",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/872297/RELX-en-Woltersuitblinkers-in-lichtgroene-AEX.aspx",
     "intro": "De Amsterdamse beurs is vrijdag met een kleine winst gesloten. De AEX won 0,3 procent op 1.090,04 punten.",
     "published_at": "2026-07-24 17:54",
-    "scraped_at": "2026-07-24T16:59:34.708790"
+    "scraped_at": "2026-07-24T18:25:32.602349"
   },
   {
     "id": "1916293fdbea4ea7c48850f60a405efa",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/872292/Video-koersdruk-bij-Besi-ondanks-goede-prestaties.aspx",
     "intro": "Het aandeel BE Semiconductor Industries staat onder druk, ondanks de sterke kwartaalupdate.",
     "published_at": "2026-07-24 16:49",
-    "scraped_at": "2026-07-24T16:59:34.708790"
+    "scraped_at": "2026-07-24T18:25:32.602349"
   },
   {
     "id": "b2df9c32817b85bd6797c8eb8af69e3a",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872285/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 3 augustus 2026:",
     "published_at": "2026-07-24 16:15",
-    "scraped_at": "2026-07-24T16:59:34.708790"
+    "scraped_at": "2026-07-24T18:25:32.602349"
   },
   {
     "id": "7a0ddecedcd9303dfbc5d5e3b64a16fd",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872286/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 3 augustus 2026:",
     "published_at": "2026-07-24 16:15",
-    "scraped_at": "2026-07-24T16:59:34.708790"
+    "scraped_at": "2026-07-24T18:25:32.602349"
   },
   {
     "id": "9bccc01ef9d11b68a803b43b4817d049",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872287/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 3 augustus 2026:",
     "published_at": "2026-07-24 16:14",
-    "scraped_at": "2026-07-24T16:59:34.708790"
+    "scraped_at": "2026-07-24T18:25:32.602349"
   },
   {
     "id": "87eb8bba83b1aa07a71743b660d55878",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872284/Meer-nieuwe-woningen-verkocht-in-de-VS.aspx",
     "intro": "Er zijn juni meer nieuwe eengezinswoningen verkocht in de Verenigde Staten. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-07-24 16:10",
-    "scraped_at": "2026-07-24T16:59:34.708790"
-  },
-  {
-    "id": "104e8c76372fbea77c4b5de8e5ffc240",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse dienstensector groeit harder",
-    "link": "https://www.beurs.nl/Nieuws/872283/Amerikaanse-dienstensector-groeit-harder.aspx",
-    "intro": "De dienstensector in de Verenigde Staten is in juli harder gegroeid, terwijl de Amerikaanse industrie in vrijwel hetzelfde tempo doorgroeide. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-07-24 15:59",
-    "scraped_at": "2026-07-24T16:59:34.708790"
-  },
-  {
-    "id": "177ffcad17ca37400232e0c569a721d4",
-    "categorie": "Beursnieuws",
-    "titel": "Groene openingsindicatie voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/872271/Groene-openingsindicatie-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen zullen vrijdag met winst van start gaan, na de koersdalingen van donderdag.",
-    "published_at": "2026-07-24 14:47",
-    "scraped_at": "2026-07-24T16:59:34.708790"
+    "scraped_at": "2026-07-24T18:25:32.602349"
   }
 ]
