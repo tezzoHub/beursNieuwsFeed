@@ -1,12 +1,48 @@
 [
   {
+    "id": "177ffcad17ca37400232e0c569a721d4",
+    "categorie": "Beursnieuws",
+    "titel": "Groene openingsindicatie voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/872271/Groene-openingsindicatie-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen zullen vrijdag met winst van start gaan, na de koersdalingen van donderdag.",
+    "published_at": "2026-07-24 14:47",
+    "scraped_at": "2026-07-24T13:07:40.014054"
+  },
+  {
+    "id": "00257c74a3f46bd50d1d2926a043e8de",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: hoger resultaat voor ArcelorMittal verwacht",
+    "link": "https://www.beurs.nl/Nieuws/872270/Beursblik-hoger-resultaat-voor-ArcelorMittal-verwacht.aspx",
+    "intro": "ArcelorMittal zal naar verwachting over het tweede kwartaal een stijging van het resultaat bekendmaken ten opzichte van een jaar eerder. Dat blijkt uit een consensusverwachting van analisten op de website van de staalreus.",
+    "published_at": "2026-07-24 14:37",
+    "scraped_at": "2026-07-24T13:07:40.014054"
+  },
+  {
+    "id": "23e064847ed64ff5421be0ee3a6304c9",
+    "categorie": "Beursnieuws",
+    "titel": "Staal aan kop op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/872258/Staal-aan-kop-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag vrijwel onveranderd op 1.086 punten.",
+    "published_at": "2026-07-24 13:57",
+    "scraped_at": "2026-07-24T13:07:40.014054"
+  },
+  {
+    "id": "5f82d274327f581123e49cd1c679a9e5",
+    "categorie": "Beursnieuws",
+    "titel": "EC: TikTok in strijd met wetgeving",
+    "link": "https://www.beurs.nl/Nieuws/872255/EC-TikTok-in-strijd-met-wetgeving.aspx",
+    "intro": "Het beleid van TikTok rond minderjarigen voldoet niet aan de Europese regels. Dit is de voorlopige uitkomst van een onderzoek van de Europese Commissie.",
+    "published_at": "2026-07-24 13:43",
+    "scraped_at": "2026-07-24T13:07:40.014054"
+  },
+  {
     "id": "a5b1e9744b826583fc7417d886b37c7b",
     "categorie": "Beursnieuws",
     "titel": "American Express verhoogt outlook",
     "link": "https://www.beurs.nl/Nieuws/872253/American-Express-verhoogt-outlook.aspx",
     "intro": "American Express heeft in het tweede kwartaal meer winst geboekt en besloot om de outlook voor heel 2026 te verhogen. Dit bleek vrijdag uit de kwartaalcijfers van de creditcardmaatschappij.",
     "published_at": "2026-07-24 13:20",
-    "scraped_at": "2026-07-24T11:26:42.885310"
+    "scraped_at": "2026-07-24T13:07:40.014054"
   },
   {
     "id": "a36b5673dabdfbd85006a1e205804ff4",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/872249/Lichtgroene-openingsindicatie-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen lijken vrijdag met kleine winsten van start te gaan, na de koersdruk op donderdag.",
     "published_at": "2026-07-24 13:03",
-    "scraped_at": "2026-07-24T11:26:42.885310"
+    "scraped_at": "2026-07-24T13:07:40.014054"
   },
   {
     "id": "2273dee85116bb93f7b072e09685458a",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872248/Europese-beurzen-kleuren-groen.aspx",
     "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd in de plus, ondanks alle zaken waar beleggers bezorgd over zijn.",
     "published_at": "2026-07-24 12:50",
-    "scraped_at": "2026-07-24T11:26:42.885310"
+    "scraped_at": "2026-07-24T13:07:40.014054"
   },
   {
     "id": "59520d17eb17254e745a6ef87299970d",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872235/Bank-of-America-verhoogt-koersdoel-RELX.aspx",
     "intro": "Bank of America heeft vrijdag het koersdoel voor RELX verhoogd van 38,50 naar 39,50 Britse pond, met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Amerikaanse bank.",
     "published_at": "2026-07-24 11:43",
-    "scraped_at": "2026-07-24T11:26:42.885310"
+    "scraped_at": "2026-07-24T13:07:40.014054"
   },
   {
     "id": "d878f695f7d5f8b75139531c89568459",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872233/ING-verhoogt-koersdoel-Besi-stevig.aspx",
     "intro": "ING heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 220 naar 310 euro met handhaving van het koopadvies.",
     "published_at": "2026-07-24 11:35",
-    "scraped_at": "2026-07-24T11:26:42.885310"
+    "scraped_at": "2026-07-24T13:07:40.014054"
   },
   {
     "id": "89afc20f6a315e3a3f1b001d15b5aa3b",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872218/Arcadis-straalt-op-groene-beurs-na-overnamebod.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagochtend iets hoger, na een aanvankelijk lagere opening. Kort na de klok van half elf won de AEX 0,4 procent op 1.090,80 punten.",
     "published_at": "2026-07-24 10:44",
-    "scraped_at": "2026-07-24T11:26:42.885310"
-  },
-  {
-    "id": "d40856b4c6c9244c138feb2fd6118283",
-    "categorie": "Beursnieuws",
-    "titel": "Britse dienstensector groeit weer",
-    "link": "https://www.beurs.nl/Nieuws/872217/Britse-dienstensector-groeit-weer.aspx",
-    "intro": "De dienstensector in het Verenigd Koninkrijk is in juli weer gegroeid, terwijl de industrie zijn groeitempo vasthield. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-07-24 10:39",
-    "scraped_at": "2026-07-24T11:26:42.885310"
-  },
-  {
-    "id": "0b2c9e33e8fa6c10d5a2c498bfcda75c",
-    "categorie": "Beursnieuws",
-    "titel": "Europese dienstensector groeit weer",
-    "link": "https://www.beurs.nl/Nieuws/872213/Europese-dienstensector-groeit-weer.aspx",
-    "intro": "De dienstensector in de eurozone is in juli weer gegroeid. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-07-24 10:08",
-    "scraped_at": "2026-07-24T11:26:42.885310"
-  },
-  {
-    "id": "3e64a95662f3478bd6f42da3f05e991a",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verlaagt koersdoel Signify",
-    "link": "https://www.beurs.nl/Nieuws/872210/Degroof-Petercam-verlaagt-koersdoel-Signify.aspx",
-    "intro": "Degroof Petercam heeft vrijdag het koersdoel voor Signify verlaagd van 16,00 naar 15,00 euro, met handhaving van het Reduceren advies. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-07-24 09:54",
-    "scraped_at": "2026-07-24T11:26:42.885310"
-  },
-  {
-    "id": "26401e79dbc24c5901c90208dfcf29a8",
-    "categorie": "Beursnieuws",
-    "titel": "Groei Duitse industrie trekt flink aan",
-    "link": "https://www.beurs.nl/Nieuws/872209/Groei-Duitse-industrie-trekt-flink-aan.aspx",
-    "intro": "De dienstensector in Duitsland is in juli opnieuw gekrompen, maar wel in een iets minder sterk tempo, terwijl de groei in de industrie flink aantrok. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-07-24 09:38",
-    "scraped_at": "2026-07-24T11:26:42.885310"
+    "scraped_at": "2026-07-24T13:07:40.014054"
   }
 ]
