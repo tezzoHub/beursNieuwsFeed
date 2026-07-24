@@ -1,12 +1,57 @@
 [
   {
-    "id": "2f9999d4ed149fd5f2178c6045e0e738",
+    "id": "a5b1e9744b826583fc7417d886b37c7b",
     "categorie": "Beursnieuws",
-    "titel": "Arcadis straalt na overnamebod op groene beurs",
-    "link": "https://www.beurs.nl/Nieuws/872218/Arcadis-straalt-na-overnamebod-op-groene-beurs.aspx",
+    "titel": "American Express verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/872253/American-Express-verhoogt-outlook.aspx",
+    "intro": "American Express heeft in het tweede kwartaal meer winst geboekt en besloot om de outlook voor heel 2026 te verhogen. Dit bleek vrijdag uit de kwartaalcijfers van de creditcardmaatschappij.",
+    "published_at": "2026-07-24 13:20",
+    "scraped_at": "2026-07-24T11:26:42.885310"
+  },
+  {
+    "id": "a36b5673dabdfbd85006a1e205804ff4",
+    "categorie": "Beursnieuws",
+    "titel": "Lichtgroene openingsindicatie voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/872249/Lichtgroene-openingsindicatie-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen lijken vrijdag met kleine winsten van start te gaan, na de koersdruk op donderdag.",
+    "published_at": "2026-07-24 13:03",
+    "scraped_at": "2026-07-24T11:26:42.885310"
+  },
+  {
+    "id": "2273dee85116bb93f7b072e09685458a",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen kleuren groen",
+    "link": "https://www.beurs.nl/Nieuws/872248/Europese-beurzen-kleuren-groen.aspx",
+    "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd in de plus, ondanks alle zaken waar beleggers bezorgd over zijn.",
+    "published_at": "2026-07-24 12:50",
+    "scraped_at": "2026-07-24T11:26:42.885310"
+  },
+  {
+    "id": "59520d17eb17254e745a6ef87299970d",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of America verhoogt koersdoel RELX",
+    "link": "https://www.beurs.nl/Nieuws/872235/Bank-of-America-verhoogt-koersdoel-RELX.aspx",
+    "intro": "Bank of America heeft vrijdag het koersdoel voor RELX verhoogd van 38,50 naar 39,50 Britse pond, met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-07-24 11:43",
+    "scraped_at": "2026-07-24T11:26:42.885310"
+  },
+  {
+    "id": "d878f695f7d5f8b75139531c89568459",
+    "categorie": "Beursnieuws",
+    "titel": "ING verhoogt koersdoel Besi stevig",
+    "link": "https://www.beurs.nl/Nieuws/872233/ING-verhoogt-koersdoel-Besi-stevig.aspx",
+    "intro": "ING heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 220 naar 310 euro met handhaving van het koopadvies.",
+    "published_at": "2026-07-24 11:35",
+    "scraped_at": "2026-07-24T11:26:42.885310"
+  },
+  {
+    "id": "89afc20f6a315e3a3f1b001d15b5aa3b",
+    "categorie": "Beursnieuws",
+    "titel": "Arcadis straalt op groene beurs na overnamebod",
+    "link": "https://www.beurs.nl/Nieuws/872218/Arcadis-straalt-op-groene-beurs-na-overnamebod.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdagochtend iets hoger, na een aanvankelijk lagere opening. Kort na de klok van half elf won de AEX 0,4 procent op 1.090,80 punten.",
     "published_at": "2026-07-24 10:44",
-    "scraped_at": "2026-07-24T09:41:09.592889"
+    "scraped_at": "2026-07-24T11:26:42.885310"
   },
   {
     "id": "d40856b4c6c9244c138feb2fd6118283",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872217/Britse-dienstensector-groeit-weer.aspx",
     "intro": "De dienstensector in het Verenigd Koninkrijk is in juli weer gegroeid, terwijl de industrie zijn groeitempo vasthield. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-07-24 10:39",
-    "scraped_at": "2026-07-24T09:41:09.592889"
+    "scraped_at": "2026-07-24T11:26:42.885310"
   },
   {
     "id": "0b2c9e33e8fa6c10d5a2c498bfcda75c",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872213/Europese-dienstensector-groeit-weer.aspx",
     "intro": "De dienstensector in de eurozone is in juli weer gegroeid. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-07-24 10:08",
-    "scraped_at": "2026-07-24T09:41:09.592889"
+    "scraped_at": "2026-07-24T11:26:42.885310"
   },
   {
     "id": "3e64a95662f3478bd6f42da3f05e991a",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872210/Degroof-Petercam-verlaagt-koersdoel-Signify.aspx",
     "intro": "Degroof Petercam heeft vrijdag het koersdoel voor Signify verlaagd van 16,00 naar 15,00 euro, met handhaving van het Reduceren advies. Dit bleek uit een rapport van de bank.",
     "published_at": "2026-07-24 09:54",
-    "scraped_at": "2026-07-24T09:41:09.592889"
+    "scraped_at": "2026-07-24T11:26:42.885310"
   },
   {
     "id": "26401e79dbc24c5901c90208dfcf29a8",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872209/Groei-Duitse-industrie-trekt-flink-aan.aspx",
     "intro": "De dienstensector in Duitsland is in juli opnieuw gekrompen, maar wel in een iets minder sterk tempo, terwijl de groei in de industrie flink aantrok. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-07-24 09:38",
-    "scraped_at": "2026-07-24T09:41:09.592889"
-  },
-  {
-    "id": "28dfd2285cdbd2fbd139db1b0c0ecd1a",
-    "categorie": "Beursnieuws",
-    "titel": "Franse dienstensector krimpt minder hard",
-    "link": "https://www.beurs.nl/Nieuws/872207/Franse-dienstensector-krimpt-minder-hard.aspx",
-    "intro": "De Franse dienstensector is in juli nog heel licht gekrompen, terwijl de industrie een pas op de plaats maakte. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-07-24 09:29",
-    "scraped_at": "2026-07-24T09:41:09.592889"
-  },
-  {
-    "id": "3f2b4129f8cbc7929a5db22e5df28e60",
-    "categorie": "Beursnieuws",
-    "titel": "Uitgevers aan kop in lichtrode AEX",
-    "link": "https://www.beurs.nl/Nieuws/872204/Uitgevers-aan-kop-in-lichtrode-AEX.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag iets lager geopend. Kort na opening, koerste de AEX 0,2 procent lager op 1.084,86 punten.",
-    "published_at": "2026-07-24 09:15",
-    "scraped_at": "2026-07-24T09:41:09.592889"
-  },
-  {
-    "id": "7076856419293984625c7a967ff2d3a8",
-    "categorie": "Beursnieuws",
-    "titel": "Arcadis ontvangt tweede bod van WSP",
-    "link": "https://www.beurs.nl/Nieuws/872198/Arcadis-ontvangt-tweede-bod-van-WSP.aspx",
-    "intro": "Arcadis heeft voor de tweede keer een overnamebod van het Canadese WSP Global ontvangen. Dit maakte het Nederlandse advies- en ingenieursbureau vrijdagochtend bekend.",
-    "published_at": "2026-07-24 09:14",
-    "scraped_at": "2026-07-24T09:41:09.592889"
-  },
-  {
-    "id": "43daea77839afd50c601641ded026c4f",
-    "categorie": "Beursnieuws",
-    "titel": "\"Gedurfde stap WDP\"",
-    "link": "https://www.beurs.nl/Nieuws/872197/Gedurfde-stap-WDP.aspx",
-    "intro": "WDP zet een grote stap met de beoogde fusie met het Franse Argan. Dit was de reactie van analisten vrijdagochtend, na de aankondiging van de deal donderdagavond.",
-    "published_at": "2026-07-24 09:12",
-    "scraped_at": "2026-07-24T09:41:09.592889"
-  },
-  {
-    "id": "71d0ee5c7ab744d927f2599ffff27b12",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel RELX licht",
-    "link": "https://www.beurs.nl/Nieuws/872195/Deutsche-Bank-verhoogt-koersdoel-RELX-licht.aspx",
-    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor RELX verhoogd van 30,50 naar 31,00 pond, met handhaving van het koopadvies. Dit bleek uit een rapport van de Duitse bank.",
-    "published_at": "2026-07-24 08:49",
-    "scraped_at": "2026-07-24T09:41:09.592889"
+    "scraped_at": "2026-07-24T11:26:42.885310"
   }
 ]
