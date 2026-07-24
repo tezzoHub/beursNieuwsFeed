@@ -1,92 +1,92 @@
 [
   {
+    "id": "2f9999d4ed149fd5f2178c6045e0e738",
+    "categorie": "Beursnieuws",
+    "titel": "Arcadis straalt na overnamebod op groene beurs",
+    "link": "https://www.beurs.nl/Nieuws/872218/Arcadis-straalt-na-overnamebod-op-groene-beurs.aspx",
+    "intro": "De Amsterdamse beurs koerste vrijdagochtend iets hoger, na een aanvankelijk lagere opening. Kort na de klok van half elf won de AEX 0,4 procent op 1.090,80 punten.",
+    "published_at": "2026-07-24 10:44",
+    "scraped_at": "2026-07-24T09:41:09.592889"
+  },
+  {
+    "id": "d40856b4c6c9244c138feb2fd6118283",
+    "categorie": "Beursnieuws",
+    "titel": "Britse dienstensector groeit weer",
+    "link": "https://www.beurs.nl/Nieuws/872217/Britse-dienstensector-groeit-weer.aspx",
+    "intro": "De dienstensector in het Verenigd Koninkrijk is in juli weer gegroeid, terwijl de industrie zijn groeitempo vasthield. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-07-24 10:39",
+    "scraped_at": "2026-07-24T09:41:09.592889"
+  },
+  {
+    "id": "0b2c9e33e8fa6c10d5a2c498bfcda75c",
+    "categorie": "Beursnieuws",
+    "titel": "Europese dienstensector groeit weer",
+    "link": "https://www.beurs.nl/Nieuws/872213/Europese-dienstensector-groeit-weer.aspx",
+    "intro": "De dienstensector in de eurozone is in juli weer gegroeid. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-07-24 10:08",
+    "scraped_at": "2026-07-24T09:41:09.592889"
+  },
+  {
+    "id": "3e64a95662f3478bd6f42da3f05e991a",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof Petercam verlaagt koersdoel Signify",
+    "link": "https://www.beurs.nl/Nieuws/872210/Degroof-Petercam-verlaagt-koersdoel-Signify.aspx",
+    "intro": "Degroof Petercam heeft vrijdag het koersdoel voor Signify verlaagd van 16,00 naar 15,00 euro, met handhaving van het Reduceren advies. Dit bleek uit een rapport van de bank.",
+    "published_at": "2026-07-24 09:54",
+    "scraped_at": "2026-07-24T09:41:09.592889"
+  },
+  {
+    "id": "26401e79dbc24c5901c90208dfcf29a8",
+    "categorie": "Beursnieuws",
+    "titel": "Groei Duitse industrie trekt flink aan",
+    "link": "https://www.beurs.nl/Nieuws/872209/Groei-Duitse-industrie-trekt-flink-aan.aspx",
+    "intro": "De dienstensector in Duitsland is in juli opnieuw gekrompen, maar wel in een iets minder sterk tempo, terwijl de groei in de industrie flink aantrok. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-07-24 09:38",
+    "scraped_at": "2026-07-24T09:41:09.592889"
+  },
+  {
+    "id": "28dfd2285cdbd2fbd139db1b0c0ecd1a",
+    "categorie": "Beursnieuws",
+    "titel": "Franse dienstensector krimpt minder hard",
+    "link": "https://www.beurs.nl/Nieuws/872207/Franse-dienstensector-krimpt-minder-hard.aspx",
+    "intro": "De Franse dienstensector is in juli nog heel licht gekrompen, terwijl de industrie een pas op de plaats maakte. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-07-24 09:29",
+    "scraped_at": "2026-07-24T09:41:09.592889"
+  },
+  {
+    "id": "3f2b4129f8cbc7929a5db22e5df28e60",
+    "categorie": "Beursnieuws",
+    "titel": "Uitgevers aan kop in lichtrode AEX",
+    "link": "https://www.beurs.nl/Nieuws/872204/Uitgevers-aan-kop-in-lichtrode-AEX.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag iets lager geopend. Kort na opening, koerste de AEX 0,2 procent lager op 1.084,86 punten.",
+    "published_at": "2026-07-24 09:15",
+    "scraped_at": "2026-07-24T09:41:09.592889"
+  },
+  {
     "id": "7076856419293984625c7a967ff2d3a8",
     "categorie": "Beursnieuws",
     "titel": "Arcadis ontvangt tweede bod van WSP",
     "link": "https://www.beurs.nl/Nieuws/872198/Arcadis-ontvangt-tweede-bod-van-WSP.aspx",
     "intro": "Arcadis heeft voor de tweede keer een overnamebod van het Canadese WSP Global ontvangen. Dit maakte het Nederlandse advies- en ingenieursbureau vrijdagochtend bekend.",
     "published_at": "2026-07-24 09:14",
-    "scraped_at": "2026-07-24T07:20:53.800479"
+    "scraped_at": "2026-07-24T09:41:09.592889"
   },
   {
-    "id": "fdc35ec03a8d1a7027811ef12afad25e",
+    "id": "43daea77839afd50c601641ded026c4f",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: gedurfde stap WDP",
-    "link": "https://www.beurs.nl/Nieuws/872197/Beursblik-gedurfde-stap-WDP.aspx",
+    "titel": "\"Gedurfde stap WDP\"",
+    "link": "https://www.beurs.nl/Nieuws/872197/Gedurfde-stap-WDP.aspx",
     "intro": "WDP zet een grote stap met de beoogde fusie met het Franse Argan. Dit was de reactie van analisten vrijdagochtend, na de aankondiging van de deal donderdagavond.",
     "published_at": "2026-07-24 09:12",
-    "scraped_at": "2026-07-24T07:20:53.800479"
+    "scraped_at": "2026-07-24T09:41:09.592889"
   },
   {
-    "id": "77cf88fdeb22525bd74e60cbc28adcc2",
+    "id": "71d0ee5c7ab744d927f2599ffff27b12",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel RELX",
-    "link": "https://www.beurs.nl/Nieuws/872195/Beursblik-Deutsche-Bank-verhoogt-koersdoel-RELX.aspx",
+    "titel": "Deutsche Bank verhoogt koersdoel RELX licht",
+    "link": "https://www.beurs.nl/Nieuws/872195/Deutsche-Bank-verhoogt-koersdoel-RELX-licht.aspx",
     "intro": "Deutsche Bank heeft vrijdag het koersdoel voor RELX verhoogd van 30,50 naar 31,00 pond, met handhaving van het koopadvies. Dit bleek uit een rapport van de Duitse bank.",
     "published_at": "2026-07-24 08:49",
-    "scraped_at": "2026-07-24T07:20:53.800479"
-  },
-  {
-    "id": "810f7229b34ff7dea94a034eefcbebb7",
-    "categorie": "Opinie",
-    "titel": "Impactmeting: technologie helpt, maar interpretatie blijft mensenwerk",
-    "link": "https://www.ieximpact.nl/artikel/871873/Impactmeting-technologie-helpt-maar-interpretatie-blijft-mensenwerk.aspx",
-    "intro": "Impactdata genoeg maar zonder duidelijke keuzes over wat echt belangrijk is, blijft impactmeting vooral een rapportage-oefening. Ook moet negatieve impact zichtbaarder worden, vooral bij 'gewone' beleggingen, aldus vier impactspecialisten tijdens een recent rondetafelgesprek van IEX Impact. Dit is het laatste deel van een drieluik",
-    "published_at": "2026-07-24 08:48",
-    "scraped_at": "2026-07-24T07:20:53.800479"
-  },
-  {
-    "id": "a6141f6fd08b96d94d186f0283103292",
-    "categorie": "Beursnieuws",
-    "titel": "Volkswagen verlaagt outlook voor 2026",
-    "link": "https://www.beurs.nl/Nieuws/872194/Volkswagen-verlaagt-outlook-voor-2026.aspx",
-    "intro": "Volkswagen heeft in de eerste zes maanden van dit jaar de omzet op peil gehouden, maar de winstgevendheid fors zien dalen en de outlook neerwaarts bijgesteld. Dit bleek vrijdag uit cijfers van de Duitse autofabrikant.",
-    "published_at": "2026-07-24 08:47",
-    "scraped_at": "2026-07-24T07:20:53.800479"
-  },
-  {
-    "id": "33718950dd9ac3fa5e8d659d40a48e28",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: meevallende cijfers Heijmans",
-    "link": "https://www.beurs.nl/Nieuws/872192/Beursblik-meevallende-cijfers-Heijmans.aspx",
-    "intro": "Heijmans heeft in de eerste helft van 2026 beter dan verwacht gepresteerd. Dit stelde analist Martijn den Drijver van ABN AMRO Oddo vrijdag in een eerste reactie.",
-    "published_at": "2026-07-24 08:19",
-    "scraped_at": "2026-07-24T07:20:53.800479"
-  },
-  {
-    "id": "c943863989f21a65e14807bfaa3a365f",
-    "categorie": "Beursnieuws",
-    "titel": "Britse detailhandelsverkopen gestegen",
-    "link": "https://www.beurs.nl/Nieuws/872191/Britse-detailhandelsverkopen-gestegen.aspx",
-    "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in juni gestegen, na al een stijging in mei. Dit bleek vrijdag uit cijfers van het Britse bureau voor de statistiek.",
-    "published_at": "2026-07-24 08:17",
-    "scraped_at": "2026-07-24T07:20:53.800479"
-  },
-  {
-    "id": "d6cd5440a0dbe7d2f17e1a423ade05aa",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/872187/Vlakke-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat vrijdag een vlakke opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,1 procent in het groen. Donderdag eindigde de hoofdgraadmeter 1,3 procent lager op 1.086,67 punten.",
-    "published_at": "2026-07-24 08:03",
-    "scraped_at": "2026-07-24T07:20:53.800479"
-  },
-  {
-    "id": "e706ca1d43b22e956c35076a8951023d",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet voor Heijmans",
-    "link": "https://www.beurs.nl/Nieuws/872184/Meer-omzet-voor-Heijmans.aspx",
-    "intro": "Heijmans heeft in de eerste zes maanden van 2026 meer omzet behaald, ondanks dat er minder woningen werden verkocht. Dit bleek vrijdag voorbeurs uit een update van de bouwer.",
-    "published_at": "2026-07-24 07:39",
-    "scraped_at": "2026-07-24T07:20:53.800479"
-  },
-  {
-    "id": "b4fd2f0f4955ade4d67c1775ab951b54",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen onder druk",
-    "link": "https://www.beurs.nl/Nieuws/872182/Aziatische-beurzen-onder-druk.aspx",
-    "intro": "De Aziatische aandelenmarkten koersten vrijdag in het rood.",
-    "published_at": "2026-07-24 07:31",
-    "scraped_at": "2026-07-24T07:20:53.800479"
+    "scraped_at": "2026-07-24T09:41:09.592889"
   }
 ]
