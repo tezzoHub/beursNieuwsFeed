@@ -1,21 +1,75 @@
 [
   {
+    "id": "1916293fdbea4ea7c48850f60a405efa",
+    "categorie": "Beursnieuws",
+    "titel": "Video: koersdruk bij Besi ondanks goede prestaties",
+    "link": "https://www.beurs.nl/Nieuws/872292/Video-koersdruk-bij-Besi-ondanks-goede-prestaties.aspx",
+    "intro": "Het aandeel BE Semiconductor Industries staat onder druk, ondanks de sterke kwartaalupdate.",
+    "published_at": "2026-07-24 16:49",
+    "scraped_at": "2026-07-24T15:10:49.412318"
+  },
+  {
+    "id": "b2df9c32817b85bd6797c8eb8af69e3a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/872285/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 3 augustus 2026:",
+    "published_at": "2026-07-24 16:15",
+    "scraped_at": "2026-07-24T15:10:49.412318"
+  },
+  {
+    "id": "7a0ddecedcd9303dfbc5d5e3b64a16fd",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/872286/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 3 augustus 2026:",
+    "published_at": "2026-07-24 16:15",
+    "scraped_at": "2026-07-24T15:10:49.412318"
+  },
+  {
+    "id": "9bccc01ef9d11b68a803b43b4817d049",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/872287/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 3 augustus 2026:",
+    "published_at": "2026-07-24 16:14",
+    "scraped_at": "2026-07-24T15:10:49.412318"
+  },
+  {
+    "id": "87eb8bba83b1aa07a71743b660d55878",
+    "categorie": "Beursnieuws",
+    "titel": "Meer nieuwe woningen verkocht in de VS",
+    "link": "https://www.beurs.nl/Nieuws/872284/Meer-nieuwe-woningen-verkocht-in-de-VS.aspx",
+    "intro": "Er zijn juni meer nieuwe eengezinswoningen verkocht in de Verenigde Staten. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-07-24 16:10",
+    "scraped_at": "2026-07-24T15:10:49.412318"
+  },
+  {
+    "id": "104e8c76372fbea77c4b5de8e5ffc240",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse dienstensector groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/872283/Amerikaanse-dienstensector-groeit-harder.aspx",
+    "intro": "De dienstensector in de Verenigde Staten is in juli harder gegroeid, terwijl de Amerikaanse industrie in vrijwel hetzelfde tempo doorgroeide. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-07-24 15:59",
+    "scraped_at": "2026-07-24T15:10:49.412318"
+  },
+  {
     "id": "177ffcad17ca37400232e0c569a721d4",
     "categorie": "Beursnieuws",
     "titel": "Groene openingsindicatie voor Wall Street",
     "link": "https://www.beurs.nl/Nieuws/872271/Groene-openingsindicatie-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen zullen vrijdag met winst van start gaan, na de koersdalingen van donderdag.",
     "published_at": "2026-07-24 14:47",
-    "scraped_at": "2026-07-24T13:07:40.014054"
+    "scraped_at": "2026-07-24T15:10:49.412318"
   },
   {
-    "id": "00257c74a3f46bd50d1d2926a043e8de",
+    "id": "b6589bded2ae7f36a1ed1114df7ffde9",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: hoger resultaat voor ArcelorMittal verwacht",
-    "link": "https://www.beurs.nl/Nieuws/872270/Beursblik-hoger-resultaat-voor-ArcelorMittal-verwacht.aspx",
+    "titel": "Hoger resultaat voor ArcelorMittal verwacht",
+    "link": "https://www.beurs.nl/Nieuws/872270/Hoger-resultaat-voor-ArcelorMittal-verwacht.aspx",
     "intro": "ArcelorMittal zal naar verwachting over het tweede kwartaal een stijging van het resultaat bekendmaken ten opzichte van een jaar eerder. Dat blijkt uit een consensusverwachting van analisten op de website van de staalreus.",
     "published_at": "2026-07-24 14:37",
-    "scraped_at": "2026-07-24T13:07:40.014054"
+    "scraped_at": "2026-07-24T15:10:49.412318"
   },
   {
     "id": "23e064847ed64ff5421be0ee3a6304c9",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872258/Staal-aan-kop-op-Damrak.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdagmiddag vrijwel onveranderd op 1.086 punten.",
     "published_at": "2026-07-24 13:57",
-    "scraped_at": "2026-07-24T13:07:40.014054"
+    "scraped_at": "2026-07-24T15:10:49.412318"
   },
   {
     "id": "5f82d274327f581123e49cd1c679a9e5",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872255/EC-TikTok-in-strijd-met-wetgeving.aspx",
     "intro": "Het beleid van TikTok rond minderjarigen voldoet niet aan de Europese regels. Dit is de voorlopige uitkomst van een onderzoek van de Europese Commissie.",
     "published_at": "2026-07-24 13:43",
-    "scraped_at": "2026-07-24T13:07:40.014054"
-  },
-  {
-    "id": "a5b1e9744b826583fc7417d886b37c7b",
-    "categorie": "Beursnieuws",
-    "titel": "American Express verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/872253/American-Express-verhoogt-outlook.aspx",
-    "intro": "American Express heeft in het tweede kwartaal meer winst geboekt en besloot om de outlook voor heel 2026 te verhogen. Dit bleek vrijdag uit de kwartaalcijfers van de creditcardmaatschappij.",
-    "published_at": "2026-07-24 13:20",
-    "scraped_at": "2026-07-24T13:07:40.014054"
-  },
-  {
-    "id": "a36b5673dabdfbd85006a1e205804ff4",
-    "categorie": "Beursnieuws",
-    "titel": "Lichtgroene openingsindicatie voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/872249/Lichtgroene-openingsindicatie-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen lijken vrijdag met kleine winsten van start te gaan, na de koersdruk op donderdag.",
-    "published_at": "2026-07-24 13:03",
-    "scraped_at": "2026-07-24T13:07:40.014054"
-  },
-  {
-    "id": "2273dee85116bb93f7b072e09685458a",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen kleuren groen",
-    "link": "https://www.beurs.nl/Nieuws/872248/Europese-beurzen-kleuren-groen.aspx",
-    "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd in de plus, ondanks alle zaken waar beleggers bezorgd over zijn.",
-    "published_at": "2026-07-24 12:50",
-    "scraped_at": "2026-07-24T13:07:40.014054"
-  },
-  {
-    "id": "59520d17eb17254e745a6ef87299970d",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel RELX",
-    "link": "https://www.beurs.nl/Nieuws/872235/Bank-of-America-verhoogt-koersdoel-RELX.aspx",
-    "intro": "Bank of America heeft vrijdag het koersdoel voor RELX verhoogd van 38,50 naar 39,50 Britse pond, met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Amerikaanse bank.",
-    "published_at": "2026-07-24 11:43",
-    "scraped_at": "2026-07-24T13:07:40.014054"
-  },
-  {
-    "id": "d878f695f7d5f8b75139531c89568459",
-    "categorie": "Beursnieuws",
-    "titel": "ING verhoogt koersdoel Besi stevig",
-    "link": "https://www.beurs.nl/Nieuws/872233/ING-verhoogt-koersdoel-Besi-stevig.aspx",
-    "intro": "ING heeft vrijdag het koersdoel voor BE Semiconductor Industries verhoogd van 220 naar 310 euro met handhaving van het koopadvies.",
-    "published_at": "2026-07-24 11:35",
-    "scraped_at": "2026-07-24T13:07:40.014054"
-  },
-  {
-    "id": "89afc20f6a315e3a3f1b001d15b5aa3b",
-    "categorie": "Beursnieuws",
-    "titel": "Arcadis straalt op groene beurs na overnamebod",
-    "link": "https://www.beurs.nl/Nieuws/872218/Arcadis-straalt-op-groene-beurs-na-overnamebod.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdagochtend iets hoger, na een aanvankelijk lagere opening. Kort na de klok van half elf won de AEX 0,4 procent op 1.090,80 punten.",
-    "published_at": "2026-07-24 10:44",
-    "scraped_at": "2026-07-24T13:07:40.014054"
+    "scraped_at": "2026-07-24T15:10:49.412318"
   }
 ]
