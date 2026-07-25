@@ -1,12 +1,21 @@
 [
   {
+    "id": "689a1facba3588a1bad6210baeb5d17b",
+    "categorie": "Beursnieuws",
+    "titel": "Enorme drukke week in het verschiet",
+    "link": "https://www.beurs.nl/Nieuws/872331/Enorme-drukke-week-in-het-verschiet.aspx",
+    "intro": "Bedrijfsresultaten, macrocijfers en rentebesluiten op de agenda.",
+    "published_at": "2026-07-25 13:34",
+    "scraped_at": "2026-07-25T11:53:37.338092"
+  },
+  {
     "id": "89411eaba5ff331f0ac1f300aef6a5d3",
     "categorie": "Beursnieuws",
     "titel": "Flinke koersuitschieters in vlakke AEX",
     "link": "https://www.beurs.nl/Nieuws/872329/Flinke-koersuitschieters-in-vlakke-AEX.aspx",
     "intro": "De AEX is afgelopen week nauwelijks in beweging gekomen, met een weekverlies van 0,2 procent, maar onderliggend waren de bewegingen een stuk sterker.",
     "published_at": "2026-07-25 12:39",
-    "scraped_at": "2026-07-25T10:49:20.309071"
+    "scraped_at": "2026-07-25T11:53:37.338092"
   },
   {
     "id": "df0c70625db7aac3344e84c8407879fb",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/872326/Een-week-tussen-hoop-en-vrees-op-de-Amsterdamse-beurs.aspx",
     "intro": "De Amsterdamse beurs heeft een drukke week achter de rug, waarin de AEX per saldo nauwelijks van zijn plek kwam. Op een slotstand van 1.090,04 punten op vrijdag daalde de hoofdindex met 0,2 procent op weekbasis.",
     "published_at": "2026-07-25 11:53",
-    "scraped_at": "2026-07-25T10:49:20.309071"
+    "scraped_at": "2026-07-25T11:53:37.338092"
   },
   {
     "id": "b8802f74dcdf3880284fe6361ef1e23c",
@@ -24,6 +33,6 @@
     "link": "https://www.iex.nl/artikel/871609/Vooruitblik-bomvolle-beursweek-met-ASMI-Shell-Apple-en-de-Fed.aspx",
     "intro": "",
     "published_at": "2026-07-25 11:00",
-    "scraped_at": "2026-07-25T10:49:20.309071"
+    "scraped_at": "2026-07-25T11:53:37.338092"
   }
 ]
