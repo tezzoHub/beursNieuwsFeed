@@ -1,92 +1,29 @@
 [
   {
-    "id": "b093d2336294210ccf227eddecd22bf4",
+    "id": "89411eaba5ff331f0ac1f300aef6a5d3",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/872319/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-07-24 22:14",
-    "scraped_at": "2026-07-25T09:15:13.073608"
+    "titel": "Flinke koersuitschieters in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/872329/Flinke-koersuitschieters-in-vlakke-AEX.aspx",
+    "intro": "De AEX is afgelopen week nauwelijks in beweging gekomen, met een weekverlies van 0,2 procent, maar onderliggend waren de bewegingen een stuk sterker.",
+    "published_at": "2026-07-25 12:39",
+    "scraped_at": "2026-07-25T10:49:20.309071"
   },
   {
-    "id": "378533076ce892130bc61226c0e37171",
+    "id": "df0c70625db7aac3344e84c8407879fb",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street eindigt week verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/872318/Wall-Street-eindigt-week-verdeeld.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdagavond verdeeld gesloten, nadat het aanvankelijk positieve sentiment in de loop van de dag afzwakte door hernieuwde angst voor escalatie in het Midden-Oosten en aanhoudende druk op de chipaandelen.",
-    "published_at": "2026-07-24 22:13",
-    "scraped_at": "2026-07-25T09:15:13.073608"
+    "titel": "Een week tussen hoop en vrees op de Amsterdamse beurs",
+    "link": "https://www.beurs.nl/Nieuws/872326/Een-week-tussen-hoop-en-vrees-op-de-Amsterdamse-beurs.aspx",
+    "intro": "De Amsterdamse beurs heeft een drukke week achter de rug, waarin de AEX per saldo nauwelijks van zijn plek kwam. Op een slotstand van 1.090,04 punten op vrijdag daalde de hoofdindex met 0,2 procent op weekbasis.",
+    "published_at": "2026-07-25 11:53",
+    "scraped_at": "2026-07-25T10:49:20.309071"
   },
   {
-    "id": "efb0dea2265cd477298bb1fea32f64c3",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen lager het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/872315/Olieprijzen-lager-het-weekend-in.aspx",
-    "intro": "De olieprijzen zijn vrijdag lager gesloten, naar aanleiding van een bericht dat Pakistan zoekt naar een manier om de gesprekken tussen de VS en Iran te hervatten.",
-    "published_at": "2026-07-24 21:14",
-    "scraped_at": "2026-07-25T09:15:13.073608"
-  },
-  {
-    "id": "837a736780d8203f6c89a289951246a6",
-    "categorie": "Beursnieuws",
-    "titel": "Trump dreigt EU met forse heffing na techboetes",
-    "link": "https://www.beurs.nl/Nieuws/872312/Trump-dreigt-EU-met-forse-heffing-na-techboetes.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft vrijdag gedreigd de Europese Unie te treffen met een \"substantiële\" importheffing, als vergelding voor de miljardenboetes die Brussel oplegt aan Amerikaanse technologiebedrijven. Zijn regering start daarnaast een handelsonderzoek dat de opgelegde boetes moet terugdraaien.",
-    "published_at": "2026-07-24 19:54",
-    "scraped_at": "2026-07-25T09:15:13.073608"
-  },
-  {
-    "id": "e7d0e9d74fc32ed032280c16f0804571",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street trotseert toenemende onzekerheden",
-    "link": "https://www.beurs.nl/Nieuws/872311/Wall-Street-trotseert-toenemende-onzekerheden.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdagavond overwegend hoger, terwijl beleggers de toenemende onzekerheden vooralsnog naast zich neer konden leggen.",
-    "published_at": "2026-07-24 19:43",
-    "scraped_at": "2026-07-25T09:15:13.073608"
-  },
-  {
-    "id": "f6d473504608e10c69f75a5a935103a7",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten wisselvallige week hoger af",
-    "link": "https://www.beurs.nl/Nieuws/872300/Europese-beurzen-sluiten-wisselvallige-week-hoger-af.aspx",
-    "intro": "De Europese beurzen zijn vrijdag hoger gesloten en eindigden daarmee een wisselvallige week, die in het teken stond van een lawine aan bedrijfscijfers en flink hogere olieprijzen als gevolg van de toenemende spanningen in het Midden-Oosten.",
-    "published_at": "2026-07-24 18:45",
-    "scraped_at": "2026-07-25T09:15:13.073608"
-  },
-  {
-    "id": "68ed0f7a0719be53ca1418b0d006a3b8",
-    "categorie": "Beursnieuws",
-    "titel": "Winstgevendheid MotorK sterk gestegen",
-    "link": "https://www.beurs.nl/Nieuws/872299/Winstgevendheid-MotorK-sterk-gestegen.aspx",
-    "intro": "Het Italiaanse softwarebedrijf MotorK heeft in de eerste helft van 2026 de aangepaste EBITDA meer dan verdubbeld dankzij strikte kostenbeheersing. Dit bleek vrijdag nabeurs  uit de kwartaalcijfers van het in Amsterdam genoteerde bedrijf.",
-    "published_at": "2026-07-24 18:16",
-    "scraped_at": "2026-07-25T09:15:13.073608"
-  },
-  {
-    "id": "507995e3496a024f66e7bf0ca1efa5ed",
-    "categorie": "Beursnieuws",
-    "titel": "RELX en Wolters uitblinkers in lichtgroene AEX",
-    "link": "https://www.beurs.nl/Nieuws/872297/RELX-en-Woltersuitblinkers-in-lichtgroene-AEX.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag met een kleine winst gesloten. De AEX won 0,3 procent op 1.090,04 punten.",
-    "published_at": "2026-07-24 17:54",
-    "scraped_at": "2026-07-25T09:15:13.073608"
-  },
-  {
-    "id": "1916293fdbea4ea7c48850f60a405efa",
-    "categorie": "Beursnieuws",
-    "titel": "Video: koersdruk bij Besi ondanks goede prestaties",
-    "link": "https://www.beurs.nl/Nieuws/872292/Video-koersdruk-bij-Besi-ondanks-goede-prestaties.aspx",
-    "intro": "Het aandeel BE Semiconductor Industries staat onder druk, ondanks de sterke kwartaalupdate.",
-    "published_at": "2026-07-24 16:49",
-    "scraped_at": "2026-07-25T09:15:13.073608"
-  },
-  {
-    "id": "b2df9c32817b85bd6797c8eb8af69e3a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/872285/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 3 augustus 2026:",
-    "published_at": "2026-07-24 16:15",
-    "scraped_at": "2026-07-25T09:15:13.073608"
+    "id": "b8802f74dcdf3880284fe6361ef1e23c",
+    "categorie": "",
+    "titel": "Vooruitblik: bomvolle beursweek met ASMI, Shell, Apple en de Fed",
+    "link": "https://www.iex.nl/artikel/871609/Vooruitblik-bomvolle-beursweek-met-ASMI-Shell-Apple-en-de-Fed.aspx",
+    "intro": "",
+    "published_at": "2026-07-25 11:00",
+    "scraped_at": "2026-07-25T10:49:20.309071"
   }
 ]
