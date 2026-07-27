@@ -1,12 +1,21 @@
 [
   {
+    "id": "4fc9c90bf79af925511c2c2943903c45",
+    "categorie": "Beursnieuws",
+    "titel": "Chipaandelen onder druk op verdeeld Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/872471/Chipaandelen-onder-druk-op-verdeeld-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden maandagavond verdeeld. Beleggers reageerden eerder nog opgelucht op het nieuws dat de spanningen tussen de Verenigde Staten en Iran afnamen, maar na de opening nam de verkoopdruk bij de chipaandelen toe en drukte het sentiment.",
+    "published_at": "2026-07-27 19:51",
+    "scraped_at": "2026-07-27T18:51:45.165551"
+  },
+  {
     "id": "8f8a7f60360e42ca05263a9a752c6f27",
     "categorie": "Beursnieuws",
     "titel": "Theon handhaaft outlook",
     "link": "https://www.beurs.nl/Nieuws/872468/Theon-handhaaft-outlook.aspx",
     "intro": "Theon is in het tweede kwartaal flink gegroeid en wist zo momentum te behouden in de eerste jaarhelft. Dit meldde de Griekse defensiespecialist met een notering aan Euronext Amsterdam maandagavond in een update.",
     "published_at": "2026-07-27 19:00",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   },
   {
     "id": "e2091b7d3053264a3e18556a8960cae2",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/872464/Europese-beurzen-hoger-geeindigd-ondanks-chipmalaise.aspx",
     "intro": "De Europese beurzen zijn maandag hoger gesloten, geholpen door een scherpe daling van de olieprijs nadat de spanningen tussen de Verenigde Staten en Iran afnamen. De goedkopere olie duwde de rentes omlaag en gaf de aandelenmarkten ruimte, ondanks forse verliezen onder de chipfondsen.",
     "published_at": "2026-07-27 18:43",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   },
   {
     "id": "c7a85293b1d4c38cc5f2e3717e6d8c80",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/872463/Alumexx-ziet-verhuurbedrijven-meer-bestellen.aspx",
     "intro": "Alumexx ziet de orders van verhuurbedrijven in binnen- en buitenland toenemen en heeft onder meer een aanzienlijke bestelling van branchegenoot Collé Rentals  Sales ontvangen. Dit meldde de fabrikant van aluminium trappen maandagavond.",
     "published_at": "2026-07-27 18:30",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   },
   {
     "id": "6770ec05f42f6c89a5369b743fba489c",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/872461/AMG-rondt-overname-Zinnwald-Lithium-af.aspx",
     "intro": "AMG Critical Materials heeft de overname van Zinnwald Lithium afgerond. De in Amsterdam genoteerde grondstoffenspecialist maakte maandag nabeurs bekend dat de transactie, die op 14 mei werd aangekondigd, per 27 juli is voltooid.",
     "published_at": "2026-07-27 18:11",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   },
   {
     "id": "95d827eebcb73f8e27e032108ab91214",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/872460/LVMH-versnelt-groei-in-tweede-kwartaal.aspx",
     "intro": "De Franse luxegigant LVMH heeft in de eerste helft van 2026 de omzet zien dalen op jaarbasis, te midden van de moeilijke geopolitieke omstandigheden, maar wist in het tweede kwartaal wel sneller te groeien. Dit maakte het bedrijf maandag nabeurs bekend.",
     "published_at": "2026-07-27 18:10",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   },
   {
     "id": "22e12acc3ea6d31311e33d801cb9a582",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872459/UMG-rondt-aandeleninkoop-af.aspx",
     "intro": "Universal Music Group heeft een aandeleninkoopprogramma van bijna 500 miljoen euro afgerond. Dit meldde het entertainmentbedrijf maandagavond.",
     "published_at": "2026-07-27 18:02",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   },
   {
     "id": "84fe354b2f66b541f189a549e71e28f3",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872457/Chippers-trekken-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs is maandag lager geëindigd, nadat de halfgeleideraandelen gedurende de middagsessie onderuit gingen en zo de AEX in het rood trokken.",
     "published_at": "2026-07-27 17:54",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   },
   {
     "id": "52ed09ec4705d8844923be1ddce776e6",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872450/Video-AI-hype-niet-voorbij.aspx",
     "intro": "Chipaandelen hebben een paar lastige weken achter de rug, maar van een einde van de AI-hype is geen sprake. Dit zei beleggingsstrateeg Thomas Pellegrom van ABN AMRO voor de camera tegen ABM Financial News.",
     "published_at": "2026-07-27 16:59",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   },
   {
     "id": "ed0e753d93d731f9f7176fd39dd6172a",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872449/Beursblik-hogere-resultaten-voor-AMG-verwacht.aspx",
     "intro": "AMG Critical Materials heeft in het tweede kwartaal van 2026 op jaarbasis vermoedelijk een hogere omzet geboekt, terwijl de winst naar verwachting ongeveer is verdubbeld. Dit blijkt uit de consensus van Vara Research, waarnaar AMG verwijst op de eigen website.",
     "published_at": "2026-07-27 16:42",
-    "scraped_at": "2026-07-27T17:13:37.917203"
-  },
-  {
-    "id": "2c085e084a844862d39a77808ff7dd75",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/872446/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 4 augustus 2026:",
-    "published_at": "2026-07-27 16:28",
-    "scraped_at": "2026-07-27T17:13:37.917203"
+    "scraped_at": "2026-07-27T18:51:45.165551"
   }
 ]
