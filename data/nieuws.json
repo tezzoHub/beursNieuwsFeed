@@ -1,11 +1,20 @@
 [
   {
-    "id": "bd2ec53c2858764e3c52563985ab6c53",
+    "id": "374a69c78d09edf61b04f7574db6eee4",
     "categorie": "Beursnieuws",
-    "titel": "Nvidia investeert volop in Zuid-Korea",
-    "link": "https://www.beurs.nl/Nieuws/872334/Nvidia-investeert-volop-in-Zuid-Korea.aspx",
-    "intro": "Nvidia heeft in de afgelopen dagen verschillende grote investeringen in Zuid-Korea aangekondigd.",
-    "published_at": "2026-07-26 12:19",
-    "scraped_at": "2026-07-27T01:21:32.505734"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/872346/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 3 augustus 2026:",
+    "published_at": "2026-07-27 06:55",
+    "scraped_at": "2026-07-27T05:03:34.827254"
+  },
+  {
+    "id": "258e5e5b36c98f734f97024a706753f4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/872345/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 3 augustus 2026:",
+    "published_at": "2026-07-27 06:54",
+    "scraped_at": "2026-07-27T05:03:34.827254"
   }
 ]
