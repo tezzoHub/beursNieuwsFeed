@@ -1,20 +1,92 @@
 [
   {
-    "id": "374a69c78d09edf61b04f7574db6eee4",
+    "id": "668d55932dbfee315aa3e451814afb3e",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/872346/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 3 augustus 2026:",
-    "published_at": "2026-07-27 06:55",
-    "scraped_at": "2026-07-27T05:03:34.827254"
+    "titel": "Duitse Ifo index omhoog",
+    "link": "https://www.beurs.nl/Nieuws/872384/Duitse-Ifo-index-omhoog.aspx",
+    "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in juli gestegen. Dit bleek maandag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
+    "published_at": "2026-07-27 10:34",
+    "scraped_at": "2026-07-27T08:50:07.586185"
   },
   {
-    "id": "258e5e5b36c98f734f97024a706753f4",
+    "id": "02a4343cddec1076ee10db6ed6d682d1",
+    "categorie": "IEX",
+    "titel": "Must read: Vrouwen kunnen dus echt veel beter beleggen",
+    "link": "https://www.iex.nl/artikel/872335/Must-read-Vrouwen-kunnen-dus-echt-veel-beter-beleggen.aspx",
+    "intro": "Plus: de AI-rally is wel/niet voorbij, koop wel/niet de dip, nieuwe grote groeikans in duurzame energie, opkomende landen vrezen super El Niño, en meer.",
+    "published_at": "2026-07-27 10:00",
+    "scraped_at": "2026-07-27T08:50:07.586185"
+  },
+  {
+    "id": "95dc3a24900056161748a1fec9bb913a",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/872345/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 3 augustus 2026:",
-    "published_at": "2026-07-27 06:54",
-    "scraped_at": "2026-07-27T05:03:34.827254"
+    "titel": "Citi verhoogt prognoses voor AkzoNobel",
+    "link": "https://www.beurs.nl/Nieuws/872377/Citi-verhoogt-prognoses-voor-AkzoNobel.aspx",
+    "intro": "Citi Research heeft de taxaties voor AkzoNobel verhoogd. Na de tweede kwartaalresultaten is de raming voor de aangepaste EBITDA in het derde kwartaal met 3 procent verhoogd naar 388 miljoen euro, zo bleek maandag uit een rapport van de Amerikaanse bank.",
+    "published_at": "2026-07-27 09:34",
+    "scraped_at": "2026-07-27T08:50:07.586185"
+  },
+  {
+    "id": "a3c0926cc4a68e736b55e13ad7642819",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start beursweek met winst",
+    "link": "https://www.beurs.nl/Nieuws/872373/AEX-start-beursweek-met-winst.aspx",
+    "intro": "De Amsterdamse beurs is maandag, zoals verwacht, met winst van start gegaan.",
+    "published_at": "2026-07-27 09:08",
+    "scraped_at": "2026-07-27T08:50:07.586185"
+  },
+  {
+    "id": "6f28851b28303477276deffbc6d509dc",
+    "categorie": "Beleggen",
+    "titel": "Van zonnepanelen naar thuisbatterijen: Zelfstroom zoekt nieuwe groei",
+    "link": "https://www.ieximpact.nl/artikel/871750/Van-zonnepanelen-naar-thuisbatterijen-Zelfstroom-zoekt-nieuwe-groei.aspx",
+    "intro": "Na de hausse op de zonnemarkt richt Zelfstroom de blik op een nieuwe groeimotor: de thuisbatterij. Met een nieuwe eigenaar, een portefeuille van 21.500 klanten en financiering van het ASN Energie & Innovatiefonds wil het bedrijf huishoudens verder vooruithelpen in de energietransitie.",
+    "published_at": "2026-07-27 08:50",
+    "scraped_at": "2026-07-27T08:50:07.586185"
+  },
+  {
+    "id": "50756fca0b537b32223166193c2f5707",
+    "categorie": "Beursnieuws",
+    "titel": "Vodafone trapt nieuwe jaar sterk af",
+    "link": "https://www.beurs.nl/Nieuws/872369/Vodafone-trapt-nieuwe-jaar-sterk-af.aspx",
+    "intro": "Vodafone Group is het nieuwe boekjaar 2027 met een sterk momentum begonnen. Dit bleek maandag voorbeurs uit de cijfers van de Britse telecomgigant.",
+    "published_at": "2026-07-27 08:36",
+    "scraped_at": "2026-07-27T08:50:07.586185"
+  },
+  {
+    "id": "b3f2f98ed9344e0ddca57da0b4ff9f78",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet en winst voor AstraZeneca",
+    "link": "https://www.beurs.nl/Nieuws/872367/Meer-omzet-en-winst-voor-AstraZeneca.aspx",
+    "intro": "AstraZeneca heeft in de eerste helft van 2026 meer omzet en winst behaald. Dit bleek maandag voorbeurs uit cijfers van de Britse farmaceut.",
+    "published_at": "2026-07-27 08:28",
+    "scraped_at": "2026-07-27T08:50:07.586185"
+  },
+  {
+    "id": "3914e9d9bb8342671ee4143e12c5cb01",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent hoger bij start megadrukke cijfer- en renteweek",
+    "link": "https://www.beurs.nl/Artikel/872257/AEX-opent-hoger-bij-start-megadrukke-cijfer-en-renteweek.aspx",
+    "intro": "Openingsindicatie: +0,4%. Olieprijzen dalen flink nu gevechtspauze Midden-Oosten aanhoudt. Spectaculair beursdebuut Chinese chipfabrikant. Nvidia investeert fors in Zuid-Korea.",
+    "published_at": "2026-07-27 08:20",
+    "scraped_at": "2026-07-27T08:50:07.586185"
+  },
+  {
+    "id": "605e84cdefcb0d6c1fef60ad3534f0c6",
+    "categorie": "Beursnieuws",
+    "titel": "Amsterdamse beurs opent naar verwachting hoger",
+    "link": "https://www.beurs.nl/Nieuws/872363/Amsterdamse-beurs-opent-naar-verwachting-hoger.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag waarschijnlijk hoger van start. Futures op de AEX wezen vanochtend rond acht uur op een openingswinst van 0,4 procent. Er is een pauze in het conflict in het Midden-Oosten, wat de olieprijzen sterk doet dalen.",
+    "published_at": "2026-07-27 08:10",
+    "scraped_at": "2026-07-27T08:50:07.586185"
+  },
+  {
+    "id": "f104445d3ac5b991028712a0c6601df8",
+    "categorie": "Beursnieuws",
+    "titel": "Meer winst voor Retail Estates",
+    "link": "https://www.beurs.nl/Nieuws/872355/Meer-winst-voor-Retail-Estates.aspx",
+    "intro": "Retail Estates heeft in het eerste kwartaal een hoger EPRA-resultaat geboekt en handhaafde de eerder afgegeven dividendverwachting voor dit jaar. Dit maakte de specialist in de verhuur van winkelvastgoed aan de stadsranden in België en Nederland maandag bekend.",
+    "published_at": "2026-07-27 07:27",
+    "scraped_at": "2026-07-27T08:50:07.586185"
   }
 ]
