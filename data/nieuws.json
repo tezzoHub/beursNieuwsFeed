@@ -1,12 +1,57 @@
 [
   {
+    "id": "c035b98c381dea127832d71f9d1419d8",
+    "categorie": "Beursnieuws",
+    "titel": "Winst PPG stelt teleur",
+    "link": "https://www.beurs.nl/Nieuws/872648/Winst-PPG-stelt-teleur.aspx",
+    "intro": "PPG heeft in het tweede kwartaal een hogere omzet geboekt, die ook beter was dan verwacht, maar de winst stelde teleur. Dit bleek dinsdag nabeurs uit de resultaten van de Amerikaanse concurrent van AkzoNobel.",
+    "published_at": "2026-07-28 22:53",
+    "scraped_at": "2026-07-28T21:14:49.777950"
+  },
+  {
+    "id": "89da5b8f24f7f58e1517cff0cef258cb",
+    "categorie": "Beursnieuws",
+    "titel": "Ford verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/872647/Ford-verhoogt-outlook.aspx",
+    "intro": "Ford heeft na een sterk tweede kwartaal de outlook voor heel het jaar verhoogd. Dit bleek dinsdagavond uit de resultaten van de Amerikaanse autofabrikant.",
+    "published_at": "2026-07-28 22:43",
+    "scraped_at": "2026-07-28T21:14:49.777950"
+  },
+  {
+    "id": "08c6c4a96b3696557ad364fbab390809",
+    "categorie": "Beursnieuws",
+    "titel": "Visa verslaat verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/872646/Visa-verslaat-verwachtingen.aspx",
+    "intro": "Visa heeft in het derde kwartaal van zijn lopende boekjaar hogere resultaten geboekt, die ook beter waren dan verwacht. Dit bleek dinsdagavond uit de cijfers van de Amerikaanse creditcardmaatschappij.",
+    "published_at": "2026-07-28 22:28",
+    "scraped_at": "2026-07-28T21:14:49.777950"
+  },
+  {
+    "id": "8ec25f0cf1dc810daeb2404c06a33081",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/872645/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag alle acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-07-28 22:15",
+    "scraped_at": "2026-07-28T21:14:49.777950"
+  },
+  {
+    "id": "4f9c059502ab4dd705bbb6116998fcf3",
+    "categorie": "Beursnieuws",
+    "titel": "Dow profiteert van sterke cijfers op verdeeld Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/872644/Dow-profiteert-van-sterke-cijfers-op-verdeeld-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend hoger geëindigd. De SP 500 won 0,2 procent op 7.428,78 punten en de Dow Jones index steeg zelfs 1,0 procent tot 52.747,32 punten, gesteund door de bedrijfscijfers van onder meer Boeing en Coca-Cola.",
+    "published_at": "2026-07-28 22:10",
+    "scraped_at": "2026-07-28T21:14:49.777950"
+  },
+  {
     "id": "c53431748d098587891f03e506ede21f",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs verder gedaald",
     "link": "https://www.beurs.nl/Nieuws/872640/Olieprijs-verder-gedaald.aspx",
     "intro": "De olieprijs is dinsdag verder gedaald, terwijl de gevechtspauze tussen de Verenigde Staten en Iran stand lijkt te houden.",
     "published_at": "2026-07-28 20:58",
-    "scraped_at": "2026-07-28T19:57:21.588240"
+    "scraped_at": "2026-07-28T21:14:49.777950"
   },
   {
     "id": "ba00992ef5f52aadc4ff54c9e35e03d3",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872639/RWE-verhoogt-outlook.aspx",
     "intro": "RWE heeft de marktverwachtingen in de eerste helft van 2026 overtroffen en rekent ook op een sterke tweede jaarhelft en dus gaat de outlook omhoog. Dit meldde het Duitse energieconcern dinsdagavond.",
     "published_at": "2026-07-28 20:14",
-    "scraped_at": "2026-07-28T19:57:21.588240"
+    "scraped_at": "2026-07-28T21:14:49.777950"
   },
   {
     "id": "473af0cac9613999a010c85c22bb5455",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872638/Wall-Street-koerst-hoger.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag overwegend hoger met nog een paar uur handel te gaan.",
     "published_at": "2026-07-28 19:31",
-    "scraped_at": "2026-07-28T19:57:21.588240"
+    "scraped_at": "2026-07-28T21:14:49.777950"
   },
   {
     "id": "3a1d885c270ce1cc510f67754fb7ec2d",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872636/Software-aandelen-bieden-Europese-beurzen-steun.aspx",
     "intro": "De meeste Europese beurzen zijn dinsdag hoger geëindigd, hoewel halfgeleideraandelen opnieuw in de verkoop gingen. Software-aandelen waren wel weer in trek, net als defensie- en auto-aandelen.",
     "published_at": "2026-07-28 18:50",
-    "scraped_at": "2026-07-28T19:57:21.588240"
+    "scraped_at": "2026-07-28T21:14:49.777950"
   },
   {
     "id": "a766444fef2b077bb37c3d969944801c",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872635/AMG-rondt-verkoop-van-Graphit-Kropfmuhl-af.aspx",
     "intro": "AMG Critical Materials heeft de verkoop van Graphit Kropfmühl aan Asbury Carbons, een portfoliobedrijf van Mill Rock Capital, afgerond. Dit maakte AMG dinsdag nabeurs bekend.",
     "published_at": "2026-07-28 18:37",
-    "scraped_at": "2026-07-28T19:57:21.588240"
-  },
-  {
-    "id": "d7f841bb0d06630c6013d1c79dfae988",
-    "categorie": "Beursnieuws",
-    "titel": "Kering groeit weer dankzij verbetering Gucci",
-    "link": "https://www.beurs.nl/Nieuws/872633/Kering-groeit-weer-dankzij-verbetering-Gucci.aspx",
-    "intro": "Kering is in de eerste helft van 2026 teruggekeerd naar groei, geholpen door een duidelijke verbetering bij vlaggenschipmerk Gucci, al bleef de nettowinst sterk achter door herstructureringslasten en de verkoop van activa. Dit bleek dinsdag nabeurs uit de kwartaalcijfers van het Franse modebedrijf.",
-    "published_at": "2026-07-28 18:19",
-    "scraped_at": "2026-07-28T19:57:21.588240"
-  },
-  {
-    "id": "4bf55d17f56daca52e422131fee3bafb",
-    "categorie": "Beursnieuws",
-    "titel": "ASMI boekt kwartaalomzet van 1 miljard euro",
-    "link": "https://www.beurs.nl/Nieuws/872634/ASMI-boekt-kwartaalomzet-van-1-miljard-euro.aspx",
-    "intro": "ASMI heeft in het tweede kwartaal van 2026 beter gepresteerd dan in de eerste drie maanden van dit jaar en werd positiever over de omzetgroei op middellange termijn. Dit bleek uit cijfers die het Nederlandse halfgeleiderbedrijf dinsdagavond publiceerde.",
-    "published_at": "2026-07-28 18:16",
-    "scraped_at": "2026-07-28T19:57:21.588240"
-  },
-  {
-    "id": "edbbfb1530caffefcc8ebc0f37a2fbfb",
-    "categorie": "Beursnieuws",
-    "titel": "Gemengde resultaten Vastned",
-    "link": "https://www.beurs.nl/Nieuws/872632/Gemengde-resultaten-Vastned.aspx",
-    "intro": "Vastned heeft in de eerste zes maanden van 2026 gemengde resultaten geboekt, terwijl de outlook voor heel het jaar werd herhaald. Dit bleek dinsdag nabeurs uit de cijfers van het vastgoedfonds.",
-    "published_at": "2026-07-28 18:13",
-    "scraped_at": "2026-07-28T19:57:21.588240"
-  },
-  {
-    "id": "52a68fd35953178b689fe8b4732e90bf",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger gesloten ondanks verdere daling chipfondsen",
-    "link": "https://www.beurs.nl/Nieuws/872623/AEX-hoger-gesloten-ondanks-verdere-daling-chipfondsen.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd, ondanks de aanhoudende chipmalaise. Steun voor de AEX kwam er onder meer van zwaargewicht Unilever en de databedrijven Wolters Kluwer en RELX.",
-    "published_at": "2026-07-28 17:44",
-    "scraped_at": "2026-07-28T19:57:21.588240"
-  },
-  {
-    "id": "cfa789fbc559c4eef3390f28b694c99c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Fed zal rente voorlopig handhaven",
-    "link": "https://www.beurs.nl/Nieuws/872620/Beursblik-Fed-zal-rente-voorlopig-handhaven.aspx",
-    "intro": "De Federal Reserve zal de rente komende woensdag vermoedelijk handhaven, maar renteverhogingen na de zomer zijn verre van uitgesloten.",
-    "published_at": "2026-07-28 17:26",
-    "scraped_at": "2026-07-28T19:57:21.588240"
+    "scraped_at": "2026-07-28T21:14:49.777950"
   }
 ]
