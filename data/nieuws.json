@@ -1,12 +1,66 @@
 [
   {
+    "id": "d7f841bb0d06630c6013d1c79dfae988",
+    "categorie": "Beursnieuws",
+    "titel": "Kering groeit weer dankzij verbetering Gucci",
+    "link": "https://www.beurs.nl/Nieuws/872633/Kering-groeit-weer-dankzij-verbetering-Gucci.aspx",
+    "intro": "Kering is in de eerste helft van 2026 teruggekeerd naar groei, geholpen door een duidelijke verbetering bij vlaggenschipmerk Gucci, al bleef de nettowinst sterk achter door herstructureringslasten en de verkoop van activa. Dit bleek dinsdag nabeurs uit de kwartaalcijfers van het Franse modebedrijf.",
+    "published_at": "2026-07-28 18:19",
+    "scraped_at": "2026-07-28T16:40:51.698540"
+  },
+  {
+    "id": "4bf55d17f56daca52e422131fee3bafb",
+    "categorie": "Beursnieuws",
+    "titel": "ASMI boekt kwartaalomzet van 1 miljard euro",
+    "link": "https://www.beurs.nl/Nieuws/872634/ASMI-boekt-kwartaalomzet-van-1-miljard-euro.aspx",
+    "intro": "ASMI heeft in het tweede kwartaal van 2026 beter gepresteerd dan in de eerste drie maanden van dit jaar en werd positiever over de omzetgroei op middellange termijn. Dit bleek uit cijfers die het Nederlandse halfgeleiderbedrijf dinsdagavond publiceerde.",
+    "published_at": "2026-07-28 18:16",
+    "scraped_at": "2026-07-28T16:40:51.698540"
+  },
+  {
+    "id": "edbbfb1530caffefcc8ebc0f37a2fbfb",
+    "categorie": "Beursnieuws",
+    "titel": "Gemengde resultaten Vastned",
+    "link": "https://www.beurs.nl/Nieuws/872632/Gemengde-resultaten-Vastned.aspx",
+    "intro": "Vastned heeft in de eerste zes maanden van 2026 gemengde resultaten geboekt, terwijl de outlook voor heel het jaar werd herhaald. Dit bleek dinsdag nabeurs uit de cijfers van het vastgoedfonds.",
+    "published_at": "2026-07-28 18:13",
+    "scraped_at": "2026-07-28T16:40:51.698540"
+  },
+  {
+    "id": "52a68fd35953178b689fe8b4732e90bf",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger gesloten ondanks verdere daling chipfondsen",
+    "link": "https://www.beurs.nl/Nieuws/872623/AEX-hoger-gesloten-ondanks-verdere-daling-chipfondsen.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd, ondanks de aanhoudende chipmalaise. Steun voor de AEX kwam er onder meer van zwaargewicht Unilever en de databedrijven Wolters Kluwer en RELX.",
+    "published_at": "2026-07-28 17:44",
+    "scraped_at": "2026-07-28T16:40:51.698540"
+  },
+  {
+    "id": "cfa789fbc559c4eef3390f28b694c99c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Fed zal rente voorlopig handhaven",
+    "link": "https://www.beurs.nl/Nieuws/872620/Beursblik-Fed-zal-rente-voorlopig-handhaven.aspx",
+    "intro": "De Federal Reserve zal de rente komende woensdag vermoedelijk handhaven, maar renteverhogingen na de zomer zijn verre van uitgesloten.",
+    "published_at": "2026-07-28 17:26",
+    "scraped_at": "2026-07-28T16:40:51.698540"
+  },
+  {
+    "id": "048ff4074cda3f476b3db5bff0a7ae1d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: winstverdubbeling bij Shell verwacht",
+    "link": "https://www.beurs.nl/Nieuws/872614/Beursblik-winstverdubbeling-bij-Shell-verwacht.aspx",
+    "intro": "Shell heeft in het tweede kwartaal van 2026 naar verwachting veel meer winst geboekt dan een jaar eerder, terwijl de operationele kasstroom ook flink steeg. Dit blijkt uit de consensusverwachting van Vara Research op de website van de energiereus.",
+    "published_at": "2026-07-28 16:49",
+    "scraped_at": "2026-07-28T16:40:51.698540"
+  },
+  {
     "id": "f8e0d12737d4115ca3a0a032eb608c2b",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/872610/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 5 augustus 2026:",
     "published_at": "2026-07-28 16:26",
-    "scraped_at": "2026-07-28T14:54:58.576173"
+    "scraped_at": "2026-07-28T16:40:51.698540"
   },
   {
     "id": "59bde3d8aad3ba0927cba82a9d53a34c",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872608/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 5 augustus 2026:",
     "published_at": "2026-07-28 16:25",
-    "scraped_at": "2026-07-28T14:54:58.576173"
+    "scraped_at": "2026-07-28T16:40:51.698540"
   },
   {
     "id": "7a09dab4f1d4d06fc27023e4c1d89fb4",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872609/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 5 augustus 2026:",
     "published_at": "2026-07-28 16:25",
-    "scraped_at": "2026-07-28T14:54:58.576173"
+    "scraped_at": "2026-07-28T16:40:51.698540"
   },
   {
     "id": "ccf7438b91316dcacc3d8652f48282e8",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872601/Amerikaanse-consument-heeft-minder-vertrouwen.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in juli gedaald. Dit bleek dinsdag uit cijfers van The Conference Board.",
     "published_at": "2026-07-28 16:15",
-    "scraped_at": "2026-07-28T14:54:58.576173"
-  },
-  {
-    "id": "07a849f897d562f3a52166f0fa765f31",
-    "categorie": "Beursnieuws",
-    "titel": "Winstherstel bij IMCD verwacht",
-    "link": "https://www.beurs.nl/Nieuws/872595/Winstherstel-bij-IMCD-verwacht.aspx",
-    "intro": "IMCD zal na een matige jaarstart een beter tweede kwartaal hebben beleefd. Dit is de verwachting van analisten in aanloop naar de cijfers van de distributeur van speciaalchemicaliën.",
-    "published_at": "2026-07-28 15:56",
-    "scraped_at": "2026-07-28T14:54:58.576173"
-  },
-  {
-    "id": "fa17d933721ba8d160bd0533105dd7ff",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse huizenprijzen stijgen harder",
-    "link": "https://www.beurs.nl/Nieuws/872590/Amerikaanse-huizenprijzen-stijgen-harder.aspx",
-    "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in mei harder gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
-    "published_at": "2026-07-28 15:09",
-    "scraped_at": "2026-07-28T14:54:58.576173"
-  },
-  {
-    "id": "31258b254c185b764fa4a894e02f5fe8",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op verdeelde opening",
-    "link": "https://www.beurs.nl/Nieuws/872584/Wall-Street-koerst-af-op-verdeelde-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een verdeelde opening tegemoet, terwijl beleggers zich opmaken voor een belangrijke week met kwartaalcijfers van enkele 'hyperscalers' en een rentebesluit van de Federal Reserve.",
-    "published_at": "2026-07-28 14:50",
-    "scraped_at": "2026-07-28T14:54:58.576173"
-  },
-  {
-    "id": "5b088e56efa2efa248ffaa5c196291cc",
-    "categorie": "Beursnieuws",
-    "titel": "PayPal verhoogt outlook ondanks winstdaling",
-    "link": "https://www.beurs.nl/Nieuws/872583/PayPal-verhoogt-outlook-ondanks-winstdaling.aspx",
-    "intro": "PayPal heeft in het tweede kwartaal van 2026 de omzet zien stijgen, maar boekte tegelijk een lagere winst door dalende marges. Het Amerikaanse betaalbedrijf verhoogde niettemin de outlook voor het hele jaar. Dit bleek dinsdag uit de kwartaalcijfers van het Amerikaanse betaalbedrijf.",
-    "published_at": "2026-07-28 14:30",
-    "scraped_at": "2026-07-28T14:54:58.576173"
-  },
-  {
-    "id": "575b2d6932c8023fccc47bd8350ede95",
-    "categorie": "Beursnieuws",
-    "titel": "Arcadis neemt Spaans SATEL over",
-    "link": "https://www.beurs.nl/Nieuws/872580/Arcadis-neemt-Spaans-SATEL-over.aspx",
-    "intro": "Arcadis heeft dinsdag een akkoord bereikt om het Spaanse SATEL over te nemen, een specialist in het ontwerp en de engineering van stroominfrastructuur.",
-    "published_at": "2026-07-28 14:15",
-    "scraped_at": "2026-07-28T14:54:58.576173"
-  },
-  {
-    "id": "cbf0da6eacad3b2c3765148b0e6a94ab",
-    "categorie": "Beursnieuws",
-    "titel": "AEX weet winst vast te houden",
-    "link": "https://www.beurs.nl/Nieuws/872579/AEX-weet-winst-vast-te-houden.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag in het groen en wist zo de ochtendwinst vast te houden.",
-    "published_at": "2026-07-28 14:09",
-    "scraped_at": "2026-07-28T14:54:58.576173"
+    "scraped_at": "2026-07-28T16:40:51.698540"
   }
 ]
