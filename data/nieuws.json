@@ -1,12 +1,75 @@
 [
   {
+    "id": "dc57136b336197b6481000ed1c4d4ad7",
+    "categorie": "Beursnieuws",
+    "titel": "Unilever uitblinker in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/872546/Unilever-uitblinker-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het groen, terwijl beleggers zich konden buigen over een serie outlookverhogingen.",
+    "published_at": "2026-07-28 11:31",
+    "scraped_at": "2026-07-28T10:15:31.753184"
+  },
+  {
+    "id": "c4eb500ab328ccb51a48d8dfc5e0b297",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies: machines Shanghai Yuliangsheng geen echte bedreiging voor ASML",
+    "link": "https://www.beurs.nl/Nieuws/872540/Jefferies-machines-Shanghai-Yuliangsheng-geen-echte-bedreiging-voor-ASML.aspx",
+    "intro": "Berichten van The Information dat Shanghai Yuliangsheng is begonnen met het leveren van immersielithografiesystemen aan grote Chinese halfgeleiderbedrijven zoals SMIC, Hua Hong en CXMT hebben de aandelenkoers van ASML onder druk gezet. Toch is de vrees vermoedelijk overdreven.",
+    "published_at": "2026-07-28 10:58",
+    "scraped_at": "2026-07-28T10:15:31.753184"
+  },
+  {
+    "id": "cce2167435183e668f5f89ca8bf7ee41",
+    "categorie": "Beursnieuws",
+    "titel": "UBS: sterke prestaties Unilever",
+    "link": "https://www.beurs.nl/Nieuws/872536/UBS-sterke-prestaties-Unilever.aspx",
+    "intro": "Unilever heeft een sterke tweede kwartaal achter de rug, waarbij vooral de volumes positief verrasten. Dit stelden analisten van UBS dinsdag in een rapport.",
+    "published_at": "2026-07-28 10:37",
+    "scraped_at": "2026-07-28T10:15:31.753184"
+  },
+  {
+    "id": "c41d107fa1262a97714c0f738470176c",
+    "categorie": "Beursnieuws",
+    "titel": "KBC: solide cijfers bij Philips",
+    "link": "https://www.beurs.nl/Nieuws/872532/KBC-solide-cijfers-bij-Philips.aspx",
+    "intro": "Philips heeft solide kwartaalcijfers gepubliceerd. Dit stelde analist Michiel Declercq van KBC Securities dinsdag in een rapport.",
+    "published_at": "2026-07-28 10:13",
+    "scraped_at": "2026-07-28T10:15:31.753184"
+  },
+  {
+    "id": "cab238d0d36a4771efddf8f3273e3151",
+    "categorie": "IEX",
+    "titel": "Must read: Nederlandse huizenprijzen lopen sterk uiteen",
+    "link": "https://www.iex.nl/artikel/872411/Must-read-Nederlandse-huizenprijzen-lopen-sterk-uiteen.aspx",
+    "intro": "Plus: oliebedrijven zijn winstmakers, kansrijke afgewaardeerde software- en AI-bedrijven, dollar blijft sterk, Indiase economie vertraagt aanzienlijk, en méér.",
+    "published_at": "2026-07-28 10:10",
+    "scraped_at": "2026-07-28T10:15:31.753184"
+  },
+  {
+    "id": "293a1d59bab39c07ffe38bbfdc0d1f9a",
+    "categorie": "Beursnieuws",
+    "titel": "KBC: positieve trend ledenaanwas Basic-Fit houdt aan",
+    "link": "https://www.beurs.nl/Nieuws/872530/KBC-positieve-trend-ledenaanwas-Basic-Fit-houdt-aan.aspx",
+    "intro": "De ledenaanwas bij Basic-Fit blijft zich positief ontwikkelen. Dit concludeerde analist Lynn Hautekeete van KBC Securities dinsdag in een rapport.",
+    "published_at": "2026-07-28 09:57",
+    "scraped_at": "2026-07-28T10:15:31.753184"
+  },
+  {
+    "id": "e102634133942af8a0133d3894a688b4",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof Petercam verhoogt koersdoel Unilever",
+    "link": "https://www.beurs.nl/Nieuws/872528/Degroof-Petercam-verhoogt-koersdoel-Unilever.aspx",
+    "intro": "Unilever heeft een meevallende eerste jaarhelft achter de rug en zag daardoor ruimte om de outlook voor het hele jaar te verhogen. Dit concludeerde analist Fernand de Boer van Degroof Petercam dinsdag in een rapport, waarin hij het koersdoel verhoogde van 58,00 naar 60,00 euro met een onveranderd Houden advies.",
+    "published_at": "2026-07-28 09:41",
+    "scraped_at": "2026-07-28T10:15:31.753184"
+  },
+  {
     "id": "55bb271c7bae15055b7b625db47b50f3",
     "categorie": "Beursnieuws",
     "titel": "Mercedes waarschuwt voor Chinese autoverkoop",
     "link": "https://www.beurs.nl/Nieuws/872523/Mercedes-waarschuwt-voor-Chinese-autoverkoop.aspx",
     "intro": "Mercedes-Benz Group heeft in het tweede kwartaal de omzet zien dalen, maar de winstgevendheid zien aantrekken. Dit bleek dinsdag uit het kwartaalrapport van de Duitse autobouwer.",
     "published_at": "2026-07-28 09:14",
-    "scraped_at": "2026-07-28T07:26:37.463663"
+    "scraped_at": "2026-07-28T10:15:31.753184"
   },
   {
     "id": "fc7d1bdcf22fba1201d32495ac842871",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872522/Chipaandelen-weer-onderaan-in-rode-AEX.aspx",
     "intro": "De Amsterdamse beurs is dinsdag met verlies van start gegaan, waarbij de halfgeleideraandelen opnieuw onderaan stonden.",
     "published_at": "2026-07-28 09:09",
-    "scraped_at": "2026-07-28T07:26:37.463663"
+    "scraped_at": "2026-07-28T10:15:31.753184"
   },
   {
     "id": "714832dd3d322c7867a134bc52c71ba6",
@@ -24,69 +87,6 @@
     "link": "https://www.belegger.nl/artikel/872518/Stem-op-uw-favoriete-AEX-aandeel-voor-augustus.aspx",
     "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van augustus? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
     "published_at": "2026-07-28 09:00",
-    "scraped_at": "2026-07-28T07:26:37.463663"
-  },
-  {
-    "id": "e080a1dfe801ed8fbdabbb4f624d40a4",
-    "categorie": "Opinie",
-    "titel": "Impact maken is meer dan één keer een vinkje zetten",
-    "link": "https://www.ieximpact.nl/artikel/871214/Impact-maken-is-meer-dan-een-keer-een-vinkje-zetten.aspx",
-    "intro": "Hoe vaker ik met pensioenfondsen over impactbeleggen spreek, hoe sterker mijn overtuiging wordt dat langetermijnaandeelhouderschap misschien wel de meest onderschatte vorm van impactbeleggen is. Dat schrijft Wim de Ruijter van Baillie Gifford in een gastcolumn voor IEX Impact.",
-    "published_at": "2026-07-28 08:50",
-    "scraped_at": "2026-07-28T07:26:37.463663"
-  },
-  {
-    "id": "8b9f5cf6f23f6de059e38db33321f129",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays keert hoger dividend uit na prima tweede kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/872516/Barclays-keert-hoger-dividend-uit-na-prima-tweede-kwartaal.aspx",
-    "intro": "Barclays heeft een prima tweede kwartaal achter de rug met zowel een hogere omzet als een dito winst. Dit maakte de Britse bank dinsdagochtend bekend.",
-    "published_at": "2026-07-28 08:39",
-    "scraped_at": "2026-07-28T07:26:37.463663"
-  },
-  {
-    "id": "b074973a5e0d391601e84b6d73b40da6",
-    "categorie": "Beursnieuws",
-    "titel": "Sterke volumegroei voor Unilever",
-    "link": "https://www.beurs.nl/Nieuws/872515/Sterke-volumegroei-voor-Unilever.aspx",
-    "intro": "Unilever is in het tweede kwartaal harder gegroeid dan in de eerste drie maanden van dit jaar. Dit bleek dinsdag voorbeurs uit cijfers van de specialist in verzorgingsproducten.",
-    "published_at": "2026-07-28 08:21",
-    "scraped_at": "2026-07-28T07:26:37.463663"
-  },
-  {
-    "id": "1cbeb0feb02941669b4ebbd3ef11b5c2",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke start op Damrak verwacht",
-    "link": "https://www.beurs.nl/Nieuws/872513/Vlakke-start-op-Damrak-verwacht.aspx",
-    "intro": "De Amsterdamse beurs lijkt dinsdag onveranderd van start te gaan, met chipaandelen die het mogelijk opnieuw moeilijk krijgen.",
-    "published_at": "2026-07-28 08:05",
-    "scraped_at": "2026-07-28T07:26:37.463663"
-  },
-  {
-    "id": "dbc6331987f44a4a0b80df309bf3bf99",
-    "categorie": "Beursnieuws",
-    "titel": "Omzet Acomo onder druk",
-    "link": "https://www.beurs.nl/Nieuws/872511/Omzet-Acomo-onder-druk.aspx",
-    "intro": "Acomo heeft in de eerste helft van 2026 een 6 procent lagere omzet geboekt, vooral door een terugval bij Organic Ingredients. Dit meldde de zaden- en theehandelaar met een notering aan het Damrak dinsdag voorbeurs.",
-    "published_at": "2026-07-28 07:57",
-    "scraped_at": "2026-07-28T07:26:37.463663"
-  },
-  {
-    "id": "85917021d82c1bd7f08bc7e173c232f4",
-    "categorie": "Beursnieuws",
-    "titel": "Basic-Fit trekt outlook voor 2026 op",
-    "link": "https://www.beurs.nl/Nieuws/872509/Basic-Fit-trekt-outlook-voor-2026-op.aspx",
-    "intro": "Basic-Fit heeft in de eerste zes maanden van 2026 hogere resultaten geboekt dan in dezelfde periode een jaar eerder en werd positiever over de winstontwikkeling in het hele jaar. Dit bleek dinsdagochtend uit cijfers van de fitnessketen.",
-    "published_at": "2026-07-28 07:47",
-    "scraped_at": "2026-07-28T07:26:37.463663"
-  },
-  {
-    "id": "082049bc2a735b03cc55311b66707210",
-    "categorie": "Beursnieuws",
-    "titel": "Citi Research verlaagt koersdoel Besi met €30",
-    "link": "https://www.beurs.nl/Nieuws/872508/Citi-Research-verlaagt-koersdoel-Besi-met-30.aspx",
-    "intro": "Citi Research heeft het koersdoel voor BE Semiconductor Industries verlaagd van 260 naar 230 euro met handhaving van het neutrale advies. Dit bleek dinsdag uit een rapport van analist Andrew Gardiner.",
-    "published_at": "2026-07-28 07:25",
-    "scraped_at": "2026-07-28T07:26:37.463663"
+    "scraped_at": "2026-07-28T10:15:31.753184"
   }
 ]
