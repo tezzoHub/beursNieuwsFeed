@@ -1,12 +1,30 @@
 [
   {
+    "id": "c53431748d098587891f03e506ede21f",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs verder gedaald",
+    "link": "https://www.beurs.nl/Nieuws/872640/Olieprijs-verder-gedaald.aspx",
+    "intro": "De olieprijs is dinsdag verder gedaald, terwijl de gevechtspauze tussen de Verenigde Staten en Iran stand lijkt te houden.",
+    "published_at": "2026-07-28 20:58",
+    "scraped_at": "2026-07-28T19:57:21.588240"
+  },
+  {
+    "id": "ba00992ef5f52aadc4ff54c9e35e03d3",
+    "categorie": "Beursnieuws",
+    "titel": "RWE verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/872639/RWE-verhoogt-outlook.aspx",
+    "intro": "RWE heeft de marktverwachtingen in de eerste helft van 2026 overtroffen en rekent ook op een sterke tweede jaarhelft en dus gaat de outlook omhoog. Dit meldde het Duitse energieconcern dinsdagavond.",
+    "published_at": "2026-07-28 20:14",
+    "scraped_at": "2026-07-28T19:57:21.588240"
+  },
+  {
     "id": "473af0cac9613999a010c85c22bb5455",
     "categorie": "Beursnieuws",
     "titel": "Wall Street koerst hoger",
     "link": "https://www.beurs.nl/Nieuws/872638/Wall-Street-koerst-hoger.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag overwegend hoger met nog een paar uur handel te gaan.",
     "published_at": "2026-07-28 19:31",
-    "scraped_at": "2026-07-28T18:04:28.260301"
+    "scraped_at": "2026-07-28T19:57:21.588240"
   },
   {
     "id": "3a1d885c270ce1cc510f67754fb7ec2d",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/872636/Software-aandelen-bieden-Europese-beurzen-steun.aspx",
     "intro": "De meeste Europese beurzen zijn dinsdag hoger geëindigd, hoewel halfgeleideraandelen opnieuw in de verkoop gingen. Software-aandelen waren wel weer in trek, net als defensie- en auto-aandelen.",
     "published_at": "2026-07-28 18:50",
-    "scraped_at": "2026-07-28T18:04:28.260301"
+    "scraped_at": "2026-07-28T19:57:21.588240"
   },
   {
     "id": "a766444fef2b077bb37c3d969944801c",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/872635/AMG-rondt-verkoop-van-Graphit-Kropfmuhl-af.aspx",
     "intro": "AMG Critical Materials heeft de verkoop van Graphit Kropfmühl aan Asbury Carbons, een portfoliobedrijf van Mill Rock Capital, afgerond. Dit maakte AMG dinsdag nabeurs bekend.",
     "published_at": "2026-07-28 18:37",
-    "scraped_at": "2026-07-28T18:04:28.260301"
+    "scraped_at": "2026-07-28T19:57:21.588240"
   },
   {
     "id": "d7f841bb0d06630c6013d1c79dfae988",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/872633/Kering-groeit-weer-dankzij-verbetering-Gucci.aspx",
     "intro": "Kering is in de eerste helft van 2026 teruggekeerd naar groei, geholpen door een duidelijke verbetering bij vlaggenschipmerk Gucci, al bleef de nettowinst sterk achter door herstructureringslasten en de verkoop van activa. Dit bleek dinsdag nabeurs uit de kwartaalcijfers van het Franse modebedrijf.",
     "published_at": "2026-07-28 18:19",
-    "scraped_at": "2026-07-28T18:04:28.260301"
+    "scraped_at": "2026-07-28T19:57:21.588240"
   },
   {
     "id": "4bf55d17f56daca52e422131fee3bafb",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872634/ASMI-boekt-kwartaalomzet-van-1-miljard-euro.aspx",
     "intro": "ASMI heeft in het tweede kwartaal van 2026 beter gepresteerd dan in de eerste drie maanden van dit jaar en werd positiever over de omzetgroei op middellange termijn. Dit bleek uit cijfers die het Nederlandse halfgeleiderbedrijf dinsdagavond publiceerde.",
     "published_at": "2026-07-28 18:16",
-    "scraped_at": "2026-07-28T18:04:28.260301"
+    "scraped_at": "2026-07-28T19:57:21.588240"
   },
   {
     "id": "edbbfb1530caffefcc8ebc0f37a2fbfb",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872632/Gemengde-resultaten-Vastned.aspx",
     "intro": "Vastned heeft in de eerste zes maanden van 2026 gemengde resultaten geboekt, terwijl de outlook voor heel het jaar werd herhaald. Dit bleek dinsdag nabeurs uit de cijfers van het vastgoedfonds.",
     "published_at": "2026-07-28 18:13",
-    "scraped_at": "2026-07-28T18:04:28.260301"
+    "scraped_at": "2026-07-28T19:57:21.588240"
   },
   {
     "id": "52a68fd35953178b689fe8b4732e90bf",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872623/AEX-hoger-gesloten-ondanks-verdere-daling-chipfondsen.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd, ondanks de aanhoudende chipmalaise. Steun voor de AEX kwam er onder meer van zwaargewicht Unilever en de databedrijven Wolters Kluwer en RELX.",
     "published_at": "2026-07-28 17:44",
-    "scraped_at": "2026-07-28T18:04:28.260301"
+    "scraped_at": "2026-07-28T19:57:21.588240"
   },
   {
     "id": "cfa789fbc559c4eef3390f28b694c99c",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872620/Beursblik-Fed-zal-rente-voorlopig-handhaven.aspx",
     "intro": "De Federal Reserve zal de rente komende woensdag vermoedelijk handhaven, maar renteverhogingen na de zomer zijn verre van uitgesloten.",
     "published_at": "2026-07-28 17:26",
-    "scraped_at": "2026-07-28T18:04:28.260301"
-  },
-  {
-    "id": "048ff4074cda3f476b3db5bff0a7ae1d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: winstverdubbeling bij Shell verwacht",
-    "link": "https://www.beurs.nl/Nieuws/872614/Beursblik-winstverdubbeling-bij-Shell-verwacht.aspx",
-    "intro": "Shell heeft in het tweede kwartaal van 2026 naar verwachting veel meer winst geboekt dan een jaar eerder, terwijl de operationele kasstroom ook flink steeg. Dit blijkt uit de consensusverwachting van Vara Research op de website van de energiereus.",
-    "published_at": "2026-07-28 16:49",
-    "scraped_at": "2026-07-28T18:04:28.260301"
-  },
-  {
-    "id": "f8e0d12737d4115ca3a0a032eb608c2b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/872610/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 5 augustus 2026:",
-    "published_at": "2026-07-28 16:26",
-    "scraped_at": "2026-07-28T18:04:28.260301"
+    "scraped_at": "2026-07-28T19:57:21.588240"
   }
 ]
