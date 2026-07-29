@@ -1,12 +1,48 @@
 [
   {
+    "id": "3ceacddc9af351c634057d92d570c52a",
+    "categorie": "Beursnieuws",
+    "titel": "Arm boekt recordomzet in eerste kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/872857/Arm-boekt-recordomzet-in-eerste-kwartaal.aspx",
+    "intro": "Chipontwerper Arm heeft in het eerste kwartaal van zijn gebroken boekjaar 2027 een recordomzet geboekt, gedreven door de aanhoudende opmars van kunstmatige intelligentie in datacenters. Dit bleek woensdagavond uit de gepubliceerde cijfers.",
+    "published_at": "2026-07-29 22:32",
+    "scraped_at": "2026-07-29T20:38:34.653791"
+  },
+  {
+    "id": "dadf6e4bb34d2cc110bd72abb9e82fb4",
+    "categorie": "Beursnieuws",
+    "titel": "Kosten Meta stijgen harder dan de omzet",
+    "link": "https://www.beurs.nl/Nieuws/872856/Kosten-Meta-stijgen-harder-dan-de-omzet.aspx",
+    "intro": "Meta heeft in het tweede kwartaal van 2026 de kosten sterker zien stijgen dan de omzet, waardoor de winst daalde. Dit bleek woensdag uit de kwartaalcijfers van de eigenaar van Facebook, Instagram en WhatsApp.",
+    "published_at": "2026-07-29 22:29",
+    "scraped_at": "2026-07-29T20:38:34.653791"
+  },
+  {
+    "id": "3ad051c2218bb05843ccb61fc11d0226",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street flink lager gesloten",
+    "link": "https://www.beurs.nl/Nieuws/872855/Wall-Street-flink-lager-gesloten.aspx",
+    "intro": "De Amerikaanse beurzen zijn woensdag om uiteenlopende redenen flink lager gesloten, maar vooral omdat de obligatiemarkt het signaal afgaf dat de Federal Reserve mogelijk achteropraakt in de strijd tegen inflatie, nu de centrale bank ervoor koos de rente ongewijzigd te laten.",
+    "published_at": "2026-07-29 22:19",
+    "scraped_at": "2026-07-29T20:38:34.653791"
+  },
+  {
+    "id": "25d6070f884a0df99d32a1fb59c2e037",
+    "categorie": "Beursnieuws",
+    "titel": "Kwartaalresultaten Microsoft overtreffen verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/872854/Kwartaalresultaten-Microsoft-overtreffen-verwachtingen.aspx",
+    "intro": "Microsoft heeft in het vierde kwartaal een hogere omzet en winst gerapporteerd dan verwacht. Dit bleek woensdagavond uit de cijfers van de Amerikaanse techgigant.",
+    "published_at": "2026-07-29 22:13",
+    "scraped_at": "2026-07-29T20:38:34.653791"
+  },
+  {
     "id": "c47d07493b212acf434422b7cf066d87",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen fors hoger gesloten",
     "link": "https://www.beurs.nl/Nieuws/872844/Olieprijzen-fors-hoger-gesloten.aspx",
     "intro": "De olieprijzen zijn woensdag flink hoger gesloten nadat president Donald Trump had gezegd dat de VS Iran hard zouden treffen als vergelding voor een mislukte aanval op Amerikaanse troepen in het Midden-Oosten.",
     "published_at": "2026-07-29 21:09",
-    "scraped_at": "2026-07-29T19:36:08.720546"
+    "scraped_at": "2026-07-29T20:38:34.653791"
   },
   {
     "id": "020da50658aaff7a43210c8870f7c270",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/872839/Air-France-KLM-doet-bod-op-TAP-Air.aspx",
     "intro": "Air France-KLM heeft een bindend bod uitgebracht op een belang van 44,9 tot 49,9 procent in het Portugese TAP Air Portugal. Dat maakte de Frans-Nederlandse luchtvaartgroep woensdag nabeurs bekend.",
     "published_at": "2026-07-29 20:27",
-    "scraped_at": "2026-07-29T19:36:08.720546"
+    "scraped_at": "2026-07-29T20:38:34.653791"
   },
   {
     "id": "770f253c4d5842a44c14c4b1ebc852ce",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872838/Fed-houdt-rente-stabiel-ondanks-verdeeldheid.aspx",
     "intro": "De Federal Reserve heeft de rente woensdag ongewijzigd gelaten, maar het besluit legde verdeeldheid binnen het comité bloot. Dit bleek uit de bijbehorende toelichting op het rentebesluit",
     "published_at": "2026-07-29 20:16",
-    "scraped_at": "2026-07-29T19:36:08.720546"
+    "scraped_at": "2026-07-29T20:38:34.653791"
   },
   {
     "id": "dd7a4e75cff830093a17d2a7aad5abf3",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872834/Fed-handhaaft-rente-zoals-verwacht.aspx",
     "intro": "De Amerikaanse Federal Reserve heeft de rente zoals verwacht onveranderd gelaten op 3,50 tot 3,75 procent. Dat bleek woensdag uit het rentebesluit.",
     "published_at": "2026-07-29 20:02",
-    "scraped_at": "2026-07-29T19:36:08.720546"
+    "scraped_at": "2026-07-29T20:38:34.653791"
   },
   {
     "id": "b4aa711eb44b0d039648499c25aff08c",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872833/Wall-Street-kleurt-volledig-rood.aspx",
     "intro": "De Amerikaanse beurzen noteerden woensdag in het rood met nog een paar uur handel te gaan. De olieprijs schoot omhoog na nieuwe aanvallen in Midden-Oosten en er was zo weer de nodige onrust op de markten. Verder wachten beleggers op het rentebesluit van de Fed en de toelichting erop.",
     "published_at": "2026-07-29 19:59",
-    "scraped_at": "2026-07-29T19:36:08.720546"
+    "scraped_at": "2026-07-29T20:38:34.653791"
   },
   {
     "id": "6ecfff86725d011ce7bfbefb2093358f",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872832/Hawick-Data-boekt-winst-in-eerste-halfjaar.aspx",
     "intro": "Hawick Data heeft in de eerste helft van 2026 een nettowinst van 0,25 miljoen euro geboekt, vrijwel volledig dankzij rente-inkomsten. Dat maakte het voormalige IEX woensdag bekend.",
     "published_at": "2026-07-29 19:52",
-    "scraped_at": "2026-07-29T19:36:08.720546"
-  },
-  {
-    "id": "1a01c68c7febbbf58cdbda90cbeeca96",
-    "categorie": "Beursnieuws",
-    "titel": "Intrinsieke waarde MKB Nedsense stabiel",
-    "link": "https://www.beurs.nl/Nieuws/872831/Intrinsieke-waarde-MKB-Nedsense-stabiel.aspx",
-    "intro": "De intrinsieke waarde van MKB Nedsense is in de eerste helft van 2026 stabiel gebleven. Dat maakte de investeringsmaatschappij woensdag bekend.",
-    "published_at": "2026-07-29 19:44",
-    "scraped_at": "2026-07-29T19:36:08.720546"
-  },
-  {
-    "id": "f036238013d7ffc816f42597491fcd27",
-    "categorie": "Beursnieuws",
-    "titel": "AMG verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/872449/AMG-verhoogt-outlook.aspx",
-    "intro": "AMG heeft een uitstekend tweede kwartaal achter de rug. Gedreven door sterke prestaties binnen de divisies voor lithium en vanadium schoten de winstcijfers fors omhoog en heeft het bedrijf de outlook opwaarts bijgesteld. Dat maakte het metaal- en technologieconcern woensdag nabeurs bekend.",
-    "published_at": "2026-07-29 19:31",
-    "scraped_at": "2026-07-29T19:36:08.720546"
-  },
-  {
-    "id": "1d55c0a57a751dd938233c8bab3056ef",
-    "categorie": "Beursnieuws",
-    "titel": "AMG verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/872826/AMG-verhoogt-outlook.aspx",
-    "intro": "AMG heeft een uitstekend tweede kwartaal achter de rug. Gedreven door sterke prestaties binnen de divisies voor lithium en vanadium schoten de winstcijfers fors omhoog en heeft het bedrijf de outlook opwaarts bijgesteld. Dat maakte het metaal- en technologieconcern woensdag nabeurs bekend.",
-    "published_at": "2026-07-29 19:10",
-    "scraped_at": "2026-07-29T19:36:08.720546"
-  },
-  {
-    "id": "445455fa951b87de82b74c82be4e6e98",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verdeeld gesloten",
-    "link": "https://www.beurs.nl/Nieuws/872825/Europese-beurzen-verdeeld-gesloten.aspx",
-    "intro": "De Europese beurzen zijn woensdag verdeeld gesloten, terwijl beleggers de hernieuwde spanningen in het Midden-Oosten moesten evalueren en daarnaast een lawine aan bedrijfscijfers kregen te verwerken.",
-    "published_at": "2026-07-29 18:50",
-    "scraped_at": "2026-07-29T19:36:08.720546"
+    "scraped_at": "2026-07-29T20:38:34.653791"
   }
 ]
