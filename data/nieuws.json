@@ -1,12 +1,39 @@
 [
   {
+    "id": "0c888262e3550468e5543a40617b9e02",
+    "categorie": "Beursnieuws",
+    "titel": "Envipco wordt exclusief leverancier Britse supermarkt",
+    "link": "https://www.beurs.nl/Nieuws/872812/Envipco-wordt-exclusief-leverancier-Britse-supermarkt.aspx",
+    "intro": "Envipco is aangesteld als exclusief leverancier van statiegeldautomaten aan een vooraanstaande Britse supermarktketen. Dat maakte de in Amersfoort gevestigde specialist in recyclingsystemen en Reverse Vending Machines woensdag nabeurs bekend.",
+    "published_at": "2026-07-29 18:04",
+    "scraped_at": "2026-07-29T16:35:14.430845"
+  },
+  {
+    "id": "1b1b5077aa2d05778fdb421dd428f5cb",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit nipt hoger",
+    "link": "https://www.beurs.nl/Nieuws/872809/AEX-sluit-nipt-hoger.aspx",
+    "intro": "De AEX is woensdag ietsje hoger gesloten, terwijl de onzekerheid over de oorlog in het Midden-Oosten weer oplaaide. Ook kregen beleggers veel bedrijfscijfers te verwerken en zijn ze benieuwd hoe de kwartaalcijfers nabeurs van Meta en Microsoft zullen uitvallen.",
+    "published_at": "2026-07-29 17:59",
+    "scraped_at": "2026-07-29T16:35:14.430845"
+  },
+  {
+    "id": "d87a23d4d6891d86669aa92b2ea29ddf",
+    "categorie": "IEX",
+    "titel": "Slotcall: ASML is geschoren en nu is ASMI aan de beurt",
+    "link": "https://www.iex.nl/artikel/872795/Slotcall-ASML-is-geschoren-en-nu-is-ASMI-aan-de-beurt.aspx",
+    "intro": "De AEX maakt er richting het slot een ouderwets rondje om de kerk van. Eerst omlaag, daarna weer omhoog en met nog een half uur handel te gaan staan we praktisch precies waar we gisteren eindigden.",
+    "published_at": "2026-07-29 17:35",
+    "scraped_at": "2026-07-29T16:35:14.430845"
+  },
+  {
     "id": "cf88052911f0e9fe43ad2f047ec9ad49",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: hogere omzet en operationele winst verwacht voor Fagron",
     "link": "https://www.beurs.nl/Nieuws/872802/Beursblik-hogere-omzet-en-operationele-winst-verwacht-voor-Fagron.aspx",
     "intro": "Fagron heeft in de eerste zes maanden van 2026 waarschijnlijk een hogere omzet geboekt. Dit blijkt uit de analistenconsensus die het bedrijf zelf verzamelde.",
     "published_at": "2026-07-29 16:49",
-    "scraped_at": "2026-07-29T14:58:58.433141"
+    "scraped_at": "2026-07-29T16:35:14.430845"
   },
   {
     "id": "8dd75259f068c501d065f995cfbc79f4",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/872798/Amerikaanse-olievoorraden-fors-afgenomen.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week fors afgenomen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-07-29 16:38",
-    "scraped_at": "2026-07-29T14:58:58.433141"
+    "scraped_at": "2026-07-29T16:35:14.430845"
   },
   {
     "id": "3a81fb4dec8ce450ea5f06a4d22237c2",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/872789/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 6 augustus 2026:",
     "published_at": "2026-07-29 16:11",
-    "scraped_at": "2026-07-29T14:58:58.433141"
+    "scraped_at": "2026-07-29T16:35:14.430845"
   },
   {
     "id": "5d9bad8bba24936cc07c3883bd8c4aab",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872790/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 6 augustus 2026:",
     "published_at": "2026-07-29 16:11",
-    "scraped_at": "2026-07-29T14:58:58.433141"
+    "scraped_at": "2026-07-29T16:35:14.430845"
   },
   {
     "id": "f0bf19395778cbb3a0476f2275bfd58d",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872791/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 6 augustus 2026:",
     "published_at": "2026-07-29 16:11",
-    "scraped_at": "2026-07-29T14:58:58.433141"
+    "scraped_at": "2026-07-29T16:35:14.430845"
   },
   {
     "id": "64bc42074c8e2d33ab9da7e76926222f",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872787/Beursblik-AI-uitgaven-belangrijk-bij-resultatenMicrosoft.aspx",
     "intro": "Microsoft zal woensdagavond vermoedelijk een hogere omzet en winst rapporteren over het vierde kwartaal, maar de meeste aandacht zal uitgaan naar de investeringen van het bedrijf.",
     "published_at": "2026-07-29 16:03",
-    "scraped_at": "2026-07-29T14:58:58.433141"
+    "scraped_at": "2026-07-29T16:35:14.430845"
   },
   {
     "id": "d6fe11f6dd521b962cd446ea8415db7e",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872784/Beursblik-tempo-omzetgroei-Magnum-Ice-zakt-terug.aspx",
     "intro": "Magnum Ice heeft in de eerste zes maanden een autonome omzetgroei behaald die past binnen de doelstelling voor 2026. Dit is althans de verwachting van analisten die bijdroegen aan de bedrijfsconsensus.",
     "published_at": "2026-07-29 15:47",
-    "scraped_at": "2026-07-29T14:58:58.433141"
-  },
-  {
-    "id": "026d40afff249eb338f83ec43d27670d",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet en winst voor BAM verwacht",
-    "link": "https://www.beurs.nl/Nieuws/872777/Meer-omzet-en-winst-voor-BAM-verwacht.aspx",
-    "intro": "BAM heeft in de eerste helft van 2026 de omzet en de winst op jaarbasis zien stijgen. Dit bleek uit een analistenconsensus die de bouwer zelf samenstelde.",
-    "published_at": "2026-07-29 15:01",
-    "scraped_at": "2026-07-29T14:58:58.433141"
-  },
-  {
-    "id": "2dbc21a2c3118dffab5b21b291527515",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht terughoudende opening",
-    "link": "https://www.beurs.nl/Nieuws/872774/Wall-Street-wacht-terughoudende-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een terughoudende opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,1 procent in het rood.",
-    "published_at": "2026-07-29 14:45",
-    "scraped_at": "2026-07-29T14:58:58.433141"
-  },
-  {
-    "id": "da0cb21e9b4a343b730bb469d7f3201a",
-    "categorie": "Beursnieuws",
-    "titel": "Ajax huurt Tolu Arokodare",
-    "link": "https://www.beurs.nl/Nieuws/872772/Ajax-huurt-Tolu-Arokodare.aspx",
-    "intro": "Ajax heeft overeenstemming bereikt met Wolverhampton Wanderers over de huur van Tolu Arokodare.",
-    "published_at": "2026-07-29 14:22",
-    "scraped_at": "2026-07-29T14:58:58.433141"
+    "scraped_at": "2026-07-29T16:35:14.430845"
   }
 ]
