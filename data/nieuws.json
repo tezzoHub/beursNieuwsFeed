@@ -1,12 +1,75 @@
 [
   {
+    "id": "77bd1bbb9300fa78e7c14c5a01d15ed4",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/872738/Europese-beurzen-in-het-rood.aspx",
+    "intro": "De Europese beurzen noteerden woensdag rond het middaguur lager.",
+    "published_at": "2026-07-29 12:07",
+    "scraped_at": "2026-07-29T10:20:20.041668"
+  },
+  {
+    "id": "5c5ea2c2e66f999861d859ccb72b00e0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: weinig verassingen bij Aperam verwacht",
+    "link": "https://www.beurs.nl/Nieuws/872729/Beursblik-weinig-verassingen-bij-Aperam-verwacht.aspx",
+    "intro": "De kwartaalupdate van Aperam lijkt weinig verrassingen te gaan opleveren, nadat de fabrikant in roestvast staal begin deze maand de outlook voor het tweede kwartaal herhaalde.",
+    "published_at": "2026-07-29 11:54",
+    "scraped_at": "2026-07-29T10:20:20.041668"
+  },
+  {
+    "id": "eef5f5bb6955cf7f916221fa9e061786",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: winstmomentum Arcadis verbetert",
+    "link": "https://www.beurs.nl/Nieuws/872727/Beursblik-winstmomentum-Arcadis-verbetert.aspx",
+    "intro": "Arcadis heeft in de eerste helft van 2026 het winstmomentum zien verbeteren. Dit verwacht analist David Kerstens van Jefferies in aanloop naar cijfers van het advies- en ingenieursbedrijf op donderdag.",
+    "published_at": "2026-07-29 11:31",
+    "scraped_at": "2026-07-29T10:20:20.041668"
+  },
+  {
+    "id": "2613569434652216310fae1026758612",
+    "categorie": "Beursnieuws",
+    "titel": "ASMI onderuit in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/872720/ASMI-onderuit-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdagochtend lager, mede door het koersverlies voor ASMI na cijfers. Rond de klok van elf uur daalde de AEX met 0,5 procent tot 1.087,14 punten.",
+    "published_at": "2026-07-29 10:57",
+    "scraped_at": "2026-07-29T10:20:20.041668"
+  },
+  {
+    "id": "15d245e5b0850ea4eee96b976e9a6c92",
+    "categorie": "IEX",
+    "titel": "Must read: Apple als tweede bedrijf $5 biljoen waard",
+    "link": "https://www.iex.nl/artikel/872694/Must-read-Apple-als-tweede-bedrijf-5-biljoen-waard.aspx",
+    "intro": "Plus: Is de K-vormige economie aan het kantelen? Minister van Zuid-Korea biedt excuses aan, een AI-ETF voor de hele waardeketen, en Coca-Cola boert goed.",
+    "published_at": "2026-07-29 10:30",
+    "scraped_at": "2026-07-29T10:20:20.041668"
+  },
+  {
+    "id": "1f3be815646a97a8f56e44cc8b2f80b1",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel Basic-Fit",
+    "link": "https://www.beurs.nl/Nieuws/872713/UBS-verhoogt-koersdoel-Basic-Fit.aspx",
+    "intro": "UBS heeft woensdag het koersdoel voor Basic-Fit verhoogd van 43,50 naar 47,50 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Natasha Brilliant.",
+    "published_at": "2026-07-29 10:25",
+    "scraped_at": "2026-07-29T10:20:20.041668"
+  },
+  {
+    "id": "352207107c4530e7403ef2f97e092f8a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: meevallende resultaten ASMI over brede linie",
+    "link": "https://www.beurs.nl/Nieuws/872707/Beursblik-meevallende-resultaten-ASMI-over-brede-linie.aspx",
+    "intro": "De sterke kwartaalupdate en de dito outlook van ASMI verrasten niet. Dit stelde analist Michael Roeg van Degroof Petercam woensdag in een rapport.",
+    "published_at": "2026-07-29 09:49",
+    "scraped_at": "2026-07-29T10:20:20.041668"
+  },
+  {
     "id": "7f3e8a8e6d57cc57a3673f4cbad5e9cf",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: prijsverhogingen blijven groei IMCD ondersteunen",
     "link": "https://www.beurs.nl/Nieuws/872702/Beursblik-prijsverhogingen-blijven-groei-IMCD-ondersteunen.aspx",
     "intro": "IMCD heeft in het tweede kwartaal duidelijk beter gepresteerd dan verwacht, dankzij een hogere autonome groei. Dit stelde analist Luuk van Beek van Degroof Petercam woensdag in een rapport.",
     "published_at": "2026-07-29 09:28",
-    "scraped_at": "2026-07-29T07:33:07.207486"
+    "scraped_at": "2026-07-29T10:20:20.041668"
   },
   {
     "id": "1f1dcd4718a77e7acea3befb94e58e90",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872701/Beursblik-ASMI-legt-de-lat-hoger.aspx",
     "intro": "ASMI heeft een sterk tweede kwartaal afgeleverd en de verwachtingen voor 2027 verhoogd. Dit concludeerden analisten van KBC Securities woensdag in een rapport.",
     "published_at": "2026-07-29 09:25",
-    "scraped_at": "2026-07-29T07:33:07.207486"
+    "scraped_at": "2026-07-29T10:20:20.041668"
   },
   {
     "id": "a792a554188271806eccfcfaa87e2e32",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872695/IMCD-flink-omhoog-in-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs is woensdag vlak geopend, maar IMCD wist zich aan het terughoudende sentiment te onttrekken met een flinke koerswinst na cijfers.",
     "published_at": "2026-07-29 09:12",
-    "scraped_at": "2026-07-29T07:33:07.207486"
-  },
-  {
-    "id": "58da82c3463d37757a6902e3b5b62990",
-    "categorie": "Beleggen",
-    "titel": "\"Wie impact wil maken, kan de obligatiemarkt niet negeren\"",
-    "link": "https://www.ieximpact.nl/artikel/872084/Wie-impact-wil-maken-kan-de-obligatiemarkt-niet-negeren.aspx",
-    "intro": "Obligaties, de grootste beleggingscategorie ter wereld, spelen volgens Tammie Tang van Columbia Threadneedle een sleutelrol bij de financiering van betaalbare woningen, gezondheidszorg, onderwijs en duurzame infrastructuur zonder aan rendement in te boeten. \"De obligatiemarkt heeft altijd al essentiële maatschappelijke voorzieningen gefinancierd.\"",
-    "published_at": "2026-07-29 08:48",
-    "scraped_at": "2026-07-29T07:33:07.207486"
-  },
-  {
-    "id": "bf9d0492e5361bafc48f98c4a824ff37",
-    "categorie": "Beursnieuws",
-    "titel": "Remy Cointreau ziet cognacverkopen aantrekken",
-    "link": "https://www.beurs.nl/Nieuws/872689/Remy-Cointreau-ziet-cognacverkopen-aantrekken.aspx",
-    "intro": "Remy Cointreau heeft in het afgelopen kwartaal de cognacverkopen zien aantrekken, vooral in delen van Azië, en zag ruimte om de outlook voor het hele jaar te handhaven. Dit bleek woensdag uit cijfers.",
-    "published_at": "2026-07-29 08:47",
-    "scraped_at": "2026-07-29T07:33:07.207486"
-  },
-  {
-    "id": "085c14ada2e51e1415cf54651d6f019f",
-    "categorie": "Beursnieuws",
-    "titel": "UBS stelt niet teleur in tweede kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/872687/UBS-stelt-niet-teleur-in-tweede-kwartaal.aspx",
-    "intro": "UBS heeft in het tweede kwartaal een hoger dan verwachte winst behaald. Dit bleek woensdagochtend uit het kwartaalbericht van de Zwitserse bank.",
-    "published_at": "2026-07-29 08:40",
-    "scraped_at": "2026-07-29T07:33:07.207486"
-  },
-  {
-    "id": "8ee9bf1b8edd016795a5717a01fe6fc4",
-    "categorie": "Beursnieuws",
-    "titel": "Berenberg verhoogt koersdoel Basic-Fit",
-    "link": "https://www.beurs.nl/Nieuws/872684/Berenberg-verhoogt-koersdoel-Basic-Fit.aspx",
-    "intro": "Berenberg heeft woensdag het koersdoel voor Basic-Fit verhoogd van 29,50 naar 32,00 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist Anna Frontani, nadat de fitnessketen eerder deze week met cijfers kwam.",
-    "published_at": "2026-07-29 08:33",
-    "scraped_at": "2026-07-29T07:33:07.207486"
-  },
-  {
-    "id": "c147d5c838fe18e856fb969d65aba4db",
-    "categorie": "Beursnieuws",
-    "titel": "Moneta iets kleiner in BAM",
-    "link": "https://www.beurs.nl/Nieuws/872685/Moneta-iets-kleiner-in-BAM.aspx",
-    "intro": "Moneta Asset Management heeft een iets kleiner belang in BAM gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 27 juli 2026.",
-    "published_at": "2026-07-29 08:33",
-    "scraped_at": "2026-07-29T07:33:07.207486"
-  },
-  {
-    "id": "56a6c7fdfc85536fe25922b8357134da",
-    "categorie": "Voorbeurs",
-    "titel": "Rode futures, lont in kruitvat Iran weer ontstoken en cijferbonanza",
-    "link": "https://www.beurs.nl/Artikel/872594/Rode-futures-lont-in-kruitvat-Iran-weer-ontstoken-en-cijferbonanza.aspx",
-    "intro": "Openingsindicatie: -0,2%. SK Hynix hard onderuit na cijfers, oorlog in Midden-Oosten weer hervat en cijfers IMCD.",
-    "published_at": "2026-07-29 08:30",
-    "scraped_at": "2026-07-29T07:33:07.207486"
-  },
-  {
-    "id": "466edc1c6f0b8641bc7a17c79e2bad9c",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank rapporteert een recordwinst",
-    "link": "https://www.beurs.nl/Nieuws/872683/Deutsche-Bank-rapporteert-een-recordwinst.aspx",
-    "intro": "Deutsche Bank heeft een recordwinst van 1,9 miljard euro behaald in het tweede kwartaal en denkt dat de doelstellingen voor 2028 kunnen worden overtroffen. Dit maakte de Duitse bank woensdag voorbeurs bekend.",
-    "published_at": "2026-07-29 08:21",
-    "scraped_at": "2026-07-29T07:33:07.207486"
+    "scraped_at": "2026-07-29T10:20:20.041668"
   }
 ]
