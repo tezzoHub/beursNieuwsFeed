@@ -1,21 +1,75 @@
 [
   {
+    "id": "c47d07493b212acf434422b7cf066d87",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen fors hoger gesloten",
+    "link": "https://www.beurs.nl/Nieuws/872844/Olieprijzen-fors-hoger-gesloten.aspx",
+    "intro": "De olieprijzen zijn woensdag flink hoger gesloten nadat president Donald Trump had gezegd dat de VS Iran hard zouden treffen als vergelding voor een mislukte aanval op Amerikaanse troepen in het Midden-Oosten.",
+    "published_at": "2026-07-29 21:09",
+    "scraped_at": "2026-07-29T19:36:08.720546"
+  },
+  {
+    "id": "020da50658aaff7a43210c8870f7c270",
+    "categorie": "Beursnieuws",
+    "titel": "Air France-KLM doet bod op TAP Air",
+    "link": "https://www.beurs.nl/Nieuws/872839/Air-France-KLM-doet-bod-op-TAP-Air.aspx",
+    "intro": "Air France-KLM heeft een bindend bod uitgebracht op een belang van 44,9 tot 49,9 procent in het Portugese TAP Air Portugal. Dat maakte de Frans-Nederlandse luchtvaartgroep woensdag nabeurs bekend.",
+    "published_at": "2026-07-29 20:27",
+    "scraped_at": "2026-07-29T19:36:08.720546"
+  },
+  {
+    "id": "770f253c4d5842a44c14c4b1ebc852ce",
+    "categorie": "Beursnieuws",
+    "titel": "Fed houdt rente stabiel ondanks verdeeldheid",
+    "link": "https://www.beurs.nl/Nieuws/872838/Fed-houdt-rente-stabiel-ondanks-verdeeldheid.aspx",
+    "intro": "De Federal Reserve heeft de rente woensdag ongewijzigd gelaten, maar het besluit legde verdeeldheid binnen het comité bloot. Dit bleek uit de bijbehorende toelichting op het rentebesluit",
+    "published_at": "2026-07-29 20:16",
+    "scraped_at": "2026-07-29T19:36:08.720546"
+  },
+  {
+    "id": "dd7a4e75cff830093a17d2a7aad5abf3",
+    "categorie": "Beursnieuws",
+    "titel": "Fed handhaaft rente zoals verwacht",
+    "link": "https://www.beurs.nl/Nieuws/872834/Fed-handhaaft-rente-zoals-verwacht.aspx",
+    "intro": "De Amerikaanse Federal Reserve heeft de rente zoals verwacht onveranderd gelaten op 3,50 tot 3,75 procent. Dat bleek woensdag uit het rentebesluit.",
+    "published_at": "2026-07-29 20:02",
+    "scraped_at": "2026-07-29T19:36:08.720546"
+  },
+  {
+    "id": "b4aa711eb44b0d039648499c25aff08c",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street kleurt volledig rood",
+    "link": "https://www.beurs.nl/Nieuws/872833/Wall-Street-kleurt-volledig-rood.aspx",
+    "intro": "De Amerikaanse beurzen noteerden woensdag in het rood met nog een paar uur handel te gaan. De olieprijs schoot omhoog na nieuwe aanvallen in Midden-Oosten en er was zo weer de nodige onrust op de markten. Verder wachten beleggers op het rentebesluit van de Fed en de toelichting erop.",
+    "published_at": "2026-07-29 19:59",
+    "scraped_at": "2026-07-29T19:36:08.720546"
+  },
+  {
+    "id": "6ecfff86725d011ce7bfbefb2093358f",
+    "categorie": "Beursnieuws",
+    "titel": "Hawick Data boekt winst in eerste halfjaar",
+    "link": "https://www.beurs.nl/Nieuws/872832/Hawick-Data-boekt-winst-in-eerste-halfjaar.aspx",
+    "intro": "Hawick Data heeft in de eerste helft van 2026 een nettowinst van 0,25 miljoen euro geboekt, vrijwel volledig dankzij rente-inkomsten. Dat maakte het voormalige IEX woensdag bekend.",
+    "published_at": "2026-07-29 19:52",
+    "scraped_at": "2026-07-29T19:36:08.720546"
+  },
+  {
     "id": "1a01c68c7febbbf58cdbda90cbeeca96",
     "categorie": "Beursnieuws",
     "titel": "Intrinsieke waarde MKB Nedsense stabiel",
     "link": "https://www.beurs.nl/Nieuws/872831/Intrinsieke-waarde-MKB-Nedsense-stabiel.aspx",
     "intro": "De intrinsieke waarde van MKB Nedsense is in de eerste helft van 2026 stabiel gebleven. Dat maakte de investeringsmaatschappij woensdag bekend.",
     "published_at": "2026-07-29 19:44",
-    "scraped_at": "2026-07-29T17:58:36.158048"
+    "scraped_at": "2026-07-29T19:36:08.720546"
   },
   {
-    "id": "002126ccccf302e24f8328f51ba5b72a",
+    "id": "f036238013d7ffc816f42597491fcd27",
     "categorie": "Beursnieuws",
-    "titel": "Update: AMG verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/872449/Update-AMG-verhoogt-outlook.aspx",
+    "titel": "AMG verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/872449/AMG-verhoogt-outlook.aspx",
     "intro": "AMG heeft een uitstekend tweede kwartaal achter de rug. Gedreven door sterke prestaties binnen de divisies voor lithium en vanadium schoten de winstcijfers fors omhoog en heeft het bedrijf de outlook opwaarts bijgesteld. Dat maakte het metaal- en technologieconcern woensdag nabeurs bekend.",
     "published_at": "2026-07-29 19:31",
-    "scraped_at": "2026-07-29T17:58:36.158048"
+    "scraped_at": "2026-07-29T19:36:08.720546"
   },
   {
     "id": "1d55c0a57a751dd938233c8bab3056ef",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872826/AMG-verhoogt-outlook.aspx",
     "intro": "AMG heeft een uitstekend tweede kwartaal achter de rug. Gedreven door sterke prestaties binnen de divisies voor lithium en vanadium schoten de winstcijfers fors omhoog en heeft het bedrijf de outlook opwaarts bijgesteld. Dat maakte het metaal- en technologieconcern woensdag nabeurs bekend.",
     "published_at": "2026-07-29 19:10",
-    "scraped_at": "2026-07-29T17:58:36.158048"
+    "scraped_at": "2026-07-29T19:36:08.720546"
   },
   {
     "id": "445455fa951b87de82b74c82be4e6e98",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872825/Europese-beurzen-verdeeld-gesloten.aspx",
     "intro": "De Europese beurzen zijn woensdag verdeeld gesloten, terwijl beleggers de hernieuwde spanningen in het Midden-Oosten moesten evalueren en daarnaast een lawine aan bedrijfscijfers kregen te verwerken.",
     "published_at": "2026-07-29 18:50",
-    "scraped_at": "2026-07-29T17:58:36.158048"
-  },
-  {
-    "id": "5405ab4d40869d37cf54657d30cdf0bc",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere winst en omzet voor Airbus",
-    "link": "https://www.beurs.nl/Nieuws/872822/Hogere-winst-en-omzet-voor-Airbus.aspx",
-    "intro": "Airbus heeft het afgelopen kwartaal een hogere omzet behaald en wist de winst met de helft te doen stijgen. Dit bleek woensdag nabeurs uit de kwartaalcijfers van de Europese vliegtuigbouwer.",
-    "published_at": "2026-07-29 18:32",
-    "scraped_at": "2026-07-29T17:58:36.158048"
-  },
-  {
-    "id": "0c888262e3550468e5543a40617b9e02",
-    "categorie": "Beursnieuws",
-    "titel": "Envipco wordt exclusief leverancier Britse supermarkt",
-    "link": "https://www.beurs.nl/Nieuws/872812/Envipco-wordt-exclusief-leverancier-Britse-supermarkt.aspx",
-    "intro": "Envipco is aangesteld als exclusief leverancier van statiegeldautomaten aan een vooraanstaande Britse supermarktketen. Dat maakte de in Amersfoort gevestigde specialist in recyclingsystemen en Reverse Vending Machines woensdag nabeurs bekend.",
-    "published_at": "2026-07-29 18:04",
-    "scraped_at": "2026-07-29T17:58:36.158048"
-  },
-  {
-    "id": "1b1b5077aa2d05778fdb421dd428f5cb",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit nipt hoger",
-    "link": "https://www.beurs.nl/Nieuws/872809/AEX-sluit-nipt-hoger.aspx",
-    "intro": "De AEX is woensdag ietsje hoger gesloten, terwijl de onzekerheid over de oorlog in het Midden-Oosten weer oplaaide. Ook kregen beleggers veel bedrijfscijfers te verwerken en zijn ze benieuwd hoe de kwartaalcijfers nabeurs van Meta en Microsoft zullen uitvallen.",
-    "published_at": "2026-07-29 17:59",
-    "scraped_at": "2026-07-29T17:58:36.158048"
-  },
-  {
-    "id": "d87a23d4d6891d86669aa92b2ea29ddf",
-    "categorie": "IEX",
-    "titel": "Slotcall: ASML is geschoren en nu is ASMI aan de beurt",
-    "link": "https://www.iex.nl/artikel/872795/Slotcall-ASML-is-geschoren-en-nu-is-ASMI-aan-de-beurt.aspx",
-    "intro": "De AEX maakt er richting het slot een ouderwets rondje om de kerk van. Eerst omlaag, daarna weer omhoog en met nog een half uur handel te gaan staan we praktisch precies waar we gisteren eindigden.",
-    "published_at": "2026-07-29 17:35",
-    "scraped_at": "2026-07-29T17:58:36.158048"
-  },
-  {
-    "id": "cf88052911f0e9fe43ad2f047ec9ad49",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: hogere omzet en operationele winst verwacht voor Fagron",
-    "link": "https://www.beurs.nl/Nieuws/872802/Beursblik-hogere-omzet-en-operationele-winst-verwacht-voor-Fagron.aspx",
-    "intro": "Fagron heeft in de eerste zes maanden van 2026 waarschijnlijk een hogere omzet geboekt. Dit blijkt uit de analistenconsensus die het bedrijf zelf verzamelde.",
-    "published_at": "2026-07-29 16:49",
-    "scraped_at": "2026-07-29T17:58:36.158048"
-  },
-  {
-    "id": "8dd75259f068c501d065f995cfbc79f4",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden fors afgenomen",
-    "link": "https://www.beurs.nl/Nieuws/872798/Amerikaanse-olievoorraden-fors-afgenomen.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week fors afgenomen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-07-29 16:38",
-    "scraped_at": "2026-07-29T17:58:36.158048"
+    "scraped_at": "2026-07-29T19:36:08.720546"
   }
 ]
