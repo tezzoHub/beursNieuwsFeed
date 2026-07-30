@@ -1,12 +1,75 @@
 [
   {
-    "id": "d3b60177c990d7009d051849f88bfe7e",
+    "id": "62163b013bd9e0922f291e858b5a9114",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: serie koersdoelverhogingen voor ASMI",
-    "link": "https://www.beurs.nl/Nieuws/872958/Beursblik-serie-koersdoelverhogingen-voor-ASMI.aspx",
+    "titel": "Winst Yum Brands meer dan verdubbeld",
+    "link": "https://www.beurs.nl/Nieuws/872982/Winst-Yum-Brands-meer-dan-verdubbeld.aspx",
+    "intro": "Yum Brands heeft in het tweede kwartaal de winst meer dan verdubbeld dankzij hogere verkopen, terwijl de fastfoodgroep tegelijk worstelt met de gevolgen van een geruchtmakende parasietenuitbraak. Dit bleek donderdag uit de kwartaalcijfers van het moederbedrijf van onder meer Taco Bell en KFC.",
+    "published_at": "2026-07-30 13:38",
+    "scraped_at": "2026-07-30T11:52:41.341980"
+  },
+  {
+    "id": "2c5fe12e0d58562a978684cc32d9cc2c",
+    "categorie": "Beursnieuws",
+    "titel": "Ferrari boekt meer winst",
+    "link": "https://www.beurs.nl/Nieuws/872979/Ferrari-boekt-meer-winst.aspx",
+    "intro": "Ferrari heeft in het tweede kwartaal van 2026 meer omzet en winst behaald. Dit bleek donderdagmiddag uit cijfers van de Italiaanse fabrikant van luxe sportwagens.",
+    "published_at": "2026-07-30 13:22",
+    "scraped_at": "2026-07-30T11:52:41.341980"
+  },
+  {
+    "id": "2b7f74e0dd622db2f46b1ac6236ce52d",
+    "categorie": "Beursnieuws",
+    "titel": "Futures VS wijzen omhoog",
+    "link": "https://www.beurs.nl/Nieuws/872973/Futures-VS-wijzen-omhoog.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd een half procent in het groen.",
+    "published_at": "2026-07-30 13:09",
+    "scraped_at": "2026-07-30T11:52:41.341980"
+  },
+  {
+    "id": "9d2622dee113700e52e8dd99b87048f9",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of England handhaaft rente",
+    "link": "https://www.beurs.nl/Nieuws/872972/Bank-of-England-handhaaft-rente.aspx",
+    "intro": "De Bank of England heeft de beleidsrente donderdag opnieuw gehandhaafd op 3,75 procent, zoals ook de verwachting in aanloop naar het rentebesluit was.",
+    "published_at": "2026-07-30 13:03",
+    "scraped_at": "2026-07-30T11:52:41.341980"
+  },
+  {
+    "id": "79d588c84f9931fc3d6d31cd5540aa67",
+    "categorie": "Beursnieuws",
+    "titel": "Herstel verwacht bij Fugro",
+    "link": "https://www.beurs.nl/Nieuws/872963/Herstel-verwacht-bij-Fugro.aspx",
+    "intro": "Fugro heeft in de eerste helft van 2026 een duidelijk herstel geboekt. Dit verwachten analisten die bijdroegen aan de bedrijfsconsensus.",
+    "published_at": "2026-07-30 12:35",
+    "scraped_at": "2026-07-30T11:52:41.341980"
+  },
+  {
+    "id": "680532bddfc4c94bfba6766898ac3014",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterk kwartaal Magnum al ingeprijsd",
+    "link": "https://www.beurs.nl/Nieuws/872962/Beursblik-sterk-kwartaal-Magnum-al-ingeprijsd.aspx",
+    "intro": "(ABM FN-Dow Jones) The Magnum Ice Cream Company heeft in het tweede kwartaal beter dan verwacht gepresteerd, geholpen door een sterk begin van de zomer in met name Europa. Toch was die meevaller al grotendeels ingeprijsd. Dit stelden analisten van Jefferies donderdag in een rapport.",
+    "published_at": "2026-07-30 12:33",
+    "scraped_at": "2026-07-30T11:52:41.341980"
+  },
+  {
+    "id": "f97cebc08df4d5b51fa681be61429729",
+    "categorie": "Beursnieuws",
+    "titel": "Cijferregen op groene Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/872960/Cijferregen-op-groene-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur hoger, waarbij beleggers enorm veel bedrijfsresultaten te verwerken kregen.",
+    "published_at": "2026-07-30 12:11",
+    "scraped_at": "2026-07-30T11:52:41.341980"
+  },
+  {
+    "id": "243c5fabad0378f45f950c0314af31c0",
+    "categorie": "Beursnieuws",
+    "titel": "Serie koersdoelverhogingen voor ASMI",
+    "link": "https://www.beurs.nl/Nieuws/872958/Serie-koersdoelverhogingen-voor-ASMI.aspx",
     "intro": "Verschillende banken hebben donderdag hun koersdoel voor ASMI verhoogd, nadat de halfgeleiderspecialist eerder deze week met cijfers kwam.",
     "published_at": "2026-07-30 11:42",
-    "scraped_at": "2026-07-30T09:55:20.289731"
+    "scraped_at": "2026-07-30T11:52:41.341980"
   },
   {
     "id": "136d6152a3a2261ce280265f031f405a",
@@ -15,78 +78,15 @@
     "link": "https://www.beurs.nl/Nieuws/872954/DSM-Firmenich-trekt-de-kar-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs vond donderdag gedurende de ochtend de weg omhoog, dankzij koerswinsten bij DSM-Firmenich, IMCD en ASMI. Rond de klok van half twaalf won de AEX 0,9 procent op 1.103,18 punten.",
     "published_at": "2026-07-30 11:28",
-    "scraped_at": "2026-07-30T09:55:20.289731"
+    "scraped_at": "2026-07-30T11:52:41.341980"
   },
   {
-    "id": "f627b591dc035d6d53e39556e9553a6f",
+    "id": "57accc9fb7d21f02e33e153b147e064a",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam zet AMG op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/872948/Beursblik-Degroof-Petercam-zet-AMG-op-de-kooplijst.aspx",
+    "titel": "Degroof Petercam zet AMG op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/872948/Degroof-Petercam-zet-AMG-op-de-kooplijst.aspx",
     "intro": "Degroof Petercam heeft donderdag het advies voor AMG verhoogd van Houden naar Kopen, met een ongewijzigd koersdoel van 40,00 euro. Dit bleek uit een rapport van analist Frank Claassen.",
     "published_at": "2026-07-30 10:46",
-    "scraped_at": "2026-07-30T09:55:20.289731"
-  },
-  {
-    "id": "07a28d277534ec4e1edf7c5b46f0e2a0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/872946/Beursblik-Degroof-Petercam-verhoogt-koersdoel-Arcadis.aspx",
-    "intro": "Degroof Petercam heeft donderdag het koersdoel voor Arcadis verhoogd van 45,00 naar 50,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Luuk van Beek.",
-    "published_at": "2026-07-30 10:44",
-    "scraped_at": "2026-07-30T09:55:20.289731"
-  },
-  {
-    "id": "b0bdca17bce267c430f2432e058812ee",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel Adidas fors onderuit na cijfers",
-    "link": "https://www.beurs.nl/Nieuws/872942/Aandeel-Adidas-fors-onderuit-na-cijfers.aspx",
-    "intro": "Adidas heeft de omzetverwachting voor 2026naar boven bijgesteld na sterke prestaties in de eerste helft van het jaar. Toch daalde het aandeel fors na een tegenvallende winst in het tweede kwartaal, veroorzaakt door hogere marketinguitgaven voor het WK voetbal en lagere operationele marge. Dit bleek donderdagochtend uit de cijfers van de Duitse sportartikelengigant.",
-    "published_at": "2026-07-30 10:08",
-    "scraped_at": "2026-07-30T09:55:20.289731"
-  },
-  {
-    "id": "d2e57e2f1bbd39ad4764eb577cbfbd68",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: DSM-Firmenich overtreft verwachtingen",
-    "link": "https://www.beurs.nl/Nieuws/872941/Beursblik-DSM-Firmenich-overtreft-verwachtingen.aspx",
-    "intro": "DSM-Firmenich heeft in het tweede kwartaal de verwachtingen overtroffen. Dit stelde analist Fernand de Boer van Degroof Petercam donderdag in een rapport.",
-    "published_at": "2026-07-30 10:00",
-    "scraped_at": "2026-07-30T09:55:20.289731"
-  },
-  {
-    "id": "f2f7ccd21da2519bf92c956a2a609c11",
-    "categorie": "Must read",
-    "titel": "Must read: Winstgroei verbreedt",
-    "link": "https://www.iex.nl/artikel/872703/Must-read-Winstgroei-verbreedt.aspx",
-    "intro": "Plus: ING gelooft in beleggen in de energietransitie, wel/niet de Koreaanse dip kopen, 6 goedkope farmabedrijven, de kosten van een tweede huis en veel meer.",
-    "published_at": "2026-07-30 10:00",
-    "scraped_at": "2026-07-30T09:55:20.289731"
-  },
-  {
-    "id": "695dfa1d0e85075b94ab24119eaf68c9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke en solide resultaten Shell",
-    "link": "https://www.beurs.nl/Nieuws/872940/Beursblik-sterke-en-solide-resultaten-Shell.aspx",
-    "intro": "Shell heeft in het tweede kwartaal \"solide en sterke\" resultaten behaald. Dit concludeerde analist Mark Wilson van Jefferies donderdag in een rapport.",
-    "published_at": "2026-07-30 09:56",
-    "scraped_at": "2026-07-30T09:55:20.289731"
-  },
-  {
-    "id": "2343506a502aa4820ddacc782d67d957",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke halfjaarresultaten bij Fagron",
-    "link": "https://www.beurs.nl/Nieuws/872939/Beursblik-sterke-halfjaarresultaten-bij-Fagron.aspx",
-    "intro": "Fagron heeft in de eerste helft van 2026 sterke resultaten overlegd. Dit oordeelde analist Mathijs Geerts Danau van KBC Securities donderdag in een rapport.",
-    "published_at": "2026-07-30 09:49",
-    "scraped_at": "2026-07-30T09:55:20.289731"
-  },
-  {
-    "id": "2c894be73e33e690062d0e30165e580e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: stabiel eerste halfjaar Vopak",
-    "link": "https://www.beurs.nl/Nieuws/872937/Beursblik-stabiel-eerste-halfjaar-Vopak.aspx",
-    "intro": "Vopak heeft een solide kwartaal achter de rug, met een sterk operationeel resultaat dat het tankopslagbedrijf ertoe bracht de jaaroutlook te verhogen. Dit bleek donderdag uit een reactie van analist David Kerstens van Jefferies.",
-    "published_at": "2026-07-30 09:40",
-    "scraped_at": "2026-07-30T09:55:20.289731"
+    "scraped_at": "2026-07-30T11:52:41.341980"
   }
 ]
