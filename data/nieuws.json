@@ -1,12 +1,30 @@
 [
   {
+    "id": "708756ed8ae8700cd2f766d7aaf5a856",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt ondanks hernieuwde escalatie Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/873048/Olieprijs-daalt-ondanks-hernieuwde-escalatie-Midden-Oosten.aspx",
+    "intro": "De olieprijs is donderdag gedaald, ondanks hernieuwde Amerikaanse aanvallen op Iraanse doelen, in reactie op een aanval van Iran in Jordanië.",
+    "published_at": "2026-07-30 21:12",
+    "scraped_at": "2026-07-30T19:27:20.997430"
+  },
+  {
+    "id": "1b089f11f0c494d1d1bc02bdc3b6ae27",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street zet flinke winsten neer",
+    "link": "https://www.beurs.nl/Nieuws/873047/Wall-Street-zet-flinke-winsten-neer.aspx",
+    "intro": "De aandelenmarkten in de VS boekten donderdag flinke winsten. Chipaandelen herstelden na de verkoopgolf van een dag eerder, waar onder meer de Federal Reserve debet aan was.",
+    "published_at": "2026-07-30 20:01",
+    "scraped_at": "2026-07-30T19:27:20.997430"
+  },
+  {
     "id": "cb0a0ea575de9f1591616efa8786c02f",
     "categorie": "Beursnieuws",
     "titel": "Leonardo verhoogt outlook",
     "link": "https://www.beurs.nl/Nieuws/873044/Leonardo-verhoogt-outlook.aspx",
     "intro": "Leonardo heeft het eerste halfjaar van 2026 afgesloten met een flinke orderstijging. Dat maakte het Italiaanse defensiebedrijf donderdag na sluiting van de beurs bekend.",
     "published_at": "2026-07-30 19:41",
-    "scraped_at": "2026-07-30T17:54:04.873672"
+    "scraped_at": "2026-07-30T19:27:20.997430"
   },
   {
     "id": "d0bbe31a881fc3e1bc3cc22edac2385a",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/873041/Europese-beurzen-sluiten-hoger-na-enorm-drukke-cijferdag.aspx",
     "intro": "De meeste Europese beurzen zijn donderdag hoger geëindigd, na een drukke dag met kwartaal-, groei- en inflatiecijfers.",
     "published_at": "2026-07-30 19:02",
-    "scraped_at": "2026-07-30T17:54:04.873672"
+    "scraped_at": "2026-07-30T19:27:20.997430"
   },
   {
     "id": "4bb2eafd67da875be0d6a223ca5b97dd",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/873039/Hydratec-profiteert-van-desinvestering-en-beloont-aandeelhouder-flink.aspx",
     "intro": "Hydratec Industries heeft in het eerste half jaar de verkoop van Helvoet afgerond, hetgeen een nettoresultaat uit beëindigde bedrijfsactiviteiten van 49,0 miljoen euro opleverde. Dit meldde het bedrijf uit Amersfoort donderdag nabeurs, waarbij aandeelhouders een stevig dividend in het vooruitzicht werd gesteld.",
     "published_at": "2026-07-30 18:52",
-    "scraped_at": "2026-07-30T17:54:04.873672"
+    "scraped_at": "2026-07-30T19:27:20.997430"
   },
   {
     "id": "c47d1dc9e2b2b177cbd3edb4001ec4d9",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/873034/Hogere-omzet-voor-Universal-Music.aspx",
     "intro": "Universal Music Group heeft in het tweede kwartaal een hogere omzet geboekt, onder meer dankzij de consolidatie van Downtown Music. Dit bleek donderdagavond uit de cijfers van het entertainmentconcern met een notering in Amsterdam.",
     "published_at": "2026-07-30 18:06",
-    "scraped_at": "2026-07-30T17:54:04.873672"
+    "scraped_at": "2026-07-30T19:27:20.997430"
   },
   {
     "id": "cbf6ca919ee53f1a5cfc0c2f3084a1c1",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873033/Weer-dubbelcijferige-groei-voor-Euronext.aspx",
     "intro": "Euronext heeft in het tweede kwartaal een recordomzet behaald en de winstgevendheid zien stijgen. Dit bleek uit cijfers die de beursuitbater donderdagavond publiceerde.",
     "published_at": "2026-07-30 18:05",
-    "scraped_at": "2026-07-30T17:54:04.873672"
+    "scraped_at": "2026-07-30T19:27:20.997430"
   },
   {
     "id": "558fe4d4f08e59eb79704d6923f62b81",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873031/AEX-sluit-overtuigend-in-het-groen.aspx",
     "intro": "De beurs in Amsterdam is donderdag overtuigend in het groen gesloten, nadat beleggers een berg aan kwartaalcijfers kregen te verwerken. Wat betreft de olieprijzen kwam er wat rust.",
     "published_at": "2026-07-30 18:03",
-    "scraped_at": "2026-07-30T17:54:04.873672"
+    "scraped_at": "2026-07-30T19:27:20.997430"
   },
   {
     "id": "0510bf42f2cd9253ad0221cf1103926f",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873020/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 7 augustus 2026:",
     "published_at": "2026-07-30 16:42",
-    "scraped_at": "2026-07-30T17:54:04.873672"
+    "scraped_at": "2026-07-30T19:27:20.997430"
   },
   {
     "id": "71274243598a7095915d892d8c31d1bc",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873021/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 7 augustus 2026:",
     "published_at": "2026-07-30 16:42",
-    "scraped_at": "2026-07-30T17:54:04.873672"
-  },
-  {
-    "id": "b0bc15515bdff86ae72e90bf983550c0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: aanhoudende groei bij Euronext verwacht",
-    "link": "https://www.beurs.nl/Nieuws/873023/Beursblik-aanhoudende-groei-bij-Euronext-verwacht.aspx",
-    "intro": "Euronext heeft in het tweede kwartaal meer omzet behaald en de winstgevendheid ook zien stijgen. Dit blijkt uit een analistenconsensus die de beursuitbater zelf samenstelde.",
-    "published_at": "2026-07-30 16:42",
-    "scraped_at": "2026-07-30T17:54:04.873672"
-  },
-  {
-    "id": "313d03b855cf6c8a5dda245a3d6cda1b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/873019/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 7 augustus 2026:",
-    "published_at": "2026-07-30 16:41",
-    "scraped_at": "2026-07-30T17:54:04.873672"
+    "scraped_at": "2026-07-30T19:27:20.997430"
   }
 ]
