@@ -1,12 +1,66 @@
 [
   {
+    "id": "cb0a0ea575de9f1591616efa8786c02f",
+    "categorie": "Beursnieuws",
+    "titel": "Leonardo verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/873044/Leonardo-verhoogt-outlook.aspx",
+    "intro": "Leonardo heeft het eerste halfjaar van 2026 afgesloten met een flinke orderstijging. Dat maakte het Italiaanse defensiebedrijf donderdag na sluiting van de beurs bekend.",
+    "published_at": "2026-07-30 19:41",
+    "scraped_at": "2026-07-30T17:54:04.873672"
+  },
+  {
+    "id": "d0bbe31a881fc3e1bc3cc22edac2385a",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten hoger na enorm drukke cijferdag",
+    "link": "https://www.beurs.nl/Nieuws/873041/Europese-beurzen-sluiten-hoger-na-enorm-drukke-cijferdag.aspx",
+    "intro": "De meeste Europese beurzen zijn donderdag hoger geëindigd, na een drukke dag met kwartaal-, groei- en inflatiecijfers.",
+    "published_at": "2026-07-30 19:02",
+    "scraped_at": "2026-07-30T17:54:04.873672"
+  },
+  {
+    "id": "4bb2eafd67da875be0d6a223ca5b97dd",
+    "categorie": "Beursnieuws",
+    "titel": "Hydratec profiteert van desinvestering en beloont aandeelhouder flink",
+    "link": "https://www.beurs.nl/Nieuws/873039/Hydratec-profiteert-van-desinvestering-en-beloont-aandeelhouder-flink.aspx",
+    "intro": "Hydratec Industries heeft in het eerste half jaar de verkoop van Helvoet afgerond, hetgeen een nettoresultaat uit beëindigde bedrijfsactiviteiten van 49,0 miljoen euro opleverde. Dit meldde het bedrijf uit Amersfoort donderdag nabeurs, waarbij aandeelhouders een stevig dividend in het vooruitzicht werd gesteld.",
+    "published_at": "2026-07-30 18:52",
+    "scraped_at": "2026-07-30T17:54:04.873672"
+  },
+  {
+    "id": "c47d1dc9e2b2b177cbd3edb4001ec4d9",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere omzet voor Universal Music",
+    "link": "https://www.beurs.nl/Nieuws/873034/Hogere-omzet-voor-Universal-Music.aspx",
+    "intro": "Universal Music Group heeft in het tweede kwartaal een hogere omzet geboekt, onder meer dankzij de consolidatie van Downtown Music. Dit bleek donderdagavond uit de cijfers van het entertainmentconcern met een notering in Amsterdam.",
+    "published_at": "2026-07-30 18:06",
+    "scraped_at": "2026-07-30T17:54:04.873672"
+  },
+  {
+    "id": "cbf6ca919ee53f1a5cfc0c2f3084a1c1",
+    "categorie": "Beursnieuws",
+    "titel": "Weer dubbelcijferige groei voor Euronext",
+    "link": "https://www.beurs.nl/Nieuws/873033/Weer-dubbelcijferige-groei-voor-Euronext.aspx",
+    "intro": "Euronext heeft in het tweede kwartaal een recordomzet behaald en de winstgevendheid zien stijgen. Dit bleek uit cijfers die de beursuitbater donderdagavond publiceerde.",
+    "published_at": "2026-07-30 18:05",
+    "scraped_at": "2026-07-30T17:54:04.873672"
+  },
+  {
+    "id": "558fe4d4f08e59eb79704d6923f62b81",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit overtuigend in het groen",
+    "link": "https://www.beurs.nl/Nieuws/873031/AEX-sluit-overtuigend-in-het-groen.aspx",
+    "intro": "De beurs in Amsterdam is donderdag overtuigend in het groen gesloten, nadat beleggers een berg aan kwartaalcijfers kregen te verwerken. Wat betreft de olieprijzen kwam er wat rust.",
+    "published_at": "2026-07-30 18:03",
+    "scraped_at": "2026-07-30T17:54:04.873672"
+  },
+  {
     "id": "0510bf42f2cd9253ad0221cf1103926f",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
     "link": "https://www.beurs.nl/Nieuws/873020/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 7 augustus 2026:",
     "published_at": "2026-07-30 16:42",
-    "scraped_at": "2026-07-30T16:02:31.391514"
+    "scraped_at": "2026-07-30T17:54:04.873672"
   },
   {
     "id": "71274243598a7095915d892d8c31d1bc",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873021/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 7 augustus 2026:",
     "published_at": "2026-07-30 16:42",
-    "scraped_at": "2026-07-30T16:02:31.391514"
+    "scraped_at": "2026-07-30T17:54:04.873672"
   },
   {
     "id": "b0bc15515bdff86ae72e90bf983550c0",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873023/Beursblik-aanhoudende-groei-bij-Euronext-verwacht.aspx",
     "intro": "Euronext heeft in het tweede kwartaal meer omzet behaald en de winstgevendheid ook zien stijgen. Dit blijkt uit een analistenconsensus die de beursuitbater zelf samenstelde.",
     "published_at": "2026-07-30 16:42",
-    "scraped_at": "2026-07-30T16:02:31.391514"
+    "scraped_at": "2026-07-30T17:54:04.873672"
   },
   {
     "id": "313d03b855cf6c8a5dda245a3d6cda1b",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873019/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 7 augustus 2026:",
     "published_at": "2026-07-30 16:41",
-    "scraped_at": "2026-07-30T16:02:31.391514"
-  },
-  {
-    "id": "a0270e6a63659d22fa4ece6505951a1f",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Amerikaanse PCE-inflatie gedaald",
-    "link": "https://www.beurs.nl/Nieuws/872995/Update-Amerikaanse-PCE-inflatie-gedaald.aspx",
-    "intro": "Het inflatiecijfer in het PCE-rapport is in juni gedaald, na de stijging in mei. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-07-30 14:58",
-    "scraped_at": "2026-07-30T16:02:31.391514"
-  },
-  {
-    "id": "f970cb21ea5f0f2819a52f91538f99b6",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street opent flink in het groen",
-    "link": "https://www.beurs.nl/Nieuws/873002/Wall-Street-opent-flink-in-het-groen.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,6 procent in het groen. Techbeurs Nasdaq lijkt zelfs 1,6 procent hoger te gaan openen, vermoedelijk onder aanvoering van Microsoft.",
-    "published_at": "2026-07-30 14:56",
-    "scraped_at": "2026-07-30T16:02:31.391514"
-  },
-  {
-    "id": "b3252d80e1aaaa8e9caab5e037f04305",
-    "categorie": "Beursnieuws",
-    "titel": "Impactive verkleint belang in Basic-Fit verder",
-    "link": "https://www.beurs.nl/Nieuws/872999/Impactive-verkleint-belang-in-Basic-Fit-verder.aspx",
-    "intro": "Impactive Capital heeft een nog kleiner belang in Basic-Fit gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 28 juli.",
-    "published_at": "2026-07-30 14:53",
-    "scraped_at": "2026-07-30T16:02:31.391514"
-  },
-  {
-    "id": "dabee24a1a21fc29077b89eacef90cd7",
-    "categorie": "Beursnieuws",
-    "titel": "Meer nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/872991/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-07-30 14:35",
-    "scraped_at": "2026-07-30T16:02:31.391514"
-  },
-  {
-    "id": "d5d34b4cd634ad2ac512ed2a1c38366c",
-    "categorie": "Beursnieuws",
-    "titel": "Groei Amerikaanse economie iets vertraagd",
-    "link": "https://www.beurs.nl/Nieuws/872992/Groei-Amerikaanse-economie-iets-vertraagd.aspx",
-    "intro": "De Amerikaanse economie is in het tweede kwartaal gegroeid, maar in een lager tempo dan in het eerste kwartaal. Dit bleek donderdag uit een eerste raming van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-07-30 14:34",
-    "scraped_at": "2026-07-30T16:02:31.391514"
-  },
-  {
-    "id": "c93c705d0515c42eb32c3b0a27341fff",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Berenberg verhoogt koersdoel Aalberts",
-    "link": "https://www.beurs.nl/Nieuws/872987/Beursblik-Berenberg-verhoogt-koersdoel-Aalberts.aspx",
-    "intro": "Berenberg heeft donderdag het koersdoel voor Aalberts verhoogd van 46,00 naar 50,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Christoph Greulich.",
-    "published_at": "2026-07-30 14:19",
-    "scraped_at": "2026-07-30T16:02:31.391514"
+    "scraped_at": "2026-07-30T17:54:04.873672"
   }
 ]
