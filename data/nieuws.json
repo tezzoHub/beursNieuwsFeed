@@ -1,12 +1,48 @@
 [
   {
+    "id": "0510bf42f2cd9253ad0221cf1103926f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/873020/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 7 augustus 2026:",
+    "published_at": "2026-07-30 16:42",
+    "scraped_at": "2026-07-30T16:02:31.391514"
+  },
+  {
+    "id": "71274243598a7095915d892d8c31d1bc",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/873021/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 7 augustus 2026:",
+    "published_at": "2026-07-30 16:42",
+    "scraped_at": "2026-07-30T16:02:31.391514"
+  },
+  {
+    "id": "b0bc15515bdff86ae72e90bf983550c0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: aanhoudende groei bij Euronext verwacht",
+    "link": "https://www.beurs.nl/Nieuws/873023/Beursblik-aanhoudende-groei-bij-Euronext-verwacht.aspx",
+    "intro": "Euronext heeft in het tweede kwartaal meer omzet behaald en de winstgevendheid ook zien stijgen. Dit blijkt uit een analistenconsensus die de beursuitbater zelf samenstelde.",
+    "published_at": "2026-07-30 16:42",
+    "scraped_at": "2026-07-30T16:02:31.391514"
+  },
+  {
+    "id": "313d03b855cf6c8a5dda245a3d6cda1b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/873019/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 7 augustus 2026:",
+    "published_at": "2026-07-30 16:41",
+    "scraped_at": "2026-07-30T16:02:31.391514"
+  },
+  {
     "id": "a0270e6a63659d22fa4ece6505951a1f",
     "categorie": "Beursnieuws",
     "titel": "Update: Amerikaanse PCE-inflatie gedaald",
     "link": "https://www.beurs.nl/Nieuws/872995/Update-Amerikaanse-PCE-inflatie-gedaald.aspx",
     "intro": "Het inflatiecijfer in het PCE-rapport is in juni gedaald, na de stijging in mei. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-07-30 14:58",
-    "scraped_at": "2026-07-30T14:05:26.115525"
+    "scraped_at": "2026-07-30T16:02:31.391514"
   },
   {
     "id": "f970cb21ea5f0f2819a52f91538f99b6",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/873002/Wall-Street-opent-flink-in-het-groen.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,6 procent in het groen. Techbeurs Nasdaq lijkt zelfs 1,6 procent hoger te gaan openen, vermoedelijk onder aanvoering van Microsoft.",
     "published_at": "2026-07-30 14:56",
-    "scraped_at": "2026-07-30T14:05:26.115525"
+    "scraped_at": "2026-07-30T16:02:31.391514"
   },
   {
     "id": "b3252d80e1aaaa8e9caab5e037f04305",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/872999/Impactive-verkleint-belang-in-Basic-Fit-verder.aspx",
     "intro": "Impactive Capital heeft een nog kleiner belang in Basic-Fit gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 28 juli.",
     "published_at": "2026-07-30 14:53",
-    "scraped_at": "2026-07-30T14:05:26.115525"
+    "scraped_at": "2026-07-30T16:02:31.391514"
   },
   {
     "id": "dabee24a1a21fc29077b89eacef90cd7",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/872991/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-07-30 14:35",
-    "scraped_at": "2026-07-30T14:05:26.115525"
+    "scraped_at": "2026-07-30T16:02:31.391514"
   },
   {
     "id": "d5d34b4cd634ad2ac512ed2a1c38366c",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/872992/Groei-Amerikaanse-economie-iets-vertraagd.aspx",
     "intro": "De Amerikaanse economie is in het tweede kwartaal gegroeid, maar in een lager tempo dan in het eerste kwartaal. Dit bleek donderdag uit een eerste raming van het Amerikaanse ministerie van handel.",
     "published_at": "2026-07-30 14:34",
-    "scraped_at": "2026-07-30T14:05:26.115525"
+    "scraped_at": "2026-07-30T16:02:31.391514"
   },
   {
     "id": "c93c705d0515c42eb32c3b0a27341fff",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872987/Beursblik-Berenberg-verhoogt-koersdoel-Aalberts.aspx",
     "intro": "Berenberg heeft donderdag het koersdoel voor Aalberts verhoogd van 46,00 naar 50,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Christoph Greulich.",
     "published_at": "2026-07-30 14:19",
-    "scraped_at": "2026-07-30T14:05:26.115525"
-  },
-  {
-    "id": "e81f2c893ef62527cc291269f44fd86c",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse inflatie gestegen door hogere energieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/872986/Duitse-inflatie-gestegen-door-hogere-energieprijzen.aspx",
-    "intro": "De Duitse inflatie is in juli gestegen, vooral door de fors toegenomen olieprijzen. Dit bleek donderdag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-07-30 14:10",
-    "scraped_at": "2026-07-30T14:05:26.115525"
-  },
-  {
-    "id": "ca1d99f223b8c010a96f61e635efc0b6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: DSM en ASMI trekken AEX flink in het groen",
-    "link": "https://www.beurs.nl/Nieuws/872983/Beursupdate-DSM-en-ASMI-trekken-AEX-flink-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs noteerde donderdagmiddag, na een lawine van bedrijfsresultaten, in het groen.",
-    "published_at": "2026-07-30 13:48",
-    "scraped_at": "2026-07-30T14:05:26.115525"
-  },
-  {
-    "id": "62163b013bd9e0922f291e858b5a9114",
-    "categorie": "Beursnieuws",
-    "titel": "Winst Yum Brands meer dan verdubbeld",
-    "link": "https://www.beurs.nl/Nieuws/872982/Winst-Yum-Brands-meer-dan-verdubbeld.aspx",
-    "intro": "Yum Brands heeft in het tweede kwartaal de winst meer dan verdubbeld dankzij hogere verkopen, terwijl de fastfoodgroep tegelijk worstelt met de gevolgen van een geruchtmakende parasietenuitbraak. Dit bleek donderdag uit de kwartaalcijfers van het moederbedrijf van onder meer Taco Bell en KFC.",
-    "published_at": "2026-07-30 13:38",
-    "scraped_at": "2026-07-30T14:05:26.115525"
-  },
-  {
-    "id": "2c5fe12e0d58562a978684cc32d9cc2c",
-    "categorie": "Beursnieuws",
-    "titel": "Ferrari boekt meer winst",
-    "link": "https://www.beurs.nl/Nieuws/872979/Ferrari-boekt-meer-winst.aspx",
-    "intro": "Ferrari heeft in het tweede kwartaal van 2026 meer omzet en winst behaald. Dit bleek donderdagmiddag uit cijfers van de Italiaanse fabrikant van luxe sportwagens.",
-    "published_at": "2026-07-30 13:22",
-    "scraped_at": "2026-07-30T14:05:26.115525"
+    "scraped_at": "2026-07-30T16:02:31.391514"
   }
 ]
