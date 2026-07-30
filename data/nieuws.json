@@ -1,12 +1,84 @@
 [
   {
+    "id": "a0270e6a63659d22fa4ece6505951a1f",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Amerikaanse PCE-inflatie gedaald",
+    "link": "https://www.beurs.nl/Nieuws/872995/Update-Amerikaanse-PCE-inflatie-gedaald.aspx",
+    "intro": "Het inflatiecijfer in het PCE-rapport is in juni gedaald, na de stijging in mei. Dit bleek donderdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-07-30 14:58",
+    "scraped_at": "2026-07-30T14:05:26.115525"
+  },
+  {
+    "id": "f970cb21ea5f0f2819a52f91538f99b6",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street opent flink in het groen",
+    "link": "https://www.beurs.nl/Nieuws/873002/Wall-Street-opent-flink-in-het-groen.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,6 procent in het groen. Techbeurs Nasdaq lijkt zelfs 1,6 procent hoger te gaan openen, vermoedelijk onder aanvoering van Microsoft.",
+    "published_at": "2026-07-30 14:56",
+    "scraped_at": "2026-07-30T14:05:26.115525"
+  },
+  {
+    "id": "b3252d80e1aaaa8e9caab5e037f04305",
+    "categorie": "Beursnieuws",
+    "titel": "Impactive verkleint belang in Basic-Fit verder",
+    "link": "https://www.beurs.nl/Nieuws/872999/Impactive-verkleint-belang-in-Basic-Fit-verder.aspx",
+    "intro": "Impactive Capital heeft een nog kleiner belang in Basic-Fit gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 28 juli.",
+    "published_at": "2026-07-30 14:53",
+    "scraped_at": "2026-07-30T14:05:26.115525"
+  },
+  {
+    "id": "dabee24a1a21fc29077b89eacef90cd7",
+    "categorie": "Beursnieuws",
+    "titel": "Meer nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/872991/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-07-30 14:35",
+    "scraped_at": "2026-07-30T14:05:26.115525"
+  },
+  {
+    "id": "d5d34b4cd634ad2ac512ed2a1c38366c",
+    "categorie": "Beursnieuws",
+    "titel": "Groei Amerikaanse economie iets vertraagd",
+    "link": "https://www.beurs.nl/Nieuws/872992/Groei-Amerikaanse-economie-iets-vertraagd.aspx",
+    "intro": "De Amerikaanse economie is in het tweede kwartaal gegroeid, maar in een lager tempo dan in het eerste kwartaal. Dit bleek donderdag uit een eerste raming van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-07-30 14:34",
+    "scraped_at": "2026-07-30T14:05:26.115525"
+  },
+  {
+    "id": "c93c705d0515c42eb32c3b0a27341fff",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Berenberg verhoogt koersdoel Aalberts",
+    "link": "https://www.beurs.nl/Nieuws/872987/Beursblik-Berenberg-verhoogt-koersdoel-Aalberts.aspx",
+    "intro": "Berenberg heeft donderdag het koersdoel voor Aalberts verhoogd van 46,00 naar 50,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Christoph Greulich.",
+    "published_at": "2026-07-30 14:19",
+    "scraped_at": "2026-07-30T14:05:26.115525"
+  },
+  {
+    "id": "e81f2c893ef62527cc291269f44fd86c",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse inflatie gestegen door hogere energieprijzen",
+    "link": "https://www.beurs.nl/Nieuws/872986/Duitse-inflatie-gestegen-door-hogere-energieprijzen.aspx",
+    "intro": "De Duitse inflatie is in juli gestegen, vooral door de fors toegenomen olieprijzen. Dit bleek donderdag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-07-30 14:10",
+    "scraped_at": "2026-07-30T14:05:26.115525"
+  },
+  {
+    "id": "ca1d99f223b8c010a96f61e635efc0b6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: DSM en ASMI trekken AEX flink in het groen",
+    "link": "https://www.beurs.nl/Nieuws/872983/Beursupdate-DSM-en-ASMI-trekken-AEX-flink-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs noteerde donderdagmiddag, na een lawine van bedrijfsresultaten, in het groen.",
+    "published_at": "2026-07-30 13:48",
+    "scraped_at": "2026-07-30T14:05:26.115525"
+  },
+  {
     "id": "62163b013bd9e0922f291e858b5a9114",
     "categorie": "Beursnieuws",
     "titel": "Winst Yum Brands meer dan verdubbeld",
     "link": "https://www.beurs.nl/Nieuws/872982/Winst-Yum-Brands-meer-dan-verdubbeld.aspx",
     "intro": "Yum Brands heeft in het tweede kwartaal de winst meer dan verdubbeld dankzij hogere verkopen, terwijl de fastfoodgroep tegelijk worstelt met de gevolgen van een geruchtmakende parasietenuitbraak. Dit bleek donderdag uit de kwartaalcijfers van het moederbedrijf van onder meer Taco Bell en KFC.",
     "published_at": "2026-07-30 13:38",
-    "scraped_at": "2026-07-30T11:52:41.341980"
+    "scraped_at": "2026-07-30T14:05:26.115525"
   },
   {
     "id": "2c5fe12e0d58562a978684cc32d9cc2c",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/872979/Ferrari-boekt-meer-winst.aspx",
     "intro": "Ferrari heeft in het tweede kwartaal van 2026 meer omzet en winst behaald. Dit bleek donderdagmiddag uit cijfers van de Italiaanse fabrikant van luxe sportwagens.",
     "published_at": "2026-07-30 13:22",
-    "scraped_at": "2026-07-30T11:52:41.341980"
-  },
-  {
-    "id": "2b7f74e0dd622db2f46b1ac6236ce52d",
-    "categorie": "Beursnieuws",
-    "titel": "Futures VS wijzen omhoog",
-    "link": "https://www.beurs.nl/Nieuws/872973/Futures-VS-wijzen-omhoog.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd een half procent in het groen.",
-    "published_at": "2026-07-30 13:09",
-    "scraped_at": "2026-07-30T11:52:41.341980"
-  },
-  {
-    "id": "9d2622dee113700e52e8dd99b87048f9",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of England handhaaft rente",
-    "link": "https://www.beurs.nl/Nieuws/872972/Bank-of-England-handhaaft-rente.aspx",
-    "intro": "De Bank of England heeft de beleidsrente donderdag opnieuw gehandhaafd op 3,75 procent, zoals ook de verwachting in aanloop naar het rentebesluit was.",
-    "published_at": "2026-07-30 13:03",
-    "scraped_at": "2026-07-30T11:52:41.341980"
-  },
-  {
-    "id": "79d588c84f9931fc3d6d31cd5540aa67",
-    "categorie": "Beursnieuws",
-    "titel": "Herstel verwacht bij Fugro",
-    "link": "https://www.beurs.nl/Nieuws/872963/Herstel-verwacht-bij-Fugro.aspx",
-    "intro": "Fugro heeft in de eerste helft van 2026 een duidelijk herstel geboekt. Dit verwachten analisten die bijdroegen aan de bedrijfsconsensus.",
-    "published_at": "2026-07-30 12:35",
-    "scraped_at": "2026-07-30T11:52:41.341980"
-  },
-  {
-    "id": "680532bddfc4c94bfba6766898ac3014",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterk kwartaal Magnum al ingeprijsd",
-    "link": "https://www.beurs.nl/Nieuws/872962/Beursblik-sterk-kwartaal-Magnum-al-ingeprijsd.aspx",
-    "intro": "(ABM FN-Dow Jones) The Magnum Ice Cream Company heeft in het tweede kwartaal beter dan verwacht gepresteerd, geholpen door een sterk begin van de zomer in met name Europa. Toch was die meevaller al grotendeels ingeprijsd. Dit stelden analisten van Jefferies donderdag in een rapport.",
-    "published_at": "2026-07-30 12:33",
-    "scraped_at": "2026-07-30T11:52:41.341980"
-  },
-  {
-    "id": "f97cebc08df4d5b51fa681be61429729",
-    "categorie": "Beursnieuws",
-    "titel": "Cijferregen op groene Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/872960/Cijferregen-op-groene-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen noteerden donderdag rond het middaguur hoger, waarbij beleggers enorm veel bedrijfsresultaten te verwerken kregen.",
-    "published_at": "2026-07-30 12:11",
-    "scraped_at": "2026-07-30T11:52:41.341980"
-  },
-  {
-    "id": "243c5fabad0378f45f950c0314af31c0",
-    "categorie": "Beursnieuws",
-    "titel": "Serie koersdoelverhogingen voor ASMI",
-    "link": "https://www.beurs.nl/Nieuws/872958/Serie-koersdoelverhogingen-voor-ASMI.aspx",
-    "intro": "Verschillende banken hebben donderdag hun koersdoel voor ASMI verhoogd, nadat de halfgeleiderspecialist eerder deze week met cijfers kwam.",
-    "published_at": "2026-07-30 11:42",
-    "scraped_at": "2026-07-30T11:52:41.341980"
-  },
-  {
-    "id": "136d6152a3a2261ce280265f031f405a",
-    "categorie": "Beursnieuws",
-    "titel": "DSM-Firmenich trekt de kar in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/872954/DSM-Firmenich-trekt-de-kar-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs vond donderdag gedurende de ochtend de weg omhoog, dankzij koerswinsten bij DSM-Firmenich, IMCD en ASMI. Rond de klok van half twaalf won de AEX 0,9 procent op 1.103,18 punten.",
-    "published_at": "2026-07-30 11:28",
-    "scraped_at": "2026-07-30T11:52:41.341980"
-  },
-  {
-    "id": "57accc9fb7d21f02e33e153b147e064a",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam zet AMG op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/872948/Degroof-Petercam-zet-AMG-op-de-kooplijst.aspx",
-    "intro": "Degroof Petercam heeft donderdag het advies voor AMG verhoogd van Houden naar Kopen, met een ongewijzigd koersdoel van 40,00 euro. Dit bleek uit een rapport van analist Frank Claassen.",
-    "published_at": "2026-07-30 10:46",
-    "scraped_at": "2026-07-30T11:52:41.341980"
+    "scraped_at": "2026-07-30T14:05:26.115525"
   }
 ]
