@@ -1,92 +1,92 @@
 [
   {
+    "id": "0194d7b2e5e46ec910e27f99df6daf71",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: analisten houden vertrouwen in outlook PostNL",
+    "link": "https://www.beurs.nl/Nieuws/873180/Beursblik-analisten-houden-vertrouwen-in-outlook-PostNL.aspx",
+    "intro": "PostNL zal in 2026 volgens analisten de eigen outlook halen. Dit bleek uit een analistenconsensus die het post- en pakketbedrijf samenstelde in afwachting van de halfjaarcijfers.",
+    "published_at": "2026-07-31 14:19",
+    "scraped_at": "2026-07-31T12:23:59.393781"
+  },
+  {
+    "id": "2c662d9cbdd61ce1eb049d3bad01b1bd",
+    "categorie": "IEX",
+    "titel": "Laatste kans: stem nog op uw favoriete AEX-aandeel voor augustus",
+    "link": "https://www.iex.nl/artikel/872424/Laatste-kans-stem-nog-op-uw-favoriete-AEX-aandeel-voor-augustus.aspx",
+    "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van augustus? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
+    "published_at": "2026-07-31 14:00",
+    "scraped_at": "2026-07-31T12:23:59.393781"
+  },
+  {
+    "id": "6194eab79d8f66a8361c72fd758d807d",
+    "categorie": "Beursnieuws",
+    "titel": "AEX houdt openingswinst niet vast",
+    "link": "https://www.beurs.nl/Nieuws/873176/AEX-houdt-openingswinst-niet-vast.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag nagenoeg vlak, nadat de AEX eerder vandaag nog een nieuwe 'all time high' neerzette op 1.112 punten.",
+    "published_at": "2026-07-31 13:53",
+    "scraped_at": "2026-07-31T12:23:59.393781"
+  },
+  {
+    "id": "118a4b2d83573c50fea95b8198eb419a",
+    "categorie": "Beursnieuws",
+    "titel": "Colgate scherpt winstverwachting aan",
+    "link": "https://www.beurs.nl/Nieuws/873169/Colgate-scherpt-winstverwachting-aan.aspx",
+    "intro": "Colgate-Palmolive heeft de verwachtingen voor de winstmarge en de onderliggende winst in 2026 verhoogd, na een solide tweede kwartaal. Dit bleek vrijdag voorbeurs uit de kwartaalcijfers van de Amerikaanse fabrikant.",
+    "published_at": "2026-07-31 13:11",
+    "scraped_at": "2026-07-31T12:23:59.393781"
+  },
+  {
+    "id": "7f6e08c2333bb88ba04bf5dd7966db3b",
+    "categorie": "Beursnieuws",
+    "titel": "Bank of America verhoogt koersdoel Magnum Ice",
+    "link": "https://www.beurs.nl/Nieuws/873164/Bank-of-America-verhoogt-koersdoel-Magnum-Ice.aspx",
+    "intro": "Bank of America heeft het koersdoel voor The Magnum Ice Cream Company verhoogd van 15,30 naar 16,20 euro, met handhaving van het neutrale advies. Dit bleek vrijdag uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-07-31 12:57",
+    "scraped_at": "2026-07-31T12:23:59.393781"
+  },
+  {
+    "id": "ed769bbd178bba2b9d98d5d51eaed6c1",
+    "categorie": "Beursnieuws",
+    "titel": "Futures Wall Street signaleren hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/873163/Futures-Wall-Street-signaleren-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet en geven daarmee het stevige herstel van donderdag een vervolg op de laatste handelsdag van de maand.",
+    "published_at": "2026-07-31 12:52",
+    "scraped_at": "2026-07-31T12:23:59.393781"
+  },
+  {
+    "id": "d9dcd8c99cf67734950782d52eaf0d6c",
+    "categorie": "Beursnieuws",
+    "titel": "Forse winstgroei voor ExxonMobil",
+    "link": "https://www.beurs.nl/Nieuws/873161/Forse-winstgroei-voor-ExxonMobil.aspx",
+    "intro": "ExxonMobil heeft in het tweede kwartaal van 2026 de winst hard zien stijgen, dankzij een hogere olieprijs en de hoogste productie in meer dan twee decennia. Dit bleek vrijdag uit kwartaalcijfers van de oliereus.",
+    "published_at": "2026-07-31 12:48",
+    "scraped_at": "2026-07-31T12:23:59.393781"
+  },
+  {
+    "id": "e2c5eb36a0b96bef5e5b12a56e186c5c",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere olieprijs en sterke productiestijging jagen winst Chevron aan",
+    "link": "https://www.beurs.nl/Nieuws/873155/Hogere-olieprijs-en-sterke-productiestijging-jagen-winst-Chevron-aan.aspx",
+    "intro": "Chevron heeft in het tweede kwartaal van 2026 veel meer winst behaald dankzij een hogere olieprijs en een sterk gestegen productie. Dit bleek vrijdag uit kwartaalcijfers van de oliereus.",
+    "published_at": "2026-07-31 12:32",
+    "scraped_at": "2026-07-31T12:23:59.393781"
+  },
+  {
     "id": "19ddabebcb8500e036ffd063c3fd32cf",
     "categorie": "Beursnieuws",
     "titel": "Stoxx Europe 600 scherpt record aan",
     "link": "https://www.beurs.nl/Nieuws/873151/Stoxx-Europe-600-scherpt-record-aan.aspx",
     "intro": "De Europese beurzen noteerden vrijdagmiddag hoger, geholpen door een sterk herstel op Wall Street, waar het enthousiasme voor beleggingen in kunstmatige intelligentie terugkeerde.",
     "published_at": "2026-07-31 12:10",
-    "scraped_at": "2026-07-31T10:20:28.634458"
+    "scraped_at": "2026-07-31T12:23:59.393781"
   },
   {
-    "id": "ee61521b0daff984dc7d946f5970a8eb",
+    "id": "68535966938d22faba3346c94a75614c",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: flinke koersdoelverhogingen voor DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/873147/Beursblik-flinke-koersdoelverhogingen-voor-DSM-Firmenich.aspx",
+    "titel": "Flinke koersdoelverhogingen voor DSM-Firmenich",
+    "link": "https://www.beurs.nl/Nieuws/873147/Flinke-koersdoelverhogingen-voor-DSM-Firmenich.aspx",
     "intro": "Berenberg en UBS hebben vrijdag hun koersdoelen voor DSM-Firmenich flink verhoogd. Dit bleek uit analistenrapporten die de twee banken publiceerden.",
     "published_at": "2026-07-31 11:51",
-    "scraped_at": "2026-07-31T10:20:28.634458"
-  },
-  {
-    "id": "99ed9d63f1008994175b890fae649534",
-    "categorie": "Beursnieuws",
-    "titel": "Italiaanse inflatie gedaald",
-    "link": "https://www.beurs.nl/Nieuws/873140/Italiaanse-inflatie-gedaald.aspx",
-    "intro": "De Italiaanse inflatie is in juli gedaald. Dit bleek vrijdag uit voorlopige cijfers van het Italiaanse statistiekbureau Istat.",
-    "published_at": "2026-07-31 11:27",
-    "scraped_at": "2026-07-31T10:20:28.634458"
-  },
-  {
-    "id": "4771f1ab0dbf22607b7bcbc1096723d9",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/873139/Inflatie-eurozone-licht-gestegen.aspx",
-    "intro": "De inflatie in de eurozone is in juli licht gestegen. Dit bleek vrijdag uit voorlopige cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-07-31 11:16",
-    "scraped_at": "2026-07-31T10:20:28.634458"
-  },
-  {
-    "id": "993acffab0f30145aca3d48b6ce7f821",
-    "categorie": "Beursnieuws",
-    "titel": "UMG fors onderuit in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/873130/UMG-fors-onderuit-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdag iets hoger, dankzij de koerswinsten bij halfgeleiders. Universal Music drukte juist op de koersvorming na slecht ontvangen cijfers.",
-    "published_at": "2026-07-31 10:50",
-    "scraped_at": "2026-07-31T10:20:28.634458"
-  },
-  {
-    "id": "b0256d77d40834209c8f896a45e85347",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/873129/UBS-verhoogt-koersdoel-ING.aspx",
-    "intro": "UBS heeft het koersdoel voor ING verhoogd van 31,50 naar 33,20 euro, met handhaving van het koopadvies. Dit bleek vrijdag uit een rapport van de Zwitserse zakenbank.",
-    "published_at": "2026-07-31 10:49",
-    "scraped_at": "2026-07-31T10:20:28.634458"
-  },
-  {
-    "id": "15629f0bbe79a858b37b793f6f454b93",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/873125/UBS-verhoogt-koersdoel-Arcadis.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor Arcadis verhoogd van 36,15 naar 39,50 euro met een onveranderd Neutraal advies. Dit bleek uit een rapport van Natasha Brilliant.",
-    "published_at": "2026-07-31 10:39",
-    "scraped_at": "2026-07-31T10:20:28.634458"
-  },
-  {
-    "id": "39afa2a3a208be68ec635b90ee99ce76",
-    "categorie": "Beursnieuws",
-    "titel": "UBS: Universal Music stelt teleur",
-    "link": "https://www.beurs.nl/Nieuws/873123/UBS-Universal-Music-stelt-teleur.aspx",
-    "intro": "Universal Music heeft in het tweede kwartaal teleurgesteld met een zwakkere groei van de abonnementeninkomsten en tegenvallende marges. Dit stelden analisten van UBS in een rapport.",
-    "published_at": "2026-07-31 10:17",
-    "scraped_at": "2026-07-31T10:20:28.634458"
-  },
-  {
-    "id": "390e15f3d6425d8b04e8752aad36e6f9",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel Shell",
-    "link": "https://www.beurs.nl/Nieuws/873121/UBS-verhoogt-koersdoel-Shell.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor Shell verhoogd van 31,80 naar 35,00 Britse pond, maar met handhaving van het Neutraal advies. Dit bleek uit een rapport van analist Joshua Stone.",
-    "published_at": "2026-07-31 10:11",
-    "scraped_at": "2026-07-31T10:20:28.634458"
-  },
-  {
-    "id": "17fc3b68c44d86602f3a6b4e7ff9e959",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse werkloosheid loopt iets op",
-    "link": "https://www.beurs.nl/Nieuws/873119/Duitse-werkloosheid-loopt-iets-op.aspx",
-    "intro": "Het aantal werklozen in Duitsland is in juli iets gestegen. Dit bleek vrijdag uit overheidscijfers.",
-    "published_at": "2026-07-31 10:03",
-    "scraped_at": "2026-07-31T10:20:28.634458"
+    "scraped_at": "2026-07-31T12:23:59.393781"
   }
 ]
