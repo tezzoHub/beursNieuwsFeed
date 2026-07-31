@@ -1,12 +1,39 @@
 [
   {
+    "id": "909fbb2a9ea6dc205894bceabbf472f8",
+    "categorie": "Beursnieuws",
+    "titel": "Bever verliest rechtszaak over grondposities",
+    "link": "https://www.beurs.nl/Nieuws/873224/Bever-verliest-rechtszaak-over-grondposities.aspx",
+    "intro": "Bever Holding heeft een rechtszaak die werd aangespannen tegen Adriaan van Erk Onroerend Goed en betrokkenen verloren. Dit meldde het bedrijf vrijdagavond.",
+    "published_at": "2026-07-31 19:58",
+    "scraped_at": "2026-07-31T18:12:32.675422"
+  },
+  {
+    "id": "873c4edd71316f178878d1fff5f4075f",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst hoger",
+    "link": "https://www.beurs.nl/Nieuws/873223/Wall-Street-koerst-hoger.aspx",
+    "intro": "De Amerikaanse beurzen noteerden vrijdag hoger met nog een paar uur handel te gaan, terwijl de olieprijzen en langlopende rentes opliepen.",
+    "published_at": "2026-07-31 19:40",
+    "scraped_at": "2026-07-31T18:12:32.675422"
+  },
+  {
+    "id": "fff0ffd2789d0ecd0a2e634b4128ac61",
+    "categorie": "Beursnieuws",
+    "titel": "Record voor Stoxx 600 aan einde van sterke julimaand",
+    "link": "https://www.beurs.nl/Nieuws/873221/Record-voor-Stoxx-600-aan-einde-van-sterke-julimaand.aspx",
+    "intro": "De Europese beurzen zijn vrijdag verdeeld geëindigd, waarmee er een terughoudend einde kwam aan een sterke julimaand.",
+    "published_at": "2026-07-31 18:48",
+    "scraped_at": "2026-07-31T18:12:32.675422"
+  },
+  {
     "id": "ff3c8166e3c7f7002861a1b8988549d6",
     "categorie": "Beursnieuws",
     "titel": "Almunda verwacht lager resultaat in 2026",
     "link": "https://www.beurs.nl/Nieuws/873219/Almunda-verwacht-lager-resultaat-in-2026.aspx",
     "intro": "Almunda verwacht dat de EBITDA dit jaar lager zal uitkomen dan in 2025, na een tegenvallende eerste jaarhelft. Dit meldde de uitzendgroep vrijdag nabeurs.",
     "published_at": "2026-07-31 18:27",
-    "scraped_at": "2026-07-31T16:49:13.226716"
+    "scraped_at": "2026-07-31T18:12:32.675422"
   },
   {
     "id": "df9621d428018a5cd44318a6c10db558",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/873218/Stabiel-resultaat-voor-Cumulex.aspx",
     "intro": "Cumulex heeft in de eerste zes maanden van 2026 een stabiel resultaat geboekt. Dit meldde het voormalige Sucraf vrijdagavond.",
     "published_at": "2026-07-31 18:18",
-    "scraped_at": "2026-07-31T16:49:13.226716"
+    "scraped_at": "2026-07-31T18:12:32.675422"
   },
   {
     "id": "106f290aff33a5a314477413f57e8aeb",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/873214/AEX-sluit-positieve-maand-lager-af.aspx",
     "intro": "De beurs in Amsterdam is vrijdag lager gesloten, nadat de AEX eerder op de dag nog een recordstand neerzette op 1.112 punten.",
     "published_at": "2026-07-31 17:45",
-    "scraped_at": "2026-07-31T16:49:13.226716"
+    "scraped_at": "2026-07-31T18:12:32.675422"
   },
   {
     "id": "f4d3d22ed2b8513006c9910d6cc99171",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873193/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 10 augustus 2026:",
     "published_at": "2026-07-31 16:27",
-    "scraped_at": "2026-07-31T16:49:13.226716"
+    "scraped_at": "2026-07-31T18:12:32.675422"
   },
   {
     "id": "1e61d9e1737c66194e97f25fde56eb60",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873194/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 10 augustus 2026:",
     "published_at": "2026-07-31 16:27",
-    "scraped_at": "2026-07-31T16:49:13.226716"
+    "scraped_at": "2026-07-31T18:12:32.675422"
   },
   {
     "id": "aac94ea084825d127edc3fcd968a06f7",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873195/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 10 augustus 2026:",
     "published_at": "2026-07-31 16:27",
-    "scraped_at": "2026-07-31T16:49:13.226716"
+    "scraped_at": "2026-07-31T18:12:32.675422"
   },
   {
     "id": "1ff3fd260b2de4ce23571f7d54443ab8",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873192/Consumentenvertrouwen-VS-inderdaad-flink-gestegen.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is zoals eerder gemeld in juli flink gestegen. Dit bleek vrijdag uit de definitieve cijfers van de Universiteit van Michigan.",
     "published_at": "2026-07-31 16:10",
-    "scraped_at": "2026-07-31T16:49:13.226716"
-  },
-  {
-    "id": "4ddeb38044475da362fc8509aee6e5f3",
-    "categorie": "Beursnieuws",
-    "titel": "Inkoopmanagersindex Chicago licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/873189/Inkoopmanagersindex-Chicago-licht-gestegen.aspx",
-    "intro": "De inkoopmanagersindex voor de regio Chicago is in juli licht gestegen. Dit meldde het ISM vrijdagmiddag.",
-    "published_at": "2026-07-31 15:53",
-    "scraped_at": "2026-07-31T16:49:13.226716"
-  },
-  {
-    "id": "f51010a1b2a75a53646d43120fbf81ec",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op groene opening",
-    "link": "https://www.beurs.nl/Nieuws/873187/Wall-Street-koerst-af-op-groene-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet en geven daarmee het stevige herstel van donderdag een vervolg op de laatste handelsdag van de maand.",
-    "published_at": "2026-07-31 14:57",
-    "scraped_at": "2026-07-31T16:49:13.226716"
-  },
-  {
-    "id": "b40f3413a703ca9e4e65d910bd049ed8",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeel Novo Nordisk omlaag na mislukte studie",
-    "link": "https://www.beurs.nl/Nieuws/873183/Aandeel-Novo-Nordisk-omlaag-na-mislukte-studie.aspx",
-    "intro": "Het aandeel Novo Nordisk stond vrijdag onder druk, nadat een Fase 3-studie mislukte. De Deense farmaceut noteerde 6,7 procent lager.",
-    "published_at": "2026-07-31 14:36",
-    "scraped_at": "2026-07-31T16:49:13.226716"
+    "scraped_at": "2026-07-31T18:12:32.675422"
   }
 ]
