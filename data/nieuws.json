@@ -1,12 +1,84 @@
 [
   {
-    "id": "0194d7b2e5e46ec910e27f99df6daf71",
+    "id": "f4d3d22ed2b8513006c9910d6cc99171",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: analisten houden vertrouwen in outlook PostNL",
-    "link": "https://www.beurs.nl/Nieuws/873180/Beursblik-analisten-houden-vertrouwen-in-outlook-PostNL.aspx",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/873193/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 10 augustus 2026:",
+    "published_at": "2026-07-31 16:27",
+    "scraped_at": "2026-07-31T14:57:34.822047"
+  },
+  {
+    "id": "1e61d9e1737c66194e97f25fde56eb60",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/873194/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 10 augustus 2026:",
+    "published_at": "2026-07-31 16:27",
+    "scraped_at": "2026-07-31T14:57:34.822047"
+  },
+  {
+    "id": "aac94ea084825d127edc3fcd968a06f7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/873195/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 10 augustus 2026:",
+    "published_at": "2026-07-31 16:27",
+    "scraped_at": "2026-07-31T14:57:34.822047"
+  },
+  {
+    "id": "1ff3fd260b2de4ce23571f7d54443ab8",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen VS inderdaad flink gestegen",
+    "link": "https://www.beurs.nl/Nieuws/873192/Consumentenvertrouwen-VS-inderdaad-flink-gestegen.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is zoals eerder gemeld in juli flink gestegen. Dit bleek vrijdag uit de definitieve cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-07-31 16:10",
+    "scraped_at": "2026-07-31T14:57:34.822047"
+  },
+  {
+    "id": "4ddeb38044475da362fc8509aee6e5f3",
+    "categorie": "Beursnieuws",
+    "titel": "Inkoopmanagersindex Chicago licht gestegen",
+    "link": "https://www.beurs.nl/Nieuws/873189/Inkoopmanagersindex-Chicago-licht-gestegen.aspx",
+    "intro": "De inkoopmanagersindex voor de regio Chicago is in juli licht gestegen. Dit meldde het ISM vrijdagmiddag.",
+    "published_at": "2026-07-31 15:53",
+    "scraped_at": "2026-07-31T14:57:34.822047"
+  },
+  {
+    "id": "f51010a1b2a75a53646d43120fbf81ec",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op groene opening",
+    "link": "https://www.beurs.nl/Nieuws/873187/Wall-Street-koerst-af-op-groene-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet en geven daarmee het stevige herstel van donderdag een vervolg op de laatste handelsdag van de maand.",
+    "published_at": "2026-07-31 14:57",
+    "scraped_at": "2026-07-31T14:57:34.822047"
+  },
+  {
+    "id": "b40f3413a703ca9e4e65d910bd049ed8",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeel Novo Nordisk omlaag na mislukte studie",
+    "link": "https://www.beurs.nl/Nieuws/873183/Aandeel-Novo-Nordisk-omlaag-na-mislukte-studie.aspx",
+    "intro": "Het aandeel Novo Nordisk stond vrijdag onder druk, nadat een Fase 3-studie mislukte. De Deense farmaceut noteerde 6,7 procent lager.",
+    "published_at": "2026-07-31 14:36",
+    "scraped_at": "2026-07-31T14:57:34.822047"
+  },
+  {
+    "id": "6b3f60e05d9814b0cb66d0d17f4ed42a",
+    "categorie": "Beursnieuws",
+    "titel": "Fed-bestuurders dringen aan op renteverhoging",
+    "link": "https://www.beurs.nl/Nieuws/873182/Fed-bestuurders-dringen-aan-op-renteverhoging.aspx",
+    "intro": "Drie bestuurders van de Federal Reserve willen de rente verhogen om de inflatie te bestrijden. Zij stemden deze week tegen het besluit van de Amerikaanse centrale bank om de rente ongewijzigd te laten.",
+    "published_at": "2026-07-31 14:33",
+    "scraped_at": "2026-07-31T14:57:34.822047"
+  },
+  {
+    "id": "8b53a1b0208790a21f4980a143eb8540",
+    "categorie": "Beursnieuws",
+    "titel": "Analisten houden vertrouwen in outlook PostNL",
+    "link": "https://www.beurs.nl/Nieuws/873180/Analisten-houden-vertrouwen-in-outlook-PostNL.aspx",
     "intro": "PostNL zal in 2026 volgens analisten de eigen outlook halen. Dit bleek uit een analistenconsensus die het post- en pakketbedrijf samenstelde in afwachting van de halfjaarcijfers.",
     "published_at": "2026-07-31 14:19",
-    "scraped_at": "2026-07-31T12:23:59.393781"
+    "scraped_at": "2026-07-31T14:57:34.822047"
   },
   {
     "id": "2c662d9cbdd61ce1eb049d3bad01b1bd",
@@ -15,78 +87,6 @@
     "link": "https://www.iex.nl/artikel/872424/Laatste-kans-stem-nog-op-uw-favoriete-AEX-aandeel-voor-augustus.aspx",
     "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van augustus? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
     "published_at": "2026-07-31 14:00",
-    "scraped_at": "2026-07-31T12:23:59.393781"
-  },
-  {
-    "id": "6194eab79d8f66a8361c72fd758d807d",
-    "categorie": "Beursnieuws",
-    "titel": "AEX houdt openingswinst niet vast",
-    "link": "https://www.beurs.nl/Nieuws/873176/AEX-houdt-openingswinst-niet-vast.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag nagenoeg vlak, nadat de AEX eerder vandaag nog een nieuwe 'all time high' neerzette op 1.112 punten.",
-    "published_at": "2026-07-31 13:53",
-    "scraped_at": "2026-07-31T12:23:59.393781"
-  },
-  {
-    "id": "118a4b2d83573c50fea95b8198eb419a",
-    "categorie": "Beursnieuws",
-    "titel": "Colgate scherpt winstverwachting aan",
-    "link": "https://www.beurs.nl/Nieuws/873169/Colgate-scherpt-winstverwachting-aan.aspx",
-    "intro": "Colgate-Palmolive heeft de verwachtingen voor de winstmarge en de onderliggende winst in 2026 verhoogd, na een solide tweede kwartaal. Dit bleek vrijdag voorbeurs uit de kwartaalcijfers van de Amerikaanse fabrikant.",
-    "published_at": "2026-07-31 13:11",
-    "scraped_at": "2026-07-31T12:23:59.393781"
-  },
-  {
-    "id": "7f6e08c2333bb88ba04bf5dd7966db3b",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America verhoogt koersdoel Magnum Ice",
-    "link": "https://www.beurs.nl/Nieuws/873164/Bank-of-America-verhoogt-koersdoel-Magnum-Ice.aspx",
-    "intro": "Bank of America heeft het koersdoel voor The Magnum Ice Cream Company verhoogd van 15,30 naar 16,20 euro, met handhaving van het neutrale advies. Dit bleek vrijdag uit een analistenrapport van de Amerikaanse bank.",
-    "published_at": "2026-07-31 12:57",
-    "scraped_at": "2026-07-31T12:23:59.393781"
-  },
-  {
-    "id": "ed769bbd178bba2b9d98d5d51eaed6c1",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/873163/Futures-Wall-Street-signaleren-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet en geven daarmee het stevige herstel van donderdag een vervolg op de laatste handelsdag van de maand.",
-    "published_at": "2026-07-31 12:52",
-    "scraped_at": "2026-07-31T12:23:59.393781"
-  },
-  {
-    "id": "d9dcd8c99cf67734950782d52eaf0d6c",
-    "categorie": "Beursnieuws",
-    "titel": "Forse winstgroei voor ExxonMobil",
-    "link": "https://www.beurs.nl/Nieuws/873161/Forse-winstgroei-voor-ExxonMobil.aspx",
-    "intro": "ExxonMobil heeft in het tweede kwartaal van 2026 de winst hard zien stijgen, dankzij een hogere olieprijs en de hoogste productie in meer dan twee decennia. Dit bleek vrijdag uit kwartaalcijfers van de oliereus.",
-    "published_at": "2026-07-31 12:48",
-    "scraped_at": "2026-07-31T12:23:59.393781"
-  },
-  {
-    "id": "e2c5eb36a0b96bef5e5b12a56e186c5c",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere olieprijs en sterke productiestijging jagen winst Chevron aan",
-    "link": "https://www.beurs.nl/Nieuws/873155/Hogere-olieprijs-en-sterke-productiestijging-jagen-winst-Chevron-aan.aspx",
-    "intro": "Chevron heeft in het tweede kwartaal van 2026 veel meer winst behaald dankzij een hogere olieprijs en een sterk gestegen productie. Dit bleek vrijdag uit kwartaalcijfers van de oliereus.",
-    "published_at": "2026-07-31 12:32",
-    "scraped_at": "2026-07-31T12:23:59.393781"
-  },
-  {
-    "id": "19ddabebcb8500e036ffd063c3fd32cf",
-    "categorie": "Beursnieuws",
-    "titel": "Stoxx Europe 600 scherpt record aan",
-    "link": "https://www.beurs.nl/Nieuws/873151/Stoxx-Europe-600-scherpt-record-aan.aspx",
-    "intro": "De Europese beurzen noteerden vrijdagmiddag hoger, geholpen door een sterk herstel op Wall Street, waar het enthousiasme voor beleggingen in kunstmatige intelligentie terugkeerde.",
-    "published_at": "2026-07-31 12:10",
-    "scraped_at": "2026-07-31T12:23:59.393781"
-  },
-  {
-    "id": "68535966938d22faba3346c94a75614c",
-    "categorie": "Beursnieuws",
-    "titel": "Flinke koersdoelverhogingen voor DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/873147/Flinke-koersdoelverhogingen-voor-DSM-Firmenich.aspx",
-    "intro": "Berenberg en UBS hebben vrijdag hun koersdoelen voor DSM-Firmenich flink verhoogd. Dit bleek uit analistenrapporten die de twee banken publiceerden.",
-    "published_at": "2026-07-31 11:51",
-    "scraped_at": "2026-07-31T12:23:59.393781"
+    "scraped_at": "2026-07-31T14:57:34.822047"
   }
 ]
