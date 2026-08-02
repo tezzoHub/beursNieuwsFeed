@@ -1,29 +1,20 @@
 [
   {
-    "id": "7ea48cb264cc50db519a4a6a9b954796",
-    "categorie": "",
-    "titel": "Vooruitblik: lancering cijfers SpaceX en gevecht om GLP1",
-    "link": "https://www.iex.nl/artikel/873173/Vooruitblik-lancering-cijfers-SpaceX-en-gevecht-om-GLP1.aspx",
-    "intro": "",
-    "published_at": "2026-08-01 12:10",
-    "scraped_at": "2026-08-02T07:23:46.000392"
+    "id": "357d31489c194e1d58cc9b6798ead244",
+    "categorie": "Beursnieuws",
+    "titel": "Drukke cijferweek op Damrak kent winnaars en verliezers",
+    "link": "https://www.beurs.nl/Nieuws/873255/Drukke-cijferweek-op-Damrak-kent-winnaars-en-verliezers.aspx",
+    "intro": "Het was een enorm drukke week op het Damrak, waar veel bedrijven net voor het einde van de julimaand de boeken openden, om vervolgens op vakantie te kunnen. De cijferregen leverden duidelijke winnaars en verliezers op en in bepaalde gevallen ook grote koersuitslagen.",
+    "published_at": "2026-08-02 10:47",
+    "scraped_at": "2026-08-02T09:31:45.930975"
   },
   {
-    "id": "6ebe4aca2cf2da8023179f0b815ca7c5",
+    "id": "21c85d44aaa990fc7e41b5d66176f465",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel ArcelorMittal",
-    "link": "https://www.beurs.nl/Nieuws/873245/Beursblik-Jefferies-verhoogt-koersdoel-ArcelorMittal.aspx",
-    "intro": "Jefferies heeft het koersdoel voor ArcelorMittal verhoogd van 65,00 naar 71,00 euro met een onveranderde koopaanbeveling. Dit bleek uit een rapport van analist Cole Hathorn.",
-    "published_at": "2026-08-01 10:47",
-    "scraped_at": "2026-08-02T07:23:46.000392"
-  },
-  {
-    "id": "bbb72ebbb96dd4431b2fd5bf7ac9a64d",
-    "categorie": "Beursnieuws",
-    "titel": "AEX bereikt nieuw record tijdens drukke cijferweek",
-    "link": "https://www.beurs.nl/Nieuws/873243/AEX-bereikt-nieuw-record-tijdens-drukke-cijferweek.aspx",
-    "intro": "De Amsterdamse beurs wist afgelopen week te herstellen tot boven de 1.100 punten en piekte zelfs op een nieuw record van 1.112 punten, maar sloot daar vrijdag toch onder, terwijl een flink aantal bedrijven in binnen- en buitenland de boeken openden.",
-    "published_at": "2026-08-01 10:35",
-    "scraped_at": "2026-08-02T07:23:46.000392"
+    "titel": "Trump zet aanval op Iran niet door met deal in vooruitzicht",
+    "link": "https://www.beurs.nl/Nieuws/873254/Trump-zet-aanval-op-Iran-niet-door-met-deal-in-vooruitzicht.aspx",
+    "intro": "De Verenigde Staten hebben besloten om af te zien van een grote aanval op Iran, omdat de partijen dichtbij een nieuw akkoord zijn. Dit meldde de Amerikaanse president Donald Trump vanochtend op Truth Social.",
+    "published_at": "2026-08-02 10:30",
+    "scraped_at": "2026-08-02T09:31:45.930975"
   }
 ]
