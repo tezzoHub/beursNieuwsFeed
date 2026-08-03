@@ -1,12 +1,30 @@
 [
   {
+    "id": "6492680a7c62c79c611a29f96a60ea29",
+    "categorie": "Beursnieuws",
+    "titel": "Update: AEX sluit licht hoger na groene opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/873399/Update-AEX-sluit-licht-hoger-na-groene-opening-Wall-Street.aspx",
+    "intro": "De Amsterdamse beurs is maandag licht hoger geëindigd, na een opleving volgend op een groene opening op Wall Street. Wel daalden de meeste halfgeleideraandelen.",
+    "published_at": "2026-08-03 18:46",
+    "scraped_at": "2026-08-03T17:22:52.192653"
+  },
+  {
+    "id": "c1e862d85aaa6a8d25a4dffe9f91e698",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen overwegend hoger gesloten",
+    "link": "https://www.beurs.nl/Nieuws/873404/Europese-beurzen-overwegend-hoger-gesloten.aspx",
+    "intro": "De Europese beurzen zijn maandag overwegend hoger gesloten, profiterend van de lagere olieprijzen en dalende rentes.",
+    "published_at": "2026-08-03 18:45",
+    "scraped_at": "2026-08-03T17:22:52.192653"
+  },
+  {
     "id": "bcc7dcf0604ed145a1eb6a686d31fbb0",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Citi Research verhoogt koersdoel ING",
     "link": "https://www.beurs.nl/Nieuws/873396/Beursblik-Citi-Research-verhoogt-koersdoel-ING.aspx",
     "intro": "Citi Research heeft het koersdoel voor ING verhoogd van 31,20 naar 33,00 euro, bij handhaving van het koopadvies. Dit bleek uit een rapport van de Amerikaanse bank.",
     "published_at": "2026-08-03 16:46",
-    "scraped_at": "2026-08-03T15:22:13.742579"
+    "scraped_at": "2026-08-03T17:22:52.192653"
   },
   {
     "id": "81e99098723559e58ce265c450b93ff2",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/873391/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 11 augustus 2026:",
     "published_at": "2026-08-03 16:32",
-    "scraped_at": "2026-08-03T15:22:13.742579"
+    "scraped_at": "2026-08-03T17:22:52.192653"
   },
   {
     "id": "df2d5b2048bf0cc6518ccd8d084e7915",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/873392/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 11 augustus 2026:",
     "published_at": "2026-08-03 16:32",
-    "scraped_at": "2026-08-03T15:22:13.742579"
+    "scraped_at": "2026-08-03T17:22:52.192653"
   },
   {
     "id": "bc7d84c42550f9c3c67856c51c2739ec",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/873390/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 11 augustus 2026:",
     "published_at": "2026-08-03 16:31",
-    "scraped_at": "2026-08-03T15:22:13.742579"
+    "scraped_at": "2026-08-03T17:22:52.192653"
   },
   {
     "id": "8794ae05688cf94d9a9283a66934ba3b",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873388/Beursblik-Deutsche-Bank-verhoogt-koersdoel-ING.aspx",
     "intro": "Deutsche Bank heeft het koersdoel voor ING verhoogd van 31,00 naar 34,00 euro, terwijl het koopadvies bleef staan. Dit bleek uit een rapport van de Duitse bank, in navolging van de kwartaalcijfers vorige week.",
     "published_at": "2026-08-03 16:20",
-    "scraped_at": "2026-08-03T15:22:13.742579"
+    "scraped_at": "2026-08-03T17:22:52.192653"
   },
   {
     "id": "f2ee405097bc8c45f9886ddb362657e6",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873386/Amerikaanse-bouwuitgaven-licht-gedaald.aspx",
     "intro": "De bouwuitgaven in de Verenigde Staten zijn in juni licht gedaald. Dit bleek maandag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-08-03 16:10",
-    "scraped_at": "2026-08-03T15:22:13.742579"
+    "scraped_at": "2026-08-03T17:22:52.192653"
   },
   {
     "id": "78194f9387a4e4da3b952c559098a6fb",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873387/ISM-Amerikaanse-industrie-groeit-harder-dan-verwacht.aspx",
     "intro": "De Amerikaanse industrie is in juli harder gegroeid dan in de maand ervoor en ook harder dan vooraf verwacht. Dit bleek maandag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-08-03 16:09",
-    "scraped_at": "2026-08-03T15:22:13.742579"
+    "scraped_at": "2026-08-03T17:22:52.192653"
   },
   {
     "id": "320abee142290ddcbad4a1f5fda0e735",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873383/Amerikaanse-industrie-groeit-in-stabiel-tempo.aspx",
     "intro": "De industrie in de Verenigde Staten is in juli in een stabiel tempo gegroeid. Dit bleek maandagmiddag uit definitieve cijfers van SP Global.",
     "published_at": "2026-08-03 15:53",
-    "scraped_at": "2026-08-03T15:22:13.742579"
-  },
-  {
-    "id": "e741206db8383cd56a76d488a7bc6e5e",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street kan een groene opening verwachten",
-    "link": "https://www.beurs.nl/Nieuws/873378/Wall-Street-kan-een-groene-opening-verwachten.aspx",
-    "intro": "De Amerikaanse beurzen zullen maandag met winst openen. Techaandelen leken maandag hun recente herstel voort te zetten, nadat president Donald Trump verklaarde dat hij de gesprekken met Iran zal hervatten. Het wakkerde de hoop van beleggers op een nieuw bestand in het Midden-Oosten aan.",
-    "published_at": "2026-08-03 14:54",
-    "scraped_at": "2026-08-03T15:22:13.742579"
-  },
-  {
-    "id": "43543747476dec70253849223d773490",
-    "categorie": "Beursnieuws",
-    "titel": "Experts voor augustus nog negatiever gestemd",
-    "link": "https://www.beurs.nl/Nieuws/873377/Experts-voor-augustus-nog-negatiever-gestemd.aspx",
-    "intro": "Beursexperts zien het somber in voor augustus. Dit bleek uit de maandelijkse enquête die analist Corné van Zeijl van Cardano afneemt.",
-    "published_at": "2026-08-03 14:45",
-    "scraped_at": "2026-08-03T15:22:13.742579"
+    "scraped_at": "2026-08-03T17:22:52.192653"
   }
 ]
