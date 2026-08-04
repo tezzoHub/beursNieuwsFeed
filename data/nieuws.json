@@ -1,12 +1,48 @@
 [
   {
+    "id": "e1c77653250e7becf05682945748ff06",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/873606/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-08-04 23:10",
+    "scraped_at": "2026-08-04T21:44:00.146177"
+  },
+  {
+    "id": "908eae1fb93ea05540b5e198cbc120d4",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street houdt winst vast",
+    "link": "https://www.beurs.nl/Nieuws/873604/Wall-Street-houdt-winst-vast.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag fors hoger gesloten, gedreven door sterke kwartaalcijfers en optimisme over een mogelijk vredesakkoord tussen de VS en Iran.",
+    "published_at": "2026-08-04 22:55",
+    "scraped_at": "2026-08-04T21:44:00.146177"
+  },
+  {
+    "id": "58ef9abb9c48d4394511b61cb5f0242b",
+    "categorie": "Beursnieuws",
+    "titel": "AMD stelt teleur",
+    "link": "https://www.beurs.nl/Nieuws/873603/AMD-stelt-teleur.aspx",
+    "intro": "Advanced Micro Devices (AMD) heeft de koerswinst van dinsdag nabeurs ingeleverd nadat de kwartaalcijfers van de chipmaker de inschattingen van analisten niet ruimschoots overtroffen.",
+    "published_at": "2026-08-04 22:42",
+    "scraped_at": "2026-08-04T21:44:00.146177"
+  },
+  {
+    "id": "798175aad145b50ed000b9c03651dba4",
+    "categorie": "Beursnieuws",
+    "titel": "SpaceX halveert verlies",
+    "link": "https://www.beurs.nl/Nieuws/873600/SpaceX-halveert-verlies.aspx",
+    "intro": "SpaceX heeft in het tweede kwartaal zijn verliezen gehalveerd, terwijl de omzet hoger uitviel dan analisten hadden voorzien. Dat bleek dinsdag nabeurs bij de eerste publicatie van kwartaalcijfers van het ruimtevaartbedrijf van Elon Musk.",
+    "published_at": "2026-08-04 22:27",
+    "scraped_at": "2026-08-04T21:44:00.146177"
+  },
+  {
     "id": "097dd9f69701eafc3cb93f3419529a24",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs daalt fors",
     "link": "https://www.beurs.nl/Nieuws/873587/Olieprijs-daalt-fors.aspx",
     "intro": "De olieprijs is dinsdag opnieuw sterk procent gedaald, tot het laagste niveau in drie weken, nadat de Amerikaanse minister van financiën Scott Bessent zei dat een akkoord met Iran over heropening van de Straat van Hormuz zeer dichtbij is.",
     "published_at": "2026-08-04 21:31",
-    "scraped_at": "2026-08-04T20:13:24.557089"
+    "scraped_at": "2026-08-04T21:44:00.146177"
   },
   {
     "id": "4d92d9494bddb215dd48ad38a9bb8701",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/873585/Wall-Street-stevig-in-de-lift.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdagavond fors hoger, gedreven door sterke kwartaalcijfers en optimisme over een mogelijk vredesakkoord tussen de VS en Iran.",
     "published_at": "2026-08-04 21:05",
-    "scraped_at": "2026-08-04T20:13:24.557089"
+    "scraped_at": "2026-08-04T21:44:00.146177"
   },
   {
     "id": "be090370b6089d450461f6395e63255b",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873583/Novo-Nordisk-stelt-verwachtingen-opwaarts-bij.aspx",
     "intro": "Novo Nordisk heeft zijn omzet- en winstverwachtingen voor het jaar dinsdag opwaarts bijgesteld, dankzij sterke vraag naar afslankmiddelen, zoals Wegovy. Dat bleek dinsdag uit een update van de Deense farmareus.",
     "published_at": "2026-08-04 20:35",
-    "scraped_at": "2026-08-04T20:13:24.557089"
+    "scraped_at": "2026-08-04T21:44:00.146177"
   },
   {
     "id": "013200aeb59e0cc515d783768647e920",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873576/Novo-Nordisk-stelt-verwachtingen-opwaarts-bij.aspx",
     "intro": "Novo Nordisk heeft de outlook voor heel het boekjaar dinsdag opwaarts bijgesteld, nadat de resultaten in het tweede kwartaal werden gespekt door afslankmiddelen als Wegovy. Dit bleek nabeurs uit de cijfers van de Deense farmareus.",
     "published_at": "2026-08-04 19:10",
-    "scraped_at": "2026-08-04T20:13:24.557089"
+    "scraped_at": "2026-08-04T21:44:00.146177"
   },
   {
     "id": "1911187d4693c288539d48bdfa0c8e52",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873573/Europese-beurzen-scherpen-records-aan.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag op nieuwe records gesloten, nadat beleggers weer trek kregen in risico en halfgeleideraandelen populair waren na een techrally op Wall Street.",
     "published_at": "2026-08-04 18:42",
-    "scraped_at": "2026-08-04T20:13:24.557089"
+    "scraped_at": "2026-08-04T21:44:00.146177"
   },
   {
     "id": "631c06f808138377a437ec3da5124cfd",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873567/Chippers-helpen-AEX-aan-nieuw-record.aspx",
     "intro": "De Amsterdamse beurs is dinsdag geëindigd op de hoogste slotstand ooit, maar sloot wel onder de piek van de dag.",
     "published_at": "2026-08-04 17:53",
-    "scraped_at": "2026-08-04T20:13:24.557089"
-  },
-  {
-    "id": "208d96719b95cf1e0b9cd7bb35f671d0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/873552/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 12 augustus 2026:",
-    "published_at": "2026-08-04 16:34",
-    "scraped_at": "2026-08-04T20:13:24.557089"
-  },
-  {
-    "id": "1fe869442a824743798492bc6ede423c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/873550/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 12 augustus 2026:",
-    "published_at": "2026-08-04 16:33",
-    "scraped_at": "2026-08-04T20:13:24.557089"
-  },
-  {
-    "id": "c555d64858d16fa0a34a08d0184c478f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/873551/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 12 augustus 2026:",
-    "published_at": "2026-08-04 16:33",
-    "scraped_at": "2026-08-04T20:13:24.557089"
-  },
-  {
-    "id": "6137f42122438ff0781b654bf20ab10d",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse fabrieksorders dalen onverwacht",
-    "link": "https://www.beurs.nl/Nieuws/873544/Amerikaanse-fabrieksorders-dalen-onverwacht.aspx",
-    "intro": "De Amerikaanse fabrieksorders zijn in juni minder hard gedaald dan in de maand ervoor, maar de afname was wel onverwacht, omdat een lichte stijging werd voorzien. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-08-04 16:08",
-    "scraped_at": "2026-08-04T20:13:24.557089"
+    "scraped_at": "2026-08-04T21:44:00.146177"
   }
 ]
