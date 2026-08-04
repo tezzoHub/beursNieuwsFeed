@@ -1,12 +1,30 @@
 [
   {
+    "id": "69669da33c6380cb651e4f66addc8e14",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Novo Nordisk stelt verwachtingen opwaarts bij",
+    "link": "https://www.beurs.nl/Nieuws/873583/Update-Novo-Nordisk-stelt-verwachtingen-opwaarts-bij.aspx",
+    "intro": "Novo Nordisk heeft zijn omzet- en winstverwachtingen voor het jaar dinsdag opwaarts bijgesteld, dankzij sterke vraag naar afslankmiddelen, zoals Wegovy. Dat bleek dinsdag uit een update van de Deense farmareus.",
+    "published_at": "2026-08-04 20:35",
+    "scraped_at": "2026-08-04T18:43:36.208662"
+  },
+  {
+    "id": "013200aeb59e0cc515d783768647e920",
+    "categorie": "Beursnieuws",
+    "titel": "Novo Nordisk stelt verwachtingen opwaarts bij",
+    "link": "https://www.beurs.nl/Nieuws/873576/Novo-Nordisk-stelt-verwachtingen-opwaarts-bij.aspx",
+    "intro": "Novo Nordisk heeft de outlook voor heel het boekjaar dinsdag opwaarts bijgesteld, nadat de resultaten in het tweede kwartaal werden gespekt door afslankmiddelen als Wegovy. Dit bleek nabeurs uit de cijfers van de Deense farmareus.",
+    "published_at": "2026-08-04 19:10",
+    "scraped_at": "2026-08-04T18:43:36.208662"
+  },
+  {
     "id": "1911187d4693c288539d48bdfa0c8e52",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen scherpen records aan",
     "link": "https://www.beurs.nl/Nieuws/873573/Europese-beurzen-scherpen-records-aan.aspx",
     "intro": "De aandelenmarkten in Europa zijn dinsdag op nieuwe records gesloten, nadat beleggers weer trek kregen in risico en halfgeleideraandelen populair waren na een techrally op Wall Street.",
     "published_at": "2026-08-04 18:42",
-    "scraped_at": "2026-08-04T16:58:27.507971"
+    "scraped_at": "2026-08-04T18:43:36.208662"
   },
   {
     "id": "631c06f808138377a437ec3da5124cfd",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/873567/Chippers-helpen-AEX-aan-nieuw-record.aspx",
     "intro": "De Amsterdamse beurs is dinsdag geëindigd op de hoogste slotstand ooit, maar sloot wel onder de piek van de dag.",
     "published_at": "2026-08-04 17:53",
-    "scraped_at": "2026-08-04T16:58:27.507971"
+    "scraped_at": "2026-08-04T18:43:36.208662"
   },
   {
     "id": "208d96719b95cf1e0b9cd7bb35f671d0",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/873552/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 12 augustus 2026:",
     "published_at": "2026-08-04 16:34",
-    "scraped_at": "2026-08-04T16:58:27.507971"
+    "scraped_at": "2026-08-04T18:43:36.208662"
   },
   {
     "id": "1fe869442a824743798492bc6ede423c",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/873550/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 12 augustus 2026:",
     "published_at": "2026-08-04 16:33",
-    "scraped_at": "2026-08-04T16:58:27.507971"
+    "scraped_at": "2026-08-04T18:43:36.208662"
   },
   {
     "id": "c555d64858d16fa0a34a08d0184c478f",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873551/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 12 augustus 2026:",
     "published_at": "2026-08-04 16:33",
-    "scraped_at": "2026-08-04T16:58:27.507971"
+    "scraped_at": "2026-08-04T18:43:36.208662"
   },
   {
     "id": "6137f42122438ff0781b654bf20ab10d",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873544/Amerikaanse-fabrieksorders-dalen-onverwacht.aspx",
     "intro": "De Amerikaanse fabrieksorders zijn in juni minder hard gedaald dan in de maand ervoor, maar de afname was wel onverwacht, omdat een lichte stijging werd voorzien. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-08-04 16:08",
-    "scraped_at": "2026-08-04T16:58:27.507971"
+    "scraped_at": "2026-08-04T18:43:36.208662"
   },
   {
     "id": "700f5a672b60a8d7c86780750626d55d",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873543/Minder-vacatures-in-de-VS.aspx",
     "intro": "Het aantal vacatures in de Verenigde Staten is in juni licht gedaald. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-08-04 16:06",
-    "scraped_at": "2026-08-04T16:58:27.507971"
+    "scraped_at": "2026-08-04T18:43:36.208662"
   },
   {
     "id": "c95790731ad12a40028c52f3aefdc5e7",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873533/Adyen-levert-betaaldiensten-aan-Eli-Lilly.aspx",
     "intro": "Adyen gaat Eli Lilly helpen bij het faciliteren van betalingsdiensten voor patiënten. Dit meldde het fintechbedrijf dinsdagmiddag, zonder financiële details bekend te maken.",
     "published_at": "2026-08-04 15:15",
-    "scraped_at": "2026-08-04T16:58:27.507971"
-  },
-  {
-    "id": "04ea55b3cdd5b5b9289f8ea3882f2ba6",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street op weg naar groene opening",
-    "link": "https://www.beurs.nl/Nieuws/873530/Wall-Street-op-weg-naar-groene-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, aangedreven door per saldo sterke kwartaalcijfers terwijl de olieprijzen daalden door optimisme dat er mogelijk een vredesakkoord tussen de VS en Iran in het verschiet ligt.",
-    "published_at": "2026-08-04 14:52",
-    "scraped_at": "2026-08-04T16:58:27.507971"
-  },
-  {
-    "id": "50b84a4b1633638c6a2d4da2e3fcab71",
-    "categorie": "Beursnieuws",
-    "titel": "Tekort Amerikaanse handelsbalans flink gedaald",
-    "link": "https://www.beurs.nl/Nieuws/873529/Tekort-Amerikaanse-handelsbalans-flink-gedaald.aspx",
-    "intro": "Het tekort op de Amerikaanse handelsbalans is juni flink gedaald, doordat de import aanzienlijk sneller daalde dan de export. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-08-04 14:40",
-    "scraped_at": "2026-08-04T16:58:27.507971"
+    "scraped_at": "2026-08-04T18:43:36.208662"
   }
 ]
