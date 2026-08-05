@@ -1,12 +1,39 @@
 [
   {
+    "id": "a9c556d8f02ac2f89f981dbce9c9700c",
+    "categorie": "Beursnieuws",
+    "titel": "Doek valt voor Accell",
+    "link": "https://www.beurs.nl/Nieuws/873783/Doek-valt-voor-Accell.aspx",
+    "intro": "Fietsenfabrikant Accell Group heeft uitstel van betaling gekregen voor zijn Nederlandse onderdelen. Dat maakte de maker van Batavus-fietsen woensdag bekend.",
+    "published_at": "2026-08-05 21:54",
+    "scraped_at": "2026-08-05T20:00:49.894625"
+  },
+  {
+    "id": "a922146dc4358ff3e12f26f87f5f031a",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs maakt pas op de plaats",
+    "link": "https://www.beurs.nl/Nieuws/873780/Olieprijs-maakt-pas-op-de-plaats.aspx",
+    "intro": "De olieprijs is woensdag weinig veranderd gesloten, na een wisselvallige dag waarop Iran zei een akkoord te hebben bereikt met Oman over transport door de Straat van Hormuz, mits anderen dat niet dwarsbomen. Daarmee doelde Iran blijkbaar op de Amerikanen, die het militaire conflict eerder dit jaar begonnen.",
+    "published_at": "2026-08-05 21:22",
+    "scraped_at": "2026-08-05T20:00:49.894625"
+  },
+  {
+    "id": "e683c86d5cab011f8cb92205d1f8fc0b",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street verdeeld na zwakke banencijfers",
+    "link": "https://www.beurs.nl/Nieuws/873778/Wall-Street-verdeeld-na-zwakke-banencijfers.aspx",
+    "intro": "De Amerikaanse beurzen stonden woensdagavond verdeeld, na stijgingen eerder in de week.",
+    "published_at": "2026-08-05 20:12",
+    "scraped_at": "2026-08-05T20:00:49.894625"
+  },
+  {
     "id": "b09c6624fa3a9ddada45fe7e056d5fdd",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten vlak",
     "link": "https://www.beurs.nl/Nieuws/873777/Europese-beurzen-sluiten-vlak.aspx",
     "intro": "De aandelenmarkten in Europa zijn woensdag overwegend dicht bij huis gesloten. Beleggers verwerkten diverse bedrijfsresultaten, terwijl de hoop op een spoedige ontspanning tussen de VS en Iran het optimisme overeind hield.",
     "published_at": "2026-08-05 18:59",
-    "scraped_at": "2026-08-05T18:01:34.475357"
+    "scraped_at": "2026-08-05T20:00:49.894625"
   },
   {
     "id": "db5d487f8e8e827241a47be45420a08c",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/873770/AEX-sluit-beweeglijke-dag-licht-lager-af.aspx",
     "intro": "De Amsterdamse beurs is woensdagmiddag na een beweeglijke dag licht lager gesloten. Beleggers waren eerst goedgemutst als gevolg van hoop dat er eindelijk schot komt in een diplomatieke oplossing inzake het conflict tussen de VS en Iran, echter sinds de opening van Wall Street kwam er de klad in en werden eerde winsten weer ingeleverd.",
     "published_at": "2026-08-05 17:57",
-    "scraped_at": "2026-08-05T18:01:34.475357"
+    "scraped_at": "2026-08-05T20:00:49.894625"
   },
   {
     "id": "5204c53a51858c1158777b423693044a",
@@ -24,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/873766/Slotcall-AEX-geeft-winst-compleet-uit-handen-en-sluit-lager.aspx",
     "intro": "De AEX-index eindigt totaal tegen de verwachtingen in op circa 1.111 punten, goed voor een minnetje van 0,1%.",
     "published_at": "2026-08-05 17:35",
-    "scraped_at": "2026-08-05T18:01:34.475357"
+    "scraped_at": "2026-08-05T20:00:49.894625"
   },
   {
     "id": "3fb592d012753037e67e85f28bcd29df",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873767/CSG-investeert-in-Canadese-luchtafweerspecialist.aspx",
     "intro": "CSG heeft een strategische investering gedaan in het Canadese technologiebedrijf North Vector Dynamics (NVD), dat geavanceerde luchtverdediging, gestuurde raketten, anti-drone-systemen en nieuwe hypersonische technologieën ontwikkelt. Dat maakte het Tsjechische defensiebedrijf met een beursnotering in Amsterdam woensdag bekend.",
     "published_at": "2026-08-05 16:54",
-    "scraped_at": "2026-08-05T18:01:34.475357"
+    "scraped_at": "2026-08-05T20:00:49.894625"
   },
   {
     "id": "5b553d40b2fbcbb09516adc4c90aa084",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873763/Aandeelhouders-AkzoNobel-geven-groen-licht-voor-fusie-met-Axalta.aspx",
     "intro": "Aandeelhouders van AkzoNobel hebben woensdag akkoord gegeven voor de fusieplannen met het Amerikaanse Axalta. Dit maakte AkzoNobel bekend na afloop van de vandaag georganiseerde buitengewone aandeelhoudersvergadering.",
     "published_at": "2026-08-05 16:47",
-    "scraped_at": "2026-08-05T18:01:34.475357"
+    "scraped_at": "2026-08-05T20:00:49.894625"
   },
   {
     "id": "71a40812c95ca1c90797bd6b7038556d",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873760/Amerikaanse-olievoorraden-toegenomen.aspx",
     "intro": "(ABM FN-Dow Jones) De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week toegenomen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-08-05 16:40",
-    "scraped_at": "2026-08-05T18:01:34.475357"
+    "scraped_at": "2026-08-05T20:00:49.894625"
   },
   {
     "id": "66801db2230e15707096680c89171099",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873754/CFO-Wolters-Kluwer-AI-geen-bedreiging.aspx",
     "intro": "Wolters Kluwer presenteerde woensdagmorgen solide halfjaarcijfers, die nagenoeg in lijn waren met de verwachtingen van analisten. In gesprek met ABM Financial News reageerde CFO Kevin Entricken op de cijfers en sprak zich uit over de toekomstverwachtingen.",
     "published_at": "2026-08-05 16:13",
-    "scraped_at": "2026-08-05T18:01:34.475357"
-  },
-  {
-    "id": "1a63e6897a33b7ce13417b4db57c27bc",
-    "categorie": "Beursnieuws",
-    "titel": "ISM: dienstensector VS stijgt licht",
-    "link": "https://www.beurs.nl/Nieuws/873755/ISM-dienstensector-VS-stijgt-licht.aspx",
-    "intro": "De activiteit in de Amerikaanse dienstensector is in juli heel iets sterker gestegen. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
-    "published_at": "2026-08-05 16:12",
-    "scraped_at": "2026-08-05T18:01:34.475357"
-  },
-  {
-    "id": "a953d2e95a1d782e669a49e4dd457c1a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/873750/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 13 augustus 2026:",
-    "published_at": "2026-08-05 16:11",
-    "scraped_at": "2026-08-05T18:01:34.475357"
-  },
-  {
-    "id": "dfca882cebfd3132aa7a50dfc7b7037b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/873751/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 13 augustus 2026:",
-    "published_at": "2026-08-05 16:11",
-    "scraped_at": "2026-08-05T18:01:34.475357"
+    "scraped_at": "2026-08-05T20:00:49.894625"
   }
 ]
