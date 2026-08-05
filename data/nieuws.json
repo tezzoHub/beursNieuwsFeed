@@ -1,12 +1,48 @@
 [
   {
+    "id": "db5d487f8e8e827241a47be45420a08c",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit beweeglijke dag licht lager af",
+    "link": "https://www.beurs.nl/Nieuws/873770/AEX-sluit-beweeglijke-dag-licht-lager-af.aspx",
+    "intro": "De Amsterdamse beurs is woensdagmiddag na een beweeglijke dag licht lager gesloten. Beleggers waren eerst goedgemutst als gevolg van hoop dat er eindelijk schot komt in een diplomatieke oplossing inzake het conflict tussen de VS en Iran, echter sinds de opening van Wall Street kwam er de klad in en werden eerde winsten weer ingeleverd.",
+    "published_at": "2026-08-05 17:57",
+    "scraped_at": "2026-08-05T16:22:35.257870"
+  },
+  {
+    "id": "5204c53a51858c1158777b423693044a",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX geeft winst compleet uit handen en sluit lager",
+    "link": "https://www.iex.nl/artikel/873766/Slotcall-AEX-geeft-winst-compleet-uit-handen-en-sluit-lager.aspx",
+    "intro": "De AEX-index eindigt totaal tegen de verwachtingen in op circa 1.111 punten, goed voor een minnetje van 0,1%.",
+    "published_at": "2026-08-05 17:35",
+    "scraped_at": "2026-08-05T16:22:35.257870"
+  },
+  {
+    "id": "3fb592d012753037e67e85f28bcd29df",
+    "categorie": "Beursnieuws",
+    "titel": "CSG investeert in Canadese luchtafweerspecialist",
+    "link": "https://www.beurs.nl/Nieuws/873767/CSG-investeert-in-Canadese-luchtafweerspecialist.aspx",
+    "intro": "CSG heeft een strategische investering gedaan in het Canadese technologiebedrijf North Vector Dynamics (NVD), dat geavanceerde luchtverdediging, gestuurde raketten, anti-drone-systemen en nieuwe hypersonische technologieën ontwikkelt. Dat maakte het Tsjechische defensiebedrijf met een beursnotering in Amsterdam woensdag bekend.",
+    "published_at": "2026-08-05 16:54",
+    "scraped_at": "2026-08-05T16:22:35.257870"
+  },
+  {
+    "id": "5b553d40b2fbcbb09516adc4c90aa084",
+    "categorie": "Beursnieuws",
+    "titel": "Aandeelhouders AkzoNobel geven groen licht voor fusie met Axalta",
+    "link": "https://www.beurs.nl/Nieuws/873763/Aandeelhouders-AkzoNobel-geven-groen-licht-voor-fusie-met-Axalta.aspx",
+    "intro": "Aandeelhouders van AkzoNobel hebben woensdag akkoord gegeven voor de fusieplannen met het Amerikaanse Axalta. Dit maakte AkzoNobel bekend na afloop van de vandaag georganiseerde buitengewone aandeelhoudersvergadering.",
+    "published_at": "2026-08-05 16:47",
+    "scraped_at": "2026-08-05T16:22:35.257870"
+  },
+  {
     "id": "71a40812c95ca1c90797bd6b7038556d",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse olievoorraden toegenomen",
     "link": "https://www.beurs.nl/Nieuws/873760/Amerikaanse-olievoorraden-toegenomen.aspx",
     "intro": "(ABM FN-Dow Jones) De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week toegenomen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-08-05 16:40",
-    "scraped_at": "2026-08-05T14:42:18.048123"
+    "scraped_at": "2026-08-05T16:22:35.257870"
   },
   {
     "id": "66801db2230e15707096680c89171099",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/873754/CFO-Wolters-Kluwer-AI-geen-bedreiging.aspx",
     "intro": "Wolters Kluwer presenteerde woensdagmorgen solide halfjaarcijfers, die nagenoeg in lijn waren met de verwachtingen van analisten. In gesprek met ABM Financial News reageerde CFO Kevin Entricken op de cijfers en sprak zich uit over de toekomstverwachtingen.",
     "published_at": "2026-08-05 16:13",
-    "scraped_at": "2026-08-05T14:42:18.048123"
+    "scraped_at": "2026-08-05T16:22:35.257870"
   },
   {
     "id": "1a63e6897a33b7ce13417b4db57c27bc",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873755/ISM-dienstensector-VS-stijgt-licht.aspx",
     "intro": "De activiteit in de Amerikaanse dienstensector is in juli heel iets sterker gestegen. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
     "published_at": "2026-08-05 16:12",
-    "scraped_at": "2026-08-05T14:42:18.048123"
+    "scraped_at": "2026-08-05T16:22:35.257870"
   },
   {
     "id": "a953d2e95a1d782e669a49e4dd457c1a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873750/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 13 augustus 2026:",
     "published_at": "2026-08-05 16:11",
-    "scraped_at": "2026-08-05T14:42:18.048123"
+    "scraped_at": "2026-08-05T16:22:35.257870"
   },
   {
     "id": "dfca882cebfd3132aa7a50dfc7b7037b",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873751/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 13 augustus 2026:",
     "published_at": "2026-08-05 16:11",
-    "scraped_at": "2026-08-05T14:42:18.048123"
+    "scraped_at": "2026-08-05T16:22:35.257870"
   },
   {
     "id": "bdccd960da194110802e040eccb7b1aa",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873752/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 13 augustus 2026:",
     "published_at": "2026-08-05 16:11",
-    "scraped_at": "2026-08-05T14:42:18.048123"
-  },
-  {
-    "id": "1bb993396958d8b92453b01afadfba15",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse dienstensector groeit sneller",
-    "link": "https://www.beurs.nl/Nieuws/873746/Amerikaanse-dienstensector-groeit-sneller.aspx",
-    "intro": "De dienstensector in de Verenigde Staten is in juli inderdaad sneller gegroeid dan in juni. Dit bleek woensdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-08-05 15:58",
-    "scraped_at": "2026-08-05T14:42:18.048123"
-  },
-  {
-    "id": "eb890dadf261bcfb7d50f9f85bf2a14d",
-    "categorie": "Beursnieuws",
-    "titel": "Groen licht voor nieuwe CEO Heineken",
-    "link": "https://www.beurs.nl/Nieuws/873745/Groen-licht-voor-nieuwe-CEO-Heineken.aspx",
-    "intro": "Aandeelhouders van Heineken hebben woensdagmiddag de benoeming van Rafael Oliveira als CEO goedgekeurd. Dit maakte de brouwer bekend.",
-    "published_at": "2026-08-05 15:44",
-    "scraped_at": "2026-08-05T14:42:18.048123"
-  },
-  {
-    "id": "7af3b1387ac99b75b1c7d4eb87ea5bd0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: stabiele kapitaalaanwas NN Group verwacht",
-    "link": "https://www.beurs.nl/Nieuws/873741/Beursblik-stabiele-kapitaalaanwas-NN-Group-verwacht.aspx",
-    "intro": "NN Group zal donderdag naar verwachting bekendmaken dat in de eerste helft van 2026 nagenoeg even veel kapitaal is gegenereerd als een jaar eerder in dezelfde periode, terwijl ook de solvabiliteit stabiel was. Dat verwachten analisten die bijdroegen aan de consensus die het bedrijf publiceerde op zijn website.",
-    "published_at": "2026-08-05 15:08",
-    "scraped_at": "2026-08-05T14:42:18.048123"
-  },
-  {
-    "id": "53974fa8e36c0fb5dad2fe9699ccf41d",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht hogere opening na zwakke banencijfers",
-    "link": "https://www.beurs.nl/Nieuws/873739/Wall-Street-wacht-hogere-opening-na-zwakke-banencijfers.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, waarmee de rally van dinsdag een vervolg lijkt te krijgen. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,4 procent in het groen.",
-    "published_at": "2026-08-05 15:02",
-    "scraped_at": "2026-08-05T14:42:18.048123"
+    "scraped_at": "2026-08-05T16:22:35.257870"
   }
 ]
