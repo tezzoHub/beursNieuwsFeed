@@ -1,12 +1,57 @@
 [
   {
+    "id": "c1774b0ab9ce1509b53cbed21627c673",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/873791/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
+    "published_at": "2026-08-05 23:06",
+    "scraped_at": "2026-08-05T21:39:01.896164"
+  },
+  {
+    "id": "bd2635c87793b1948287e136ce680bc5",
+    "categorie": "Beursnieuws",
+    "titel": "Meer winst voor Ebay",
+    "link": "https://www.beurs.nl/Nieuws/873789/Meer-winst-voor-Ebay.aspx",
+    "intro": "Ebay heeft in het afgelopen kwartaal de winst en omzet sterker dan verwacht laten stijgen en gaf een tegenvallende vooruitblik voor de winst per aandeel, waarna het aandeel licht positief reageerde.",
+    "published_at": "2026-08-05 22:48",
+    "scraped_at": "2026-08-05T21:39:01.896164"
+  },
+  {
+    "id": "81239eaf79a3768e6f1664f551a1755c",
+    "categorie": "Beursnieuws",
+    "titel": "Outlook Sandisk verbluft niet",
+    "link": "https://www.beurs.nl/Nieuws/873788/Outlook-Sandisk-verbluft-niet.aspx",
+    "intro": "Sandisk heeft de verwachtingen op Wall Street voor zijn vierde kwartaal overtroffen, dankzij aanhoudend sterke vraag naar AI-datacenters, maar werd toch minder waard nadat de vooruitblik naar het nieuwe kwartaal geen positieve verrassing bleek. Dat bleek woensdag nabeurs uit de cijfers van de Amerikaanse fabrikant van geheugenchips.",
+    "published_at": "2026-08-05 22:38",
+    "scraped_at": "2026-08-05T21:39:01.896164"
+  },
+  {
+    "id": "13736fac91fcc8260bef49376b61b6a4",
+    "categorie": "Beursnieuws",
+    "titel": "Lauw onthaal voor Western Digital",
+    "link": "https://www.beurs.nl/Nieuws/873787/Lauw-onthaal-voor-Western-Digital.aspx",
+    "intro": "Western Digital heeft in het vierde kwartaal voldaan aan de verwachtingen van analisten voor de omzet en de aangepaste winst per aandeel, maar kon beleggers niet bekoren met een vooruitblik die overeenkwam met de analistenverwachtingen.",
+    "published_at": "2026-08-05 22:28",
+    "scraped_at": "2026-08-05T21:39:01.896164"
+  },
+  {
+    "id": "10ce96071caf2cd48ca3573677457186",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street eindigt verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/873786/Wall-Street-eindigt-verdeeld.aspx",
+    "intro": "De Amerikaanse aandelenbeurzen zijn woensdagavond verdeeld gesloten, terwijl technologie-aandelen een stap terug deden na sterke stijgingen eerder in de week.",
+    "published_at": "2026-08-05 22:17",
+    "scraped_at": "2026-08-05T21:39:01.896164"
+  },
+  {
     "id": "a9c556d8f02ac2f89f981dbce9c9700c",
     "categorie": "Beursnieuws",
     "titel": "Doek valt voor Accell",
     "link": "https://www.beurs.nl/Nieuws/873783/Doek-valt-voor-Accell.aspx",
     "intro": "Fietsenfabrikant Accell Group heeft uitstel van betaling gekregen voor zijn Nederlandse onderdelen. Dat maakte de maker van Batavus-fietsen woensdag bekend.",
     "published_at": "2026-08-05 21:54",
-    "scraped_at": "2026-08-05T20:00:49.894625"
+    "scraped_at": "2026-08-05T21:39:01.896164"
   },
   {
     "id": "a922146dc4358ff3e12f26f87f5f031a",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873780/Olieprijs-maakt-pas-op-de-plaats.aspx",
     "intro": "De olieprijs is woensdag weinig veranderd gesloten, na een wisselvallige dag waarop Iran zei een akkoord te hebben bereikt met Oman over transport door de Straat van Hormuz, mits anderen dat niet dwarsbomen. Daarmee doelde Iran blijkbaar op de Amerikanen, die het militaire conflict eerder dit jaar begonnen.",
     "published_at": "2026-08-05 21:22",
-    "scraped_at": "2026-08-05T20:00:49.894625"
+    "scraped_at": "2026-08-05T21:39:01.896164"
   },
   {
     "id": "e683c86d5cab011f8cb92205d1f8fc0b",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/873778/Wall-Street-verdeeld-na-zwakke-banencijfers.aspx",
     "intro": "De Amerikaanse beurzen stonden woensdagavond verdeeld, na stijgingen eerder in de week.",
     "published_at": "2026-08-05 20:12",
-    "scraped_at": "2026-08-05T20:00:49.894625"
+    "scraped_at": "2026-08-05T21:39:01.896164"
   },
   {
     "id": "b09c6624fa3a9ddada45fe7e056d5fdd",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873777/Europese-beurzen-sluiten-vlak.aspx",
     "intro": "De aandelenmarkten in Europa zijn woensdag overwegend dicht bij huis gesloten. Beleggers verwerkten diverse bedrijfsresultaten, terwijl de hoop op een spoedige ontspanning tussen de VS en Iran het optimisme overeind hield.",
     "published_at": "2026-08-05 18:59",
-    "scraped_at": "2026-08-05T20:00:49.894625"
+    "scraped_at": "2026-08-05T21:39:01.896164"
   },
   {
     "id": "db5d487f8e8e827241a47be45420a08c",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873770/AEX-sluit-beweeglijke-dag-licht-lager-af.aspx",
     "intro": "De Amsterdamse beurs is woensdagmiddag na een beweeglijke dag licht lager gesloten. Beleggers waren eerst goedgemutst als gevolg van hoop dat er eindelijk schot komt in een diplomatieke oplossing inzake het conflict tussen de VS en Iran, echter sinds de opening van Wall Street kwam er de klad in en werden eerde winsten weer ingeleverd.",
     "published_at": "2026-08-05 17:57",
-    "scraped_at": "2026-08-05T20:00:49.894625"
-  },
-  {
-    "id": "5204c53a51858c1158777b423693044a",
-    "categorie": "IEX",
-    "titel": "Slotcall: AEX geeft winst compleet uit handen en sluit lager",
-    "link": "https://www.iex.nl/artikel/873766/Slotcall-AEX-geeft-winst-compleet-uit-handen-en-sluit-lager.aspx",
-    "intro": "De AEX-index eindigt totaal tegen de verwachtingen in op circa 1.111 punten, goed voor een minnetje van 0,1%.",
-    "published_at": "2026-08-05 17:35",
-    "scraped_at": "2026-08-05T20:00:49.894625"
-  },
-  {
-    "id": "3fb592d012753037e67e85f28bcd29df",
-    "categorie": "Beursnieuws",
-    "titel": "CSG investeert in Canadese luchtafweerspecialist",
-    "link": "https://www.beurs.nl/Nieuws/873767/CSG-investeert-in-Canadese-luchtafweerspecialist.aspx",
-    "intro": "CSG heeft een strategische investering gedaan in het Canadese technologiebedrijf North Vector Dynamics (NVD), dat geavanceerde luchtverdediging, gestuurde raketten, anti-drone-systemen en nieuwe hypersonische technologieën ontwikkelt. Dat maakte het Tsjechische defensiebedrijf met een beursnotering in Amsterdam woensdag bekend.",
-    "published_at": "2026-08-05 16:54",
-    "scraped_at": "2026-08-05T20:00:49.894625"
-  },
-  {
-    "id": "5b553d40b2fbcbb09516adc4c90aa084",
-    "categorie": "Beursnieuws",
-    "titel": "Aandeelhouders AkzoNobel geven groen licht voor fusie met Axalta",
-    "link": "https://www.beurs.nl/Nieuws/873763/Aandeelhouders-AkzoNobel-geven-groen-licht-voor-fusie-met-Axalta.aspx",
-    "intro": "Aandeelhouders van AkzoNobel hebben woensdag akkoord gegeven voor de fusieplannen met het Amerikaanse Axalta. Dit maakte AkzoNobel bekend na afloop van de vandaag georganiseerde buitengewone aandeelhoudersvergadering.",
-    "published_at": "2026-08-05 16:47",
-    "scraped_at": "2026-08-05T20:00:49.894625"
-  },
-  {
-    "id": "71a40812c95ca1c90797bd6b7038556d",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden toegenomen",
-    "link": "https://www.beurs.nl/Nieuws/873760/Amerikaanse-olievoorraden-toegenomen.aspx",
-    "intro": "(ABM FN-Dow Jones) De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week toegenomen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-08-05 16:40",
-    "scraped_at": "2026-08-05T20:00:49.894625"
-  },
-  {
-    "id": "66801db2230e15707096680c89171099",
-    "categorie": "Beursnieuws",
-    "titel": "CFO Wolters Kluwer: AI geen bedreiging",
-    "link": "https://www.beurs.nl/Nieuws/873754/CFO-Wolters-Kluwer-AI-geen-bedreiging.aspx",
-    "intro": "Wolters Kluwer presenteerde woensdagmorgen solide halfjaarcijfers, die nagenoeg in lijn waren met de verwachtingen van analisten. In gesprek met ABM Financial News reageerde CFO Kevin Entricken op de cijfers en sprak zich uit over de toekomstverwachtingen.",
-    "published_at": "2026-08-05 16:13",
-    "scraped_at": "2026-08-05T20:00:49.894625"
+    "scraped_at": "2026-08-05T21:39:01.896164"
   }
 ]
