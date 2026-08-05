@@ -1,92 +1,92 @@
 [
   {
-    "id": "f6b4b823547af633d4e821d3c166de5c",
+    "id": "1c7f02ccf2ed78ebc6a3d563bd00d9d2",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: solide prestatie Wolters Kluwer",
-    "link": "https://www.beurs.nl/Nieuws/873683/Beursblik-solide-prestatie-Wolters-Kluwer.aspx",
+    "titel": "Beursupdate: AEX blijft rond recordkoers",
+    "link": "https://www.beurs.nl/Nieuws/873728/Beursupdate-AEX-blijft-rond-recordkoers.aspx",
+    "intro": "De Amsterdamse beurs liet woensdagmiddag een kleine winst zien. De AEX steeg met 0,3 procent naar 1.116 punten, nadat eerder op de dag een nieuwe all time high van bijna 1.118 punten werd neergezet.",
+    "published_at": "2026-08-05 14:06",
+    "scraped_at": "2026-08-05T12:20:55.786250"
+  },
+  {
+    "id": "a04109ae79c85cef0944672403d5e7f4",
+    "categorie": "Beursnieuws",
+    "titel": "Kraft Heinz ziet omzet dalen",
+    "link": "https://www.beurs.nl/Nieuws/873727/Kraft-Heinz-ziet-omzet-dalen.aspx",
+    "intro": "Kraft Heinz heeft in het tweede kwartaal de omzet zien dalen. Dit maakte het Amerikaanse voedingsconcern woensdagmiddag voorbeurs bekend.",
+    "published_at": "2026-08-05 14:02",
+    "scraped_at": "2026-08-05T12:20:55.786250"
+  },
+  {
+    "id": "adaa89e16102a199d49824ada2fb41cd",
+    "categorie": "Beursnieuws",
+    "titel": "Eli Lilly verhoogt outlook na sterk kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/873690/Eli-Lilly-verhoogt-outlook-na-sterk-kwartaal.aspx",
+    "intro": "Eli Lilly heeft in het tweede kwartaal de winst- en omzetverwachtingen van analisten ruim overtroffen en verhoogde de prognose voor de omzet over heel 2026. Dit bleek woensdag voorbeurs uit de kwartaalcijfers van het bedrijf.",
+    "published_at": "2026-08-05 13:20",
+    "scraped_at": "2026-08-05T12:20:55.786250"
+  },
+  {
+    "id": "c54b992d7f23ecc0942e471400680cd5",
+    "categorie": "Beursnieuws",
+    "titel": "ABN AMRO werkt samen met Mistral",
+    "link": "https://www.beurs.nl/Nieuws/873691/ABN-AMRO-werkt-samen-met-Mistral.aspx",
+    "intro": "ABN AMRO heeft een strategische samenwerking aangekondigd met Mistral om AI-oplossingen voor de bank te ontwikkelen en in te zetten. Dit meldde de Nederlandse bank woensdagmiddag.",
+    "published_at": "2026-08-05 13:18",
+    "scraped_at": "2026-08-05T12:20:55.786250"
+  },
+  {
+    "id": "3e19bdb6a6f67ec70f7b1287219711a7",
+    "categorie": "Beursnieuws",
+    "titel": "Uber presteert sterk in tweede kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/873689/Uber-presteert-sterk-in-tweede-kwartaal.aspx",
+    "intro": "Uber Technologies heeft in het tweede kwartaal de eigen verwachtingen gehaald. Dit maakte het Amerikaanse platformbedrijf woensdagmiddag bekend.",
+    "published_at": "2026-08-05 13:15",
+    "scraped_at": "2026-08-05T12:20:55.786250"
+  },
+  {
+    "id": "36f8d820bfe8d49b9421b3e5fc839e5e",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/873688/Futures-wijzen-op-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, waarmee de rally van dinsdag een vervolg lijkt te krijgen. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,4 procent in het groen.",
+    "published_at": "2026-08-05 13:00",
+    "scraped_at": "2026-08-05T12:20:55.786250"
+  },
+  {
+    "id": "6dcb2bd12167ee389d43536e6e2c1778",
+    "categorie": "Beursnieuws",
+    "titel": "Disney overtreft winstverwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/873687/Disney-overtreft-winstverwachtingen.aspx",
+    "intro": "Walt Disney heeft in het derde fiscale kwartaal een hogere winst geboekt dan verwacht, terwijl de omzet nipt onder de verwachtingen van analisten bleef. Dit bleek woensdag uit de kwartaalcijfers van het Amerikaanse entertainmentconcern.",
+    "published_at": "2026-08-05 12:57",
+    "scraped_at": "2026-08-05T12:20:55.786250"
+  },
+  {
+    "id": "033b4bb392ac7d065f99b303536785bc",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen overwegen hoger rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/873684/Europese-beurzen-overwegen-hoger-rond-middaguur.aspx",
+    "intro": "De aandelenmarkten in Europa openden woensdag op meerdere records en noteerden rond het middaguur nog nipt hoger. Beleggers verwerken bedrijfsresultaten en houden de ontwikkelingen tussen de VS en Iran nauwlettend in de gaten.",
+    "published_at": "2026-08-05 12:33",
+    "scraped_at": "2026-08-05T12:20:55.786250"
+  },
+  {
+    "id": "2035d3597793d2c10486b8074063522c",
+    "categorie": "Beursnieuws",
+    "titel": "\"Solide prestatie Wolters Kluwer\"",
+    "link": "https://www.beurs.nl/Nieuws/873683/Solide-prestatie-Wolters-Kluwer.aspx",
     "intro": "Wolters Kluwer heeft solide gepresteerd in de eerste jaarhelft. Dit stelde analist Ciaran Donnelly van Citi Research woensdag in een rapport.",
     "published_at": "2026-08-05 11:55",
-    "scraped_at": "2026-08-05T10:16:25.990896"
+    "scraped_at": "2026-08-05T12:20:55.786250"
   },
   {
-    "id": "f121f25d2c334e2d24369d717029dc03",
+    "id": "93f15cef0b0d073e5ed58fbffa30f877",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: KBC Securities haalt Besi van de verkooplijst",
-    "link": "https://www.beurs.nl/Nieuws/873681/Beursblik-KBC-Securities-haalt-Besi-van-de-verkooplijst.aspx",
+    "titel": "KBC Securities haalt Besi van de verkooplijst",
+    "link": "https://www.beurs.nl/Nieuws/873681/KBC-Securities-haalt-Besi-van-de-verkooplijst.aspx",
     "intro": "KBC Securities heeft woensdag het advies voor BE Semiconductor Industries verhoogd van Reduceren naar Houden met een onveranderd koersdoel van 225 euro. Dit bleek uit een analistenrapport van de bank.",
     "published_at": "2026-08-05 11:44",
-    "scraped_at": "2026-08-05T10:16:25.990896"
-  },
-  {
-    "id": "b487fa563c1675fa49444be9aa8f4620",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof verhoogt koersdoel Heineken",
-    "link": "https://www.beurs.nl/Nieuws/873680/Beursblik-Degroof-verhoogt-koersdoel-Heineken.aspx",
-    "intro": "Degroof Petercam heeft woensdag het koersdoel voor Heineken verhoogd van 84,00 naar 90,00 euro met een herhaling van het koopadvies. Dit bleek uit een rapport van analist Fernand de Boer.",
-    "published_at": "2026-08-05 11:43",
-    "scraped_at": "2026-08-05T10:16:25.990896"
-  },
-  {
-    "id": "8e9185b52c2e49eb48a2f32dbf8f500c",
-    "categorie": "Beursnieuws",
-    "titel": "Heineken kleurt Damrak voorzichtig groen",
-    "link": "https://www.beurs.nl/Nieuws/873674/Heineken-kleurt-Damrak-voorzichtig-groen.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdag wat hoger, onder leiding van Heineken, Magnum Ice en CVC Capital. Rond de klok van elf uur won de AEX 0,1 procent op 1.113,92 punten.",
-    "published_at": "2026-08-05 11:13",
-    "scraped_at": "2026-08-05T10:16:25.990896"
-  },
-  {
-    "id": "2c5c554b46766952088d4c74a99a27aa",
-    "categorie": "Must read",
-    "titel": "Must read: Rijnwater op kritiek laagtepunt",
-    "link": "https://www.iex.nl/artikel/873654/Must-read-Rijnwater-op-kritiek-laagtepunt.aspx",
-    "intro": "Plus: cijfers van SpaceX overtuigen beleggers niet, wat gebeurt er als een ETF ophoudt te bestaan, een verdubbeling van aantal fastfoodzaken. En particuliere beleggers zijn niet geïnteresseerd in klimaat.",
-    "published_at": "2026-08-05 10:40",
-    "scraped_at": "2026-08-05T10:16:25.990896"
-  },
-  {
-    "id": "13c8203ecd406e015b6bd79da8c6ed76",
-    "categorie": "Beursnieuws",
-    "titel": "Britse dienstensector keert terug naar groei",
-    "link": "https://www.beurs.nl/Nieuws/873670/Britse-dienstensector-keert-terug-naar-groei.aspx",
-    "intro": "De dienstensector in het Verenigd Koninkrijk is in juli weer gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
-    "published_at": "2026-08-05 10:38",
-    "scraped_at": "2026-08-05T10:16:25.990896"
-  },
-  {
-    "id": "0ec60ab5719a2aa315eafac288b4ea0d",
-    "categorie": "Beursnieuws",
-    "titel": "Citi verhoogt koersdoel DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/873669/Citi-verhoogt-koersdoel-DSM-Firmenich.aspx",
-    "intro": "Citi Research heeft woensdag het koersdoel voor DSM-Firmenich verhoogd van 99,00 naar 106,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-08-05 10:34",
-    "scraped_at": "2026-08-05T10:16:25.990896"
-  },
-  {
-    "id": "ab1d1f2ddc187db75cb3328cc530f34a",
-    "categorie": "Beursnieuws",
-    "titel": "Dienstensector in eurozone groeit weer",
-    "link": "https://www.beurs.nl/Nieuws/873666/Dienstensector-in-eurozone-groeit-weer.aspx",
-    "intro": "De dienstensector in de eurozone is in juli weer gegroeid. Dit bleek woensdag uit cijfers van SP Global.",
-    "published_at": "2026-08-05 10:12",
-    "scraped_at": "2026-08-05T10:16:25.990896"
-  },
-  {
-    "id": "89fcb2e64511fc00b326c2654f5d4fbe",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse dienstensector krimpt nog slechts heel licht",
-    "link": "https://www.beurs.nl/Nieuws/873665/Duitse-dienstensector-krimpt-nog-slechts-heel-licht.aspx",
-    "intro": "De dienstensector in Duitsland is in juli nog maar heel licht gekrompen, waardoor groei weer in zicht komt. Dit bleek woensdag uit cijfers van SP Global.",
-    "published_at": "2026-08-05 10:00",
-    "scraped_at": "2026-08-05T10:16:25.990896"
-  },
-  {
-    "id": "a9bf77c4a0f759b20ef84c42396866ba",
-    "categorie": "Beursnieuws",
-    "titel": "Franse dienstensector nadert groei",
-    "link": "https://www.beurs.nl/Nieuws/873664/Franse-dienstensector-nadert-groei.aspx",
-    "intro": "De Franse dienstensector is in juli nog heel licht gekrompen, terwijl de industrie een pas op de plaats maakte. Dit bleek woensdag uit cijfers van SP Global.",
-    "published_at": "2026-08-05 09:57",
-    "scraped_at": "2026-08-05T10:16:25.990896"
+    "scraped_at": "2026-08-05T12:20:55.786250"
   }
 ]
