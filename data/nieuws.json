@@ -1,12 +1,75 @@
 [
   {
-    "id": "17f57d09e40500f63149e89c0b066d91",
+    "id": "3ec29a36bf4926eeb5e67300d2ab6e43",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX zakt wat weg ondanks koerssprong SBM",
-    "link": "https://www.beurs.nl/Nieuws/873888/Beursupdate-AEX-zakt-wat-weg-ondanks-koerssprong-SBM.aspx",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/873898/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 14 augustus 2026:",
+    "published_at": "2026-08-06 16:26",
+    "scraped_at": "2026-08-06T14:51:01.725254"
+  },
+  {
+    "id": "2ead4a73d8f41ecb4eca811f12b8a9b1",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/873899/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 14 augustus 2026:",
+    "published_at": "2026-08-06 16:26",
+    "scraped_at": "2026-08-06T14:51:01.725254"
+  },
+  {
+    "id": "a36a615d5933afb76c4e5c3252bbeec6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/873900/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 14 augustus 2026:",
+    "published_at": "2026-08-06 16:26",
+    "scraped_at": "2026-08-06T14:51:01.725254"
+  },
+  {
+    "id": "2a8f65fbcac04a240d0b853fda94e561",
+    "categorie": "Beursnieuws",
+    "titel": "Groothandelsvoorraden VS stijgen minder hard",
+    "link": "https://www.beurs.nl/Nieuws/873896/Groothandelsvoorraden-VS-stijgen-minder-hard.aspx",
+    "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in juni minder hard gestegen dan in de maand ervoor, terwijl de omzet daalde. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-08-06 16:07",
+    "scraped_at": "2026-08-06T14:51:01.725254"
+  },
+  {
+    "id": "6dc48fad892605f1c19fa5fbf5f4ea3b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verlaagt koersdoel Fugro",
+    "link": "https://www.beurs.nl/Nieuws/873895/Beursblik-Jefferies-verlaagt-koersdoel-Fugro.aspx",
+    "intro": "Jefferies heeft donderdag het koersdoel voor Fugro verlaagd van 10,00 naar 9,00 euro, terwijl het advies Houden blijft. Dit bleek uit een rapport van de Amerikaanse zakenbank van analist David Kerstens.",
+    "published_at": "2026-08-06 15:37",
+    "scraped_at": "2026-08-06T14:51:01.725254"
+  },
+  {
+    "id": "6779631ea3addd140940e06ef9fa1306",
+    "categorie": "Beursnieuws",
+    "titel": "Verdeelde opening in de maak voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/873892/Verdeelde-opening-in-de-maak-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een verdeelde opening tegemoet, waarbij de Nasdaq op koers ligt voor een verlies van ruim een half procent, vanwege hernieuwde zorgen over AI.",
+    "published_at": "2026-08-06 14:57",
+    "scraped_at": "2026-08-06T14:51:01.725254"
+  },
+  {
+    "id": "aa9e52521787f0eefe0b73ee5297d730",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuwe steunaanvragen in de VS vrijwel stabiel",
+    "link": "https://www.beurs.nl/Nieuws/873891/Nieuwe-steunaanvragen-in-de-VS-vrijwel-stabiel.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week licht gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-08-06 14:37",
+    "scraped_at": "2026-08-06T14:51:01.725254"
+  },
+  {
+    "id": "2901839ad4db83cd2d64a06b53637d11",
+    "categorie": "Beursnieuws",
+    "titel": "AEX zakt wat weg ondanks koerssprong SBMO",
+    "link": "https://www.beurs.nl/Nieuws/873888/AEX-zakt-wat-weg-ondanks-koerssprong-SBMO.aspx",
     "intro": "De Amsterdamse beurs gaf donderdag gedurende de dag eerdere bescheiden winsten prijs en koerste licht lager. Rond de klok van twee uur daalde de AEX met 0,2 procent tot 1.109,51 punten.",
     "published_at": "2026-08-06 14:05",
-    "scraped_at": "2026-08-06T12:22:37.850030"
+    "scraped_at": "2026-08-06T14:51:01.725254"
   },
   {
     "id": "a3d9d1ef7e3d03078d3cebbfe37f91b9",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873884/ConocoPhillips-boekt-veel-meer-winst.aspx",
     "intro": "ConocoPhillips heeft in het afgelopen kwartaal meer winst geboekt dan de markt had voorzien, dankzij sterke productie in het Permian-bekken. Dat maakte het Amerikaanse oliebedrijf donderdag bekend.",
     "published_at": "2026-08-06 13:54",
-    "scraped_at": "2026-08-06T12:22:37.850030"
+    "scraped_at": "2026-08-06T14:51:01.725254"
   },
   {
     "id": "70f1863a408600a03c2dd3c9a883e415",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873883/Winst-Warner-Bros-Discovery-fors-lager.aspx",
     "intro": "Warner Bros. Discovery heeft in het tweede kwartaal veel minder winst geboekt, doordat een grote eenmalige last en een dalende omzet op het resultaat drukten. Toch overtrof de mediagigant de verwachtingen van analisten, die juist op een verlies hadden gerekend. Dit bleek donderdag uit de kwartaalcijfers.",
     "published_at": "2026-08-06 13:45",
-    "scraped_at": "2026-08-06T12:22:37.850030"
-  },
-  {
-    "id": "46b2d946453dcde6111be1056ce739d5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: fors meer winst voorzien bij CSG",
-    "link": "https://www.beurs.nl/Nieuws/873882/Beursblik-fors-meer-winst-voorzien-bij-CSG.aspx",
-    "intro": "CSG zal vrijdag naar verwachting een sterke winstgroei rapporteren over de eerste helft van dit jaar, terwijl de omzet met dubbele cijfers groeide. Dat blijkt uit een consensusverwachting van analisten die werd samengesteld door de Tsjechische defensiespecialist met een notering aan het Damrak.",
-    "published_at": "2026-08-06 13:34",
-    "scraped_at": "2026-08-06T12:22:37.850030"
-  },
-  {
-    "id": "aad167b005741b23a17f9214eafb57bd",
-    "categorie": "Beursnieuws",
-    "titel": "Keurig Dr Pepper overtreft winstverwachting",
-    "link": "https://www.beurs.nl/Nieuws/873881/Keurig-Dr-Pepper-overtreft-winstverwachting.aspx",
-    "intro": "Keurig Dr Pepper heeft in het tweede kwartaal een aangepaste winst geboekt die hoger uitviel dan verwacht en handhaafde daarbij zijn doelen voor heel 2026. Dit bleek donderdag uit de resultaten van het Amerikaanse dranken- en koffieconcern.",
-    "published_at": "2026-08-06 13:26",
-    "scraped_at": "2026-08-06T12:22:37.850030"
-  },
-  {
-    "id": "2fc4037dd121436b08c16430506ed97a",
-    "categorie": "Beursnieuws",
-    "titel": "Burger King groeit veel harder",
-    "link": "https://www.beurs.nl/Nieuws/873879/Burger-King-groeit-veel-harder.aspx",
-    "intro": "Hamburgerketen Burger King is in het tweede kwartaal harder gegroeid dan in dezelfde periode een jaar eerder. Dit meldde moederbedrijf Restaurant Brands International donderdagmiddag.",
-    "published_at": "2026-08-06 13:12",
-    "scraped_at": "2026-08-06T12:22:37.850030"
-  },
-  {
-    "id": "0ad66bd4efdc571e35a9d82066f139b2",
-    "categorie": "Beursnieuws",
-    "titel": "Diageo bespaart fors na omzetdaling",
-    "link": "https://www.beurs.nl/Nieuws/873878/Diageo-bespaart-fors-na-omzetdaling.aspx",
-    "intro": "De Britse drankengigant Diageo wil de komende jaren ongeveer 1 miljard dollar besparen door te reorganiseren. Dat maakte het bedrijf donderdag bekend, nadat afgelopen boekjaar een autonome omzetdaling werd geboekt.",
-    "published_at": "2026-08-06 13:08",
-    "scraped_at": "2026-08-06T12:22:37.850030"
-  },
-  {
-    "id": "232e5d057730edaeef61c5c5bc786d17",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen verdeelde opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/873875/Futures-voorspellen-verdeelde-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een verdeelde opening tegemoet, waarbij de Nasdaq op koers ligt voor een klein verlies, vanwege hernieuwde zorgen over AI.",
-    "published_at": "2026-08-06 13:00",
-    "scraped_at": "2026-08-06T12:22:37.850030"
-  },
-  {
-    "id": "1ba6a0152e6b9dbab1524c6fa018e0ad",
-    "categorie": "Beursnieuws",
-    "titel": "Video: beursexperts voorzichtig optimistisch voor langere termijn",
-    "link": "https://www.beurs.nl/Nieuws/873870/Video-beursexperts-voorzichtig-optimistisch-voor-langere-termijn.aspx",
-    "intro": "Beursexperts zien het somber in voor augustus, maar werden voorzichtig optimistisch voor de langere termijn. Dit bleek uit de maandelijkse enquête die analist Corné van Zeijl van Cardano toelichtte voor de camera van ABM Financial News.",
-    "published_at": "2026-08-06 12:27",
-    "scraped_at": "2026-08-06T12:22:37.850030"
-  },
-  {
-    "id": "2bce6f7cba636c8fdf3c604320dd5d7a",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen kleuren groen",
-    "link": "https://www.beurs.nl/Nieuws/873869/Europese-beurzen-kleuren-groen.aspx",
-    "intro": "De Europese beurzen koersten donderdag rond het middaguur hoger, waarbij enkele aandelenmarkten records aanscherpten.",
-    "published_at": "2026-08-06 12:17",
-    "scraped_at": "2026-08-06T12:22:37.850030"
+    "scraped_at": "2026-08-06T14:51:01.725254"
   }
 ]
