@@ -1,21 +1,75 @@
 [
   {
+    "id": "9e784591ba61442dddff0d7078f58f3c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verhoogt koersdoel Heineken",
+    "link": "https://www.beurs.nl/Nieuws/873864/Beursblik-Bank-of-America-verhoogt-koersdoel-Heineken.aspx",
+    "intro": "Bank of America heeft donderdag het koersdoel voor Heineken verhoogd van 90,00 naar 95,00 euro met handhaving van het koopadvies, in navolging van \"solide\" cijfers die de brouwer eerder deze week overlegde.",
+    "published_at": "2026-08-06 11:59",
+    "scraped_at": "2026-08-06T10:18:24.198899"
+  },
+  {
+    "id": "422246c5cfb57c5794080b1756e36423",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine daling detailhandelsverkopen eurozone",
+    "link": "https://www.beurs.nl/Nieuws/873860/Kleine-daling-detailhandelsverkopen-eurozone.aspx",
+    "intro": "De detailhandelsverkopen in de eurozone zijn in juni licht gedaald. Dit bleek vrijdag uit cijfers van het Europese statistiekbureau Eurostat.",
+    "published_at": "2026-08-06 11:03",
+    "scraped_at": "2026-08-06T10:18:24.198899"
+  },
+  {
+    "id": "d8ac71e9e398d5c410010f92ff61183b",
+    "categorie": "Beursnieuws",
+    "titel": "SBM Offshore trekt de kar in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/873859/SBM-Offshore-trekt-de-kar-in-vlakke-AEX.aspx",
+    "intro": "De Amsterdamse beurs bleef donderdagochtend dicht bij huis. Rond de klok van elf uur steeg de AEX fractioneel tot 1.112,06 punten.",
+    "published_at": "2026-08-06 10:56",
+    "scraped_at": "2026-08-06T10:18:24.198899"
+  },
+  {
+    "id": "ada3e3e92ab5b20edacd96a94acfa4a2",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: UBS verhoogt koersdoel Wolters Kluwer",
+    "link": "https://www.beurs.nl/Nieuws/873855/Beursblik-UBS-verhoogt-koersdoel-Wolters-Kluwer.aspx",
+    "intro": "UBS heeft donderdag het koersdoel voor Wolters Kluwer verhoogd van 75,00 naar 77,00 euro met handhaving van het neutrale advies. Dit bleek uit een rapport van analist Jo Barnet-Lamb.",
+    "published_at": "2026-08-06 10:15",
+    "scraped_at": "2026-08-06T10:18:24.198899"
+  },
+  {
+    "id": "aa152f7be67a00e642fa7758bd585d4d",
+    "categorie": "IEX",
+    "titel": "Must read: Duurzaam beleggen levert dus niet minder, maar meer op",
+    "link": "https://www.iex.nl/artikel/873835/Must-read-Duurzaam-beleggen-levert-dus-niet-minder-maar-meer-op.aspx",
+    "intro": "Plus: Amerika is niet zen met lage yen, circulair ondernemen is moeilijk, de grote sectorwinnaars van 2026, koper op nieuw record, en veel meer.",
+    "published_at": "2026-08-06 10:00",
+    "scraped_at": "2026-08-06T10:18:24.198899"
+  },
+  {
+    "id": "d6eb4755deeea095adb8ce03f559dc0d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke halfjaarcijfers SBM Offshore",
+    "link": "https://www.beurs.nl/Nieuws/873850/Beursblik-sterke-halfjaarcijfers-SBM-Offshore.aspx",
+    "intro": "SBM Offshore heeft in de eerste jaarhelft van 2026 sterker gepresteerd dan verwacht en verhoogde de outlook voor heel dit jaar, wat niet als een verrassing kwam. Dit stelde analist Luuk van Beek van Degroof Petercam donderdag in een rapport.",
+    "published_at": "2026-08-06 09:41",
+    "scraped_at": "2026-08-06T10:18:24.198899"
+  },
+  {
     "id": "4a8a4c5e3193eac1b5e08ca75e9fb006",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: NN op koers om doelstelling eerder te halen",
     "link": "https://www.beurs.nl/Nieuws/873846/Beursblik-NN-op-koers-om-doelstelling-eerder-te-halen.aspx",
     "intro": "NN Group heeft in de eerste helft van 2026 een solide onderliggende groei gerealiseerd, waarbij vooral de divisies Leven Nederland en Insurance Europe sterk presteerden. Dit concludeerde analist Thomas Couvreur van KBC Securities donderdag in een reactie op de cijfers van de verzekeraar voorbeurs.",
     "published_at": "2026-08-06 09:17",
-    "scraped_at": "2026-08-06T07:27:41.445168"
+    "scraped_at": "2026-08-06T10:18:24.198899"
   },
   {
-    "id": "9cbf45f31daaed3ca1c6108a605fad6b",
+    "id": "d8d417a80bd8962a419290b017317027",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: SBM Offshore straalt op vlak Damrak",
-    "link": "https://www.beurs.nl/Nieuws/873844/Beursupdate-SBM-Offshore-straalt-op-vlak-Damrak.aspx",
+    "titel": "SBM Offshore straalt op vlak Damrak",
+    "link": "https://www.beurs.nl/Nieuws/873844/SBM-Offshore-straalt-op-vlak-Damrak.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong vrijwel onveranderd op 1.111,11 punten ,terwijl de Midkap 0,1 procent won.",
     "published_at": "2026-08-06 09:12",
-    "scraped_at": "2026-08-06T07:27:41.445168"
+    "scraped_at": "2026-08-06T10:18:24.198899"
   },
   {
     "id": "5c7e10ba36ee54f1716968e42501673f",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873842/Vivoryon-boekt-kleiner-halfjaarverlies.aspx",
     "intro": "Vivoryon Therapeutics heeft in de eerste zes maanden van 2026 het nettoverlies fors zien dalen, terwijl er nog altijd geen omzet wordt geboekt. Dit bleek donderdag uit de halfjaarcijfers van het Duitse biotechbedrijf, dat een notering heeft aan Euronext Amsterdam en zich richt op de ontwikkeling van medicijnen tegen nierziekten.",
     "published_at": "2026-08-06 09:00",
-    "scraped_at": "2026-08-06T07:27:41.445168"
+    "scraped_at": "2026-08-06T10:18:24.198899"
   },
   {
     "id": "2732f62d0501dc196bd1a9345792019d",
@@ -33,60 +87,6 @@
     "link": "https://www.ieximpact.nl/artikel/873516/Geld-verdienen-in-de-circulaire-economie-blijkt-niet-eenvoudig.aspx",
     "intro": "Circulaire ondernemers weten vaak prima hoe ze verspilling kunnen verminderen maar niet om daar structureel geld mee verdienen. Een whitepaper in opdracht van Invest-NL legt de vinger op de zwakke plek en presenteert 120 manieren om circulariteit winstgevend te maken. \"Helaas moeten circulaire bedrijven concurreren binnen regels, markten en waarderingssystemen die daar niet op zijn gebouwd.\"",
     "published_at": "2026-08-06 08:54",
-    "scraped_at": "2026-08-06T07:27:41.445168"
-  },
-  {
-    "id": "e7813ab894ddd031e4cbefa8719385f8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel Heineken licht",
-    "link": "https://www.beurs.nl/Nieuws/873841/Beursblik-Deutsche-Bank-verhoogt-koersdoel-Heineken-licht.aspx",
-    "intro": "Deutsche Bank heeft het koersdoel voor Heineken verhoogd van 78,00 naar 80,00 euro met handhaving van het Houden advies. Dit bleek donderdag uit een rapport van de Duitse bank.",
-    "published_at": "2026-08-06 08:43",
-    "scraped_at": "2026-08-06T07:27:41.445168"
-  },
-  {
-    "id": "29af12dbeb4f2778f3c11f4c2a04d86c",
-    "categorie": "Beursnieuws",
-    "titel": "Universal Music van start met aandeleninkoop",
-    "link": "https://www.beurs.nl/Nieuws/873836/Universal-Music-van-start-met-aandeleninkoop.aspx",
-    "intro": "Universal Music Group gaat voor nog eens 250 miljoen euro aan eigen aandelen inkopen. Dit maakte het entertainmentbedrijf donderdag bekend.",
-    "published_at": "2026-08-06 08:32",
-    "scraped_at": "2026-08-06T07:27:41.445168"
-  },
-  {
-    "id": "0faa711f413086d65e94a1930a0205a5",
-    "categorie": "Beursnieuws",
-    "titel": "Acadian meldt eerste belang in TomTom",
-    "link": "https://www.beurs.nl/Nieuws/873837/Acadian-meldt-eerste-belang-in-TomTom.aspx",
-    "intro": "Acadian Asset Management heeft voor het eerst een belang in TomTom gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 4 augustus.",
-    "published_at": "2026-08-06 08:32",
-    "scraped_at": "2026-08-06T07:27:41.445168"
-  },
-  {
-    "id": "b2e4eab2dc08983411208f411fbb6ec8",
-    "categorie": "Beursnieuws",
-    "titel": "Adecco groeit voor vijfde kwartaal op rij",
-    "link": "https://www.beurs.nl/Nieuws/873832/Adecco-groeit-voor-vijfde-kwartaal-op-rij.aspx",
-    "intro": "Adecco heeft in het tweede kwartaal opnieuw meer omzet en een fors hogere onderliggende EBITA geboekt, al daalde de nettowinst door hogere eenmalige lasten. Dit bleek donderdag uit de cijfers van de Zwitserse uitzender.",
-    "published_at": "2026-08-06 08:19",
-    "scraped_at": "2026-08-06T07:27:41.445168"
-  },
-  {
-    "id": "f18eec9602d776f70069e4c18f9d2e48",
-    "categorie": "Beursnieuws",
-    "titel": "Siemens heeft recordkwartaal achter de rug",
-    "link": "https://www.beurs.nl/Nieuws/873831/Siemens-heeft-recordkwartaal-achter-de-rug.aspx",
-    "intro": "Siemens heeft een recordkwartaal achter de rug met een hogere omzet, winst en vrij kasstroom, terwijl ook het bedrag aan nieuwe orders in het derde kwartaal een nieuw recordniveau bereikte. Dit maakte de Duitse technologiegroep donderdagmorgen bekend, tegelijk met een verhoging van de jaaroutlook.",
-    "published_at": "2026-08-06 08:15",
-    "scraped_at": "2026-08-06T07:27:41.445168"
-  },
-  {
-    "id": "67f2804d8f2d4d11e0e23640040928ed",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse fabrieksorders stijgen door",
-    "link": "https://www.beurs.nl/Nieuws/873828/Duitse-fabrieksorders-stijgen-door.aspx",
-    "intro": "De Duitse fabrieksorders zijn in juni opnieuw gestegen. Dit bleek donderdag uit cijfers van statistiekbureau Destatis.",
-    "published_at": "2026-08-06 08:11",
-    "scraped_at": "2026-08-06T07:27:41.445168"
+    "scraped_at": "2026-08-06T10:18:24.198899"
   }
 ]
