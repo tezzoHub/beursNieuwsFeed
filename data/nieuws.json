@@ -1,12 +1,30 @@
 [
   {
+    "id": "32e289e9a007ba153d957ec277ed4fd7",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen scherpen records verder aan",
+    "link": "https://www.beurs.nl/Nieuws/874067/Europese-beurzen-scherpen-records-verder-aan.aspx",
+    "intro": "De Europese beurzen zijn vrijdag met nieuwe records geëindigd, te midden van optimisme over het Midden-Oosten. Het Amerikaanse banenrapport voedde intussen verder de gedachte dat de Federal Reserve de rente niet snel zal verhogen.",
+    "published_at": "2026-08-07 18:38",
+    "scraped_at": "2026-08-07T17:12:49.006755"
+  },
+  {
     "id": "6db0181d6ea8de2fff8a86299bfff76f",
     "categorie": "Beursnieuws",
     "titel": "Damrak toch niet met record het weekend in",
     "link": "https://www.beurs.nl/Nieuws/874059/Damrak-toch-niet-met-record-het-weekend-in.aspx",
     "intro": "De Amsterdamse beurs leek vrijdag te gaan eindigen op de hoogste slotstand ooit, maar moest de winst alsnog opgeven. Beleggers verwerkten vanmiddag een zwak Amerikaans banencijfer.",
     "published_at": "2026-08-07 17:56",
-    "scraped_at": "2026-08-07T16:12:47.872147"
+    "scraped_at": "2026-08-07T17:12:49.006755"
+  },
+  {
+    "id": "d7b83569f04c04d6951be2861b6afafd",
+    "categorie": "Grondstoffen",
+    "titel": "Deze strategische grondstof ging 6x over de kop: zó beleg je erin",
+    "link": "https://www.beurs.nl/Artikel/874023/Deze-strategische-grondstof-ging-6x-over-de-kop-zo-beleg-je-erin.aspx",
+    "intro": "We lichten vier bedrijven uit die deze grondstof (willen) winnen in een door China gedomineerde markt.",
+    "published_at": "2026-08-07 17:15",
+    "scraped_at": "2026-08-07T17:12:49.006755"
   },
   {
     "id": "7af78b44644f35c1ad0dc0f6145e9849",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874047/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 17 augustus 2026:",
     "published_at": "2026-08-07 16:27",
-    "scraped_at": "2026-08-07T16:12:47.872147"
+    "scraped_at": "2026-08-07T17:12:49.006755"
   },
   {
     "id": "faed95c7385b01752be2046880cf88c6",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874048/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 17 augustus 2026:",
     "published_at": "2026-08-07 16:27",
-    "scraped_at": "2026-08-07T16:12:47.872147"
+    "scraped_at": "2026-08-07T17:12:49.006755"
   },
   {
     "id": "6df433c6559e4b7a42eee28414c3262c",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874049/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 17 augustus 2026:",
     "published_at": "2026-08-07 16:27",
-    "scraped_at": "2026-08-07T16:12:47.872147"
+    "scraped_at": "2026-08-07T17:12:49.006755"
   },
   {
     "id": "f6a22d0daf5ec2c5e1dfc96eae425ffb",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874045/ING-twijfels-over-renteverhoging-Fed-na-zwak-banenrapport.aspx",
     "intro": "Het Amerikaanse banenrapport van vrijdag was \"verrassend zwak\", met niet alleen banenverlies in juli, maar ook flinke neerwaartse herzieningen voor de twee maanden ervoor. Dit zaait \"serieuze\" twijfels over de noodzaak voor de Federal Reserve om de rente te verhogen, volgens econoom James Knightley van ING.",
     "published_at": "2026-08-07 16:22",
-    "scraped_at": "2026-08-07T16:12:47.872147"
+    "scraped_at": "2026-08-07T17:12:49.006755"
   },
   {
     "id": "c3c5ab88439a8b251b3878beb5d76469",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874033/Wall-Street-koerst-af-op-hogere-opening-na-onverwacht-banenverlies.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Beleggers denken dat het onverwachte banenverlies in het meest recente banenrapport de Federal Reserve ertoe kan aanzetten de rente ongewijzigd te laten.",
     "published_at": "2026-08-07 15:05",
-    "scraped_at": "2026-08-07T16:12:47.872147"
+    "scraped_at": "2026-08-07T17:12:49.006755"
   },
   {
     "id": "a389ef3d2cf25966d7f1ebcb734e340d",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874025/Amerikaanse-werkgelegenheid-onverwachts-gedaald.aspx",
     "intro": "De werkgelegenheid in de Verenigde Staten is in juli onverwachts gedaald met 23.000 banen, terwijl het werkloosheidspercentage licht daalde naar 4,1 procent. Dit bleek vrijdag uit het banenrapport van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-08-07 14:48",
-    "scraped_at": "2026-08-07T16:12:47.872147"
+    "scraped_at": "2026-08-07T17:12:49.006755"
   },
   {
     "id": "7e2527abc67764f98975284c8f7f5fef",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874022/ASMI-aan-kop-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdagmiddag hoger en nipt onder zijn recordstand, die woensdag werd bereikt.",
     "published_at": "2026-08-07 13:53",
-    "scraped_at": "2026-08-07T16:12:47.872147"
-  },
-  {
-    "id": "2a69633e4129fc5176930ae8016ad098",
-    "categorie": "Crypto",
-    "titel": "Korte opleving verandert het technische beeld voor Bitcoin nog niet",
-    "link": "https://www.beurs.nl/Artikel/874018/Korte-opleving-verandert-het-technische-beeld-voor-Bitcoin-nog-niet.aspx",
-    "intro": "Bitcoin blijft beleggers bezighouden, maar een overtuigende richting ontbreekt vooralsnog. Terwijl de kortetermijngrafiek ruimte biedt voor een verdere opleving, blijft het langetermijnbeeld terughoudend zolang de belangrijkste weerstand niet wordt doorbroken.",
-    "published_at": "2026-08-07 13:30",
-    "scraped_at": "2026-08-07T16:12:47.872147"
-  },
-  {
-    "id": "20086dcf5a89de14c8d604f24463c67b",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/874016/Futures-Wall-Street-signaleren-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Beleggers wachten op Amerikaanse banencijfers en nieuws uit het Midden-Oosten.",
-    "published_at": "2026-08-07 13:14",
-    "scraped_at": "2026-08-07T16:12:47.872147"
+    "scraped_at": "2026-08-07T17:12:49.006755"
   }
 ]
