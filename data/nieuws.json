@@ -1,92 +1,92 @@
 [
   {
+    "id": "144c117d5f17ed68a1aa65292a6de206",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/873939/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "ArcelorMittal         (-0,48%)",
+    "published_at": "2026-08-06 23:41",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
+    "id": "aeef0c5e477751752a9257db4dca4dcb",
+    "categorie": "Beursnieuws",
+    "titel": "Lyft ziet boekingen stijgen in tweede kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/873934/Lyft-ziet-boekingen-stijgen-in-tweede-kwartaal.aspx",
+    "intro": "Lyft heeft de boekingen in het tweede kwartaal zien stijgen dankzij een sterke algehele vraag, vooral naar de premium ritten van het taxi-platform. Dat heeft Lyft donderdag nabeurs bekend gemaakt.",
+    "published_at": "2026-08-06 23:10",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
+    "id": "fc683be2a4ec412538315c6323f14e9d",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse beurzen eindigen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/873932/Amerikaanse-beurzen-eindigen-in-het-rood.aspx",
+    "intro": "Wall Street sloot donderdagavond over de hele linie lager, terwijl belangrijke cijfers van SanDisk en Western Digital bij beleggers niet in de smaak vielen. Verder keken beleggers uit naar het Amerikaanse banenrapport van vrijdag.",
+    "published_at": "2026-08-06 22:23",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
+    "id": "5a98a55d42cfcfa858c80017dad7a7ca",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen stevig in de lift",
+    "link": "https://www.beurs.nl/Nieuws/873930/Olieprijzen-stevig-in-de-lift.aspx",
+    "intro": "De olieprijzen zaten donderdag stevig in de lift door de aanhoudende geopolitieke onzekerheid in het Midden-Oosten. Beleggers en handelaren hielden hun adem in, terwijl de markt wachtte op een cruciale deal tussen de Verenigde Staten en Iran.",
+    "published_at": "2026-08-06 21:08",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
+    "id": "68c4519c6551c38df7c96f881f79ff33",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street kleurt helemaal rood",
+    "link": "https://www.beurs.nl/Nieuws/873928/Wall-Street-kleurt-helemaal-rood.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdagavond lager met nog een paar uur handel te gaan, terwijl belangrijke cijfers van SanDisk en Western Digital slecht vielen bij beleggers. Bovendien keken beleggers uit naar het Amerikaanse banenrapport van vrijdag.",
+    "published_at": "2026-08-06 20:04",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
+    "id": "55d9ac28fb30535df326db1aa6a4b609",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten merendeels in groen af",
+    "link": "https://www.beurs.nl/Nieuws/873922/Europese-beurzen-sluiten-merendeels-in-groen-af.aspx",
+    "intro": "De Europese beurzen zijn donderdag overwegend hoger geëindigd, met een nieuw record voor de Stoxx 600. Beleggers keken uit naar een doorbraak in het Midden-Oosten en de mogelijke hervatting van de gesprekken tussen de VS en Iran.",
+    "published_at": "2026-08-06 18:47",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
+    "id": "61dd48975a162e5514d699b139b70e55",
+    "categorie": "Beursnieuws",
+    "titel": "WSP gelooft nog steeds in combinatie met Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/873921/WSP-gelooft-nog-steeds-in-combinatie-met-Arcadis.aspx",
+    "intro": "Het Canadese WSP Global gelooft nog steeds dat een combinatie met Arcadis van \"groot strategisch belang\" is en aanzienlijke waarde creëert voor de belanghebbenden van beide bedrijven. Dit zei CEO Alexandre L’Heureux donderdag in een toelichting op de kwartaalcijfers die woensdagavond laat verschenen.",
+    "published_at": "2026-08-06 18:45",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
+    "id": "057669b0b3a6ed36160b1edafe85eb0b",
+    "categorie": "Beursnieuws",
+    "titel": "Euronext meldt lagere volumes",
+    "link": "https://www.beurs.nl/Nieuws/873920/Euronext-meldt-lagere-volumes.aspx",
+    "intro": "De handelsvolumes van contante effecten op Euronext zijn in juli gedaald. Dit maakte de Europese beursuitbater donderdagavond bekend.",
+    "published_at": "2026-08-06 18:36",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
+    "id": "f6b69359cd60a87d47bd6828269bd862",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit nipt hoger",
+    "link": "https://www.beurs.nl/Nieuws/873903/AEX-sluit-nipt-hoger.aspx",
+    "intro": "De Amsterdamse beurs is donderdag nipt hoger gesloten, een fractie onder zijn recordstand, nadat SBM Offshore uitblonk dankzij sterke resultaten, terwijl softwarebedrijven en voeding de index omlaag trokken.",
+    "published_at": "2026-08-06 17:54",
+    "scraped_at": "2026-08-07T00:19:51.481084"
+  },
+  {
     "id": "3ec29a36bf4926eeb5e67300d2ab6e43",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/873898/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 14 augustus 2026:",
     "published_at": "2026-08-06 16:26",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "2ead4a73d8f41ecb4eca811f12b8a9b1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/873899/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 14 augustus 2026:",
-    "published_at": "2026-08-06 16:26",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "a36a615d5933afb76c4e5c3252bbeec6",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/873900/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 14 augustus 2026:",
-    "published_at": "2026-08-06 16:26",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "2a8f65fbcac04a240d0b853fda94e561",
-    "categorie": "Beursnieuws",
-    "titel": "Groothandelsvoorraden VS stijgen minder hard",
-    "link": "https://www.beurs.nl/Nieuws/873896/Groothandelsvoorraden-VS-stijgen-minder-hard.aspx",
-    "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in juni minder hard gestegen dan in de maand ervoor, terwijl de omzet daalde. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-08-06 16:07",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "6dc48fad892605f1c19fa5fbf5f4ea3b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verlaagt koersdoel Fugro",
-    "link": "https://www.beurs.nl/Nieuws/873895/Beursblik-Jefferies-verlaagt-koersdoel-Fugro.aspx",
-    "intro": "Jefferies heeft donderdag het koersdoel voor Fugro verlaagd van 10,00 naar 9,00 euro, terwijl het advies Houden blijft. Dit bleek uit een rapport van de Amerikaanse zakenbank van analist David Kerstens.",
-    "published_at": "2026-08-06 15:37",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "6779631ea3addd140940e06ef9fa1306",
-    "categorie": "Beursnieuws",
-    "titel": "Verdeelde opening in de maak voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/873892/Verdeelde-opening-in-de-maak-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een verdeelde opening tegemoet, waarbij de Nasdaq op koers ligt voor een verlies van ruim een half procent, vanwege hernieuwde zorgen over AI.",
-    "published_at": "2026-08-06 14:57",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "aa9e52521787f0eefe0b73ee5297d730",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe steunaanvragen in de VS vrijwel stabiel",
-    "link": "https://www.beurs.nl/Nieuws/873891/Nieuwe-steunaanvragen-in-de-VS-vrijwel-stabiel.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week licht gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-08-06 14:37",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "2901839ad4db83cd2d64a06b53637d11",
-    "categorie": "Beursnieuws",
-    "titel": "AEX zakt wat weg ondanks koerssprong SBMO",
-    "link": "https://www.beurs.nl/Nieuws/873888/AEX-zakt-wat-weg-ondanks-koerssprong-SBMO.aspx",
-    "intro": "De Amsterdamse beurs gaf donderdag gedurende de dag eerdere bescheiden winsten prijs en koerste licht lager. Rond de klok van twee uur daalde de AEX met 0,2 procent tot 1.109,51 punten.",
-    "published_at": "2026-08-06 14:05",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "a3d9d1ef7e3d03078d3cebbfe37f91b9",
-    "categorie": "Beursnieuws",
-    "titel": "ConocoPhillips boekt veel meer winst",
-    "link": "https://www.beurs.nl/Nieuws/873884/ConocoPhillips-boekt-veel-meer-winst.aspx",
-    "intro": "ConocoPhillips heeft in het afgelopen kwartaal meer winst geboekt dan de markt had voorzien, dankzij sterke productie in het Permian-bekken. Dat maakte het Amerikaanse oliebedrijf donderdag bekend.",
-    "published_at": "2026-08-06 13:54",
-    "scraped_at": "2026-08-06T14:51:01.725254"
-  },
-  {
-    "id": "70f1863a408600a03c2dd3c9a883e415",
-    "categorie": "Beursnieuws",
-    "titel": "Winst Warner Bros. Discovery fors lager",
-    "link": "https://www.beurs.nl/Nieuws/873883/Winst-Warner-Bros-Discovery-fors-lager.aspx",
-    "intro": "Warner Bros. Discovery heeft in het tweede kwartaal veel minder winst geboekt, doordat een grote eenmalige last en een dalende omzet op het resultaat drukten. Toch overtrof de mediagigant de verwachtingen van analisten, die juist op een verlies hadden gerekend. Dit bleek donderdag uit de kwartaalcijfers.",
-    "published_at": "2026-08-06 13:45",
-    "scraped_at": "2026-08-06T14:51:01.725254"
+    "scraped_at": "2026-08-07T00:19:51.481084"
   }
 ]
