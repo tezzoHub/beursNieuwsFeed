@@ -1,21 +1,30 @@
 [
   {
-    "id": "fbb048cb3546659f37a1fd20d52142ac",
+    "id": "1c186c39b41aae29fdee5400f9f7af29",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX vlak in aanloop naar banenrapport VS",
-    "link": "https://www.beurs.nl/Nieuws/873992/Beursupdate-AEX-vlak-in-aanloop-naar-banenrapport-VS.aspx",
-    "intro": "De Amsterdamse beurs bleef vrijdagochtend dicht bij huis, in aanloop naar het belangrijke banenrapport in de VS. Dit staat vanmiddag geagendeerd.",
-    "published_at": "2026-08-07 11:02",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "titel": "Europese beurzen hoger rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/874002/Europese-beurzen-hoger-rond-middaguur.aspx",
+    "intro": "De Europese beurzen koersten vrijdag rond het middaguur hoger. Beleggers wachten op Amerikaanse banencijfers en nieuws over besprekingen in het Midden-Oosten.",
+    "published_at": "2026-08-07 12:04",
+    "scraped_at": "2026-08-07T10:37:14.345072"
   },
   {
-    "id": "eac718ea833f1401762cb4e96cb23f26",
+    "id": "27680d7232eab12c1e57003acd56259b",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies te spreken over resultaten CSG",
-    "link": "https://www.beurs.nl/Nieuws/873981/Beursblik-Jefferies-te-spreken-over-resultaten-CSG.aspx",
+    "titel": "AEX vlak in aanloop naar banenrapport VS",
+    "link": "https://www.beurs.nl/Nieuws/873992/AEX-vlak-in-aanloop-naar-banenrapport-VS.aspx",
+    "intro": "De Amsterdamse beurs bleef vrijdagochtend dicht bij huis, in aanloop naar het belangrijke banenrapport in de VS. Dit staat vanmiddag geagendeerd.",
+    "published_at": "2026-08-07 11:02",
+    "scraped_at": "2026-08-07T10:37:14.345072"
+  },
+  {
+    "id": "62a6c1f39f3faada11a1758e86d9e179",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies positief over resultaten CSG",
+    "link": "https://www.beurs.nl/Nieuws/873981/Jefferies-positief-over-resultaten-CSG.aspx",
     "intro": "Jefferies noemde vrijdag de tweede kwartaalcijfers van CSG solide. Volgens de zakenbank ligt het defensiebedrijf daardoor op koers om de bovenkant van de eigen outlook te halen.",
     "published_at": "2026-08-07 09:43",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "scraped_at": "2026-08-07T10:37:14.345072"
   },
   {
     "id": "448437f19ae5571429088498c5552a62",
@@ -24,7 +33,7 @@
     "link": "https://www.ieximpact.nl/artikel/873854/Nieuw-impactthema-Nederlandse-weerbaarheid.aspx",
     "intro": "Mathijs Lindemulder van Aegon Asset Management roept in een gastcolumn institutionele beleggers op om meer te beleggen in Nederland. Dat maakt ons land weerbaarder en voedt het rendement. \"Juist dichtbij huis liggen kansen om het verschil te maken.\"",
     "published_at": "2026-08-07 09:20",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "scraped_at": "2026-08-07T10:37:14.345072"
   },
   {
     "id": "b0cd4053768114c93bb484e345bdcbd6",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/873977/AEX-vrij-vlak-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong fractioneel lager op 1.111,95 punten, terwijl de Midkap 0,3 procent won.",
     "published_at": "2026-08-07 09:11",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "scraped_at": "2026-08-07T10:37:14.345072"
   },
   {
     "id": "d1db801348e0b9caefaf03d1ff56682e",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/873975/Berenberg-Hogere-solvabiliteit-NN-Group-biedt-ruimte-voor-meer-aandeleninkopen.aspx",
     "intro": "Berenberg verhoogde vrijdag het koersdoel voor NN Group van 94,60 naar 97,50 euro, bij handhaving van het koopadvies. Dit kwam naar voren uit een rapport van analist Michael Huttner.",
     "published_at": "2026-08-07 08:38",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "scraped_at": "2026-08-07T10:37:14.345072"
   },
   {
     "id": "7c16a7559963bb14d913864f5da27258",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/873972/Duitse-export-stijgt-in-juni.aspx",
     "intro": "De Duitse export is in juni op maandbasis met 0,9 procent gestegen tot 139,3 miljard euro, het hoogste niveau ooit gemeten, zo bleek vrijdag uit voorlopige cijfers van Destatis.",
     "published_at": "2026-08-07 08:14",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "scraped_at": "2026-08-07T10:37:14.345072"
   },
   {
     "id": "7c5b47621c549c30354d26267cf4db8a",
@@ -60,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/873885/AEX-opent-vlak-en-CSG-heeft-het-Damrak-helemaal-voor-zichzelf.aspx",
     "intro": "De AEX gaat straks vlak van start en CSG komt voorbeurs met cijfers. Op macro-economisch vlak ligt het zwaartepunt op de banencijfers vanmiddag.",
     "published_at": "2026-08-07 08:10",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "scraped_at": "2026-08-07T10:37:14.345072"
   },
   {
     "id": "8acae91a55ebb2262929e26d393a42b0",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/873967/Duitse-industriele-productie-in-juni-toegenomen.aspx",
     "intro": "De productie van de Duitse industrie is in juni licht toegenomen vergeleken met de voorgaande maand. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-08-07 08:07",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "scraped_at": "2026-08-07T10:37:14.345072"
   },
   {
     "id": "4988a3dd05af7016add5d0e8477707f3",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873966/AEX-vermoedelijk-licht-lager-van-start.aspx",
     "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,2 procent.",
     "published_at": "2026-08-07 08:03",
-    "scraped_at": "2026-08-07T09:28:16.601563"
-  },
-  {
-    "id": "4d127b6d81696bfeae6c04a3cb24e21d",
-    "categorie": "Beursnieuws",
-    "titel": "CSG boekt fors hogere omzet en winst",
-    "link": "https://www.beurs.nl/Nieuws/873965/CSG-boekt-fors-hogere-omzet-en-winst.aspx",
-    "intro": "CSG heeft in het eerste halfjaar van 2026 een sterke omzet- en winstgroeigroei geboekt. Dit bleek vrijdag voorbeurs uit de cijfers van Czechoslovak Group, een fabrikant van gepantserde voertuigen en munitie.",
-    "published_at": "2026-08-07 08:01",
-    "scraped_at": "2026-08-07T09:28:16.601563"
+    "scraped_at": "2026-08-07T10:37:14.345072"
   }
 ]
