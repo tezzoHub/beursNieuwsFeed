@@ -1,12 +1,84 @@
 [
   {
+    "id": "7c16a7559963bb14d913864f5da27258",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse export stijgt in juni",
+    "link": "https://www.beurs.nl/Nieuws/873972/Duitse-export-stijgt-in-juni.aspx",
+    "intro": "De Duitse export is in juni op maandbasis met 0,9 procent gestegen tot 139,3 miljard euro, het hoogste niveau ooit gemeten, zo bleek vrijdag uit voorlopige cijfers van Destatis.",
+    "published_at": "2026-08-07 08:14",
+    "scraped_at": "2026-08-07T06:39:04.890824"
+  },
+  {
+    "id": "7c5b47621c549c30354d26267cf4db8a",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent vlak en CSG heeft het Damrak helemaal voor zichzelf",
+    "link": "https://www.iex.nl/artikel/873885/AEX-opent-vlak-en-CSG-heeft-het-Damrak-helemaal-voor-zichzelf.aspx",
+    "intro": "De AEX gaat straks vlak van start en CSG komt voorbeurs met cijfers. Op macro-economisch vlak ligt het zwaartepunt op de banencijfers vanmiddag.",
+    "published_at": "2026-08-07 08:10",
+    "scraped_at": "2026-08-07T06:39:04.890824"
+  },
+  {
+    "id": "8acae91a55ebb2262929e26d393a42b0",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse industriele productie in juni toegenomen",
+    "link": "https://www.beurs.nl/Nieuws/873967/Duitse-industriele-productie-in-juni-toegenomen.aspx",
+    "intro": "De productie van de Duitse industrie is in juni licht toegenomen vergeleken met de voorgaande maand. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-08-07 08:07",
+    "scraped_at": "2026-08-07T06:39:04.890824"
+  },
+  {
+    "id": "4988a3dd05af7016add5d0e8477707f3",
+    "categorie": "Beursnieuws",
+    "titel": "AEX vermoedelijk licht lager van start",
+    "link": "https://www.beurs.nl/Nieuws/873966/AEX-vermoedelijk-licht-lager-van-start.aspx",
+    "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,2 procent.",
+    "published_at": "2026-08-07 08:03",
+    "scraped_at": "2026-08-07T06:39:04.890824"
+  },
+  {
+    "id": "4d127b6d81696bfeae6c04a3cb24e21d",
+    "categorie": "Beursnieuws",
+    "titel": "CSG boekt fors hogere omzet en winst",
+    "link": "https://www.beurs.nl/Nieuws/873965/CSG-boekt-fors-hogere-omzet-en-winst.aspx",
+    "intro": "CSG heeft in het eerste halfjaar van 2026 een sterke omzet- en winstgroeigroei geboekt. Dit bleek vrijdag voorbeurs uit de cijfers van Czechoslovak Group, een fabrikant van gepantserde voertuigen en munitie.",
+    "published_at": "2026-08-07 08:01",
+    "scraped_at": "2026-08-07T06:39:04.890824"
+  },
+  {
+    "id": "668c8dd4e3912d2b3d397c5c79d276da",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen noteren verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/873961/Aziatische-beurzen-noteren-verdeeld.aspx",
+    "intro": "De Aziatische beurzen noteerden vrijdagochtend verdeeld.",
+    "published_at": "2026-08-07 07:23",
+    "scraped_at": "2026-08-07T06:39:04.890824"
+  },
+  {
+    "id": "d401f23dbdd2d0a69f8da36d818800d1",
+    "categorie": "Beursnieuws",
+    "titel": "Allianz boekt recordwinst in tweede kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/873960/Allianz-boekt-recordwinst-in-tweede-kwartaal.aspx",
+    "intro": "Allianz heeft in het tweede kwartaal van 2026 een record operationeel resultaat geboekt. Dit maakte de Duitse verzekeraar vrijdag bekend.",
+    "published_at": "2026-08-07 07:20",
+    "scraped_at": "2026-08-07T06:39:04.890824"
+  },
+  {
+    "id": "bffe43a49b8153eac679da88b4264b44",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen nagenoeg vlak",
+    "link": "https://www.beurs.nl/Nieuws/873959/Europese-beurzen-openen-nagenoeg-vlak.aspx",
+    "intro": "De aandelenmarkten in Europa gaan vrijdag een voorzichtige opening tegemoet, in afwachting van het Amerikaanse banenrapport later op de dag. De olieprijs steeg vrijdag door zorgen over aanbodverstoringen, nadat Iran een beperkend conceptplan voor de Straat van Hormuz had gepubliceerd",
+    "published_at": "2026-08-07 07:09",
+    "scraped_at": "2026-08-07T06:39:04.890824"
+  },
+  {
     "id": "6c9c2a87077b1c6e34b7f86058dcbc89",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
     "link": "https://www.beurs.nl/Nieuws/873955/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 14 augustus 2026:",
     "published_at": "2026-08-07 06:52",
-    "scraped_at": "2026-08-07T05:10:51.969249"
+    "scraped_at": "2026-08-07T06:39:04.890824"
   },
   {
     "id": "e607546e34370eeb5f1a70b94a844de5",
@@ -15,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/873954/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 14 augustus 2026:",
     "published_at": "2026-08-07 06:51",
-    "scraped_at": "2026-08-07T05:10:51.969249"
-  },
-  {
-    "id": "4bd3d3cd908234e6c31fd3b01d8bbc4a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/873956/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 14 augustus 2026:",
-    "published_at": "2026-08-07 06:51",
-    "scraped_at": "2026-08-07T05:10:51.969249"
+    "scraped_at": "2026-08-07T06:39:04.890824"
   }
 ]
