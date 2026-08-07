@@ -1,12 +1,48 @@
 [
   {
+    "id": "f285eb5401324e4e97ba28e6a2cc2834",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenkrediet VS flink gestegen",
+    "link": "https://www.beurs.nl/Nieuws/874072/Consumentenkrediet-VS-flink-gestegen.aspx",
+    "intro": "Het consumentenkrediet in de Verenigde Staten is in juni hard gestegen, na een daling in de maand ervoor. Dit maakte de Federal Reserve vrijdagavond bekend.",
+    "published_at": "2026-08-07 21:03",
+    "scraped_at": "2026-08-07T19:25:19.758244"
+  },
+  {
+    "id": "6d7e8957f232a218403e26847c446ef8",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs afgelopen week flink gedaald",
+    "link": "https://www.beurs.nl/Nieuws/874071/Olieprijs-afgelopen-week-flink-gedaald.aspx",
+    "intro": "De olieprijs is afgelopen week flink gedaald, ondanks een stijging van ruim een procent op vrijdag. De settlement voor een vat West Texas Intermediate was 78,18 dollar en dat betekende op weekbasis een verlies van bijna 8 procent.",
+    "published_at": "2026-08-07 20:59",
+    "scraped_at": "2026-08-07T19:25:19.758244"
+  },
+  {
+    "id": "dc08064d7efa9a39f348e76bd3d80261",
+    "categorie": "Beursnieuws",
+    "titel": "Trump doet nieuwe poging om Fed-gouverneur Cook te ontslaan",
+    "link": "https://www.beurs.nl/Nieuws/874070/Trump-doet-nieuwe-poging-om-Fed-gouverneur-Cook-te-ontslaan.aspx",
+    "intro": "De Amerikaanse president Donald Trump probeert opnieuw om gouverneur Lisa Cook van de Federal Reserve te ontslaan.",
+    "published_at": "2026-08-07 20:56",
+    "scraped_at": "2026-08-07T19:25:19.758244"
+  },
+  {
+    "id": "fb980c8dbc45054894afcfc6647297d5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verlaagt koersdoel Tesla",
+    "link": "https://www.beurs.nl/Nieuws/874069/Beursblik-Jefferies-verlaagt-koersdoel-Tesla.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Tesla vrijdag verlaagd van 400 naar 350 dollar, terwijl het Houden advies werd gehandhaafd. Dit bleek uit een rapport van de zakenbank.",
+    "published_at": "2026-08-07 20:10",
+    "scraped_at": "2026-08-07T19:25:19.758244"
+  },
+  {
     "id": "223d61a1ffe2fe4ffa41d884335f0538",
     "categorie": "Beursnieuws",
     "titel": "Wall Street koerst hoger",
     "link": "https://www.beurs.nl/Nieuws/874068/Wall-Street-koerst-hoger.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag hoger met nog een paar uur handel te gaan.",
     "published_at": "2026-08-07 19:31",
-    "scraped_at": "2026-08-07T18:07:32.431054"
+    "scraped_at": "2026-08-07T19:25:19.758244"
   },
   {
     "id": "32e289e9a007ba153d957ec277ed4fd7",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874067/Europese-beurzen-scherpen-records-verder-aan.aspx",
     "intro": "De Europese beurzen zijn vrijdag met nieuwe records geëindigd, te midden van optimisme over het Midden-Oosten. Het Amerikaanse banenrapport voedde intussen verder de gedachte dat de Federal Reserve de rente niet snel zal verhogen.",
     "published_at": "2026-08-07 18:38",
-    "scraped_at": "2026-08-07T18:07:32.431054"
+    "scraped_at": "2026-08-07T19:25:19.758244"
   },
   {
     "id": "6db0181d6ea8de2fff8a86299bfff76f",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874059/Damrak-toch-niet-met-record-het-weekend-in.aspx",
     "intro": "De Amsterdamse beurs leek vrijdag te gaan eindigen op de hoogste slotstand ooit, maar moest de winst alsnog opgeven. Beleggers verwerkten vanmiddag een zwak Amerikaans banencijfer.",
     "published_at": "2026-08-07 17:56",
-    "scraped_at": "2026-08-07T18:07:32.431054"
+    "scraped_at": "2026-08-07T19:25:19.758244"
   },
   {
     "id": "d7b83569f04c04d6951be2861b6afafd",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Artikel/874023/Deze-strategische-grondstof-ging-6x-over-de-kop-zo-beleg-je-erin.aspx",
     "intro": "We lichten vier bedrijven uit die deze grondstof (willen) winnen in een door China gedomineerde markt.",
     "published_at": "2026-08-07 17:15",
-    "scraped_at": "2026-08-07T18:07:32.431054"
+    "scraped_at": "2026-08-07T19:25:19.758244"
   },
   {
     "id": "7af78b44644f35c1ad0dc0f6145e9849",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874047/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 17 augustus 2026:",
     "published_at": "2026-08-07 16:27",
-    "scraped_at": "2026-08-07T18:07:32.431054"
+    "scraped_at": "2026-08-07T19:25:19.758244"
   },
   {
     "id": "faed95c7385b01752be2046880cf88c6",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874048/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 17 augustus 2026:",
     "published_at": "2026-08-07 16:27",
-    "scraped_at": "2026-08-07T18:07:32.431054"
-  },
-  {
-    "id": "6df433c6559e4b7a42eee28414c3262c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/874049/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 17 augustus 2026:",
-    "published_at": "2026-08-07 16:27",
-    "scraped_at": "2026-08-07T18:07:32.431054"
-  },
-  {
-    "id": "f6a22d0daf5ec2c5e1dfc96eae425ffb",
-    "categorie": "Beursnieuws",
-    "titel": "ING: twijfels over renteverhoging Fed na zwak banenrapport",
-    "link": "https://www.beurs.nl/Nieuws/874045/ING-twijfels-over-renteverhoging-Fed-na-zwak-banenrapport.aspx",
-    "intro": "Het Amerikaanse banenrapport van vrijdag was \"verrassend zwak\", met niet alleen banenverlies in juli, maar ook flinke neerwaartse herzieningen voor de twee maanden ervoor. Dit zaait \"serieuze\" twijfels over de noodzaak voor de Federal Reserve om de rente te verhogen, volgens econoom James Knightley van ING.",
-    "published_at": "2026-08-07 16:22",
-    "scraped_at": "2026-08-07T18:07:32.431054"
-  },
-  {
-    "id": "c3c5ab88439a8b251b3878beb5d76469",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op hogere opening na onverwacht banenverlies",
-    "link": "https://www.beurs.nl/Nieuws/874033/Wall-Street-koerst-af-op-hogere-opening-na-onverwacht-banenverlies.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Beleggers denken dat het onverwachte banenverlies in het meest recente banenrapport de Federal Reserve ertoe kan aanzetten de rente ongewijzigd te laten.",
-    "published_at": "2026-08-07 15:05",
-    "scraped_at": "2026-08-07T18:07:32.431054"
-  },
-  {
-    "id": "a389ef3d2cf25966d7f1ebcb734e340d",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse werkgelegenheid onverwachts gedaald",
-    "link": "https://www.beurs.nl/Nieuws/874025/Amerikaanse-werkgelegenheid-onverwachts-gedaald.aspx",
-    "intro": "De werkgelegenheid in de Verenigde Staten is in juli onverwachts gedaald met 23.000 banen, terwijl het werkloosheidspercentage licht daalde naar 4,1 procent. Dit bleek vrijdag uit het banenrapport van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-08-07 14:48",
-    "scraped_at": "2026-08-07T18:07:32.431054"
+    "scraped_at": "2026-08-07T19:25:19.758244"
   }
 ]
