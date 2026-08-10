@@ -1,12 +1,30 @@
 [
   {
+    "id": "980acc258fbc48c435b78fff38fcabfb",
+    "categorie": "Beursnieuws",
+    "titel": "Meer winst voorspeld voor ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/874192/Meer-winst-voorspeld-voor-ABN-AMRO.aspx",
+    "intro": "ABN AMRO zal in het tweede kwartaal fors meer winst boeken, dankzij sterk stijgende fee-inkomsten en eveneens stijgende rentebaten, terwijl de kosten stabiel blijven.  Dat blijkt uit een consensusverwachting van analisten die werd samengesteld door de bank zelf.",
+    "published_at": "2026-08-10 14:55",
+    "scraped_at": "2026-08-10T14:07:43.227435"
+  },
+  {
+    "id": "d93ff08def8abd45ca2e9ed686d64de4",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street maakt zich op voor vlakke start",
+    "link": "https://www.beurs.nl/Nieuws/874191/Wall-Street-maakt-zich-op-voor-vlakke-start.aspx",
+    "intro": "De Amerikaanse beurzen zullen maandag naar verwachting rustig openen. Beleggers focussen zich komende week op belangrijke macrocijfers en zullen nieuws uit het Midden-Oosten nauwgezet in de gaten houden.",
+    "published_at": "2026-08-10 14:51",
+    "scraped_at": "2026-08-10T14:07:43.227435"
+  },
+  {
     "id": "96cfc73243442cb679601e40912661a2",
     "categorie": "Beursnieuws",
     "titel": "Chippers aan kop in groene AEX",
     "link": "https://www.beurs.nl/Nieuws/874185/Chippers-aan-kop-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde maandagmiddag hoger en nipt onder zijn recordstand, die vorige week woensdag werd bereikt.",
     "published_at": "2026-08-10 14:03",
-    "scraped_at": "2026-08-10T12:34:31.414952"
+    "scraped_at": "2026-08-10T14:07:43.227435"
   },
   {
     "id": "8ab1ff6d1716dad93103b0f27d829842",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874184/TSMC-boekt-versnelde-omzetgroei-in-juli.aspx",
     "intro": "Taiwan Semiconductor Manufacturing Company heeft in juli een omzet geboekt van 467,58 miljard Taiwanese dollar, omgerekend 14,50 miljard dollar. Dit maakte de Taiwanese chipfabrikant maandag bekend.",
     "published_at": "2026-08-10 13:55",
-    "scraped_at": "2026-08-10T12:34:31.414952"
+    "scraped_at": "2026-08-10T14:07:43.227435"
   },
   {
     "id": "1b20ef17b093c53749ccaa6a53980b6d",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874180/Futures-op-Wall-Street-wijzen-op-matte-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een zo goed als matte opening tegemoet. Beleggers wachten komende week op belangrijke macrocijfers en meer nieuws uit het Midden-Oosten.",
     "published_at": "2026-08-10 12:50",
-    "scraped_at": "2026-08-10T12:34:31.414952"
+    "scraped_at": "2026-08-10T14:07:43.227435"
   },
   {
     "id": "6952d9bbcd74147aa1b719dd9f29322e",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874176/Europese-beurzen-blijven-dicht-bij-huis.aspx",
     "intro": "De Europese beurzen noteerden maandag rond het middaguur vlak, terwijl beleggers wachtten op een akkoord tussen Iran en Oman rond de Straat van Hormuz en inflatiecijfers in de VS later deze week.",
     "published_at": "2026-08-10 12:38",
-    "scraped_at": "2026-08-10T12:34:31.414952"
+    "scraped_at": "2026-08-10T14:07:43.227435"
   },
   {
     "id": "79855e0bef68ab38036abc4a77845a8c",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874166/Dollar-kan-verder-dalen-na-zwak-banenrapport-VS.aspx",
     "intro": "De euro/dollar noteerde maandag nagenoeg vlak, nadat de dollar vrijdag het laagste niveau in zeven weken bereikte na tegenvallende Amerikaanse banencijfers.",
     "published_at": "2026-08-10 12:05",
-    "scraped_at": "2026-08-10T12:34:31.414952"
+    "scraped_at": "2026-08-10T14:07:43.227435"
   },
   {
     "id": "bcd5954dcbf0cc127e0b359aa13c2a23",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874165/NEPI-Rockcastle-sluit-groene-lening-af.aspx",
     "intro": "NEPI Rockcastle heeft via zijn dochterbedrijf NE Property een groene termijnlening van 250 miljoen euro afgesloten bij de European Bank for Reconstruction and Development (EBRD). Dit maakte de vastgoedbelegger maandag bekend.",
     "published_at": "2026-08-10 11:58",
-    "scraped_at": "2026-08-10T12:34:31.414952"
+    "scraped_at": "2026-08-10T14:07:43.227435"
   },
   {
     "id": "8951ca4fbde65f1943b59aa13ef4539c",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874152/AEX-toont-niet-veel-beweging.aspx",
     "intro": "De Amsterdamse beurs dobberde sinds de opening rondom een vrijwel vlak niveau, terwijl nieuwe eisen van Iran zorgden voor hernieuwde twijfel over een snelle heropening van de Straat van Hormuz. Ook zijn beleggers in afwachting van belangrijke inflatiecijfers vanuit de VS, later deze week.",
     "published_at": "2026-08-10 10:53",
-    "scraped_at": "2026-08-10T12:34:31.414952"
+    "scraped_at": "2026-08-10T14:07:43.227435"
   },
   {
     "id": "dc660e31c09594b0bb6bd565cc48d813",
@@ -69,24 +87,6 @@
     "link": "https://www.iex.nl/artikel/874106/Must-read-Diamant-wordt-een-commodity.aspx",
     "intro": "Plus: klimaatverandering doet steeds meer economische pijn, opvolger Buffett zet cash aan het werk, vooral Zuid-Europese banken presteren goed, Nederlandse industrie draait lekker, en meer.",
     "published_at": "2026-08-10 10:05",
-    "scraped_at": "2026-08-10T12:34:31.414952"
-  },
-  {
-    "id": "b897d6382e59fe2dec86c6ac503036a4",
-    "categorie": "",
-    "titel": "Adyen nadert een cruciaal moment na de forse koersval",
-    "link": "https://www.iex.nl/artikel/874149/Adyen-nadert-een-cruciaal-moment-na-de-forse-koersval.aspx",
-    "intro": "",
-    "published_at": "2026-08-10 09:55",
-    "scraped_at": "2026-08-10T12:34:31.414952"
-  },
-  {
-    "id": "36483c9e7905c4eca3199fb13a51d02c",
-    "categorie": "Beursnieuws",
-    "titel": "AEX nipt hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/874145/AEX-nipt-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste maandag kort na de beursgong 0,1 procent hoger op 1.112,84 punten, terwijl de Midkap 0,4 procent won.",
-    "published_at": "2026-08-10 09:12",
-    "scraped_at": "2026-08-10T12:34:31.414952"
+    "scraped_at": "2026-08-10T14:07:43.227435"
   }
 ]
