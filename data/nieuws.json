@@ -1,12 +1,39 @@
 [
   {
-    "id": "55b087f1422a7c0bd84e5f97e513390e",
+    "id": "dc660e31c09594b0bb6bd565cc48d813",
+    "categorie": "IEX",
+    "titel": "Must read: Diamant wordt een commodity",
+    "link": "https://www.iex.nl/artikel/874106/Must-read-Diamant-wordt-een-commodity.aspx",
+    "intro": "Plus: klimaatverandering doet steeds meer economische pijn, opvolger Buffett zet cash aan het werk, vooral Zuid-Europese banken presteren goed, Nederlandse industrie draait lekker, en meer.",
+    "published_at": "2026-08-10 10:05",
+    "scraped_at": "2026-08-10T08:45:35.387182"
+  },
+  {
+    "id": "b897d6382e59fe2dec86c6ac503036a4",
+    "categorie": "",
+    "titel": "Adyen nadert een cruciaal moment na de forse koersval",
+    "link": "https://www.iex.nl/artikel/874149/Adyen-nadert-een-cruciaal-moment-na-de-forse-koersval.aspx",
+    "intro": "",
+    "published_at": "2026-08-10 09:55",
+    "scraped_at": "2026-08-10T08:45:35.387182"
+  },
+  {
+    "id": "36483c9e7905c4eca3199fb13a51d02c",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/874142/Beursblik-Deutsche-Bank-verhoogt-koersdoel-DSM-Firmenich.aspx",
+    "titel": "AEX nipt hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/874145/AEX-nipt-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste maandag kort na de beursgong 0,1 procent hoger op 1.112,84 punten, terwijl de Midkap 0,4 procent won.",
+    "published_at": "2026-08-10 09:12",
+    "scraped_at": "2026-08-10T08:45:35.387182"
+  },
+  {
+    "id": "180fd3e087f0fa06221f3d633100ad47",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel DSM-Firmenich fors",
+    "link": "https://www.beurs.nl/Nieuws/874142/Deutsche-Bank-verhoogt-koersdoel-DSM-Firmenich-fors.aspx",
     "intro": "Deutsche Bank heeft het koersdoel voor DSM-Firmenich verhoogd van 98 naar 106 euro, met een onveranderd kopen-advies. Dit bleek maandag uit een analistenrapport van de bank.",
     "published_at": "2026-08-10 08:47",
-    "scraped_at": "2026-08-10T06:58:27.971557"
+    "scraped_at": "2026-08-10T08:45:35.387182"
   },
   {
     "id": "f318be5f356b2e3629e317dcc2758bf3",
@@ -15,7 +42,7 @@
     "link": "https://www.ieximpact.nl/artikel/874028/De-welvaart-van-morgen-verdienen-we-niet-met-de-economie-van-vandaag.aspx",
     "intro": "Directievoorzitter Maureen Schlejen van Achmea Investment Management schetst in een gastcolumn wat nodig is om duurzame Europese economische groei, en daarmee dus ook robuuste beleggingsrendementen, te realiseren.",
     "published_at": "2026-08-10 08:30",
-    "scraped_at": "2026-08-10T06:58:27.971557"
+    "scraped_at": "2026-08-10T08:45:35.387182"
   },
   {
     "id": "76b36846251c574a8ec2aa6486541672",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874140/Berkshire-Hathaway-boekt-hogere-winst.aspx",
     "intro": "Berkshire Hathaway heeft in het tweede kwartaal een hogere operationele winst geboekt en fors meer eigen aandelen ingekocht. Dit bleek afgelopen weekend uit de kwartaalcijfers van het Amerikaanse investeringsconglomeraat.",
     "published_at": "2026-08-10 08:29",
-    "scraped_at": "2026-08-10T06:58:27.971557"
+    "scraped_at": "2026-08-10T08:45:35.387182"
   },
   {
     "id": "2bbb36ca4cef6edae54c7d09b1fd7ec9",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874139/ASMI-start-inkoop-eigen-aandelen.aspx",
     "intro": "ASMI start vandaag met een inkoopprogramma van eigen aandelen ter waarde van 150 miljoen euro, dat loopt tot uiterlijk december 2026. Dat heeft de Chipmachinefabrikant maandag bekend gemaakt.",
     "published_at": "2026-08-10 08:24",
-    "scraped_at": "2026-08-10T06:58:27.971557"
+    "scraped_at": "2026-08-10T08:45:35.387182"
   },
   {
     "id": "348203f29c0c311c29b5a7e5c4a46668",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Artikel/874124/Beleggers-aan-de-zijlijn-nu-Iran-op-ramkoers-ligt-omzet-TSMC-loopt-op.aspx",
     "intro": "Openingsindicatie: +0,1%. Impasse rond Straat van Hormuz: olieprijzen lopen weer op. ASML-klant TSMC zit omzet verder stijgen. En twee ex-dividendnoteringen vandaag.",
     "published_at": "2026-08-10 08:20",
-    "scraped_at": "2026-08-10T06:58:27.971557"
+    "scraped_at": "2026-08-10T08:45:35.387182"
   },
   {
     "id": "5317e30e5301279e0773706c06b5547f",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874136/AEX-start-handelsweek-waarschijnlijk-afwachtend.aspx",
     "intro": "De Amsterdamse beurs gaat maandag naar verwachting vrij neutraal van start. Futures op de AEX-index kwamen ongeveer een uur voor de beursgong nog niet van hun plaats.",
     "published_at": "2026-08-10 08:09",
-    "scraped_at": "2026-08-10T06:58:27.971557"
+    "scraped_at": "2026-08-10T08:45:35.387182"
   },
   {
     "id": "c30166aa5ad20b082587f80fb3575264",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874134/Nederlandse-producenten-in-juli-positiever-gestemd.aspx",
     "intro": "Het vertrouwen van Nederlandse fabrikanten was in juli positiever dan in juni. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
     "published_at": "2026-08-10 08:00",
-    "scraped_at": "2026-08-10T06:58:27.971557"
-  },
-  {
-    "id": "9f32e5ed095f4332669493f0d4a9f7ca",
-    "categorie": "Beursnieuws",
-    "titel": "Productie Nederlandse industrie op maandbasis gedaald",
-    "link": "https://www.beurs.nl/Nieuws/874132/Productie-Nederlandse-industrie-op-maandbasis-gedaald.aspx",
-    "intro": "De productie van de Nederlandse industrie was in juni op maandbasis gedaald ten opzichte van mei. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-08-10 07:55",
-    "scraped_at": "2026-08-10T06:58:27.971557"
-  },
-  {
-    "id": "907ee9111bdf67c551990a5bc9fadd9f",
-    "categorie": "Beursnieuws",
-    "titel": "Ebusco betreurt annulering busorder Potsdam",
-    "link": "https://www.beurs.nl/Nieuws/874129/Ebusco-betreurt-annulering-busorder-Potsdam.aspx",
-    "intro": "Ebusco heeft kennisgenomen van de annulering van een order voor 23 elektrische bussen door klant ViP Verkehrsbetrieb Potsdam, onderdeel van de Stadtwerke Potsdam-groep. Dit maakte de busbouwer uit Deurne zondag bekend.",
-    "published_at": "2026-08-10 07:27",
-    "scraped_at": "2026-08-10T06:58:27.971557"
-  },
-  {
-    "id": "d572ee311562bd26cfe27f7957c53286",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen noteren overwegend hoger",
-    "link": "https://www.beurs.nl/Nieuws/874128/Aziatische-beurzen-noteren-overwegend-hoger.aspx",
-    "intro": "De Aziatische aandelenmarkten noteerden maandag verdeeld, waarbij de Japanse beurs een positieve uitschieter was.",
-    "published_at": "2026-08-10 07:18",
-    "scraped_at": "2026-08-10T06:58:27.971557"
+    "scraped_at": "2026-08-10T08:45:35.387182"
   }
 ]
