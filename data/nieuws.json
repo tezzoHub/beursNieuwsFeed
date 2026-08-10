@@ -1,12 +1,21 @@
 [
   {
+    "id": "7f8673cfb7fe8c4a137b1a5a3f880949",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen scherpen records aan",
+    "link": "https://www.beurs.nl/Nieuws/874223/Europese-beurzen-scherpen-records-aan.aspx",
+    "intro": "De Europese beurzen zijn maandag met nieuwe records geëindigd, hoewel de olieprijzen en rentes weer opliepen.",
+    "published_at": "2026-08-10 18:44",
+    "scraped_at": "2026-08-10T17:39:01.296722"
+  },
+  {
     "id": "9d914b136cb638a1b8fde674ec653330",
     "categorie": "Beursnieuws",
     "titel": "AEX kruipt naar record",
     "link": "https://www.beurs.nl/Nieuws/874212/AEX-kruipt-naar-record.aspx",
     "intro": "De Amsterdamse beurs is maandag gestegen naar een nieuw record, met hulp van de oliesector, nadat de olieprijs opliep na de bekendmaking van Iraanse eisen, die twijfels bij beleggers versterken over een snelle heropening van de Straat van Hormuz.",
     "published_at": "2026-08-10 17:54",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   },
   {
     "id": "73e2d393128af8a6ab8b1c601a4a596b",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/874205/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 18 augustus 2026:",
     "published_at": "2026-08-10 16:32",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   },
   {
     "id": "2ebcbaa481b15ff1416a9554b12b059a",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874203/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 18 augustus 2026:",
     "published_at": "2026-08-10 16:31",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   },
   {
     "id": "1985b0ce80acab7b64d0398dc13d57d1",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874204/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 18 augustus 2026:",
     "published_at": "2026-08-10 16:31",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   },
   {
     "id": "980acc258fbc48c435b78fff38fcabfb",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874192/Meer-winst-voorspeld-voor-ABN-AMRO.aspx",
     "intro": "ABN AMRO zal in het tweede kwartaal fors meer winst boeken, dankzij sterk stijgende fee-inkomsten en eveneens stijgende rentebaten, terwijl de kosten stabiel blijven.  Dat blijkt uit een consensusverwachting van analisten die werd samengesteld door de bank zelf.",
     "published_at": "2026-08-10 14:55",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   },
   {
     "id": "d93ff08def8abd45ca2e9ed686d64de4",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874191/Wall-Street-maakt-zich-op-voor-vlakke-start.aspx",
     "intro": "De Amerikaanse beurzen zullen maandag naar verwachting rustig openen. Beleggers focussen zich komende week op belangrijke macrocijfers en zullen nieuws uit het Midden-Oosten nauwgezet in de gaten houden.",
     "published_at": "2026-08-10 14:51",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   },
   {
     "id": "96cfc73243442cb679601e40912661a2",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874185/Chippers-aan-kop-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde maandagmiddag hoger en nipt onder zijn recordstand, die vorige week woensdag werd bereikt.",
     "published_at": "2026-08-10 14:03",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   },
   {
     "id": "8ab1ff6d1716dad93103b0f27d829842",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874184/TSMC-boekt-versnelde-omzetgroei-in-juli.aspx",
     "intro": "Taiwan Semiconductor Manufacturing Company heeft in juli een omzet geboekt van 467,58 miljard Taiwanese dollar, omgerekend 14,50 miljard dollar. Dit maakte de Taiwanese chipfabrikant maandag bekend.",
     "published_at": "2026-08-10 13:55",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   },
   {
     "id": "1b20ef17b093c53749ccaa6a53980b6d",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874180/Futures-op-Wall-Street-wijzen-op-matte-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een zo goed als matte opening tegemoet. Beleggers wachten komende week op belangrijke macrocijfers en meer nieuws uit het Midden-Oosten.",
     "published_at": "2026-08-10 12:50",
-    "scraped_at": "2026-08-10T16:36:53.024949"
-  },
-  {
-    "id": "6952d9bbcd74147aa1b719dd9f29322e",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen blijven dicht bij huis",
-    "link": "https://www.beurs.nl/Nieuws/874176/Europese-beurzen-blijven-dicht-bij-huis.aspx",
-    "intro": "De Europese beurzen noteerden maandag rond het middaguur vlak, terwijl beleggers wachtten op een akkoord tussen Iran en Oman rond de Straat van Hormuz en inflatiecijfers in de VS later deze week.",
-    "published_at": "2026-08-10 12:38",
-    "scraped_at": "2026-08-10T16:36:53.024949"
+    "scraped_at": "2026-08-10T17:39:01.296722"
   }
 ]
