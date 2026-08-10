@@ -1,12 +1,48 @@
 [
   {
+    "id": "6b3af6176d4c3fadb220b7ad9be47974",
+    "categorie": "Beursnieuws",
+    "titel": "Rocket Lab vestigt zich in Duitsland",
+    "link": "https://www.beurs.nl/Nieuws/874236/Rocket-Lab-vestigt-zich-in-Duitsland.aspx",
+    "intro": "Rocket Lab heeft meer omzet geboekt in het tweede kwartaal, terwijl het verlies terugliep. Dit meldde het Amerikaanse ruimtevaartbedrijf maandagavond laat in een persbericht, waarin het ook een plan aankondigde om een vestiging te openen in Duitsland.",
+    "published_at": "2026-08-10 23:05",
+    "scraped_at": "2026-08-10T21:26:49.020886"
+  },
+  {
+    "id": "8cb8346500bbb65fc98bdd7ffeccebfa",
+    "categorie": "Beursnieuws",
+    "titel": "Hims & Hers verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/874235/Hims-Hers-verhoogt-outlook.aspx",
+    "intro": "Hims  Hers Health is in het tweede kwartaal in de rode cijfers gedoken, maar de outlook werd wel verhoogd. Dit bleek maandagavond uit de cijfers van het Amerikaanse gezondheidsplatform.",
+    "published_at": "2026-08-10 22:51",
+    "scraped_at": "2026-08-10T21:26:49.020886"
+  },
+  {
+    "id": "8466a58266d9b8b23dd092198d53d0b0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/874234/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten en vier hoger, waardoor de index per saldo iets lager uitkwam.",
+    "published_at": "2026-08-10 22:36",
+    "scraped_at": "2026-08-10T21:26:49.020886"
+  },
+  {
+    "id": "8d5e6e8ca4ba458067a60a008c32baf3",
+    "categorie": "Beursnieuws",
+    "titel": "Lakefront Biotherapeutics ziet kosten flink teruglopen",
+    "link": "https://www.beurs.nl/Nieuws/874233/Lakefront-Biotherapeutics-ziet-kosten-flink-teruglopen.aspx",
+    "intro": "Lakefront Biotherapeutics heeft de kosten in de eerste jaarhelft flink zien teruglopen, door onder meer de afbouw van de celtherapieactiviteiten. Dit bleek maandag nabeurs uit de resultaten van het Belgisch-Nederlandse biotechbedrijf, dat eerder bekend was als Galapagos.",
+    "published_at": "2026-08-10 22:31",
+    "scraped_at": "2026-08-10T21:26:49.020886"
+  },
+  {
     "id": "9339732724b7d407683c0b096ff44c69",
     "categorie": "Beursnieuws",
     "titel": "Wall Street neemt gas terug",
     "link": "https://www.beurs.nl/Nieuws/874230/Wall-Street-neemt-gas-terug.aspx",
     "intro": "De Amerikaanse beurzen zijn maandag licht lager geëindigd.",
     "published_at": "2026-08-10 22:11",
-    "scraped_at": "2026-08-10T20:25:33.746936"
+    "scraped_at": "2026-08-10T21:26:49.020886"
   },
   {
     "id": "825ef3efd285e222f28a03b534ee048f",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874229/NEPI-Rockcastle-sluit-groene-lening-af.aspx",
     "intro": "NE Property heeft een groene termijnlening van 250 miljoen euro afgesloten met de Europese Bank voor Wederopbouw en Ontwikkeling. Dit meldde moederbedrijf NEPI Rockcastle maandagavond.",
     "published_at": "2026-08-10 22:02",
-    "scraped_at": "2026-08-10T20:25:33.746936"
+    "scraped_at": "2026-08-10T21:26:49.020886"
   },
   {
     "id": "2a3264e4a6a673a7541a383f1ef74c19",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874227/Olieprijs-stijgt-flink-door-onzekerheid-over-Hormuz.aspx",
     "intro": "De olieprijs is maandag ruim 5 procent gestegen, als gevolg van de aanhoudende onzekerheid over een akkoord om de Straat van Hormuz weer open te stellen voor de commerciële scheepvaart.",
     "published_at": "2026-08-10 21:04",
-    "scraped_at": "2026-08-10T20:25:33.746936"
+    "scraped_at": "2026-08-10T21:26:49.020886"
   },
   {
     "id": "300da5f11d0cb5f8f96c0574cfd7d27a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874224/Wall-Street-koerst-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden maandag licht lager met nog een paar uur handel te gaan.",
     "published_at": "2026-08-10 19:36",
-    "scraped_at": "2026-08-10T20:25:33.746936"
+    "scraped_at": "2026-08-10T21:26:49.020886"
   },
   {
     "id": "7f8673cfb7fe8c4a137b1a5a3f880949",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874223/Europese-beurzen-scherpen-records-aan.aspx",
     "intro": "De Europese beurzen zijn maandag met nieuwe records geëindigd, hoewel de olieprijzen en rentes weer opliepen.",
     "published_at": "2026-08-10 18:44",
-    "scraped_at": "2026-08-10T20:25:33.746936"
+    "scraped_at": "2026-08-10T21:26:49.020886"
   },
   {
     "id": "9d914b136cb638a1b8fde674ec653330",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874212/AEX-kruipt-naar-record.aspx",
     "intro": "De Amsterdamse beurs is maandag gestegen naar een nieuw record, met hulp van de oliesector, nadat de olieprijs opliep na de bekendmaking van Iraanse eisen, die twijfels bij beleggers versterken over een snelle heropening van de Straat van Hormuz.",
     "published_at": "2026-08-10 17:54",
-    "scraped_at": "2026-08-10T20:25:33.746936"
-  },
-  {
-    "id": "73e2d393128af8a6ab8b1c601a4a596b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/874205/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 18 augustus 2026:",
-    "published_at": "2026-08-10 16:32",
-    "scraped_at": "2026-08-10T20:25:33.746936"
-  },
-  {
-    "id": "2ebcbaa481b15ff1416a9554b12b059a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/874203/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 18 augustus 2026:",
-    "published_at": "2026-08-10 16:31",
-    "scraped_at": "2026-08-10T20:25:33.746936"
-  },
-  {
-    "id": "1985b0ce80acab7b64d0398dc13d57d1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/874204/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 18 augustus 2026:",
-    "published_at": "2026-08-10 16:31",
-    "scraped_at": "2026-08-10T20:25:33.746936"
-  },
-  {
-    "id": "980acc258fbc48c435b78fff38fcabfb",
-    "categorie": "Beursnieuws",
-    "titel": "Meer winst voorspeld voor ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/874192/Meer-winst-voorspeld-voor-ABN-AMRO.aspx",
-    "intro": "ABN AMRO zal in het tweede kwartaal fors meer winst boeken, dankzij sterk stijgende fee-inkomsten en eveneens stijgende rentebaten, terwijl de kosten stabiel blijven.  Dat blijkt uit een consensusverwachting van analisten die werd samengesteld door de bank zelf.",
-    "published_at": "2026-08-10 14:55",
-    "scraped_at": "2026-08-10T20:25:33.746936"
+    "scraped_at": "2026-08-10T21:26:49.020886"
   }
 ]
