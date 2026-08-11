@@ -1,12 +1,21 @@
 [
   {
+    "id": "73e1cdd1142a1d84984de8532a58028a",
+    "categorie": "Beursnieuws",
+    "titel": "Intel verhoogt aandelenuitgifte naar 20 miljard",
+    "link": "https://www.beurs.nl/Nieuws/874278/Intel-verhoogt-aandelenuitgifte-naar-20-miljard.aspx",
+    "intro": "Intel wil 20 miljard dollar ophalen via een openbare aandelenuitgifte van 210,5 miljoen aandelen, tegen een prijs van 95,00 dollar per aandeel. Dit maakte de Amerikaanse chipfabrikant dinsdag bekend.",
+    "published_at": "2026-08-11 10:38",
+    "scraped_at": "2026-08-11T09:44:24.125228"
+  },
+  {
     "id": "df407d8f865fb424fa8a1a9b6efe539a",
     "categorie": "IEX",
     "titel": "Must read: Woningmarkt komt tot rust",
     "link": "https://www.iex.nl/artikel/874159/Must-read-Woningmarkt-komt-tot-rust.aspx",
     "intro": "Plus: Europese groei verdampt door zomerhitte, koerswinst is terecht, nieuwe ruimtehype dient zich aan, financiële hulp aan Oekraïne is ongelijk verdeeld, en meer.",
     "published_at": "2026-08-11 10:00",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   },
   {
     "id": "711833b922aa47eddfd60fe46a6060f5",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/874274/Groei-Adyen-blijft-naar-verwachting-boven-20-procent.aspx",
     "intro": "Adyen zal donderdag een groei van de betaalvolumes met meer dan 20 procent in het tweede kwartaal bekendmaken. Dit is de verwachting van analisten in aanloop naar de resultaten.",
     "published_at": "2026-08-11 09:39",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   },
   {
     "id": "3f0155d5072a176f17f1ed374918c96a",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874266/AEX-licht-hoger-van-start-gegaan-TKH-smaakmaker-in-de-Midkap.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong 0,3 procent hoger naar 1.116,07 punten, terwijl de Midkap 0,6 procent won.",
     "published_at": "2026-08-11 09:14",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   },
   {
     "id": "2795d6c797e56c863d53624340f869b9",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874264/Jefferies-verhoogt-koersdoel-Unilever-licht.aspx",
     "intro": "Jefferies heeft zijn koersdoel voor Unilever verhoogd van 38,00 naar 39,00 pond, of 46,00 euro, na de halfjaarcijfers, en blijft daarmee zo'n 16 procent onder de huidige koers. Het Underperform-advies blijft echter ongewijzigd. Dat bleek dinsdag uit een analistenrapport.",
     "published_at": "2026-08-11 08:53",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   },
   {
     "id": "e279e6600665823c669e99c59aa6e58e",
@@ -42,7 +51,7 @@
     "link": "https://www.ieximpact.nl/artikel/874153/Europese-economische-groei-in-2026-verdampt-door-extreme-zomerhitte.aspx",
     "intro": "Triodos Bank schat dat het extreme zomerweer het EU-bbp in 2026 met ongeveer 1% kan verminderen, wat neerkomt op een schade van ongeveer €180 miljard. Het zou de eerder voorspelde groei voor het jaar geheel tenietdoen.",
     "published_at": "2026-08-11 08:50",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   },
   {
     "id": "5db31a883daa4bf895c8bcea2b1fd7c3",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874261/Jefferies-positief-over-TKH-na-cijfers.aspx",
     "intro": "Jefferies blijft positief over TKH Group, na de bekendmaking van de halfjaarcijfers van het technologieconcern. Dit bleek uit een update van analist David Kerstens.",
     "published_at": "2026-08-11 08:27",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   },
   {
     "id": "aaec0f3f7697ad6320d84715ee66eb58",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874260/Exor-mag-belang-in-Philips-verder-uitbouwen.aspx",
     "intro": "Grootaandeelhouder Exor kan zijn belang in Philips vergroten tot maximaal 22 procent, in plaats van de huidige grens van 20 procent, met de mogelijkheid om verder te gaan met toestemming van de raad van commissarissen van de fabrikant van medische apparatuur. Dat maakten de twee bedrijven dinsdagochtend bekend.",
     "published_at": "2026-08-11 08:15",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   },
   {
     "id": "77a4f0e52420b1c76c210524ef61d463",
@@ -69,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/874143/AEX-opent-lager-en-Nvidia-zag-even-130-miljard-in-rook-opgaan.aspx",
     "intro": "Take a bow TKH! Het rapporteert een enorme winstsprong.",
     "published_at": "2026-08-11 08:00",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   },
   {
     "id": "47c3c7519f586a89b707b352329bec1f",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874257/AEX-start-handelsdag-waarschijnlijk-afwachtend-na-aanscherpen-record.aspx",
     "intro": "De Amsterdamse beurs gaat maandag naar verwachting vrij neutraal van start. Futures op de AEX index kwamen ongeveer een uur voor de beursgong nog niet van hun plaats.",
     "published_at": "2026-08-11 07:58",
-    "scraped_at": "2026-08-11T08:38:40.897620"
-  },
-  {
-    "id": "21809bcf171346606a15714a92274945",
-    "categorie": "Beursnieuws",
-    "titel": "Prijsstijging Nederlandse koopwoningen vlakt verder af",
-    "link": "https://www.beurs.nl/Nieuws/874256/Prijsstijging-Nederlandse-koopwoningen-vlakt-verder-af.aspx",
-    "intro": "De prijzen van bestaande koopwoningen in Nederland zijn in het tweede kwartaal gestegen, vooral in het oosten en noorden van het land, net als in het eerste kwartaal. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
-    "published_at": "2026-08-11 07:57",
-    "scraped_at": "2026-08-11T08:38:40.897620"
+    "scraped_at": "2026-08-11T09:44:24.125228"
   }
 ]
