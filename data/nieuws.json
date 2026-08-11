@@ -1,12 +1,30 @@
 [
   {
+    "id": "de2ec36466605bbbd28f74896a4dedad",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers helpen AEX record aan te scherpen",
+    "link": "https://www.beurs.nl/Nieuws/874342/Chippers-helpen-AEX-record-aan-te-scherpen.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd en wist met hulp van de halfgeleideraandelen zijn record aan te scherpen.",
+    "published_at": "2026-08-11 17:52",
+    "scraped_at": "2026-08-11T16:40:08.452091"
+  },
+  {
+    "id": "02ab2ccac901cac7df28ea30fb4d2bf2",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus wil Pedro Arnt als onafhankelijk bestuurder",
+    "link": "https://www.beurs.nl/Nieuws/874334/Prosus-wil-Pedro-Arnt-als-onafhankelijk-bestuurder.aspx",
+    "intro": "De raad van bestuur van Prosus heeft besloten om Pedro Arnt tijdens een nog nader te plannen aandeelhoudersvergadering voor te dragen als onafhankelijk niet-uitvoerend bestuurder, alsmede als lid van de audit- en risicocomités. Dit meldde het bedrijf dinsdag.",
+    "published_at": "2026-08-11 17:28",
+    "scraped_at": "2026-08-11T16:40:08.452091"
+  },
+  {
     "id": "3b8ff5bc1b6e2300c386d452e9d5d152",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
     "link": "https://www.beurs.nl/Nieuws/874326/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 19 augustus 2026:",
     "published_at": "2026-08-11 16:26",
-    "scraped_at": "2026-08-11T15:26:31.324683"
+    "scraped_at": "2026-08-11T16:40:08.452091"
   },
   {
     "id": "9debc04bd96f16466ff17553e94cf145",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874327/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 19 augustus 2026:",
     "published_at": "2026-08-11 16:26",
-    "scraped_at": "2026-08-11T15:26:31.324683"
+    "scraped_at": "2026-08-11T16:40:08.452091"
   },
   {
     "id": "800415758b878fbe1ba9e2143dc1284f",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874325/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 19 augustus 2026:",
     "published_at": "2026-08-11 16:25",
-    "scraped_at": "2026-08-11T15:26:31.324683"
+    "scraped_at": "2026-08-11T16:40:08.452091"
   },
   {
     "id": "8713025f35debf855ae6b1b57e97edd9",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874322/Hogere-hypotheekrente-drukt-bestaande-woningverkopen-VS.aspx",
     "intro": "De verkoop van bestaande woningen in de Verenigde Staten is in juli gedaald, maar wel iets minder dan verwacht. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-08-11 16:07",
-    "scraped_at": "2026-08-11T15:26:31.324683"
+    "scraped_at": "2026-08-11T16:40:08.452091"
   },
   {
     "id": "179899a5bac6307317ecfbb6079dded0",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874311/Wall-Street-op-weg-naar-hogere-start.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet. Beleggers bleven voorzichtig in aanloop naar inflatiecijfers die morgen staan geagendeerd, maar leken gerustgesteld door een stabilisering van de olieprijs, nadat maandag de twijfel over een spoedige oplossing rond de Straat van Hormuz terugkeerde.",
     "published_at": "2026-08-11 14:59",
-    "scraped_at": "2026-08-11T15:26:31.324683"
+    "scraped_at": "2026-08-11T16:40:08.452091"
   },
   {
     "id": "99c71864b2bf6aacfe845cb01803ea57",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874293/Damrak-stijgt-verder.aspx",
     "intro": "De Amsterdamse beurzen noteren dinsdagmiddag op nieuwe recordstand, na het record dat maandag aan het slot werd neergezet, geholpen door koerswinsten voor de chipindustriebedrijven en de oliesector.",
     "published_at": "2026-08-11 14:14",
-    "scraped_at": "2026-08-11T15:26:31.324683"
+    "scraped_at": "2026-08-11T16:40:08.452091"
   },
   {
     "id": "8c460c432c6c1326815b959929f976b6",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874291/KBC-positief-over-cijfers-TKH.aspx",
     "intro": "KBC Securities blijft positief over TKH Group, na de sterke halfjaarcijfers voor de divisies Vision Technology en Elektrificatie. Dit bleek dinsdag uit een update van de Belgische bank.",
     "published_at": "2026-08-11 13:42",
-    "scraped_at": "2026-08-11T15:26:31.324683"
+    "scraped_at": "2026-08-11T16:40:08.452091"
   },
   {
     "id": "b821b1daba1cabcd8947bea784065ab6",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874289/Futures-Wall-Street-wijzen-voorzichtig-omhoog.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een licht hogere opening tegemoet. Beleggers bleven voorzichtig in aanloop naar inflatiecijfers en in afwachting van ontwikkelingen in het Midden-Oosten rond de Straat van Hormuz.",
     "published_at": "2026-08-11 13:17",
-    "scraped_at": "2026-08-11T15:26:31.324683"
-  },
-  {
-    "id": "9e85b8b46f87dd8432afa35f54fdbe40",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers verder toegenomen",
-    "link": "https://www.beurs.nl/Nieuws/874288/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-verder-toegenomen.aspx",
-    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in juli verder toegenomen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
-    "published_at": "2026-08-11 12:35",
-    "scraped_at": "2026-08-11T15:26:31.324683"
-  },
-  {
-    "id": "43136f5f3d7203ef6acef27b6d90501b",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen licht lager rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/874287/Europese-beurzen-licht-lager-rond-middaguur.aspx",
-    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur licht lager, terwijl de rentes verder opliepen, doordat stijgende olieprijzen de inflatiezorgen aanwakkerden.",
-    "published_at": "2026-08-11 12:23",
-    "scraped_at": "2026-08-11T15:26:31.324683"
+    "scraped_at": "2026-08-11T16:40:08.452091"
   }
 ]
