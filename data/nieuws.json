@@ -1,12 +1,21 @@
 [
   {
+    "id": "fc1ad3e13e01deb46221214f68f99293",
+    "categorie": "Beursnieuws",
+    "titel": "Fietsenfabrikant Accell failliet verklaard",
+    "link": "https://www.beurs.nl/Nieuws/874350/Fietsenfabrikant-Accell-failliet-verklaard.aspx",
+    "intro": "Fietsenfabrikant Accell is door de rechtbank in Amsterdam failliet verklaard, nadat vorige week al uitstel van betaling werd verkregen voor zijn Nederlandse onderdelen. Dit meldden diverse media dinsdag op basis van uitspraken van de curatoren, terwijl Accell zelf nog niet heeft gereageerd.",
+    "published_at": "2026-08-11 19:50",
+    "scraped_at": "2026-08-11T18:39:08.128600"
+  },
+  {
     "id": "1cec299a257978678cf1913d1592fa88",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht af",
     "link": "https://www.beurs.nl/Nieuws/874348/Wall-Street-wacht-af.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag licht lager met nog een paar uur handel te gaan. Beleggers zijn in afwachting van belangrijke inflatiecijfers woensdagmiddag.",
     "published_at": "2026-08-11 19:35",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   },
   {
     "id": "abcf306ffefe7b5c0fdc5c09bf8c7456",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/874347/Sony-en-TSMC-slaan-handen-ineen.aspx",
     "intro": "Sony en TSMC willen een joint venture oprichten voor de productie van beeldsensoren van de volgende generatie smartphones. Dit werd dinsdag bekend.",
     "published_at": "2026-08-11 19:24",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   },
   {
     "id": "cd0357346cd5dc5c7e5985a4a5afaf28",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874346/Europese-beurzen-blijven-dicht-bij-records.aspx",
     "intro": "De Europese beurzen zijn dinsdag verdeeld geëindigd, maar wel met enkele records, terwijl de onzekerheid rond Hormuz aanhield.",
     "published_at": "2026-08-11 18:45",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   },
   {
     "id": "de2ec36466605bbbd28f74896a4dedad",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874342/Chippers-helpen-AEX-record-aan-te-scherpen.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd en wist met hulp van de halfgeleideraandelen zijn record aan te scherpen.",
     "published_at": "2026-08-11 17:52",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   },
   {
     "id": "02ab2ccac901cac7df28ea30fb4d2bf2",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874334/Prosus-wil-Pedro-Arnt-als-onafhankelijk-bestuurder.aspx",
     "intro": "De raad van bestuur van Prosus heeft besloten om Pedro Arnt tijdens een nog nader te plannen aandeelhoudersvergadering voor te dragen als onafhankelijk niet-uitvoerend bestuurder, alsmede als lid van de audit- en risicocomités. Dit meldde het bedrijf dinsdag.",
     "published_at": "2026-08-11 17:28",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   },
   {
     "id": "3b8ff5bc1b6e2300c386d452e9d5d152",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874326/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 19 augustus 2026:",
     "published_at": "2026-08-11 16:26",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   },
   {
     "id": "9debc04bd96f16466ff17553e94cf145",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874327/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 19 augustus 2026:",
     "published_at": "2026-08-11 16:26",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   },
   {
     "id": "800415758b878fbe1ba9e2143dc1284f",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874325/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 19 augustus 2026:",
     "published_at": "2026-08-11 16:25",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   },
   {
     "id": "8713025f35debf855ae6b1b57e97edd9",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874322/Hogere-hypotheekrente-drukt-bestaande-woningverkopen-VS.aspx",
     "intro": "De verkoop van bestaande woningen in de Verenigde Staten is in juli gedaald, maar wel iets minder dan verwacht. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-08-11 16:07",
-    "scraped_at": "2026-08-11T17:43:49.882405"
-  },
-  {
-    "id": "179899a5bac6307317ecfbb6079dded0",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street op weg naar hogere start",
-    "link": "https://www.beurs.nl/Nieuws/874311/Wall-Street-op-weg-naar-hogere-start.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet. Beleggers bleven voorzichtig in aanloop naar inflatiecijfers die morgen staan geagendeerd, maar leken gerustgesteld door een stabilisering van de olieprijs, nadat maandag de twijfel over een spoedige oplossing rond de Straat van Hormuz terugkeerde.",
-    "published_at": "2026-08-11 14:59",
-    "scraped_at": "2026-08-11T17:43:49.882405"
+    "scraped_at": "2026-08-11T18:39:08.128600"
   }
 ]
