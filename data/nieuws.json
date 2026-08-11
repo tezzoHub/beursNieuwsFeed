@@ -1,12 +1,30 @@
 [
   {
+    "id": "8b04476836aefe08ca016508a0809117",
+    "categorie": "Beursnieuws",
+    "titel": "Recordomzet voor CoreWeave",
+    "link": "https://www.beurs.nl/Nieuws/874365/Recordomzet-voor-CoreWeave.aspx",
+    "intro": "CoreWeave heeft in het tweede kwartaal een recordomzet geboekt, terwijl de orderportefeuille steeg naar 104 miljard dollar, wat wijst op de aanhoudend sterke vraag naar rekenkracht voor kunstmatige intelligentie. Dit bleek dinsdagavond uit de cijfers van het Amerikaanse cloudcomputingbedrijf.",
+    "published_at": "2026-08-11 22:52",
+    "scraped_at": "2026-08-11T21:30:22.404343"
+  },
+  {
+    "id": "d89ffe118aba1bc706d7b86e9ea1d53e",
+    "categorie": "Beursnieuws",
+    "titel": "Super Micro profiteert van AI-hype",
+    "link": "https://www.beurs.nl/Nieuws/874364/Super-Micro-profiteert-van-AI-hype.aspx",
+    "intro": "Super Micro Computer heeft in het vierde kwartaal van zijn gebroken boekjaar veel hogere resultaten geboekt, terwijl de orderportefeuille naar een recordniveau is gestegen. Dit bleek dinsdagavond uit de cijfers van het Amerikaanse AI-bedrijf.",
+    "published_at": "2026-08-11 22:37",
+    "scraped_at": "2026-08-11T21:30:22.404343"
+  },
+  {
     "id": "18c003e10d849ebd9b46c4700945e08c",
     "categorie": "Beursnieuws",
     "titel": "Beursupdate: AEX op Wall Street",
     "link": "https://www.beurs.nl/Nieuws/874361/Beursupdate-AEX-op-Wall-Street.aspx",
     "intro": "Op Wall Street zijn dinsdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
     "published_at": "2026-08-11 22:20",
-    "scraped_at": "2026-08-11T20:28:48.723445"
+    "scraped_at": "2026-08-11T21:30:22.404343"
   },
   {
     "id": "0a0406d9b400692983363d9febf7f3ef",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874360/Wall-Street-levert-in-terwijl-hoop-op-Hormuz-deal-vervliegt.aspx",
     "intro": "De Amerikaanse beurzen zijn dinsdag lager geëindigd, terwijl de hoop afnam op een snelle deal om de Straat van Hormuz te heropenen. Verder waren beleggers in afwachting van belangrijke inflatiecijfers woensdagmiddag.",
     "published_at": "2026-08-11 22:15",
-    "scraped_at": "2026-08-11T20:28:48.723445"
+    "scraped_at": "2026-08-11T21:30:22.404343"
   },
   {
     "id": "13b5f94b21186fc2c8383dc1eef9ed09",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874351/Olieprijs-stijgt-verder.aspx",
     "intro": "De olieprijs is dinsdag verder gestegen tijdens een wisselvallige sessie, terwijl de situatie rond de Straat van Hormuz nog steeds de richting van de markten bepaalt.",
     "published_at": "2026-08-11 21:07",
-    "scraped_at": "2026-08-11T20:28:48.723445"
+    "scraped_at": "2026-08-11T21:30:22.404343"
   },
   {
     "id": "fc1ad3e13e01deb46221214f68f99293",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874350/Fietsenfabrikant-Accell-failliet-verklaard.aspx",
     "intro": "Fietsenfabrikant Accell is door de rechtbank in Amsterdam failliet verklaard, nadat vorige week al uitstel van betaling werd verkregen voor zijn Nederlandse onderdelen. Dit meldden diverse media dinsdag op basis van uitspraken van de curatoren, terwijl Accell zelf nog niet heeft gereageerd.",
     "published_at": "2026-08-11 19:50",
-    "scraped_at": "2026-08-11T20:28:48.723445"
+    "scraped_at": "2026-08-11T21:30:22.404343"
   },
   {
     "id": "1cec299a257978678cf1913d1592fa88",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874348/Wall-Street-wacht-af.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag licht lager met nog een paar uur handel te gaan. Beleggers zijn in afwachting van belangrijke inflatiecijfers woensdagmiddag.",
     "published_at": "2026-08-11 19:35",
-    "scraped_at": "2026-08-11T20:28:48.723445"
+    "scraped_at": "2026-08-11T21:30:22.404343"
   },
   {
     "id": "abcf306ffefe7b5c0fdc5c09bf8c7456",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874347/Sony-en-TSMC-slaan-handen-ineen.aspx",
     "intro": "Sony en TSMC willen een joint venture oprichten voor de productie van beeldsensoren van de volgende generatie smartphones. Dit werd dinsdag bekend.",
     "published_at": "2026-08-11 19:24",
-    "scraped_at": "2026-08-11T20:28:48.723445"
+    "scraped_at": "2026-08-11T21:30:22.404343"
   },
   {
     "id": "cd0357346cd5dc5c7e5985a4a5afaf28",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874346/Europese-beurzen-blijven-dicht-bij-records.aspx",
     "intro": "De Europese beurzen zijn dinsdag verdeeld geëindigd, maar wel met enkele records, terwijl de onzekerheid rond Hormuz aanhield.",
     "published_at": "2026-08-11 18:45",
-    "scraped_at": "2026-08-11T20:28:48.723445"
+    "scraped_at": "2026-08-11T21:30:22.404343"
   },
   {
     "id": "de2ec36466605bbbd28f74896a4dedad",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874342/Chippers-helpen-AEX-record-aan-te-scherpen.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd en wist met hulp van de halfgeleideraandelen zijn record aan te scherpen.",
     "published_at": "2026-08-11 17:52",
-    "scraped_at": "2026-08-11T20:28:48.723445"
-  },
-  {
-    "id": "02ab2ccac901cac7df28ea30fb4d2bf2",
-    "categorie": "Beursnieuws",
-    "titel": "Prosus wil Pedro Arnt als onafhankelijk bestuurder",
-    "link": "https://www.beurs.nl/Nieuws/874334/Prosus-wil-Pedro-Arnt-als-onafhankelijk-bestuurder.aspx",
-    "intro": "De raad van bestuur van Prosus heeft besloten om Pedro Arnt tijdens een nog nader te plannen aandeelhoudersvergadering voor te dragen als onafhankelijk niet-uitvoerend bestuurder, alsmede als lid van de audit- en risicocomités. Dit meldde het bedrijf dinsdag.",
-    "published_at": "2026-08-11 17:28",
-    "scraped_at": "2026-08-11T20:28:48.723445"
-  },
-  {
-    "id": "3b8ff5bc1b6e2300c386d452e9d5d152",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/874326/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 19 augustus 2026:",
-    "published_at": "2026-08-11 16:26",
-    "scraped_at": "2026-08-11T20:28:48.723445"
+    "scraped_at": "2026-08-11T21:30:22.404343"
   }
 ]
