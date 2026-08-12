@@ -1,92 +1,11 @@
 [
   {
-    "id": "33333fb870e048b1743d43686b475501",
+    "id": "5b266fcb8a7a5436421f1a76ae148e49",
     "categorie": "Beursnieuws",
-    "titel": "AI-industrie stuwt Wall Street weer op",
-    "link": "https://www.beurs.nl/Nieuws/874508/AI-industrie-stuwt-Wall-Street-weer-op.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag hoger nadat de inflatie in juli iets afkoelde.",
-    "published_at": "2026-08-12 22:35",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "c7996615a2a80adc4ba3e022173c66af",
-    "categorie": "Beursnieuws",
-    "titel": "Cisco overtreft verwachtingen",
-    "link": "https://www.beurs.nl/Nieuws/874507/Cisco-overtreft-verwachtingen.aspx",
-    "intro": "Cisco Systems heeft de verwachtingen overtroffen door sterke vraag naar AI.",
-    "published_at": "2026-08-12 22:26",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "f48f4083e37adfc66f464d728765b71b",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijs stabiel",
-    "link": "https://www.beurs.nl/Nieuws/874503/Olieprijs-stabiel.aspx",
-    "intro": "De olieprijs is woensdag weinig veranderd gesloten, in voorzichtige handel, terwijl de markt nog steeds focust op de Straat van Hormuz.",
-    "published_at": "2026-08-12 21:33",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "ea1460f876349f7b5d6aba2c8104ca9f",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street in de lift door AI-industrie",
-    "link": "https://www.beurs.nl/Nieuws/874500/Wall-Street-in-de-lift-door-AI-industrie.aspx",
-    "intro": "De Amerikaanse beurzen stonden woensdag hoger nadat de inflatie in juli iets afkoelde.",
-    "published_at": "2026-08-12 20:34",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "2658aad7e8c8a12d8b15956341f78038",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten lager",
-    "link": "https://www.beurs.nl/Nieuws/874498/Europese-beurzen-sluiten-lager.aspx",
-    "intro": "De Europese beurzen zijn woensdag lager gesloten, nadat Amerikaanse inflatiecijfers geen opluchting boden voor beleggers die toekomstige renteverhogingen van de Federal Reserve vrezen.",
-    "published_at": "2026-08-12 19:13",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "c6de2f5817cf312c6cea43fcb53911ac",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit lager",
-    "link": "https://www.beurs.nl/Nieuws/874494/AEX-sluit-lager.aspx",
-    "intro": "De Amsterdamse beurs is woensdag lager gesloten, nadat beleggers vanuit de VS belangrijke inflatiecijfers te verwerken kregen.",
-    "published_at": "2026-08-12 17:51",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "8a1dedae844f89fddf65833dd46515b6",
-    "categorie": "IEX",
-    "titel": "Slotcall: na goede Amerikaanse inflatiecijfers gaat het toch fout",
-    "link": "https://www.iex.nl/artikel/874491/Slotcall-na-goede-Amerikaanse-inflatiecijfers-gaat-het-toch-fout.aspx",
-    "intro": "De AEX stond tot aan de Amerikaanse inflatiecijfers nog redelijk overeind, maar daarna ging het alsnog bergafwaarts. De AEX-index sluit 0,4% lager rond 1.112 punten.",
-    "published_at": "2026-08-12 17:35",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "5fd4c56089bb5a870b7551bfd3a90a37",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden sterk toegenomen",
-    "link": "https://www.beurs.nl/Nieuws/874490/Amerikaanse-olievoorraden-sterk-toegenomen.aspx",
-    "intro": "Met 17,4 miljoen vaten.",
-    "published_at": "2026-08-12 16:51",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "71b80e3096dee63feb13eb955231e65d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/874488/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 20 augustus 2026:",
-    "published_at": "2026-08-12 16:45",
-    "scraped_at": "2026-08-12T22:25:09.861006"
-  },
-  {
-    "id": "0ec36d22149592e122453392e7042d5d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/874486/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 20 augustus 2026:",
-    "published_at": "2026-08-12 16:44",
-    "scraped_at": "2026-08-12T22:25:09.861006"
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/874512/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten. Er waren geen sterke bewegingenuitslagen waren klein.",
+    "published_at": "2026-08-13 00:36",
+    "scraped_at": "2026-08-12T23:10:40.309507"
   }
 ]
