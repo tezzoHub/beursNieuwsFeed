@@ -1,12 +1,21 @@
 [
   {
+    "id": "fcd1fcfa6ee234bbf4c432375705720f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: vlak Damrak in afwachting van inflatiecijfers",
+    "link": "https://www.beurs.nl/Nieuws/874458/Beursblik-vlak-Damrak-in-afwachting-van-inflatiecijfers.aspx",
+    "intro": "De Amsterdamse beurs bleef woensdagmiddag dicht bij huis in afwachting van inflatiecijfers uit de VS. Rond de klok van twee uur steeg de AEX fractioneel tot 1.116,93 punten.",
+    "published_at": "2026-08-12 13:58",
+    "scraped_at": "2026-08-12T12:34:02.235220"
+  },
+  {
     "id": "8375bef5e55819a26040f018ae9e2238",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht op inflatiecijfers",
     "link": "https://www.beurs.nl/Nieuws/874453/Wall-Street-wacht-op-inflatiecijfers.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,2 procent in het groen.",
     "published_at": "2026-08-12 13:03",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   },
   {
     "id": "9e8c4c216785c82524099d29c451998b",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/874449/Europese-beurzen-blijven-dicht-bij-huis.aspx",
     "intro": "De Europese beurzen toonden woensdag rond het middaguur een verdeeld beeld. Beleggers waren in afwachting van Amerikaanse inflatiecijfers later op de dag.",
     "published_at": "2026-08-12 12:37",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   },
   {
     "id": "c65e2faa6477465286c8d97b30b0ce02",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874448/Obligatie-Nederland-wil-tot-4-miljard-euro-ophalen.aspx",
     "intro": "Nederland wil maandag 17 augustus tot 4 miljard euro ophalen met de heropening van de kort lopende leningen. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
     "published_at": "2026-08-12 12:31",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   },
   {
     "id": "fdb34e022230a37f4f4039866ac20588",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874435/AI-uitgaven-drukken-winst-Tencent.aspx",
     "intro": "Tencent heeft in het tweede kwartaal een hogere omzet geboekt dan verwacht, dankzij een versnelling bij de Chinese gametak en AI-gedreven advertentie-inkomsten, maar de kernwinst bleef achter bij de verwachtingen van analisten. Dit bleek woensdag uit cijfers van de Chinese techreus, waarin het in Amsterdam genoteerde Prosus een flink belang heeft.",
     "published_at": "2026-08-12 11:43",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   },
   {
     "id": "889e79ec6a99f6192d0c07443ea0f7d8",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874432/ABN-Amro-trekt-de-kar-in-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs bleef woensdagochtend dicht bij huis. Rond de klok van half twaalf daalde de AEX fractioneel tot 1.116,29 punten.",
     "published_at": "2026-08-12 11:31",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   },
   {
     "id": "6d1e843e6b0be3c13879499187487ae8",
@@ -51,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/874423/Wordt-het-morgen-voorbeurs-alles-of-niks-bij-Adyen.aspx",
     "intro": "Bij Adyen is het rond cijfers vaak alles of niks. Morgen moet blijken of de groei sterk genoeg blijft om het recente koersherstel verder te voeden.",
     "published_at": "2026-08-12 11:00",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   },
   {
     "id": "bb3058d0c24c53af539a61a3ad115f1d",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874428/Jefferies-ziet-herstel-ABN-AMRO-bevestigd.aspx",
     "intro": "De kwartaalcijfers van ABN AMRO zijn een bevestiging van het winstherstel van de bank. Dit stelde analist Theo Massing van Jefferies woensdagochtend in een rapport.",
     "published_at": "2026-08-12 10:48",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   },
   {
     "id": "3f15674211bdf9fda4c3062e39147971",
@@ -69,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/874331/Must-read-Total-eclipse-of-the-sun.aspx",
     "intro": "Plus: het Noorse staatsfonds belegt in SpaceX, economische groei in de Europese Unie verdampt door hitte. En werknemers bij ABN Amro worden geacht minimaal de helft van hun werktijd aanwezig te zijn op kantoor",
     "published_at": "2026-08-12 10:30",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   },
   {
     "id": "414e9c5f3e57e1af44ef8b95fdb13b00",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874424/IEA-voorziet-sterkere-krimp-oliemarkt-door-Hormuz-crisis.aspx",
     "intro": "De wereldwijde vraag naar olie krimpt dit jaar sterker dan eerder gedacht, nu de aanhoudende sluiting van de Straat van Hormuz het herstel van het aanbod verstoort en de brandstofprijzen opdrijft. Dit stelde het Internationaal Energieagentschap woensdag in zijn maandrapport.",
     "published_at": "2026-08-12 10:19",
-    "scraped_at": "2026-08-12T11:34:09.676054"
-  },
-  {
-    "id": "a1d4f9ac1b93ef8034f2949156644a98",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verhoogt koersdoel TKH fors",
-    "link": "https://www.beurs.nl/Nieuws/874417/Degroof-Petercam-verhoogt-koersdoel-TKH-fors.aspx",
-    "intro": "Degroof Petercam heeft het koersdoel voor TKH Group verhoogd van 55 naar 62 euro, met behoud van het koopadvies. Dit bleek woensdag uit een rapport van analist Michael Roeg.",
-    "published_at": "2026-08-12 09:30",
-    "scraped_at": "2026-08-12T11:34:09.676054"
+    "scraped_at": "2026-08-12T12:34:02.235220"
   }
 ]
