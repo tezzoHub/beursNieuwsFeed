@@ -1,12 +1,21 @@
 [
   {
+    "id": "2658aad7e8c8a12d8b15956341f78038",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten lager",
+    "link": "https://www.beurs.nl/Nieuws/874498/Europese-beurzen-sluiten-lager.aspx",
+    "intro": "De Europese beurzen zijn woensdag lager gesloten, nadat Amerikaanse inflatiecijfers geen opluchting boden voor beleggers die toekomstige renteverhogingen van de Federal Reserve vrezen.",
+    "published_at": "2026-08-12 19:13",
+    "scraped_at": "2026-08-12T17:44:33.395737"
+  },
+  {
     "id": "c6de2f5817cf312c6cea43fcb53911ac",
     "categorie": "Beursnieuws",
     "titel": "AEX sluit lager",
     "link": "https://www.beurs.nl/Nieuws/874494/AEX-sluit-lager.aspx",
     "intro": "De Amsterdamse beurs is woensdag lager gesloten, nadat beleggers vanuit de VS belangrijke inflatiecijfers te verwerken kregen.",
     "published_at": "2026-08-12 17:51",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   },
   {
     "id": "8a1dedae844f89fddf65833dd46515b6",
@@ -15,7 +24,7 @@
     "link": "https://www.iex.nl/artikel/874491/Slotcall-na-goede-Amerikaanse-inflatiecijfers-gaat-het-toch-fout.aspx",
     "intro": "De AEX stond tot aan de Amerikaanse inflatiecijfers nog redelijk overeind, maar daarna ging het alsnog bergafwaarts. De AEX-index sluit 0,4% lager rond 1.112 punten.",
     "published_at": "2026-08-12 17:35",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   },
   {
     "id": "5fd4c56089bb5a870b7551bfd3a90a37",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874490/Amerikaanse-olievoorraden-sterk-toegenomen.aspx",
     "intro": "Met 17,4 miljoen vaten.",
     "published_at": "2026-08-12 16:51",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   },
   {
     "id": "71b80e3096dee63feb13eb955231e65d",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874488/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 20 augustus 2026:",
     "published_at": "2026-08-12 16:45",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   },
   {
     "id": "0ec36d22149592e122453392e7042d5d",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874486/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 20 augustus 2026:",
     "published_at": "2026-08-12 16:44",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   },
   {
     "id": "66641d894d89ade2cb59531dd3c540d3",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874484/Beursblik-ABN-AMRO-bewijst-zich-als-favoriet-van-Citi.aspx",
     "intro": "De tweedekwartaalcijfers van ABN AMRO hebben woensdag laten zien waarom Citigroup het aandeel de laatste tijd heeft aangeprezen als bijzondere kans, op het terrein van kosten, kapitaalteruggave en rentebaten. Dat stelden analisten van de Amerikaanse bank woensdag in een rapport.",
     "published_at": "2026-08-12 16:42",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   },
   {
     "id": "9a9c4c42b520ef54845f0f9d97f49515",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874485/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 20 augustus 2026:",
     "published_at": "2026-08-12 16:42",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   },
   {
     "id": "6e81e21a04b4f0c1345234ca985c3954",
@@ -69,7 +78,7 @@
     "link": "https://www.ieximpact.nl/artikel/873108/Open-brief-Nationale-Investeringsinstelling-moet-zich-richten-op-duurzame-transitie.aspx",
     "intro": "Als Nederland zijn strategische positie en toekomstig verdienvermogen wil veiligstellen, is het noodzakelijk om nu te investeren in duurzame energie en circulaire economie. Dat kan via een Nationale Investeringsinstelling die het kabinet heeft besloten op te richten, zo stelt een brede coalitie van partijen uit de energie- en klimaatsector in een open brief.",
     "published_at": "2026-08-12 15:20",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   },
   {
     "id": "98ec7163d04320d33ca628a6670eac19",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874478/OPEC-stelt-verwachting-olievraag-opnieuw-neerwaarts-bij.aspx",
     "intro": "Oliekartel OPEC heeft de verwachting voor de groei van de wereldwijde olievraag voor dit jaar opnieuw verlaagd. Dat blijkt uit het maandrapport van de organisatie van olie-exporterende landen.",
     "published_at": "2026-08-12 15:11",
-    "scraped_at": "2026-08-12T16:39:31.773963"
-  },
-  {
-    "id": "eb7d7213418c6f91b3809fcd514deaa7",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street verwerkt inflatiecijfers",
-    "link": "https://www.beurs.nl/Nieuws/874475/Wall-Street-verwerkt-inflatiecijfers.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een licht hogere opening tegemoet, na inflatiecijfers die conform verwachting waren. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening 0,4 procent in het groen.",
-    "published_at": "2026-08-12 14:49",
-    "scraped_at": "2026-08-12T16:39:31.773963"
+    "scraped_at": "2026-08-12T17:44:33.395737"
   }
 ]
