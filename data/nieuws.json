@@ -1,92 +1,47 @@
 [
   {
-    "id": "8b04476836aefe08ca016508a0809117",
+    "id": "58ae0723bb6eec68daf1095bf485e2a3",
     "categorie": "Beursnieuws",
-    "titel": "Recordomzet voor CoreWeave",
-    "link": "https://www.beurs.nl/Nieuws/874365/Recordomzet-voor-CoreWeave.aspx",
-    "intro": "CoreWeave heeft in het tweede kwartaal een recordomzet geboekt, terwijl de orderportefeuille steeg naar 104 miljard dollar, wat wijst op de aanhoudend sterke vraag naar rekenkracht voor kunstmatige intelligentie. Dit bleek dinsdagavond uit de cijfers van het Amerikaanse cloudcomputingbedrijf.",
-    "published_at": "2026-08-11 22:52",
-    "scraped_at": "2026-08-12T03:01:01.014107"
+    "titel": "Europese beurzen op weg naar voorzichtige opening",
+    "link": "https://www.beurs.nl/Nieuws/874391/Europese-beurzen-op-weg-naar-voorzichtige-opening.aspx",
+    "intro": "De aandelenmarkten in Europa gaan woensdag naar verwachting een nagenoeg vlakke opening tegemoet, in afwachting van Amerikaanse inflatiecijfers later op de dag.",
+    "published_at": "2026-08-12 07:01",
+    "scraped_at": "2026-08-12T05:10:17.819700"
   },
   {
-    "id": "d89ffe118aba1bc706d7b86e9ea1d53e",
+    "id": "54411b0b569ec1a3c2ed3a034c8a1b1a",
     "categorie": "Beursnieuws",
-    "titel": "Super Micro profiteert van AI-hype",
-    "link": "https://www.beurs.nl/Nieuws/874364/Super-Micro-profiteert-van-AI-hype.aspx",
-    "intro": "Super Micro Computer heeft in het vierde kwartaal van zijn gebroken boekjaar veel hogere resultaten geboekt, terwijl de orderportefeuille naar een recordniveau is gestegen. Dit bleek dinsdagavond uit de cijfers van het Amerikaanse AI-bedrijf.",
-    "published_at": "2026-08-11 22:37",
-    "scraped_at": "2026-08-12T03:01:01.014107"
+    "titel": "Flink minder faillissementen in juli",
+    "link": "https://www.beurs.nl/Nieuws/874389/Flink-minder-faillissementen-in-juli.aspx",
+    "intro": "In juli zijn er in Nederland op jaarbasis 11 procent minder bedrijven failliet verklaard. Dit bleek woensdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-08-12 06:52",
+    "scraped_at": "2026-08-12T05:10:17.819700"
   },
   {
-    "id": "18c003e10d849ebd9b46c4700945e08c",
+    "id": "362064d622f603e9eb0486de51360b15",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/874361/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-08-11 22:20",
-    "scraped_at": "2026-08-12T03:01:01.014107"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/874386/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 19 augustus 2026:",
+    "published_at": "2026-08-12 06:46",
+    "scraped_at": "2026-08-12T05:10:17.819700"
   },
   {
-    "id": "0a0406d9b400692983363d9febf7f3ef",
+    "id": "9c9276ba6a539e85a0c43b8142917eec",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street levert in terwijl hoop op Hormuz-deal vervliegt",
-    "link": "https://www.beurs.nl/Nieuws/874360/Wall-Street-levert-in-terwijl-hoop-op-Hormuz-deal-vervliegt.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag lager geëindigd, terwijl de hoop afnam op een snelle deal om de Straat van Hormuz te heropenen. Verder waren beleggers in afwachting van belangrijke inflatiecijfers woensdagmiddag.",
-    "published_at": "2026-08-11 22:15",
-    "scraped_at": "2026-08-12T03:01:01.014107"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/874387/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 19 augustus 2026:",
+    "published_at": "2026-08-12 06:45",
+    "scraped_at": "2026-08-12T05:10:17.819700"
   },
   {
-    "id": "13b5f94b21186fc2c8383dc1eef9ed09",
+    "id": "42b8cb7fd6e1a1c96cff3d627e502ddf",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt verder",
-    "link": "https://www.beurs.nl/Nieuws/874351/Olieprijs-stijgt-verder.aspx",
-    "intro": "De olieprijs is dinsdag verder gestegen tijdens een wisselvallige sessie, terwijl de situatie rond de Straat van Hormuz nog steeds de richting van de markten bepaalt.",
-    "published_at": "2026-08-11 21:07",
-    "scraped_at": "2026-08-12T03:01:01.014107"
-  },
-  {
-    "id": "fc1ad3e13e01deb46221214f68f99293",
-    "categorie": "Beursnieuws",
-    "titel": "Fietsenfabrikant Accell failliet verklaard",
-    "link": "https://www.beurs.nl/Nieuws/874350/Fietsenfabrikant-Accell-failliet-verklaard.aspx",
-    "intro": "Fietsenfabrikant Accell is door de rechtbank in Amsterdam failliet verklaard, nadat vorige week al uitstel van betaling werd verkregen voor zijn Nederlandse onderdelen. Dit meldden diverse media dinsdag op basis van uitspraken van de curatoren, terwijl Accell zelf nog niet heeft gereageerd.",
-    "published_at": "2026-08-11 19:50",
-    "scraped_at": "2026-08-12T03:01:01.014107"
-  },
-  {
-    "id": "1cec299a257978678cf1913d1592fa88",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht af",
-    "link": "https://www.beurs.nl/Nieuws/874348/Wall-Street-wacht-af.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag licht lager met nog een paar uur handel te gaan. Beleggers zijn in afwachting van belangrijke inflatiecijfers woensdagmiddag.",
-    "published_at": "2026-08-11 19:35",
-    "scraped_at": "2026-08-12T03:01:01.014107"
-  },
-  {
-    "id": "abcf306ffefe7b5c0fdc5c09bf8c7456",
-    "categorie": "Beursnieuws",
-    "titel": "Sony en TSMC slaan handen ineen",
-    "link": "https://www.beurs.nl/Nieuws/874347/Sony-en-TSMC-slaan-handen-ineen.aspx",
-    "intro": "Sony en TSMC willen een joint venture oprichten voor de productie van beeldsensoren van de volgende generatie smartphones. Dit werd dinsdag bekend.",
-    "published_at": "2026-08-11 19:24",
-    "scraped_at": "2026-08-12T03:01:01.014107"
-  },
-  {
-    "id": "cd0357346cd5dc5c7e5985a4a5afaf28",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen blijven dicht bij records",
-    "link": "https://www.beurs.nl/Nieuws/874346/Europese-beurzen-blijven-dicht-bij-records.aspx",
-    "intro": "De Europese beurzen zijn dinsdag verdeeld geëindigd, maar wel met enkele records, terwijl de onzekerheid rond Hormuz aanhield.",
-    "published_at": "2026-08-11 18:45",
-    "scraped_at": "2026-08-12T03:01:01.014107"
-  },
-  {
-    "id": "de2ec36466605bbbd28f74896a4dedad",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers helpen AEX record aan te scherpen",
-    "link": "https://www.beurs.nl/Nieuws/874342/Chippers-helpen-AEX-record-aan-te-scherpen.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd en wist met hulp van de halfgeleideraandelen zijn record aan te scherpen.",
-    "published_at": "2026-08-11 17:52",
-    "scraped_at": "2026-08-12T03:01:01.014107"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/874388/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 19 augustus 2026:",
+    "published_at": "2026-08-12 06:45",
+    "scraped_at": "2026-08-12T05:10:17.819700"
   }
 ]
