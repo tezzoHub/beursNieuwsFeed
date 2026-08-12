@@ -1,12 +1,48 @@
 [
   {
-    "id": "927b2cab321221b853f45ed670649e72",
+    "id": "6d1e843e6b0be3c13879499187487ae8",
+    "categorie": "Beurs vandaag",
+    "titel": "Wordt het morgen voorbeurs alles of niks bij Adyen?",
+    "link": "https://www.iex.nl/artikel/874423/Wordt-het-morgen-voorbeurs-alles-of-niks-bij-Adyen.aspx",
+    "intro": "Bij Adyen is het rond cijfers vaak alles of niks. Morgen moet blijken of de groei sterk genoeg blijft om het recente koersherstel verder te voeden.",
+    "published_at": "2026-08-12 11:00",
+    "scraped_at": "2026-08-12T09:35:40.774768"
+  },
+  {
+    "id": "bb3058d0c24c53af539a61a3ad115f1d",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel TKH",
-    "link": "https://www.beurs.nl/Nieuws/874417/Beursblik-Degroof-Petercam-verhoogt-koersdoel-TKH.aspx",
+    "titel": "Jefferies ziet herstel ABN AMRO bevestigd",
+    "link": "https://www.beurs.nl/Nieuws/874428/Jefferies-ziet-herstel-ABN-AMRO-bevestigd.aspx",
+    "intro": "De kwartaalcijfers van ABN AMRO zijn een bevestiging van het winstherstel van de bank. Dit stelde analist Theo Massing van Jefferies woensdagochtend in een rapport.",
+    "published_at": "2026-08-12 10:48",
+    "scraped_at": "2026-08-12T09:35:40.774768"
+  },
+  {
+    "id": "3f15674211bdf9fda4c3062e39147971",
+    "categorie": "Must read",
+    "titel": "Must read: Total eclipse of the sun",
+    "link": "https://www.iex.nl/artikel/874331/Must-read-Total-eclipse-of-the-sun.aspx",
+    "intro": "Plus: het Noorse staatsfonds belegt in SpaceX, economische groei in de Europese Unie verdampt door hitte. En werknemers bij ABN Amro worden geacht minimaal de helft van hun werktijd aanwezig te zijn op kantoor",
+    "published_at": "2026-08-12 10:30",
+    "scraped_at": "2026-08-12T09:35:40.774768"
+  },
+  {
+    "id": "414e9c5f3e57e1af44ef8b95fdb13b00",
+    "categorie": "Beursnieuws",
+    "titel": "IEA voorziet sterkere krimp oliemarkt door Hormuz-crisis",
+    "link": "https://www.beurs.nl/Nieuws/874424/IEA-voorziet-sterkere-krimp-oliemarkt-door-Hormuz-crisis.aspx",
+    "intro": "De wereldwijde vraag naar olie krimpt dit jaar sterker dan eerder gedacht, nu de aanhoudende sluiting van de Straat van Hormuz het herstel van het aanbod verstoort en de brandstofprijzen opdrijft. Dit stelde het Internationaal Energieagentschap woensdag in zijn maandrapport.",
+    "published_at": "2026-08-12 10:19",
+    "scraped_at": "2026-08-12T09:35:40.774768"
+  },
+  {
+    "id": "a1d4f9ac1b93ef8034f2949156644a98",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof Petercam verhoogt koersdoel TKH fors",
+    "link": "https://www.beurs.nl/Nieuws/874417/Degroof-Petercam-verhoogt-koersdoel-TKH-fors.aspx",
     "intro": "Degroof Petercam heeft het koersdoel voor TKH Group verhoogd van 55 naar 62 euro, met behoud van het koopadvies. Dit bleek woensdag uit een rapport van analist Michael Roeg.",
     "published_at": "2026-08-12 09:30",
-    "scraped_at": "2026-08-12T08:06:16.984199"
+    "scraped_at": "2026-08-12T09:35:40.774768"
   },
   {
     "id": "4d4ca341abf66636e2f08b42399ba54e",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874415/ABN-AMRO-aan-kop-in-lichtgroene-AEX.aspx",
     "intro": "De Amsterdamse beurs is woensdag licht hoger geopend, met ABN AMRO aan kop na cijfers. Kort na opening van de beurs, koerste de AEX circa 0,3 procent hoger op 1.119,48 punten.",
     "published_at": "2026-08-12 09:11",
-    "scraped_at": "2026-08-12T08:06:16.984199"
+    "scraped_at": "2026-08-12T09:35:40.774768"
   },
   {
     "id": "85be7420faee00394469dce7343c7f7c",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874411/Vestas-verhoogt-winstverwachting.aspx",
     "intro": "Vestas heeft de winstverwachting voor heel 2026 verhoogd, na een sterk tweede kwartaal met hogere omzet en een fors verbeterde winstmarge. Dit meldde de Deense windturbinebouwer woensdagochtend.",
     "published_at": "2026-08-12 08:43",
-    "scraped_at": "2026-08-12T08:06:16.984199"
+    "scraped_at": "2026-08-12T09:35:40.774768"
   },
   {
     "id": "c8f6815b399ff492f317de84cdd411d6",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874410/TUI-handhaaft-outlook-ondanks-winstdaling.aspx",
     "intro": "TUI heeft de winstverwachting voor het gebroken boekjaar 2026 gehandhaafd, ondanks een daling van het onderliggende bedrijfsresultaat in het derde kwartaal door geopolitieke onrust. Dit meldde het reisconcern woensdag.",
     "published_at": "2026-08-12 08:38",
-    "scraped_at": "2026-08-12T08:06:16.984199"
+    "scraped_at": "2026-08-12T09:35:40.774768"
   },
   {
     "id": "ff68bb9fe72212e5bfb41bd330369881",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874409/Brenntag-verhoogt-winstverwachting.aspx",
     "intro": "Brenntag heeft de verwachting voor de operationele EBITDA voor heel 2026 verhoogd, na een sterk tweede kwartaal. Dit maakte de wereldwijde marktleider in de distributie van chemicaliën en ingrediënten woensdag bekend.",
     "published_at": "2026-08-12 08:36",
-    "scraped_at": "2026-08-12T08:06:16.984199"
+    "scraped_at": "2026-08-12T09:35:40.774768"
   },
   {
     "id": "a798a68a965818c332f6f907bcce5f18",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Artikel/874380/Beurzen-op-de-handrem-maar-ABN-Amro-verpulvert-verwachtingen.aspx",
     "intro": "Openingsindicatie: +0,1%. Winst ABN Amro veel hoger dan verwacht. Let vandaag ook op CoreWeave. En verder: Envipco, SK Hynix en Amerikaanse inflatie.",
     "published_at": "2026-08-12 08:30",
-    "scraped_at": "2026-08-12T08:06:16.984199"
-  },
-  {
-    "id": "1e1d677c6aca7b5754526d027989aba7",
-    "categorie": "Nieuws",
-    "titel": "China profiteert sterk van wereldwijde honger naar groene technologie",
-    "link": "https://www.ieximpact.nl/artikel/874179/China-profiteert-sterk-van-wereldwijde-honger-naar-groene-technologie.aspx",
-    "intro": "De huidige energiecrisis breekt met een vertrouwd patroon. Waar eerdere olieschokken leidden tot meer investeringen in olie en gas, blijven nieuwe projecten nu grotendeels uit. Onderwijl stijgt de vraag naar groene technologie uit China sterk, signaleert econoom Paul Devaux van BNP Paribas.",
-    "published_at": "2026-08-12 08:30",
-    "scraped_at": "2026-08-12T08:06:16.984199"
-  },
-  {
-    "id": "c8a0b171ac439bc61b98a2862e037843",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse inflatie gestegen door hogere energieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/874404/Duitse-inflatie-gestegen-door-hogere-energieprijzen.aspx",
-    "intro": "De Duitse inflatie is in juli gestegen, vooral door de fors toegenomen olieprijzen. Dit bleek woensdag uit definitieve cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-08-12 08:15",
-    "scraped_at": "2026-08-12T08:06:16.984199"
-  },
-  {
-    "id": "91a9366452779d6175d0d107be50ce8a",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke opening AEX in verschiet",
-    "link": "https://www.beurs.nl/Nieuws/874401/Vlakke-opening-AEX-in-verschiet.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een vlakke opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong fractioneel hoger. Dinsdag eindigde de hoofdgraadmeter nog 0,3 procent hoger op 1.116,77 punten.",
-    "published_at": "2026-08-12 08:09",
-    "scraped_at": "2026-08-12T08:06:16.984199"
-  },
-  {
-    "id": "fd5b7ecd4973a5be49cd3aebf8226399",
-    "categorie": "Beursnieuws",
-    "titel": "Envipco ziet verlies toenemen",
-    "link": "https://www.beurs.nl/Nieuws/874396/Envipco-ziet-verlies-toenemen.aspx",
-    "intro": "Envipco heeft in het tweede kwartaal een omzetgroei van 13 procent geboekt tot 26,1 miljoen euro, gedreven door hogere Europese verkopen van statiegeldautomaten. Dit meldde de leverancier van recyclingsystemen woensdagochtend.",
-    "published_at": "2026-08-12 07:34",
-    "scraped_at": "2026-08-12T08:06:16.984199"
+    "scraped_at": "2026-08-12T09:35:40.774768"
   }
 ]
