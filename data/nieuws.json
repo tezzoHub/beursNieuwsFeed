@@ -1,11 +1,38 @@
 [
   {
+    "id": "5a3b8a5074c34e6efd644fa31cde0678",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/874528/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 20 augustus 2026:",
+    "published_at": "2026-08-13 06:57",
+    "scraped_at": "2026-08-13T05:14:19.543972"
+  },
+  {
+    "id": "e8c20d0d47fac854473d548e60d87089",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/874529/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 20 augustus 2026:",
+    "published_at": "2026-08-13 06:57",
+    "scraped_at": "2026-08-13T05:14:19.543972"
+  },
+  {
+    "id": "169f673b159c7ed7ecf6ab9590092709",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/874530/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 20 augustus 2026:",
+    "published_at": "2026-08-13 06:57",
+    "scraped_at": "2026-08-13T05:14:19.543972"
+  },
+  {
     "id": "5b266fcb8a7a5436421f1a76ae148e49",
     "categorie": "Beursnieuws",
     "titel": "Beursupdate: AEX op Wall Street",
     "link": "https://www.beurs.nl/Nieuws/874512/Beursupdate-AEX-op-Wall-Street.aspx",
     "intro": "Op Wall Street zijn woensdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten. Er waren geen sterke bewegingenuitslagen waren klein.",
     "published_at": "2026-08-13 00:36",
-    "scraped_at": "2026-08-13T03:04:16.910642"
+    "scraped_at": "2026-08-13T05:14:19.543972"
   }
 ]
