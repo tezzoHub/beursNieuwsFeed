@@ -1,12 +1,48 @@
 [
   {
+    "id": "8ee1eac6fa9d77c1d0f12e01dab5bfee",
+    "categorie": "Must read",
+    "titel": "Must read: Geld heeft weer een prijs",
+    "link": "https://www.iex.nl/artikel/866486/Must-read-Geld-heeft-weer-een-prijs.aspx",
+    "intro": "Plus: professionele beleggers nemen klimaatrisico's wél serieus, vijf kansrijke AI-aandelen, de strijd tussen de Big short-legendes, gepensioneerden zijn iets beter uit en meer.",
+    "published_at": "2026-08-13 10:10",
+    "scraped_at": "2026-08-13T08:21:31.776783"
+  },
+  {
+    "id": "a928902b30c99627e019089cd572e91d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Adyen blijft koopwaardig dankzij geruststellende groei",
+    "link": "https://www.beurs.nl/Nieuws/874568/Beursblik-Adyen-blijft-koopwaardig-dankzij-geruststellende-groei.aspx",
+    "intro": "Adyen rapporteerde over de eerste zes maanden een \"geruststellende\" autonome groei, terwijl de betaalvolumes en omzet boven de verwachting lagen. Dit stelde analist Michael Roeg van Degroof Petercam donderdag in reactie op de cijfers van het betaalbedrijf.",
+    "published_at": "2026-08-13 10:07",
+    "scraped_at": "2026-08-13T08:21:31.776783"
+  },
+  {
+    "id": "1bed2f10e37d555255383500c45011b8",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht hoger van start met Adyen als koploper",
+    "link": "https://www.beurs.nl/Nieuws/874559/AEX-licht-hoger-van-start-met-Adyen-als-koploper.aspx",
+    "intro": "De AEX index koerste donderdag kort na de beursgong 0,3 procent hoger op 1.115,14. punten, terwijl de Midkap 0,2 procent won.",
+    "published_at": "2026-08-13 09:11",
+    "scraped_at": "2026-08-13T08:21:31.776783"
+  },
+  {
+    "id": "35dcb394e774ce8a9db41e52871f1b57",
+    "categorie": "Beursnieuws",
+    "titel": "Rederij Maersk verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/874558/Rederij-Maersk-verhoogt-outlook.aspx",
+    "intro": "Maersk heeft zijn outlook voor het volledige jaar naar boven bijgesteld dankzij hogere winsten en een beter zicht op de rest van het jaar, ondanks het conflict in het Midden-Oosten. Dit bleek donderdagochtend bij de cijfers van de Deense rederij.",
+    "published_at": "2026-08-13 09:02",
+    "scraped_at": "2026-08-13T08:21:31.776783"
+  },
+  {
     "id": "f4f1b1f2a8ebea696bffe035604d09e2",
     "categorie": "Beursnieuws",
     "titel": "NEPI Rockcastle betreedt Spaanse markt",
     "link": "https://www.beurs.nl/Nieuws/874557/NEPI-Rockcastle-betreedt-Spaanse-markt.aspx",
     "intro": "NEPI Rockcastle heeft een bindend akkoord bereikt over de overname van MegaPark Barakaldo, een van de grootste winkelbestemmingen van Noord-Spanje. Dit maakte de vastgoedgroep donderdag bekend.",
     "published_at": "2026-08-13 08:45",
-    "scraped_at": "2026-08-13T06:52:24.012321"
+    "scraped_at": "2026-08-13T08:21:31.776783"
   },
   {
     "id": "d9547de9f995bb8a49eb9267654f2422",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874554/Beursblik-positieve-koersreactie-Adyen-verwacht.aspx",
     "intro": "Adyen wist met de cijfers donderdagochtend de verwachtingen te verslaan en Jefferies verwacht dan ook een positieve koersreactie. Dit stelde de zakenbank na de resultaten van het betaalbedrijf.",
     "published_at": "2026-08-13 08:44",
-    "scraped_at": "2026-08-13T06:52:24.012321"
+    "scraped_at": "2026-08-13T08:21:31.776783"
   },
   {
     "id": "71044a10cf51030e8238b99378225860",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874550/Deutsche-Bank-verhoogt-koersdoel-ABN-Amro.aspx",
     "intro": "Deutsche Bank heeft het koersdoel voor ABN AMRO verhoogd van 34,00 naar 40,00 euro met een ongewijzigd Houden advies na de cijfers van woensdag. Dit bleek donderdag uit een rapport van analist Benjamin Goy.",
     "published_at": "2026-08-13 08:32",
-    "scraped_at": "2026-08-13T06:52:24.012321"
+    "scraped_at": "2026-08-13T08:21:31.776783"
   },
   {
     "id": "7cf4c51bbb82470881abf10fe59481be",
@@ -33,7 +69,7 @@
     "link": "https://www.ieximpact.nl/artikel/874280/Professionele-beleggers-beginnen-klimaatrisicos-serieus-te-nemen.aspx",
     "intro": "Overstromingen, hitte en droogte staan steeds hoger op de agenda van institutionele beleggers, zo blijkt uit onderzoek van Responsible Investor en Standard Life.",
     "published_at": "2026-08-13 08:30",
-    "scraped_at": "2026-08-13T06:52:24.012321"
+    "scraped_at": "2026-08-13T08:21:31.776783"
   },
   {
     "id": "15ba04c42ceecbe809f4ffb181ea830f",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Artikel/874524/We-gaan-hoger-openen-en-gaat-Adyen-straks-ouderwets-stunten.aspx",
     "intro": "Openingsindicatie: +0,4%. Adyen verhoogt omzetverwachting en trekt investeringen naar voren. En verder: Pharming, Fastned, Triodos, Nebius en nog veel meer.",
     "published_at": "2026-08-13 08:30",
-    "scraped_at": "2026-08-13T06:52:24.012321"
+    "scraped_at": "2026-08-13T08:21:31.776783"
   },
   {
     "id": "c1a36a3b1ec734a8e732fcb6ac62d1d6",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874549/Beursblik-Fastned-ziet-winst-sneller-aantrekken.aspx",
     "intro": "De fors verhoogde margeverwachting van Fastned zal de winsttaxaties van analisten waarschijnlijk stevig opstuwen. Dat stelde analist David Kerstens van Jefferies donderdag in een rapport, waarin hij het koopadvies en het koersdoel van 30,00 euro voor de laadpaalexploitant handhaafde.",
     "published_at": "2026-08-13 08:29",
-    "scraped_at": "2026-08-13T06:52:24.012321"
-  },
-  {
-    "id": "1accb744ebbc130a65e6eb67ad31c917",
-    "categorie": "Beursnieuws",
-    "titel": "Britse industriële productie maakt pas op de plaats",
-    "link": "https://www.beurs.nl/Nieuws/874547/Britse-industriele-productie-maakt-pas-op-de-plaats.aspx",
-    "intro": "De industriële productie in het Verenigd Koninkrijk heeft in de drie maanden tot en met juni een pas op de plaats gemaakt. Dit bleek donderdag uit cijfers van het Britse officiële statistiekbureau.",
-    "published_at": "2026-08-13 08:22",
-    "scraped_at": "2026-08-13T06:52:24.012321"
-  },
-  {
-    "id": "9a94d2ae0c4ec38f72157e4ae05bee3a",
-    "categorie": "Beursnieuws",
-    "titel": "Britse export gedaald",
-    "link": "https://www.beurs.nl/Nieuws/874546/Britse-export-gedaald.aspx",
-    "intro": "De Britse export is in juni gedaald, net als de import. Dit meldde het Britse statistiekbureau ONS donderdag.",
-    "published_at": "2026-08-13 08:19",
-    "scraped_at": "2026-08-13T06:52:24.012321"
-  },
-  {
-    "id": "4be93f255ac27c9c0063e606c0656a47",
-    "categorie": "Beursnieuws",
-    "titel": "Britse economie groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/874545/Britse-economie-groeit-minder-hard.aspx",
-    "intro": "De Britse economie is in het tweede kwartaal van 2026 minder sterk gegroeid dan een kwartaal eerder. Dit bleek donderdag uit cijfers van het Britse statistiekbureau ONS.",
-    "published_at": "2026-08-13 08:18",
-    "scraped_at": "2026-08-13T06:52:24.012321"
-  },
-  {
-    "id": "3843a4a6130e6f53858aa569e4419cfb",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt koersdoel TKH fors",
-    "link": "https://www.beurs.nl/Nieuws/874543/Jefferies-verhoogt-koersdoel-TKH-fors.aspx",
-    "intro": "Jefferies heeft het koersdoel voor TKH verhoogd van 58,00 naar 65,00 euro met een onveranderd koopadvies, in navolging van de cijfers eerder deze week. Dit bleek donderdag uit een rapport van analist David Kerstens.",
-    "published_at": "2026-08-13 08:08",
-    "scraped_at": "2026-08-13T06:52:24.012321"
+    "scraped_at": "2026-08-13T08:21:31.776783"
   }
 ]
