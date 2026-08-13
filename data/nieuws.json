@@ -1,12 +1,21 @@
 [
   {
+    "id": "8495e4475d023414e03f8b0c073a5db7",
+    "categorie": "Beursnieuws",
+    "titel": "Licht hogere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/874594/Licht-hogere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een wat hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,2 procent in het groen. Techbeurs Nasdaq lijkt grofweg een vlakke opening tegemoet te gaan.",
+    "published_at": "2026-08-13 13:00",
+    "scraped_at": "2026-08-13T11:34:16.601888"
+  },
+  {
     "id": "2a9e60d917c1edca46b69e912adc9407",
     "categorie": "Beursnieuws",
     "titel": "Omzet JD.com daalt licht",
     "link": "https://www.beurs.nl/Nieuws/874592/Omzet-JDcom-daalt-licht.aspx",
     "intro": "JD.com heeft in het tweede kwartaal minder omzet, maar meer winst dan verwacht geboekt. Dat bleek donderdag uit de update van het Chinese e-commercebedrijf.",
     "published_at": "2026-08-13 12:40",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   },
   {
     "id": "e01fe96bfc6ea03ca1454ba9ce44bf90",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/874583/Europese-beurzen-overwegend-hoger.aspx",
     "intro": "De aandelenmarkten in Europa noteerden donderdag rond het middaguur overwegend wat hoger, gesteund door sterke bedrijfscijfers en outlookverhogingen. Mijnbouwers trokken de Londense beurs omlaag.",
     "published_at": "2026-08-13 12:04",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   },
   {
     "id": "116739ff63dcc4d4cfbb220faa0b3086",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874575/Industriele-productie-eurozone-stabiliseert.aspx",
     "intro": "De industriële productie in de eurozone is in juni stabiel gebleven, na een stijging in de maand ervoor. Dit bleek donderdag uit voorlopige cijfers van Eurostat, het statistiekbureau van de EU.",
     "published_at": "2026-08-13 11:07",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   },
   {
     "id": "43ae7d2dd0c5d3810d071c025442d5e7",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874574/Adyen-trekt-de-kar-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagochtend licht hoger, met Adyen als koploper na cijfers. Rond de klok van elf uur won de AEX 0,4 procent op 1.116,15 punten.",
     "published_at": "2026-08-13 10:49",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   },
   {
     "id": "ce91816cfc36c40ddd57138c0bb65256",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874569/UBS-verhoogt-koersdoel-NN-Group.aspx",
     "intro": "UBS heeft donderdag het koersdoel voor NN Group verhoogd van 75,00 naar 76,50 euro en handhaafde daarbij het Neutraal advies. Dit bleek uit een rapport van analist Nasib Ahmed.",
     "published_at": "2026-08-13 10:25",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   },
   {
     "id": "fe2454a719df9a99a689a4a8deee66ff",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874570/Noorse-centrale-bank-handhaaft-rente.aspx",
     "intro": "De Noorse centrale bank heeft donderdag de rente gehandhaafd op 4,25 procent, nadat de inflatie vertraagde en deze zomer ook lager uitkwam dan aanvankelijk gedacht. Dit bleek vanochtend uit een persbericht van de Norges Bank.",
     "published_at": "2026-08-13 10:22",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   },
   {
     "id": "8ee1eac6fa9d77c1d0f12e01dab5bfee",
@@ -60,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/866486/Must-read-Geld-heeft-weer-een-prijs.aspx",
     "intro": "Plus: professionele beleggers nemen klimaatrisico's wél serieus, vijf kansrijke AI-aandelen, de strijd tussen de Big short-legendes, gepensioneerden zijn iets beter uit en meer.",
     "published_at": "2026-08-13 10:10",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   },
   {
     "id": "a928902b30c99627e019089cd572e91d",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874568/Beursblik-Adyen-blijft-koopwaardig-dankzij-geruststellende-groei.aspx",
     "intro": "Adyen rapporteerde over de eerste zes maanden een \"geruststellende\" autonome groei, terwijl de betaalvolumes en omzet boven de verwachting lagen. Dit stelde analist Michael Roeg van Degroof Petercam donderdag in reactie op de cijfers van het betaalbedrijf.",
     "published_at": "2026-08-13 10:07",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   },
   {
     "id": "1bed2f10e37d555255383500c45011b8",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874559/AEX-licht-hoger-van-start-met-Adyen-als-koploper.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong 0,3 procent hoger op 1.115,14. punten, terwijl de Midkap 0,2 procent won.",
     "published_at": "2026-08-13 09:11",
-    "scraped_at": "2026-08-13T10:45:56.543315"
-  },
-  {
-    "id": "35dcb394e774ce8a9db41e52871f1b57",
-    "categorie": "Beursnieuws",
-    "titel": "Rederij Maersk verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/874558/Rederij-Maersk-verhoogt-outlook.aspx",
-    "intro": "Maersk heeft zijn outlook voor het volledige jaar naar boven bijgesteld dankzij hogere winsten en een beter zicht op de rest van het jaar, ondanks het conflict in het Midden-Oosten. Dit bleek donderdagochtend bij de cijfers van de Deense rederij.",
-    "published_at": "2026-08-13 09:02",
-    "scraped_at": "2026-08-13T10:45:56.543315"
+    "scraped_at": "2026-08-13T11:34:16.601888"
   }
 ]
