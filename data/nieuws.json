@@ -1,12 +1,21 @@
 [
   {
+    "id": "e2dcd6a025917d933869aa411c09f006",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen sluiten lager",
+    "link": "https://www.beurs.nl/Nieuws/874639/Olieprijzen-sluiten-lager.aspx",
+    "intro": "De olieprijzen hebben donderdag een tik gekregen, nadat rapporten van de OPEC en de IEA wezen op een zwakkere wereldwijde vraag naar olie in 2026.",
+    "published_at": "2026-08-13 21:02",
+    "scraped_at": "2026-08-13T19:46:21.906577"
+  },
+  {
     "id": "783fb5ac266e2e78f3f8068d44a26d8a",
     "categorie": "Beursnieuws",
     "titel": "Wall Street toont grote uitschieters",
     "link": "https://www.beurs.nl/Nieuws/874638/Wall-Street-toont-grote-uitschieters.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag verdeeld, nadat beleggers meevallende inflatiecijfers over juli te verwerken kregen. Hierdoor groeit de verwachting dat de Federal Reserve de rente niet verder zal verhogen.",
     "published_at": "2026-08-13 19:47",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   },
   {
     "id": "a1c569a709595847ebe2f3ff638f0733",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/874635/Europese-beurzen-sluiten-lager.aspx",
     "intro": "De aandelenmarkten in Europa zijn donderdag licht lager gesloten, ondanks enkele sterke bedrijfsresultaten. Mijnbouwers trokken de Londense beurs omlaag.",
     "published_at": "2026-08-13 18:47",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   },
   {
     "id": "a8e2177cefea13f335b0e86fbcf453ad",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874632/Adyen-grote-winnaar-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs sloot donderdag hoger. Winnaar van de dag was betaalbedrijf Adyen dat omhoog spoot na cijfers.",
     "published_at": "2026-08-13 17:59",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   },
   {
     "id": "b1679195fdfba9093593dd9481815d30",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874627/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 21 augustus 2026:",
     "published_at": "2026-08-13 16:47",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   },
   {
     "id": "d6378a486a5addc76c3419decf609885",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874628/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 21 augustus 2026:",
     "published_at": "2026-08-13 16:47",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   },
   {
     "id": "72a1fc874a6bc1b20afe679bbdb1697c",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874629/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 21 augustus 2026:",
     "published_at": "2026-08-13 16:47",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   },
   {
     "id": "3803a9776795b4a01a32f91e4a87a89c",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874615/Wall-Street-wacht-licht-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een wat hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,2 procent in het groen. Techbeurs Nasdaq lijkt grofweg een vlakke opening tegemoet te gaan.",
     "published_at": "2026-08-13 14:58",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   },
   {
     "id": "90a27c313bd4d28d5d58aa7d471c1fd0",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874610/Update-Amerikaanse-producentenprijzen-blijven-gelijk.aspx",
     "intro": "De producentenprijzen in de Verenigde Staten zijn in juli gelijk gebleven, na een daling in de maand ervoor. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-08-13 14:48",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   },
   {
     "id": "be85675c66308ab2d13061afbd68ee43",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874612/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-08-13 14:41",
-    "scraped_at": "2026-08-13T18:40:34.833846"
-  },
-  {
-    "id": "a6dc5826e53ad59699c4994f940431f0",
-    "categorie": "Beursnieuws",
-    "titel": "ABN Amro Oddo zet TKH op kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/874603/ABN-Amro-Oddo-zet-TKH-op-kooplijst.aspx",
-    "intro": "ABN AMRO Oddo heeft het advies voor TKH Group verhoogd van Neutraal naar Outperform, waarbij het koersdoel van 53,00 naar 57,00 euro werd verhoogd. Dit bleek uit een rapport van analist Martijn Den Drijver.",
-    "published_at": "2026-08-13 14:08",
-    "scraped_at": "2026-08-13T18:40:34.833846"
+    "scraped_at": "2026-08-13T19:46:21.906577"
   }
 ]
