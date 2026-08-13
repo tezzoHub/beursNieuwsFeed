@@ -1,12 +1,39 @@
 [
   {
+    "id": "b1679195fdfba9093593dd9481815d30",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/874627/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 21 augustus 2026:",
+    "published_at": "2026-08-13 16:47",
+    "scraped_at": "2026-08-13T15:27:06.504596"
+  },
+  {
+    "id": "d6378a486a5addc76c3419decf609885",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/874628/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 21 augustus 2026:",
+    "published_at": "2026-08-13 16:47",
+    "scraped_at": "2026-08-13T15:27:06.504596"
+  },
+  {
+    "id": "72a1fc874a6bc1b20afe679bbdb1697c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/874629/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 21 augustus 2026:",
+    "published_at": "2026-08-13 16:47",
+    "scraped_at": "2026-08-13T15:27:06.504596"
+  },
+  {
     "id": "3803a9776795b4a01a32f91e4a87a89c",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht licht hogere opening",
     "link": "https://www.beurs.nl/Nieuws/874615/Wall-Street-wacht-licht-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een wat hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,2 procent in het groen. Techbeurs Nasdaq lijkt grofweg een vlakke opening tegemoet te gaan.",
     "published_at": "2026-08-13 14:58",
-    "scraped_at": "2026-08-13T14:09:47.885633"
+    "scraped_at": "2026-08-13T15:27:06.504596"
   },
   {
     "id": "90a27c313bd4d28d5d58aa7d471c1fd0",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874610/Update-Amerikaanse-producentenprijzen-blijven-gelijk.aspx",
     "intro": "De producentenprijzen in de Verenigde Staten zijn in juli gelijk gebleven, na een daling in de maand ervoor. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-08-13 14:48",
-    "scraped_at": "2026-08-13T14:09:47.885633"
+    "scraped_at": "2026-08-13T15:27:06.504596"
   },
   {
     "id": "be85675c66308ab2d13061afbd68ee43",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874612/Meer-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gestegen. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-08-13 14:41",
-    "scraped_at": "2026-08-13T14:09:47.885633"
+    "scraped_at": "2026-08-13T15:27:06.504596"
   },
   {
     "id": "a6dc5826e53ad59699c4994f940431f0",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874603/ABN-Amro-Oddo-zet-TKH-op-kooplijst.aspx",
     "intro": "ABN AMRO Oddo heeft het advies voor TKH Group verhoogd van Neutraal naar Outperform, waarbij het koersdoel van 53,00 naar 57,00 euro werd verhoogd. Dit bleek uit een rapport van analist Martijn Den Drijver.",
     "published_at": "2026-08-13 14:08",
-    "scraped_at": "2026-08-13T14:09:47.885633"
+    "scraped_at": "2026-08-13T15:27:06.504596"
   },
   {
     "id": "cc06c37ffa1100d930f7acda6ecab6c0",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874601/Koersexplosie-Adyen-in-groene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagmiddag hoger, onder aanvoering van Adyen dat omhoog spoot na cijfers. De AEX koerste in de middag 0,4 procent hoger op 1.117,02 punten.",
     "published_at": "2026-08-13 13:40",
-    "scraped_at": "2026-08-13T14:09:47.885633"
+    "scraped_at": "2026-08-13T15:27:06.504596"
   },
   {
     "id": "8495e4475d023414e03f8b0c073a5db7",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874594/Licht-hogere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een wat hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,2 procent in het groen. Techbeurs Nasdaq lijkt grofweg een vlakke opening tegemoet te gaan.",
     "published_at": "2026-08-13 13:00",
-    "scraped_at": "2026-08-13T14:09:47.885633"
+    "scraped_at": "2026-08-13T15:27:06.504596"
   },
   {
     "id": "2a9e60d917c1edca46b69e912adc9407",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874592/Omzet-JDcom-daalt-licht.aspx",
     "intro": "JD.com heeft in het tweede kwartaal minder omzet, maar meer winst dan verwacht geboekt. Dat bleek donderdag uit de update van het Chinese e-commercebedrijf.",
     "published_at": "2026-08-13 12:40",
-    "scraped_at": "2026-08-13T14:09:47.885633"
-  },
-  {
-    "id": "e01fe96bfc6ea03ca1454ba9ce44bf90",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen overwegend hoger",
-    "link": "https://www.beurs.nl/Nieuws/874583/Europese-beurzen-overwegend-hoger.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden donderdag rond het middaguur overwegend wat hoger, gesteund door sterke bedrijfscijfers en outlookverhogingen. Mijnbouwers trokken de Londense beurs omlaag.",
-    "published_at": "2026-08-13 12:04",
-    "scraped_at": "2026-08-13T14:09:47.885633"
-  },
-  {
-    "id": "116739ff63dcc4d4cfbb220faa0b3086",
-    "categorie": "Beursnieuws",
-    "titel": "Industriële productie eurozone stabiliseert",
-    "link": "https://www.beurs.nl/Nieuws/874575/Industriele-productie-eurozone-stabiliseert.aspx",
-    "intro": "De industriële productie in de eurozone is in juni stabiel gebleven, na een stijging in de maand ervoor. Dit bleek donderdag uit voorlopige cijfers van Eurostat, het statistiekbureau van de EU.",
-    "published_at": "2026-08-13 11:07",
-    "scraped_at": "2026-08-13T14:09:47.885633"
-  },
-  {
-    "id": "43ae7d2dd0c5d3810d071c025442d5e7",
-    "categorie": "Beursnieuws",
-    "titel": "Adyen trekt de kar in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/874574/Adyen-trekt-de-kar-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagochtend licht hoger, met Adyen als koploper na cijfers. Rond de klok van elf uur won de AEX 0,4 procent op 1.116,15 punten.",
-    "published_at": "2026-08-13 10:49",
-    "scraped_at": "2026-08-13T14:09:47.885633"
+    "scraped_at": "2026-08-13T15:27:06.504596"
   }
 ]
