@@ -1,12 +1,48 @@
 [
   {
+    "id": "b99d5fedb7564bd679a58cc263ede97f",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Apple traint AI-model voor Chinese markt",
+    "link": "https://www.beurs.nl/Nieuws/874733/Media-Apple-traint-AI-model-voor-Chinese-markt.aspx",
+    "intro": "Apple heeft een groot taalmodel specifiek voor de Chinese markt getraind. Dit meldde persbureau Reuters vrijdag op basis van verschillende bronnen.",
+    "published_at": "2026-08-14 15:08",
+    "scraped_at": "2026-08-14T14:03:56.362682"
+  },
+  {
+    "id": "e1ab89228cb64dc84b8ebdd67df8a217",
+    "categorie": "Beursnieuws",
+    "titel": "CPB: Nederlandse economie blijft groeien",
+    "link": "https://www.beurs.nl/Nieuws/874731/CPB-Nederlandse-economie-blijft-groeien.aspx",
+    "intro": "De Nederlandse economie blijft dit jaar en volgend jaar groeien, ondanks de grote internationale onzekerheid, maar de inflatie blijft op een verhoogd niveau, wat gevolgen heeft voor de koopkracht. Dit meldde het Centraal Planbureau vrijdag in zijn concept-Macro Economische Verkenning.",
+    "published_at": "2026-08-14 15:01",
+    "scraped_at": "2026-08-14T14:03:56.362682"
+  },
+  {
+    "id": "d09c5f2716af3763800499cf8665b0a5",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht verdeelde opening",
+    "link": "https://www.beurs.nl/Nieuws/874730/Wall-Street-wacht-verdeelde-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel in New York 0,1 procent hoger. De Nasdaq lag op koers voor een winst van 0,3 procent en de Dow-future noteerde licht lager.",
+    "published_at": "2026-08-14 14:47",
+    "scraped_at": "2026-08-14T14:03:56.362682"
+  },
+  {
+    "id": "45152f6edfdc291c7225367e2ebbed0e",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse detailhandelsverkopen dalen onverwacht",
+    "link": "https://www.beurs.nl/Nieuws/874727/Amerikaanse-detailhandelsverkopen-dalen-onverwacht.aspx",
+    "intro": "De detailhandelsverkopen in de Verenigde Staten zijn in juli onverwacht gedaald. Dit meldde de Amerikaanse overheid vrijdagmiddag.",
+    "published_at": "2026-08-14 14:34",
+    "scraped_at": "2026-08-14T14:03:56.362682"
+  },
+  {
     "id": "4c0308646c6b7cc2eb04be83d93d2deb",
     "categorie": "Beursnieuws",
     "titel": "AEX scherpt record aan",
     "link": "https://www.beurs.nl/Nieuws/874724/AEX-scherpt-record-aan.aspx",
     "intro": "De Amsterdamse beurs wist vrijdag zijn all-time high aan te scherpen tot 1.124 punten, terwijl databedrijven goed scoorden door mogelijk overnamenieuws in de sector.",
     "published_at": "2026-08-14 14:07",
-    "scraped_at": "2026-08-14T12:30:10.399161"
+    "scraped_at": "2026-08-14T14:03:56.362682"
   },
   {
     "id": "62319edede79b3d3d4dca43720b5e273",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874717/Futures-voorspellen-voorzichtige-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd fractioneel hoger.",
     "published_at": "2026-08-14 12:55",
-    "scraped_at": "2026-08-14T12:30:10.399161"
+    "scraped_at": "2026-08-14T14:03:56.362682"
   },
   {
     "id": "9f143bf019af0ab972ecc9857e295cb7",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874701/Europese-beurzen-halverwege-de-dag-terughoudend.aspx",
     "intro": "De aandelenmarkten in Europa noteerden vrijdag overwegend wat lager, met als uitzondering de Duitse DAX, die werd geholpen door koersstijgingen van SAP en Rheinmetall.",
     "published_at": "2026-08-14 12:01",
-    "scraped_at": "2026-08-14T12:30:10.399161"
+    "scraped_at": "2026-08-14T14:03:56.362682"
   },
   {
     "id": "56b8767cb87b7a37dfaa315a25ecc04f",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874699/Groei-eurozone-conform-eerdere-cijfers.aspx",
     "intro": "De economie in de eurozone is in het tweede kwartaal weer gegroeid, na een nulgroei in de drie maanden ervoor. Dit bleek vrijdagochtend uit nieuwe cijfers van statistiekbureau Eurostat, die eerdere data bevestigden.",
     "published_at": "2026-08-14 11:34",
-    "scraped_at": "2026-08-14T12:30:10.399161"
+    "scraped_at": "2026-08-14T14:03:56.362682"
   },
   {
     "id": "52f616a0a0bc529f19383877f56d27dc",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874697/Export-eurozone-stijgt-flink.aspx",
     "intro": "De export in de eurozone is in juni flink gestegen, terwijl de import ook behoorlijk toenam. Dit bleek vrijdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-08-14 11:33",
-    "scraped_at": "2026-08-14T12:30:10.399161"
+    "scraped_at": "2026-08-14T14:03:56.362682"
   },
   {
     "id": "69d8e2178a0d1101db63e385aed01c4f",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874695/Databedrijven-aan-kop-in-licht-hogere-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdag licht hoger, met winsten voor databedrijven en defensienamen. Rond de klok van elf uur won de AEX 0,2 procent op 1.121,32 punten.",
     "published_at": "2026-08-14 11:00",
-    "scraped_at": "2026-08-14T12:30:10.399161"
-  },
-  {
-    "id": "6339a74b8dc2688783be809b96f4d59b",
-    "categorie": "Beursnieuws",
-    "titel": "Franse inflatie gestegen",
-    "link": "https://www.beurs.nl/Nieuws/874692/Franse-inflatie-gestegen.aspx",
-    "intro": "De inflatie in Frankrijk is in juli gestegen. Dit bleek vrijdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-08-14 10:31",
-    "scraped_at": "2026-08-14T12:30:10.399161"
-  },
-  {
-    "id": "ef5c458921fa9c2f333d20cb9c239918",
-    "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/874689/UBS-verhoogt-koersdoel-Adyen.aspx",
-    "intro": "UBS heeft vrijdag het koersdoel voor Adyen verhoogd van 1.350 naar 1.400 euro, bij handhaving van het koopadvies. Dit bleek uit een rapport van analist Justin Forsythe.",
-    "published_at": "2026-08-14 10:08",
-    "scraped_at": "2026-08-14T12:30:10.399161"
-  },
-  {
-    "id": "bb418d7d18c70b3a2d93e46dc49561c6",
-    "categorie": "Opinie",
-    "titel": "Greenwashing to the max",
-    "link": "https://www.ieximpact.nl/artikel/874476/Greenwashing-to-the-max.aspx",
-    "intro": "Beleggen in een impactthema is reuze eenvoudig met een ETF. Maar kijk voor aankoop wel even welke aandelen precies worden gevolgd, want die kunnen wel eens héél ver afstaan van het bewuste thema, zoals bijvoorbeeld bij de Xtrackers World Biodiversity Focus SRI UCITS ETF het geval is.",
-    "published_at": "2026-08-14 09:10",
-    "scraped_at": "2026-08-14T12:30:10.399161"
-  },
-  {
-    "id": "dc17b79e3ada23824ab6175282c8a19d",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/874682/AEX-licht-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,3 procent hoger op 1.122,57 punten, terwijl de Midkap 0,5 procent won.",
-    "published_at": "2026-08-14 09:09",
-    "scraped_at": "2026-08-14T12:30:10.399161"
+    "scraped_at": "2026-08-14T14:03:56.362682"
   }
 ]
