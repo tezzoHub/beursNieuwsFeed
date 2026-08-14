@@ -1,12 +1,57 @@
 [
   {
+    "id": "aec7434128c4be007def37172afd2a81",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/874744/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 24 augustus 2026:",
+    "published_at": "2026-08-14 16:29",
+    "scraped_at": "2026-08-14T15:11:50.001410"
+  },
+  {
+    "id": "fdfb6f6f16bc96706b2a6a2943faa75e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/874745/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 24 augustus 2026:",
+    "published_at": "2026-08-14 16:29",
+    "scraped_at": "2026-08-14T15:11:50.001410"
+  },
+  {
+    "id": "253a3b7718fa5ac0ce58b9c7a9bb32be",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/874746/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 24 augustus 2026:",
+    "published_at": "2026-08-14 16:29",
+    "scraped_at": "2026-08-14T15:11:50.001410"
+  },
+  {
+    "id": "2413b11eb542515fd360cefecfbcb807",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen VS behoorlijk gedaald",
+    "link": "https://www.beurs.nl/Nieuws/874741/Consumentenvertrouwen-VS-behoorlijk-gedaald.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in augustus behoorlijk gedaald, na twee maanden van stijgingen. Dit bleek vrijdag uit de voorlopige cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-08-14 16:06",
+    "scraped_at": "2026-08-14T15:11:50.001410"
+  },
+  {
+    "id": "6151259d06d105f8d49fd2b99b770781",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse bedrijfsvoorraden stabiel gebleven",
+    "link": "https://www.beurs.nl/Nieuws/874742/Amerikaanse-bedrijfsvoorraden-stabiel-gebleven.aspx",
+    "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in juni stabiel gebleven. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-08-14 16:06",
+    "scraped_at": "2026-08-14T15:11:50.001410"
+  },
+  {
     "id": "b99d5fedb7564bd679a58cc263ede97f",
     "categorie": "Beursnieuws",
     "titel": "Media: Apple traint AI-model voor Chinese markt",
     "link": "https://www.beurs.nl/Nieuws/874733/Media-Apple-traint-AI-model-voor-Chinese-markt.aspx",
     "intro": "Apple heeft een groot taalmodel specifiek voor de Chinese markt getraind. Dit meldde persbureau Reuters vrijdag op basis van verschillende bronnen.",
     "published_at": "2026-08-14 15:08",
-    "scraped_at": "2026-08-14T14:03:56.362682"
+    "scraped_at": "2026-08-14T15:11:50.001410"
   },
   {
     "id": "e1ab89228cb64dc84b8ebdd67df8a217",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874731/CPB-Nederlandse-economie-blijft-groeien.aspx",
     "intro": "De Nederlandse economie blijft dit jaar en volgend jaar groeien, ondanks de grote internationale onzekerheid, maar de inflatie blijft op een verhoogd niveau, wat gevolgen heeft voor de koopkracht. Dit meldde het Centraal Planbureau vrijdag in zijn concept-Macro Economische Verkenning.",
     "published_at": "2026-08-14 15:01",
-    "scraped_at": "2026-08-14T14:03:56.362682"
+    "scraped_at": "2026-08-14T15:11:50.001410"
   },
   {
     "id": "d09c5f2716af3763800499cf8665b0a5",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874730/Wall-Street-wacht-verdeelde-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel in New York 0,1 procent hoger. De Nasdaq lag op koers voor een winst van 0,3 procent en de Dow-future noteerde licht lager.",
     "published_at": "2026-08-14 14:47",
-    "scraped_at": "2026-08-14T14:03:56.362682"
+    "scraped_at": "2026-08-14T15:11:50.001410"
   },
   {
     "id": "45152f6edfdc291c7225367e2ebbed0e",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874727/Amerikaanse-detailhandelsverkopen-dalen-onverwacht.aspx",
     "intro": "De detailhandelsverkopen in de Verenigde Staten zijn in juli onverwacht gedaald. Dit meldde de Amerikaanse overheid vrijdagmiddag.",
     "published_at": "2026-08-14 14:34",
-    "scraped_at": "2026-08-14T14:03:56.362682"
+    "scraped_at": "2026-08-14T15:11:50.001410"
   },
   {
     "id": "4c0308646c6b7cc2eb04be83d93d2deb",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874724/AEX-scherpt-record-aan.aspx",
     "intro": "De Amsterdamse beurs wist vrijdag zijn all-time high aan te scherpen tot 1.124 punten, terwijl databedrijven goed scoorden door mogelijk overnamenieuws in de sector.",
     "published_at": "2026-08-14 14:07",
-    "scraped_at": "2026-08-14T14:03:56.362682"
-  },
-  {
-    "id": "62319edede79b3d3d4dca43720b5e273",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen voorzichtige opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/874717/Futures-voorspellen-voorzichtige-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd fractioneel hoger.",
-    "published_at": "2026-08-14 12:55",
-    "scraped_at": "2026-08-14T14:03:56.362682"
-  },
-  {
-    "id": "9f143bf019af0ab972ecc9857e295cb7",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen halverwege de dag terughoudend",
-    "link": "https://www.beurs.nl/Nieuws/874701/Europese-beurzen-halverwege-de-dag-terughoudend.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden vrijdag overwegend wat lager, met als uitzondering de Duitse DAX, die werd geholpen door koersstijgingen van SAP en Rheinmetall.",
-    "published_at": "2026-08-14 12:01",
-    "scraped_at": "2026-08-14T14:03:56.362682"
-  },
-  {
-    "id": "56b8767cb87b7a37dfaa315a25ecc04f",
-    "categorie": "Beursnieuws",
-    "titel": "Groei eurozone conform eerdere cijfers",
-    "link": "https://www.beurs.nl/Nieuws/874699/Groei-eurozone-conform-eerdere-cijfers.aspx",
-    "intro": "De economie in de eurozone is in het tweede kwartaal weer gegroeid, na een nulgroei in de drie maanden ervoor. Dit bleek vrijdagochtend uit nieuwe cijfers van statistiekbureau Eurostat, die eerdere data bevestigden.",
-    "published_at": "2026-08-14 11:34",
-    "scraped_at": "2026-08-14T14:03:56.362682"
-  },
-  {
-    "id": "52f616a0a0bc529f19383877f56d27dc",
-    "categorie": "Beursnieuws",
-    "titel": "Export eurozone stijgt flink",
-    "link": "https://www.beurs.nl/Nieuws/874697/Export-eurozone-stijgt-flink.aspx",
-    "intro": "De export in de eurozone is in juni flink gestegen, terwijl de import ook behoorlijk toenam. Dit bleek vrijdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
-    "published_at": "2026-08-14 11:33",
-    "scraped_at": "2026-08-14T14:03:56.362682"
-  },
-  {
-    "id": "69d8e2178a0d1101db63e385aed01c4f",
-    "categorie": "Beursnieuws",
-    "titel": "Databedrijven aan kop in licht hogere AEX",
-    "link": "https://www.beurs.nl/Nieuws/874695/Databedrijven-aan-kop-in-licht-hogere-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste vrijdag licht hoger, met winsten voor databedrijven en defensienamen. Rond de klok van elf uur won de AEX 0,2 procent op 1.121,32 punten.",
-    "published_at": "2026-08-14 11:00",
-    "scraped_at": "2026-08-14T14:03:56.362682"
+    "scraped_at": "2026-08-14T15:11:50.001410"
   }
 ]
