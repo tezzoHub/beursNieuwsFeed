@@ -1,12 +1,48 @@
 [
   {
-    "id": "46a6bf4e66161103a54015c6f27211b6",
+    "id": "bb418d7d18c70b3a2d93e46dc49561c6",
+    "categorie": "Opinie",
+    "titel": "Greenwashing to the max",
+    "link": "https://www.ieximpact.nl/artikel/874476/Greenwashing-to-the-max.aspx",
+    "intro": "Beleggen in een impactthema is reuze eenvoudig met een ETF. Maar kijk voor aankoop wel even welke aandelen precies worden gevolgd, want die kunnen wel eens héél ver afstaan van het bewuste thema, zoals bijvoorbeeld bij de Xtrackers World Biodiversity Focus SRI UCITS ETF het geval is.",
+    "published_at": "2026-08-14 09:10",
+    "scraped_at": "2026-08-14T08:04:11.352668"
+  },
+  {
+    "id": "dc17b79e3ada23824ab6175282c8a19d",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Berenberg verhoogt koersdoel TKH na sterke eerste jaarhelft",
-    "link": "https://www.beurs.nl/Nieuws/874672/Beursblik-Berenberg-verhoogt-koersdoel-TKH-na-sterke-eerste-jaarhelft.aspx",
+    "titel": "AEX licht hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/874682/AEX-licht-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,3 procent hoger op 1.122,57 punten, terwijl de Midkap 0,5 procent won.",
+    "published_at": "2026-08-14 09:09",
+    "scraped_at": "2026-08-14T08:04:11.352668"
+  },
+  {
+    "id": "7164500b82533a23ad380c260ee5fc4d",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel Fastned",
+    "link": "https://www.beurs.nl/Nieuws/874676/Deutsche-Bank-verhoogt-koersdoel-Fastned.aspx",
+    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor Fastned verhoogd van 33,00 naar 35,00 euro, bij handhaving van het Houden advies. Dit bleek uit een rapport van analist Nikita Papaccio.",
+    "published_at": "2026-08-14 08:50",
+    "scraped_at": "2026-08-14T08:04:11.352668"
+  },
+  {
+    "id": "b77022117c43205ae6af66029ee51ec4",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel Adyen",
+    "link": "https://www.beurs.nl/Nieuws/874675/Deutsche-Bank-verhoogt-koersdoel-Adyen.aspx",
+    "intro": "Deutsche Bank heeft het koersdoel voor Adyen verhoogd van 1.238 naar 1.350 euro, bij handhaving van het koopadvies. Dit kwam vrijdag naar voren uit een rapport van analist Nooshin Nejati, na de cijferraportage van het betaalbedrijf donderdag.",
+    "published_at": "2026-08-14 08:49",
+    "scraped_at": "2026-08-14T08:04:11.352668"
+  },
+  {
+    "id": "7506e45738007102b3ef9f0c64cbf594",
+    "categorie": "Beursnieuws",
+    "titel": "Berenberg verhoogt koersdoel TKH na sterke eerste jaarhelft",
+    "link": "https://www.beurs.nl/Nieuws/874672/Berenberg-verhoogt-koersdoel-TKH-na-sterke-eerste-jaarhelft.aspx",
     "intro": "Berenberg heeft het koersdoel voor TKH Group verhoogd van 60,00 naar 68,50 euro, bij handhaving van het koopadvies. Dit bleek vrijdag uit een rapport van analist Trion Reid.",
     "published_at": "2026-08-14 08:27",
-    "scraped_at": "2026-08-14T06:49:17.354647"
+    "scraped_at": "2026-08-14T08:04:11.352668"
   },
   {
     "id": "8ca42511ad4ce4d1aee0b01c553adbee",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874671/ING-lost-twee-leningen-af.aspx",
     "intro": "ING wil op 11 september twee series obligatieleningen vervroegd aflossen met een gezamenlijke hoofdsom van 1,75 miljard dollar. Dit maakte de bank vrijdag bekend.",
     "published_at": "2026-08-14 08:14",
-    "scraped_at": "2026-08-14T06:49:17.354647"
+    "scraped_at": "2026-08-14T08:04:11.352668"
   },
   {
     "id": "05e9664566a209915012b00fc3dd15d5",
@@ -24,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/874588/AEX-opent-hoger-en-risico-Daar-willen-de-chippers-niks-van-weten.aspx",
     "intro": "De AEX opent straks hoger en we bevinden ons in de laatste fase van dit cijferseizoen. Helpen de cijfers van chipmachinefabrikant Applied Materials ons aan een nog beter weekgemiddelde?",
     "published_at": "2026-08-14 08:00",
-    "scraped_at": "2026-08-14T06:49:17.354647"
+    "scraped_at": "2026-08-14T08:04:11.352668"
   },
   {
     "id": "75b77d8321e275af4a57036008f9aebf",
@@ -33,60 +69,24 @@
     "link": "https://www.beurs.nl/Nieuws/874665/AEX-start-handelsdag-vermoedelijk-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,4 procent.",
     "published_at": "2026-08-14 07:54",
-    "scraped_at": "2026-08-14T06:49:17.354647"
+    "scraped_at": "2026-08-14T08:04:11.352668"
   },
   {
-    "id": "89f7650fd5c263326a40ea49612d86a9",
+    "id": "776696a42a1cbb3be0bf6854b1e88979",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel Adyen na sterke eerste jaarhelft",
-    "link": "https://www.beurs.nl/Nieuws/874663/Beursblik-Jefferies-verhoogt-koersdoel-Adyen-na-sterke-eerste-jaarhelft.aspx",
+    "titel": "Jefferies verhoogt koersdoel Adyen na sterke eerste jaarhelft",
+    "link": "https://www.beurs.nl/Nieuws/874663/Jefferies-verhoogt-koersdoel-Adyen-na-sterke-eerste-jaarhelft.aspx",
     "intro": "Jefferies heeft het koersdoel voor Adyen verhoogd van 1.166 naar 1.233 euro, bij handhaving van het koopadvies. Dit kwam vrijdag naar voren uit een rapport van analist Hannes Leitner, na de cijferraportage van het betaalbedrijf donderdag.",
     "published_at": "2026-08-14 07:33",
-    "scraped_at": "2026-08-14T06:49:17.354647"
+    "scraped_at": "2026-08-14T08:04:11.352668"
   },
   {
-    "id": "d6ca55915ebca74d5b228968fafdca49",
+    "id": "6b125e5d7cba5577c4f2e701bab6d50e",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel Fastned flink",
-    "link": "https://www.beurs.nl/Nieuws/874661/Beursblik-Jefferies-verhoogt-koersdoel-Fastned-flink.aspx",
+    "titel": "Jefferies verhoogt koersdoel Fastned flink",
+    "link": "https://www.beurs.nl/Nieuws/874661/Jefferies-verhoogt-koersdoel-Fastned-flink.aspx",
     "intro": "Jefferies heeft vrijdag het koersdoel voor Fastned verhoogd van 30,00 naar 42,00 euro, maar handhaafde daarbij het koopadvies. Dit bleek uit een rapport van analist David Kerstens.",
     "published_at": "2026-08-14 07:13",
-    "scraped_at": "2026-08-14T06:49:17.354647"
-  },
-  {
-    "id": "ef29f17244545252334398980f83da46",
-    "categorie": "Beursnieuws",
-    "titel": "Licht positief beeld op Aziatische beurzen",
-    "link": "https://www.beurs.nl/Nieuws/874660/Licht-positief-beeld-op-Aziatische-beurzen.aspx",
-    "intro": "In Azië lieten de beurzen vrijdagochtend een licht positief beeld zien. Tokio en Seoel noteerden in het groen, terwijl Hongkong en Sydney daalden. De breed samengestelde MSCI Asia Pacific-index won 0,2 procent.",
-    "published_at": "2026-08-14 07:12",
-    "scraped_at": "2026-08-14T06:49:17.354647"
-  },
-  {
-    "id": "d63098e686f90105273a544442edea85",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen hoger",
-    "link": "https://www.beurs.nl/Nieuws/874659/Europese-beurzen-openen-hoger.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet, nadat de SP 500 een dag eerder op recordniveau sloot.",
-    "published_at": "2026-08-14 07:07",
-    "scraped_at": "2026-08-14T06:49:17.354647"
-  },
-  {
-    "id": "9fcc2befcb830c31deb76ea68f60677d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/874656/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 21 augustus 2026:",
-    "published_at": "2026-08-14 06:59",
-    "scraped_at": "2026-08-14T06:49:17.354647"
-  },
-  {
-    "id": "e97970d15786ab175fdeb88b48d8f154",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/874657/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 21 augustus 2026:",
-    "published_at": "2026-08-14 06:59",
-    "scraped_at": "2026-08-14T06:49:17.354647"
+    "scraped_at": "2026-08-14T08:04:11.352668"
   }
 ]
