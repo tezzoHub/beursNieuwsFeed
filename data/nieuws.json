@@ -1,12 +1,84 @@
 [
   {
+    "id": "46a6bf4e66161103a54015c6f27211b6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Berenberg verhoogt koersdoel TKH na sterke eerste jaarhelft",
+    "link": "https://www.beurs.nl/Nieuws/874672/Beursblik-Berenberg-verhoogt-koersdoel-TKH-na-sterke-eerste-jaarhelft.aspx",
+    "intro": "Berenberg heeft het koersdoel voor TKH Group verhoogd van 60,00 naar 68,50 euro, bij handhaving van het koopadvies. Dit bleek vrijdag uit een rapport van analist Trion Reid.",
+    "published_at": "2026-08-14 08:27",
+    "scraped_at": "2026-08-14T06:49:17.354647"
+  },
+  {
+    "id": "8ca42511ad4ce4d1aee0b01c553adbee",
+    "categorie": "Beursnieuws",
+    "titel": "ING lost twee leningen af",
+    "link": "https://www.beurs.nl/Nieuws/874671/ING-lost-twee-leningen-af.aspx",
+    "intro": "ING wil op 11 september twee series obligatieleningen vervroegd aflossen met een gezamenlijke hoofdsom van 1,75 miljard dollar. Dit maakte de bank vrijdag bekend.",
+    "published_at": "2026-08-14 08:14",
+    "scraped_at": "2026-08-14T06:49:17.354647"
+  },
+  {
+    "id": "05e9664566a209915012b00fc3dd15d5",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent hoger en risico? Daar willen de chippers niks van weten",
+    "link": "https://www.iex.nl/artikel/874588/AEX-opent-hoger-en-risico-Daar-willen-de-chippers-niks-van-weten.aspx",
+    "intro": "De AEX opent straks hoger en we bevinden ons in de laatste fase van dit cijferseizoen. Helpen de cijfers van chipmachinefabrikant Applied Materials ons aan een nog beter weekgemiddelde?",
+    "published_at": "2026-08-14 08:00",
+    "scraped_at": "2026-08-14T06:49:17.354647"
+  },
+  {
+    "id": "75b77d8321e275af4a57036008f9aebf",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsdag vermoedelijk in het groen",
+    "link": "https://www.beurs.nl/Nieuws/874665/AEX-start-handelsdag-vermoedelijk-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,4 procent.",
+    "published_at": "2026-08-14 07:54",
+    "scraped_at": "2026-08-14T06:49:17.354647"
+  },
+  {
+    "id": "89f7650fd5c263326a40ea49612d86a9",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verhoogt koersdoel Adyen na sterke eerste jaarhelft",
+    "link": "https://www.beurs.nl/Nieuws/874663/Beursblik-Jefferies-verhoogt-koersdoel-Adyen-na-sterke-eerste-jaarhelft.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Adyen verhoogd van 1.166 naar 1.233 euro, bij handhaving van het koopadvies. Dit kwam vrijdag naar voren uit een rapport van analist Hannes Leitner, na de cijferraportage van het betaalbedrijf donderdag.",
+    "published_at": "2026-08-14 07:33",
+    "scraped_at": "2026-08-14T06:49:17.354647"
+  },
+  {
+    "id": "d6ca55915ebca74d5b228968fafdca49",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verhoogt koersdoel Fastned flink",
+    "link": "https://www.beurs.nl/Nieuws/874661/Beursblik-Jefferies-verhoogt-koersdoel-Fastned-flink.aspx",
+    "intro": "Jefferies heeft vrijdag het koersdoel voor Fastned verhoogd van 30,00 naar 42,00 euro, maar handhaafde daarbij het koopadvies. Dit bleek uit een rapport van analist David Kerstens.",
+    "published_at": "2026-08-14 07:13",
+    "scraped_at": "2026-08-14T06:49:17.354647"
+  },
+  {
+    "id": "ef29f17244545252334398980f83da46",
+    "categorie": "Beursnieuws",
+    "titel": "Licht positief beeld op Aziatische beurzen",
+    "link": "https://www.beurs.nl/Nieuws/874660/Licht-positief-beeld-op-Aziatische-beurzen.aspx",
+    "intro": "In Azië lieten de beurzen vrijdagochtend een licht positief beeld zien. Tokio en Seoel noteerden in het groen, terwijl Hongkong en Sydney daalden. De breed samengestelde MSCI Asia Pacific-index won 0,2 procent.",
+    "published_at": "2026-08-14 07:12",
+    "scraped_at": "2026-08-14T06:49:17.354647"
+  },
+  {
+    "id": "d63098e686f90105273a544442edea85",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen hoger",
+    "link": "https://www.beurs.nl/Nieuws/874659/Europese-beurzen-openen-hoger.aspx",
+    "intro": "De Europese beurzen gaan vrijdag een hogere opening tegemoet, nadat de SP 500 een dag eerder op recordniveau sloot.",
+    "published_at": "2026-08-14 07:07",
+    "scraped_at": "2026-08-14T06:49:17.354647"
+  },
+  {
     "id": "9fcc2befcb830c31deb76ea68f60677d",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/874656/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 21 augustus 2026:",
     "published_at": "2026-08-14 06:59",
-    "scraped_at": "2026-08-14T05:10:54.045125"
+    "scraped_at": "2026-08-14T06:49:17.354647"
   },
   {
     "id": "e97970d15786ab175fdeb88b48d8f154",
@@ -15,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874657/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 21 augustus 2026:",
     "published_at": "2026-08-14 06:59",
-    "scraped_at": "2026-08-14T05:10:54.045125"
-  },
-  {
-    "id": "4318d3461eac10d26fbd506643da7f51",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/874658/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 21 augustus 2026:",
-    "published_at": "2026-08-14 06:59",
-    "scraped_at": "2026-08-14T05:10:54.045125"
+    "scraped_at": "2026-08-14T06:49:17.354647"
   }
 ]
