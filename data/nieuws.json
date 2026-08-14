@@ -1,12 +1,21 @@
 [
   {
+    "id": "62319edede79b3d3d4dca43720b5e273",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen voorzichtige opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/874717/Futures-voorspellen-voorzichtige-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd fractioneel hoger.",
+    "published_at": "2026-08-14 12:55",
+    "scraped_at": "2026-08-14T11:32:08.042471"
+  },
+  {
     "id": "9f143bf019af0ab972ecc9857e295cb7",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen halverwege de dag terughoudend",
     "link": "https://www.beurs.nl/Nieuws/874701/Europese-beurzen-halverwege-de-dag-terughoudend.aspx",
     "intro": "De aandelenmarkten in Europa noteerden vrijdag overwegend wat lager, met als uitzondering de Duitse DAX, die werd geholpen door koersstijgingen van SAP en Rheinmetall.",
     "published_at": "2026-08-14 12:01",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   },
   {
     "id": "56b8767cb87b7a37dfaa315a25ecc04f",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/874699/Groei-eurozone-conform-eerdere-cijfers.aspx",
     "intro": "De economie in de eurozone is in het tweede kwartaal weer gegroeid, na een nulgroei in de drie maanden ervoor. Dit bleek vrijdagochtend uit nieuwe cijfers van statistiekbureau Eurostat, die eerdere data bevestigden.",
     "published_at": "2026-08-14 11:34",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   },
   {
     "id": "52f616a0a0bc529f19383877f56d27dc",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874697/Export-eurozone-stijgt-flink.aspx",
     "intro": "De export in de eurozone is in juni flink gestegen, terwijl de import ook behoorlijk toenam. Dit bleek vrijdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
     "published_at": "2026-08-14 11:33",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   },
   {
     "id": "69d8e2178a0d1101db63e385aed01c4f",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874695/Databedrijven-aan-kop-in-licht-hogere-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste vrijdag licht hoger, met winsten voor databedrijven en defensienamen. Rond de klok van elf uur won de AEX 0,2 procent op 1.121,32 punten.",
     "published_at": "2026-08-14 11:00",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   },
   {
     "id": "6339a74b8dc2688783be809b96f4d59b",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874692/Franse-inflatie-gestegen.aspx",
     "intro": "De inflatie in Frankrijk is in juli gestegen. Dit bleek vrijdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
     "published_at": "2026-08-14 10:31",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   },
   {
     "id": "ef5c458921fa9c2f333d20cb9c239918",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874689/UBS-verhoogt-koersdoel-Adyen.aspx",
     "intro": "UBS heeft vrijdag het koersdoel voor Adyen verhoogd van 1.350 naar 1.400 euro, bij handhaving van het koopadvies. Dit bleek uit een rapport van analist Justin Forsythe.",
     "published_at": "2026-08-14 10:08",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   },
   {
     "id": "bb418d7d18c70b3a2d93e46dc49561c6",
@@ -60,7 +69,7 @@
     "link": "https://www.ieximpact.nl/artikel/874476/Greenwashing-to-the-max.aspx",
     "intro": "Beleggen in een impactthema is reuze eenvoudig met een ETF. Maar kijk voor aankoop wel even welke aandelen precies worden gevolgd, want die kunnen wel eens héél ver afstaan van het bewuste thema, zoals bijvoorbeeld bij de Xtrackers World Biodiversity Focus SRI UCITS ETF het geval is.",
     "published_at": "2026-08-14 09:10",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   },
   {
     "id": "dc17b79e3ada23824ab6175282c8a19d",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874682/AEX-licht-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong 0,3 procent hoger op 1.122,57 punten, terwijl de Midkap 0,5 procent won.",
     "published_at": "2026-08-14 09:09",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   },
   {
     "id": "7164500b82533a23ad380c260ee5fc4d",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874676/Deutsche-Bank-verhoogt-koersdoel-Fastned.aspx",
     "intro": "Deutsche Bank heeft vrijdag het koersdoel voor Fastned verhoogd van 33,00 naar 35,00 euro, bij handhaving van het Houden advies. Dit bleek uit een rapport van analist Nikita Papaccio.",
     "published_at": "2026-08-14 08:50",
-    "scraped_at": "2026-08-14T10:42:33.852123"
-  },
-  {
-    "id": "b77022117c43205ae6af66029ee51ec4",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel Adyen",
-    "link": "https://www.beurs.nl/Nieuws/874675/Deutsche-Bank-verhoogt-koersdoel-Adyen.aspx",
-    "intro": "Deutsche Bank heeft het koersdoel voor Adyen verhoogd van 1.238 naar 1.350 euro, bij handhaving van het koopadvies. Dit kwam vrijdag naar voren uit een rapport van analist Nooshin Nejati, na de cijferraportage van het betaalbedrijf donderdag.",
-    "published_at": "2026-08-14 08:49",
-    "scraped_at": "2026-08-14T10:42:33.852123"
+    "scraped_at": "2026-08-14T11:32:08.042471"
   }
 ]
