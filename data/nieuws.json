@@ -1,92 +1,29 @@
 [
   {
-    "id": "0cb1bac395fa18b7e602f1ad7a4f3b58",
+    "id": "43c7ff9079098e1b0a94d4ff37176904",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/874760/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-08-14 22:15",
-    "scraped_at": "2026-08-15T09:26:39.957609"
+    "titel": "Media: Trump wil Straat van Hormuz inlijven",
+    "link": "https://www.beurs.nl/Nieuws/874771/Media-Trump-wil-Straat-van-Hormuz-inlijven.aspx",
+    "intro": "De Amerikaanse president Donald Trump wil dat de Straat van Hormuz deel gaat uitmaken van het grondgebied van de Verenigde Staten, zodra de oorlog met Iran voorbij is. Dit meldde The Wall Street Journal vrijdagavond laat op basis van uitspraken van Trump, die afgelopen week ook al zoiets opperde op Truth Social.",
+    "published_at": "2026-08-15 11:49",
+    "scraped_at": "2026-08-15T10:01:11.719352"
   },
   {
-    "id": "c83b7f7a78c6cea05120d6af769fb0a2",
+    "id": "ecbebd0d82ae68982d8a0e66ecb0fee6",
     "categorie": "Beursnieuws",
-    "titel": "Tegenvallende data en Hormuz drukken sentiment Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/874759/Tegenvallende-data-en-Hormuz-drukken-sentiment-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag na een tamme handelssessie licht lager gesloten, terwijl tekenen van een vertraging van de economie het optimisme over het uitblijven van een mogelijke renteverhoging door de Federal Reserve in september overschaduwden. Ook de aanhoudende onzekerheid over de Straat van Hormuz hield beleggers voorzichtig.",
-    "published_at": "2026-08-14 22:13",
-    "scraped_at": "2026-08-15T09:26:39.957609"
+    "titel": "Media: VS willen niet dat Apple Chinese geheugenchips koopt",
+    "link": "https://www.beurs.nl/Nieuws/874770/Media-VS-willen-niet-dat-Apple-Chinese-geheugenchips-koopt.aspx",
+    "intro": "De Amerikaanse regering wil niet dat Apple geheugenchips uit China koopt. Dit meldde The Wall Street Journal zaterdag op basis van uitspraken van minister van Handel Howard Lutnick.",
+    "published_at": "2026-08-15 11:38",
+    "scraped_at": "2026-08-15T10:01:11.719352"
   },
   {
-    "id": "e2b082491a11c9416e6b1a4807f6c748",
+    "id": "d5baa587a81e86790c036fc3e42d1128",
     "categorie": "Beursnieuws",
-    "titel": "Trumps economische druk stuwt olieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/874756/Trumps-economische-druk-stuwt-olieprijzen.aspx",
-    "intro": "De olieprijzen zijn vrijdag hoger gesloten nadat de VS hadden aangegeven dat hun zeeblokkade van Iraanse havens \"voor onbepaalde tijd\" zou kunnen voortduren, wat de bezorgdheid over de energiestromen door de cruciale Straat van Hormuz opnieuw aanwakkerde.",
-    "published_at": "2026-08-14 21:06",
-    "scraped_at": "2026-08-15T09:26:39.957609"
-  },
-  {
-    "id": "91db08abd3a988daa831e08855bc75e2",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street neemt gas terug",
-    "link": "https://www.beurs.nl/Nieuws/874755/Wall-Street-neemt-gas-terug.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag licht lager, terwijl tekenen van een vertraging van de economie het optimisme over het uitblijven van een mogelijke renteverhoging door de Federal Reserve in september overschaduwden.",
-    "published_at": "2026-08-14 19:34",
-    "scraped_at": "2026-08-15T09:26:39.957609"
-  },
-  {
-    "id": "981bcaf8a0d557dbae12ea5f1fe46057",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen terughoudend het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/874754/Europese-beurzen-terughoudend-het-weekend-in.aspx",
-    "intro": "De Europese aandelenmarkten zijn vrijdag overwegend lager gesloten, hoewel de uitslagen op indexniveau beperkt bleven. Positieve uitzondering was de Duitse DAX, die werd geholpen door koersstijgingen van onder meer SAP en Rheinmetall.",
-    "published_at": "2026-08-14 18:43",
-    "scraped_at": "2026-08-15T09:26:39.957609"
-  },
-  {
-    "id": "8fc870d279fe6418df0bd80d2d95c0ac",
-    "categorie": "Beursnieuws",
-    "titel": "AEX scherpt record aan en neemt vervolgens gas terug",
-    "link": "https://www.beurs.nl/Nieuws/874749/AEX-scherpt-record-aan-en-neemt-vervolgens-gas-terug.aspx",
-    "intro": "De Amsterdamse beurs wist vrijdag tussentijds zijn all time high aan te scherpen tot 1.124 punten, terwijl databedrijven goed scoorden door mogelijk overnamenieuws in de sector.",
-    "published_at": "2026-08-14 17:52",
-    "scraped_at": "2026-08-15T09:26:39.957609"
-  },
-  {
-    "id": "aec7434128c4be007def37172afd2a81",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/874744/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 24 augustus 2026:",
-    "published_at": "2026-08-14 16:29",
-    "scraped_at": "2026-08-15T09:26:39.957609"
-  },
-  {
-    "id": "fdfb6f6f16bc96706b2a6a2943faa75e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/874745/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 24 augustus 2026:",
-    "published_at": "2026-08-14 16:29",
-    "scraped_at": "2026-08-15T09:26:39.957609"
-  },
-  {
-    "id": "253a3b7718fa5ac0ce58b9c7a9bb32be",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/874746/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 24 augustus 2026:",
-    "published_at": "2026-08-14 16:29",
-    "scraped_at": "2026-08-15T09:26:39.957609"
-  },
-  {
-    "id": "2413b11eb542515fd360cefecfbcb807",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen VS behoorlijk gedaald",
-    "link": "https://www.beurs.nl/Nieuws/874741/Consumentenvertrouwen-VS-behoorlijk-gedaald.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in augustus behoorlijk gedaald, na twee maanden van stijgingen. Dit bleek vrijdag uit de voorlopige cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-08-14 16:06",
-    "scraped_at": "2026-08-15T09:26:39.957609"
+    "titel": "Ebusco weet verlies terug te dringen",
+    "link": "https://www.beurs.nl/Nieuws/874769/Ebusco-weet-verlies-terug-te-dringen.aspx",
+    "intro": "Ebusco heeft in de eerste zes maanden van 2026 een lagere omzet geboekt, maar het verlies nam ook af, terwijl de kosten daalden. Dit blijkt uit de cijfers van de bouwer van elektrische bussen uit Deurne.",
+    "published_at": "2026-08-15 11:25",
+    "scraped_at": "2026-08-15T10:01:11.719352"
   }
 ]
