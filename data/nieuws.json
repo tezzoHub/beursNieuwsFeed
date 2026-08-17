@@ -1,12 +1,48 @@
 [
   {
+    "id": "50f846e58e4ee07b5549778337948345",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verhoogt koersdoel voor Magnum Ice",
+    "link": "https://www.beurs.nl/Nieuws/874833/Jefferies-verhoogt-koersdoel-voor-Magnum-Ice.aspx",
+    "intro": "Jefferies heeft het koersdoel voor The Magnum Ice Cream Company verhoogd van 13,50 naar 15,60 euro, maar het advies gehandhaafd op Houden. Dit bleek maandagochtend uit een rapport van analist David Hayes.",
+    "published_at": "2026-08-17 08:46",
+    "scraped_at": "2026-08-17T07:09:39.281085"
+  },
+  {
+    "id": "edde104340bd8422528867b6ec9ca5c1",
+    "categorie": "Opinie",
+    "titel": "Kinderen betalen de klimaatrekening",
+    "link": "https://www.ieximpact.nl/artikel/874463/Kinderen-betalen-de-klimaatrekening.aspx",
+    "intro": "Wereldwijde klimaatfinanciering is fors gegroeid, maar slechts een heel klein deel bereikt de minst ontwikkelde economieën. Lindsay Hooper van het Cambridge Institute for Sustainability Leadership waarschuwt dat juist daar de gevolgen van klimaatverandering het hardst aankomen. Zij pleit voor slimmere financiering die privaat kapitaal naar lokale bewezen oplossingen kan leiden.",
+    "published_at": "2026-08-17 08:40",
+    "scraped_at": "2026-08-17T07:09:39.281085"
+  },
+  {
+    "id": "67f2395f54c79b0036455a137ad56f7f",
+    "categorie": "Voorbeurs",
+    "titel": "AEX scherpt record waarschijnlijk aan, maar er zijn weinig triggers",
+    "link": "https://www.beurs.nl/Artikel/874799/AEX-scherpt-record-waarschijnlijk-aan-maar-er-zijn-weinig-triggers.aspx",
+    "intro": "Openingsindicatie: +0,3%. Vooral geopolitiek nieuws: Trump wil Straat van Hormuz annexeren en schaalt militaire oefeningen met Zuid-Korea af. En wat brengt deze beursweek zoal?",
+    "published_at": "2026-08-17 08:20",
+    "scraped_at": "2026-08-17T07:09:39.281085"
+  },
+  {
+    "id": "b26798fcd498ce248553962515f2cc3f",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsweek vermoedelijk in het groen",
+    "link": "https://www.beurs.nl/Nieuws/874821/AEX-start-handelsweek-vermoedelijk-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs maakt zich maandag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,3 procent.",
+    "published_at": "2026-08-17 08:00",
+    "scraped_at": "2026-08-17T07:09:39.281085"
+  },
+  {
     "id": "6148f951b7defd39cbb155f041363a90",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen gaan licht hogere opening tegemoet",
     "link": "https://www.beurs.nl/Nieuws/874816/Europese-beurzen-gaan-licht-hogere-opening-tegemoet.aspx",
     "intro": "De aandelenmarkten in Europa gaan maandag een licht hogere opening tegemoet, terwijl het cijferseizoen ten einde loopt en komende week er aandacht zal zijn voor de notulen van het laatste rentebesluit van de Federal Reserve. Deze kunnen meer inzicht bieden in het rentebeleid van de Amerikaanse centrale bank in de komende maanden.",
     "published_at": "2026-08-17 07:12",
-    "scraped_at": "2026-08-17T05:58:17.959794"
+    "scraped_at": "2026-08-17T07:09:39.281085"
   },
   {
     "id": "a0802b30e7ef7ad1e3b21d74916f716a",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874815/Aziatische-beurzen-noteren-overwegend-in-het-groen.aspx",
     "intro": "De Aziatische beuren noteerden maandagochtend overwegend in het groen. Tokio en Sydney bleven dichtbij huis, terwijl de Chinese beurzen de weg omhoog vonden. De breed samengestelde MSCI Asia Pacific-index won 0,3 procent.",
     "published_at": "2026-08-17 07:07",
-    "scraped_at": "2026-08-17T05:58:17.959794"
+    "scraped_at": "2026-08-17T07:09:39.281085"
   },
   {
     "id": "64279821825e626b0773472aff0a3492",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874811/Economische-groei-Japan-vlakt-af.aspx",
     "intro": "De Japanse economie is in het tweede kwartaal minder sterk gegroeid dan economen hadden verwacht. Dit bleek maandag uit voorlopige cijfers van de Japanse overheid.",
     "published_at": "2026-08-17 07:03",
-    "scraped_at": "2026-08-17T05:58:17.959794"
+    "scraped_at": "2026-08-17T07:09:39.281085"
   },
   {
     "id": "b192e4662293c32409c9e148f914be15",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874804/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 24 augustus 2026:",
     "published_at": "2026-08-17 06:34",
-    "scraped_at": "2026-08-17T05:58:17.959794"
+    "scraped_at": "2026-08-17T07:09:39.281085"
   },
   {
     "id": "2a58116d038ee424c93ff40d21e816ae",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874805/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 24 augustus 2026:",
     "published_at": "2026-08-17 06:34",
-    "scraped_at": "2026-08-17T05:58:17.959794"
+    "scraped_at": "2026-08-17T07:09:39.281085"
   },
   {
     "id": "a59c87ee538f13e1ec15ff98a21276e7",
@@ -51,6 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874806/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 24 augustus 2026:",
     "published_at": "2026-08-17 06:33",
-    "scraped_at": "2026-08-17T05:58:17.959794"
+    "scraped_at": "2026-08-17T07:09:39.281085"
   }
 ]
