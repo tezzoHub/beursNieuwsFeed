@@ -1,12 +1,48 @@
 [
   {
-    "id": "0be9808551f7ba853281bbb63c66112d",
+    "id": "d801dc3f08d6a920919c63161b5c4970",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoelen ABN AMRO en ING",
-    "link": "https://www.beurs.nl/Nieuws/874896/Beursblik-Jefferies-verhoogt-koersdoelen-ABN-AMRO-en-ING.aspx",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/874906/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 25 augustus 2026:",
+    "published_at": "2026-08-17 16:26",
+    "scraped_at": "2026-08-17T14:35:21.046041"
+  },
+  {
+    "id": "a7c9737b5f88abf08320e7870fa931ef",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/874904/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 25 augustus 2026:",
+    "published_at": "2026-08-17 16:25",
+    "scraped_at": "2026-08-17T14:35:21.046041"
+  },
+  {
+    "id": "5e18f47d305c07a739f7a049b0d3b467",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/874905/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 25 augustus 2026:",
+    "published_at": "2026-08-17 16:25",
+    "scraped_at": "2026-08-17T14:35:21.046041"
+  },
+  {
+    "id": "4802aacc647c48ce8123aa5216b10ca3",
+    "categorie": "Beursnieuws",
+    "titel": "Vertrouwen Amerikaanse huizenbouwers licht verbeterd",
+    "link": "https://www.beurs.nl/Nieuws/874900/Vertrouwen-Amerikaanse-huizenbouwers-licht-verbeterd.aspx",
+    "intro": "Het vertrouwen onder Amerikaanse huizenbouwers is in augustus licht verbeterd. Dit bleek maandag uit data van de National Association of Home Builders.",
+    "published_at": "2026-08-17 16:07",
+    "scraped_at": "2026-08-17T14:35:21.046041"
+  },
+  {
+    "id": "e873b515b5d7079ddb71acb4c511318d",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verhoogt koersdoelen ABN AMRO en ING",
+    "link": "https://www.beurs.nl/Nieuws/874896/Jefferies-verhoogt-koersdoelen-ABN-AMRO-en-ING.aspx",
     "intro": "Jefferies heeft de koersdoelen voor ABN AMRO en ING verhoogd, tot respectievelijk 48,00 en 31,00 euro, met behoud van de adviezen Kopen en Houden. Dat meldden de analisten maandag in een rapport.",
     "published_at": "2026-08-17 15:37",
-    "scraped_at": "2026-08-17T13:57:24.679047"
+    "scraped_at": "2026-08-17T14:35:21.046041"
   },
   {
     "id": "1bc3561bd64019143404a4f77a1e313e",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874892/Wall-Street-op-weg-naar-verdeelde-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een verdeelde opening tegemoet, terwijl de olieprijs op een hoog niveau blijft.",
     "published_at": "2026-08-17 14:55",
-    "scraped_at": "2026-08-17T13:57:24.679047"
+    "scraped_at": "2026-08-17T14:35:21.046041"
   },
   {
     "id": "50afdb99c172d57a95c6d61490aebd74",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874888/Empire-State-index-verder-omhoog.aspx",
     "intro": "De bedrijvigheid in de industrie in de regio New York is in augustus verder toegenomen. Dit bleek maandag uit de zogeheten Empire State index van de New York Fed.",
     "published_at": "2026-08-17 14:43",
-    "scraped_at": "2026-08-17T13:57:24.679047"
+    "scraped_at": "2026-08-17T14:35:21.046041"
   },
   {
     "id": "8b8dfb3c419a60ca32b2a50eb4c6413a",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874882/Beursupdate-chipaandelen-trekken-Amsterdamse-beurs-iets-omhoog.aspx",
     "intro": "De Amsterdamse beurs koerste maandagmiddag licht hoger, waarbij de halfgeleidersector in de gunst stond van beleggers.",
     "published_at": "2026-08-17 14:13",
-    "scraped_at": "2026-08-17T13:57:24.679047"
+    "scraped_at": "2026-08-17T14:35:21.046041"
   },
   {
     "id": "b6657b61ec273390a96c34b4f1449f89",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874836/Correctie-Industriele-productie-China-vertraagt-sterker-dan-verwacht.aspx",
     "intro": "De industriële productie in China is in juli sterker vertraagd dan verwacht. Dit bleek maandag uit overheidscijfers.",
     "published_at": "2026-08-17 13:49",
-    "scraped_at": "2026-08-17T13:57:24.679047"
+    "scraped_at": "2026-08-17T14:35:21.046041"
   },
   {
     "id": "8a4b955e1205000f6943700a7ed2811f",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874875/Overwegend-groene-futures-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een overwegend hogere opening tegemoet, met name voor de technologie-aandelen, terwijl de olieprijs op een hoog niveau blijft.",
     "published_at": "2026-08-17 13:22",
-    "scraped_at": "2026-08-17T13:57:24.679047"
-  },
-  {
-    "id": "da8335825724bdeae6ee81e236898b95",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen blijven dicht bij huis",
-    "link": "https://www.beurs.nl/Nieuws/874874/Europese-beurzen-blijven-dicht-bij-huis.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden maandag rond lunchtijd verdeeld en met beperkte uitslagen tijdens een matte handelssessie.",
-    "published_at": "2026-08-17 13:20",
-    "scraped_at": "2026-08-17T13:57:24.679047"
-  },
-  {
-    "id": "aa8871717471e001b2a435d71b3442b9",
-    "categorie": "Beursnieuws",
-    "titel": "Raketaanval treft fabriek ArcelorMittal in Oekraine",
-    "link": "https://www.beurs.nl/Nieuws/874868/Raketaanval-treft-fabriek-ArcelorMittal-in-Oekraine.aspx",
-    "intro": "De fabriek van ArcelorMittal in Kryvih Rih in Oekraïne is afgelopen weekend getroffen door een raketaanval. Bij de aanval kwamen twee mensen om het leven en raakten dertien personen gewond. Dit meldde het staalbedrijf maandag.",
-    "published_at": "2026-08-17 12:15",
-    "scraped_at": "2026-08-17T13:57:24.679047"
-  },
-  {
-    "id": "f5b040b29149fa7b37246be91a55ba54",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Duitsland overweegt verkoop belang in Commerzbank",
-    "link": "https://www.beurs.nl/Nieuws/874867/Media-Duitsland-overweegt-verkoop-belang-in-Commerzbank.aspx",
-    "intro": "Vertegenwoordigers van de Duitse regering staan open voor gesprekken over de verkoop van het Duitse belang van 12,7 procent in Commerzbank aan UniCredit, mits de twee banken het eens worden over een gezamenlijke strategie. Dit meldde Bloomberg maandag.",
-    "published_at": "2026-08-17 12:09",
-    "scraped_at": "2026-08-17T13:57:24.679047"
-  },
-  {
-    "id": "2f830fa5e02cd637a26596f2762bce7b",
-    "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders aan kop in lichtgroene AEX",
-    "link": "https://www.beurs.nl/Nieuws/874847/Halfgeleiders-aan-kop-in-lichtgroene-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste maandagochtend licht hoger, waarbij de halfgeleidersector in de gunst stond van beleggers. Rond de klok van elf uur won de AEX 0,2 procent op 1.120,02 punten.",
-    "published_at": "2026-08-17 10:55",
-    "scraped_at": "2026-08-17T13:57:24.679047"
+    "scraped_at": "2026-08-17T14:35:21.046041"
   }
 ]
