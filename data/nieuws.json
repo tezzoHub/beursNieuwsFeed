@@ -1,12 +1,21 @@
 [
   {
+    "id": "da8335825724bdeae6ee81e236898b95",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen blijven dicht bij huis",
+    "link": "https://www.beurs.nl/Nieuws/874874/Europese-beurzen-blijven-dicht-bij-huis.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden maandag rond lunchtijd verdeeld en met beperkte uitslagen tijdens een matte handelssessie.",
+    "published_at": "2026-08-17 13:20",
+    "scraped_at": "2026-08-17T11:26:45.392306"
+  },
+  {
     "id": "aa8871717471e001b2a435d71b3442b9",
     "categorie": "Beursnieuws",
     "titel": "Raketaanval treft fabriek ArcelorMittal in Oekraine",
     "link": "https://www.beurs.nl/Nieuws/874868/Raketaanval-treft-fabriek-ArcelorMittal-in-Oekraine.aspx",
     "intro": "De fabriek van ArcelorMittal in Kryvih Rih in Oekraïne is afgelopen weekend getroffen door een raketaanval. Bij de aanval kwamen twee mensen om het leven en raakten dertien personen gewond. Dit meldde het staalbedrijf maandag.",
     "published_at": "2026-08-17 12:15",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   },
   {
     "id": "f5b040b29149fa7b37246be91a55ba54",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/874867/Media-Duitsland-overweegt-verkoop-belang-in-Commerzbank.aspx",
     "intro": "Vertegenwoordigers van de Duitse regering staan open voor gesprekken over de verkoop van het Duitse belang van 12,7 procent in Commerzbank aan UniCredit, mits de twee banken het eens worden over een gezamenlijke strategie. Dit meldde Bloomberg maandag.",
     "published_at": "2026-08-17 12:09",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   },
   {
     "id": "2f830fa5e02cd637a26596f2762bce7b",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874847/Halfgeleiders-aan-kop-in-lichtgroene-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste maandagochtend licht hoger, waarbij de halfgeleidersector in de gunst stond van beleggers. Rond de klok van elf uur won de AEX 0,2 procent op 1.120,02 punten.",
     "published_at": "2026-08-17 10:55",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   },
   {
     "id": "7277dc9ca46403285bbefdd8d1e5ce1e",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874848/Jefferies-verwacht-hogere-resultaten-van-Alfen.aspx",
     "intro": "Alfen heeft in de eerste zes maanden van het jaar vermoedelijk hogere resultaten geboekt. Dit is de verwachting van zakenbank Jefferies en ook de analistenconsensus, in aanloop naar de resultaten van de specialist in energieoplossingen dinsdagavond.",
     "published_at": "2026-08-17 10:50",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   },
   {
     "id": "ac9dc5a55e55321648489d250f19941e",
@@ -42,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/874790/Must-read-Comeback-Europese-aandelen-is-logisch.aspx",
     "intro": "Plus: hoge rentes maken obligaties weer aantrekkelijk, beurszorgen zijn er altijd, vooral kinderen betalen klimaatrekening, banken profiteren van AI, en meer.",
     "published_at": "2026-08-17 10:00",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   },
   {
     "id": "ac6449053030e78e8549cad13f9d2958",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874836/Industriele-productie-China-lager-dan-verwacht.aspx",
     "intro": "De industriële productie in China is in juli harder gedaald dan verwacht. Dit bleek maandag uit overheidscijfers.",
     "published_at": "2026-08-17 09:13",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   },
   {
     "id": "7760bfb651d55c33d5bc07141c89eee2",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874837/Detailhandelsverkopen-China-stijgen-minder-hard.aspx",
     "intro": "De detailhandelsverkopen in China zijn in juli minder hard gestegen dan in de maand ervoor. Dit bleek maandag uit Chinese overheidscijfers.",
     "published_at": "2026-08-17 09:13",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   },
   {
     "id": "267354575b78bcec516d9d865671fbd7",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874835/AEX-licht-hoger-van-start-gegaan.aspx",
     "intro": "De AEX-index koerste maandag kort na de beursgong 0,3 procent hoger op 1.120,82 punten, terwijl de Midkap fractioneel in het groen noteerde. Onder de hoofdaandelen wonnen de halfgeleiders Besi, ASMI en ASML tot 3 procent. DSM sloot de rij met een daling van 1,3 procent.",
     "published_at": "2026-08-17 09:10",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   },
   {
     "id": "50f846e58e4ee07b5549778337948345",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874833/Jefferies-verhoogt-koersdoel-voor-Magnum-Ice.aspx",
     "intro": "Jefferies heeft het koersdoel voor The Magnum Ice Cream Company verhoogd van 13,50 naar 15,60 euro, maar het advies gehandhaafd op Houden. Dit bleek maandagochtend uit een rapport van analist David Hayes.",
     "published_at": "2026-08-17 08:46",
-    "scraped_at": "2026-08-17T10:52:59.996023"
-  },
-  {
-    "id": "edde104340bd8422528867b6ec9ca5c1",
-    "categorie": "Opinie",
-    "titel": "Kinderen betalen de klimaatrekening",
-    "link": "https://www.ieximpact.nl/artikel/874463/Kinderen-betalen-de-klimaatrekening.aspx",
-    "intro": "Wereldwijde klimaatfinanciering is fors gegroeid, maar slechts een heel klein deel bereikt de minst ontwikkelde economieën. Lindsay Hooper van het Cambridge Institute for Sustainability Leadership waarschuwt dat juist daar de gevolgen van klimaatverandering het hardst aankomen. Zij pleit voor slimmere financiering die privaat kapitaal naar lokale bewezen oplossingen kan leiden.",
-    "published_at": "2026-08-17 08:40",
-    "scraped_at": "2026-08-17T10:52:59.996023"
+    "scraped_at": "2026-08-17T11:26:45.392306"
   }
 ]
