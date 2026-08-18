@@ -1,12 +1,39 @@
 [
   {
+    "id": "15a7ec19796beb1c0e93dabb3453c87c",
+    "categorie": "Beursnieuws",
+    "titel": "InPost krijgt goedkeuring Europese Commissie",
+    "link": "https://www.beurs.nl/Nieuws/874945/InPost-krijgt-goedkeuring-Europese-Commissie.aspx",
+    "intro": "Het overnamebod op InPost heeft goedkeuring gekregen van de Europese Commissie. Dit maakten een consortium van Advent, FedEx, AR en PPF en InPost dinsdag gezamenlijk bekend.",
+    "published_at": "2026-08-18 08:04",
+    "scraped_at": "2026-08-18T06:16:38.365899"
+  },
+  {
+    "id": "4e3f081fff7a962923097eeda0c4e21b",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsdag vermoedelijk lager met Straat van Hormuz in focus",
+    "link": "https://www.beurs.nl/Nieuws/874942/AEX-start-handelsdag-vermoedelijk-lager-met-Straat-van-Hormuz-in-focus.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent.",
+    "published_at": "2026-08-18 07:53",
+    "scraped_at": "2026-08-18T06:16:38.365899"
+  },
+  {
+    "id": "19e75b0c8eb8868a6bf3f0ce8e93a90f",
+    "categorie": "Beursnieuws",
+    "titel": "BHP profiteert van hoge koperprijzen",
+    "link": "https://www.beurs.nl/Nieuws/874941/BHP-profiteert-van-hoge-koperprijzen.aspx",
+    "intro": "BHP heeft in het afgelopen boekjaar geprofiteerd van de historisch hoge koperprijzen, waardoor koper voor het eerst de belangrijkste winstmotor van de Australische mijnbouwer is geworden. Dit maakte BHP maandag nabeurs bekend bij de publicatie van de jaarcijfers.",
+    "published_at": "2026-08-18 07:47",
+    "scraped_at": "2026-08-18T06:16:38.365899"
+  },
+  {
     "id": "7839a0e990ab2b5a259a0d8223e3e832",
     "categorie": "Beursnieuws",
     "titel": "DSM-Firmenich stelt nieuwe voorzitter voor",
     "link": "https://www.beurs.nl/Nieuws/874938/DSM-Firmenich-stelt-nieuwe-voorzitter-voor.aspx",
     "intro": "Dsm-Firmenich heeft Richard Ridinger voorgedragen als nieuwe voorzitter van de raad van bestuur. Hij volgt Thomas Leysen op, die heeft besloten terug te treden. Dit maakte het bedrijf dinsdagochtend bekend.",
     "published_at": "2026-08-18 07:20",
-    "scraped_at": "2026-08-18T05:36:57.719399"
+    "scraped_at": "2026-08-18T06:16:38.365899"
   },
   {
     "id": "c657ac2d5479f165594cee29b42a3e3a",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874935/Aziatische-beurzen-onder-druk-met-vizier-op-Straat-van-Hormuz.aspx",
     "intro": "De Aziatische aandelenmarkten noteerden dinsdagochtend overwegend in het rood. Oplopende spanningen in de Straat van Hormuz en hogere olieprijzen wakkerden de zorgen over inflatie aan, waardoor de langlopende rentes verder opliepen. De MSCI Asia Pacific-index daalde 0,6 procent.",
     "published_at": "2026-08-18 07:12",
-    "scraped_at": "2026-08-18T05:36:57.719399"
+    "scraped_at": "2026-08-18T06:16:38.365899"
   },
   {
     "id": "da75d3f9bc7779b1060240074312ae96",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/874933/Europese-beurzen-gaan-lagere-opening-tegemoet.aspx",
     "intro": "De aandelenmarkten in Europa gaan dinsdag een lagere opening tegemoet, na een lager slot op Wall Street maandagavond. Dit terwijl de spanningen tussen de VS en Iran aanhielden en zorgen over inflatie leidden tot hogere rentes.",
     "published_at": "2026-08-18 07:01",
-    "scraped_at": "2026-08-18T05:36:57.719399"
+    "scraped_at": "2026-08-18T06:16:38.365899"
   },
   {
     "id": "a8cb6067c8cbb9411fe8000f07db3e3e",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874931/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 25 augustus 2026:",
     "published_at": "2026-08-18 06:41",
-    "scraped_at": "2026-08-18T05:36:57.719399"
+    "scraped_at": "2026-08-18T06:16:38.365899"
   },
   {
     "id": "dfa4503bd3c1a61fec68c08ade733d20",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874928/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 25 augustus 2026:",
     "published_at": "2026-08-18 06:40",
-    "scraped_at": "2026-08-18T05:36:57.719399"
+    "scraped_at": "2026-08-18T06:16:38.365899"
   },
   {
     "id": "a9988c005613fbfe7f36ee3874891b00",
@@ -51,6 +78,6 @@
     "link": "https://www.beurs.nl/Nieuws/874930/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 25 augustus 2026:",
     "published_at": "2026-08-18 06:40",
-    "scraped_at": "2026-08-18T05:36:57.719399"
+    "scraped_at": "2026-08-18T06:16:38.365899"
   }
 ]
