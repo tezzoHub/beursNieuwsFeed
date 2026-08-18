@@ -1,12 +1,57 @@
 [
   {
-    "id": "c3c32ea4e5939b6b3b5c63185e1df858",
+    "id": "82e4d314430fb111d56a9cbfe91767b9",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: chippers houden AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/874992/Beursupdate-chippers-houden-AEX-in-het-rood.aspx",
+    "titel": "Wall Street koerst af op lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/875009/Wall-Street-koerst-af-op-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, mede onder druk van de dalende halfgeleideraandelen. Dit gebeurt tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran en zorgen over inflatie, die leidden tot hogere lange rentes.",
+    "published_at": "2026-08-18 15:00",
+    "scraped_at": "2026-08-18T13:14:40.187118"
+  },
+  {
+    "id": "b262842fa894f6540fe5d030ce89a685",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse importprijzen opnieuw gedaald",
+    "link": "https://www.beurs.nl/Nieuws/875007/Amerikaanse-importprijzen-opnieuw-gedaald.aspx",
+    "intro": "De Amerikaanse importprijzen zijn in juli opnieuw gedaald. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
+    "published_at": "2026-08-18 14:40",
+    "scraped_at": "2026-08-18T13:14:40.187118"
+  },
+  {
+    "id": "7b0e2bac61cea322688327dbb625cc80",
+    "categorie": "Beursnieuws",
+    "titel": "Veel minder woningen in aanbouw genomen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/875006/Veel-minder-woningen-in-aanbouw-genomen-in-de-VS.aspx",
+    "intro": "Het aantal in aanbouw genomen woningen in de VS is in juli flink gedaald, na een forse stijging een maand eerder, terwijl het aantal afgegeven bouwvergunningen wel toenam. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
+    "published_at": "2026-08-18 14:38",
+    "scraped_at": "2026-08-18T13:14:40.187118"
+  },
+  {
+    "id": "3d525298d4960ab64d07a7c7ab2565d8",
+    "categorie": "Beursnieuws",
+    "titel": "ASR genereerde naar verwachting meer kapitaal",
+    "link": "https://www.beurs.nl/Nieuws/875002/ASR-genereerde-naar-verwachting-meer-kapitaal.aspx",
+    "intro": "ASR Nederland zal bij de halfjaarcijfers woensdag voorbeurs naar verwachting een hogere kapitaalaanwas rapporteren en een dito solvabiliteitsratio. Dat blijkt uit een consensusverwachting die de verzekeraar op zijn website publiceerde.",
+    "published_at": "2026-08-18 14:20",
+    "scraped_at": "2026-08-18T13:14:40.187118"
+  },
+  {
+    "id": "c9fc252520062df9399937f9c8edecb0",
+    "categorie": "Beursnieuws",
+    "titel": "Klarna flink onderuit na omzetwaarschuwing",
+    "link": "https://www.beurs.nl/Nieuws/875001/Klarna-flink-onderuit-na-omzetwaarschuwing.aspx",
+    "intro": "Klarna heeft de omzetverwachting voor heel 2026 verlaagd, ondanks sterke resultaten in het tweede kwartaal. Dit maakte het Zweedse betaalbedrijf dinsdagmiddag bekend, naast het vertrek van de CFO en marketingdirecteur.",
+    "published_at": "2026-08-18 14:16",
+    "scraped_at": "2026-08-18T13:14:40.187118"
+  },
+  {
+    "id": "9dae1e7bd551b97af9498f807b4ee27c",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers houden AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/874992/Chippers-houden-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagmiddag lager, terwijl halfgeleideraandelen onder druk stonden als gevolg van de oplopende rentes.",
     "published_at": "2026-08-18 13:48",
-    "scraped_at": "2026-08-18T12:14:51.083479"
+    "scraped_at": "2026-08-18T13:14:40.187118"
   },
   {
     "id": "2a18d5efe5c5ee08a91317408643a5de",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874989/Futures-Wall-Street-signaleren-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, onder druk van de dalende halfgeleideraandelen. Dit gebeurt tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran en zorgen over inflatie, die leidden tot hogere lange rentes.",
     "published_at": "2026-08-18 13:04",
-    "scraped_at": "2026-08-18T12:14:51.083479"
+    "scraped_at": "2026-08-18T13:14:40.187118"
   },
   {
     "id": "e0a953dda4d51c0abe36f77bcf4f5b51",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/874988/Magnum-Ice-Cream-koopt-eigen-aandelen.aspx",
     "intro": "(ABM FN-Dow Jones) The Magnum Ice Cream Company gaat maximaal 5,5 miljoen eigen aandelen inkopen. Dit maakte het ijsbedrijf dinsdag bekend.",
     "published_at": "2026-08-18 12:35",
-    "scraped_at": "2026-08-18T12:14:51.083479"
+    "scraped_at": "2026-08-18T13:14:40.187118"
   },
   {
     "id": "c229ac5098722725b4f8955faefd7439",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874984/Home-Depot-overtreft-verwachtingen.aspx",
     "intro": "Home Depot heeft in het tweede kwartaal van boekjaar 2026 beter dan verwachte resultaten geboekt. Dit maakte de Amerikaanse doe-het-zelfketen dinsdag bekend.",
     "published_at": "2026-08-18 12:18",
-    "scraped_at": "2026-08-18T12:14:51.083479"
+    "scraped_at": "2026-08-18T13:14:40.187118"
   },
   {
     "id": "66e5bb9703d8d00830f24b449146e6dd",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874981/Europese-beurzen-verliezen-verder-terrein.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur lager, terwijl de olieprijzen en de obligatierentes verder opliepen.",
     "published_at": "2026-08-18 12:14",
-    "scraped_at": "2026-08-18T12:14:51.083479"
-  },
-  {
-    "id": "c745ef92937bf39abc1a4b570cb48f51",
-    "categorie": "Beursnieuws",
-    "titel": "ECB-econoom Lane waarschuwt voor langdurig hoge inflatie",
-    "link": "https://www.beurs.nl/Nieuws/874975/ECB-econoom-Lane-waarschuwt-voor-langdurig-hoge-inflatie.aspx",
-    "intro": "De inflatie in de eurozone zal dit jaar waarschijnlijk ruim boven de doelstelling van 2 procent blijven hangen, rond de 3 procent. Dit zei hoofdeconoom Philip Lane van de Europese Centrale Bank dinsdag tegen de Ierse radiozender RTE Radio 1.",
-    "published_at": "2026-08-18 11:56",
-    "scraped_at": "2026-08-18T12:14:51.083479"
-  },
-  {
-    "id": "2ed7cd7012dbfb41995e88e5cc79418e",
-    "categorie": "Beursnieuws",
-    "titel": "Winst Baidu schiet tekort",
-    "link": "https://www.beurs.nl/Nieuws/874973/Winst-Baidu-schiet-tekort.aspx",
-    "intro": "Baidu heeft in het tweede kwartaal minder winst behaald dan verwacht, terwijl de omzet in lijn was met de consensus. Verder bleven de AI-activiteiten wel stevig groeien. Dit bleek dinsdag uit de cijfers van het Chinese bedrijf.",
-    "published_at": "2026-08-18 11:39",
-    "scraped_at": "2026-08-18T12:14:51.083479"
-  },
-  {
-    "id": "c805413e528c0f41d16910f5c6ba0716",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse ZEW-index verder verbeterd",
-    "link": "https://www.beurs.nl/Nieuws/874964/Duitse-ZEW-index-verder-verbeterd.aspx",
-    "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in augustus verder verbeterd. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
-    "published_at": "2026-08-18 11:21",
-    "scraped_at": "2026-08-18T12:14:51.083479"
-  },
-  {
-    "id": "b35f310e04da006d1083e6cb9318c354",
-    "categorie": "Beursnieuws",
-    "titel": "Olie en oplopende rentes drukken sentiment Damrak",
-    "link": "https://www.beurs.nl/Nieuws/874963/Olie-en-oplopende-rentes-drukken-sentiment-Damrak.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag richting het einde van de ochtend lager, terwijl de chippers flink onder druk stonden.",
-    "published_at": "2026-08-18 11:09",
-    "scraped_at": "2026-08-18T12:14:51.083479"
-  },
-  {
-    "id": "bb76b2dcfaa19941b796da41aea88b25",
-    "categorie": "Must read",
-    "titel": "Must read: Hoe bang moeten beleggers zijn voor verder stijgende Amerikaanse rentes?",
-    "link": "https://www.iex.nl/artikel/874789/Must-read-Hoe-bang-moeten-beleggers-zijn-voor-verder-stijgende-Amerikaanse-rentes.aspx",
-    "intro": "Plus: ECB gaat rente zeker verhogen, dividendbeleggers zien kansen in Amerikaanse telecom, extreme zomerhitte Europa is dure grap, China levert onmisbare grondstof voor wapens, en meer.",
-    "published_at": "2026-08-18 09:45",
-    "scraped_at": "2026-08-18T12:14:51.083479"
+    "scraped_at": "2026-08-18T13:14:40.187118"
   }
 ]
