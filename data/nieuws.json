@@ -1,12 +1,30 @@
 [
   {
+    "id": "bc29be8d0b407fea594bdd5d723f467e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: olie en oplopende rentes drukken sentiment Damrak",
+    "link": "https://www.beurs.nl/Nieuws/874963/Beursupdate-olie-en-oplopende-rentes-drukken-sentiment-Damrak.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdag richting het einde van de ochtend lager, terwijl de chippers flink onder druk stonden.",
+    "published_at": "2026-08-18 11:09",
+    "scraped_at": "2026-08-18T09:17:24.518917"
+  },
+  {
+    "id": "c805413e528c0f41d16910f5c6ba0716",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse ZEW-index verder verbeterd",
+    "link": "https://www.beurs.nl/Nieuws/874964/Duitse-ZEW-index-verder-verbeterd.aspx",
+    "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in augustus verder verbeterd. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
+    "published_at": "2026-08-18 11:07",
+    "scraped_at": "2026-08-18T09:17:24.518917"
+  },
+  {
     "id": "bb76b2dcfaa19941b796da41aea88b25",
     "categorie": "Must read",
     "titel": "Must read: Hoe bang moeten beleggers zijn voor verder stijgende Amerikaanse rentes?",
     "link": "https://www.iex.nl/artikel/874789/Must-read-Hoe-bang-moeten-beleggers-zijn-voor-verder-stijgende-Amerikaanse-rentes.aspx",
     "intro": "Plus: ECB gaat rente zeker verhogen, dividendbeleggers zien kansen in Amerikaanse telecom, extreme zomerhitte Europa is dure grap, China levert onmisbare grondstof voor wapens, en meer.",
     "published_at": "2026-08-18 09:45",
-    "scraped_at": "2026-08-18T08:47:31.885695"
+    "scraped_at": "2026-08-18T09:17:24.518917"
   },
   {
     "id": "71a6e2d08eebb49d63f8d2b9d33279e7",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/874955/Britse-werkloosheid-gelijk-gebleven.aspx",
     "intro": "De Britse werkloosheid is in het tweede kwartaal gelijk gebleven. Dit bleek dinsdag uit cijfers van de Britse overheid.",
     "published_at": "2026-08-18 09:39",
-    "scraped_at": "2026-08-18T08:47:31.885695"
+    "scraped_at": "2026-08-18T09:17:24.518917"
   },
   {
     "id": "cdc7ccb151dfc8552de91578bc9d286e",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/874953/Degroof-Petercam-verhoogt-koersdoel-ASMI-naar-1300.aspx",
     "intro": "Degroof Petercam heeft het koersdoel voor ASM International verhoogd naar 1300 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Michael Roeg.",
     "published_at": "2026-08-18 09:27",
-    "scraped_at": "2026-08-18T08:47:31.885695"
+    "scraped_at": "2026-08-18T09:17:24.518917"
   },
   {
     "id": "4aebe1b82865b08c8c8279764cb85b51",
@@ -33,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/874844/Deze-3-Nederlandse-aandelen-blijken-immuun-voor-Trump-en-Hormuz.aspx",
     "intro": "Drie Nederlandse aandelen die vrijwel volledig op de thuismarkt leunen, versloegen de afgelopen vijf jaar allemaal de brede beursindex. Is dat toeval, of toch niet?",
     "published_at": "2026-08-18 09:20",
-    "scraped_at": "2026-08-18T08:47:31.885695"
+    "scraped_at": "2026-08-18T09:17:24.518917"
   },
   {
     "id": "5c0b9f8b53d59812fff28c2be788a2de",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/874948/AEX-neutraal-van-start-gegaan.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong fractioneel lager op 1.114,02 punten, terwijl de Midkap 0,2 procent prijs gaf.",
     "published_at": "2026-08-18 09:11",
-    "scraped_at": "2026-08-18T08:47:31.885695"
+    "scraped_at": "2026-08-18T09:17:24.518917"
   },
   {
     "id": "ec8638bf00309f005247508e4042a85c",
@@ -51,7 +69,7 @@
     "link": "https://www.ieximpact.nl/artikel/874690/De-vraag-over-impactbeleggen-die-ik-niet-meer-wil-horen.aspx",
     "intro": "Rendement is bij impactbeleggen het probleem niet. Eszter Vitorino Fuleky, hoofd impact bij Van Lanschot Kempen, over de echte dilemma's die haar meer bezighouden.",
     "published_at": "2026-08-18 08:51",
-    "scraped_at": "2026-08-18T08:47:31.885695"
+    "scraped_at": "2026-08-18T09:17:24.518917"
   },
   {
     "id": "b7cf22709dda15458f87fee7ff25aa26",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874945/Overnamebod-op-InPost-krijgt-goedkeuring-Europese-Commissie.aspx",
     "intro": "Het overnamebod op InPost heeft goedkeuring gekregen van de Europese Commissie. Dit maakten een consortium van Advent, FedEx, AR en PPF en InPost dinsdag gezamenlijk bekend.",
     "published_at": "2026-08-18 08:04",
-    "scraped_at": "2026-08-18T08:47:31.885695"
+    "scraped_at": "2026-08-18T09:17:24.518917"
   },
   {
     "id": "4e3f081fff7a962923097eeda0c4e21b",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874942/AEX-start-handelsdag-vermoedelijk-lager-met-Straat-van-Hormuz-in-focus.aspx",
     "intro": "De Amsterdamse beurs gaat maandag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent.",
     "published_at": "2026-08-18 07:53",
-    "scraped_at": "2026-08-18T08:47:31.885695"
-  },
-  {
-    "id": "19e75b0c8eb8868a6bf3f0ce8e93a90f",
-    "categorie": "Beursnieuws",
-    "titel": "BHP profiteert van hoge koperprijzen",
-    "link": "https://www.beurs.nl/Nieuws/874941/BHP-profiteert-van-hoge-koperprijzen.aspx",
-    "intro": "BHP heeft in het afgelopen boekjaar geprofiteerd van de historisch hoge koperprijzen, waardoor koper voor het eerst de belangrijkste winstmotor van de Australische mijnbouwer is geworden. Dit maakte BHP maandag nabeurs bekend bij de publicatie van de jaarcijfers.",
-    "published_at": "2026-08-18 07:47",
-    "scraped_at": "2026-08-18T08:47:31.885695"
-  },
-  {
-    "id": "7839a0e990ab2b5a259a0d8223e3e832",
-    "categorie": "Beursnieuws",
-    "titel": "DSM-Firmenich stelt nieuwe voorzitter voor",
-    "link": "https://www.beurs.nl/Nieuws/874938/DSM-Firmenich-stelt-nieuwe-voorzitter-voor.aspx",
-    "intro": "Dsm-Firmenich heeft Richard Ridinger voorgedragen als nieuwe voorzitter van de raad van bestuur. Hij volgt Thomas Leysen op, die heeft besloten terug te treden. Dit maakte het bedrijf dinsdagochtend bekend.",
-    "published_at": "2026-08-18 07:20",
-    "scraped_at": "2026-08-18T08:47:31.885695"
+    "scraped_at": "2026-08-18T09:17:24.518917"
   }
 ]
