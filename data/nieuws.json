@@ -1,12 +1,39 @@
 [
   {
+    "id": "36d86cba5269673ab14a590e4ea715d3",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Aegon genereerde meer kapitaal",
+    "link": "https://www.beurs.nl/Nieuws/875014/Beursblik-Aegon-genereerde-meer-kapitaal.aspx",
+    "intro": "Aegon heeft in de eerste helft van 2026 fors meer kapitaal gegenereerd dan een jaar eerder, terwijl de solvabiliteit van de Amerikaanse tak stabiel bleef. Dat voorspellen analisten, volgens een consensusverwachting die werd samengesteld door Aegon.",
+    "published_at": "2026-08-18 15:48",
+    "scraped_at": "2026-08-18T14:01:18.230838"
+  },
+  {
+    "id": "35471c207f08c2a8f8a1f6b633b7e5f6",
+    "categorie": "Beursnieuws",
+    "titel": "Industriele productie VS stijgt minder dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/875012/Industriele-productie-VS-stijgt-minder-dan-verwacht.aspx",
+    "intro": "De industriële productie in de Verenigde Staten is in juli licht gestegen, maar wel minder dan verwacht. Dit bleek dinsdag uit cijfers van de Federal Reserve.",
+    "published_at": "2026-08-18 15:20",
+    "scraped_at": "2026-08-18T14:01:18.230838"
+  },
+  {
+    "id": "f719d6a6146f93584aa1d04e438bc591",
+    "categorie": "Column",
+    "titel": "Recordbedrag private-equityvermogen zit vast in 'zombiefondsen'",
+    "link": "https://www.beurs.nl/Artikel/875005/Recordbedrag-private-equityvermogen-zit-vast-in-zombiefondsen.aspx",
+    "intro": "Dit zijn de mogelijkheden voor beleggers.",
+    "published_at": "2026-08-18 15:15",
+    "scraped_at": "2026-08-18T14:01:18.230838"
+  },
+  {
     "id": "82e4d314430fb111d56a9cbfe91767b9",
     "categorie": "Beursnieuws",
     "titel": "Wall Street koerst af op lagere opening",
     "link": "https://www.beurs.nl/Nieuws/875009/Wall-Street-koerst-af-op-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, mede onder druk van de dalende halfgeleideraandelen. Dit gebeurt tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran en zorgen over inflatie, die leidden tot hogere lange rentes.",
     "published_at": "2026-08-18 15:00",
-    "scraped_at": "2026-08-18T13:14:40.187118"
+    "scraped_at": "2026-08-18T14:01:18.230838"
   },
   {
     "id": "b262842fa894f6540fe5d030ce89a685",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875007/Amerikaanse-importprijzen-opnieuw-gedaald.aspx",
     "intro": "De Amerikaanse importprijzen zijn in juli opnieuw gedaald. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-08-18 14:40",
-    "scraped_at": "2026-08-18T13:14:40.187118"
+    "scraped_at": "2026-08-18T14:01:18.230838"
   },
   {
     "id": "7b0e2bac61cea322688327dbb625cc80",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875006/Veel-minder-woningen-in-aanbouw-genomen-in-de-VS.aspx",
     "intro": "Het aantal in aanbouw genomen woningen in de VS is in juli flink gedaald, na een forse stijging een maand eerder, terwijl het aantal afgegeven bouwvergunningen wel toenam. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-08-18 14:38",
-    "scraped_at": "2026-08-18T13:14:40.187118"
+    "scraped_at": "2026-08-18T14:01:18.230838"
   },
   {
     "id": "3d525298d4960ab64d07a7c7ab2565d8",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875002/ASR-genereerde-naar-verwachting-meer-kapitaal.aspx",
     "intro": "ASR Nederland zal bij de halfjaarcijfers woensdag voorbeurs naar verwachting een hogere kapitaalaanwas rapporteren en een dito solvabiliteitsratio. Dat blijkt uit een consensusverwachting die de verzekeraar op zijn website publiceerde.",
     "published_at": "2026-08-18 14:20",
-    "scraped_at": "2026-08-18T13:14:40.187118"
+    "scraped_at": "2026-08-18T14:01:18.230838"
   },
   {
     "id": "c9fc252520062df9399937f9c8edecb0",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875001/Klarna-flink-onderuit-na-omzetwaarschuwing.aspx",
     "intro": "Klarna heeft de omzetverwachting voor heel 2026 verlaagd, ondanks sterke resultaten in het tweede kwartaal. Dit maakte het Zweedse betaalbedrijf dinsdagmiddag bekend, naast het vertrek van de CFO en marketingdirecteur.",
     "published_at": "2026-08-18 14:16",
-    "scraped_at": "2026-08-18T13:14:40.187118"
+    "scraped_at": "2026-08-18T14:01:18.230838"
   },
   {
     "id": "9dae1e7bd551b97af9498f807b4ee27c",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/874992/Chippers-houden-AEX-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdagmiddag lager, terwijl halfgeleideraandelen onder druk stonden als gevolg van de oplopende rentes.",
     "published_at": "2026-08-18 13:48",
-    "scraped_at": "2026-08-18T13:14:40.187118"
+    "scraped_at": "2026-08-18T14:01:18.230838"
   },
   {
     "id": "2a18d5efe5c5ee08a91317408643a5de",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/874989/Futures-Wall-Street-signaleren-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, onder druk van de dalende halfgeleideraandelen. Dit gebeurt tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran en zorgen over inflatie, die leidden tot hogere lange rentes.",
     "published_at": "2026-08-18 13:04",
-    "scraped_at": "2026-08-18T13:14:40.187118"
-  },
-  {
-    "id": "e0a953dda4d51c0abe36f77bcf4f5b51",
-    "categorie": "Beursnieuws",
-    "titel": "Magnum Ice Cream koopt eigen aandelen",
-    "link": "https://www.beurs.nl/Nieuws/874988/Magnum-Ice-Cream-koopt-eigen-aandelen.aspx",
-    "intro": "(ABM FN-Dow Jones) The Magnum Ice Cream Company gaat maximaal 5,5 miljoen eigen aandelen inkopen. Dit maakte het ijsbedrijf dinsdag bekend.",
-    "published_at": "2026-08-18 12:35",
-    "scraped_at": "2026-08-18T13:14:40.187118"
-  },
-  {
-    "id": "c229ac5098722725b4f8955faefd7439",
-    "categorie": "Beursnieuws",
-    "titel": "Home Depot overtreft verwachtingen",
-    "link": "https://www.beurs.nl/Nieuws/874984/Home-Depot-overtreft-verwachtingen.aspx",
-    "intro": "Home Depot heeft in het tweede kwartaal van boekjaar 2026 beter dan verwachte resultaten geboekt. Dit maakte de Amerikaanse doe-het-zelfketen dinsdag bekend.",
-    "published_at": "2026-08-18 12:18",
-    "scraped_at": "2026-08-18T13:14:40.187118"
-  },
-  {
-    "id": "66e5bb9703d8d00830f24b449146e6dd",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verliezen verder terrein",
-    "link": "https://www.beurs.nl/Nieuws/874981/Europese-beurzen-verliezen-verder-terrein.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond het middaguur lager, terwijl de olieprijzen en de obligatierentes verder opliepen.",
-    "published_at": "2026-08-18 12:14",
-    "scraped_at": "2026-08-18T13:14:40.187118"
+    "scraped_at": "2026-08-18T14:01:18.230838"
   }
 ]
