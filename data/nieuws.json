@@ -1,12 +1,48 @@
 [
   {
-    "id": "36d86cba5269673ab14a590e4ea715d3",
+    "id": "5dc15639c3bebd150eb368e37380de71",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Aegon genereerde meer kapitaal",
-    "link": "https://www.beurs.nl/Nieuws/875014/Beursblik-Aegon-genereerde-meer-kapitaal.aspx",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/875018/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 26 augustus 2026:",
+    "published_at": "2026-08-18 16:25",
+    "scraped_at": "2026-08-18T14:57:46.300116"
+  },
+  {
+    "id": "059bff2e7db0bf3c6c96be5debfd9d35",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/875020/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 26 augustus 2026:",
+    "published_at": "2026-08-18 16:25",
+    "scraped_at": "2026-08-18T14:57:46.300116"
+  },
+  {
+    "id": "4fd515745fea4af427e893309bc34d88",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/875017/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 26 augustus 2026:",
+    "published_at": "2026-08-18 16:24",
+    "scraped_at": "2026-08-18T14:57:46.300116"
+  },
+  {
+    "id": "1c2408aff5f5567a5bae4ddaf2bf65aa",
+    "categorie": "Beursnieuws",
+    "titel": "Aanstaande woningverkopen VS dalen",
+    "link": "https://www.beurs.nl/Nieuws/875016/Aanstaande-woningverkopen-VS-dalen.aspx",
+    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in juli gedaald, net als in juni. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
+    "published_at": "2026-08-18 16:11",
+    "scraped_at": "2026-08-18T14:57:46.300116"
+  },
+  {
+    "id": "f86cb9f26bc521951ae03aabeb9a836d",
+    "categorie": "Beursnieuws",
+    "titel": "Aegon genereerde waarschijnijk meer kapitaal",
+    "link": "https://www.beurs.nl/Nieuws/875014/Aegon-genereerde-waarschijnijk-meer-kapitaal.aspx",
     "intro": "Aegon heeft in de eerste helft van 2026 fors meer kapitaal gegenereerd dan een jaar eerder, terwijl de solvabiliteit van de Amerikaanse tak stabiel bleef. Dat voorspellen analisten, volgens een consensusverwachting die werd samengesteld door Aegon.",
     "published_at": "2026-08-18 15:48",
-    "scraped_at": "2026-08-18T14:01:18.230838"
+    "scraped_at": "2026-08-18T14:57:46.300116"
   },
   {
     "id": "35471c207f08c2a8f8a1f6b633b7e5f6",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875012/Industriele-productie-VS-stijgt-minder-dan-verwacht.aspx",
     "intro": "De industriële productie in de Verenigde Staten is in juli licht gestegen, maar wel minder dan verwacht. Dit bleek dinsdag uit cijfers van de Federal Reserve.",
     "published_at": "2026-08-18 15:20",
-    "scraped_at": "2026-08-18T14:01:18.230838"
+    "scraped_at": "2026-08-18T14:57:46.300116"
   },
   {
     "id": "f719d6a6146f93584aa1d04e438bc591",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Artikel/875005/Recordbedrag-private-equityvermogen-zit-vast-in-zombiefondsen.aspx",
     "intro": "Dit zijn de mogelijkheden voor beleggers.",
     "published_at": "2026-08-18 15:15",
-    "scraped_at": "2026-08-18T14:01:18.230838"
+    "scraped_at": "2026-08-18T14:57:46.300116"
   },
   {
     "id": "82e4d314430fb111d56a9cbfe91767b9",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875009/Wall-Street-koerst-af-op-lagere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, mede onder druk van de dalende halfgeleideraandelen. Dit gebeurt tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran en zorgen over inflatie, die leidden tot hogere lange rentes.",
     "published_at": "2026-08-18 15:00",
-    "scraped_at": "2026-08-18T14:01:18.230838"
+    "scraped_at": "2026-08-18T14:57:46.300116"
   },
   {
     "id": "b262842fa894f6540fe5d030ce89a685",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875007/Amerikaanse-importprijzen-opnieuw-gedaald.aspx",
     "intro": "De Amerikaanse importprijzen zijn in juli opnieuw gedaald. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-08-18 14:40",
-    "scraped_at": "2026-08-18T14:01:18.230838"
+    "scraped_at": "2026-08-18T14:57:46.300116"
   },
   {
     "id": "7b0e2bac61cea322688327dbb625cc80",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875006/Veel-minder-woningen-in-aanbouw-genomen-in-de-VS.aspx",
     "intro": "Het aantal in aanbouw genomen woningen in de VS is in juli flink gedaald, na een forse stijging een maand eerder, terwijl het aantal afgegeven bouwvergunningen wel toenam. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-08-18 14:38",
-    "scraped_at": "2026-08-18T14:01:18.230838"
-  },
-  {
-    "id": "3d525298d4960ab64d07a7c7ab2565d8",
-    "categorie": "Beursnieuws",
-    "titel": "ASR genereerde naar verwachting meer kapitaal",
-    "link": "https://www.beurs.nl/Nieuws/875002/ASR-genereerde-naar-verwachting-meer-kapitaal.aspx",
-    "intro": "ASR Nederland zal bij de halfjaarcijfers woensdag voorbeurs naar verwachting een hogere kapitaalaanwas rapporteren en een dito solvabiliteitsratio. Dat blijkt uit een consensusverwachting die de verzekeraar op zijn website publiceerde.",
-    "published_at": "2026-08-18 14:20",
-    "scraped_at": "2026-08-18T14:01:18.230838"
-  },
-  {
-    "id": "c9fc252520062df9399937f9c8edecb0",
-    "categorie": "Beursnieuws",
-    "titel": "Klarna flink onderuit na omzetwaarschuwing",
-    "link": "https://www.beurs.nl/Nieuws/875001/Klarna-flink-onderuit-na-omzetwaarschuwing.aspx",
-    "intro": "Klarna heeft de omzetverwachting voor heel 2026 verlaagd, ondanks sterke resultaten in het tweede kwartaal. Dit maakte het Zweedse betaalbedrijf dinsdagmiddag bekend, naast het vertrek van de CFO en marketingdirecteur.",
-    "published_at": "2026-08-18 14:16",
-    "scraped_at": "2026-08-18T14:01:18.230838"
-  },
-  {
-    "id": "9dae1e7bd551b97af9498f807b4ee27c",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers houden AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/874992/Chippers-houden-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag lager, terwijl halfgeleideraandelen onder druk stonden als gevolg van de oplopende rentes.",
-    "published_at": "2026-08-18 13:48",
-    "scraped_at": "2026-08-18T14:01:18.230838"
-  },
-  {
-    "id": "2a18d5efe5c5ee08a91317408643a5de",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/874989/Futures-Wall-Street-signaleren-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, onder druk van de dalende halfgeleideraandelen. Dit gebeurt tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran en zorgen over inflatie, die leidden tot hogere lange rentes.",
-    "published_at": "2026-08-18 13:04",
-    "scraped_at": "2026-08-18T14:01:18.230838"
+    "scraped_at": "2026-08-18T14:57:46.300116"
   }
 ]
