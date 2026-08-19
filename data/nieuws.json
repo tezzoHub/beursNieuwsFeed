@@ -1,92 +1,29 @@
 [
   {
-    "id": "bc1bbf241d2bb4b47e3221090a77a821",
+    "id": "2a3bdd353d4465b7134da680d5787b13",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875053/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten, waaronder zwaargewicht ASML.",
-    "published_at": "2026-08-18 22:48",
-    "scraped_at": "2026-08-19T04:03:50.529083"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/875056/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 26 augustus 2026:",
+    "published_at": "2026-08-19 06:55",
+    "scraped_at": "2026-08-19T04:58:09.975734"
   },
   {
-    "id": "fa0348315cd0aa837cb4827ff03314dc",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit lager",
-    "link": "https://www.beurs.nl/Nieuws/875052/Wall-Street-sluit-lager.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag lager gesloten, onder druk van de dalende halfgeleideraandelen, tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran die leidden tot hogere lange rentes.",
-    "published_at": "2026-08-18 22:40",
-    "scraped_at": "2026-08-19T04:03:50.529083"
-  },
-  {
-    "id": "2d3fa69dccf06d34b75f544768e4d83f",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt licht",
-    "link": "https://www.beurs.nl/Nieuws/875051/Olieprijs-stijgt-licht.aspx",
-    "intro": "De olieprijs is dinsdag hoger gesloten in voorzichtige handel, terwijl de markt tegenstrijdige berichten verwerkte over de hoeveelheid olie die de Straat van Hormuz passeert.",
-    "published_at": "2026-08-18 22:05",
-    "scraped_at": "2026-08-19T04:03:50.529083"
-  },
-  {
-    "id": "422332c18ffb11d7f39f4d95279dbbfa",
-    "categorie": "Beursnieuws",
-    "titel": "ING verkleint belang in Thaise bank",
-    "link": "https://www.beurs.nl/Nieuws/875049/ING-verkleint-belang-in-Thaise-bank.aspx",
-    "intro": "ING heeft een deel van zijn belang in de Thaise bank TMB Thanachart verkocht voor ongeveer 475 miljoen euro, om zijn beleggingen te optimaliseren. Dat maakte de bank dinsdag bekend.",
-    "published_at": "2026-08-18 21:52",
-    "scraped_at": "2026-08-19T04:03:50.529083"
-  },
-  {
-    "id": "c03eea232b6945a4fa898eaaf4ba3f98",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street in het rood",
-    "link": "https://www.beurs.nl/Nieuws/875046/Wall-Street-in-het-rood.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag lager, mede onder druk van de dalende halfgeleideraandelen. Dit gebeurt tegen de achtergrond van aanhoudende spanningen tussen de VS en Iran en zorgen over inflatie, die leidden tot hogere lange rentes.",
-    "published_at": "2026-08-18 20:47",
-    "scraped_at": "2026-08-19T04:03:50.529083"
-  },
-  {
-    "id": "a7a5a3bcfe6869ed034991c3b7ad42b2",
-    "categorie": "Beursnieuws",
-    "titel": "Stevige omzetgroei bij Alfen",
-    "link": "https://www.beurs.nl/Nieuws/875045/Stevige-omzetgroei-bij-Alfen.aspx",
-    "intro": "Alfen heeft in de eerste zes maanden de omzet sterker dan verwacht laten stijgen en handhaafde zijn verwachtingen voor het jaar. Dat meldde de specialist in energieoplossingen dinsdagavond.",
-    "published_at": "2026-08-18 19:34",
-    "scraped_at": "2026-08-19T04:03:50.529083"
-  },
-  {
-    "id": "c069c5dfc32a3c4babdf2b5d7cb0ef73",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten lager",
-    "link": "https://www.beurs.nl/Nieuws/875043/Europese-beurzen-sluiten-lager.aspx",
-    "intro": "De aandelenmarkten in Europa zijn dinsdag lager gesloten, nadat de olieprijs en de obligatierentes opliepen. De chipindustrie was uit de gratie.",
-    "published_at": "2026-08-18 19:05",
-    "scraped_at": "2026-08-19T04:03:50.529083"
-  },
-  {
-    "id": "816d5e026268c5c0580cc89ff60e9ef3",
-    "categorie": "Beursnieuws",
-    "titel": "NEPI Rockcastle verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/875040/NEPI-Rockcastle-verhoogt-outlook.aspx",
-    "intro": "NEPI Rockcastle heeft zijn verwachtingen voor het jaar 2026 verhoogd na hogere huurinkomsten in de eerste zes maanden. Dat maakte het in Amsterdam gevestigde Europese vastgoedbedrijf donderdag bekend.",
-    "published_at": "2026-08-18 18:26",
-    "scraped_at": "2026-08-19T04:03:50.529083"
-  },
-  {
-    "id": "a0dc7e3314debb308848f8d8d50b1ac2",
-    "categorie": "Beursnieuws",
-    "titel": "Damrak bezorgd over hoge rentes",
-    "link": "https://www.beurs.nl/Nieuws/875034/Damrak-bezorgd-over-hoge-rentes.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag lager geëindigd, terwijl halfgeleideraandelen onder druk stonden als gevolg van de oplopende rentes.",
-    "published_at": "2026-08-18 17:54",
-    "scraped_at": "2026-08-19T04:03:50.529083"
-  },
-  {
-    "id": "5dc15639c3bebd150eb368e37380de71",
+    "id": "13c5af855461f20ec684bbab05bdd11c",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/875018/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/875055/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 26 augustus 2026:",
-    "published_at": "2026-08-18 16:25",
-    "scraped_at": "2026-08-19T04:03:50.529083"
+    "published_at": "2026-08-19 06:54",
+    "scraped_at": "2026-08-19T04:58:09.975734"
+  },
+  {
+    "id": "40bafb9057a5d9d4b708351b7d0cfd69",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/875054/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 26 augustus 2026:WOENSDAG 19 AUGUSTUS 2026",
+    "published_at": "2026-08-19 06:53",
+    "scraped_at": "2026-08-19T04:58:09.975734"
   }
 ]
