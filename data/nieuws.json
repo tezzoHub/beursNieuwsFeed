@@ -1,12 +1,30 @@
 [
   {
+    "id": "ced54e803b3e2b1890b75af9131a9da2",
+    "categorie": "Beursnieuws",
+    "titel": "Sterke jaarhelft ASR Nederland",
+    "link": "https://www.beurs.nl/Nieuws/875059/Sterke-jaarhelft-ASR-Nederland.aspx",
+    "intro": "ASR Nederland heeft in de eerste helft van 2026 in alle bedrijfssegmenten een hoger operationeel resultaat geboekt. Dit bleek woensdag voorbeurs uit de halfjaarcijfers van de Nederlandse verzekeraar.",
+    "published_at": "2026-08-19 07:21",
+    "scraped_at": "2026-08-19T05:37:22.622881"
+  },
+  {
+    "id": "c53f01f79d061f9ed5315a45d3decef2",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen gaan licht lagere opening tegemoet",
+    "link": "https://www.beurs.nl/Nieuws/875058/Europese-beurzen-gaan-licht-lagere-opening-tegemoet.aspx",
+    "intro": "De Europese beurzen gaan woensdag een een licht lagere opening tegemoet, nadat Wall Street voor de derde sessie op rij lager was geëindigd. Dit doordat een wereldwijde verkoopgolf op de obligatiemarkt en hogere olieprijzen op het beleggerssentiment drukten.",
+    "published_at": "2026-08-19 07:17",
+    "scraped_at": "2026-08-19T05:37:22.622881"
+  },
+  {
     "id": "2a3bdd353d4465b7134da680d5787b13",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/875056/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 26 augustus 2026:",
     "published_at": "2026-08-19 06:55",
-    "scraped_at": "2026-08-19T04:58:09.975734"
+    "scraped_at": "2026-08-19T05:37:22.622881"
   },
   {
     "id": "13c5af855461f20ec684bbab05bdd11c",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875055/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 26 augustus 2026:",
     "published_at": "2026-08-19 06:54",
-    "scraped_at": "2026-08-19T04:58:09.975734"
+    "scraped_at": "2026-08-19T05:37:22.622881"
   },
   {
     "id": "40bafb9057a5d9d4b708351b7d0cfd69",
@@ -24,6 +42,6 @@
     "link": "https://www.beurs.nl/Nieuws/875054/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 26 augustus 2026:WOENSDAG 19 AUGUSTUS 2026",
     "published_at": "2026-08-19 06:53",
-    "scraped_at": "2026-08-19T04:58:09.975734"
+    "scraped_at": "2026-08-19T05:37:22.622881"
   }
 ]
