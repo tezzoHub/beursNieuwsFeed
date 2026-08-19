@@ -1,12 +1,57 @@
 [
   {
+    "id": "13e2d6ef87bf60c6c30a974d88efa9d0",
+    "categorie": "Beursnieuws",
+    "titel": "Licht lagere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/875068/Licht-lagere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een lagere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong tot 0,2 procent in het rood. Dinsdag eindigde de hoofdgraadmeter al 0,7 procent lager op 1.107,32 punten.",
+    "published_at": "2026-08-19 08:08",
+    "scraped_at": "2026-08-19T06:17:31.397547"
+  },
+  {
+    "id": "605b1367e6f07b2bfe74d0635a92a474",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Berenberg blijft positief over Eurocommercial Properties",
+    "link": "https://www.beurs.nl/Nieuws/875065/Beursblik-Berenberg-blijft-positief-over-Eurocommercial-Properties.aspx",
+    "intro": "Berenberg blijft positief over Eurocommercial Properties en handhaaft het koopadvies met een koersdoel van 34,00 euro. Dit bleek woensdagochtend uit een rapport van analist Kai Klose.",
+    "published_at": "2026-08-19 07:57",
+    "scraped_at": "2026-08-19T06:17:31.397547"
+  },
+  {
+    "id": "0f5b09fb66cd3477eb811e747290bde1",
+    "categorie": "Beursnieuws",
+    "titel": "TomTom levert kaartdata aan Cedar Electronics",
+    "link": "https://www.beurs.nl/Nieuws/875064/TomTom-levert-kaartdata-aan-Cedar-Electronics.aspx",
+    "intro": "TomTom gaat zijn Orbis Maps-technologie leveren aan Cedar Electronics, een aanbieder van veiligheidsoplossingen voor automobilisten, voor integratie in de radardetectorproducten Escort en Cobra. Dit maakte het bedrijf woensdagochtend bekend.",
+    "published_at": "2026-08-19 07:49",
+    "scraped_at": "2026-08-19T06:17:31.397547"
+  },
+  {
+    "id": "d5d98ff2e45f03b6517aec98f1b79061",
+    "categorie": "Beursnieuws",
+    "titel": "Ebusco haalt 6 miljoen euro op",
+    "link": "https://www.beurs.nl/Nieuws/875062/Ebusco-haalt-6-miljoen-euro-op.aspx",
+    "intro": "Ebusco heeft woensdag aangekondigd dat bestaande aandeelhouder Rhein Holding 6 miljoen euro in het noodlijdende bedrijf steekt via een aandelenemissie. De kapitaalinjectie versterkt de liquiditeit op korte termijn en geeft de bussenbouwer extra financiële ruimte om zijn operationele plannen uit te voeren.",
+    "published_at": "2026-08-19 07:44",
+    "scraped_at": "2026-08-19T06:17:31.397547"
+  },
+  {
+    "id": "f8cf54ece6468210247843351e5f14a1",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen flink lager",
+    "link": "https://www.beurs.nl/Nieuws/875061/Aziatische-beurzen-flink-lager.aspx",
+    "intro": "Veel Aziatische beurzen koersten woensdagochtend flink lager.",
+    "published_at": "2026-08-19 07:43",
+    "scraped_at": "2026-08-19T06:17:31.397547"
+  },
+  {
     "id": "ced54e803b3e2b1890b75af9131a9da2",
     "categorie": "Beursnieuws",
     "titel": "Sterke jaarhelft ASR Nederland",
     "link": "https://www.beurs.nl/Nieuws/875059/Sterke-jaarhelft-ASR-Nederland.aspx",
     "intro": "ASR Nederland heeft in de eerste helft van 2026 in alle bedrijfssegmenten een hoger operationeel resultaat geboekt. Dit bleek woensdag voorbeurs uit de halfjaarcijfers van de Nederlandse verzekeraar.",
     "published_at": "2026-08-19 07:21",
-    "scraped_at": "2026-08-19T05:37:22.622881"
+    "scraped_at": "2026-08-19T06:17:31.397547"
   },
   {
     "id": "c53f01f79d061f9ed5315a45d3decef2",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875058/Europese-beurzen-gaan-licht-lagere-opening-tegemoet.aspx",
     "intro": "De Europese beurzen gaan woensdag een een licht lagere opening tegemoet, nadat Wall Street voor de derde sessie op rij lager was geëindigd. Dit doordat een wereldwijde verkoopgolf op de obligatiemarkt en hogere olieprijzen op het beleggerssentiment drukten.",
     "published_at": "2026-08-19 07:17",
-    "scraped_at": "2026-08-19T05:37:22.622881"
+    "scraped_at": "2026-08-19T06:17:31.397547"
   },
   {
     "id": "2a3bdd353d4465b7134da680d5787b13",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875056/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 26 augustus 2026:",
     "published_at": "2026-08-19 06:55",
-    "scraped_at": "2026-08-19T05:37:22.622881"
+    "scraped_at": "2026-08-19T06:17:31.397547"
   },
   {
     "id": "13c5af855461f20ec684bbab05bdd11c",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875055/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 26 augustus 2026:",
     "published_at": "2026-08-19 06:54",
-    "scraped_at": "2026-08-19T05:37:22.622881"
+    "scraped_at": "2026-08-19T06:17:31.397547"
   },
   {
     "id": "40bafb9057a5d9d4b708351b7d0cfd69",
@@ -42,6 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875054/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 26 augustus 2026:WOENSDAG 19 AUGUSTUS 2026",
     "published_at": "2026-08-19 06:53",
-    "scraped_at": "2026-08-19T05:37:22.622881"
+    "scraped_at": "2026-08-19T06:17:31.397547"
   }
 ]
