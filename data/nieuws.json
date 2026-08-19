@@ -1,21 +1,39 @@
 [
   {
-    "id": "f204dbd2f2e9aea9a5780e56b1b82129",
+    "id": "ce57de2f3c7f3c02f02a7983b149e8a3",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX komt nauwelijks van zijn plaats",
-    "link": "https://www.beurs.nl/Nieuws/875108/Beursupdate-AEX-komt-nauwelijks-van-zijn-plaats.aspx",
-    "intro": "De Amsterdamse beurs noteerde woensdagmiddag nagenoeg vlak tijdens een matte handelssessie.",
-    "published_at": "2026-08-19 13:54",
-    "scraped_at": "2026-08-19T12:13:55.679951"
+    "titel": "Amerikaanse overheid verdubbelt terugkoopprogramma staatsschuld",
+    "link": "https://www.beurs.nl/Nieuws/875117/Amerikaanse-overheid-verdubbelt-terugkoopprogramma-staatsschuld.aspx",
+    "intro": "De Amerikaanse rente op staatsobligaties is woensdag wat teruggezakt van de hoogste niveaus in jaren, nadat het ministerie van Financiën aankondigde het terugkoopprogramma voor staatsschuld te verdubbelen.",
+    "published_at": "2026-08-19 15:15",
+    "scraped_at": "2026-08-19T13:21:40.349262"
   },
   {
-    "id": "8701873d0cfc0d448e2359b4e1714a62",
+    "id": "f6218b629de09532c61eaf398b734934",
     "categorie": "Beursnieuws",
-    "titel": "Merck en Moderna slagen met kankervaccin",
-    "link": "https://www.beurs.nl/Nieuws/875103/Merck-en-Moderna-slagen-met-kankervaccin.aspx",
+    "titel": "Hogere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/875114/Hogere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Circa een half uur voor opening, koersten futures op de SP 500 tot 0,3 procent hoger.",
+    "published_at": "2026-08-19 14:41",
+    "scraped_at": "2026-08-19T13:21:40.349262"
+  },
+  {
+    "id": "f6215f08de8e7b1c149b21d6503fedac",
+    "categorie": "Beursnieuws",
+    "titel": "AEX komt nauwelijks van zijn plaats",
+    "link": "https://www.beurs.nl/Nieuws/875108/AEX-komt-nauwelijks-van-zijn-plaats.aspx",
+    "intro": "De Amsterdamse beurs noteerde woensdagmiddag nagenoeg vlak tijdens een matte handelssessie.",
+    "published_at": "2026-08-19 13:54",
+    "scraped_at": "2026-08-19T13:21:40.349262"
+  },
+  {
+    "id": "46939b6687afdb691798e4ecf9a84fed",
+    "categorie": "Beursnieuws",
+    "titel": "Merck en Moderna doen succesvolle test met kankervaccin",
+    "link": "https://www.beurs.nl/Nieuws/875103/Merck-en-Moderna-doen-succesvolle-test-met-kankervaccin.aspx",
     "intro": "Merck en Moderna hebben een gepersonaliseerd vaccin tegen melanoom, een vorm van huidkanker, succesvol getest in een fase 3-studie. Het is de eerste keer dat een therapeutisch kankervaccin slaagt in een dergelijke laatste testfase, waardoor de bedrijven nu goedkeuring kunnen aanvragen bij toezichthouders. Dit maakten de bedrijven woensdag bekend.",
     "published_at": "2026-08-19 13:05",
-    "scraped_at": "2026-08-19T12:13:55.679951"
+    "scraped_at": "2026-08-19T13:21:40.349262"
   },
   {
     "id": "8665121c7f70a0c2ad1d2541810aac90",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875104/Futures-wijzen-op-vlakke-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet.",
     "published_at": "2026-08-19 13:03",
-    "scraped_at": "2026-08-19T12:13:55.679951"
+    "scraped_at": "2026-08-19T13:21:40.349262"
   },
   {
     "id": "7e35c337099e633f6aaa32f6fc0b0a51",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875100/Target-verhoogt-outlook-na-sterk-tweede-kwartaal.aspx",
     "intro": "Target heeft in het tweede kwartaal een hogere omzet en winst geboekt en verhoogde daarop de outlook voor heel 2026. Dit maakte het Amerikaanse warenhuisconcern woensdag bekend.",
     "published_at": "2026-08-19 12:45",
-    "scraped_at": "2026-08-19T12:13:55.679951"
+    "scraped_at": "2026-08-19T13:21:40.349262"
   },
   {
     "id": "414c91081f64b24e0aa81dc78587bb76",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875099/Estee-Lauder-keert-terug-naar-groei.aspx",
     "intro": "Estée Lauder is in het gebroken boekjaar 2026 teruggekeerd naar omzetgroei en verhoogde tegelijk de margeverwachting voor het lopende jaar 2027. Dit maakte het Amerikaanse cosmeticaconcern woensdag voorbeurs bekend.",
     "published_at": "2026-08-19 12:31",
-    "scraped_at": "2026-08-19T12:13:55.679951"
+    "scraped_at": "2026-08-19T13:21:40.349262"
   },
   {
     "id": "6200b1e113593a6efb3a12714c03f937",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875098/Europese-beurzen-laten-verdeeld-beeld-zien.aspx",
     "intro": "De Europese aandelenbeurzen lieten woensdag een gemengd beeld zien, terwijl de uitslagen op indexniveau beperkt bleven. Dit doordat de wereldwijde obligatiemarkten stabiliseerden en de uitverkoop van techaandelen wat afnam.",
     "published_at": "2026-08-19 12:27",
-    "scraped_at": "2026-08-19T12:13:55.679951"
+    "scraped_at": "2026-08-19T13:21:40.349262"
   },
   {
     "id": "c6734e4b418f6b604b40e76165c9ef28",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875097/Lowes-negatiever-gestemd.aspx",
     "intro": "Lowe's heeft zich minder positief uitgelaten over de verwachtingen voor heel het jaar. Dit bleek woensdag voorbeurs uit de cijfers over het tweede kwartaal van de Amerikaanse bouwmarktketen.",
     "published_at": "2026-08-19 12:21",
-    "scraped_at": "2026-08-19T12:13:55.679951"
+    "scraped_at": "2026-08-19T13:21:40.349262"
   },
   {
     "id": "1816289b0bd92c1116cdcb3b73f7dd00",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875094/Update-SK-Hynix-trekt-recordbedrag-uit-voor-inkoop-eigen-aandelen.aspx",
     "intro": "SK Hynix koopt de komende drie maanden voor ruim 28 miljard dollar eigen aandelen in. Dit maakte de Zuid-Koreaanse chipmaker woensdag na sluiting van de beurs bekend. Het zou de grootste aandeleninkoop ooit in Zuid-Korea zijn.",
     "published_at": "2026-08-19 11:48",
-    "scraped_at": "2026-08-19T12:13:55.679951"
-  },
-  {
-    "id": "9c9f9e019abeabd356bba92e814641dd",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone licht gestegen naar 2,9%",
-    "link": "https://www.beurs.nl/Nieuws/875090/Inflatie-eurozone-licht-gestegen-naar-29.aspx",
-    "intro": "De inflatie in de eurozone is in juli licht gestegen. Dit bleek woensdag uit definitieve cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-08-19 11:07",
-    "scraped_at": "2026-08-19T12:13:55.679951"
-  },
-  {
-    "id": "b9d7efb426e5801a77db167c93a42ad5",
-    "categorie": "Beursnieuws",
-    "titel": "Avantium fors onderuit op vlak Damrak",
-    "link": "https://www.beurs.nl/Nieuws/875089/Avantium-fors-onderuit-op-vlak-Damrak.aspx",
-    "intro": "De Amsterdamse beurs bleef woensdag dicht bij huis. Rond de klok van elf uur daalde de AEX fractioneel tot 1.106,69 punten.",
-    "published_at": "2026-08-19 11:01",
-    "scraped_at": "2026-08-19T12:13:55.679951"
+    "scraped_at": "2026-08-19T13:21:40.349262"
   }
 ]
