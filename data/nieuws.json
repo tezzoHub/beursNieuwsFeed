@@ -1,12 +1,21 @@
 [
   {
+    "id": "c6734e4b418f6b604b40e76165c9ef28",
+    "categorie": "Beursnieuws",
+    "titel": "Lowe's negatiever gestemd",
+    "link": "https://www.beurs.nl/Nieuws/875097/Lowes-negatiever-gestemd.aspx",
+    "intro": "Lowe's heeft zich minder positief uitgelaten over de verwachtingen voor heel het jaar. Dit bleek woensdag voorbeurs uit de cijfers over het tweede kwartaal van de Amerikaanse bouwmarktketen.",
+    "published_at": "2026-08-19 12:21",
+    "scraped_at": "2026-08-19T10:29:29.337694"
+  },
+  {
     "id": "1816289b0bd92c1116cdcb3b73f7dd00",
     "categorie": "Beursnieuws",
     "titel": "Update: SK Hynix trekt recordbedrag uit voor inkoop eigen aandelen",
     "link": "https://www.beurs.nl/Nieuws/875094/Update-SK-Hynix-trekt-recordbedrag-uit-voor-inkoop-eigen-aandelen.aspx",
     "intro": "SK Hynix koopt de komende drie maanden voor ruim 28 miljard dollar eigen aandelen in. Dit maakte de Zuid-Koreaanse chipmaker woensdag na sluiting van de beurs bekend. Het zou de grootste aandeleninkoop ooit in Zuid-Korea zijn.",
     "published_at": "2026-08-19 11:48",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   },
   {
     "id": "9c9f9e019abeabd356bba92e814641dd",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875090/Inflatie-eurozone-licht-gestegen-naar-29.aspx",
     "intro": "De inflatie in de eurozone is in juli licht gestegen. Dit bleek woensdag uit definitieve cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-08-19 11:07",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   },
   {
     "id": "b9d7efb426e5801a77db167c93a42ad5",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875089/Avantium-fors-onderuit-op-vlak-Damrak.aspx",
     "intro": "De Amsterdamse beurs bleef woensdag dicht bij huis. Rond de klok van elf uur daalde de AEX fractioneel tot 1.106,69 punten.",
     "published_at": "2026-08-19 11:01",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   },
   {
     "id": "a30870d374cbd59c0cef7ed79cba43d1",
@@ -33,7 +42,7 @@
     "link": "https://www.iex.nl/artikel/875077/Must-read-Beleggers-vechten-om-aandeel-dansende-robot.aspx",
     "intro": "Plus: Nederlanders stappen steeds vaker in bij IPO's, vijf aandelen die meer dan alleen koerswinst of dividend opleveren. En wat doet warm weer met ons koopgedrag?",
     "published_at": "2026-08-19 10:40",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   },
   {
     "id": "d431dd61726914e7c091ea74cc8d4bc0",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875084/Degroof-Petercam-haalt-Avantium-van-kooplijst.aspx",
     "intro": "Degroof Petercam heeft het advies voor Avantium verlaagd van Koop naar Houden en het koersdoel ging van 10,00 naar 6,00 euro. Dit bleek woensdagochtend uit een rapport van analist Fernand de Boer.",
     "published_at": "2026-08-19 09:33",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   },
   {
     "id": "c17919c01f457abd2f12eb79bf52dbfb",
@@ -51,7 +60,7 @@
     "link": "https://www.ieximpact.nl/artikel/873672/Zwaartepunt-impactbeleggen-verschuift-naar-AI-datacenters.aspx",
     "intro": "Waar impactbeleggers jarenlang vooral investeerden in zonneparken, sociale ondernemingen en microfinanciering stroomt steeds meer kapitaal naar de infrastructuur achter kunstmatige intelligentie. Dat blijkt uit een recente analyse van InforCapital, waarin 416 wereldwijde investeringsdeals onder de loep werden genomen.",
     "published_at": "2026-08-19 09:25",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   },
   {
     "id": "f6125174fcd8d8b3273347f9b58c2e29",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875081/Carlsberg-verhoogt-outlook-na-sterk-halfjaar.aspx",
     "intro": "Carlsberg heeft in de eerste helft van 2026 een hogere omzet en winst geboekt, geholpen door goede volumegroei en sterke prestaties bij frisdranken en alcoholvrij bier. Dit gaf ruimte om de outlook opwaarts bij te stellen, zo bleek woensdagochtend uit cijfers van de Deense bierbrouwer.",
     "published_at": "2026-08-19 09:24",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   },
   {
     "id": "181f3f37ee249c20062bc69d946dbba3",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875078/Vlakke-opening-Amsterdamse-beurs.aspx",
     "intro": "De Amsterdamse beurs is woensdag vlak geopend. Kort na opening steeg de AEX fractioneel tot 1.107,79 punten.",
     "published_at": "2026-08-19 09:10",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   },
   {
     "id": "035582313bcbe86bc791d1b4b123d491",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875076/Avantium-ziet-omzet-dalen-en-wil-nieuw-geld-aantrekken.aspx",
     "intro": "Avantium heeft in de eerste zes maanden van 2026 een lagere omzet geboekt, terwijl het bedrijf werkt aan een nieuw financieringspakket voor de opstart van zijn FDCA-fabriek. Dit maakte het chemiebedrijf woensdag bekend.",
     "published_at": "2026-08-19 08:40",
-    "scraped_at": "2026-08-19T09:54:27.654925"
-  },
-  {
-    "id": "6af77c8bdc702afeecd61374f521e15a",
-    "categorie": "Beursnieuws",
-    "titel": "Britse inflatie gestegen",
-    "link": "https://www.beurs.nl/Nieuws/875073/Britse-inflatie-gestegen.aspx",
-    "intro": "De consumentenprijzen in het Verenigd Koninkrijk zijn in juli in hoger tempo gestegen dan in juni. Dit bleek woensdag uit cijfers van het Britse statistiekbureau ONS.",
-    "published_at": "2026-08-19 08:22",
-    "scraped_at": "2026-08-19T09:54:27.654925"
+    "scraped_at": "2026-08-19T10:29:29.337694"
   }
 ]
