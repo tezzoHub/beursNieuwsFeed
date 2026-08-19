@@ -1,12 +1,48 @@
 [
   {
+    "id": "8e7acc3c2f00c0277e9b7f74f603720e",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden stijgen verder",
+    "link": "https://www.beurs.nl/Nieuws/875130/Amerikaanse-olievoorraden-stijgen-verder.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week opnieuw toegenomen, na de sterke stijging in de voorgaande week. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-08-19 16:43",
+    "scraped_at": "2026-08-19T14:58:16.425388"
+  },
+  {
+    "id": "2ae86e2b3dba651bbfe549ae237178da",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/875126/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 27 augustus 2026:",
+    "published_at": "2026-08-19 16:39",
+    "scraped_at": "2026-08-19T14:58:16.425388"
+  },
+  {
+    "id": "eb8f47d36e08882350a9e5862e1e247e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/875127/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 27 augustus 2026:",
+    "published_at": "2026-08-19 16:39",
+    "scraped_at": "2026-08-19T14:58:16.425388"
+  },
+  {
+    "id": "abf46299b8352bf6dea5334e48b12a07",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/875128/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 27 augustus 2026:",
+    "published_at": "2026-08-19 16:39",
+    "scraped_at": "2026-08-19T14:58:16.425388"
+  },
+  {
     "id": "89bad4dc280865c84c53c688125c46ea",
     "categorie": "Beursnieuws",
     "titel": "KBC positief over cijfers ASR",
     "link": "https://www.beurs.nl/Nieuws/875121/KBC-positief-over-cijfers-ASR.aspx",
     "intro": "Het halfjaarrapport van ASR Nederland, dat woensdag werd gepubliceerd, zag er sterk uit. Dit stelden analisten van KBC Securities in een rapport.",
     "published_at": "2026-08-19 15:52",
-    "scraped_at": "2026-08-19T14:04:03.311778"
+    "scraped_at": "2026-08-19T14:58:16.425388"
   },
   {
     "id": "ce57de2f3c7f3c02f02a7983b149e8a3",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875117/Amerikaanse-overheid-verdubbelt-terugkoopprogramma-staatsschuld.aspx",
     "intro": "De Amerikaanse rente op staatsobligaties is woensdag wat teruggezakt van de hoogste niveaus in jaren, nadat het ministerie van Financiën aankondigde het terugkoopprogramma voor staatsschuld te verdubbelen.",
     "published_at": "2026-08-19 15:15",
-    "scraped_at": "2026-08-19T14:04:03.311778"
+    "scraped_at": "2026-08-19T14:58:16.425388"
   },
   {
     "id": "f6218b629de09532c61eaf398b734934",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875114/Hogere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Circa een half uur voor opening, koersten futures op de SP 500 tot 0,3 procent hoger.",
     "published_at": "2026-08-19 14:41",
-    "scraped_at": "2026-08-19T14:04:03.311778"
+    "scraped_at": "2026-08-19T14:58:16.425388"
   },
   {
     "id": "f6215f08de8e7b1c149b21d6503fedac",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875108/AEX-komt-nauwelijks-van-zijn-plaats.aspx",
     "intro": "De Amsterdamse beurs noteerde woensdagmiddag nagenoeg vlak tijdens een matte handelssessie.",
     "published_at": "2026-08-19 13:54",
-    "scraped_at": "2026-08-19T14:04:03.311778"
+    "scraped_at": "2026-08-19T14:58:16.425388"
   },
   {
     "id": "46939b6687afdb691798e4ecf9a84fed",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875103/Merck-en-Moderna-doen-succesvolle-test-met-kankervaccin.aspx",
     "intro": "Merck en Moderna hebben een gepersonaliseerd vaccin tegen melanoom, een vorm van huidkanker, succesvol getest in een fase 3-studie. Het is de eerste keer dat een therapeutisch kankervaccin slaagt in een dergelijke laatste testfase, waardoor de bedrijven nu goedkeuring kunnen aanvragen bij toezichthouders. Dit maakten de bedrijven woensdag bekend.",
     "published_at": "2026-08-19 13:05",
-    "scraped_at": "2026-08-19T14:04:03.311778"
+    "scraped_at": "2026-08-19T14:58:16.425388"
   },
   {
     "id": "8665121c7f70a0c2ad1d2541810aac90",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875104/Futures-wijzen-op-vlakke-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet.",
     "published_at": "2026-08-19 13:03",
-    "scraped_at": "2026-08-19T14:04:03.311778"
-  },
-  {
-    "id": "7e35c337099e633f6aaa32f6fc0b0a51",
-    "categorie": "Beursnieuws",
-    "titel": "Target verhoogt outlook na sterk tweede kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/875100/Target-verhoogt-outlook-na-sterk-tweede-kwartaal.aspx",
-    "intro": "Target heeft in het tweede kwartaal een hogere omzet en winst geboekt en verhoogde daarop de outlook voor heel 2026. Dit maakte het Amerikaanse warenhuisconcern woensdag bekend.",
-    "published_at": "2026-08-19 12:45",
-    "scraped_at": "2026-08-19T14:04:03.311778"
-  },
-  {
-    "id": "414c91081f64b24e0aa81dc78587bb76",
-    "categorie": "Beursnieuws",
-    "titel": "Estée Lauder keert terug naar groei",
-    "link": "https://www.beurs.nl/Nieuws/875099/Estee-Lauder-keert-terug-naar-groei.aspx",
-    "intro": "Estée Lauder is in het gebroken boekjaar 2026 teruggekeerd naar omzetgroei en verhoogde tegelijk de margeverwachting voor het lopende jaar 2027. Dit maakte het Amerikaanse cosmeticaconcern woensdag voorbeurs bekend.",
-    "published_at": "2026-08-19 12:31",
-    "scraped_at": "2026-08-19T14:04:03.311778"
-  },
-  {
-    "id": "6200b1e113593a6efb3a12714c03f937",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen laten verdeeld beeld zien",
-    "link": "https://www.beurs.nl/Nieuws/875098/Europese-beurzen-laten-verdeeld-beeld-zien.aspx",
-    "intro": "De Europese aandelenbeurzen lieten woensdag een gemengd beeld zien, terwijl de uitslagen op indexniveau beperkt bleven. Dit doordat de wereldwijde obligatiemarkten stabiliseerden en de uitverkoop van techaandelen wat afnam.",
-    "published_at": "2026-08-19 12:27",
-    "scraped_at": "2026-08-19T14:04:03.311778"
-  },
-  {
-    "id": "c6734e4b418f6b604b40e76165c9ef28",
-    "categorie": "Beursnieuws",
-    "titel": "Lowe's negatiever gestemd",
-    "link": "https://www.beurs.nl/Nieuws/875097/Lowes-negatiever-gestemd.aspx",
-    "intro": "Lowe's heeft zich minder positief uitgelaten over de verwachtingen voor heel het jaar. Dit bleek woensdag voorbeurs uit de cijfers over het tweede kwartaal van de Amerikaanse bouwmarktketen.",
-    "published_at": "2026-08-19 12:21",
-    "scraped_at": "2026-08-19T14:04:03.311778"
+    "scraped_at": "2026-08-19T14:58:16.425388"
   }
 ]
