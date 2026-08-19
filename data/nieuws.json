@@ -1,12 +1,48 @@
 [
   {
+    "id": "8665121c7f70a0c2ad1d2541810aac90",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op vlakke opening Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/875104/Futures-wijzen-op-vlakke-opening-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet.",
+    "published_at": "2026-08-19 13:03",
+    "scraped_at": "2026-08-19T11:09:40.985793"
+  },
+  {
+    "id": "7e35c337099e633f6aaa32f6fc0b0a51",
+    "categorie": "Beursnieuws",
+    "titel": "Target verhoogt outlook na sterk tweede kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/875100/Target-verhoogt-outlook-na-sterk-tweede-kwartaal.aspx",
+    "intro": "Target heeft in het tweede kwartaal een hogere omzet en winst geboekt en verhoogde daarop de outlook voor heel 2026. Dit maakte het Amerikaanse warenhuisconcern woensdag bekend.",
+    "published_at": "2026-08-19 12:45",
+    "scraped_at": "2026-08-19T11:09:40.985793"
+  },
+  {
+    "id": "414c91081f64b24e0aa81dc78587bb76",
+    "categorie": "Beursnieuws",
+    "titel": "Estée Lauder keert terug naar groei",
+    "link": "https://www.beurs.nl/Nieuws/875099/Estee-Lauder-keert-terug-naar-groei.aspx",
+    "intro": "Estée Lauder is in het gebroken boekjaar 2026 teruggekeerd naar omzetgroei en verhoogde tegelijk de margeverwachting voor het lopende jaar 2027. Dit maakte het Amerikaanse cosmeticaconcern woensdag voorbeurs bekend.",
+    "published_at": "2026-08-19 12:31",
+    "scraped_at": "2026-08-19T11:09:40.985793"
+  },
+  {
+    "id": "6200b1e113593a6efb3a12714c03f937",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen laten verdeeld beeld zien",
+    "link": "https://www.beurs.nl/Nieuws/875098/Europese-beurzen-laten-verdeeld-beeld-zien.aspx",
+    "intro": "De Europese aandelenbeurzen lieten woensdag een gemengd beeld zien, terwijl de uitslagen op indexniveau beperkt bleven. Dit doordat de wereldwijde obligatiemarkten stabiliseerden en de uitverkoop van techaandelen wat afnam.",
+    "published_at": "2026-08-19 12:27",
+    "scraped_at": "2026-08-19T11:09:40.985793"
+  },
+  {
     "id": "c6734e4b418f6b604b40e76165c9ef28",
     "categorie": "Beursnieuws",
     "titel": "Lowe's negatiever gestemd",
     "link": "https://www.beurs.nl/Nieuws/875097/Lowes-negatiever-gestemd.aspx",
     "intro": "Lowe's heeft zich minder positief uitgelaten over de verwachtingen voor heel het jaar. Dit bleek woensdag voorbeurs uit de cijfers over het tweede kwartaal van de Amerikaanse bouwmarktketen.",
     "published_at": "2026-08-19 12:21",
-    "scraped_at": "2026-08-19T10:29:29.337694"
+    "scraped_at": "2026-08-19T11:09:40.985793"
   },
   {
     "id": "1816289b0bd92c1116cdcb3b73f7dd00",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875094/Update-SK-Hynix-trekt-recordbedrag-uit-voor-inkoop-eigen-aandelen.aspx",
     "intro": "SK Hynix koopt de komende drie maanden voor ruim 28 miljard dollar eigen aandelen in. Dit maakte de Zuid-Koreaanse chipmaker woensdag na sluiting van de beurs bekend. Het zou de grootste aandeleninkoop ooit in Zuid-Korea zijn.",
     "published_at": "2026-08-19 11:48",
-    "scraped_at": "2026-08-19T10:29:29.337694"
+    "scraped_at": "2026-08-19T11:09:40.985793"
   },
   {
     "id": "9c9f9e019abeabd356bba92e814641dd",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875090/Inflatie-eurozone-licht-gestegen-naar-29.aspx",
     "intro": "De inflatie in de eurozone is in juli licht gestegen. Dit bleek woensdag uit definitieve cijfers van statistiekbureau Eurostat.",
     "published_at": "2026-08-19 11:07",
-    "scraped_at": "2026-08-19T10:29:29.337694"
+    "scraped_at": "2026-08-19T11:09:40.985793"
   },
   {
     "id": "b9d7efb426e5801a77db167c93a42ad5",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875089/Avantium-fors-onderuit-op-vlak-Damrak.aspx",
     "intro": "De Amsterdamse beurs bleef woensdag dicht bij huis. Rond de klok van elf uur daalde de AEX fractioneel tot 1.106,69 punten.",
     "published_at": "2026-08-19 11:01",
-    "scraped_at": "2026-08-19T10:29:29.337694"
+    "scraped_at": "2026-08-19T11:09:40.985793"
   },
   {
     "id": "a30870d374cbd59c0cef7ed79cba43d1",
@@ -42,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/875077/Must-read-Beleggers-vechten-om-aandeel-dansende-robot.aspx",
     "intro": "Plus: Nederlanders stappen steeds vaker in bij IPO's, vijf aandelen die meer dan alleen koerswinst of dividend opleveren. En wat doet warm weer met ons koopgedrag?",
     "published_at": "2026-08-19 10:40",
-    "scraped_at": "2026-08-19T10:29:29.337694"
+    "scraped_at": "2026-08-19T11:09:40.985793"
   },
   {
     "id": "d431dd61726914e7c091ea74cc8d4bc0",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875084/Degroof-Petercam-haalt-Avantium-van-kooplijst.aspx",
     "intro": "Degroof Petercam heeft het advies voor Avantium verlaagd van Koop naar Houden en het koersdoel ging van 10,00 naar 6,00 euro. Dit bleek woensdagochtend uit een rapport van analist Fernand de Boer.",
     "published_at": "2026-08-19 09:33",
-    "scraped_at": "2026-08-19T10:29:29.337694"
-  },
-  {
-    "id": "c17919c01f457abd2f12eb79bf52dbfb",
-    "categorie": "Beleggen",
-    "titel": "Zwaartepunt impactbeleggen verschuift naar AI-datacenters",
-    "link": "https://www.ieximpact.nl/artikel/873672/Zwaartepunt-impactbeleggen-verschuift-naar-AI-datacenters.aspx",
-    "intro": "Waar impactbeleggers jarenlang vooral investeerden in zonneparken, sociale ondernemingen en microfinanciering stroomt steeds meer kapitaal naar de infrastructuur achter kunstmatige intelligentie. Dat blijkt uit een recente analyse van InforCapital, waarin 416 wereldwijde investeringsdeals onder de loep werden genomen.",
-    "published_at": "2026-08-19 09:25",
-    "scraped_at": "2026-08-19T10:29:29.337694"
-  },
-  {
-    "id": "f6125174fcd8d8b3273347f9b58c2e29",
-    "categorie": "Beursnieuws",
-    "titel": "Carlsberg verhoogt outlook na sterk halfjaar",
-    "link": "https://www.beurs.nl/Nieuws/875081/Carlsberg-verhoogt-outlook-na-sterk-halfjaar.aspx",
-    "intro": "Carlsberg heeft in de eerste helft van 2026 een hogere omzet en winst geboekt, geholpen door goede volumegroei en sterke prestaties bij frisdranken en alcoholvrij bier. Dit gaf ruimte om de outlook opwaarts bij te stellen, zo bleek woensdagochtend uit cijfers van de Deense bierbrouwer.",
-    "published_at": "2026-08-19 09:24",
-    "scraped_at": "2026-08-19T10:29:29.337694"
-  },
-  {
-    "id": "181f3f37ee249c20062bc69d946dbba3",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke opening Amsterdamse beurs",
-    "link": "https://www.beurs.nl/Nieuws/875078/Vlakke-opening-Amsterdamse-beurs.aspx",
-    "intro": "De Amsterdamse beurs is woensdag vlak geopend. Kort na opening steeg de AEX fractioneel tot 1.107,79 punten.",
-    "published_at": "2026-08-19 09:10",
-    "scraped_at": "2026-08-19T10:29:29.337694"
-  },
-  {
-    "id": "035582313bcbe86bc791d1b4b123d491",
-    "categorie": "Beursnieuws",
-    "titel": "Avantium ziet omzet dalen en wil nieuw geld aantrekken",
-    "link": "https://www.beurs.nl/Nieuws/875076/Avantium-ziet-omzet-dalen-en-wil-nieuw-geld-aantrekken.aspx",
-    "intro": "Avantium heeft in de eerste zes maanden van 2026 een lagere omzet geboekt, terwijl het bedrijf werkt aan een nieuw financieringspakket voor de opstart van zijn FDCA-fabriek. Dit maakte het chemiebedrijf woensdag bekend.",
-    "published_at": "2026-08-19 08:40",
-    "scraped_at": "2026-08-19T10:29:29.337694"
+    "scraped_at": "2026-08-19T11:09:40.985793"
   }
 ]
