@@ -1,12 +1,21 @@
 [
   {
+    "id": "e34635e1f01c59f755f8968061066c93",
+    "categorie": "IEX",
+    "titel": "Slotcall: na oh oh Ebusco zeggen we vandaag uhm uhm Avantium?!",
+    "link": "https://www.iex.nl/artikel/875131/Slotcall-na-oh-oh-Ebusco-zeggen-we-vandaag-uhm-uhm-Avantium.aspx",
+    "intro": "De AEX sluit de dag lager af en daarmee loopt de recordjacht wat vertraging op. De hoofdindex eindigt deze druilerige dag 0,4% lager op zo'n 1.102 punten.",
+    "published_at": "2026-08-19 17:40",
+    "scraped_at": "2026-08-19T16:12:57.555973"
+  },
+  {
     "id": "8e7acc3c2f00c0277e9b7f74f603720e",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse olievoorraden stijgen verder",
     "link": "https://www.beurs.nl/Nieuws/875130/Amerikaanse-olievoorraden-stijgen-verder.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week opnieuw toegenomen, na de sterke stijging in de voorgaande week. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-08-19 16:43",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   },
   {
     "id": "2ae86e2b3dba651bbfe549ae237178da",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875126/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 27 augustus 2026:",
     "published_at": "2026-08-19 16:39",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   },
   {
     "id": "eb8f47d36e08882350a9e5862e1e247e",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875127/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 27 augustus 2026:",
     "published_at": "2026-08-19 16:39",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   },
   {
     "id": "abf46299b8352bf6dea5334e48b12a07",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875128/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 27 augustus 2026:",
     "published_at": "2026-08-19 16:39",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   },
   {
     "id": "89bad4dc280865c84c53c688125c46ea",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875121/KBC-positief-over-cijfers-ASR.aspx",
     "intro": "Het halfjaarrapport van ASR Nederland, dat woensdag werd gepubliceerd, zag er sterk uit. Dit stelden analisten van KBC Securities in een rapport.",
     "published_at": "2026-08-19 15:52",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   },
   {
     "id": "ce57de2f3c7f3c02f02a7983b149e8a3",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875117/Amerikaanse-overheid-verdubbelt-terugkoopprogramma-staatsschuld.aspx",
     "intro": "De Amerikaanse rente op staatsobligaties is woensdag wat teruggezakt van de hoogste niveaus in jaren, nadat het ministerie van Financiën aankondigde het terugkoopprogramma voor staatsschuld te verdubbelen.",
     "published_at": "2026-08-19 15:15",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   },
   {
     "id": "f6218b629de09532c61eaf398b734934",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875114/Hogere-opening-Wall-Street-voorzien.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Circa een half uur voor opening, koersten futures op de SP 500 tot 0,3 procent hoger.",
     "published_at": "2026-08-19 14:41",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   },
   {
     "id": "f6215f08de8e7b1c149b21d6503fedac",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875108/AEX-komt-nauwelijks-van-zijn-plaats.aspx",
     "intro": "De Amsterdamse beurs noteerde woensdagmiddag nagenoeg vlak tijdens een matte handelssessie.",
     "published_at": "2026-08-19 13:54",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   },
   {
     "id": "46939b6687afdb691798e4ecf9a84fed",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875103/Merck-en-Moderna-doen-succesvolle-test-met-kankervaccin.aspx",
     "intro": "Merck en Moderna hebben een gepersonaliseerd vaccin tegen melanoom, een vorm van huidkanker, succesvol getest in een fase 3-studie. Het is de eerste keer dat een therapeutisch kankervaccin slaagt in een dergelijke laatste testfase, waardoor de bedrijven nu goedkeuring kunnen aanvragen bij toezichthouders. Dit maakten de bedrijven woensdag bekend.",
     "published_at": "2026-08-19 13:05",
-    "scraped_at": "2026-08-19T15:38:35.095004"
-  },
-  {
-    "id": "8665121c7f70a0c2ad1d2541810aac90",
-    "categorie": "Beursnieuws",
-    "titel": "Futures wijzen op vlakke opening Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875104/Futures-wijzen-op-vlakke-opening-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet.",
-    "published_at": "2026-08-19 13:03",
-    "scraped_at": "2026-08-19T15:38:35.095004"
+    "scraped_at": "2026-08-19T16:12:57.555973"
   }
 ]
