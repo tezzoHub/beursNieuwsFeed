@@ -1,12 +1,21 @@
 [
   {
+    "id": "9bf652d7d9492a091a1386f75f060bae",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Aegon genereert meer kapitaal en boekt aanzienlijke vooruitgang met verhuizing naar VS",
+    "link": "https://www.beurs.nl/Nieuws/875014/Update-Aegon-genereert-meer-kapitaal-en-boekt-aanzienlijke-vooruitgang-met-verhuizing-naar-VS.aspx",
+    "intro": "Aegon heeft in de eerste helft van 2026 fors meer kapitaal gegenereerd dan een jaar eerder, terwijl de solvabiliteit van de Amerikaanse tak licht daalde. Dit bleek donderdagochtend uit de resultaten van de verzekeraar, die benadrukte dat er \"aanzienlijke vooruitgang\" wordt geboekt met de verhuizing naar de Verenigde Staten.",
+    "published_at": "2026-08-20 09:33",
+    "scraped_at": "2026-08-20T08:18:31.969069"
+  },
+  {
     "id": "197821f4c4986e3d878fb2bb87b3fad4",
     "categorie": "Beursnieuws",
     "titel": "AEX nipt hoger van start gegaan",
     "link": "https://www.beurs.nl/Nieuws/875181/AEX-nipt-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste donderdag kort na de beursgong fractioneel in het groen op 1.102,77 punten, terwijl de Midkap ook nipt hoger noteerde.",
     "published_at": "2026-08-20 09:10",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   },
   {
     "id": "109cf2f77657169835c883311401f73b",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875178/Aegon-zoekt-nieuwe-CFO.aspx",
     "intro": "Aegon is op zoek naar een nieuwe financieel directeur, in verband met de geplande verhuizing van het hoofdkantoor en de statutaire zetel naar de Vereigde Staten. Dit meldde de verzekeraar donderdag.",
     "published_at": "2026-08-20 08:45",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   },
   {
     "id": "c082b2ee3ed9f4bd35e37ce1a57df886",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875175/CVC-en-Standard-Life-starten-pensioenplatform.aspx",
     "intro": "CVC Capital Partners heeft een strategische joint venture aangekondigd met de Britse pensioenspecialist Standard Life voor een nieuw platform voor de overdracht van pensioenrisico's, gericht op grote Britse bedrijfspensioenregelingen. Dat maakte het aan de Amsterdamse beurs genoteerde private-equitybedrijf donderdag bekend.",
     "published_at": "2026-08-20 08:22",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   },
   {
     "id": "fd69f037203f507d344b940756e1b43e",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875176/Explosieve-omzetgroei-Royal-Delft-door-overname.aspx",
     "intro": "Royal Delft heeft in het eerste halfjaar van 2026 een explosieve omzetgroei geboekt, terwijl ook het resultaat flink verbeterde, dankzij de overname van BOSKA aan het begin van het jaar. Dit meldde de porseleinspecialist uit Delft donderdagochtend.",
     "published_at": "2026-08-20 08:22",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   },
   {
     "id": "c44bc30f056496c015ab8992bafab95b",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875174/WSP-blijft-achter-overnamebod-Arcadis-staan.aspx",
     "intro": "WSP Global heeft donderdag bevestigd achter een overname van sectorgenoot Arcadis te blijven staan, ook al is het bestuur van het Nederlandse advies- en ingenieursbureau nog altijd niet met het Canadese bedrijf in gesprek gegaan. Dit maakte WSP bekend in de verplichte vierwekelijkse update die voortvloeit uit de Nederlandse biedingsregels.",
     "published_at": "2026-08-20 08:14",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   },
   {
     "id": "d4d5098016e3518f0de06ae07c09cb8d",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875172/Duitse-producentenprijzen-stijgen-veel-harder.aspx",
     "intro": "De producentenprijzen in Duitsland zijn in juli veel harder gestegen dan in de maand ervoor, onder meer als gevolg van de stijgende energieprijzen. Dit bleek donderdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
     "published_at": "2026-08-20 08:07",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   },
   {
     "id": "aed100b2d7560216ddb551d971e2bade",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875166/AEX-start-handelsdag-vermoedelijk-in-het-rood.aspx",
     "intro": "De Amsterdamse beurs maakt zich donderdag op voor een licht lagere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent.",
     "published_at": "2026-08-20 07:53",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   },
   {
     "id": "6c253ada611fe6b2d325f178eb26effa",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875164/Werkloosheid-stijgt-in-juli.aspx",
     "intro": "De werkloosheid in Nederland is in juli gestegen tot 4,0 procent. Dit meldde het Centraal Bureau voor de Statistiek donderdag.",
     "published_at": "2026-08-20 07:46",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   },
   {
     "id": "66afb298c3873a0f767bc00ff543a83b",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875159/Berenberg-verhoogt-koersdoel-ASR.aspx",
     "intro": "Berenberg heeft donderdag het koersdoel voor ASR Nederland verhoogd van 81,00 naar 85,00 euro met handhaving van het koopadvies. Dit kwam naar voren uit een rapport van analist Michael Huttner naar aanleiding van de cijferrapportage van de verzekeraar woensdag.",
     "published_at": "2026-08-20 07:30",
-    "scraped_at": "2026-08-20T07:28:42.164011"
-  },
-  {
-    "id": "a0aa3e99e9d66ff78fb73582016245f2",
-    "categorie": "Beursnieuws",
-    "titel": "Aegon genereert meer kapitaal",
-    "link": "https://www.beurs.nl/Nieuws/875158/Aegon-genereert-meer-kapitaal.aspx",
-    "intro": "Aegon heeft in de eerste helft van 2026 fors meer kapitaal gegenereerd dan een jaar eerder, terwijl de solvabiliteit van de Amerikaanse tak licht daalde. Dit bleek donderdagochtend uit de resultaten van de verzekeraar.",
-    "published_at": "2026-08-20 07:23",
-    "scraped_at": "2026-08-20T07:28:42.164011"
+    "scraped_at": "2026-08-20T08:18:31.969069"
   }
 ]
