@@ -1,12 +1,21 @@
 [
   {
+    "id": "18ac3fd2e5ff5c94d4b274ee55953bb5",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen zetten rally voort",
+    "link": "https://www.beurs.nl/Nieuws/875251/Olieprijzen-zetten-rally-voort.aspx",
+    "intro": "De olieprijzen hebben donderdag hun rally voortgezet, nadat de Amerikaanse president Donald Trump zei dat de VS ongekende economische maatregelen zullen opleggen aan Iran, met economische gevolgen voor elk land dat Iran op wat voor manier dan ook een reddingslijn biedt.",
+    "published_at": "2026-08-20 21:06",
+    "scraped_at": "2026-08-20T19:19:40.389437"
+  },
+  {
     "id": "5f207a5b51c04f59731d00da8cf5d788",
     "categorie": "Beursnieuws",
     "titel": "Wall Street op verlies na oplopen rentes",
     "link": "https://www.beurs.nl/Nieuws/875250/Wall-Street-op-verlies-na-oplopen-rentes.aspx",
     "intro": "De Amerikaanse beurzen stonden donderdagavond lager, nadat de olieprijs opnieuw steeg en de obligatierentes weer opliepen, ondanks de Amerikaanse interventie van woensdag.",
     "published_at": "2026-08-20 20:18",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   },
   {
     "id": "ea62698fbf76c2d5711fdb3eb21f03aa",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875245/Europese-beurzen-sluiten-lager.aspx",
     "intro": "De Europese zijn donderdag overwegend lager gesloten, nadat de olieprijs opnieuw steeg en de obligatierentes weer opliepen, ondanks de Amerikaanse interventie van woensdag.",
     "published_at": "2026-08-20 18:51",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   },
   {
     "id": "877740f1b475d1303ac850a716969df1",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875241/Aegon-is-de-gebeten-hond-op-Damrak.aspx",
     "intro": "De Amsterdamse beurs is donderdag vlak gesloten, na een kalme handelsdag, waarop een ingreep van de Amerikaanse regering in de obligatiemarkt van weinig effect bleek.",
     "published_at": "2026-08-20 17:51",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   },
   {
     "id": "a4c7c75fc00b124d7cefffc4d84b98cc",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875237/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 28 augustus 2026:",
     "published_at": "2026-08-20 17:00",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   },
   {
     "id": "6915757d03a82205833bb7d961904d7d",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875238/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 28 augustus 2026:",
     "published_at": "2026-08-20 16:59",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   },
   {
     "id": "6063c02ee531401bec8d44ea5520bfc6",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875239/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 28 augustus 2026:",
     "published_at": "2026-08-20 16:59",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   },
   {
     "id": "92241d6d2abb54537f20c3abc9f93528",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875233/Voorlopende-indicatoren-VS-licht-gestegen.aspx",
     "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in juli licht gestegen. Dit bleek donderdag uit cijfers van The Conference Board.",
     "published_at": "2026-08-20 16:14",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   },
   {
     "id": "67b85a06e220ec4b86e1fb535d93915f",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875231/KBC-Securities-verhoogt-koersdoel-ASMI.aspx",
     "intro": "KBC Securities heeft het koersdoel voor ASMI verhoogd van 770 naar 915 euro, met handhaving van het advies Houden, maar is voorzichtiger over de investeringen in de sector dan de consensus, en ziet ook risico's voor de marktaandelen van ASML en ASMI.",
     "published_at": "2026-08-20 15:40",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   },
   {
     "id": "0e41a66cb530bc6ffc54839ba6dc1fa5",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875227/Wall-Street-wacht-lagere-opening-terwijl-rentes-weer-stijgen.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, terwijl de verliezen zich uitbreidden richting de opening in New York. De obligatierentes liepen vanmiddag weer op.",
     "published_at": "2026-08-20 15:09",
-    "scraped_at": "2026-08-20T18:40:07.515154"
-  },
-  {
-    "id": "25344633930f6b8197be14f66907019f",
-    "categorie": "Beursnieuws",
-    "titel": "Correctie: explosieve omzetgroei Royal Delft door overname",
-    "link": "https://www.beurs.nl/Nieuws/875176/Correctie-explosieve-omzetgroei-Royal-Delft-door-overname.aspx",
-    "intro": "Royal Delft heeft in het eerste halfjaar van 2026 een explosieve omzetgroei geboekt, terwijl ook het resultaat flink verbeterde, dankzij de overname van BOSKA aan het begin van het jaar. Dit meldde de porseleinspecialist uit Delft donderdagochtend.",
-    "published_at": "2026-08-20 15:04",
-    "scraped_at": "2026-08-20T18:40:07.515154"
+    "scraped_at": "2026-08-20T19:19:40.389437"
   }
 ]
