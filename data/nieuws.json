@@ -1,12 +1,48 @@
 [
   {
+    "id": "6c253ada611fe6b2d325f178eb26effa",
+    "categorie": "Beursnieuws",
+    "titel": "Werkloosheid stijgt in juli",
+    "link": "https://www.beurs.nl/Nieuws/875164/Werkloosheid-stijgt-in-juli.aspx",
+    "intro": "De werkloosheid in Nederland is in juli gestegen tot 4,0 procent. Dit meldde het Centraal Bureau voor de Statistiek donderdag.",
+    "published_at": "2026-08-20 07:46",
+    "scraped_at": "2026-08-20T05:52:18.437189"
+  },
+  {
+    "id": "c9fa66f977a6c253c4e16001d3a45d20",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Berenberg verhoogt koersdoel ASR Nederland",
+    "link": "https://www.beurs.nl/Nieuws/875159/Beursblik-Berenberg-verhoogt-koersdoel-ASR-Nederland.aspx",
+    "intro": "Berenberg heeft donderdag het koersdoel voor ASR Nederland verhoogd van 81,00 naar 85,00 euro met handhaving van het koopadvies. Dit kwam naar voren uit een rapport van analist Michael Huttner naar aanleiding van de cijferrapportage van de verzekeraar woensdag.",
+    "published_at": "2026-08-20 07:30",
+    "scraped_at": "2026-08-20T05:52:18.437189"
+  },
+  {
+    "id": "a0aa3e99e9d66ff78fb73582016245f2",
+    "categorie": "Beursnieuws",
+    "titel": "Aegon genereert meer kapitaal",
+    "link": "https://www.beurs.nl/Nieuws/875158/Aegon-genereert-meer-kapitaal.aspx",
+    "intro": "Aegon heeft in de eerste helft van 2026 fors meer kapitaal gegenereerd dan een jaar eerder, terwijl de solvabiliteit van de Amerikaanse tak licht daalde. Dit bleek donderdagochtend uit de resultaten van de verzekeraar.",
+    "published_at": "2026-08-20 07:23",
+    "scraped_at": "2026-08-20T05:52:18.437189"
+  },
+  {
+    "id": "9f24f90f3965c6e17df61ce812b262a8",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen noteren in het groen na Amerikaanse inkopen staatsobligaties",
+    "link": "https://www.beurs.nl/Nieuws/875154/Aziatische-beurzen-noteren-in-het-groen-na-Amerikaanse-inkopen-staatsobligaties.aspx",
+    "intro": "De Aziatische beurzen koersten donderdag eensgezind hoger, met als absolute uitschieter de KOSPI-index in Seoel met een winst van ongeveer 7 procent.  De MSCI Asia Pacific-index steeg circa 1,4 procent. De Japanse beurs schreef 1,3 procent bij en de Hang Seng-index won 1,2 procent.",
+    "published_at": "2026-08-20 07:18",
+    "scraped_at": "2026-08-20T05:52:18.437189"
+  },
+  {
     "id": "f48a82d9b8ad77bd2655ea310e88e229",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen openen vlak",
     "link": "https://www.beurs.nl/Nieuws/875153/Europese-beurzen-openen-vlak.aspx",
     "intro": "De Europese beurzen gaan donderdag een vlakke opening tegemoet. IG Markets voorziet een openingsverlies van 30 punten voor de Duitse DAX, een min van 13 punten voor de Franse CAC 40 en een stijging van 4 punten voor de Britse FTSE 100.",
     "published_at": "2026-08-20 07:04",
-    "scraped_at": "2026-08-20T05:16:42.144137"
+    "scraped_at": "2026-08-20T05:52:18.437189"
   },
   {
     "id": "77ef96c489fc69924feb1a16957dcf8a",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875149/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 27 augustus 2026:",
     "published_at": "2026-08-20 06:58",
-    "scraped_at": "2026-08-20T05:16:42.144137"
+    "scraped_at": "2026-08-20T05:52:18.437189"
   },
   {
     "id": "9da62801ad7990c7fbff7e0e81c0683e",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875150/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 27 augustus 2026:",
     "published_at": "2026-08-20 06:58",
-    "scraped_at": "2026-08-20T05:16:42.144137"
+    "scraped_at": "2026-08-20T05:52:18.437189"
   },
   {
     "id": "c59d7b0edb6a5f983411d060e8cacffa",
@@ -33,6 +69,6 @@
     "link": "https://www.beurs.nl/Nieuws/875151/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 27 augustus 2026:",
     "published_at": "2026-08-20 06:58",
-    "scraped_at": "2026-08-20T05:16:42.144137"
+    "scraped_at": "2026-08-20T05:52:18.437189"
   }
 ]
