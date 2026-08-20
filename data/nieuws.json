@@ -1,12 +1,30 @@
 [
   {
+    "id": "b5d8776f4f9e67859cb4b99f88c0fe6d",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen verdeelde opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/875212/Futures-voorspellen-verdeelde-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd tot 0,1 procent lager. De Nasdaq-future noteerde nipt in het groen.",
+    "published_at": "2026-08-20 12:56",
+    "scraped_at": "2026-08-20T11:11:09.638170"
+  },
+  {
+    "id": "7ce2eca21407303855f86a80df842b51",
+    "categorie": "Beursnieuws",
+    "titel": "John Deere positiever over winstontwikkeling",
+    "link": "https://www.beurs.nl/Nieuws/875211/John-Deere-positiever-over-winstontwikkeling.aspx",
+    "intro": "John Deere heeft in het derde kwartaal van het gebroken boekjaar meer winst geboekt en werd positiever over de winstverwachting voor heel 2026. Dat maakte de Amerikaanse fabrikant van landbouw- en bouwmachines donderdag bekend.",
+    "published_at": "2026-08-20 12:39",
+    "scraped_at": "2026-08-20T11:11:09.638170"
+  },
+  {
     "id": "609ce1effc78c691fddde7b2c27e72f4",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen in evenwicht",
     "link": "https://www.beurs.nl/Nieuws/875206/Europese-beurzen-in-evenwicht.aspx",
     "intro": "De Europese beurzen bleven donderdag dicht bij huis en noteerden rond het middaguur verdeeld, terwijl de olieprijs opnieuw steeg en de dollar verzwakte.",
     "published_at": "2026-08-20 12:20",
-    "scraped_at": "2026-08-20T10:32:34.131805"
+    "scraped_at": "2026-08-20T11:11:09.638170"
   },
   {
     "id": "f6cef2d8e8d50712fe3a1ee825c21808",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875204/Winst-Alibaba-keldert-door-AI-investeringen.aspx",
     "intro": "Alibaba heeft in het afgelopen kwartaal meer omzet geboekt, maar zag de winst fors dalen door zware investeringen in kunstmatige intelligentie. Dat bleek donderdag uit de cijfers van de Chinese techreus.",
     "published_at": "2026-08-20 12:07",
-    "scraped_at": "2026-08-20T10:32:34.131805"
+    "scraped_at": "2026-08-20T11:11:09.638170"
   },
   {
     "id": "0aa23ed97f1be67ef908fdd9201e5304",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875199/Aegon-onder-druk-in-vlakke-AEX.aspx",
     "intro": "De Amsterdamse beurs bleef donderdag dicht bij huis. Kort na de klok van elf uur daalde de AEX fractioneel tot 1.102,04 punten.",
     "published_at": "2026-08-20 11:24",
-    "scraped_at": "2026-08-20T10:32:34.131805"
+    "scraped_at": "2026-08-20T11:11:09.638170"
   },
   {
     "id": "81ff8365bc663c9c88ebeb27550a27b8",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875195/Beursblik-onzekerheid-voor-Aegon-op-korte-termijn-door-vertrek-CFO.aspx",
     "intro": "Aegon heeft over het eerste halfjaar \"sterke resultaten\" geboekt, maar die worden mogelijk overschaduwd door het aangekondigde vertrek van de CFO. Dit stelde JPMorgan donderdag in reactie op de cijfers van de verzekeraar.",
     "published_at": "2026-08-20 10:49",
-    "scraped_at": "2026-08-20T10:32:34.131805"
+    "scraped_at": "2026-08-20T11:11:09.638170"
   },
   {
     "id": "0941cec62812ec82c4d63e569c25572f",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875193/Zweedse-Riksbank-laat-rente-ongewijzigd.aspx",
     "intro": "De Riksbank heeft de rente donderdag ongewijzigd gelaten op 1,75 procent. Dit bleek vanochtend uit het rentebesluit van de Zweedse centrale bank.",
     "published_at": "2026-08-20 10:30",
-    "scraped_at": "2026-08-20T10:32:34.131805"
+    "scraped_at": "2026-08-20T11:11:09.638170"
   },
   {
     "id": "74279003fded976de65cf6c381ad03c8",
@@ -51,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/874857/Must-read-Geweldig-tweede-kwartaal-voor-Nederlandse-beleggers.aspx",
     "intro": "Plus: droogte raakt Europese economie in het hart, nieuwe tegenwind voor actieve fondsen, lange rentes op recordstand, drie ondergewaardeerde Europese sectoren en nog veel meer.",
     "published_at": "2026-08-20 10:30",
-    "scraped_at": "2026-08-20T10:32:34.131805"
+    "scraped_at": "2026-08-20T11:11:09.638170"
   },
   {
     "id": "ab3196e10ac874a1eed58b9a37bf8696",
@@ -60,7 +78,7 @@
     "link": "https://www.ieximpact.nl/artikel/875119/Obligatiemarkt-negeert-vooralsnog-zomerdroogte.aspx",
     "intro": "De Rijn staat extreem laag, Europese oogsten vallen tegen. Toch zijn bedrijfsobligaties nauwelijks geraakt. Laura Cooper, hoofd beleggingsstrateeg en hoofd macro-krediet bij Nuveen, verwacht dat de derdekwartaalcijfers daar verandering in zullen brengen.",
     "published_at": "2026-08-20 10:20",
-    "scraped_at": "2026-08-20T10:32:34.131805"
+    "scraped_at": "2026-08-20T11:11:09.638170"
   },
   {
     "id": "9bf652d7d9492a091a1386f75f060bae",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875014/Update-Aegon-genereert-meer-kapitaal-en-boekt-aanzienlijke-vooruitgang-met-verhuizing-naar-VS.aspx",
     "intro": "Aegon heeft in de eerste helft van 2026 fors meer kapitaal gegenereerd dan een jaar eerder, terwijl de solvabiliteit van de Amerikaanse tak licht daalde. Dit bleek donderdagochtend uit de resultaten van de verzekeraar, die benadrukte dat er \"aanzienlijke vooruitgang\" wordt geboekt met de verhuizing naar de Verenigde Staten.",
     "published_at": "2026-08-20 09:33",
-    "scraped_at": "2026-08-20T10:32:34.131805"
-  },
-  {
-    "id": "197821f4c4986e3d878fb2bb87b3fad4",
-    "categorie": "Beursnieuws",
-    "titel": "AEX nipt hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/875181/AEX-nipt-hoger-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong fractioneel in het groen op 1.102,77 punten, terwijl de Midkap ook nipt hoger noteerde.",
-    "published_at": "2026-08-20 09:10",
-    "scraped_at": "2026-08-20T10:32:34.131805"
-  },
-  {
-    "id": "109cf2f77657169835c883311401f73b",
-    "categorie": "Beursnieuws",
-    "titel": "Aegon zoekt nieuwe CFO",
-    "link": "https://www.beurs.nl/Nieuws/875178/Aegon-zoekt-nieuwe-CFO.aspx",
-    "intro": "Aegon is op zoek naar een nieuwe financieel directeur, in verband met de geplande verhuizing van het hoofdkantoor en de statutaire zetel naar de Vereigde Staten. Dit meldde de verzekeraar donderdag.",
-    "published_at": "2026-08-20 08:45",
-    "scraped_at": "2026-08-20T10:32:34.131805"
+    "scraped_at": "2026-08-20T11:11:09.638170"
   }
 ]
