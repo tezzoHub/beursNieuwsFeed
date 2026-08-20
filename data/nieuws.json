@@ -1,12 +1,21 @@
 [
   {
+    "id": "67b85a06e220ec4b86e1fb535d93915f",
+    "categorie": "Beursnieuws",
+    "titel": "KBC Securities verhoogt koersdoel ASMI",
+    "link": "https://www.beurs.nl/Nieuws/875231/KBC-Securities-verhoogt-koersdoel-ASMI.aspx",
+    "intro": "KBC Securities heeft het koersdoel voor ASMI verhoogd van 770 naar 915 euro, met handhaving van het advies Houden, maar is voorzichtiger over de investeringen in de sector dan de consensus, en ziet ook risico's voor de marktaandelen van ASML en ASMI.",
+    "published_at": "2026-08-20 15:40",
+    "scraped_at": "2026-08-20T14:07:05.207646"
+  },
+  {
     "id": "0e41a66cb530bc6ffc54839ba6dc1fa5",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht lagere opening terwijl rentes weer stijgen",
     "link": "https://www.beurs.nl/Nieuws/875227/Wall-Street-wacht-lagere-opening-terwijl-rentes-weer-stijgen.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, terwijl de verliezen zich uitbreidden richting de opening in New York. De obligatierentes liepen vanmiddag weer op.",
     "published_at": "2026-08-20 15:09",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   },
   {
     "id": "25344633930f6b8197be14f66907019f",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875176/Correctie-explosieve-omzetgroei-Royal-Delft-door-overname.aspx",
     "intro": "Royal Delft heeft in het eerste halfjaar van 2026 een explosieve omzetgroei geboekt, terwijl ook het resultaat flink verbeterde, dankzij de overname van BOSKA aan het begin van het jaar. Dit meldde de porseleinspecialist uit Delft donderdagochtend.",
     "published_at": "2026-08-20 15:04",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   },
   {
     "id": "11f7a49924ff038fd1bfed3540562355",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875224/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
     "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
     "published_at": "2026-08-20 14:39",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   },
   {
     "id": "66fcb5dc43eb1c2477539f0b760c306a",
@@ -33,16 +42,16 @@
     "link": "https://www.beurs.nl/Nieuws/875223/Philadelphia-Fed-index-verbetert-verder.aspx",
     "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in augustus tegen de verwachting in verder verbeterd. Dit bleek donderdag uit de zogeheten Philly Fed index.",
     "published_at": "2026-08-20 14:37",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   },
   {
-    "id": "cec93f704c9e3bf2b1e9a66fab5d6632",
+    "id": "4541f961df120e7083c07842209f484e",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Aegon lager op rustig Damrak",
-    "link": "https://www.beurs.nl/Nieuws/875219/Beursupdate-Aegon-lager-op-rustig-Damrak.aspx",
+    "titel": "Aegon lager op rustig Damrak",
+    "link": "https://www.beurs.nl/Nieuws/875219/Aegon-lager-op-rustig-Damrak.aspx",
     "intro": "De Amsterdamse beurs koerste donderdagmiddag wat lager. Rond de klok van twee uur daalde de AEX 0,1 procent tot 1.101,58 punten.",
     "published_at": "2026-08-20 13:54",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   },
   {
     "id": "03fa93a9b59975cca8c531b3945569e5",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875217/Walmart-verhoogt-verwachtingen.aspx",
     "intro": "Walmart heeft zijn verwachtingen voor het derde kwartaal en voor het lopende jaar verhoogd, nadat de winst minder daalde dan gevreesd, bij een stevig groeiende omzet. Dat bleek donderdag uit de kwartaalcijfers van de Amerikaanse retailer.",
     "published_at": "2026-08-20 13:41",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   },
   {
     "id": "b5d8776f4f9e67859cb4b99f88c0fe6d",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875212/Futures-voorspellen-verdeelde-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een voorzichtige opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd tot 0,1 procent lager. De Nasdaq-future noteerde nipt in het groen.",
     "published_at": "2026-08-20 12:56",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   },
   {
     "id": "7ce2eca21407303855f86a80df842b51",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875211/John-Deere-positiever-over-winstontwikkeling.aspx",
     "intro": "John Deere heeft in het derde kwartaal van het gebroken boekjaar meer winst geboekt en werd positiever over de winstverwachting voor heel 2026. Dat maakte de Amerikaanse fabrikant van landbouw- en bouwmachines donderdag bekend.",
     "published_at": "2026-08-20 12:39",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   },
   {
     "id": "609ce1effc78c691fddde7b2c27e72f4",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875206/Europese-beurzen-in-evenwicht.aspx",
     "intro": "De Europese beurzen bleven donderdag dicht bij huis en noteerden rond het middaguur verdeeld, terwijl de olieprijs opnieuw steeg en de dollar verzwakte.",
     "published_at": "2026-08-20 12:20",
-    "scraped_at": "2026-08-20T13:23:29.344270"
-  },
-  {
-    "id": "f6cef2d8e8d50712fe3a1ee825c21808",
-    "categorie": "Beursnieuws",
-    "titel": "Winst Alibaba keldert door AI-investeringen",
-    "link": "https://www.beurs.nl/Nieuws/875204/Winst-Alibaba-keldert-door-AI-investeringen.aspx",
-    "intro": "Alibaba heeft in het afgelopen kwartaal meer omzet geboekt, maar zag de winst fors dalen door zware investeringen in kunstmatige intelligentie. Dat bleek donderdag uit de cijfers van de Chinese techreus.",
-    "published_at": "2026-08-20 12:07",
-    "scraped_at": "2026-08-20T13:23:29.344270"
+    "scraped_at": "2026-08-20T14:07:05.207646"
   }
 ]
