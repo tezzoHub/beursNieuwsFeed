@@ -1,12 +1,21 @@
 [
   {
+    "id": "ecf9fffd4c2ec5c795a56bd8d0990e2c",
+    "categorie": "Crypto",
+    "titel": "Ethereum verrast met sterke draai: ruimte voor veel meer?",
+    "link": "https://www.tostrams.nl/artikel/875302/Ethereum-verrast-met-sterke-draai-ruimte-voor-veel-meer.aspx",
+    "intro": "De cryptomarkt veert deze week krachtig op, waarbij niet alleen Bitcoin, maar ook Ethereum en andere crypto’s weer duidelijk meer koopinteresse trekken.",
+    "published_at": "2026-08-21 13:20",
+    "scraped_at": "2026-08-21T11:47:48.381021"
+  },
+  {
     "id": "86a563becf7a008f2ea5930ad3177e14",
     "categorie": "Beursnieuws",
     "titel": "Futures voorspellen lichtgroene opening voor Wall Street",
     "link": "https://www.beurs.nl/Nieuws/875299/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Rond lunchtijd noteerden de futures op de SP 500 ongeveer 0,3 procent hoger.",
     "published_at": "2026-08-21 12:42",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   },
   {
     "id": "9dc991b1dc376f4124faff5cce683e88",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875298/Europese-beurzen-blijven-dicht-bij-huis.aspx",
     "intro": "De aandelenmarkten in Europa bleven vrijdag rond het middaguur dicht bij huis.",
     "published_at": "2026-08-21 12:04",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   },
   {
     "id": "217a066702fec63beac6a858ecd72058",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875293/AEX-vlak-tijdens-rustige-ochtendsessie.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdag tegen het einde van de ochtend vrijwel vlak, bij een gebrek aan impulsen.",
     "published_at": "2026-08-21 11:05",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   },
   {
     "id": "84f7b5126c1aad725ea09abebf106c26",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875291/Economie-VK-gesteund-door-dienstensector.aspx",
     "intro": "De industrie in het Verenigd Koninkrijk is in augustus vertraagd, terwijl het groeitempo in de dienstensector juist versnelde. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 10:38",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   },
   {
     "id": "1aa53505f9db45056057cfe0c989bdc0",
@@ -42,7 +51,7 @@
     "link": "https://www.iex.nl/artikel/875214/Must-read-Amerikaanse-schuld-explodeert.aspx",
     "intro": "Een generatie geleden waren de Amerikanen financieel nog gezond. Plus: Europees groeimodel brokkelt af, AI-investeringen zorgen wel/niet voor inflatie, interview met duurzaamheidsgoeroe Maurits Groen, en meer.",
     "published_at": "2026-08-21 10:15",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   },
   {
     "id": "dee543d72f4d8409dbd1667afa529c96",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875289/Economie-eurozone-groeit-iets-harder.aspx",
     "intro": "De industrie in de eurozone is in augustus harder gegroeid, terwijl het groeitempo in de dienstensector stabiel bleef. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 10:08",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   },
   {
     "id": "70935fb1a177c81139dbbfc1b723b8bf",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875285/Industrie-houdt-Duitse-economie-overeind.aspx",
     "intro": "De activiteit in de dienstensector in Duitsland is in augustus harder gekrompen, terwijl de groei in de industrie versnelde. Dit bleek vrijdag uit voorlopige inkoopmanagerscijfers van SP Global.",
     "published_at": "2026-08-21 09:39",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   },
   {
     "id": "e969bc6d88e41abf604e9c15dae19280",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875284/Franse-dienstensector-krimpt-harder.aspx",
     "intro": "De economische activiteit in de dienstensector in Frankrijk is in augustus verder afgenomen, terwijl de industrie wel een opleving liet zien ten opzichte van de maand ervoor. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 09:25",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   },
   {
     "id": "308fa400368ac5dc64b5f437254f15d5",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875282/AEX-vlak-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong vrijwel onveranderd op 1.103,14 punten, terwijl de Midkap fractioneel in het groen noteerde.",
     "published_at": "2026-08-21 09:09",
-    "scraped_at": "2026-08-21T11:11:26.560563"
-  },
-  {
-    "id": "ba0f13ec209db78b6cc0805c65d5b07d",
-    "categorie": "Beursnieuws",
-    "titel": "Ondernemersvertrouwen Frankrijk verder verbeterd",
-    "link": "https://www.beurs.nl/Nieuws/875281/Ondernemersvertrouwen-Frankrijk-verder-verbeterd.aspx",
-    "intro": "Het vertrouwen van Franse ondernemers in de economie is in augustus verder gestegen. Dit bleek vrijdag uit data van statistiekbureau Insee.",
-    "published_at": "2026-08-21 09:00",
-    "scraped_at": "2026-08-21T11:11:26.560563"
+    "scraped_at": "2026-08-21T11:47:48.381021"
   }
 ]
