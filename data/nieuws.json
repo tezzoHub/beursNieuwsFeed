@@ -1,12 +1,21 @@
 [
   {
+    "id": "ffb512439ea208f0e86e2d82e96033c8",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse dienstensector groeit opnieuw harder",
+    "link": "https://www.beurs.nl/Nieuws/875343/Amerikaanse-dienstensector-groeit-opnieuw-harder.aspx",
+    "intro": "De dienstensector in de Verenigde Staten is in augustus harder gegroeid dan in juli, terwijl de Amerikaanse industrie een minder hard groeitempo aanhield. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-08-21 15:57",
+    "scraped_at": "2026-08-21T14:04:48.301731"
+  },
+  {
     "id": "76c8a2c63122cc5b70d2b12fe1910276",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht hersteldag",
     "link": "https://www.beurs.nl/Nieuws/875340/Wall-Street-wacht-hersteldag.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Ongeveer een half uur voor de opening in New York noteerden de futures op de SP 500 ongeveer 0,5 procent hoger. De Nasdaq-future steeg voorbeurs 0,7 procent.",
     "published_at": "2026-08-21 15:00",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   },
   {
     "id": "6fb7a84c9c340aae4c1753de51f0aea2",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875332/Samsung-kondigt-grootste-aandeleninkoop-ooit-aan.aspx",
     "intro": "Samsung Electronics heeft vrijdag zijn grootste aandeleninkoopprogramma ooit aangekondigd, nu chipfabrikanten de vruchten plukken van de opkomst van kunstmatige intelligentie.",
     "published_at": "2026-08-21 14:10",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   },
   {
     "id": "3ea9b22166ffd7169909a7f7d5bd376a",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875331/AEX-blijft-dicht-bij-huis-op-rustige-middag.aspx",
     "intro": "De Amsterdamse beurs bleef vrijdagmiddag dicht bij huis, bij een gebrek aan impulsen.",
     "published_at": "2026-08-21 13:52",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   },
   {
     "id": "76a9103d70850795eb52991cd8e3a1eb",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Artikel/875302/Ethereum-verrast-met-sterke-draai-ruimte-voor-veel-meer.aspx",
     "intro": "De cryptomarkt veert deze week krachtig op, waarbij niet alleen Bitcoin, maar ook Ethereum en andere crypto’s weer duidelijk meer koopinteresse trekken.",
     "published_at": "2026-08-21 13:20",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   },
   {
     "id": "86a563becf7a008f2ea5930ad3177e14",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875299/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Rond lunchtijd noteerden de futures op de SP 500 ongeveer 0,3 procent hoger.",
     "published_at": "2026-08-21 12:42",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   },
   {
     "id": "9dc991b1dc376f4124faff5cce683e88",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875298/Europese-beurzen-blijven-dicht-bij-huis.aspx",
     "intro": "De aandelenmarkten in Europa bleven vrijdag rond het middaguur dicht bij huis.",
     "published_at": "2026-08-21 12:04",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   },
   {
     "id": "217a066702fec63beac6a858ecd72058",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875293/AEX-vlak-tijdens-rustige-ochtendsessie.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdag tegen het einde van de ochtend vrijwel vlak, bij een gebrek aan impulsen.",
     "published_at": "2026-08-21 11:05",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   },
   {
     "id": "84f7b5126c1aad725ea09abebf106c26",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875291/Economie-VK-gesteund-door-dienstensector.aspx",
     "intro": "De industrie in het Verenigd Koninkrijk is in augustus vertraagd, terwijl het groeitempo in de dienstensector juist versnelde. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 10:38",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   },
   {
     "id": "1aa53505f9db45056057cfe0c989bdc0",
@@ -78,15 +87,6 @@
     "link": "https://www.iex.nl/artikel/875214/Must-read-Amerikaanse-schuld-explodeert.aspx",
     "intro": "Een generatie geleden waren de Amerikanen financieel nog gezond. Plus: Europees groeimodel brokkelt af, AI-investeringen zorgen wel/niet voor inflatie, interview met duurzaamheidsgoeroe Maurits Groen, en meer.",
     "published_at": "2026-08-21 10:15",
-    "scraped_at": "2026-08-21T13:22:58.205989"
-  },
-  {
-    "id": "dee543d72f4d8409dbd1667afa529c96",
-    "categorie": "Beursnieuws",
-    "titel": "Economie eurozone groeit iets harder",
-    "link": "https://www.beurs.nl/Nieuws/875289/Economie-eurozone-groeit-iets-harder.aspx",
-    "intro": "De industrie in de eurozone is in augustus harder gegroeid, terwijl het groeitempo in de dienstensector stabiel bleef. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-08-21 10:08",
-    "scraped_at": "2026-08-21T13:22:58.205989"
+    "scraped_at": "2026-08-21T14:04:48.301731"
   }
 ]
