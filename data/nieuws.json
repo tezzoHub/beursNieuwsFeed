@@ -1,12 +1,21 @@
 [
   {
+    "id": "857e5aa51e2842c98fc8377257cc7a89",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/875354/Europese-beurzen-hoger-het-weekend-in.aspx",
+    "intro": "De Europese beurzen zijn vrijdag hoger gesloten, na een week waarin oplopende rentes en geopolitieke spanningen het sentiment op de aandelenmarkten bepaalden.",
+    "published_at": "2026-08-21 18:51",
+    "scraped_at": "2026-08-21T17:34:56.236050"
+  },
+  {
     "id": "fbbb4fabfdc3d75d278a4fbe035ade81",
     "categorie": "Beursnieuws",
     "titel": "AEX hoger gesloten na tamme handelssessie",
     "link": "https://www.beurs.nl/Nieuws/875350/AEX-hoger-gesloten-na-tamme-handelssessie.aspx",
     "intro": "De Amsterdamse beurs is vrijdag na een rustige handelsdag hoger het weekend ingegaan. Dit na een week waarin oplopende rentes en geopolitieke spanningen het sentiment op de aandelenmarkten bepaalden.",
     "published_at": "2026-08-21 17:49",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   },
   {
     "id": "c3661ef8a899d50222386cd74ba6dd50",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875344/Consumentenvertrouwen-eurozone-licht-verbeterd.aspx",
     "intro": "Het consumentenvertrouwen in de eurozone is in augustus verder verbeterd. Dit bleek vrijdag uit voorlopige cijfers van de Europese Commissie.",
     "published_at": "2026-08-21 16:09",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   },
   {
     "id": "ffb512439ea208f0e86e2d82e96033c8",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875343/Amerikaanse-dienstensector-groeit-opnieuw-harder.aspx",
     "intro": "De dienstensector in de Verenigde Staten is in augustus harder gegroeid dan in juli, terwijl de Amerikaanse industrie een minder hard groeitempo aanhield. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 15:57",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   },
   {
     "id": "76c8a2c63122cc5b70d2b12fe1910276",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875340/Wall-Street-wacht-hersteldag.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Ongeveer een half uur voor de opening in New York noteerden de futures op de SP 500 ongeveer 0,5 procent hoger. De Nasdaq-future steeg voorbeurs 0,7 procent.",
     "published_at": "2026-08-21 15:00",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   },
   {
     "id": "6fb7a84c9c340aae4c1753de51f0aea2",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875332/Samsung-kondigt-grootste-aandeleninkoop-ooit-aan.aspx",
     "intro": "Samsung Electronics heeft vrijdag zijn grootste aandeleninkoopprogramma ooit aangekondigd, nu chipfabrikanten de vruchten plukken van de opkomst van kunstmatige intelligentie.",
     "published_at": "2026-08-21 14:10",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   },
   {
     "id": "3ea9b22166ffd7169909a7f7d5bd376a",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875331/AEX-blijft-dicht-bij-huis-op-rustige-middag.aspx",
     "intro": "De Amsterdamse beurs bleef vrijdagmiddag dicht bij huis, bij een gebrek aan impulsen.",
     "published_at": "2026-08-21 13:52",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   },
   {
     "id": "76a9103d70850795eb52991cd8e3a1eb",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Artikel/875302/Ethereum-verrast-met-sterke-draai-ruimte-voor-veel-meer.aspx",
     "intro": "De cryptomarkt veert deze week krachtig op, waarbij niet alleen Bitcoin, maar ook Ethereum en andere crypto’s weer duidelijk meer koopinteresse trekken.",
     "published_at": "2026-08-21 13:20",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   },
   {
     "id": "86a563becf7a008f2ea5930ad3177e14",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875299/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Rond lunchtijd noteerden de futures op de SP 500 ongeveer 0,3 procent hoger.",
     "published_at": "2026-08-21 12:42",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   },
   {
     "id": "9dc991b1dc376f4124faff5cce683e88",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875298/Europese-beurzen-blijven-dicht-bij-huis.aspx",
     "intro": "De aandelenmarkten in Europa bleven vrijdag rond het middaguur dicht bij huis.",
     "published_at": "2026-08-21 12:04",
-    "scraped_at": "2026-08-21T16:57:08.072563"
-  },
-  {
-    "id": "217a066702fec63beac6a858ecd72058",
-    "categorie": "Beursnieuws",
-    "titel": "AEX vlak tijdens rustige ochtendsessie",
-    "link": "https://www.beurs.nl/Nieuws/875293/AEX-vlak-tijdens-rustige-ochtendsessie.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdag tegen het einde van de ochtend vrijwel vlak, bij een gebrek aan impulsen.",
-    "published_at": "2026-08-21 11:05",
-    "scraped_at": "2026-08-21T16:57:08.072563"
+    "scraped_at": "2026-08-21T17:34:56.236050"
   }
 ]
