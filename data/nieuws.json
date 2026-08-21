@@ -1,92 +1,56 @@
 [
   {
-    "id": "a5a08c46f38de4fd0a93260eb85d57e6",
+    "id": "85a7712f1009a5cc664b59088e73b43f",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875253/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-08-20 22:37",
-    "scraped_at": "2026-08-21T04:24:11.836091"
+    "titel": "Europese beurzen wacht vlakke opening",
+    "link": "https://www.beurs.nl/Nieuws/875260/Europese-beurzen-wacht-vlakke-opening.aspx",
+    "intro": "De aandelenmarkten in Europa gaan vrijdag een vrijwel vlakke opening tegemoet, na een lager slot op Wall Street donderdag.",
+    "published_at": "2026-08-21 06:51",
+    "scraped_at": "2026-08-21T05:04:13.718973"
   },
   {
-    "id": "8cdbb7750895b46a79cce28412889980",
-    "categorie": "Beursnieuws",
-    "titel": "Wall sluit in het rood af na oplopen rentes",
-    "link": "https://www.beurs.nl/Nieuws/875252/Wall-sluit-in-het-rood-af-na-oplopen-rentes.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdagavond lager gesloten, nadat de olieprijs opnieuw steeg en de obligatierentes weer opliepen. De Amerikaanse interventie van woensdag bood vooralsnog geen soelaas.",
-    "published_at": "2026-08-20 22:10",
-    "scraped_at": "2026-08-21T04:24:11.836091"
-  },
-  {
-    "id": "18ac3fd2e5ff5c94d4b274ee55953bb5",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen zetten rally voort",
-    "link": "https://www.beurs.nl/Nieuws/875251/Olieprijzen-zetten-rally-voort.aspx",
-    "intro": "De olieprijzen hebben donderdag hun rally voortgezet, nadat de Amerikaanse president Donald Trump zei dat de VS ongekende economische maatregelen zullen opleggen aan Iran, met economische gevolgen voor elk land dat Iran op wat voor manier dan ook een reddingslijn biedt.",
-    "published_at": "2026-08-20 21:06",
-    "scraped_at": "2026-08-21T04:24:11.836091"
-  },
-  {
-    "id": "5f207a5b51c04f59731d00da8cf5d788",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street op verlies na oplopen rentes",
-    "link": "https://www.beurs.nl/Nieuws/875250/Wall-Street-op-verlies-na-oplopen-rentes.aspx",
-    "intro": "De Amerikaanse beurzen stonden donderdagavond lager, nadat de olieprijs opnieuw steeg en de obligatierentes weer opliepen, ondanks de Amerikaanse interventie van woensdag.",
-    "published_at": "2026-08-20 20:18",
-    "scraped_at": "2026-08-21T04:24:11.836091"
-  },
-  {
-    "id": "ea62698fbf76c2d5711fdb3eb21f03aa",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten lager",
-    "link": "https://www.beurs.nl/Nieuws/875245/Europese-beurzen-sluiten-lager.aspx",
-    "intro": "De Europese zijn donderdag overwegend lager gesloten, nadat de olieprijs opnieuw steeg en de obligatierentes weer opliepen, ondanks de Amerikaanse interventie van woensdag.",
-    "published_at": "2026-08-20 18:51",
-    "scraped_at": "2026-08-21T04:24:11.836091"
-  },
-  {
-    "id": "877740f1b475d1303ac850a716969df1",
-    "categorie": "Beursnieuws",
-    "titel": "Aegon is de gebeten hond op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/875241/Aegon-is-de-gebeten-hond-op-Damrak.aspx",
-    "intro": "De Amsterdamse beurs is donderdag vlak gesloten, na een kalme handelsdag, waarop een ingreep van de Amerikaanse regering in de obligatiemarkt van weinig effect bleek.",
-    "published_at": "2026-08-20 17:51",
-    "scraped_at": "2026-08-21T04:24:11.836091"
-  },
-  {
-    "id": "a4c7c75fc00b124d7cefffc4d84b98cc",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/875237/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 28 augustus 2026:",
-    "published_at": "2026-08-20 17:00",
-    "scraped_at": "2026-08-21T04:24:11.836091"
-  },
-  {
-    "id": "6915757d03a82205833bb7d961904d7d",
+    "id": "be17a8a3c06ae8ab38039335f3a58be6",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/875238/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/875258/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 28 augustus 2026:",
-    "published_at": "2026-08-20 16:59",
-    "scraped_at": "2026-08-21T04:24:11.836091"
+    "published_at": "2026-08-21 06:48",
+    "scraped_at": "2026-08-21T05:04:13.718973"
   },
   {
-    "id": "6063c02ee531401bec8d44ea5520bfc6",
+    "id": "53825057ab8981852c743f43399e417f",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/875239/Beursagenda-macro-economisch.aspx",
+    "link": "https://www.beurs.nl/Nieuws/875259/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 28 augustus 2026:",
-    "published_at": "2026-08-20 16:59",
-    "scraped_at": "2026-08-21T04:24:11.836091"
+    "published_at": "2026-08-21 06:48",
+    "scraped_at": "2026-08-21T05:04:13.718973"
   },
   {
-    "id": "92241d6d2abb54537f20c3abc9f93528",
+    "id": "5f999ba1bd8bf5c5a861528f656d4902",
     "categorie": "Beursnieuws",
-    "titel": "Voorlopende indicatoren VS licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/875233/Voorlopende-indicatoren-VS-licht-gestegen.aspx",
-    "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in juli licht gestegen. Dit bleek donderdag uit cijfers van The Conference Board.",
-    "published_at": "2026-08-20 16:14",
-    "scraped_at": "2026-08-21T04:24:11.836091"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/875257/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 28 augustus 2026:",
+    "published_at": "2026-08-21 06:47",
+    "scraped_at": "2026-08-21T05:04:13.718973"
+  },
+  {
+    "id": "d4ef01cf5b64c1ffb902fb9ebb39f55f",
+    "categorie": "Beursnieuws",
+    "titel": "Japanse economie trekt verder aan",
+    "link": "https://www.beurs.nl/Nieuws/875255/Japanse-economie-trekt-verder-aan.aspx",
+    "intro": "De economische activiteit in de industrie en dienstensector in Japan is in augustus verder aangetrokken. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-08-21 06:34",
+    "scraped_at": "2026-08-21T05:04:13.718973"
+  },
+  {
+    "id": "10587ca6797d09045fe9f0eb8d5d2f54",
+    "categorie": "Beursnieuws",
+    "titel": "Inflatie Japan loopt op",
+    "link": "https://www.beurs.nl/Nieuws/875254/Inflatie-Japan-loopt-op.aspx",
+    "intro": "De inflatie in Japan is in juli opgelopen. Dit bleek vrijdag uit overheidscijfers.",
+    "published_at": "2026-08-21 06:29",
+    "scraped_at": "2026-08-21T05:04:13.718973"
   }
 ]
