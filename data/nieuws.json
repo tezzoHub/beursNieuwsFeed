@@ -1,12 +1,21 @@
 [
   {
+    "id": "d8f665ceedd9a0d2a07b69203acd9962",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen voor de tweede week op rij hoger gesloten",
+    "link": "https://www.beurs.nl/Nieuws/875362/Olieprijzen-voor-de-tweede-week-op-rij-hoger-gesloten.aspx",
+    "intro": "De olieprijzen zijn vrijdag hoger geëindigd en sloten daarmee voor de tweede week op rij hoger af, doordat de vastgelopen situatie tussen de VS en Iran de aanvoer vanuit de belangrijke olieproducerende regio in het Midden-Oosten blijft verstoren.",
+    "published_at": "2026-08-21 21:08",
+    "scraped_at": "2026-08-21T19:43:36.565356"
+  },
+  {
     "id": "e1d71c8957435d91fecb64a615a5ba3a",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
     "link": "https://www.beurs.nl/Nieuws/875360/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 31 augustus 2026:",
     "published_at": "2026-08-21 20:18",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   },
   {
     "id": "e21378c7a978bcb6df2643c0891220fb",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875361/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 31 augustus 2026:",
     "published_at": "2026-08-21 20:18",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   },
   {
     "id": "74136b17714218f345c076bdc4ae2975",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875359/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 31 augustus 2026:",
     "published_at": "2026-08-21 20:17",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   },
   {
     "id": "8897e2ff5302fca58b84b1ff216e3e75",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875357/Wall-Street-herstelt-ondanks-hoge-rentes.aspx",
     "intro": "De Amerikaanse beurzen konden vrijdagavond enigszins herstellen, nadat afgelopen week de koersen onder druk stonden door de stijgende rentes op vooral langlopende staatsobligaties.",
     "published_at": "2026-08-21 20:03",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   },
   {
     "id": "857e5aa51e2842c98fc8377257cc7a89",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875354/Europese-beurzen-hoger-het-weekend-in.aspx",
     "intro": "De Europese beurzen zijn vrijdag hoger gesloten, na een week waarin oplopende rentes en geopolitieke spanningen het sentiment op de aandelenmarkten bepaalden.",
     "published_at": "2026-08-21 18:51",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   },
   {
     "id": "fbbb4fabfdc3d75d278a4fbe035ade81",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875350/AEX-hoger-gesloten-na-tamme-handelssessie.aspx",
     "intro": "De Amsterdamse beurs is vrijdag na een rustige handelsdag hoger het weekend ingegaan. Dit na een week waarin oplopende rentes en geopolitieke spanningen het sentiment op de aandelenmarkten bepaalden.",
     "published_at": "2026-08-21 17:49",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   },
   {
     "id": "c3661ef8a899d50222386cd74ba6dd50",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875344/Consumentenvertrouwen-eurozone-licht-verbeterd.aspx",
     "intro": "Het consumentenvertrouwen in de eurozone is in augustus verder verbeterd. Dit bleek vrijdag uit voorlopige cijfers van de Europese Commissie.",
     "published_at": "2026-08-21 16:09",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   },
   {
     "id": "ffb512439ea208f0e86e2d82e96033c8",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875343/Amerikaanse-dienstensector-groeit-opnieuw-harder.aspx",
     "intro": "De dienstensector in de Verenigde Staten is in augustus harder gegroeid dan in juli, terwijl de Amerikaanse industrie een minder hard groeitempo aanhield. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 15:57",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   },
   {
     "id": "76c8a2c63122cc5b70d2b12fe1910276",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875340/Wall-Street-wacht-hersteldag.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet. Ongeveer een half uur voor de opening in New York noteerden de futures op de SP 500 ongeveer 0,5 procent hoger. De Nasdaq-future steeg voorbeurs 0,7 procent.",
     "published_at": "2026-08-21 15:00",
-    "scraped_at": "2026-08-21T19:03:13.638956"
-  },
-  {
-    "id": "6fb7a84c9c340aae4c1753de51f0aea2",
-    "categorie": "Beursnieuws",
-    "titel": "Samsung kondigt grootste aandeleninkoop ooit aan",
-    "link": "https://www.beurs.nl/Nieuws/875332/Samsung-kondigt-grootste-aandeleninkoop-ooit-aan.aspx",
-    "intro": "Samsung Electronics heeft vrijdag zijn grootste aandeleninkoopprogramma ooit aangekondigd, nu chipfabrikanten de vruchten plukken van de opkomst van kunstmatige intelligentie.",
-    "published_at": "2026-08-21 14:10",
-    "scraped_at": "2026-08-21T19:03:13.638956"
+    "scraped_at": "2026-08-21T19:43:36.565356"
   }
 ]
