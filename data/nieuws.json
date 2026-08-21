@@ -1,12 +1,57 @@
 [
   {
+    "id": "4e8db4e97d2844be2f7cd538eff3f039",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies haalt Alfen van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/875268/Jefferies-haalt-Alfen-van-de-kooplijst.aspx",
+    "intro": "Jefferies heeft het advies voor Alfen vrijdag verlaagd van Kopen naar Houden, terwijl het koersdoel omlaag ging van 18,00 naar 14,00 euro, na de cijfers van eerder deze week. Dit bleek vanochtend uit een rapport van analist David Kerstens.",
+    "published_at": "2026-08-21 07:39",
+    "scraped_at": "2026-08-21T05:53:30.645891"
+  },
+  {
+    "id": "61559f2794c53fcd931c899a8f03997e",
+    "categorie": "Beursnieuws",
+    "titel": "Prijzen bestaande koopwoningen stijgen minder hard",
+    "link": "https://www.beurs.nl/Nieuws/875264/Prijzen-bestaande-koopwoningen-stijgen-minder-hard.aspx",
+    "intro": "De prijzen van bestaande koopwoningen in Nederland stegen in juli met 3,9 procent op jaarbasis. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
+    "published_at": "2026-08-21 07:23",
+    "scraped_at": "2026-08-21T05:53:30.645891"
+  },
+  {
+    "id": "e2544b6b4c7d5d9496bd03c2045e321a",
+    "categorie": "Beursnieuws",
+    "titel": "Investeringen stijgen met bijna 3 procent",
+    "link": "https://www.beurs.nl/Nieuws/875263/Investeringen-stijgen-met-bijna-3-procent.aspx",
+    "intro": "In juni was het volume van de investeringen in materiële vaste activa in Nederland 2,7 procent groter dan een jaar eerder. Dit meldde het Centraal Bureau voor de Statistiek vrijdag.",
+    "published_at": "2026-08-21 07:14",
+    "scraped_at": "2026-08-21T05:53:30.645891"
+  },
+  {
+    "id": "85d2260b10e7fb805faed9ae809c2c1d",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen laten verdeeld zien",
+    "link": "https://www.beurs.nl/Nieuws/875262/Aziatische-beurzen-laten-verdeeld-zien.aspx",
+    "intro": "De Aziatische beurzen lieten vrijdagochtend een verdeeld beeld zien, na verliezen op Wall Street donderdagavond.",
+    "published_at": "2026-08-21 07:10",
+    "scraped_at": "2026-08-21T05:53:30.645891"
+  },
+  {
+    "id": "5e8258aacd52edd3df504c8c1afe5101",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen licht verbeterd",
+    "link": "https://www.beurs.nl/Nieuws/875261/Consumentenvertrouwen-licht-verbeterd.aspx",
+    "intro": "Het vertrouwen van Nederlandse consumenten is in augustus licht verbeterd. Dit meldde het Centraal Bureau voor de Statistiek vrijdag.",
+    "published_at": "2026-08-21 07:04",
+    "scraped_at": "2026-08-21T05:53:30.645891"
+  },
+  {
     "id": "85a7712f1009a5cc664b59088e73b43f",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen wacht vlakke opening",
     "link": "https://www.beurs.nl/Nieuws/875260/Europese-beurzen-wacht-vlakke-opening.aspx",
     "intro": "De aandelenmarkten in Europa gaan vrijdag een vrijwel vlakke opening tegemoet, na een lager slot op Wall Street donderdag.",
     "published_at": "2026-08-21 06:51",
-    "scraped_at": "2026-08-21T05:04:13.718973"
+    "scraped_at": "2026-08-21T05:53:30.645891"
   },
   {
     "id": "be17a8a3c06ae8ab38039335f3a58be6",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875258/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 28 augustus 2026:",
     "published_at": "2026-08-21 06:48",
-    "scraped_at": "2026-08-21T05:04:13.718973"
+    "scraped_at": "2026-08-21T05:53:30.645891"
   },
   {
     "id": "53825057ab8981852c743f43399e417f",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875259/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 28 augustus 2026:",
     "published_at": "2026-08-21 06:48",
-    "scraped_at": "2026-08-21T05:04:13.718973"
+    "scraped_at": "2026-08-21T05:53:30.645891"
   },
   {
     "id": "5f999ba1bd8bf5c5a861528f656d4902",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875257/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 28 augustus 2026:",
     "published_at": "2026-08-21 06:47",
-    "scraped_at": "2026-08-21T05:04:13.718973"
+    "scraped_at": "2026-08-21T05:53:30.645891"
   },
   {
     "id": "d4ef01cf5b64c1ffb902fb9ebb39f55f",
@@ -42,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875255/Japanse-economie-trekt-verder-aan.aspx",
     "intro": "De economische activiteit in de industrie en dienstensector in Japan is in augustus verder aangetrokken. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 06:34",
-    "scraped_at": "2026-08-21T05:04:13.718973"
-  },
-  {
-    "id": "10587ca6797d09045fe9f0eb8d5d2f54",
-    "categorie": "Beursnieuws",
-    "titel": "Inflatie Japan loopt op",
-    "link": "https://www.beurs.nl/Nieuws/875254/Inflatie-Japan-loopt-op.aspx",
-    "intro": "De inflatie in Japan is in juli opgelopen. Dit bleek vrijdag uit overheidscijfers.",
-    "published_at": "2026-08-21 06:29",
-    "scraped_at": "2026-08-21T05:04:13.718973"
+    "scraped_at": "2026-08-21T05:53:30.645891"
   }
 ]
