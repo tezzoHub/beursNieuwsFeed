@@ -1,12 +1,30 @@
 [
   {
+    "id": "84f7b5126c1aad725ea09abebf106c26",
+    "categorie": "Beursnieuws",
+    "titel": "Economie VK gesteund door dienstensector",
+    "link": "https://www.beurs.nl/Nieuws/875291/Economie-VK-gesteund-door-dienstensector.aspx",
+    "intro": "De industrie in het Verenigd Koninkrijk is in augustus vertraagd, terwijl het groeitempo in de dienstensector juist versnelde. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-08-21 10:38",
+    "scraped_at": "2026-08-21T09:04:18.690587"
+  },
+  {
+    "id": "1aa53505f9db45056057cfe0c989bdc0",
+    "categorie": "Must read",
+    "titel": "Must read: Amerikaanse schuld explodeert",
+    "link": "https://www.iex.nl/artikel/875214/Must-read-Amerikaanse-schuld-explodeert.aspx",
+    "intro": "Een generatie geleden waren de Amerikanen financieel nog gezond... Plus; Europees groeimodel brokkelt af, led op de Fed-notulen en vanmiddag optie expiratie.",
+    "published_at": "2026-08-21 10:15",
+    "scraped_at": "2026-08-21T09:04:18.690587"
+  },
+  {
     "id": "dee543d72f4d8409dbd1667afa529c96",
     "categorie": "Beursnieuws",
     "titel": "Economie eurozone groeit iets harder",
     "link": "https://www.beurs.nl/Nieuws/875289/Economie-eurozone-groeit-iets-harder.aspx",
     "intro": "De industrie in de eurozone is in augustus harder gegroeid, terwijl het groeitempo in de dienstensector stabiel bleef. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 10:08",
-    "scraped_at": "2026-08-21T08:20:20.305993"
+    "scraped_at": "2026-08-21T09:04:18.690587"
   },
   {
     "id": "70935fb1a177c81139dbbfc1b723b8bf",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875285/Industrie-houdt-Duitse-economie-overeind.aspx",
     "intro": "De activiteit in de dienstensector in Duitsland is in augustus harder gekrompen, terwijl de groei in de industrie versnelde. Dit bleek vrijdag uit voorlopige inkoopmanagerscijfers van SP Global.",
     "published_at": "2026-08-21 09:39",
-    "scraped_at": "2026-08-21T08:20:20.305993"
+    "scraped_at": "2026-08-21T09:04:18.690587"
   },
   {
     "id": "e969bc6d88e41abf604e9c15dae19280",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875284/Franse-dienstensector-krimpt-harder.aspx",
     "intro": "De economische activiteit in de dienstensector in Frankrijk is in augustus verder afgenomen, terwijl de industrie wel een opleving liet zien ten opzichte van de maand ervoor. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
     "published_at": "2026-08-21 09:25",
-    "scraped_at": "2026-08-21T08:20:20.305993"
+    "scraped_at": "2026-08-21T09:04:18.690587"
   },
   {
     "id": "308fa400368ac5dc64b5f437254f15d5",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875282/AEX-vlak-van-start-gegaan.aspx",
     "intro": "De AEX index koerste vrijdag kort na de beursgong vrijwel onveranderd op 1.103,14 punten, terwijl de Midkap fractioneel in het groen noteerde.",
     "published_at": "2026-08-21 09:09",
-    "scraped_at": "2026-08-21T08:20:20.305993"
+    "scraped_at": "2026-08-21T09:04:18.690587"
   },
   {
     "id": "ba0f13ec209db78b6cc0805c65d5b07d",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875281/Ondernemersvertrouwen-Frankrijk-verder-verbeterd.aspx",
     "intro": "Het vertrouwen van Franse ondernemers in de economie is in augustus verder gestegen. Dit bleek vrijdag uit data van statistiekbureau Insee.",
     "published_at": "2026-08-21 09:00",
-    "scraped_at": "2026-08-21T08:20:20.305993"
+    "scraped_at": "2026-08-21T09:04:18.690587"
   },
   {
     "id": "2e74aa7ab18d99d03b7893e2bf8c14a3",
@@ -51,7 +69,7 @@
     "link": "https://www.ieximpact.nl/artikel/874980/Welvaart-zonder-verspilling-vervuiling-en-vernietiging-kan-gewoon.aspx",
     "intro": "Maurits Groen, enkele jaren geleden uitgeroepen tot de invloedrijkste Nederlander op het gebied van duurzaamheid en bekend van de WakaWaka-lamp, ziet grote bedreigingen voor de toekomst. \"Maar er zijn gelukkig ook heel veel initiatieven die de wereld duurzamer kunnen maken.” Bij een aantal van die initiatieven, zoals Kipster en Solarge, is hij direct betrokken.",
     "published_at": "2026-08-21 08:50",
-    "scraped_at": "2026-08-21T08:20:20.305993"
+    "scraped_at": "2026-08-21T09:04:18.690587"
   },
   {
     "id": "3884e91e10bac836bd2b57a961a8f474",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875278/MPS-lanceert-ruilaanbod-van-34-miljard-op-Banco-BPM-en-Banca-Generali.aspx",
     "intro": "Banca Monte dei Paschi di Siena lanceert twee gelijktijdige en parallelle vrijwillige openbare ruilaanbiedingen op alle gewone aandelen van Banco BPM en Banca Generali, met een waarde van respectievelijk ongeveer 25,31 miljard en 8,72 miljard euro. Dat maakte de bank vrijdagochtend bekend.",
     "published_at": "2026-08-21 08:36",
-    "scraped_at": "2026-08-21T08:20:20.305993"
+    "scraped_at": "2026-08-21T09:04:18.690587"
   },
   {
     "id": "35157083f0683dbb68fe53de489c4275",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875275/Detailhandelsverkopen-VK-dalen-harder-dan-verwacht.aspx",
     "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in juli harder gedaald dan verwacht, na een stijging in de maand ervoor. Dit bleek vrijdag uit cijfers van statistiekbureau ONS.",
     "published_at": "2026-08-21 08:19",
-    "scraped_at": "2026-08-21T08:20:20.305993"
-  },
-  {
-    "id": "aa66158a70b661f8854606c4c1aed381",
-    "categorie": "Voorbeurs",
-    "titel": "AEX opent vlak en op het Damrak hebben we vandaag plafonddienst",
-    "link": "https://www.iex.nl/artikel/875248/AEX-opent-vlak-en-op-het-Damrak-hebben-we-vandaag-plafonddienst.aspx",
-    "intro": "Het zag er allemaal nog zo rooskleurig uit, maar hogere rentes zetten tech volledig buitenspel en van defensials als Walmart hoeven we het ook niet te hebben. Maar nieuwe dag, nieuwe ronde, nieuwe kansen.",
-    "published_at": "2026-08-21 08:00",
-    "scraped_at": "2026-08-21T08:20:20.305993"
-  },
-  {
-    "id": "6555a80d1d843dba548777d208218829",
-    "categorie": "Beursnieuws",
-    "titel": "AEX vermoedelijk licht lager van start na terugval Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875269/AEX-vermoedelijk-licht-lager-van-start-na-terugval-Wall-Street.aspx",
-    "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,2 procent.",
-    "published_at": "2026-08-21 07:59",
-    "scraped_at": "2026-08-21T08:20:20.305993"
+    "scraped_at": "2026-08-21T09:04:18.690587"
   }
 ]
