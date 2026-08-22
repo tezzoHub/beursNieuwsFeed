@@ -1,92 +1,38 @@
 [
   {
-    "id": "6c4123caef78a69f404980b5132459de",
+    "id": "e0ce1cf48fcb5ae3e7f1a760bcfbaed2",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875364/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-08-21 22:28",
-    "scraped_at": "2026-08-22T08:31:09.045589"
+    "titel": "Zweeds pensioenfonds neemt belang in Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/875376/Zweeds-pensioenfonds-neemt-belang-in-Arcadis.aspx",
+    "intro": "Alecta Tjänstepension Ömsesidigt heeft een eerste belang in Arcadis gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 20 augustus 2026.",
+    "published_at": "2026-08-22 10:51",
+    "scraped_at": "2026-08-22T09:12:05.513698"
   },
   {
-    "id": "18bf40110d22ecae6253d0d6b2611f31",
+    "id": "6751d7e9ceb92569a1055ebccebb086d",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit negatieve week hoger af",
-    "link": "https://www.beurs.nl/Nieuws/875363/Wall-Street-sluit-negatieve-week-hoger-af.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag hoger gesloten en konden enigszins herstellen, nadat afgelopen week de koersen onder druk stonden door de stijgende rentes op vooral langlopende staatsobligaties.",
-    "published_at": "2026-08-21 22:20",
-    "scraped_at": "2026-08-22T08:31:09.045589"
+    "titel": "Acadian iets kleiner in Alfen",
+    "link": "https://www.beurs.nl/Nieuws/875375/Acadian-iets-kleiner-in-Alfen.aspx",
+    "intro": "Acadian Asset Management heeft een kleiner belang in Alfen gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 20 augustus 2026.",
+    "published_at": "2026-08-22 10:40",
+    "scraped_at": "2026-08-22T09:12:05.513698"
   },
   {
-    "id": "d8f665ceedd9a0d2a07b69203acd9962",
+    "id": "6ad331cc53de0814c4c9a23f2e0fbdef",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen voor de tweede week op rij hoger gesloten",
-    "link": "https://www.beurs.nl/Nieuws/875362/Olieprijzen-voor-de-tweede-week-op-rij-hoger-gesloten.aspx",
-    "intro": "De olieprijzen zijn vrijdag hoger geëindigd en sloten daarmee voor de tweede week op rij hoger af, doordat de vastgelopen situatie tussen de VS en Iran de aanvoer vanuit de belangrijke olieproducerende regio in het Midden-Oosten blijft verstoren.",
-    "published_at": "2026-08-21 21:08",
-    "scraped_at": "2026-08-22T08:31:09.045589"
+    "titel": "Media: TikTok schikt met Amerikaanse justitie voor 400 miljoen dollar",
+    "link": "https://www.beurs.nl/Nieuws/875374/Media-TikTok-schikt-met-Amerikaanse-justitie-voor-400-miljoen-dollar.aspx",
+    "intro": "Het Amerikaanse ministerie van Justitie en TikTok hebben een schikking van 400 miljoen dollar bereikt om een einde te maken aan de beschuldigingen dat het sociale mediabedrijf wetten heeft overtreden die bedoeld zijn om de online privacyrechten van kinderen te beschermen. Dit meldde The Wall Street Journal vrijdagavond op basis van een verklaring van het ministerie.",
+    "published_at": "2026-08-22 10:36",
+    "scraped_at": "2026-08-22T09:12:05.513698"
   },
   {
-    "id": "e1d71c8957435d91fecb64a615a5ba3a",
+    "id": "104a9ef263193f43cfd8d8266a5706f8",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/875360/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 31 augustus 2026:",
-    "published_at": "2026-08-21 20:18",
-    "scraped_at": "2026-08-22T08:31:09.045589"
-  },
-  {
-    "id": "e21378c7a978bcb6df2643c0891220fb",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/875361/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 31 augustus 2026:",
-    "published_at": "2026-08-21 20:18",
-    "scraped_at": "2026-08-22T08:31:09.045589"
-  },
-  {
-    "id": "74136b17714218f345c076bdc4ae2975",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/875359/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 31 augustus 2026:",
-    "published_at": "2026-08-21 20:17",
-    "scraped_at": "2026-08-22T08:31:09.045589"
-  },
-  {
-    "id": "8897e2ff5302fca58b84b1ff216e3e75",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street herstelt ondanks hoge rentes",
-    "link": "https://www.beurs.nl/Nieuws/875357/Wall-Street-herstelt-ondanks-hoge-rentes.aspx",
-    "intro": "De Amerikaanse beurzen konden vrijdagavond enigszins herstellen, nadat afgelopen week de koersen onder druk stonden door de stijgende rentes op vooral langlopende staatsobligaties.",
-    "published_at": "2026-08-21 20:03",
-    "scraped_at": "2026-08-22T08:31:09.045589"
-  },
-  {
-    "id": "857e5aa51e2842c98fc8377257cc7a89",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hoger het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/875354/Europese-beurzen-hoger-het-weekend-in.aspx",
-    "intro": "De Europese beurzen zijn vrijdag hoger gesloten, na een week waarin oplopende rentes en geopolitieke spanningen het sentiment op de aandelenmarkten bepaalden.",
-    "published_at": "2026-08-21 18:51",
-    "scraped_at": "2026-08-22T08:31:09.045589"
-  },
-  {
-    "id": "fbbb4fabfdc3d75d278a4fbe035ade81",
-    "categorie": "Beursnieuws",
-    "titel": "AEX hoger gesloten na tamme handelssessie",
-    "link": "https://www.beurs.nl/Nieuws/875350/AEX-hoger-gesloten-na-tamme-handelssessie.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag na een rustige handelsdag hoger het weekend ingegaan. Dit na een week waarin oplopende rentes en geopolitieke spanningen het sentiment op de aandelenmarkten bepaalden.",
-    "published_at": "2026-08-21 17:49",
-    "scraped_at": "2026-08-22T08:31:09.045589"
-  },
-  {
-    "id": "c3661ef8a899d50222386cd74ba6dd50",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen eurozone licht verbeterd",
-    "link": "https://www.beurs.nl/Nieuws/875344/Consumentenvertrouwen-eurozone-licht-verbeterd.aspx",
-    "intro": "Het consumentenvertrouwen in de eurozone is in augustus verder verbeterd. Dit bleek vrijdag uit voorlopige cijfers van de Europese Commissie.",
-    "published_at": "2026-08-21 16:09",
-    "scraped_at": "2026-08-22T08:31:09.045589"
+    "titel": "Handelsbesprekingen VS en Canada mislukt",
+    "link": "https://www.beurs.nl/Nieuws/875373/Handelsbesprekingen-VS-en-Canada-mislukt.aspx",
+    "intro": "De Verenigde Staten hebben zaterdag invoerheffingen van 50 procent opgelegd aan bepaalde Canadese goederen, nadat de Noord-Amerikaanse buurlanden er niet in slaagden een handelsakkoord te sluiten.",
+    "published_at": "2026-08-22 10:31",
+    "scraped_at": "2026-08-22T09:12:05.513698"
   }
 ]
