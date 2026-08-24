@@ -1,12 +1,57 @@
 [
   {
+    "id": "bdc37f2610eedb82d69c8c55e75ec894",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Berenberg blijft positief over Aegon",
+    "link": "https://www.beurs.nl/Nieuws/875426/Beursblik-Berenberg-blijft-positief-over-Aegon.aspx",
+    "intro": "Berenberg blijft positief over Aegon en ziet in de halfjaarcijfers steeds duidelijker de voorbereiding op de verhuizing van de hoofdnotering naar de Verenigde Staten per 1 januari 2028. Dat bleek uit een rapport van analist Michael Huttner van Berenberg.",
+    "published_at": "2026-08-24 07:41",
+    "scraped_at": "2026-08-24T05:59:03.754527"
+  },
+  {
+    "id": "4d7c394e5381d5b2ced0aad96f9e8a20",
+    "categorie": "Beursnieuws",
+    "titel": "Berenberg positief over Unibail-Rodamco-Westfield na verhoging kredietwaardigheid",
+    "link": "https://www.beurs.nl/Nieuws/875425/Berenberg-positief-over-Unibail-Rodamco-Westfield-na-verhoging-kredietwaardigheid.aspx",
+    "intro": "Berenberg blijft positief over Unibail-Rodamco-Westfield (URW) na de kredietupgrade van Moody's afgelopen vrijdag. Dit bleek maandagochtend uit een rapport van analist Kai Klose.",
+    "published_at": "2026-08-24 07:31",
+    "scraped_at": "2026-08-24T05:59:03.754527"
+  },
+  {
+    "id": "ac43383a9d2ab4f79e5dd526e38c2378",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen onder druk door techuitverkoop",
+    "link": "https://www.beurs.nl/Nieuws/875422/Aziatische-beurzen-onder-druk-door-techuitverkoop.aspx",
+    "intro": "De Aziatische beurzen stonden maandag overwegend onder druk, waarbij vooral technologie-aandelen werden geraakt. Ook de oplopende handelsspanningen tussen de Verenigde Staten en Canada drukten het sentiment.",
+    "published_at": "2026-08-24 07:18",
+    "scraped_at": "2026-08-24T05:59:03.754527"
+  },
+  {
+    "id": "162815eb519004c6e14bba73475b645c",
+    "categorie": "Beursnieuws",
+    "titel": "AMG plant notering in Frankfurt",
+    "link": "https://www.beurs.nl/Nieuws/875421/AMG-plant-notering-in-Frankfurt.aspx",
+    "intro": "AMG Critical Materials gaat een aanvraag indienen voor een notering van zijn aandelen aan de beurs in Frankfurt. Dit maakte het bedrijf maandagochtend bekend.",
+    "published_at": "2026-08-24 07:15",
+    "scraped_at": "2026-08-24T05:59:03.754527"
+  },
+  {
+    "id": "67db2f8b7d6f6375b7da83bd1454cdcf",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen wacht nagenoeg vlakke opening",
+    "link": "https://www.beurs.nl/Nieuws/875419/Europese-beurzen-wacht-nagenoeg-vlakke-opening.aspx",
+    "intro": "De Europese beurzen gaan maandag een nagenoeg vlakke opening tegemoet, aan een vrij rustig begin van de handelsweek die de komende dagen in het teken zal staan van de kwartaalresultaten van Nvidia en de start van het jaarlijkse symposium voor centrale banken in Jackson Hole. Beleggers zijn vooral benieuwd naar de toespraak van Fed-voorzitter Kevin Warsh op vrijdagmiddag.",
+    "published_at": "2026-08-24 07:08",
+    "scraped_at": "2026-08-24T05:59:03.754527"
+  },
+  {
     "id": "3729dd90e4b1585ac43cdf4897f01bfb",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/875417/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 31 augustus 2026:",
     "published_at": "2026-08-24 06:43",
-    "scraped_at": "2026-08-24T05:07:04.721610"
+    "scraped_at": "2026-08-24T05:59:03.754527"
   },
   {
     "id": "dc82087f7fa0b2252807ed005393c8de",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875415/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 31 augustus 2026:",
     "published_at": "2026-08-24 06:42",
-    "scraped_at": "2026-08-24T05:07:04.721610"
+    "scraped_at": "2026-08-24T05:59:03.754527"
   },
   {
     "id": "c315dc1064c337b000b2c9643128f575",
@@ -24,6 +69,6 @@
     "link": "https://www.beurs.nl/Nieuws/875416/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 31 augustus 2026:",
     "published_at": "2026-08-24 06:42",
-    "scraped_at": "2026-08-24T05:07:04.721610"
+    "scraped_at": "2026-08-24T05:59:03.754527"
   }
 ]
