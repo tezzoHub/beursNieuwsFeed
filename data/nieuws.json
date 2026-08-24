@@ -1,12 +1,30 @@
 [
   {
+    "id": "792d6d6fb1a0189ce7cecdc5ebd8c956",
+    "categorie": "IEX",
+    "titel": "Stem op uw favoriete AEX-aandeel voor september",
+    "link": "https://www.beurs.nl/Artikel/875464/Stem-op-uw-favoriete-AEX-aandeel-voor-september.aspx",
+    "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van september? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
+    "published_at": "2026-08-24 11:30",
+    "scraped_at": "2026-08-24T10:07:38.609584"
+  },
+  {
+    "id": "e5c152d73fdc5335eaffe684f6f63c39",
+    "categorie": "Beursnieuws",
+    "titel": "Valuta: dollar onder druk in aanloop naar beleidsupdates VS",
+    "link": "https://www.beurs.nl/Nieuws/875465/Valuta-dollar-onder-druk-in-aanloop-naar-beleidsupdates-VS.aspx",
+    "intro": "De Amerikaanse dollar begint de week zwak, terwijl de markt wacht op nieuwe beleidssignalen uit Washington. Daartoe behoren een 'economische D-Day' voor Iran en wellicht een soort Amerikaans plan voor begrotingsconsolidatie, dat in het vooruitzicht is gesteld na de onrust op de markt voor staatsobligaties vorige week. Dit meldde ING maandag in een rapport van analisten Chris Turner, Francesco Pesole en Frantisek Taborsky.",
+    "published_at": "2026-08-24 11:21",
+    "scraped_at": "2026-08-24T10:07:38.609584"
+  },
+  {
     "id": "882b2892876c88bae2bbe25b92fa2de6",
     "categorie": "Beursnieuws",
     "titel": "AEX laat futloos beeld zien",
     "link": "https://www.beurs.nl/Nieuws/875460/AEX-laat-futloos-beeld-zien.aspx",
     "intro": "De Amsterdamse beurs noteerde maandag tegen het einde van de ochtend vrijwel vlak, bij een gebrek aan richtinggevend nieuws. Ook aan macrocijfers kunnen beleggers zich niet optrekken. Ze wachten op wat er komen gaat in de rest van de week.",
     "published_at": "2026-08-24 10:52",
-    "scraped_at": "2026-08-24T09:09:28.282556"
+    "scraped_at": "2026-08-24T10:07:38.609584"
   },
   {
     "id": "3f6b246d3ce6c48a9f5ec59ce0b892cd",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875449/Shein-stelt-prijs-vast-voor-beursintroductie.aspx",
     "intro": "Na een jarenlange inspanning om naar de beurs te gaan, heeft Shein de prijs vastgesteld voor een beursintroductie in Hongkong die de online-fashiongigant kan helpen een waardering van ongeveer 27 miljard dollar te bereiken.",
     "published_at": "2026-08-24 09:31",
-    "scraped_at": "2026-08-24T09:09:28.282556"
+    "scraped_at": "2026-08-24T10:07:38.609584"
   },
   {
     "id": "fe1d033b22fa1f838f5e2dff63573bf0",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875443/AEX-licht-lager-van-start-gegaan.aspx",
     "intro": "De AEX index koerste maandag kort na de beursgong 0,3 procent lager tot 1.102,45 punten, terwijl de Midkap 0,2 procent prijs gaf.",
     "published_at": "2026-08-24 09:08",
-    "scraped_at": "2026-08-24T09:09:28.282556"
+    "scraped_at": "2026-08-24T10:07:38.609584"
   },
   {
     "id": "2988375008b0ae568cb3084816534440",
@@ -33,16 +51,16 @@
     "link": "https://www.ieximpact.nl/artikel/874879/Zomerhitte-raakt-beleggingsportefeuille.aspx",
     "intro": "Europa zuchtte ook deze zomer onder hitte en droogte. Opdrogende rivieren, minder productief werknemers en lege terrassen en fabrieken raken de winsten van bedrijven. Verstandige beleggers houden daar in hun risicomodellen rekening mee, want volgend jaar belooft de zomer wederom heet en droog te worden.",
     "published_at": "2026-08-24 08:55",
-    "scraped_at": "2026-08-24T09:09:28.282556"
+    "scraped_at": "2026-08-24T10:07:38.609584"
   },
   {
     "id": "9bad785e16ae4a3fab059626e9e6aefb",
     "categorie": "Voorbeurs",
     "titel": "Onzekerheden maken beleggers kopschuw en AMG wil dubbele notering",
     "link": "https://www.beurs.nl/Artikel/875420/Onzekerheden-maken-beleggers-kopschuw-en-AMG-wil-dubbele-notering.aspx",
-    "intro": "Openingsindicatie: -0,1%. Uitverkoop in techsector Azië, handelsoorlog VS en Canada laait op, AMG wil tweede notering in Frankfurt en omstreden IPO in China in de maak.",
+    "intro": "Uitverkoop in techsector Azië, handelsoorlog VS en Canada laait op, AMG wil tweede notering in Frankfurt en omstreden IPO in China in de maak.",
     "published_at": "2026-08-24 08:20",
-    "scraped_at": "2026-08-24T09:09:28.282556"
+    "scraped_at": "2026-08-24T10:07:38.609584"
   },
   {
     "id": "95046f4cb916bd4a7a3e9fa223f5feba",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875434/STMicroelectronics-start-onderzoekslab-Singapore.aspx",
     "intro": "STMicroelectronics en de National University of Singapore (NUS) hebben het ST-NUS HELIX Corporate Lab gelanceerd, een vierjarig onderzoeksinitiatief gericht op de volgende generatie edge AI-technologie. Dit maakte de chipmaker maandagochtend bekend.",
     "published_at": "2026-08-24 08:12",
-    "scraped_at": "2026-08-24T09:09:28.282556"
+    "scraped_at": "2026-08-24T10:07:38.609584"
   },
   {
     "id": "33344abcc8cd6e2c789fecbd27c95cce",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875431/AEX-start-handelsweek-naar-verwachting-afwachtend.aspx",
     "intro": "De AEX-index gaat maandag naar verwachting vrijwel vlak van start. Futures op de AEX wezen ongeveer een uur voor de beursgong op een winst van 0,1 procent, nadat de Amsterdamse hoofdindex vrijdag nog 0,2 procent hoger sloot.",
     "published_at": "2026-08-24 08:04",
-    "scraped_at": "2026-08-24T09:09:28.282556"
+    "scraped_at": "2026-08-24T10:07:38.609584"
   },
   {
     "id": "fc2f5a60cd6f0cf57596a35cb35bb3d8",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875426/Berenberg-blijft-positief-over-Aegon.aspx",
     "intro": "Berenberg blijft positief over Aegon en ziet in de halfjaarcijfers steeds duidelijker de voorbereiding op de verhuizing van de hoofdnotering naar de Verenigde Staten per 1 januari 2028. Dat bleek uit een rapport van analist Michael Huttner van Berenberg.",
     "published_at": "2026-08-24 07:41",
-    "scraped_at": "2026-08-24T09:09:28.282556"
-  },
-  {
-    "id": "4d7c394e5381d5b2ced0aad96f9e8a20",
-    "categorie": "Beursnieuws",
-    "titel": "Berenberg positief over Unibail-Rodamco-Westfield na verhoging kredietwaardigheid",
-    "link": "https://www.beurs.nl/Nieuws/875425/Berenberg-positief-over-Unibail-Rodamco-Westfield-na-verhoging-kredietwaardigheid.aspx",
-    "intro": "Berenberg blijft positief over Unibail-Rodamco-Westfield (URW) na de kredietupgrade van Moody's afgelopen vrijdag. Dit bleek maandagochtend uit een rapport van analist Kai Klose.",
-    "published_at": "2026-08-24 07:31",
-    "scraped_at": "2026-08-24T09:09:28.282556"
-  },
-  {
-    "id": "ac43383a9d2ab4f79e5dd526e38c2378",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen onder druk door techuitverkoop",
-    "link": "https://www.beurs.nl/Nieuws/875422/Aziatische-beurzen-onder-druk-door-techuitverkoop.aspx",
-    "intro": "De Aziatische beurzen stonden maandag overwegend onder druk, waarbij vooral technologie-aandelen werden geraakt. Ook de oplopende handelsspanningen tussen de Verenigde Staten en Canada drukten het sentiment.",
-    "published_at": "2026-08-24 07:18",
-    "scraped_at": "2026-08-24T09:09:28.282556"
+    "scraped_at": "2026-08-24T10:07:38.609584"
   }
 ]
