@@ -1,12 +1,39 @@
 [
   {
+    "id": "9155ae84ffaac8b6f5ac33b0c871751e",
+    "categorie": "Beursnieuws",
+    "titel": "Verlies XPeng loopt op",
+    "link": "https://www.beurs.nl/Nieuws/875478/Verlies-XPeng-loopt-op.aspx",
+    "intro": "XPeng heeft het verlies in het tweede kwartaal zien oplopen, terwijl de marge steeg, net als hogere omzet. Dit meldde de Chinese fabrikant van elektrische voertuigen maandagmiddag.",
+    "published_at": "2026-08-24 13:07",
+    "scraped_at": "2026-08-24T11:36:12.853710"
+  },
+  {
+    "id": "9f06f70074a5514336da800143bdedff",
+    "categorie": "Beursnieuws",
+    "titel": "Futures wijzen op lagere opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/875477/Futures-wijzen-op-lagere-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, mede door een daling van techaandelen voorbeurs en in de aanloop naar naar de kwartaalcijfers van Nvidia op woensdag. Dit terwijl ook de PCE-inflatie in de belangstelling staat in het kader van het rentebeleid van de Federal Reserve, die aan het einde van de week in de schijnwerpers zal staan tijdens het jaarlijkse symposium in Jackson Hole.",
+    "published_at": "2026-08-24 13:04",
+    "scraped_at": "2026-08-24T11:36:12.853710"
+  },
+  {
+    "id": "51649cbf4f925f6456cb9a1bed2485e3",
+    "categorie": "Beursnieuws",
+    "titel": "CSG ontvangt orders voor bruggenleggers",
+    "link": "https://www.beurs.nl/Nieuws/875476/CSG-ontvangt-orders-voor-bruggenleggers.aspx",
+    "intro": "CSG heeft de afgelopen maanden meerdere grote contracten getekend voor de levering van bruggenleggende voertuigen aan vijf klanten in Europa, het Midden-Oosten en Zuidoost-Azië. Dit maakte het Tsjechische defensiebedrijf met een notering in Amsterdam maandag bekend.",
+    "published_at": "2026-08-24 12:59",
+    "scraped_at": "2026-08-24T11:36:12.853710"
+  },
+  {
     "id": "aa329deb2b6a5b20f275f67fe9687079",
     "categorie": "Beursnieuws",
     "titel": "Media: Shell trekt belangstelling voor Amerikaanse chemietak",
     "link": "https://www.beurs.nl/Nieuws/875475/Media-Shell-trekt-belangstelling-voor-Amerikaanse-chemietak.aspx",
     "intro": "Shell heeft interesse ontvangen voor zijn Amerikaanse chemieactiviteiten van Exxon Mobil, LyondellBasell, Apollo en de chemietak van Kuwait Petroleum Corporation. Dit melde de Financial Times maandag op basis van anonieme bronnen.",
     "published_at": "2026-08-24 12:48",
-    "scraped_at": "2026-08-24T10:58:37.108120"
+    "scraped_at": "2026-08-24T11:36:12.853710"
   },
   {
     "id": "ebfba85f385d54a0f634231cb00542cf",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875473/Mondiale-staalproductie-vrijwel-stabiel.aspx",
     "intro": "De mondiale staalproductie is in juli vrijwel stabiel gebleven ten opzichte van een jaar eerder, na een stijging in de maand ervoor. Dit bleek maandag uit cijfers van brancheorganisatie World Steel Association.",
     "published_at": "2026-08-24 12:14",
-    "scraped_at": "2026-08-24T10:58:37.108120"
+    "scraped_at": "2026-08-24T11:36:12.853710"
   },
   {
     "id": "23e507c8a77a4e813b9beee44311c5b9",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875469/Europese-beurzen-afwachtend-rond-lunchtijd.aspx",
     "intro": "De stemming op de aandelenmarkten in Europa was maandag rond lunchtijd afwachtend, aan het begin van een week met een aantal belangrijke agendapunten.",
     "published_at": "2026-08-24 12:04",
-    "scraped_at": "2026-08-24T10:58:37.108120"
+    "scraped_at": "2026-08-24T11:36:12.853710"
   },
   {
     "id": "792d6d6fb1a0189ce7cecdc5ebd8c956",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Artikel/875464/Stem-op-uw-favoriete-AEX-aandeel-voor-september.aspx",
     "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van september? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
     "published_at": "2026-08-24 11:30",
-    "scraped_at": "2026-08-24T10:58:37.108120"
+    "scraped_at": "2026-08-24T11:36:12.853710"
   },
   {
     "id": "e5c152d73fdc5335eaffe684f6f63c39",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875465/Valuta-dollar-onder-druk-in-aanloop-naar-beleidsupdates-VS.aspx",
     "intro": "De Amerikaanse dollar begint de week zwak, terwijl de markt wacht op nieuwe beleidssignalen uit Washington. Daartoe behoren een 'economische D-Day' voor Iran en wellicht een soort Amerikaans plan voor begrotingsconsolidatie, dat in het vooruitzicht is gesteld na de onrust op de markt voor staatsobligaties vorige week. Dit meldde ING maandag in een rapport van analisten Chris Turner, Francesco Pesole en Frantisek Taborsky.",
     "published_at": "2026-08-24 11:21",
-    "scraped_at": "2026-08-24T10:58:37.108120"
+    "scraped_at": "2026-08-24T11:36:12.853710"
   },
   {
     "id": "882b2892876c88bae2bbe25b92fa2de6",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875460/AEX-laat-futloos-beeld-zien.aspx",
     "intro": "De Amsterdamse beurs noteerde maandag tegen het einde van de ochtend vrijwel vlak, bij een gebrek aan richtinggevend nieuws. Ook aan macrocijfers kunnen beleggers zich niet optrekken. Ze wachten op wat er komen gaat in de rest van de week.",
     "published_at": "2026-08-24 10:52",
-    "scraped_at": "2026-08-24T10:58:37.108120"
+    "scraped_at": "2026-08-24T11:36:12.853710"
   },
   {
     "id": "3f6b246d3ce6c48a9f5ec59ce0b892cd",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875449/Shein-stelt-prijs-vast-voor-beursintroductie.aspx",
     "intro": "Na een jarenlange inspanning om naar de beurs te gaan, heeft Shein de prijs vastgesteld voor een beursintroductie in Hongkong die de online-fashiongigant kan helpen een waardering van ongeveer 27 miljard dollar te bereiken.",
     "published_at": "2026-08-24 09:31",
-    "scraped_at": "2026-08-24T10:58:37.108120"
-  },
-  {
-    "id": "fe1d033b22fa1f838f5e2dff63573bf0",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht lager van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/875443/AEX-licht-lager-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste maandag kort na de beursgong 0,3 procent lager tot 1.102,45 punten, terwijl de Midkap 0,2 procent prijs gaf.",
-    "published_at": "2026-08-24 09:08",
-    "scraped_at": "2026-08-24T10:58:37.108120"
-  },
-  {
-    "id": "2988375008b0ae568cb3084816534440",
-    "categorie": "Nieuws",
-    "titel": "Zomerhitte raakt beleggingsportefeuille",
-    "link": "https://www.ieximpact.nl/artikel/874879/Zomerhitte-raakt-beleggingsportefeuille.aspx",
-    "intro": "Europa zuchtte ook deze zomer onder hitte en droogte. Opdrogende rivieren, minder productief werknemers en lege terrassen en fabrieken raken de winsten van bedrijven. Verstandige beleggers houden daar in hun risicomodellen rekening mee, want volgend jaar belooft de zomer wederom heet en droog te worden.",
-    "published_at": "2026-08-24 08:55",
-    "scraped_at": "2026-08-24T10:58:37.108120"
-  },
-  {
-    "id": "9bad785e16ae4a3fab059626e9e6aefb",
-    "categorie": "Voorbeurs",
-    "titel": "Onzekerheden maken beleggers kopschuw en AMG wil dubbele notering",
-    "link": "https://www.beurs.nl/Artikel/875420/Onzekerheden-maken-beleggers-kopschuw-en-AMG-wil-dubbele-notering.aspx",
-    "intro": "Uitverkoop in techsector Azië, handelsoorlog VS en Canada laait op, AMG wil tweede notering in Frankfurt en omstreden IPO in China in de maak.",
-    "published_at": "2026-08-24 08:20",
-    "scraped_at": "2026-08-24T10:58:37.108120"
+    "scraped_at": "2026-08-24T11:36:12.853710"
   }
 ]
