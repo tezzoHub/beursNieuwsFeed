@@ -1,12 +1,39 @@
 [
   {
+    "id": "da91feac2dd7ce14f3a092f4b25cba38",
+    "categorie": "Beursnieuws",
+    "titel": "Google Cloud lanceert juridisch AI-model",
+    "link": "https://www.beurs.nl/Nieuws/875612/Google-Cloud-lanceert-juridisch-AI-model.aspx",
+    "intro": "Google Cloud heeft dinsdag een nieuw juridisch AI-model gelanceerd.",
+    "published_at": "2026-08-25 15:08",
+    "scraped_at": "2026-08-25T13:37:37.496847"
+  },
+  {
+    "id": "c6e2206bf4b1e5341acb3b0e2b0a92a1",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse huizenprijzen stijgen harder",
+    "link": "https://www.beurs.nl/Nieuws/875613/Amerikaanse-huizenprijzen-stijgen-harder.aspx",
+    "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in juni harder gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
+    "published_at": "2026-08-25 15:06",
+    "scraped_at": "2026-08-25T13:37:37.496847"
+  },
+  {
+    "id": "a95a80a39f45de21b22df5bfcd469e90",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/875609/Wall-Street-koerst-af-op-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, mede dankzij een verwacht herstel van de chipaandelen en een lagere olieprijs.",
+    "published_at": "2026-08-25 14:54",
+    "scraped_at": "2026-08-25T13:37:37.496847"
+  },
+  {
     "id": "fee55374bc885f382ea2dbb3eb8e10d7",
     "categorie": "Beursnieuws",
     "titel": "Weinig spektakel op het Damrak",
     "link": "https://www.beurs.nl/Nieuws/875601/Weinig-spektakel-op-het-Damrak.aspx",
     "intro": "De Amsterdamse beurs kwam dinsdagmiddag nauwelijks in beweging. Beleggers nemen voorafgaand aan wat belangrijke events een afwachtende houding aan.",
     "published_at": "2026-08-25 13:53",
-    "scraped_at": "2026-08-25T12:49:22.298814"
+    "scraped_at": "2026-08-25T13:37:37.496847"
   },
   {
     "id": "d927712fd48fcad1b6729353a21a93d2",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875595/Futures-Wall-Street-signaleren-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, mede dankzij een verwacht herstel van de chipaandelen en een lagere olieprijs.",
     "published_at": "2026-08-25 12:55",
-    "scraped_at": "2026-08-25T12:49:22.298814"
+    "scraped_at": "2026-08-25T13:37:37.496847"
   },
   {
     "id": "034937ab6d15926f82ee758882d8673b",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875591/Europese-beurzen-hoger-rond-lunchtijd.aspx",
     "intro": "De aandelenmarkten in Europa noteerden dinsdag licht hoger, terwijl de rentes en olieprijzen verder daalden. Halfgeleideraandelen deden goede zaken.",
     "published_at": "2026-08-25 12:22",
-    "scraped_at": "2026-08-25T12:49:22.298814"
+    "scraped_at": "2026-08-25T13:37:37.496847"
   },
   {
     "id": "96bc6a66cfb357f0efed88bafe613379",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875579/Resultaten-Nvidia-grote-test-voor-AI-boom.aspx",
     "intro": "Nvidia opent woensdag nabeurs de boeken en Wall Street hoopt dat de chipreus de verwachtingen kan verslaan, zodat de AI-boom een nieuwe impuls krijgt.",
     "published_at": "2026-08-25 11:32",
-    "scraped_at": "2026-08-25T12:49:22.298814"
+    "scraped_at": "2026-08-25T13:37:37.496847"
   },
   {
     "id": "43cbe6bbb10ecbb940be2fdfcff4628d",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875576/AEX-komt-nauwelijks-van-zijn-plaats.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdag tegen het einde van de ochtend vrijwel vlak, bij een gebrek aan impulsen. Beleggers lijken wat afwachtend in aanloop naar de PCE-inflatiedata en de kwartaalcijfers van Nvidia die woensdag op de rol staan. Donderdag zal de aandacht dan verschuiven naar de jaarlijkse bijeenkomst van centrale bankiers in Jackson Hole, waar Fed-voorzitter Kevin Warsh vrijdag een toespraak houdt.",
     "published_at": "2026-08-25 11:25",
-    "scraped_at": "2026-08-25T12:49:22.298814"
+    "scraped_at": "2026-08-25T13:37:37.496847"
   },
   {
     "id": "e9fdb25aaa0c2f31fc2aff781e428a8d",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875573/Positief-nieuws-voor-Lakefront-uit-de-VS.aspx",
     "intro": "Lakefront Biotherapeutics heeft van de Amerikaanse FDA het weesgeneesmiddelstatus toegekend gekregen voor gamgertamig voor de behandeling van pemphigus, een zeldzame auto-immuunziekte waarbij pijnlijke blaren en wondjes ontstaan op de huid en slijmvliezen.",
     "published_at": "2026-08-25 10:59",
-    "scraped_at": "2026-08-25T12:49:22.298814"
+    "scraped_at": "2026-08-25T13:37:37.496847"
   },
   {
     "id": "60116c7edc27c08f7d63883230f503d9",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875570/Duitse-Ifo-index-verder-omhoog.aspx",
     "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in augustus verder gestegen. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
     "published_at": "2026-08-25 10:35",
-    "scraped_at": "2026-08-25T12:49:22.298814"
-  },
-  {
-    "id": "e8e69a2dd544753be625ae93edc43a12",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: GBL en CVC moeten bod op Recordati misschien verhogen",
-    "link": "https://www.beurs.nl/Nieuws/875568/Beursblik-GBL-en-CVC-moeten-bod-op-Recordati-misschien-verhogen.aspx",
-    "intro": "GBL en CVC lijken de Italiaanse farmaceut Recordati te kunnen inlijven, maar misschien is een verhoging van het bod daarvoor wel nodig. Dit denkt analist Maxime Lejeune van de Degroof Petercam.",
-    "published_at": "2026-08-25 10:20",
-    "scraped_at": "2026-08-25T12:49:22.298814"
-  },
-  {
-    "id": "435d49f94e3d5d530ef827d6b0b8fd8a",
-    "categorie": "Must read",
-    "titel": "Must read: Nieuw energiesysteem vraagt veel geld van beleggers",
-    "link": "https://www.iex.nl/artikel/875380/Must-read-Nieuw-energiesysteem-vraagt-veel-geld-van-beleggers.aspx",
-    "intro": "Plus: wachten op de cijfers van Nvidia, hoge rentes zijn (g)een probleem, Amerikaanse aandelen geven amper nog dividend, goudprijs weer flink in de lift, en meer.",
-    "published_at": "2026-08-25 10:00",
-    "scraped_at": "2026-08-25T12:49:22.298814"
-  },
-  {
-    "id": "1094b34cf01ab1328b570848a1a9cfb8",
-    "categorie": "Beursnieuws",
-    "titel": "KBC Securities verlaagt koersdoel Wolters Kluwer fors maar handhaaft koopadvies",
-    "link": "https://www.beurs.nl/Nieuws/875565/KBC-Securities-verlaagt-koersdoel-Wolters-Kluwer-fors-maar-handhaaft-koopadvies.aspx",
-    "intro": "KBC Securities heeft het koersdoel voor Wolters Kluwer verlaagd van 154,00 naar 98,00 euro, maar handhaafde het koopadvies. Dit bleek dinsdag uit een rapport van analist Thomas Couvreur.",
-    "published_at": "2026-08-25 09:28",
-    "scraped_at": "2026-08-25T12:49:22.298814"
+    "scraped_at": "2026-08-25T13:37:37.496847"
   }
 ]
