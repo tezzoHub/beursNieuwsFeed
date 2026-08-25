@@ -1,12 +1,21 @@
 [
   {
+    "id": "034937ab6d15926f82ee758882d8673b",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger rond lunchtijd",
+    "link": "https://www.beurs.nl/Nieuws/875591/Europese-beurzen-hoger-rond-lunchtijd.aspx",
+    "intro": "De aandelenmarkten in Europa noteerden dinsdag licht hoger, terwijl de rentes en olieprijzen verder daalden. Halfgeleideraandelen deden goede zaken.",
+    "published_at": "2026-08-25 12:22",
+    "scraped_at": "2026-08-25T10:39:40.361049"
+  },
+  {
     "id": "96bc6a66cfb357f0efed88bafe613379",
     "categorie": "Beursnieuws",
     "titel": "Resultaten Nvidia grote test voor AI-boom",
     "link": "https://www.beurs.nl/Nieuws/875579/Resultaten-Nvidia-grote-test-voor-AI-boom.aspx",
     "intro": "Nvidia opent woensdag nabeurs de boeken en Wall Street hoopt dat de chipreus de verwachtingen kan verslaan, zodat de AI-boom een nieuwe impuls krijgt.",
     "published_at": "2026-08-25 11:32",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   },
   {
     "id": "43cbe6bbb10ecbb940be2fdfcff4628d",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875576/AEX-komt-nauwelijks-van-zijn-plaats.aspx",
     "intro": "De Amsterdamse beurs noteerde dinsdag tegen het einde van de ochtend vrijwel vlak, bij een gebrek aan impulsen. Beleggers lijken wat afwachtend in aanloop naar de PCE-inflatiedata en de kwartaalcijfers van Nvidia die woensdag op de rol staan. Donderdag zal de aandacht dan verschuiven naar de jaarlijkse bijeenkomst van centrale bankiers in Jackson Hole, waar Fed-voorzitter Kevin Warsh vrijdag een toespraak houdt.",
     "published_at": "2026-08-25 11:25",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   },
   {
     "id": "e9fdb25aaa0c2f31fc2aff781e428a8d",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875573/Positief-nieuws-voor-Lakefront-uit-de-VS.aspx",
     "intro": "Lakefront Biotherapeutics heeft van de Amerikaanse FDA het weesgeneesmiddelstatus toegekend gekregen voor gamgertamig voor de behandeling van pemphigus, een zeldzame auto-immuunziekte waarbij pijnlijke blaren en wondjes ontstaan op de huid en slijmvliezen.",
     "published_at": "2026-08-25 10:59",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   },
   {
     "id": "60116c7edc27c08f7d63883230f503d9",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875570/Duitse-Ifo-index-verder-omhoog.aspx",
     "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in augustus verder gestegen. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
     "published_at": "2026-08-25 10:35",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   },
   {
     "id": "e8e69a2dd544753be625ae93edc43a12",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875568/Beursblik-GBL-en-CVC-moeten-bod-op-Recordati-misschien-verhogen.aspx",
     "intro": "GBL en CVC lijken de Italiaanse farmaceut Recordati te kunnen inlijven, maar misschien is een verhoging van het bod daarvoor wel nodig. Dit denkt analist Maxime Lejeune van de Degroof Petercam.",
     "published_at": "2026-08-25 10:20",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   },
   {
     "id": "435d49f94e3d5d530ef827d6b0b8fd8a",
@@ -51,7 +60,7 @@
     "link": "https://www.iex.nl/artikel/875380/Must-read-Nieuw-energiesysteem-vraagt-veel-geld-van-beleggers.aspx",
     "intro": "Plus: wachten op de cijfers van Nvidia, hoge rentes zijn (g)een probleem, Amerikaanse aandelen geven amper nog dividend, goudprijs weer flink in de lift, en meer.",
     "published_at": "2026-08-25 10:00",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   },
   {
     "id": "1094b34cf01ab1328b570848a1a9cfb8",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875565/KBC-Securities-verlaagt-koersdoel-Wolters-Kluwer-fors-maar-handhaaft-koopadvies.aspx",
     "intro": "KBC Securities heeft het koersdoel voor Wolters Kluwer verlaagd van 154,00 naar 98,00 euro, maar handhaafde het koopadvies. Dit bleek dinsdag uit een rapport van analist Thomas Couvreur.",
     "published_at": "2026-08-25 09:28",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   },
   {
     "id": "007f8290341355adff1b0448b06febbe",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875560/AEX-licht-hoger-van-start-gegaan.aspx",
     "intro": "De AEX index koerste dinsdag kort na de beursgong licht hoger onder aanvoering van de halfgeleiders ASML en ASMI, die tot 2 procent wonnen. De Midkap klom 0,4 procent.",
     "published_at": "2026-08-25 09:08",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   },
   {
     "id": "2f985dd81698cd4c97c4cc1107546a96",
@@ -78,15 +87,6 @@
     "link": "https://www.iex.nl/artikel/875464/Stem-op-uw-favoriete-AEX-aandeel-voor-september.aspx",
     "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van september? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
     "published_at": "2026-08-25 09:00",
-    "scraped_at": "2026-08-25T09:57:16.141514"
-  },
-  {
-    "id": "7f67faab737bd85318ce2dba3608dec0",
-    "categorie": "Beursnieuws",
-    "titel": "Frans consumentenvertrouwen stabiel",
-    "link": "https://www.beurs.nl/Nieuws/875559/Frans-consumentenvertrouwen-stabiel.aspx",
-    "intro": "Het consumentenvertrouwen in Frankrijk bleef in augustus onveranderd. Dit bleek dinsdag uit cijfers van Insee, het Franse bureau voor de statistiek.",
-    "published_at": "2026-08-25 09:00",
-    "scraped_at": "2026-08-25T09:57:16.141514"
+    "scraped_at": "2026-08-25T10:39:40.361049"
   }
 ]
