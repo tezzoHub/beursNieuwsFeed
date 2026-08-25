@@ -1,12 +1,39 @@
 [
   {
+    "id": "2eba3a76da2122d3fb9dc44a33106597",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/875619/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 2 september 2026:",
+    "published_at": "2026-08-25 16:35",
+    "scraped_at": "2026-08-25T15:28:14.500889"
+  },
+  {
+    "id": "3f04d8dc6dd36b842ec254e4728d0067",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/875620/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 2 september 2026:",
+    "published_at": "2026-08-25 16:35",
+    "scraped_at": "2026-08-25T15:28:14.500889"
+  },
+  {
+    "id": "9fe5a76d4d86330b518488f910597255",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/875622/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 2 september 2026:",
+    "published_at": "2026-08-25 16:35",
+    "scraped_at": "2026-08-25T15:28:14.500889"
+  },
+  {
     "id": "e272be82d68ddeb0db1008dae3797725",
     "categorie": "Beursnieuws",
     "titel": "Amerikaans consumentenvertrouwen gedaald",
     "link": "https://www.beurs.nl/Nieuws/875615/Amerikaans-consumentenvertrouwen-gedaald.aspx",
     "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in augustus gedaald. Dit bleek dinsdag uit cijfers van The Conference Board.",
     "published_at": "2026-08-25 16:08",
-    "scraped_at": "2026-08-25T14:29:27.206823"
+    "scraped_at": "2026-08-25T15:28:14.500889"
   },
   {
     "id": "e10776f1fc3f57bc0259c02e054af849",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875614/Minder-nieuwe-woningen-verkocht-in-VS.aspx",
     "intro": "Er zijn in juli minder nieuwe eengezinswoningen verkocht in de Verenigde Staten dan in de maand ervoor. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-08-25 16:07",
-    "scraped_at": "2026-08-25T14:29:27.206823"
+    "scraped_at": "2026-08-25T15:28:14.500889"
   },
   {
     "id": "da91feac2dd7ce14f3a092f4b25cba38",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875612/Google-Cloud-lanceert-juridisch-AI-model.aspx",
     "intro": "Google Cloud heeft dinsdag een nieuw juridisch AI-model gelanceerd.",
     "published_at": "2026-08-25 15:08",
-    "scraped_at": "2026-08-25T14:29:27.206823"
+    "scraped_at": "2026-08-25T15:28:14.500889"
   },
   {
     "id": "c6e2206bf4b1e5341acb3b0e2b0a92a1",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875613/Amerikaanse-huizenprijzen-stijgen-harder.aspx",
     "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in juni harder gestegen dan in de maand ervoor. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
     "published_at": "2026-08-25 15:06",
-    "scraped_at": "2026-08-25T14:29:27.206823"
+    "scraped_at": "2026-08-25T15:28:14.500889"
   },
   {
     "id": "a95a80a39f45de21b22df5bfcd469e90",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875609/Wall-Street-koerst-af-op-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, mede dankzij een verwacht herstel van de chipaandelen en een lagere olieprijs.",
     "published_at": "2026-08-25 14:54",
-    "scraped_at": "2026-08-25T14:29:27.206823"
+    "scraped_at": "2026-08-25T15:28:14.500889"
   },
   {
     "id": "fee55374bc885f382ea2dbb3eb8e10d7",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875601/Weinig-spektakel-op-het-Damrak.aspx",
     "intro": "De Amsterdamse beurs kwam dinsdagmiddag nauwelijks in beweging. Beleggers nemen voorafgaand aan wat belangrijke events een afwachtende houding aan.",
     "published_at": "2026-08-25 13:53",
-    "scraped_at": "2026-08-25T14:29:27.206823"
+    "scraped_at": "2026-08-25T15:28:14.500889"
   },
   {
     "id": "d927712fd48fcad1b6729353a21a93d2",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875595/Futures-Wall-Street-signaleren-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, mede dankzij een verwacht herstel van de chipaandelen en een lagere olieprijs.",
     "published_at": "2026-08-25 12:55",
-    "scraped_at": "2026-08-25T14:29:27.206823"
-  },
-  {
-    "id": "034937ab6d15926f82ee758882d8673b",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hoger rond lunchtijd",
-    "link": "https://www.beurs.nl/Nieuws/875591/Europese-beurzen-hoger-rond-lunchtijd.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden dinsdag licht hoger, terwijl de rentes en olieprijzen verder daalden. Halfgeleideraandelen deden goede zaken.",
-    "published_at": "2026-08-25 12:22",
-    "scraped_at": "2026-08-25T14:29:27.206823"
-  },
-  {
-    "id": "96bc6a66cfb357f0efed88bafe613379",
-    "categorie": "Beursnieuws",
-    "titel": "Resultaten Nvidia grote test voor AI-boom",
-    "link": "https://www.beurs.nl/Nieuws/875579/Resultaten-Nvidia-grote-test-voor-AI-boom.aspx",
-    "intro": "Nvidia opent woensdag nabeurs de boeken en Wall Street hoopt dat de chipreus de verwachtingen kan verslaan, zodat de AI-boom een nieuwe impuls krijgt.",
-    "published_at": "2026-08-25 11:32",
-    "scraped_at": "2026-08-25T14:29:27.206823"
-  },
-  {
-    "id": "43cbe6bbb10ecbb940be2fdfcff4628d",
-    "categorie": "Beursnieuws",
-    "titel": "AEX komt nauwelijks van zijn plaats",
-    "link": "https://www.beurs.nl/Nieuws/875576/AEX-komt-nauwelijks-van-zijn-plaats.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag tegen het einde van de ochtend vrijwel vlak, bij een gebrek aan impulsen. Beleggers lijken wat afwachtend in aanloop naar de PCE-inflatiedata en de kwartaalcijfers van Nvidia die woensdag op de rol staan. Donderdag zal de aandacht dan verschuiven naar de jaarlijkse bijeenkomst van centrale bankiers in Jackson Hole, waar Fed-voorzitter Kevin Warsh vrijdag een toespraak houdt.",
-    "published_at": "2026-08-25 11:25",
-    "scraped_at": "2026-08-25T14:29:27.206823"
+    "scraped_at": "2026-08-25T15:28:14.500889"
   }
 ]
