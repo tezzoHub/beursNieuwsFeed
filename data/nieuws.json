@@ -1,12 +1,57 @@
 [
   {
+    "id": "ad34068f9610d5ee894974d0fcc7f0b8",
+    "categorie": "Beleggen",
+    "titel": "Hoe beleggers de energietransitie kunnen versnellen",
+    "link": "https://www.ieximpact.nl/artikel/875276/Hoe-beleggers-de-energietransitie-kunnen-versnellen.aspx",
+    "intro": "De energietransitie vraagt niet alleen om nieuwe technologie, maar ook om enorme investeringen. Terwijl Europa zijn energiesysteem opnieuw uitvindt, wordt de rol van private beleggers steeds belangrijker. Bert Stuij van de Rijksdienst voor Ondernemend Nederland van de Rijksdienst voor Ondernemend Nederland en Sonja de Ruiter van Triodos Investment Management bespreken de vele uitdagingen én kansen van de volgende fase in de energietransitie.",
+    "published_at": "2026-08-25 08:45",
+    "scraped_at": "2026-08-25T06:50:05.719591"
+  },
+  {
+    "id": "2a975bf4862e3a90b262f7b326337783",
+    "categorie": "Beursnieuws",
+    "titel": "Commissaris Reich stapt op bij ING",
+    "link": "https://www.beurs.nl/Nieuws/875555/Commissaris-Reich-stapt-op-bij-ING.aspx",
+    "intro": "ING ziet Alexandra Reich per 1 september aanstaande vertrekken als commissaris. Dit maakte de bank dinsdagochtend bekend.",
+    "published_at": "2026-08-25 08:27",
+    "scraped_at": "2026-08-25T06:50:05.719591"
+  },
+  {
+    "id": "e121a2c1caf5630ef43c588c72d70b29",
+    "categorie": "Beursnieuws",
+    "titel": "Berenberg blijft positief over CTP",
+    "link": "https://www.beurs.nl/Nieuws/875551/Berenberg-blijft-positief-over-CTP.aspx",
+    "intro": "Berenberg blijft positief over CTP en verwacht dat de vastgoedinvesteerder bij de aanstaande beleggersdag de nadruk zal leggen op de operationele sterkte van het bedrijf, naast de lange termijn groeiambities. Dit schreef analist Kai Klose van Berenberg dinsdag in een rapport.",
+    "published_at": "2026-08-25 08:13",
+    "scraped_at": "2026-08-25T06:50:05.719591"
+  },
+  {
+    "id": "c6fb09881a44e713ef45c4a157802948",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse economie houdt groei vast",
+    "link": "https://www.beurs.nl/Nieuws/875550/Duitse-economie-houdt-groei-vast.aspx",
+    "intro": "De Duitse economie is in het tweede kwartaal in een stabiel tempo gegroeid. Dit bleek dinsdag uit nieuwe cijfers van het Duitse statistiekbureau Destatis.",
+    "published_at": "2026-08-25 08:08",
+    "scraped_at": "2026-08-25T06:50:05.719591"
+  },
+  {
+    "id": "8495c650d45544bbd9bd10be67cab176",
+    "categorie": "Beursnieuws",
+    "titel": "AEX vermoedelijk licht hoger van start",
+    "link": "https://www.beurs.nl/Nieuws/875547/AEX-vermoedelijk-licht-hoger-van-start.aspx",
+    "intro": "De AEX-index maakt zich dinsdag naar verwachting op voor een licht hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,3 procent.",
+    "published_at": "2026-08-25 07:54",
+    "scraped_at": "2026-08-25T06:50:05.719591"
+  },
+  {
     "id": "9afb98de97e1625518fd6689aca97033",
     "categorie": "Beursnieuws",
     "titel": "Cofiroute kiest voor TomTom",
     "link": "https://www.beurs.nl/Nieuws/875546/Cofiroute-kiest-voor-TomTom.aspx",
     "intro": "Cofiroute, onderdeel van Vinci Autoroutes, heeft gekozen voor TomTom Traffic. Dit maakte de Amsterdamse kaartenmaker dinsdagochtend bekend, zonder financiële details te vermelden.",
     "published_at": "2026-08-25 07:44",
-    "scraped_at": "2026-08-25T05:53:32.109285"
+    "scraped_at": "2026-08-25T06:50:05.719591"
   },
   {
     "id": "6ae08f38728e32b7bb3227d15b4256f3",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875542/Arcadis-en-WitteveenBos-aan-de-slag-met-Cruciale-Mijl-IJburglaan.aspx",
     "intro": "Arcadis en Witteveen+Bos gaan samen aan de slag met een opdracht voor advies- en ingenieursdiensten rondom de Cruciale Mijl IJburglaan in Amsterdam. Dit maakte Arcadis dinsdagochtend bekend.",
     "published_at": "2026-08-25 07:33",
-    "scraped_at": "2026-08-25T05:53:32.109285"
+    "scraped_at": "2026-08-25T06:50:05.719591"
   },
   {
     "id": "50e5a03aea38e9e86ac565b2db21b924",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875539/Aziatische-beurzen-laten-verdeeld-beeld-zien.aspx",
     "intro": "De Aziatische beurzen lieten dinsdagochtend een verdeeld beeld zien en de hoofdindices bleven overwegend dicht bij huis.",
     "published_at": "2026-08-25 07:25",
-    "scraped_at": "2026-08-25T05:53:32.109285"
+    "scraped_at": "2026-08-25T06:50:05.719591"
   },
   {
     "id": "4f1178f5c3b9782cc554af1447e7c1fd",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875536/Europese-beurzen-gaan-lichtgroene-opening-tegemoet.aspx",
     "intro": "De Europese beurzen gaan dinsdag een licht hogere opening tegemoet. Vandaag zal er onder meer aandacht zijn voor de Duitse Ifo-index en het Amerikaanse consumentenvertrouwen .",
     "published_at": "2026-08-25 07:08",
-    "scraped_at": "2026-08-25T05:53:32.109285"
+    "scraped_at": "2026-08-25T06:50:05.719591"
   },
   {
     "id": "fa53a24062fedcf7b22bbf6f62a2bf5c",
@@ -42,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875529/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 1 september 2026:",
     "published_at": "2026-08-25 06:50",
-    "scraped_at": "2026-08-25T05:53:32.109285"
-  },
-  {
-    "id": "279002d496d4d1f30eba2d8fd84b5809",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/875527/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 1 september 2026:",
-    "published_at": "2026-08-25 06:49",
-    "scraped_at": "2026-08-25T05:53:32.109285"
-  },
-  {
-    "id": "f001876b6412700a9b0049979b24e721",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/875528/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 1 september 2026:",
-    "published_at": "2026-08-25 06:49",
-    "scraped_at": "2026-08-25T05:53:32.109285"
+    "scraped_at": "2026-08-25T06:50:05.719591"
   }
 ]
