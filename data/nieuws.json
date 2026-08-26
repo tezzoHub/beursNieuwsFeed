@@ -1,92 +1,38 @@
 [
   {
-    "id": "9af715f8d3e8fdc5921056035f0f329c",
+    "id": "fe1546ea7688c8a3ccca420d8abea70f",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875665/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-08-25 23:00",
-    "scraped_at": "2026-08-26T04:25:06.520733"
+    "titel": "Europese beurzen openen verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/875681/Europese-beurzen-openen-verdeeld.aspx",
+    "intro": "De Europese beurzen gaan woensdag een verdeelde opening tegemoet, in afwachting van nieuwe Amerikaanse inflatiedata en vooral de cijfers van Nvidia vanavond.",
+    "published_at": "2026-08-26 06:53",
+    "scraped_at": "2026-08-26T05:05:11.898143"
   },
   {
-    "id": "6ef2add4d21c7a3feda433ad29b12dea",
-    "categorie": "Beursnieuws",
-    "titel": "Prognose Zoom voor derde kwartaal valt tegen.",
-    "link": "https://www.beurs.nl/Nieuws/875664/Prognose-Zoom-voor-derde-kwartaal-valt-tegen.aspx",
-    "intro": "Zoom Communications heeft zijn prognose voor het jaar naar boven bijgesteld, maar de verwachte winst in het derde kwartaal blijft achter bij de verwachtingen van Wall Street. Dat bleek dinsdag na de update van het videoconferentiebedrijf.",
-    "published_at": "2026-08-25 22:55",
-    "scraped_at": "2026-08-26T04:25:06.520733"
-  },
-  {
-    "id": "b174f75ed6ea538dc852bf766b0719ab",
-    "categorie": "Beursnieuws",
-    "titel": "Minder dure olie helpt Wall Street naar winst",
-    "link": "https://www.beurs.nl/Nieuws/875663/Minder-dure-olie-helpt-Wall-Street-naar-winst.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag hoger gesloten, met hulp van een lagere olieprijs, nu de VS economische sancties tegen Iran lijken te verkiezen boven een militaire oplossing. Sportartikelenverkopen Dick's Sporting Goods moest het ontgelden.",
-    "published_at": "2026-08-25 22:42",
-    "scraped_at": "2026-08-26T04:25:06.520733"
-  },
-  {
-    "id": "1fb302dc342da710944ee1408a964ea8",
-    "categorie": "Beursnieuws",
-    "titel": "United Airlines vliegt naar Instagram-plekken",
-    "link": "https://www.beurs.nl/Nieuws/875656/United-Airlines-vliegt-naar-Instagram-plekken.aspx",
-    "intro": "United Airlines wil meer passagiers lokken met vluchten naar minder platgetreden bestemmingen die het goed doen op sociale media. Dat maakte kondigde de luchtvaartmaatschappij uit Chicago dinsdag aan.",
-    "published_at": "2026-08-25 21:57",
-    "scraped_at": "2026-08-26T04:25:06.520733"
-  },
-  {
-    "id": "bacd4471abc8b5e1fe6b872c1d0e6c4f",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt op hoop voor Hormuz",
-    "link": "https://www.beurs.nl/Nieuws/875654/Olieprijs-daalt-op-hoop-voor-Hormuz.aspx",
-    "intro": "De olieprijs is dinsdag opnieuw stevig gedaald, nadat de Verenigde Staten de economische duimschroeven aandraaide voor Iran, wat de verwachting wekt dat Iran hierdoor naar de onderhandelingstafel kan worden gedwongen.",
-    "published_at": "2026-08-25 21:40",
-    "scraped_at": "2026-08-26T04:25:06.520733"
-  },
-  {
-    "id": "bd60a016a2908b8a65aa1e43788ed206",
-    "categorie": "Beursnieuws",
-    "titel": "Siemens Energy verzelfstandigt transformatie-divisie",
-    "link": "https://www.beurs.nl/Nieuws/875653/Siemens-Energy-verzelfstandigt-transformatie-divisie.aspx",
-    "intro": "Siemens Energy gaat zijn bedrijfsonderdeel Transformation of Industry verzelfstandigen om zich meer te kunnen richten op de opwekking en transmissie van energie. Dat maakte het Duitse bedrijf dinsdag bekend.",
-    "published_at": "2026-08-25 21:34",
-    "scraped_at": "2026-08-26T04:25:06.520733"
-  },
-  {
-    "id": "dddd9b3167e674c5b50d04728de88f5e",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street klimt",
-    "link": "https://www.beurs.nl/Nieuws/875649/Wall-Street-klimt.aspx",
-    "intro": "De Amerikaanse beurzen stonden dinsdag hoger, dankzij een herstel van de chipaandelen en een lagere olieprijs.",
-    "published_at": "2026-08-25 21:11",
-    "scraped_at": "2026-08-26T04:25:06.520733"
-  },
-  {
-    "id": "7b93e229afdda9dff4c8e050e8eed851",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen eindigen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/875640/Europese-beurzen-eindigen-in-het-groen.aspx",
-    "intro": "De aandelenmarkten in Europa zijn dinsdag hoger gesloten, nadat de rentes en olieprijzen verder daalden.",
-    "published_at": "2026-08-25 18:45",
-    "scraped_at": "2026-08-26T04:25:06.520733"
-  },
-  {
-    "id": "7a1a6ebaea61ea304e2fad0b90c339b7",
-    "categorie": "Beursnieuws",
-    "titel": "Databedrijven onderuit in lichtrode AEX",
-    "link": "https://www.beurs.nl/Nieuws/875634/Databedrijven-onderuit-in-lichtrode-AEX.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag licht lager geëindigd, in aanloop naar belangrijke evenementen later in de week.",
-    "published_at": "2026-08-25 17:53",
-    "scraped_at": "2026-08-26T04:25:06.520733"
-  },
-  {
-    "id": "2eba3a76da2122d3fb9dc44a33106597",
+    "id": "ba8411db179582737e4533a66e535091",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/875619/Beursagenda-Nederlandse-bedrijven.aspx",
+    "link": "https://www.beurs.nl/Nieuws/875677/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 2 september 2026:",
-    "published_at": "2026-08-25 16:35",
-    "scraped_at": "2026-08-26T04:25:06.520733"
+    "published_at": "2026-08-26 06:45",
+    "scraped_at": "2026-08-26T05:05:11.898143"
+  },
+  {
+    "id": "39f462290ade35c5a9b7116d5cc29d7d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/875678/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 2 september 2026:",
+    "published_at": "2026-08-26 06:45",
+    "scraped_at": "2026-08-26T05:05:11.898143"
+  },
+  {
+    "id": "c3557c3537d33b5d8b934b23e1db2403",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/875679/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 2 september 2026:",
+    "published_at": "2026-08-26 06:45",
+    "scraped_at": "2026-08-26T05:05:11.898143"
   }
 ]
