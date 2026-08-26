@@ -1,12 +1,21 @@
 [
   {
+    "id": "36ab1673683215e5f9f3de0610305398",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen sluiten licht lager na wisselvallige dag",
+    "link": "https://www.beurs.nl/Nieuws/875810/Olieprijzen-sluiten-licht-lager-na-wisselvallige-dag.aspx",
+    "intro": "De olieprijzen zijn woensdag na een beweeglijke handelssessie licht lager gesloten, terwijl beleggers de besprekingen tussen Iran en Oman over de Straat van Hormuz en de kleiner dan verwachte toename van de Amerikaanse ruwe-olievoorraden verwerkten.",
+    "published_at": "2026-08-26 20:52",
+    "scraped_at": "2026-08-26T20:17:59.681606"
+  },
+  {
     "id": "915a8f729074c9fae9382d468e05fc5f",
     "categorie": "Beursnieuws",
     "titel": "Wall Street licht lager in aanloop naar cijfers Nvidia",
     "link": "https://www.beurs.nl/Nieuws/875805/Wall-Street-licht-lager-in-aanloop-naar-cijfers-Nvidia.aspx",
     "intro": "De Amerikaanse beurzen noteerden woensdag licht lager, in aanloop naar de cijfers van Nvidia, die na het slot op Wall Street staan geagendeerd. Ook konden beleggers meerdere macrocijfers verwerken.",
     "published_at": "2026-08-26 19:40",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   },
   {
     "id": "ddf07b84d63564d911db2b09ca9637ef",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/875804/Europese-beurzen-overwegend-hoger-gesloten.aspx",
     "intro": "De Europese beurzen zijn woensdag overwegend hoger gesloten in aanloop  naar de cijfers van de cijfers van Nvidia, die na het slot op Wall Street staan geagendeerd. Wel kregen ze wat richting over de economische ontwikkeling van de VS na de publicatie van een aantal belangrijke macrocijfers.",
     "published_at": "2026-08-26 18:55",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   },
   {
     "id": "fe6bc43155df5d4dc9542707fbdfdd1e",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875795/AEX-sluit-nipt-lager-na-tamme-handelsdag.aspx",
     "intro": "De Amsterdamse beurs sloot woensdag nipt lager. Beleggers waren voorzichtig in aanloop naar de cijfers van de cijfers van Nvidia, die na het slot op Wall Street staan geagendeerd. Wel kregen ze wat richting over de ontwikkeling van de VS na de publicatie van een aantal belangrijke macrocijfers, maar dat gaf niet genoeg inspiratie.",
     "published_at": "2026-08-26 17:55",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   },
   {
     "id": "3fda8c8ffb4c7c8683d6de4d379006d2",
@@ -33,7 +42,7 @@
     "link": "https://www.iex.nl/artikel/875791/Slotcall-worden-het-noedels-of-uit-eten-in-een-sterrenrestaurant.aspx",
     "intro": "De AEX sluit de dag praktisch onveranderd (-0,1%) af op circa 1.107 punten. De index dook in de ochtend nog richting 1.096 punten, maar kroop daarna langzaam terug.",
     "published_at": "2026-08-26 17:35",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   },
   {
     "id": "038dc2ad47402a9e7f92a7a4dbc48bc2",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875790/Aandeel-Abercrombie-fors-hoger-na-cijfers.aspx",
     "intro": "Abercrombie  Fitch heeft de outlook voor dit boekjaar fors verhoogd na een sterk tweede kwartaal, waarin de Amerikaanse warenhuisketen profiteerde van de teruggave van betaalde importheffingen en de koopbereidheid van consumenten. Dit maakte het bedrijf woensdag bekend.",
     "published_at": "2026-08-26 16:42",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   },
   {
     "id": "3a7be5571ba885c2757988abfdad5bfa",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875789/Amerikaanse-olievoorraden-blijven-stabiel.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week stabiel gebleven na de recente forse stijging van vorige week. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-08-26 16:37",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   },
   {
     "id": "69ef8bd05363931cb37e0843909c1f0f",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875786/Aegon-informeert-aandeelhouders-over-verhuizing-VS.aspx",
     "intro": "Aegon heeft vandaag bij de Amerikaanse beurstoezichthouder SEC een circulaire ingediend voor de geplande aandeelhoudersvergadering van 8 oktober over verhuizing van het bedrijf naar de Verenigde Staten. Dat maakte het bedrijf woensdag bekend.",
     "published_at": "2026-08-26 16:19",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   },
   {
     "id": "882a6c23d46a4eb93a971008e29289a4",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875788/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 3 september 2026:",
     "published_at": "2026-08-26 16:17",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   },
   {
     "id": "1c3377da610d65dd9cfe9ca2cdea5d1b",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875785/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 3 september 2026:",
     "published_at": "2026-08-26 16:16",
-    "scraped_at": "2026-08-26T18:09:08.392110"
-  },
-  {
-    "id": "fec41b9f9a6cece6698b7e36cb26440c",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/875787/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 3 september 2026:",
-    "published_at": "2026-08-26 16:16",
-    "scraped_at": "2026-08-26T18:09:08.392110"
+    "scraped_at": "2026-08-26T20:17:59.681606"
   }
 ]
