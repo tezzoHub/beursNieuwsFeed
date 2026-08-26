@@ -1,12 +1,39 @@
 [
   {
-    "id": "d00d3284d443b25feae557b80f84191f",
+    "id": "3af989b80f1a303a3701f1faf5d84e18",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/875699/Beursblik-Deutsche-Bank-verhoogt-koersdoel-ING.aspx",
+    "titel": "Beursblik: Degroof Petercam verhoogt koersdoel voor Kendrion",
+    "link": "https://www.beurs.nl/Nieuws/875715/Beursblik-Degroof-Petercam-verhoogt-koersdoel-voor-Kendrion.aspx",
+    "intro": "Kendrion heeft een goed eerste halfjaar achter de rug. Dit concludeerde analist Frank Claassen van Degroof Petercam woensdag in een rapport, waarin het koersdoel werd verhoogd van 22,00 naar 23,00 euro met handhaving van het koopadvies.",
+    "published_at": "2026-08-26 09:40",
+    "scraped_at": "2026-08-26T07:47:47.939492"
+  },
+  {
+    "id": "6871b4b229d04abd2605393f55748497",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: NX Filtration moet groei flink aanzwengelen",
+    "link": "https://www.beurs.nl/Nieuws/875706/Beursblik-NX-Filtration-moet-groei-flink-aanzwengelen.aspx",
+    "intro": "NX Filtration moet in de tweede helft van 2026 een forse omzetversnelling realiseren om de verwachtingen waar te maken. Dit stelde analist Kristof Samoy van KBC Securities woensdag in een rapport over de halfjaarcijfers.",
+    "published_at": "2026-08-26 09:27",
+    "scraped_at": "2026-08-26T07:47:47.939492"
+  },
+  {
+    "id": "ef0fe5c82a68a514f547c36600b18089",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht lager geopend",
+    "link": "https://www.beurs.nl/Nieuws/875704/AEX-licht-lager-geopend.aspx",
+    "intro": "De Amsterdamse beurs is woensdag licht lagere geopend. Kort na opening van de beurs, koerste de AEX krap 0,2 procent lager op 1.106,68 punten.",
+    "published_at": "2026-08-26 09:15",
+    "scraped_at": "2026-08-26T07:47:47.939492"
+  },
+  {
+    "id": "149ae0d2cfbd89a9b60539459513f490",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel ING",
+    "link": "https://www.beurs.nl/Nieuws/875699/Deutsche-Bank-verhoogt-koersdoel-ING.aspx",
     "intro": "Deutsche Bank heeft woensdag het koersdoel voor ING verhoogd van 34,00 naar 35,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Benjamin Goy.",
     "published_at": "2026-08-26 08:44",
-    "scraped_at": "2026-08-26T06:52:54.460358"
+    "scraped_at": "2026-08-26T07:47:47.939492"
   },
   {
     "id": "aa11006eca421d911c23ffb12b15b86c",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Artikel/875566/Lichtgroene-futures-PCE-inflatie-en-Nvidia-zetten-beurs-op-scherp.aspx",
     "intro": "Openingsindicatie: +0,2%. Beleggen met de handrem in afwachting van Amerikaanse inflatiecijfers en Nvidia. En verder: Kendrion, NX Filtration en drama bij Foot Locker.",
     "published_at": "2026-08-26 08:20",
-    "scraped_at": "2026-08-26T06:52:54.460358"
+    "scraped_at": "2026-08-26T07:47:47.939492"
   },
   {
     "id": "1d995b70213e65ab7f4ecd5e28889496",
@@ -24,7 +51,7 @@
     "link": "https://www.ieximpact.nl/artikel/875480/Extreem-weer-zorgt-voor-nieuwe-beleggingskansen.aspx",
     "intro": "Naast investeringen die klimaatverandering moeten afremmen, groeit de behoefte aan investeringen die economieën beter bestand maken tegen extreem weer. Volgens fondsbeheerders Hugo Bonnard en Elias Galand van de Belgische vermogensbeerder DPAM ontstaan daardoor beleggingskansen in onder meer waterbeheer, elektriciteitsnetten, koeling en rampenpreventie.",
     "published_at": "2026-08-26 08:10",
-    "scraped_at": "2026-08-26T06:52:54.460358"
+    "scraped_at": "2026-08-26T07:47:47.939492"
   },
   {
     "id": "c0f794f3f133d09144d2c9fe17fffed7",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/875695/Licht-hogere-opening-AEX-voorzien.aspx",
     "intro": "De Amsterdamse beurs gaat woensdag een licht hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,2 procent in het groen. Dinsdag eindigde de hoofdgraadmeter juist nog 0,2 procent lager op 1.108,34 punten.",
     "published_at": "2026-08-26 08:01",
-    "scraped_at": "2026-08-26T06:52:54.460358"
+    "scraped_at": "2026-08-26T07:47:47.939492"
   },
   {
     "id": "d1f081aa2f280cec4358ef5a718db2a1",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875691/Kendrion-geeft-sterke-jaarstart-vervolg.aspx",
     "intro": "Kendrion heeft de sterke start van dit jaar een vervolg gegeven in het tweede kwartaal. Dit bleek woensdag uit cijfers die het bedrijf presenteerde.",
     "published_at": "2026-08-26 07:51",
-    "scraped_at": "2026-08-26T06:52:54.460358"
+    "scraped_at": "2026-08-26T07:47:47.939492"
   },
   {
     "id": "3e1ed6473668de9f9ce16c3db66ff8d3",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875687/Aziatische-beurzen-op-winst.aspx",
     "intro": "De Aziatische aandelenmarkten koersten woensdag in het groen, in navolging van de winsten op Wall Street van dinsdag, waarbij techbeurs Nasdaq de kar trok.",
     "published_at": "2026-08-26 07:34",
-    "scraped_at": "2026-08-26T06:52:54.460358"
+    "scraped_at": "2026-08-26T07:47:47.939492"
   },
   {
     "id": "f4ca89c714b8fc508c434cd76bda4213",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875685/NX-Filtration-boekt-recordorders-in-eerste-halfjaar.aspx",
     "intro": "NX Filtration heeft in de eerste helft van 2026 een recordaantal orders binnengehaald en het orderboek fors zien groeien. Dit maakte de leverancier van membraantechnologie voor waterzuivering woensdag voorbeurs bekend.",
     "published_at": "2026-08-26 07:16",
-    "scraped_at": "2026-08-26T06:52:54.460358"
-  },
-  {
-    "id": "fe1546ea7688c8a3ccca420d8abea70f",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/875681/Europese-beurzen-openen-verdeeld.aspx",
-    "intro": "De Europese beurzen gaan woensdag een verdeelde opening tegemoet, in afwachting van nieuwe Amerikaanse inflatiedata en vooral de cijfers van Nvidia vanavond.",
-    "published_at": "2026-08-26 06:53",
-    "scraped_at": "2026-08-26T06:52:54.460358"
-  },
-  {
-    "id": "ba8411db179582737e4533a66e535091",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/875677/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 2 september 2026:",
-    "published_at": "2026-08-26 06:45",
-    "scraped_at": "2026-08-26T06:52:54.460358"
-  },
-  {
-    "id": "39f462290ade35c5a9b7116d5cc29d7d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/875678/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 2 september 2026:",
-    "published_at": "2026-08-26 06:45",
-    "scraped_at": "2026-08-26T06:52:54.460358"
+    "scraped_at": "2026-08-26T07:47:47.939492"
   }
 ]
