@@ -1,12 +1,75 @@
 [
   {
+    "id": "69ef8bd05363931cb37e0843909c1f0f",
+    "categorie": "Beursnieuws",
+    "titel": "Aegon informeert aandeelhouders over verhuizing VS",
+    "link": "https://www.beurs.nl/Nieuws/875786/Aegon-informeert-aandeelhouders-over-verhuizing-VS.aspx",
+    "intro": "Aegon heeft vandaag bij de Amerikaanse beurstoezichthouder SEC een circulaire ingediend voor de geplande aandeelhoudersvergadering van 8 oktober over verhuizing van het bedrijf naar de Verenigde Staten. Dat maakte het bedrijf woensdag bekend.",
+    "published_at": "2026-08-26 16:19",
+    "scraped_at": "2026-08-26T14:28:59.907993"
+  },
+  {
+    "id": "882a6c23d46a4eb93a971008e29289a4",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/875788/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 3 september 2026:",
+    "published_at": "2026-08-26 16:17",
+    "scraped_at": "2026-08-26T14:28:59.907993"
+  },
+  {
+    "id": "1c3377da610d65dd9cfe9ca2cdea5d1b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/875785/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 3 september 2026:",
+    "published_at": "2026-08-26 16:16",
+    "scraped_at": "2026-08-26T14:28:59.907993"
+  },
+  {
+    "id": "fec41b9f9a6cece6698b7e36cb26440c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/875787/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 3 september 2026:",
+    "published_at": "2026-08-26 16:16",
+    "scraped_at": "2026-08-26T14:28:59.907993"
+  },
+  {
+    "id": "3ce3922fff3ea69dadbd83b0180c10cd",
+    "categorie": "Beursnieuws",
+    "titel": "Update: industrie loopt nog niet warm voor hybrid bonding",
+    "link": "https://www.beurs.nl/Nieuws/875783/Update-industrie-loopt-nog-niet-warm-voor-hybrid-bonding.aspx",
+    "intro": "KBC Securities is er meer van overtuigd geraakt dat fabrikanten van geheugenchips nog niet erg warm lopen voor de nieuwe hybrid bonding-technologie, wat geen goed nieuws is voor BE Semiconductor Industries. Dat bleek woensdag uit een analistenrapport van de bank.",
+    "published_at": "2026-08-26 16:12",
+    "scraped_at": "2026-08-26T14:28:59.907993"
+  },
+  {
+    "id": "fd40a7860a9e43c4f341a3845e7ead4d",
+    "categorie": "Beursnieuws",
+    "titel": "Philips krijgt Amerikaanse subsidie robotica",
+    "link": "https://www.beurs.nl/Nieuws/875782/Philips-krijgt-Amerikaanse-subsidie-robotica.aspx",
+    "intro": "Philips heeft een subsidie van maximaal 33,7 miljoen dollar ontvangen van het Amerikaanse ARPA-H voor de ontwikkeling van AI-gestuurde robotica voor beroertezorg. Dit maakte het Nederlandse medtechbedrijf woensdag bekend.",
+    "published_at": "2026-08-26 15:56",
+    "scraped_at": "2026-08-26T14:28:59.907993"
+  },
+  {
+    "id": "842b1961f1c7ebafae3a5ab92440771c",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Meta schikt in VS voor ruim 16 miljard dollar",
+    "link": "https://www.beurs.nl/Nieuws/875781/Media-Meta-schikt-in-VS-voor-ruim-16-miljard-dollar.aspx",
+    "intro": "Meta Platforms is akkoord gegaan met een voorstel om tot 16,7 miljard dollar te betalen om juridische claims tegen het bedrijf in de gehele Verenigde Staten te schikken. Dat meldde persbureau Reuters woensdag op basis van rechtbankdocumenten.",
+    "published_at": "2026-08-26 15:48",
+    "scraped_at": "2026-08-26T14:28:59.907993"
+  },
+  {
     "id": "acb6724ac12ee546435648bb3c6ea726",
     "categorie": "Beursnieuws",
     "titel": "Wall Street wacht vlakke opening na inflatiecijfers",
     "link": "https://www.beurs.nl/Nieuws/875769/Wall-Street-wacht-vlakke-opening-na-inflatiecijfers.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een min of meer vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,1 procent in het rood. Techbeurs Nasdaq staat een 0,4 procent lagere opening te wachten.",
     "published_at": "2026-08-26 14:57",
-    "scraped_at": "2026-08-26T13:30:18.402865"
+    "scraped_at": "2026-08-26T14:28:59.907993"
   },
   {
     "id": "3f12582a9fcb7797df5fc94a4b3b0f5d",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875763/Amerikaanse-PCE-inflatie-stabiel.aspx",
     "intro": "Het inflatiecijfer in het PCE-rapport is in juli stabiel gebleven, na de daling in juni. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-08-26 14:42",
-    "scraped_at": "2026-08-26T13:30:18.402865"
+    "scraped_at": "2026-08-26T14:28:59.907993"
   },
   {
     "id": "8bfc5821ad68e3644e7857ffd00e83b2",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875762/Meer-orders-voor-duurzame-goederen-in-VS.aspx",
     "intro": "De orders voor duurzame goederen in de VS zijn in juli sterker gestegen dan de maand ervoor. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-08-26 14:40",
-    "scraped_at": "2026-08-26T13:30:18.402865"
-  },
-  {
-    "id": "ee9d2dece66e2641150c4b757f3f0d01",
-    "categorie": "Beursnieuws",
-    "titel": "Groei Amerikaanse economie iets vertraagd",
-    "link": "https://www.beurs.nl/Nieuws/875761/Groei-Amerikaanse-economie-iets-vertraagd.aspx",
-    "intro": "(ABM FN) De Amerikaanse economie is in het tweede kwartaal gegroeid, maar in een lager tempo dan in het eerste kwartaal. Dit bleek woensdag uit een tweede raming van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-08-26 14:37",
-    "scraped_at": "2026-08-26T13:30:18.402865"
-  },
-  {
-    "id": "d1dbf51b017a1e706a40fdb810f61db1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke ordergroei bij NX Filtration",
-    "link": "https://www.beurs.nl/Nieuws/875755/Beursblik-sterke-ordergroei-bij-NX-Filtration.aspx",
-    "intro": "NX Filtration boekte in de eerste helft van 2026 resultaten die onder de verwachtingen bleven, maar het bedrijf voerde de orderinstroom wel fors op. Dit concludeerde analist Fernand de Boer van Degroof Petercam woensdag in een rapport.",
-    "published_at": "2026-08-26 14:20",
-    "scraped_at": "2026-08-26T13:30:18.402865"
-  },
-  {
-    "id": "2739c92ff35ccf3a313f748c55f33acf",
-    "categorie": "Beursnieuws",
-    "titel": "Niet veel schot in AEX",
-    "link": "https://www.beurs.nl/Nieuws/875754/Niet-veel-schot-in-AEX.aspx",
-    "intro": "De Amsterdamse beurs toonde woensdagmiddag weinig beweging. Beleggers nemen voorafgaand aan enkele belangrijke cijfers een afwachtende houding aan.",
-    "published_at": "2026-08-26 14:10",
-    "scraped_at": "2026-08-26T13:30:18.402865"
-  },
-  {
-    "id": "ce694b4c0fd0821b7a19a3b2a7172b31",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Warsh moet overtuigen met Jackson Hole-toespraak",
-    "link": "https://www.beurs.nl/Nieuws/875750/Beursblik-Warsh-moet-overtuigen-met-Jackson-Hole-toespraak.aspx",
-    "intro": "De schilderachtige vallei Jackson Hole, omringd door de ruige Rocky Mountains, is eind deze week het decor voor de eerste echte test van Kevin Warsh als voorzitter van de Federal Reserve.",
-    "published_at": "2026-08-26 13:38",
-    "scraped_at": "2026-08-26T13:30:18.402865"
-  },
-  {
-    "id": "c88b6c5e6fdcf288d0811a562f75323c",
-    "categorie": "Beursnieuws",
-    "titel": "Futures wijzen op vlakke opening op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875747/Futures-wijzen-op-vlakke-opening-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,1 procent in het rood. Techbeurs Nasdaq staat een 0,2 procent lagere opening te wachten.",
-    "published_at": "2026-08-26 13:07",
-    "scraped_at": "2026-08-26T13:30:18.402865"
-  },
-  {
-    "id": "5dae803beb74a17960aee268d7a18d29",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of America: \"Koopkans in ASML\"",
-    "link": "https://www.beurs.nl/Nieuws/875746/Bank-of-America-Koopkans-in-ASML.aspx",
-    "intro": "Het aandeel ASML is relatief goedkoop en dat biedt een mooie instapkans. Dit stelden analisten van Bank of America woensdag in een rapport.",
-    "published_at": "2026-08-26 13:01",
-    "scraped_at": "2026-08-26T13:30:18.402865"
-  },
-  {
-    "id": "0071bac63e5e6804ce7b11e2a62c648a",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen licht hoger",
-    "link": "https://www.beurs.nl/Nieuws/875740/Europese-beurzen-licht-hoger.aspx",
-    "intro": "Europese beurzen kropen woensdag omhoog, mede door de lagere olieprijzen.",
-    "published_at": "2026-08-26 12:28",
-    "scraped_at": "2026-08-26T13:30:18.402865"
+    "scraped_at": "2026-08-26T14:28:59.907993"
   }
 ]
