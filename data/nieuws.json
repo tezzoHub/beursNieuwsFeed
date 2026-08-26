@@ -1,12 +1,30 @@
 [
   {
+    "id": "3e1ed6473668de9f9ce16c3db66ff8d3",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische beurzen op winst",
+    "link": "https://www.beurs.nl/Nieuws/875687/Aziatische-beurzen-op-winst.aspx",
+    "intro": "De Aziatische aandelenmarkten koersten woensdag in het groen, in navolging van de winsten op Wall Street van dinsdag, waarbij techbeurs Nasdaq de kar trok.",
+    "published_at": "2026-08-26 07:34",
+    "scraped_at": "2026-08-26T05:55:34.120874"
+  },
+  {
+    "id": "f4ca89c714b8fc508c434cd76bda4213",
+    "categorie": "Beursnieuws",
+    "titel": "NX Filtration boekt recordorders in eerste halfjaar",
+    "link": "https://www.beurs.nl/Nieuws/875685/NX-Filtration-boekt-recordorders-in-eerste-halfjaar.aspx",
+    "intro": "NX Filtration heeft in de eerste helft van 2026 een recordaantal orders binnengehaald en het orderboek fors zien groeien. Dit maakte de leverancier van membraantechnologie voor waterzuivering woensdag voorbeurs bekend.",
+    "published_at": "2026-08-26 07:16",
+    "scraped_at": "2026-08-26T05:55:34.120874"
+  },
+  {
     "id": "fe1546ea7688c8a3ccca420d8abea70f",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen openen verdeeld",
     "link": "https://www.beurs.nl/Nieuws/875681/Europese-beurzen-openen-verdeeld.aspx",
     "intro": "De Europese beurzen gaan woensdag een verdeelde opening tegemoet, in afwachting van nieuwe Amerikaanse inflatiedata en vooral de cijfers van Nvidia vanavond.",
     "published_at": "2026-08-26 06:53",
-    "scraped_at": "2026-08-26T05:05:11.898143"
+    "scraped_at": "2026-08-26T05:55:34.120874"
   },
   {
     "id": "ba8411db179582737e4533a66e535091",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875677/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 2 september 2026:",
     "published_at": "2026-08-26 06:45",
-    "scraped_at": "2026-08-26T05:05:11.898143"
+    "scraped_at": "2026-08-26T05:55:34.120874"
   },
   {
     "id": "39f462290ade35c5a9b7116d5cc29d7d",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875678/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 2 september 2026:",
     "published_at": "2026-08-26 06:45",
-    "scraped_at": "2026-08-26T05:05:11.898143"
+    "scraped_at": "2026-08-26T05:55:34.120874"
   },
   {
     "id": "c3557c3537d33b5d8b934b23e1db2403",
@@ -33,6 +51,6 @@
     "link": "https://www.beurs.nl/Nieuws/875679/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 2 september 2026:",
     "published_at": "2026-08-26 06:45",
-    "scraped_at": "2026-08-26T05:05:11.898143"
+    "scraped_at": "2026-08-26T05:55:34.120874"
   }
 ]
