@@ -1,21 +1,30 @@
 [
   {
+    "id": "ce694b4c0fd0821b7a19a3b2a7172b31",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Warsh moet overtuigen met Jackson Hole-toespraak",
+    "link": "https://www.beurs.nl/Nieuws/875750/Beursblik-Warsh-moet-overtuigen-met-Jackson-Hole-toespraak.aspx",
+    "intro": "De schilderachtige vallei Jackson Hole, omringd door de ruige Rocky Mountains, is eind deze week het decor voor de eerste echte test van Kevin Warsh als voorzitter van de Federal Reserve.",
+    "published_at": "2026-08-26 13:38",
+    "scraped_at": "2026-08-26T12:18:35.064804"
+  },
+  {
     "id": "c88b6c5e6fdcf288d0811a562f75323c",
     "categorie": "Beursnieuws",
     "titel": "Futures wijzen op vlakke opening op Wall Street",
     "link": "https://www.beurs.nl/Nieuws/875747/Futures-wijzen-op-vlakke-opening-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,1 procent in het rood. Techbeurs Nasdaq staat een 0,2 procent lagere opening te wachten.",
     "published_at": "2026-08-26 13:07",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   },
   {
-    "id": "6b6126b9443003b75f97a82eb3346deb",
+    "id": "5dae803beb74a17960aee268d7a18d29",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: koopkans in ASML",
-    "link": "https://www.beurs.nl/Nieuws/875746/Beursblik-koopkans-in-ASML.aspx",
+    "titel": "Bank of America: \"Koopkans in ASML\"",
+    "link": "https://www.beurs.nl/Nieuws/875746/Bank-of-America-Koopkans-in-ASML.aspx",
     "intro": "Het aandeel ASML is relatief goedkoop en dat biedt een mooie instapkans. Dit stelden analisten van Bank of America woensdag in een rapport.",
     "published_at": "2026-08-26 13:01",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   },
   {
     "id": "0071bac63e5e6804ce7b11e2a62c648a",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/875740/Europese-beurzen-licht-hoger.aspx",
     "intro": "Europese beurzen kropen woensdag omhoog, mede door de lagere olieprijzen.",
     "published_at": "2026-08-26 12:28",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   },
   {
     "id": "f00c595322f59f16e20f8d6ee22c7641",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/875733/Li-Auto-boekt-opnieuw-verlies-door-teruglopende-vraag.aspx",
     "intro": "Li Auto heeft voor het tweede kwartaal op rij verlies geboekt. Dit bleek woensdag uit cijfers van de Chinese autofabrikant.",
     "published_at": "2026-08-26 11:37",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   },
   {
     "id": "306b7a1fa60c6366205efc7765e50829",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/875726/Databedrijven-drukken-op-AEX.aspx",
     "intro": "De Amsterdamse beurs koerste woensdagochtend wat lager. Rond de klok van elf uur daalde de AEX met 0,2 procent tot 1.105,64 punten.",
     "published_at": "2026-08-26 10:58",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   },
   {
     "id": "062b3a0c1fad529dcc9cb109f015c5ed",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Artikel/875608/Vooruitblik-Nvidia-zo-hoog-ligt-de-lat-en-zo-hard-kan-de-koers-gaan.aspx",
     "intro": "Op basis van de optiecontracten kan $270 miljard over de tafel gaan.",
     "published_at": "2026-08-26 10:15",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   },
   {
     "id": "bc7320c999f6658d328346a25db2357f",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875715/Degroof-Petercam-verhoogt-koersdoel-voor-Kendrion.aspx",
     "intro": "Kendrion heeft een goed eerste halfjaar achter de rug. Dit concludeerde analist Frank Claassen van Degroof Petercam woensdag in een rapport, waarin het koersdoel werd verhoogd van 22,00 naar 23,00 euro met handhaving van het koopadvies.",
     "published_at": "2026-08-26 09:40",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   },
   {
     "id": "4288c9455da629e7f436de2370c15d4d",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875706/NX-Filtration-moet-groei-flink-aanzwengelen.aspx",
     "intro": "NX Filtration moet in de tweede helft van 2026 een forse omzetversnelling realiseren om de verwachtingen waar te maken. Dit stelde analist Kristof Samoy van KBC Securities woensdag in een rapport over de halfjaarcijfers.",
     "published_at": "2026-08-26 09:27",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   },
   {
     "id": "ef0fe5c82a68a514f547c36600b18089",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875704/AEX-licht-lager-geopend.aspx",
     "intro": "De Amsterdamse beurs is woensdag licht lagere geopend. Kort na opening van de beurs, koerste de AEX krap 0,2 procent lager op 1.106,68 punten.",
     "published_at": "2026-08-26 09:15",
-    "scraped_at": "2026-08-26T11:35:08.632181"
-  },
-  {
-    "id": "149ae0d2cfbd89a9b60539459513f490",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel ING",
-    "link": "https://www.beurs.nl/Nieuws/875699/Deutsche-Bank-verhoogt-koersdoel-ING.aspx",
-    "intro": "Deutsche Bank heeft woensdag het koersdoel voor ING verhoogd van 34,00 naar 35,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Benjamin Goy.",
-    "published_at": "2026-08-26 08:44",
-    "scraped_at": "2026-08-26T11:35:08.632181"
+    "scraped_at": "2026-08-26T12:18:35.064804"
   }
 ]
