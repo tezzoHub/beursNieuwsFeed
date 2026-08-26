@@ -1,12 +1,66 @@
 [
   {
+    "id": "acb6724ac12ee546435648bb3c6ea726",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht vlakke opening na inflatiecijfers",
+    "link": "https://www.beurs.nl/Nieuws/875769/Wall-Street-wacht-vlakke-opening-na-inflatiecijfers.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een min of meer vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,1 procent in het rood. Techbeurs Nasdaq staat een 0,4 procent lagere opening te wachten.",
+    "published_at": "2026-08-26 14:57",
+    "scraped_at": "2026-08-26T13:30:18.402865"
+  },
+  {
+    "id": "3f12582a9fcb7797df5fc94a4b3b0f5d",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse PCE-inflatie stabiel",
+    "link": "https://www.beurs.nl/Nieuws/875763/Amerikaanse-PCE-inflatie-stabiel.aspx",
+    "intro": "Het inflatiecijfer in het PCE-rapport is in juli stabiel gebleven, na de daling in juni. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-08-26 14:42",
+    "scraped_at": "2026-08-26T13:30:18.402865"
+  },
+  {
+    "id": "8bfc5821ad68e3644e7857ffd00e83b2",
+    "categorie": "Beursnieuws",
+    "titel": "Meer orders voor duurzame goederen in VS",
+    "link": "https://www.beurs.nl/Nieuws/875762/Meer-orders-voor-duurzame-goederen-in-VS.aspx",
+    "intro": "De orders voor duurzame goederen in de VS zijn in juli sterker gestegen dan de maand ervoor. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-08-26 14:40",
+    "scraped_at": "2026-08-26T13:30:18.402865"
+  },
+  {
+    "id": "ee9d2dece66e2641150c4b757f3f0d01",
+    "categorie": "Beursnieuws",
+    "titel": "Groei Amerikaanse economie iets vertraagd",
+    "link": "https://www.beurs.nl/Nieuws/875761/Groei-Amerikaanse-economie-iets-vertraagd.aspx",
+    "intro": "(ABM FN) De Amerikaanse economie is in het tweede kwartaal gegroeid, maar in een lager tempo dan in het eerste kwartaal. Dit bleek woensdag uit een tweede raming van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-08-26 14:37",
+    "scraped_at": "2026-08-26T13:30:18.402865"
+  },
+  {
+    "id": "d1dbf51b017a1e706a40fdb810f61db1",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke ordergroei bij NX Filtration",
+    "link": "https://www.beurs.nl/Nieuws/875755/Beursblik-sterke-ordergroei-bij-NX-Filtration.aspx",
+    "intro": "NX Filtration boekte in de eerste helft van 2026 resultaten die onder de verwachtingen bleven, maar het bedrijf voerde de orderinstroom wel fors op. Dit concludeerde analist Fernand de Boer van Degroof Petercam woensdag in een rapport.",
+    "published_at": "2026-08-26 14:20",
+    "scraped_at": "2026-08-26T13:30:18.402865"
+  },
+  {
+    "id": "2739c92ff35ccf3a313f748c55f33acf",
+    "categorie": "Beursnieuws",
+    "titel": "Niet veel schot in AEX",
+    "link": "https://www.beurs.nl/Nieuws/875754/Niet-veel-schot-in-AEX.aspx",
+    "intro": "De Amsterdamse beurs toonde woensdagmiddag weinig beweging. Beleggers nemen voorafgaand aan enkele belangrijke cijfers een afwachtende houding aan.",
+    "published_at": "2026-08-26 14:10",
+    "scraped_at": "2026-08-26T13:30:18.402865"
+  },
+  {
     "id": "ce694b4c0fd0821b7a19a3b2a7172b31",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Warsh moet overtuigen met Jackson Hole-toespraak",
     "link": "https://www.beurs.nl/Nieuws/875750/Beursblik-Warsh-moet-overtuigen-met-Jackson-Hole-toespraak.aspx",
     "intro": "De schilderachtige vallei Jackson Hole, omringd door de ruige Rocky Mountains, is eind deze week het decor voor de eerste echte test van Kevin Warsh als voorzitter van de Federal Reserve.",
     "published_at": "2026-08-26 13:38",
-    "scraped_at": "2026-08-26T12:18:35.064804"
+    "scraped_at": "2026-08-26T13:30:18.402865"
   },
   {
     "id": "c88b6c5e6fdcf288d0811a562f75323c",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/875747/Futures-wijzen-op-vlakke-opening-op-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden rond lunchtijd 0,1 procent in het rood. Techbeurs Nasdaq staat een 0,2 procent lagere opening te wachten.",
     "published_at": "2026-08-26 13:07",
-    "scraped_at": "2026-08-26T12:18:35.064804"
+    "scraped_at": "2026-08-26T13:30:18.402865"
   },
   {
     "id": "5dae803beb74a17960aee268d7a18d29",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/875746/Bank-of-America-Koopkans-in-ASML.aspx",
     "intro": "Het aandeel ASML is relatief goedkoop en dat biedt een mooie instapkans. Dit stelden analisten van Bank of America woensdag in een rapport.",
     "published_at": "2026-08-26 13:01",
-    "scraped_at": "2026-08-26T12:18:35.064804"
+    "scraped_at": "2026-08-26T13:30:18.402865"
   },
   {
     "id": "0071bac63e5e6804ce7b11e2a62c648a",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/875740/Europese-beurzen-licht-hoger.aspx",
     "intro": "Europese beurzen kropen woensdag omhoog, mede door de lagere olieprijzen.",
     "published_at": "2026-08-26 12:28",
-    "scraped_at": "2026-08-26T12:18:35.064804"
-  },
-  {
-    "id": "f00c595322f59f16e20f8d6ee22c7641",
-    "categorie": "Beursnieuws",
-    "titel": "Li Auto boekt opnieuw verlies door teruglopende vraag",
-    "link": "https://www.beurs.nl/Nieuws/875733/Li-Auto-boekt-opnieuw-verlies-door-teruglopende-vraag.aspx",
-    "intro": "Li Auto heeft voor het tweede kwartaal op rij verlies geboekt. Dit bleek woensdag uit cijfers van de Chinese autofabrikant.",
-    "published_at": "2026-08-26 11:37",
-    "scraped_at": "2026-08-26T12:18:35.064804"
-  },
-  {
-    "id": "306b7a1fa60c6366205efc7765e50829",
-    "categorie": "Beursnieuws",
-    "titel": "Databedrijven drukken op AEX",
-    "link": "https://www.beurs.nl/Nieuws/875726/Databedrijven-drukken-op-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend wat lager. Rond de klok van elf uur daalde de AEX met 0,2 procent tot 1.105,64 punten.",
-    "published_at": "2026-08-26 10:58",
-    "scraped_at": "2026-08-26T12:18:35.064804"
-  },
-  {
-    "id": "062b3a0c1fad529dcc9cb109f015c5ed",
-    "categorie": "Beurs vandaag",
-    "titel": "Vooruitblik Nvidia: zo hoog ligt de lat en zo hard kan de koers gaan",
-    "link": "https://www.beurs.nl/Artikel/875608/Vooruitblik-Nvidia-zo-hoog-ligt-de-lat-en-zo-hard-kan-de-koers-gaan.aspx",
-    "intro": "Op basis van de optiecontracten kan $270 miljard over de tafel gaan.",
-    "published_at": "2026-08-26 10:15",
-    "scraped_at": "2026-08-26T12:18:35.064804"
-  },
-  {
-    "id": "bc7320c999f6658d328346a25db2357f",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verhoogt koersdoel voor Kendrion",
-    "link": "https://www.beurs.nl/Nieuws/875715/Degroof-Petercam-verhoogt-koersdoel-voor-Kendrion.aspx",
-    "intro": "Kendrion heeft een goed eerste halfjaar achter de rug. Dit concludeerde analist Frank Claassen van Degroof Petercam woensdag in een rapport, waarin het koersdoel werd verhoogd van 22,00 naar 23,00 euro met handhaving van het koopadvies.",
-    "published_at": "2026-08-26 09:40",
-    "scraped_at": "2026-08-26T12:18:35.064804"
-  },
-  {
-    "id": "4288c9455da629e7f436de2370c15d4d",
-    "categorie": "Beursnieuws",
-    "titel": "NX Filtration moet groei flink aanzwengelen",
-    "link": "https://www.beurs.nl/Nieuws/875706/NX-Filtration-moet-groei-flink-aanzwengelen.aspx",
-    "intro": "NX Filtration moet in de tweede helft van 2026 een forse omzetversnelling realiseren om de verwachtingen waar te maken. Dit stelde analist Kristof Samoy van KBC Securities woensdag in een rapport over de halfjaarcijfers.",
-    "published_at": "2026-08-26 09:27",
-    "scraped_at": "2026-08-26T12:18:35.064804"
-  },
-  {
-    "id": "ef0fe5c82a68a514f547c36600b18089",
-    "categorie": "Beursnieuws",
-    "titel": "AEX licht lager geopend",
-    "link": "https://www.beurs.nl/Nieuws/875704/AEX-licht-lager-geopend.aspx",
-    "intro": "De Amsterdamse beurs is woensdag licht lagere geopend. Kort na opening van de beurs, koerste de AEX krap 0,2 procent lager op 1.106,68 punten.",
-    "published_at": "2026-08-26 09:15",
-    "scraped_at": "2026-08-26T12:18:35.064804"
+    "scraped_at": "2026-08-26T13:30:18.402865"
   }
 ]
