@@ -1,92 +1,29 @@
 [
   {
-    "id": "959fbe4aee00911b271a93902bdde3c0",
+    "id": "00d3b7bc085fe912809b7441453e5f01",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875822/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-08-26 22:49",
-    "scraped_at": "2026-08-26T23:48:25.295141"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/875847/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 3 september 2026:",
+    "published_at": "2026-08-27 06:56",
+    "scraped_at": "2026-08-27T05:08:40.855740"
   },
   {
-    "id": "146b3eef468f90d7739d2333884caad2",
+    "id": "1d5511baecee9918de2ef8cb428bace1",
     "categorie": "Beursnieuws",
-    "titel": "Aandeel HP onderuit ondanks hogere outlook",
-    "link": "https://www.beurs.nl/Nieuws/875819/Aandeel-HP-onderuit-ondanks-hogere-outlook.aspx",
-    "intro": "Het aandeel HP Inc. daalde woensdag nabeurs met bijna 11 procent, ondanks dat het technologiebedrijf de outlook voor het lopende boekjaar verhoogde na een sterk derde kwartaal.",
-    "published_at": "2026-08-26 22:38",
-    "scraped_at": "2026-08-26T23:48:25.295141"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/875846/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 3 september 2026:",
+    "published_at": "2026-08-27 06:55",
+    "scraped_at": "2026-08-27T05:08:40.855740"
   },
   {
-    "id": "41194d9eef9aa6ae412182471799550b",
+    "id": "bb024cc8b2263e486033c451d5f8e480",
     "categorie": "Beursnieuws",
-    "titel": "Nvidia overtreft verwachtingen ruimschoots",
-    "link": "https://www.beurs.nl/Nieuws/875818/Nvidia-overtreft-verwachtingen-ruimschoots.aspx",
-    "intro": "Nvidia heeft in het tweede kwartaal een recordomzet geboekt die ruim boven de verwachtingen van analisten uitkwam. Dit maakte de Amerikaanse chipfabrikant woensdag na sluiting van de handel op Wall Street bekend.",
-    "published_at": "2026-08-26 22:29",
-    "scraped_at": "2026-08-26T23:48:25.295141"
-  },
-  {
-    "id": "f60602e309c1a7b71d0e064d4869fea4",
-    "categorie": "Beursnieuws",
-    "titel": "Salesforce verhoogt outlook en breidt samenwerking Anthropic uit",
-    "link": "https://www.beurs.nl/Nieuws/875815/Salesforce-verhoogt-outlook-en-breidt-samenwerking-Anthropic-uit.aspx",
-    "intro": "Salesforce heeft de outlook voor het lopende boekjaar verhoogd na een tweede kwartaal dat beter uitpakte dan verwacht. Tegelijk kondigde het Amerikaanse softwarebedrijf een uitgebreide samenwerking met AI-bedrijf Anthropic aan. Dit maakte Salesforce woensdag nabeurs bekend.",
-    "published_at": "2026-08-26 22:22",
-    "scraped_at": "2026-08-26T23:48:25.295141"
-  },
-  {
-    "id": "a5dff557585999536ecbdb9e1e55aa08",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street nagenoeg vlak gesloten",
-    "link": "https://www.beurs.nl/Nieuws/875814/Wall-Street-nagenoeg-vlak-gesloten.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag nagenoeg vlak gesloten, nadat het inflatiecijfer in het PCE-rapport weinig potten kon breken. Beleggers keken daarnaast al vooruit naar de cijfers van Nvidia, die na het slot op Wall Street staan geagendeerd.",
-    "published_at": "2026-08-26 22:11",
-    "scraped_at": "2026-08-26T23:48:25.295141"
-  },
-  {
-    "id": "36ab1673683215e5f9f3de0610305398",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen sluiten licht lager na wisselvallige dag",
-    "link": "https://www.beurs.nl/Nieuws/875810/Olieprijzen-sluiten-licht-lager-na-wisselvallige-dag.aspx",
-    "intro": "De olieprijzen zijn woensdag na een beweeglijke handelssessie licht lager gesloten, terwijl beleggers de besprekingen tussen Iran en Oman over de Straat van Hormuz en de kleiner dan verwachte toename van de Amerikaanse ruwe-olievoorraden verwerkten.",
-    "published_at": "2026-08-26 20:52",
-    "scraped_at": "2026-08-26T23:48:25.295141"
-  },
-  {
-    "id": "915a8f729074c9fae9382d468e05fc5f",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street licht lager in aanloop naar cijfers Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/875805/Wall-Street-licht-lager-in-aanloop-naar-cijfers-Nvidia.aspx",
-    "intro": "De Amerikaanse beurzen noteerden woensdag licht lager, in aanloop naar de cijfers van Nvidia, die na het slot op Wall Street staan geagendeerd. Ook konden beleggers meerdere macrocijfers verwerken.",
-    "published_at": "2026-08-26 19:40",
-    "scraped_at": "2026-08-26T23:48:25.295141"
-  },
-  {
-    "id": "ddf07b84d63564d911db2b09ca9637ef",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen overwegend hoger gesloten",
-    "link": "https://www.beurs.nl/Nieuws/875804/Europese-beurzen-overwegend-hoger-gesloten.aspx",
-    "intro": "De Europese beurzen zijn woensdag overwegend hoger gesloten in aanloop  naar de cijfers van de cijfers van Nvidia, die na het slot op Wall Street staan geagendeerd. Wel kregen ze wat richting over de economische ontwikkeling van de VS na de publicatie van een aantal belangrijke macrocijfers.",
-    "published_at": "2026-08-26 18:55",
-    "scraped_at": "2026-08-26T23:48:25.295141"
-  },
-  {
-    "id": "fe6bc43155df5d4dc9542707fbdfdd1e",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit nipt lager na tamme handelsdag",
-    "link": "https://www.beurs.nl/Nieuws/875795/AEX-sluit-nipt-lager-na-tamme-handelsdag.aspx",
-    "intro": "De Amsterdamse beurs sloot woensdag nipt lager. Beleggers waren voorzichtig in aanloop naar de cijfers van de cijfers van Nvidia, die na het slot op Wall Street staan geagendeerd. Wel kregen ze wat richting over de ontwikkeling van de VS na de publicatie van een aantal belangrijke macrocijfers, maar dat gaf niet genoeg inspiratie.",
-    "published_at": "2026-08-26 17:55",
-    "scraped_at": "2026-08-26T23:48:25.295141"
-  },
-  {
-    "id": "3fda8c8ffb4c7c8683d6de4d379006d2",
-    "categorie": "IEX",
-    "titel": "Slotcall: worden het noedels of uit eten in een sterrenrestaurant?",
-    "link": "https://www.iex.nl/artikel/875791/Slotcall-worden-het-noedels-of-uit-eten-in-een-sterrenrestaurant.aspx",
-    "intro": "De AEX sluit de dag praktisch onveranderd (-0,1%) af op circa 1.107 punten. De index dook in de ochtend nog richting 1.096 punten, maar kroop daarna langzaam terug.",
-    "published_at": "2026-08-26 17:35",
-    "scraped_at": "2026-08-26T23:48:25.295141"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/875845/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 3 september 2026:",
+    "published_at": "2026-08-27 06:54",
+    "scraped_at": "2026-08-27T05:08:40.855740"
   }
 ]
