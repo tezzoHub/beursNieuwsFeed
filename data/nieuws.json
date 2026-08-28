@@ -1,92 +1,92 @@
 [
   {
-    "id": "58a3efa41742cda7042e3b903a4a3583",
+    "id": "ed89c28a8b9dcd9b93f6fded9c73844f",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/875976/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
-    "published_at": "2026-08-27 23:18",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "AEX in de parkeerstand",
+    "link": "https://www.beurs.nl/Nieuws/876084/AEX-in-de-parkeerstand.aspx",
+    "intro": "De Amsterdamse beurs handelde vrijdagmiddag, na een hogere opening, vrijwel onveranderd, waarbij de volumes ook erg laag waren.",
+    "published_at": "2026-08-28 13:58",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "eb9f3fe2f635c8ca33f262e05a4ed7dc",
+    "id": "25df4ffe9777d89050edd095a9a76e06",
     "categorie": "Beursnieuws",
-    "titel": "Marvell boekt recordomzet in tweede kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/875973/Marvell-boekt-recordomzet-in-tweede-kwartaal.aspx",
-    "intro": "Marvell Technology heeft in het afgelopen kwartaal een recordomzet behaald, sterk gedreven door de aanhoudende vraag naar AI en data-infrastructuur. Het bedrijf zag met name de inkomsten uit datacenters flink stijgen, wat de algehele groei compenseerde. Dat maakte de Amerikaanse chipontwikkelaar donderdag nabeurs bekend.",
-    "published_at": "2026-08-27 23:01",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "Winst BYD onder druk",
+    "link": "https://www.beurs.nl/Nieuws/876078/Winst-BYD-onder-druk.aspx",
+    "intro": "BYD heeft in het eerste helft van 2026 minder omzet en winst behaald. Dit bleek vrijdag uit de cijfers van China's grootste producent van elektrische auto's.",
+    "published_at": "2026-08-28 13:24",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "d215a0f5462d007937afcd568fb7203c",
+    "id": "62e6f8f5e81b2dc9b0b547649b64fe67",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street krijgt boost door Nvidia en sluit hoger",
-    "link": "https://www.beurs.nl/Nieuws/875969/Wall-Street-krijgt-boost-door-Nvidia-en-sluit-hoger.aspx",
-    "intro": "De Amerikaanse aandelenbeurzen zijn donderdag hoger gesloten, nadat beleggers de spirit kregen na een reeks uitstekende kwartaalcijfers, en in het bijzonder die van Nvidia. Ook de stevige omzetprognose van Nvidia zorgde voor opluchting bij beleggers die bezorgd waren over de AI-boom. Dat deed de trek van Wall Street in tech-aandelen herleven.",
-    "published_at": "2026-08-27 22:10",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "Futures Wall Street signaleren voorzichtige opening",
+    "link": "https://www.beurs.nl/Nieuws/876076/Futures-Wall-Street-signaleren-voorzichtige-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet, in de aanloop naar de toespraak van Kevin Warsh in Jackson Hole, waarbij beleggers hopen op meer duidelijkheid over zijn plannen om de inflatie weer naar de doelstelling te brengen.",
+    "published_at": "2026-08-28 13:01",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "f2342367be81b7771bdc37a62f5c0f3f",
+    "id": "bdfc292c1f271d2e793883e89fbd771d",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen sluiten hoger na drie dagen van dalingen",
-    "link": "https://www.beurs.nl/Nieuws/875968/Olieprijzen-sluiten-hoger-na-drie-dagen-van-dalingen.aspx",
-    "intro": "De olieprijzen zijn donderdag na drie dagen van dalingen hoger gesloten, terwijl de markt uitkijkt naar vooruitgang rond de heropening van de Straat van Hormuz.",
-    "published_at": "2026-08-27 21:01",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "Europese beurzen herstellen in afwachting van toespraak Warsh",
+    "link": "https://www.beurs.nl/Nieuws/876070/Europese-beurzen-herstellen-in-afwachting-van-toespraak-Warsh.aspx",
+    "intro": "De Europese beurzen noteerden vrijdag rond het middaguur hoger, na de verliezen op donderdag. Beleggers kijken al uit naar de toespraak die voorzitter van de Federal Reserve Kevin Warsh later op de dag in Jackson Hole zal houden.",
+    "published_at": "2026-08-28 12:42",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "563f4c094b9e1245e66f31bd81280e2b",
+    "id": "3eb1d44ae63cdbe6cb0b9ba4a90e5181",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst hoger dankzij resultaten van Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/875965/Wall-Street-koerst-hoger-dankzij-resultaten-van-Nvidia.aspx",
-    "intro": "Aandelen veerden donderdag op toen een reeks uitstekende kwartaalcijfers, waaronder die van Nvidia, de trek van Wall Street in tech-aandelen deed herleven.",
-    "published_at": "2026-08-27 20:00",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "Berenberg blijft positief over Eurocommercial Properties",
+    "link": "https://www.beurs.nl/Nieuws/876057/Berenberg-blijft-positief-over-Eurocommercial-Properties.aspx",
+    "intro": "KBC Securities heeft het koersdoel voor Eurocommercial Properties verhoogd van 28,00 naar 29,00 euro, met handhaving van het Accumuleren advies. Dit bleek uit een rapport van analist Lynn Hautekeete, naar aanleiding van de halfjaarcijfers van het vastgoedfonds.",
+    "published_at": "2026-08-28 11:43",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "6c7e26187f886f2d18fe61bf56fc2728",
+    "id": "632e3f179f28f8908b04f0bb0e3758cf",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen grotendeels lager gesloten",
-    "link": "https://www.beurs.nl/Nieuws/875962/Europese-beurzen-grotendeels-lager-gesloten.aspx",
-    "intro": "De Europese beurzen zijn donderdag grotendeels lager gesloten. Halfgeleiders koersten  tegen de trend in hoger, na de kwartaalcijfers van Nvidia woensdagavond. Vanavond zullen de cijfers van Marvell Technology nabeurs de de aandacht grijpen van beleggers.",
-    "published_at": "2026-08-27 19:02",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "Beleggers wachten rustig optreden Warsh af",
+    "link": "https://www.beurs.nl/Nieuws/876050/Beleggers-wachten-rustig-optreden-Warsh-af.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagochtend 0,2 procent hoger op 1.106 punten.",
+    "published_at": "2026-08-28 11:10",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "fd9e6414bda05e714c18825ec0d8ebe7",
+    "id": "5ceadffe0ac8ddce6c34850460dcc547",
     "categorie": "Beursnieuws",
-    "titel": "Beter resultaat voor Eurocommercial Properties",
-    "link": "https://www.beurs.nl/Nieuws/875961/Beter-resultaat-voor-Eurocommercial-Properties.aspx",
-    "intro": "Eurocommercial Properties heeft in de eerste helft van het boekjaar 2026 gepresenteerd een hoger direct resultaat per aandeel geboekte, dankzij hoge bezettingsgraden en sterke huurgroei. Dat maakte het vastgoedbedrijf donderdag nabeurs bekend.",
-    "published_at": "2026-08-27 18:36",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "Consumentenvertrouwen eurozone licht verbeterd",
+    "link": "https://www.beurs.nl/Nieuws/876051/Consumentenvertrouwen-eurozone-licht-verbeterd.aspx",
+    "intro": "Het consumentenvertrouwen in de eurozone is in augustus, zoals eerder gemeld, licht verbeterd. Dit bleek vrijdag uit definitieve cijfers van de Europese Commissie.",
+    "published_at": "2026-08-28 11:10",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "d8e9fa2377d756d960a3a6597e4429e2",
+    "id": "21f21f1144d16320753f31afa15323bc",
     "categorie": "Beursnieuws",
-    "titel": "Waarde HAL stijgt met 1,5 miljard euro",
-    "link": "https://www.beurs.nl/Nieuws/875958/Waarde-HAL-stijgt-met-15-miljard-euro.aspx",
-    "intro": "HAL heeft de nettovermogenswaarde in de eerste zes maanden zien stijgen met 1,5 miljard euro. Dit bleek donderdag uit een update van de beursgenoteerde investeerder.",
-    "published_at": "2026-08-27 18:15",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "VEB wil opheldering van Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/876044/VEB-wil-opheldering-van-Arcadis.aspx",
+    "intro": "De Vereniging van Effectenbezitters wil opheldering van Arcadis op het afwijzen van de overnamevoorstellen van WSP. Dit blijkt uit een brief die de beleggersvereniging stuurde aan het ingenieursbureau.",
+    "published_at": "2026-08-28 10:17",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "cb22790625056db88320c60b2d375d07",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit lager met databedrijven aan kop",
-    "link": "https://www.beurs.nl/Nieuws/875954/AEX-sluit-lager-met-databedrijven-aan-kop.aspx",
-    "intro": "De Amsterdamse beurs is donderdag lager gesloten, terwijl beleggers hun focus verleggen naar het symposium in Jackson Hole van Amerikaanse centrale bankiers en de kwartaalcijfers die Marvell Technology vanavond nabeurs in de VS zal publiceren.",
-    "published_at": "2026-08-27 17:52",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "id": "e577e0a5c061f809a83909cbecafee42",
+    "categorie": "Must read",
+    "titel": "Must read: verkoop van trucks wijst op economische groei",
+    "link": "https://www.iex.nl/artikel/875943/Must-read-verkoop-van-trucks-wijst-op-economische-groei.aspx",
+    "intro": "De Amerikaanse economie groeit lekker door, zo bewijzen de verkoopcijfers van zware vrachtwagens. Plus; Salesforce moet bewijzen dat klanten betalen voor AI, pensioenfonds met rendement van 30% en een sjoemelende Ratelband.",
+    "published_at": "2026-08-28 10:10",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   },
   {
-    "id": "346e726d0abb0e2d3092e9dc9d055c0d",
+    "id": "690ae0d658d4fed5bd7d1bd157a3140e",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/875941/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 4 september 2026:",
-    "published_at": "2026-08-27 16:23",
-    "scraped_at": "2026-08-28T01:10:39.686919"
+    "titel": "Duitse werkloosheid loopt iets op",
+    "link": "https://www.beurs.nl/Nieuws/876042/Duitse-werkloosheid-loopt-iets-op.aspx",
+    "intro": "Het aantal werklozen in Duitsland is in augustus iets gestegen. Dit bleek vrijdag uit overheidscijfers.",
+    "published_at": "2026-08-28 10:06",
+    "scraped_at": "2026-08-28T13:00:18.859661"
   }
 ]
