@@ -1,83 +1,92 @@
 [
   {
-    "id": "ffb03e4860f4edeefc68b54714a53e8d",
-    "categorie": "Voorbeurs",
-    "titel": "Lagere beursopening nu lont in Iraans kruitvat weer is aangestoken",
-    "link": "https://www.beurs.nl/Artikel/876099/Lagere-beursopening-nu-lont-in-Iraans-kruitvat-weer-is-aangestoken.aspx",
-    "intro": "Openingsindicatie: -0,2%. Dreigende oorlogstaal en bommen in Iran, Kevin Warsh toont zich een havik. En verder: Marvell, BYD, InPost, PayPal en Broadcom.",
-    "published_at": "2026-08-31 08:20",
-    "scraped_at": "2026-08-31T06:53:19.888563"
-  },
-  {
-    "id": "fe17413d4c66955d08342c7dfb30bbb7",
-    "categorie": "Beursnieuws",
-    "titel": "AkzoNobel en Axalta benoemen drie extra bestuursleden",
-    "link": "https://www.beurs.nl/Nieuws/876184/AkzoNobel-en-Axalta-benoemen-drie-extra-bestuursleden.aspx",
-    "intro": "AkzoNobel en Axalta hebben hebben aangekondigd drie bestuursleden te installeren om de raad van bestuur van het gecombineerde bedrijf te voltooien. Dat werd maandag voorbeurs bekendgemaakt.",
-    "published_at": "2026-08-31 08:19",
-    "scraped_at": "2026-08-31T06:53:19.888563"
-  },
-  {
-    "id": "cdc56ca7444f066f85c8619bdfa9b2ca",
-    "categorie": "Beursnieuws",
-    "titel": "AEX opent waarschijnlijk terughoudend",
-    "link": "https://www.beurs.nl/Nieuws/876181/AEX-opent-waarschijnlijk-terughoudend.aspx",
-    "intro": "De Amsterdamse beurs gaat maandag vermoedelijk licht lager van start. Futures op de AEX wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent. Afgelopen week won de index op weekbasis nog 0,6 procent. De Aziatische beurzen gaven vanochtend al terrein prijs.",
-    "published_at": "2026-08-31 08:07",
-    "scraped_at": "2026-08-31T06:53:19.888563"
-  },
-  {
-    "id": "de5d8bb6bde3b1597d275c2e47c344f8",
-    "categorie": "Beursnieuws",
-    "titel": "Douaneheffingen drukken groei InPost",
-    "link": "https://www.beurs.nl/Nieuws/876179/Douaneheffingen-drukken-groei-InPost.aspx",
-    "intro": "InPost heeft gewaarschuwd dat het resultaat dit jaar lager zal zijn dan eerder verwacht, door de kosten van de transformatie in het Verenigd Koninkrijk en Ierland. Dit bleek maandag uit de kwartaalcijfers van het Poolse pakketkluisjesbedrijf met een notering in Amsterdam.",
-    "published_at": "2026-08-31 07:55",
-    "scraped_at": "2026-08-31T06:53:19.888563"
-  },
-  {
-    "id": "802ec7fabc88a8f0560fb7279dc7d27c",
-    "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen lager door rentevrees en oplopende spanningen in Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/876174/Aziatische-beurzen-lager-door-rentevrees-en-oplopende-spanningen-in-Midden-Oosten.aspx",
-    "intro": "De Aziatische beurzen gaven maandagochtend terrein prijs. Beleggers reageerden onder meer op de hawkish toon van Federal Reserve-voorzitter Kevin Warsh vrijdag tijdens de bijeenkomst in Jackson Hole, waardoor de verwachtingen voor een Amerikaanse renteverhoging in september zijn toegenomen, naast de oplopende spanningen in het Midden-Oosten.",
-    "published_at": "2026-08-31 07:25",
-    "scraped_at": "2026-08-31T06:53:19.888563"
-  },
-  {
-    "id": "2061a7691acc575037e2de9a13c91910",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen waarschijnlijk lager na nieuwe Amerikaanse aanval op Iran",
-    "link": "https://www.beurs.nl/Nieuws/876173/Europese-beurzen-openen-waarschijnlijk-lager-na-nieuwe-Amerikaanse-aanval-op-Iran.aspx",
-    "intro": "De aandelenmarkten in Europa gaan maandag een lagere opening tegemoet, na een rood slot op Wall Street vrijdag. IG voorziet een openingsverlies van 90 punten voor de Duitse DAX en een min van 25 punten voor de Franse CAC 40. De Londense beurs blijft vandaag gesloten vanwege een bank holiday in het Verenigd Koninkrijk.",
-    "published_at": "2026-08-31 07:03",
-    "scraped_at": "2026-08-31T06:53:19.888563"
-  },
-  {
-    "id": "17304d0ed825093f14141037c6912a71",
+    "id": "7f7fca6ff40e74cc62eba1a1a106db9c",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/876171/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 7 september 2026:",
-    "published_at": "2026-08-31 06:55",
-    "scraped_at": "2026-08-31T06:53:19.888563"
+    "link": "https://www.beurs.nl/Nieuws/876260/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 8 september 2026:",
+    "published_at": "2026-08-31 16:13",
+    "scraped_at": "2026-08-31T14:53:59.278907"
   },
   {
-    "id": "8a3a9698ceaadd69e536950622c3ff02",
+    "id": "06020ce1240ed10f6fe6fc4d33361356",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/876169/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 7 september 2026:",
-    "published_at": "2026-08-31 06:54",
-    "scraped_at": "2026-08-31T06:53:19.888563"
+    "link": "https://www.beurs.nl/Nieuws/876258/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 8 september 2026:",
+    "published_at": "2026-08-31 16:12",
+    "scraped_at": "2026-08-31T14:53:59.278907"
   },
   {
-    "id": "91c86d5dea6d81b720bb108549a11d10",
+    "id": "7fbf23cb7efc2da55bd88f5fe01360fc",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/876170/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 7 september 2026:",
-    "published_at": "2026-08-31 06:54",
-    "scraped_at": "2026-08-31T06:53:19.888563"
+    "link": "https://www.beurs.nl/Nieuws/876259/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 8 september 2026:",
+    "published_at": "2026-08-31 16:12",
+    "scraped_at": "2026-08-31T14:53:59.278907"
+  },
+  {
+    "id": "71899d3b5289ff2f4b3eff2c9335382c",
+    "categorie": "Beursnieuws",
+    "titel": "Mondiaal vliegverkeer stabiliseert na maanden van dalingen",
+    "link": "https://www.beurs.nl/Nieuws/876254/Mondiaal-vliegverkeer-stabiliseert-na-maanden-van-dalingen.aspx",
+    "intro": "Het mondiale vliegverkeer is in juli gestabiliseerd, na drie maanden van krimp als gevolg van de oorlog in Iran.",
+    "published_at": "2026-08-31 16:03",
+    "scraped_at": "2026-08-31T14:53:59.278907"
+  },
+  {
+    "id": "e94f2e4a83a599c23f65b9c54b63f2ab",
+    "categorie": "Beursnieuws",
+    "titel": "Luchtvrachtvervoer blijft wereldwijd groeien",
+    "link": "https://www.beurs.nl/Nieuws/876246/Luchtvrachtvervoer-blijft-wereldwijd-groeien.aspx",
+    "intro": "De wereldwijde vraag naar luchtvracht is in juli met 3,9 procent gestegen. Dit meldde brancheorganisatie IATA maandag in een persbericht.",
+    "published_at": "2026-08-31 15:27",
+    "scraped_at": "2026-08-31T14:53:59.278907"
+  },
+  {
+    "id": "43ea95124e367c9fe3d404006bc99d3c",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street naar lagere start na aanval op Hormuz",
+    "link": "https://www.beurs.nl/Nieuws/876242/Wall-Street-naar-lagere-start-na-aanval-op-Hormuz.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet, terwijl de olieprijs sterk stijgt na nieuwe Amerikaanse aanvallen in Iran.",
+    "published_at": "2026-08-31 15:00",
+    "scraped_at": "2026-08-31T14:53:59.278907"
+  },
+  {
+    "id": "2810632975a809f516adb00772c309ce",
+    "categorie": "Beursnieuws",
+    "titel": "SBM en Shell houden AEX droog",
+    "link": "https://www.beurs.nl/Nieuws/876237/SBM-en-Shell-houden-AEX-droog.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagmiddag heel licht in het groen. De hogere energieprijzen versterken de zorgen over de inflatie en de beleidsrentes van centrale banken, maar zorgen ook voor hogere koersen in de olie-industrie.",
+    "published_at": "2026-08-31 14:10",
+    "scraped_at": "2026-08-31T14:53:59.278907"
+  },
+  {
+    "id": "96db1042c2aed8253f5b1724e4ca844e",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse inflatie loopt verder op",
+    "link": "https://www.beurs.nl/Nieuws/876238/Duitse-inflatie-loopt-verder-op.aspx",
+    "intro": "In Duitsland is de inflatie in augustus iets verder opgelopen. Dit bleek maandag uit voorlopige cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-08-31 14:08",
+    "scraped_at": "2026-08-31T14:53:59.278907"
+  },
+  {
+    "id": "2953f15f3ecfa74ebb76b45147e3137d",
+    "categorie": "Beursnieuws",
+    "titel": "Eli Lilly neemt Merida Biosciences over",
+    "link": "https://www.beurs.nl/Nieuws/876232/Eli-Lilly-neemt-Merida-Biosciences-over.aspx",
+    "intro": "Eli Lilly neemt Merida Biosciences over voor maximaal 2,875 miljard dollar in contanten, inclusief een vooruitbetaling en voorwaardelijke mijlpaalbetalingen. Dit kondigde de Amerikaanse farmaceut maandagmiddag aan.",
+    "published_at": "2026-08-31 13:19",
+    "scraped_at": "2026-08-31T14:53:59.278907"
+  },
+  {
+    "id": "da6a3b8b00abd31b6c57ab13351075df",
+    "categorie": "Beursnieuws",
+    "titel": "GameStop rekent op meer winst",
+    "link": "https://www.beurs.nl/Nieuws/876231/GameStop-rekent-op-meer-winst.aspx",
+    "intro": "GameStop heeft in het tweede kwartaal meer winst geboekt, maar de omzet daalde vermoedelijk wel. Dat maakte de Amerikaanse verkoper van computerspellen maandag bekend.",
+    "published_at": "2026-08-31 13:14",
+    "scraped_at": "2026-08-31T14:53:59.278907"
   }
 ]
