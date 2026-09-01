@@ -1,56 +1,92 @@
 [
   {
-    "id": "1fe3f2c0ca44c090d9d6b150561fbe74",
+    "id": "6abc14286e0671fb756ebec8958a4ad0",
     "categorie": "Beursnieuws",
-    "titel": "Nederlandse detailhandel zet meer om",
-    "link": "https://www.beurs.nl/Nieuws/876313/Nederlandse-detailhandel-zet-meer-om.aspx",
-    "intro": "De Nederlandse detailhandel heeft in juli meer omgezet. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-09-01 07:18",
-    "scraped_at": "2026-09-01T05:22:07.062702"
+    "titel": "Shell houdt AEX niet in het groen",
+    "link": "https://www.beurs.nl/Nieuws/876382/Shell-houdt-AEX-niet-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het rood. De AEX daalde met een half procent naar 1.100,58 punten, ondanks de koerswinst voor Shell.",
+    "published_at": "2026-09-01 11:42",
+    "scraped_at": "2026-09-01T10:17:06.595758"
   },
   {
-    "id": "cb0f12f04a2b92b9aebff04c2e05e522",
+    "id": "d24d4fb7187ff84d1149f18814f64ce3",
     "categorie": "Beursnieuws",
-    "titel": "Chinese industrie groeit harder",
-    "link": "https://www.beurs.nl/Nieuws/876314/Chinese-industrie-groeit-harder.aspx",
-    "intro": "De Chinese industrie is in augustus harder gegroeid. Dit bleek dinsdag uit cijfers van SP Global en RatingDog.",
-    "published_at": "2026-09-01 07:18",
-    "scraped_at": "2026-09-01T05:22:07.062702"
+    "titel": "Werkloosheid eurozone blijft stabiel",
+    "link": "https://www.beurs.nl/Nieuws/876376/Werkloosheid-eurozone-blijft-stabiel.aspx",
+    "intro": "De werkloosheid in de eurozone is in juli stabiel gebleven. Dit bleek dinsdag uit cijfers van Eurostat, het statistiekbureau van de Europese Unie.",
+    "published_at": "2026-09-01 11:16",
+    "scraped_at": "2026-09-01T10:17:06.595758"
   },
   {
-    "id": "d969f2c10ac2f35e696207a886f787fa",
+    "id": "255632e9b0bb2c884d0d888bab1ac8d2",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen naar verwachting lager",
-    "link": "https://www.beurs.nl/Nieuws/876312/Europese-beurzen-openen-naar-verwachting-lager.aspx",
-    "intro": "De aandelenmarkten in Europa gaan dinsdag een lichtrode opening tegemoet, na een lager slot op Wall Street.",
-    "published_at": "2026-09-01 07:07",
-    "scraped_at": "2026-09-01T05:22:07.062702"
+    "titel": "Inflatie eurozone gestegen door hogere energieprijzen",
+    "link": "https://www.beurs.nl/Nieuws/876375/Inflatie-eurozone-gestegen-door-hogere-energieprijzen.aspx",
+    "intro": "De inflatie in de eurozone is in augustus toegenomen door een sterkere stijging van de energieprijzen. Dit bleek dinsdag uit voorlopige cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-09-01 11:06",
+    "scraped_at": "2026-09-01T10:17:06.595758"
   },
   {
-    "id": "34c9b568ea5804c2a37031ecd94af95e",
+    "id": "399b3d0bcb63558f2daefcfb51582fea",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/876311/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 8 september 2026:",
-    "published_at": "2026-09-01 07:00",
-    "scraped_at": "2026-09-01T05:22:07.062702"
+    "titel": "Jefferies verhoogt koersdoel DSM-Firmenich fors",
+    "link": "https://www.beurs.nl/Nieuws/876368/Jefferies-verhoogt-koersdoel-DSM-Firmenich-fors.aspx",
+    "intro": "Jefferies heeft dinsdag het koersdoel voor DSM-Firmenich verhoogd van 94,00 naar 117,00 euro met handhaving van het koopadvies. Dit bleek uit een sectorrapport van de zakenbank, waarin ook de koersdoelen voor concurrenten als Kerry, Croda en Symrise werden verhoogd.",
+    "published_at": "2026-09-01 10:58",
+    "scraped_at": "2026-09-01T10:17:06.595758"
   },
   {
-    "id": "50111163d692457d384d59c1f9e74681",
+    "id": "e3e02fa5837c45575734254687996199",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/876309/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 8 september 2026:",
-    "published_at": "2026-09-01 06:59",
-    "scraped_at": "2026-09-01T05:22:07.062702"
+    "titel": "Britse industrie blijft groeien",
+    "link": "https://www.beurs.nl/Nieuws/876366/Britse-industrie-blijft-groeien.aspx",
+    "intro": "De industrie in het Verenigd Koninkrijk is in augustus opnieuw gegroeid, maar wel iets langzamer dan de maand ervoor. Dit bleek dinsdag uit de inkoopmanagersindex van SP Global.",
+    "published_at": "2026-09-01 10:38",
+    "scraped_at": "2026-09-01T10:17:06.595758"
   },
   {
-    "id": "1ea0dab7e9521342b78a385ba9cdfad2",
+    "id": "53f0b23080e257ca06e2b9b67d890af0",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/876310/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 8 september 2026:",
-    "published_at": "2026-09-01 06:59",
-    "scraped_at": "2026-09-01T05:22:07.062702"
+    "titel": "UBS verhoogt koersdoel ASML naar €2.350",
+    "link": "https://www.beurs.nl/Nieuws/876352/UBS-verhoogt-koersdoel-ASML-naar-2350.aspx",
+    "intro": "UBS heeft dinsdag het koersdoel voor ASML verhoogd van 2.250 naar 2.350 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Francois-Xavier Bouvignies.",
+    "published_at": "2026-09-01 10:27",
+    "scraped_at": "2026-09-01T10:17:06.595758"
+  },
+  {
+    "id": "2e02a119898d42c18b0c1843d2612df5",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse detailhandel zet fors minder om",
+    "link": "https://www.beurs.nl/Nieuws/876350/Duitse-detailhandel-zet-fors-minder-om.aspx",
+    "intro": "De Duitse detailhandelsverkopen zijn in in juli flink gedaald. Dit bleek dinsdag uit cijfers van het Duitse statistiekbureau Destatis.",
+    "published_at": "2026-09-01 10:16",
+    "scraped_at": "2026-09-01T10:17:06.595758"
+  },
+  {
+    "id": "d3e2cd7ae91b7c14a79abcde30be00ca",
+    "categorie": "Beursnieuws",
+    "titel": "ABU: uren in uitzendbranche blijven onder druk",
+    "link": "https://www.beurs.nl/Nieuws/876349/ABU-uren-in-uitzendbranche-blijven-onder-druk.aspx",
+    "intro": "Het aantal gewerkte uren in de Nederlandse uitzendsector is in periode 8 van 2026 opnieuw gedaald, terwijl de omzet wel steeg. Dit bleek dinsdag uit cijfers van brancheorganisatie ABU.",
+    "published_at": "2026-09-01 10:10",
+    "scraped_at": "2026-09-01T10:17:06.595758"
+  },
+  {
+    "id": "477c39670e0ec17ff149d91d3873f05f",
+    "categorie": "Beursnieuws",
+    "titel": "Industrie in de eurozone groeit flink",
+    "link": "https://www.beurs.nl/Nieuws/876348/Industrie-in-de-eurozone-groeit-flink.aspx",
+    "intro": "De industrie in de eurozone is in augustus in een hoger tempo gegroeid. Dit bleek dinsdag uit cijfers van SP Global.",
+    "published_at": "2026-09-01 10:06",
+    "scraped_at": "2026-09-01T10:17:06.595758"
+  },
+  {
+    "id": "cffd8aac01bc1d9ce4a5a13a443fc5e9",
+    "categorie": "Must read",
+    "titel": "Must read: Stijgende rentes overal maken ongerust",
+    "link": "https://www.iex.nl/artikel/876186/Must-read-Stijgende-rentes-overal-maken-ongerust.aspx",
+    "intro": "Plus: 5 Europese aandelen met enorme korting, wees selectief met farma-aandelen, olieprijs drijft Nederlandse inflatie op, zelfrijdende taxi's nemen stad over, en meer.",
+    "published_at": "2026-09-01 10:00",
+    "scraped_at": "2026-09-01T10:17:06.595758"
   }
 ]
