@@ -1,92 +1,56 @@
 [
   {
-    "id": "904c9f2f6724ec850a43eaa16c04e9cd",
+    "id": "1fe3f2c0ca44c090d9d6b150561fbe74",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/876289/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-08-31 22:18",
-    "scraped_at": "2026-09-01T00:06:49.608889"
+    "titel": "Nederlandse detailhandel zet meer om",
+    "link": "https://www.beurs.nl/Nieuws/876313/Nederlandse-detailhandel-zet-meer-om.aspx",
+    "intro": "De Nederlandse detailhandel heeft in juli meer omgezet. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-09-01 07:18",
+    "scraped_at": "2026-09-01T05:22:07.062702"
   },
   {
-    "id": "3531859fc7e24a18239c15b5f0eae972",
+    "id": "cb0f12f04a2b92b9aebff04c2e05e522",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit positieve maand lager af",
-    "link": "https://www.beurs.nl/Nieuws/876288/Wall-Street-sluit-positieve-maand-lager-af.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag lager gesloten en eindigde daarmee een positieve maand negatief af, die vooral in het teken stond van de oplopende rentes die in de meeste landen inmiddels meerjarige niveaus hebben bereikt. De hardnekkige inflatie, gebrek aan begrotingsdiscipline en toegenomen concurrentie van hyperscalers om de AI-revolutie te financieren zijn hier debet aan.",
-    "published_at": "2026-08-31 22:14",
-    "scraped_at": "2026-09-01T00:06:49.608889"
+    "titel": "Chinese industrie groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/876314/Chinese-industrie-groeit-harder.aspx",
+    "intro": "De Chinese industrie is in augustus harder gegroeid. Dit bleek dinsdag uit cijfers van SP Global en RatingDog.",
+    "published_at": "2026-09-01 07:18",
+    "scraped_at": "2026-09-01T05:22:07.062702"
   },
   {
-    "id": "b51850aa6daa6d1a3bf37ec0a8d7205b",
+    "id": "d969f2c10ac2f35e696207a886f787fa",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen sluiten de maand hoger af",
-    "link": "https://www.beurs.nl/Nieuws/876285/Olieprijzen-sluiten-de-maand-hoger-af.aspx",
-    "intro": "De olieprijzen zijn maandag hoger gesloten, nadat hervatte militaire acties tussen de Verenigde Staten en Iran de vrees voor verstoring van de wereldwijde aanvoer nieuw leven inbliezen. Het conflict is inmiddels zijn zesde maand ingegaan.",
-    "published_at": "2026-08-31 21:23",
-    "scraped_at": "2026-09-01T00:06:49.608889"
+    "titel": "Europese beurzen openen naar verwachting lager",
+    "link": "https://www.beurs.nl/Nieuws/876312/Europese-beurzen-openen-naar-verwachting-lager.aspx",
+    "intro": "De aandelenmarkten in Europa gaan dinsdag een lichtrode opening tegemoet, na een lager slot op Wall Street.",
+    "published_at": "2026-09-01 07:07",
+    "scraped_at": "2026-09-01T05:22:07.062702"
   },
   {
-    "id": "930e73113351bcb23c959d9558d98031",
-    "categorie": "Beursnieuws",
-    "titel": "FTC klaagt Amazon aan wegens misleiding",
-    "link": "https://www.beurs.nl/Nieuws/876284/FTC-klaagt-Amazon-aan-wegens-misleiding.aspx",
-    "intro": "De Amerikaanse toezichthouder FTC klaagt Amazon aan wegens misleiding van adverteerders op zijn platform. Dit maakten functionarissen van de mededingingsautoriteit maandag bekend. Volgens de aanklacht manipuleerde het techbedrijf zeven jaar lang de prijzen die bedrijven betaalden om te adverteren, waarmee het naar eigen zeggen tientallen miljarden dollars verdiende.",
-    "published_at": "2026-08-31 20:58",
-    "scraped_at": "2026-09-01T00:06:49.608889"
-  },
-  {
-    "id": "124d97bf4dae027a7ed894c117c707d6",
-    "categorie": "Beursnieuws",
-    "titel": "Ajax en Kopenhagen bereiken overeenstemming over Carrizo",
-    "link": "https://www.beurs.nl/Nieuws/876280/Ajax-en-Kopenhagen-bereiken-overeenstemming-over-Carrizo.aspx",
-    "intro": "Ajax verhuurt aanvaller Maher Carrizo voor de rest van dit seizoen aan FC Kopenhagen. Dit maakte de Amsterdamse club maandag bekend.",
-    "published_at": "2026-08-31 20:04",
-    "scraped_at": "2026-09-01T00:06:49.608889"
-  },
-  {
-    "id": "519452e614a85f3be21ab60dd12c9b81",
-    "categorie": "Beursnieuws",
-    "titel": "Ajax verhuurt Youri Regeer aan Werder Bremen",
-    "link": "https://www.beurs.nl/Nieuws/876279/Ajax-verhuurt-Youri-Regeer-aan-Werder-Bremen.aspx",
-    "intro": "Ajax verhuurt middenvelder Youri Regeer voor dit seizoen aan Werder Bremen. Dit maakte de Amsterdamse club maandag bekend.",
-    "published_at": "2026-08-31 19:59",
-    "scraped_at": "2026-09-01T00:06:49.608889"
-  },
-  {
-    "id": "0aa800e4ed0dc7539914dfa500358d49",
-    "categorie": "Beursnieuws",
-    "titel": "PG&E en Edison flink onderuit op rood Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/876278/PGE-en-Edison-flink-onderuit-op-rood-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag lager, nadat de VS en Iran voor het eerst in weken over en weer het vuur hadden geopend, al lagen de belangrijkste beursindices nog steeds op koers om de maand augustus met winst af te sluiten. De grootste koersbewegingen kwamen van Pacific Gas  Electric en Edison International, die respectievelijk 19 en 24 procent daalden nadat Californische wetgevers een voorstel blokkeerden dat de aansprakelijkheid van nutsbedrijven voor bosbranden zou beperken.",
-    "published_at": "2026-08-31 19:50",
-    "scraped_at": "2026-09-01T00:06:49.608889"
-  },
-  {
-    "id": "2975da9e98b79bcaa775112c5870378f",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten wisselvallige maand lager af",
-    "link": "https://www.beurs.nl/Nieuws/876277/Europese-beurzen-sluiten-wisselvallige-maand-lager-af.aspx",
-    "intro": "De Europese beurzen zijn maandag lager gesloten. Hiermee eindigde een wisselvallige maand die vooral in het teken stond van de oplopende rentes die in de meeste landen inmiddels meerjarige niveaus hebben bereikt. De hardnekkige inflatie, gebrek aan begrotingsdiscipline en toegenomen concurrentie van hyperscalers om de AI-revolutie te financieren zijn hier debet aan.",
-    "published_at": "2026-08-31 18:51",
-    "scraped_at": "2026-09-01T00:06:49.608889"
-  },
-  {
-    "id": "cccbf1fb0fa0eff96c3dbda1ed5c6dc6",
-    "categorie": "Beursnieuws",
-    "titel": "Olie kan AEX niet in het groen houden",
-    "link": "https://www.beurs.nl/Nieuws/876270/Olie-kan-AEX-niet-in-het-groen-houden.aspx",
-    "intro": "De Amsterdamse beurs is maandag lager geëindigd, maar op maandbasis was er wel een kleine winst. Op de laatste dag van augustus kon het Damrak niet voldoende steun halen uit de stijgende koersen van Shell en SBM Offshore, terwijl techaandelen het lastig hadden.",
-    "published_at": "2026-08-31 17:50",
-    "scraped_at": "2026-09-01T00:06:49.608889"
-  },
-  {
-    "id": "7f7fca6ff40e74cc62eba1a1a106db9c",
+    "id": "34c9b568ea5804c2a37031ecd94af95e",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/876260/Beursagenda-macro-economisch.aspx",
+    "link": "https://www.beurs.nl/Nieuws/876311/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 8 september 2026:",
-    "published_at": "2026-08-31 16:13",
-    "scraped_at": "2026-09-01T00:06:49.608889"
+    "published_at": "2026-09-01 07:00",
+    "scraped_at": "2026-09-01T05:22:07.062702"
+  },
+  {
+    "id": "50111163d692457d384d59c1f9e74681",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/876309/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 8 september 2026:",
+    "published_at": "2026-09-01 06:59",
+    "scraped_at": "2026-09-01T05:22:07.062702"
+  },
+  {
+    "id": "1ea0dab7e9521342b78a385ba9cdfad2",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/876310/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 8 september 2026:",
+    "published_at": "2026-09-01 06:59",
+    "scraped_at": "2026-09-01T05:22:07.062702"
   }
 ]
