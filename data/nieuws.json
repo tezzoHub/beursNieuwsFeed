@@ -1,12 +1,84 @@
 [
   {
+    "id": "417d59484637529de6f077414431bb06",
+    "categorie": "Beursnieuws",
+    "titel": "Shell neemt benzinestations van Tri Star Energy over",
+    "link": "https://www.beurs.nl/Nieuws/876466/Shell-neemt-benzinestations-van-Tri-Star-Energy-over.aspx",
+    "intro": "Shell neemt in het zuidoosten van de Verenigde Staten de benzinestations van Tri Star Energy over. Dit werd dinsdagavond bekend.",
+    "published_at": "2026-09-01 20:12",
+    "scraped_at": "2026-09-01T18:22:29.543321"
+  },
+  {
+    "id": "ebbdd16a83f990aa606b5f8d4d0ec1b2",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst lager",
+    "link": "https://www.beurs.nl/Nieuws/876462/Wall-Street-koerst-lager.aspx",
+    "intro": "De Amerikaanse beurzen noteerden dinsdag lager, terwijl de rentes hoog bleven en ook de olieprijzen verder stegen omdat geopolitieke spanningen en inflatievrees het sentiment dreven.",
+    "published_at": "2026-09-01 19:39",
+    "scraped_at": "2026-09-01T18:22:29.543321"
+  },
+  {
+    "id": "1c72e04a189aa9c00aa8e398114fda70",
+    "categorie": "Beursnieuws",
+    "titel": "Nestlé verkoopt supplemententak",
+    "link": "https://www.beurs.nl/Nieuws/876459/Nestle-verkoopt-supplemententak.aspx",
+    "intro": "Nestlé heeft zijn reguliere activiteiten op het gebied van vitamines, mineralen en voedingssupplementen verkocht aan Yellow Wood Partners voor 1 miljard dollar, of omgerekend 0,8 miljard Zwitserse frank. Dit meldde het Zwitserse levensmiddelenconcern dinsdagavond.",
+    "published_at": "2026-09-01 19:11",
+    "scraped_at": "2026-09-01T18:22:29.543321"
+  },
+  {
+    "id": "8aeca903f92749201e36c417d85a0c21",
+    "categorie": "Beursnieuws",
+    "titel": "Valse start voor Europese beurzen in september",
+    "link": "https://www.beurs.nl/Nieuws/876458/Valse-start-voor-Europese-beurzen-in-september.aspx",
+    "intro": "De Europese beurzen zijn dinsdag lager geëindigd, terwijl de olieprijzen en rentes hoog bleven.",
+    "published_at": "2026-09-01 18:43",
+    "scraped_at": "2026-09-01T18:22:29.543321"
+  },
+  {
+    "id": "a94384c1ca14e926ec872a1815452108",
+    "categorie": "Beursnieuws",
+    "titel": "MotorK benoemt nieuwe CFO",
+    "link": "https://www.beurs.nl/Nieuws/876455/MotorK-benoemt-nieuwe-CFO.aspx",
+    "intro": "MotorK heeft Federico Lozano benoemd als CFO. Dit maakte het bedrijf met een notering aan het Damrak dinsdagavond bekend.",
+    "published_at": "2026-09-01 18:22",
+    "scraped_at": "2026-09-01T18:22:29.543321"
+  },
+  {
+    "id": "840f008de21883dd50920a682fa771a7",
+    "categorie": "Beursnieuws",
+    "titel": "KPN geeft voor 500 miljoen euro aan hybride obligaties uit",
+    "link": "https://www.beurs.nl/Nieuws/876453/KPN-geeft-voor-500-miljoen-euro-aan-hybride-obligaties-uit.aspx",
+    "intro": "KPN heeft voor 500 miljoen euro aan hybride obligaties uitgegeven. Dit meldde het telecombedrijf dinsdagavond.",
+    "published_at": "2026-09-01 18:06",
+    "scraped_at": "2026-09-01T18:22:29.543321"
+  },
+  {
+    "id": "51f7f2c968094a3008115a2f2f882ccd",
+    "categorie": "Beursnieuws",
+    "titel": "Duurdere olie duwt AEX weer in het rood",
+    "link": "https://www.beurs.nl/Nieuws/876452/Duurdere-olie-duwt-AEX-weer-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag lager gesloten, terwijl de olieprijs met 2 procent opliep.",
+    "published_at": "2026-09-01 17:52",
+    "scraped_at": "2026-09-01T18:22:29.543321"
+  },
+  {
+    "id": "3c71f4f767eac9b3f4b318f0c59c7358",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Goldman Sachs voegt Adyen toe aan de favorietenlijst",
+    "link": "https://www.beurs.nl/Nieuws/876444/Beursblik-Goldman-Sachs-voegt-Adyen-toe-aan-de-favorietenlijst.aspx",
+    "intro": "Goldman Sachs heeft het aandeel Adyen toegevoegd aan zijn Conviction List, terwijl bijvoorbeeld de Britse sectorgenoot Wise en retailer Zalando hun plekje op deze favorietenlijst moesten inleveren. Dit bleek dinsdag uit een rapport van de Amerikaanse bank.",
+    "published_at": "2026-09-01 17:00",
+    "scraped_at": "2026-09-01T18:22:29.543321"
+  },
+  {
     "id": "f52d5362dd4ea9d92d7b033aee81bd4c",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/876438/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 9 september 2026:",
     "published_at": "2026-09-01 16:32",
-    "scraped_at": "2026-09-01T14:59:37.419857"
+    "scraped_at": "2026-09-01T18:22:29.543321"
   },
   {
     "id": "81e2800a19ab5702e0f1afbb83b7d4e9",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/876439/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 9 september 2026:",
     "published_at": "2026-09-01 16:32",
-    "scraped_at": "2026-09-01T14:59:37.419857"
-  },
-  {
-    "id": "b4aa8a54658722eeea7d0fa231b79b02",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/876440/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 9 september 2026:",
-    "published_at": "2026-09-01 16:32",
-    "scraped_at": "2026-09-01T14:59:37.419857"
-  },
-  {
-    "id": "0baa204ed6d6dd07972698695938dac5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: kerninflatie eurozone nog verrassend laag",
-    "link": "https://www.beurs.nl/Nieuws/876433/Beursblik-kerninflatie-eurozone-nog-verrassend-laag.aspx",
-    "intro": "De inflatie in de eurozone is in augustus zoals verwacht sterk gestegen, maar het kerninflatiecijfer blijft verrassend gematigd, zes maanden na het uitbreken van het conflict in het Midden-Oosten. Dit stelde econoom Bert Colijn van ING dinsdag in een rapport.",
-    "published_at": "2026-09-01 16:16",
-    "scraped_at": "2026-09-01T14:59:37.419857"
-  },
-  {
-    "id": "44476c832945b1c0c9e3783e47627480",
-    "categorie": "Beursnieuws",
-    "titel": "Lichte toename aantal vacatures in de VS",
-    "link": "https://www.beurs.nl/Nieuws/876431/Lichte-toename-aantal-vacatures-in-de-VS.aspx",
-    "intro": "Het aantal vacatures in de Verenigde Staten is in juli licht gestegen. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-09-01 16:12",
-    "scraped_at": "2026-09-01T14:59:37.419857"
-  },
-  {
-    "id": "2b7e5128a0d0121d08fb77878ae0cdc4",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse bouwuitgaven opnieuw gedaald",
-    "link": "https://www.beurs.nl/Nieuws/876429/Amerikaanse-bouwuitgaven-opnieuw-gedaald.aspx",
-    "intro": "De bouwuitgaven in de Verenigde Staten zijn in juli opnieuw gedaald. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-09-01 16:10",
-    "scraped_at": "2026-09-01T14:59:37.419857"
-  },
-  {
-    "id": "9f48b5819a0093802cf215a96ed2d94f",
-    "categorie": "Beursnieuws",
-    "titel": "ISM: Amerikaanse industrie groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/876430/ISM-Amerikaanse-industrie-groeit-minder-hard.aspx",
-    "intro": "De Amerikaanse industrie is in augustus minder hard gegroeid dan in de maand ervoor en de vertraging was ook groter dan vooraf werd voorzien. Dit bleek dinsdag uit cijfers van het Institute for Supply Management.",
-    "published_at": "2026-09-01 16:09",
-    "scraped_at": "2026-09-01T14:59:37.419857"
-  },
-  {
-    "id": "0292c4658ed0c7c472cac03278613f5d",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse inflatie loopt op",
-    "link": "https://www.beurs.nl/Nieuws/876423/Nederlandse-inflatie-loopt-op.aspx",
-    "intro": "De Nederlandse inflatie is in augustus nog iets harder gestegen, net als in omringende landen het geval was. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-09-01 15:59",
-    "scraped_at": "2026-09-01T14:59:37.419857"
-  },
-  {
-    "id": "e6d7f0be371b359ec7fb8649888a8446",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse industrie groeit in stabiel tempo",
-    "link": "https://www.beurs.nl/Nieuws/876424/Amerikaanse-industrie-groeit-in-stabiel-tempo.aspx",
-    "intro": "De Amerikaanse industrie is in augustus in een stabiel tempo gegroeid en dat was een meevaller, aangezien een voorlopige cijfer een vertraging suggereerde. Dit bleek dinsdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-09-01 15:55",
-    "scraped_at": "2026-09-01T14:59:37.419857"
-  },
-  {
-    "id": "bff52f10cde84410594fb3ee8c060b77",
-    "categorie": "Beursnieuws",
-    "titel": "Groeitempo Nederlandse industrie tandje lager",
-    "link": "https://www.beurs.nl/Nieuws/876422/Groeitempo-Nederlandse-industrie-tandje-lager.aspx",
-    "intro": "De industrie in Nederland is in augustus opnieuw gegroeid, maar wel in een iets lager tempo. Dit bleek dinsdag uit de inkoopmanagersindex van NEVI.",
-    "published_at": "2026-09-01 15:52",
-    "scraped_at": "2026-09-01T14:59:37.419857"
+    "scraped_at": "2026-09-01T18:22:29.543321"
   }
 ]
