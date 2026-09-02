@@ -1,12 +1,75 @@
 [
   {
+    "id": "b576bdcd65efc3d7e0401e216e720371",
+    "categorie": "Beursnieuws",
+    "titel": "Dell en Nvidia helpen Wall Street aan winst",
+    "link": "https://www.beurs.nl/Nieuws/876634/Dell-en-Nvidia-helpen-Wall-Street-aan-winst.aspx",
+    "intro": "De Amerikaanse beurzen zijn woensdag hoger gesloten, gesteund door een positieve kwartaalupdate van Dell Technologies dinsdagavond.",
+    "published_at": "2026-09-02 22:52",
+    "scraped_at": "2026-09-02T21:22:36.341879"
+  },
+  {
+    "id": "38bf471790dbdfba8608b757a49ed39f",
+    "categorie": "Beursnieuws",
+    "titel": "Snowflake verhoogt omzetverwachting",
+    "link": "https://www.beurs.nl/Nieuws/876633/Snowflake-verhoogt-omzetverwachting.aspx",
+    "intro": "Snowflake heeft zijn prognose voor de productomzet dit jaar naar boven bijgesteld na een kleiner verlies in het tweede kwartaal, met kunstmatige intelligentie als drijvende kracht. Dat maakte het cloudopslagbedrijf woensdag nabeurs bekend.",
+    "published_at": "2026-09-02 22:42",
+    "scraped_at": "2026-09-02T21:22:36.341879"
+  },
+  {
+    "id": "617ab15feffd028965388450ffc20177",
+    "categorie": "Beursnieuws",
+    "titel": "Omzetverwachting Broadcom verrast niet",
+    "link": "https://www.beurs.nl/Nieuws/876632/Omzetverwachting-Broadcom-verrast-niet.aspx",
+    "intro": "Broadcom heeft in het derde kwartaal de verwachtingen in de markt voor de omzet en winst verslagen, dankzij sterke vraag naar AI-versnellers en netwerkapparatuur, maar de omzetverwachting voor het lopende kwartaal overtreft de analistenconsensus niet. Dat bleek woensdag nabeurs.",
+    "published_at": "2026-09-02 22:35",
+    "scraped_at": "2026-09-02T21:22:36.341879"
+  },
+  {
+    "id": "4b2c355f8edcbdeef0c3c8e6a30cc1cf",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs stijgt",
+    "link": "https://www.beurs.nl/Nieuws/876625/Olieprijs-stijgt.aspx",
+    "intro": "De olieprijs is woensdag verder gestegen, na wederzijdse aanvallen tussen de Verenigde Staten en Iran in het Midden Oosten, die doen vrezen voor meer escalatie en verstoring van de oliestroom vanuit de Perzische Golf.",
+    "published_at": "2026-09-02 22:01",
+    "scraped_at": "2026-09-02T21:22:36.341879"
+  },
+  {
+    "id": "9032c9a44088156a63806d79c387891c",
+    "categorie": "Beursnieuws",
+    "titel": "Beige Book ziet beperkte prijsstijgingen VS",
+    "link": "https://www.beurs.nl/Nieuws/876624/Beige-Book-ziet-beperkte-prijsstijgingen-VS.aspx",
+    "intro": "De economische activiteit in de Verenigde Staten is gegroeid, terwijl consumenten bij het doen van aankopen gevoeliger werden voor prijsverhogingen, wat de inflatiedruk lijkt te dempen.",
+    "published_at": "2026-09-02 21:53",
+    "scraped_at": "2026-09-02T21:22:36.341879"
+  },
+  {
+    "id": "53e0cb8d99cea3522364a6d8172117ed",
+    "categorie": "Beursnieuws",
+    "titel": "Rechter dwarsboomt opsplitsing Google",
+    "link": "https://www.beurs.nl/Nieuws/876622/Rechter-dwarsboomt-opsplitsing-Google.aspx",
+    "intro": "Een Amerikaanse federale rechtbank heeft woensdag een verzoek van het ministerie van justitie om de online-reclametak van Google op te splitsen afgewezen.",
+    "published_at": "2026-09-02 21:06",
+    "scraped_at": "2026-09-02T21:22:36.341879"
+  },
+  {
+    "id": "582b63e94ed834ad3992e7c37bd60ee8",
+    "categorie": "Beursnieuws",
+    "titel": "Nvidia leidt Wall Street omhoog",
+    "link": "https://www.beurs.nl/Nieuws/876621/Nvidia-leidt-Wall-Street-omhoog.aspx",
+    "intro": "De Amerikaanse beurzen stonden woensdag hoger, aangevoerd door het aandeel Nvidia, na een positieve kwartaalupdate van Dell Technologies dinsdagavond.",
+    "published_at": "2026-09-02 20:51",
+    "scraped_at": "2026-09-02T21:22:36.341879"
+  },
+  {
     "id": "dd20e413a50e81b9b6e789a4fadc9e88",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen beperken verlies",
     "link": "https://www.beurs.nl/Nieuws/876616/Europese-beurzen-beperken-verlies.aspx",
     "intro": "De Europese beurzen zijn woensdag overwegend lager gesloten, nadat de olieprijs verder steeg door het escalerende geweld in het Midden-Oosten. Maar na een positieve opening op Wall Street werden de verliezen beperkt.",
     "published_at": "2026-09-02 18:51",
-    "scraped_at": "2026-09-02T18:48:52.799147"
+    "scraped_at": "2026-09-02T21:22:36.341879"
   },
   {
     "id": "3848682b915a00d6501487771dcf870e",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/876610/Ajax-huurt-Simon-Adingra.aspx",
     "intro": "Ajax heeft vleugelaanvaller Simon Adingra op huurbasis overgenomen van Sunderland AFC. Dit maakte de voetbalclub woensdag bekend.",
     "published_at": "2026-09-02 18:13",
-    "scraped_at": "2026-09-02T18:48:52.799147"
+    "scraped_at": "2026-09-02T21:22:36.341879"
   },
   {
     "id": "17fc0e7bf38ab7f3ecf053a863bb585a",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/876608/AEX-eindigt-licht-hoger.aspx",
     "intro": "De Amsterdamse beurs is woensdag na een tamme handelssessie licht hoger gesloten. Beleggers bleven terughoudend vanwege onder andere de gestegen olieprijzen en de opgelopen obligatierentes.",
     "published_at": "2026-09-02 17:55",
-    "scraped_at": "2026-09-02T18:48:52.799147"
-  },
-  {
-    "id": "38f70d991736528458ed6773ad817968",
-    "categorie": "IEX",
-    "titel": "Slotcall: toch groen op het bord, maar vraag niet hoe",
-    "link": "https://www.iex.nl/artikel/876604/Slotcall-toch-groen-op-het-bord-maar-vraag-niet-hoe.aspx",
-    "intro": "Het zag er lange tijd niet naar uit, maar het lukt de AEX toch om het bord groen te kleuren. De AEX eindigt 0,2% hoger op 1.103 punten en een beetje.",
-    "published_at": "2026-09-02 17:35",
-    "scraped_at": "2026-09-02T18:48:52.799147"
-  },
-  {
-    "id": "509e5e2451735b6088e0cfcb014206a5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies blijft positief over Eurocommercial Properties",
-    "link": "https://www.beurs.nl/Nieuws/876598/Beursblik-Jefferies-blijft-positief-over-Eurocommercial-Properties.aspx",
-    "intro": "Eurocommercial Properties heeft een solide eerste jaarhelft achter de rug, met weinig leegstand, veel nieuwe huurcontracten en de afronding van de bouw van een winkelcentrum Avion. Dit stelde Jefferies woensdag in een analistenrapport.",
-    "published_at": "2026-09-02 16:47",
-    "scraped_at": "2026-09-02T18:48:52.799147"
-  },
-  {
-    "id": "32d8137488a5813c62cdca1cd7bc1f22",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden dalen forser dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/876595/Amerikaanse-olievoorraden-dalen-forser-dan-verwacht.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week gedaald net als de benzinevoorraden. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-09-02 16:43",
-    "scraped_at": "2026-09-02T18:48:52.799147"
-  },
-  {
-    "id": "b9acb2bc38ac6cf902bb73f99ebf5396",
-    "categorie": "Beursnieuws",
-    "titel": "Bank of Canada handhaaft rente",
-    "link": "https://www.beurs.nl/Nieuws/876592/Bank-of-Canada-handhaaft-rente.aspx",
-    "intro": "De Bank of Canada heeft woensdag de rente onveranderd gelaten. Dit bleek woensdag uit het rentebesluit dat de centrale bank nam.",
-    "published_at": "2026-09-02 16:30",
-    "scraped_at": "2026-09-02T18:48:52.799147"
-  },
-  {
-    "id": "42f9f35c8ed2da8c67b333dc7dc9661c",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse fabrieksorders weer gestegen",
-    "link": "https://www.beurs.nl/Nieuws/876590/Amerikaanse-fabrieksorders-weer-gestegen.aspx",
-    "intro": "De Amerikaanse fabrieksorders zijn juli weer gestegen na twee maanden van dalingen. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-09-02 16:16",
-    "scraped_at": "2026-09-02T18:48:52.799147"
-  },
-  {
-    "id": "7d47c04121d978912f26072b09219446",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/876582/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 10 september 2026:",
-    "published_at": "2026-09-02 15:40",
-    "scraped_at": "2026-09-02T18:48:52.799147"
-  },
-  {
-    "id": "4189fdcfdb8e014e82e48260ef5f019b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/876581/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 10 september 2026:",
-    "published_at": "2026-09-02 15:39",
-    "scraped_at": "2026-09-02T18:48:52.799147"
+    "scraped_at": "2026-09-02T21:22:36.341879"
   }
 ]
