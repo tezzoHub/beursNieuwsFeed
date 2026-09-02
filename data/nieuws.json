@@ -1,12 +1,48 @@
 [
   {
+    "id": "dd20e413a50e81b9b6e789a4fadc9e88",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen beperken verlies",
+    "link": "https://www.beurs.nl/Nieuws/876616/Europese-beurzen-beperken-verlies.aspx",
+    "intro": "De Europese beurzen zijn woensdag overwegend lager gesloten, nadat de olieprijs verder steeg door het escalerende geweld in het Midden-Oosten. Maar na een positieve opening op Wall Street werden de verliezen beperkt.",
+    "published_at": "2026-09-02 18:51",
+    "scraped_at": "2026-09-02T18:48:52.799147"
+  },
+  {
+    "id": "3848682b915a00d6501487771dcf870e",
+    "categorie": "Beursnieuws",
+    "titel": "Ajax huurt Simon Adingra",
+    "link": "https://www.beurs.nl/Nieuws/876610/Ajax-huurt-Simon-Adingra.aspx",
+    "intro": "Ajax heeft vleugelaanvaller Simon Adingra op huurbasis overgenomen van Sunderland AFC. Dit maakte de voetbalclub woensdag bekend.",
+    "published_at": "2026-09-02 18:13",
+    "scraped_at": "2026-09-02T18:48:52.799147"
+  },
+  {
+    "id": "17fc0e7bf38ab7f3ecf053a863bb585a",
+    "categorie": "Beursnieuws",
+    "titel": "AEX eindigt licht hoger",
+    "link": "https://www.beurs.nl/Nieuws/876608/AEX-eindigt-licht-hoger.aspx",
+    "intro": "De Amsterdamse beurs is woensdag na een tamme handelssessie licht hoger gesloten. Beleggers bleven terughoudend vanwege onder andere de gestegen olieprijzen en de opgelopen obligatierentes.",
+    "published_at": "2026-09-02 17:55",
+    "scraped_at": "2026-09-02T18:48:52.799147"
+  },
+  {
+    "id": "38f70d991736528458ed6773ad817968",
+    "categorie": "IEX",
+    "titel": "Slotcall: toch groen op het bord, maar vraag niet hoe",
+    "link": "https://www.iex.nl/artikel/876604/Slotcall-toch-groen-op-het-bord-maar-vraag-niet-hoe.aspx",
+    "intro": "Het zag er lange tijd niet naar uit, maar het lukt de AEX toch om het bord groen te kleuren. De AEX eindigt 0,2% hoger op 1.103 punten en een beetje.",
+    "published_at": "2026-09-02 17:35",
+    "scraped_at": "2026-09-02T18:48:52.799147"
+  },
+  {
     "id": "509e5e2451735b6088e0cfcb014206a5",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: Jefferies blijft positief over Eurocommercial Properties",
     "link": "https://www.beurs.nl/Nieuws/876598/Beursblik-Jefferies-blijft-positief-over-Eurocommercial-Properties.aspx",
     "intro": "Eurocommercial Properties heeft een solide eerste jaarhelft achter de rug, met weinig leegstand, veel nieuwe huurcontracten en de afronding van de bouw van een winkelcentrum Avion. Dit stelde Jefferies woensdag in een analistenrapport.",
     "published_at": "2026-09-02 16:47",
-    "scraped_at": "2026-09-02T15:09:23.571357"
+    "scraped_at": "2026-09-02T18:48:52.799147"
   },
   {
     "id": "32d8137488a5813c62cdca1cd7bc1f22",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/876595/Amerikaanse-olievoorraden-dalen-forser-dan-verwacht.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week gedaald net als de benzinevoorraden. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-09-02 16:43",
-    "scraped_at": "2026-09-02T15:09:23.571357"
+    "scraped_at": "2026-09-02T18:48:52.799147"
   },
   {
     "id": "b9acb2bc38ac6cf902bb73f99ebf5396",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/876592/Bank-of-Canada-handhaaft-rente.aspx",
     "intro": "De Bank of Canada heeft woensdag de rente onveranderd gelaten. Dit bleek woensdag uit het rentebesluit dat de centrale bank nam.",
     "published_at": "2026-09-02 16:30",
-    "scraped_at": "2026-09-02T15:09:23.571357"
+    "scraped_at": "2026-09-02T18:48:52.799147"
   },
   {
     "id": "42f9f35c8ed2da8c67b333dc7dc9661c",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/876590/Amerikaanse-fabrieksorders-weer-gestegen.aspx",
     "intro": "De Amerikaanse fabrieksorders zijn juli weer gestegen na twee maanden van dalingen. Dit bleek woensdag uit cijfers van de Amerikaanse overheid.",
     "published_at": "2026-09-02 16:16",
-    "scraped_at": "2026-09-02T15:09:23.571357"
+    "scraped_at": "2026-09-02T18:48:52.799147"
   },
   {
     "id": "7d47c04121d978912f26072b09219446",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/876582/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 10 september 2026:",
     "published_at": "2026-09-02 15:40",
-    "scraped_at": "2026-09-02T15:09:23.571357"
+    "scraped_at": "2026-09-02T18:48:52.799147"
   },
   {
     "id": "4189fdcfdb8e014e82e48260ef5f019b",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/876581/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 10 september 2026:",
     "published_at": "2026-09-02 15:39",
-    "scraped_at": "2026-09-02T15:09:23.571357"
-  },
-  {
-    "id": "f86439843de99b069f6e880cc5ef5422",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/876583/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 10 september 2026:",
-    "published_at": "2026-09-02 15:39",
-    "scraped_at": "2026-09-02T15:09:23.571357"
-  },
-  {
-    "id": "3a0c74af22bee767d765da265817f797",
-    "categorie": "Beursnieuws",
-    "titel": "Vlakke opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/876560/Vlakke-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een vlakke opening tegemoet. Futures op de toonaangevende SP 500 index noteerden circa een half uur voor opening 0,1 procent in het groen. Techbeurs Nasdaq staat een 0,1 procent lagere opening te wachten.",
-    "published_at": "2026-09-02 14:47",
-    "scraped_at": "2026-09-02T15:09:23.571357"
-  },
-  {
-    "id": "c80f19b767e334001f4de18a87f38f0f",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil tot 6 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/876559/Obligatie-Nederland-wil-tot-6-miljard-euro-ophalen.aspx",
-    "intro": "Nederland wil dinsdag 29 september tot 6 miljard euro ophalen met de opening een nieuwe langlopende lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-09-02 14:45",
-    "scraped_at": "2026-09-02T15:09:23.571357"
-  },
-  {
-    "id": "600992da92efcb96877a1dc2aa9a32a2",
-    "categorie": "Beursnieuws",
-    "titel": "ADP: tegenvallende banengroei VS",
-    "link": "https://www.beurs.nl/Nieuws/876557/ADP-tegenvallende-banengroei-VS.aspx",
-    "intro": "De werkgelegenheid in de private sector in de Verenigde Staten is in augustus minder hard dan verwacht gestegen. Dit bleek woensdag uit cijfers van loonstrookjesverwerker ADP.",
-    "published_at": "2026-09-02 14:30",
-    "scraped_at": "2026-09-02T15:09:23.571357"
+    "scraped_at": "2026-09-02T18:48:52.799147"
   }
 ]
