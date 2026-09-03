@@ -1,92 +1,83 @@
 [
   {
-    "id": "3ab5f72b92a3701fb5fe93ab6272549f",
+    "id": "5f98b82df87b21add19e46e1b168880e",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/876639/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag zes van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-09-02 23:37",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "AEX neutraal van start na lichte terugval obligatierentes",
+    "link": "https://www.beurs.nl/Nieuws/876674/AEX-neutraal-van-start-na-lichte-terugval-obligatierentes.aspx",
+    "intro": "De Amsterdamse beurs lijkt donderdag nipt hoger van start te gaan. Futures wezen op een bescheiden hogere opening van de AEX, nadat Wall Street woensdagavond de weg omhoog vond en ook de meeste Aziatische beurzen vanochtend terrein wonnen.",
+    "published_at": "2026-09-03 08:04",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   },
   {
-    "id": "b576bdcd65efc3d7e0401e216e720371",
+    "id": "ce0b62d0ac521562f1e6bb4bb5fa293c",
     "categorie": "Beursnieuws",
-    "titel": "Dell en Nvidia helpen Wall Street aan winst",
-    "link": "https://www.beurs.nl/Nieuws/876634/Dell-en-Nvidia-helpen-Wall-Street-aan-winst.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag hoger gesloten, gesteund door een positieve kwartaalupdate van Dell Technologies dinsdagavond.",
-    "published_at": "2026-09-02 22:52",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "Onward Medical plaatst eerste implantaat in EIGER-studie",
+    "link": "https://www.beurs.nl/Nieuws/876670/Onward-Medical-plaatst-eerste-implantaat-in-EIGER-studie.aspx",
+    "intro": "Onward Medical heeft het eerste implantaat geplaatst in de EIGER-studie, een nieuwe klinische studie die het experimentele ARC-IM-systeem test om de mobiliteit te herstellen bij mensen met ruggenmergletsel. Dit meldde het biotechbedrijf donderdagochtend.",
+    "published_at": "2026-09-03 07:54",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   },
   {
-    "id": "38bf471790dbdfba8608b757a49ed39f",
+    "id": "125537befbc0a4c8eed8a7d3cd5bef4d",
     "categorie": "Beursnieuws",
-    "titel": "Snowflake verhoogt omzetverwachting",
-    "link": "https://www.beurs.nl/Nieuws/876633/Snowflake-verhoogt-omzetverwachting.aspx",
-    "intro": "Snowflake heeft zijn prognose voor de productomzet dit jaar naar boven bijgesteld na een kleiner verlies in het tweede kwartaal, met kunstmatige intelligentie als drijvende kracht. Dat maakte het cloudopslagbedrijf woensdag nabeurs bekend.",
-    "published_at": "2026-09-02 22:42",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "Aziatische beurzen hoger na lichte terugval obligatierentes",
+    "link": "https://www.beurs.nl/Nieuws/876665/Aziatische-beurzen-hoger-na-lichte-terugval-obligatierentes.aspx",
+    "intro": "De Aziatische beurzen koersten donderdagochtend overwegend hoger. Een daling van de mondiale obligatierentes in combinatie met stabiliserende olieprijzen ondersteunden het sentiment.",
+    "published_at": "2026-09-03 07:27",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   },
   {
-    "id": "617ab15feffd028965388450ffc20177",
+    "id": "27973ce6c421b71e1baaff7ea92989fa",
     "categorie": "Beursnieuws",
-    "titel": "Omzetverwachting Broadcom verrast niet",
-    "link": "https://www.beurs.nl/Nieuws/876632/Omzetverwachting-Broadcom-verrast-niet.aspx",
-    "intro": "Broadcom heeft in het derde kwartaal de verwachtingen in de markt voor de omzet en winst verslagen, dankzij sterke vraag naar AI-versnellers en netwerkapparatuur, maar de omzetverwachting voor het lopende kwartaal overtreft de analistenconsensus niet. Dat bleek woensdag nabeurs.",
-    "published_at": "2026-09-02 22:35",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "Groei Chinese dienstensector trekt aan",
+    "link": "https://www.beurs.nl/Nieuws/876661/Groei-Chinese-dienstensector-trekt-aan.aspx",
+    "intro": "De Chinese dienstensector is in augustus in een hoger tempo gegroeid. Dit bleek donderdag uit cijfers van SP Global en RatingDog.",
+    "published_at": "2026-09-03 07:15",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   },
   {
-    "id": "4b2c355f8edcbdeef0c3c8e6a30cc1cf",
+    "id": "87ced993a59e88b9c5704b2b5478c67c",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt",
-    "link": "https://www.beurs.nl/Nieuws/876625/Olieprijs-stijgt.aspx",
-    "intro": "De olieprijs is woensdag verder gestegen, na wederzijdse aanvallen tussen de Verenigde Staten en Iran in het Midden Oosten, die doen vrezen voor meer escalatie en verstoring van de oliestroom vanuit de Perzische Golf.",
-    "published_at": "2026-09-02 22:01",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "Japanse dienstensector groeit door",
+    "link": "https://www.beurs.nl/Nieuws/876659/Japanse-dienstensector-groeit-door.aspx",
+    "intro": "De Japanse dienstensector is in augustus in een hoger tempo gegroeid. Dit bleek donderdag uit cijfers van SP Global.",
+    "published_at": "2026-09-03 07:10",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   },
   {
-    "id": "9032c9a44088156a63806d79c387891c",
+    "id": "3320cda4c8aba2ee9bef0c5178bcfa63",
     "categorie": "Beursnieuws",
-    "titel": "Beige Book ziet beperkte prijsstijgingen VS",
-    "link": "https://www.beurs.nl/Nieuws/876624/Beige-Book-ziet-beperkte-prijsstijgingen-VS.aspx",
-    "intro": "De economische activiteit in de Verenigde Staten is gegroeid, terwijl consumenten bij het doen van aankopen gevoeliger werden voor prijsverhogingen, wat de inflatiedruk lijkt te dempen.",
-    "published_at": "2026-09-02 21:53",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "Europese beurzen openen voorzichtig hoger",
+    "link": "https://www.beurs.nl/Nieuws/876658/Europese-beurzen-openen-voorzichtig-hoger.aspx",
+    "intro": "De Europese beurzen gaan donderdag een licht hogere opening tegemoet.",
+    "published_at": "2026-09-03 07:01",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   },
   {
-    "id": "53e0cb8d99cea3522364a6d8172117ed",
+    "id": "c7619b23c90ec6d9bbee08ec16391416",
     "categorie": "Beursnieuws",
-    "titel": "Rechter dwarsboomt opsplitsing Google",
-    "link": "https://www.beurs.nl/Nieuws/876622/Rechter-dwarsboomt-opsplitsing-Google.aspx",
-    "intro": "Een Amerikaanse federale rechtbank heeft woensdag een verzoek van het ministerie van justitie om de online-reclametak van Google op te splitsen afgewezen.",
-    "published_at": "2026-09-02 21:06",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/876654/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 10 september 2026:",
+    "published_at": "2026-09-03 06:52",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   },
   {
-    "id": "582b63e94ed834ad3992e7c37bd60ee8",
+    "id": "924c28fcb6524dfa66ca671ed88ed05a",
     "categorie": "Beursnieuws",
-    "titel": "Nvidia leidt Wall Street omhoog",
-    "link": "https://www.beurs.nl/Nieuws/876621/Nvidia-leidt-Wall-Street-omhoog.aspx",
-    "intro": "De Amerikaanse beurzen stonden woensdag hoger, aangevoerd door het aandeel Nvidia, na een positieve kwartaalupdate van Dell Technologies dinsdagavond.",
-    "published_at": "2026-09-02 20:51",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/876655/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 10 september 2026:",
+    "published_at": "2026-09-03 06:52",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   },
   {
-    "id": "dd20e413a50e81b9b6e789a4fadc9e88",
+    "id": "a6c9c147e2a82deb978dd9bd57ab5b1f",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen beperken verlies",
-    "link": "https://www.beurs.nl/Nieuws/876616/Europese-beurzen-beperken-verlies.aspx",
-    "intro": "De Europese beurzen zijn woensdag overwegend lager gesloten, nadat de olieprijs verder steeg door het escalerende geweld in het Midden-Oosten. Maar na een positieve opening op Wall Street werden de verliezen beperkt.",
-    "published_at": "2026-09-02 18:51",
-    "scraped_at": "2026-09-03T01:30:54.932097"
-  },
-  {
-    "id": "3848682b915a00d6501487771dcf870e",
-    "categorie": "Beursnieuws",
-    "titel": "Ajax huurt Simon Adingra",
-    "link": "https://www.beurs.nl/Nieuws/876610/Ajax-huurt-Simon-Adingra.aspx",
-    "intro": "Ajax heeft vleugelaanvaller Simon Adingra op huurbasis overgenomen van Sunderland AFC. Dit maakte de voetbalclub woensdag bekend.",
-    "published_at": "2026-09-02 18:13",
-    "scraped_at": "2026-09-03T01:30:54.932097"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/876653/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 10 september 2026:",
+    "published_at": "2026-09-03 06:51",
+    "scraped_at": "2026-09-03T06:30:54.645260"
   }
 ]
