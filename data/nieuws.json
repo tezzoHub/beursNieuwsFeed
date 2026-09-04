@@ -1,92 +1,74 @@
 [
   {
-    "id": "eb8719e78a342da82cc9fe02d47ce2dd",
-    "categorie": "Beursnieuws",
-    "titel": "Twijfels rond Lululemon na omzetdaling",
-    "link": "https://www.beurs.nl/Nieuws/876806/Twijfels-rond-Lululemon-na-omzetdaling.aspx",
-    "intro": "Een verwachte omzetdaling wijst erop dat Lululemon Athletica het moeilijk heeft om klanten aan te trekken, terwijl de fabrikant van yogakleding wacht op zijn nieuwe CEO. Dat bleek donderdag uit een kwartaalupdate.",
-    "published_at": "2026-09-03 22:57",
-    "scraped_at": "2026-09-04T01:24:53.291308"
+    "id": "c2c25174920b7b895ddde8d6fb571b04",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent vlak en het venijn zit hem wellicht wel in de staart",
+    "link": "https://www.iex.nl/artikel/876759/AEX-opent-vlak-en-het-venijn-zit-hem-wellicht-wel-in-de-staart.aspx",
+    "intro": "Het gaat natuurlijk om het banenrapport. Wall Street sloot hoger na gunstige uitspraken van Fed-bestuurder Waller, OpenAI rolt GPT-6 uit en de AEX gaat zo vlak van start.",
+    "published_at": "2026-09-04 08:00",
+    "scraped_at": "2026-09-04T06:19:08.162277"
   },
   {
-    "id": "7ebc2f6750c28c9d3849c077a35e83b5",
+    "id": "486b1c58ce9eb494252476b6b30b8487",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/876805/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-09-03 22:39",
-    "scraped_at": "2026-09-04T01:24:53.291308"
+    "titel": "AEX opent afwachtend in aanloop naar Amerikaans banenrapport",
+    "link": "https://www.beurs.nl/Nieuws/876825/AEX-opent-afwachtend-in-aanloop-naar-Amerikaans-banenrapport.aspx",
+    "intro": "De Amsterdamse beurs gaat vrijdag een licht lagere opening tegemoet. Futures op de AEX noteerden kort voor de openingsgong ongeveer 0,1 procent lager.",
+    "published_at": "2026-09-04 07:56",
+    "scraped_at": "2026-09-04T06:19:08.162277"
   },
   {
-    "id": "5b8c9c584d7460c0a25340e5e6fd75a5",
+    "id": "2ecd0ca1270cab6e50136fd056e67dba",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street naar winst op afgenomen rentevrees",
-    "link": "https://www.beurs.nl/Nieuws/876804/Wall-Street-naar-winst-op-afgenomen-rentevrees.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdag hoger gesloten, nadat Fed-bestuurder Christopher Waller zei dat hij een ongewijzigd rentebesluit zou steunen als inflatiecijfers dat toelaten.",
-    "published_at": "2026-09-03 22:27",
-    "scraped_at": "2026-09-04T01:24:53.291308"
+    "titel": "Afgenomen rentevrees zet Aziatische beurzen hoger",
+    "link": "https://www.beurs.nl/Nieuws/876823/Afgenomen-rentevrees-zet-Aziatische-beurzen-hoger.aspx",
+    "intro": "De Aziatische beurzen vonden vrijdag de weg omhoog. Beleggers trokken zich op aan een positief sentiment op Wall Street donderdag, nadat de rentevrees afnam.",
+    "published_at": "2026-09-04 07:25",
+    "scraped_at": "2026-09-04T06:19:08.162277"
   },
   {
-    "id": "fe95953316f065fde48f728bcfea64f6",
+    "id": "eadb243904e892cbd11054fe54875d45",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs sluit verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/876803/Olieprijs-sluit-verdeeld.aspx",
-    "intro": "De olieprijs is donderdag licht hoger gesloten in New York, terwijl Brent-olie een fractie daalde, terwijl de markt weer wende aan het idee dat er voorlopig geen einde komt aan de patstelling rond de Straat van Hormuz.",
-    "published_at": "2026-09-03 21:49",
-    "scraped_at": "2026-09-04T01:24:53.291308"
+    "titel": "Volkswagen schrapt 50.000 banen extra",
+    "link": "https://www.beurs.nl/Nieuws/876821/Volkswagen-schrapt-50000-banen-extra.aspx",
+    "intro": "Volkswagen gaat 50.000 banen extra schrappen. Hiervoor heeft de raad van commissarissen van de autobouwer donderdag goedkeuring verleend.",
+    "published_at": "2026-09-04 07:16",
+    "scraped_at": "2026-09-04T06:19:08.162277"
   },
   {
-    "id": "b69f340df0c6255814acebe149e222ac",
+    "id": "0b714eaf045ab0bf5a470ed8f99d0ace",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street hoger door Waller",
-    "link": "https://www.beurs.nl/Nieuws/876795/Wall-Street-hoger-door-Waller.aspx",
-    "intro": "De Amerikaanse beurzen stonden donderdag hoger en de rentes op staatsleningen daalden, nadat Fed-bestuurder Christopher Waller zei dat hij een ongewijzigd rentebesluit zou steunen als inflatiecijfers dat toelaten.",
-    "published_at": "2026-09-03 20:57",
-    "scraped_at": "2026-09-04T01:24:53.291308"
+    "titel": "Europese beurzen openen hoger",
+    "link": "https://www.beurs.nl/Nieuws/876820/Europese-beurzen-openen-hoger.aspx",
+    "intro": "De Europese beurzen gaan vrijdag een licht hogere opening tegemoet, in afwachting van het Amerikaanse banenrapport vanmiddag.",
+    "published_at": "2026-09-04 06:57",
+    "scraped_at": "2026-09-04T06:19:08.162277"
   },
   {
-    "id": "88f27f7d51bb779950d42f50fedb3663",
+    "id": "e632ec46c37c306030cef6931fbc664c",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten hoger",
-    "link": "https://www.beurs.nl/Nieuws/876782/Europese-beurzen-sluiten-hoger.aspx",
-    "intro": "De Europese beurzen zijn donderdag hoger gesloten, met hulp van autofabrikanten, ondanks de zorgen over escalerend geweld in het Midden-Oosten en verder escalerende energieprijzen. De rentevrees nam af na uitspraken van Fed-bestuurder Christopher Waller.",
-    "published_at": "2026-09-03 18:53",
-    "scraped_at": "2026-09-04T01:24:53.291308"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/876817/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 11 september 2026:",
+    "published_at": "2026-09-04 06:50",
+    "scraped_at": "2026-09-04T06:19:08.162277"
   },
   {
-    "id": "4ec5d873ac4bc2f7293bca84829f5cff",
-    "categorie": "Beursnieuws",
-    "titel": "AEX kan licht herstellen terwijl rentes wat dalen",
-    "link": "https://www.beurs.nl/Nieuws/876778/AEX-kan-licht-herstellen-terwijl-rentes-wat-dalen.aspx",
-    "intro": "De Amsterdamse beurs is donderdag licht hoger geëindigd, waarbij databedrijven goede zaken deden en een verlies voor de halfgeleiders konden compenseren.",
-    "published_at": "2026-09-03 17:54",
-    "scraped_at": "2026-09-04T01:24:53.291308"
-  },
-  {
-    "id": "4d49fcf8f9323954929e0909c4ec1846",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: China weigert boetekleed over handelsoverschot bij G20-top",
-    "link": "https://www.beurs.nl/Nieuws/876777/Beursblik-China-weigert-boetekleed-over-handelsoverschot-bij-G20-top.aspx",
-    "intro": "Het is \"niet geheel verrassend\" dat China zichzelf weigert te beschuldigen van het creëren van een wereldwijd disbalans. Dat stelde Rabobank donderdag naar aanleiding van de openlijke ruzie hierover op de G20-top in North Carolina.",
-    "published_at": "2026-09-03 16:59",
-    "scraped_at": "2026-09-04T01:24:53.291308"
-  },
-  {
-    "id": "b8405bb7128f4b169cede2dcd534c946",
+    "id": "f162733182aa0175339c51048f4ee3a9",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/876775/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/876818/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 11 september 2026:",
-    "published_at": "2026-09-03 16:29",
-    "scraped_at": "2026-09-04T01:24:53.291308"
+    "published_at": "2026-09-04 06:50",
+    "scraped_at": "2026-09-04T06:19:08.162277"
   },
   {
-    "id": "210f6800ade2d19596db1f33427fe3df",
+    "id": "080f8fc6cb9dee6140e43ea456fea126",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/876776/Beursagenda-macro-economisch.aspx",
+    "link": "https://www.beurs.nl/Nieuws/876819/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 11 september 2026:",
-    "published_at": "2026-09-03 16:29",
-    "scraped_at": "2026-09-04T01:24:53.291308"
+    "published_at": "2026-09-04 06:50",
+    "scraped_at": "2026-09-04T06:19:08.162277"
   }
 ]
