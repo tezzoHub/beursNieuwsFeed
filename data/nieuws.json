@@ -1,92 +1,92 @@
 [
   {
+    "id": "1c7a09871d837dd411ae9423def789b8",
+    "categorie": "Column",
+    "titel": "Private vastgoedmarkt krijgt te maken met een enorme herfinancieringsgolf",
+    "link": "https://www.beurs.nl/Artikel/876918/Private-vastgoedmarkt-krijgt-te-maken-met-een-enorme-herfinancieringsgolf.aspx",
+    "intro": "CBRE spreekt van een ‘wall of maturities’: in 2026 moeten vastgoedeigenaren massaal herfinancieren. Waar banken terughoudend zijn, liggen kansen voor private credit-beleggers.",
+    "published_at": "2026-09-04 17:00",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
+    "id": "a9fa4837a01238830a6a2590def258a3",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/876915/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 14 september 2026:",
+    "published_at": "2026-09-04 16:36",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
+    "id": "4fa1455beb0b064c5f24596eb5c8aea7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/876916/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 14 september 2026:",
+    "published_at": "2026-09-04 16:36",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
+    "id": "359947d727d1d83b2844335af0bfb0ad",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/876917/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 14 september 2026:",
+    "published_at": "2026-09-04 16:36",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
+    "id": "7b7ea63371135ff51cb709249a06cfc5",
+    "categorie": "Beursnieuws",
+    "titel": "Trump eist snelle renteverlaging Fed",
+    "link": "https://www.beurs.nl/Nieuws/876910/Trump-eist-snelle-renteverlaging-Fed.aspx",
+    "intro": "President Donald Trump heeft de Federal Reserve opgeroepen de rente te verlagen, na de publicatie van sterker dan verwachte banencijfers over augustus. Dit liet hij vrijdag weten via een bericht op Truth Social.",
+    "published_at": "2026-09-04 16:28",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
+    "id": "a88bdb128578905a6837efd9e3aa59c8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Fed aan zet na sterk banenrapport",
+    "link": "https://www.beurs.nl/Nieuws/876909/Beursblik-Fed-aan-zet-na-sterk-banenrapport.aspx",
+    "intro": "De kans dat de Federal Reserve de rente deze maand verhoogt, is gestegen na een sterk banenrapport over augustus.",
+    "published_at": "2026-09-04 16:26",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
+    "id": "1a99aaec04422e7253ea55e899205598",
+    "categorie": "Beursnieuws",
+    "titel": "Correctie: Amerikaanse banengroei veel sterker dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/876892/Correctie-Amerikaanse-banengroei-veel-sterker-dan-verwacht.aspx",
+    "intro": "De werkgelegenheid in de Verenigde Staten is in augustus met 162.000 banen gestegen, terwijl het werkloosheidspercentage stabiel bleef op 4,1 procent. Dit bleek vrijdag uit het banenrapport van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-09-04 16:07",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
+    "id": "13faeec61728e6202ae61af0eefde5dc",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst af op lagere opening na sterk banenrapport",
+    "link": "https://www.beurs.nl/Nieuws/876898/Wall-Street-koerst-af-op-lagere-opening-na-sterk-banenrapport.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een rode opening tegemoet, nadat de banengroei in de VS veel hoger uitkwam dan verwacht.",
+    "published_at": "2026-09-04 15:03",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
+    "id": "3872776801cbaf9bcead6576a72cc8af",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers gewild op groen Damrak",
+    "link": "https://www.beurs.nl/Nieuws/876890/Chippers-gewild-op-groen-Damrak.aspx",
+    "intro": "De Amsterdamse beurs kleurde vrijdagmiddag groen in aanloop naar het belangrijke Amerikaanse banenrapport, dat vanmiddag om 14.30 uur verschijnt.",
+    "published_at": "2026-09-04 14:17",
+    "scraped_at": "2026-09-04T15:09:11.578477"
+  },
+  {
     "id": "ad29a3dc7966a6009b0a47acdfc3eb7b",
     "categorie": "Beursnieuws",
     "titel": "Futures Wall Street verdeeld",
     "link": "https://www.beurs.nl/Nieuws/876881/Futures-Wall-Street-verdeeld.aspx",
     "intro": "De futures op de Amerikaanse beurzen noteerden vrijdag verdeeld, in aanloop naar het banenrapport dat voor de opening van Wall Street wordt gepubliceerd.",
     "published_at": "2026-09-04 13:15",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "9c7b44e4621fb53aa65e51baae12c663",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen voorzichtig in aanloop naar banenrapport",
-    "link": "https://www.beurs.nl/Nieuws/876873/Europese-beurzen-voorzichtig-in-aanloop-naar-banenrapport.aspx",
-    "intro": "De Europese beurzen bleven vrijdag rond het middaguur dicht bij huis. Beleggers kijken al vooruit naar het Amerikaanse banenrapport van augustus, dat vanmiddag wordt gepubliceerd.",
-    "published_at": "2026-09-04 12:36",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "f7042ee86cd1036360740edafa171266",
-    "categorie": "Beursnieuws",
-    "titel": "AEX wacht met licht optimisme op Amerikaans banenrapport",
-    "link": "https://www.beurs.nl/Nieuws/876861/AEX-wacht-met-licht-optimisme-op-Amerikaans-banenrapport.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdagochtend in het groen, met een stijging van de AEX van 0,3 procent tot 1.107,375 punten.",
-    "published_at": "2026-09-04 11:40",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "eb62ffaa4d1a08f03117cab0974162fe",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine daling detailhandelsverkopen eurozone",
-    "link": "https://www.beurs.nl/Nieuws/876857/Kleine-daling-detailhandelsverkopen-eurozone.aspx",
-    "intro": "De detailhandelsverkopen in de eurozone zijn in juli gedaald. Dit bleek vrijdag uit cijfers van het Europese statistiekbureau Eurostat.",
-    "published_at": "2026-09-04 11:07",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "5747fe6f71fddecad12f3199317adf73",
-    "categorie": "Beursnieuws",
-    "titel": "Barclays verhoogt koersdoelen verzekeraars",
-    "link": "https://www.beurs.nl/Nieuws/876853/Barclays-verhoogt-koersdoelen-verzekeraars.aspx",
-    "intro": "Barclays heeft de koersdoelen voor verzekeraars uit de Benelux verhoogd, maar blijft neutraal over de Europese sector. Dit bleek vrijdag uit een sectorrapport van de Britse bank.",
-    "published_at": "2026-09-04 10:50",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "5f6f778292651940766fcf3c50eada24",
-    "categorie": "Beursnieuws",
-    "titel": "Woninghuur ruim 4 procent omhoog",
-    "link": "https://www.beurs.nl/Nieuws/876848/Woninghuur-ruim-4-procent-omhoog.aspx",
-    "intro": "De huren van woningen lagen in juli gemiddeld 4,4 procent hoger dan in juli 2025. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-09-04 10:23",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "f9278ea234d07a98a7890b22f44dbac9",
-    "categorie": "Must read",
-    "titel": "Must read: obligatiebelegger moet vooral rustig blijven",
-    "link": "https://www.iex.nl/artikel/876770/Must-read-obligatiebelegger-moet-vooral-rustig-blijven.aspx",
-    "intro": "Probeer de markt niet te timen. Plus; Tim Cook waarschuwt voor langdurige prijsschok van chips, Warsh kijkt minder naar het banenrapport en Lululemon maakt er weer een zooitje van.",
-    "published_at": "2026-09-04 10:00",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "410059aeb79f2d2c9894664f4c46f5a2",
-    "categorie": "",
-    "titel": "Deze weerstand bepaalt of Corbion echt kan herstellen",
-    "link": "https://www.iex.nl/artikel/876838/Deze-weerstand-bepaalt-of-Corbion-echt-kan-herstellen.aspx",
-    "intro": "",
-    "published_at": "2026-09-04 09:55",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "558afc18db398915b5454b5bbab3d129",
-    "categorie": "Beursnieuws",
-    "titel": "AEX vlak van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/876839/AEX-vlak-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong vrijwel onveranderd op 1.104,95 punten, terwijl de Midkap 0,1 procent won. Beleggers zijn in afwachting van het Amerikaanse banenrapport vanmiddag.",
-    "published_at": "2026-09-04 09:12",
-    "scraped_at": "2026-09-04T11:31:29.000378"
-  },
-  {
-    "id": "8f8feccf60dc638f1a64a335a99cc17a",
-    "categorie": "Opinie",
-    "titel": "“Met een mooi verhaal alleen bereik je niets\"",
-    "link": "https://www.ieximpact.nl/artikel/875571/Met-een-mooi-verhaal-alleen-bereik-je-niets.aspx",
-    "intro": "Impactinvesteerder Marcel Belt, oprichter van het succesvolle zeepmerk Marcel’s Green Soap, heeft de zeepbusiness verlaten en is inmiddels de drijvende kracht achter de Happy Activist en de Nationale Klimaatprijs. “Ik geloof dat een positieve boodschap beter werkt om mensen in beweging te brengen dan een wijzend vingertje.”",
-    "published_at": "2026-09-04 08:47",
-    "scraped_at": "2026-09-04T11:31:29.000378"
+    "scraped_at": "2026-09-04T15:09:11.578477"
   }
 ]
