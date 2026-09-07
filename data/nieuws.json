@@ -1,12 +1,48 @@
 [
   {
+    "id": "d1bc23257ad63e3194360ff7e9444155",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen blijven dicht bij huis",
+    "link": "https://www.beurs.nl/Nieuws/877069/Europese-beurzen-blijven-dicht-bij-huis.aspx",
+    "intro": "De Europese beurzen zijn maandag dicht bij huis gebleven, terwijl op Wall Street niet werd gehandeld vanwege Labor Day en bedrijfsnieuws schaars was.",
+    "published_at": "2026-09-07 18:36",
+    "scraped_at": "2026-09-07T19:42:22.461051"
+  },
+  {
+    "id": "29b2cbd170bfd4e34ee0f6a448afd820",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Delhaize investeert 120 miljoen euro",
+    "link": "https://www.beurs.nl/Nieuws/877051/Update-Delhaize-investeert-120-miljoen-euro.aspx",
+    "intro": "Delhaize investeert 120 miljoen euro in haar eigen logistieke activiteiten. Dit maakte het onderdeel van Ahold Delhaize maandag bekend.",
+    "published_at": "2026-09-07 18:26",
+    "scraped_at": "2026-09-07T19:42:22.461051"
+  },
+  {
+    "id": "8f821350a4a4ca3f17d0f9539bb4fefa",
+    "categorie": "Beursnieuws",
+    "titel": "Euronext meldt veel lagere volumes",
+    "link": "https://www.beurs.nl/Nieuws/877067/Euronext-meldt-veel-lagere-volumes.aspx",
+    "intro": "De handelsvolumes van contante effecten op Euronext zijn in augustus flink gedaald. Dit maakte de Europese beursuitbater maandagavond bekend.",
+    "published_at": "2026-09-07 18:01",
+    "scraped_at": "2026-09-07T19:42:22.461051"
+  },
+  {
+    "id": "2221461a635c7ab31d1840bd96e5e462",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers trekken AEX in het groen",
+    "link": "https://www.beurs.nl/Nieuws/877065/Chippers-trekken-AEX-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs is maandag met een kleine winst aan de week begonnen.",
+    "published_at": "2026-09-07 17:51",
+    "scraped_at": "2026-09-07T19:42:22.461051"
+  },
+  {
     "id": "aa48211a95419a88d4231abd391cd8a7",
     "categorie": "Beursnieuws",
     "titel": "Volkswagen-fabriek in Osnabrück gaat wapens maken",
     "link": "https://www.beurs.nl/Nieuws/877062/Volkswagen-fabriek-in-Osnabruck-gaat-wapens-maken.aspx",
     "intro": "Een fabriek van Volkswagen in de Duitse stad Osnabrück wordt verkocht aan het Israëlische Aurelius Capital en de deelstaat Nedersaksen, die van plan zijn de fabriek om te bouwen voor de productie van defensiematerieel. Dit meldde Volkswagen maandag, nadat vorige week nog een omvangrijke ontslagronde van 50.000 banen werd aangekondigd.",
     "published_at": "2026-09-07 17:30",
-    "scraped_at": "2026-09-07T15:55:56.061930"
+    "scraped_at": "2026-09-07T19:42:22.461051"
   },
   {
     "id": "737aadf898c39fb425b7e7f4ee375a16",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/877058/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 15 september 2026:",
     "published_at": "2026-09-07 16:32",
-    "scraped_at": "2026-09-07T15:55:56.061930"
+    "scraped_at": "2026-09-07T19:42:22.461051"
   },
   {
     "id": "26cd389c240f6b6934b031eb8a36bc5d",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/877059/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 15 september 2026:",
     "published_at": "2026-09-07 16:32",
-    "scraped_at": "2026-09-07T15:55:56.061930"
+    "scraped_at": "2026-09-07T19:42:22.461051"
   },
   {
     "id": "e414665fd83670bf22214e111322daed",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/877057/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 15 september 2026:",
     "published_at": "2026-09-07 16:31",
-    "scraped_at": "2026-09-07T15:55:56.061930"
+    "scraped_at": "2026-09-07T19:42:22.461051"
   },
   {
     "id": "92904503fca2438bcd55c5ac52157069",
@@ -42,16 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/877055/Frankrijk-ziet-af-van-verplichte-statiegeldregeling.aspx",
     "intro": "Frankrijk ziet af van plannen om een statiegeldregeling voor plastic flessen verplicht te stellen en wil in plaats daarvan dat gemeenten vrijwillige inzamelingen opzetten. Dit meldde persbureau Reuters maandag op basis van een verklaring van het Franse ministerie van Milieu.",
     "published_at": "2026-09-07 16:22",
-    "scraped_at": "2026-09-07T15:55:56.061930"
-  },
-  {
-    "id": "6cf51097fd323282e1a02e25ecd53e09",
-    "categorie": "Beursnieuws",
-    "titel": "Delhaize investeert €120 miljoen in logistieke activiteiten",
-    "link": "https://www.beurs.nl/Nieuws/877051/Delhaize-investeert-120-miljoen-in-logistieke-activiteiten.aspx",
-    "intro": "Delhaize investeert 120 miljoen euro in haar eigen logistieke activiteiten. Dit maakte het onderdeel van Ahold Delhaize maandag bekend.",
-    "published_at": "2026-09-07 15:15",
-    "scraped_at": "2026-09-07T15:55:56.061930"
+    "scraped_at": "2026-09-07T19:42:22.461051"
   },
   {
     "id": "bd69b3c056b79fd141dd9cf306de5861",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/877048/Wall-Street-gesloten-op-Labor-Day.aspx",
     "intro": "Wall Street is maandag gesloten vanwege Labor Day in de Verenigde Staten. Het lange weekend werd voorafgegaan door een lager slot in New York op vrijdag, na een sterk Amerikaans banencijfer.",
     "published_at": "2026-09-07 14:57",
-    "scraped_at": "2026-09-07T15:55:56.061930"
-  },
-  {
-    "id": "03ae61071cfeaf19167d7dadc2a45528",
-    "categorie": "Beursnieuws",
-    "titel": "FD: Oostenrijkse Heineken-dochter beticht van machtsmisbruik",
-    "link": "https://www.beurs.nl/Nieuws/877045/FD-Oostenrijkse-Heineken-dochter-beticht-van-machtsmisbruik.aspx",
-    "intro": "Heineken-dochter Brau Union heeft drankhandelaren in Oostenrijk jarenlang onder druk gezet, om uitsluitend zijn bier te verkopen, op straffe van repercussies. Dat schrijft het FD op basis van informatie van de nationale markttoezichthouder Afca in een rechtszaak voor mededingingswaakhond Kartellgericht in Wenen.",
-    "published_at": "2026-09-07 14:29",
-    "scraped_at": "2026-09-07T15:55:56.061930"
-  },
-  {
-    "id": "87ff670e5bbdea1117789dd15202aa06",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers schitteren in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/877041/Chippers-schitteren-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagmiddag met de handrem erop, in aanloop naar het rentebesluit van de Europese Centrale Bank later in de week.",
-    "published_at": "2026-09-07 13:44",
-    "scraped_at": "2026-09-07T15:55:56.061930"
-  },
-  {
-    "id": "668975b6d8e4b59294a542a43c495556",
-    "categorie": "Beursnieuws",
-    "titel": "Video: kansen ontstaan op de obligatiemarkt",
-    "link": "https://www.beurs.nl/Nieuws/877036/Video-kansen-ontstaan-op-de-obligatiemarkt.aspx",
-    "intro": "Met de oplopende rentes ontstaan er kansen op de obligatiemarkt. Dit zei investment manager Simon Wiersma van ING Global Investment Centre voor de camera van ABM Financial News op Beursplein 5.",
-    "published_at": "2026-09-07 13:04",
-    "scraped_at": "2026-09-07T15:55:56.061930"
+    "scraped_at": "2026-09-07T19:42:22.461051"
   }
 ]
