@@ -1,38 +1,92 @@
 [
   {
-    "id": "e09e888811342d9dc66a710467c9231f",
+    "id": "095ff7235b8873085c01a15b63365bbd",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/876980/Europese-beurzen-openen-lager.aspx",
-    "intro": "De aandelenmarkten in Europa gaan maandag een lagere opening tegemoet, op wat vermoedelijk een rustige handelsdag wordt, zonder impulsen van Wall Street. In de Verenigde Staten is het vandaag Labor Day.",
-    "published_at": "2026-09-07 06:54",
-    "scraped_at": "2026-09-07T04:59:57.913591"
+    "titel": "Jefferies: reorganisatieplan Volkswagen is overtuigend",
+    "link": "https://www.beurs.nl/Nieuws/877019/Jefferies-reorganisatieplan-Volkswagen-is-overtuigend.aspx",
+    "intro": "Volkswagen CEO Oliver Blume kreeg vorige week belangrijke steun voor de meest ingrijpende en overtuigende hervorming van de Duitse autofabrikant in jaren. Dit stelde Jefferies maandag in een analistenrapport.",
+    "published_at": "2026-09-07 11:32",
+    "scraped_at": "2026-09-07T10:08:55.881643"
   },
   {
-    "id": "cc70d8dcb855a33e1cea02c4148c468a",
+    "id": "b4e42e70f1d0c7e80f15c96ef0eb2aea",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/876977/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 14 september 2026:",
-    "published_at": "2026-09-07 06:47",
-    "scraped_at": "2026-09-07T04:59:57.913591"
+    "titel": "Eurozone groeit sterker dan gedacht",
+    "link": "https://www.beurs.nl/Nieuws/877018/Eurozone-groeit-sterker-dan-gedacht.aspx",
+    "intro": "De economie in de eurozone is in het tweede kwartaal sterker gegroeid dan eerder werd gerapporteerd. Dit bleek maandag uit nieuwe cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-09-07 11:20",
+    "scraped_at": "2026-09-07T10:08:55.881643"
   },
   {
-    "id": "40929f74dbf288db6f13129396e124d3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/876978/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 14 september 2026:",
-    "published_at": "2026-09-07 06:47",
-    "scraped_at": "2026-09-07T04:59:57.913591"
+    "id": "a3e02ca4f74c13e5b16d397cd6581210",
+    "categorie": "Beleggen",
+    "titel": "Eenvoudig en kansrijk beleggen in clean energy is niet moeilijk",
+    "link": "https://www.ieximpact.nl/artikel/876383/Eenvoudig-en-kansrijk-beleggen-in-clean-energy-is-niet-moeilijk.aspx",
+    "intro": "Wie wil beleggen in de energietransitie heeft de keuze uit tientallen actieve en passieve fondsen. Om de keuze eenvoudiger te maken, selecteerde de redactie van IEX Impact drie fondsen die in de afgelopen jaren sterke prestaties hebben neergezet en die bij de meeste brokers in Nederland te koop zijn.",
+    "published_at": "2026-09-07 11:00",
+    "scraped_at": "2026-09-07T10:08:55.881643"
   },
   {
-    "id": "1230c766d0e36edbbfce795702122b42",
+    "id": "6c3b8dd98e8be93ac351d24282f42c72",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/876979/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 14 september 2026:",
-    "published_at": "2026-09-07 06:47",
-    "scraped_at": "2026-09-07T04:59:57.913591"
+    "titel": "Chippers doen goede zaken in de AEX",
+    "link": "https://www.beurs.nl/Nieuws/877016/Chippers-doen-goede-zaken-in-de-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagochtend rond elf uur licht lager, met een daling van de AEX van 0,1 procent tot 1.112,49 punten.",
+    "published_at": "2026-09-07 10:54",
+    "scraped_at": "2026-09-07T10:08:55.881643"
+  },
+  {
+    "id": "9647b8eb82ba42816ed7e8bd1d022e9f",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers aan kop in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/877000/Chippers-aan-kop-in-vlakke-AEX.aspx",
+    "intro": "De Amsterdamse beurs is maandag vlak van start gegaan op 1.113,50 punten. ASML en Besi winnen 2,5%.",
+    "published_at": "2026-09-07 09:17",
+    "scraped_at": "2026-09-07T10:08:55.881643"
+  },
+  {
+    "id": "c1c87cb396088822da9ab5677c620985",
+    "categorie": "Beursnieuws",
+    "titel": "ASM draagt Rutger Wijburg voor als commissaris",
+    "link": "https://www.beurs.nl/Nieuws/876995/ASM-draagt-Rutger-Wijburg-voor-als-commissaris.aspx",
+    "intro": "ASMI gaat Rutger Wijburg voordragen voor benoeming tot lid van haar raad van commissarissen. Dit maakte het halfgeleiderbedrijf maandagochtend bekend.",
+    "published_at": "2026-09-07 08:28",
+    "scraped_at": "2026-09-07T10:08:55.881643"
+  },
+  {
+    "id": "344f3af4c795254319e0a731e6a14398",
+    "categorie": "Voorbeurs",
+    "titel": "AEX begint licht lager aan Wall Street-loze dag, olieprijzen stijgen",
+    "link": "https://www.beurs.nl/Artikel/876972/AEX-begint-licht-lager-aan-Wall-Street-loze-dag-olieprijzen-stijgen.aspx",
+    "intro": "Openingsindicatie: -0,1%. Deal VS en Iran verder weg dan ooit. Chipaandelen Japan en Zuid-Korea in de lift. En verder: Avantium, Adobe, Theon en beursagenda.",
+    "published_at": "2026-09-07 08:20",
+    "scraped_at": "2026-09-07T10:08:55.881643"
+  },
+  {
+    "id": "6fad53972a74ec1e0a0c23076edd4919",
+    "categorie": "Beursnieuws",
+    "titel": "Productie Duitse industrie gekrompen in juli",
+    "link": "https://www.beurs.nl/Nieuws/876991/Productie-Duitse-industrie-gekrompen-in-juli.aspx",
+    "intro": "De productie van de Duitse industrie was in juli lager dan in de voorgaande maand, vooral door een fors lagere productie in de auto-industrie. Dit bleek maandag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-09-07 08:13",
+    "scraped_at": "2026-09-07T10:08:55.881643"
+  },
+  {
+    "id": "e09fa6d8c206201e6ef54bda90729d1b",
+    "categorie": "Beursnieuws",
+    "titel": "AEX lijkt voorzichtig van start te gaan",
+    "link": "https://www.beurs.nl/Nieuws/876989/AEX-lijkt-voorzichtig-van-start-te-gaan.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag waarschijnlijk een iets lagere opening tegemoet, ondanks de winsten voor Aziatische techaandelen.",
+    "published_at": "2026-09-07 08:03",
+    "scraped_at": "2026-09-07T10:08:55.881643"
+  },
+  {
+    "id": "8fa4fcec64d9850f0bce94405d4ef7a7",
+    "categorie": "Beursnieuws",
+    "titel": "Avantium start purificatie-onderdeel van zijn FDCA-fabriek",
+    "link": "https://www.beurs.nl/Nieuws/876986/Avantium-start-purificatie-onderdeel-van-zijn-FDCA-fabriek.aspx",
+    "intro": "Avantium heeft het purificatie-onderdeel van zijn FDCA fabriek in Delfzijl in gebruik genomen. Dit maakte de fabrikant van hernieuwbare polymeren maandagochtend bekend.",
+    "published_at": "2026-09-07 07:25",
+    "scraped_at": "2026-09-07T10:08:55.881643"
   }
 ]
