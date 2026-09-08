@@ -1,47 +1,92 @@
 [
   {
-    "id": "c2e6394ba1937b0018683d9f302bf307",
+    "id": "19001324d46e8b17834b39b984d0da38",
     "categorie": "Beursnieuws",
-    "titel": "Nederlandse inflatie stijgt naar 3,3 procent",
-    "link": "https://www.beurs.nl/Nieuws/877080/Nederlandse-inflatie-stijgt-naar-33-procent.aspx",
-    "intro": "De Nederlandse inflatie is in augustus nog iets harder gestegen, net als in omringende landen het geval was. Dit bleek dinsdag uit definitieve cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-09-08 06:56",
-    "scraped_at": "2026-09-08T05:20:41.443425"
+    "titel": "Aandeel Novartis onder druk",
+    "link": "https://www.beurs.nl/Nieuws/877120/Aandeel-Novartis-onder-druk.aspx",
+    "intro": "Het aandeel Novartis daalde dinsdag met bijna 10 procent, nadat het maandag ook al meer dan 3 procent inleverde.",
+    "published_at": "2026-09-08 11:07",
+    "scraped_at": "2026-09-08T09:52:54.043378"
   },
   {
-    "id": "5aaec457f9a572701cf559a40ea672d6",
+    "id": "8ac9b2756d4198c9dde4c57c53d10701",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen licht hoger",
-    "link": "https://www.beurs.nl/Nieuws/877078/Europese-beurzen-openen-licht-hoger.aspx",
-    "intro": "De aandelenmarkten in Europa gaan dinsdag een hogere opening tegemoet, na een rustige sessie op maandag, toen op Wall Street niet werd gehandeld vanwege Labor Day en bedrijfsnieuws schaars was.",
-    "published_at": "2026-09-08 06:49",
-    "scraped_at": "2026-09-08T05:20:41.443425"
+    "titel": "Beursupdate: Besi en ASMI omlaag in lichtgroene AEX",
+    "link": "https://www.beurs.nl/Nieuws/877114/Beursupdate-Besi-en-ASMI-omlaag-in-lichtgroene-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdag richting elf uur licht in het groen. De AEX steeg met 0,2 procent naar 1.117,37 punten.",
+    "published_at": "2026-09-08 10:51",
+    "scraped_at": "2026-09-08T09:52:54.043378"
   },
   {
-    "id": "52972dc47f1465295d15a1d44160cbd3",
+    "id": "cab33bac385f91d4586045e60dd607bc",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/877075/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 15 september 2026:",
-    "published_at": "2026-09-08 06:44",
-    "scraped_at": "2026-09-08T05:20:41.443425"
+    "titel": "UBS: ASML zet goede stappen met High NA",
+    "link": "https://www.beurs.nl/Nieuws/877112/UBS-ASML-zet-goede-stappen-met-High-NA.aspx",
+    "intro": "ASML heeft enkele positieve aankondigingen gedaan voor de High NA EUV technologie. Dit zei analist Francois-Xavier Bouvignies van UBS dinsdag in een rapport.",
+    "published_at": "2026-09-08 10:16",
+    "scraped_at": "2026-09-08T09:52:54.043378"
   },
   {
-    "id": "c67029eb65969ae4fc1130d8735c8ab0",
+    "id": "ca1c33108ea043caa51a724f32878c98",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/877076/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 15 september 2026:",
-    "published_at": "2026-09-08 06:44",
-    "scraped_at": "2026-09-08T05:20:41.443425"
+    "titel": "KBC: WDP sluit goede deal met Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/877109/KBC-WDP-sluit-goede-deal-met-Delhaize.aspx",
+    "intro": "WDP heeft een goede zet gedaan met een nieuwe samenwerking met Delhaize. Dit bleek dinsdagochtend uit een rapport van analist Lynn Hautekeete van KBC Securities.",
+    "published_at": "2026-09-08 09:54",
+    "scraped_at": "2026-09-08T09:52:54.043378"
   },
   {
-    "id": "f906fe69cee919fc3d7161be8127e4aa",
+    "id": "86a0d7f52c921ab4b34dd24f9a78fc13",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/877077/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 15 september 2026:",
-    "published_at": "2026-09-08 06:44",
-    "scraped_at": "2026-09-08T05:20:41.443425"
+    "titel": "Degroof Petercam haalt Randstad van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/877107/Degroof-Petercam-haalt-Randstad-van-de-kooplijst.aspx",
+    "intro": "Degroof Petercam heeft het advies voor Randstad verlaagd van Kopen naar Houden, maar handhaafde het koersdoel voor de uitzender op 38,00 euro. Dit bleek uit een rapport van analist Frank Claassen.",
+    "published_at": "2026-09-08 09:31",
+    "scraped_at": "2026-09-08T09:52:54.043378"
+  },
+  {
+    "id": "cb23e3007e0fad6831e1b8f88696b585",
+    "categorie": "Beursnieuws",
+    "titel": "Kleine winst voor AEX",
+    "link": "https://www.beurs.nl/Nieuws/877103/Kleine-winst-voor-AEX.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag met een heel kleine winst geopend. De AEX steeg met 0,1 procent naar 1.116,23 punten.",
+    "published_at": "2026-09-08 09:10",
+    "scraped_at": "2026-09-08T09:52:54.043378"
+  },
+  {
+    "id": "50154b5e29ec8af6964f731bd192c105",
+    "categorie": "Beursnieuws",
+    "titel": "ASML breidt samenwerkingen met Samsung uit",
+    "link": "https://www.beurs.nl/Nieuws/877100/ASML-breidt-samenwerkingen-met-Samsung-uit.aspx",
+    "intro": "ASML heeft de samenwerking met Samsung Electronics versterkt. Dit maakte de Nederlandse halfgeleidergigant dinsdag bekend, nadat eerder al een nieuwe samenwerking met TSMC werd aangekondigd.",
+    "published_at": "2026-09-08 08:54",
+    "scraped_at": "2026-09-08T09:52:54.043378"
+  },
+  {
+    "id": "62e59568e4a45a72c9ef45589e49d9ee",
+    "categorie": "Beursnieuws",
+    "titel": "AI-bedrijf Mistral haalt €3 miljard op",
+    "link": "https://www.beurs.nl/Nieuws/877096/AI-bedrijf-Mistral-haalt-3-miljard-op.aspx",
+    "intro": "Mistral heeft 3 miljard euro opgehaald in een Series D-financieringsronde. Dit maakte het Franse AI-bedrijf dinsdag bekend.",
+    "published_at": "2026-09-08 08:35",
+    "scraped_at": "2026-09-08T09:52:54.043378"
+  },
+  {
+    "id": "b7da81344efa46bc07b67f4a5a3a0747",
+    "categorie": "Beursnieuws",
+    "titel": "ASML en TSMC halen banden aan",
+    "link": "https://www.beurs.nl/Nieuws/877095/ASML-en-TSMC-halen-banden-aan.aspx",
+    "intro": "ASML en Taiwan Semiconductor Manufacturing Company gaan nauwer samenwerken. Dit maakte de Nederlandse halfgeleidergigant dinsdagochtend bekend.",
+    "published_at": "2026-09-08 08:25",
+    "scraped_at": "2026-09-08T09:52:54.043378"
+  },
+  {
+    "id": "86554c6a01602a7279b63768225ddd51",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse export licht gedaald in juli",
+    "link": "https://www.beurs.nl/Nieuws/877093/Duitse-export-licht-gedaald-in-juli.aspx",
+    "intro": "De Duitse export is in juli licht teruggelopen. Dit bleek dinsdag uit cijfers van Destatis.",
+    "published_at": "2026-09-08 08:16",
+    "scraped_at": "2026-09-08T09:52:54.043378"
   }
 ]
