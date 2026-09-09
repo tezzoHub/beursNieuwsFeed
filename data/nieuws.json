@@ -1,12 +1,84 @@
 [
   {
-    "id": "373395a7c67d47fc0accafc8d62d1275",
+    "id": "dd06006e61f28fbbe668eb73d662d1c2",
     "categorie": "Beursnieuws",
-    "titel": "ASML en Xanadu bundelen krachten",
-    "link": "https://www.beurs.nl/Nieuws/877279/ASML-en-Xanadu-bundelen-krachten.aspx",
+    "titel": "Alleen Shell hoger in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/877312/Alleen-Shell-hoger-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs is woensdag flink lager gesloten, waarbij het beleggerssentiment werd gedrukt door de oplopende olieprijzen.",
+    "published_at": "2026-09-09 17:52",
+    "scraped_at": "2026-09-09T16:28:51.100140"
+  },
+  {
+    "id": "a8207c8b9afb8471bb428d2f53ba1366",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Bank of America verhoogt koersdoel Shell",
+    "link": "https://www.beurs.nl/Nieuws/877310/Beursblik-Bank-of-America-verhoogt-koersdoel-Shell.aspx",
+    "intro": "Bank of America heeft woensdag het koersdoel voor Shell verhoogd van 34,00 naar 35,50 Britse pond. Dit bleek uit een sectorrapport van de Amerikaanse bank.",
+    "published_at": "2026-09-09 16:40",
+    "scraped_at": "2026-09-09T16:28:51.100140"
+  },
+  {
+    "id": "7de60b66e1b4035d4175debea93e49ad",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/877307/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 17 september 2026:",
+    "published_at": "2026-09-09 16:26",
+    "scraped_at": "2026-09-09T16:28:51.100140"
+  },
+  {
+    "id": "1a72ee6da14cbf97d4411bcfefac836c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/877306/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 17 september 2026:",
+    "published_at": "2026-09-09 16:24",
+    "scraped_at": "2026-09-09T16:28:51.100140"
+  },
+  {
+    "id": "73e324095f7eaca8eb30071d0892271d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/877305/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 17 september 2026:",
+    "published_at": "2026-09-09 16:23",
+    "scraped_at": "2026-09-09T16:28:51.100140"
+  },
+  {
+    "id": "fae8ece9eb4fc9027a21907ea3fa9d2b",
+    "categorie": "Beursnieuws",
+    "titel": "ING op de favorietenlijst van JPMorgan",
+    "link": "https://www.beurs.nl/Nieuws/877298/ING-op-de-favorietenlijst-van-JPMorgan.aspx",
+    "intro": "ING Groep heeft een plekje gekregen op de lijst met favoriete bankaandelen van JPMorgan. Dit bleek uit een sectorrapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-09-09 15:51",
+    "scraped_at": "2026-09-09T16:28:51.100140"
+  },
+  {
+    "id": "b64256badb5b8bcc9eb24d7823a4f729",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street staat lagere opening te wachten",
+    "link": "https://www.beurs.nl/Nieuws/877291/Wall-Street-staat-lagere-opening-te-wachten.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag lager openen, nadat nieuwe aanvallen tussen de VS en Iran de olieprijzen voor het eerst sinds juli weer boven de 100 dollar per vat dreven en de rentes op staatsobligaties iets opliepen.",
+    "published_at": "2026-09-09 14:59",
+    "scraped_at": "2026-09-09T16:28:51.100140"
+  },
+  {
+    "id": "b6f4cbe95b2729df422efcc73e4f78ba",
+    "categorie": "Beursnieuws",
+    "titel": "AEX heeft last van hogere energieprijzen",
+    "link": "https://www.beurs.nl/Nieuws/877287/AEX-heeft-last-van-hogere-energieprijzen.aspx",
+    "intro": "De Amsterdamse beurs noteerde woensdagmiddag in het rood, terwijl beleggers de oplopende energieprijzen nauwlettend in de gaten hielden.",
+    "published_at": "2026-09-09 14:08",
+    "scraped_at": "2026-09-09T16:28:51.100140"
+  },
+  {
+    "id": "792d8312c06039bb60630f91181d1b94",
+    "categorie": "Beursnieuws",
+    "titel": "ASML en Xanadu uit Canada bundelen krachten",
+    "link": "https://www.beurs.nl/Nieuws/877279/ASML-en-Xanadu-uit-Canada-bundelen-krachten.aspx",
     "intro": "ASML gaat samenwerken met het Canadese Xanadu Quantum Technologies om geavanceerde lithografieprocessen te ontwikkelen voor fotonische quantumhardware. Dit maakten beide bedrijven woensdag bekend.",
     "published_at": "2026-09-09 13:18",
-    "scraped_at": "2026-09-09T11:57:52.805009"
+    "scraped_at": "2026-09-09T16:28:51.100140"
   },
   {
     "id": "6556b594ba4635ca31217131456fd85a",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/877274/Futures-wijzen-op-lagere-opening-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet, terwijl de rentes op staatsobligaties iets opliepen en de prijs voor een vat Brent-olie de grens van 100 dollar passeerde.",
     "published_at": "2026-09-09 12:54",
-    "scraped_at": "2026-09-09T11:57:52.805009"
-  },
-  {
-    "id": "3884eb8950f8aedf09f9d8c497ac300b",
-    "categorie": "Beursnieuws",
-    "titel": "KPN koopt hybride obligaties terug",
-    "link": "https://www.beurs.nl/Nieuws/877272/KPN-koopt-hybride-obligaties-terug.aspx",
-    "intro": "KPN heeft woensdag de definitieve resultaten en prijsstelling van zijn obligatietender bekendgemaakt. Het telecombedrijf koopt voor 407 miljoen euro aan hybride obligaties terug tegen een prijs van 102,608 procent van de nominale waarde.",
-    "published_at": "2026-09-09 12:23",
-    "scraped_at": "2026-09-09T11:57:52.805009"
-  },
-  {
-    "id": "4d48948dfbb3b0858129e4b35b085491",
-    "categorie": "Beursnieuws",
-    "titel": "Rode koersenborden in Europa",
-    "link": "https://www.beurs.nl/Nieuws/877271/Rode-koersenborden-in-Europa.aspx",
-    "intro": "De Europese beurzen noteerden woensdag rond het middaguur lager, waarbij de hoge energieprijzen en oplopende rentes op het sentiment drukten.",
-    "published_at": "2026-09-09 12:17",
-    "scraped_at": "2026-09-09T11:57:52.805009"
-  },
-  {
-    "id": "36e5e63039450c9dc8b5abbd0812b6e7",
-    "categorie": "Beursnieuws",
-    "titel": "Google investeert ruim $15 miljard in Finse AI-infrastructuur",
-    "link": "https://www.beurs.nl/Nieuws/877267/Google-investeert-ruim-15-miljard-in-Finse-AI-infrastructuur.aspx",
-    "intro": "Google gaat de komende twee jaar meer dan 15 miljard dollar gaat uitgeven aan de bouw van infrastructuur voor AI in Finland. Dat heeft het Amerikaanse bedrijf bekendgemaakt.",
-    "published_at": "2026-09-09 11:46",
-    "scraped_at": "2026-09-09T11:57:52.805009"
-  },
-  {
-    "id": "3a1cb1083ce2c6e6e2c4c36591db9947",
-    "categorie": "Beursnieuws",
-    "titel": "Energieprijzen drukken stemming op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/877264/Energieprijzen-drukken-stemming-op-Damrak.aspx",
-    "intro": "De Amsterdamse beurs noteerde woensdag rond elf uur in het rood, terwijl beleggers de oplopende energieprijzen nauwlettend in de gaten hielden. De AEX daalde met 0,7 procent naar 1.108,73 punten.",
-    "published_at": "2026-09-09 11:22",
-    "scraped_at": "2026-09-09T11:57:52.805009"
-  },
-  {
-    "id": "b152c09c64b9a314f813e3b9a7460d40",
-    "categorie": "Beursnieuws",
-    "titel": "ING haalt NN van de kooplijst, maar koersdoel fors omhoog",
-    "link": "https://www.beurs.nl/Nieuws/877258/ING-haalt-NN-van-de-kooplijst-maar-koersdoel-fors-omhoog.aspx",
-    "intro": "ING heeft het advies voor NN Group verlaagd van Kopen naar Houden, maar verhoogde het koersdoel van 62,00 naar 74,00 euro. Dit bleek uit een rapport van Jason Kalamboussis.",
-    "published_at": "2026-09-09 10:27",
-    "scraped_at": "2026-09-09T11:57:52.805009"
-  },
-  {
-    "id": "05355203c11bafa6554d81f99cd33231",
-    "categorie": "Must read",
-    "titel": "Must read: morgen gaat de ECB de rente verhogen",
-    "link": "https://www.iex.nl/artikel/877178/Must-read-morgen-gaat-de-ECB-de-rente-verhogen.aspx",
-    "intro": "Plus: werknemers van ABN AMRO gaan voor het eerst staken, het vertrouwen van huishoudens in de financiële sector groeit. En komt er een opvouwbare iPhone?",
-    "published_at": "2026-09-09 10:20",
-    "scraped_at": "2026-09-09T11:57:52.805009"
-  },
-  {
-    "id": "83758df4af23353d141020b43b10498f",
-    "categorie": "",
-    "titel": "Akzo Nobel: eerste signalen van een trenddraai",
-    "link": "https://www.iex.nl/artikel/877250/Akzo-Nobel-eerste-signalen-van-een-trenddraai.aspx",
-    "intro": "",
-    "published_at": "2026-09-09 09:55",
-    "scraped_at": "2026-09-09T11:57:52.805009"
-  },
-  {
-    "id": "2c6a371ef1e99d4eca356d0fb1ba6e0d",
-    "categorie": "Beursnieuws",
-    "titel": "Kepler Cheuvreux: halfjaarcijfers Onward bemoedigend",
-    "link": "https://www.beurs.nl/Nieuws/877256/Kepler-Cheuvreux-halfjaarcijfers-Onward-bemoedigend.aspx",
-    "intro": "De halfjaarcijfers van Onward Medical leveren bemoedigend bewijs dat het ARC-EX-systeem verder komt dan alleen de eerste commerciële validatie. Dit stelden analisten van Kepler Cheuvreux.",
-    "published_at": "2026-09-09 09:33",
-    "scraped_at": "2026-09-09T11:57:52.805009"
+    "scraped_at": "2026-09-09T16:28:51.100140"
   }
 ]
