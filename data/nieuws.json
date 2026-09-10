@@ -1,12 +1,39 @@
 [
   {
+    "id": "309f2ee4e7868a2e308d06cdfbcface8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/877488/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag zeven van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-09-10 23:03",
+    "scraped_at": "2026-09-10T22:40:30.544630"
+  },
+  {
+    "id": "bac36d197eeceb3cda460f5d4a809743",
+    "categorie": "Beursnieuws",
+    "titel": "Oracle boekte sterke groei in eerste kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/877487/Oracle-boekte-sterke-groei-in-eerste-kwartaal.aspx",
+    "intro": "Oracle heeft een erg solide eerste kwartaal achter de rug. Dit bleek donderdag nabeurs uit de gepubliceerde kwartaalcijfers. Het aandeel steeg nabeurs met bijna zeven procent.",
+    "published_at": "2026-09-10 22:37",
+    "scraped_at": "2026-09-10T22:40:30.544630"
+  },
+  {
+    "id": "0b108ccb9ab06ea7a15fcb564ffdf263",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street in mineur door escalatie Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/877486/Wall-Street-in-mineur-door-escalatie-Midden-Oosten.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag weer in het rood gesloten. Beleggers hadden zorgen om de escalatie van het conflict in het Midden-Oosten en de daarmee gepaard gaande stijging van de olieprijzen. Het uitzicht op een langere oorlog wakkerde ook weer inflatievrees aan.",
+    "published_at": "2026-09-10 22:12",
+    "scraped_at": "2026-09-10T22:40:30.544630"
+  },
+  {
     "id": "28c508f4a69f823fb516c82d39e553d3",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs fors gestegen na intensivering conflict",
     "link": "https://www.beurs.nl/Nieuws/877485/Olieprijs-fors-gestegen-na-intensivering-conflict.aspx",
     "intro": "De olieprijs is donderdag fors gestegen, waarbij West Texas Intermediate ruwe olie voor het eerst sinds mei de 100 dollar per vat bereikte. Debet daaraan zijn de toenemende militaire aanvallen tussen de VS en Iran en de activiteiten van de Houthi-rebellen, die door Iran worden gesteund.",
     "published_at": "2026-09-10 21:17",
-    "scraped_at": "2026-09-10T20:05:10.976915"
+    "scraped_at": "2026-09-10T22:40:30.544630"
   },
   {
     "id": "31244da900f11737ec97e67f5ccfad55",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/877484/Wall-Street-kleurt-rood-uit-vrees-voor-langere-oorlog.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag, met nog een paar uur te gaan, wederom in het rood. Het conflict in het Midden-Oosten lijkt te escaleren en de olieprijzen zijn sterk gestegen. Dat baart beleggers zorgen.",
     "published_at": "2026-09-10 20:06",
-    "scraped_at": "2026-09-10T20:05:10.976915"
+    "scraped_at": "2026-09-10T22:40:30.544630"
   },
   {
     "id": "186bb876e8775856e52389070649fff0",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/877483/Europese-beurzen-sluiten-in-het-rood-na-rentebesluit.aspx",
     "intro": "De Europese beurzen zijn donderdag wederom in de min gesloten, nadat de Europese Centrale Bank de rente verhoogde en oplopende energieprijzen op het sentiment drukten.",
     "published_at": "2026-09-10 19:02",
-    "scraped_at": "2026-09-10T20:05:10.976915"
+    "scraped_at": "2026-09-10T22:40:30.544630"
   },
   {
     "id": "6828099e0bb4add23ba845e15c7ba687",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/877476/Amerikaanse-olievoorraden-dalen-licht.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week licht gedaald, terwijl de benzinevoorraden stegen. Dit bleek donderdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-09-10 18:24",
-    "scraped_at": "2026-09-10T20:05:10.976915"
+    "scraped_at": "2026-09-10T22:40:30.544630"
   },
   {
     "id": "46e908cd542c2c82433db875debf0bf6",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/877466/Weer-rood-slot-op-Damrak.aspx",
     "intro": "De Amsterdamse beurs is donderdag opnieuw met verlies gesloten. De AEX daalde met 0,8 procent naar 1.093,27 punten, nadat woensdag ook al een verlies van ruim een procent werd geleden.",
     "published_at": "2026-09-10 17:51",
-    "scraped_at": "2026-09-10T20:05:10.976915"
+    "scraped_at": "2026-09-10T22:40:30.544630"
   },
   {
     "id": "4ee2431419b2c2b4fcabd25df927b7a5",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/877453/Groothandelsvoorraden-VS-stijgen.aspx",
     "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in juli gestegen. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van handel.",
     "published_at": "2026-09-10 16:19",
-    "scraped_at": "2026-09-10T20:05:10.976915"
+    "scraped_at": "2026-09-10T22:40:30.544630"
   },
   {
     "id": "6f471800bf4904d46bb7b2f85f73b98e",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/877452/Hypotheekrente-drukt-bestaande-woningverkopen-VS.aspx",
     "intro": "De verkoop van bestaande woningen in de Verenigde Staten is in augustus zoals verwacht gedaald. Dit bleek donderdag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-09-10 16:15",
-    "scraped_at": "2026-09-10T20:05:10.976915"
-  },
-  {
-    "id": "1d9d841ba0fc957f7a63f4fabbf28e84",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/877448/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 18 september 2026:",
-    "published_at": "2026-09-10 16:02",
-    "scraped_at": "2026-09-10T20:05:10.976915"
-  },
-  {
-    "id": "b892fcef5a14aa62299859a66f132803",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/877450/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 18 september 2026:",
-    "published_at": "2026-09-10 16:02",
-    "scraped_at": "2026-09-10T20:05:10.976915"
-  },
-  {
-    "id": "b52f0c3395f3f0c8e15d44fdd1cf78d3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/877451/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 18 september 2026:",
-    "published_at": "2026-09-10 16:02",
-    "scraped_at": "2026-09-10T20:05:10.976915"
+    "scraped_at": "2026-09-10T22:40:30.544630"
   }
 ]
