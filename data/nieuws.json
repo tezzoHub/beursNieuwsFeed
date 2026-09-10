@@ -1,92 +1,92 @@
 [
   {
-    "id": "47d10b6b1265bce0bc7a15ebcceb1789",
+    "id": "fb0fa4f3dc81ad02ac889734c6f4655e",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: ASML en Adyen leveren in op lichtrode beurs",
-    "link": "https://www.beurs.nl/Nieuws/877396/Beursupdate-ASML-en-Adyen-leveren-in-op-lichtrode-beurs.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagochtend nipt onder de 1.100 punten, met verliezen voor indexzwaargewichten als ASML en Adyen, terwijl beleggers in afwachting zijn van het rentebesluit van de Europese Centrale Bank dat vanmiddag bekend wordt gemaakt. Rond de klok van elf uur daalde de AEX met 0,3 procent tot 1.098,32 punten.",
-    "published_at": "2026-09-10 11:08",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "Beursblik: ECB moet voorzichtig te werk gaan",
+    "link": "https://www.beurs.nl/Nieuws/877444/Beursblik-ECB-moet-voorzichtig-te-werk-gaan.aspx",
+    "intro": "Een nieuwe renteverhoging door de Europese Centrale Bank in december lijkt eerder wel dan niet te gebeuren, maar de centrale bank moet nog steeds voorzichtig te werk gaan. Dit stelde econoom Mark Wall van Deutsche Bank donderdag in reactie op het rentebesluit van de ECB.",
+    "published_at": "2026-09-10 15:17",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "a6d84a09e6448f3bb5c94be0fcf3d381",
+    "id": "45730b8ea4240b4da8c86c37a5000870",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: markten rekenen op verdere verkrapping ECB na vandaag",
-    "link": "https://www.beurs.nl/Nieuws/877391/Beursblik-markten-rekenen-op-verdere-verkrapping-ECB-na-vandaag.aspx",
-    "intro": "De Europese Centrale Bank zal vanmiddag naar verwachting haar beleidsrente met 25 basispunten verhogen, maar de markten kijken al verder en rekenen op een verdere monetaire verkrapping, nu de prijs voor een vat Brentolie boven de 100 dollar noteert. Dit stelde ING donderdag in een rapport.",
-    "published_at": "2026-09-10 10:40",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "Wall Street duikt in het rood",
+    "link": "https://www.beurs.nl/Nieuws/877440/Wall-Street-duikt-in-het-rood.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, terwijl de olieprijs sterk opliep, maar de producentenprijzen in augustus geen verrassingen opleverden voor de inflatievooruitzichten.",
+    "published_at": "2026-09-10 15:09",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "a66c07494f2ebc693a34ab15361e578b",
-    "categorie": "Must read",
-    "titel": "Must read: de beste ETF over de afgelopen 5 jaar",
-    "link": "https://www.iex.nl/artikel/877374/Must-read-de-beste-ETF-over-de-afgelopen-5-jaar.aspx",
-    "intro": "Is natuurlijk een halfgeleider-ETF. CoreWeave heeft moeite om Nvidia bij te benen, heeft u al een private equity-liefje, goud rond de $4400, de superdure Apple-telefoon en 10 interessante kwantumaandelen.",
-    "published_at": "2026-09-10 09:35",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "id": "823499e8ae5e6c9813679c3ee45de82e",
+    "categorie": "Beursnieuws",
+    "titel": "OPEC stelt verwachte olievraag neerwaarts bij",
+    "link": "https://www.beurs.nl/Nieuws/877433/OPEC-stelt-verwachte-olievraag-neerwaarts-bij.aspx",
+    "intro": "Oliekartel OPEC heeft de verwachting voor de groei van de wereldwijde olievraag voor dit jaar iets verder verlaagd, maar ziet juist meer groei volgend jaar. Dat blijkt donderdag uit het maandrapport van de organisatie van olie-exporterende landen.",
+    "published_at": "2026-09-10 14:52",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "8a683d296a8a08c33040c2ff2edd92ba",
+    "id": "081191789bad53447443a040a8fd8132",
     "categorie": "Beursnieuws",
-    "titel": "Omzet TSMC groeit harder in augustus",
-    "link": "https://www.beurs.nl/Nieuws/877380/Omzet-TSMC-groeit-harder-in-augustus.aspx",
-    "intro": "Taiwan Semiconductor Manufacturing Company heeft in augustus een omzet geboekt van 514,8 miljard Taiwanese dollar. Dit maakte de Taiwanese chipfabrikant donderdag bekend.",
-    "published_at": "2026-09-10 09:12",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "Minder nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/877430/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week licht gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-09-10 14:42",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "bd41b8284f3470900e6a56dc440dbe57",
+    "id": "d9f416219d125991a1cfe2027561ddc4",
     "categorie": "Beursnieuws",
-    "titel": "Inflatiestijging Duitsland bevestigd",
-    "link": "https://www.beurs.nl/Nieuws/877378/Inflatiestijging-Duitsland-bevestigd.aspx",
-    "intro": "De inflatie in Duitsland is in augustus inderdaad toegenomen. Dit bleek donderdagochtend uit definitieve cijfers van statistiekbureau Destatis.",
-    "published_at": "2026-09-10 09:10",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "Amerikaanse producentenprijzen stijgen conform verwachting",
+    "link": "https://www.beurs.nl/Nieuws/877429/Amerikaanse-producentenprijzen-stijgen-conform-verwachting.aspx",
+    "intro": "De producentenprijzen in de Verenigde Staten zijn in augustus zoals verwacht met 0,4 procent gestegen, na een stijging van 0,1 procent in de maand ervoor. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-09-10 14:40",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "8401eae06b8e99312858b30a4542c1c5",
+    "id": "76e5cd7306015424d5c82328cc8cc89d",
     "categorie": "Beursnieuws",
-    "titel": "AEX vlak van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/877379/AEX-vlak-van-start-gegaan.aspx",
-    "intro": "De AEX index koerste donderdag kort na de beursgong fractioneel lager op 1.100,64 punten, terwijl de Midkap nipt hoger noteerde.",
-    "published_at": "2026-09-10 09:10",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "Update: ECB verhoogt rente",
+    "link": "https://www.beurs.nl/Nieuws/877151/Update-ECB-verhoogt-rente.aspx",
+    "intro": "De Europese Centrale Bank heeft de rente donderdag conform de verwachting met 25 basispunten verhoogd, nadat in juni de eerste verhoging in drie jaar werd doorgevoerd en in juli het monetaire beleid werd gehandhaafd. Dit bleek vanmiddag uit het rentebesluit van de ECB.",
+    "published_at": "2026-09-10 14:34",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "3fa78ec3f87dc20b8870c50c42657f5b",
+    "id": "f6f1cd287ef7c59813250290912629fe",
     "categorie": "Beursnieuws",
-    "titel": "Nederland wil verkenningsvliegtuig kopen van Saab",
-    "link": "https://www.beurs.nl/Nieuws/877373/Nederland-wil-verkenningsvliegtuig-kopen-van-Saab.aspx",
-    "intro": "Nederland heeft een intentieverklaring ondertekend met Zweden voor de aanschaf van een verkenningsvliegtuig van Saab, de GlobalEye Early Warning and Control. Dit meldden het Ministerie van Defensie en Saab donderdagochtend.",
-    "published_at": "2026-09-10 08:37",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "ECB verhoogt rente",
+    "link": "https://www.beurs.nl/Nieuws/877421/ECB-verhoogt-rente.aspx",
+    "intro": "De Europese Centrale Bank heeft de rente donderdag conform de verwachting met 25 basispunten verhoogd, nadat in juni de eerste verhoging in drie jaar werd doorgevoerd en in juli het monetaire beleid werd gehandhaafd. Dit bleek vanmiddag uit het rentebesluit van de ECB.",
+    "published_at": "2026-09-10 14:19",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "c288a9c618278d788582ed79616e19fd",
+    "id": "2284744167f421e04471ad4b72c0c148",
     "categorie": "Beursnieuws",
-    "titel": "Kapitaaleis Triodos dit jaar iets lager",
-    "link": "https://www.beurs.nl/Nieuws/877372/Kapitaaleis-Triodos-dit-jaar-iets-lager.aspx",
-    "intro": "De kapitaalvereiste voor Triodos Bank in 2026 is iets lager dan een jaar eerder. Dit bleek donderdag uit het zogeheten Supervisory Review and Evaluation Process (SREP) die is vastgesteld door De Nederlandsche Bank.",
-    "published_at": "2026-09-10 08:29",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "Beleggers wachten op rentebesluit ECB",
+    "link": "https://www.beurs.nl/Nieuws/877418/Beleggers-wachten-op-rentebesluit-ECB.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagmiddag nipt boven de 1.100 punten, met verliezen voor indexzwaargewichten als ASML en Adyen, terwijl beleggers wachtten op het rentebesluit van de Europese Centrale Bank dat vanmiddag bekend wordt gemaakt. Rond de klok van twee uur daalde de AEX met 0,2 procent tot 1.100,21 punten.",
+    "published_at": "2026-09-10 13:53",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "f2d19d22345c89830cde1365a039620f",
+    "id": "3dc37ac028b2ca9119b85724ab6054c0",
     "categorie": "Beursnieuws",
-    "titel": "Basic-Fit breidt uit in Duitsland en Oostenrijk met 26 clubs",
-    "link": "https://www.beurs.nl/Nieuws/877371/Basic-Fit-breidt-uit-in-Duitsland-en-Oostenrijk-met-26-clubs.aspx",
-    "intro": "Basic-Fit heeft overeenkomsten gesloten voor de overname van 26 fitnessclubs in Duitsland en Oostenrijk. Dit maakte de fitnessketen donderdag voorbeurs bekend.",
-    "published_at": "2026-09-10 08:17",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "Macy's verhoogt jaarprognose na sterk kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/877415/Macys-verhoogt-jaarprognose-na-sterk-kwartaal.aspx",
+    "intro": "Macy's heeft in het tweede kwartaal van 2026 opnieuw meer omzet en winst geboekt en verhoogt daarom de prognose voor heel het jaar. Dit bleek donderdag uit de kwartaalcijfers van het Amerikaanse warenhuisconcern.",
+    "published_at": "2026-09-10 13:30",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   },
   {
-    "id": "274f2e3ce0f73da0c0d8ee78ffba0321",
+    "id": "d11908fa3497074befa2754e2fc001fe",
     "categorie": "Beursnieuws",
-    "titel": "Berenberg: verschuiving bedrijfsmix Theon ondersteunt marges",
-    "link": "https://www.beurs.nl/Nieuws/877370/Berenberg-verschuiving-bedrijfsmix-Theon-ondersteunt-marges.aspx",
-    "intro": "Een verschuiving in de bedrijfsmix van Theon International kan de marges duurzaam ondersteunen. Dit concludeerde Berenberg donderdag in een rapport, waarin het koopadvies werd gehandhaafd.",
-    "published_at": "2026-09-10 08:08",
-    "scraped_at": "2026-09-10T09:30:03.213661"
+    "titel": "Turkije handhaaft rente opnieuw",
+    "link": "https://www.beurs.nl/Nieuws/877414/Turkije-handhaaft-rente-opnieuw.aspx",
+    "intro": "De centrale bank in Turkije heeft de belangrijkste rente donderdag gehandhaafd op 37,0 procent, nu de onderliggende inflatietrend afvlakt. Dit bleek vanmiddag uit een persbericht.",
+    "published_at": "2026-09-10 13:20",
+    "scraped_at": "2026-09-10T13:52:30.823774"
   }
 ]
