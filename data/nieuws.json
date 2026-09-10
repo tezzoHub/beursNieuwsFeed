@@ -1,12 +1,84 @@
 [
   {
+    "id": "186bb876e8775856e52389070649fff0",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten in het rood na rentebesluit.",
+    "link": "https://www.beurs.nl/Nieuws/877483/Europese-beurzen-sluiten-in-het-rood-na-rentebesluit.aspx",
+    "intro": "De Europese beurzen zijn donderdag wederom in de min gesloten, nadat de Europese Centrale Bank de rente verhoogde en oplopende energieprijzen op het sentiment drukten.",
+    "published_at": "2026-09-10 19:02",
+    "scraped_at": "2026-09-10T17:30:49.281021"
+  },
+  {
+    "id": "6828099e0bb4add23ba845e15c7ba687",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden dalen licht",
+    "link": "https://www.beurs.nl/Nieuws/877476/Amerikaanse-olievoorraden-dalen-licht.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week licht gedaald, terwijl de benzinevoorraden stegen. Dit bleek donderdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-09-10 18:24",
+    "scraped_at": "2026-09-10T17:30:49.281021"
+  },
+  {
+    "id": "46e908cd542c2c82433db875debf0bf6",
+    "categorie": "Beursnieuws",
+    "titel": "Weer rood slot op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/877466/Weer-rood-slot-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs is donderdag opnieuw met verlies gesloten. De AEX daalde met 0,8 procent naar 1.093,27 punten, nadat woensdag ook al een verlies van ruim een procent werd geleden.",
+    "published_at": "2026-09-10 17:51",
+    "scraped_at": "2026-09-10T17:30:49.281021"
+  },
+  {
+    "id": "4ee2431419b2c2b4fcabd25df927b7a5",
+    "categorie": "Beursnieuws",
+    "titel": "Groothandelsvoorraden VS stijgen",
+    "link": "https://www.beurs.nl/Nieuws/877453/Groothandelsvoorraden-VS-stijgen.aspx",
+    "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in juli gestegen. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van handel.",
+    "published_at": "2026-09-10 16:19",
+    "scraped_at": "2026-09-10T17:30:49.281021"
+  },
+  {
+    "id": "6f471800bf4904d46bb7b2f85f73b98e",
+    "categorie": "Beursnieuws",
+    "titel": "Hypotheekrente drukt bestaande woningverkopen VS",
+    "link": "https://www.beurs.nl/Nieuws/877452/Hypotheekrente-drukt-bestaande-woningverkopen-VS.aspx",
+    "intro": "De verkoop van bestaande woningen in de Verenigde Staten is in augustus zoals verwacht gedaald. Dit bleek donderdag uit cijfers van makelaarsorganisatie NAR.",
+    "published_at": "2026-09-10 16:15",
+    "scraped_at": "2026-09-10T17:30:49.281021"
+  },
+  {
+    "id": "1d9d841ba0fc957f7a63f4fabbf28e84",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/877448/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 18 september 2026:",
+    "published_at": "2026-09-10 16:02",
+    "scraped_at": "2026-09-10T17:30:49.281021"
+  },
+  {
+    "id": "b892fcef5a14aa62299859a66f132803",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/877450/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 18 september 2026:",
+    "published_at": "2026-09-10 16:02",
+    "scraped_at": "2026-09-10T17:30:49.281021"
+  },
+  {
+    "id": "b52f0c3395f3f0c8e15d44fdd1cf78d3",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/877451/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 18 september 2026:",
+    "published_at": "2026-09-10 16:02",
+    "scraped_at": "2026-09-10T17:30:49.281021"
+  },
+  {
     "id": "fb0fa4f3dc81ad02ac889734c6f4655e",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: ECB moet voorzichtig te werk gaan",
     "link": "https://www.beurs.nl/Nieuws/877444/Beursblik-ECB-moet-voorzichtig-te-werk-gaan.aspx",
     "intro": "Een nieuwe renteverhoging door de Europese Centrale Bank in december lijkt eerder wel dan niet te gebeuren, maar de centrale bank moet nog steeds voorzichtig te werk gaan. Dit stelde econoom Mark Wall van Deutsche Bank donderdag in reactie op het rentebesluit van de ECB.",
     "published_at": "2026-09-10 15:17",
-    "scraped_at": "2026-09-10T13:52:30.823774"
+    "scraped_at": "2026-09-10T17:30:49.281021"
   },
   {
     "id": "45730b8ea4240b4da8c86c37a5000870",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/877440/Wall-Street-duikt-in-het-rood.aspx",
     "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, terwijl de olieprijs sterk opliep, maar de producentenprijzen in augustus geen verrassingen opleverden voor de inflatievooruitzichten.",
     "published_at": "2026-09-10 15:09",
-    "scraped_at": "2026-09-10T13:52:30.823774"
-  },
-  {
-    "id": "823499e8ae5e6c9813679c3ee45de82e",
-    "categorie": "Beursnieuws",
-    "titel": "OPEC stelt verwachte olievraag neerwaarts bij",
-    "link": "https://www.beurs.nl/Nieuws/877433/OPEC-stelt-verwachte-olievraag-neerwaarts-bij.aspx",
-    "intro": "Oliekartel OPEC heeft de verwachting voor de groei van de wereldwijde olievraag voor dit jaar iets verder verlaagd, maar ziet juist meer groei volgend jaar. Dat blijkt donderdag uit het maandrapport van de organisatie van olie-exporterende landen.",
-    "published_at": "2026-09-10 14:52",
-    "scraped_at": "2026-09-10T13:52:30.823774"
-  },
-  {
-    "id": "081191789bad53447443a040a8fd8132",
-    "categorie": "Beursnieuws",
-    "titel": "Minder nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/877430/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week licht gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-09-10 14:42",
-    "scraped_at": "2026-09-10T13:52:30.823774"
-  },
-  {
-    "id": "d9f416219d125991a1cfe2027561ddc4",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse producentenprijzen stijgen conform verwachting",
-    "link": "https://www.beurs.nl/Nieuws/877429/Amerikaanse-producentenprijzen-stijgen-conform-verwachting.aspx",
-    "intro": "De producentenprijzen in de Verenigde Staten zijn in augustus zoals verwacht met 0,4 procent gestegen, na een stijging van 0,1 procent in de maand ervoor. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-09-10 14:40",
-    "scraped_at": "2026-09-10T13:52:30.823774"
-  },
-  {
-    "id": "76e5cd7306015424d5c82328cc8cc89d",
-    "categorie": "Beursnieuws",
-    "titel": "Update: ECB verhoogt rente",
-    "link": "https://www.beurs.nl/Nieuws/877151/Update-ECB-verhoogt-rente.aspx",
-    "intro": "De Europese Centrale Bank heeft de rente donderdag conform de verwachting met 25 basispunten verhoogd, nadat in juni de eerste verhoging in drie jaar werd doorgevoerd en in juli het monetaire beleid werd gehandhaafd. Dit bleek vanmiddag uit het rentebesluit van de ECB.",
-    "published_at": "2026-09-10 14:34",
-    "scraped_at": "2026-09-10T13:52:30.823774"
-  },
-  {
-    "id": "f6f1cd287ef7c59813250290912629fe",
-    "categorie": "Beursnieuws",
-    "titel": "ECB verhoogt rente",
-    "link": "https://www.beurs.nl/Nieuws/877421/ECB-verhoogt-rente.aspx",
-    "intro": "De Europese Centrale Bank heeft de rente donderdag conform de verwachting met 25 basispunten verhoogd, nadat in juni de eerste verhoging in drie jaar werd doorgevoerd en in juli het monetaire beleid werd gehandhaafd. Dit bleek vanmiddag uit het rentebesluit van de ECB.",
-    "published_at": "2026-09-10 14:19",
-    "scraped_at": "2026-09-10T13:52:30.823774"
-  },
-  {
-    "id": "2284744167f421e04471ad4b72c0c148",
-    "categorie": "Beursnieuws",
-    "titel": "Beleggers wachten op rentebesluit ECB",
-    "link": "https://www.beurs.nl/Nieuws/877418/Beleggers-wachten-op-rentebesluit-ECB.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagmiddag nipt boven de 1.100 punten, met verliezen voor indexzwaargewichten als ASML en Adyen, terwijl beleggers wachtten op het rentebesluit van de Europese Centrale Bank dat vanmiddag bekend wordt gemaakt. Rond de klok van twee uur daalde de AEX met 0,2 procent tot 1.100,21 punten.",
-    "published_at": "2026-09-10 13:53",
-    "scraped_at": "2026-09-10T13:52:30.823774"
-  },
-  {
-    "id": "3dc37ac028b2ca9119b85724ab6054c0",
-    "categorie": "Beursnieuws",
-    "titel": "Macy's verhoogt jaarprognose na sterk kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/877415/Macys-verhoogt-jaarprognose-na-sterk-kwartaal.aspx",
-    "intro": "Macy's heeft in het tweede kwartaal van 2026 opnieuw meer omzet en winst geboekt en verhoogt daarom de prognose voor heel het jaar. Dit bleek donderdag uit de kwartaalcijfers van het Amerikaanse warenhuisconcern.",
-    "published_at": "2026-09-10 13:30",
-    "scraped_at": "2026-09-10T13:52:30.823774"
-  },
-  {
-    "id": "d11908fa3497074befa2754e2fc001fe",
-    "categorie": "Beursnieuws",
-    "titel": "Turkije handhaaft rente opnieuw",
-    "link": "https://www.beurs.nl/Nieuws/877414/Turkije-handhaaft-rente-opnieuw.aspx",
-    "intro": "De centrale bank in Turkije heeft de belangrijkste rente donderdag gehandhaafd op 37,0 procent, nu de onderliggende inflatietrend afvlakt. Dit bleek vanmiddag uit een persbericht.",
-    "published_at": "2026-09-10 13:20",
-    "scraped_at": "2026-09-10T13:52:30.823774"
+    "scraped_at": "2026-09-10T17:30:49.281021"
   }
 ]
