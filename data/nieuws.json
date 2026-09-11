@@ -1,12 +1,75 @@
 [
   {
+    "id": "dead84587dcf397ee4e081288efe71b7",
+    "categorie": "Beursnieuws",
+    "titel": "Pharming krijgt goedkeuring FDA voor nieuwe indicatie Joenja",
+    "link": "https://www.beurs.nl/Nieuws/877635/Pharming-krijgt-goedkeuring-FDA-voor-nieuwe-indicatie-Joenja.aspx",
+    "intro": "De Amerikaanse geneesmiddelenautoriteit FDA heeft Joenja (leniolisib) van Pharming in de VS goedgekeurd als eerste behandeling voor kinderen van 4 tot 11 jaar die lijden aan APDS, een zeldzame genetische aandoening van het immuunsysteem. Dit maakte de FDA vrijdag bekend op zijn website.",
+    "published_at": "2026-09-11 18:59",
+    "scraped_at": "2026-09-11T17:47:29.155859"
+  },
+  {
+    "id": "4008abdc6d8d473aefdd9ceb848ef5d4",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen herstellen na negatieve week",
+    "link": "https://www.beurs.nl/Nieuws/877632/Europese-beurzen-herstellen-na-negatieve-week.aspx",
+    "intro": "De Europese beurzen sloten vrijdag hoger, nadat de olieprijzen daalden en de lange rentes wat tot rust kwamen na de forse stijgingen van eerder deze week. Op weekbasis stonden de beurzen desondanks flink onder druk.",
+    "published_at": "2026-09-11 18:43",
+    "scraped_at": "2026-09-11T17:47:29.155859"
+  },
+  {
+    "id": "c74687064954b465835db2df9ebbba9b",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit hoger met steun van techaandelen",
+    "link": "https://www.beurs.nl/Nieuws/877626/AEX-sluit-hoger-met-steun-van-techaandelen.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, terwijl de olieprijzen en de lange rentes daalden. Amerikaanse inflatiecijfers vergroten evenwel de verwachting dat de Federal Reserve de rente volgende week zal verhogen.",
+    "published_at": "2026-09-11 17:48",
+    "scraped_at": "2026-09-11T17:47:29.155859"
+  },
+  {
+    "id": "7530ddd0514783f9af0a1897f55e1c4d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/877623/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 21 september 2026:",
+    "published_at": "2026-09-11 16:32",
+    "scraped_at": "2026-09-11T17:47:29.155859"
+  },
+  {
+    "id": "a7cf882d0b1c7f2d7ed8ab9ceedd8d6f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/877621/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 21 september 2026:",
+    "published_at": "2026-09-11 16:31",
+    "scraped_at": "2026-09-11T17:47:29.155859"
+  },
+  {
+    "id": "2d1d2ba5adc34a3b7cde0dbeb0ddf42c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/877622/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 21 september 2026:",
+    "published_at": "2026-09-11 16:31",
+    "scraped_at": "2026-09-11T17:47:29.155859"
+  },
+  {
+    "id": "5a6f0b39d964181a68e9f35f35a9138e",
+    "categorie": "Beursnieuws",
+    "titel": "Consumentenvertrouwen VS verder gedaald",
+    "link": "https://www.beurs.nl/Nieuws/877617/Consumentenvertrouwen-VS-verder-gedaald.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in september verder gedaald, terwijl de inflatieverwachting flink opliep. Dit bleek vrijdag uit de voorlopige cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-09-11 16:09",
+    "scraped_at": "2026-09-11T17:47:29.155859"
+  },
+  {
     "id": "aaf1b177462336133e6145799caef889",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: hardnekkige inflatie rechtvaardigt renteverhoging Fed",
     "link": "https://www.beurs.nl/Nieuws/877616/Beursblik-hardnekkige-inflatie-rechtvaardigt-renteverhoging-Fed.aspx",
     "intro": "De hardnekkige inflatie dwingt de Federal Reserve vermoedelijk om volgende week een renteverhoging door te voeren, maar ING verwacht dat dit een eenmalige verkrapping is. Dit stelde econoom James Knightley van de bank vrijdag in reactie op de Amerikaanse inflatiecijfers.",
     "published_at": "2026-09-11 15:51",
-    "scraped_at": "2026-09-11T14:06:11.979019"
+    "scraped_at": "2026-09-11T17:47:29.155859"
   },
   {
     "id": "e9141dcf7782cb17c10a746def99e129",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/877607/Wall-Street-wacht-groene-opening-terwijl-olieprijzen-dalen.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag naar verwachting met winst van start, nu de olieprijzen dalen. Inflatiecijfers uit de VS lieten in augustus op maandbasis een opwaartse trend zien, omdat de energieprijzen weer stegen. De marktverwachting voor een renteverhoging door de Fed volgende week, schoot na de cijfers wel omhoog.",
     "published_at": "2026-09-11 14:56",
-    "scraped_at": "2026-09-11T14:06:11.979019"
+    "scraped_at": "2026-09-11T17:47:29.155859"
   },
   {
     "id": "a3d3eb349faf8f6fabdc0e2e7a306778",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/877603/Kerninflatie-VS-licht-gedaald.aspx",
     "intro": "De kerninflatie in de Verenigde Staten is in augustus licht gedaald. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-09-11 14:36",
-    "scraped_at": "2026-09-11T14:06:11.979019"
-  },
-  {
-    "id": "689ab3a67c75606ccecc76efbc53202c",
-    "categorie": "Beursnieuws",
-    "titel": "CVC wil met Fund X 26 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/877598/CVC-wil-met-Fund-X-26-miljard-euro-ophalen.aspx",
-    "intro": "CVC heeft de initiële doelomvang van zijn Fund X vastgesteld op 26 miljard euro, \"in overeenstemming met eerdere indicaties\". Dit meldde de aan Euronext Amsterdam genoteerde private-equitygroep vrijdagmiddag.",
-    "published_at": "2026-09-11 14:07",
-    "scraped_at": "2026-09-11T14:06:11.979019"
-  },
-  {
-    "id": "666c2ca8dbf578c31a0aacb2e05c1783",
-    "categorie": "Beursnieuws",
-    "titel": "Kroger rekent op minder groei",
-    "link": "https://www.beurs.nl/Nieuws/877593/Kroger-rekent-op-minder-groei.aspx",
-    "intro": "Kroger heeft in het tweede kwartaal iets meer omzet geboekt, maar moest de groeiverwachtingen voor het hele jaar naar beneden bijstellen. Dit bleek vrijdag uit de kwartaalupdate van het Amerikaanse supermarktbedrijf.",
-    "published_at": "2026-09-11 13:51",
-    "scraped_at": "2026-09-11T14:06:11.979019"
-  },
-  {
-    "id": "f3834f1e7d1f7bc19df8c156a4197e03",
-    "categorie": "Beursnieuws",
-    "titel": "AEX schommelt rond 1.100 punten",
-    "link": "https://www.beurs.nl/Nieuws/877592/AEX-schommelt-rond-1100-punten.aspx",
-    "intro": "De Amsterdamse beurs noteerden vrijdagmiddag hoger, terwijl de olieprijzen terugzakten van hun piek.",
-    "published_at": "2026-09-11 13:50",
-    "scraped_at": "2026-09-11T14:06:11.979019"
-  },
-  {
-    "id": "7f7b5e13b2ea51f330af99e970aab3cf",
-    "categorie": "Beursnieuws",
-    "titel": "Herstel op Wall Street in de maak",
-    "link": "https://www.beurs.nl/Nieuws/877585/Herstel-op-Wall-Street-in-de-maak.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag naar verwachting met winst van start, nu de olieprijzen dalen.",
-    "published_at": "2026-09-11 12:54",
-    "scraped_at": "2026-09-11T14:06:11.979019"
-  },
-  {
-    "id": "04d1c62ae1d32921a423e7c6e12a00fa",
-    "categorie": "Beursnieuws",
-    "titel": "Adobe kan beleggers niet overtuigen",
-    "link": "https://www.beurs.nl/Nieuws/877584/Adobe-kan-beleggers-niet-overtuigen.aspx",
-    "intro": "Adobe heeft in het derde kwartaal van zijn lopende boekjaar beter dan verwachte resultaten geboekt en de outlook werd donderdagavond verhoogd. Toch lijken beleggers niet overtuigd, want het aandeel is vrijdag op weg naar een openingsverlies van bijna 4 procent.",
-    "published_at": "2026-09-11 12:52",
-    "scraped_at": "2026-09-11T14:06:11.979019"
-  },
-  {
-    "id": "9b949172b5f33b288638ba6a2a56faa3",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen schieten omhoog",
-    "link": "https://www.beurs.nl/Nieuws/877582/Europese-beurzen-schieten-omhoog.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond lunchtijd hoger, terwijl de olieprijzen terugzakten van een recente piek.",
-    "published_at": "2026-09-11 12:32",
-    "scraped_at": "2026-09-11T14:06:11.979019"
-  },
-  {
-    "id": "a14ed2dc772fc7f6bfd0af01bd6fe11f",
-    "categorie": "Beursnieuws",
-    "titel": "Lichtgroene koersen op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/877563/Lichtgroene-koersen-op-Damrak.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdag rond elf uur licht in het groen. In afwachting van nieuwe Amerikaanse inflatiecijfers steeg de AEX met 0,2 procent naar 1.096 punten.",
-    "published_at": "2026-09-11 10:51",
-    "scraped_at": "2026-09-11T14:06:11.979019"
+    "scraped_at": "2026-09-11T17:47:29.155859"
   }
 ]
