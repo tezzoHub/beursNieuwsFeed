@@ -1,92 +1,20 @@
 [
   {
-    "id": "2547188cf621ebaf0fcc4fb4f2a0219a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/877643/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten.",
-    "published_at": "2026-09-11 22:27",
-    "scraped_at": "2026-09-12T09:27:52.542065"
+    "id": "bacba0cb46dcfb351d904e023c48a8d4",
+    "categorie": "",
+    "titel": "Vooruitblik: Kunnen we eindelijk de inflatieangst achter ons laten?",
+    "link": "https://www.iex.nl/artikel/877610/Vooruitblik-Kunnen-we-eindelijk-de-inflatieangst-achter-ons-laten.aspx",
+    "intro": "",
+    "published_at": "2026-09-12 13:10",
+    "scraped_at": "2026-09-12T13:10:22.299090"
   },
   {
-    "id": "ffd0e2f5b3a4b0d12835fd2b6f898899",
+    "id": "38ef67d8c71f08ba9a8cc270eaf735b3",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit negatieve week toch hoger af",
-    "link": "https://www.beurs.nl/Nieuws/877642/Wall-Street-sluit-negatieve-week-toch-hoger-af.aspx",
-    "intro": "De Amerikaanse beurzen sloten vrijdag hoger, na vier dagen van opeenvolgende dalingen. Op weekbasis bleef de balans echter negatief, nadat de rentes meerjarige hoogtepunten hadden bereikt en de olieprijs met ruim 9 procent was gestegen.",
-    "published_at": "2026-09-11 22:21",
-    "scraped_at": "2026-09-12T09:27:52.542065"
-  },
-  {
-    "id": "67a3cbf9150e381525dded1ab483bf83",
-    "categorie": "Beursnieuws",
-    "titel": "Saoedi-Arabië sluit cruciale oliepijpleiding",
-    "link": "https://www.beurs.nl/Nieuws/877641/Saoedi-Arabie-sluit-cruciale-oliepijpleiding.aspx",
-    "intro": "Saoedi-Arabië heeft de belangrijke East-West-pijpleiding voor ruwe olie uit voorzorg stilgelegd, na meerdere aanvallen op de leiding. Dit maakte het Saoedische ministerie van Energie vrijdag bekend in een verklaring.",
-    "published_at": "2026-09-11 21:31",
-    "scraped_at": "2026-09-12T09:27:52.542065"
-  },
-  {
-    "id": "7b891033a76655f58d70b67c64f03022",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen lager gesloten ondanks verdere escalatie Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/877638/Olieprijzen-lager-gesloten-ondanks-verdere-escalatie-Midden-Oosten.aspx",
-    "intro": "De olieprijzen sloten vrijdag lager, na een week waarin de prijzen grofweg 9 procent waren gestegen. Dit nadat de Financial Times meldde dat ministers van Buitenlandse Zaken in het Midden-Oosten proberen tot een tijdelijke overeenkomst met Iran te komen om de scheepvaart door de Straat van Hormuz in goede banen te leiden.\"",
-    "published_at": "2026-09-11 21:04",
-    "scraped_at": "2026-09-12T09:27:52.542065"
-  },
-  {
-    "id": "9ca0ef874cdce2f11b2d4173ad6144b4",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Pharming krijgt goedkeuring FDA voor nieuwe indicatie Joenja",
-    "link": "https://www.beurs.nl/Nieuws/866601/Update-Pharming-krijgt-goedkeuring-FDA-voor-nieuwe-indicatie-Joenja.aspx",
-    "intro": "De Amerikaanse geneesmiddelenautoriteit FDA heeft Joenja (leniolisib) van Pharming in de VS goedgekeurd als eerste behandeling voor kinderen van 4 tot 11 jaar die lijden aan APDS, een zeldzame genetische aandoening van het immuunsysteem. Dit maakte de FDA vrijdag bekend op zijn website.",
-    "published_at": "2026-09-11 20:37",
-    "scraped_at": "2026-09-12T09:27:52.542065"
-  },
-  {
-    "id": "89ff4a799669fc78a025ef17688463da",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street herstelt na een week van dalingen",
-    "link": "https://www.beurs.nl/Nieuws/877636/Wall-Street-herstelt-na-een-week-van-dalingen.aspx",
-    "intro": "Na een verkorte week van dalingen, waarin de Amerikaanse beurs maandag gesloten was vanwege Labour Day, kleurden de Amerikaanse beurzen vrijdag weer groen. De lagere langlopende rentes en olieprijzen hielpen een handje mee.",
-    "published_at": "2026-09-11 19:45",
-    "scraped_at": "2026-09-12T09:27:52.542065"
-  },
-  {
-    "id": "dead84587dcf397ee4e081288efe71b7",
-    "categorie": "Beursnieuws",
-    "titel": "Pharming krijgt goedkeuring FDA voor nieuwe indicatie Joenja",
-    "link": "https://www.beurs.nl/Nieuws/877635/Pharming-krijgt-goedkeuring-FDA-voor-nieuwe-indicatie-Joenja.aspx",
-    "intro": "De Amerikaanse geneesmiddelenautoriteit FDA heeft Joenja (leniolisib) van Pharming in de VS goedgekeurd als eerste behandeling voor kinderen van 4 tot 11 jaar die lijden aan APDS, een zeldzame genetische aandoening van het immuunsysteem. Dit maakte de FDA vrijdag bekend op zijn website.",
-    "published_at": "2026-09-11 18:59",
-    "scraped_at": "2026-09-12T09:27:52.542065"
-  },
-  {
-    "id": "4008abdc6d8d473aefdd9ceb848ef5d4",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen herstellen na negatieve week",
-    "link": "https://www.beurs.nl/Nieuws/877632/Europese-beurzen-herstellen-na-negatieve-week.aspx",
-    "intro": "De Europese beurzen sloten vrijdag hoger, nadat de olieprijzen daalden en de lange rentes wat tot rust kwamen na de forse stijgingen van eerder deze week. Op weekbasis stonden de beurzen desondanks flink onder druk.",
-    "published_at": "2026-09-11 18:43",
-    "scraped_at": "2026-09-12T09:27:52.542065"
-  },
-  {
-    "id": "c74687064954b465835db2df9ebbba9b",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit hoger met steun van techaandelen",
-    "link": "https://www.beurs.nl/Nieuws/877626/AEX-sluit-hoger-met-steun-van-techaandelen.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd, terwijl de olieprijzen en de lange rentes daalden. Amerikaanse inflatiecijfers vergroten evenwel de verwachting dat de Federal Reserve de rente volgende week zal verhogen.",
-    "published_at": "2026-09-11 17:48",
-    "scraped_at": "2026-09-12T09:27:52.542065"
-  },
-  {
-    "id": "7530ddd0514783f9af0a1897f55e1c4d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/877623/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 21 september 2026:",
-    "published_at": "2026-09-11 16:32",
-    "scraped_at": "2026-09-12T09:27:52.542065"
+    "titel": "Kretinsky iets kleiner in PostNL",
+    "link": "https://www.beurs.nl/Nieuws/877650/Kretinsky-iets-kleiner-in-PostNL.aspx",
+    "intro": "Daniel Kretínský heeft een iets kleiner belang in PostNL gemeld. Dit bleek uit een melding in het kader van de Nederlandse Wet op het financieel toezicht, gedateerd op 7 mei dit jaar, hetgeen echter nu pas werd gemeld in het register van de AFM.",
+    "published_at": "2026-09-12 12:34",
+    "scraped_at": "2026-09-12T13:10:22.299090"
   }
 ]
