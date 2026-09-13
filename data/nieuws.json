@@ -1,20 +1,38 @@
 [
   {
-    "id": "bacba0cb46dcfb351d904e023c48a8d4",
-    "categorie": "",
-    "titel": "Vooruitblik: Kunnen we eindelijk de inflatieangst achter ons laten?",
-    "link": "https://www.iex.nl/artikel/877610/Vooruitblik-Kunnen-we-eindelijk-de-inflatieangst-achter-ons-laten.aspx",
-    "intro": "",
-    "published_at": "2026-09-12 13:10",
-    "scraped_at": "2026-09-13T06:22:32.201641"
+    "id": "e8bcb9623913e164497a735999f176df",
+    "categorie": "Beursnieuws",
+    "titel": "Beursweek in het teken van Amerikaans rentebesluit",
+    "link": "https://www.beurs.nl/Nieuws/877670/Beursweek-in-het-teken-van-Amerikaans-rentebesluit.aspx",
+    "intro": "De komende beursweek begint rustig, met een lege agenda op maandag. Dinsdag zijn Chinese macrodata interessant, net als de Duitse ZEW-index en de Amerikaanse Empire State index.",
+    "published_at": "2026-09-13 14:00",
+    "scraped_at": "2026-09-13T12:10:55.623436"
   },
   {
-    "id": "38ef67d8c71f08ba9a8cc270eaf735b3",
+    "id": "1e9caf05a2fbfa16b0d15d2a2948ffde",
     "categorie": "Beursnieuws",
-    "titel": "Kretinsky iets kleiner in PostNL",
-    "link": "https://www.beurs.nl/Nieuws/877650/Kretinsky-iets-kleiner-in-PostNL.aspx",
-    "intro": "Daniel Kretínský heeft een iets kleiner belang in PostNL gemeld. Dit bleek uit een melding in het kader van de Nederlandse Wet op het financieel toezicht, gedateerd op 7 mei dit jaar, hetgeen echter nu pas werd gemeld in het register van de AFM.",
-    "published_at": "2026-09-12 12:34",
-    "scraped_at": "2026-09-13T06:22:32.201641"
+    "titel": "Larry Ellison trekt plan voor verkoop aandelen Oracle in",
+    "link": "https://www.beurs.nl/Nieuws/877667/Larry-Ellison-trekt-plan-voor-verkoop-aandelen-Oracle-in.aspx",
+    "intro": "Larry Ellison heeft zijn plannen ingetrokken om 50 miljoen aandelen Oracle te verkopen. Dit maakte Oracle zaterdag bekend.",
+    "published_at": "2026-09-13 13:19",
+    "scraped_at": "2026-09-13T12:10:55.623436"
+  },
+  {
+    "id": "8149ed366edc19d457763faead871684",
+    "categorie": "Beursnieuws",
+    "titel": "Behalve olie geen grote uitschieters op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/877661/Behalve-olie-geen-grote-uitschieters-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs dook afgelopen week weer onder de 1.100 punten, waarbij techaandelen het over het algemeen lastig hadden en alleen Shell de schade nog een beetje wist te beperken voor de AEX.",
+    "published_at": "2026-09-13 10:45",
+    "scraped_at": "2026-09-13T12:10:55.623436"
+  },
+  {
+    "id": "821486965ab51fe527568be21354ba65",
+    "categorie": "Beursnieuws",
+    "titel": "AEX duikt weer onder 1.100 punten",
+    "link": "https://www.beurs.nl/Nieuws/877659/AEX-duikt-weer-onder-1100-punten.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week gedaald en dook zo weer onder de 1.100 punten, terwijl de olieprijzen verder stegen en de rentes hoog bleven. De Europese Centrale Bank verraste niet met een nieuwe renteverhoging, terwijl de Federal Reserve na hardnekkige inflatiecijfers de rente komende week vermoedelijk zal verhogen.",
+    "published_at": "2026-09-13 10:21",
+    "scraped_at": "2026-09-13T12:10:55.623436"
   }
 ]
