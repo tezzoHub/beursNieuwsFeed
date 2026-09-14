@@ -1,38 +1,74 @@
 [
   {
-    "id": "e8bcb9623913e164497a735999f176df",
+    "id": "ed8dbb4f0a9ca40a6b3f36b36a6f5395",
     "categorie": "Beursnieuws",
-    "titel": "Beursweek in het teken van Amerikaans rentebesluit",
-    "link": "https://www.beurs.nl/Nieuws/877670/Beursweek-in-het-teken-van-Amerikaans-rentebesluit.aspx",
-    "intro": "De komende beursweek begint rustig, met een lege agenda op maandag. Dinsdag zijn Chinese macrodata interessant, net als de Duitse ZEW-index en de Amerikaanse Empire State index.",
-    "published_at": "2026-09-13 14:00",
-    "scraped_at": "2026-09-14T01:16:11.434564"
+    "titel": "AEX opent lager met ontwikkelingen rond AI in vizier",
+    "link": "https://www.beurs.nl/Nieuws/877709/AEX-opent-lager-met-ontwikkelingen-rond-AI-in-vizier.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent.",
+    "published_at": "2026-09-14 08:05",
+    "scraped_at": "2026-09-14T06:31:37.785499"
   },
   {
-    "id": "1e9caf05a2fbfa16b0d15d2a2948ffde",
+    "id": "ac4460cb0dcc4e0d94f269657228cd47",
     "categorie": "Beursnieuws",
-    "titel": "Larry Ellison trekt plan voor verkoop aandelen Oracle in",
-    "link": "https://www.beurs.nl/Nieuws/877667/Larry-Ellison-trekt-plan-voor-verkoop-aandelen-Oracle-in.aspx",
-    "intro": "Larry Ellison heeft zijn plannen ingetrokken om 50 miljoen aandelen Oracle te verkopen. Dit maakte Oracle zaterdag bekend.",
-    "published_at": "2026-09-13 13:19",
-    "scraped_at": "2026-09-14T01:16:11.434564"
+    "titel": "CEO Anthropic roept op om tempo AI te vertragen",
+    "link": "https://www.beurs.nl/Nieuws/877705/CEO-Anthropic-roept-op-om-tempo-AI-te-vertragen.aspx",
+    "intro": "Dario Amodei, de CEO van Anthropic, heeft zaterdag in een blog gezegd dat het tijd is om \"het tempo te vertragen\" van de verbetering van geavanceerde AI-modellen, vanwege existentiële risico's voor de mensheid.",
+    "published_at": "2026-09-14 07:42",
+    "scraped_at": "2026-09-14T06:31:37.785499"
   },
   {
-    "id": "8149ed366edc19d457763faead871684",
+    "id": "f3b06173ea9429f18cde5ef36a6562a9",
     "categorie": "Beursnieuws",
-    "titel": "Behalve olie geen grote uitschieters op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/877661/Behalve-olie-geen-grote-uitschieters-op-Damrak.aspx",
-    "intro": "De Amsterdamse beurs dook afgelopen week weer onder de 1.100 punten, waarbij techaandelen het over het algemeen lastig hadden en alleen Shell de schade nog een beetje wist te beperken voor de AEX.",
-    "published_at": "2026-09-13 10:45",
-    "scraped_at": "2026-09-14T01:16:11.434564"
+    "titel": "Jefferies verhoogt koersdoel Heineken",
+    "link": "https://www.beurs.nl/Nieuws/877704/Jefferies-verhoogt-koersdoel-Heineken.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Heineken verhoogd van 100,00 euro naar 105,00 euro, met een onveranderd koopadvies. Dit bleek maandag uit een analistenrapport van de zakenbank.",
+    "published_at": "2026-09-14 07:24",
+    "scraped_at": "2026-09-14T06:31:37.785499"
   },
   {
-    "id": "821486965ab51fe527568be21354ba65",
+    "id": "c835eef0f4d08166245038e51a8031c6",
     "categorie": "Beursnieuws",
-    "titel": "AEX duikt weer onder 1.100 punten",
-    "link": "https://www.beurs.nl/Nieuws/877659/AEX-duikt-weer-onder-1100-punten.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week gedaald en dook zo weer onder de 1.100 punten, terwijl de olieprijzen verder stegen en de rentes hoog bleven. De Europese Centrale Bank verraste niet met een nieuwe renteverhoging, terwijl de Federal Reserve na hardnekkige inflatiecijfers de rente komende week vermoedelijk zal verhogen.",
-    "published_at": "2026-09-13 10:21",
-    "scraped_at": "2026-09-14T01:16:11.434564"
+    "titel": "Aziatische beurzen onder druk door zorgen over AI en rente",
+    "link": "https://www.beurs.nl/Nieuws/877703/Aziatische-beurzen-onder-druk-door-zorgen-over-AI-en-rente.aspx",
+    "intro": "De Aziatische beurzen stonden maandag overwegend onder druk. Beleggers reageerden op toenemende zorgen over de vooruitzichten voor de AI-sector, terwijl oplopende olieprijzen de vrees voor hogere inflatie en een krapper monetair beleid aanwakkerden.",
+    "published_at": "2026-09-14 07:20",
+    "scraped_at": "2026-09-14T06:31:37.785499"
+  },
+  {
+    "id": "74e36817b4200c888a23484b6a4ccfab",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen naar verwachting verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/877697/Europese-beurzen-openen-naar-verwachting-verdeeld.aspx",
+    "intro": "De aandelenmarkten in Europa gaan maandag een verdeelde opening tegemoet, na een hoger slot op Wall Street vrijdagavond en zorgen dat de AI-trein wat zal vertragen nu verschillende partijen hebben opgeroepen tot een pauze na meerdere veiligheidsproblemen.",
+    "published_at": "2026-09-14 06:55",
+    "scraped_at": "2026-09-14T06:31:37.785499"
+  },
+  {
+    "id": "dabcc22faaed9b3148c61b66e9b4374f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/877695/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 21 september 2026:",
+    "published_at": "2026-09-14 06:45",
+    "scraped_at": "2026-09-14T06:31:37.785499"
+  },
+  {
+    "id": "3bf1719a2f59a6cd0d1195470396d1d6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/877693/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 21 september 2026:",
+    "published_at": "2026-09-14 06:44",
+    "scraped_at": "2026-09-14T06:31:37.785499"
+  },
+  {
+    "id": "f2600c103db363516ade144e1fadbcd9",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/877694/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 21 september 2026:",
+    "published_at": "2026-09-14 06:44",
+    "scraped_at": "2026-09-14T06:31:37.785499"
   }
 ]
