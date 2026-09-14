@@ -1,12 +1,84 @@
 [
   {
+    "id": "c768d6c9ed2d6a2f508a2708df8ae00f",
+    "categorie": "Beursnieuws",
+    "titel": "Chipbedrijven onderuit op lichtrood Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/877826/Chipbedrijven-onderuit-op-lichtrood-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden maandag licht lager, waarbij chipaandelen de gebeten hond waren na waarschuwingen over het gebruik van kunstmatige intelligentie.",
+    "published_at": "2026-09-14 19:53",
+    "scraped_at": "2026-09-14T18:47:32.442252"
+  },
+  {
+    "id": "f296802a717864db3bc6e1a8c3fe9086",
+    "categorie": "Beursnieuws",
+    "titel": "AI-zorgen trekken Europese beurzen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/877821/AI-zorgen-trekken-Europese-beurzen-in-het-rood.aspx",
+    "intro": "De Europese beurzen zijn maandag overwegend lager geëindigd, terwijl de zorgen over AI oplaaiden en de olieprijzen en rentes opnieuw stegen.",
+    "published_at": "2026-09-14 18:39",
+    "scraped_at": "2026-09-14T18:47:32.442252"
+  },
+  {
+    "id": "66c9b9fd3f45bcb04cbf7052e8578708",
+    "categorie": "Beursnieuws",
+    "titel": "Avantium zet nieuwe stap in voedselverpakkingen",
+    "link": "https://www.beurs.nl/Nieuws/877820/Avantium-zet-nieuwe-stap-in-voedselverpakkingen.aspx",
+    "intro": "Avantium heeft een capaciteitsovereenkomst getekend met Klöckner Pentaplast voor toepassing van PEF in voedselverpakkingen. Dit meldde Avantium maandagavond.",
+    "published_at": "2026-09-14 18:13",
+    "scraped_at": "2026-09-14T18:47:32.442252"
+  },
+  {
+    "id": "1fd41698786a2107cc512ac4aca6e452",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit vlak ondanks koersval chippers",
+    "link": "https://www.beurs.nl/Nieuws/877816/AEX-sluit-vlakondanks-koersval-chippers.aspx",
+    "intro": "De Amsterdamse beurs is maandag nauwelijks van zijn plek gekomen, maar binnen de AEX waren er flinke uitschieters, beide kanten uit.",
+    "published_at": "2026-09-14 17:52",
+    "scraped_at": "2026-09-14T18:47:32.442252"
+  },
+  {
+    "id": "0292c2a10d82d2ce5bff412f674bdef3",
+    "categorie": "Beursnieuws",
+    "titel": "Trump: Rusland en Oekraïne laten elkaars energie met rust",
+    "link": "https://www.beurs.nl/Nieuws/877808/Trump-Rusland-en-Oekraine-laten-elkaars-energie-met-rust.aspx",
+    "intro": "Oekraïne en Rusland zullen elkaars energie-infrastructuur met rust laten. Dit meldde de Amerikaanse president Donald Trump op Truth Social.",
+    "published_at": "2026-09-14 17:36",
+    "scraped_at": "2026-09-14T18:47:32.442252"
+  },
+  {
+    "id": "d5f2739810fb5c9bed7060b30531f4ab",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/877791/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 22 september 2026:",
+    "published_at": "2026-09-14 16:33",
+    "scraped_at": "2026-09-14T18:47:32.442252"
+  },
+  {
+    "id": "2adfb19e2049fd605b9495ce06f25472",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/877792/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 22 september 2026:",
+    "published_at": "2026-09-14 16:33",
+    "scraped_at": "2026-09-14T18:47:32.442252"
+  },
+  {
+    "id": "ba96a04713acea1b9fdfdbe5a5cd5d85",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/877790/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 22 september 2026:",
+    "published_at": "2026-09-14 16:32",
+    "scraped_at": "2026-09-14T18:47:32.442252"
+  },
+  {
     "id": "d9e1a06699f7b9221ead2f3c85ae7704",
     "categorie": "Beursnieuws",
     "titel": "Oproep om AI af te remmen duwt Wall Street in het rood",
     "link": "https://www.beurs.nl/Nieuws/877776/Oproep-om-AI-af-te-remmen-duwt-Wall-Street-in-het-rood.aspx",
     "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet. Topmannen van grote AI-bedrijven willen de ontwikkeling van AI afremmen, wat tot zorgen bij beleggers leidt.",
     "published_at": "2026-09-14 14:19",
-    "scraped_at": "2026-09-14T13:23:39.990505"
+    "scraped_at": "2026-09-14T18:47:32.442252"
   },
   {
     "id": "916fad88080feb0b5ef29fbfd138f4b1",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/877771/Software-aan-kop-en-chippers-onderuit.aspx",
     "intro": "Terwijl de 'chippers' maandag stevig onder druk stonden in Amsterdam, zorgden de databedrijven en andere defensieaandelen voor tegenwicht.",
     "published_at": "2026-09-14 13:52",
-    "scraped_at": "2026-09-14T13:23:39.990505"
-  },
-  {
-    "id": "3b44ba200e82bf5f6a3383f88b05cd82",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen onder beleggers flink gedaald",
-    "link": "https://www.beurs.nl/Nieuws/877768/Vertrouwen-onder-beleggers-flink-gedaald.aspx",
-    "intro": "Het vertrouwen onder Nederlandse beleggers is sterk afgenomen. Dit bleek maandag uit de Saxo Sentiment Monitor.",
-    "published_at": "2026-09-14 13:29",
-    "scraped_at": "2026-09-14T13:23:39.990505"
-  },
-  {
-    "id": "c8da5f9ebe380a24fd62413a10cb8cd5",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street in het rood",
-    "link": "https://www.beurs.nl/Nieuws/877767/Futures-Wall-Street-in-het-rood.aspx",
-    "intro": "De Amerikaanse beurzen gaan maandag een fors lagere opening tegemoet. Topmannen van grote AI-bedrijven willen de ontwikkeling van AI afremmen, wat tot zorgen bij beleggers leidt.",
-    "published_at": "2026-09-14 13:16",
-    "scraped_at": "2026-09-14T13:23:39.990505"
-  },
-  {
-    "id": "4794e6a2a0b652f2fdb3cbedb979bdde",
-    "categorie": "Beursnieuws",
-    "titel": "Media: tegenwind voor CVC en GBL bij overname Recordati",
-    "link": "https://www.beurs.nl/Nieuws/877765/Media-tegenwind-voor-CVC-en-GBL-bij-overname-Recordati.aspx",
-    "intro": "CVC ondervindt problemen bij het inlijven van het Italiaanse Recordati.",
-    "published_at": "2026-09-14 12:27",
-    "scraped_at": "2026-09-14T13:23:39.990505"
-  },
-  {
-    "id": "f7bde8ad499bde2b3a7224e28c79015d",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen in de min door AI-zorgen",
-    "link": "https://www.beurs.nl/Nieuws/877764/Europese-beurzen-in-de-min-door-AI-zorgen.aspx",
-    "intro": "Europese aandelen noteerden maandag rond het middaguur per saldo lager, waarbij vooral chipaandelen scherp daalden door zorgen onder beleggers dat de uitbouw van kunstmatige intelligentie zal vertragen. Alleen de Britse FTSE stond in de plus.",
-    "published_at": "2026-09-14 12:18",
-    "scraped_at": "2026-09-14T13:23:39.990505"
-  },
-  {
-    "id": "cc54b62f0084bffdd84dadf3a38328c5",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies: uitblinkend Adyen terug bij af",
-    "link": "https://www.beurs.nl/Nieuws/877749/Jefferies-uitblinkend-Adyen-terug-bij-af.aspx",
-    "intro": "Adyen was met zijn halfjaarcijfers de uitblinker onder de Europese fintech- en betaalbedrijven, met een groeiversnelling en een forse toename van het relatieve marktaandeel. Dit stelde Jefferies maandag in een sectorrapport.",
-    "published_at": "2026-09-14 11:31",
-    "scraped_at": "2026-09-14T13:23:39.990505"
-  },
-  {
-    "id": "fa789b1e4ec42a0b03ddec314d441d32",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe opdracht Rijkswaterstaat voor Heijmans",
-    "link": "https://www.beurs.nl/Nieuws/877747/Nieuwe-opdracht-Rijkswaterstaat-voor-Heijmans.aspx",
-    "intro": "Heijmans heeft een onderhoudscontract met Rijkswaterstaat verlengd. Dit maakte het bouwbedrijf maandagochtend bekend.",
-    "published_at": "2026-09-14 11:23",
-    "scraped_at": "2026-09-14T13:23:39.990505"
-  },
-  {
-    "id": "96530563344aa7021867a440509f0c9d",
-    "categorie": "Beursnieuws",
-    "titel": "Damrak roteert weg van AI",
-    "link": "https://www.beurs.nl/Nieuws/877738/Damrak-roteert-weg-van-AI.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagochtend licht lager, terwijl beleggers hun AI-gerelateerde aandelen inruilden voor aandelen uit de software- en voedingsbranche.",
-    "published_at": "2026-09-14 10:49",
-    "scraped_at": "2026-09-14T13:23:39.990505"
-  },
-  {
-    "id": "e34535f97e41102023ee95ca54490e58",
-    "categorie": "Beursnieuws",
-    "titel": "KBC positief over samengaan Euronext met Deutsche Börse",
-    "link": "https://www.beurs.nl/Nieuws/877737/KBC-positief-over-samengaan-Euronext-met-Deutsche-Borse.aspx",
-    "intro": "Het is positief dat Euronext open staat voor een deal met Deutsche Börse. Dat stelde analist Thomas Couvreur van KBC Securities maandag in een rapport, waarin hij het Accumuleren advies voor Euronext handhaafde met een koersdoel van 150,00 euro.",
-    "published_at": "2026-09-14 10:40",
-    "scraped_at": "2026-09-14T13:23:39.990505"
+    "scraped_at": "2026-09-14T18:47:32.442252"
   }
 ]
