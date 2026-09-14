@@ -1,74 +1,92 @@
 [
   {
-    "id": "ed8dbb4f0a9ca40a6b3f36b36a6f5395",
+    "id": "d9e1a06699f7b9221ead2f3c85ae7704",
     "categorie": "Beursnieuws",
-    "titel": "AEX opent lager met ontwikkelingen rond AI in vizier",
-    "link": "https://www.beurs.nl/Nieuws/877709/AEX-opent-lager-met-ontwikkelingen-rond-AI-in-vizier.aspx",
-    "intro": "De Amsterdamse beurs gaat maandag naar verwachting licht lager van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een verlies van 0,3 procent.",
-    "published_at": "2026-09-14 08:05",
-    "scraped_at": "2026-09-14T06:31:37.785499"
+    "titel": "Oproep om AI af te remmen duwt Wall Street in het rood",
+    "link": "https://www.beurs.nl/Nieuws/877776/Oproep-om-AI-af-te-remmen-duwt-Wall-Street-in-het-rood.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een lagere opening tegemoet. Topmannen van grote AI-bedrijven willen de ontwikkeling van AI afremmen, wat tot zorgen bij beleggers leidt.",
+    "published_at": "2026-09-14 14:19",
+    "scraped_at": "2026-09-14T13:23:39.990505"
   },
   {
-    "id": "ac4460cb0dcc4e0d94f269657228cd47",
+    "id": "916fad88080feb0b5ef29fbfd138f4b1",
     "categorie": "Beursnieuws",
-    "titel": "CEO Anthropic roept op om tempo AI te vertragen",
-    "link": "https://www.beurs.nl/Nieuws/877705/CEO-Anthropic-roept-op-om-tempo-AI-te-vertragen.aspx",
-    "intro": "Dario Amodei, de CEO van Anthropic, heeft zaterdag in een blog gezegd dat het tijd is om \"het tempo te vertragen\" van de verbetering van geavanceerde AI-modellen, vanwege existentiële risico's voor de mensheid.",
-    "published_at": "2026-09-14 07:42",
-    "scraped_at": "2026-09-14T06:31:37.785499"
+    "titel": "Software aan kop en chippers onderuit",
+    "link": "https://www.beurs.nl/Nieuws/877771/Software-aan-kop-en-chippers-onderuit.aspx",
+    "intro": "Terwijl de 'chippers' maandag stevig onder druk stonden in Amsterdam, zorgden de databedrijven en andere defensieaandelen voor tegenwicht.",
+    "published_at": "2026-09-14 13:52",
+    "scraped_at": "2026-09-14T13:23:39.990505"
   },
   {
-    "id": "f3b06173ea9429f18cde5ef36a6562a9",
+    "id": "3b44ba200e82bf5f6a3383f88b05cd82",
     "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt koersdoel Heineken",
-    "link": "https://www.beurs.nl/Nieuws/877704/Jefferies-verhoogt-koersdoel-Heineken.aspx",
-    "intro": "Jefferies heeft het koersdoel voor Heineken verhoogd van 100,00 euro naar 105,00 euro, met een onveranderd koopadvies. Dit bleek maandag uit een analistenrapport van de zakenbank.",
-    "published_at": "2026-09-14 07:24",
-    "scraped_at": "2026-09-14T06:31:37.785499"
+    "titel": "Vertrouwen onder beleggers flink gedaald",
+    "link": "https://www.beurs.nl/Nieuws/877768/Vertrouwen-onder-beleggers-flink-gedaald.aspx",
+    "intro": "Het vertrouwen onder Nederlandse beleggers is sterk afgenomen. Dit bleek maandag uit de Saxo Sentiment Monitor.",
+    "published_at": "2026-09-14 13:29",
+    "scraped_at": "2026-09-14T13:23:39.990505"
   },
   {
-    "id": "c835eef0f4d08166245038e51a8031c6",
+    "id": "c8da5f9ebe380a24fd62413a10cb8cd5",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen onder druk door zorgen over AI en rente",
-    "link": "https://www.beurs.nl/Nieuws/877703/Aziatische-beurzen-onder-druk-door-zorgen-over-AI-en-rente.aspx",
-    "intro": "De Aziatische beurzen stonden maandag overwegend onder druk. Beleggers reageerden op toenemende zorgen over de vooruitzichten voor de AI-sector, terwijl oplopende olieprijzen de vrees voor hogere inflatie en een krapper monetair beleid aanwakkerden.",
-    "published_at": "2026-09-14 07:20",
-    "scraped_at": "2026-09-14T06:31:37.785499"
+    "titel": "Futures Wall Street in het rood",
+    "link": "https://www.beurs.nl/Nieuws/877767/Futures-Wall-Street-in-het-rood.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een fors lagere opening tegemoet. Topmannen van grote AI-bedrijven willen de ontwikkeling van AI afremmen, wat tot zorgen bij beleggers leidt.",
+    "published_at": "2026-09-14 13:16",
+    "scraped_at": "2026-09-14T13:23:39.990505"
   },
   {
-    "id": "74e36817b4200c888a23484b6a4ccfab",
+    "id": "4794e6a2a0b652f2fdb3cbedb979bdde",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen naar verwachting verdeeld",
-    "link": "https://www.beurs.nl/Nieuws/877697/Europese-beurzen-openen-naar-verwachting-verdeeld.aspx",
-    "intro": "De aandelenmarkten in Europa gaan maandag een verdeelde opening tegemoet, na een hoger slot op Wall Street vrijdagavond en zorgen dat de AI-trein wat zal vertragen nu verschillende partijen hebben opgeroepen tot een pauze na meerdere veiligheidsproblemen.",
-    "published_at": "2026-09-14 06:55",
-    "scraped_at": "2026-09-14T06:31:37.785499"
+    "titel": "Media: tegenwind voor CVC en GBL bij overname Recordati",
+    "link": "https://www.beurs.nl/Nieuws/877765/Media-tegenwind-voor-CVC-en-GBL-bij-overname-Recordati.aspx",
+    "intro": "CVC ondervindt problemen bij het inlijven van het Italiaanse Recordati.",
+    "published_at": "2026-09-14 12:27",
+    "scraped_at": "2026-09-14T13:23:39.990505"
   },
   {
-    "id": "dabcc22faaed9b3148c61b66e9b4374f",
+    "id": "f7bde8ad499bde2b3a7224e28c79015d",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/877695/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 21 september 2026:",
-    "published_at": "2026-09-14 06:45",
-    "scraped_at": "2026-09-14T06:31:37.785499"
+    "titel": "Europese beurzen in de min door AI-zorgen",
+    "link": "https://www.beurs.nl/Nieuws/877764/Europese-beurzen-in-de-min-door-AI-zorgen.aspx",
+    "intro": "Europese aandelen noteerden maandag rond het middaguur per saldo lager, waarbij vooral chipaandelen scherp daalden door zorgen onder beleggers dat de uitbouw van kunstmatige intelligentie zal vertragen. Alleen de Britse FTSE stond in de plus.",
+    "published_at": "2026-09-14 12:18",
+    "scraped_at": "2026-09-14T13:23:39.990505"
   },
   {
-    "id": "3bf1719a2f59a6cd0d1195470396d1d6",
+    "id": "cc54b62f0084bffdd84dadf3a38328c5",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/877693/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 21 september 2026:",
-    "published_at": "2026-09-14 06:44",
-    "scraped_at": "2026-09-14T06:31:37.785499"
+    "titel": "Jefferies: uitblinkend Adyen terug bij af",
+    "link": "https://www.beurs.nl/Nieuws/877749/Jefferies-uitblinkend-Adyen-terug-bij-af.aspx",
+    "intro": "Adyen was met zijn halfjaarcijfers de uitblinker onder de Europese fintech- en betaalbedrijven, met een groeiversnelling en een forse toename van het relatieve marktaandeel. Dit stelde Jefferies maandag in een sectorrapport.",
+    "published_at": "2026-09-14 11:31",
+    "scraped_at": "2026-09-14T13:23:39.990505"
   },
   {
-    "id": "f2600c103db363516ade144e1fadbcd9",
+    "id": "fa789b1e4ec42a0b03ddec314d441d32",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/877694/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 21 september 2026:",
-    "published_at": "2026-09-14 06:44",
-    "scraped_at": "2026-09-14T06:31:37.785499"
+    "titel": "Nieuwe opdracht Rijkswaterstaat voor Heijmans",
+    "link": "https://www.beurs.nl/Nieuws/877747/Nieuwe-opdracht-Rijkswaterstaat-voor-Heijmans.aspx",
+    "intro": "Heijmans heeft een onderhoudscontract met Rijkswaterstaat verlengd. Dit maakte het bouwbedrijf maandagochtend bekend.",
+    "published_at": "2026-09-14 11:23",
+    "scraped_at": "2026-09-14T13:23:39.990505"
+  },
+  {
+    "id": "96530563344aa7021867a440509f0c9d",
+    "categorie": "Beursnieuws",
+    "titel": "Damrak roteert weg van AI",
+    "link": "https://www.beurs.nl/Nieuws/877738/Damrak-roteert-weg-van-AI.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagochtend licht lager, terwijl beleggers hun AI-gerelateerde aandelen inruilden voor aandelen uit de software- en voedingsbranche.",
+    "published_at": "2026-09-14 10:49",
+    "scraped_at": "2026-09-14T13:23:39.990505"
+  },
+  {
+    "id": "e34535f97e41102023ee95ca54490e58",
+    "categorie": "Beursnieuws",
+    "titel": "KBC positief over samengaan Euronext met Deutsche Börse",
+    "link": "https://www.beurs.nl/Nieuws/877737/KBC-positief-over-samengaan-Euronext-met-Deutsche-Borse.aspx",
+    "intro": "Het is positief dat Euronext open staat voor een deal met Deutsche Börse. Dat stelde analist Thomas Couvreur van KBC Securities maandag in een rapport, waarin hij het Accumuleren advies voor Euronext handhaafde met een koersdoel van 150,00 euro.",
+    "published_at": "2026-09-14 10:40",
+    "scraped_at": "2026-09-14T13:23:39.990505"
   }
 ]
