@@ -1,12 +1,39 @@
 [
   {
+    "id": "3b3460e325fa6787f1b3ba41e3be2704",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/877978/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag drie van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten en drie lager. ING was de sterkste stijger.",
+    "published_at": "2026-09-15 23:04",
+    "scraped_at": "2026-09-15T22:21:31.745940"
+  },
+  {
+    "id": "e7ea21580acecdd3cf2cb42d4baddba4",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit lager",
+    "link": "https://www.beurs.nl/Nieuws/877977/Wall-Street-sluit-lager.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag lager gesloten, nadat beleggers werden geconfronteerd met steeds verdere oplopende olieprijzen en obligatierentes.",
+    "published_at": "2026-09-15 22:42",
+    "scraped_at": "2026-09-15T22:21:31.745940"
+  },
+  {
+    "id": "fc7e75b9f368d0daa029caeb45163e56",
+    "categorie": "Beursnieuws",
+    "titel": "Druk op knelpunten in Midden-Oosten stuwt olieprijs verder op",
+    "link": "https://www.beurs.nl/Nieuws/877972/Druk-op-knelpunten-in-Midden-Oosten-stuwt-olieprijs-verder-op.aspx",
+    "intro": "De olieprijzen zijn dinsdag sterk opnieuw gestegen, terwijl de markt nerveus bleef over de aanvoer uit het Midden-Oosten, nadat de Oost-West-pijpleiding in Saoedi-Arabië werd stilgelegd en Houthi’s dreigden de scheepvaart in de Rode Zee te verstoren.",
+    "published_at": "2026-09-15 21:56",
+    "scraped_at": "2026-09-15T22:21:31.745940"
+  },
+  {
     "id": "9da1b142bad8147aa67ae58a36811ff0",
     "categorie": "Beursnieuws",
     "titel": "Wall Street doet stap terug",
     "link": "https://www.beurs.nl/Nieuws/877970/Wall-Street-doet-stap-terug.aspx",
     "intro": "De Amerikaanse beurzen stonden dinsdag lager, terwijl beleggers werden geconfronteerd met steeds verdere oplopende olieprijzen en obligatierentes.",
     "published_at": "2026-09-15 20:55",
-    "scraped_at": "2026-09-15T19:06:43.243891"
+    "scraped_at": "2026-09-15T22:21:31.745940"
   },
   {
     "id": "32f598a8b7759b13a8eee73f75b2d6ce",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/877968/OCI-publiceert-formele-verklaring-bij-overnamebod-NNS.aspx",
     "intro": "OCI heeft een formele verklaring gepubliceerd met zijn positie over het overnamebod van NNS en belegt een aandeelhoudersvergadering op 30 oktober, waar aandeelhouders kunnen stemmen over de geplande combinatie met Orascom en de verkoop van OCIN. Dat maakte het bedrijf, dat de afgelopen jaren zijn kunstmest en chemie-activiteiten grotendeels heeft verkocht, dinsdag bekend.",
     "published_at": "2026-09-15 19:19",
-    "scraped_at": "2026-09-15T19:06:43.243891"
+    "scraped_at": "2026-09-15T22:21:31.745940"
   },
   {
     "id": "35ee782f3666853b07fff4957c6f75ab",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/877967/Beperkte-verliezen-voor-Europese-beurzen.aspx",
     "intro": "De Europese beurzen zijn dinsdag licht lager gesloten, terwijl de olieprijs en obligatierentes verder opliepen, in aanloop naar het rentebesluit van de Federal Reserve woensdag.",
     "published_at": "2026-09-15 18:59",
-    "scraped_at": "2026-09-15T19:06:43.243891"
+    "scraped_at": "2026-09-15T22:21:31.745940"
   },
   {
     "id": "754568325022c584c7bd38dc486833d2",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/877960/Groter-verlies-voor-Bever.aspx",
     "intro": "Bever Holding heeft in de eerste zes maanden van 2026 een groter negatief resultaat geboekt dan een jaar eerder. Dit maakte het vastgoedbedrijf dinsdag nabeurs bekend.",
     "published_at": "2026-09-15 18:31",
-    "scraped_at": "2026-09-15T19:06:43.243891"
+    "scraped_at": "2026-09-15T22:21:31.745940"
   },
   {
     "id": "1f552b7d14b237d9e320cb943376af40",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/877957/ASMI-rondt-aandeleninkoop-af.aspx",
     "intro": "ASMI heeft zijn aandeleninkoopprogramma voor 2026 ter waarde van 150 miljoen euro afgerond. Dit meldde het halfgeleiderbedrijf uit Almere dinsdagavond.",
     "published_at": "2026-09-15 18:19",
-    "scraped_at": "2026-09-15T19:06:43.243891"
+    "scraped_at": "2026-09-15T22:21:31.745940"
   },
   {
     "id": "cfa333cef30cc2c3525e4c215f684e69",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/877955/Chippers-toch-weer-onder-druk-in-AEX.aspx",
     "intro": "De Amsterdamse beurs is dinsdag licht lager geëindigd, nadat een herstelpoging van de halfgeleideraandelen mislukte, terwijl de olieprijzen en rentes verder stegen.",
     "published_at": "2026-09-15 17:55",
-    "scraped_at": "2026-09-15T19:06:43.243891"
+    "scraped_at": "2026-09-15T22:21:31.745940"
   },
   {
     "id": "b1ea748438de57716aba5b38005747e2",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Artikel/877912/Prinsjesdag-13-fiscale-maatregelen-die-je-portemonnee-in-2027-raken.aspx",
     "intro": "Lagere overdrachtsbelasting voor woningbeleggers, hogere zorgkosten, hogere waterrekening en een hogere arbeidskorting.",
     "published_at": "2026-09-15 17:50",
-    "scraped_at": "2026-09-15T19:06:43.243891"
-  },
-  {
-    "id": "c686263add9ae49b07ba484aeda42039",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/877942/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 23 september 2026:",
-    "published_at": "2026-09-15 16:19",
-    "scraped_at": "2026-09-15T19:06:43.243891"
-  },
-  {
-    "id": "b59f8b0dc001839baadd7354c3b1ba5b",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/877940/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 23 september 2026:",
-    "published_at": "2026-09-15 16:18",
-    "scraped_at": "2026-09-15T19:06:43.243891"
-  },
-  {
-    "id": "d9664a7a91ece123fab7845d608cc858",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/877941/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 23 september 2026:",
-    "published_at": "2026-09-15 16:18",
-    "scraped_at": "2026-09-15T19:06:43.243891"
+    "scraped_at": "2026-09-15T22:21:31.745940"
   }
 ]
