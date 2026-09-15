@@ -1,12 +1,75 @@
 [
   {
+    "id": "9da1b142bad8147aa67ae58a36811ff0",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street doet stap terug",
+    "link": "https://www.beurs.nl/Nieuws/877970/Wall-Street-doet-stap-terug.aspx",
+    "intro": "De Amerikaanse beurzen stonden dinsdag lager, terwijl beleggers werden geconfronteerd met steeds verdere oplopende olieprijzen en obligatierentes.",
+    "published_at": "2026-09-15 20:55",
+    "scraped_at": "2026-09-15T19:06:43.243891"
+  },
+  {
+    "id": "32f598a8b7759b13a8eee73f75b2d6ce",
+    "categorie": "Beursnieuws",
+    "titel": "OCI publiceert formele verklaring bij overnamebod NNS.",
+    "link": "https://www.beurs.nl/Nieuws/877968/OCI-publiceert-formele-verklaring-bij-overnamebod-NNS.aspx",
+    "intro": "OCI heeft een formele verklaring gepubliceerd met zijn positie over het overnamebod van NNS en belegt een aandeelhoudersvergadering op 30 oktober, waar aandeelhouders kunnen stemmen over de geplande combinatie met Orascom en de verkoop van OCIN. Dat maakte het bedrijf, dat de afgelopen jaren zijn kunstmest en chemie-activiteiten grotendeels heeft verkocht, dinsdag bekend.",
+    "published_at": "2026-09-15 19:19",
+    "scraped_at": "2026-09-15T19:06:43.243891"
+  },
+  {
+    "id": "35ee782f3666853b07fff4957c6f75ab",
+    "categorie": "Beursnieuws",
+    "titel": "Beperkte verliezen voor Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/877967/Beperkte-verliezen-voor-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen zijn dinsdag licht lager gesloten, terwijl de olieprijs en obligatierentes verder opliepen, in aanloop naar het rentebesluit van de Federal Reserve woensdag.",
+    "published_at": "2026-09-15 18:59",
+    "scraped_at": "2026-09-15T19:06:43.243891"
+  },
+  {
+    "id": "754568325022c584c7bd38dc486833d2",
+    "categorie": "Beursnieuws",
+    "titel": "Groter verlies voor Bever",
+    "link": "https://www.beurs.nl/Nieuws/877960/Groter-verlies-voor-Bever.aspx",
+    "intro": "Bever Holding heeft in de eerste zes maanden van 2026 een groter negatief resultaat geboekt dan een jaar eerder. Dit maakte het vastgoedbedrijf dinsdag nabeurs bekend.",
+    "published_at": "2026-09-15 18:31",
+    "scraped_at": "2026-09-15T19:06:43.243891"
+  },
+  {
+    "id": "1f552b7d14b237d9e320cb943376af40",
+    "categorie": "Beursnieuws",
+    "titel": "ASMI rondt aandeleninkoop af",
+    "link": "https://www.beurs.nl/Nieuws/877957/ASMI-rondt-aandeleninkoop-af.aspx",
+    "intro": "ASMI heeft zijn aandeleninkoopprogramma voor 2026 ter waarde van 150 miljoen euro afgerond. Dit meldde het halfgeleiderbedrijf uit Almere dinsdagavond.",
+    "published_at": "2026-09-15 18:19",
+    "scraped_at": "2026-09-15T19:06:43.243891"
+  },
+  {
+    "id": "cfa333cef30cc2c3525e4c215f684e69",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers toch weer onder druk in AEX",
+    "link": "https://www.beurs.nl/Nieuws/877955/Chippers-toch-weer-onder-druk-in-AEX.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag licht lager geëindigd, nadat een herstelpoging van de halfgeleideraandelen mislukte, terwijl de olieprijzen en rentes verder stegen.",
+    "published_at": "2026-09-15 17:55",
+    "scraped_at": "2026-09-15T19:06:43.243891"
+  },
+  {
+    "id": "b1ea748438de57716aba5b38005747e2",
+    "categorie": "IEX Nieuws",
+    "titel": "Prinsjesdag: 13 fiscale maatregelen die je portemonnee in 2027 raken",
+    "link": "https://www.beurs.nl/Artikel/877912/Prinsjesdag-13-fiscale-maatregelen-die-je-portemonnee-in-2027-raken.aspx",
+    "intro": "Lagere overdrachtsbelasting voor woningbeleggers, hogere zorgkosten, hogere waterrekening en een hogere arbeidskorting.",
+    "published_at": "2026-09-15 17:50",
+    "scraped_at": "2026-09-15T19:06:43.243891"
+  },
+  {
     "id": "c686263add9ae49b07ba484aeda42039",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/877942/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 23 september 2026:",
     "published_at": "2026-09-15 16:19",
-    "scraped_at": "2026-09-15T15:17:10.582119"
+    "scraped_at": "2026-09-15T19:06:43.243891"
   },
   {
     "id": "b59f8b0dc001839baadd7354c3b1ba5b",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/877940/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 23 september 2026:",
     "published_at": "2026-09-15 16:18",
-    "scraped_at": "2026-09-15T15:17:10.582119"
+    "scraped_at": "2026-09-15T19:06:43.243891"
   },
   {
     "id": "d9664a7a91ece123fab7845d608cc858",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/877941/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 23 september 2026:",
     "published_at": "2026-09-15 16:18",
-    "scraped_at": "2026-09-15T15:17:10.582119"
-  },
-  {
-    "id": "ead847199112c4f8d7427969ec76c112",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: renteverhoging Fed gerechtvaardigd",
-    "link": "https://www.beurs.nl/Nieuws/877937/Beursblik-renteverhoging-Fed-gerechtvaardigd.aspx",
-    "intro": "De Federal Reserve zal de rente aanstaande woensdag hoogstwaarschijnlijk met 25 basispunten verhogen naar een bandbreedte van 3,75 tot 4,00 procent, nu de inflatie in de Verenigde Staten hardnekkig blijft. Dit is de verwachting van de markt en analisten.",
-    "published_at": "2026-09-15 15:45",
-    "scraped_at": "2026-09-15T15:17:10.582119"
-  },
-  {
-    "id": "0c5dc7ee3e3d98eaf0f16b7b46dc58c9",
-    "categorie": "IEX Nieuws",
-    "titel": "CPB: gemiddelde koopkracht daalt licht in 2027",
-    "link": "https://www.beurs.nl/Artikel/877918/CPB-gemiddelde-koopkracht-daalt-licht-in-2027.aspx",
-    "intro": "Veel inkomensgroepen gaan er licht op achteruit, vooral werkenden en Nederlanders met een middelhoog tot hoger inkomen. Gepensioneerden ontspringen de dans.",
-    "published_at": "2026-09-15 15:35",
-    "scraped_at": "2026-09-15T15:17:10.582119"
-  },
-  {
-    "id": "67abe3d7b2180ae0b25a947aa665ae4c",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht licht lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/877932/Wall-Street-wacht-licht-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag naar verwachting een licht lagere start tegemoet, terwijl beleggers wederom werden geconfronteerd met verder oplopende rentes en hogere olieprijzen.",
-    "published_at": "2026-09-15 14:54",
-    "scraped_at": "2026-09-15T15:17:10.582119"
-  },
-  {
-    "id": "5a7bed3b91d619c261c238822211cd7d",
-    "categorie": "Beursnieuws",
-    "titel": "Empire State index daalt flink",
-    "link": "https://www.beurs.nl/Nieuws/877930/Empire-State-index-daalt-flink.aspx",
-    "intro": "De bedrijvigheid in de industrie in de regio New York is in september veel minder hard toegenomen. Dit bleek dinsdag uit de zogeheten Empire State index van de New York Fed.",
-    "published_at": "2026-09-15 14:37",
-    "scraped_at": "2026-09-15T15:17:10.582119"
-  },
-  {
-    "id": "6429b4729791b85566a6ad9234fb839b",
-    "categorie": "Beurs vandaag",
-    "titel": "Vooruitblik: Fed staat voor politiek geladen rentebesluit",
-    "link": "https://www.beurs.nl/Artikel/877788/Vooruitblik-Fed-staat-voor-politiek-geladen-rentebesluit.aspx",
-    "intro": "De kans is groot dat de rente omhoog gaat. De timing is om meerdere redenen pikant.",
-    "published_at": "2026-09-15 14:15",
-    "scraped_at": "2026-09-15T15:17:10.582119"
-  },
-  {
-    "id": "2edc1a854579d6cb80d4f41dde63b1c0",
-    "categorie": "Beursnieuws",
-    "titel": "AEX weet verlies terug te dringen",
-    "link": "https://www.beurs.nl/Nieuws/877921/AEX-weet-verlies-terug-te-dringen.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag licht lager en wist zo een groot gedeelte van de eerdere verliezen weg te werken.",
-    "published_at": "2026-09-15 13:44",
-    "scraped_at": "2026-09-15T15:17:10.582119"
-  },
-  {
-    "id": "6e85009ed2675865877a366022c46647",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren lagere opening",
-    "link": "https://www.beurs.nl/Nieuws/877911/Futures-Wall-Street-signaleren-lagere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet, terwijl beleggers wederom werden geconfronteerd met verder oplopende rentes en hogere olieprijzen.",
-    "published_at": "2026-09-15 12:54",
-    "scraped_at": "2026-09-15T15:17:10.582119"
+    "scraped_at": "2026-09-15T19:06:43.243891"
   }
 ]
