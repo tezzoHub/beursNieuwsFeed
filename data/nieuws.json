@@ -1,56 +1,92 @@
 [
   {
-    "id": "fec08569a4a64f6b49fe4f6a8a5c912f",
+    "id": "99473547b5673b0a14164691e83cc85a",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen waarschijnlijk lager",
-    "link": "https://www.beurs.nl/Nieuws/877852/Europese-beurzen-openen-waarschijnlijk-lager.aspx",
-    "intro": "De aandelenmarkten in Europa gaan dinsdag een lagere opening tegemoet. Wall Street sloot gisteren lager door zorgen over het gebruik van AI, hoge rentes en olieprijzen. \"Het piept en het kraakt op financiële markten\", aldus analisten van Rabobank maandag.",
-    "published_at": "2026-09-15 07:09",
-    "scraped_at": "2026-09-15T05:27:44.215483"
+    "titel": "Valuta: dollar stabiliseert na sterke weekstart",
+    "link": "https://www.beurs.nl/Nieuws/877903/Valuta-dollar-stabiliseert-na-sterke-weekstart.aspx",
+    "intro": "De dollar kende maandag een sterke start van de week, maar zal volgens valuta-analist Francesco Pesole van ING mogelijk wat stabiliseren in aanloop naar het rentebesluit van de Federal Reserve morgenavond. Verwacht wordt dat de Fed de rente met 25 basispunten zal verhogen.",
+    "published_at": "2026-09-15 11:55",
+    "scraped_at": "2026-09-15T10:29:09.911699"
   },
   {
-    "id": "2f6ec19e3c9fb2f9ababef3e0293710c",
+    "id": "b5ad408c8c5f16f2c5219a0c6abf4f3d",
     "categorie": "Beursnieuws",
-    "titel": "Productie Chinese industrie stijgt in nog hoger tempo",
-    "link": "https://www.beurs.nl/Nieuws/877850/Productie-Chinese-industrie-stijgt-in-nog-hoger-tempo.aspx",
-    "intro": "De industriële productie in China is in augustus harder gestegen. Dit bleek dinsdag uit Chinese overheidscijfers.",
-    "published_at": "2026-09-15 07:02",
-    "scraped_at": "2026-09-15T05:27:44.215483"
+    "titel": "Duitse ZEW-index iets omhoog",
+    "link": "https://www.beurs.nl/Nieuws/877900/Duitse-ZEW-index-iets-omhoog.aspx",
+    "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in september iets verder gestegen. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
+    "published_at": "2026-09-15 11:36",
+    "scraped_at": "2026-09-15T10:29:09.911699"
   },
   {
-    "id": "c0ece245602d12263aaac1aeddcc6f47",
+    "id": "406e929f4bc45bebe2f5904bef59b394",
     "categorie": "Beursnieuws",
-    "titel": "Chinese detailhandelsverkopen stijgen minder hard",
-    "link": "https://www.beurs.nl/Nieuws/877849/Chinese-detailhandelsverkopen-stijgen-minder-hard.aspx",
-    "intro": "De detailhandelsverkopen in China zijn in augustus opnieuw in een lager tempo gestegen, terwijl op maandbasis zelfs sprake was van een daling. Dit bleek dinsdag uit Chinese overheidscijfers.",
-    "published_at": "2026-09-15 06:59",
-    "scraped_at": "2026-09-15T05:27:44.215483"
+    "titel": "Export eurozone stijgt opnieuw flink",
+    "link": "https://www.beurs.nl/Nieuws/877895/Export-eurozone-stijgt-opnieuw-flink.aspx",
+    "intro": "De export in de eurozone is in juli harder gestegen dan de import. Dit bleek dinsdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
+    "published_at": "2026-09-15 11:10",
+    "scraped_at": "2026-09-15T10:29:09.911699"
   },
   {
-    "id": "96e64c6869543fdfd8905b7df03b53a2",
+    "id": "91264ba43b78d0bf82c05f51a3a5ceb9",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/877845/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 22 september 2026:",
-    "published_at": "2026-09-15 06:54",
-    "scraped_at": "2026-09-15T05:27:44.215483"
+    "titel": "Beursupdate: oplopende rentes en hoge olieprijs drukken sentiment Damrak",
+    "link": "https://www.beurs.nl/Nieuws/877891/Beursupdate-oplopende-rentes-en-hoge-olieprijs-drukken-sentiment-Damrak.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdag lager, terwijl beleggers wederom werden geconfronteerd met verder oplopende rentes en hogere olieprijzen.",
+    "published_at": "2026-09-15 10:40",
+    "scraped_at": "2026-09-15T10:29:09.911699"
   },
   {
-    "id": "dccc016865cae4af41079b4e610bbbad",
+    "id": "e46c26b4f03c1bea20de4060c7a458dd",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/877846/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 22 september 2026:",
-    "published_at": "2026-09-15 06:54",
-    "scraped_at": "2026-09-15T05:27:44.215483"
+    "titel": "Obligatie: oplopende rentes zetten financiële markten onder druk",
+    "link": "https://www.beurs.nl/Nieuws/877887/Obligatie-oplopende-rentes-zetten-financiele-markten-onder-druk.aspx",
+    "intro": "De obligatiemarkten staan dinsdagochtend wereldwijd onder druk, nadat de Amerikaanse tienjaarsrente maandag voor het eerst sinds 2007 weer boven de 5,00 procent uitkwam.",
+    "published_at": "2026-09-15 10:13",
+    "scraped_at": "2026-09-15T10:29:09.911699"
   },
   {
-    "id": "abc35b0572126b5116340953404de0c6",
+    "id": "9a0141baf9032b823b65a5d30af21224",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/877847/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 22 september 2026:",
-    "published_at": "2026-09-15 06:54",
-    "scraped_at": "2026-09-15T05:27:44.215483"
+    "titel": "Wolters Kluwer breidt AI-platform Libra uit",
+    "link": "https://www.beurs.nl/Nieuws/877886/Wolters-Kluwer-breidt-AI-platform-Libra-uit.aspx",
+    "intro": "Wolters Kluwer heeft Libra, een juridische AI-tool, uitgebreid met content van Kluwer Law International. Dit maakte het databedrijf dinsdagochtend bekend.",
+    "published_at": "2026-09-15 10:05",
+    "scraped_at": "2026-09-15T10:29:09.911699"
+  },
+  {
+    "id": "a26b2bf112adeb83295e4e35b74c71b1",
+    "categorie": "Beursnieuws",
+    "titel": "Spaanse inflatie loopt op",
+    "link": "https://www.beurs.nl/Nieuws/877875/Spaanse-inflatie-loopt-op.aspx",
+    "intro": "De Spaanse inflatie is in augustus gestegen. Dit bleek dinsdag uit definitieve cijfers van het Spaanse statistiekbureau Ine.",
+    "published_at": "2026-09-15 09:20",
+    "scraped_at": "2026-09-15T10:29:09.911699"
+  },
+  {
+    "id": "d46a884515cb9592ac44b7e2d95ff00a",
+    "categorie": "Beursnieuws",
+    "titel": "AEX lager van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/877872/AEX-lager-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,2 procent lager op 1.095,48 punten, terwijl de Midkap ook lager noteerde.",
+    "published_at": "2026-09-15 09:13",
+    "scraped_at": "2026-09-15T10:29:09.911699"
+  },
+  {
+    "id": "4d846092bc5f729a421903972de5a735",
+    "categorie": "Beursnieuws",
+    "titel": "Franse inflatie gestegen",
+    "link": "https://www.beurs.nl/Nieuws/877869/Franse-inflatie-gestegen.aspx",
+    "intro": "De inflatie in Frankrijk is in augustus inderdaad gestegen. Dit bleek dinsdag uit definitieve cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-09-15 08:52",
+    "scraped_at": "2026-09-15T10:29:09.911699"
+  },
+  {
+    "id": "fd1adf59482b76dcf621fc3ff8c7f2db",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start vermoedelijk licht lager met blik op rente olie en AI",
+    "link": "https://www.beurs.nl/Nieuws/877864/AEX-start-vermoedelijk-licht-lager-met-blik-op-rente-olie-en-AI.aspx",
+    "intro": "De Amsterdamse beurs gaat dinsdag op Prinsjesdag naar verwachting lager van start, nadat Wall Street maandagavond de verliezen uiteindelijk wist te beperken, net als de Aziatische beurzen vanochtend.",
+    "published_at": "2026-09-15 08:09",
+    "scraped_at": "2026-09-15T10:29:09.911699"
   }
 ]
