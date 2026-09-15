@@ -1,92 +1,56 @@
 [
   {
-    "id": "666390039f13cf04fd71cf006f88016f",
+    "id": "fec08569a4a64f6b49fe4f6a8a5c912f",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/877834/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten, waaronder zwaargewichten ASML en Unilever.",
-    "published_at": "2026-09-14 22:22",
-    "scraped_at": "2026-09-15T00:43:09.603841"
+    "titel": "Europese beurzen openen waarschijnlijk lager",
+    "link": "https://www.beurs.nl/Nieuws/877852/Europese-beurzen-openen-waarschijnlijk-lager.aspx",
+    "intro": "De aandelenmarkten in Europa gaan dinsdag een lagere opening tegemoet. Wall Street sloot gisteren lager door zorgen over het gebruik van AI, hoge rentes en olieprijzen. \"Het piept en het kraakt op financiële markten\", aldus analisten van Rabobank maandag.",
+    "published_at": "2026-09-15 07:09",
+    "scraped_at": "2026-09-15T05:27:44.215483"
   },
   {
-    "id": "f7a9fab3444e38d3e1a3404a054fcf49",
+    "id": "2f6ec19e3c9fb2f9ababef3e0293710c",
     "categorie": "Beursnieuws",
-    "titel": "Geen paniek op Wall Street na AI-waarschuwing",
-    "link": "https://www.beurs.nl/Nieuws/877833/Geen-paniek-op-Wall-Street-na-AI-waarschuwing.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag licht lager geëindigd, terwijl chipaandelen de gebeten hond waren na waarschuwingen over het gebruik van kunstmatige intelligentie. De olieprijzen en rentes bleven hoog, maar zakten richting het slot wel iets terug.",
-    "published_at": "2026-09-14 22:16",
-    "scraped_at": "2026-09-15T00:43:09.603841"
+    "titel": "Productie Chinese industrie stijgt in nog hoger tempo",
+    "link": "https://www.beurs.nl/Nieuws/877850/Productie-Chinese-industrie-stijgt-in-nog-hoger-tempo.aspx",
+    "intro": "De industriële productie in China is in augustus harder gestegen. Dit bleek dinsdag uit Chinese overheidscijfers.",
+    "published_at": "2026-09-15 07:02",
+    "scraped_at": "2026-09-15T05:27:44.215483"
   },
   {
-    "id": "c018ab0f6c6fff89ac3aeb991e8faf4f",
+    "id": "c0ece245602d12263aaac1aeddcc6f47",
     "categorie": "Beursnieuws",
-    "titel": "Aandelen Bank of America onder druk",
-    "link": "https://www.beurs.nl/Nieuws/877830/Aandelen-Bank-of-America-onder-druk.aspx",
-    "intro": "De aandelen van Bank of America daalden maandag scherp nadat CEO Brian Moynihan van de bank aangaf dat de kwartaalomzet en de handelsinkomsten \"gelijk\" zouden blijven ten opzichte van een jaar geleden.",
-    "published_at": "2026-09-14 21:08",
-    "scraped_at": "2026-09-15T00:43:09.603841"
+    "titel": "Chinese detailhandelsverkopen stijgen minder hard",
+    "link": "https://www.beurs.nl/Nieuws/877849/Chinese-detailhandelsverkopen-stijgen-minder-hard.aspx",
+    "intro": "De detailhandelsverkopen in China zijn in augustus opnieuw in een lager tempo gestegen, terwijl op maandbasis zelfs sprake was van een daling. Dit bleek dinsdag uit Chinese overheidscijfers.",
+    "published_at": "2026-09-15 06:59",
+    "scraped_at": "2026-09-15T05:27:44.215483"
   },
   {
-    "id": "a12f8b8a4c1632a0e310ef5e903d6b01",
+    "id": "96e64c6869543fdfd8905b7df03b53a2",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen stijgen door",
-    "link": "https://www.beurs.nl/Nieuws/877828/Olieprijzen-stijgen-door.aspx",
-    "intro": "De olieprijzen zijn maandag verder gestegen, nadat ze vorige week al 9 procent hoger stonden, nu het conflict in het Midden-Oosten zich uitbreidt en een tweede belangrijke zeestraat onder druk staat.",
-    "published_at": "2026-09-14 20:57",
-    "scraped_at": "2026-09-15T00:43:09.603841"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/877845/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 22 september 2026:",
+    "published_at": "2026-09-15 06:54",
+    "scraped_at": "2026-09-15T05:27:44.215483"
   },
   {
-    "id": "c768d6c9ed2d6a2f508a2708df8ae00f",
-    "categorie": "Beursnieuws",
-    "titel": "Chipbedrijven onderuit op lichtrood Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/877826/Chipbedrijven-onderuit-op-lichtrood-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag licht lager, waarbij chipaandelen de gebeten hond waren na waarschuwingen over het gebruik van kunstmatige intelligentie.",
-    "published_at": "2026-09-14 19:53",
-    "scraped_at": "2026-09-15T00:43:09.603841"
-  },
-  {
-    "id": "f296802a717864db3bc6e1a8c3fe9086",
-    "categorie": "Beursnieuws",
-    "titel": "AI-zorgen trekken Europese beurzen in het rood",
-    "link": "https://www.beurs.nl/Nieuws/877821/AI-zorgen-trekken-Europese-beurzen-in-het-rood.aspx",
-    "intro": "De Europese beurzen zijn maandag overwegend lager geëindigd, terwijl de zorgen over AI oplaaiden en de olieprijzen en rentes opnieuw stegen.",
-    "published_at": "2026-09-14 18:39",
-    "scraped_at": "2026-09-15T00:43:09.603841"
-  },
-  {
-    "id": "66c9b9fd3f45bcb04cbf7052e8578708",
-    "categorie": "Beursnieuws",
-    "titel": "Avantium zet nieuwe stap in voedselverpakkingen",
-    "link": "https://www.beurs.nl/Nieuws/877820/Avantium-zet-nieuwe-stap-in-voedselverpakkingen.aspx",
-    "intro": "Avantium heeft een capaciteitsovereenkomst getekend met Klöckner Pentaplast voor toepassing van PEF in voedselverpakkingen. Dit meldde Avantium maandagavond.",
-    "published_at": "2026-09-14 18:13",
-    "scraped_at": "2026-09-15T00:43:09.603841"
-  },
-  {
-    "id": "1fd41698786a2107cc512ac4aca6e452",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit vlak ondanks koersval chippers",
-    "link": "https://www.beurs.nl/Nieuws/877816/AEX-sluit-vlakondanks-koersval-chippers.aspx",
-    "intro": "De Amsterdamse beurs is maandag nauwelijks van zijn plek gekomen, maar binnen de AEX waren er flinke uitschieters, beide kanten uit.",
-    "published_at": "2026-09-14 17:52",
-    "scraped_at": "2026-09-15T00:43:09.603841"
-  },
-  {
-    "id": "0292c2a10d82d2ce5bff412f674bdef3",
-    "categorie": "Beursnieuws",
-    "titel": "Trump: Rusland en Oekraïne laten elkaars energie met rust",
-    "link": "https://www.beurs.nl/Nieuws/877808/Trump-Rusland-en-Oekraine-laten-elkaars-energie-met-rust.aspx",
-    "intro": "Oekraïne en Rusland zullen elkaars energie-infrastructuur met rust laten. Dit meldde de Amerikaanse president Donald Trump op Truth Social.",
-    "published_at": "2026-09-14 17:36",
-    "scraped_at": "2026-09-15T00:43:09.603841"
-  },
-  {
-    "id": "d5f2739810fb5c9bed7060b30531f4ab",
+    "id": "dccc016865cae4af41079b4e610bbbad",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/877791/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/877846/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 22 september 2026:",
-    "published_at": "2026-09-14 16:33",
-    "scraped_at": "2026-09-15T00:43:09.603841"
+    "published_at": "2026-09-15 06:54",
+    "scraped_at": "2026-09-15T05:27:44.215483"
+  },
+  {
+    "id": "abc35b0572126b5116340953404de0c6",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/877847/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 22 september 2026:",
+    "published_at": "2026-09-15 06:54",
+    "scraped_at": "2026-09-15T05:27:44.215483"
   }
 ]
