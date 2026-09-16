@@ -1,12 +1,66 @@
 [
   {
+    "id": "9a347c824c72f6ecee32e46adc3d12cd",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street verdeeld na renteverhoging",
+    "link": "https://www.beurs.nl/Nieuws/878133/Wall-Street-verdeeld-na-renteverhoging.aspx",
+    "intro": "De Amerikaanse beurzen stonden woensdag overwegend licht hoger, maar bewogen weinig nadat de Federal Reserve zoals verwacht de rente verhoogde, terwijl uit de dot plot bleek dat veel beleidsmakers meer renteverhogingen voorzien dit jaar.",
+    "published_at": "2026-09-16 20:38",
+    "scraped_at": "2026-09-16T18:57:06.392689"
+  },
+  {
+    "id": "68985ab12860f5221c00938350be5d0f",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Fed verhoogt rente met 25 basispunten",
+    "link": "https://www.beurs.nl/Nieuws/878131/Update-Fed-verhoogt-rente-met-25-basispunten.aspx",
+    "intro": "De Amerikaanse Federal Reserve heeft woensdagavond de rente zoals verwacht met 25 basispunten verhoogd.",
+    "published_at": "2026-09-16 20:20",
+    "scraped_at": "2026-09-16T18:57:06.392689"
+  },
+  {
+    "id": "dc735405b8f133d921e4025d5dcd5519",
+    "categorie": "Beursnieuws",
+    "titel": "Fed verhoogt rente met 25 basispunten",
+    "link": "https://www.beurs.nl/Nieuws/878125/Fed-verhoogt-rente-met-25-basispunten.aspx",
+    "intro": "De Amerikaanse Federal Reserve heeft woensdagavond de rente zoals verwacht met 25 basispunten verhoogd.",
+    "published_at": "2026-09-16 20:03",
+    "scraped_at": "2026-09-16T18:57:06.392689"
+  },
+  {
+    "id": "e3dff198a9fb81821a20119c56511a66",
+    "categorie": "Beurs vandaag",
+    "titel": "Eerste Amerikaanse renteverhoging in 3 jaar - alles wat je wil weten",
+    "link": "https://www.beurs.nl/Artikel/878124/Eerste-Amerikaanse-renteverhoging-in-3-jaar-alles-wat-je-wil-weten.aspx",
+    "intro": "De federal funds rate gaat met 25 basispunten omhoog naar 3,75% - 4,00%. En er lijkt nóg een renteverhoging aan te komen dit jaar.",
+    "published_at": "2026-09-16 20:00",
+    "scraped_at": "2026-09-16T18:57:06.392689"
+  },
+  {
+    "id": "da80dd55f1996b8585a919c4a02412d1",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen hoger gesloten na daling olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/878123/Europese-beurzen-hoger-gesloten-na-daling-olieprijs.aspx",
+    "intro": "Europese aandelen zijn woensdag hoger gesloten, terwijl de olieprijzen licht daalden en beleggers wachtten op het rentebesluit van de Federal Reserve vanavond.",
+    "published_at": "2026-09-16 19:02",
+    "scraped_at": "2026-09-16T18:57:06.392689"
+  },
+  {
+    "id": "535ea22465afdaf31c290827e845afd6",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit vlak met blik op de Fed",
+    "link": "https://www.beurs.nl/Nieuws/878119/AEX-sluit-vlak-met-blik-op-de-Fed.aspx",
+    "intro": "De Amsterdamse beurs is woensdag licht hoger gesloten, terwijl beleggers de adem inhielden voor het komende Amerikaanse rentebesluit. Daarbij zal vanavond vooral de toelichting en de zogeheten dot plot veel aandacht krijgen.",
+    "published_at": "2026-09-16 17:50",
+    "scraped_at": "2026-09-16T18:57:06.392689"
+  },
+  {
     "id": "ee64b6cc9fff4ebfa1e71266139eccee",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/878106/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 24 september 2026:",
     "published_at": "2026-09-16 16:40",
-    "scraped_at": "2026-09-16T15:03:38.338929"
+    "scraped_at": "2026-09-16T18:57:06.392689"
   },
   {
     "id": "9ad31c2fc93410e2e48a96f7bc0ee254",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/878105/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 24 september 2026:",
     "published_at": "2026-09-16 16:38",
-    "scraped_at": "2026-09-16T15:03:38.338929"
+    "scraped_at": "2026-09-16T18:57:06.392689"
   },
   {
     "id": "37db3458dd0f6cd796ceef1f571266a6",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/878104/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 24 september 2026:",
     "published_at": "2026-09-16 16:37",
-    "scraped_at": "2026-09-16T15:03:38.338929"
+    "scraped_at": "2026-09-16T18:57:06.392689"
   },
   {
     "id": "2c2bfdbe3b2f48aeb695a6602fd49a0d",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/878103/Amerikaanse-olievoorraden-dalen-licht.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week licht gedaald, terwijl de benzinevoorraden stegen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-09-16 16:36",
-    "scraped_at": "2026-09-16T15:03:38.338929"
-  },
-  {
-    "id": "2eeaca039f5e26e81310f7c21ea1dcd2",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen Amerikaanse huizenbouwers daalt",
-    "link": "https://www.beurs.nl/Nieuws/878100/Vertrouwen-Amerikaanse-huizenbouwers-daalt.aspx",
-    "intro": "Het vertrouwen onder Amerikaanse huizenbouwers is in september gedaald. Dit bleek woensdag uit data van de National Association of Home Builders.",
-    "published_at": "2026-09-16 16:10",
-    "scraped_at": "2026-09-16T15:03:38.338929"
-  },
-  {
-    "id": "cd3a35a8a2a0ab842607116a14f357a0",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse bedrijfsvoorraden gestegen",
-    "link": "https://www.beurs.nl/Nieuws/878099/Amerikaanse-bedrijfsvoorraden-gestegen.aspx",
-    "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in juli gestegen. Dit bleek woensdagmiddag uit cijfers van het Amerikaanse ministerie van Handel.",
-    "published_at": "2026-09-16 16:06",
-    "scraped_at": "2026-09-16T15:03:38.338929"
-  },
-  {
-    "id": "34050e6cc82027f8c39ec3d88f199cfd",
-    "categorie": "Beursnieuws",
-    "titel": "Reuters: iFood van Prosus investeert ruim 4 miljard euro in Brazilië",
-    "link": "https://www.beurs.nl/Nieuws/878091/Reuters-iFood-van-Prosus-investeert-ruim-4-miljard-euro-in-Brazilie.aspx",
-    "intro": "iFood, de Braziliaanse maaltijdbezorger van Prosus, is van plan om in het lopende boekjaar 24 miljard Braziliaanse real, omgerekend iets meer dan 4 miljard euro, te investeren in Brazilië. Dit schreef persbureau Reuters woensdag na een gesprek met CEO Diego Barreto.",
-    "published_at": "2026-09-16 15:42",
-    "scraped_at": "2026-09-16T15:03:38.338929"
-  },
-  {
-    "id": "d5a4e7766dbcdb0fdb8b88aeda75d1f8",
-    "categorie": "Geld & Vermogen",
-    "titel": "Belastingplannen 2027: maatregelen voor ondernemers",
-    "link": "https://www.beurs.nl/Artikel/877931/Belastingplannen-2027-maatregelen-voor-ondernemers.aspx",
-    "intro": "De zelfstandigenaftrek gaat verder omlaag, er komt meer belastingvoordeel voor innovatie en duurzame investeringen. En werknemersopties worden aantrekkelijker voor start-ups en scale-ups.",
-    "published_at": "2026-09-16 14:50",
-    "scraped_at": "2026-09-16T15:03:38.338929"
-  },
-  {
-    "id": "f9eb65aac706fdd2018d7c6c938c3558",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street opent hoger",
-    "link": "https://www.beurs.nl/Nieuws/878080/Wall-Street-opent-hoger.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag naar verwachting een hogere opening tegemoet, terwijl beleggers wachten op het Amerikaanse rentebesluit. Vooral de toelichting en de zogeheten dot plot zullen veel aandacht krijgen.",
-    "published_at": "2026-09-16 14:48",
-    "scraped_at": "2026-09-16T15:03:38.338929"
-  },
-  {
-    "id": "7b49b3edeb3aca44c6fa5c06b223d1ca",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse detailhandelsverkopen gestegen",
-    "link": "https://www.beurs.nl/Nieuws/878076/Amerikaanse-detailhandelsverkopen-gestegen.aspx",
-    "intro": "De detailhandelsverkopen in de Verenigde Staten zijn in augustus gestegen. Dit meldde de Amerikaanse overheid woensdagmiddag.",
-    "published_at": "2026-09-16 14:37",
-    "scraped_at": "2026-09-16T15:03:38.338929"
+    "scraped_at": "2026-09-16T18:57:06.392689"
   }
 ]
