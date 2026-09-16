@@ -1,47 +1,92 @@
 [
   {
-    "id": "0b8ab31af8a43cd13d68bc58ed65fb30",
+    "id": "81a6f30a6bce235d40a0da8b705f7bfd",
     "categorie": "Beursnieuws",
-    "titel": "Groene koersen in Azië",
-    "link": "https://www.beurs.nl/Nieuws/878003/Groene-koersen-in-Azie.aspx",
-    "intro": "De Aziatische beurzen noteerden woensdag in het groen, maar de winsten bleven beperkt, na de verliezen dinsdagavond op Wall Street.",
-    "published_at": "2026-09-16 07:12",
-    "scraped_at": "2026-09-16T05:21:09.644655"
+    "titel": "Beursblik: Bank of England zal rente opnieuw handhaven",
+    "link": "https://www.beurs.nl/Nieuws/878052/Beursblik-Bank-of-England-zal-rente-opnieuw-handhaven.aspx",
+    "intro": "De Bank of England zal de beleidsrente donderdag opnieuw handhaven op 3,75 procent. Dit verwacht de markt in aanloop naar het Britse rentebesluit.",
+    "published_at": "2026-09-16 12:02",
+    "scraped_at": "2026-09-16T10:07:38.243312"
   },
   {
-    "id": "23c4f74d53c4f53c2ff1801dc3039c8f",
+    "id": "d2465cfc700fccc6b793f4bd57010814",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen gaan licht hogere opening tegemoet",
-    "link": "https://www.beurs.nl/Nieuws/878002/Europese-beurzen-gaan-licht-hogere-opening-tegemoet.aspx",
-    "intro": "De Europese beurzen gaan woensdag naar verwachting een licht hogere opening tegemoet, in afwachting van het rentebesluit van de Federal Reserve dat vanavond staat geagendeerd.",
-    "published_at": "2026-09-16 07:10",
-    "scraped_at": "2026-09-16T05:21:09.644655"
+    "titel": "Industriële productie eurozone licht gedaald",
+    "link": "https://www.beurs.nl/Nieuws/878045/Industriele-productie-eurozone-licht-gedaald.aspx",
+    "intro": "De industriële productie in de eurozone is in juli licht gedaald. Dit bleek woensdag uit cijfers van Eurostat, het statistiekbureau van de EU.",
+    "published_at": "2026-09-16 11:08",
+    "scraped_at": "2026-09-16T10:07:38.243312"
   },
   {
-    "id": "7112c8daf2c8b439a6cdf1859d03805c",
+    "id": "5767413af1eb664035b6d816d4c4b16f",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/878000/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 23 september 2026:",
-    "published_at": "2026-09-16 06:51",
-    "scraped_at": "2026-09-16T05:21:09.644655"
+    "titel": "Von der Leyen wil Canada als geassocieerd lid van de EU",
+    "link": "https://www.beurs.nl/Nieuws/878044/Von-der-Leyen-wil-Canada-als-geassocieerd-lid-van-de-EU.aspx",
+    "intro": "Ursula von der Leyen wil Canada het eerste geassocieerde lid van de Europese Unie maken. De voorzitter van de Europese Commissie deed dit voorstel woensdag in Straatsburg, tijdens haar jaarlijkse State of the Union, waarvoor de Canadese premier Mark Carney was uitgenodigd.",
+    "published_at": "2026-09-16 10:53",
+    "scraped_at": "2026-09-16T10:07:38.243312"
   },
   {
-    "id": "0ca03f52e4437fc89ac8841f56a0b1db",
+    "id": "6d970dd4def50391e72f84129df8084a",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/877998/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 23 september 2026:",
-    "published_at": "2026-09-16 06:50",
-    "scraped_at": "2026-09-16T05:21:09.644655"
+    "titel": "Chipaandelen aan kop in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/878043/Chipaandelen-aan-kop-in-vlakke-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde woensdag nagenoeg vlak, terwijl beleggers wachten op het Amerikaanse rentebesluit, waarbij vooral de toelichting en de zogeheten dot plot kunnen op veel aandacht kunnen rekenen.",
+    "published_at": "2026-09-16 10:46",
+    "scraped_at": "2026-09-16T10:07:38.243312"
   },
   {
-    "id": "643c988dc72ba806e0dc0276306b2883",
+    "id": "db1f5709a09770446e0193d817b4a740",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/877999/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 23 september 2026:",
-    "published_at": "2026-09-16 06:50",
-    "scraped_at": "2026-09-16T05:21:09.644655"
+    "titel": "Italiaanse inflatie duidelijk hoger",
+    "link": "https://www.beurs.nl/Nieuws/878042/Italiaanse-inflatie-duidelijk-hoger.aspx",
+    "intro": "De Italiaanse inflatie is in augustus duidelijk gestegen. Dit bleek woensdag uit definitieve cijfers van het Italiaanse statistiekbureau Istat, die gelijk waren aan de voorlopige.",
+    "published_at": "2026-09-16 10:33",
+    "scraped_at": "2026-09-16T10:07:38.243312"
+  },
+  {
+    "id": "728b1e6d94ad2f4ad6cc231d41af512e",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank zet AB InBev op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/878037/Deutsche-Bank-zet-AB-InBev-op-de-kooplijst.aspx",
+    "intro": "Deutsche Bank heeft woensdag het advies voor AB InBev verhoogd van Houden naar Kopen en het koersdoel daarbij verhoogd van 72,00 naar 79,00 euro, terwijl het koersdoel voor de Amsterdamse concurrent Heineken juist werd verlaagd van 80,00 naar 76,00 euro met een onveranderd Houden advies.",
+    "published_at": "2026-09-16 10:09",
+    "scraped_at": "2026-09-16T10:07:38.243312"
+  },
+  {
+    "id": "c2e01b1eac8ce53400634522877c8b83",
+    "categorie": "Beursnieuws",
+    "titel": "Ajax haalt Yves Bissouma",
+    "link": "https://www.beurs.nl/Nieuws/878031/Ajax-haalt-Yves-Bissouma.aspx",
+    "intro": "Ajax heeft Yves Bissouma vastgelegd. Dit maakte de Amsterdams voetbalclub woensdag bekend.",
+    "published_at": "2026-09-16 09:38",
+    "scraped_at": "2026-09-16T10:07:38.243312"
+  },
+  {
+    "id": "4a7b68a2107fa77cddf60ea78186fbd1",
+    "categorie": "Beursnieuws",
+    "titel": "AEX hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/878026/AEX-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste woensdag kort na de beursgong 0,3 procent hoger op 1.099,276 punten, terwijl de Midkap ook in het groen noteerde.",
+    "published_at": "2026-09-16 09:11",
+    "scraped_at": "2026-09-16T10:07:38.243312"
+  },
+  {
+    "id": "98d70e02ee0761734fcee123f411cef9",
+    "categorie": "Beursnieuws",
+    "titel": "SK Hynix onderhandelt met Intel",
+    "link": "https://www.beurs.nl/Nieuws/878020/SK-Hynix-onderhandelt-met-Intel.aspx",
+    "intro": "SK Hynix voert gesprekken met Intel over de productie van geheugenchips in de Verenigde Staten. Dit melden bronnen aan Reuters.",
+    "published_at": "2026-09-16 08:23",
+    "scraped_at": "2026-09-16T10:07:38.243312"
+  },
+  {
+    "id": "4cb334ce466eb0e4c9ed8a8dcf645f6a",
+    "categorie": "Voorbeurs",
+    "titel": "We gaan hoger openen en durft Warsh vanavond eindelijk te bijten?",
+    "link": "https://www.beurs.nl/Artikel/877994/We-gaan-hoger-openen-en-durft-Warsh-vanavond-eindelijk-te-bijten.aspx",
+    "intro": "Openingsindicatie: +0,3%. Olieprijzen dalen na onverwachte stijging Amerikaanse olievoorraden. En verder: ForFarmers, SK Hynix, Skyworks & Orvo en natuurlijk de Fed.",
+    "published_at": "2026-09-16 08:20",
+    "scraped_at": "2026-09-16T10:07:38.243312"
   }
 ]
