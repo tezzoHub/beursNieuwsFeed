@@ -1,92 +1,92 @@
 [
   {
-    "id": "5ce56444e8dcaf6a689276236c4d6dd1",
+    "id": "23b7409e2f6039240a30603111521f41",
     "categorie": "Beursnieuws",
-    "titel": "CVC neemt belang in Brits adviesbureau Ridge",
-    "link": "https://www.beurs.nl/Nieuws/878227/CVC-neemt-belang-in-Brits-adviesbureau-Ridge.aspx",
-    "intro": "CVC Capital heeft een belang in het Britse adviesbureau Ridge overgenomen van Horizon Capital, dat sinds april 2023 mede-eigenaar was. Dit maakten de ondernemingen donderdag bekend.",
-    "published_at": "2026-09-17 11:47",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/878292/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 25 september 2026:",
+    "published_at": "2026-09-17 16:37",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "fd677b33a9f7978dcf1d33fab73b0472",
+    "id": "61ad4eb361a5050cbc58473ec4383bb3",
     "categorie": "Beursnieuws",
-    "titel": "AEX koerst hoger na rentebesluit Fed",
-    "link": "https://www.beurs.nl/Nieuws/878226/AEX-koerst-hoger-na-rentebesluit-Fed.aspx",
-    "intro": "De Amsterdamse beurs noteerde donderdagochtend in het groen, nadat Amerikaanse futures vanochtend duidelijk aantrokken en de meeste Aziatische beurzen per saldo positief reageerden op het rentebesluit van de Federal Reserve.",
-    "published_at": "2026-09-17 11:39",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/878293/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 25 september 2026:",
+    "published_at": "2026-09-17 16:37",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "44570112672d32a74679d8f84f6991a8",
+    "id": "074bbc6a28b732b8840ffd2303d032e7",
     "categorie": "Beursnieuws",
-    "titel": "Europese inflatiestijging valt iets mee",
-    "link": "https://www.beurs.nl/Nieuws/878221/Europese-inflatiestijging-valt-iets-mee.aspx",
-    "intro": "De inflatie in de eurozone is in augustus toegenomen door een sterkere stijging van de energieprijzen. Dit bleek dinsdag uit definitieve cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-09-17 11:13",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/878294/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 25 september 2026:",
+    "published_at": "2026-09-17 16:37",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "d0997e2fa875826e9ed7d98226fb3e3b",
+    "id": "708efb62f4cb87c2e98fc12b315f5d7d",
     "categorie": "Beursnieuws",
-    "titel": "Carlyle en CVC DIF nemen beveiligingsbedrijf BauWatch over",
-    "link": "https://www.beurs.nl/Nieuws/878216/Carlyle-en-CVC-DIF-nemen-beveiligingsbedrijf-BauWatch-over.aspx",
-    "intro": "CVC DIF en Carlyle hebben een akooord bereikt over de overname van BauWatch. Dat hebben deze investeringsmaatschappijen donderdagochtend bekendgemaakt. Er werden geen financiële gegevens gedeeld.",
-    "published_at": "2026-09-17 10:54",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "Aanstaande woningverkopen VS stijgen licht",
+    "link": "https://www.beurs.nl/Nieuws/878287/Aanstaande-woningverkopen-VS-stijgen-licht.aspx",
+    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in augustus licht gestegen, vergeleken met een maand eerder, maar waren fors lager dan een jaar eerder. Dit bleek donderdag uit cijfers van makelaarsorganisatie NAR.",
+    "published_at": "2026-09-17 16:15",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "53a5f29d75ad6fe1251744ac0bba545e",
+    "id": "5167e8603d8f8ba626a8f6a77367efc4",
     "categorie": "Beursnieuws",
-    "titel": "Bilfinger verlaagt outlook vanwege geopolitieke onrust",
-    "link": "https://www.beurs.nl/Nieuws/878215/Bilfinger-verlaagt-outlook-vanwege-geopolitieke-onrust.aspx",
-    "intro": "Het Duitse Bilfinger heeft de outlook voor 2026 verlaagd vanwege de geopolitieke onzekerheid. Dit bleek donderdag uit een persbericht.",
-    "published_at": "2026-09-17 10:41",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "Zorgplatform Vitality breidt uit naar VS met AI-model van Google",
+    "link": "https://www.beurs.nl/Nieuws/878286/Zorgplatform-Vitality-breidt-uit-naar-VS-met-AI-model-van-Google.aspx",
+    "intro": "Vitality, onderdeel van Discovery Group, breidt uit naar de Amerikaanse markt met zijn platform Vitality AI, dat Google's AI-model Gemini gebruikt voor gedragsverandering in de gezondheidssector. Dit maakten de twee bedrijven donderdag bekend.",
+    "published_at": "2026-09-17 15:49",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "8db1b096ea477e35898bcaec607e44df",
+    "id": "b9b27c7c8904dd226670b131975ff1db",
     "categorie": "Beursnieuws",
-    "titel": "Exosens verhoogt outlook voor 2026",
-    "link": "https://www.beurs.nl/Nieuws/878213/Exosens-verhoogt-outlook-voor-2026.aspx",
-    "intro": "Exosens heeft de outlook voor 2026 naar boven bijgesteld. Dat maakte het Franse hightechbedrijf donderdagochtend bekend.",
-    "published_at": "2026-09-17 10:25",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "Tech weer in trek op groen Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/878280/Tech-weer-in-trek-op-groen-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan donderdag een beduidend hogere opening tegemoet, onder aanvoering van de techsector.",
+    "published_at": "2026-09-17 15:08",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "b36bd76dfc397764acdfe1522827245b",
+    "id": "9a421e37c387bd2c1d732bd69da13c15",
     "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam: goede desinvestering door Wereldhave Belgium",
-    "link": "https://www.beurs.nl/Nieuws/878210/Degroof-Petercam-goede-desinvestering-door-Wereldhave-Belgium.aspx",
-    "intro": "Wereldhave Belgium heeft De Mael Retail Park in Brugge tegen een aantrekkelijke waardering verkocht. Dit stelde analist Amal Aboulkhouatem van Degroof Petercam donderdag in een rapport.",
-    "published_at": "2026-09-17 10:13",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "Minder Amerikaanse bouwvergunningen afgegeven",
+    "link": "https://www.beurs.nl/Nieuws/878276/Minder-Amerikaanse-bouwvergunningen-afgegeven.aspx",
+    "intro": "Het aantal afgegeven bouwvergunningen in de Verenigde Staten is in augustus zoals verwacht gedaald, terwijl het aantal in aanbouw genomen woningen ook daalde, hoewel een toename was voorzien. Dit bleek donderdag uit overheidscijfers.",
+    "published_at": "2026-09-17 14:40",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "1489db74583a90e4fabe2c832160206b",
-    "categorie": "Must read",
-    "titel": "Must read: Fed doet iets wat Trump niet wil",
-    "link": "https://www.iex.nl/artikel/878201/Must-read-Fed-doet-iets-wat-Trump-niet-wil.aspx",
-    "intro": "De Amerikaanse rente is nog hoger. Plus; als de Amerikaanse overheid in een aandeel stapt, is dat helemaal niet zo goed. En 3 risico's voor indexbeleggers en de olieprijs stijgt maar door.",
-    "published_at": "2026-09-17 10:10",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "id": "c7a11ee543c0e36eab21b60d807beb7a",
+    "categorie": "Beursnieuws",
+    "titel": "Philadelphia Fed index gedaald",
+    "link": "https://www.beurs.nl/Nieuws/878274/Philadelphia-Fed-index-gedaald.aspx",
+    "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in september gedaald. Dit bleek donderdag uit de zogeheten Philly Fed index.",
+    "published_at": "2026-09-17 14:37",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "40e2941feb884602cfeea1ec16034c7d",
+    "id": "4b61ea4f992bb342643bcf561528e0a3",
     "categorie": "Beursnieuws",
-    "titel": "Degroof: Kendrion stelt niet teleur",
-    "link": "https://www.beurs.nl/Nieuws/878207/Degroof-Kendrion-stelt-niet-teleur.aspx",
-    "intro": "De hogere marge die Kendrion de komende jaren nastreeft, stelt niet teleur. Dit bleek uit een rapport van analist Frank Claassen van Degroof Petercam.",
-    "published_at": "2026-09-17 10:05",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "Minder nieuwe steunaanvragen in de VS",
+    "link": "https://www.beurs.nl/Nieuws/878273/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
+    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week flink gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-09-17 14:35",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   },
   {
-    "id": "ee14a6760383120625a19778230d69b3",
+    "id": "72dfdfe61ad9e176842a4ab7162f52af",
     "categorie": "Beursnieuws",
-    "titel": "Video: Fed zet obligatierentes hoger",
-    "link": "https://www.beurs.nl/Nieuws/878204/Video-Fed-zet-obligatierentes-hoger.aspx",
-    "intro": "De eerste renteverhoging van de Amerikaanse Federal Reserve jaagt de obligatierentes verder omhoog en stelt ook de Amerikaanse president niet tevreden. Dit zei hoofdeconoom Erik Joly van ABN AMRO MeesPierson tegen ABM Financial News.",
-    "published_at": "2026-09-17 09:30",
-    "scraped_at": "2026-09-17T10:28:21.466904"
+    "titel": "BofAm: consensus voor ASML en ASMI te laag",
+    "link": "https://www.beurs.nl/Nieuws/878267/BofAm-consensus-voor-ASML-en-ASMI-te-laag.aspx",
+    "intro": "De analistenconsensus voor sectorgenoten ASML en ASMI is te laag. Dit stelde analist Didier Scemama van Bank of America donderdag in een rapport.",
+    "published_at": "2026-09-17 14:15",
+    "scraped_at": "2026-09-17T15:19:41.557222"
   }
 ]
