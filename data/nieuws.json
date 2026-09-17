@@ -1,12 +1,57 @@
 [
   {
+    "id": "87df63e97e4dce4a718392789a12aa31",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Revolut mikt op dubbele beursnotering",
+    "link": "https://www.beurs.nl/Nieuws/878318/Media-Revolut-mikt-op-dubbele-beursnotering.aspx",
+    "intro": "Fintechbedrijf Revolut mikt op een dubbele beursnotering in New York en Londen. Dit meldde de Franse krant Les Echos donderdag op basis van uitspraken van oprichter en CEO Nik Storonsky.",
+    "published_at": "2026-09-17 20:57",
+    "scraped_at": "2026-09-17T19:06:56.892598"
+  },
+  {
+    "id": "7c177ce8c97938d9d238cba697239b26",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst hoger",
+    "link": "https://www.beurs.nl/Nieuws/878314/Wall-Street-koerst-hoger.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag hoger, terwijl de rentevrees afnam en ook de olieprijzen daalden dankzij optimisme over de toevoer uit Saoedi-Arabië.",
+    "published_at": "2026-09-17 19:41",
+    "scraped_at": "2026-09-17T19:06:56.892598"
+  },
+  {
+    "id": "93912433f62124ad1e89823b2fe2ee46",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten hoger",
+    "link": "https://www.beurs.nl/Nieuws/878312/Europese-beurzen-sluiten-hoger.aspx",
+    "intro": "De Europese beurzen zijn donderdag hoger geëindigd, terwijl de olieprijzen en rentes daalden. Beleggers lieten zich niet van de wijs brengen door een nieuwe Amerikaanse handelsdreiging.",
+    "published_at": "2026-09-17 18:46",
+    "scraped_at": "2026-09-17T19:06:56.892598"
+  },
+  {
+    "id": "38351b51ec4430b90d908a1b8f53d6dd",
+    "categorie": "Beursnieuws",
+    "titel": "Chipindustrie helpt AEX terug in het zadel",
+    "link": "https://www.beurs.nl/Nieuws/878304/Chipindustrie-helpt-AEX-terug-in-het-zadel.aspx",
+    "intro": "De Amsterdamse beurs is donderdag hoger gesloten, geholpen door de koerswinsten voor ASML en ASMI, nadat ook op Wall Street het optimisme over AI terugkeerde na de verwachte renteverhoging van de Fed.",
+    "published_at": "2026-09-17 17:58",
+    "scraped_at": "2026-09-17T19:06:56.892598"
+  },
+  {
+    "id": "1f2a3c11e2c00066872ef706dc067238",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Aandeelhouders Van Lanschot Kempen benoemen nieuwe commissaris",
+    "link": "https://www.beurs.nl/Nieuws/878301/Update-Aandeelhouders-Van-Lanschot-Kempen-benoemen-nieuwe-commissaris.aspx",
+    "intro": "De aandeelhouders van Van Lanschot Kempen hebben donderdag tijdens een buitengewone algemene vergadering ingestemd met de benoeming van François de Borchgrave tot lid van de Raad van Commissarissen. Dit maakte de private bank en vermogensbeheerder na afloop van de vergadering bekend.",
+    "published_at": "2026-09-17 17:32",
+    "scraped_at": "2026-09-17T19:06:56.892598"
+  },
+  {
     "id": "23b7409e2f6039240a30603111521f41",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/878292/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 25 september 2026:",
     "published_at": "2026-09-17 16:37",
-    "scraped_at": "2026-09-17T15:19:41.557222"
+    "scraped_at": "2026-09-17T19:06:56.892598"
   },
   {
     "id": "61ad4eb361a5050cbc58473ec4383bb3",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/878293/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 25 september 2026:",
     "published_at": "2026-09-17 16:37",
-    "scraped_at": "2026-09-17T15:19:41.557222"
+    "scraped_at": "2026-09-17T19:06:56.892598"
   },
   {
     "id": "074bbc6a28b732b8840ffd2303d032e7",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/878294/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 25 september 2026:",
     "published_at": "2026-09-17 16:37",
-    "scraped_at": "2026-09-17T15:19:41.557222"
+    "scraped_at": "2026-09-17T19:06:56.892598"
   },
   {
     "id": "708efb62f4cb87c2e98fc12b315f5d7d",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/878287/Aanstaande-woningverkopen-VS-stijgen-licht.aspx",
     "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in augustus licht gestegen, vergeleken met een maand eerder, maar waren fors lager dan een jaar eerder. Dit bleek donderdag uit cijfers van makelaarsorganisatie NAR.",
     "published_at": "2026-09-17 16:15",
-    "scraped_at": "2026-09-17T15:19:41.557222"
+    "scraped_at": "2026-09-17T19:06:56.892598"
   },
   {
     "id": "5167e8603d8f8ba626a8f6a77367efc4",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/878286/Zorgplatform-Vitality-breidt-uit-naar-VS-met-AI-model-van-Google.aspx",
     "intro": "Vitality, onderdeel van Discovery Group, breidt uit naar de Amerikaanse markt met zijn platform Vitality AI, dat Google's AI-model Gemini gebruikt voor gedragsverandering in de gezondheidssector. Dit maakten de twee bedrijven donderdag bekend.",
     "published_at": "2026-09-17 15:49",
-    "scraped_at": "2026-09-17T15:19:41.557222"
-  },
-  {
-    "id": "b9b27c7c8904dd226670b131975ff1db",
-    "categorie": "Beursnieuws",
-    "titel": "Tech weer in trek op groen Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/878280/Tech-weer-in-trek-op-groen-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een beduidend hogere opening tegemoet, onder aanvoering van de techsector.",
-    "published_at": "2026-09-17 15:08",
-    "scraped_at": "2026-09-17T15:19:41.557222"
-  },
-  {
-    "id": "9a421e37c387bd2c1d732bd69da13c15",
-    "categorie": "Beursnieuws",
-    "titel": "Minder Amerikaanse bouwvergunningen afgegeven",
-    "link": "https://www.beurs.nl/Nieuws/878276/Minder-Amerikaanse-bouwvergunningen-afgegeven.aspx",
-    "intro": "Het aantal afgegeven bouwvergunningen in de Verenigde Staten is in augustus zoals verwacht gedaald, terwijl het aantal in aanbouw genomen woningen ook daalde, hoewel een toename was voorzien. Dit bleek donderdag uit overheidscijfers.",
-    "published_at": "2026-09-17 14:40",
-    "scraped_at": "2026-09-17T15:19:41.557222"
-  },
-  {
-    "id": "c7a11ee543c0e36eab21b60d807beb7a",
-    "categorie": "Beursnieuws",
-    "titel": "Philadelphia Fed index gedaald",
-    "link": "https://www.beurs.nl/Nieuws/878274/Philadelphia-Fed-index-gedaald.aspx",
-    "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in september gedaald. Dit bleek donderdag uit de zogeheten Philly Fed index.",
-    "published_at": "2026-09-17 14:37",
-    "scraped_at": "2026-09-17T15:19:41.557222"
-  },
-  {
-    "id": "4b61ea4f992bb342643bcf561528e0a3",
-    "categorie": "Beursnieuws",
-    "titel": "Minder nieuwe steunaanvragen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/878273/Minder-nieuwe-steunaanvragen-in-de-VS.aspx",
-    "intro": "Het aantal nieuwe aanvragen voor een werkloosheidsuitkering in de Verenigde Staten is afgelopen week flink gedaald. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-09-17 14:35",
-    "scraped_at": "2026-09-17T15:19:41.557222"
-  },
-  {
-    "id": "72dfdfe61ad9e176842a4ab7162f52af",
-    "categorie": "Beursnieuws",
-    "titel": "BofAm: consensus voor ASML en ASMI te laag",
-    "link": "https://www.beurs.nl/Nieuws/878267/BofAm-consensus-voor-ASML-en-ASMI-te-laag.aspx",
-    "intro": "De analistenconsensus voor sectorgenoten ASML en ASMI is te laag. Dit stelde analist Didier Scemama van Bank of America donderdag in een rapport.",
-    "published_at": "2026-09-17 14:15",
-    "scraped_at": "2026-09-17T15:19:41.557222"
+    "scraped_at": "2026-09-17T19:06:56.892598"
   }
 ]
