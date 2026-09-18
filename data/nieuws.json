@@ -1,38 +1,92 @@
 [
   {
-    "id": "7525a1ca208936004a3091561895d6d4",
+    "id": "bb2b1c4829bba84fd32a4cee7094590a",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/878345/Europese-beurzen-openen-lager.aspx",
-    "intro": "De aandelenmarkten in Europa gaan vrijdag een lagere opening tegemoet, na een hoger slot op Wall Street donderdag.",
-    "published_at": "2026-09-18 06:59",
-    "scraped_at": "2026-09-18T05:17:06.724966"
+    "titel": "Chippers houden AEX niet in het groen",
+    "link": "https://www.beurs.nl/Nieuws/878399/Chippers-houden-AEX-niet-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend nipt in het rood. De AEX daalde met 0,1 procent naar 1.099,68 punten, ondanks de koerswinsten voor de 'chippers'.",
+    "published_at": "2026-09-18 11:06",
+    "scraped_at": "2026-09-18T09:55:24.776109"
   },
   {
-    "id": "13e83bcd726416ba752d426ccabc7ae8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/878342/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 25 september 2026:",
-    "published_at": "2026-09-18 06:51",
-    "scraped_at": "2026-09-18T05:17:06.724966"
+    "id": "64e86cba030662144fb283d4e7dc67e4",
+    "categorie": "Must read",
+    "titel": "Must read: Gas deze winter drie keer zo duur",
+    "link": "https://www.iex.nl/artikel/878297/Must-read-Gas-deze-winter-drie-keer-zo-duur.aspx",
+    "intro": "Ruim 700.000 huishoudens met een warmtenetaansluiting moeten rekening houden met een flink hogere rekening voor 2027. Plus: de Japanse rente naar hoogste niveau in 31 jaar, de Fed heeft geen invloed op alle rentes, voor bijna helft nieuwbouwwoningen geen plek op het stroomnet, en meer.",
+    "published_at": "2026-09-18 10:30",
+    "scraped_at": "2026-09-18T09:55:24.776109"
   },
   {
-    "id": "c7cdd8e3343b5f8ae08e6c8d1ff58c27",
+    "id": "2d69e01ff1f989bc328cfd2aef2367f0",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/878343/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 25 september 2026:",
-    "published_at": "2026-09-18 06:51",
-    "scraped_at": "2026-09-18T05:17:06.724966"
+    "titel": "Beursblik: China niet de redder van de luxemerken",
+    "link": "https://www.beurs.nl/Nieuws/878394/Beursblik-China-niet-de-redder-van-de-luxemerken.aspx",
+    "intro": "De Chinese markt voor luxegoederen blijft moeizaam en dat onderschatten veel beleggers. Dit stelden analisten van Berenberg vrijdag in een rapport over Europese luxemerken.",
+    "published_at": "2026-09-18 10:09",
+    "scraped_at": "2026-09-18T09:55:24.776109"
   },
   {
-    "id": "34be3aae0d3abbec3eb20faaf7255e53",
+    "id": "7de3bbe7032719e4f7a8648716fd0ef8",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/878341/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 25 september 2026:",
-    "published_at": "2026-09-18 06:50",
-    "scraped_at": "2026-09-18T05:17:06.724966"
+    "titel": "AEX dankzij halfgeleiders hoger van start",
+    "link": "https://www.beurs.nl/Nieuws/878385/AEX-dankzij-halfgeleiders-hoger-van-start.aspx",
+    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent hoger op 1.102,40 punten, terwijl de Midkap nipt in het rood noteerde.",
+    "published_at": "2026-09-18 09:20",
+    "scraped_at": "2026-09-18T09:55:24.776109"
+  },
+  {
+    "id": "a5dc8b15eda1ebe703b5ef1062c6d539",
+    "categorie": "Beursnieuws",
+    "titel": "Nepi Rockcastle verkoopt winkelcentrum in Litouwen",
+    "link": "https://www.beurs.nl/Nieuws/878384/Nepi-Rockcastle-verkoopt-winkelcentrum-in-Litouwen.aspx",
+    "intro": "Nepi Rockcastle heeft een akkoord bereikt voor de verkoop van een winkelcentrum in Litouwen voor 200 miljoen euro. Dit maakte het in Amsterdam genoteerde fonds vrijdag bekend.",
+    "published_at": "2026-09-18 09:12",
+    "scraped_at": "2026-09-18T09:55:24.776109"
+  },
+  {
+    "id": "4d0cf61f30e526c62c3386605c300dd1",
+    "categorie": "Voorbeurs",
+    "titel": "Vlakke opening en ceo's Nvidia en Intel praten techsector omhoog",
+    "link": "https://www.beurs.nl/Artikel/878340/Vlakke-opening-en-ceos-Nvidia-en-Intel-praten-techsector-omhoog.aspx",
+    "intro": "Openingsindicatie: -0,1%. Bank of Japan verhoogt de rente. Optimistische uitspraken van ceo's Nvidia, Intel en Arm. Hydratec keert binnenkort superdividend uit. En het is Quadruple Witching Day.",
+    "published_at": "2026-09-18 08:25",
+    "scraped_at": "2026-09-18T09:55:24.776109"
+  },
+  {
+    "id": "ad6207970c5d90a123401febb46bafdb",
+    "categorie": "Beursnieuws",
+    "titel": "Topman Colt CZ stapt eind september op",
+    "link": "https://www.beurs.nl/Nieuws/878361/Topman-Colt-CZ-stapt-eind-september-op.aspx",
+    "intro": "Radek Musil legt per 30 september 2026 zijn functie neer als CEO en vicevoorzitter van de raad van bestuur van Colt CZ Group. Dit maakte de Tsjechische wapen- en munitieproducent met een notering op het Damrak vrijdag voorbeurs bekend.",
+    "published_at": "2026-09-18 08:23",
+    "scraped_at": "2026-09-18T09:55:24.776109"
+  },
+  {
+    "id": "0756f07a8949a26807dcf69643233b60",
+    "categorie": "Beursnieuws",
+    "titel": "Britse detailhandelsverkopen stijgen",
+    "link": "https://www.beurs.nl/Nieuws/878359/Britse-detailhandelsverkopen-stijgen.aspx",
+    "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in augustus gestegen, na een daling in juli. Dit bleek vrijdag uit cijfers van statistiekbureau ONS.",
+    "published_at": "2026-09-18 08:13",
+    "scraped_at": "2026-09-18T09:55:24.776109"
+  },
+  {
+    "id": "02049310d7cb288898e7051d6326be27",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse producentenprijzen stijgen veel harder",
+    "link": "https://www.beurs.nl/Nieuws/878355/Duitse-producentenprijzen-stijgen-veel-harder.aspx",
+    "intro": "De producentenprijzen in Duitsland zijn in augustus opnieuw veel harder gestegen dan in de maand ervoor, onder meer als gevolg van de stijgende energieprijzen door de oorlog in het Midden-Oosten. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-09-18 08:07",
+    "scraped_at": "2026-09-18T09:55:24.776109"
+  },
+  {
+    "id": "bdc3fbe49eddc34a1b160651e895da4d",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start afwachtend ondanks groen slot op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/878352/AEX-start-afwachtend-ondanks-groen-slot-op-Wall-Street.aspx",
+    "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting neutraal van start, ondanks een positief slot op Wall Street en groene koersen in Azië.",
+    "published_at": "2026-09-18 07:58",
+    "scraped_at": "2026-09-18T09:55:24.776109"
   }
 ]
