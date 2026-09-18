@@ -1,92 +1,92 @@
 [
   {
+    "id": "f2919782edb77278803b31b790821efe",
+    "categorie": "Beursnieuws",
+    "titel": "Industriele productie VS stabiel",
+    "link": "https://www.beurs.nl/Nieuws/878435/Industriele-productie-VS-stabiel.aspx",
+    "intro": "De industriële productie in de Verenigde Staten is in augustus stabiel gebleven, waar een kleine stijging werd voorzien. Dit bleek vrijdag uit cijfers van de Federal Reserve.",
+    "published_at": "2026-09-18 15:21",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
+    "id": "4dc7bdebaf1a9e915fda151682a48715",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht voorzichtige opening",
+    "link": "https://www.beurs.nl/Nieuws/878431/Wall-Street-wacht-voorzichtige-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet, na een sterke sessie een dag eerder. De futures op de SP 500 houden met nog een half uur tot de opening in New York rekening met een bescheiden verlies. De Nasdaq lijkt nog wel iets hoger te gaan openen.",
+    "published_at": "2026-09-18 14:47",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
+    "id": "5e3f494cffab3e4ada6b9d6d233d5014",
+    "categorie": "Beursnieuws",
+    "titel": "Rode koersen in Amsterdam",
+    "link": "https://www.beurs.nl/Nieuws/878428/Rode-koersen-in-Amsterdam.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag in het rood. De AEX daalde rond twee uur met 0,7 procent naar 1.093,13 punten.",
+    "published_at": "2026-09-18 13:58",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
+    "id": "7df3f1126ee2ccec3824135616afd8b5",
+    "categorie": "Beursnieuws",
+    "titel": "Rusland nationaliseert bezittingen Nestlé",
+    "link": "https://www.beurs.nl/Nieuws/878427/Rusland-nationaliseert-bezittingen-Nestle.aspx",
+    "intro": "Rusland heeft bij presidentieel decreet bepaald dat de bezittingen van Nestlé in Rusland onder extern beheer worden geplaatst.",
+    "published_at": "2026-09-18 13:45",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
+    "id": "aa34dfa3f4f4494f3ccbdc6423b2a77b",
+    "categorie": "Beursnieuws",
+    "titel": "Financieringsbehoefte Nederland voor dit jaar verder omlaag",
+    "link": "https://www.beurs.nl/Nieuws/878426/Financieringsbehoefte-Nederland-voor-dit-jaar-verder-omlaag.aspx",
+    "intro": "De financieringsbehoefte van de Nederlandse Staat ligt in 2026 nog lager dan eerder voorspeld. Dit bleek vrijdag uit een nieuwe indicatie van het agentschap van het ministerie van Financiën, DSTA.",
+    "published_at": "2026-09-18 13:35",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
+    "id": "2bb2e0e4e55bfb87553658664e7ece4b",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen lichtgroene opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/878422/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet, na een sterke sessie een dag eerder. De futures op de SP 500 houden rekening met een openingswinst van 0,2 procent.",
+    "published_at": "2026-09-18 12:54",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
+    "id": "5f166307b74183da5e173169e16a4834",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Barclays verhoogt koersdoel Randstad",
+    "link": "https://www.beurs.nl/Nieuws/878421/Beursblik-Barclays-verhoogt-koersdoel-Randstad.aspx",
+    "intro": "Barclays heeft het koersdoel voor Randstad verhoogd van 21,00 naar 24,00 euro met een onveranderd Onderwogen advies. Dit bleek uit een analistenrapport van de Britse bank.",
+    "published_at": "2026-09-18 12:35",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
+    "id": "112d4cde14c1227c59ac7ea6d683ef12",
+    "categorie": "Beursnieuws",
+    "titel": "Warren Buffett stopt als voorzitter van de Board van Berkshire Hathaway",
+    "link": "https://www.beurs.nl/Nieuws/878419/Warren-Buffett-stopt-als-voorzitter-van-de-Board-van-Berkshire-Hathaway.aspx",
+    "intro": "Warren Buffett treedt met onmiddellijke ingang terug als voorzitter van de Board of Directors van Berkshire Hathaway. Dit meldde het Amerikaanse investeringsvehikel vrijdagmiddag.",
+    "published_at": "2026-09-18 12:27",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
+    "id": "6e9b5fc148650486c596a23c5b6b42cf",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen lager rond lunchtijd",
+    "link": "https://www.beurs.nl/Nieuws/878412/Europese-beurzen-lager-rond-lunchtijd.aspx",
+    "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd lager, terwijl de rentes weer wat opliepen.",
+    "published_at": "2026-09-18 12:10",
+    "scraped_at": "2026-09-18T14:11:38.331572"
+  },
+  {
     "id": "bb2b1c4829bba84fd32a4cee7094590a",
     "categorie": "Beursnieuws",
     "titel": "Chippers houden AEX niet in het groen",
     "link": "https://www.beurs.nl/Nieuws/878399/Chippers-houden-AEX-niet-in-het-groen.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend nipt in het rood. De AEX daalde met 0,1 procent naar 1.099,68 punten, ondanks de koerswinsten voor de 'chippers'.",
     "published_at": "2026-09-18 11:06",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "64e86cba030662144fb283d4e7dc67e4",
-    "categorie": "Must read",
-    "titel": "Must read: Gas deze winter drie keer zo duur",
-    "link": "https://www.iex.nl/artikel/878297/Must-read-Gas-deze-winter-drie-keer-zo-duur.aspx",
-    "intro": "Ruim 700.000 huishoudens met een warmtenetaansluiting moeten rekening houden met een flink hogere rekening voor 2027. Plus: de Japanse rente naar hoogste niveau in 31 jaar, de Fed heeft geen invloed op alle rentes, voor bijna helft nieuwbouwwoningen geen plek op het stroomnet, en meer.",
-    "published_at": "2026-09-18 10:30",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "2d69e01ff1f989bc328cfd2aef2367f0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: China niet de redder van de luxemerken",
-    "link": "https://www.beurs.nl/Nieuws/878394/Beursblik-China-niet-de-redder-van-de-luxemerken.aspx",
-    "intro": "De Chinese markt voor luxegoederen blijft moeizaam en dat onderschatten veel beleggers. Dit stelden analisten van Berenberg vrijdag in een rapport over Europese luxemerken.",
-    "published_at": "2026-09-18 10:09",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "7de3bbe7032719e4f7a8648716fd0ef8",
-    "categorie": "Beursnieuws",
-    "titel": "AEX dankzij halfgeleiders hoger van start",
-    "link": "https://www.beurs.nl/Nieuws/878385/AEX-dankzij-halfgeleiders-hoger-van-start.aspx",
-    "intro": "De AEX index koerste vrijdag kort na de beursgong 0,2 procent hoger op 1.102,40 punten, terwijl de Midkap nipt in het rood noteerde.",
-    "published_at": "2026-09-18 09:20",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "a5dc8b15eda1ebe703b5ef1062c6d539",
-    "categorie": "Beursnieuws",
-    "titel": "Nepi Rockcastle verkoopt winkelcentrum in Litouwen",
-    "link": "https://www.beurs.nl/Nieuws/878384/Nepi-Rockcastle-verkoopt-winkelcentrum-in-Litouwen.aspx",
-    "intro": "Nepi Rockcastle heeft een akkoord bereikt voor de verkoop van een winkelcentrum in Litouwen voor 200 miljoen euro. Dit maakte het in Amsterdam genoteerde fonds vrijdag bekend.",
-    "published_at": "2026-09-18 09:12",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "4d0cf61f30e526c62c3386605c300dd1",
-    "categorie": "Voorbeurs",
-    "titel": "Vlakke opening en ceo's Nvidia en Intel praten techsector omhoog",
-    "link": "https://www.beurs.nl/Artikel/878340/Vlakke-opening-en-ceos-Nvidia-en-Intel-praten-techsector-omhoog.aspx",
-    "intro": "Openingsindicatie: -0,1%. Bank of Japan verhoogt de rente. Optimistische uitspraken van ceo's Nvidia, Intel en Arm. Hydratec keert binnenkort superdividend uit. En het is Quadruple Witching Day.",
-    "published_at": "2026-09-18 08:25",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "ad6207970c5d90a123401febb46bafdb",
-    "categorie": "Beursnieuws",
-    "titel": "Topman Colt CZ stapt eind september op",
-    "link": "https://www.beurs.nl/Nieuws/878361/Topman-Colt-CZ-stapt-eind-september-op.aspx",
-    "intro": "Radek Musil legt per 30 september 2026 zijn functie neer als CEO en vicevoorzitter van de raad van bestuur van Colt CZ Group. Dit maakte de Tsjechische wapen- en munitieproducent met een notering op het Damrak vrijdag voorbeurs bekend.",
-    "published_at": "2026-09-18 08:23",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "0756f07a8949a26807dcf69643233b60",
-    "categorie": "Beursnieuws",
-    "titel": "Britse detailhandelsverkopen stijgen",
-    "link": "https://www.beurs.nl/Nieuws/878359/Britse-detailhandelsverkopen-stijgen.aspx",
-    "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in augustus gestegen, na een daling in juli. Dit bleek vrijdag uit cijfers van statistiekbureau ONS.",
-    "published_at": "2026-09-18 08:13",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "02049310d7cb288898e7051d6326be27",
-    "categorie": "Beursnieuws",
-    "titel": "Duitse producentenprijzen stijgen veel harder",
-    "link": "https://www.beurs.nl/Nieuws/878355/Duitse-producentenprijzen-stijgen-veel-harder.aspx",
-    "intro": "De producentenprijzen in Duitsland zijn in augustus opnieuw veel harder gestegen dan in de maand ervoor, onder meer als gevolg van de stijgende energieprijzen door de oorlog in het Midden-Oosten. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-09-18 08:07",
-    "scraped_at": "2026-09-18T09:55:24.776109"
-  },
-  {
-    "id": "bdc3fbe49eddc34a1b160651e895da4d",
-    "categorie": "Beursnieuws",
-    "titel": "AEX start afwachtend ondanks groen slot op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/878352/AEX-start-afwachtend-ondanks-groen-slot-op-Wall-Street.aspx",
-    "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting neutraal van start, ondanks een positief slot op Wall Street en groene koersen in Azië.",
-    "published_at": "2026-09-18 07:58",
-    "scraped_at": "2026-09-18T09:55:24.776109"
+    "scraped_at": "2026-09-18T14:11:38.331572"
   }
 ]
