@@ -1,12 +1,30 @@
 [
   {
+    "id": "069ebe5ec45af6ac5349d8336b0dd4a8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/878472/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag acht van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam lager gesloten.",
+    "published_at": "2026-09-18 22:22",
+    "scraped_at": "2026-09-18T22:30:00.194447"
+  },
+  {
+    "id": "6851c5935f23a82330776917d0734601",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit wisselvallige week verdeeld af",
+    "link": "https://www.beurs.nl/Nieuws/878471/Wall-Street-sluit-wisselvallige-week-verdeeld-af.aspx",
+    "intro": "De Amerikaanse beurzen zijn vrijdag verdeeld geëindigd, terwijl beleggers de driemaandelijkse 'triple witching' verwerkten. Door de gelijktijdige afloop van opties en futures moeten grote beleggers en handelaren massaal posities sluiten, doorrollen of opnieuw afdekken. Volgens Citadel Securities ging het vandaag opties om een bedrag met een onderliggende waarde van ongeveer 7 biljoen dollar.",
+    "published_at": "2026-09-18 22:14",
+    "scraped_at": "2026-09-18T22:30:00.194447"
+  },
+  {
     "id": "83ed2ad7648808e2d2ea6d6a2c5dda4f",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen sluiten week lager af",
     "link": "https://www.beurs.nl/Nieuws/878470/Olieprijzen-sluiten-week-lager-af.aspx",
     "intro": "De olieprijzen zijn vrijdag lager gesloten. Saoedi-Arabië had China gevraagd om bij Iran aan te dringen op beperking van de Houthi-aanvallen op de Saoedische olie-infrastructuur, meldde Reuters vrijdag.",
     "published_at": "2026-09-18 21:00",
-    "scraped_at": "2026-09-18T19:59:56.031970"
+    "scraped_at": "2026-09-18T22:30:00.194447"
   },
   {
     "id": "6d5df93747aa9aeb362b33094bce58ca",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/878469/InPost-bod-krijgt-ruime-steun-aandeelhouders.aspx",
     "intro": "Aandeelhouders van InPost hebben massaal ingestemd met het overnamebod door het consortium bestaande uit Advent, FedEx, AR en PPF. Dat maakten beide partijen vrijdag bekend.",
     "published_at": "2026-09-18 20:38",
-    "scraped_at": "2026-09-18T19:59:56.031970"
+    "scraped_at": "2026-09-18T22:30:00.194447"
   },
   {
     "id": "c31743ca38bf65cdef6242b793bd8495",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/878466/Hoge-rentes-drukken-sentiment-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag licht lager. Volgens Citadel Securities verlopen vandaag opties met een onderliggende waarde van ongeveer 7 biljoen dollar.",
     "published_at": "2026-09-18 19:36",
-    "scraped_at": "2026-09-18T19:59:56.031970"
+    "scraped_at": "2026-09-18T22:30:00.194447"
   },
   {
     "id": "1aafb577a8d9d763a4a2b83ccca1407f",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/878465/Media-Europese-afnemers-krijgen-volgende-maand-geen-Saoedische-olie.aspx",
     "intro": "Saudi Aramco heeft ten minste twee olieraffinaderijen in Europa laten weten dat zij volgende maand geen ruwe olie zullen krijgen vanuit Saoedi-Arabië. Dit meldde persbureau Bloomberg vrijdag op basis van bronnen.",
     "published_at": "2026-09-18 18:56",
-    "scraped_at": "2026-09-18T19:59:56.031970"
+    "scraped_at": "2026-09-18T22:30:00.194447"
   },
   {
     "id": "d0bc1c3bb79cd85762b27f5498dbd19e",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/878462/Europese-beurzen-flink-lager-het-weekend-in.aspx",
     "intro": "De Europese beurzen zijn vrijdag flink lager gesloten, na een wisselvallige week die in het teken stond van rentebesluiten en aanhoudend hoge rentes.",
     "published_at": "2026-09-18 18:45",
-    "scraped_at": "2026-09-18T19:59:56.031970"
+    "scraped_at": "2026-09-18T22:30:00.194447"
   },
   {
     "id": "4be4fb9b7ea81171bdbbc643732ec667",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/878456/Volkswagen-geeft-stevige-waarschuwing.aspx",
     "intro": "Volkswagen heeft vrijdag een stevige waarschuwing afgegeven voor 2026. De autofabrikant wees daarbij naar een afschrijving bij het onderdeel Porsche, een moeizame Chinese markt en extra reorganisatiekosten.",
     "published_at": "2026-09-18 18:08",
-    "scraped_at": "2026-09-18T19:59:56.031970"
+    "scraped_at": "2026-09-18T22:30:00.194447"
   },
   {
     "id": "b287baf0530481497a10a0857a8d9eb1",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/878454/AEX-sluit-lager-ondanks-stijgende-chippers.aspx",
     "intro": "De Amsterdamse beurs is vrijdag lager geëindigd en dat zorgde op weekbasis voor een klein verlies.",
     "published_at": "2026-09-18 17:55",
-    "scraped_at": "2026-09-18T19:59:56.031970"
+    "scraped_at": "2026-09-18T22:30:00.194447"
   },
   {
     "id": "4e3a50506ee95c79204b21cfce96b3df",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/878445/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 28 september 2026:",
     "published_at": "2026-09-18 16:26",
-    "scraped_at": "2026-09-18T19:59:56.031970"
-  },
-  {
-    "id": "18440db4b5362a1c3cc8455451a428b9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/878446/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 28 september 2026:",
-    "published_at": "2026-09-18 16:26",
-    "scraped_at": "2026-09-18T19:59:56.031970"
-  },
-  {
-    "id": "6d2b7243fe29ce8d9e4c290afdaee738",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/878444/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 28 september 2026:",
-    "published_at": "2026-09-18 16:25",
-    "scraped_at": "2026-09-18T19:59:56.031970"
+    "scraped_at": "2026-09-18T22:30:00.194447"
   }
 ]
