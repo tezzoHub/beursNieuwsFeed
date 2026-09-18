@@ -1,92 +1,92 @@
 [
   {
+    "id": "c31743ca38bf65cdef6242b793bd8495",
+    "categorie": "Beursnieuws",
+    "titel": "Hoge rentes drukken sentiment Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/878466/Hoge-rentes-drukken-sentiment-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden vrijdag licht lager. Volgens Citadel Securities verlopen vandaag opties met een onderliggende waarde van ongeveer 7 biljoen dollar.",
+    "published_at": "2026-09-18 19:36",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
+    "id": "1aafb577a8d9d763a4a2b83ccca1407f",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Europese afnemers krijgen volgende maand geen Saoedische olie",
+    "link": "https://www.beurs.nl/Nieuws/878465/Media-Europese-afnemers-krijgen-volgende-maand-geen-Saoedische-olie.aspx",
+    "intro": "Saudi Aramco heeft ten minste twee olieraffinaderijen in Europa laten weten dat zij volgende maand geen ruwe olie zullen krijgen vanuit Saoedi-Arabië. Dit meldde persbureau Bloomberg vrijdag op basis van bronnen.",
+    "published_at": "2026-09-18 18:56",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
+    "id": "d0bc1c3bb79cd85762b27f5498dbd19e",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen flink lager het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/878462/Europese-beurzen-flink-lager-het-weekend-in.aspx",
+    "intro": "De Europese beurzen zijn vrijdag flink lager gesloten, na een wisselvallige week die in het teken stond van rentebesluiten en aanhoudend hoge rentes.",
+    "published_at": "2026-09-18 18:45",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
+    "id": "4be4fb9b7ea81171bdbbc643732ec667",
+    "categorie": "Beursnieuws",
+    "titel": "Volkswagen geeft stevige waarschuwing",
+    "link": "https://www.beurs.nl/Nieuws/878456/Volkswagen-geeft-stevige-waarschuwing.aspx",
+    "intro": "Volkswagen heeft vrijdag een stevige waarschuwing afgegeven voor 2026. De autofabrikant wees daarbij naar een afschrijving bij het onderdeel Porsche, een moeizame Chinese markt en extra reorganisatiekosten.",
+    "published_at": "2026-09-18 18:08",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
+    "id": "b287baf0530481497a10a0857a8d9eb1",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit lager ondanks stijgende chippers",
+    "link": "https://www.beurs.nl/Nieuws/878454/AEX-sluit-lager-ondanks-stijgende-chippers.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag lager geëindigd en dat zorgde op weekbasis voor een klein verlies.",
+    "published_at": "2026-09-18 17:55",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
+    "id": "4e3a50506ee95c79204b21cfce96b3df",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/878445/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 28 september 2026:",
+    "published_at": "2026-09-18 16:26",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
+    "id": "18440db4b5362a1c3cc8455451a428b9",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/878446/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 28 september 2026:",
+    "published_at": "2026-09-18 16:26",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
+    "id": "6d2b7243fe29ce8d9e4c290afdaee738",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/878444/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 28 september 2026:",
+    "published_at": "2026-09-18 16:25",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
+    "id": "b87349f6323b29392881b53055414d74",
+    "categorie": "Beursnieuws",
+    "titel": "Leidende indicatoren VS licht gedaald",
+    "link": "https://www.beurs.nl/Nieuws/878439/Leidende-indicatoren-VS-licht-gedaald.aspx",
+    "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in augustus licht gedaald. Dit bleek vrijdag uit cijfers van The Conference Board.",
+    "published_at": "2026-09-18 16:10",
+    "scraped_at": "2026-09-18T17:44:07.512151"
+  },
+  {
     "id": "f2919782edb77278803b31b790821efe",
     "categorie": "Beursnieuws",
     "titel": "Industriele productie VS stabiel",
     "link": "https://www.beurs.nl/Nieuws/878435/Industriele-productie-VS-stabiel.aspx",
     "intro": "De industriële productie in de Verenigde Staten is in augustus stabiel gebleven, waar een kleine stijging werd voorzien. Dit bleek vrijdag uit cijfers van de Federal Reserve.",
     "published_at": "2026-09-18 15:21",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "4dc7bdebaf1a9e915fda151682a48715",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht voorzichtige opening",
-    "link": "https://www.beurs.nl/Nieuws/878431/Wall-Street-wacht-voorzichtige-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een voorzichtige opening tegemoet, na een sterke sessie een dag eerder. De futures op de SP 500 houden met nog een half uur tot de opening in New York rekening met een bescheiden verlies. De Nasdaq lijkt nog wel iets hoger te gaan openen.",
-    "published_at": "2026-09-18 14:47",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "5e3f494cffab3e4ada6b9d6d233d5014",
-    "categorie": "Beursnieuws",
-    "titel": "Rode koersen in Amsterdam",
-    "link": "https://www.beurs.nl/Nieuws/878428/Rode-koersen-in-Amsterdam.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag in het rood. De AEX daalde rond twee uur met 0,7 procent naar 1.093,13 punten.",
-    "published_at": "2026-09-18 13:58",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "7df3f1126ee2ccec3824135616afd8b5",
-    "categorie": "Beursnieuws",
-    "titel": "Rusland nationaliseert bezittingen Nestlé",
-    "link": "https://www.beurs.nl/Nieuws/878427/Rusland-nationaliseert-bezittingen-Nestle.aspx",
-    "intro": "Rusland heeft bij presidentieel decreet bepaald dat de bezittingen van Nestlé in Rusland onder extern beheer worden geplaatst.",
-    "published_at": "2026-09-18 13:45",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "aa34dfa3f4f4494f3ccbdc6423b2a77b",
-    "categorie": "Beursnieuws",
-    "titel": "Financieringsbehoefte Nederland voor dit jaar verder omlaag",
-    "link": "https://www.beurs.nl/Nieuws/878426/Financieringsbehoefte-Nederland-voor-dit-jaar-verder-omlaag.aspx",
-    "intro": "De financieringsbehoefte van de Nederlandse Staat ligt in 2026 nog lager dan eerder voorspeld. Dit bleek vrijdag uit een nieuwe indicatie van het agentschap van het ministerie van Financiën, DSTA.",
-    "published_at": "2026-09-18 13:35",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "2bb2e0e4e55bfb87553658664e7ece4b",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen lichtgroene opening voor Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/878422/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet, na een sterke sessie een dag eerder. De futures op de SP 500 houden rekening met een openingswinst van 0,2 procent.",
-    "published_at": "2026-09-18 12:54",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "5f166307b74183da5e173169e16a4834",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Barclays verhoogt koersdoel Randstad",
-    "link": "https://www.beurs.nl/Nieuws/878421/Beursblik-Barclays-verhoogt-koersdoel-Randstad.aspx",
-    "intro": "Barclays heeft het koersdoel voor Randstad verhoogd van 21,00 naar 24,00 euro met een onveranderd Onderwogen advies. Dit bleek uit een analistenrapport van de Britse bank.",
-    "published_at": "2026-09-18 12:35",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "112d4cde14c1227c59ac7ea6d683ef12",
-    "categorie": "Beursnieuws",
-    "titel": "Warren Buffett stopt als voorzitter van de Board van Berkshire Hathaway",
-    "link": "https://www.beurs.nl/Nieuws/878419/Warren-Buffett-stopt-als-voorzitter-van-de-Board-van-Berkshire-Hathaway.aspx",
-    "intro": "Warren Buffett treedt met onmiddellijke ingang terug als voorzitter van de Board of Directors van Berkshire Hathaway. Dit meldde het Amerikaanse investeringsvehikel vrijdagmiddag.",
-    "published_at": "2026-09-18 12:27",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "6e9b5fc148650486c596a23c5b6b42cf",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen lager rond lunchtijd",
-    "link": "https://www.beurs.nl/Nieuws/878412/Europese-beurzen-lager-rond-lunchtijd.aspx",
-    "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd lager, terwijl de rentes weer wat opliepen.",
-    "published_at": "2026-09-18 12:10",
-    "scraped_at": "2026-09-18T14:11:38.331572"
-  },
-  {
-    "id": "bb2b1c4829bba84fd32a4cee7094590a",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers houden AEX niet in het groen",
-    "link": "https://www.beurs.nl/Nieuws/878399/Chippers-houden-AEX-niet-in-het-groen.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend nipt in het rood. De AEX daalde met 0,1 procent naar 1.099,68 punten, ondanks de koerswinsten voor de 'chippers'.",
-    "published_at": "2026-09-18 11:06",
-    "scraped_at": "2026-09-18T14:11:38.331572"
+    "scraped_at": "2026-09-18T17:44:07.512151"
   }
 ]
