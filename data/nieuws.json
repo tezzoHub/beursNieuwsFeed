@@ -1,38 +1,29 @@
 [
   {
-    "id": "862eabc7d04c4832723c17c2846cabc8",
+    "id": "4ee3a60f765ede894033c17d059d39dc",
     "categorie": "Beursnieuws",
-    "titel": "AEX blijft binnen krappe bandbreedte",
-    "link": "https://www.beurs.nl/Nieuws/878481/AEX-blijft-binnen-krappe-bandbreedte.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week slechts een paar punten gedaald, tegen een achtergrond van stijgende rentes en hoge olieprijzen en de Federal Reserve die conform de verwachting de rente verhoogde.",
-    "published_at": "2026-09-19 12:58",
-    "scraped_at": "2026-09-20T07:05:27.622845"
+    "titel": "Moeizame week voor chippers na waarschuwing over AI",
+    "link": "https://www.beurs.nl/Nieuws/878495/Moeizame-week-voor-chippers-na-waarschuwing-over-AI.aspx",
+    "intro": "Tegen een achtergrond van stijgende rentes en olieprijzen en zorgen over AI, was het een moeizame week voor de Amsterdamse beurs.",
+    "published_at": "2026-09-20 12:17",
+    "scraped_at": "2026-09-20T12:30:49.635069"
   },
   {
-    "id": "2e9afa58d958e35532f442fc67a239cc",
+    "id": "b2a3083e4364267c128df2c5ff24afc1",
     "categorie": "Beursnieuws",
-    "titel": "Media: OpenAI verwacht cashburn van honderden miljarden",
-    "link": "https://www.beurs.nl/Nieuws/878480/Media-OpenAI-verwacht-cashburn-van-honderden-miljarden.aspx",
-    "intro": "OpenAI verwacht tot en met 2030 een negatieve vrije kasstroom van 278 miljard dollar, terwijl het fors investeert om zijn toegang tot rekenkracht uit te breiden. Dit meldde de Financial Times vrijdagavond op basis van een presentatie die de krant inzag.",
-    "published_at": "2026-09-19 12:30",
-    "scraped_at": "2026-09-20T07:05:27.622845"
+    "titel": "China handhaaft rentes",
+    "link": "https://www.beurs.nl/Nieuws/878494/China-handhaaft-rentes.aspx",
+    "intro": "De belangrijkste rentes in China zijn opnieuw gehandhaafd. Dit meldde de People's Bank of China zondag.",
+    "published_at": "2026-09-20 11:12",
+    "scraped_at": "2026-09-20T12:30:49.635069"
   },
   {
-    "id": "5de8e6072a9d938cb4f543eea6f809c4",
+    "id": "971efb61b38f62748e7dd2024d2a276c",
     "categorie": "Beursnieuws",
-    "titel": "Ook Gemini van Google hackte bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/878479/Ook-Gemini-van-Google-hackte-bedrijven.aspx",
-    "intro": "Het AI-model van Google, Gemini, heeft tijdens een test van zijn cyberbeveiligingscapaciteiten toegang gekregen tot het internet en andere bedrijven gehackt. Dit maakte het bedrijf vrijdagavond bekend.",
-    "published_at": "2026-09-19 10:25",
-    "scraped_at": "2026-09-20T07:05:27.622845"
-  },
-  {
-    "id": "790619fba20de0d79a99b242a83886cc",
-    "categorie": "",
-    "titel": "Vooruitblik: wat te verwachten van staatsbezoek China aan VS",
-    "link": "https://www.iex.nl/artikel/878393/Vooruitblik-wat-te-verwachten-van-staatsbezoek-China-aan-VS.aspx",
-    "intro": "",
-    "published_at": "2026-09-19 10:10",
-    "scraped_at": "2026-09-20T07:05:27.622845"
+    "titel": "Trump wil AI-taskforce oprichten",
+    "link": "https://www.beurs.nl/Nieuws/878493/Trump-wil-AI-taskforce-oprichten.aspx",
+    "intro": "De Amerikaanse president Donald Trump is van plan om een taskforce op te richten die zich volledig richt op kunstmatige intelligentie. Dit meldde Trump zaterdag op Truth Social.",
+    "published_at": "2026-09-20 11:05",
+    "scraped_at": "2026-09-20T12:30:49.635069"
   }
 ]
