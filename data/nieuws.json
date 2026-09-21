@@ -1,56 +1,92 @@
 [
   {
-    "id": "5050b13eee8b949f88ab54c10d0de4cb",
+    "id": "6436f4661730ac9a52390c31079fa11f",
     "categorie": "Beursnieuws",
-    "titel": "Media: stevig verlies voor Merz in Mecklenburg-Voor-Pommeren",
-    "link": "https://www.beurs.nl/Nieuws/878508/Media-stevig-verlies-voor-Merz-in-Mecklenburg-Voor-Pommeren.aspx",
-    "intro": "Bij de deelstaatverkiezing in Mecklenburg-Voor-Pommeren lijkt Alternative für Deutschland opnieuw de grootste te zijn geworden, hoewel de marge ten opzichte van de regerende SPD klein is. Dit bleek zondag uit een exitpoll van de Duitse publieke zender ARD.",
-    "published_at": "2026-09-20 19:18",
-    "scraped_at": "2026-09-21T01:44:09.888926"
+    "titel": "Beursblik: Deutsche Bank verlaagt koersdoel Banijay na overname All3Media",
+    "link": "https://www.beurs.nl/Nieuws/878538/Beursblik-Deutsche-Bank-verlaagt-koersdoel-Banijay-na-overname-All3Media.aspx",
+    "intro": "Deutsche Bank heeft het koersdoel voor Banijay Group verlaagd van 14,40 naar 13,00 euro, na de fusie van dochterbedrijf Banijay Entertainment met All3Media, omdat de winst per aandeel hierdoor daalt. Dit bleek maandag uit een analistenrapport.",
+    "published_at": "2026-09-21 08:50",
+    "scraped_at": "2026-09-21T07:15:11.304058"
   },
   {
-    "id": "1785cded2c47f53a07dfc7d5744cbafb",
-    "categorie": "Beursnieuws",
-    "titel": "Klaus Zellmer wordt nieuwe topman Volvo",
-    "link": "https://www.beurs.nl/Nieuws/878499/Klaus-Zellmer-wordt-nieuwe-topman-Volvo.aspx",
-    "intro": "De raad van bestuur van Volvo Cars heeft Klaus Zellmer benoemd tot president en CEO per 1 oktober aanstaande. Dit meldde de Zweedse autofabrikant zondag.",
-    "published_at": "2026-09-20 15:20",
-    "scraped_at": "2026-09-21T01:44:09.888926"
+    "id": "f2e26bd3cbddaf3d153a54458c9a770b",
+    "categorie": "Voorbeurs",
+    "titel": "Voorbeurs: we gaan hoger openen, alle hoop is gevestigd op Trump en Xi",
+    "link": "https://www.beurs.nl/Artikel/878504/Voorbeurs-we-gaan-hoger-openen-alle-hoop-is-gevestigd-op-Trump-en-Xi.aspx",
+    "intro": "Openingsindicatie: +0,3%. De onrust in het Midden-Oosten neemt toe, nu ook Saoedi-Arabië onder vuur ligt. Maar de olieprijzen dalen. Alle ogen zijn gericht op top van Trump en Xi Jinping.",
+    "published_at": "2026-09-21 08:30",
+    "scraped_at": "2026-09-21T07:15:11.304058"
   },
   {
-    "id": "183897bd10ac8b940e037589a5f68cb6",
+    "id": "3396758b5df2b2f9da39b5e1b1e64039",
     "categorie": "Beursnieuws",
-    "titel": "Xi en Trump bepalen beurssentiment komende week",
-    "link": "https://www.beurs.nl/Nieuws/878497/Xi-en-Trump-bepalen-beurssentiment-komende-week.aspx",
-    "intro": "Aan het begin van de nieuwe beursweek is de Japanse Nikkei gesloten en aan het einde van de week juist de beurzen op het Chinese vasteland. Na het Chinese rentebesluit zondag, volgen komende week nog die van de centrale banken in Zweden en Zwitserland.",
-    "published_at": "2026-09-20 15:02",
-    "scraped_at": "2026-09-21T01:44:09.888926"
+    "titel": "AEX wacht hogere opening dankzij tech en lagere olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/878532/AEX-wacht-hogere-opening-dankzij-tech-en-lagere-olieprijs.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag naar verwachting licht hoger van start. Futures op de AEX-index wezen ongeveer een uur voor de beursgong op een openingswinst van 0,4 procent. In Azië vinden de beurzen vanochtend ook de weg omhoog.",
+    "published_at": "2026-09-21 08:03",
+    "scraped_at": "2026-09-21T07:15:11.304058"
   },
   {
-    "id": "4ee3a60f765ede894033c17d059d39dc",
+    "id": "0e669169414f8adf276eaf35d24daf4e",
     "categorie": "Beursnieuws",
-    "titel": "Moeizame week voor chippers na waarschuwing over AI",
-    "link": "https://www.beurs.nl/Nieuws/878495/Moeizame-week-voor-chippers-na-waarschuwing-over-AI.aspx",
-    "intro": "Tegen een achtergrond van stijgende rentes en olieprijzen en zorgen over AI, was het een moeizame week voor de Amsterdamse beurs.",
-    "published_at": "2026-09-20 12:17",
-    "scraped_at": "2026-09-21T01:44:09.888926"
+    "titel": "Société Générale wil met hulp van AI meer kapitaal laten terugvloeien",
+    "link": "https://www.beurs.nl/Nieuws/878530/Societe-Generale-wil-met-hulp-van-AI-meer-kapitaal-laten-terugvloeien.aspx",
+    "intro": "Société Générale wil de kosten verder verlagen en groeien met hulp van AI, zodat in 2030 tot 21 miljard euro kan worden uitgekeerd aan aandeelhouders. Dat bleek maandag uit de nieuwe doelstellingen van de Franse bank.",
+    "published_at": "2026-09-21 07:55",
+    "scraped_at": "2026-09-21T07:15:11.304058"
   },
   {
-    "id": "b2a3083e4364267c128df2c5ff24afc1",
+    "id": "7ddf66b5a517ab2940cfff48c4007658",
     "categorie": "Beursnieuws",
-    "titel": "China handhaaft rentes",
-    "link": "https://www.beurs.nl/Nieuws/878494/China-handhaaft-rentes.aspx",
-    "intro": "De belangrijkste rentes in China zijn opnieuw gehandhaafd. Dit meldde de People's Bank of China zondag.",
-    "published_at": "2026-09-20 11:12",
-    "scraped_at": "2026-09-21T01:44:09.888926"
+    "titel": "Aziatische beurzen hoger dankzij tech en lagere olieprijs",
+    "link": "https://www.beurs.nl/Nieuws/878526/Aziatische-beurzen-hoger-dankzij-tech-en-lagere-olieprijs.aspx",
+    "intro": "De Aziatische beurzen koersten maandagochtend overwegend hoger, aangevoerd door technologieaandelen.",
+    "published_at": "2026-09-21 07:19",
+    "scraped_at": "2026-09-21T07:15:11.304058"
   },
   {
-    "id": "971efb61b38f62748e7dd2024d2a276c",
+    "id": "a657ee2b4fe2e8fa434169e0e14c613c",
     "categorie": "Beursnieuws",
-    "titel": "Trump wil AI-taskforce oprichten",
-    "link": "https://www.beurs.nl/Nieuws/878493/Trump-wil-AI-taskforce-oprichten.aspx",
-    "intro": "De Amerikaanse president Donald Trump is van plan om een taskforce op te richten die zich volledig richt op kunstmatige intelligentie. Dit meldde Trump zaterdag op Truth Social.",
-    "published_at": "2026-09-20 11:05",
-    "scraped_at": "2026-09-21T01:44:09.888926"
+    "titel": "Investeringen blijven op peil",
+    "link": "https://www.beurs.nl/Nieuws/878520/Investeringen-blijven-op-peil.aspx",
+    "intro": "De investeringen in Nederland zijn in juli heel licht gestegen. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-09-21 06:53",
+    "scraped_at": "2026-09-21T07:15:11.304058"
+  },
+  {
+    "id": "b5961364058ebd96561be47515248490",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen openen waarschijnlijk hoger",
+    "link": "https://www.beurs.nl/Nieuws/878519/Europese-beurzen-openen-waarschijnlijk-hoger.aspx",
+    "intro": "De aandelenmarkten in Europa gaan maandag een hogere opening tegemoet, waarbij beleggers kunnen reageren op een nieuwe Duitse verkiezingsuitslag, terwijl het verder vermoedelijk een rustig begin van de week zal worden, die onder meer in het teken staat van een bezoek van de Chinese president Xi aan het Witte Huis.",
+    "published_at": "2026-09-21 06:46",
+    "scraped_at": "2026-09-21T07:15:11.304058"
+  },
+  {
+    "id": "c8c369ea5ee2971a519729331a87b6d8",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/878518/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 28 september 2026:",
+    "published_at": "2026-09-21 06:41",
+    "scraped_at": "2026-09-21T07:15:11.304058"
+  },
+  {
+    "id": "4179e0283b037eb0770401fcd3712386",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/878516/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 28 september 2026:",
+    "published_at": "2026-09-21 06:40",
+    "scraped_at": "2026-09-21T07:15:11.304058"
+  },
+  {
+    "id": "01920b43ff4be3a0a03aaf06b414e87e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/878517/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 28 september 2026:",
+    "published_at": "2026-09-21 06:40",
+    "scraped_at": "2026-09-21T07:15:11.304058"
   }
 ]
