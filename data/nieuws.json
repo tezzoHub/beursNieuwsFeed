@@ -1,92 +1,92 @@
 [
   {
+    "id": "c6e59de17b324f096a00b271def15217",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX bouwt winst uit",
+    "link": "https://www.beurs.nl/Nieuws/878711/Beursupdate-AEX-bouwt-winst-uit.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag in het groen. De AEX steeg rond twee uur met 0,8 procent naar 1.111,19 punten.",
+    "published_at": "2026-09-22 13:57",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
+    "id": "7c7b12e5ee660d7566e32890e9d91ffe",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen lichtgroene opening op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/878702/Futures-voorspellen-lichtgroene-opening-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een lichtgroene opening tegemoet. Rond lunchtijd noteerden de futures op de SP 500 fractioneel boven de slotstand van maandag, die dicht in de buurt kwam van een 'all time high'. De Nasdaq wist zijn hoogste slotstand ooit maandag wel aan te scherpen, maar lijkt het dinsdag vooralsnog wat rustiger aan te doen.",
+    "published_at": "2026-09-22 12:50",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
+    "id": "4ceaa31636e598dc975a64f17c4bd932",
+    "categorie": "Beursnieuws",
+    "titel": "Evonik schrapt 3.200 banen",
+    "link": "https://www.beurs.nl/Nieuws/878700/Evonik-schrapt-3200-banen.aspx",
+    "intro": "Evonik scherpt de bedrijfsstrategie aan en schrapt daarom 3.200 banen. Dit maakte de Duitse specialist in speciaalchemie dinsdag bekend.",
+    "published_at": "2026-09-22 12:26",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
+    "id": "a62a9f58be31baf6b2f580adaa566f62",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen voorzichtig hoger rond middaguur",
+    "link": "https://www.beurs.nl/Nieuws/878697/Europese-beurzen-voorzichtig-hoger-rond-middaguur.aspx",
+    "intro": "De olieprijzen daalden dinsdag verder, maar dat gaf de Europese beurzen rond het middaguur nog geen grote impuls.",
+    "published_at": "2026-09-22 12:11",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
+    "id": "160ba894ff75f0cccdd5d721524faadd",
+    "categorie": "",
+    "titel": "Novo Nordisk blijft gevangen in een hardnekkige dalende trend",
+    "link": "https://www.iex.nl/artikel/878676/Novo-Nordisk-blijft-gevangen-in-een-hardnekkige-dalende-trend.aspx",
+    "intro": "",
+    "published_at": "2026-09-22 11:30",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
+    "id": "ee19fbba5ad1a7b331642c69762380c6",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus uitblinker op groen Damrak",
+    "link": "https://www.beurs.nl/Nieuws/878686/Prosus-uitblinker-op-groen-Damrak.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het groen, geholpen door de koerswinst van Prosus.",
+    "published_at": "2026-09-22 11:20",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
+    "id": "5b7567d63ba7dc586a713cbff9a2aa9d",
+    "categorie": "Beursnieuws",
+    "titel": "'Iran bereid Straat van Hormuz te openen'",
+    "link": "https://www.beurs.nl/Nieuws/878684/Iran-bereid-Straat-van-Hormuz-te-openen.aspx",
+    "intro": "Iran heeft aangeboden om de Straat van Hormuz binnen zeven dagen te openen, mits de VS stappen zetten om de militaire druk op het land te verzachten. Dit schreef het Japanse Kyodo News dinsdag op basis van uitspraken van een Iraanse ambtenaar.",
+    "published_at": "2026-09-22 11:08",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
+    "id": "50215e47e67d494165df628e17905cbb",
+    "categorie": "Beursnieuws",
+    "titel": "Prosus uitblinker in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/878669/Prosus-uitblinker-in-groene-AEX.aspx",
+    "intro": "De AEX noteerde dinsdag kort na de beursgong krap een half procent hoger op 1.107,25 punten. De AMX verloor daarentegen bijna een half procent.",
+    "published_at": "2026-09-22 09:18",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
+    "id": "8aaeaee7f9422a13a5f876fa640dbe8c",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies: Pharming meldt goed nieuws voor Joenja",
+    "link": "https://www.beurs.nl/Nieuws/878667/Jefferies-Pharming-meldt-goed-nieuws-voor-Joenja.aspx",
+    "intro": "Pharming Group heeft bekendgemaakt dat een 'late-breaking abstract' met positieve top-line data uit zijn Fase II-studie met leniolisib bij 13 patiënten met genetisch gedefinieerde PIDs, is geaccepteerd voor een congres in Maastricht.",
+    "published_at": "2026-09-22 09:04",
+    "scraped_at": "2026-09-22T12:25:52.824312"
+  },
+  {
     "id": "54664491e64bdfb09d9743b88abeb1e2",
     "categorie": "Beursnieuws",
     "titel": "'Grootaandeelhouder Van Wanrooij stapt uit Heijmans'",
     "link": "https://www.beurs.nl/Nieuws/878663/Grootaandeelhouder-Van-Wanrooij-stapt-uit-Heijmans.aspx",
     "intro": "Van Wanrooij heeft 2,3 miljoen aandelen Heijmans in de verkoop gedaan. Dit meldde Bloomberg maandagavond.",
     "published_at": "2026-09-22 08:32",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "78263a061b9950d28e1d7b00c07593fb",
-    "categorie": "Beursnieuws",
-    "titel": "Prosus benoemt nieuw AI-team",
-    "link": "https://www.beurs.nl/Nieuws/878664/Prosus-benoemt-nieuw-AI-team.aspx",
-    "intro": "Prosus heeft een nieuw AI-team samengesteld. Dit maakte de techinvesteerder met een notering op het Damrak dinsdagochtend bekend.",
-    "published_at": "2026-09-22 08:32",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "d6f091f644f091a93fba7b507f9bd543",
-    "categorie": "Beursnieuws",
-    "titel": "AEX opent nipt hoger na sterke AI-rally",
-    "link": "https://www.beurs.nl/Nieuws/878661/AEX-opent-nipt-hoger-na-sterke-AI-rally.aspx",
-    "intro": "De Amsterdamse beurs gaat dinsdag naar verwachting iets hoger van start, na een stevige rally op Wall Street maandagavond.",
-    "published_at": "2026-09-22 08:10",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "90f290d3f9fc65b859c15534ad54f460",
-    "categorie": "Beursnieuws",
-    "titel": "CTP blijft nieuwe huurders vinden",
-    "link": "https://www.beurs.nl/Nieuws/878659/CTP-blijft-nieuwe-huurders-vinden.aspx",
-    "intro": "CTP organiseert dinsdag en woensdag een bijeenkomst voor beleggers in het Poolse Warschau. Het is de vijfde keer dat het Nederlandse vastgoedfonds een dergelijke dag organiseert.",
-    "published_at": "2026-09-22 07:57",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "13c38f4bc9b3834745fcc19e9d8cac96",
-    "categorie": "Beursnieuws",
-    "titel": "Fastned wil opnieuw groeigeld ophalen",
-    "link": "https://www.beurs.nl/Nieuws/878658/Fastned-wil-opnieuw-groeigeld-ophalen.aspx",
-    "intro": "Fastned is gestart met de inschrijving voor een nieuwe obligatie-uitgifte in Nederland en België. Dit maakte het snellaadbedrijf dinsdag voorbeurs bekend.",
-    "published_at": "2026-09-22 07:51",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "ccdfb8f5eb5b9ec7831664820b0d9936",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine winsten op Aziatische beurzen met Tencent als uitblinker",
-    "link": "https://www.beurs.nl/Nieuws/878655/Kleine-winsten-op-Aziatische-beurzen-met-Tencent-als-uitblinker.aspx",
-    "intro": "De Aziatische beurzen noteerden dinsdag per saldo licht hoger, nadat een krachtige rally onder Amerikaanse technologieaandelen Wall Street maandagavond een impuls gaf. De Nasdaq steeg met 2,3 procent tot een recordstand van 27.127 punten.",
-    "published_at": "2026-09-22 07:29",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "74674ea722e97b882db5520d667e6b57",
-    "categorie": "Beursnieuws",
-    "titel": "Nieuwe Zweedse opdracht voor NX Filtration",
-    "link": "https://www.beurs.nl/Nieuws/878652/Nieuwe-Zweedse-opdracht-voor-NX-Filtration.aspx",
-    "intro": "NX Filtration heeft een nieuwe vierjarige raamovereenkomst gesloten met de afdeling Milieu en Water van Göteborg, de op één na grootste stad van Zweden. Dit maakte de Nederlandse specialist in membraantechnologie dinsdag voorbeurs bekend.",
-    "published_at": "2026-09-22 07:21",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "f0cae447eae81cf5327b8b38087e1913",
-    "categorie": "Beursnieuws",
-    "titel": "Pharming presenteert spoedig nieuwe studieresultaten met leniolisib",
-    "link": "https://www.beurs.nl/Nieuws/878648/Pharming-presenteert-spoedig-nieuwe-studieresultaten-met-leniolisib.aspx",
-    "intro": "Pharming Group heeft bekendgemaakt dat een 'late-breaking abstract' met positieve top-line data uit zijn Fase II-studie met leniolisib is geaccepteerd voor een congres in Maastricht. Dit maakte het Nederlandse biotechnologiebedrijf dinsdagochtend bekend.",
-    "published_at": "2026-09-22 07:12",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "f0ee3965f3961bd0f3f6c14081a379bb",
-    "categorie": "Beursnieuws",
-    "titel": "Prijzen Nederlandse koopwoningen blijven stijgen",
-    "link": "https://www.beurs.nl/Nieuws/878645/Prijzen-Nederlandse-koopwoningen-blijven-stijgen.aspx",
-    "intro": "Nederlandse koopwoningen zijn in augustus opnieuw in prijs gestegen, maar minder sterk dan in de voorgaande maanden. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek en het Kadaster.",
-    "published_at": "2026-09-22 07:04",
-    "scraped_at": "2026-09-22T06:50:31.512032"
-  },
-  {
-    "id": "c621d1786642c51a78ecf3ca2227e29b",
-    "categorie": "Beursnieuws",
-    "titel": "Nederlandse consument iets minder negatief",
-    "link": "https://www.beurs.nl/Nieuws/878644/Nederlandse-consument-iets-minder-negatief.aspx",
-    "intro": "Het Nederlandse consumentenvertrouwen is in september licht verbeterd. Dit bleek dinsdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-09-22 07:00",
-    "scraped_at": "2026-09-22T06:50:31.512032"
+    "scraped_at": "2026-09-22T12:25:52.824312"
   }
 ]
