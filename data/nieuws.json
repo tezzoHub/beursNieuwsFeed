@@ -1,92 +1,92 @@
 [
   {
-    "id": "c6e59de17b324f096a00b271def15217",
+    "id": "8bc2acb6d9f53a40498cf27b5f021d36",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX bouwt winst uit",
-    "link": "https://www.beurs.nl/Nieuws/878711/Beursupdate-AEX-bouwt-winst-uit.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag in het groen. De AEX steeg rond twee uur met 0,8 procent naar 1.111,19 punten.",
-    "published_at": "2026-09-22 13:57",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Europese beurzen sluiten verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/878752/Europese-beurzen-sluiten-verdeeld.aspx",
+    "intro": "De Europese beurzen zijn dinsdag verdeeld gesloten nadat de Brent-oliefuture aanvankelijk sterk daalde maar uiteindelijk toch weer boven 100 dollar kwam.",
+    "published_at": "2026-09-22 18:56",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "7c7b12e5ee660d7566e32890e9d91ffe",
+    "id": "846b6f9378613f99a0131934c81f6b38",
     "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen lichtgroene opening op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/878702/Futures-voorspellen-lichtgroene-opening-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een lichtgroene opening tegemoet. Rond lunchtijd noteerden de futures op de SP 500 fractioneel boven de slotstand van maandag, die dicht in de buurt kwam van een 'all time high'. De Nasdaq wist zijn hoogste slotstand ooit maandag wel aan te scherpen, maar lijkt het dinsdag vooralsnog wat rustiger aan te doen.",
-    "published_at": "2026-09-22 12:50",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Exor gaat aandelen inkopen na koersdaling Stellantis",
+    "link": "https://www.beurs.nl/Nieuws/878750/Exor-gaat-aandelen-inkopen-na-koersdaling-Stellantis.aspx",
+    "intro": "Exor heeft in de eerste helft van het jaar de vermogenswaarde zien dalen en gaat aandelen inkopen, omdat de beurswaarde zo veel lager is dan de boekwaarde. Dat maakte de investeerder dinsdag nabeurs bekend.",
+    "published_at": "2026-09-22 18:52",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "4ceaa31636e598dc975a64f17c4bd932",
+    "id": "eedb695806f57a6b319cc2c00e9632c5",
     "categorie": "Beursnieuws",
-    "titel": "Evonik schrapt 3.200 banen",
-    "link": "https://www.beurs.nl/Nieuws/878700/Evonik-schrapt-3200-banen.aspx",
-    "intro": "Evonik scherpt de bedrijfsstrategie aan en schrapt daarom 3.200 banen. Dit maakte de Duitse specialist in speciaalchemie dinsdag bekend.",
-    "published_at": "2026-09-22 12:26",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Adyen presenteert nieuwe CFO",
+    "link": "https://www.beurs.nl/Nieuws/878748/Adyen-presenteert-nieuwe-CFO.aspx",
+    "intro": "Adyen heeft dinsdagavond Niclas Neglen gepresenteerd als nieuwe CFO.",
+    "published_at": "2026-09-22 18:11",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "a62a9f58be31baf6b2f580adaa566f62",
+    "id": "e4d35f26a6fdfbc76a3e7a1954f0fced",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen voorzichtig hoger rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/878697/Europese-beurzen-voorzichtig-hoger-rond-middaguur.aspx",
-    "intro": "De olieprijzen daalden dinsdag verder, maar dat gaf de Europese beurzen rond het middaguur nog geen grote impuls.",
-    "published_at": "2026-09-22 12:11",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Prosus en chippers geven Damrak impuls",
+    "link": "https://www.beurs.nl/Nieuws/878744/Prosus-en-chippers-geven-Damrak-impuls.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd, gesteund door Prosus en de halfgeleideraandelen.",
+    "published_at": "2026-09-22 17:56",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "160ba894ff75f0cccdd5d721524faadd",
-    "categorie": "",
-    "titel": "Novo Nordisk blijft gevangen in een hardnekkige dalende trend",
-    "link": "https://www.iex.nl/artikel/878676/Novo-Nordisk-blijft-gevangen-in-een-hardnekkige-dalende-trend.aspx",
-    "intro": "",
-    "published_at": "2026-09-22 11:30",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "id": "5085e674258f3fff319ea835e5077f07",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX op rozen door tech en goedkopere olie",
+    "link": "https://www.iex.nl/artikel/878740/Slotcall-AEX-op-rozen-door-tech-en-goedkopere-olie.aspx",
+    "intro": "De AEX sluit een prima beursdag af met een winst van 0,8% op bijna 1.111 punten.",
+    "published_at": "2026-09-22 17:35",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "ee19fbba5ad1a7b331642c69762380c6",
+    "id": "7592512b581cef2bea7ac794eb5f9a02",
     "categorie": "Beursnieuws",
-    "titel": "Prosus uitblinker op groen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/878686/Prosus-uitblinker-op-groen-Damrak.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdag aan het einde van de ochtend in het groen, geholpen door de koerswinst van Prosus.",
-    "published_at": "2026-09-22 11:20",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/878731/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 30 september 2026:",
+    "published_at": "2026-09-22 16:19",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "5b7567d63ba7dc586a713cbff9a2aa9d",
+    "id": "7ac7454c2ee62dcccbc3671d790f3738",
     "categorie": "Beursnieuws",
-    "titel": "'Iran bereid Straat van Hormuz te openen'",
-    "link": "https://www.beurs.nl/Nieuws/878684/Iran-bereid-Straat-van-Hormuz-te-openen.aspx",
-    "intro": "Iran heeft aangeboden om de Straat van Hormuz binnen zeven dagen te openen, mits de VS stappen zetten om de militaire druk op het land te verzachten. Dit schreef het Japanse Kyodo News dinsdag op basis van uitspraken van een Iraanse ambtenaar.",
-    "published_at": "2026-09-22 11:08",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/878732/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 30 september 2026:",
+    "published_at": "2026-09-22 16:19",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "50215e47e67d494165df628e17905cbb",
+    "id": "68c07699c533a9ad22621733f6a0610b",
     "categorie": "Beursnieuws",
-    "titel": "Prosus uitblinker in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/878669/Prosus-uitblinker-in-groene-AEX.aspx",
-    "intro": "De AEX noteerde dinsdag kort na de beursgong krap een half procent hoger op 1.107,25 punten. De AMX verloor daarentegen bijna een half procent.",
-    "published_at": "2026-09-22 09:18",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/878730/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 30 september 2026:",
+    "published_at": "2026-09-22 16:18",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "8aaeaee7f9422a13a5f876fa640dbe8c",
+    "id": "71c271b5eb7186a35eb6439a82e0f84e",
     "categorie": "Beursnieuws",
-    "titel": "Jefferies: Pharming meldt goed nieuws voor Joenja",
-    "link": "https://www.beurs.nl/Nieuws/878667/Jefferies-Pharming-meldt-goed-nieuws-voor-Joenja.aspx",
-    "intro": "Pharming Group heeft bekendgemaakt dat een 'late-breaking abstract' met positieve top-line data uit zijn Fase II-studie met leniolisib bij 13 patiënten met genetisch gedefinieerde PIDs, is geaccepteerd voor een congres in Maastricht.",
-    "published_at": "2026-09-22 09:04",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Consumentenvertrouwen eurozone verder omlaag",
+    "link": "https://www.beurs.nl/Nieuws/878727/Consumentenvertrouwen-eurozone-verder-omlaag.aspx",
+    "intro": "Het consumentenvertrouwen in de eurozone is in september licht verslechterd. Dit bleek dinsdag uit voorlopige cijfers van de Europese Commissie.",
+    "published_at": "2026-09-22 16:06",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   },
   {
-    "id": "54664491e64bdfb09d9743b88abeb1e2",
+    "id": "3e1ba5c4dcaff8eaf4799f624844eefb",
     "categorie": "Beursnieuws",
-    "titel": "'Grootaandeelhouder Van Wanrooij stapt uit Heijmans'",
-    "link": "https://www.beurs.nl/Nieuws/878663/Grootaandeelhouder-Van-Wanrooij-stapt-uit-Heijmans.aspx",
-    "intro": "Van Wanrooij heeft 2,3 miljoen aandelen Heijmans in de verkoop gedaan. Dit meldde Bloomberg maandagavond.",
-    "published_at": "2026-09-22 08:32",
-    "scraped_at": "2026-09-22T12:25:52.824312"
+    "titel": "Beursblik: Exor moet duidelijkheid verschaffen",
+    "link": "https://www.beurs.nl/Nieuws/878723/Beursblik-Exor-moet-duidelijkheid-verschaffen.aspx",
+    "intro": "Het aandeel Exor noteert op een stevige korting van 58 procent en dat vraagt om toelichting. Dit stelde analist Filippe Goossens van Degroof Petercam.",
+    "published_at": "2026-09-22 15:22",
+    "scraped_at": "2026-09-22T17:20:10.260735"
   }
 ]
