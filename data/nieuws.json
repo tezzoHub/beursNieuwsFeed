@@ -1,12 +1,21 @@
 [
   {
+    "id": "25888679cfe902a48846a2bb499f621d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/878914/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag vijf van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten. Aegon was de sterkste daler.",
+    "published_at": "2026-09-23 22:44",
+    "scraped_at": "2026-09-23T23:13:49.436849"
+  },
+  {
     "id": "02c32e36596d20515ae26ab55f7c3fc3",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs en rentes drukken op Wall Street",
     "link": "https://www.beurs.nl/Nieuws/878912/Olieprijs-en-rentes-drukken-op-Wall-Street.aspx",
     "intro": "De Amerikaanse aandelenbeurzen zijn woensdag lager gesloten, nadat de olieprijzen weer opliepen en daarmee ook de inflatiezorgen en de rendementen op obligaties.",
     "published_at": "2026-09-23 22:23",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   },
   {
     "id": "53a7a764d221833d9472364fb303b77f",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/878909/Olieprijs-stijgt.aspx",
     "intro": "De olieprijs is woensdag gestegen, na zorgen over plannen om de export van Amerikaanse diesel te beperken of te verbieden en na harde retoriek van president Trump tegen Iran.",
     "published_at": "2026-09-23 21:37",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   },
   {
     "id": "ed5d367deda5c1b3287313c0b4c9a362",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/878908/Wall-Street-in-het-rood.aspx",
     "intro": "De Amerikaanse beurs stond woensdag lager, nadat de olieprijzen weer opliepen en daarmee de inflatiezorgen en de rendementen op obligaties.",
     "published_at": "2026-09-23 20:36",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   },
   {
     "id": "942d201e0520d097f5da9973449afecc",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/878902/Europese-beurzen-sluiten-lager.aspx",
     "intro": "Europese aandelen zijn woensdag lager gesloten, nadat de olieprijs weer opliep tot boven 100 dollar voor een vat Brent en de rentes op staatsleningen ook weer stegen, na ontspanning in de voorgaande dagen.",
     "published_at": "2026-09-23 18:48",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   },
   {
     "id": "dd77c71dd1c1d2dc6c5c3d8a1f8a4c26",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/878899/CVC-neemt-belang-in-internetinfrastructuurbedrijf-CDN77.aspx",
     "intro": "CVC Capital neemt een minderheidsbelang in het Tsjechische internetinfrastructuurbedrijf CDN77. Dit maakten de ondernemingen woensdag nabeurs bekend.",
     "published_at": "2026-09-23 18:31",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   },
   {
     "id": "a886b4711f53d0ba03b1a3543f9f0e8e",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/878897/AEX-sluit-lager-met-overleg-Trump-en-Xi-in-zicht.aspx",
     "intro": "De Amsterdamse beurs is woensdag in het rood gesloten, terwijl beleggers de boot afhielden in afwachting van de ontmoeting tussen de Chinese president Xi Jinping en zijn Amerikaanse ambtgenoot Donald Trump op donderdag.",
     "published_at": "2026-09-23 17:52",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   },
   {
     "id": "989dfd5b1403a3ecc3891b03c1d5b504",
@@ -60,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/878890/Slotcall-overnamepremie-komt-te-paard-en-gaat-te-paard.aspx",
     "intro": "De AEX begon de dag nog boven de slotstand van gisteren, maar daar bleef weinig van over. Uiteindelijk sluit de AEX 0,3% lager op 1.107,93 punten.",
     "published_at": "2026-09-23 17:35",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   },
   {
     "id": "4358e8888a40d09322b8d5c79e6d2048",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/878889/Amerikaanse-olievoorraden-stijgen.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week duidelijk gestegen, terwijl de benzinevoorraden op weekbasis juist zijn afgenomen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-09-23 16:39",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   },
   {
     "id": "273a67b64e3e3adcdde4450ba654ff8b",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/878885/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 1 oktober 2026:",
     "published_at": "2026-09-23 16:13",
-    "scraped_at": "2026-09-23T20:32:16.793063"
-  },
-  {
-    "id": "f24a99ac144bee6542abb68a0ea645e0",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/878883/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 1 oktober 2026:",
-    "published_at": "2026-09-23 16:12",
-    "scraped_at": "2026-09-23T20:32:16.793063"
+    "scraped_at": "2026-09-23T23:13:49.436849"
   }
 ]
