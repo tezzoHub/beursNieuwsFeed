@@ -1,12 +1,21 @@
 [
   {
+    "id": "e12da1853943c6ec7158988a853e87a2",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/879059/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten. Shell was de sterkste daler.",
+    "published_at": "2026-09-24 22:40",
+    "scraped_at": "2026-09-24T23:32:53.559126"
+  },
+  {
     "id": "a94e3fb67a791c633d99c8091e2e8ca6",
     "categorie": "Beursnieuws",
     "titel": "Wall Street sluit vlak ondanks hoopvolle signalen",
     "link": "https://www.beurs.nl/Nieuws/879057/Wall-Street-sluit-vlak-ondanks-hoopvolle-signalen.aspx",
     "intro": "De Amerikaanse beurzen sloten donderdag vlak, terwijl de Amerikaanse president Donald Trump en de Chinese president Xi Jinping met elkaar in gesprek gingen en de olieprijs en de rentes op staatsobligaties bleven stijgen.",
     "published_at": "2026-09-24 22:16",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   },
   {
     "id": "1f90fcbcfa775d812fa696d7af6fea00",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/879055/Olieprijs-stijgt-weer-verder-na-aanval-Houthis.aspx",
     "intro": "De olieprijs is donderdag verder gestegen, nadat een door Saoedi-Arabië geleide coalitie in Jemen verklaarde dat Saoedi-Arabië donderdag zes ballistische raketten heeft onderschept die waren afgevuurd door de door Iran gesteunde Houthi's.",
     "published_at": "2026-09-24 20:57",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   },
   {
     "id": "d0048fc482b722d801cc8a3e6c1af48c",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/879052/Rode-cijfers-op-Wall-Street-tijdens-topontmoeting-Trump-en-Xi.aspx",
     "intro": "De Amerikaanse beurzen toonden donderdag, met nog paar uur te gaan, rode cijfers op de borden, terwijl de Amerikaanse president Donald Trump en de Chinese president Xi Jinping met elkaar in gesprek gingen en de olieprijs en de rentes op staatsobligaties bleven stijgen.",
     "published_at": "2026-09-24 20:02",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   },
   {
     "id": "f6b6c5683992ee3cd612e9fe5653603a",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/879051/Europese-beurzen-sluiten-in-het-rood.aspx",
     "intro": "Europese aandelen zijn donderdag lager gesloten, nadat de Amerikaanse president Donald Trump en de Chinese president Xi Jinping hun topontmoeting waren begonnen. Tegelijkertijd liep de olieprijs verder op.",
     "published_at": "2026-09-24 18:51",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   },
   {
     "id": "3c48e276e8b47b31dc3f117bea2ce2ae",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/879050/Aanzienlijk-minder-handelsomzet-voor-Flow-Traders.aspx",
     "intro": "Flow Traders heeft in het derde kwartaal van dit jaar tot nu toe in de meeste regio's de ETF-handelsvolumes zien dalen, vergeleken met het voorgaande kwartaal, behalve in Azië. Dat meldde het handelshuis aan analisten voordat de radiostilte ingaat tot de kwartaalresultaten op 29 oktober.",
     "published_at": "2026-09-24 18:48",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   },
   {
     "id": "1a18dfd4417b1b5c21992c2e8f65c339",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/879045/Damrak-sluit-vlak-ondanks-stijging-olieprijs.aspx",
     "intro": "De Amsterdamse beurs bleef donderdag dicht bij huis en sloot nipt lager, na een rustige handelsdag zonder grote uitslagen in de hoofdindex, met de stijgende olieprijs als meest opvallende wapenfeit.",
     "published_at": "2026-09-24 17:52",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   },
   {
     "id": "45b86419c8ee9d0285ac82889c6a5703",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/879038/Deutsche-Bank-positief-over-CSG.aspx",
     "intro": "Deutsche Bank blijft positief over defensie-aandeel CSG, na een beleggersbijeenkomst waarin het bedrijf de boodschap gaf dat de uitvoering van der plannen iets voorloopt op schema.",
     "published_at": "2026-09-24 16:17",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   },
   {
     "id": "e912724c072528eba9c13e6c7bd5d733",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/879034/Veel-meer-nieuwe-woningen-verkocht-in-VS.aspx",
     "intro": "Er zijn in augustus veel meer nieuwe eengezinswoningen verkocht in de Verenigde Staten dan verwacht, nadat de cijfers over juli opwaarts werden bijgesteld. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-09-24 16:12",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   },
   {
     "id": "619475f3b7919e05dd4ec159c659fa96",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/879031/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 2 oktober 2026:",
     "published_at": "2026-09-24 15:48",
-    "scraped_at": "2026-09-24T20:37:29.460827"
-  },
-  {
-    "id": "ad6d4a286e9a883f385ef2aa71e81892",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/879032/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 2 oktober 2026:",
-    "published_at": "2026-09-24 15:48",
-    "scraped_at": "2026-09-24T20:37:29.460827"
+    "scraped_at": "2026-09-24T23:32:53.559126"
   }
 ]
