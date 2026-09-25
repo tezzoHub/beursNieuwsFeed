@@ -1,92 +1,92 @@
 [
   {
-    "id": "54b2893f6f168bb9b3537db6b94e91e3",
+    "id": "f32be974c0ab8094e6cdff3d3c9c1c84",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst af op hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/879151/Wall-Street-koerst-af-op-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet, terwijl de olieprijs daalt en de rentes op staatsobligaties voorzichtig lijken te stabiliseren.",
-    "published_at": "2026-09-25 14:54",
-    "scraped_at": "2026-09-25T13:01:25.022838"
+    "titel": "Europese beurzen met winst het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/879181/Europese-beurzen-met-winst-het-weekend-in.aspx",
+    "intro": "De Europese beurzen zijn vrijdag overwegend hoger geëindigd, hoewel de olieprijzen en rentes hoog bleven.",
+    "published_at": "2026-09-25 18:56",
+    "scraped_at": "2026-09-25T17:59:33.718148"
   },
   {
-    "id": "067a1586317286c1d5b844044e35cfd1",
+    "id": "1e14c6ca5bcaf5b008c54f0afcd02327",
     "categorie": "Beursnieuws",
-    "titel": "Orders voor duurzame goederen in VS stabiel",
-    "link": "https://www.beurs.nl/Nieuws/879150/Orders-voor-duurzame-goederen-in-VS-stabiel.aspx",
-    "intro": "De orders voor duurzame goederen in de VS zijn in augustus na twee maanden van stijgingen stabiel gebleven. Dit bleek vrijdag cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-09-25 14:38",
-    "scraped_at": "2026-09-25T13:01:25.022838"
+    "titel": "Kleine jaarwinst voor Ajax",
+    "link": "https://www.beurs.nl/Nieuws/879178/Kleine-jaarwinst-voor-Ajax.aspx",
+    "intro": "Ajax heeft het boekjaar 2025/2026 afgesloten met een kleine winst, dankzij een hogere omzet en een positief transferresultaat. Dit bleek vrijdagavond uit de jaarcijfers van de beursgenoteerde voetbalclub uit Amsterdam.",
+    "published_at": "2026-09-25 18:51",
+    "scraped_at": "2026-09-25T17:59:33.718148"
   },
   {
-    "id": "c338e045e778bc392a940af30beb6aa3",
+    "id": "3520ecc37030040c44342cf1ca9f4521",
     "categorie": "Beursnieuws",
-    "titel": "AEX in het groen richting het weekend",
-    "link": "https://www.beurs.nl/Nieuws/879130/AEX-in-het-groen-richting-het-weekend.aspx",
-    "intro": "De Amsterdamse beurs hield vrijdagmiddag de openingswinsten vast, terwijl de olieprijs daalde en de rentes op staatsobligaties stabiliseerden.",
-    "published_at": "2026-09-25 13:49",
-    "scraped_at": "2026-09-25T13:01:25.022838"
+    "titel": "New Sources Energy blijft verlieslatend",
+    "link": "https://www.beurs.nl/Nieuws/879175/New-Sources-Energy-blijft-verlieslatend.aspx",
+    "intro": "New Sources Energy was ook in de eerste zes maanden van 2026 verlieslatend, terwijl de totale activa daalden. Dit meldde de onderneming vrijdagavond.",
+    "published_at": "2026-09-25 18:39",
+    "scraped_at": "2026-09-25T17:59:33.718148"
   },
   {
-    "id": "e1326ab5ad440283b5bac14352d5f904",
-    "categorie": "IEX",
-    "titel": "Stem op uw favoriete AEX-aandeel voor oktober",
-    "link": "https://www.beurs.nl/Artikel/879123/Stem-op-uw-favoriete-AEX-aandeel-voor-oktober.aspx",
-    "intro": "Wat gaat de AEX doen? Welk aandeel wordt de parel van oktober? Doe mee aan een nieuwe meting van het Nationaal Beleggerssentiment!",
-    "published_at": "2026-09-25 13:15",
-    "scraped_at": "2026-09-25T13:01:25.022838"
-  },
-  {
-    "id": "e6a16193f10d0fba3df5f4a3e8420c20",
+    "id": "1ca12043d85039f9d7890d762e2a3e72",
     "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street kleuren lichtgroen",
-    "link": "https://www.beurs.nl/Nieuws/879122/Futures-Wall-Street-kleuren-lichtgroen.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een licht hogere opening tegemoet, terwijl de olieprijs iets daalde en de rentes op staatsobligaties stabiliseerden.",
-    "published_at": "2026-09-25 12:58",
-    "scraped_at": "2026-09-25T13:01:25.022838"
+    "titel": "Stabiele resultaten Alumexx",
+    "link": "https://www.beurs.nl/Nieuws/879174/Stabiele-resultaten-Alumexx.aspx",
+    "intro": "Alumexx heeft in de eerste zes maanden van het jaar stabiele resultaten geboekt. Dit meldde de specialist in aluminium klimmaterialen, steigers en hoogwerksystemen vrijdagavond.",
+    "published_at": "2026-09-25 18:28",
+    "scraped_at": "2026-09-25T17:59:33.718148"
   },
   {
-    "id": "8f026d5a53ad42764444b365be8d724f",
+    "id": "1ca23072655931e8515923cc57018d99",
     "categorie": "Beursnieuws",
-    "titel": "Positieve stemming op de Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/879120/Positieve-stemming-op-de-Europese-beurzen.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond lunchtijd hoger, geholpen door lagere olieprijzen en een lichte daling op de rentemarkten.",
-    "published_at": "2026-09-25 12:29",
-    "scraped_at": "2026-09-25T13:01:25.022838"
+    "titel": "Hogere omzet Almunda terwijl resultaat daalt",
+    "link": "https://www.beurs.nl/Nieuws/879173/Hogere-omzet-Almunda-terwijl-resultaat-daalt.aspx",
+    "intro": "Almunda Professionals heeft in de eerste zes maanden van het jaar een hogere omzet geboekt, maar het resultaat daalde wel. Dit meldde de uitzendgroep vrijdag nabeurs.",
+    "published_at": "2026-09-25 18:18",
+    "scraped_at": "2026-09-25T17:59:33.718148"
   },
   {
-    "id": "e63fc1d4f59c28d8a1d88e2ed2309ef4",
+    "id": "83f91f5829b3338220b0706e8363019b",
     "categorie": "Beursnieuws",
-    "titel": "KPN aan kop op groen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/879114/KPN-aan-kop-op-groen-Damrak.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdag aan het einde van de ochtend hoger, geholpen door wat lagere olieprijzen en een lichte daling op de rentemarkten.",
-    "published_at": "2026-09-25 11:03",
-    "scraped_at": "2026-09-25T13:01:25.022838"
+    "titel": "Chippers en financials geven AEX een zetje richting het weekend",
+    "link": "https://www.beurs.nl/Nieuws/879170/Chippers-en-financials-geven-AEX-een-zetje-richting-het-weekend.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag hoger geëindigd en won ook op weekbasis terrein, met hulp van de halfgeleideraandelen en financiële waarden.",
+    "published_at": "2026-09-25 17:54",
+    "scraped_at": "2026-09-25T17:59:33.718148"
   },
   {
-    "id": "76436e78ae7bfb7c2e94ca444bfc3d1b",
-    "categorie": "Must read",
-    "titel": "Must read: AI-handel is dood geld",
-    "link": "https://www.iex.nl/artikel/879100/Must-read-AI-handel-is-dood-geld.aspx",
-    "intro": "De handel in kunstmatige intelligentie is al meer dan drie maanden \"dood geld\", zei Jurrien Timmer. Plus: Trump dreigt dieselkraan naar Europa dicht te draaien, Amerikanen lopen tegen de rentemuur aan, deze techkopstukken mochten mee-eten in het Witte Huis en meer.",
-    "published_at": "2026-09-25 11:00",
-    "scraped_at": "2026-09-25T13:01:25.022838"
-  },
-  {
-    "id": "c872457a48cdee487b62e9d5a8de0647",
+    "id": "fdc8cdaf3f311c1116503af7325504b1",
     "categorie": "Beursnieuws",
-    "titel": "Schnabel stapt over van ECB naar IMF",
-    "link": "https://www.beurs.nl/Nieuws/879112/Schnabel-stapt-over-van-ECB-naar-IMF.aspx",
-    "intro": "Bestuurder Isabel Schnabel vertrekt bij de Europese Centrale Bank om aan de slag te gaan bij het Internationaal Monetair Fonds. Dit maakte de ECB via een persbericht bekend.",
-    "published_at": "2026-09-25 10:39",
-    "scraped_at": "2026-09-25T13:01:25.022838"
+    "titel": "FDA gaat aanvullende aanvraag Pharming voor Joenja versneld beoordelen",
+    "link": "https://www.beurs.nl/Nieuws/879168/FDA-gaat-aanvullende-aanvraag-Pharming-voor-Joenja-versneld-beoordelen.aspx",
+    "intro": "De Amerikaanse FDA gaat een lagere dosis van het middel Joenja van Pharming versneld beoordelen voor markttoelating in de VS als behandeling voor kinderen die lijden aan de ziekte APDS. Dit meldde Pharming vrijdagmiddag.",
+    "published_at": "2026-09-25 16:42",
+    "scraped_at": "2026-09-25T17:59:33.718148"
   },
   {
-    "id": "91af8412583fd21c1913a8361b7966e7",
+    "id": "ac7a660405239f300357171018c5f006",
     "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland betaalt 3,75% rente",
-    "link": "https://www.beurs.nl/Nieuws/879110/Obligatie-Nederland-betaalt-375-rente.aspx",
-    "intro": "De nieuwe 20-jarige obligatie die Nederland in de markt wil zetten, zal een rentevergoeding geven van 3,75 procent. Dit maakte het Agentschap van het ministerie van Financiën vrijdag bekend.",
-    "published_at": "2026-09-25 10:19",
-    "scraped_at": "2026-09-25T13:01:25.022838"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/879162/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 5 oktober 2026:",
+    "published_at": "2026-09-25 16:30",
+    "scraped_at": "2026-09-25T17:59:33.718148"
+  },
+  {
+    "id": "58894e70e14395944b8999ae65165858",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/879164/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 5 oktober 2026:",
+    "published_at": "2026-09-25 16:30",
+    "scraped_at": "2026-09-25T17:59:33.718148"
+  },
+  {
+    "id": "9b15f0f8e1cb98bfbedfb34fbaa58169",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/879165/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 5 oktober 2026:",
+    "published_at": "2026-09-25 16:30",
+    "scraped_at": "2026-09-25T17:59:33.718148"
   }
 ]
