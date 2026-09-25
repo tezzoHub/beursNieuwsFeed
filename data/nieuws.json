@@ -1,48 +1,48 @@
 [
   {
-    "id": "e12da1853943c6ec7158988a853e87a2",
+    "id": "ccf20b7aa8b1636d26b48ba421c3c86f",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/879059/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag vier van de acht AEX-genoteerde fondsen ten opzichte van het slot in Amsterdam hoger gesloten. Shell was de sterkste daler.",
-    "published_at": "2026-09-24 22:40",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "titel": "Beursupdate: chippers zetten AEX hoger",
+    "link": "https://www.beurs.nl/Nieuws/879104/Beursupdate-chippers-zetten-AEX-hoger.aspx",
+    "intro": "De Amsterdamse beurs is vrijdagochtend hoger van start gegaan, waarbij vooral de halfgeleideraandelen en financials in trek waren.",
+    "published_at": "2026-09-25 09:13",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
-    "id": "a94e3fb67a791c633d99c8091e2e8ca6",
+    "id": "27f9ef1fbd30f152bcd110934643f18e",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit vlak ondanks hoopvolle signalen",
-    "link": "https://www.beurs.nl/Nieuws/879057/Wall-Street-sluit-vlak-ondanks-hoopvolle-signalen.aspx",
-    "intro": "De Amerikaanse beurzen sloten donderdag vlak, terwijl de Amerikaanse president Donald Trump en de Chinese president Xi Jinping met elkaar in gesprek gingen en de olieprijs en de rentes op staatsobligaties bleven stijgen.",
-    "published_at": "2026-09-24 22:16",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "titel": "Spaanse economie groeit nog iets harder",
+    "link": "https://www.beurs.nl/Nieuws/879103/Spaanse-economie-groeit-nog-iets-harder.aspx",
+    "intro": "De Spaanse economie is in het tweede kwartaal van 2026 in een iets hoger tempo gegroeid dan een kwartaal eerder. Dit bleek vrijdag uit cijfers van het Spaanse statistiekbureau.",
+    "published_at": "2026-09-25 09:09",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
-    "id": "1f90fcbcfa775d812fa696d7af6fea00",
+    "id": "a492946a35d86d9ae8fc12b00753e1d0",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt weer verder na aanval Houthi's",
-    "link": "https://www.beurs.nl/Nieuws/879055/Olieprijs-stijgt-weer-verder-na-aanval-Houthis.aspx",
-    "intro": "De olieprijs is donderdag verder gestegen, nadat een door Saoedi-Arabië geleide coalitie in Jemen verklaarde dat Saoedi-Arabië donderdag zes ballistische raketten heeft onderschept die waren afgevuurd door de door Iran gesteunde Houthi's.",
-    "published_at": "2026-09-24 20:57",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "titel": "Beursblik: Deutsche Bank verlaagt koersdoel CTP",
+    "link": "https://www.beurs.nl/Nieuws/879101/Beursblik-Deutsche-Bank-verlaagt-koersdoel-CTP.aspx",
+    "intro": "Deutsche Bank heeft het koersdoel voor CTP verlaagd van 19,00 naar 16,00 euro, maar met handhaving van het koopadvies. Dit bleek vrijdag uit een rapport van analist Thomas Rothaeusler.",
+    "published_at": "2026-09-25 09:00",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
-    "id": "d0048fc482b722d801cc8a3e6c1af48c",
+    "id": "e55d6399360ca12faacbda54ff43d216",
     "categorie": "Beursnieuws",
-    "titel": "Rode cijfers op Wall Street tijdens topontmoeting Trump en Xi",
-    "link": "https://www.beurs.nl/Nieuws/879052/Rode-cijfers-op-Wall-Street-tijdens-topontmoeting-Trump-en-Xi.aspx",
-    "intro": "De Amerikaanse beurzen toonden donderdag, met nog paar uur te gaan, rode cijfers op de borden, terwijl de Amerikaanse president Donald Trump en de Chinese president Xi Jinping met elkaar in gesprek gingen en de olieprijs en de rentes op staatsobligaties bleven stijgen.",
-    "published_at": "2026-09-24 20:02",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "titel": "ArcelorMittal sluit grote staalfabriek in Oekraïne",
+    "link": "https://www.beurs.nl/Nieuws/879096/ArcelorMittal-sluit-grote-staalfabriek-in-Oekraine.aspx",
+    "intro": "(ABM FN-Dow Jones) ArcelorMittal heeft de Oekraïense regering laten weten dat het niet in staat is om de activiteiten bij dochterbedrijf ArcelorMittal Kryvyi Rih op een veilige en duurzame manier te hervatten. Dit meldde het staalbedrijf vrijdag, na eerdere verklaringen op 17 augustus en 14 september over raketaanvallen op de fabriek.",
+    "published_at": "2026-09-25 08:48",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
-    "id": "f6b6c5683992ee3cd612e9fe5653603a",
+    "id": "5fe70bd1385bedc2ef81f7dd7c293fd0",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten in het rood",
-    "link": "https://www.beurs.nl/Nieuws/879051/Europese-beurzen-sluiten-in-het-rood.aspx",
-    "intro": "Europese aandelen zijn donderdag lager gesloten, nadat de Amerikaanse president Donald Trump en de Chinese president Xi Jinping hun topontmoeting waren begonnen. Tegelijkertijd liep de olieprijs verder op.",
-    "published_at": "2026-09-24 18:51",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "titel": "Media: Iran doet VS nieuw voorstel voor staakt-het-vuren",
+    "link": "https://www.beurs.nl/Nieuws/879097/Media-Iran-doet-VS-nieuw-voorstel-voor-staakt-het-vuren.aspx",
+    "intro": "Iran heeft de Verenigde Staten een nieuw voorstel gedaan dat binnen zeven dagen moet leiden tot een staakt-het-vuren en de heropening van de Straat van Hormuz. Dit meldde de Financial Times vrijdag op basis van uitspraken van de Iraanse minister van Buitenlandse Zaken Abbas Araghchi.",
+    "published_at": "2026-09-25 08:47",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
     "id": "3c48e276e8b47b31dc3f117bea2ce2ae",
@@ -50,43 +50,43 @@
     "titel": "Aanzienlijk minder handelsomzet voor Flow Traders",
     "link": "https://www.beurs.nl/Nieuws/879050/Aanzienlijk-minder-handelsomzet-voor-Flow-Traders.aspx",
     "intro": "Flow Traders heeft in het derde kwartaal van dit jaar tot nu toe in de meeste regio's de ETF-handelsvolumes zien dalen, vergeleken met het voorgaande kwartaal, behalve in Azië. Dat meldde het handelshuis aan analisten voordat de radiostilte ingaat tot de kwartaalresultaten op 29 oktober.",
-    "published_at": "2026-09-24 18:48",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "published_at": "2026-09-25 08:36",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
-    "id": "1a18dfd4417b1b5c21992c2e8f65c339",
+    "id": "8b29ef4b97bf7ab550ee85a62e8c7911",
     "categorie": "Beursnieuws",
-    "titel": "Damrak sluit vlak ondanks stijging olieprijs.",
-    "link": "https://www.beurs.nl/Nieuws/879045/Damrak-sluit-vlak-ondanks-stijging-olieprijs.aspx",
-    "intro": "De Amsterdamse beurs bleef donderdag dicht bij huis en sloot nipt lager, na een rustige handelsdag zonder grote uitslagen in de hoofdindex, met de stijgende olieprijs als meest opvallende wapenfeit.",
-    "published_at": "2026-09-24 17:52",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "titel": "Beursblik: Citi verhoogt koersdoel voor Randstad stevig",
+    "link": "https://www.beurs.nl/Nieuws/879092/Beursblik-Citi-verhoogt-koersdoel-voor-Randstad-stevig.aspx",
+    "intro": "Citi Research heeft het koersdoel voor Randstad verhoogd van 25,00 naar 36,50 euro, met handhaving van een neutraal advies. Dit bleek vrijdag uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-09-25 08:21",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
-    "id": "45b86419c8ee9d0285ac82889c6a5703",
+    "id": "67ad497d72d71c18554127d4d7bb4ae8",
     "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank positief over CSG",
-    "link": "https://www.beurs.nl/Nieuws/879038/Deutsche-Bank-positief-over-CSG.aspx",
-    "intro": "Deutsche Bank blijft positief over defensie-aandeel CSG, na een beleggersbijeenkomst waarin het bedrijf de boodschap gaf dat de uitvoering van der plannen iets voorloopt op schema.",
-    "published_at": "2026-09-24 16:17",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "titel": "Duitse consumentenvertrouwen daalt",
+    "link": "https://www.beurs.nl/Nieuws/879089/Duitse-consumentenvertrouwen-daalt.aspx",
+    "intro": "Het consumentenvertrouwen in Duitsland is significant verslechterd. Dit bleek vrijdag uit nieuwe metingen van onderzoeksbureau GfK, dat een maand vooruit meet.",
+    "published_at": "2026-09-25 08:15",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
-    "id": "e912724c072528eba9c13e6c7bd5d733",
+    "id": "146278810061f7684a6b9470ac26c50b",
     "categorie": "Beursnieuws",
-    "titel": "Veel meer nieuwe woningen verkocht in VS",
-    "link": "https://www.beurs.nl/Nieuws/879034/Veel-meer-nieuwe-woningen-verkocht-in-VS.aspx",
-    "intro": "Er zijn in augustus veel meer nieuwe eengezinswoningen verkocht in de Verenigde Staten dan verwacht, nadat de cijfers over juli opwaarts werden bijgesteld. Dit bleek donderdag uit cijfers van het Amerikaanse ministerie van Handel.",
-    "published_at": "2026-09-24 16:12",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "titel": "AEX vermoedelijk in het groen van start",
+    "link": "https://www.beurs.nl/Nieuws/879086/AEX-vermoedelijk-in-het-groen-van-start.aspx",
+    "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting licht hoger van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van minder dan een half procent.",
+    "published_at": "2026-09-25 08:05",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   },
   {
-    "id": "619475f3b7919e05dd4ec159c659fa96",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/879031/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 2 oktober 2026:",
-    "published_at": "2026-09-24 15:48",
-    "scraped_at": "2026-09-25T01:57:44.221741"
+    "id": "b627e5ec929b97c618c7d727a58cf1ed",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent hoger en zo lijkt Jensen Huang toch gelijk te krijgen",
+    "link": "https://www.iex.nl/artikel/879027/AEX-opent-hoger-en-zo-lijkt-Jensen-Huang-toch-gelijk-te-krijgen.aspx",
+    "intro": "De AEX gaat zo hoger van start, maar de oplopende rentes en duurdere olie hangen als donkere wolken boven de markt. En Jensen Huang? Die lijkt na anderhalf jaar al gelijk te krijgen.",
+    "published_at": "2026-09-25 08:00",
+    "scraped_at": "2026-09-25T07:36:48.804907"
   }
 ]
