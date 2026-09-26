@@ -1,92 +1,20 @@
 [
   {
-    "id": "5f7f2d5b41657d166979da3277e670de",
+    "id": "173a0ab95520d9686ece16646f3cea1b",
     "categorie": "Beursnieuws",
-    "titel": "Moody's handhaaft AAA-rating Europese Unie",
-    "link": "https://www.beurs.nl/Nieuws/879197/Moodys-handhaaft-AAA-rating-Europese-Unie.aspx",
-    "intro": "Moody's heeft de zogeheten 'Triple A'-kredietstatus van de Europese Unie gehandhaafd, met daarbij een stabiele outlook. Dit bleek vrijdagavond uit een bericht van de Amerikaanse kredietwaardigheidsbeoordelaar.",
-    "published_at": "2026-09-25 23:08",
-    "scraped_at": "2026-09-26T05:11:09.570866"
+    "titel": "Legal & General kleiner in Alfen",
+    "link": "https://www.beurs.nl/Nieuws/879202/Legal-General-kleiner-in-Alfen.aspx",
+    "intro": "Legal  General Investment Management heeft een kleiner belang in Alfen gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 18 september.",
+    "published_at": "2026-09-26 09:26",
+    "scraped_at": "2026-09-26T09:58:16.906511"
   },
   {
-    "id": "0d417cc6b1f9a1da1415eac6eb8fc785",
+    "id": "739604e87699a66b3ef78d9bd07cf39c",
     "categorie": "Beursnieuws",
-    "titel": "Media: AI-modellen OpenAI omzeilden mogelijk beveiliging overheidssites",
-    "link": "https://www.beurs.nl/Nieuws/879196/Media-AI-modellen-OpenAI-omzeilden-mogelijk-beveiliging-overheidssites.aspx",
-    "intro": "De AI-modellen van OpenAI hebben mogelijk de online beveiliging van \"tientallen\" organisaties, waaronder overheden en universiteiten, omzeild tijdens bedrijfsevaluaties van de technologie. Dit meldde persbureau Bloomberg vrijdagavond op basis van een blog van OpenAI.",
-    "published_at": "2026-09-25 23:03",
-    "scraped_at": "2026-09-26T05:11:09.570866"
-  },
-  {
-    "id": "a3e7a11c0b779d8574cfd0484756a6bd",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/879195/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam, waaronder zwaargewichten ASML en Unilever. Shell daalde licht.",
-    "published_at": "2026-09-25 22:17",
-    "scraped_at": "2026-09-26T05:11:09.570866"
-  },
-  {
-    "id": "a59afc29ff8cd31f05ecd3e38ce8dc1e",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street met winst het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/879194/Wall-Street-met-winst-het-weekend-in.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag hoger geëindigd terwijl de rentes en olieprijzen daalden.",
-    "published_at": "2026-09-25 22:12",
-    "scraped_at": "2026-09-26T05:11:09.570866"
-  },
-  {
-    "id": "8e7885fbb3a9cbf46628be67a3fe2308",
-    "categorie": "Beursnieuws",
-    "titel": "Oliemarkten vestigen hoop op diplomatieke inspanningen rond Hormuz",
-    "link": "https://www.beurs.nl/Nieuws/879191/Oliemarkten-vestigen-hoop-op-diplomatieke-inspanningen-rond-Hormuz.aspx",
-    "intro": "De olieprijzen zijn vrijdag gedaald. De settlement van West Texas Intermediate was 92,41 dollar, waarmee een vat ruim 2 procent goedkoper werd dan donderdag. Een vat Brent kostte 104,32 dollar en dat was op dagbasis  ook een daling van 2 procent.",
-    "published_at": "2026-09-25 21:04",
-    "scraped_at": "2026-09-26T05:11:09.570866"
-  },
-  {
-    "id": "bcbe91f4f35b77d2208c8c51a73d71b0",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst hoger",
-    "link": "https://www.beurs.nl/Nieuws/879184/Wall-Street-koerst-hoger.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag hoger, terwijl de olieprijzen en rentes daalden.",
-    "published_at": "2026-09-25 19:54",
-    "scraped_at": "2026-09-26T05:11:09.570866"
-  },
-  {
-    "id": "f32be974c0ab8094e6cdff3d3c9c1c84",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen met winst het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/879181/Europese-beurzen-met-winst-het-weekend-in.aspx",
-    "intro": "De Europese beurzen zijn vrijdag overwegend hoger geëindigd, hoewel de olieprijzen en rentes hoog bleven.",
-    "published_at": "2026-09-25 18:56",
-    "scraped_at": "2026-09-26T05:11:09.570866"
-  },
-  {
-    "id": "1e14c6ca5bcaf5b008c54f0afcd02327",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine jaarwinst voor Ajax",
-    "link": "https://www.beurs.nl/Nieuws/879178/Kleine-jaarwinst-voor-Ajax.aspx",
-    "intro": "Ajax heeft het boekjaar 2025/2026 afgesloten met een kleine winst, dankzij een hogere omzet en een positief transferresultaat. Dit bleek vrijdagavond uit de jaarcijfers van de beursgenoteerde voetbalclub uit Amsterdam.",
-    "published_at": "2026-09-25 18:51",
-    "scraped_at": "2026-09-26T05:11:09.570866"
-  },
-  {
-    "id": "3520ecc37030040c44342cf1ca9f4521",
-    "categorie": "Beursnieuws",
-    "titel": "New Sources Energy blijft verlieslatend",
-    "link": "https://www.beurs.nl/Nieuws/879175/New-Sources-Energy-blijft-verlieslatend.aspx",
-    "intro": "New Sources Energy was ook in de eerste zes maanden van 2026 verlieslatend, terwijl de totale activa daalden. Dit meldde de onderneming vrijdagavond.",
-    "published_at": "2026-09-25 18:39",
-    "scraped_at": "2026-09-26T05:11:09.570866"
-  },
-  {
-    "id": "1ca12043d85039f9d7890d762e2a3e72",
-    "categorie": "Beursnieuws",
-    "titel": "Stabiele resultaten Alumexx",
-    "link": "https://www.beurs.nl/Nieuws/879174/Stabiele-resultaten-Alumexx.aspx",
-    "intro": "Alumexx heeft in de eerste zes maanden van het jaar stabiele resultaten geboekt. Dit meldde de specialist in aluminium klimmaterialen, steigers en hoogwerksystemen vrijdagavond.",
-    "published_at": "2026-09-25 18:28",
-    "scraped_at": "2026-09-26T05:11:09.570866"
+    "titel": "Media: Trump accepteert Iraans staakt-het-vuren niet",
+    "link": "https://www.beurs.nl/Nieuws/879201/Media-Trump-accepteert-Iraans-staakt-het-vuren-niet.aspx",
+    "intro": "De Amerikaanse president Donald Trump heeft het Iraanse voorstel voor een staakt-het-vuren afgewezen. Dit lieten medewerkers van de president weten volgens The Wall Street Journal.",
+    "published_at": "2026-09-26 09:21",
+    "scraped_at": "2026-09-26T09:58:16.906511"
   }
 ]
