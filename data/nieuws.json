@@ -1,20 +1,29 @@
 [
   {
-    "id": "173a0ab95520d9686ece16646f3cea1b",
+    "id": "6a77a1fa49084e10e2aa5fc2fec5b0ed",
     "categorie": "Beursnieuws",
-    "titel": "Legal & General kleiner in Alfen",
-    "link": "https://www.beurs.nl/Nieuws/879202/Legal-General-kleiner-in-Alfen.aspx",
-    "intro": "Legal  General Investment Management heeft een kleiner belang in Alfen gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 18 september.",
-    "published_at": "2026-09-26 09:26",
-    "scraped_at": "2026-09-27T06:41:30.941359"
+    "titel": "Apple veroordeeld tot betalen schadevergoeding van bijna 6 miljard dollar",
+    "link": "https://www.beurs.nl/Nieuws/879211/Apple-veroordeeld-tot-betalen-schadevergoeding-van-bijna-6-miljard-dollar.aspx",
+    "intro": "Apple moet ruim 5,7 miljard dollar betalen in een patentkwestie. Dit bepaalde een rechtbank in San Diego volgens de Amerikaanse zakenzender CNBC.",
+    "published_at": "2026-09-27 14:00",
+    "scraped_at": "2026-09-27T12:30:16.197083"
   },
   {
-    "id": "739604e87699a66b3ef78d9bd07cf39c",
+    "id": "3cfc042f73b2498345b8d3d5a55cbd71",
     "categorie": "Beursnieuws",
-    "titel": "Media: Trump accepteert Iraans staakt-het-vuren niet",
-    "link": "https://www.beurs.nl/Nieuws/879201/Media-Trump-accepteert-Iraans-staakt-het-vuren-niet.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft het Iraanse voorstel voor een staakt-het-vuren afgewezen. Dit lieten medewerkers van de president weten volgens The Wall Street Journal.",
-    "published_at": "2026-09-26 09:21",
-    "scraped_at": "2026-09-27T06:41:30.941359"
+    "titel": "Chippers en chemie bieden Damrak steun",
+    "link": "https://www.beurs.nl/Nieuws/879207/Chippers-en-chemie-bieden-Damrak-steun.aspx",
+    "intro": "Het Damrak wist afgelopen week de rentevrees van zich af te schudden dankzij steun van de chippers, die goed standhielden na positieve berichten rond Meta's nieuwe AI-agent.",
+    "published_at": "2026-09-27 10:02",
+    "scraped_at": "2026-09-27T12:30:16.197083"
+  },
+  {
+    "id": "044d61cd8e0957b1e140feab463063db",
+    "categorie": "Beursnieuws",
+    "titel": "Damrak schudt rentevrees af",
+    "link": "https://www.beurs.nl/Nieuws/879206/Damrak-schudt-rentevrees-af.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week gestegen, ondanks de hard oplopende rentes. Halfgeleideraandelen waren in trek.",
+    "published_at": "2026-09-27 09:50",
+    "scraped_at": "2026-09-27T12:30:16.197083"
   }
 ]
