@@ -1,47 +1,92 @@
 [
   {
-    "id": "f33d091972d780ace4f9ecf79b2b7183",
+    "id": "248d8503ac2ed7e9d3ede5ddc02d4618",
     "categorie": "Beursnieuws",
-    "titel": "Focus komende week op rente en inflatie",
-    "link": "https://www.beurs.nl/Nieuws/879214/Focus-komende-week-op-rente-en-inflatie.aspx",
-    "intro": "Nadat de rentes vorige week wereldwijd piekniveaus bereikten, zal de komende week opnieuw aandacht zijn voor de ontwikkelingen op de obligatiemarkten, zeker ook met tal van inflatiecijfers en twee Amerikaanse banenrapporten in het verschiet.",
-    "published_at": "2026-09-27 15:33",
-    "scraped_at": "2026-09-28T01:47:26.654607"
+    "titel": "CTP verhuurt ruimte aan Romstal in Roemenië",
+    "link": "https://www.beurs.nl/Nieuws/879270/CTP-verhuurt-ruimte-aan-Romstal-in-Roemenie.aspx",
+    "intro": "CTP heeft 24.400 vierkante meter verhuurd op het CTPark Bucharest South in Roemenië aan Romstal. Dit maakte de Nederlandse specialist in logistiek vastgoed maandagochtend bekend.",
+    "published_at": "2026-09-28 09:28",
+    "scraped_at": "2026-09-28T07:45:39.373095"
   },
   {
-    "id": "29172c73e9efb0d34d26607ac82b4da9",
+    "id": "8b6bddfdc780c808c36c9f0ec0147858",
     "categorie": "Beursnieuws",
-    "titel": "Media: OpenAI pauzeert ontwikkelingen",
-    "link": "https://www.beurs.nl/Nieuws/879213/Media-OpenAI-pauzeert-ontwikkelingen.aspx",
-    "intro": "OpenAI heeft besloten om de ontwikkeling van zijn meest geavanceerde AI-modellen in ieder geval tijdelijk te pauzeren, na melding van nieuwe incidenten. Dit meldde onder meer Bloomberg.",
-    "published_at": "2026-09-27 14:42",
-    "scraped_at": "2026-09-28T01:47:26.654607"
+    "titel": "AEX nipt hoger van start ondanks druk op chipaandelen",
+    "link": "https://www.beurs.nl/Nieuws/879267/AEX-nipt-hoger-van-start-ondanks-druk-op-chipaandelen.aspx",
+    "intro": "De AEX noteerde kort na de beursgong 0,1 procent hoger op 1.113,57 punten, terwijl de Midkap 0,2 procent won.",
+    "published_at": "2026-09-28 09:13",
+    "scraped_at": "2026-09-28T07:45:39.373095"
   },
   {
-    "id": "6a77a1fa49084e10e2aa5fc2fec5b0ed",
+    "id": "610e30f70432fd8e37d5681e1783d53a",
     "categorie": "Beursnieuws",
-    "titel": "Apple veroordeeld tot betalen schadevergoeding van bijna 6 miljard dollar",
-    "link": "https://www.beurs.nl/Nieuws/879211/Apple-veroordeeld-tot-betalen-schadevergoeding-van-bijna-6-miljard-dollar.aspx",
-    "intro": "Apple moet ruim 5,7 miljard dollar betalen in een patentkwestie. Dit bepaalde een rechtbank in San Diego volgens de Amerikaanse zakenzender CNBC.",
-    "published_at": "2026-09-27 14:00",
-    "scraped_at": "2026-09-28T01:47:26.654607"
+    "titel": "Deutsche Bank verhoogt koersdoel DSM-Firmenich licht",
+    "link": "https://www.beurs.nl/Nieuws/879259/Deutsche-Bank-verhoogt-koersdoel-DSM-Firmenich-licht.aspx",
+    "intro": "Deutsche Bank heeft het koersdoel voor DSM-Firmenich verhoogd van 106,00 naar 107,00 euro, met handhaving van het koopadvies. Dit stelde analist Virginie Boucher-Ferte maandagochtend in een rapport, in aanloop naar de publicatie van de resultaten over het derde kwartaal op 4 november.",
+    "published_at": "2026-09-28 08:42",
+    "scraped_at": "2026-09-28T07:45:39.373095"
   },
   {
-    "id": "3cfc042f73b2498345b8d3d5a55cbd71",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers en chemie bieden Damrak steun",
-    "link": "https://www.beurs.nl/Nieuws/879207/Chippers-en-chemie-bieden-Damrak-steun.aspx",
-    "intro": "Het Damrak wist afgelopen week de rentevrees van zich af te schudden dankzij steun van de chippers, die goed standhielden na positieve berichten rond Meta's nieuwe AI-agent.",
-    "published_at": "2026-09-27 10:02",
-    "scraped_at": "2026-09-28T01:47:26.654607"
+    "id": "93c1a156b6d73bd8e434bca535976e1e",
+    "categorie": "Voorbeurs",
+    "titel": "Voorbeurs: hogere olieprijzen en AI-zorgen zetten weer de toon",
+    "link": "https://www.beurs.nl/Artikel/879240/Voorbeurs-hogere-olieprijzen-en-AI-zorgen-zetten-weer-de-toon.aspx",
+    "intro": "Openingsindicatie: +0,2%. Trump wijst voorstel Iran af, olieprijzen lopen weer op. OpenAI pauzeert naar verluidt ontwikkeling meest geavanceerde AI-modellen. En wat brengt de komende beursweek?",
+    "published_at": "2026-09-28 08:30",
+    "scraped_at": "2026-09-28T07:45:39.373095"
   },
   {
-    "id": "044d61cd8e0957b1e140feab463063db",
+    "id": "281f3e9637c2d7858a6edee8b88eb290",
+    "categorie": "Nieuws",
+    "titel": "Beleggers leggen de lat hoger: ontbossing groeit uit tot financieel risico",
+    "link": "https://www.ieximpact.nl/artikel/879152/Beleggers-leggen-de-lat-hoger-ontbossing-groeit-uit-tot-financieel-risico.aspx",
+    "intro": "Ontbossing schuift op van duurzaamheidsdossier naar beleggingsrisico. Grote institutionele beleggers verwachten steeds vaker dat bedrijven inzicht geven in de risico's die ontbossing oplevert voor hun activiteiten en toeleveringsketens en welke maatregelen zij nemen om die te beperken.",
+    "published_at": "2026-09-28 08:15",
+    "scraped_at": "2026-09-28T07:45:39.373095"
+  },
+  {
+    "id": "1c04261aaf3a2d37a276ad97b36ec865",
     "categorie": "Beursnieuws",
-    "titel": "Damrak schudt rentevrees af",
-    "link": "https://www.beurs.nl/Nieuws/879206/Damrak-schudt-rentevrees-af.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week gestegen, ondanks de hard oplopende rentes. Halfgeleideraandelen waren in trek.",
-    "published_at": "2026-09-27 09:50",
-    "scraped_at": "2026-09-28T01:47:26.654607"
+    "titel": "AEX maakt zich op voor licht hogere start handelsweek",
+    "link": "https://www.beurs.nl/Nieuws/879253/AEX-maakt-zich-op-voor-licht-hogere-start-handelsweek.aspx",
+    "intro": "De Amsterdamse beurs maakt zich maandag op voor een hogere opening. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,2 procent.",
+    "published_at": "2026-09-28 08:12",
+    "scraped_at": "2026-09-28T07:45:39.373095"
+  },
+  {
+    "id": "09430a5ebddec1228537cdec5ec249f7",
+    "categorie": "Beursnieuws",
+    "titel": "Aziatische techaandelen onder druk",
+    "link": "https://www.beurs.nl/Nieuws/879243/Aziatische-techaandelen-onder-druk.aspx",
+    "intro": "De Aziatische beurzen koersten maandagochtend overwegend in het rood. Beleggers reageerden op onzekerheid rond de ontwikkeling van kunstmatige intelligentie, de hogere olieprijs en oplopende obligatierentes.",
+    "published_at": "2026-09-28 07:34",
+    "scraped_at": "2026-09-28T07:45:39.373095"
+  },
+  {
+    "id": "86a18063384710f13a711d994f82f27e",
+    "categorie": "Beursnieuws",
+    "titel": "Avantium produceert eerste batch FDCA in Delfzijl",
+    "link": "https://www.beurs.nl/Nieuws/879242/Avantium-produceert-eerste-batch-FDCA-in-Delfzijl.aspx",
+    "intro": "Avantium heeft de eerste batch FDCA geproduceerd in zijn nieuwe fabriek in Delfzijl. Dit heeft het bedrijf maandochtend bekendgemaakt.",
+    "published_at": "2026-09-28 07:26",
+    "scraped_at": "2026-09-28T07:45:39.373095"
+  },
+  {
+    "id": "b4b5a24c8206b15cb9224d423ff97692",
+    "categorie": "Beursnieuws",
+    "titel": "Winstgroei Chinese industrie koelt af",
+    "link": "https://www.beurs.nl/Nieuws/879241/Winstgroei-Chinese-industrie-koelt-af.aspx",
+    "intro": "De winstgroei van de Chinese industrie is in augustus aanzienlijk afgekoeld. Dit bleek maandag uit cijfers van de Chinese overheid.",
+    "published_at": "2026-09-28 07:21",
+    "scraped_at": "2026-09-28T07:45:39.373095"
+  },
+  {
+    "id": "4e5e95e33ebae1002a33b7d2dd635205",
+    "categorie": "Beursnieuws",
+    "titel": "NSI presenteert Anne de Jong als CEO",
+    "link": "https://www.beurs.nl/Nieuws/879237/NSI-presenteert-Anne-de-Jong-als-CEO.aspx",
+    "intro": "NSI heeft Anne de Jong voorgesteld als nieuwe CEO. Dit deed het vastgoedbedrijf maandag voorbeurs.",
+    "published_at": "2026-09-28 07:08",
+    "scraped_at": "2026-09-28T07:45:39.373095"
   }
 ]
