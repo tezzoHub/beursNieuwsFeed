@@ -1,12 +1,30 @@
 [
   {
+    "id": "46253e381d62f8d50e63dda989f4249f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/879549/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag zes van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-09-29 22:18",
+    "scraped_at": "2026-09-29T23:48:16.399882"
+  },
+  {
+    "id": "9a77efb0c9363ab3ee8d9aae1ebf0fac",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street dicht bij huis gebleven",
+    "link": "https://www.beurs.nl/Nieuws/879548/Wall-Street-dicht-bij-huis-gebleven.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag na een relatief rustige sessie dicht bij huis gebleven, terwijl de verder oplopende rentes op het sentiment drukten.",
+    "published_at": "2026-09-29 22:11",
+    "scraped_at": "2026-09-29T23:48:16.399882"
+  },
+  {
     "id": "60679e92569ba084e75f47892c102ce3",
     "categorie": "Beursnieuws",
     "titel": "Verwacht herstel export Saudi-Arabië drukt olieprijzen",
     "link": "https://www.beurs.nl/Nieuws/879544/Verwacht-herstel-export-Saudi-Arabie-drukt-olieprijzen.aspx",
     "intro": "De olieprijzen zijn dinsdag lager gesloten, doordat beleggers zich vooral richtten op tekenen van herstel bij de olie-export uit het Midden-Oosten. Wel blijven er zorgen over mogelijke verstoringen in de regio door de Amerikaans-Israëlische oorlog tegen Iran.",
     "published_at": "2026-09-29 21:02",
-    "scraped_at": "2026-09-29T20:03:13.510242"
+    "scraped_at": "2026-09-29T23:48:16.399882"
   },
   {
     "id": "ecd866668d824dea933a19219f4308c8",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/879541/Media-OpenAI-wil-30-miljard-dollar-ophalen.aspx",
     "intro": "OpenAI wil in een nieuwe financieringsronde ten minste 30 miljard dollar ophalen bij investeerders. Dit meldde persbureau Bloomberg dinsdag op basis van bronnen die bekend zijn met de zaak.",
     "published_at": "2026-09-29 20:14",
-    "scraped_at": "2026-09-29T20:03:13.510242"
+    "scraped_at": "2026-09-29T23:48:16.399882"
   },
   {
     "id": "d955b8fea3ce53db6146c244495055ed",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/879537/Verder-oplopende-rentes-drukken-sentiment-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag lager, terwijl de verder oplopende rentes op het sentiment drukten. De laatste tijd zorgt ook het niveau van de olieprijzen voor extra druk op de markt, ondanks dat een vat WTI-olie dinsdag zelf juist lager noteerde.",
     "published_at": "2026-09-29 19:42",
-    "scraped_at": "2026-09-29T20:03:13.510242"
+    "scraped_at": "2026-09-29T23:48:16.399882"
   },
   {
     "id": "354817b688dfeb8f60e43764d99e35f1",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/879535/WDP-mikt-op-400-miljoen-euro-met-kapitaalverhoging.aspx",
     "intro": "WDP wil met een kapitaalverhoging 400 miljoen euro ophalen om zo de investeringen te versnellen en de fusie met Argan te ondersteunen. Dit meldde de vastgoedontwikkelaar dinsdag.",
     "published_at": "2026-09-29 19:06",
-    "scraped_at": "2026-09-29T20:03:13.510242"
+    "scraped_at": "2026-09-29T23:48:16.399882"
   },
   {
     "id": "969941ca76e1af115001ead0a5a964d0",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/879531/Europese-beurzen-verdeeld-gesloten.aspx",
     "intro": "De Europese beurzen zijn dinsdag verdeeld gesloten, terwijl de olieprijzen wat daalden en de rente na de recente stijgingen wat stabiliseerde.",
     "published_at": "2026-09-29 18:42",
-    "scraped_at": "2026-09-29T20:03:13.510242"
+    "scraped_at": "2026-09-29T23:48:16.399882"
   },
   {
     "id": "56e219fa562e6fcc72672c7201a7a269",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/879527/ER-Capital-boekt-kleiner-verlies.aspx",
     "intro": "ER Capital heeft in de eerste helft van 2026 een kleiner verlies geboekt dan een jaar eerder. Dit bleek dinsdag uit de halfjaarcijfers van het Rotterdamse vastgoedbedrijf.",
     "published_at": "2026-09-29 18:05",
-    "scraped_at": "2026-09-29T20:03:13.510242"
+    "scraped_at": "2026-09-29T23:48:16.399882"
   },
   {
     "id": "94898db40bf34e53e99f6eee1ca12dc0",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/879523/AEX-scherpt-record-aan.aspx",
     "intro": "De Amsterdamse beurs is dinsdag geëindigd op de hoogste slotstand ooit, terwijl de halfgeleideraandelen steun boden.",
     "published_at": "2026-09-29 17:54",
-    "scraped_at": "2026-09-29T20:03:13.510242"
+    "scraped_at": "2026-09-29T23:48:16.399882"
   },
   {
     "id": "0eb872f037dad12a1f329f8849dda67e",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/879522/TenneT-plaatst-groene-obligatie-van-15-miljard.aspx",
     "intro": "TenneT Netherlands heeft een groene obligatie geplaatst van 1,5 miljard euro met een looptijd van vijf jaar. Dit meldde de netbeheerder dinsdag.",
     "published_at": "2026-09-29 17:51",
-    "scraped_at": "2026-09-29T20:03:13.510242"
-  },
-  {
-    "id": "04f3f89f7ff80ab456ac7298e5a9ba2d",
-    "categorie": "IEX",
-    "titel": "Slotcall: chippers tillen AEX naar nieuw record",
-    "link": "https://www.iex.nl/artikel/879505/Slotcall-chippers-tillen-AEX-naar-nieuw-record.aspx",
-    "intro": "Kort na lunchtijd tikte de index nog 1.125 punten aan, maar richting het slot liep de lucht er wel uit. Uiteindelijk sluit de AEX 0,4% hoger op 1.120 punten en een beetje.",
-    "published_at": "2026-09-29 17:35",
-    "scraped_at": "2026-09-29T20:03:13.510242"
-  },
-  {
-    "id": "b95467c30d26f6bd32309868722b5e66",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verlaagt koersdoel Hermès flink",
-    "link": "https://www.beurs.nl/Nieuws/879508/Beursblik-Jefferies-verlaagt-koersdoel-Hermes-flink.aspx",
-    "intro": "Jefferies heeft dinsdag het koersdoel voor Hermès stevig verlaagd van 2.000 naar 1.600 euro, bij handhaving van het koopadvies. Dit bleek uit een rapport van de zakenbank.",
-    "published_at": "2026-09-29 17:17",
-    "scraped_at": "2026-09-29T20:03:13.510242"
+    "scraped_at": "2026-09-29T23:48:16.399882"
   }
 ]
