@@ -1,92 +1,92 @@
 [
   {
-    "id": "82543172743dd826b6f98d56670bc1f2",
-    "categorie": "IEX",
-    "titel": "Slotcall: de laatste handelsdag van september is geen succes",
-    "link": "https://www.iex.nl/artikel/879677/Slotcall-de-laatste-handelsdag-van-september-is-geen-succes.aspx",
-    "intro": "Een renteverhoging van de Fed? Nee, die kans is niet meer zo groot na de nieuwste Amerikaanse inflatiecijfers. De AEX profiteert helaas niet en wie blijft op voor de cijfers van Micron?",
-    "published_at": "2026-09-30 17:35",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "id": "c52a3af23f994b0077878ffe69715334",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street eindigt overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/879717/Wall-Street-eindigt-overwegend-lager.aspx",
+    "intro": "Wall Street is woensdag overwegend lager gesloten, na sterke economische cijfers en meevallende inflatiecijfers. Technologiebedrijven leverden hun winsten in. Palo Alto Networks was in trek na de zorgen over onveilig gedrag van geavanceerde AI-bots.",
+    "published_at": "2026-09-30 22:28",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "4163c960c5e53d12d74f76d2d575a680",
+    "id": "347b06d8e9a4a4db8159402b64265c87",
     "categorie": "Beursnieuws",
-    "titel": "Video: JPMorgan kiest voor Aziatische chipfabrikanten",
-    "link": "https://www.beurs.nl/Nieuws/879681/Video-JPMorgan-kiest-voor-Aziatische-chipfabrikanten.aspx",
-    "intro": "Binnen het techsegment zijn chipfabrikanten uit opkomende markten momenteel het meest interessant. Dit zei beleggingsstrateeg Jorn Veeneman van JPMorgan Asset Management voor de camera van ABM Financial News op Beursplein 5.",
-    "published_at": "2026-09-30 17:12",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "Amerikaaanse marktwaakhond onderzoekt OpenAI en Anthropic",
+    "link": "https://www.beurs.nl/Nieuws/879716/Amerikaaanse-marktwaakhond-onderzoekt-OpenAI-en-Anthropic.aspx",
+    "intro": "De Amerikaanse markttoezichthouder FTC heeft een onderzoek ingesteld naar de AI-ontwikkelaars Anthropic en OpenAI, die mogelijk consumenten hebben misleid over de potentiële gevaren van hun technologie. Dat schreef The Wall Street Journal woensdag.",
+    "published_at": "2026-09-30 22:15",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "088c7f4d6ed3e490f51a58b07797dbe1",
+    "id": "7a392281e103f52b1eb316bf6e3f9a66",
     "categorie": "Beursnieuws",
-    "titel": "BMW zet AI in voor meer efficiëntie",
-    "link": "https://www.beurs.nl/Nieuws/879680/BMW-zet-AI-in-voor-meer-efficientie.aspx",
-    "intro": "BMW gaat kunstmatige intelligentie gebruiken om efficiënter te worden. De nieuwe technologie zal de groep naar verwachting helpen om meer te doen met minder werknemers, terwijl het zich voorbereidt op steeds moeilijkere marktomstandigheden.",
-    "published_at": "2026-09-30 17:03",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "Olieprijs stijgt licht op hernieuwde spanning Midden-Oosten",
+    "link": "https://www.beurs.nl/Nieuws/879709/Olieprijs-stijgt-licht-op-hernieuwde-spanning-Midden-Oosten.aspx",
+    "intro": "De olieprijs is woensdag gestegen op hernieuwde spanning in het Midden-Oosten, na berichten over een aanval op een olietanker in de Straat van Hormuz.",
+    "published_at": "2026-09-30 21:24",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "377cf2e408baa9efbfdc4963174da977",
+    "id": "e63f195fa43311bcadf4c3cce87b5398",
     "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden stijgen",
-    "link": "https://www.beurs.nl/Nieuws/879678/Amerikaanse-olievoorraden-stijgen.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week gestegen, terwijl de benzine- en distillatenvoorraden op weekbasis juist zijn afgenomen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-09-30 16:40",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "Wall Street verdeeld na stabiel inflatiecijfer",
+    "link": "https://www.beurs.nl/Nieuws/879707/Wall-Street-verdeeld-na-stabiel-inflatiecijfer.aspx",
+    "intro": "Wall Street noteerde woensdagavond licht hoger na een aantal sterke economische cijfers en meevallende inflatiecijfers. Technologiebedrijven waren in trek, waarbij beveiliger Palo Alto Networks opviel, na de zorgen over onveilig gedrag van geavanceerde AI-bots.",
+    "published_at": "2026-09-30 21:09",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "ad9e87d335686f8a2e289359b1f88243",
+    "id": "0d8bc111d1ba2a560bac0095d7a5a873",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/879670/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 8 oktober 2026:",
-    "published_at": "2026-09-30 16:03",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "Europese beurzen sluiten in het rood",
+    "link": "https://www.beurs.nl/Nieuws/879700/Europese-beurzen-sluiten-in-het-rood.aspx",
+    "intro": "De aandelenmarkten in Europa zijn woensdag lager gesloten, nadat inflatiecijfers wezen op een toenemende kans op een renteverhoging van de ECB, terwijl onrust in de Straat van Hormuz de olieprijs weer opstuwde.",
+    "published_at": "2026-09-30 19:17",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "b7c8c16f9c0b33ebf6fbaae3c5b9dd91",
+    "id": "3e38b321dcce652b4bf3286ae8eae915",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/879671/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 8 oktober 2026:",
-    "published_at": "2026-09-30 16:03",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "Aandeelhouders Avantium verhogen plafond aandelenuitgifte",
+    "link": "https://www.beurs.nl/Nieuws/879695/Aandeelhouders-Avantium-verhogen-plafond-aandelenuitgifte.aspx",
+    "intro": "De aandeelhouders van  Avantium hebben ingestemd met een wijziging van de statuten om het plafond voor de maximale uitgifte van aandelenkapitaal te verhogen van bijna 43,5 miljoen euro naar 125 miljoen euro. Dit werd besloten tijdens de op woensdag gehouden buitengewone algemene vergadering van aandeelhouders.",
+    "published_at": "2026-09-30 18:37",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "652650232729646ff665fee7bb41a718",
+    "id": "e5c6c118c9f89930a7d9510f65cc4293",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/879672/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 8 oktober 2026:",
-    "published_at": "2026-09-30 16:03",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "Theon haalt voor 50 miljoen euro orders binnen",
+    "link": "https://www.beurs.nl/Nieuws/879692/Theon-haalt-voor-50-miljoen-euro-orders-binnen.aspx",
+    "intro": "Theon International voor ongeveer 50 miljoen euro nieuwe orders binnengehaald van Europese en Midden-Oosterse landen. Dit maakte het defensiebedrijf woensdag bekend. De leveringen moeten dit jaar van start gaan.",
+    "published_at": "2026-09-30 18:25",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "b55f94f2b70ad3fdbb209d95d71bf891",
+    "id": "a13bf17c7d64d74c6926a9b05c7fb8a5",
     "categorie": "Beursnieuws",
-    "titel": "Inkoopmanagersindex Chicago flink gestegen",
-    "link": "https://www.beurs.nl/Nieuws/879669/Inkoopmanagersindex-Chicago-flink-gestegen.aspx",
-    "intro": "De inkoopmanagersindex voor de regio Chicago is in september flink gestegen. Dit meldde het ISM woensdaggmiddag.",
-    "published_at": "2026-09-30 15:59",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "Consortium met Fedex heeft 89 procent InPost in handen",
+    "link": "https://www.beurs.nl/Nieuws/879691/Consortium-met-Fedex-heeft-89-procent-InPost-in-handen.aspx",
+    "intro": "Het consortium van Advent, FedEx, AR en PPF heeft 88,9 procent van het Poolse pakketkluisjebedrijf InPost in handen, nadat het biedingsproces met succes werd afgewikkeld. Dat maakten de partijen woensdag bekend.",
+    "published_at": "2026-09-30 18:19",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "a7c637eb2f8358d1fa650df34eab920b",
+    "id": "ff76687fcd1ca5a4b0e25148d18a40c9",
     "categorie": "Beursnieuws",
-    "titel": "CSG breidt uit met tweede joint venture",
-    "link": "https://www.beurs.nl/Nieuws/879660/CSG-breidt-uit-met-tweede-joint-venture.aspx",
-    "intro": "CSG gaat een tweede joint venture opzetten in Azerbeidzjan, gericht op de lokale productie van zelfrijdende houwitsers. Dit maakte het defensiebedrijf woensdag bekend tijdens de internationale defensiebeurs ADEX in Bakoe.",
-    "published_at": "2026-09-30 15:28",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "Havas huurt Kepler Cheuvreux in voor betere verhandelbaarheid",
+    "link": "https://www.beurs.nl/Nieuws/879688/Havas-huurt-Kepler-Cheuvreux-in-voor-betere-verhandelbaarheid.aspx",
+    "intro": "Havas heeft Kepler Cheuvreux in de arm genomen om de liquiditeit van zijn aandelen te ondersteunen. Dat maakte het bedrijf woensdag bekend.",
+    "published_at": "2026-09-30 18:02",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   },
   {
-    "id": "2617f57d5b15dd7e80499c7ee5e2154b",
+    "id": "a9b87654faa63a8df41f67b22ada2f92",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street gaat licht hogere opening tegemoet",
-    "link": "https://www.beurs.nl/Nieuws/879656/Wall-Street-gaat-licht-hogere-opening-tegemoet.aspx",
-    "intro": "Wall Street gaat licht hoger openen dankzij meevallende macro-economische data.",
-    "published_at": "2026-09-30 15:15",
-    "scraped_at": "2026-09-30T15:59:23.931779"
+    "titel": "AEX sluit lager ondanks meevallende Amerikaanse macrocijfers",
+    "link": "https://www.beurs.nl/Nieuws/879685/AEX-sluit-lager-ondanks-meevallende-Amerikaanse-macrocijfers.aspx",
+    "intro": "De Amsterdamse beurs is woensdag lager gesloten, ondanks dat beleggers een reeks aan Amerikaanse meevallende macro-economische cijfers te verwerken kregen.",
+    "published_at": "2026-09-30 17:58",
+    "scraped_at": "2026-09-30T20:44:28.685832"
   }
 ]
