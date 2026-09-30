@@ -1,92 +1,92 @@
 [
   {
-    "id": "16288998a863f1b6ddf5f8bfb5348d52",
-    "categorie": "Beursnieuws",
-    "titel": "CSG sluit groot wapencontract Letland",
-    "link": "https://www.beurs.nl/Nieuws/879602/CSG-sluit-groot-wapencontract-Letland.aspx",
-    "intro": "CSG gaat een omvangrijk project uitvoeren voor de modernisering van de strijdkrachten in Letland en ondertekende woensdag de contractdocumentatie voor de levering van Morana artilleriesystemen en raketlanceersystemen, met een totale waarde van honderden miljoenen euro's. Dit maakte het defensiebedrijf met een notering in Amsterdam woensdag bekend.",
-    "published_at": "2026-09-30 10:19",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "id": "82543172743dd826b6f98d56670bc1f2",
+    "categorie": "IEX",
+    "titel": "Slotcall: de laatste handelsdag van september is geen succes",
+    "link": "https://www.iex.nl/artikel/879677/Slotcall-de-laatste-handelsdag-van-september-is-geen-succes.aspx",
+    "intro": "Een renteverhoging van de Fed? Nee, die kans is niet meer zo groot na de nieuwste Amerikaanse inflatiecijfers. De AEX profiteert helaas niet en wie blijft op voor de cijfers van Micron?",
+    "published_at": "2026-09-30 17:35",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "3c3add8559dfd9fd1c1269e63c09a571",
+    "id": "4163c960c5e53d12d74f76d2d575a680",
     "categorie": "Beursnieuws",
-    "titel": "Duitse werkloosheid loopt iets terug",
-    "link": "https://www.beurs.nl/Nieuws/879601/Duitse-werkloosheid-loopt-iets-terug.aspx",
-    "intro": "Het aantal werklozen in Duitsland is in september licht gedaald. Dit bleek woensdag uit overheidscijfers.",
-    "published_at": "2026-09-30 10:05",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "titel": "Video: JPMorgan kiest voor Aziatische chipfabrikanten",
+    "link": "https://www.beurs.nl/Nieuws/879681/Video-JPMorgan-kiest-voor-Aziatische-chipfabrikanten.aspx",
+    "intro": "Binnen het techsegment zijn chipfabrikanten uit opkomende markten momenteel het meest interessant. Dit zei beleggingsstrateeg Jorn Veeneman van JPMorgan Asset Management voor de camera van ABM Financial News op Beursplein 5.",
+    "published_at": "2026-09-30 17:12",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "2b25d7a2197c75b2f9ef95da345f9eef",
+    "id": "088c7f4d6ed3e490f51a58b07797dbe1",
     "categorie": "Beursnieuws",
-    "titel": "ABN AMRO Oddo haalt NSI van verkooplijst",
-    "link": "https://www.beurs.nl/Nieuws/879597/ABN-AMRO-Oddo-haalt-NSI-van-verkooplijst.aspx",
-    "intro": "ABN AMRO Oddo heeft woensdag het advies voor NSI verhoogd van Underperform naar Neutraal, met een nieuw koersdoel van 18,00 euro. Dit bleek uit een rapport van de bank.",
-    "published_at": "2026-09-30 09:52",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "titel": "BMW zet AI in voor meer efficiëntie",
+    "link": "https://www.beurs.nl/Nieuws/879680/BMW-zet-AI-in-voor-meer-efficientie.aspx",
+    "intro": "BMW gaat kunstmatige intelligentie gebruiken om efficiënter te worden. De nieuwe technologie zal de groep naar verwachting helpen om meer te doen met minder werknemers, terwijl het zich voorbereidt op steeds moeilijkere marktomstandigheden.",
+    "published_at": "2026-09-30 17:03",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "9cb316a8274da36f74be0b8ed38ae1c6",
+    "id": "377cf2e408baa9efbfdc4963174da977",
     "categorie": "Beursnieuws",
-    "titel": "'OpenAI wil $30 miljard ophalen'",
-    "link": "https://www.beurs.nl/Nieuws/879594/OpenAI-wil-30-miljard-ophalen.aspx",
-    "intro": "OpenAI wil bij investeerders minstens 30 miljard dollar ophalen met een nieuwe financieringsronde, nu het bedrijf zijn beursgang heeft uitgesteld. Dat meldden bronnen aan Bloomberg.",
-    "published_at": "2026-09-30 09:25",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "titel": "Amerikaanse olievoorraden stijgen",
+    "link": "https://www.beurs.nl/Nieuws/879678/Amerikaanse-olievoorraden-stijgen.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week gestegen, terwijl de benzine- en distillatenvoorraden op weekbasis juist zijn afgenomen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-09-30 16:40",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "cef39923f96c0d92589e1e0a23420dcd",
+    "id": "ad9e87d335686f8a2e289359b1f88243",
     "categorie": "Beursnieuws",
-    "titel": "AEX op nieuw record",
-    "link": "https://www.beurs.nl/Nieuws/879591/AEX-op-nieuw-record.aspx",
-    "intro": "De Amsterdamse beurs is woensdag hoger geopend. Kort na opening van de beurs, koerste de AEX 0,4 procent in het groen op 1.124,94 punten. De hoogste stand vandaag, 1,125.26 punten, is ook de hoogste stand ooit.",
-    "published_at": "2026-09-30 09:12",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/879670/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 8 oktober 2026:",
+    "published_at": "2026-09-30 16:03",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "fe26445ce6b5726f5198345a6b802b2d",
+    "id": "b7c8c16f9c0b33ebf6fbaae3c5b9dd91",
     "categorie": "Beursnieuws",
-    "titel": "Franse inflatie verder gestegen",
-    "link": "https://www.beurs.nl/Nieuws/879590/Franse-inflatie-verder-gestegen.aspx",
-    "intro": "De inflatie in Frankrijk is in september hoogstwaarschijnlijk verder gestegen. Dit bleek woensdag uit voorlopige cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-09-30 08:58",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/879671/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 8 oktober 2026:",
+    "published_at": "2026-09-30 16:03",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "ecc32c57c2ab6b0bf6c3bb0a39f3ea92",
+    "id": "652650232729646ff665fee7bb41a718",
     "categorie": "Beursnieuws",
-    "titel": "Duitse importprijzen stijgen opnieuw flink",
-    "link": "https://www.beurs.nl/Nieuws/879588/Duitse-importprijzen-stijgen-opnieuw-flink.aspx",
-    "intro": "De Duitse importprijzen zijn in augustus in het hoogste tempo in jaren gestegen. Dit bleek woensdag uit cijfers van het Duitse bureau voor de statistiek.",
-    "published_at": "2026-09-30 08:48",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/879672/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 8 oktober 2026:",
+    "published_at": "2026-09-30 16:03",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "a571364fd140df052d6ec194f6ffed70",
+    "id": "b55f94f2b70ad3fdbb209d95d71bf891",
     "categorie": "Beursnieuws",
-    "titel": "TomTom versterkt samenwerking met Microsoft",
-    "link": "https://www.beurs.nl/Nieuws/879585/TomTom-versterkt-samenwerking-met-Microsoft.aspx",
-    "intro": "TomTom breidt zijn samenwerking met Microsoft uit en maakt zijn locatiedata beschikbaar voor AI-agents die zijn gebouwd op Microsoft Fabric en Microsoft Foundry, via IQ Sharing. Dit maakte de Nederlandse specialist in locatietechnologie woensdag bekend.",
-    "published_at": "2026-09-30 08:39",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "titel": "Inkoopmanagersindex Chicago flink gestegen",
+    "link": "https://www.beurs.nl/Nieuws/879669/Inkoopmanagersindex-Chicago-flink-gestegen.aspx",
+    "intro": "De inkoopmanagersindex voor de regio Chicago is in september flink gestegen. Dit meldde het ISM woensdaggmiddag.",
+    "published_at": "2026-09-30 15:59",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "da5d2981354a639e26637bc4dd288c8d",
-    "categorie": "Opinie",
-    "titel": "Klimaatverandering kost Europa veel meer dan een dichte zeestraat",
-    "link": "https://www.ieximpact.nl/artikel/877477/Klimaatverandering-kost-Europa-veel-meer-dan-een-dichte-zeestraat.aspx",
-    "intro": "De economische gevolgen van de spanningen rond de Straat van Hormuz halen dagelijks de krantenkoppen, maar volgens Hadewych Kuiper van Triodos Investment Management ligt een veel grotere bedreiging voor de Europese economie elders: de toenemende hitte door klimaatverandering.",
-    "published_at": "2026-09-30 08:38",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "id": "a7c637eb2f8358d1fa650df34eab920b",
+    "categorie": "Beursnieuws",
+    "titel": "CSG breidt uit met tweede joint venture",
+    "link": "https://www.beurs.nl/Nieuws/879660/CSG-breidt-uit-met-tweede-joint-venture.aspx",
+    "intro": "CSG gaat een tweede joint venture opzetten in Azerbeidzjan, gericht op de lokale productie van zelfrijdende houwitsers. Dit maakte het defensiebedrijf woensdag bekend tijdens de internationale defensiebeurs ADEX in Bakoe.",
+    "published_at": "2026-09-30 15:28",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   },
   {
-    "id": "3e926da08881c6ddd48b9cf16801e2b3",
+    "id": "2617f57d5b15dd7e80499c7ee5e2154b",
     "categorie": "Beursnieuws",
-    "titel": "Duitse detailhandel zet meer om",
-    "link": "https://www.beurs.nl/Nieuws/879586/Duitse-detailhandel-zet-meer-om.aspx",
-    "intro": "De Duitse detailhandelsverkopen zijn in augustus weer gestegen, na een flinke daling in juli. Dit bleek woensdag uit cijfers van het Duitse statistiekbureau Destatis.",
-    "published_at": "2026-09-30 08:37",
-    "scraped_at": "2026-09-30T09:01:56.706591"
+    "titel": "Wall Street gaat licht hogere opening tegemoet",
+    "link": "https://www.beurs.nl/Nieuws/879656/Wall-Street-gaat-licht-hogere-opening-tegemoet.aspx",
+    "intro": "Wall Street gaat licht hoger openen dankzij meevallende macro-economische data.",
+    "published_at": "2026-09-30 15:15",
+    "scraped_at": "2026-09-30T15:59:23.931779"
   }
 ]
