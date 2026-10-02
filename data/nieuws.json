@@ -1,12 +1,84 @@
 [
   {
+    "id": "d3736a8fa9255b1f90cfbf219d982fe7",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Amerikaanse justitie zal onderzoek naar Powell niet heropenen",
+    "link": "https://www.beurs.nl/Nieuws/880029/Media-Amerikaanse-justitie-zal-onderzoek-naar-Powell-niet-heropenen.aspx",
+    "intro": "Het Amerikaanse ministerie van Justitie zal geen strafrechtelijk onderzoek heropenen naar oud-voorzitter van de Federal Reserve Jerome Powell. Dit meldde persbureau Bloomberg vrijdag op basis van uitspraken van minister Todd Blanche.",
+    "published_at": "2026-10-02 21:18",
+    "scraped_at": "2026-10-02T20:00:06.094023"
+  },
+  {
+    "id": "36d00c29f209890510329a2f67435a62",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen dalen na dieselvrijgave G7",
+    "link": "https://www.beurs.nl/Nieuws/880028/Olieprijzen-dalen-na-dieselvrijgave-G7.aspx",
+    "intro": "De olieprijzen zijn vrijdag gedaald, nadat de G7-leden aankondigden in de komende maanden tot 100 miljoen vaten diesel vrij te geven.",
+    "published_at": "2026-10-02 21:08",
+    "scraped_at": "2026-10-02T20:00:06.094023"
+  },
+  {
+    "id": "693109dfb98410a1574ccf05bfc9b546",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst hoger na zwak banenrapport",
+    "link": "https://www.beurs.nl/Nieuws/880015/Wall-Street-koerst-hoger-na-zwak-banenrapport.aspx",
+    "intro": "De Amerikaanse beurzen noteerden vrijdag hoger na een zwak banenrapport, waardoor de verwachting van een nieuwe renteverhoging door de Federal Reserve verder afnam.",
+    "published_at": "2026-10-02 19:44",
+    "scraped_at": "2026-10-02T20:00:06.094023"
+  },
+  {
+    "id": "b6125e76b49dcb101662e6e33daa0778",
+    "categorie": "Beursnieuws",
+    "titel": "Paramount en Warner Bros verder als Skydance",
+    "link": "https://www.beurs.nl/Nieuws/880014/Paramount-en-Warner-Bros-verder-als-Skydance.aspx",
+    "intro": "Na de afronding van de fusie tussen Paramount en Warner Bros. Discovery zal het bedrijf verder gaan als Skydance. Dit maakte de CEO van Paramount, David Ellison, vrijdag bekend op X.",
+    "published_at": "2026-10-02 18:48",
+    "scraped_at": "2026-10-02T20:00:06.094023"
+  },
+  {
+    "id": "f9e17b101d4c11e631ab58947ad99804",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen putten hoop uit zwak banenrapport",
+    "link": "https://www.beurs.nl/Nieuws/880013/Europese-beurzen-putten-hoop-uit-zwak-banenrapport.aspx",
+    "intro": "De Europese beurzen zijn vrijdag met een goed gevoel het weekend ingegaan, nadat de rentevrees afnam dankzij een zwak Amerikaans banenrapport. De olieprijzen daalden bovendien nadat bekend werd dat de G7 dieselvoorraden gaat vrijgeven.",
+    "published_at": "2026-10-02 18:34",
+    "scraped_at": "2026-10-02T20:00:06.094023"
+  },
+  {
+    "id": "de24d34602b8111cc86b2d4e0e682a62",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Citi verlaagt koersdoel Ahold Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/880012/Beursblik-Citi-verlaagt-koersdoel-Ahold-Delhaize.aspx",
+    "intro": "Citi Research heeft vrijdag het koersdoel voor Ahold Delhaize verlaagd van 37,20 naar 35,00 euro met een onveranderd Neutraal advies. Dit bleek uit een vooruitblik die de zakenbank publiceerde in aanloop naar de kwartaalcijfers.",
+    "published_at": "2026-10-02 18:16",
+    "scraped_at": "2026-10-02T20:00:06.094023"
+  },
+  {
+    "id": "873eebc90ce4bd250d289c2afc64d44b",
+    "categorie": "IEX",
+    "titel": "Slotcall: Glanzende chippers helpen AEX aan mooie winst",
+    "link": "https://www.iex.nl/artikel/880008/Slotcall-Glanzende-chippers-helpen-AEX-aan-mooie-winst.aspx",
+    "intro": "",
+    "published_at": "2026-10-02 17:50",
+    "scraped_at": "2026-10-02T20:00:06.094023"
+  },
+  {
+    "id": "2a830b47b8a674d8ade0963d623699f0",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit bewogen week flink hoger af",
+    "link": "https://www.beurs.nl/Nieuws/880009/AEX-sluit-bewogen-week-flink-hoger-af.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag flink hoger geëindigd en sloot daarmee een bewogen week af die vooral werd gedomineerd door de stijgende rentes en hoge olieprijzen.",
+    "published_at": "2026-10-02 17:46",
+    "scraped_at": "2026-10-02T20:00:06.094023"
+  },
+  {
     "id": "84372462de8c6a3d00f7ccb39ecaae3e",
     "categorie": "Beursnieuws",
     "titel": "G7 gaat dieselvoorraden vrijgeven",
     "link": "https://www.beurs.nl/Nieuws/880007/G7-gaat-dieselvoorraden-vrijgeven.aspx",
     "intro": "De leiders van de G7 hebben afgesproken om strategische dieselreserves vrij te geven. Dit bevestigde de Franse president Emmanuel Macron vrijdag op X, na een soortgelijk bericht van de Amerikaanse president Trump op Truth Social.",
     "published_at": "2026-10-02 16:50",
-    "scraped_at": "2026-10-02T15:04:25.519974"
+    "scraped_at": "2026-10-02T20:00:06.094023"
   },
   {
     "id": "321eff10bfd1dc09be47a7192c3d9222",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/880003/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 12 oktober 2026:",
     "published_at": "2026-10-02 16:33",
-    "scraped_at": "2026-10-02T15:04:25.519974"
-  },
-  {
-    "id": "dc6a0223030e978f9dea181b45fe47a5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/880004/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 12 oktober 2026:",
-    "published_at": "2026-10-02 16:33",
-    "scraped_at": "2026-10-02T15:04:25.519974"
-  },
-  {
-    "id": "5ab8cb4af83c4d35536317c393de5d07",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/880005/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 12 oktober 2026:",
-    "published_at": "2026-10-02 16:33",
-    "scraped_at": "2026-10-02T15:04:25.519974"
-  },
-  {
-    "id": "cf072fdf9bf4a7fa9aa2e428e1073bd0",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse fabrieksorders licht gestegen",
-    "link": "https://www.beurs.nl/Nieuws/880001/Amerikaanse-fabrieksorders-licht-gestegen.aspx",
-    "intro": "De Amerikaanse fabrieksorders zijn in augustus licht gestegen. Dit bleek vrijdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-10-02 16:08",
-    "scraped_at": "2026-10-02T15:04:25.519974"
-  },
-  {
-    "id": "aa9453df63d47f516c25b1222dfef7f6",
-    "categorie": "Beursnieuws",
-    "titel": "Video: stijgende rente zal aandelenmarkt nog raken",
-    "link": "https://www.beurs.nl/Nieuws/880000/Video-stijgende-rente-zal-aandelenmarkt-nog-raken.aspx",
-    "intro": "In de afgelopen dagen stegen de obligatierentes snel en dat zullen de aandelenmarkten nog gaan voelen. Dit verwachten beursexperts die deelnamen aan de maandelijkse enquête van analist Corné van Zeijl van Cardano.",
-    "published_at": "2026-10-02 15:46",
-    "scraped_at": "2026-10-02T15:04:25.519974"
-  },
-  {
-    "id": "d46ca8e6c276fb9badde68beac8c6bdd",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: KBC handhaaft koopadvies op Basic-Fit in aanloop naar kwartaalupdate",
-    "link": "https://www.beurs.nl/Nieuws/879998/Beursblik-KBC-handhaaft-koopadvies-op-Basic-Fit-in-aanloop-naar-kwartaalupdate.aspx",
-    "intro": "KBC Securities heeft in aanloop naar de cijfers over het derde kwartaal van Basic-Fit het koopadvies voor het aandeel herhaald met een ongewijzigd koersdoel van 39,00 euro. Dit bleek uit een rapport van analist Lynn Hautekeete.",
-    "published_at": "2026-10-02 15:24",
-    "scraped_at": "2026-10-02T15:04:25.519974"
-  },
-  {
-    "id": "fa86c903b9de633b94425ef434e5c15d",
-    "categorie": "Beursnieuws",
-    "titel": "Tesla levert meer auto's af dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/879996/Tesla-levert-meer-autos-af-dan-verwacht.aspx",
-    "intro": "Tesla heeft in het derde kwartaal meer auto's afgeleverd dan analisten hadden voorzien. Het bedrijf van Elon Musk leverde 486.532 voertuigen af, zo bleek vrijdag uit cijfers die de fabrikant publiceerde.",
-    "published_at": "2026-10-02 15:13",
-    "scraped_at": "2026-10-02T15:04:25.519974"
-  },
-  {
-    "id": "455a528d7e934fbe1936317fac71bf4c",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street richting hogere opening na tegenvallend banenrapport",
-    "link": "https://www.beurs.nl/Nieuws/879990/Wall-Street-richting-hogere-opening-na-tegenvallend-banenrapport.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een hogere opening tegemoet, na een tegenvallend banenrapport voor september.",
-    "published_at": "2026-10-02 15:03",
-    "scraped_at": "2026-10-02T15:04:25.519974"
-  },
-  {
-    "id": "f3639a9d15382b83eebbcc8b79f87b97",
-    "categorie": "Redactioneel",
-    "titel": "Sentimentspeiling: dit volatiele aandeel is nog altijd favoriet",
-    "link": "https://www.beurs.nl/Artikel/879978/Sentimentspeiling-dit-volatiele-aandeel-is-nog-altijd-favoriet.aspx",
-    "intro": "Adyen, ASML en Besi staan deze maand bovenaan de kooplijstjes in de nieuwste Sentimentspeiling. In de Sentimentsindicator zien we dat beleggers optimistischer worden.",
-    "published_at": "2026-10-02 14:45",
-    "scraped_at": "2026-10-02T15:04:25.519974"
+    "scraped_at": "2026-10-02T20:00:06.094023"
   }
 ]
