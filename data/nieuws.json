@@ -1,92 +1,56 @@
 [
   {
-    "id": "cc36ccc2bd3051cc5b18d23430dcca4a",
+    "id": "61290feba9ef29431c87763d7c564fdf",
     "categorie": "Beursnieuws",
-    "titel": "Media: Trump dreigt Zuid-Korea met nieuwe handelssancties",
-    "link": "https://www.beurs.nl/Nieuws/880035/Media-Trump-dreigt-Zuid-Korea-met-nieuwe-handelssancties.aspx",
-    "intro": "De Amerikaanse president Donald Trump heeft vrijdag gedreigd met nieuwe handelssancties tegen Zuid-Korea als het Aziatische land een investering in een project voor vloeibaar aardgas in Alaska niet doorzet. Dit meldde persbureau Bloomberg op basis van uitspraken van Trump.",
-    "published_at": "2026-10-02 22:59",
-    "scraped_at": "2026-10-03T08:24:02.938499"
+    "titel": "Damrak neemt gas terug na record",
+    "link": "https://www.beurs.nl/Nieuws/880050/Damrak-neemt-gas-terug-na-record.aspx",
+    "intro": "De Amsterdamse beurs wist afgelopen week zijn recordstand aan te scherpen tot 1.127 punten, maar zakte vervolgens terug nadat de rentes weer hard opliepen.",
+    "published_at": "2026-10-03 14:04",
+    "scraped_at": "2026-10-03T13:35:49.361059"
   },
   {
-    "id": "786d21cc9ca716b503c4995a083d2d5d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/880034/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam en drie lager.",
-    "published_at": "2026-10-02 22:17",
-    "scraped_at": "2026-10-03T08:24:02.938499"
-  },
-  {
-    "id": "324477ff3b398cddc418e5a8f4157a94",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street opgelucht na zwak banenrapport",
-    "link": "https://www.beurs.nl/Nieuws/880032/Wall-Street-opgelucht-na-zwak-banenrapport.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag hoger geëindigd na een zwak banenrapport, waardoor de verwachting van een nieuwe renteverhoging door de Federal Reserve verder afnam.",
-    "published_at": "2026-10-02 22:13",
-    "scraped_at": "2026-10-03T08:24:02.938499"
-  },
-  {
-    "id": "d3736a8fa9255b1f90cfbf219d982fe7",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Amerikaanse justitie zal onderzoek naar Powell niet heropenen",
-    "link": "https://www.beurs.nl/Nieuws/880029/Media-Amerikaanse-justitie-zal-onderzoek-naar-Powell-niet-heropenen.aspx",
-    "intro": "Het Amerikaanse ministerie van Justitie zal geen strafrechtelijk onderzoek heropenen naar oud-voorzitter van de Federal Reserve Jerome Powell. Dit meldde persbureau Bloomberg vrijdag op basis van uitspraken van minister Todd Blanche.",
-    "published_at": "2026-10-02 21:18",
-    "scraped_at": "2026-10-03T08:24:02.938499"
-  },
-  {
-    "id": "36d00c29f209890510329a2f67435a62",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen dalen na dieselvrijgave G7",
-    "link": "https://www.beurs.nl/Nieuws/880028/Olieprijzen-dalen-na-dieselvrijgave-G7.aspx",
-    "intro": "De olieprijzen zijn vrijdag gedaald, nadat de G7-leden aankondigden in de komende maanden tot 100 miljoen vaten diesel vrij te geven.",
-    "published_at": "2026-10-02 21:08",
-    "scraped_at": "2026-10-03T08:24:02.938499"
-  },
-  {
-    "id": "693109dfb98410a1574ccf05bfc9b546",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst hoger na zwak banenrapport",
-    "link": "https://www.beurs.nl/Nieuws/880015/Wall-Street-koerst-hoger-na-zwak-banenrapport.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag hoger na een zwak banenrapport, waardoor de verwachting van een nieuwe renteverhoging door de Federal Reserve verder afnam.",
-    "published_at": "2026-10-02 19:44",
-    "scraped_at": "2026-10-03T08:24:02.938499"
-  },
-  {
-    "id": "b6125e76b49dcb101662e6e33daa0778",
-    "categorie": "Beursnieuws",
-    "titel": "Paramount en Warner Bros verder als Skydance",
-    "link": "https://www.beurs.nl/Nieuws/880014/Paramount-en-Warner-Bros-verder-als-Skydance.aspx",
-    "intro": "Na de afronding van de fusie tussen Paramount en Warner Bros. Discovery zal het bedrijf verder gaan als Skydance. Dit maakte de CEO van Paramount, David Ellison, vrijdag bekend op X.",
-    "published_at": "2026-10-02 18:48",
-    "scraped_at": "2026-10-03T08:24:02.938499"
-  },
-  {
-    "id": "f9e17b101d4c11e631ab58947ad99804",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen putten hoop uit zwak banenrapport",
-    "link": "https://www.beurs.nl/Nieuws/880013/Europese-beurzen-putten-hoop-uit-zwak-banenrapport.aspx",
-    "intro": "De Europese beurzen zijn vrijdag met een goed gevoel het weekend ingegaan, nadat de rentevrees afnam dankzij een zwak Amerikaans banenrapport. De olieprijzen daalden bovendien nadat bekend werd dat de G7 dieselvoorraden gaat vrijgeven.",
-    "published_at": "2026-10-02 18:34",
-    "scraped_at": "2026-10-03T08:24:02.938499"
-  },
-  {
-    "id": "de24d34602b8111cc86b2d4e0e682a62",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Citi verlaagt koersdoel Ahold Delhaize",
-    "link": "https://www.beurs.nl/Nieuws/880012/Beursblik-Citi-verlaagt-koersdoel-Ahold-Delhaize.aspx",
-    "intro": "Citi Research heeft vrijdag het koersdoel voor Ahold Delhaize verlaagd van 37,20 naar 35,00 euro met een onveranderd Neutraal advies. Dit bleek uit een vooruitblik die de zakenbank publiceerde in aanloop naar de kwartaalcijfers.",
-    "published_at": "2026-10-02 18:16",
-    "scraped_at": "2026-10-03T08:24:02.938499"
-  },
-  {
-    "id": "873eebc90ce4bd250d289c2afc64d44b",
-    "categorie": "IEX",
-    "titel": "Slotcall: Glanzende chippers helpen AEX aan mooie winst",
-    "link": "https://www.iex.nl/artikel/880008/Slotcall-Glanzende-chippers-helpen-AEX-aan-mooie-winst.aspx",
+    "id": "dd59daa7659d86faae2743545492bb0e",
+    "categorie": "",
+    "titel": "Vooruitblik: Shell, TSMC en deze multinational vermagert door afslanktrend",
+    "link": "https://www.iex.nl/artikel/879832/Vooruitblik-Shell-TSMC-en-deze-multinational-vermagert-door-afslanktrend.aspx",
     "intro": "",
-    "published_at": "2026-10-02 17:50",
-    "scraped_at": "2026-10-03T08:24:02.938499"
+    "published_at": "2026-10-03 12:20",
+    "scraped_at": "2026-10-03T13:35:49.361059"
+  },
+  {
+    "id": "387e77c84b2b604041fb90fef4103570",
+    "categorie": "Beursnieuws",
+    "titel": "Amundi groter in ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/880046/Amundi-groter-in-ABN-AMRO.aspx",
+    "intro": "Amundi Asset Management heeft een groter belang in ABN AMRO gemeld. Dat bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 30 september 2026.",
+    "published_at": "2026-10-03 10:58",
+    "scraped_at": "2026-10-03T13:35:49.361059"
+  },
+  {
+    "id": "2be920089e1c47f1369d897d66a30b3c",
+    "categorie": "Beursnieuws",
+    "titel": "Weiss Asset Management meldt belang in Allfunds",
+    "link": "https://www.beurs.nl/Nieuws/880045/Weiss-Asset-Management-meldt-belang-in-Allfunds.aspx",
+    "intro": "Weiss Asset Management heeft een belang in Allfunds genomen. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 1 oktober 2026.",
+    "published_at": "2026-10-03 10:46",
+    "scraped_at": "2026-10-03T13:35:49.361059"
+  },
+  {
+    "id": "1b88a6df39a3457ba9c861af8ff4b03b",
+    "categorie": "Beursnieuws",
+    "titel": "Goldman Sachs meldt belang in Sligro",
+    "link": "https://www.beurs.nl/Nieuws/880044/Goldman-Sachs-meldt-belang-in-Sligro.aspx",
+    "intro": "Goldman Sachs heeft een belang in Sligro Food Group genomen. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 30 september 2026.",
+    "published_at": "2026-10-03 10:39",
+    "scraped_at": "2026-10-03T13:35:49.361059"
+  },
+  {
+    "id": "740eabe232e2882c166079e60407ad07",
+    "categorie": "Beursnieuws",
+    "titel": "Media: beoogde ECB-baas Knot op bezoek bij Merz",
+    "link": "https://www.beurs.nl/Nieuws/880043/Media-beoogde-ECB-baas-Knot-op-bezoek-bij-Merz.aspx",
+    "intro": "De Duitse bondskanselier Friedrich Merz zal de komende tijd ontmoetingen hebben met de belangrijkste kandidaten om Christine Lagarde op te volgen als voorzitter van de Europese Centrale Bank. Dit meldde persbureau Bloomberg zaterdag op basis van bronnen.",
+    "published_at": "2026-10-03 10:28",
+    "scraped_at": "2026-10-03T13:35:49.361059"
   }
 ]
