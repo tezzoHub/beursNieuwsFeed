@@ -1,11 +1,29 @@
 [
   {
+    "id": "27b5970f8a73bda71d7a64b2971dbacc",
+    "categorie": "Beursnieuws",
+    "titel": "Focus komende week op notulen centrale banken",
+    "link": "https://www.beurs.nl/Nieuws/880057/Focus-komende-week-op-notulen-centrale-banken.aspx",
+    "intro": "Het belooft komende week iets rustiger te worden dan afgelopen week, toen beleggers inflatiecijfers en banendata moesten verwerken tegen een achtergrond van oplopende rentes.",
+    "published_at": "2026-10-04 12:04",
+    "scraped_at": "2026-10-04T14:40:12.088686"
+  },
+  {
+    "id": "25d1b625a48ba6aea4f40ea409bf88f8",
+    "categorie": "Beursnieuws",
+    "titel": "Media: nieuwe werkgroep Trump gaat risico's AI in kaart brengen",
+    "link": "https://www.beurs.nl/Nieuws/880056/Media-nieuwe-werkgroep-Trump-gaat-risicos-AI-in-kaart-brengen.aspx",
+    "intro": "Een nieuwe werkgroep van de Amerikaanse regering krijgt 120 dagen de tijd om een rapport op te stellen over de risico’s en kansen van kunstmatige intelligentie en om tot besluiten te komen over de verantwoordelijkheid die de federale overheid in de VS draagt ten aanzien van AI. Dit meldde The Wall Street Journal zondag op basis van uitspraken van het hoofd van deze taskforce.",
+    "published_at": "2026-10-04 11:22",
+    "scraped_at": "2026-10-04T14:40:12.088686"
+  },
+  {
     "id": "29bcc3072d36c79f3f7e26c02c7ec8a7",
     "categorie": "Beursnieuws",
     "titel": "Chippers helpen Damrak aan nieuw record",
     "link": "https://www.beurs.nl/Nieuws/880055/Chippers-helpen-Damrak-aan-nieuw-record.aspx",
     "intro": "De Amsterdamse beurs kreeg afgelopen week hulp van de chippers, waardoor de AEX kon stijgen naar een 'all time high' van 1.127 punten. Toch domineerden de rode koersen in de hoofdindex. Financials en vastgoed hadden het lastig.",
     "published_at": "2026-10-04 10:44",
-    "scraped_at": "2026-10-04T08:51:16.153950"
+    "scraped_at": "2026-10-04T14:40:12.088686"
   }
 ]
