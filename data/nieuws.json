@@ -1,47 +1,83 @@
 [
   {
-    "id": "365fb862aa58502872e9fde0cac57c83",
+    "id": "ff65425058e80169a8e9bd61814664bb",
     "categorie": "Beursnieuws",
-    "titel": "Musk wil AI-afdeling SpaceX omdopen tot SpaceXSI",
-    "link": "https://www.beurs.nl/Nieuws/880064/Musk-wil-AI-afdeling-SpaceX-omdopen-tot-SpaceXSI.aspx",
-    "intro": "Elon Musk wil de AI-afdeling van SpaceX een nieuwe naam geven. Dit bevestigde hij zondag op X.",
-    "published_at": "2026-10-04 19:00",
-    "scraped_at": "2026-10-05T00:13:22.433654"
+    "titel": "Beursblik: Jefferies verhoogt koersdoel Euronext",
+    "link": "https://www.beurs.nl/Nieuws/880089/Beursblik-Jefferies-verhoogt-koersdoel-Euronext.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Euronext verhoogd van 170,00 naar 190,00 euro, met herhaling van het koopadvies. Dit bleek maandag uit een sectorrapport van de zakenbank.",
+    "published_at": "2026-10-05 07:47",
+    "scraped_at": "2026-10-05T05:57:22.606374"
   },
   {
-    "id": "6c784a1c0782174f2df388d0a556f26d",
+    "id": "1ddc0872efe23a9c60026064c3004ee1",
     "categorie": "Beursnieuws",
-    "titel": "OPEC+ handhaaft productieniveau",
-    "link": "https://www.beurs.nl/Nieuws/880063/OPEC-handhaaft-productieniveau.aspx",
-    "intro": "OPEC+ zal het huidige productieniveau ook in november handhaven. Dit meldden de grootste landen van het oliebondgenootschap zondag na een virtuele vergadering.",
-    "published_at": "2026-10-04 18:44",
-    "scraped_at": "2026-10-05T00:13:22.433654"
+    "titel": "Schneider Electric neemt PTC over",
+    "link": "https://www.beurs.nl/Nieuws/880088/Schneider-Electric-neemt-PTC-over.aspx",
+    "intro": "Schneider Electric neemt het Amerikaanse PTC over voor bijna 24 miljard dollar. Dit bevestigde de Franse specialist in energietechnologie maandagochtend na eerdere mediaberichten.",
+    "published_at": "2026-10-05 07:40",
+    "scraped_at": "2026-10-05T05:57:22.606374"
   },
   {
-    "id": "27b5970f8a73bda71d7a64b2971dbacc",
+    "id": "70b4a83177ebb5ca17739a14f92cf421",
     "categorie": "Beursnieuws",
-    "titel": "Focus komende week op notulen centrale banken",
-    "link": "https://www.beurs.nl/Nieuws/880057/Focus-komende-week-op-notulen-centrale-banken.aspx",
-    "intro": "Het belooft komende week iets rustiger te worden dan afgelopen week, toen beleggers inflatiecijfers en banendata moesten verwerken tegen een achtergrond van oplopende rentes.",
-    "published_at": "2026-10-04 12:04",
-    "scraped_at": "2026-10-05T00:13:22.433654"
+    "titel": "Japanse beurs uitblinker tijdens rustige handelsdag in Azië",
+    "link": "https://www.beurs.nl/Nieuws/880087/Japanse-beurs-uitblinker-tijdens-rustige-handelsdag-in-Azie.aspx",
+    "intro": "De Aziatische beurzen noteerden maandagochtend overwegend hoger, aangevoerd door Japan, nadat het zwakke Amerikaanse banenrapport van vrijdag de verwachting van een nieuwe renteverhoging door de Federal Reserve heeft getemperd.",
+    "published_at": "2026-10-05 07:27",
+    "scraped_at": "2026-10-05T05:57:22.606374"
   },
   {
-    "id": "25d1b625a48ba6aea4f40ea409bf88f8",
+    "id": "841f8947de3e8d72cb9a3a02feb1dda4",
     "categorie": "Beursnieuws",
-    "titel": "Media: nieuwe werkgroep Trump gaat risico's AI in kaart brengen",
-    "link": "https://www.beurs.nl/Nieuws/880056/Media-nieuwe-werkgroep-Trump-gaat-risicos-AI-in-kaart-brengen.aspx",
-    "intro": "Een nieuwe werkgroep van de Amerikaanse regering krijgt 120 dagen de tijd om een rapport op te stellen over de risico’s en kansen van kunstmatige intelligentie en om tot besluiten te komen over de verantwoordelijkheid die de federale overheid in de VS draagt ten aanzien van AI. Dit meldde The Wall Street Journal zondag op basis van uitspraken van het hoofd van deze taskforce.",
-    "published_at": "2026-10-04 11:22",
-    "scraped_at": "2026-10-05T00:13:22.433654"
+    "titel": "AkzoNobel verkoopt Zuid-Oost-Aziatische verfactiviteiten aan Nippon Paint",
+    "link": "https://www.beurs.nl/Nieuws/880086/AkzoNobel-verkoopt-Zuid-Oost-Aziatische-verfactiviteiten-aan-Nippon-Paint.aspx",
+    "intro": "AkzoNobel verkoopt zijn activiteiten op het gebied van decoratieve verven in Zuidoost-Azië aan het Japanse Nippon Paint. Dit werd maandagochtend bekend.",
+    "published_at": "2026-10-05 07:20",
+    "scraped_at": "2026-10-05T05:57:22.606374"
   },
   {
-    "id": "29bcc3072d36c79f3f7e26c02c7ec8a7",
+    "id": "50b7b99cbed605008efbe2624c2ce22c",
     "categorie": "Beursnieuws",
-    "titel": "Chippers helpen Damrak aan nieuw record",
-    "link": "https://www.beurs.nl/Nieuws/880055/Chippers-helpen-Damrak-aan-nieuw-record.aspx",
-    "intro": "De Amsterdamse beurs kreeg afgelopen week hulp van de chippers, waardoor de AEX kon stijgen naar een 'all time high' van 1.127 punten. Toch domineerden de rode koersen in de hoofdindex. Financials en vastgoed hadden het lastig.",
-    "published_at": "2026-10-04 10:44",
-    "scraped_at": "2026-10-05T00:13:22.433654"
+    "titel": "Europese beurzen openen terughoudend",
+    "link": "https://www.beurs.nl/Nieuws/880079/Europese-beurzen-openen-terughoudend.aspx",
+    "intro": "De aandelenmarkten in Europa gaan maandag een verdeelde opening tegemoet, in afwachting van inkoopmanagersindices over de mondiale dienstensector.",
+    "published_at": "2026-10-05 07:05",
+    "scraped_at": "2026-10-05T05:57:22.606374"
+  },
+  {
+    "id": "dcec9396ff8d9e38a78cb2184611a3e5",
+    "categorie": "Beursnieuws",
+    "titel": "Japanse dienstensector groeit minder hard",
+    "link": "https://www.beurs.nl/Nieuws/880080/Japanse-dienstensector-groeit-minder-hard.aspx",
+    "intro": "De Japanse dienstensector is in september in een iets lager tempo gegroeid. Dit bleek maandag uit cijfers van SP Global.",
+    "published_at": "2026-10-05 07:03",
+    "scraped_at": "2026-10-05T05:57:22.606374"
+  },
+  {
+    "id": "0825effcaf46016c66e93e57c83e7f53",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/880076/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 12 oktober 2026:",
+    "published_at": "2026-10-05 06:55",
+    "scraped_at": "2026-10-05T05:57:22.606374"
+  },
+  {
+    "id": "57dab94b84525e02eaa82d4052a22a0e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/880077/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 12 oktober 2026:",
+    "published_at": "2026-10-05 06:55",
+    "scraped_at": "2026-10-05T05:57:22.606374"
+  },
+  {
+    "id": "4e4a59d70d4995b7cba9e0880b2892e5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/880075/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 12 oktober 2026:",
+    "published_at": "2026-10-05 06:54",
+    "scraped_at": "2026-10-05T05:57:22.606374"
   }
 ]
