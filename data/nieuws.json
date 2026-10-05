@@ -1,83 +1,92 @@
 [
   {
-    "id": "ff65425058e80169a8e9bd61814664bb",
+    "id": "ed1d9236a20b6418b94f16e3d30edaa6",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel Euronext",
-    "link": "https://www.beurs.nl/Nieuws/880089/Beursblik-Jefferies-verhoogt-koersdoel-Euronext.aspx",
-    "intro": "Jefferies heeft het koersdoel voor Euronext verhoogd van 170,00 naar 190,00 euro, met herhaling van het koopadvies. Dit bleek maandag uit een sectorrapport van de zakenbank.",
-    "published_at": "2026-10-05 07:47",
-    "scraped_at": "2026-10-05T05:57:22.606374"
+    "titel": "S&P: Groei Amerikaanse dienstensector versnelt",
+    "link": "https://www.beurs.nl/Nieuws/880186/SP-Groei-Amerikaanse-dienstensector-versnelt.aspx",
+    "intro": "De dienstensector in de Verenigde Staten is in september verder gestegen, dankzij snellere banengroei en meer nieuwe orders. Dit bleek maandag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-10-05 16:01",
+    "scraped_at": "2026-10-05T14:22:48.152292"
   },
   {
-    "id": "1ddc0872efe23a9c60026064c3004ee1",
-    "categorie": "Beursnieuws",
-    "titel": "Schneider Electric neemt PTC over",
-    "link": "https://www.beurs.nl/Nieuws/880088/Schneider-Electric-neemt-PTC-over.aspx",
-    "intro": "Schneider Electric neemt het Amerikaanse PTC over voor bijna 24 miljard dollar. Dit bevestigde de Franse specialist in energietechnologie maandagochtend na eerdere mediaberichten.",
-    "published_at": "2026-10-05 07:40",
-    "scraped_at": "2026-10-05T05:57:22.606374"
-  },
-  {
-    "id": "70b4a83177ebb5ca17739a14f92cf421",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse beurs uitblinker tijdens rustige handelsdag in Azië",
-    "link": "https://www.beurs.nl/Nieuws/880087/Japanse-beurs-uitblinker-tijdens-rustige-handelsdag-in-Azie.aspx",
-    "intro": "De Aziatische beurzen noteerden maandagochtend overwegend hoger, aangevoerd door Japan, nadat het zwakke Amerikaanse banenrapport van vrijdag de verwachting van een nieuwe renteverhoging door de Federal Reserve heeft getemperd.",
-    "published_at": "2026-10-05 07:27",
-    "scraped_at": "2026-10-05T05:57:22.606374"
-  },
-  {
-    "id": "841f8947de3e8d72cb9a3a02feb1dda4",
-    "categorie": "Beursnieuws",
-    "titel": "AkzoNobel verkoopt Zuid-Oost-Aziatische verfactiviteiten aan Nippon Paint",
-    "link": "https://www.beurs.nl/Nieuws/880086/AkzoNobel-verkoopt-Zuid-Oost-Aziatische-verfactiviteiten-aan-Nippon-Paint.aspx",
-    "intro": "AkzoNobel verkoopt zijn activiteiten op het gebied van decoratieve verven in Zuidoost-Azië aan het Japanse Nippon Paint. Dit werd maandagochtend bekend.",
-    "published_at": "2026-10-05 07:20",
-    "scraped_at": "2026-10-05T05:57:22.606374"
-  },
-  {
-    "id": "50b7b99cbed605008efbe2624c2ce22c",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen terughoudend",
-    "link": "https://www.beurs.nl/Nieuws/880079/Europese-beurzen-openen-terughoudend.aspx",
-    "intro": "De aandelenmarkten in Europa gaan maandag een verdeelde opening tegemoet, in afwachting van inkoopmanagersindices over de mondiale dienstensector.",
-    "published_at": "2026-10-05 07:05",
-    "scraped_at": "2026-10-05T05:57:22.606374"
-  },
-  {
-    "id": "dcec9396ff8d9e38a78cb2184611a3e5",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse dienstensector groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/880080/Japanse-dienstensector-groeit-minder-hard.aspx",
-    "intro": "De Japanse dienstensector is in september in een iets lager tempo gegroeid. Dit bleek maandag uit cijfers van SP Global.",
-    "published_at": "2026-10-05 07:03",
-    "scraped_at": "2026-10-05T05:57:22.606374"
-  },
-  {
-    "id": "0825effcaf46016c66e93e57c83e7f53",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/880076/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 12 oktober 2026:",
-    "published_at": "2026-10-05 06:55",
-    "scraped_at": "2026-10-05T05:57:22.606374"
-  },
-  {
-    "id": "57dab94b84525e02eaa82d4052a22a0e",
+    "id": "510df73ea4b068706b65d66c97e6468e",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/880077/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 12 oktober 2026:",
-    "published_at": "2026-10-05 06:55",
-    "scraped_at": "2026-10-05T05:57:22.606374"
+    "link": "https://www.beurs.nl/Nieuws/880182/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 13 oktober 2026:",
+    "published_at": "2026-10-05 15:45",
+    "scraped_at": "2026-10-05T14:22:48.152292"
   },
   {
-    "id": "4e4a59d70d4995b7cba9e0880b2892e5",
+    "id": "1017fae7655fbce44c9c89b345ccd9e7",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/880181/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 13 oktober 2026:",
+    "published_at": "2026-10-05 15:44",
+    "scraped_at": "2026-10-05T14:22:48.152292"
+  },
+  {
+    "id": "e5363c266471eaeb60c6c122386de689",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/880075/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 12 oktober 2026:",
-    "published_at": "2026-10-05 06:54",
-    "scraped_at": "2026-10-05T05:57:22.606374"
+    "link": "https://www.beurs.nl/Nieuws/880180/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 13 oktober 2026:",
+    "published_at": "2026-10-05 15:43",
+    "scraped_at": "2026-10-05T14:22:48.152292"
+  },
+  {
+    "id": "48c08f8569ad292f84487cbc1f75ba17",
+    "categorie": "Beursnieuws",
+    "titel": "Video: techaandelen en energie de sterkhouders",
+    "link": "https://www.beurs.nl/Nieuws/880184/Video-techaandelen-en-energie-de-sterkhouders.aspx",
+    "intro": "Aandelen in tech en energie zullen in het derde kwartaal de sterkste winstgroei laten zien. Dat zou voldoende moeten zijn om de hoge rente te compenseren. Dit verwacht investment manager Vincent Juvyns van ING Global Investment Centre.",
+    "published_at": "2026-10-05 15:41",
+    "scraped_at": "2026-10-05T14:22:48.152292"
+  },
+  {
+    "id": "a93e689b2a3d2cb758664d77b072f788",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street begint voorzichtig aan de nieuwe week",
+    "link": "https://www.beurs.nl/Nieuws/880174/Wall-Street-begint-voorzichtig-aan-de-nieuwe-week.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een voorzichtige opening tegemoet, nadat de Nasdaq voor het weekend nog flirtte met een nieuw record als gevolg van een zwak banenrapport, waardoor de verwachting van een nieuwe renteverhoging door de Federal Reserve verder afnam.",
+    "published_at": "2026-10-05 14:51",
+    "scraped_at": "2026-10-05T14:22:48.152292"
+  },
+  {
+    "id": "7240463e1d286620438dab4ffe04d6af",
+    "categorie": "Beursnieuws",
+    "titel": "Citi verlaagt koersdoel CVC",
+    "link": "https://www.beurs.nl/Nieuws/880171/Citi-verlaagt-koersdoel-CVC.aspx",
+    "intro": "Citi Research heeft het koersdoel voor CVC Capital verlaagd van 18,00 naar 17,50 euro, maar handhaafde het koopadvies in aanloop naar de update van CVC over het derde kwartaal. Dit bleek maandag uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-10-05 14:38",
+    "scraped_at": "2026-10-05T14:22:48.152292"
+  },
+  {
+    "id": "d7e8481dadaa5ea33a46cf0140ad30b2",
+    "categorie": "Beursnieuws",
+    "titel": "AEX bouwt winst uit",
+    "link": "https://www.beurs.nl/Nieuws/880165/AEX-bouwt-winst-uit.aspx",
+    "intro": "De AEX stond maandagmiddag nog iets steviger in de plus, terwijl de euro druk ondervond van de angst voor besmetting van de Franse begrotingscrisis naar andere EU-landen.",
+    "published_at": "2026-10-05 14:01",
+    "scraped_at": "2026-10-05T14:22:48.152292"
+  },
+  {
+    "id": "8ae31f22933fe21c826c233fae6533e6",
+    "categorie": "Beursnieuws",
+    "titel": "Arcadis stap dichterbij ontziltingsproject in Mexico",
+    "link": "https://www.beurs.nl/Nieuws/880163/Arcadis-stap-dichterbij-ontziltingsproject-in-Mexico.aspx",
+    "intro": "Sacyr en Arcadis zijn een stap dichterbij de ontwikkeling van een ontziltingsfabriek in de golf van Californië, nu de autoriteit voor waterinfrastructuur in Arizona een evaluatie van het voorstel heeft goedgekeurd. Dit maakte de Spaanse projectontwikkelaar Sacyr maandag bekend.",
+    "published_at": "2026-10-05 13:54",
+    "scraped_at": "2026-10-05T14:22:48.152292"
+  },
+  {
+    "id": "ee5e072212cc2082a58528305e6f503d",
+    "categorie": "Beursnieuws",
+    "titel": "Futures voorspellen lichtrode opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/880161/Futures-voorspellen-lichtrode-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan maandag een voorzichtige opening tegemoet, nadat de Nasdaq voor het weekend nog flirtte met een nieuw record als gevolg van een zwak banenrapport, waardoor de verwachting van een nieuwe renteverhoging door de Federal Reserve verder afnam.",
+    "published_at": "2026-10-05 13:02",
+    "scraped_at": "2026-10-05T14:22:48.152292"
   }
 ]
