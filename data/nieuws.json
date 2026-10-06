@@ -1,12 +1,75 @@
 [
   {
+    "id": "4ce286a981a6b48103454c91f1d5fae5",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs daalt toch niet",
+    "link": "https://www.beurs.nl/Nieuws/880362/Olieprijs-daalt-toch-niet.aspx",
+    "intro": "De olieprijs is woensdag vlak geëindigd in New York, na een daling eerder op de dag.",
+    "published_at": "2026-10-06 21:27",
+    "scraped_at": "2026-10-06T20:35:13.740697"
+  },
+  {
+    "id": "2764603265e8ae408bd24784c100a6f0",
+    "categorie": "Beursnieuws",
+    "titel": "Techrally duwt Wall Street verder omhoog",
+    "link": "https://www.beurs.nl/Nieuws/880358/Techrally-duwt-Wall-Street-verder-omhoog.aspx",
+    "intro": "De Amerikaanse beurzen stonden dinsdag hoger, gesteund door koerswinsten voor IT-aandelen, nadat maandag de Nasdaq zijn recordstand al verder aanscherpte op een hernieuwde AI-rally.",
+    "published_at": "2026-10-06 20:23",
+    "scraped_at": "2026-10-06T20:35:13.740697"
+  },
+  {
+    "id": "11a6897d37680d04e12da5157a4d1e03",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Jefferies verlaagt koersdoel Magnum Ice licht",
+    "link": "https://www.beurs.nl/Nieuws/880355/Beursblik-Jefferies-verlaagt-koersdoel-Magnum-Ice-licht.aspx",
+    "intro": "Jefferies heeft dinsdag het koersdoel voor Magnum Ice licht verlaagd, van 15,60 naar 15,20 euro, terwijl het Houden advies bleef staan. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-10-06 19:06",
+    "scraped_at": "2026-10-06T20:35:13.740697"
+  },
+  {
+    "id": "b597fd10e9e415b5b80b96d3f7560254",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen profiteren van lagere rentes",
+    "link": "https://www.beurs.nl/Nieuws/880352/Europese-beurzen-profiteren-van-lagere-rentes.aspx",
+    "intro": "De aandelenmarkten in Europa sloten dinsdag hoger, geholpen door een techrally en beursrecords op Wall Street, terwijl de olieprijs en de rentes daalden.",
+    "published_at": "2026-10-06 18:49",
+    "scraped_at": "2026-10-06T20:35:13.740697"
+  },
+  {
+    "id": "10255f4ab7b7a0b46f59241f19394738",
+    "categorie": "Beursnieuws",
+    "titel": "AEX scherpt record aan",
+    "link": "https://www.beurs.nl/Nieuws/880350/AEX-scherpt-record-aan.aspx",
+    "intro": "De Amsterdamse beurs wist dinsdag zijn record aan te scherpen, hoewel de winsten van eerder op de dag deels werden weggegeven.",
+    "published_at": "2026-10-06 17:53",
+    "scraped_at": "2026-10-06T20:35:13.740697"
+  },
+  {
+    "id": "43699a424c0e91aa18a549e988db1829",
+    "categorie": "Beursnieuws",
+    "titel": "SAP neemt Gents AI-bedrijf TechWolf over",
+    "link": "https://www.beurs.nl/Nieuws/880349/SAP-neemt-Gents-AI-bedrijf-TechWolf-over.aspx",
+    "intro": "SAP heeft overeenstemming bereikt met TechWolf over een overname. Dit maakte SAP dinsdagmiddag bekend.",
+    "published_at": "2026-10-06 17:42",
+    "scraped_at": "2026-10-06T20:35:13.740697"
+  },
+  {
+    "id": "25a63c1e5414aeaf389752226f7389cf",
+    "categorie": "IEX",
+    "titel": "Slotcall: nieuwe recordstand en laat dat cijferseizoen maar komen",
+    "link": "https://www.iex.nl/artikel/880335/Slotcall-nieuwe-recordstand-en-laat-dat-cijferseizoen-maar-komen.aspx",
+    "intro": "De AEX sluit zojuist 0,4% hoger op 1.128 punten en een beetje. De index zette vanochtend met 1.135,65 punten wel een nieuwe hoogste stand ooit neer, dus wederom geen reden tot klagen vandaag!",
+    "published_at": "2026-10-06 17:35",
+    "scraped_at": "2026-10-06T20:35:13.740697"
+  },
+  {
     "id": "3393d1c715364eb96d34d059a1e463e0",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/880338/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 14 oktober 2026:",
     "published_at": "2026-10-06 16:32",
-    "scraped_at": "2026-10-06T15:28:47.781881"
+    "scraped_at": "2026-10-06T20:35:13.740697"
   },
   {
     "id": "29a94b92c3ce59283d70202108c36915",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/880336/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 14 oktober 2026:",
     "published_at": "2026-10-06 16:31",
-    "scraped_at": "2026-10-06T15:28:47.781881"
+    "scraped_at": "2026-10-06T20:35:13.740697"
   },
   {
     "id": "f4cf0ced92642eaafae39b1611814923",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/880337/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 14 oktober 2026:",
     "published_at": "2026-10-06 16:31",
-    "scraped_at": "2026-10-06T15:28:47.781881"
-  },
-  {
-    "id": "d6cdadb0addbf7badeea1a65d2167a17",
-    "categorie": "Beursnieuws",
-    "titel": "S&P 500 op weg naar nieuw record",
-    "link": "https://www.beurs.nl/Nieuws/880318/SP-500-op-weg-naar-nieuw-record.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een hogere opening tegemoet, terwijl de dalende rentes en lagere olieprijzen voor steun zorgen.",
-    "published_at": "2026-10-06 15:09",
-    "scraped_at": "2026-10-06T15:28:47.781881"
-  },
-  {
-    "id": "b98c369b4ae9e266acf31db28019cac9",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaans handelstekort loopt verder op",
-    "link": "https://www.beurs.nl/Nieuws/880312/Amerikaans-handelstekort-loopt-verder-op.aspx",
-    "intro": "Het tekort op de Amerikaanse handelsbalans is in augustus verder opgelopen, hoewel minder sterk dan in juli. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-10-06 15:05",
-    "scraped_at": "2026-10-06T15:28:47.781881"
-  },
-  {
-    "id": "7f3473e0722360f322247ba674fc2b70",
-    "categorie": "Nieuws",
-    "titel": "\"Grote beleggers houden vast aan klimaatbeleggingen\"",
-    "link": "https://www.ieximpact.nl/artikel/880292/Grote-beleggers-houden-vast-aan-klimaatbeleggingen.aspx",
-    "intro": "Grote beleggers blijven positief over klimaatgerichte investeringen, ondanks politieke weerstand en zorgen over energiezekerheid. Dat blijkt uit de Global Climate Investing Survey 2026 van Robeco, waarvoor 300 institutionele en andere grote beleggers zijn ondervraagd.",
-    "published_at": "2026-10-06 14:55",
-    "scraped_at": "2026-10-06T15:28:47.781881"
-  },
-  {
-    "id": "b8e5dafa08c57055479ff41937a8a276",
-    "categorie": "Beursnieuws",
-    "titel": "Chemie aan kop in recordhoge AEX",
-    "link": "https://www.beurs.nl/Nieuws/880302/Chemie-aan-kop-in-recordhoge-AEX.aspx",
-    "intro": "De Amsterdamse beurs was dinsdagmiddag op weg naar de hoogste slotstand ooit, terwijl chemie-aandelen in trek waren en het aantal verliezers redelijk beperkt bleef.",
-    "published_at": "2026-10-06 13:59",
-    "scraped_at": "2026-10-06T15:28:47.781881"
-  },
-  {
-    "id": "271b42974f125e70b0941124b2e77b50",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/880295/Futures-Wall-Street-signaleren-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een licht hogere opening tegemoet, nadat maandag de Nasdaq zijn recordstand verder aanscherpte en de toonaangevende SP 500 de hoogste stand ooit naderde.",
-    "published_at": "2026-10-06 13:02",
-    "scraped_at": "2026-10-06T15:28:47.781881"
-  },
-  {
-    "id": "f1a19439de59ddf004acfe589e2e7236",
-    "categorie": "Trades",
-    "titel": "Heineken bereikt belangrijk steunniveau: koopkans in de maak?",
-    "link": "https://www.beurs.nl/Artikel/880279/Heineken-bereikt-belangrijk-steunniveau-koopkans-in-de-maak.aspx",
-    "intro": "Heineken is de afgelopen maanden weer wat weggezakt. Toch lijkt de verkoopdruk af te nemen en kan de huidige terugval de opmaat vormen voor een nieuwe herstelbeweging.",
-    "published_at": "2026-10-06 13:00",
-    "scraped_at": "2026-10-06T15:28:47.781881"
-  },
-  {
-    "id": "41235b8b10f3aee0adcb16a997ee62be",
-    "categorie": "Beursnieuws",
-    "titel": "Dalende rentes geven Europese beurzen lucht",
-    "link": "https://www.beurs.nl/Nieuws/880293/Dalende-rentes-geven-Europese-beurzen-lucht.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden dinsdag rond lunchtijd hoger, terwijl de rentes daalden, net als de olieprijzen. Het sentiment werd verder ondersteund door de records op Wall Street.",
-    "published_at": "2026-10-06 12:49",
-    "scraped_at": "2026-10-06T15:28:47.781881"
+    "scraped_at": "2026-10-06T20:35:13.740697"
   }
 ]
