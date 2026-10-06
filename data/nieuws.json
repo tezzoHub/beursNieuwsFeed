@@ -1,92 +1,92 @@
 [
   {
-    "id": "9b5be68e002c86c08802649840f12e09",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/880207/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag zes van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam en twee lager.",
-    "published_at": "2026-10-05 22:24",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "id": "ab51c46a3de76de8b653d71c11bb1d6a",
+    "categorie": "Evenement",
+    "titel": "Gratis webinar: Rente, olie en een AEX die stil lijkt te staan - wat doe je als particulier?",
+    "link": "https://www.iex.nl/artikel/880255/Gratis-webinar-Rente-olie-en-een-AEX-die-stil-lijkt-te-staan-wat-doe-je-als-particulier.aspx",
+    "intro": "Wil je niet langer twijfelen over je beleggingsstrategie, maar met vertrouwen de markt op? Meld je direct aan voor het webinar op dinsdag 13 oktober.",
+    "published_at": "2026-10-06 10:20",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "d4e03631938064d17ae1446b55e1199a",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street hoger gesloten, S&P 500 nadert record",
-    "link": "https://www.beurs.nl/Nieuws/880206/Wall-Street-hoger-gesloten-SP-500-nadert-record.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag hoger geëindigd en trotseerden de verder oplopende rentes, mede geholpen door de stijging van de grote technologiebedrijven. Hierdoor benaderde de SP 500 de recordstand van medio september, terwijl de Nasdaq die juist vandaag verder aanscherpte.",
-    "published_at": "2026-10-05 22:18",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "id": "592ae38844410db7064f36dda19a8b58",
+    "categorie": "Must read",
+    "titel": "Must read: Europese banken zijn goed bezig",
+    "link": "https://www.iex.nl/artikel/880097/Must-read-Europese-banken-zijn-goed-bezig.aspx",
+    "intro": "Plus: een kleine spaarder hoeft de vermogensbelasting niet te vrezen, de 10 beste beleggers aller tijden, Midterms is geen beurs-gamechanger, en veel meer.",
+    "published_at": "2026-10-06 10:00",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "3eddf99fd41f58b21274d865c313fa64",
+    "id": "c29df9e3a6f43dbd54669310dae6ab7d",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen lager gesloten",
-    "link": "https://www.beurs.nl/Nieuws/880205/Olieprijzen-lager-gesloten.aspx",
-    "intro": "De olieprijzen zijn maandag lager gesloten, mede dankzij de stijgende export van ruwe olie uit het Midden-Oosten en de vrijgave van olievoorraden door de G7-landen het aanbod vergrootten.",
-    "published_at": "2026-10-05 21:07",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "titel": "Franse industriële productie gedaald",
+    "link": "https://www.beurs.nl/Nieuws/880251/Franse-industriele-productie-gedaald.aspx",
+    "intro": "De Franse industriële productie is in augustus gedaald. Dit bleek dinsdag uit cijfers van het Franse statistiekbureau Insee.",
+    "published_at": "2026-10-06 09:27",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "4d6b7bde25dfe764add13771236e5431",
+    "id": "a1f655ad0fec052257638d6e6cfd80ee",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street trotseert verder oplopende rentes",
-    "link": "https://www.beurs.nl/Nieuws/880204/Wall-Street-trotseert-verder-oplopende-rentes.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag hoger en trotseerden de verder oplopende rentes, mede geholpen door de stijging van de Nasdaq die de recordstanden verder aanscherpte.",
-    "published_at": "2026-10-05 19:41",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "titel": "AEX licht hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/880246/AEX-licht-hoger-van-start-gegaan.aspx",
+    "intro": "De AEX index koerste dinsdag kort na de beursgong 0,3 procent hoger op 1.127,16 punten. De AMX noteerde vrijwel onveranderd.",
+    "published_at": "2026-10-06 09:14",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "7943f32f20e4eec8910d9e33657bf893",
+    "id": "623dee74add42f47892ead8cc82a6412",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verdeeld gesloten",
-    "link": "https://www.beurs.nl/Nieuws/880200/Europese-beurzen-verdeeld-gesloten.aspx",
-    "intro": "De Europese aandelenmarkten zijn maandag verdeeld geëindigd, terwijl de hoge rentes en olieprijzen de aandacht bleven opeisen, evenals het contrast tussen de veerkrachtige Amerikaanse economie en de politieke en fiscale spanningen in Europa.",
-    "published_at": "2026-10-05 18:44",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "titel": "Bank of America verhoogt koersdoel ASML",
+    "link": "https://www.beurs.nl/Nieuws/880247/Bank-of-America-verhoogt-koersdoel-ASML.aspx",
+    "intro": "Bank of America heeft dinsdag het koersdoel voor ASML verhoogd van 2.452 naar 2.557 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Didier Scemama.",
+    "published_at": "2026-10-06 09:11",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "42db29838ca2802d53a1f7787dd6016b",
+    "id": "108f2ca3e0736326150b5cf976675d0c",
     "categorie": "Beursnieuws",
-    "titel": "Basic-Fit plaatst eerste Noordse obligatie",
-    "link": "https://www.beurs.nl/Nieuws/880199/Basic-Fit-plaatst-eerste-Noordse-obligatie.aspx",
-    "intro": "Basic-Fit heeft een prijs gesteld voor de uitgifte van 180 miljoen euro aan niet-achtergestelde, niet-gedekte obligaties met variabele rente en een looptijd van vier jaar. Dat maakte het bedrijf maandag bekend.",
-    "published_at": "2026-10-05 18:40",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "titel": "Bank of America haalt Besi van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/880244/Bank-of-America-haalt-Besi-van-de-kooplijst.aspx",
+    "intro": "Bank of America heeft dinsdag het advies voor BE Semiconductor Industries verlaagd van Kopen naar Neutraal en halveerde zowat het koersdoel van 401 naar 212 euro. Dit bleek uit een rapport van analist Didier Scemama.",
+    "published_at": "2026-10-06 09:01",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "8f01241bf2deaa70ab421b6e4addff45",
+    "id": "f4c6ab2c7594ad75ba1c5d0e5034c0ec",
     "categorie": "Beursnieuws",
-    "titel": "Bel20 na matte handelssessie licht lager gesloten",
-    "link": "https://www.beurs.nl/Nieuws/880198/Bel20-na-matte-handelssessie-licht-lager-gesloten.aspx",
-    "intro": "De Brusselse beurs is maandag licht lager gesloten, na een relatief matte handelssessie, waarin de hoge rentes en olieprijzen de aandacht bleven opeisen.",
-    "published_at": "2026-10-05 18:02",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "titel": "CVC en GBL verhogen bod op Recordati",
+    "link": "https://www.beurs.nl/Nieuws/880241/CVC-en-GBL-verhogen-bod-op-Recordati.aspx",
+    "intro": "Investeerders CVC Capital Partners en GBL hebben het overnamebod op het Italiaanse Recordati verhogod naar 53,00 euro per aandeel, inclusief dividend. Dit maakten de biedende partijen dinsdagochtend bekend. Eerder werd nog 51,29 euro per aandeel geboden.",
+    "published_at": "2026-10-06 08:46",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "3d8c7dc33f5f89010e646c5e5749db81",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit hoger terwijl euro verder daalt",
-    "link": "https://www.beurs.nl/Nieuws/880196/AEX-sluit-hoger-terwijl-euro-verder-daalt.aspx",
-    "intro": "De Amsterdamse beurs is maandag hoger gesloten, met steun van de energiesector, terwijl de euro bleef dalen door de politieke spanningen in Europa.",
-    "published_at": "2026-10-05 17:55",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "id": "86f6765ef0d68733487778ee74dab60d",
+    "categorie": "Beleggen",
+    "titel": "De ongemakkelijke CO2-waarheid van de energietransitie",
+    "link": "https://www.ieximpact.nl/artikel/878621/De-ongemakkelijke-CO2-waarheid-van-de-energietransitie.aspx",
+    "intro": "De opkomst van AI, datacenters en elektrificatie vergroot de vraag naar stroom en daarmee naar de infrastructuur die die stroom moet transporteren, opslaan en beheren. Die ontwikkeling confronteert duurzame beleggers met een ongemakkelijke werkelijkheid: veel bedrijven die de energietransitie mogelijk maken, hebben zelf een aanzienlijke CO2-voetafdruk.",
+    "published_at": "2026-10-06 08:42",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "73493b7912d4dc379be1dba8333a3480",
+    "id": "50bba53c2db9c93e56a325c48481f630",
     "categorie": "Beursnieuws",
-    "titel": "Groeitempo Amerikaanse techsector piekt",
-    "link": "https://www.beurs.nl/Nieuws/880191/Groeitempo-Amerikaanse-techsector-piekt.aspx",
-    "intro": "De Amerikaanse techsector heeft in september een scherpe versnelling laten zien. Dit bleek maandag uit cijfers van SP Global.",
-    "published_at": "2026-10-05 16:58",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "titel": "OCI reageert op kritiek VEB",
+    "link": "https://www.beurs.nl/Nieuws/880239/OCI-reageert-op-kritiek-VEB.aspx",
+    "intro": "OCI stelde dinsdag dat de zorgen van beleggersvereniging VEB over het bod van NNS van Nassef Sawiris en de voorgenomen combinatie met Orascom de transactie niet raken.",
+    "published_at": "2026-10-06 08:38",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   },
   {
-    "id": "9cc0b7baccf7c41608a7f632b25902b3",
+    "id": "4a3825d08bcf84dfd7c781a24f923be1",
     "categorie": "Beursnieuws",
-    "titel": "ISM: Amerikaanse dienstensector groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/880190/ISM-Amerikaanse-dienstensector-groeit-minder-hard.aspx",
-    "intro": "De activiteit in de Amerikaanse dienstensector is in september minder hard gegroeid. Dit bleek maandag uit cijfers van het Institute for Supply Management.",
-    "published_at": "2026-10-05 16:17",
-    "scraped_at": "2026-10-06T01:56:12.249047"
+    "titel": "Duitse fabrieksorders flink gedaald",
+    "link": "https://www.beurs.nl/Nieuws/880236/Duitse-fabrieksorders-flink-gedaald.aspx",
+    "intro": "De Duitse fabrieksorders zijn in augustus flink gedaald. Dit bleek dinsdag uit cijfers van statistiekbureau Destatis.",
+    "published_at": "2026-10-06 08:11",
+    "scraped_at": "2026-10-06T08:46:12.151129"
   }
 ]
