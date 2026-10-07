@@ -1,92 +1,92 @@
 [
   {
-    "id": "88a4140e7d552c7be232c72f3441817d",
+    "id": "6ee91cd15c3ed8d17d2ca9fc891d2f20",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street staat lagere opening te wachten",
-    "link": "https://www.beurs.nl/Nieuws/880465/Wall-Street-staat-lagere-opening-te-wachten.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet, na een dag eerder nog op recordniveaus te zijn gesloten. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,4 procent in het rood.",
-    "published_at": "2026-10-07 15:06",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "Olieprijzen dalen na IEA-besluit over versnelde vrijgave reserves",
+    "link": "https://www.beurs.nl/Nieuws/880538/Olieprijzen-dalen-na-IEA-besluit-over-versnelde-vrijgave-reserves.aspx",
+    "intro": "De Amerikaanse contracten voor ruwe olie zijn woensdag gedaald, nadat het Internationaal Energieagentschap (IEA) bekendmaakte dat zijn lidstaten de vrijgave van olievoorraden zo snel mogelijk zullen afronden.",
+    "published_at": "2026-10-07 21:16",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "3f6e9d4fa1d7dd3ea52d6a1c7e8224c1",
+    "id": "69899993b8a74d1651f2fec5dac5505f",
     "categorie": "Beursnieuws",
-    "titel": "Video: obligatierentes zijn helemaal niet absurd hoog",
-    "link": "https://www.beurs.nl/Nieuws/880462/Video-obligatierentes-zijn-helemaal-niet-absurd-hoog.aspx",
-    "intro": "De obligatierendementen zijn \"waanzinnig\" aangetrokken, maar staan niet op een uitzonderlijk hoog niveau. Dit zei onafhankelijk beleggingsstrateeg Frank Vranken voor de camera van ABM Financial News in Brussel.",
-    "published_at": "2026-10-07 14:24",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "Fed zag renteverhoging als verzekering tegen inflatie",
+    "link": "https://www.beurs.nl/Nieuws/880535/Fed-zag-renteverhoging-als-verzekering-tegen-inflatie.aspx",
+    "intro": "De renteverhoging van september werd door veel functionarissen van de Federal Reserve als noodzakelijk beschouwd voor het geval dat de inflatie hardnekkig zou blijven. Dat bleek woensdag uit gepubliceerde notulen van de vorige rentevergadering van de Fed.",
+    "published_at": "2026-10-07 20:44",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "ca553b8a5fdba6ab68a1f0408e2a6ff9",
+    "id": "dffcb0e01db68e9d1b6bd1328335888e",
     "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt koersdoel Aalberts",
-    "link": "https://www.beurs.nl/Nieuws/880461/Jefferies-verhoogt-koersdoel-Aalberts.aspx",
-    "intro": "Jefferies heeft woensdag het koersdoel voor Aalberts verhoogd van 50,00 naar 52,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist David Kerstens.",
-    "published_at": "2026-10-07 14:16",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "Wall Street op verlies ondanks wat opluchting na veiling",
+    "link": "https://www.beurs.nl/Nieuws/880534/Wall-Street-op-verlies-ondanks-wat-opluchting-na-veiling.aspx",
+    "intro": "De Amerikaanse beurzen zijn woensdag gedaald, onder druk van de gestegen obligatierentevoeten en olieprijzen. Wel zorgde een gunstig verlopen veiling van 10-jarige obligaties voor wat opluchting.",
+    "published_at": "2026-10-07 20:20",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "d571e0e10d09dfd6e8f10b7d834616a6",
+    "id": "901745804af4aef40954885cf8917911",
     "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders trekken Damrak omlaag",
-    "link": "https://www.beurs.nl/Nieuws/880459/Halfgeleiders-trekken-Damrak-omlaag.aspx",
-    "intro": "De koersverliezen op de Amsterdamse beurs liepen woensdag na het middaguur op, onder leiding van BESI, dat onderuitging na een negatief analistenrapport.",
-    "published_at": "2026-10-07 14:10",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "Rente, olie en begrotingszorgen drukken Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/880526/Rente-olie-en-begrotingszorgen-drukken-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen sloten woensdag lager, terwijl de Franse staatsleningen de aandacht bleven opeisen. Ook de oplopende olieprijzen deden het sentiment geen goed.",
+    "published_at": "2026-10-07 18:58",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "c4460b68c5b6dea808a2e9c402bbb4c0",
+    "id": "e81b6da77f0be0b82d2c06a73cd2c1bb",
     "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil tot 3,5 miljard euro ophalen",
-    "link": "https://www.beurs.nl/Nieuws/880453/Obligatie-Nederland-wil-tot-35-miljard-euro-ophalen.aspx",
-    "intro": "Nederland wil volgende week 2,5 tot 3,5 miljard euro ophalen met de heropening van een vijfjarige lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-10-07 13:19",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "Twijfel over tech-optimisme duwt AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/880524/Twijfel-over-tech-optimisme-duwt-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs is woensdag lager gesloten, nadat het optimisme over AI-aandelen weer net zo snel verdween als het eerder deze week terugkeerde. BESI leidde de dalers omlaag na negatieve analistenrapporten.",
+    "published_at": "2026-10-07 18:03",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "959247f035f830c7c53e297941b09912",
+    "id": "62e746ab71c34a46c826e0e1abe87e61",
     "categorie": "Beursnieuws",
-    "titel": "Constellation Brands profiteert van bierverkoop",
-    "link": "https://www.beurs.nl/Nieuws/880452/Constellation-Brands-profiteert-van-bierverkoop.aspx",
-    "intro": "Constellation Brands heeft in het tweede kwartaal van het gebroken boekjaar een hogere omzet en winst geboekt, doordat sterke bierverkopen in bars en restaurants de zwakkere verkopen in supermarkten en slijterijen compenseerden. Dit bleek dinsdagavond laat uit de kwartaalcijfers van het Amerikaanse drankenconcern, bekend van de biermerken Corona en Modelo.",
-    "published_at": "2026-10-07 13:16",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "Euronext meldt veel hogere volumes",
+    "link": "https://www.beurs.nl/Nieuws/880523/Euronext-meldt-veel-hogere-volumes.aspx",
+    "intro": "De handelsvolumes van contante effecten op Euronext zijn in september flink gestegen, na de daling in augustus. Dit maakte de Europese beursuitbater woensdagavond bekend.",
+    "published_at": "2026-10-07 18:01",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "d9dc66ae720d4419ef20534f5e3dc336",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: AI-opbouw herstelt Duitse industrie",
-    "link": "https://www.beurs.nl/Nieuws/880451/Beursblik-AI-opbouw-herstelt-Duitse-industrie.aspx",
-    "intro": "De sterker dan verwachte groei van de industriële productie in Duitsland in augustus werd mede ondersteund door het segment digitalisering. Dat stelde KfW Research in een analistenrapport.",
-    "published_at": "2026-10-07 13:12",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "id": "3780c4f339ba3097dd1c47299b2823dc",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX eindigt lager en met Besi gaat het nu wel erg hard",
+    "link": "https://www.iex.nl/artikel/880514/Slotcall-AEX-eindigt-lager-en-met-Besi-gaat-het-nu-wel-erg-hard.aspx",
+    "intro": "Het mocht vandaag niet zo zijn voor de AEX. De index begon al in het rood, deed gedurende de ochtend nog een poging om de schade te herstellen, maar zakte daarna steeds verder weg.",
+    "published_at": "2026-10-07 17:35",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "ae0effa4bf51e768ede88fa477703d54",
+    "id": "2810a10f6e4129378bdaa2b5435ee924",
     "categorie": "Beursnieuws",
-    "titel": "Lagere opening Wall Street voorzien",
-    "link": "https://www.beurs.nl/Nieuws/880450/Lagere-opening-Wall-Street-voorzien.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet, na een dag eerder nog op recordniveaus te zijn gesloten. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,3 procent in het rood.",
-    "published_at": "2026-10-07 13:04",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "Vogelzang nieuwe commissaris bij Adyen",
+    "link": "https://www.beurs.nl/Nieuws/880516/Vogelzang-nieuwe-commissaris-bij-Adyen.aspx",
+    "intro": "De aandeelhouders van Adyen hebben woensdag ingestemd met de benoeming van Chris Vogelzang als commissaris. Dit maakte de Amsterdamse betaalspecialist na afloop van een buitengewone vergadering bekend.",
+    "published_at": "2026-10-07 17:23",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "cd9486a2b3fc2ad06f634347e6ab9f82",
+    "id": "045cbc6fdeb633952a2cf03b189021f6",
     "categorie": "Beursnieuws",
-    "titel": "EU overweegt importlimiet Chinese hybrides",
-    "link": "https://www.beurs.nl/Nieuws/880449/EU-overweegt-importlimiet-Chinese-hybrides.aspx",
-    "intro": "De Europese Unie bereidt zogeheten vrijwaringsmaatregelen voor om de import van Chinese hybride auto's te beperken en zo het handelstekort met China te verkleinen. Dit meldde Bloomberg op basis van ingewijden.",
-    "published_at": "2026-10-07 13:01",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "NY FED: inflatieverwachting op hoogste niveau sinds medio 2023",
+    "link": "https://www.beurs.nl/Nieuws/880515/NY-FED-inflatieverwachting-op-hoogste-niveau-sinds-medio-2023.aspx",
+    "intro": "De inflatieverwachting voor de regio New York is in september uitgekomen op het hoogste niveau sinds mei 2023. Dit bleek woensdag uit cijfers van de New York Fed.",
+    "published_at": "2026-10-07 17:13",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   },
   {
-    "id": "f39ad83e450f7d49074086d6ac46d05e",
+    "id": "4cb529555acc2d3e811ae9b919134ce3",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke resultaten TSMC verwacht",
-    "link": "https://www.beurs.nl/Nieuws/880447/Beursblik-sterke-resultaten-TSMC-verwacht.aspx",
-    "intro": "TSMC gaat de recent verhoogde jaaroutlook vermoedelijk opnieuw overtreffen. Dit verwachten analisten van Citi Research, die het aandeel daarom vandaag op de 'Catalyst Watch' zetten en hun koopadvies herhaalden.",
-    "published_at": "2026-10-07 12:48",
-    "scraped_at": "2026-10-07T13:38:48.265437"
+    "titel": "Amerikaanse olievoorraden dalen",
+    "link": "https://www.beurs.nl/Nieuws/880511/Amerikaanse-olievoorraden-dalen.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week duidelijk gedaald, terwijl de benzine- en distillatenvoorraden op weekbasis stabiliseerden of licht toenamen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.In de week eindigend op 2 oktober daalden de voorraden ruwe olie met 3,2 miljoen vaten naar 424,1 miljoen vaten.",
+    "published_at": "2026-10-07 16:38",
+    "scraped_at": "2026-10-07T19:34:56.697282"
   }
 ]
