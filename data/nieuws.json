@@ -1,92 +1,74 @@
 [
   {
-    "id": "8f87e3653b13546d9c272d51f588727c",
+    "id": "9d076a0b786f834ea14ab54fa487af32",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/880365/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag zes van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-10-06 22:40",
-    "scraped_at": "2026-10-07T00:11:15.636226"
+    "titel": "Lagere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/880399/Lagere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een lagere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,3 procent in het rood. Dinsdag eindigde de hoofdgraadmeter nog 0,4 procent hoger op 1.128,33 punten, dicht onder de 'all time high' van 1.135,75 punten die gisteren gedurende de handelsdag in de boeken werd gezet.",
+    "published_at": "2026-10-07 07:59",
+    "scraped_at": "2026-10-07T06:13:08.192691"
   },
   {
-    "id": "5d623fd37bd70467117385d0a5c363ba",
+    "id": "9ecde9c59d67841bf4dd39219d44d0fa",
     "categorie": "Beursnieuws",
-    "titel": "Technologie weer aan de leiding op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/880364/Technologie-weer-aan-de-leiding-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag hoger gesloten met nieuwe records, gesteund door koerswinsten voor de grote technologiebedrijven in een hernieuwde AI-rally, nadat Nasdaq maandag al een record brak.",
-    "published_at": "2026-10-06 22:30",
-    "scraped_at": "2026-10-07T00:11:15.636226"
+    "titel": "Update: Nederland wil belang in ABN AMRO halveren",
+    "link": "https://www.beurs.nl/Nieuws/859978/Update-Nederland-wil-belang-in-ABN-AMRO-halveren.aspx",
+    "intro": "Nederland wil het belang in ABN AMRO verkleinen van 20,7 naar 10,5 procent. Dit maakte de stichting administratiekantoor beheer financiële instellingen (NLFI) woensdagochtend bekend.",
+    "published_at": "2026-10-07 07:51",
+    "scraped_at": "2026-10-07T06:13:08.192691"
   },
   {
-    "id": "4ce286a981a6b48103454c91f1d5fae5",
+    "id": "2e70d47de3561c3688a7022a67706d42",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs daalt toch niet",
-    "link": "https://www.beurs.nl/Nieuws/880362/Olieprijs-daalt-toch-niet.aspx",
-    "intro": "De olieprijs is woensdag vlak geëindigd in New York, na een daling eerder op de dag.",
-    "published_at": "2026-10-06 21:27",
-    "scraped_at": "2026-10-07T00:11:15.636226"
+    "titel": "Nederland wil belang in ABN AMRO halveren",
+    "link": "https://www.beurs.nl/Nieuws/880398/Nederland-wil-belang-in-ABN-AMRO-halveren.aspx",
+    "intro": "Nederland wil het belang in ABN AMRO verkleinen naar 10,5 procent. Dit maakte de stichting administratiekantoor beheer financiële instellingen (NLFI) woensdagochtend bekend.",
+    "published_at": "2026-10-07 07:43",
+    "scraped_at": "2026-10-07T06:13:08.192691"
   },
   {
-    "id": "2764603265e8ae408bd24784c100a6f0",
+    "id": "469f617be22d498bcb92bc5bd776e466",
     "categorie": "Beursnieuws",
-    "titel": "Techrally duwt Wall Street verder omhoog",
-    "link": "https://www.beurs.nl/Nieuws/880358/Techrally-duwt-Wall-Street-verder-omhoog.aspx",
-    "intro": "De Amerikaanse beurzen stonden dinsdag hoger, gesteund door koerswinsten voor IT-aandelen, nadat maandag de Nasdaq zijn recordstand al verder aanscherpte op een hernieuwde AI-rally.",
-    "published_at": "2026-10-06 20:23",
-    "scraped_at": "2026-10-07T00:11:15.636226"
+    "titel": "Rode koersen in Azië",
+    "link": "https://www.beurs.nl/Nieuws/880394/Rode-koersen-in-Azie.aspx",
+    "intro": "De Aziatische beurzen noteerden woensdag in het rood.",
+    "published_at": "2026-10-07 07:21",
+    "scraped_at": "2026-10-07T06:13:08.192691"
   },
   {
-    "id": "11a6897d37680d04e12da5157a4d1e03",
+    "id": "c50af1a6073ce75ae5fb97f9de0501df",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verlaagt koersdoel Magnum Ice licht",
-    "link": "https://www.beurs.nl/Nieuws/880355/Beursblik-Jefferies-verlaagt-koersdoel-Magnum-Ice-licht.aspx",
-    "intro": "Jefferies heeft dinsdag het koersdoel voor Magnum Ice licht verlaagd, van 15,60 naar 15,20 euro, terwijl het Houden advies bleef staan. Dit bleek uit een rapport van de Amerikaanse zakenbank.",
-    "published_at": "2026-10-06 19:06",
-    "scraped_at": "2026-10-07T00:11:15.636226"
+    "titel": "Europese beurzen openen lager",
+    "link": "https://www.beurs.nl/Nieuws/880390/Europese-beurzen-openen-lager.aspx",
+    "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet, in afwachting van de notulen van de laatste rentevergadering van de Amerikaanse Federal Reserve.",
+    "published_at": "2026-10-07 07:00",
+    "scraped_at": "2026-10-07T06:13:08.192691"
   },
   {
-    "id": "b597fd10e9e415b5b80b96d3f7560254",
+    "id": "b8260f80ba8011511b294635da19bce5",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen profiteren van lagere rentes",
-    "link": "https://www.beurs.nl/Nieuws/880352/Europese-beurzen-profiteren-van-lagere-rentes.aspx",
-    "intro": "De aandelenmarkten in Europa sloten dinsdag hoger, geholpen door een techrally en beursrecords op Wall Street, terwijl de olieprijs en de rentes daalden.",
-    "published_at": "2026-10-06 18:49",
-    "scraped_at": "2026-10-07T00:11:15.636226"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/880387/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 14 oktober 2026:",
+    "published_at": "2026-10-07 06:52",
+    "scraped_at": "2026-10-07T06:13:08.192691"
   },
   {
-    "id": "10255f4ab7b7a0b46f59241f19394738",
+    "id": "3b138bd6e2178950a88aed606c42461d",
     "categorie": "Beursnieuws",
-    "titel": "AEX scherpt record aan",
-    "link": "https://www.beurs.nl/Nieuws/880350/AEX-scherpt-record-aan.aspx",
-    "intro": "De Amsterdamse beurs wist dinsdag zijn record aan te scherpen, hoewel de winsten van eerder op de dag deels werden weggegeven.",
-    "published_at": "2026-10-06 17:53",
-    "scraped_at": "2026-10-07T00:11:15.636226"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/880388/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 14 oktober 2026:",
+    "published_at": "2026-10-07 06:52",
+    "scraped_at": "2026-10-07T06:13:08.192691"
   },
   {
-    "id": "43699a424c0e91aa18a549e988db1829",
-    "categorie": "Beursnieuws",
-    "titel": "SAP neemt Gents AI-bedrijf TechWolf over",
-    "link": "https://www.beurs.nl/Nieuws/880349/SAP-neemt-Gents-AI-bedrijf-TechWolf-over.aspx",
-    "intro": "SAP heeft overeenstemming bereikt met TechWolf over een overname. Dit maakte SAP dinsdagmiddag bekend.",
-    "published_at": "2026-10-06 17:42",
-    "scraped_at": "2026-10-07T00:11:15.636226"
-  },
-  {
-    "id": "25a63c1e5414aeaf389752226f7389cf",
-    "categorie": "IEX",
-    "titel": "Slotcall: nieuwe recordstand en laat dat cijferseizoen maar komen",
-    "link": "https://www.iex.nl/artikel/880335/Slotcall-nieuwe-recordstand-en-laat-dat-cijferseizoen-maar-komen.aspx",
-    "intro": "De AEX sluit zojuist 0,4% hoger op 1.128 punten en een beetje. De index zette vanochtend met 1.135,65 punten wel een nieuwe hoogste stand ooit neer, dus wederom geen reden tot klagen vandaag!",
-    "published_at": "2026-10-06 17:35",
-    "scraped_at": "2026-10-07T00:11:15.636226"
-  },
-  {
-    "id": "3393d1c715364eb96d34d059a1e463e0",
+    "id": "af9a0a0b138bcf8f669c7173fb4987fb",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/880338/Beursagenda-macro-economisch.aspx",
+    "link": "https://www.beurs.nl/Nieuws/880389/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 14 oktober 2026:",
-    "published_at": "2026-10-06 16:32",
-    "scraped_at": "2026-10-07T00:11:15.636226"
+    "published_at": "2026-10-07 06:52",
+    "scraped_at": "2026-10-07T06:13:08.192691"
   }
 ]
