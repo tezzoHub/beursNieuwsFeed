@@ -1,74 +1,92 @@
 [
   {
-    "id": "9d076a0b786f834ea14ab54fa487af32",
+    "id": "88a4140e7d552c7be232c72f3441817d",
     "categorie": "Beursnieuws",
-    "titel": "Lagere opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/880399/Lagere-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een lagere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,3 procent in het rood. Dinsdag eindigde de hoofdgraadmeter nog 0,4 procent hoger op 1.128,33 punten, dicht onder de 'all time high' van 1.135,75 punten die gisteren gedurende de handelsdag in de boeken werd gezet.",
-    "published_at": "2026-10-07 07:59",
-    "scraped_at": "2026-10-07T06:13:08.192691"
+    "titel": "Wall Street staat lagere opening te wachten",
+    "link": "https://www.beurs.nl/Nieuws/880465/Wall-Street-staat-lagere-opening-te-wachten.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet, na een dag eerder nog op recordniveaus te zijn gesloten. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,4 procent in het rood.",
+    "published_at": "2026-10-07 15:06",
+    "scraped_at": "2026-10-07T13:38:48.265437"
   },
   {
-    "id": "9ecde9c59d67841bf4dd39219d44d0fa",
+    "id": "3f6e9d4fa1d7dd3ea52d6a1c7e8224c1",
     "categorie": "Beursnieuws",
-    "titel": "Update: Nederland wil belang in ABN AMRO halveren",
-    "link": "https://www.beurs.nl/Nieuws/859978/Update-Nederland-wil-belang-in-ABN-AMRO-halveren.aspx",
-    "intro": "Nederland wil het belang in ABN AMRO verkleinen van 20,7 naar 10,5 procent. Dit maakte de stichting administratiekantoor beheer financiële instellingen (NLFI) woensdagochtend bekend.",
-    "published_at": "2026-10-07 07:51",
-    "scraped_at": "2026-10-07T06:13:08.192691"
+    "titel": "Video: obligatierentes zijn helemaal niet absurd hoog",
+    "link": "https://www.beurs.nl/Nieuws/880462/Video-obligatierentes-zijn-helemaal-niet-absurd-hoog.aspx",
+    "intro": "De obligatierendementen zijn \"waanzinnig\" aangetrokken, maar staan niet op een uitzonderlijk hoog niveau. Dit zei onafhankelijk beleggingsstrateeg Frank Vranken voor de camera van ABM Financial News in Brussel.",
+    "published_at": "2026-10-07 14:24",
+    "scraped_at": "2026-10-07T13:38:48.265437"
   },
   {
-    "id": "2e70d47de3561c3688a7022a67706d42",
+    "id": "ca553b8a5fdba6ab68a1f0408e2a6ff9",
     "categorie": "Beursnieuws",
-    "titel": "Nederland wil belang in ABN AMRO halveren",
-    "link": "https://www.beurs.nl/Nieuws/880398/Nederland-wil-belang-in-ABN-AMRO-halveren.aspx",
-    "intro": "Nederland wil het belang in ABN AMRO verkleinen naar 10,5 procent. Dit maakte de stichting administratiekantoor beheer financiële instellingen (NLFI) woensdagochtend bekend.",
-    "published_at": "2026-10-07 07:43",
-    "scraped_at": "2026-10-07T06:13:08.192691"
+    "titel": "Jefferies verhoogt koersdoel Aalberts",
+    "link": "https://www.beurs.nl/Nieuws/880461/Jefferies-verhoogt-koersdoel-Aalberts.aspx",
+    "intro": "Jefferies heeft woensdag het koersdoel voor Aalberts verhoogd van 50,00 naar 52,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist David Kerstens.",
+    "published_at": "2026-10-07 14:16",
+    "scraped_at": "2026-10-07T13:38:48.265437"
   },
   {
-    "id": "469f617be22d498bcb92bc5bd776e466",
+    "id": "d571e0e10d09dfd6e8f10b7d834616a6",
     "categorie": "Beursnieuws",
-    "titel": "Rode koersen in Azië",
-    "link": "https://www.beurs.nl/Nieuws/880394/Rode-koersen-in-Azie.aspx",
-    "intro": "De Aziatische beurzen noteerden woensdag in het rood.",
-    "published_at": "2026-10-07 07:21",
-    "scraped_at": "2026-10-07T06:13:08.192691"
+    "titel": "Halfgeleiders trekken Damrak omlaag",
+    "link": "https://www.beurs.nl/Nieuws/880459/Halfgeleiders-trekken-Damrak-omlaag.aspx",
+    "intro": "De koersverliezen op de Amsterdamse beurs liepen woensdag na het middaguur op, onder leiding van BESI, dat onderuitging na een negatief analistenrapport.",
+    "published_at": "2026-10-07 14:10",
+    "scraped_at": "2026-10-07T13:38:48.265437"
   },
   {
-    "id": "c50af1a6073ce75ae5fb97f9de0501df",
+    "id": "c4460b68c5b6dea808a2e9c402bbb4c0",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/880390/Europese-beurzen-openen-lager.aspx",
-    "intro": "De Europese beurzen gaan woensdag een lagere opening tegemoet, in afwachting van de notulen van de laatste rentevergadering van de Amerikaanse Federal Reserve.",
-    "published_at": "2026-10-07 07:00",
-    "scraped_at": "2026-10-07T06:13:08.192691"
+    "titel": "Obligatie: Nederland wil tot 3,5 miljard euro ophalen",
+    "link": "https://www.beurs.nl/Nieuws/880453/Obligatie-Nederland-wil-tot-35-miljard-euro-ophalen.aspx",
+    "intro": "Nederland wil volgende week 2,5 tot 3,5 miljard euro ophalen met de heropening van een vijfjarige lening. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
+    "published_at": "2026-10-07 13:19",
+    "scraped_at": "2026-10-07T13:38:48.265437"
   },
   {
-    "id": "b8260f80ba8011511b294635da19bce5",
+    "id": "959247f035f830c7c53e297941b09912",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/880387/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 14 oktober 2026:",
-    "published_at": "2026-10-07 06:52",
-    "scraped_at": "2026-10-07T06:13:08.192691"
+    "titel": "Constellation Brands profiteert van bierverkoop",
+    "link": "https://www.beurs.nl/Nieuws/880452/Constellation-Brands-profiteert-van-bierverkoop.aspx",
+    "intro": "Constellation Brands heeft in het tweede kwartaal van het gebroken boekjaar een hogere omzet en winst geboekt, doordat sterke bierverkopen in bars en restaurants de zwakkere verkopen in supermarkten en slijterijen compenseerden. Dit bleek dinsdagavond laat uit de kwartaalcijfers van het Amerikaanse drankenconcern, bekend van de biermerken Corona en Modelo.",
+    "published_at": "2026-10-07 13:16",
+    "scraped_at": "2026-10-07T13:38:48.265437"
   },
   {
-    "id": "3b138bd6e2178950a88aed606c42461d",
+    "id": "d9dc66ae720d4419ef20534f5e3dc336",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/880388/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 14 oktober 2026:",
-    "published_at": "2026-10-07 06:52",
-    "scraped_at": "2026-10-07T06:13:08.192691"
+    "titel": "Beursblik: AI-opbouw herstelt Duitse industrie",
+    "link": "https://www.beurs.nl/Nieuws/880451/Beursblik-AI-opbouw-herstelt-Duitse-industrie.aspx",
+    "intro": "De sterker dan verwachte groei van de industriële productie in Duitsland in augustus werd mede ondersteund door het segment digitalisering. Dat stelde KfW Research in een analistenrapport.",
+    "published_at": "2026-10-07 13:12",
+    "scraped_at": "2026-10-07T13:38:48.265437"
   },
   {
-    "id": "af9a0a0b138bcf8f669c7173fb4987fb",
+    "id": "ae0effa4bf51e768ede88fa477703d54",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/880389/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 14 oktober 2026:",
-    "published_at": "2026-10-07 06:52",
-    "scraped_at": "2026-10-07T06:13:08.192691"
+    "titel": "Lagere opening Wall Street voorzien",
+    "link": "https://www.beurs.nl/Nieuws/880450/Lagere-opening-Wall-Street-voorzien.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een lagere opening tegemoet, na een dag eerder nog op recordniveaus te zijn gesloten. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,3 procent in het rood.",
+    "published_at": "2026-10-07 13:04",
+    "scraped_at": "2026-10-07T13:38:48.265437"
+  },
+  {
+    "id": "cd9486a2b3fc2ad06f634347e6ab9f82",
+    "categorie": "Beursnieuws",
+    "titel": "EU overweegt importlimiet Chinese hybrides",
+    "link": "https://www.beurs.nl/Nieuws/880449/EU-overweegt-importlimiet-Chinese-hybrides.aspx",
+    "intro": "De Europese Unie bereidt zogeheten vrijwaringsmaatregelen voor om de import van Chinese hybride auto's te beperken en zo het handelstekort met China te verkleinen. Dit meldde Bloomberg op basis van ingewijden.",
+    "published_at": "2026-10-07 13:01",
+    "scraped_at": "2026-10-07T13:38:48.265437"
+  },
+  {
+    "id": "f39ad83e450f7d49074086d6ac46d05e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke resultaten TSMC verwacht",
+    "link": "https://www.beurs.nl/Nieuws/880447/Beursblik-sterke-resultaten-TSMC-verwacht.aspx",
+    "intro": "TSMC gaat de recent verhoogde jaaroutlook vermoedelijk opnieuw overtreffen. Dit verwachten analisten van Citi Research, die het aandeel daarom vandaag op de 'Catalyst Watch' zetten en hun koopadvies herhaalden.",
+    "published_at": "2026-10-07 12:48",
+    "scraped_at": "2026-10-07T13:38:48.265437"
   }
 ]
