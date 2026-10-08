@@ -1,92 +1,29 @@
 [
   {
-    "id": "ffba7822120e812f29114e67dc5b4d22",
+    "id": "907f2f5d5c10c18015fec41779fd2304",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/880547/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag vijf van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-10-07 23:23",
-    "scraped_at": "2026-10-07T23:52:46.464884"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/880563/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 15 oktober 2026:",
+    "published_at": "2026-10-08 06:50",
+    "scraped_at": "2026-10-08T05:01:54.423881"
   },
   {
-    "id": "7fd562a9f07b279795c02952fd4b2a44",
+    "id": "0cb679431ea86f7b84ed4caa93549ba7",
     "categorie": "Beursnieuws",
-    "titel": "Levi's verhoogt winstprognose",
-    "link": "https://www.beurs.nl/Nieuws/880542/Levis-verhoogt-winstprognose.aspx",
-    "intro": "Levi Strauss  Co. heeft in het derde kwartaal van 2026 een omzetstijging van 4 procent geboekt, waarmee de netto-omzet uitkwam op 1,6 miljard dollar. Tegelijkertijd is de winstprognose verhoogd. Dat maakte de kledingreus woensdagavond nabeurs bekend.",
-    "published_at": "2026-10-07 22:58",
-    "scraped_at": "2026-10-07T23:52:46.464884"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/880561/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 15 oktober 2026:",
+    "published_at": "2026-10-08 06:49",
+    "scraped_at": "2026-10-08T05:01:54.423881"
   },
   {
-    "id": "5a5e05d91a7c46629d9d6c5b31d16eba",
+    "id": "a13e386016803e0537f2b79c2e459e8d",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit in het rood na nieuwe kans op renteverhoging",
-    "link": "https://www.beurs.nl/Nieuws/880541/Wall-Street-sluit-in-het-rood-na-nieuwe-kans-op-renteverhoging.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag onder druk van de gestegen obligatierentes en olieprijzen in het rood gesloten. Een gunstig verlopen veiling van 10-jarige obligaties zorgde slechts tijdelijk voor enige opluchting.",
-    "published_at": "2026-10-07 22:15",
-    "scraped_at": "2026-10-07T23:52:46.464884"
-  },
-  {
-    "id": "6ee91cd15c3ed8d17d2ca9fc891d2f20",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen dalen na IEA-besluit over versnelde vrijgave reserves",
-    "link": "https://www.beurs.nl/Nieuws/880538/Olieprijzen-dalen-na-IEA-besluit-over-versnelde-vrijgave-reserves.aspx",
-    "intro": "De Amerikaanse contracten voor ruwe olie zijn woensdag gedaald, nadat het Internationaal Energieagentschap (IEA) bekendmaakte dat zijn lidstaten de vrijgave van olievoorraden zo snel mogelijk zullen afronden.",
-    "published_at": "2026-10-07 21:16",
-    "scraped_at": "2026-10-07T23:52:46.464884"
-  },
-  {
-    "id": "69899993b8a74d1651f2fec5dac5505f",
-    "categorie": "Beursnieuws",
-    "titel": "Fed zag renteverhoging als verzekering tegen inflatie",
-    "link": "https://www.beurs.nl/Nieuws/880535/Fed-zag-renteverhoging-als-verzekering-tegen-inflatie.aspx",
-    "intro": "De renteverhoging van september werd door veel functionarissen van de Federal Reserve als noodzakelijk beschouwd voor het geval dat de inflatie hardnekkig zou blijven. Dat bleek woensdag uit gepubliceerde notulen van de vorige rentevergadering van de Fed.",
-    "published_at": "2026-10-07 20:44",
-    "scraped_at": "2026-10-07T23:52:46.464884"
-  },
-  {
-    "id": "dffcb0e01db68e9d1b6bd1328335888e",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street op verlies ondanks wat opluchting na veiling",
-    "link": "https://www.beurs.nl/Nieuws/880534/Wall-Street-op-verlies-ondanks-wat-opluchting-na-veiling.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag gedaald, onder druk van de gestegen obligatierentevoeten en olieprijzen. Wel zorgde een gunstig verlopen veiling van 10-jarige obligaties voor wat opluchting.",
-    "published_at": "2026-10-07 20:20",
-    "scraped_at": "2026-10-07T23:52:46.464884"
-  },
-  {
-    "id": "901745804af4aef40954885cf8917911",
-    "categorie": "Beursnieuws",
-    "titel": "Rente, olie en begrotingszorgen drukken Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/880526/Rente-olie-en-begrotingszorgen-drukken-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen sloten woensdag lager, terwijl de Franse staatsleningen de aandacht bleven opeisen. Ook de oplopende olieprijzen deden het sentiment geen goed.",
-    "published_at": "2026-10-07 18:58",
-    "scraped_at": "2026-10-07T23:52:46.464884"
-  },
-  {
-    "id": "e81b6da77f0be0b82d2c06a73cd2c1bb",
-    "categorie": "Beursnieuws",
-    "titel": "Twijfel over tech-optimisme duwt AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/880524/Twijfel-over-tech-optimisme-duwt-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs is woensdag lager gesloten, nadat het optimisme over AI-aandelen weer net zo snel verdween als het eerder deze week terugkeerde. BESI leidde de dalers omlaag na negatieve analistenrapporten.",
-    "published_at": "2026-10-07 18:03",
-    "scraped_at": "2026-10-07T23:52:46.464884"
-  },
-  {
-    "id": "62e746ab71c34a46c826e0e1abe87e61",
-    "categorie": "Beursnieuws",
-    "titel": "Euronext meldt veel hogere volumes",
-    "link": "https://www.beurs.nl/Nieuws/880523/Euronext-meldt-veel-hogere-volumes.aspx",
-    "intro": "De handelsvolumes van contante effecten op Euronext zijn in september flink gestegen, na de daling in augustus. Dit maakte de Europese beursuitbater woensdagavond bekend.",
-    "published_at": "2026-10-07 18:01",
-    "scraped_at": "2026-10-07T23:52:46.464884"
-  },
-  {
-    "id": "3780c4f339ba3097dd1c47299b2823dc",
-    "categorie": "IEX",
-    "titel": "Slotcall: AEX eindigt lager en met Besi gaat het nu wel erg hard",
-    "link": "https://www.iex.nl/artikel/880514/Slotcall-AEX-eindigt-lager-en-met-Besi-gaat-het-nu-wel-erg-hard.aspx",
-    "intro": "Het mocht vandaag niet zo zijn voor de AEX. De index begon al in het rood, deed gedurende de ochtend nog een poging om de schade te herstellen, maar zakte daarna steeds verder weg.",
-    "published_at": "2026-10-07 17:35",
-    "scraped_at": "2026-10-07T23:52:46.464884"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/880562/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 15 oktober 2026:",
+    "published_at": "2026-10-08 06:49",
+    "scraped_at": "2026-10-08T05:01:54.423881"
   }
 ]
