@@ -1,12 +1,57 @@
 [
   {
+    "id": "ed37e6ff34d4f4906cbf474aba56471f",
+    "categorie": "Beursnieuws",
+    "titel": "SpaceX wil draadloos spectrum aankopen voor Starlink",
+    "link": "https://www.beurs.nl/Nieuws/880734/SpaceX-wil-draadloos-spectrum-aankopen-voor-Starlink.aspx",
+    "intro": "SpaceX is van plan een aanzienlijk deel van het draadloze spectrum in de Verenigde Staten aan te kopen om zijn Starlink-dienst te versterken. Dit meldde het bedrijf van Elon Musk donderdagavond.",
+    "published_at": "2026-10-08 23:20",
+    "scraped_at": "2026-10-08T23:40:11.802102"
+  },
+  {
+    "id": "5ceb9e143dcb80af07f2a70d459ea02f",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Coca-Cola onderzoekt opnieuw verkoop van Costa Coffee",
+    "link": "https://www.beurs.nl/Nieuws/880731/Media-Coca-Cola-onderzoekt-opnieuw-verkoop-van-Costa-Coffee.aspx",
+    "intro": "Coca-Cola overweegt opnieuw om dochterbedrijf Costa Coffee te verkopen. Dit meldde Semafor donderdag op basis van bronnen.",
+    "published_at": "2026-10-08 22:40",
+    "scraped_at": "2026-10-08T23:40:11.802102"
+  },
+  {
+    "id": "6f424750cb8c13344752e7b49b00d75e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/880730/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag vijf van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam en drie lager. De grootste koersuitslagen waren voor ASML en RELX.",
+    "published_at": "2026-10-08 22:15",
+    "scraped_at": "2026-10-08T23:40:11.802102"
+  },
+  {
+    "id": "5f29985709db4be946271aa4c063fe9c",
+    "categorie": "Beursnieuws",
+    "titel": "Chipaandelen in de verkoop op verdeeld Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/880729/Chipaandelen-in-de-verkoop-op-verdeeld-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag verdeeld geëindigd. De aandelen van chipbedrijven gingen in de uitverkoop, waardoor de Nasdaq flink onder druk stond. Verder stegen de olieprijzen flink, maar daalden de obligatierentes.",
+    "published_at": "2026-10-08 22:12",
+    "scraped_at": "2026-10-08T23:40:11.802102"
+  },
+  {
+    "id": "d9033cceeac99591983afd6079e4c01d",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen stijgen flink",
+    "link": "https://www.beurs.nl/Nieuws/880722/Olieprijzen-stijgen-flink.aspx",
+    "intro": "De olieprijzen zijn donderdag flink gestegen, hoewel de VS aangaven dat ze Iran voorlopig niet zullen aanvallen. Intussen bereikt de tropische storm Isaias naar verwachting vrijdagavond als orkaan de Amerikaanse Golfkust, waardoor grote olieproducenten in de regio hun werkzaamheden voorlopig stilleggen.",
+    "published_at": "2026-10-08 21:01",
+    "scraped_at": "2026-10-08T23:40:11.802102"
+  },
+  {
     "id": "3d54891035b8ff821cdfab84d131c8fa",
     "categorie": "Beursnieuws",
     "titel": "VS zullen Iran voorlopig niet aanvallen",
     "link": "https://www.beurs.nl/Nieuws/880706/VS-zullen-Iran-voorlopig-niet-aanvallen.aspx",
     "intro": "De Verenigde Staten zullen Iran in de komende weken niet aanvallen. Dit stelde president Donald Trump donderdag op Truth Social.",
     "published_at": "2026-10-08 19:51",
-    "scraped_at": "2026-10-08T18:55:10.200004"
+    "scraped_at": "2026-10-08T23:40:11.802102"
   },
   {
     "id": "cc2c953d6f46f94acf55a13c9cf34912",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/880704/Wall-Street-koerst-lager.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag lager, terwijl de olieprijzen opveerden en chipaandelen in de uitverkoop gingen.",
     "published_at": "2026-10-08 19:37",
-    "scraped_at": "2026-10-08T18:55:10.200004"
+    "scraped_at": "2026-10-08T23:40:11.802102"
   },
   {
     "id": "2a54e20dcc8d193663c24afa049c1472",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/880701/Europese-beurzen-onderuit-terwijl-olieprijzen-weer-hard-stijgen.aspx",
     "intro": "De Europese beurzen zijn donderdag lager geëindigd, na een slechte dag voor veel halfgeleideraandelen, ondanks een sterke update van Samsung en omzetcijfers van TSMC. Intussen veerden de olieprijzen weer sterk op en traden de geopolitieke zorgen weer op de voorgrond.",
     "published_at": "2026-10-08 18:45",
-    "scraped_at": "2026-10-08T18:55:10.200004"
+    "scraped_at": "2026-10-08T23:40:11.802102"
   },
   {
     "id": "03e734fc1c555af873c44eff9f7ec049",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/880696/Shell-en-chippers-helpen-AEX-in-de-plus.aspx",
     "intro": "De beurs in Amsterdam is donderdag met winst gesloten. Zwaargewicht Shell had een positieve impact. Daarnaast toonden de chippers vanmiddag een herstel.",
     "published_at": "2026-10-08 17:53",
-    "scraped_at": "2026-10-08T18:55:10.200004"
+    "scraped_at": "2026-10-08T23:40:11.802102"
   },
   {
     "id": "9175f05a88e77631b63bf68a9375c81c",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/880693/Aegon-mag-naar-de-VS.aspx",
     "intro": "De aandeelhouders van Aegon hebben tijdens een buitengewone vergadering ingestemd met de verhuizing van de verzekeraar naar de Verenigde Staten. Dit maakte Aegon donderdag bekend na afloop van de bijeenkomst.",
     "published_at": "2026-10-08 17:27",
-    "scraped_at": "2026-10-08T18:55:10.200004"
-  },
-  {
-    "id": "2a63ba1d337aa1babd5bb16ddeea56e0",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Akzo en Axalta paaien Europese toezichthouder",
-    "link": "https://www.beurs.nl/Nieuws/880692/Media-Akzo-en-Axalta-paaien-Europese-toezichthouder.aspx",
-    "intro": "AkzoNobel en Axalta willen de Europese toezichthouder voorstellen om de activiteiten van Axalta op het vlak van autoschadelak en -coatings te verkopen om zo goedkeuring te krijgen voor de beoogde fusie van de twee verfgiganten. Dit schreef persbureau Reuters donderdagmiddag op basis van bronnen.",
-    "published_at": "2026-10-08 17:15",
-    "scraped_at": "2026-10-08T18:55:10.200004"
-  },
-  {
-    "id": "498d8d6c3b36ed4fcceb841f305bf854",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/880690/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 16 oktober 2026:",
-    "published_at": "2026-10-08 16:29",
-    "scraped_at": "2026-10-08T18:55:10.200004"
-  },
-  {
-    "id": "a51c0578a7df49eeed8695069c6b618f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/880688/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 16 oktober 2026:",
-    "published_at": "2026-10-08 16:28",
-    "scraped_at": "2026-10-08T18:55:10.200004"
-  },
-  {
-    "id": "4fb8fee2711c359a1e4c2ff4628138fc",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/880689/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 16 oktober 2026:",
-    "published_at": "2026-10-08 16:28",
-    "scraped_at": "2026-10-08T18:55:10.200004"
-  },
-  {
-    "id": "966fe0f56b8b1eafaa5454402582fc2d",
-    "categorie": "Beursnieuws",
-    "titel": "Groothandelsvoorraden VS stijgen licht",
-    "link": "https://www.beurs.nl/Nieuws/880685/Groothandelsvoorraden-VS-stijgen-licht.aspx",
-    "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in augustus licht gestegen. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-10-08 16:09",
-    "scraped_at": "2026-10-08T18:55:10.200004"
+    "scraped_at": "2026-10-08T23:40:11.802102"
   }
 ]
