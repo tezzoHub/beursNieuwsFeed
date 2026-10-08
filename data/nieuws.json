@@ -1,29 +1,92 @@
 [
   {
-    "id": "907f2f5d5c10c18015fec41779fd2304",
+    "id": "e96ae3e38398f584d9188a6bcf3fe0fc",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/880563/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 15 oktober 2026:",
-    "published_at": "2026-10-08 06:50",
-    "scraped_at": "2026-10-08T05:01:54.423881"
+    "titel": "Beursupdate: AEX blijft in het rood",
+    "link": "https://www.beurs.nl/Nieuws/880660/Beursupdate-AEX-blijft-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagmiddag in het rood. Kort voor de klok van twee uur verloor de AEX 0,2 procent op 1.115,47 punten.",
+    "published_at": "2026-10-08 13:47",
+    "scraped_at": "2026-10-08T12:07:34.736681"
   },
   {
-    "id": "0cb679431ea86f7b84ed4caa93549ba7",
+    "id": "0ad50649ca50bb9d34b664898c5ff7d9",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/880561/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 15 oktober 2026:",
-    "published_at": "2026-10-08 06:49",
-    "scraped_at": "2026-10-08T05:01:54.423881"
+    "titel": "Futures Wall Street wijzen op lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/880653/Futures-Wall-Street-wijzen-op-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen hebben donderdag opnieuw een lagere opening voor de boeg, terwijl de olieprijzen weer stegen na een nieuwe aanval op een tanker in de Perzische Golf, wat zorgde voor een stijging van de rentes op staatsobligaties wereldwijd.",
+    "published_at": "2026-10-08 12:48",
+    "scraped_at": "2026-10-08T12:07:34.736681"
   },
   {
-    "id": "a13e386016803e0537f2b79c2e459e8d",
+    "id": "6f4163a132f2c53342e519ca3cda7a32",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/880562/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 15 oktober 2026:",
-    "published_at": "2026-10-08 06:49",
-    "scraped_at": "2026-10-08T05:01:54.423881"
+    "titel": "UBS: Prosus maakt vorderingen met Just Eat",
+    "link": "https://www.beurs.nl/Nieuws/880652/UBS-Prosus-maakt-vorderingen-met-Just-Eat.aspx",
+    "intro": "De terugkeer naar groei bij Just Eat is volgens UBS een duidelijk positief bericht, dat erop wijst dat Prosus goede vorderingen boekt met het herstel van Just Eat Takeaway en de bescherming van iFood.",
+    "published_at": "2026-10-08 12:43",
+    "scraped_at": "2026-10-08T12:07:34.736681"
+  },
+  {
+    "id": "2a9fb586783152939219943e424b24f4",
+    "categorie": "Beursnieuws",
+    "titel": "PepsiCo verlaagt winstverwachting fors",
+    "link": "https://www.beurs.nl/Nieuws/880648/PepsiCo-verlaagt-winstverwachting-fors.aspx",
+    "intro": "PepsiCo heeft in het derde kwartaal van dit jaar een hogere omzet dan verwacht geboekt, maar het Amerikaanse concern verlaagde tegelijkertijd de winstverwachting voor heel 2026 fors. Dit bleek donderdag uit een rapport van de frisdrankgigant.",
+    "published_at": "2026-10-08 12:26",
+    "scraped_at": "2026-10-08T12:07:34.736681"
+  },
+  {
+    "id": "7f69038aba15f08679ee102bccfd35c2",
+    "categorie": "Beursnieuws",
+    "titel": "Perpetual kleiner in Signify",
+    "link": "https://www.beurs.nl/Nieuws/880649/Perpetual-kleiner-in-Signify.aspx",
+    "intro": "Perpetual Limited heeft een kleiner belang in Signify gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 6 oktober 2026.",
+    "published_at": "2026-10-08 12:25",
+    "scraped_at": "2026-10-08T12:07:34.736681"
+  },
+  {
+    "id": "1a65ac7d564a302e858ca38f5e8d95dd",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere olieprijs duwt Europese beurzen omlaag",
+    "link": "https://www.beurs.nl/Nieuws/880644/Hogere-olieprijs-duwt-Europese-beurzen-omlaag.aspx",
+    "intro": "De Europese beurzen noteerden donderdag rond het middaguur stevig lager, nadat een hogere olieprijs en nieuwe onrust rond AI het sentiment drukten.",
+    "published_at": "2026-10-08 12:11",
+    "scraped_at": "2026-10-08T12:07:34.736681"
+  },
+  {
+    "id": "32947a47810e43d1ba9d41bbeecb8f4f",
+    "categorie": "Beursnieuws",
+    "titel": "Uitbreiding van Vopak in Port Botany krijgt steun van de Australische overheid",
+    "link": "https://www.beurs.nl/Nieuws/880634/Uitbreiding-van-Vopak-in-Port-Botany-krijgt-steun-van-de-Australische-overheid.aspx",
+    "intro": "Vopak Terminals Australia heeft de steun gekregen van de regering van New South Wales voor de uitbreiding van haar infrastructuur in Port Botany. Dit meldde het tankopslagbedrijf in een persbericht.",
+    "published_at": "2026-10-08 12:00",
+    "scraped_at": "2026-10-08T12:07:34.736681"
+  },
+  {
+    "id": "ec1da06ce62b7ea1121faf1454227f0d",
+    "categorie": "Beursnieuws",
+    "titel": "Waller: Fed zal rente verder verhogen",
+    "link": "https://www.beurs.nl/Nieuws/880628/Waller-Fed-zal-rente-verder-verhogen.aspx",
+    "intro": "De Amerikaanse Federal Reserve zal de rente verder verhogen om de inflatie terug te dringen naar de doelstelling van 2 procent, mits de macrocijfers uitvallen zoals verwacht. Dit zei bestuurder Christopher Waller van de Fed donderdag tijdens een toespraak in het Turkse Istanboel.",
+    "published_at": "2026-10-08 11:23",
+    "scraped_at": "2026-10-08T12:07:34.736681"
+  },
+  {
+    "id": "d22f1287208fd4d5d5ab3992df505142",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel ING",
+    "link": "https://www.beurs.nl/Nieuws/880622/UBS-verhoogt-koersdoel-ING.aspx",
+    "intro": "UBS heeft het koersdoel voor ING verhoogd van 34,50 naar 38,00 euro, met behoud van het koopadvies, in aanloop naar de kwartaalcijfers, waar de bank kan verrassen met verder stijgende rentebaten. Dit bleek donderdag uit een analistenrapport van UBS.",
+    "published_at": "2026-10-08 10:45",
+    "scraped_at": "2026-10-08T12:07:34.736681"
+  },
+  {
+    "id": "bdfa56e5da29de62020b06273bdab465",
+    "categorie": "Beursnieuws",
+    "titel": "Banken en chips lager in rode AEX",
+    "link": "https://www.beurs.nl/Nieuws/880619/Banken-en-chips-lager-in-rode-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend opnieuw lager, mede door verliezen bij de financials en de halfgeleiders. De databedrijven en Shell gingen aan kop.",
+    "published_at": "2026-10-08 10:44",
+    "scraped_at": "2026-10-08T12:07:34.736681"
   }
 ]
