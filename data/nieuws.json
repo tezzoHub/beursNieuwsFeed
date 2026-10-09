@@ -1,12 +1,84 @@
 [
   {
+    "id": "a72b5fc9e722e943784ca1cba44de72a",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/880878/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam en drie lager.",
+    "published_at": "2026-10-09 22:20",
+    "scraped_at": "2026-10-09T21:47:16.826518"
+  },
+  {
+    "id": "3ba9c4e95efb12533dad5096dc1bedc0",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit volatiele week hoger af",
+    "link": "https://www.beurs.nl/Nieuws/880877/Wall-Street-sluit-volatiele-week-hoger-af.aspx",
+    "intro": "De Amerikaanse beurzen zijn vrijdag hoger gesloten, na een volatiele week die werd gekenmerkt door verder gestegen rentes op staatsobligaties, schommelende olieprijzen en koersverliezen bij aandelen in de kunstmatige-intelligentiesector.",
+    "published_at": "2026-10-09 22:14",
+    "scraped_at": "2026-10-09T21:47:16.826518"
+  },
+  {
+    "id": "44a130a6c300995ba623a669ed4d6fa7",
+    "categorie": "Beursnieuws",
+    "titel": "Trump meldt dieseldeal met Poetin",
+    "link": "https://www.beurs.nl/Nieuws/880876/Trump-meldt-dieseldeal-met-Poetin.aspx",
+    "intro": "President Donald Trump heeft vrijdag via Truth Social een akkoord met de Russische president Vladimir Poetin aangekondigd over de levering van grote hoeveelheden dieselbrandstof aan de Amerikaanse en wereldwijde markt.",
+    "published_at": "2026-10-09 21:03",
+    "scraped_at": "2026-10-09T21:47:16.826518"
+  },
+  {
+    "id": "e7d3e6d4b16571c7ffdd5a44e33b2f4e",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen nagenoeg onveranderd het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/880875/Olieprijzen-nagenoeg-onveranderd-het-weekend-in.aspx",
+    "intro": "De olieprijzen zijn vrijdag dicht bij huis gebleven, waarmee een onrustige week werd afgesloten waarin de veelal wisselende headlines over de situatie in het Midden-Oosten elkaar snel opvolgden.",
+    "published_at": "2026-10-09 20:58",
+    "scraped_at": "2026-10-09T21:47:16.826518"
+  },
+  {
+    "id": "d5b3b5b437135a8c8d2163a51ff20675",
+    "categorie": "Beursnieuws",
+    "titel": "FDA waarschuwt voor Philips-echoapparaat",
+    "link": "https://www.beurs.nl/Nieuws/880874/FDA-waarschuwt-voor-Philips-echoapparaat.aspx",
+    "intro": "De Amerikaanse toezichthouder FDA heeft vrijdag een waarschuwing afgegeven voor een mogelijk risicovol probleem met de Lumify-echoapparaten van Philips Ultrasound. Philips heeft getroffen klanten een brief gestuurd met het advies de gebruiksinstructies voor alle Lumify-systemen te actualiseren.",
+    "published_at": "2026-10-09 20:35",
+    "scraped_at": "2026-10-09T21:47:16.826518"
+  },
+  {
+    "id": "f678b5c5dfbf045b437c47f8d4b7b540",
+    "categorie": "Beursnieuws",
+    "titel": "Schuldachterstand VS grootst sinds kredietcrisis",
+    "link": "https://www.beurs.nl/Nieuws/880873/Schuldachterstand-VS-grootst-sinds-kredietcrisis.aspx",
+    "intro": "Het aandeel Amerikaanse gezinnen dat achterstallig is met betalingen op leningen is gestegen naar het hoogste niveau sinds 2010, toen het land nog herstelde van de kredietcrisis van 2007-2009. Dit bleek vrijdag uit de driejaarlijkse Survey of Consumer Finances van de Federal Reserve.",
+    "published_at": "2026-10-09 20:19",
+    "scraped_at": "2026-10-09T21:47:16.826518"
+  },
+  {
+    "id": "926605be33161d0f5545b8bcb631cfb9",
+    "categorie": "Beursnieuws",
+    "titel": "Telecomaandelen onderuit op groen Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/880872/Telecomaandelen-onderuit-op-groen-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen noteerden vrijdag hoger. Beleggers lijken opnieuw in te zetten op een sterk cijferseizoen voor bedrijven, ondanks aanhoudende zorgen over de hoge energieprijzen en de oplopende rentes op staatsobligaties.",
+    "published_at": "2026-10-09 19:48",
+    "scraped_at": "2026-10-09T21:47:16.826518"
+  },
+  {
+    "id": "78490e2a8664a96fef5b1b9cad003192",
+    "categorie": "Beursnieuws",
+    "titel": "Brussel bestempelt AMG-projecten strategisch",
+    "link": "https://www.beurs.nl/Nieuws/880871/Brussel-bestempelt-AMG-projecten-strategisch.aspx",
+    "intro": "AMG Critical Materials heeft erkenning gekregen van de Europese Commissie voor twee activiteiten van dochterbedrijf AMG Lithium. Dit maakte het in Amsterdam genoteerde bedrijf vrijdag bekend.",
+    "published_at": "2026-10-09 19:10",
+    "scraped_at": "2026-10-09T21:47:16.826518"
+  },
+  {
     "id": "b249eb1f8f898297f31d883dc5eb452c",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten wisselvallige week hoger af",
     "link": "https://www.beurs.nl/Nieuws/880869/Europese-beurzen-sluiten-wisselvallige-week-hoger-af.aspx",
     "intro": "De Europese beurzen zijn vrijdag hoger gesloten, waarmee er een positief einde kwam aan een moeizame week die wederom in het teken stond van de hoge rentes en aanhoudend hoge energieprijzen.",
     "published_at": "2026-10-09 18:41",
-    "scraped_at": "2026-10-09T17:12:25.987756"
+    "scraped_at": "2026-10-09T21:47:16.826518"
   },
   {
     "id": "b62c88a88513b63d619ecde49ee9e1fe",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/880867/AEX-met-vers-record-het-weekend-in.aspx",
     "intro": "De Amsterdamse beurs is vrijdag geëindigd met een nieuw record op de borden, hoewel er vanmiddag wel wat gas terug werd genomen. Op weekbasis won de hoofdgraadmeter meer dan een procent.",
     "published_at": "2026-10-09 17:51",
-    "scraped_at": "2026-10-09T17:12:25.987756"
-  },
-  {
-    "id": "39ea892be122202144b26335c9f8acde",
-    "categorie": "IEX",
-    "titel": "Slotcall: AEX scherpt recordstand aan ondanks koersvalletje ASML",
-    "link": "https://www.iex.nl/artikel/880865/Slotcall-AEX-scherpt-recordstand-aan-ondanks-koersvalletje-ASML.aspx",
-    "intro": "Yes! We gaan het weekend in met een kakelvers all-time high. Uiteindelijk sluiten we alsnog 0,9% hoger op 1.130,95 punten. Fijn weekend en tot maandag.",
-    "published_at": "2026-10-09 17:35",
-    "scraped_at": "2026-10-09T17:12:25.987756"
-  },
-  {
-    "id": "2ff36948ff09edc61a9450aa5189a800",
-    "categorie": "Beursnieuws",
-    "titel": "Trump wil Fed-bestuurder Cook via onderzoekscommissie aanpakken",
-    "link": "https://www.beurs.nl/Nieuws/880858/Trump-wil-Fed-bestuurder-Cook-via-onderzoekscommissie-aanpakken.aspx",
-    "intro": "President Donald Trump heeft een onderzoekscommissie ingesteld naar vermeende valse verklaringen van Federal Reserve-gouverneur Lisa Cook over een of meerdere hypotheekdocumenten. Dit maakte het Witte Huis bekend via een presidentieel memorandum.",
-    "published_at": "2026-10-09 16:45",
-    "scraped_at": "2026-10-09T17:12:25.987756"
-  },
-  {
-    "id": "f03c08e3dc1afe4c922b20e620f46268",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/880855/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 19 oktober 2026:",
-    "published_at": "2026-10-09 16:34",
-    "scraped_at": "2026-10-09T17:12:25.987756"
-  },
-  {
-    "id": "02ce04206353b415e690c03cf5bf65df",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/880856/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 19 oktober 2026:",
-    "published_at": "2026-10-09 16:34",
-    "scraped_at": "2026-10-09T17:12:25.987756"
-  },
-  {
-    "id": "629121d79bcce4e18a0d78facc668c46",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/880854/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 19 oktober 2026:",
-    "published_at": "2026-10-09 16:33",
-    "scraped_at": "2026-10-09T17:12:25.987756"
-  },
-  {
-    "id": "d0ea20c83a07ce383ead5e747b6d9bc9",
-    "categorie": "Beursnieuws",
-    "titel": "Consumentenvertrouwen VS verder afgenomen",
-    "link": "https://www.beurs.nl/Nieuws/880851/Consumentenvertrouwen-VS-verder-afgenomen.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in de eerste dagen van oktober verder afgenomen. Dit bleek vrijdag uit voorlopige cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-10-09 16:08",
-    "scraped_at": "2026-10-09T17:12:25.987756"
-  },
-  {
-    "id": "db84d5db7da6756bea01bb5de40c19b5",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verlaagt koersdoel Arcadis",
-    "link": "https://www.beurs.nl/Nieuws/880847/Jefferies-verlaagt-koersdoel-Arcadis.aspx",
-    "intro": "Jefferies heeft het koersdoel voor Arcadis verlaagd van 55,00 naar 50,00 euro, maar met handhaving van het koopadvies. Dit bleek vrijdag uit een rapport van analist David Kerstens.",
-    "published_at": "2026-10-09 15:41",
-    "scraped_at": "2026-10-09T17:12:25.987756"
-  },
-  {
-    "id": "97f610ff663796f901ac7d1b982dc133",
-    "categorie": "Beursnieuws",
-    "titel": "Verzekeraar Humana wordt hoger aangeslagen door Amerikaanse overheid",
-    "link": "https://www.beurs.nl/Nieuws/880845/Verzekeraar-Humana-wordt-hoger-aangeslagen-door-Amerikaanse-overheid.aspx",
-    "intro": "Verzekeraar Humana heeft voor 2027 een betere beoordeling gekregen van de Amerikaanse overheid en dat zorgde vrijdag voor een flinke koerssprong van het aandeel in de voorbeurshandel op Wall Street.",
-    "published_at": "2026-10-09 15:15",
-    "scraped_at": "2026-10-09T17:12:25.987756"
+    "scraped_at": "2026-10-09T21:47:16.826518"
   }
 ]
