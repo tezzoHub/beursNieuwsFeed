@@ -1,92 +1,92 @@
 [
   {
-    "id": "a9a072e63f0e85a51e24e6eed90a4812",
+    "id": "b249eb1f8f898297f31d883dc5eb452c",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen herstellen richting weekend",
-    "link": "https://www.beurs.nl/Nieuws/880813/Europese-beurzen-herstellen-richting-weekend.aspx",
-    "intro": "De aandelenmarkten in Europa noteerden vrijdag rond het middaguur hoger, na een moeizame donderdag, toen de olieprijzen stegen en veel techaandelen onder druk stonden.",
-    "published_at": "2026-10-09 12:13",
-    "scraped_at": "2026-10-09T10:45:17.051548"
+    "titel": "Europese beurzen sluiten wisselvallige week hoger af",
+    "link": "https://www.beurs.nl/Nieuws/880869/Europese-beurzen-sluiten-wisselvallige-week-hoger-af.aspx",
+    "intro": "De Europese beurzen zijn vrijdag hoger gesloten, waarmee er een positief einde kwam aan een moeizame week die wederom in het teken stond van de hoge rentes en aanhoudend hoge energieprijzen.",
+    "published_at": "2026-10-09 18:41",
+    "scraped_at": "2026-10-09T17:12:25.987756"
   },
   {
-    "id": "e498982c2a90ff3432b266d0354cfb51",
+    "id": "b62c88a88513b63d619ecde49ee9e1fe",
     "categorie": "Beursnieuws",
-    "titel": "ArcelorMittal uitblinker in groene AEX",
-    "link": "https://www.beurs.nl/Nieuws/880796/ArcelorMittal-uitblinker-in-groene-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde vrijdagochtend in het groen, geholpen door een koopadvies voor ArcelorMittal en koerswinsten voor de databedrijven.",
-    "published_at": "2026-10-09 10:36",
-    "scraped_at": "2026-10-09T10:45:17.051548"
+    "titel": "AEX met vers record het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/880867/AEX-met-vers-record-het-weekend-in.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag geëindigd met een nieuw record op de borden, hoewel er vanmiddag wel wat gas terug werd genomen. Op weekbasis won de hoofdgraadmeter meer dan een procent.",
+    "published_at": "2026-10-09 17:51",
+    "scraped_at": "2026-10-09T17:12:25.987756"
   },
   {
-    "id": "0d819096ac98fc75c0cff67c600acc18",
+    "id": "39ea892be122202144b26335c9f8acde",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX scherpt recordstand aan ondanks koersvalletje ASML",
+    "link": "https://www.iex.nl/artikel/880865/Slotcall-AEX-scherpt-recordstand-aan-ondanks-koersvalletje-ASML.aspx",
+    "intro": "Yes! We gaan het weekend in met een kakelvers all-time high. Uiteindelijk sluiten we alsnog 0,9% hoger op 1.130,95 punten. Fijn weekend en tot maandag.",
+    "published_at": "2026-10-09 17:35",
+    "scraped_at": "2026-10-09T17:12:25.987756"
+  },
+  {
+    "id": "2ff36948ff09edc61a9450aa5189a800",
     "categorie": "Beursnieuws",
-    "titel": "UBS zet ArcelorMittal op de kooplijst",
-    "link": "https://www.beurs.nl/Nieuws/880792/UBS-zet-ArcelorMittal-op-de-kooplijst.aspx",
-    "intro": "UBS heeft het advies voor ArcelorMittal verhoogd van Neutraal naar Kopen en het koersdoel van 61,00 naar 71,00 euro. Dit bleek vrijdag uit een sectorrapport van de Zwitserse bank.",
-    "published_at": "2026-10-09 10:11",
-    "scraped_at": "2026-10-09T10:45:17.051548"
+    "titel": "Trump wil Fed-bestuurder Cook via onderzoekscommissie aanpakken",
+    "link": "https://www.beurs.nl/Nieuws/880858/Trump-wil-Fed-bestuurder-Cook-via-onderzoekscommissie-aanpakken.aspx",
+    "intro": "President Donald Trump heeft een onderzoekscommissie ingesteld naar vermeende valse verklaringen van Federal Reserve-gouverneur Lisa Cook over een of meerdere hypotheekdocumenten. Dit maakte het Witte Huis bekend via een presidentieel memorandum.",
+    "published_at": "2026-10-09 16:45",
+    "scraped_at": "2026-10-09T17:12:25.987756"
   },
   {
-    "id": "57c90593a6f3ea814edcc7ae24694021",
-    "categorie": "Must read",
-    "titel": "Must read: De AI-bubbel dreigt te barsten",
-    "link": "https://www.iex.nl/artikel/880773/Must-read-De-AI-bubbel-dreigt-te-barsten.aspx",
-    "intro": "Volgens miljardair en investeerder Ray Dalio brengen stijgende rentes en AI-schulden het barsten van de AI-bubbel dichterbij. Plus: Beleggers worden afwachtender, Nederlandse industrie groeit fors, en meer.",
-    "published_at": "2026-10-09 10:10",
-    "scraped_at": "2026-10-09T10:45:17.051548"
-  },
-  {
-    "id": "7bae422dd5f88818bd15032b50ec355b",
+    "id": "f03c08e3dc1afe4c922b20e620f46268",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: verkoop MTS financieel aantrekkelijk voor Euronext",
-    "link": "https://www.beurs.nl/Nieuws/880789/Beursblik-verkoop-MTS-financieel-aantrekkelijk-voor-Euronext.aspx",
-    "intro": "Een verkoop van MTS door Euronext levert een mooi rendement op, maar zou ook een deuk slaan in het groeiverhaal van de beursuitbater. Dit stelde analist Thomas Couvreur van KBC Securities vrijdag in een rapport.",
-    "published_at": "2026-10-09 09:57",
-    "scraped_at": "2026-10-09T10:45:17.051548"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/880855/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 19 oktober 2026:",
+    "published_at": "2026-10-09 16:34",
+    "scraped_at": "2026-10-09T17:12:25.987756"
   },
   {
-    "id": "3d19148f7f6b1ff3ea466dfd491b0f6e",
+    "id": "02ce04206353b415e690c03cf5bf65df",
     "categorie": "Beursnieuws",
-    "titel": "Kepler Cheuvreux verlaagt koersdoel Fagron",
-    "link": "https://www.beurs.nl/Nieuws/880785/Kepler-Cheuvreux-verlaagt-koersdoel-Fagron.aspx",
-    "intro": "Kepler Cheuvreux heeft het koersdoel voor Fagron verlaagd van 27,50 naar 27,00 euro, maar met handhaving van het koopadvies. Dat bleek vrijdag uit een rapport van de zakenbank.",
-    "published_at": "2026-10-09 09:46",
-    "scraped_at": "2026-10-09T10:45:17.051548"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/880856/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 19 oktober 2026:",
+    "published_at": "2026-10-09 16:34",
+    "scraped_at": "2026-10-09T17:12:25.987756"
   },
   {
-    "id": "285d8caaf55873627929bbe44e7796a0",
+    "id": "629121d79bcce4e18a0d78facc668c46",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Fagron aantrekkelijk gewaardeerd",
-    "link": "https://www.beurs.nl/Nieuws/880784/Beursblik-Fagron-aantrekkelijk-gewaardeerd.aspx",
-    "intro": "De analist handhaafde zijn koopadvies met een koersdoel van 31,00  euro, na de kwartaalupdate van gisteren.",
-    "published_at": "2026-10-09 09:33",
-    "scraped_at": "2026-10-09T10:45:17.051548"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/880854/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 19 oktober 2026:",
+    "published_at": "2026-10-09 16:33",
+    "scraped_at": "2026-10-09T17:12:25.987756"
   },
   {
-    "id": "cec04ca608627ef9190b12f05e01506e",
-    "categorie": "Nieuws",
-    "titel": "\"Centrale banken kunnen niet langer wegkijken”",
-    "link": "https://www.ieximpact.nl/artikel/880303/Centrale-banken-kunnen-niet-langer-wegkijken.aspx",
-    "intro": "DNB-president Olaf Sleijpen waarschuwt dat de financiële gevolgen van klimaatverandering steeds tastbaarder worden. Voor centrale banken en toezichthouders ligt een duidelijke taak: niet klimaatbeleid maken, maar de economische risico’s meten, duiden en zichtbaar maken. Sleijpen ziet meer in het versnellen van de energietransitie dan in het versterken van de weerbaarheid.",
-    "published_at": "2026-10-09 09:18",
-    "scraped_at": "2026-10-09T10:45:17.051548"
-  },
-  {
-    "id": "6de976e7e3405a04611e2d34f0a8910e",
+    "id": "d0ea20c83a07ce383ead5e747b6d9bc9",
     "categorie": "Beursnieuws",
-    "titel": "AEX hoger van start gegaan",
-    "link": "https://www.beurs.nl/Nieuws/880779/AEX-hoger-van-start-gegaan.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag met winst gestart. De AEX won een half procent.",
-    "published_at": "2026-10-09 09:11",
-    "scraped_at": "2026-10-09T10:45:17.051548"
+    "titel": "Consumentenvertrouwen VS verder afgenomen",
+    "link": "https://www.beurs.nl/Nieuws/880851/Consumentenvertrouwen-VS-verder-afgenomen.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in de eerste dagen van oktober verder afgenomen. Dit bleek vrijdag uit voorlopige cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-10-09 16:08",
+    "scraped_at": "2026-10-09T17:12:25.987756"
   },
   {
-    "id": "9be2a1fc4bb655057b402c96ec63f62b",
+    "id": "db84d5db7da6756bea01bb5de40c19b5",
     "categorie": "Beursnieuws",
-    "titel": "Deutsche Bank verhoogt koersdoel Euronext",
-    "link": "https://www.beurs.nl/Nieuws/880772/Deutsche-Bank-verhoogt-koersdoel-Euronext.aspx",
-    "intro": "Deutsche Bank heeft vrijdag het koersdoel voor Euronext verhoogd van 184,00 naar 192,00 euro, met handhaving van het koopadvies. Dit bleek uit een rapport van analist Benjamin Goy.",
-    "published_at": "2026-10-09 08:36",
-    "scraped_at": "2026-10-09T10:45:17.051548"
+    "titel": "Jefferies verlaagt koersdoel Arcadis",
+    "link": "https://www.beurs.nl/Nieuws/880847/Jefferies-verlaagt-koersdoel-Arcadis.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Arcadis verlaagd van 55,00 naar 50,00 euro, maar met handhaving van het koopadvies. Dit bleek vrijdag uit een rapport van analist David Kerstens.",
+    "published_at": "2026-10-09 15:41",
+    "scraped_at": "2026-10-09T17:12:25.987756"
+  },
+  {
+    "id": "97f610ff663796f901ac7d1b982dc133",
+    "categorie": "Beursnieuws",
+    "titel": "Verzekeraar Humana wordt hoger aangeslagen door Amerikaanse overheid",
+    "link": "https://www.beurs.nl/Nieuws/880845/Verzekeraar-Humana-wordt-hoger-aangeslagen-door-Amerikaanse-overheid.aspx",
+    "intro": "Verzekeraar Humana heeft voor 2027 een betere beoordeling gekregen van de Amerikaanse overheid en dat zorgde vrijdag voor een flinke koerssprong van het aandeel in de voorbeurshandel op Wall Street.",
+    "published_at": "2026-10-09 15:15",
+    "scraped_at": "2026-10-09T17:12:25.987756"
   }
 ]
