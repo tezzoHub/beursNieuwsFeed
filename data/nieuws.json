@@ -1,12 +1,21 @@
 [
   {
+    "id": "eaf6030ddcda7a0a7d87a2faa428cdec",
+    "categorie": "Beursnieuws",
+    "titel": "Ondernemingskamer: geen onderzoek nodig naar beleid Philips in slaapapneu-affaire",
+    "link": "https://www.beurs.nl/Nieuws/880889/Ondernemingskamer-geen-onderzoek-nodig-naar-beleid-Philips-in-slaapapneu-affaire.aspx",
+    "intro": "De Ondernemingskamer in Amsterdam heeft zaterdag de verzoeken van de VEB en een groot aantal beleggers afgewezen om onderzoek te doen naar de gang van zaken bij Philips in de slaapapneu-affaire. Dit meldde de Ondernemingskamer vanmiddag in een persbericht.",
+    "published_at": "2026-10-10 19:05",
+    "scraped_at": "2026-10-10T18:15:31.276841"
+  },
+  {
     "id": "900d75d5011e6968d4d6ca5fe54c38a6",
     "categorie": "Beursnieuws",
     "titel": "Media: AI-model Anthropic diende valse tip in bij politie",
     "link": "https://www.beurs.nl/Nieuws/880888/Media-AI-model-Anthropic-diende-valse-tip-in-bij-politie.aspx",
     "intro": "Een AI-model van Anthropic heeft een valse tip over een moord ingediend op de website van de politie van Philadelphia. Dit bevestigde Anthropic in een blog op zijn website, waarin het ook andere incidenten met zijn Claude-modellen bekendmaakte.",
     "published_at": "2026-10-10 12:14",
-    "scraped_at": "2026-10-10T13:52:51.984967"
+    "scraped_at": "2026-10-10T18:15:31.276841"
   },
   {
     "id": "72b89c8a164874c6611c2cce1f65e266",
@@ -15,6 +24,6 @@
     "link": "https://www.beurs.nl/Nieuws/880886/AEX-scherpt-record-aan.aspx",
     "intro": "De Amsterdamse beurs wist afgelopen week zijn record aan te scherpen tot bijna 1.136 punten, met hulp van de zwaargewichten Shell en Unilever, terwijl de obligatiemarkten richting het weekend wat afkoelden. Hernieuwde zorgen over de torenhoge investeringen in AI drukten wel het sentiment rond de halfgeleideraandelen, net als een reeks negatieve analistenrapporten voor Besi.",
     "published_at": "2026-10-10 09:27",
-    "scraped_at": "2026-10-10T13:52:51.984967"
+    "scraped_at": "2026-10-10T18:15:31.276841"
   }
 ]
