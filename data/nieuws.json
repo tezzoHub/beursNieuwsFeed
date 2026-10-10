@@ -1,92 +1,20 @@
 [
   {
-    "id": "a72b5fc9e722e943784ca1cba44de72a",
+    "id": "900d75d5011e6968d4d6ca5fe54c38a6",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/880878/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam en drie lager.",
-    "published_at": "2026-10-09 22:20",
-    "scraped_at": "2026-10-10T07:20:05.897350"
+    "titel": "Media: AI-model Anthropic diende valse tip in bij politie",
+    "link": "https://www.beurs.nl/Nieuws/880888/Media-AI-model-Anthropic-diende-valse-tip-in-bij-politie.aspx",
+    "intro": "Een AI-model van Anthropic heeft een valse tip over een moord ingediend op de website van de politie van Philadelphia. Dit bevestigde Anthropic in een blog op zijn website, waarin het ook andere incidenten met zijn Claude-modellen bekendmaakte.",
+    "published_at": "2026-10-10 12:14",
+    "scraped_at": "2026-10-10T13:52:51.984967"
   },
   {
-    "id": "3ba9c4e95efb12533dad5096dc1bedc0",
+    "id": "72b89c8a164874c6611c2cce1f65e266",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit volatiele week hoger af",
-    "link": "https://www.beurs.nl/Nieuws/880877/Wall-Street-sluit-volatiele-week-hoger-af.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag hoger gesloten, na een volatiele week die werd gekenmerkt door verder gestegen rentes op staatsobligaties, schommelende olieprijzen en koersverliezen bij aandelen in de kunstmatige-intelligentiesector.",
-    "published_at": "2026-10-09 22:14",
-    "scraped_at": "2026-10-10T07:20:05.897350"
-  },
-  {
-    "id": "44a130a6c300995ba623a669ed4d6fa7",
-    "categorie": "Beursnieuws",
-    "titel": "Trump meldt dieseldeal met Poetin",
-    "link": "https://www.beurs.nl/Nieuws/880876/Trump-meldt-dieseldeal-met-Poetin.aspx",
-    "intro": "President Donald Trump heeft vrijdag via Truth Social een akkoord met de Russische president Vladimir Poetin aangekondigd over de levering van grote hoeveelheden dieselbrandstof aan de Amerikaanse en wereldwijde markt.",
-    "published_at": "2026-10-09 21:03",
-    "scraped_at": "2026-10-10T07:20:05.897350"
-  },
-  {
-    "id": "e7d3e6d4b16571c7ffdd5a44e33b2f4e",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen nagenoeg onveranderd het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/880875/Olieprijzen-nagenoeg-onveranderd-het-weekend-in.aspx",
-    "intro": "De olieprijzen zijn vrijdag dicht bij huis gebleven, waarmee een onrustige week werd afgesloten waarin de veelal wisselende headlines over de situatie in het Midden-Oosten elkaar snel opvolgden.",
-    "published_at": "2026-10-09 20:58",
-    "scraped_at": "2026-10-10T07:20:05.897350"
-  },
-  {
-    "id": "d5b3b5b437135a8c8d2163a51ff20675",
-    "categorie": "Beursnieuws",
-    "titel": "FDA waarschuwt voor Philips-echoapparaat",
-    "link": "https://www.beurs.nl/Nieuws/880874/FDA-waarschuwt-voor-Philips-echoapparaat.aspx",
-    "intro": "De Amerikaanse toezichthouder FDA heeft vrijdag een waarschuwing afgegeven voor een mogelijk risicovol probleem met de Lumify-echoapparaten van Philips Ultrasound. Philips heeft getroffen klanten een brief gestuurd met het advies de gebruiksinstructies voor alle Lumify-systemen te actualiseren.",
-    "published_at": "2026-10-09 20:35",
-    "scraped_at": "2026-10-10T07:20:05.897350"
-  },
-  {
-    "id": "f678b5c5dfbf045b437c47f8d4b7b540",
-    "categorie": "Beursnieuws",
-    "titel": "Schuldachterstand VS grootst sinds kredietcrisis",
-    "link": "https://www.beurs.nl/Nieuws/880873/Schuldachterstand-VS-grootst-sinds-kredietcrisis.aspx",
-    "intro": "Het aandeel Amerikaanse gezinnen dat achterstallig is met betalingen op leningen is gestegen naar het hoogste niveau sinds 2010, toen het land nog herstelde van de kredietcrisis van 2007-2009. Dit bleek vrijdag uit de driejaarlijkse Survey of Consumer Finances van de Federal Reserve.",
-    "published_at": "2026-10-09 20:19",
-    "scraped_at": "2026-10-10T07:20:05.897350"
-  },
-  {
-    "id": "926605be33161d0f5545b8bcb631cfb9",
-    "categorie": "Beursnieuws",
-    "titel": "Telecomaandelen onderuit op groen Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/880872/Telecomaandelen-onderuit-op-groen-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag hoger. Beleggers lijken opnieuw in te zetten op een sterk cijferseizoen voor bedrijven, ondanks aanhoudende zorgen over de hoge energieprijzen en de oplopende rentes op staatsobligaties.",
-    "published_at": "2026-10-09 19:48",
-    "scraped_at": "2026-10-10T07:20:05.897350"
-  },
-  {
-    "id": "78490e2a8664a96fef5b1b9cad003192",
-    "categorie": "Beursnieuws",
-    "titel": "Brussel bestempelt AMG-projecten strategisch",
-    "link": "https://www.beurs.nl/Nieuws/880871/Brussel-bestempelt-AMG-projecten-strategisch.aspx",
-    "intro": "AMG Critical Materials heeft erkenning gekregen van de Europese Commissie voor twee activiteiten van dochterbedrijf AMG Lithium. Dit maakte het in Amsterdam genoteerde bedrijf vrijdag bekend.",
-    "published_at": "2026-10-09 19:10",
-    "scraped_at": "2026-10-10T07:20:05.897350"
-  },
-  {
-    "id": "b249eb1f8f898297f31d883dc5eb452c",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten wisselvallige week hoger af",
-    "link": "https://www.beurs.nl/Nieuws/880869/Europese-beurzen-sluiten-wisselvallige-week-hoger-af.aspx",
-    "intro": "De Europese beurzen zijn vrijdag hoger gesloten, waarmee er een positief einde kwam aan een moeizame week die wederom in het teken stond van de hoge rentes en aanhoudend hoge energieprijzen.",
-    "published_at": "2026-10-09 18:41",
-    "scraped_at": "2026-10-10T07:20:05.897350"
-  },
-  {
-    "id": "b62c88a88513b63d619ecde49ee9e1fe",
-    "categorie": "Beursnieuws",
-    "titel": "AEX met vers record het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/880867/AEX-met-vers-record-het-weekend-in.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag geëindigd met een nieuw record op de borden, hoewel er vanmiddag wel wat gas terug werd genomen. Op weekbasis won de hoofdgraadmeter meer dan een procent.",
-    "published_at": "2026-10-09 17:51",
-    "scraped_at": "2026-10-10T07:20:05.897350"
+    "titel": "AEX scherpt record aan",
+    "link": "https://www.beurs.nl/Nieuws/880886/AEX-scherpt-record-aan.aspx",
+    "intro": "De Amsterdamse beurs wist afgelopen week zijn record aan te scherpen tot bijna 1.136 punten, met hulp van de zwaargewichten Shell en Unilever, terwijl de obligatiemarkten richting het weekend wat afkoelden. Hernieuwde zorgen over de torenhoge investeringen in AI drukten wel het sentiment rond de halfgeleideraandelen, net als een reeks negatieve analistenrapporten voor Besi.",
+    "published_at": "2026-10-10 09:27",
+    "scraped_at": "2026-10-10T13:52:51.984967"
   }
 ]
