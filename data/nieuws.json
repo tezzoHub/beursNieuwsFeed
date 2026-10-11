@@ -1,29 +1,29 @@
 [
   {
-    "id": "eaf6030ddcda7a0a7d87a2faa428cdec",
+    "id": "9d8c449a2c326160753b483ba3b059fb",
     "categorie": "Beursnieuws",
-    "titel": "Ondernemingskamer: geen onderzoek nodig naar beleid Philips in slaapapneu-affaire",
-    "link": "https://www.beurs.nl/Nieuws/880889/Ondernemingskamer-geen-onderzoek-nodig-naar-beleid-Philips-in-slaapapneu-affaire.aspx",
-    "intro": "De Ondernemingskamer in Amsterdam heeft zaterdag de verzoeken van de VEB en een groot aantal beleggers afgewezen om onderzoek te doen naar de gang van zaken bij Philips in de slaapapneu-affaire. Dit meldde de Ondernemingskamer vanmiddag in een persbericht.",
-    "published_at": "2026-10-10 19:05",
-    "scraped_at": "2026-10-11T06:31:05.024712"
+    "titel": "Komende week aandacht voor Amerikaanse inflatie",
+    "link": "https://www.beurs.nl/Nieuws/880896/Komende-week-aandacht-voor-Amerikaanse-inflatie.aspx",
+    "intro": "De komende beursweek begint rustig. In de Verenigde Staten is het maandag Columbus Day en hoewel Wall Street wel geopend is, zullen veel Amerikaanse beleggers vermoedelijk genieten van een lang weekend.",
+    "published_at": "2026-10-11 12:34",
+    "scraped_at": "2026-10-11T13:34:15.592058"
   },
   {
-    "id": "900d75d5011e6968d4d6ca5fe54c38a6",
+    "id": "d14364f88c8b833da33442869c3853ca",
     "categorie": "Beursnieuws",
-    "titel": "Media: AI-model Anthropic diende valse tip in bij politie",
-    "link": "https://www.beurs.nl/Nieuws/880888/Media-AI-model-Anthropic-diende-valse-tip-in-bij-politie.aspx",
-    "intro": "Een AI-model van Anthropic heeft een valse tip over een moord ingediend op de website van de politie van Philadelphia. Dit bevestigde Anthropic in een blog op zijn website, waarin het ook andere incidenten met zijn Claude-modellen bekendmaakte.",
-    "published_at": "2026-10-10 12:14",
-    "scraped_at": "2026-10-11T06:31:05.024712"
+    "titel": "Microsoft pleit voor noodrem geavanceerde AI",
+    "link": "https://www.beurs.nl/Nieuws/880895/Microsoft-pleit-voor-noodrem-geavanceerde-AI.aspx",
+    "intro": "Bedrijven die gebruik maken van kunstmatige intelligentie, moeten een noodrem hebben om te voorkomen dat agentische modellen op eigen houtje gaan opereren. Dit schreef CEO Satya Nadella van Microsoft zaterdag in een bericht op X.",
+    "published_at": "2026-10-11 12:23",
+    "scraped_at": "2026-10-11T13:34:15.592058"
   },
   {
-    "id": "72b89c8a164874c6611c2cce1f65e266",
+    "id": "a28e7013e96e6840d05246787e8d041e",
     "categorie": "Beursnieuws",
-    "titel": "AEX scherpt record aan",
-    "link": "https://www.beurs.nl/Nieuws/880886/AEX-scherpt-record-aan.aspx",
-    "intro": "De Amsterdamse beurs wist afgelopen week zijn record aan te scherpen tot bijna 1.136 punten, met hulp van de zwaargewichten Shell en Unilever, terwijl de obligatiemarkten richting het weekend wat afkoelden. Hernieuwde zorgen over de torenhoge investeringen in AI drukten wel het sentiment rond de halfgeleideraandelen, net als een reeks negatieve analistenrapporten voor Besi.",
-    "published_at": "2026-10-10 09:27",
-    "scraped_at": "2026-10-11T06:31:05.024712"
+    "titel": "Moeizame week voor chippers met afstraffing Besi",
+    "link": "https://www.beurs.nl/Nieuws/880894/Moeizame-week-voor-chippers-met-afstraffing-Besi.aspx",
+    "intro": "De Amsterdamse beurs wist afgelopen week zijn record aan te scherpen en kon dat voornamelijk doen met hulp van zwaargewicht Shell, terwijl ook Unilever goede zaken deed. Voor halfgeleideraandelen was het een moeizame week, waarbij vooral de koersafstraffing van Besi opviel vanwege de vrees voor een vertraging in hybrid bonding en mogelijke concurrentie door ASML.",
+    "published_at": "2026-10-11 11:11",
+    "scraped_at": "2026-10-11T13:34:15.592058"
   }
 ]
