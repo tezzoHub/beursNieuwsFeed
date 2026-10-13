@@ -1,12 +1,75 @@
 [
   {
+    "id": "c1807e5954926a4f1c0e991856639c09",
+    "categorie": "Beursnieuws",
+    "titel": "Fed's Collins ziet nog een renteverhoging dit jaar",
+    "link": "https://www.beurs.nl/Nieuws/881213/Feds-Collins-ziet-nog-een-renteverhoging-dit-jaar.aspx",
+    "intro": "Susan Collins, president van de Federal Reserve van Boston, verwacht dat het gepast zal zijn om de rente voor het einde van het jaar verder te verhogen om de inflatie tijdig naar de doelstelling van de Fed terug te brengen.",
+    "published_at": "2026-10-13 22:36",
+    "scraped_at": "2026-10-13T20:44:10.773962"
+  },
+  {
+    "id": "135d0f22d7cf36ee8694547042d4a946",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit nipt lager na start cijferseizoen",
+    "link": "https://www.beurs.nl/Nieuws/881212/Wall-Street-sluit-nipt-lager-na-start-cijferseizoen.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag lager gesloten, nadat grote banken met matig succes het kwartaalcijferseizoen aftrapten en geheugenfabrikanten hun verliezen beperkten, ondanks een waarschuwing van Elon Musk voor de Chinese concurrentie.",
+    "published_at": "2026-10-13 22:26",
+    "scraped_at": "2026-10-13T20:44:10.773962"
+  },
+  {
+    "id": "3475b5071ae6b11a839c2df31f13cf6b",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Deutsche Bank betwijfelt of 'superintelligentie' er ooit komt",
+    "link": "https://www.beurs.nl/Nieuws/881208/Beursblik-Deutsche-Bank-betwijfelt-of-superintelligentie-er-ooit-komt.aspx",
+    "intro": "\"Superintelligentie\" zal waarschijnlijk nooit bereikt worden, maar de Amerikaanse economie kan profiteren van meer productiviteit door kunstmatige intelligentie. Dat stelde Deutsche Bank in een analistenrapport.",
+    "published_at": "2026-10-13 21:50",
+    "scraped_at": "2026-10-13T20:44:10.773962"
+  },
+  {
+    "id": "19d2adf6e59388daebde86781558fdf9",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs sluit verdeeld",
+    "link": "https://www.beurs.nl/Nieuws/881207/Olieprijs-sluit-verdeeld.aspx",
+    "intro": "De olieprijs is dinsdag licht hoger gesloten in New York, terwijl Brent-olie licht lager sloot, maar de prijs van diesel in Amerika steeg verder, ondanks de poging van president Donald Trump om meer Russische diesel op de markt te brengen.",
+    "published_at": "2026-10-13 21:27",
+    "scraped_at": "2026-10-13T20:44:10.773962"
+  },
+  {
+    "id": "432ba2a18331570e160f2ac33c54f638",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street licht lager na start cijferseizoen",
+    "link": "https://www.beurs.nl/Nieuws/881206/Wall-Street-licht-lager-na-start-cijferseizoen.aspx",
+    "intro": "De Amerikaanse beurzen stonden dinsdagavond vlak tot licht lager, nadat een aantal grote financiële instellingen en farmareuzen de boeken hadden geopend, terwijl Elon Musk de zorgen over de concurrentie van Chinese geheugenchips bevestigde.",
+    "published_at": "2026-10-13 20:51",
+    "scraped_at": "2026-10-13T20:44:10.773962"
+  },
+  {
+    "id": "93792c794948ced6a528a465ddf586ea",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten licht lager",
+    "link": "https://www.beurs.nl/Nieuws/881195/Europese-beurzen-sluiten-licht-lager.aspx",
+    "intro": "De aandelenmarkten in Europa zijn dinsdag licht lager gesloten, nadat Amerikaanse banken het cijferseizoen aftrapte, terwijl de chipindustrie de markt liet dalen na negatieve uitspraken door de CEO van Broadcom.",
+    "published_at": "2026-10-13 18:51",
+    "scraped_at": "2026-10-13T20:44:10.773962"
+  },
+  {
+    "id": "5ed22ae997254111a5971020908fa99a",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers houden AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/881189/Chippers-houden-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag lager geëindigd, waarbij chipaandelen werden afgestraft na nieuwe zorgen over AI.",
+    "published_at": "2026-10-13 17:52",
+    "scraped_at": "2026-10-13T20:44:10.773962"
+  },
+  {
     "id": "59a335851944d48c6e74b89ec0b02bc6",
     "categorie": "Beursnieuws",
     "titel": "Beursblik: blijf overwogen in aandelen",
     "link": "https://www.beurs.nl/Nieuws/881180/Beursblik-blijf-overwogen-in-aandelen.aspx",
     "intro": "Van Lanschot Kempen houdt vast aan een overweging in aandelen. Dit bleek uit een rapport van beleggingsstrateeg Joost van Leenders.",
     "published_at": "2026-10-13 16:42",
-    "scraped_at": "2026-10-13T15:18:10.840585"
+    "scraped_at": "2026-10-13T20:44:10.773962"
   },
   {
     "id": "b5cecde4639d1af7110108d7fe5dccf7",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/881172/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 21 oktober 2026:",
     "published_at": "2026-10-13 16:30",
-    "scraped_at": "2026-10-13T15:18:10.840585"
+    "scraped_at": "2026-10-13T20:44:10.773962"
   },
   {
     "id": "161165368d4bafa9d132ade682f4f77c",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/881173/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 21 oktober 2026:",
     "published_at": "2026-10-13 16:29",
-    "scraped_at": "2026-10-13T15:18:10.840585"
-  },
-  {
-    "id": "b93ad68cb29d08a5ef263a000c8851b1",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/881174/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 21 oktober 2026:",
-    "published_at": "2026-10-13 16:29",
-    "scraped_at": "2026-10-13T15:18:10.840585"
-  },
-  {
-    "id": "2296601ee502afced6a50e65f8d0ecad",
-    "categorie": "Beursnieuws",
-    "titel": "Meer bestaande woningen verkocht in VS",
-    "link": "https://www.beurs.nl/Nieuws/881171/Meer-bestaande-woningen-verkocht-in-VS.aspx",
-    "intro": "De verkoop van bestaande woningen in de Verenigde Staten is in september gestegen. Dit bleek dinsdag uit cijfers van makelaarsorganisatie NAR.",
-    "published_at": "2026-10-13 16:22",
-    "scraped_at": "2026-10-13T15:18:10.840585"
-  },
-  {
-    "id": "9d9f3c9cb76b70dd2d17cfdcdc7b6154",
-    "categorie": "Beursnieuws",
-    "titel": "Albertsons start evaluatie na winstdaling",
-    "link": "https://www.beurs.nl/Nieuws/881167/Albertsons-start-evaluatie-na-winstdaling.aspx",
-    "intro": "De Amerikaanse supermarktketen Albertsons heeft in het tweede kwartaal de omzet op peil weten te houden, maar de winstgevendheid zien afnemen. Dit bleek dinsdag uit cijfers van het bedrijf.",
-    "published_at": "2026-10-13 15:55",
-    "scraped_at": "2026-10-13T15:18:10.840585"
-  },
-  {
-    "id": "36f846597894b338629da253b5feb8fd",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht verdeelde opening na start cijferseizoen",
-    "link": "https://www.beurs.nl/Nieuws/881154/Wall-Street-wacht-verdeelde-opening-na-start-cijferseizoen.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een verdeelde opening tegemoet, nadat een aantal grote financiële instellingen en farmareuzen de boeken hadden geopend.",
-    "published_at": "2026-10-13 14:54",
-    "scraped_at": "2026-10-13T15:18:10.840585"
-  },
-  {
-    "id": "f76048c46d3feab3894503e5b2efa1f3",
-    "categorie": "Beursnieuws",
-    "titel": "OPEC verwacht dit jaar veel minder sterke groei olievraag",
-    "link": "https://www.beurs.nl/Nieuws/881153/OPEC-verwacht-dit-jaar-veel-minder-sterke-groei-olievraag.aspx",
-    "intro": "De vraag naar olie zal dit jaar veel minder hard stijgen dan eerder verwacht. Dit meldde oliekartel OPEC dinsdag in zijn maandrapport.",
-    "published_at": "2026-10-13 14:29",
-    "scraped_at": "2026-10-13T15:18:10.840585"
-  },
-  {
-    "id": "fb8b5622416ec2ddce8873c527f36d50",
-    "categorie": "Beursnieuws",
-    "titel": "Citigroup boekt sterke winstgroei",
-    "link": "https://www.beurs.nl/Nieuws/881152/Citigroup-boekt-sterke-winstgroei.aspx",
-    "intro": "Citigroup heeft het beste derde kwartaal in tien jaar geboekt, met een forse winststijging en een verbeterd rendement voor aandeelhouders. Dit meldde de Amerikaanse bank dinsdagmiddag bij de presentatie van de kwartaalcijfers.",
-    "published_at": "2026-10-13 14:19",
-    "scraped_at": "2026-10-13T15:18:10.840585"
-  },
-  {
-    "id": "10e5a198f7e569862050f472f8d02531",
-    "categorie": "Beursnieuws",
-    "titel": "Chipaandelen voorkomen koerswinst AEX",
-    "link": "https://www.beurs.nl/Nieuws/881147/Chipaandelen-voorkomen-koerswinst-AEX.aspx",
-    "intro": "De Amsterdamse beurs noteerde dinsdagmiddag fractioneel in het rood, op 1.134,58 punten, door de verliezen voor de chippers.",
-    "published_at": "2026-10-13 13:53",
-    "scraped_at": "2026-10-13T15:18:10.840585"
+    "scraped_at": "2026-10-13T20:44:10.773962"
   }
 ]
