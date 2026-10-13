@@ -1,12 +1,39 @@
 [
   {
+    "id": "b31ca2de6a7eefe4105301b466c8c9fb",
+    "categorie": "Beursnieuws",
+    "titel": "AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/881044/AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag vijf van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-10-12 22:29",
+    "scraped_at": "2026-10-13T00:51:59.830046"
+  },
+  {
+    "id": "5129722e1e56578b698062d2f47e45b5",
+    "categorie": "Beursnieuws",
+    "titel": "Futloos Wall Street dicht bij huis gebleven",
+    "link": "https://www.beurs.nl/Nieuws/881043/Futloos-Wall-Street-dicht-bij-huis-gebleven.aspx",
+    "intro": "De Amerikaanse beurzen zijn maandag verdeeld gesloten, waarbij de drie toonaangevende indices tijdens de handel nauwelijks van hun plaats kwamen. Beleggers leken het kruit droog te houden in aanloop naar een drukke week vol kwartaal- en inflatiecijfers.",
+    "published_at": "2026-10-12 22:23",
+    "scraped_at": "2026-10-13T00:51:59.830046"
+  },
+  {
+    "id": "f4b6c293dfbb7c7fc17a20888d3d7443",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen sluiten hoger na aanvallen op Saoedi-Arabië",
+    "link": "https://www.beurs.nl/Nieuws/881042/Olieprijzen-sluiten-hoger-na-aanvallen-op-Saoedi-Arabie.aspx",
+    "intro": "De olieprijzen zijn maandag hoger gesloten, nadat aanvallen op Saoedi-Arabië het vooruitzicht op extra aanbod overschaduwden. President Donald Trump had eerder nieuwe Russische dieselexporten en een wapenstilstand tussen Rusland en Oekraïne over energiedoelen aangekondigd, maar die opluchting verdween naar de achtergrond door de aanvallen van de Houthi’s in Riyad.",
+    "published_at": "2026-10-12 20:56",
+    "scraped_at": "2026-10-13T00:51:59.830046"
+  },
+  {
     "id": "ad228f9d9dbc2509522ff5e26bb00907",
     "categorie": "Beursnieuws",
     "titel": "Wall Street verdeeld in aanloop naar start cijferseizoen",
     "link": "https://www.beurs.nl/Nieuws/881039/Wall-Street-verdeeld-in-aanloop-naar-start-cijferseizoen.aspx",
     "intro": "De Amerikaanse beurzen noteerden maandag verdeeld, nadat de belangrijkste beursindices afgelopen week met winst hadden afgesloten en beleggers vooruitblikten op een drukke week vol kwartaal- en inflatiecijfers.",
     "published_at": "2026-10-12 19:45",
-    "scraped_at": "2026-10-12T18:03:36.943756"
+    "scraped_at": "2026-10-13T00:51:59.830046"
   },
   {
     "id": "0eb68bfa6a8768924e50ef319b596ed4",
@@ -15,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/881038/Europese-beurzen-na-matte-handelssessie-hoger-gesloten.aspx",
     "intro": "De Europese beurzen zijn maandag na een weinig enerverende sessie, met oplopende olieprijzen toch hoger gesloten. Beleggers deden het rustig aan en lijken alvast voor te sorteren op het cijferseizoen dat morgen in de VS echt op gang komt.",
     "published_at": "2026-10-12 18:54",
-    "scraped_at": "2026-10-12T18:03:36.943756"
+    "scraped_at": "2026-10-13T00:51:59.830046"
   },
   {
     "id": "f23047a29cbb3bfa57586308a8e97430",
@@ -24,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/881033/LVMH-ziet-groei-vertragen-in-derde-kwartaal.aspx",
     "intro": "Luxeconcern LVMH heeft de autonome omzetgroei in het derde kwartaal zien vertragen tot 1 procent, tegenover 3 procent in het tweede kwartaal. Dat bleek maandagavond uit de cijfers die het Franse concern publiceerde.",
     "published_at": "2026-10-12 18:14",
-    "scraped_at": "2026-10-12T18:03:36.943756"
+    "scraped_at": "2026-10-13T00:51:59.830046"
   },
   {
     "id": "791589c0a75ed96dc8406304ec77419f",
@@ -33,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/881028/Adyen-helpt-AEX-aan-winst.aspx",
     "intro": "De Amsterdamse beurs is maandag hoger gesloten, met hulp van financials en databedrijven, ondanks een verder oplopende olieprijs.",
     "published_at": "2026-10-12 17:53",
-    "scraped_at": "2026-10-12T18:03:36.943756"
+    "scraped_at": "2026-10-13T00:51:59.830046"
   },
   {
     "id": "cf2c33c73a58bbc7c97b0bb110fbac37",
@@ -42,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/881027/Beursblik-Jefferies-verhoogt-koersdoel-Unilever-licht.aspx",
     "intro": "Jefferies heeft maandag het koersdoel voor Unilever verhoogd van 39,00 naar 40,00 Britse pond, maar met handhaving van het Underperform advies. Dit bleek uit een rapport van analist David Hayes.",
     "published_at": "2026-10-12 17:50",
-    "scraped_at": "2026-10-12T18:03:36.943756"
+    "scraped_at": "2026-10-13T00:51:59.830046"
   },
   {
     "id": "b006326eef0e4034e60bab3cdc36b9fb",
@@ -51,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/881024/Beursblik-Jefferies-rekent-op-winstherstel-voor-Azelis-en-IMCD.aspx",
     "intro": "Azelis en IMCD hebben in het derde kwartaal vermoedelijk een dubbelcijferig herstel van de EBITA gerealiseerd, dankzij hogere volumes, nieuwe contracten en  de gestegen inflatie. Dit stelde analist David Kerstens van Jefferies maandag in een rapport.",
     "published_at": "2026-10-12 17:09",
-    "scraped_at": "2026-10-12T18:03:36.943756"
+    "scraped_at": "2026-10-13T00:51:59.830046"
   },
   {
     "id": "b208ecfa438d6c39def737fb1a675491",
@@ -60,33 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/881022/Delta-Airlines-stelt-vluchten-Riyadh-uit.aspx",
     "intro": "Delta Air Lines stelt zijn rechtstreekse vluchten tussen Atlanta en de Saudische hoofdstad Riyadh uit tot maart 2027. Dat maakte de Amerikaanse luchtvaartmaatschappij maandag bekend, nadat de Saudische luchthaven in het weekend werd aangevallen.",
     "published_at": "2026-10-12 16:40",
-    "scraped_at": "2026-10-12T18:03:36.943756"
-  },
-  {
-    "id": "af31d5c45deed987ef42b69d4ad75300",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/881020/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 20 oktober 2026:",
-    "published_at": "2026-10-12 16:17",
-    "scraped_at": "2026-10-12T18:03:36.943756"
-  },
-  {
-    "id": "2cc09c815eb9b934907b900c485a93ea",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/881019/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 20 oktober 2026:",
-    "published_at": "2026-10-12 16:15",
-    "scraped_at": "2026-10-12T18:03:36.943756"
-  },
-  {
-    "id": "a4674e7a0d9f43c6ee883c99fdfdbf61",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/881018/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 20 oktober 2026:",
-    "published_at": "2026-10-12 16:13",
-    "scraped_at": "2026-10-12T18:03:36.943756"
+    "scraped_at": "2026-10-13T00:51:59.830046"
   }
 ]
