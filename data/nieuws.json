@@ -1,12 +1,57 @@
 [
   {
+    "id": "41c3c0b893f8b40aa6744884caec02cc",
+    "categorie": "Beursnieuws",
+    "titel": "Miljardeninvestering in Amerikaanse chipsector",
+    "link": "https://www.beurs.nl/Nieuws/881385/Miljardeninvestering-in-Amerikaanse-chipsector.aspx",
+    "intro": "GlobalFoundries is geselecteerd als de officiële technologieleverancier en exploitant van twee nieuwe productiefaciliteiten voor halfgeleiders. Dat gebeurt in het kader van een Amerikaans-Japans initiatief dat voorziet in financiering voor de Amerikaanse chipindustrie. Dat meldde de Amerikaanse chipfabrikant donderdag op zijn website.",
+    "published_at": "2026-10-14 23:50",
+    "scraped_at": "2026-10-14T22:10:58.099038"
+  },
+  {
+    "id": "f81cd2e8ad4842a5394ef90e28d917d5",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/881380/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag twee van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-10-14 22:31",
+    "scraped_at": "2026-10-14T22:10:58.099038"
+  },
+  {
+    "id": "ca5fc8af8d0e8cd5378f443c79d1f5ed",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit in het rood na inflatiedata en minder AI-optimisme",
+    "link": "https://www.beurs.nl/Nieuws/881379/Wall-Street-sluit-in-het-rood-na-inflatiedata-en-minder-AI-optimisme.aspx",
+    "intro": "De Amerikaanse beurzen eindigden woensdagavond in het rood, nadat zorgen over AI-gerelateerde bedrijven wederom bij beleggers toesloegen en ook tegenvallende inflatiedata over september slecht op hun maag waren gevallen.",
+    "published_at": "2026-10-14 22:11",
+    "scraped_at": "2026-10-14T22:10:58.099038"
+  },
+  {
+    "id": "3e79e02904258128754c800b66e4c0ce",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Olieprijs sluit hoger door aanhoudende spanningen",
+    "link": "https://www.beurs.nl/Nieuws/881356/Update-Olieprijs-sluit-hoger-door-aanhoudende-spanningen.aspx",
+    "intro": "De olieprijzen zijn woensdag hoger gesloten, nadat eerder op de dag een gebouw van Saudi Aramco was aangevallen. Ook werd een prognose van het Internationaal Energieagentschap gepubliceerd dat het wereldwijde dieseltekort zal aanhouden tot in 2027.",
+    "published_at": "2026-10-14 21:23",
+    "scraped_at": "2026-10-14T22:10:58.099038"
+  },
+  {
+    "id": "dfa03de8f7c648b1ef68055a29642a28",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs sluit hoger door aanhoudende spanningen",
+    "link": "https://www.beurs.nl/Nieuws/881355/Olieprijs-sluit-hoger-door-aanhoudende-spanningen.aspx",
+    "intro": "De olieprijzen zijn woensdag hoger gesloten, nadat eerder op de dag een gebouw van Saudi Aramco was aangevallen. Ook werd een prognose van het Internationaal Energieagentschap gepubliceerd dat het wereldwijde dieseltekort zal aanhouden tot in 2027.",
+    "published_at": "2026-10-14 21:19",
+    "scraped_at": "2026-10-14T22:10:58.099038"
+  },
+  {
     "id": "446502b71b8f811e3a9656785f1778b8",
     "categorie": "Beursnieuws",
     "titel": "Beige Book ziet gemengd economisch beeld in de VS",
     "link": "https://www.beurs.nl/Nieuws/881354/Beige-Book-ziet-gemengd-economisch-beeld-in-de-VS.aspx",
     "intro": "De Amerikaanse economie liet de afgelopen periode een wisselend beeld zien, waarbij de groei per regio en sector sterk verschilde. Dat bleek woensdag uit het maandelijkse Beige Book van de Federal Reserve.",
     "published_at": "2026-10-14 20:42",
-    "scraped_at": "2026-10-14T18:58:21.925272"
+    "scraped_at": "2026-10-14T22:10:58.099038"
   },
   {
     "id": "c22116b84cb914f2e4fff9f9f7db8d3a",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/881353/Wall-Street-op-verlies-na-inflatiedata-en-afkoelen-AI-optimisme.aspx",
     "intro": "De Amerikaanse beurzen stonden woensdagavond in de min, nadat de somberheid bij AI-gerelateerde bedrijven toesloeg en beleggers ook tegenvallende inflatiedata over september verwerkten. Nvidia was een van de verschillende aandelen die vandaag daalden.",
     "published_at": "2026-10-14 20:18",
-    "scraped_at": "2026-10-14T18:58:21.925272"
+    "scraped_at": "2026-10-14T22:10:58.099038"
   },
   {
     "id": "029ccc970c4965bf600b9aac2d278b27",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/881352/Europese-beurzen-tonen-veerkracht-na-Amerikaanse-inflatiedomper.aspx",
     "intro": "De aandelenmarkten in Europa zijn woensdag overwegend hoger gesloten, ondanks dat beleggers een tegenvallend hoog Amerikaans inflatiecijfer te verwerken kregen, dat de Amerikaanse rentes liet oplopen en de euro liet dalen.",
     "published_at": "2026-10-14 18:50",
-    "scraped_at": "2026-10-14T18:58:21.925272"
+    "scraped_at": "2026-10-14T22:10:58.099038"
   },
   {
     "id": "6daa45e8453a4087ac7ee5d0197ea981",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/881351/Havas-boekt-solide-omzetgroei-in-derde-kwartaal.aspx",
     "intro": "Havas Group heeft in het derde kwartaal van 2026 een solide omzetgroei neergezet. Dit meldde het Parijse reclamebureau met een notering in Amsterdam woensdag nabeurs.",
     "published_at": "2026-10-14 18:28",
-    "scraped_at": "2026-10-14T18:58:21.925272"
+    "scraped_at": "2026-10-14T22:10:58.099038"
   },
   {
     "id": "c5dd48578350f353cc4cc21c16b062da",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/881349/Berkshire-Hathaway-investeert-nog-eens-ruim-300-miljoen-in-Bending-Spoons.aspx",
     "intro": "Bending Spoons heeft een nieuwe investering van 330 miljoen dollar door Berkshire Hathaway aangekondigd, waarmee het totale belang van de investeerder in het technologiebedrijf op 4 procent komt. Het bedrijf maakte dit woensdagmiddag bekend.",
     "published_at": "2026-10-14 18:04",
-    "scraped_at": "2026-10-14T18:58:21.925272"
-  },
-  {
-    "id": "7dd6d01e023c19ac49edf309b0aa8e5c",
-    "categorie": "Beursnieuws",
-    "titel": "ASML helpt AEX aan nieuw record",
-    "link": "https://www.beurs.nl/Nieuws/881348/ASML-helpt-AEX-aan-nieuw-record.aspx",
-    "intro": "De Amsterdamse beurs is woensdag hoger gesloten, dankzij een stevige winst voor ASML dat een sterke kwartaalupdate gaf.",
-    "published_at": "2026-10-14 17:57",
-    "scraped_at": "2026-10-14T18:58:21.925272"
-  },
-  {
-    "id": "8de3f8e93b3b14c593197b0b345d88aa",
-    "categorie": "IEX",
-    "titel": "Slotcall: AEX heeft maling aan inflatiedata en pakt nieuw record",
-    "link": "https://www.iex.nl/artikel/881344/Slotcall-AEX-heeft-maling-aan-inflatiedata-en-pakt-nieuw-record.aspx",
-    "intro": "De AEX sluit zojuist 0,7% hoger op 1.137 punten. De bloemen mogen naar indexzwaargewicht ASML, dat vandaag het cijferseizoen op het Damrak heeft afgetrapt. En hoe.",
-    "published_at": "2026-10-14 17:35",
-    "scraped_at": "2026-10-14T18:58:21.925272"
-  },
-  {
-    "id": "32baa10857de593f46c899c0371e0c6d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Citi blijft positief over ING",
-    "link": "https://www.beurs.nl/Nieuws/881343/Beursblik-Citi-blijft-positief-over-ING.aspx",
-    "intro": "Citi Research blijft positief over ING in aanloop naar de kwartaalcijfers, met een ongewijzigd koersdoel en koopadvies. Dat bleek woensdag uit een analistenrapport van de Amerikaanse bank.",
-    "published_at": "2026-10-14 17:17",
-    "scraped_at": "2026-10-14T18:58:21.925272"
-  },
-  {
-    "id": "1fedd8f70f4863e6ec8e3d279e7bab68",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: Bank of America verlaagt koersdoel ASML",
-    "link": "https://www.beurs.nl/Nieuws/881342/Beursblik-Bank-of-America-verlaagt-koersdoel-ASML.aspx",
-    "intro": "Bank of America heeft woensdag het koersdoel voor ASML verlaagd van 2.557 naar 2.507 euro, op grond van een lagere waarderingsaanname, maar met handhaving van het koopadvies. Dit bleek uit een rapport dat analist Didier Scemama publiceerde, na de update over het derde kwartaal vanochtend door het bedrijf uit Veldhoven.",
-    "published_at": "2026-10-14 17:13",
-    "scraped_at": "2026-10-14T18:58:21.925272"
-  },
-  {
-    "id": "746872ea5f21a183d3cca3799ead3474",
-    "categorie": "Beursnieuws",
-    "titel": "Media: FDA bestudeert nieuwe regelgeving rond zeldzame ziektes",
-    "link": "https://www.beurs.nl/Nieuws/881336/Media-FDA-bestudeert-nieuwe-regelgeving-rond-zeldzame-ziektes.aspx",
-    "intro": "De Amerikaanse toezichthouder FDA werkt aan een nieuw model, dat de goedkeuring van geneesmiddelen voor zeldzame ziektes transparanter moet worden. Dat maakte de FDA woensdag bekend.",
-    "published_at": "2026-10-14 16:31",
-    "scraped_at": "2026-10-14T18:58:21.925272"
+    "scraped_at": "2026-10-14T22:10:58.099038"
   }
 ]
