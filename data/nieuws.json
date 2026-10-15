@@ -1,12 +1,57 @@
 [
   {
+    "id": "45aa1987a0b744131a3153d80cac890f",
+    "categorie": "Beursnieuws",
+    "titel": "Oliemarkten eindigen verdeeld maar wel flinke stijging WTI",
+    "link": "https://www.beurs.nl/Nieuws/881560/Oliemarkten-eindigen-verdeeld-maar-wel-flinke-stijging-WTI.aspx",
+    "intro": "De olieprijzen noteerden donderdag verdeeld, na een forse daling van de Amerikaanse olievoorraden.",
+    "published_at": "2026-10-15 21:09",
+    "scraped_at": "2026-10-15T19:16:08.563678"
+  },
+  {
+    "id": "c526df10bc417f599ed23a36b03c0c8c",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street veert op",
+    "link": "https://www.beurs.nl/Nieuws/881559/Wall-Street-veert-op.aspx",
+    "intro": "De Amerikaanse beurzen veerden donderdag op, hoewel techaandelen nog wel onder druk stonden. CoreWeave wist wel wat te herstellen van de koersklap van woensdag.",
+    "published_at": "2026-10-15 19:56",
+    "scraped_at": "2026-10-15T19:16:08.563678"
+  },
+  {
+    "id": "023eda6ae9f3a34c41cebcf8629f24da",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen schudden techmalaise af",
+    "link": "https://www.beurs.nl/Nieuws/881552/Europese-beurzen-schudden-techmalaise-af.aspx",
+    "intro": "De Europese beurzen zijn donderdag hoger geëindigd, nadat de obligatierentes daalden. Intussen waren halfgeleideraandelen de gebeten hond door de aanhoudende zorgen over de forse investeringen in AI.",
+    "published_at": "2026-10-15 18:47",
+    "scraped_at": "2026-10-15T19:16:08.563678"
+  },
+  {
+    "id": "e3c21f7a3b23e2cf8ea99763dff71702",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse olievoorraden dalen fors",
+    "link": "https://www.beurs.nl/Nieuws/881551/Amerikaanse-olievoorraden-dalen-fors.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week flink gedaald, terwijl ook de voorraden stookolie afnamen. De benzinevoorraden stegen wel. Dit bleek donderdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-10-15 18:35",
+    "scraped_at": "2026-10-15T19:16:08.563678"
+  },
+  {
+    "id": "6ec59b4f593897e3e6dceaf566858eff",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit lager door zorgen om AI en inflatie",
+    "link": "https://www.beurs.nl/Nieuws/881547/AEX-sluit-lager-door-zorgen-om-AI-en-inflatie.aspx",
+    "intro": "De Amsterdamse beurs is donderdag lager gesloten. Zorgen om AI en inflatie hielden beleggers danig bezig. Met name de verliezen bij de halfgeleiders deden de AEX pijn.",
+    "published_at": "2026-10-15 17:52",
+    "scraped_at": "2026-10-15T19:16:08.563678"
+  },
+  {
     "id": "ac4f8115e4033f776bf5082cbfcbe996",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
     "link": "https://www.beurs.nl/Nieuws/881532/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 23 oktober 2026:",
     "published_at": "2026-10-15 16:30",
-    "scraped_at": "2026-10-15T15:08:50.484031"
+    "scraped_at": "2026-10-15T19:16:08.563678"
   },
   {
     "id": "f56e78ad2a75d36e210bc3c18988c8bc",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/881533/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 23 oktober 2026:",
     "published_at": "2026-10-15 16:30",
-    "scraped_at": "2026-10-15T15:08:50.484031"
+    "scraped_at": "2026-10-15T19:16:08.563678"
   },
   {
     "id": "72665c5ce620729c8514c2fa5c9e7ecb",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/881535/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 23 oktober 2026:",
     "published_at": "2026-10-15 16:30",
-    "scraped_at": "2026-10-15T15:08:50.484031"
+    "scraped_at": "2026-10-15T19:16:08.563678"
   },
   {
     "id": "51e396a539ff4be453f5366eb4527d0b",
@@ -33,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/881530/AkzoNobel-en-Axalta-verder-als-Axanzo.aspx",
     "intro": "AkzoNobel en Axalta zullen na hun aanstaande fusie verder gaan onder de naam Axanzo. Dit maakten de twee bedrijven donderdagmiddag bekend.",
     "published_at": "2026-10-15 16:14",
-    "scraped_at": "2026-10-15T15:08:50.484031"
+    "scraped_at": "2026-10-15T19:16:08.563678"
   },
   {
     "id": "ab76833b3fba9e5955c80be1a36df853",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/881529/Amerikaanse-bedrijfsvoorraden-licht-gestegen.aspx",
     "intro": "De bedrijfsvoorraden in de Verenigde Staten zijn in augustus licht gestegen. Dit bleek donderdagmiddag uit cijfers van het Amerikaanse ministerie van Handel.",
     "published_at": "2026-10-15 16:06",
-    "scraped_at": "2026-10-15T15:08:50.484031"
-  },
-  {
-    "id": "1a3dd6e5ba7f38231066811e34257dea",
-    "categorie": "Beursnieuws",
-    "titel": "Media: benoeming Lagarde bij WEF mogelijk al volgende maand",
-    "link": "https://www.beurs.nl/Nieuws/881526/Media-benoeming-Lagarde-bij-WEF-mogelijk-al-volgende-maand.aspx",
-    "intro": "Het World Economic Forum zou Christine Lagarde mogelijk al volgende maand kunnen benoemen als voorzitter. Dit meldde persbureau Reuters donderdag op basis van verschillende bronnen.",
-    "published_at": "2026-10-15 16:00",
-    "scraped_at": "2026-10-15T15:08:50.484031"
-  },
-  {
-    "id": "1c1cd7ec4e0b68505ab5a10b9c0b1246",
-    "categorie": "Beursnieuws",
-    "titel": "Verkoopgolf techsector niet voorbij op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/881519/Verkoopgolf-techsector-niet-voorbij-op-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan donderdag een lagere opening tegemoet, ondanks sterke resultaten van technologiereus TSMC, nadat producentenprijzen de sterke inflatiecijfers van woensdag bevestigden.",
-    "published_at": "2026-10-15 15:04",
-    "scraped_at": "2026-10-15T15:08:50.484031"
-  },
-  {
-    "id": "1184d71e8f7adf4c716e9c13e65a4e3d",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Empire State index stijgt flink",
-    "link": "https://www.beurs.nl/Nieuws/881516/Update-Empire-State-index-stijgt-flink.aspx",
-    "intro": "De bedrijvigheid in de industrie in de regio New York groeide in oktober veel harder dan in september. Dit bleek donderdag uit de zogeheten Empire State index van de New York Fed.",
-    "published_at": "2026-10-15 14:45",
-    "scraped_at": "2026-10-15T15:08:50.484031"
-  },
-  {
-    "id": "86e9ff05d75839d7d8502119651e12ca",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse producentenprijzen stijgen",
-    "link": "https://www.beurs.nl/Nieuws/881515/Amerikaanse-producentenprijzen-stijgen.aspx",
-    "intro": "De producentenprijzen in de Verenigde Staten zijn in september met 1,3 procent gestegen, na een stijging van 0,5 procent in de maand ervoor. Dit bleek donderdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-10-15 14:43",
-    "scraped_at": "2026-10-15T15:08:50.484031"
-  },
-  {
-    "id": "c2f090cfe4f84982ef33f72bc67b70b2",
-    "categorie": "Beursnieuws",
-    "titel": "Philadelphia Fed index flink gedaald",
-    "link": "https://www.beurs.nl/Nieuws/881514/Philadelphia-Fed-index-flink-gedaald.aspx",
-    "intro": "De index voor de bedrijvigheid in de industrie in de regio rond Philadelphia is in oktober flink gedaald. Dit bleek donderdag uit de zogeheten Philly Fed index.",
-    "published_at": "2026-10-15 14:37",
-    "scraped_at": "2026-10-15T15:08:50.484031"
+    "scraped_at": "2026-10-15T19:16:08.563678"
   }
 ]
