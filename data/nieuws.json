@@ -1,56 +1,92 @@
 [
   {
-    "id": "4f68b4ed789eed9b183c78cdc202af46",
+    "id": "f0d92d804543d3e59e608a1b009db61a",
     "categorie": "Beursnieuws",
-    "titel": "Werkloosheid blijft 4,0 procent",
-    "link": "https://www.beurs.nl/Nieuws/881406/Werkloosheid-blijft-40-procent.aspx",
-    "intro": "De Nederlandse werkloosheid is in september 4,0 procent gebleven. Dit bleek donderdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-10-15 06:55",
-    "scraped_at": "2026-10-15T05:18:45.802213"
+    "titel": "Ericsson boekt sterke omzetgroei in netwerkdivisie",
+    "link": "https://www.beurs.nl/Nieuws/881478/Ericsson-boekt-sterke-omzetgroei-in-netwerkdivisie.aspx",
+    "intro": "Ericsson heeft in het derde kwartaal een sterke omzetgroei in zijn netwerkdivisie geboekt, maar waarschuwde wel dat hogere componentkosten volgend jaar op de winstgevendheid zullen drukken.",
+    "published_at": "2026-10-15 11:31",
+    "scraped_at": "2026-10-15T10:07:27.501174"
   },
   {
-    "id": "37316440637a1f880caec5b8c9c047f3",
+    "id": "8d131446e344e49d29403f00042220d1",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/881405/Europese-beurzen-openen-lager.aspx",
-    "intro": "(ABM FN-Dow Jones) De aandelenmarkten in Europa gaan donderdag een rode handelsdag tegemoet, terwijl de beurzen in Azië stevige verliezen lijden en vooral techaandelen het moeilijk hebben.",
-    "published_at": "2026-10-15 06:51",
-    "scraped_at": "2026-10-15T05:18:45.802213"
+    "titel": "Productie Europese industrie daalt",
+    "link": "https://www.beurs.nl/Nieuws/881467/Productie-Europese-industrie-daalt.aspx",
+    "intro": "De industriële productie in de eurozone is in augustus onverwacht gedaald. Dit bleek donderdag uit cijfers van Eurostat, het statistiekbureau van de EU.",
+    "published_at": "2026-10-15 11:10",
+    "scraped_at": "2026-10-15T10:07:27.501174"
   },
   {
-    "id": "73a34c7c8f6aedd707c789fea8199582",
+    "id": "0634ca9a894f2a1493dabe9e5f37a9b1",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/881400/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 22 oktober 2026:",
-    "published_at": "2026-10-15 06:42",
-    "scraped_at": "2026-10-15T05:18:45.802213"
+    "titel": "Barclays en UBS iets positiever over ASML",
+    "link": "https://www.beurs.nl/Nieuws/881465/Barclays-en-UBS-iets-positiever-over-ASML.aspx",
+    "intro": "Barclays en UBS hebben donderdag hun koersdoelen voor ASML licht verhoogd. Dit bleek uit analistenrapporten volgend op de kwartaalupdate van de Veldhovense toeleverancier van de halfgeleidersector op woensdag.",
+    "published_at": "2026-10-15 11:00",
+    "scraped_at": "2026-10-15T10:07:27.501174"
   },
   {
-    "id": "a927235ac5f2336f5621901591ed0f09",
+    "id": "f4bfa09b0d7cd29e1a6395b55dee12e5",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/881402/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 22 oktober 2026:",
-    "published_at": "2026-10-15 06:42",
-    "scraped_at": "2026-10-15T05:18:45.802213"
+    "titel": "Halfgeleiders duwen AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/881464/Halfgeleiders-duwen-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdag flink lager, vooral door verliezen bij de halfgeleiders. Rond de klok van elf uur daalde de AEX 0,8 procent tot 1.128,39 punten, nadat woensdag met hulp van ASML nog een recordkoers van 1.141,12 punten werd aangetikt.",
+    "published_at": "2026-10-15 10:59",
+    "scraped_at": "2026-10-15T10:07:27.501174"
   },
   {
-    "id": "f75e329dbc1015115fe70221526cf739",
+    "id": "547b1786437b4ba04871ed0e9ef8917d",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/881401/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 22 oktober 2026:",
-    "published_at": "2026-10-15 06:41",
-    "scraped_at": "2026-10-15T05:18:45.802213"
+    "titel": "Beursblik: zwak derde kwartaal TomTom",
+    "link": "https://www.beurs.nl/Nieuws/881463/Beursblik-zwak-derde-kwartaal-TomTom.aspx",
+    "intro": "TomTom heeft in het derde kwartaal een zwakke omzetontwikkeling laten zien, maar onder de streep was het beeld sterk. Dit concludeerde analist Wim Gille van ABN AMRO Oddo.",
+    "published_at": "2026-10-15 10:35",
+    "scraped_at": "2026-10-15T10:07:27.501174"
   },
   {
-    "id": "61a465572071733297a6c296eccc5f72",
+    "id": "cbdfd91b1b68587dbf051d92168774d6",
     "categorie": "Beursnieuws",
-    "titel": "Update: Miljardeninvestering in Amerikaanse chipsector",
-    "link": "https://www.beurs.nl/Nieuws/881390/Update-Miljardeninvestering-in-Amerikaanse-chipsector.aspx",
-    "intro": "GlobalFoundries is geselecteerd als de officiële technologieleverancier en exploitant van twee nieuwe productiefaciliteiten voor halfgeleiders. Dat gebeurde in het kader van een Amerikaans-Japans initiatief dat voorziet in financiering voor de Amerikaanse chipindustrie. Dat meldde de Amerikaanse chipfabrikant woensdag op zijn website.",
-    "published_at": "2026-10-15 01:05",
-    "scraped_at": "2026-10-15T05:18:45.802213"
+    "titel": "Beursblik: UBS verhoogt koersdoel ABN AMRO",
+    "link": "https://www.beurs.nl/Nieuws/881462/Beursblik-UBS-verhoogt-koersdoel-ABN-AMRO.aspx",
+    "intro": "UBS heeft het koersdoel voor ABN AMRO verhoogd van 48,00 naar 52,00 euro, met handhaving van het koopadvies, vooruitlopend op de derde kwartaalcijfers op 11 november.",
+    "published_at": "2026-10-15 10:33",
+    "scraped_at": "2026-10-15T10:07:27.501174"
+  },
+  {
+    "id": "015e5d4520291890bf20acf7b7d3887b",
+    "categorie": "Beursnieuws",
+    "titel": "Media: groeitempo Anthropic neemt af",
+    "link": "https://www.beurs.nl/Nieuws/881460/Media-groeitempo-Anthropic-neemt-af.aspx",
+    "intro": "Anthropic heeft investeerders een update gegeven over zijn omzet, die in het derde kwartaal met bijna 50 procent steeg tot 16,8 miljard dollar, en gemeld dat het bedrijf winstgevend was. De AI-startup wil naar de beurs, terwijl er zorgen zijn over de waarderingen in de sector. Dit schreef de Financial Times donderdag.",
+    "published_at": "2026-10-15 10:16",
+    "scraped_at": "2026-10-15T10:07:27.501174"
+  },
+  {
+    "id": "6bf177857f282c09fee990fbcb4b9266",
+    "categorie": "Must read",
+    "titel": "Must read: Slechte bedrijven presteren slechter",
+    "link": "https://www.iex.nl/artikel/881011/Must-read-Slechte-bedrijven-presteren-slechter.aspx",
+    "intro": "Plus: nieuw cijferseizoen onder hoogspanning, waterschaarste begint een groot probleem te worden, lessen van Mr. Market, China is géén groeiwonder en meer.",
+    "published_at": "2026-10-15 10:00",
+    "scraped_at": "2026-10-15T10:07:27.501174"
+  },
+  {
+    "id": "22256d4bff9282e58be952f4b8668889",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: zwak derde kwartaal voor NSI",
+    "link": "https://www.beurs.nl/Nieuws/881457/Beursblik-zwak-derde-kwartaal-voor-NSI.aspx",
+    "intro": "NSI heeft opnieuw een zwak kwartaal achter de rug. Dit oordeelde analist Vincent Koppmair van Degroof Petercam donderdag in een rapport.",
+    "published_at": "2026-10-15 09:52",
+    "scraped_at": "2026-10-15T10:07:27.501174"
+  },
+  {
+    "id": "59847a444438f240f7c97d8e392a9f49",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Degroof Petercam verlaagt koersdoel Sligro",
+    "link": "https://www.beurs.nl/Nieuws/881454/Beursblik-Degroof-Petercam-verlaagt-koersdoel-Sligro.aspx",
+    "intro": "Degroof Petercam heeft donderdag het koersdoel voor Sligro verlaagd van 12,50 naar 11,00 euro. Het Houden advies bleef gehandhaafd. Dit bleek uit een rapport van analist Fernand de Boer na de kwartaalupdate voorbeurs van de groothandel. Degroof Petercam ontvangt van Sligro een vergoeding om het aandeel te volgen.",
+    "published_at": "2026-10-15 09:33",
+    "scraped_at": "2026-10-15T10:07:27.501174"
   }
 ]
