@@ -1,12 +1,48 @@
 [
   {
+    "id": "28a5f17e2ef10c1e4e4a3e05d0cd0c17",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street zakt verder weg",
+    "link": "https://www.beurs.nl/Nieuws/881706/Wall-Street-zakt-verder-weg.aspx",
+    "intro": "De Amerikaanse beurzen noteerden vrijdag lager en ook op weekbasis dreigden flinke verliezen, als gevolg van de hernieuwde zorgen over de investeringen in AI. Intussen liepen de olieprijzen weer op, net als de rentes.",
+    "published_at": "2026-10-16 19:35",
+    "scraped_at": "2026-10-16T18:26:00.239751"
+  },
+  {
+    "id": "0bf5710bf3b78a59278204529b724a93",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen met winst het weekend in",
+    "link": "https://www.beurs.nl/Nieuws/881703/Europese-beurzen-met-winst-het-weekend-in.aspx",
+    "intro": "De Europese beurzen zijn vrijdag hoger geëindigd en gingen er op weekbasis 2 tot 3 procent op vooruit. Zorgen over de torenhoge investeringen in AI hadden voor de rentemarkten een gunstig effect, want staatsobligaties bleken als veilige haven in trek en dus daalden de rentes en namen zo de zorgen over een mogelijke schuldencrisis voor even af.",
+    "published_at": "2026-10-16 18:44",
+    "scraped_at": "2026-10-16T18:26:00.239751"
+  },
+  {
+    "id": "0ecdc2be427ee4d920fdf41ceff28cee",
+    "categorie": null,
+    "titel": "Slotcall: AEX naar nieuw record, Besi gebeten hond",
+    "link": "https://www.iex.nl/artikel/881694/Slotcall-AEX-naar-nieuw-record-Besi-gebeten-hond.aspx",
+    "intro": "",
+    "published_at": "2026-10-16 18:00",
+    "scraped_at": "2026-10-16T18:26:00.239751"
+  },
+  {
+    "id": "dede6fcab9542760ff1ccbd448cab00a",
+    "categorie": "Beursnieuws",
+    "titel": "AEX sluit week af op record",
+    "link": "https://www.beurs.nl/Nieuws/881699/AEX-sluit-week-af-op-record.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag op een nieuw record gesloten, na een turbulente week waarin de volatiliteit op de rentemarkten centraal stond en AI-gerelateerde aandelen uit de gratie waren.",
+    "published_at": "2026-10-16 17:46",
+    "scraped_at": "2026-10-16T18:26:00.239751"
+  },
+  {
     "id": "5a8fa25ccb39318f8781c583421c5681",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
     "link": "https://www.beurs.nl/Nieuws/881689/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 26 oktober 2026:",
     "published_at": "2026-10-16 16:34",
-    "scraped_at": "2026-10-16T14:43:15.677405"
+    "scraped_at": "2026-10-16T18:26:00.239751"
   },
   {
     "id": "7d057b0801bbc869044c99370cffc476",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/881690/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 26 oktober 2026:",
     "published_at": "2026-10-16 16:34",
-    "scraped_at": "2026-10-16T14:43:15.677405"
+    "scraped_at": "2026-10-16T18:26:00.239751"
   },
   {
     "id": "e12145f033d9ae20a368d2effa312103",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/881688/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 26 oktober 2026:",
     "published_at": "2026-10-16 16:33",
-    "scraped_at": "2026-10-16T14:43:15.677405"
+    "scraped_at": "2026-10-16T18:26:00.239751"
   },
   {
     "id": "61462238fc5dab35bedb924d1f6ecf08",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/881677/Productie-Amerikaanse-industrie-harder-gestegen-dan-verwacht.aspx",
     "intro": "De industriële productie in de Verenigde Staten is in september harder gestegen dan voorzien. Dit bleek vrijdag uit cijfers van de Federal Reserve.",
     "published_at": "2026-10-16 15:26",
-    "scraped_at": "2026-10-16T14:43:15.677405"
+    "scraped_at": "2026-10-16T18:26:00.239751"
   },
   {
     "id": "c5c5819f17535af0a8c84645f9ca020f",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/881666/Wall-Street-koerst-af-op-nagenoeg-vlakke-opening.aspx",
     "intro": "De Amerikaanse beurzen gaan vrijdag een nagenoeg vlakke opening tegemoet, na een turbulente week waarin de volatiliteit op de rentemarkten centraal stond en AI-gerelateerde aandelen uit de gratie waren.",
     "published_at": "2026-10-16 14:55",
-    "scraped_at": "2026-10-16T14:43:15.677405"
+    "scraped_at": "2026-10-16T18:26:00.239751"
   },
   {
     "id": "1b430f7e274588c4ce88de005b265c3c",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/881663/Amerikaanse-importprijzen-verder-omhoog.aspx",
     "intro": "De Amerikaanse importprijzen zijn in september opnieuw gestegen, vooral als gevolg van de hogere energieprijzen. Dit bleek vrijdag uit cijfers van het Amerikaanse ministerie van Arbeid.",
     "published_at": "2026-10-16 14:39",
-    "scraped_at": "2026-10-16T14:43:15.677405"
-  },
-  {
-    "id": "5c514a7edfdf059cf3e17edfa9528fb6",
-    "categorie": "Beursnieuws",
-    "titel": "AEX houdt stand rond verse records",
-    "link": "https://www.beurs.nl/Nieuws/881661/AEX-houdt-stand-rond-verse-records.aspx",
-    "intro": "De AEX koerste vrijdagmiddag hoger, na een turbulente week waarin de volatiliteit op de rentemarkten centraal stond en AI-gerelateerde aandelen uit de gratie waren.",
-    "published_at": "2026-10-16 13:51",
-    "scraped_at": "2026-10-16T14:43:15.677405"
-  },
-  {
-    "id": "d84fdd6bb47b7dd6f1bae181b3e99430",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: sterke focus CM.com op winstgevendheid",
-    "link": "https://www.beurs.nl/Nieuws/881658/Beursblik-sterke-focus-CMcom-op-winstgevendheid.aspx",
-    "intro": "CM.com heeft een \"net\" kwartaal achter de rug en dat ging gepaard met een outlookverhoging. Dit stelde analist Wim Gille van ABN AMRO Oddo vrijdag in een rapport na de cijfers.",
-    "published_at": "2026-10-16 13:21",
-    "scraped_at": "2026-10-16T14:43:15.677405"
-  },
-  {
-    "id": "9eadeb1c9393ff041b90a2233493b63f",
-    "categorie": "Beursnieuws",
-    "titel": "Futures Wall Street signaleren verdeelde opening",
-    "link": "https://www.beurs.nl/Nieuws/881654/Futures-Wall-Street-signaleren-verdeelde-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een verdeelde opening tegemoet, na een turbulente week waarin de volatiliteit op de rentemarkten centraal stond en AI-gerelateerde aandelen uit de gratie waren.",
-    "published_at": "2026-10-16 13:01",
-    "scraped_at": "2026-10-16T14:43:15.677405"
-  },
-  {
-    "id": "eebb46a82a426f397f0d5f0cb8f37cba",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen stijgen rond middaguur",
-    "link": "https://www.beurs.nl/Nieuws/881647/Europese-beurzen-stijgen-rond-middaguur.aspx",
-    "intro": "De Europese aandelen noteerden vrijdagmiddag hoger, waarbij de rentestress wat afneemt en de verkoopgolf in techaandelen tot stilstand is gekomen.",
-    "published_at": "2026-10-16 12:24",
-    "scraped_at": "2026-10-16T14:43:15.677405"
+    "scraped_at": "2026-10-16T18:26:00.239751"
   }
 ]
