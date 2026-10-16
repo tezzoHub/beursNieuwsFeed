@@ -1,38 +1,92 @@
 [
   {
-    "id": "5da505d7901b6242e82083bf881f7a09",
+    "id": "6b88493e1ecb48d3c361fd5ebebe6c00",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/881593/Europese-beurzen-openen-in-het-groen.aspx",
-    "intro": "De aandelenmarkten in Europa gaan vrijdag een hogere opening tegemoet, na al een hoger slot op donderdag, te midden van de aanhoudende zorgen over AI. Staatsobligaties waren donderdag als veilige haven meer in trek dan bedrijfsobligaties en dat zorgde voor dalende rentes.",
-    "published_at": "2026-10-16 06:50",
-    "scraped_at": "2026-10-16T05:10:26.539522"
+    "titel": "Import eurozone flink harder gestegen dan export",
+    "link": "https://www.beurs.nl/Nieuws/881636/Import-eurozone-flink-harder-gestegen-dan-export.aspx",
+    "intro": "De import van goederen door de eurozone is in augustus flink harder gestegen dan de export, wat tot een handelstekort heeft geleid. Dit bleek vrijdag uit cijfers van Eurostat.",
+    "published_at": "2026-10-16 11:18",
+    "scraped_at": "2026-10-16T09:58:00.422674"
   },
   {
-    "id": "40d0ade25a3d000da4dc196572963643",
+    "id": "014f91ed38e858044d61754d8569f1a5",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/881590/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 23 oktober 2026:",
-    "published_at": "2026-10-16 06:36",
-    "scraped_at": "2026-10-16T05:10:26.539522"
+    "titel": "Inflatie eurozone richting 4%",
+    "link": "https://www.beurs.nl/Nieuws/881631/Inflatie-eurozone-richting-4.aspx",
+    "intro": "De inflatie in de eurozone is in september verder toegenomen door een sterkere stijging van de energieprijzen. Dit bleek vrijdag uit definitieve cijfers van statistiekbureau Eurostat.",
+    "published_at": "2026-10-16 11:03",
+    "scraped_at": "2026-10-16T09:58:00.422674"
   },
   {
-    "id": "a4fcbbcc5d04c19f1560c8438408b46f",
+    "id": "863f7f6cd8bddd695bab4a1c1d7de58e",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/881591/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 23 oktober 2026:",
-    "published_at": "2026-10-16 06:36",
-    "scraped_at": "2026-10-16T05:10:26.539522"
+    "titel": "AEX bouwt winst uit",
+    "link": "https://www.beurs.nl/Nieuws/881630/AEX-bouwt-winst-uit.aspx",
+    "intro": "De AEX weet vrijdag te stijgen dankzij breedgedragen winsten in de hoofdindex. Alleen het aandeel Besi is een dissonant.",
+    "published_at": "2026-10-16 10:58",
+    "scraped_at": "2026-10-16T09:58:00.422674"
   },
   {
-    "id": "fbb38d54b34cbcbdc3682170c47247be",
+    "id": "e8962ec1838395380c921a4527b8816d",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/881592/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 23 oktober 2026:",
-    "published_at": "2026-10-16 06:36",
-    "scraped_at": "2026-10-16T05:10:26.539522"
+    "titel": "Wise positiever gestemd",
+    "link": "https://www.beurs.nl/Nieuws/881624/Wise-positiever-gestemd.aspx",
+    "intro": "Wise heeft de groeiverwachtingen verhoogd bij de publicatie van de kwartaalcijfers. Dit meldde de Britse betaalspecialist vrijdagochtend in een kwartaalbericht.",
+    "published_at": "2026-10-16 10:11",
+    "scraped_at": "2026-10-16T09:58:00.422674"
+  },
+  {
+    "id": "6a6f153e628eff3446a4968b0f938130",
+    "categorie": "Must read",
+    "titel": "Must read: \"Stoppen met bouw datacentra kan recessie in de VS veroorzaken\"",
+    "link": "https://www.iex.nl/artikel/881510/Must-read-Stoppen-met-bouw-datacentra-kan-recessie-in-de-VS-veroorzaken.aspx",
+    "intro": "Daar waarschuwt BlackRock-topman Larry Fink voor althans. Verder: Tesla presenteert een nieuwe auto, KLM schrapt vluchten wegens rammelende vloot en gaat Lagarde echt al weg?",
+    "published_at": "2026-10-16 10:00",
+    "scraped_at": "2026-10-16T09:58:00.422674"
+  },
+  {
+    "id": "0fd39e5d5b445bf4fe21aa343a513c4d",
+    "categorie": "Beursnieuws",
+    "titel": "Banken en chippers helpen AEX hoger",
+    "link": "https://www.beurs.nl/Nieuws/881613/Banken-en-chippers-helpen-AEX-hoger.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag hoger geopend. Circa tien minuten na de beursgong won de AEX 0,4 procent op 1.137,02 punten. De AMX steeg met 0,5 procent.",
+    "published_at": "2026-10-16 09:13",
+    "scraped_at": "2026-10-16T09:58:00.422674"
+  },
+  {
+    "id": "925d64c4f281744108d8adeefd554b46",
+    "categorie": "Beleggen",
+    "titel": "\"Voor onze families zijn lage rendementen geen offer\"",
+    "link": "https://www.ieximpact.nl/artikel/880958/Voor-onze-families-zijn-lage-rendementen-geen-offer.aspx",
+    "intro": "Oprichter Ruth van de Belt van multi-family office Kosmos Impact in Bussum helpt zeer vermogende families hun portefeuille in te richten rond de verandering die zij in de wereld willen zien. Daar kunnen ook beleggingen met weinig of geen financieel rendement bij horen.",
+    "published_at": "2026-10-16 09:12",
+    "scraped_at": "2026-10-16T09:58:00.422674"
+  },
+  {
+    "id": "f5dbec7a8b662748238ea9f0c71de35a",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank verhoogt koersdoel ABN Amro",
+    "link": "https://www.beurs.nl/Nieuws/881611/Deutsche-Bank-verhoogt-koersdoel-ABN-Amro.aspx",
+    "intro": "Deutsche Bank heeft het koersdoel voor ABN AMRO verhoogd van 40,00 naar 41,00 euro, met een herhaling van het Houden advies. Dit bleek vrijdag uit een rapport van analist Benjamin Goy.",
+    "published_at": "2026-10-16 09:05",
+    "scraped_at": "2026-10-16T09:58:00.422674"
+  },
+  {
+    "id": "e063dfdc4d3762930e200b8444e6b207",
+    "categorie": "Beursnieuws",
+    "titel": "'ASML bouwt mogelijk eigen hybrid bonding-tool'",
+    "link": "https://www.beurs.nl/Nieuws/881610/ASML-bouwt-mogelijk-eigen-hybrid-bonding-tool.aspx",
+    "intro": "Het lijkt een steeds waarschijnlijker scenario dat ASML aan een hybrid bonding tool werkt en daarmee een directe concurrent wordt van BE Semiconductor Industries.",
+    "published_at": "2026-10-16 08:49",
+    "scraped_at": "2026-10-16T09:58:00.422674"
+  },
+  {
+    "id": "c84621ca3b88a3d3dbd1223f82bb5e9c",
+    "categorie": "Beursnieuws",
+    "titel": "AEX maakt zich vermoedelijk op voor nipt hogere opening na herstel op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/881601/AEX-maakt-zich-vermoedelijk-op-voor-nipt-hogere-opening-na-herstel-op-Wall-Street.aspx",
+    "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting hoger van start. Futures op de AEX index wezen ongeveer een uur voor de beursgong op een winst van 0,1 procent.",
+    "published_at": "2026-10-16 08:03",
+    "scraped_at": "2026-10-16T09:58:00.422674"
   }
 ]
