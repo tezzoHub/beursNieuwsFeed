@@ -1,29 +1,92 @@
 [
   {
-    "id": "60acde8a67eccac567630bec38d75374",
+    "id": "faf76defa2059025274a05df0810fde7",
     "categorie": "Beursnieuws",
-    "titel": "Cijferseizoen komende week verder op stoom",
-    "link": "https://www.beurs.nl/Nieuws/881728/Cijferseizoen-komende-week-verder-op-stoom.aspx",
-    "intro": "In de komende beursweek komt het cijferseizoen echt op stoom, terwijl het op macro-economisch gebied wat minder spannend is.",
-    "published_at": "2026-10-18 12:01",
-    "scraped_at": "2026-10-19T01:50:19.451237"
+    "titel": "Beursupdate: AEX voorzichtig van start met Wolters Kluwer aan kop",
+    "link": "https://www.beurs.nl/Nieuws/881772/Beursupdate-AEX-voorzichtig-van-start-met-Wolters-Kluwer-aan-kop.aspx",
+    "intro": "De Amsterdamse beurs is maandag licht hoger geopend. Kort na de beursgong steeg de AEX met 0,2 procent tot 1.145,24 punten. De AMX daalde juist met 0,6 procent.",
+    "published_at": "2026-10-19 09:16",
+    "scraped_at": "2026-10-19T07:25:16.718913"
   },
   {
-    "id": "e2ede7f35f23ed14212435d6b3485ebe",
-    "categorie": "Beursnieuws",
-    "titel": "ASML helpt AEX aan all time high ondanks techmalaise",
-    "link": "https://www.beurs.nl/Nieuws/881726/ASML-helpt-AEX-aan-all-time-high-ondanks-techmalaise.aspx",
-    "intro": "De Amsterdamse beurs wist afgelopen week te pieken op 1.147 punten, met steun van de databedrijven en aandelen in de consumentensector, als gevolg van een sectorrotatie weg van tech. Unilever, Heineken en Magnum Ice wonnen 7 tot 9 procent op weekbasis.",
-    "published_at": "2026-10-18 11:31",
-    "scraped_at": "2026-10-19T01:50:19.451237"
+    "id": "947d472a0df5ebfd575478371fc4d571",
+    "categorie": "Beleggen",
+    "titel": "Groene obligaties zijn niet alleen goed voor het klimaat, maar ook voor het rendement",
+    "link": "https://www.ieximpact.nl/artikel/881159/Groene-obligaties-zijn-niet-alleen-goed-voor-het-klimaat-maar-ook-voor-het-rendement.aspx",
+    "intro": "Groene obligaties zijn allang geen nicheproduct meer voor idealistische beleggers. Met meer dan 7.000 miljard dollar aan uitstaande duurzame schuldinstrumenten groeit de belangstelling van institutionele partijen. Volgens Sean Kidney van Climate Bonds Initiative zit de aantrekkingskracht niet alleen in het duurzame karakter, maar vooral ook in het beschermen van rendementen op lange termijn.",
+    "published_at": "2026-10-19 08:55",
+    "scraped_at": "2026-10-19T07:25:16.718913"
   },
   {
-    "id": "5c425ca597aa09e32186dde748fa289d",
+    "id": "73f5d0876325a8e1873dd6d88bdc5a77",
     "categorie": "Beursnieuws",
-    "titel": "AEX schudt AI-zorgen af en bereikt nieuwe piek",
-    "link": "https://www.beurs.nl/Nieuws/881724/AEX-schudt-AI-zorgen-af-en-bereikt-nieuwe-piek.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week verder gestegen en wist zo een nieuwe all time high te bereiken.",
-    "published_at": "2026-10-18 11:02",
-    "scraped_at": "2026-10-19T01:50:19.451237"
+    "titel": "Van Lanschot Kempen draagt Saul van Beurden voor als commissaris",
+    "link": "https://www.beurs.nl/Nieuws/881762/Van-Lanschot-Kempen-draagt-Saul-van-Beurden-voor-als-commissaris.aspx",
+    "intro": "Van Lanschot Kempen heeft Saul van Beurden voorgedragen als lid van de raad van commissarissen. Dit maakte de vermogensbeheerder maandagochtend bekend.",
+    "published_at": "2026-10-19 08:33",
+    "scraped_at": "2026-10-19T07:25:16.718913"
+  },
+  {
+    "id": "9be98d4ab0a36edaceadd7d571bbfdd1",
+    "categorie": "Beursnieuws",
+    "titel": "Cabka krijgt validatie van klimaatdoelen",
+    "link": "https://www.beurs.nl/Nieuws/881761/Cabka-krijgt-validatie-van-klimaatdoelen.aspx",
+    "intro": "Cabka heeft maandag gemeld dat zijn klimaatdoelen voor de korte termijn zijn gevalideerd door het Science Based Targets initiative (SBTi), een internationaal samenwerkingsverband dat toetst of klimaatdoelen van bedrijven aansluiten bij het Klimaatakkoord van Parijs.",
+    "published_at": "2026-10-19 08:30",
+    "scraped_at": "2026-10-19T07:25:16.718913"
+  },
+  {
+    "id": "8fe0300cbe3b85b730242874594857e6",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start handelsweek afwachtend na aanscherpen recordstand",
+    "link": "https://www.beurs.nl/Nieuws/881756/AEX-start-handelsweek-afwachtend-na-aanscherpen-recordstand.aspx",
+    "intro": "De Amsterdamse beurs gaat maandag naar verwachting een min of meer vlakke opening tegemoet, na een fors lager slot op Wall Street vrijdagavond en een verdeeld beeld in Azië vanochtend.",
+    "published_at": "2026-10-19 08:13",
+    "scraped_at": "2026-10-19T07:25:16.718913"
+  },
+  {
+    "id": "3b85b39f717d15c957f69fbbe9bb2a0f",
+    "categorie": "Beursnieuws",
+    "titel": "JPMorgan verhoogt koersdoel Wolters Kluwer",
+    "link": "https://www.beurs.nl/Nieuws/881754/JPMorgan-verhoogt-koersdoel-Wolters-Kluwer.aspx",
+    "intro": "JPMorgan Research heeft het koersdoel voor Wolters Kluwer verhoogd van 87,00 naar 100,00 euro, met handhaving van het Overwogen advies. Dit bleek maandag uit een rapport van de Amerikaanse zakenbank, die daarmee voor de tweede keer in drie maanden het koersdoel fors optrok.",
+    "published_at": "2026-10-19 08:02",
+    "scraped_at": "2026-10-19T07:25:16.718913"
+  },
+  {
+    "id": "6a835584e340e563e5ad76dfb9cf2318",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent lager en de link met Zwarte Maandag komt slecht uit",
+    "link": "https://www.iex.nl/artikel/881734/AEX-opent-lager-en-de-link-met-Zwarte-Maandag-komt-slecht-uit.aspx",
+    "intro": "AEX-indicatie is -0,4% en exact 39 jaar geleden was het Zwarte Maandag. Zoeken we dekking met kwakkelende chippers, oplopende VIX en beleggers op standje extreme fear? Veel succes vandaag.",
+    "published_at": "2026-10-19 08:00",
+    "scraped_at": "2026-10-19T07:25:16.718913"
+  },
+  {
+    "id": "8cfc0ecef8a138bf3c581475f6eea957",
+    "categorie": "Beursnieuws",
+    "titel": "Citi zet Euronext op kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/881753/Citi-zet-Euronext-op-kooplijst.aspx",
+    "intro": "Citi heeft maandag het koersdoel voor Euronext van 156,00 naar 200,00 euro verhoogd, met een aanpassing van het Neutraal advies naar een Koop advies. Dit bleek uit een analistenrapport.",
+    "published_at": "2026-10-19 07:58",
+    "scraped_at": "2026-10-19T07:25:16.718913"
+  },
+  {
+    "id": "b388f5dfa44b63366906d94ae7c310d2",
+    "categorie": "Beursnieuws",
+    "titel": "JPMorgan verlaagt koersdoel Besi",
+    "link": "https://www.beurs.nl/Nieuws/881752/JPMorgan-verlaagt-koersdoel-Besi.aspx",
+    "intro": "JPMorgan Research heeft maandag het koersdoel voor BE Semiconductor Industries verlaagd van 342 naar 275 euro, maar met handhaving van het Overwogen advies. Dit bleek uit een analistenrapport van de Amerikaanse zakenbank.",
+    "published_at": "2026-10-19 07:54",
+    "scraped_at": "2026-10-19T07:25:16.718913"
+  },
+  {
+    "id": "8740d5e9e391058ea693400e4db4fce6",
+    "categorie": "Beursnieuws",
+    "titel": "Groeiversnelling voor Chinese economie",
+    "link": "https://www.beurs.nl/Nieuws/881750/Groeiversnelling-voor-Chinese-economie.aspx",
+    "intro": "De Chinese economie is in het derde kwartaal van 2026 iets harder gegroeid dan voorzien. Dit bleek maandag uit overheidscijfers.",
+    "published_at": "2026-10-19 07:31",
+    "scraped_at": "2026-10-19T07:25:16.718913"
   }
 ]
