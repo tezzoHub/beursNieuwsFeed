@@ -1,12 +1,75 @@
 [
   {
+    "id": "1eedcc8a33b8d7891e869963c60dee73",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/881866/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag zeven van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-10-19 22:20",
+    "scraped_at": "2026-10-19T20:38:46.502265"
+  },
+  {
+    "id": "f4e2f69cbb032be0d60a2e28a0747d27",
+    "categorie": "Beursnieuws",
+    "titel": "Tech helpt Wall Street herstellen",
+    "link": "https://www.beurs.nl/Nieuws/881865/Tech-helpt-Wall-Street-herstellen.aspx",
+    "intro": "De Amerikaanse beurzen zijn maandag overwegend hoger geëindigd, terwijl techaandelen herstelden.",
+    "published_at": "2026-10-19 22:13",
+    "scraped_at": "2026-10-19T20:38:46.502265"
+  },
+  {
+    "id": "a7538b6c46a9f9759799a6a2b34fd579",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen blijven hoog",
+    "link": "https://www.beurs.nl/Nieuws/881860/Olieprijzen-blijven-hoog.aspx",
+    "intro": "De WTI-olieprijs is maandag verder gestegen, terwijl de prijs voor Brent op een hoog niveau stabiliseerde, nadat de prijzen vorige week al fors opliepen.",
+    "published_at": "2026-10-19 21:09",
+    "scraped_at": "2026-10-19T20:38:46.502265"
+  },
+  {
+    "id": "b070a26d2350389b48714c46b2ffcc16",
+    "categorie": "Beursnieuws",
+    "titel": "Tech helpt Wall Street in het zadel",
+    "link": "https://www.beurs.nl/Nieuws/881855/Tech-helpt-Wall-Street-in-het-zadel.aspx",
+    "intro": "De Amerikaanse beurzen noteerden maandag overwegend hoger, terwijl techaandelen herstelden.",
+    "published_at": "2026-10-19 19:46",
+    "scraped_at": "2026-10-19T20:38:46.502265"
+  },
+  {
+    "id": "add0378c409b9d125086d35bf302a5c8",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten lager door Franse onrust",
+    "link": "https://www.beurs.nl/Nieuws/881853/Europese-beurzen-sluiten-lager-door-Franse-onrust.aspx",
+    "intro": "De Europese beurzen zijn maandag lager geëindigd, in reactie op de onrust in Frankrijk tijdens het weekend. Als gevolg hiervan liepen de rentes maandag weer op.",
+    "published_at": "2026-10-19 18:45",
+    "scraped_at": "2026-10-19T20:38:46.502265"
+  },
+  {
+    "id": "b6f2d807c6cd2fb462877755ac897a94",
+    "categorie": "Beursnieuws",
+    "titel": "Herstel techaandelen beperkt verlies AEX",
+    "link": "https://www.beurs.nl/Nieuws/881834/Herstel-techaandelen-beperkt-verlies-AEX.aspx",
+    "intro": "De Amsterdamse beurs is maandag iets lager gesloten na de onlusten in Frankrijk in het weekend. Dat kostte vooral bankaandelen terrein.",
+    "published_at": "2026-10-19 17:59",
+    "scraped_at": "2026-10-19T20:38:46.502265"
+  },
+  {
+    "id": "3b3ef45e84d1c6a9fba70dd794b312c9",
+    "categorie": "Beursnieuws",
+    "titel": "Ahold Delhaize doet aangifte",
+    "link": "https://www.beurs.nl/Nieuws/881831/Ahold-Delhaize-doet-aangifte.aspx",
+    "intro": "Ahold Delhaize heeft maandag aangifte gedaan bij de Nederlandse politie. Dit meldde het bedrijf in een persbericht.",
+    "published_at": "2026-10-19 17:33",
+    "scraped_at": "2026-10-19T20:38:46.502265"
+  },
+  {
     "id": "6edee9d5db9b4c119dedb2290b3d021f",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
     "link": "https://www.beurs.nl/Nieuws/881827/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 27 oktober 2026:",
     "published_at": "2026-10-19 16:30",
-    "scraped_at": "2026-10-19T15:00:24.174289"
+    "scraped_at": "2026-10-19T20:38:46.502265"
   },
   {
     "id": "7b215dc2d18f244cde6230ac1901c87b",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/881828/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 27 oktober 2026:",
     "published_at": "2026-10-19 16:30",
-    "scraped_at": "2026-10-19T15:00:24.174289"
+    "scraped_at": "2026-10-19T20:38:46.502265"
   },
   {
     "id": "9c2797af33de455125d7c8bacab21cb5",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/881826/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 27 oktober 2026:",
     "published_at": "2026-10-19 16:29",
-    "scraped_at": "2026-10-19T15:00:24.174289"
-  },
-  {
-    "id": "8b1274aa048c28fad33f6a32f1c66649",
-    "categorie": "Beursnieuws",
-    "titel": "Vertrouwen Amerikaanse huizenbouwers naar laagste punt in 14 jaar",
-    "link": "https://www.beurs.nl/Nieuws/881823/Vertrouwen-Amerikaanse-huizenbouwers-naar-laagste-punt-in-14-jaar.aspx",
-    "intro": "Het vertrouwen onder Amerikaanse huizenbouwers is in oktober sterker dan verwacht gedaald. Dit bleek maandag uit data van de National Association of Home Builders.",
-    "published_at": "2026-10-19 16:13",
-    "scraped_at": "2026-10-19T15:00:24.174289"
-  },
-  {
-    "id": "0ef0ed47f9052fbf58ee601ff1313b13",
-    "categorie": "Beursnieuws",
-    "titel": "Video: AI dominante thema voor dit cijferseizoen",
-    "link": "https://www.beurs.nl/Nieuws/881820/Video-AI-dominante-thema-voor-dit-cijferseizoen.aspx",
-    "intro": "De focus zal dit cijferseizoen vooral liggen op alles wat met AI te maken heeft. Dit zei beleggingsstrateeg Ralph Wessels voor de camera tegen ABM Financial News.",
-    "published_at": "2026-10-19 15:34",
-    "scraped_at": "2026-10-19T15:00:24.174289"
-  },
-  {
-    "id": "a6d85028eaecc5948bcef131a7f36c5b",
-    "categorie": "Beursnieuws",
-    "titel": "Ridinger nieuwe voorzitter DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/881819/Ridinger-nieuwe-voorzitter-DSM-Firmenich.aspx",
-    "intro": "De aandeelhouders van DSM-Firmenich hebben Richard Ridinger gekozen tot hun nieuwe bestuursvoorzitter. Dit maakte het bedrijf maandagmiddag bekend.",
-    "published_at": "2026-10-19 15:25",
-    "scraped_at": "2026-10-19T15:00:24.174289"
-  },
-  {
-    "id": "98f99e8e4a0e6342d2a615d31f6f9046",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street heeft verdeelde opening voor de boeg",
-    "link": "https://www.beurs.nl/Nieuws/881815/Wall-Street-heeft-verdeelde-opening-voor-de-boeg.aspx",
-    "intro": "De Amerikaanse beurzen stevenen maandag af op een verdeelde opening. Na de flinke verkoopgolf van vorige week, lijken beleggers weer voorzichtig in te stappen in AI-aandelen.",
-    "published_at": "2026-10-19 14:57",
-    "scraped_at": "2026-10-19T15:00:24.174289"
-  },
-  {
-    "id": "95ba40197b22f6d7daf1f6d55624783c",
-    "categorie": "Nieuws",
-    "titel": "Wie investeert in natuur, oogst veerkracht en rendement",
-    "link": "https://www.ieximpact.nl/artikel/881807/Wie-investeert-in-natuur-oogst-veerkracht-en-rendement.aspx",
-    "intro": "Afgelopen zomer bleek opnieuw hoe kwetsbaar Europese landbouwgrond en bossen zijn voor hitte, droogte en bosbranden. Volgens Karel Nierop van Triodos Investment Management moet dat voor beleggers juist geen reden zijn om deze sectoren links te laten liggen. \"Door te investeren in regeneratieve landbouw en natuurvriendelijke bosbouw dragen beleggers rechtstreeks bij aan gezondere bodems en veerkrachtige ecosystemen.\"",
-    "published_at": "2026-10-19 14:30",
-    "scraped_at": "2026-10-19T15:00:24.174289"
-  },
-  {
-    "id": "4ff6292670827d13c503b03584326c27",
-    "categorie": "Beursnieuws",
-    "titel": "AEX noteert licht in het rood",
-    "link": "https://www.beurs.nl/Nieuws/881808/AEX-noteert-licht-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs noteerde maandagmiddag tijdens een nogal kalme handelsdag licht in de min. Beleggers hadden weinig beursnieuws voorhanden en ze keken de kat uit de boom na grootschalige rellen dit weekend in Frankrijk.",
-    "published_at": "2026-10-19 13:58",
-    "scraped_at": "2026-10-19T15:00:24.174289"
-  },
-  {
-    "id": "3d4051b1a4e10ff7065cbf29f92fb0d5",
-    "categorie": "Beursnieuws",
-    "titel": "Analistenconsensus: omzetgroei Randstad zette door",
-    "link": "https://www.beurs.nl/Nieuws/881806/Analistenconsensus-omzetgroei-Randstad-zette-door.aspx",
-    "intro": "De autonome omzet van Randstad is in het derde kwartaal opnieuw sneller gestegen, na de onverwachte groei in het eerste en een versnelling in het tweede kwartaal. Dit is de verwachting van analisten volgens een consensus die het uitzendbedrijf samenstelde.",
-    "published_at": "2026-10-19 13:41",
-    "scraped_at": "2026-10-19T15:00:24.174289"
+    "scraped_at": "2026-10-19T20:38:46.502265"
   }
 ]
