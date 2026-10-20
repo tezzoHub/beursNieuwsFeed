@@ -1,92 +1,92 @@
 [
   {
-    "id": "c03b78de1d0c64a76bec3f757e12fb04",
+    "id": "ce886653abec6f152730b31b374e4ab3",
     "categorie": "Beursnieuws",
-    "titel": "Media: Nscale en Anthropic onderhandelen over tweede miljardendeal",
-    "link": "https://www.beurs.nl/Nieuws/881867/Media-Nscale-en-Anthropic-onderhandelen-over-tweede-miljardendeal.aspx",
-    "intro": "Het Britse AI-cloudcomputingbedrijf Nscale onderhandelt om rekenkracht te verkopen aan Anthropic in een deal die ongeveer 45 miljard dollar waard zou kunnen zijn. Dit meldde persbureau Bloomberg maandagavond op basis van bronnen.",
-    "published_at": "2026-10-19 22:43",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "titel": "Beursblik: hogere resultaten Netflix verwacht",
+    "link": "https://www.beurs.nl/Nieuws/881940/Beursblik-hogere-resultaten-Netflix-verwacht.aspx",
+    "intro": "Netflix zal dinsdagavond nabeurs naar verwachting hogere resultaten bekendmaken over het derde kwartaal, te midden van personele onrust bij de Amerikaanse streamingreus, die vorige week een flinke reorganisatie aankondigde en zijn belangrijkste contentchef vervangt.",
+    "published_at": "2026-10-20 11:32",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "1eedcc8a33b8d7891e869963c60dee73",
+    "id": "c4184d2cde216ee50dd095648c5571bf",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/881866/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag zeven van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-10-19 22:20",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "titel": "Duitse ZEW-index daalt",
+    "link": "https://www.beurs.nl/Nieuws/881938/Duitse-ZEW-index-daalt.aspx",
+    "intro": "De ZEW-index voor het economisch sentiment in Duitsland is in oktober gedaald. Dit bleek dinsdag uit cijfers van het Duitse onderzoeksinstituut.",
+    "published_at": "2026-10-20 11:18",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "f4e2f69cbb032be0d60a2e28a0747d27",
-    "categorie": "Beursnieuws",
-    "titel": "Tech helpt Wall Street herstellen",
-    "link": "https://www.beurs.nl/Nieuws/881865/Tech-helpt-Wall-Street-herstellen.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag overwegend hoger geëindigd, terwijl techaandelen herstelden.",
-    "published_at": "2026-10-19 22:13",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "id": "6f33d3788a908269280d0b456de5c519",
+    "categorie": "Beurs vandaag",
+    "titel": "Volkswagen komt met auto-achtige opties op, jawel, een e-bike",
+    "link": "https://www.iex.nl/artikel/881927/Volkswagen-komt-met-auto-achtige-opties-op-jawel-een-e-bike.aspx",
+    "intro": "Geen nieuwe GTI of bus, maar dit kwartaal begint Volkswagen met de levering van een nieuwe e-bike. Bomvol opties als dodehoekdetectie en een achteruitkijkcamera. Hoe duur is dit geintje?",
+    "published_at": "2026-10-20 11:15",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "a7538b6c46a9f9759799a6a2b34fd579",
+    "id": "e3f967e6560f0b1658cbea31d7f74dd2",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen blijven hoog",
-    "link": "https://www.beurs.nl/Nieuws/881860/Olieprijzen-blijven-hoog.aspx",
-    "intro": "De WTI-olieprijs is maandag verder gestegen, terwijl de prijs voor Brent op een hoog niveau stabiliseerde, nadat de prijzen vorige week al fors opliepen.",
-    "published_at": "2026-10-19 21:09",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "titel": "Chippers omlaag en AEX in het rood",
+    "link": "https://www.beurs.nl/Nieuws/881931/Chippers-omlaag-en-AEX-in-het-rood.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagochtend in het rood, vooral door de verliezen voor de 'chippers'.",
+    "published_at": "2026-10-20 11:03",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "b070a26d2350389b48714c46b2ffcc16",
+    "id": "fa97e8368e77ea1db256dccc1700b7ec",
     "categorie": "Beursnieuws",
-    "titel": "Tech helpt Wall Street in het zadel",
-    "link": "https://www.beurs.nl/Nieuws/881855/Tech-helpt-Wall-Street-in-het-zadel.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag overwegend hoger, terwijl techaandelen herstelden.",
-    "published_at": "2026-10-19 19:46",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "titel": "CTP verhuurt pand in Boekarest rechtstreeks aan Pepco",
+    "link": "https://www.beurs.nl/Nieuws/881930/CTP-verhuurt-pand-in-Boekarest-rechtstreeks-aan-Pepco.aspx",
+    "intro": "CTP heeft zijn distributiecentrum bij Boekarest rechtstreeks verhuurd aan Pepco, een Europese retailer in kleding, huishoudelijke artikelen en speelgoed. Dit maakte het vastgoedbedrijf dinsdag bekend.",
+    "published_at": "2026-10-20 10:58",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "add0378c409b9d125086d35bf302a5c8",
+    "id": "e219cf0c7680fd6b938710760cd9e93c",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten lager door Franse onrust",
-    "link": "https://www.beurs.nl/Nieuws/881853/Europese-beurzen-sluiten-lager-door-Franse-onrust.aspx",
-    "intro": "De Europese beurzen zijn maandag lager geëindigd, in reactie op de onrust in Frankrijk tijdens het weekend. Als gevolg hiervan liepen de rentes maandag weer op.",
-    "published_at": "2026-10-19 18:45",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "titel": "Ryanair schrapt Belgische vluchten na verhoging vliegtaks",
+    "link": "https://www.beurs.nl/Nieuws/881929/Ryanair-schrapt-Belgische-vluchten-na-verhoging-vliegtaks.aspx",
+    "intro": "Ryanair heeft zijn vluchten vanaf de luchthavens Brussel-Charleroi en Zaventem voor het komende winterseizoen fors ingekrompen, in reactie op de verhoging van de vliegbelasting met 250 procent vanaf januari volgend jaar.",
+    "published_at": "2026-10-20 10:46",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "b6f2d807c6cd2fb462877755ac897a94",
+    "id": "391f6837caabf90f36eedf11126fcba3",
     "categorie": "Beursnieuws",
-    "titel": "Herstel techaandelen beperkt verlies AEX",
-    "link": "https://www.beurs.nl/Nieuws/881834/Herstel-techaandelen-beperkt-verlies-AEX.aspx",
-    "intro": "De Amsterdamse beurs is maandag iets lager gesloten na de onlusten in Frankrijk in het weekend. Dat kostte vooral bankaandelen terrein.",
-    "published_at": "2026-10-19 17:59",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "titel": "KBC Securities: uitstel Postwet zet PostNL verder onder druk",
+    "link": "https://www.beurs.nl/Nieuws/881924/KBC-Securities-uitstel-Postwet-zet-PostNL-verder-onder-druk.aspx",
+    "intro": "KBC Securities verwacht dat het uitstel van de overgang van postbezorging binnen twee werkdagen naar drie werkdagen de resultaten van PostNL verder onder druk zal zetten.",
+    "published_at": "2026-10-20 10:12",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "3b3ef45e84d1c6a9fba70dd794b312c9",
-    "categorie": "Beursnieuws",
-    "titel": "Ahold Delhaize doet aangifte",
-    "link": "https://www.beurs.nl/Nieuws/881831/Ahold-Delhaize-doet-aangifte.aspx",
-    "intro": "Ahold Delhaize heeft maandag aangifte gedaan bij de Nederlandse politie. Dit meldde het bedrijf in een persbericht.",
-    "published_at": "2026-10-19 17:33",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "id": "2db684af3e96ecb008342e0c083d3fdf",
+    "categorie": "Must read",
+    "titel": "Must read: De 60/40-portefeuille is klaar voor een comeback",
+    "link": "https://www.iex.nl/artikel/881767/Must-read-De-60-40-portefeuille-is-klaar-voor-een-comeback.aspx",
+    "intro": "Plus: waarom de goudprijs daalt, veilige havens gezocht, investeren in natuur loont, groeikampioen Polen, Canada blijft bij elkaar, en meer.",
+    "published_at": "2026-10-20 10:06",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "6edee9d5db9b4c119dedb2290b3d021f",
+    "id": "4ee618f8f3e119a1515e6e59c88b1d5e",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/881827/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 27 oktober 2026:",
-    "published_at": "2026-10-19 16:30",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "titel": "KBC Securities: clubnetwerk van Basic-Fit blijft groeien",
+    "link": "https://www.beurs.nl/Nieuws/881923/KBC-Securities-clubnetwerk-van-Basic-Fit-blijft-groeien.aspx",
+    "intro": "Basic-Fit heeft in het derde kwartaal de positieve trend in het aantal leden per fitnessclub kunnen doorzetten. Dit verwacht KBC Securities, terwijl analisten ervan uitgaan dat het bedrijf op koers ligt om zijn jaardoelen te halen. Dit bleek uit een analistenconsensus samengesteld door de uitbater van fitnessclubs.",
+    "published_at": "2026-10-20 10:05",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   },
   {
-    "id": "7b215dc2d18f244cde6230ac1901c87b",
+    "id": "ed6b93dd29dc2302424381b43bc608bd",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/881828/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 27 oktober 2026:",
-    "published_at": "2026-10-19 16:30",
-    "scraped_at": "2026-10-20T04:35:16.269530"
+    "titel": "Chipaandelen zetten AEX lager",
+    "link": "https://www.beurs.nl/Nieuws/881914/Chipaandelen-zetten-AEX-lager.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag lager van start gegaan. Kort na de beursgong daalde de AEX met 0,5% naar 1.136,11 punten. De AMX verloor 0,7%.",
+    "published_at": "2026-10-20 09:15",
+    "scraped_at": "2026-10-20T09:40:07.487745"
   }
 ]
