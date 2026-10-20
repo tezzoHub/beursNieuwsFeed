@@ -1,12 +1,66 @@
 [
   {
+    "id": "9dfe5c30571a7cef921d70557bf2bf53",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/882027/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag vier van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-10-20 22:55",
+    "scraped_at": "2026-10-20T21:55:44.886462"
+  },
+  {
+    "id": "fd9f9a9116dd28db56e0f3e95a96fecb",
+    "categorie": "Beursnieuws",
+    "titel": "United boekt record kwartaalomzet",
+    "link": "https://www.beurs.nl/Nieuws/882026/United-boekt-record-kwartaalomzet.aspx",
+    "intro": "United Airlines heeft in het derde kwartaal van 2026 een recordomzet geboekt, ondanks een forse stijging van de brandstofkosten. De Amerikaanse luchtvaartmaatschappij maakte dinsdag bekend dat het aantal passagiers eveneens een record bereikte.",
+    "published_at": "2026-10-20 22:43",
+    "scraped_at": "2026-10-20T21:55:44.886462"
+  },
+  {
+    "id": "b7c4aed637e61de0bd58d276786b9bdf",
+    "categorie": "Beursnieuws",
+    "titel": "SpaceX boekt recordomzet door AI en Starlink",
+    "link": "https://www.beurs.nl/Nieuws/882025/SpaceX-boekt-recordomzet-door-AI-en-Starlink.aspx",
+    "intro": "SpaceX heeft in het derde kwartaal van 2026 een explosieve omzetgroei geboekt, voornamelijk gedreven door de snelle opmars van de Super Intelligence-tak (SI) en aanhoudende groei van satellietinternetdienst Starlink. Dit bleek uit de kwartaalcijfers van het ruimtevaart- en technologiebedrijf.",
+    "published_at": "2026-10-20 22:34",
+    "scraped_at": "2026-10-20T21:55:44.886462"
+  },
+  {
+    "id": "1295c42823dbd6442ae83f94e80ab5f3",
+    "categorie": "Beursnieuws",
+    "titel": "Het aandeel Netflix daalt ondanks winstgroei derde kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/882024/Het-aandeel-Netflix-daalt-ondanks-winstgroei-derde-kwartaal.aspx",
+    "intro": "Het aandeel Netflix daalde dinsdag ruim 4 procent nabeurs, nadat de Amerikaanse streamingdienst dinsdag cijfers publiceerde die weliswaar een flinke winstgroei lieten zien, maar ook de traagste omzetgroei in drie jaar.",
+    "published_at": "2026-10-20 22:24",
+    "scraped_at": "2026-10-20T21:55:44.886462"
+  },
+  {
+    "id": "9edb771df85aba86c8d356a943aab0f9",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street verdeeld gesloten in aanloop naar cijfers Netflix en SpaceX",
+    "link": "https://www.beurs.nl/Nieuws/882023/Wall-Street-verdeeld-gesloten-in-aanloop-naar-cijfers-Netflix-en-SpaceX.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend hoger gesloten, terwijl de olieprijzen na een aanvankelijke stijging flink daalden en sterke kwartaalcijfers van onder meer 3M en Northrop Grumman de recente druk op aandelen in de sector kunstmatige intelligentie enigszins naar de achtergrond verdrongen.",
+    "published_at": "2026-10-20 22:12",
+    "scraped_at": "2026-10-20T21:55:44.886462"
+  },
+  {
+    "id": "d60920c694bdc3fac8ff9b2d1110e185",
+    "categorie": "Beursnieuws",
+    "titel": "Volatiele dag voor olieprijzen",
+    "link": "https://www.beurs.nl/Nieuws/882021/Volatiele-dag-voor-olieprijzen.aspx",
+    "intro": "De olieprijzen zijn dinsdag na een volatiele handelssessie lager gesloten, terwijl beleggers hoopten op diplomatieke vooruitgang tussen de VS en Iran, ondanks escalerende aanvallen op tankers en acties tegen Saoedi-Arabië de afgelopen tijd.",
+    "published_at": "2026-10-20 21:10",
+    "scraped_at": "2026-10-20T21:55:44.886462"
+  },
+  {
     "id": "e0736b49f93dbe0e67e8e1eed79f0650",
     "categorie": "Beursnieuws",
     "titel": "Terugval olieprijs stuwt Wall Street",
     "link": "https://www.beurs.nl/Nieuws/882019/Terugval-olieprijs-stuwt-Wall-Street.aspx",
     "intro": "De Amerikaanse beurzen noteerden dinsdag hoger, terwijl sterke kwartaalcijfers van onder meer 3M en Northrop Grumman en een terugval van de olieprijzen de recente druk op aandelen in de sector kunstmatige intelligentie enigszins naar de achtergrond verdrongen.",
     "published_at": "2026-10-20 20:23",
-    "scraped_at": "2026-10-20T18:46:08.243236"
+    "scraped_at": "2026-10-20T21:55:44.886462"
   },
   {
     "id": "7b6ec8c37715c2c0df755fd64b6ef818",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/882018/Deutsche-Boerse-verhoogt-winstverwachting-opnieuw.aspx",
     "intro": "Deutsche Börse heeft de prognose voor de jaaromzet en het bedrijfsresultaat voor 2026 opnieuw verhoogd, nadat de groep in het derde kwartaal sterk bleef groeien. Dit maakte de Duitse beursuitbater dinsdag nabeurs bekend.",
     "published_at": "2026-10-20 19:11",
-    "scraped_at": "2026-10-20T18:46:08.243236"
+    "scraped_at": "2026-10-20T21:55:44.886462"
   },
   {
     "id": "ea4773a8bf901ca11f1952a64164fde9",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/882017/Media-EQT-dicht-bij-overname-testbedrijf-Qiagen.aspx",
     "intro": "Het Zweedse EQT AB voert vergevorderde onderhandelingen over de overname van Qiagen. Dit meldde persbureau Bloomberg dinsdag op basis van bronnen.",
     "published_at": "2026-10-20 19:09",
-    "scraped_at": "2026-10-20T18:46:08.243236"
+    "scraped_at": "2026-10-20T21:55:44.886462"
   },
   {
     "id": "5fea34011b43847cda4254ad9ea26525",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/882016/Carrefour-geeft-winstwaarschuwing.aspx",
     "intro": "Carrefour heeft dinsdag de winstprognose voor dit jaar verlaagd, omdat het Franse supermarktconcern verwacht dat de gewelddadige protesten in Frankrijk de consumptie zullen drukken in aanloop naar de belangrijke feestdagenperiode.",
     "published_at": "2026-10-20 18:59",
-    "scraped_at": "2026-10-20T18:46:08.243236"
-  },
-  {
-    "id": "65e42bef0f0dd1a1c2a92b4e3fa3fa31",
-    "categorie": "Beursnieuws",
-    "titel": "Adidas verhoogt outlook",
-    "link": "https://www.beurs.nl/Nieuws/882015/Adidas-verhoogt-outlook.aspx",
-    "intro": "Adidas heeft dinsdag de outlook voor heel het jaar verhoogd, terwijl de resultaten in het derde kwartaal een piek bereikten, nadat het bedrijf een terugbetaling ontving van de Amerikaanse importheffingen. Dit bleek uit een update van de Duitse sportkledingfabrikant.",
-    "published_at": "2026-10-20 18:58",
-    "scraped_at": "2026-10-20T18:46:08.243236"
-  },
-  {
-    "id": "14ce526e57b5a154a145005fabdcb89a",
-    "categorie": "Beursnieuws",
-    "titel": "Hoop op doorbraak Midden-Oosten geeft Europese beurzen wat lucht",
-    "link": "https://www.beurs.nl/Nieuws/882013/Hoop-op-doorbraak-Midden-Oosten-geeft-Europese-beurzen-wat-lucht.aspx",
-    "intro": "De aandelenmarkten in Europa doorstonden dinsdag een dag vol onzekerheid en sloten uiteindelijk dicht bij hun slotstand van maandag, nadat hoop op een doorbraak in de oorlog in het Midden-Oosten de koersen richting de slotfase deed opveren. Eerder op de dag gingen de beurzen nog duidelijk lager door aanhoudende onzekerheid in Frankrijk, hardnekkig hoge energieprijzen en verkoopdruk bij AI-gerelateerde aandelen.",
-    "published_at": "2026-10-20 18:42",
-    "scraped_at": "2026-10-20T18:46:08.243236"
-  },
-  {
-    "id": "9cc9ee0a9649460f24c985ffb791b4b7",
-    "categorie": "Beursnieuws",
-    "titel": "Hoop op doorbraak Midden-Oosten geeft Europese beurzen wat lucht",
-    "link": "https://www.beurs.nl/Nieuws/882014/Hoop-op-doorbraak-Midden-Oosten-geeft-Europese-beurzen-wat-lucht.aspx",
-    "intro": "De aandelenmarkten in Europa doorstonden dinsdag een dag vol onzekerheid en sloten uiteindelijk dicht bij hun slotstand van maandag, nadat hoop op een doorbraak in de oorlog in het Midden-Oosten de koersen richting de slotfase deed opveren. Eerder op de dag gingen de beurzen nog duidelijk lager door aanhoudende onzekerheid in Frankrijk, hardnekkig hoge energieprijzen en verkoopdruk bij AI-gerelateerde aandelen.",
-    "published_at": "2026-10-20 18:42",
-    "scraped_at": "2026-10-20T18:46:08.243236"
-  },
-  {
-    "id": "43486ded3ccf8614fea79390d2165972",
-    "categorie": "Beursnieuws",
-    "titel": "Theon haalt voor 45 miljoen euro aan orders binnen",
-    "link": "https://www.beurs.nl/Nieuws/882010/Theon-haalt-voor-45-miljoen-euro-aan-orders-binnen.aspx",
-    "intro": "Theon International heeft contracten binnengehaald van twee Europese NAVO-lidstaten voor de levering van nachtzichtproducten, met een gezamenlijke waarde van ongeveer 45 miljoen euro. Dit maakte het bedrijf dinsdag nabeurs bekend.",
-    "published_at": "2026-10-20 18:12",
-    "scraped_at": "2026-10-20T18:46:08.243236"
-  },
-  {
-    "id": "9f03162ac027ce5ad973c9300b6951ba",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers en chemie gebeten hond op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/882007/Chippers-en-chemie-gebeten-hond-op-Damrak.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag lager geëindigd, waarbij de 'chippers' onder druk stonden. Mogelijk goed nieuws over de oorlog in het Midden-Oosten kon dit niet compenseren.",
-    "published_at": "2026-10-20 17:58",
-    "scraped_at": "2026-10-20T18:46:08.243236"
-  },
-  {
-    "id": "b2f9b2d997b48784a8e7593611ac02da",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: nervositeit rond kwartaalupdate Besi",
-    "link": "https://www.beurs.nl/Nieuws/882001/Beursblik-nervositeit-rond-kwartaalupdate-Besi.aspx",
-    "intro": "De kwartaalupdate van BE Semiconductor Industries op donderdagochtend belooft spannend te worden. Niet omdat er wordt getwijfeld aan de haalbaarheid van de afgegeven outlook, maar door twijfels over de adoptie van hybrid bonding en de vrees voor concurrentie van ASML op dit terrein.",
-    "published_at": "2026-10-20 16:44",
-    "scraped_at": "2026-10-20T18:46:08.243236"
+    "scraped_at": "2026-10-20T21:55:44.886462"
   }
 ]
