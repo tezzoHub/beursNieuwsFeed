@@ -1,92 +1,56 @@
 [
   {
-    "id": "9dfe5c30571a7cef921d70557bf2bf53",
+    "id": "bf6b19bc48f9c42bb6a78f1b4d28529c",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882027/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag vier van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-10-20 22:55",
-    "scraped_at": "2026-10-21T00:26:07.554290"
+    "titel": "Randstad verrast met sterke groei",
+    "link": "https://www.beurs.nl/Nieuws/882067/Randstad-verrast-met-sterke-groei.aspx",
+    "intro": "De autonome omzet van Randstad is in het derde kwartaal opnieuw sneller gestegen, na de onverwachte groei in het eerste en een versnelling in het tweede kwartaal. Dit bleek woensdag uit cijfers die het uitzendbedrijf publiceerde.",
+    "published_at": "2026-10-21 07:10",
+    "scraped_at": "2026-10-21T05:22:15.919137"
   },
   {
-    "id": "fd9f9a9116dd28db56e0f3e95a96fecb",
+    "id": "ad5920e4718e5336baf4db5bf2ab2574",
     "categorie": "Beursnieuws",
-    "titel": "United boekt record kwartaalomzet",
-    "link": "https://www.beurs.nl/Nieuws/882026/United-boekt-record-kwartaalomzet.aspx",
-    "intro": "United Airlines heeft in het derde kwartaal van 2026 een recordomzet geboekt, ondanks een forse stijging van de brandstofkosten. De Amerikaanse luchtvaartmaatschappij maakte dinsdag bekend dat het aantal passagiers eveneens een record bereikte.",
-    "published_at": "2026-10-20 22:43",
-    "scraped_at": "2026-10-21T00:26:07.554290"
+    "titel": "Europese beurzen openen hoger",
+    "link": "https://www.beurs.nl/Nieuws/882065/Europese-beurzen-openen-hoger.aspx",
+    "intro": "De aandelenmarkten in Europa gaan woensdag een groene opening tegemoet, terwijl beleggers opnieuw een flinke stroom aan bedrijfscijfers krijgen voorgeschoteld.",
+    "published_at": "2026-10-21 06:52",
+    "scraped_at": "2026-10-21T05:22:15.919137"
   },
   {
-    "id": "b7c4aed637e61de0bd58d276786b9bdf",
+    "id": "d9b1d2ab8163edc8540a68676f6a43f8",
     "categorie": "Beursnieuws",
-    "titel": "SpaceX boekt recordomzet door AI en Starlink",
-    "link": "https://www.beurs.nl/Nieuws/882025/SpaceX-boekt-recordomzet-door-AI-en-Starlink.aspx",
-    "intro": "SpaceX heeft in het derde kwartaal van 2026 een explosieve omzetgroei geboekt, voornamelijk gedreven door de snelle opmars van de Super Intelligence-tak (SI) en aanhoudende groei van satellietinternetdienst Starlink. Dit bleek uit de kwartaalcijfers van het ruimtevaart- en technologiebedrijf.",
-    "published_at": "2026-10-20 22:34",
-    "scraped_at": "2026-10-21T00:26:07.554290"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/882062/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 28 oktober 2026:",
+    "published_at": "2026-10-21 06:46",
+    "scraped_at": "2026-10-21T05:22:15.919137"
   },
   {
-    "id": "1295c42823dbd6442ae83f94e80ab5f3",
+    "id": "3696769462e48898f9e931ecbc883630",
     "categorie": "Beursnieuws",
-    "titel": "Het aandeel Netflix daalt ondanks winstgroei derde kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/882024/Het-aandeel-Netflix-daalt-ondanks-winstgroei-derde-kwartaal.aspx",
-    "intro": "Het aandeel Netflix daalde dinsdag ruim 4 procent nabeurs, nadat de Amerikaanse streamingdienst dinsdag cijfers publiceerde die weliswaar een flinke winstgroei lieten zien, maar ook de traagste omzetgroei in drie jaar.",
-    "published_at": "2026-10-20 22:24",
-    "scraped_at": "2026-10-21T00:26:07.554290"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/882063/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 28 oktober 2026:",
+    "published_at": "2026-10-21 06:46",
+    "scraped_at": "2026-10-21T05:22:15.919137"
   },
   {
-    "id": "9edb771df85aba86c8d356a943aab0f9",
+    "id": "79c9fe9fe5ab46205a4524e98a74a0bf",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street verdeeld gesloten in aanloop naar cijfers Netflix en SpaceX",
-    "link": "https://www.beurs.nl/Nieuws/882023/Wall-Street-verdeeld-gesloten-in-aanloop-naar-cijfers-Netflix-en-SpaceX.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend hoger gesloten, terwijl de olieprijzen na een aanvankelijke stijging flink daalden en sterke kwartaalcijfers van onder meer 3M en Northrop Grumman de recente druk op aandelen in de sector kunstmatige intelligentie enigszins naar de achtergrond verdrongen.",
-    "published_at": "2026-10-20 22:12",
-    "scraped_at": "2026-10-21T00:26:07.554290"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/882064/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 28 oktober 2026:",
+    "published_at": "2026-10-21 06:46",
+    "scraped_at": "2026-10-21T05:22:15.919137"
   },
   {
-    "id": "d60920c694bdc3fac8ff9b2d1110e185",
+    "id": "66f89e852421f1713471865cfc18dc43",
     "categorie": "Beursnieuws",
-    "titel": "Volatiele dag voor olieprijzen",
-    "link": "https://www.beurs.nl/Nieuws/882021/Volatiele-dag-voor-olieprijzen.aspx",
-    "intro": "De olieprijzen zijn dinsdag na een volatiele handelssessie lager gesloten, terwijl beleggers hoopten op diplomatieke vooruitgang tussen de VS en Iran, ondanks escalerende aanvallen op tankers en acties tegen Saoedi-Arabië de afgelopen tijd.",
-    "published_at": "2026-10-20 21:10",
-    "scraped_at": "2026-10-21T00:26:07.554290"
-  },
-  {
-    "id": "e0736b49f93dbe0e67e8e1eed79f0650",
-    "categorie": "Beursnieuws",
-    "titel": "Terugval olieprijs stuwt Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882019/Terugval-olieprijs-stuwt-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag hoger, terwijl sterke kwartaalcijfers van onder meer 3M en Northrop Grumman en een terugval van de olieprijzen de recente druk op aandelen in de sector kunstmatige intelligentie enigszins naar de achtergrond verdrongen.",
-    "published_at": "2026-10-20 20:23",
-    "scraped_at": "2026-10-21T00:26:07.554290"
-  },
-  {
-    "id": "7b6ec8c37715c2c0df755fd64b6ef818",
-    "categorie": "Beursnieuws",
-    "titel": "Deutsche Boerse verhoogt winstverwachting opnieuw",
-    "link": "https://www.beurs.nl/Nieuws/882018/Deutsche-Boerse-verhoogt-winstverwachting-opnieuw.aspx",
-    "intro": "Deutsche Börse heeft de prognose voor de jaaromzet en het bedrijfsresultaat voor 2026 opnieuw verhoogd, nadat de groep in het derde kwartaal sterk bleef groeien. Dit maakte de Duitse beursuitbater dinsdag nabeurs bekend.",
-    "published_at": "2026-10-20 19:11",
-    "scraped_at": "2026-10-21T00:26:07.554290"
-  },
-  {
-    "id": "ea4773a8bf901ca11f1952a64164fde9",
-    "categorie": "Beursnieuws",
-    "titel": "Media: EQT dicht bij overname testbedrijf Qiagen",
-    "link": "https://www.beurs.nl/Nieuws/882017/Media-EQT-dicht-bij-overname-testbedrijf-Qiagen.aspx",
-    "intro": "Het Zweedse EQT AB voert vergevorderde onderhandelingen over de overname van Qiagen. Dit meldde persbureau Bloomberg dinsdag op basis van bronnen.",
-    "published_at": "2026-10-20 19:09",
-    "scraped_at": "2026-10-21T00:26:07.554290"
-  },
-  {
-    "id": "5fea34011b43847cda4254ad9ea26525",
-    "categorie": "Beursnieuws",
-    "titel": "Carrefour geeft winstwaarschuwing",
-    "link": "https://www.beurs.nl/Nieuws/882016/Carrefour-geeft-winstwaarschuwing.aspx",
-    "intro": "Carrefour heeft dinsdag de winstprognose voor dit jaar verlaagd, omdat het Franse supermarktconcern verwacht dat de gewelddadige protesten in Frankrijk de consumptie zullen drukken in aanloop naar de belangrijke feestdagenperiode.",
-    "published_at": "2026-10-20 18:59",
-    "scraped_at": "2026-10-21T00:26:07.554290"
+    "titel": "Media: Franse Lesaffre overweegt bod op Corbion",
+    "link": "https://www.beurs.nl/Nieuws/882060/Media-Franse-Lesaffre-overweegt-bod-op-Corbion.aspx",
+    "intro": "Het Franse Lesaffre overweegt een bod uit te brengen op Corbion. Dit schreef persbureau Bloomberg dinsdagavond op basis van bronnen.",
+    "published_at": "2026-10-21 06:44",
+    "scraped_at": "2026-10-21T05:22:15.919137"
   }
 ]
