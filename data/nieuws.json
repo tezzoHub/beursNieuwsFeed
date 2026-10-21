@@ -1,56 +1,92 @@
 [
   {
-    "id": "bf6b19bc48f9c42bb6a78f1b4d28529c",
+    "id": "46f2165e27beea3771937cbca37e2091",
     "categorie": "Beursnieuws",
-    "titel": "Randstad verrast met sterke groei",
-    "link": "https://www.beurs.nl/Nieuws/882067/Randstad-verrast-met-sterke-groei.aspx",
-    "intro": "De autonome omzet van Randstad is in het derde kwartaal opnieuw sneller gestegen, na de onverwachte groei in het eerste en een versnelling in het tweede kwartaal. Dit bleek woensdag uit cijfers die het uitzendbedrijf publiceerde.",
-    "published_at": "2026-10-21 07:10",
-    "scraped_at": "2026-10-21T05:22:15.919137"
+    "titel": "Randstad bijna 20% hoger in groene AEX na sterke update",
+    "link": "https://www.beurs.nl/Nieuws/882122/Randstad-bijna-20-hoger-in-groene-AEX-na-sterke-update.aspx",
+    "intro": "De Amsterdamse beurs noteerde woensdagochtend licht hoger, maar het spektakel kwam uit de Midkap waar het aandeel Randstad bijna 20 procent kon bijschrijven na een sterke update.",
+    "published_at": "2026-10-21 11:01",
+    "scraped_at": "2026-10-21T10:23:43.030683"
   },
   {
-    "id": "ad5920e4718e5336baf4db5bf2ab2574",
+    "id": "a8d51d094268d490279903915768df47",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen hoger",
-    "link": "https://www.beurs.nl/Nieuws/882065/Europese-beurzen-openen-hoger.aspx",
-    "intro": "De aandelenmarkten in Europa gaan woensdag een groene opening tegemoet, terwijl beleggers opnieuw een flinke stroom aan bedrijfscijfers krijgen voorgeschoteld.",
-    "published_at": "2026-10-21 06:52",
-    "scraped_at": "2026-10-21T05:22:15.919137"
+    "titel": "Beursblik: groeiversnelling voor Randstad",
+    "link": "https://www.beurs.nl/Nieuws/882115/Beursblik-groeiversnelling-voor-Randstad.aspx",
+    "intro": "Randstad heeft in het derde kwartaal de groei zien versnellen, maar de brutomarge bleef desondanks onder druk staan. Dit concludeerden de analisten van Degroof Petercam woensdag in een rapport.",
+    "published_at": "2026-10-21 09:59",
+    "scraped_at": "2026-10-21T10:23:43.030683"
   },
   {
-    "id": "d9b1d2ab8163edc8540a68676f6a43f8",
+    "id": "be70a192a8c1661c12d064d3569966f7",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/882062/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 28 oktober 2026:",
-    "published_at": "2026-10-21 06:46",
-    "scraped_at": "2026-10-21T05:22:15.919137"
+    "titel": "EssilorLuxottica ziet omzet met dubbele cijfers groeien",
+    "link": "https://www.beurs.nl/Nieuws/882114/EssilorLuxottica-ziet-omzet-met-dubbele-cijfers-groeien.aspx",
+    "intro": "EssilorLuxottica heeft de omzet in het derde kwartaal van 2026 flink zien groeien, gedragen door een brede groei in alle regio’s en segmenten. Dit bleek dinsdagavond laat uit cijfers van de Frans-Italiaanse brillengigant.",
+    "published_at": "2026-10-21 09:43",
+    "scraped_at": "2026-10-21T10:23:43.030683"
   },
   {
-    "id": "3696769462e48898f9e931ecbc883630",
+    "id": "74909660cbd541674ac23e3eb7ebed70",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/882063/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 28 oktober 2026:",
-    "published_at": "2026-10-21 06:46",
-    "scraped_at": "2026-10-21T05:22:15.919137"
+    "titel": "Beursblik: solide meevaller bij Randstad",
+    "link": "https://www.beurs.nl/Nieuws/882108/Beursblik-solide-meevaller-bij-Randstad.aspx",
+    "intro": "Randstad heeft de omzet in het derde kwartaal verder zien aantrekken en leverde zo een solide meevaller af. Dit stelde analist Thomas Couvreur van KBC Securities in een rapport.",
+    "published_at": "2026-10-21 09:37",
+    "scraped_at": "2026-10-21T10:23:43.030683"
   },
   {
-    "id": "79c9fe9fe5ab46205a4524e98a74a0bf",
+    "id": "9f27a4051080fb24cc76214a71e178f7",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/882064/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 28 oktober 2026:",
-    "published_at": "2026-10-21 06:46",
-    "scraped_at": "2026-10-21T05:22:15.919137"
+    "titel": "Randstad schiet omhoog na cijfers op groene beurs",
+    "link": "https://www.beurs.nl/Nieuws/882103/Randstad-schiet-omhoog-na-cijfers-op-groene-beurs.aspx",
+    "intro": "De Amsterdamse beurs is woensdag licht hoger geopend, met forse winsten voor Randstad na cijfers, terwijl ook de halfgeleiders in trek waren. Kort na opening van de beurs, koerste de AEX 0,2 procent hoger op 1.135,34 punten.",
+    "published_at": "2026-10-21 09:15",
+    "scraped_at": "2026-10-21T10:23:43.030683"
   },
   {
-    "id": "66f89e852421f1713471865cfc18dc43",
+    "id": "29aae2221852ef6ee06a58ffab95f1b7",
     "categorie": "Beursnieuws",
-    "titel": "Media: Franse Lesaffre overweegt bod op Corbion",
-    "link": "https://www.beurs.nl/Nieuws/882060/Media-Franse-Lesaffre-overweegt-bod-op-Corbion.aspx",
-    "intro": "Het Franse Lesaffre overweegt een bod uit te brengen op Corbion. Dit schreef persbureau Bloomberg dinsdagavond op basis van bronnen.",
-    "published_at": "2026-10-21 06:44",
-    "scraped_at": "2026-10-21T05:22:15.919137"
+    "titel": "\"AkzoNobel beschermt winst met prijsverhogingen\"",
+    "link": "https://www.beurs.nl/Nieuws/882102/AkzoNobel-beschermt-winst-met-prijsverhogingen.aspx",
+    "intro": "AkzoNobel heeft in het derde kwartaal laten zien dat prijsverhogingen en kostenbesparingen de winstgevendheid beschermen in een zwakke vraagomgeving met aanhoudende inflatie. Dit stelden analisten van Citi naar aanleiding van de kwartaalcijfers dit vanochtend werden gepubliceerd.",
+    "published_at": "2026-10-21 09:10",
+    "scraped_at": "2026-10-21T10:23:43.030683"
+  },
+  {
+    "id": "c94b37a42716b4523da006c2c70120b5",
+    "categorie": "Beursnieuws",
+    "titel": "Nieuwe topman Ahold Delhaize begint op 11 januari",
+    "link": "https://www.beurs.nl/Nieuws/882099/Nieuwe-topman-Ahold-Delhaize-begint-op-11-januari.aspx",
+    "intro": "Thierry Garnier treedt op 11 januari 2027 in dienst bij Ahold Delhaize als Executive Vice President, vooruitlopend op zijn aantreden als CEO. Dit maakte het supermarktconcern woensdagochtend bekend.",
+    "published_at": "2026-10-21 08:51",
+    "scraped_at": "2026-10-21T10:23:43.030683"
+  },
+  {
+    "id": "aee10130f78ab9743111b00afb335ea2",
+    "categorie": "Opinie",
+    "titel": "\"Impact maken begint met pionieren\"",
+    "link": "https://www.ieximpact.nl/artikel/881012/Impact-maken-begint-met-pionieren.aspx",
+    "intro": "Wonderland Impact Investments is een nieuw impactplatform, dat een aantal urgente problemen wil aanpakken, zoals de afname van biodiversiteit, het tekort aan woningen en de toenemende eenzaamheid. In de eerste anderhalf jaar heeft Wonderland Impact Investments volgens partner Marrit Laning veel geleerd. Dit zijn volgens haar de drie belangrijkste lessen.",
+    "published_at": "2026-10-21 08:43",
+    "scraped_at": "2026-10-21T10:23:43.030683"
+  },
+  {
+    "id": "a20a9f2d59402aeac27a7507ce70e586",
+    "categorie": "Beursnieuws",
+    "titel": "Super Micro verhoogt omzetverwachting fors",
+    "link": "https://www.beurs.nl/Nieuws/882098/Super-Micro-verhoogt-omzetverwachting-fors.aspx",
+    "intro": "Super Micro Computer heeft de omzetverwachting voor het eerste kwartaal van boekjaar 2027 fors naar boven bijgesteld, vanwege een sterk toegenomen vraag naar AI-platforms. Dat maakte de Amerikaanse serverfabrikant dinsdagavond laat bekend in een voorlopige bedrijfsupdate over het kwartaal dat eindigde op 30 september 2026.",
+    "published_at": "2026-10-21 08:40",
+    "scraped_at": "2026-10-21T10:23:43.030683"
+  },
+  {
+    "id": "67b9d8b22cfd2f8563bd6da0de91123c",
+    "categorie": "Beursnieuws",
+    "titel": "Zürcher Kantonalbank kleiner in NSI",
+    "link": "https://www.beurs.nl/Nieuws/882097/Zurcher-Kantonalbank-kleiner-in-NSI.aspx",
+    "intro": "Zürcher Kantonalbank heeft een kleiner belang in NSI gemeld. Dat bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 15 oktober 2026.",
+    "published_at": "2026-10-21 08:34",
+    "scraped_at": "2026-10-21T10:23:43.030683"
   }
 ]
