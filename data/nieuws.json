@@ -1,12 +1,75 @@
 [
   {
+    "id": "763537b20c6d12a38633ccd4d6ecb276",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen vertoonden een stabiel beeld",
+    "link": "https://www.beurs.nl/Nieuws/882202/Olieprijzen-vertoonden-een-stabiel-beeld.aspx",
+    "intro": "De olieprijzen vertoonden woensdag een redelijk stabiel beeld, terwijl beleggers bleven hopen op progressie in de diplomatieke activiteiten tussen de VS en Iran, ondanks de escalerende aanvallen op tankers en acties tegen Saoedi-Arabië van de afgelopen tijd.",
+    "published_at": "2026-10-21 21:03",
+    "scraped_at": "2026-10-21T19:40:35.777000"
+  },
+  {
+    "id": "37ba1e65514868f2b327c28181b46c80",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street koerst hoger in aanloop naar cruciale kwartaalcijfers",
+    "link": "https://www.beurs.nl/Nieuws/882201/Wall-Street-koerst-hoger-in-aanloop-naar-cruciale-kwartaalcijfers.aspx",
+    "intro": "De Amerikaanse beurzen koersten woensdag hoger. Met de Nasdaq ging het voor de wind. De winsten waren breed gedragen, waarbij ook de blue chips en de toonaangevende SP 500 meestegen in de aanloop naar cruciale kwartaalcijfers van Tesla en Meta. Tegelijkertijd kelderde Netflix en schoot SpaceX omhoog.",
+    "published_at": "2026-10-21 20:15",
+    "scraped_at": "2026-10-21T19:40:35.777000"
+  },
+  {
+    "id": "7fd3d0459b176702976d9a3a44220994",
+    "categorie": "Beursnieuws",
+    "titel": "Groen slot op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/882191/Groen-slot-op-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen zijn woensdag in het groen gesloten. De publicatie van kwartaalcijfers bepaalde het sentiment bij beleggers, terwijl de obligatierentes in Europa wat opliepen. Koersen van AI- en technologie-aandelen toonden een herstel na een meerdaagse verkoopgolf.",
+    "published_at": "2026-10-21 18:46",
+    "scraped_at": "2026-10-21T19:40:35.777000"
+  },
+  {
+    "id": "6de699b4bc3e5915cfbfa2625001bc29",
+    "categorie": "Beursnieuws",
+    "titel": "FlatexDegiro boekt meer winst",
+    "link": "https://www.beurs.nl/Nieuws/882189/FlatexDegiro-boekt-meer-winst.aspx",
+    "intro": "FlatexDegiro heeft in het derde kwartaal van 2026 fors meer winst geboekt en handhaafde de outlook voor het hele jaar. Dit bleek woensdag uit de kwartaalupdate van de Duitse broker.",
+    "published_at": "2026-10-21 18:25",
+    "scraped_at": "2026-10-21T19:40:35.777000"
+  },
+  {
+    "id": "bf96e336a39306209d07f362a5e2052c",
+    "categorie": "Beursnieuws",
+    "titel": "Omzetgroei voor Moncler",
+    "link": "https://www.beurs.nl/Nieuws/882186/Omzetgroei-voor-Moncler.aspx",
+    "intro": "Moncler heeft de eerste negen maanden van 2026 afgesloten met een omzetgroei van 6 procent tot bijna 1,9 miljard euro. Dit bleek woensdagavond uit cijfers van het Italiaanse modemerk.",
+    "published_at": "2026-10-21 18:13",
+    "scraped_at": "2026-10-21T19:40:35.777000"
+  },
+  {
+    "id": "99033d17fcf4e7c1da5bc0e884e1daca",
+    "categorie": "Beursnieuws",
+    "titel": "Tech duwt AEX weer in de plus",
+    "link": "https://www.beurs.nl/Nieuws/882184/Tech-duwt-AEX-weer-in-de-plus.aspx",
+    "intro": "De Amsterdamse beurs is woensdag hoger gesloten, dankzij sterk opverende koersen van technologiebedrijven en goed ontvangen resultaten van AkzoNobel. Er waren veel bedrijfscijfers, die links en rechts voor soms flinke uitschieters zorgden.",
+    "published_at": "2026-10-21 17:51",
+    "scraped_at": "2026-10-21T19:40:35.777000"
+  },
+  {
+    "id": "72bcf8d18617fd2ab907ba8e0fa0e4f4",
+    "categorie": "IEX",
+    "titel": "Slotcall: Randstad noteert ASML-achtige winst op groen Damrak",
+    "link": "https://www.iex.nl/artikel/882181/Slotcall-Randstad-noteert-ASML-achtige-winst-op-groen-Damrak.aspx",
+    "intro": "Rond de opening van Wall Street leverde de hoofdindex een paar tienden procent winst in en zodoende sluiten we 0,8% hoger op circa 1.142 punten.",
+    "published_at": "2026-10-21 17:35",
+    "scraped_at": "2026-10-21T19:40:35.777000"
+  },
+  {
     "id": "10db644b5341e4d12236cf0af998e194",
     "categorie": "Beursnieuws",
     "titel": "Amerikaanse olievoorraden dalen opnieuw",
     "link": "https://www.beurs.nl/Nieuws/882178/Amerikaanse-olievoorraden-dalen-opnieuw.aspx",
     "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week opnieuw flink gedaald, terwijl ook de bezinevoorraden afnamen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
     "published_at": "2026-10-21 16:39",
-    "scraped_at": "2026-10-21T15:28:43.813552"
+    "scraped_at": "2026-10-21T19:40:35.777000"
   },
   {
     "id": "417f6b5c72f5b15bcb124c3031175100",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/882176/Marge-Signify-trekt-aan.aspx",
     "intro": "Signify zal over derde kwartaal een min of meer vergelijkbare omzet hebben behaald  ten opzichte van het voorgaande kwartaal, maar zag de marge en de winst wel flink aantrekken. Dit valt op te maken uit een analistenconsensus die het verlichtingsbedrijf samenstelde.",
     "published_at": "2026-10-21 16:17",
-    "scraped_at": "2026-10-21T15:28:43.813552"
+    "scraped_at": "2026-10-21T19:40:35.777000"
   },
   {
     "id": "010fe455996f8d6b72be4b6c76a3710a",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/882169/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 29",
     "published_at": "2026-10-21 15:52",
-    "scraped_at": "2026-10-21T15:28:43.813552"
-  },
-  {
-    "id": "70f00d66fe667a80ffb2d69e80970f59",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/882168/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 29 oktober 2026:",
-    "published_at": "2026-10-21 15:51",
-    "scraped_at": "2026-10-21T15:28:43.813552"
-  },
-  {
-    "id": "54de05edba3106f3355c163a9298f5a8",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/882167/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 29 oktober 2026:",
-    "published_at": "2026-10-21 15:49",
-    "scraped_at": "2026-10-21T15:28:43.813552"
-  },
-  {
-    "id": "343c989ffcc27ee6127691cf78ab719d",
-    "categorie": "Beursnieuws",
-    "titel": "Rente jaagt Heineken op kosten na misbruik marktmacht in Griekenland",
-    "link": "https://www.beurs.nl/Nieuws/882162/Rente-jaagt-Heineken-op-kosten-na-misbruik-marktmacht-in-Griekenland.aspx",
-    "intro": "Heineken moet 111 miljoen euro betalen aan de Griekse brouwer Macedonian Thrace Brewery, voor het misbruiken van zijn marktmacht, waarvan bijna 68 miljoen euro aan opgelopen rente. Dit bleek woensdag uit een uitspraak van een Nederlandse rechtbank.",
-    "published_at": "2026-10-21 15:11",
-    "scraped_at": "2026-10-21T15:28:43.813552"
-  },
-  {
-    "id": "816e6ee8f4d4c374564da514c1381a71",
-    "categorie": "Beursnieuws",
-    "titel": "Tech leidt Wall Street naar hogere opening",
-    "link": "https://www.beurs.nl/Nieuws/882159/Tech-leidt-Wall-Street-naar-hogere-opening.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet, geholpen door een herstel in AI-aandelen.",
-    "published_at": "2026-10-21 15:03",
-    "scraped_at": "2026-10-21T15:28:43.813552"
-  },
-  {
-    "id": "7c9fe71ca110905491d4b210dd4b9326",
-    "categorie": "Vastgoed",
-    "titel": "Moet bieden zonder financieringsvoorbehoud bij wet verboden worden?",
-    "link": "https://www.iex.nl/artikel/882145/Moet-bieden-zonder-financieringsvoorbehoud-bij-wet-verboden-worden.aspx",
-    "intro": "Het Hof verlaagde bij een mislukte woningkoop een boete van €38.000 naar €10.000 en daarom de stelling: de wet moet bieden zonder financieringsvoorbehoud verbieden, ook als de koper dat risico bewust bereid is te nemen. Eens of oneens?",
-    "published_at": "2026-10-21 14:05",
-    "scraped_at": "2026-10-21T15:28:43.813552"
-  },
-  {
-    "id": "3846207fa4ceeafab2c42fa53894869a",
-    "categorie": "Beursnieuws",
-    "titel": "Randstad flink in trek op groene beurs",
-    "link": "https://www.beurs.nl/Nieuws/882151/Randstad-flink-in-trek-op-groene-beurs.aspx",
-    "intro": "De Amsterdamse beurs noteerde woensdagmiddag hoger, waarbij halfgeleiders aan kop gingen.",
-    "published_at": "2026-10-21 13:56",
-    "scraped_at": "2026-10-21T15:28:43.813552"
-  },
-  {
-    "id": "01a91b4cc8d904c33135a58ab31101c8",
-    "categorie": "Beursnieuws",
-    "titel": "Philip Morris verhoogt dividend na sterke groei",
-    "link": "https://www.beurs.nl/Nieuws/882149/Philip-Morris-verhoogt-dividend-na-sterke-groei.aspx",
-    "intro": "Philip Morris heeft in het derde kwartaal de volumes zien aantrekken en verhoogde het dividend. Dat bleek woensdag uit de kwartaalcijfers van de Amerikaanse sigarettenfabrikant.",
-    "published_at": "2026-10-21 13:48",
-    "scraped_at": "2026-10-21T15:28:43.813552"
+    "scraped_at": "2026-10-21T19:40:35.777000"
   }
 ]
