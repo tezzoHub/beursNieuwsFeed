@@ -1,12 +1,75 @@
 [
   {
+    "id": "efa2ed61e32bbb3a11aeb6e65c57bb68",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/882227/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag twee van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-10-21 23:39",
+    "scraped_at": "2026-10-21T22:48:11.668409"
+  },
+  {
+    "id": "164a6b36d5ed25c33f2bcc4fbda585aa",
+    "categorie": "Beursnieuws",
+    "titel": "Update: meevallende cijfers voor Meta",
+    "link": "https://www.beurs.nl/Nieuws/882210/Update-meevallende-cijfers-voor-Meta.aspx",
+    "intro": "Meta heeft in het derde kwartaal de omzet nog iets sterker dan verwacht zien stijgen, terwijl de winst hoger uitviel dan analisten hadden voorzien. Dit bleek woensdagavond uit de kwartaalcijfers van de eigenaar van Facebook, Instagram en WhatsApp.",
+    "published_at": "2026-10-21 23:09",
+    "scraped_at": "2026-10-21T22:48:11.668409"
+  },
+  {
+    "id": "db6689e30c61aff9f5519c4417839cd6",
+    "categorie": "Beursnieuws",
+    "titel": "IBM profiteert van sterke vraag naar Super Intelligence",
+    "link": "https://www.beurs.nl/Nieuws/882220/IBM-profiteert-van-sterke-vraag-naar-Super-Intelligence.aspx",
+    "intro": "IBM heeft solide financiële resultaten gepresenteerd over het derde kwartaal van 2026. Ook werd de omzetprognose voor het hele jaar herhaald. Dat maakt de techgigant woensdag nabeurs bekend..",
+    "published_at": "2026-10-21 23:05",
+    "scraped_at": "2026-10-21T22:48:11.668409"
+  },
+  {
+    "id": "b0b549819048ec43b5529df975f5e959",
+    "categorie": "Beursnieuws",
+    "titel": "Flink minder winst voor Tesla",
+    "link": "https://www.beurs.nl/Nieuws/882215/Flink-minder-winst-voor-Tesla.aspx",
+    "intro": "Tesla heeft in het derde kwartaal de omzet zien stabiliseren en de winstgevendheid fors zien dalen door oplopende kosten. Dit bleek uit de cijfers die de fabrikant van elektrische auto's woensdagavond publiceerde.",
+    "published_at": "2026-10-21 22:38",
+    "scraped_at": "2026-10-21T22:48:11.668409"
+  },
+  {
+    "id": "a7d621e1f03586c82db4030c6a099058",
+    "categorie": "Beursnieuws",
+    "titel": "SAP passeert omzetgrens van 10 miljard euro",
+    "link": "https://www.beurs.nl/Nieuws/882214/SAP-passeert-omzetgrens-van-10-miljard-euro.aspx",
+    "intro": "SAP heeft in het derde kwartaal de totale kwartaalomzet zien stijgen tot net boven de 10 miljard euro. Dat heeft het Duitse techbedrijf woensdag nabeurs bekendgemaakt.",
+    "published_at": "2026-10-21 22:30",
+    "scraped_at": "2026-10-21T22:48:11.668409"
+  },
+  {
+    "id": "2c93e4a3571d8cecf6e5878dc0f11e9d",
+    "categorie": "Beursnieuws",
+    "titel": "Texas Instruments boekt fors hogere winst",
+    "link": "https://www.beurs.nl/Nieuws/882213/Texas-Instruments-boekt-fors-hogere-winst.aspx",
+    "intro": "Texas Instruments heeft in het derde kwartaal van 2026 fors meer omzet en winst geboekt, gedreven door de aanhoudende groei in de industriële markt, datacenters en de automotive-sector. Dit bleek woensdag nabeurs uit de cijfers van de Amerikaanse chipmaker.",
+    "published_at": "2026-10-21 22:26",
+    "scraped_at": "2026-10-21T22:48:11.668409"
+  },
+  {
+    "id": "b4265bd5f3f91c210c7271ca5ed179ef",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit hoger met dank aan techsector en AI",
+    "link": "https://www.beurs.nl/Nieuws/882209/Wall-Street-sluit-hoger-met-dank-aan-techsector-en-AI.aspx",
+    "intro": "De Amerikaanse beurzen zijn woensdag hoger gesloten, waarbij de Nasdaq het grootste deel van de dag de leiding nam. De winsten waren breed gedragen, waarbij ook de blue chips en de toonaangevende SP 500 meestegen in de aanloop naar cruciale kwartaalcijfers van Tesla en Meta. Daarbij kreeg Netflix een douw en spoot SpaceX omhoog.",
+    "published_at": "2026-10-21 22:11",
+    "scraped_at": "2026-10-21T22:48:11.668409"
+  },
+  {
     "id": "763537b20c6d12a38633ccd4d6ecb276",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen vertoonden een stabiel beeld",
     "link": "https://www.beurs.nl/Nieuws/882202/Olieprijzen-vertoonden-een-stabiel-beeld.aspx",
     "intro": "De olieprijzen vertoonden woensdag een redelijk stabiel beeld, terwijl beleggers bleven hopen op progressie in de diplomatieke activiteiten tussen de VS en Iran, ondanks de escalerende aanvallen op tankers en acties tegen Saoedi-Arabië van de afgelopen tijd.",
     "published_at": "2026-10-21 21:03",
-    "scraped_at": "2026-10-21T19:40:35.777000"
+    "scraped_at": "2026-10-21T22:48:11.668409"
   },
   {
     "id": "37ba1e65514868f2b327c28181b46c80",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/882201/Wall-Street-koerst-hoger-in-aanloop-naar-cruciale-kwartaalcijfers.aspx",
     "intro": "De Amerikaanse beurzen koersten woensdag hoger. Met de Nasdaq ging het voor de wind. De winsten waren breed gedragen, waarbij ook de blue chips en de toonaangevende SP 500 meestegen in de aanloop naar cruciale kwartaalcijfers van Tesla en Meta. Tegelijkertijd kelderde Netflix en schoot SpaceX omhoog.",
     "published_at": "2026-10-21 20:15",
-    "scraped_at": "2026-10-21T19:40:35.777000"
+    "scraped_at": "2026-10-21T22:48:11.668409"
   },
   {
     "id": "7fd3d0459b176702976d9a3a44220994",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/882191/Groen-slot-op-Europese-beurzen.aspx",
     "intro": "De Europese beurzen zijn woensdag in het groen gesloten. De publicatie van kwartaalcijfers bepaalde het sentiment bij beleggers, terwijl de obligatierentes in Europa wat opliepen. Koersen van AI- en technologie-aandelen toonden een herstel na een meerdaagse verkoopgolf.",
     "published_at": "2026-10-21 18:46",
-    "scraped_at": "2026-10-21T19:40:35.777000"
-  },
-  {
-    "id": "6de699b4bc3e5915cfbfa2625001bc29",
-    "categorie": "Beursnieuws",
-    "titel": "FlatexDegiro boekt meer winst",
-    "link": "https://www.beurs.nl/Nieuws/882189/FlatexDegiro-boekt-meer-winst.aspx",
-    "intro": "FlatexDegiro heeft in het derde kwartaal van 2026 fors meer winst geboekt en handhaafde de outlook voor het hele jaar. Dit bleek woensdag uit de kwartaalupdate van de Duitse broker.",
-    "published_at": "2026-10-21 18:25",
-    "scraped_at": "2026-10-21T19:40:35.777000"
-  },
-  {
-    "id": "bf96e336a39306209d07f362a5e2052c",
-    "categorie": "Beursnieuws",
-    "titel": "Omzetgroei voor Moncler",
-    "link": "https://www.beurs.nl/Nieuws/882186/Omzetgroei-voor-Moncler.aspx",
-    "intro": "Moncler heeft de eerste negen maanden van 2026 afgesloten met een omzetgroei van 6 procent tot bijna 1,9 miljard euro. Dit bleek woensdagavond uit cijfers van het Italiaanse modemerk.",
-    "published_at": "2026-10-21 18:13",
-    "scraped_at": "2026-10-21T19:40:35.777000"
-  },
-  {
-    "id": "99033d17fcf4e7c1da5bc0e884e1daca",
-    "categorie": "Beursnieuws",
-    "titel": "Tech duwt AEX weer in de plus",
-    "link": "https://www.beurs.nl/Nieuws/882184/Tech-duwt-AEX-weer-in-de-plus.aspx",
-    "intro": "De Amsterdamse beurs is woensdag hoger gesloten, dankzij sterk opverende koersen van technologiebedrijven en goed ontvangen resultaten van AkzoNobel. Er waren veel bedrijfscijfers, die links en rechts voor soms flinke uitschieters zorgden.",
-    "published_at": "2026-10-21 17:51",
-    "scraped_at": "2026-10-21T19:40:35.777000"
-  },
-  {
-    "id": "72bcf8d18617fd2ab907ba8e0fa0e4f4",
-    "categorie": "IEX",
-    "titel": "Slotcall: Randstad noteert ASML-achtige winst op groen Damrak",
-    "link": "https://www.iex.nl/artikel/882181/Slotcall-Randstad-noteert-ASML-achtige-winst-op-groen-Damrak.aspx",
-    "intro": "Rond de opening van Wall Street leverde de hoofdindex een paar tienden procent winst in en zodoende sluiten we 0,8% hoger op circa 1.142 punten.",
-    "published_at": "2026-10-21 17:35",
-    "scraped_at": "2026-10-21T19:40:35.777000"
-  },
-  {
-    "id": "10db644b5341e4d12236cf0af998e194",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden dalen opnieuw",
-    "link": "https://www.beurs.nl/Nieuws/882178/Amerikaanse-olievoorraden-dalen-opnieuw.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week opnieuw flink gedaald, terwijl ook de bezinevoorraden afnamen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-10-21 16:39",
-    "scraped_at": "2026-10-21T19:40:35.777000"
-  },
-  {
-    "id": "417f6b5c72f5b15bcb124c3031175100",
-    "categorie": "Beursnieuws",
-    "titel": "Marge Signify trekt aan",
-    "link": "https://www.beurs.nl/Nieuws/882176/Marge-Signify-trekt-aan.aspx",
-    "intro": "Signify zal over derde kwartaal een min of meer vergelijkbare omzet hebben behaald  ten opzichte van het voorgaande kwartaal, maar zag de marge en de winst wel flink aantrekken. Dit valt op te maken uit een analistenconsensus die het verlichtingsbedrijf samenstelde.",
-    "published_at": "2026-10-21 16:17",
-    "scraped_at": "2026-10-21T19:40:35.777000"
-  },
-  {
-    "id": "010fe455996f8d6b72be4b6c76a3710a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/882169/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 29",
-    "published_at": "2026-10-21 15:52",
-    "scraped_at": "2026-10-21T19:40:35.777000"
+    "scraped_at": "2026-10-21T22:48:11.668409"
   }
 ]
