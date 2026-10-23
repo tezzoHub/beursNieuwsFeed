@@ -1,92 +1,92 @@
 [
   {
+    "id": "e57f6d1f0b32d87a8e976af017a35d53",
+    "categorie": "Beursnieuws",
+    "titel": "Hogere energieprijzen drukken sentiment Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/882554/Hogere-energieprijzen-drukken-sentiment-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen zijn vrijdag overwegend lager gesloten, terwijl een hernieuwde stijging van de energieprijzen de zorgen over inflatie aanwakkerde. Dat gebeurde slechts enkele dagen voor de rentebesluiten van de Federal Reserve en de Europese Centrale Bank, terwijl ook de zorgen over Frankrijk aanhielden.",
+    "published_at": "2026-10-23 18:38",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
+    "id": "38dcab8abc36b2b55876cec84517a398",
+    "categorie": "Beursnieuws",
+    "titel": "Bel20 houdt goed stand op stormachtige dag",
+    "link": "https://www.beurs.nl/Nieuws/882553/Bel20-houdt-goed-stand-op-stormachtige-dag.aspx",
+    "intro": "De Brusselse beurs is vrijdag hoger geëindigd, terwijl omringende aandelenmarkten het veel lastiger hadden. UCB en KBC wisten de sterindex een impuls te geven.",
+    "published_at": "2026-10-23 18:14",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
+    "id": "64c8575e28a7682c90cae7e0dbc4bcd0",
+    "categorie": "Beursnieuws",
+    "titel": "Shell helpt AEX aan groen slot",
+    "link": "https://www.beurs.nl/Nieuws/882550/Shell-helpt-AEX-aan-groen-slot.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag licht hoger geëindigd, hoewel de 'chippers' weer flink onder druk stonden. Zwaargewicht Shell hielp de hoofdindex om toch wat winst te pakken.",
+    "published_at": "2026-10-23 17:59",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
+    "id": "9c9c3a763c47bfb7a861942e2a3f724e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/882546/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 2 november 2026:",
+    "published_at": "2026-10-23 16:38",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
+    "id": "fc5836005ce8bde5b92a1a2a28850885",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/882544/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 2 november 2026:",
+    "published_at": "2026-10-23 16:37",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
+    "id": "d257de178322fb1f13bd40e901af8336",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/882545/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 2 november 2026:",
+    "published_at": "2026-10-23 16:37",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
+    "id": "761776231790bd97b308f62af93cfa36",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaans consumentenvertrouwen daalt minder dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/882538/Amerikaans-consumentenvertrouwen-daalt-minder-dan-verwacht.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in oktober verder gedaald, maar minder dan aanvankelijk gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-10-23 16:15",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
+    "id": "7e19b73efa43c0f04d55406d78cfbad0",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse economie groeit minder hard",
+    "link": "https://www.beurs.nl/Nieuws/882537/Amerikaanse-economie-groeit-minder-hard.aspx",
+    "intro": "De groei van de Amerikaanse economie is in oktober vertraagd, na juist een versnelling in september. Dit bleek vrijdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-10-23 16:03",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
+    "id": "2bfacfb61bbf6291c268c0bd41d139e9",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht lagere opening",
+    "link": "https://www.beurs.nl/Nieuws/882530/Wall-Street-wacht-lagere-opening.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtrode opening tegemoet, na een flink lager slot voor Wall Street op donderdag. Futures op de SP 500 noteerden ongeveer een half uur voor de opening 0,4 procent lager. De Nasdaq opent vermoedelijk 0,2 procent in het rood.",
+    "published_at": "2026-10-23 14:58",
+    "scraped_at": "2026-10-23T17:29:47.080845"
+  },
+  {
     "id": "1312384bf1cc1d84afcf36a4ede2580c",
     "categorie": "Beursnieuws",
     "titel": "Shell blijft aan kop in lichtrode AEX",
     "link": "https://www.beurs.nl/Nieuws/882518/Shell-blijft-aan-kop-in-lichtrode-AEX.aspx",
     "intro": "De Amsterdamse beurs noteerde vrijdagmiddag nipt in het rood, waar de meeste omringende beurzen grotere verliezen leden.",
     "published_at": "2026-10-23 13:59",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "483a28fd8cd9c9934862725f53060114",
-    "categorie": "Beursnieuws",
-    "titel": "SK Hynix staakt plan voor beursgang geheugenchipdivisie",
-    "link": "https://www.beurs.nl/Nieuws/882515/SK-Hynix-staakt-plan-voor-beursgang-geheugenchipdivisie.aspx",
-    "intro": "SK Hynix staakt de plannen om zijn geheugenchipdivisie in de VS naar de beurs te brengen. Dit maakte de Zuid-Koreaanse chipfabrikant vrijdag bekend.",
-    "published_at": "2026-10-23 13:37",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "b41dcc9077adb6fdc79e1c9f6fbf27b6",
-    "categorie": "Beursnieuws",
-    "titel": "Media: BASF brengt nieuw bod uit op Evonik",
-    "link": "https://www.beurs.nl/Nieuws/882514/Media-BASF-brengt-nieuw-bod-uit-op-Evonik.aspx",
-    "intro": "BASF heeft een nieuw overnamebod uitgebracht op Evonik. Dit meldde persbureau Bloomberg vrijdag op basis van bronnen.",
-    "published_at": "2026-10-23 13:36",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "c14ae797fad78c440f5ea2771a333e27",
-    "categorie": "Beursnieuws",
-    "titel": "Weer outlookverhoging bij American Express",
-    "link": "https://www.beurs.nl/Nieuws/882512/Weer-outlookverhoging-bij-American-Express.aspx",
-    "intro": "American Express heeft in het derde kwartaal meer winst geboekt en besloot om de outlook voor heel 2026 opnieuw te verhogen. Dit bleek vrijdag uit de kwartaalcijfers van de creditcardmaatschappij.",
-    "published_at": "2026-10-23 13:29",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "d274ceb7dec07d79559b62c69d5f5548",
-    "categorie": "Beursnieuws",
-    "titel": "Bloomberg: SpaceX wil 80.000 zendmasten bemachtigen in de VS",
-    "link": "https://www.beurs.nl/Nieuws/882511/Bloomberg-SpaceX-wil-80000-zendmasten-bemachtigen-in-de-VS.aspx",
-    "intro": "SpaceX wil in de Verenigde Staten minimaal 80.000 zendmasten bemachtigen. Dit meldde persbureau Bloomberg donderdagavond laat op basis van bronnen.",
-    "published_at": "2026-10-23 13:22",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "a871333f68c8462e300d2048e33bef8d",
-    "categorie": "Beursnieuws",
-    "titel": "Futures voorspellen terughoudende opening Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882508/Futures-voorspellen-terughoudende-opening-Wall-Street.aspx",
-    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtrode opening tegemoet, na een flink lager slot voor Wall Street op donderdag. Futures op de SP 500 noteerden rond lunchtijd 0,3 procent lager. De Nasdaq opent vermoedelijk 0,2 procent in het rood.",
-    "published_at": "2026-10-23 13:07",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "09f9ddf469b860cff3311b5bd89fd258",
-    "categorie": "Beursnieuws",
-    "titel": "Kleine daling mondiale staalproductie",
-    "link": "https://www.beurs.nl/Nieuws/882506/Kleine-daling-mondiale-staalproductie.aspx",
-    "intro": "De mondiale staalproductie is in september licht gedaald ten opzichte van een jaar eerder, na een daling van iets meer dan een procent in augustus. Dit bleek vrijdag uit cijfers van brancheorganisatie World Steel Association.",
-    "published_at": "2026-10-23 12:41",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "081c0c719065c742089df57224f4c5b6",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verder onder druk",
-    "link": "https://www.beurs.nl/Nieuws/882503/Europese-beurzen-verder-onder-druk.aspx",
-    "intro": "De Europese beurzen noteerden vrijdag rond lunchtijd opnieuw lager, in afwachting van een bericht over de Franse kredietwaardigheid van Moody's, terwijl de rente hoog bleef, net als de olieprijzen. Intussen lieten inkoopcijfers een groeivertraging zien in oktober.",
-    "published_at": "2026-10-23 12:28",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "ea68c06b9c252544212bb3cf85fb257b",
-    "categorie": "Beursnieuws",
-    "titel": "BofAm verhoogt koersdoel ABN Amro",
-    "link": "https://www.beurs.nl/Nieuws/882495/BofAm-verhoogt-koersdoel-ABN-Amro.aspx",
-    "intro": "Bank of America heeft vrijdag het koersdoel voor ABN AMRO verhoogd van 44,50 naar 48,10 euro met handhaving van het koopadvies. Dit bleek uit een rapport van analist Tarik El Mejjad.",
-    "published_at": "2026-10-23 12:02",
-    "scraped_at": "2026-10-23T12:42:51.681735"
-  },
-  {
-    "id": "9a20fb0c0184a03a5a3bfdc517c2d7f0",
-    "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verlaagt koersdoel Signify",
-    "link": "https://www.beurs.nl/Nieuws/882491/Degroof-Petercam-verlaagt-koersdoel-Signify.aspx",
-    "intro": "Degroof Petercam heeft vrijdag het koersdoel voor Signify verlaagd van 15,00 naar 14,00 euro met een onveranderd Reduceren advies. Dit bleek uit een rapport van analist Frank Claassen.",
-    "published_at": "2026-10-23 11:44",
-    "scraped_at": "2026-10-23T12:42:51.681735"
+    "scraped_at": "2026-10-23T17:29:47.080845"
   }
 ]
