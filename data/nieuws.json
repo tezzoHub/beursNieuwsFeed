@@ -1,92 +1,92 @@
 [
   {
-    "id": "3009fded0c92646f2bacf879a4f608b9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882404/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag vijf van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam. ASML daalde het meest, Shell steeg het sterkst.",
-    "published_at": "2026-10-22 22:47",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "id": "e029ba06753cd2e3933b1c21892ed4ea",
+    "categorie": "Opinie",
+    "titel": "AI: vervuilende stroomvreter of slimme bespaarder?",
+    "link": "https://www.ieximpact.nl/artikel/882153/AI-vervuilende-stroomvreter-of-slimme-bespaarder.aspx",
+    "intro": "AI vraagt steeds meer stroom, maar kan bedrijven ook helpen zuiniger te werken. In de IEX Impact Podcast bespreken beleggingsspecialist Justin Blekemolen van broker Lynx en medeoprichter en CTO Cas Burggraaf van het duurzame AI-bedrijf GreenPT de kansen, de dilemma’s en de groene claims van AI-bedrijven.",
+    "published_at": "2026-10-23 09:15",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "380d03f7d3ba2580f5285f223fe87a02",
+    "id": "c8d3d545d8905a0539769bc813e5a2b8",
     "categorie": "Beursnieuws",
-    "titel": "Zorg over AI-investeringen trekt Wall Street omlaag",
-    "link": "https://www.beurs.nl/Nieuws/882401/Zorg-over-AI-investeringen-trekt-Wall-Street-omlaag.aspx",
-    "intro": "Amerikaanse technologie-aandelen zijn donderdag sterk gedaald, nadat beleggers zich meer zorgen gingen maken dat de grote investeringen in kunstmatige intelligentie niet houdbaar zullen zijn.",
-    "published_at": "2026-10-22 22:32",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "titel": "Beursupdate: AEX licht hoger van start gegaan",
+    "link": "https://www.beurs.nl/Nieuws/882460/Beursupdate-AEX-licht-hoger-van-start-gegaan.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag licht hoger van start gegaan. Net na de klok van negen uur steeg de AEX met 0,1 procent tot 1.131,09 punten. De AMX won 0,6 procent.",
+    "published_at": "2026-10-23 09:10",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "bae8aa447abb9c19eee0d4851a988dcc",
+    "id": "61d44bb095f01515b66283376ee17b1b",
     "categorie": "Beursnieuws",
-    "titel": "Moderna onderuit na lekken data kankervaccin",
-    "link": "https://www.beurs.nl/Nieuws/882396/Moderna-onderuit-na-lekken-data-kankervaccin.aspx",
-    "intro": "Het aandeel Moderna ging donderdag hard onderuit op Wall Street, nadat details van een onderzoek naar een kankervaccin werden gedeeld op sociale media en vervolgens werden gepubliceerd door het biotechbedrijf.",
-    "published_at": "2026-10-22 21:41",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "titel": "Heijmans ontvangt renovatieopdracht Houtribcomplex",
+    "link": "https://www.beurs.nl/Nieuws/882458/Heijmans-ontvangt-renovatieopdracht-Houtribcomplex.aspx",
+    "intro": "Heijmans heeft van Rijkswaterstaat de definitieve gunning ontvangen voor de renovatie van het Houtribcomplex bij Lelystad. Dit maakte het bouwbedrijf vrijdagochtend bekend.",
+    "published_at": "2026-10-23 09:02",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "cef165ac14a5a1805ea71ca0570d4f49",
+    "id": "750732174eb69d10e41bec7b11ae1be0",
     "categorie": "Beursnieuws",
-    "titel": "Verwachte agressie VS laat oliefutures stijgen",
-    "link": "https://www.beurs.nl/Nieuws/882393/Verwachte-agressie-VS-laat-oliefutures-stijgen.aspx",
-    "intro": "De oliefutures zijn donderdag weer gestegen, na aanvallen op Saoedische infrastructuur en berichten over mogelijk nieuwe Amerikaanse militaire aanvallen op Iran. De kloof tussen de oliefutures en de hogere prijs van fysieke olie werd hierdoor kleiner.",
-    "published_at": "2026-10-22 21:20",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "titel": "Beursblik: Signify onderliggend bemoedigend",
+    "link": "https://www.beurs.nl/Nieuws/882456/Beursblik-Signify-onderliggend-bemoedigend.aspx",
+    "intro": "Signify heeft onderliggend iets beter dan verwacht gepresteerd gedurende het derde kwartaal. Dit stelden analisten van Citi Research vrijdag in een rapport.",
+    "published_at": "2026-10-23 08:52",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "5008a084d62c41d7baab0d9e2c728555",
+    "id": "cb04667adc30a108d49a3e3d6fad2e75",
     "categorie": "Beursnieuws",
-    "titel": "Verkoopgolf techsector rolt door op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882392/Verkoopgolf-techsector-rolt-door-op-Wall-Street.aspx",
-    "intro": "Technologie-aandelen gingen donderdag voorop in de daling van de Amerikaanse beurzen, na een nieuwe oprisping van zorgen over de AI-hausse op de wereldwijde markten.",
-    "published_at": "2026-10-22 20:39",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "titel": "Beursblik: Citi verlaagt koersdoel Aperam",
+    "link": "https://www.beurs.nl/Nieuws/882453/Beursblik-Citi-verlaagt-koersdoel-Aperam.aspx",
+    "intro": "Citi Research heeft het koersdoel voor Aperam verlaagd van 50,00 naar 42,00 euro, met handhaving van het advies op Neutraal. Dit bleek vrijdag uit een rapport van analist Krishan Agarwal.",
+    "published_at": "2026-10-23 08:39",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "6e8bd79c56786450c5440c69effb2c64",
+    "id": "136d275e1c8d2f5983bc1606d5c3aa14",
     "categorie": "Beursnieuws",
-    "titel": "Techmalaise slaat weer toe op Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/882387/Techmalaise-slaat-weer-toe-op-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen zijn donderdag lager gesloten, nadat somberheid over technologie toesloeg terwijl de zorgen over de Franse staatskas aanhielden.",
-    "published_at": "2026-10-22 18:56",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "titel": "Struere meldt belang in NSI",
+    "link": "https://www.beurs.nl/Nieuws/882447/Struere-meldt-belang-in-NSI.aspx",
+    "intro": "Struere II LMN B.V. heeft een belang in NSI genomen. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 22 oktober 2026.",
+    "published_at": "2026-10-23 08:21",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "4a6d0ec4c82a66d0c2e1f78dac1d6e98",
+    "id": "376ac9c58d969513b620e00c08ddd786",
     "categorie": "Beursnieuws",
-    "titel": "Kering houdt omzet op peil in uitdagende luxemarkt",
-    "link": "https://www.beurs.nl/Nieuws/882386/Kering-houdt-omzet-op-peil-in-uitdagende-luxemarkt.aspx",
-    "intro": "Kering heeft in het derde kwartaal stand weten te houden met een stabiele omzet. Dit bleek donderdag nabeurs uit de kwartaalcijfers van het Franse modebedrijf.",
-    "published_at": "2026-10-22 18:46",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "titel": "Allfunds boekt hogere inkomsten en ziet vermogen groeien",
+    "link": "https://www.beurs.nl/Nieuws/882445/Allfunds-boekt-hogere-inkomsten-en-ziet-vermogen-groeien.aspx",
+    "intro": "Allfunds heeft in de eerste negen maanden van 2026 de inkomsten en het geadministreerde vermogen zien stijgen, hoewel de netto-instroom afnam. Dit bleek vrijdag uit een update van het in Amsterdams genoteerde fondsenplatform.",
+    "published_at": "2026-10-23 08:13",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "8fbe9b9cbcbb0fdce42d81252652460e",
-    "categorie": "Beursnieuws",
-    "titel": "Stevige omzetgroei bij L'Oréal",
-    "link": "https://www.beurs.nl/Nieuws/882384/Stevige-omzetgroei-bij-LOreal.aspx",
-    "intro": "L'Oréal heeft in het derde kwartaal een stevige omzetgroei neergezet, waarmee het bedrijf naar eigen zeggen aanzienlijk beter presteerde dan de mondiale beauty-markt. Dat bleek donderdagavond uit de kwartaalcijfers van het Franse cosmeticamerk.",
-    "published_at": "2026-10-22 18:32",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "id": "f0eedb98a4c0b341a4e257f8c669cb22",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent vlak na een totale oorwassing voor Amerikaanse tech",
+    "link": "https://www.iex.nl/artikel/882367/AEX-opent-vlak-na-een-totale-oorwassing-voor-Amerikaanse-tech.aspx",
+    "intro": "Een totale oorwassing op Wall Street met -6,7% voor de SOX, -10% voor Nebius en -8,7% voor Marvell. De Nasdaq beleefde de slechtste beursdag sinds juni. AEX-indicatie is -0,1% en we wensen je veel succes vandaag.",
+    "published_at": "2026-10-23 08:10",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "f6debc4c0652df2c9afd25911af00eae",
+    "id": "1db86e35c06b69ca019fb4dbd349834e",
     "categorie": "Beursnieuws",
-    "titel": "AEX sluit lager na twijfels over AI-investeringen",
-    "link": "https://www.beurs.nl/Nieuws/882378/AEX-sluit-lager-na-twijfels-over-AI-investeringen.aspx",
-    "intro": "De Amsterdamse beurs is donderdag lager gesloten, terwijl beleggers teleurgesteld bleken over de vooruitzichten waarmee grote Amerikaanse techbedrijven woensdag nabeurs naar buiten kwamen. Ook de opgelopen spanningen in het Midden-Oosten deden het sentiment geen goed.",
-    "published_at": "2026-10-22 17:56",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "titel": "AEX wacht vlakke opening na techverkoopgolf",
+    "link": "https://www.beurs.nl/Nieuws/882440/AEX-wacht-vlakke-opening-na-techverkoopgolf.aspx",
+    "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting een min of meer vlakke opening tegemoet. Daarmee lijkt de AEX vooralsnog te stabiliseren na de verliezen van donderdag, hoewel zorgen over de omvangrijke investeringen in kunstmatige intelligentie op het sentiment blijven drukken.",
+    "published_at": "2026-10-23 08:07",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   },
   {
-    "id": "8756f42f12bd83834d2e555991fb7e95",
+    "id": "56c543c2f3dc1887a559febea2145ade",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/882368/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 30 oktober 2026:",
-    "published_at": "2026-10-22 16:18",
-    "scraped_at": "2026-10-23T02:00:06.507468"
+    "titel": "Signify profiteert van retour ontvangen Amerikaanse importheffingen",
+    "link": "https://www.beurs.nl/Nieuws/882433/Signify-profiteert-van-retour-ontvangen-Amerikaanse-importheffingen.aspx",
+    "intro": "Signify heeft in het derde kwartaal een omzet behaald conform de analistenverwachtingen, maar de marge en winst trokken aan, mede dankzij het retour ontvangen van betaalde importheffingen. Dit bleek vrijdag uit cijfers die het verlichtingsbedrijf publiceerde.",
+    "published_at": "2026-10-23 07:29",
+    "scraped_at": "2026-10-23T07:21:34.419402"
   }
 ]
