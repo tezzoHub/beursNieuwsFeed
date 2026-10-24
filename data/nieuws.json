@@ -1,92 +1,38 @@
 [
   {
-    "id": "797fc4c43230877237156b4d358685a1",
+    "id": "6c476fdb2d9cd15d8e15d30f3cb11b2c",
     "categorie": "Beursnieuws",
-    "titel": "Rode slotkoersen op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882561/Rode-slotkoersen-opWall-Street.aspx",
-    "intro": "Wall Street is vrijdag lager gesloten, waarbij ditmaal niet de Nasdaq het grootste verlies leed, maar de Dow Jones.",
-    "published_at": "2026-10-23 22:43",
-    "scraped_at": "2026-10-24T07:27:06.197667"
+    "titel": "Trump versoepelt importheffingen Canada gedeeltelijk",
+    "link": "https://www.beurs.nl/Nieuws/882572/Trump-versoepelt-importheffingen-Canada-gedeeltelijk.aspx",
+    "intro": "De Verenigde Staten hebben vrijdag maatregelen genomen om bepaalde Canadese producten vrij te stellen van invoerheffingen van 50 procent, in een poging om senator Susan Collins uit Maine en andere Republikeinen te steunen bij de komende tussentijdse verkiezingen. Dit blijkt uit documenten op de website van het Witte Huis.",
+    "published_at": "2026-10-24 12:27",
+    "scraped_at": "2026-10-24T12:14:40.401464"
   },
   {
-    "id": "015b259abc7e7b972942e1e76c886e33",
+    "id": "9a60bcbf5de1b4805a49137a889a69fa",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen weer stevig in de lift",
-    "link": "https://www.beurs.nl/Nieuws/882556/Olieprijzen-weer-stevig-in-de-lift.aspx",
-    "intro": "De olieprijzen zijn vrijdag hoger gesloten, zelfs op het hoogste niveau in zes maanden, nu beleggers er in toenemende mate rekening mee houden dat de Verenigde Staten de komende weken opnieuw aanvallen op Iran zullen uitvoeren.",
-    "published_at": "2026-10-23 21:05",
-    "scraped_at": "2026-10-24T07:27:06.197667"
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/882571/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam. Unilever en Shell stegen wel en zo bleef de schade voor de AEX beperkt.",
+    "published_at": "2026-10-24 12:14",
+    "scraped_at": "2026-10-24T12:14:40.401464"
   },
   {
-    "id": "a771278fbc8f0397e5f90bb314ecf736",
+    "id": "5e2398a2d22dedf21c0c0975bb25791e",
     "categorie": "Beursnieuws",
-    "titel": "Telecomaandelen onder druk op verdeeld Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882555/Telecomaandelen-onder-druk-op-verdeeld-Wall-Street.aspx",
-    "intro": "Wall Street noteerde verdeeld in aanloop naar het weekend, terwijl een hernieuwde stijging van de energieprijzen de zorgen over inflatie aanwakkerde. Ook daalden de telecomaandelen opnieuw, nu de concurrentiedreiging van SpaceX en zijn Starlink-dienst in de consumentenmarkt voor draadloze diensten een stuk reëler lijkt te zijn geworden.",
-    "published_at": "2026-10-23 19:42",
-    "scraped_at": "2026-10-24T07:27:06.197667"
+    "titel": "Moody's handhaaft kredietrating Frankrijk",
+    "link": "https://www.beurs.nl/Nieuws/882570/Moodys-handhaaft-kredietrating-Frankrijk.aspx",
+    "intro": "Moody's heeft vrijdagavond de kredietrating van Frankrijk ongewijzigd gelaten, maar benadrukte dat de vooruitzichten negatief blijven.",
+    "published_at": "2026-10-24 11:59",
+    "scraped_at": "2026-10-24T12:14:40.401464"
   },
   {
-    "id": "e57f6d1f0b32d87a8e976af017a35d53",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere energieprijzen drukken sentiment Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/882554/Hogere-energieprijzen-drukken-sentiment-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen zijn vrijdag overwegend lager gesloten, terwijl een hernieuwde stijging van de energieprijzen de zorgen over inflatie aanwakkerde. Dat gebeurde slechts enkele dagen voor de rentebesluiten van de Federal Reserve en de Europese Centrale Bank, terwijl ook de zorgen over Frankrijk aanhielden.",
-    "published_at": "2026-10-23 18:38",
-    "scraped_at": "2026-10-24T07:27:06.197667"
-  },
-  {
-    "id": "38dcab8abc36b2b55876cec84517a398",
-    "categorie": "Beursnieuws",
-    "titel": "Bel20 houdt goed stand op stormachtige dag",
-    "link": "https://www.beurs.nl/Nieuws/882553/Bel20-houdt-goed-stand-op-stormachtige-dag.aspx",
-    "intro": "De Brusselse beurs is vrijdag hoger geëindigd, terwijl omringende aandelenmarkten het veel lastiger hadden. UCB en KBC wisten de sterindex een impuls te geven.",
-    "published_at": "2026-10-23 18:14",
-    "scraped_at": "2026-10-24T07:27:06.197667"
-  },
-  {
-    "id": "64c8575e28a7682c90cae7e0dbc4bcd0",
-    "categorie": "Beursnieuws",
-    "titel": "Shell helpt AEX aan groen slot",
-    "link": "https://www.beurs.nl/Nieuws/882550/Shell-helpt-AEX-aan-groen-slot.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag licht hoger geëindigd, hoewel de 'chippers' weer flink onder druk stonden. Zwaargewicht Shell hielp de hoofdindex om toch wat winst te pakken.",
-    "published_at": "2026-10-23 17:59",
-    "scraped_at": "2026-10-24T07:27:06.197667"
-  },
-  {
-    "id": "9c9c3a763c47bfb7a861942e2a3f724e",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/882546/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 2 november 2026:",
-    "published_at": "2026-10-23 16:38",
-    "scraped_at": "2026-10-24T07:27:06.197667"
-  },
-  {
-    "id": "fc5836005ce8bde5b92a1a2a28850885",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/882544/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 2 november 2026:",
-    "published_at": "2026-10-23 16:37",
-    "scraped_at": "2026-10-24T07:27:06.197667"
-  },
-  {
-    "id": "d257de178322fb1f13bd40e901af8336",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/882545/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 2 november 2026:",
-    "published_at": "2026-10-23 16:37",
-    "scraped_at": "2026-10-24T07:27:06.197667"
-  },
-  {
-    "id": "761776231790bd97b308f62af93cfa36",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaans consumentenvertrouwen daalt minder dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/882538/Amerikaans-consumentenvertrouwen-daalt-minder-dan-verwacht.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in oktober verder gedaald, maar minder dan aanvankelijk gemeld. Dit bleek vrijdag uit definitieve cijfers van de Universiteit van Michigan.",
-    "published_at": "2026-10-23 16:15",
-    "scraped_at": "2026-10-24T07:27:06.197667"
+    "id": "d5598107a8d21879e0ac4a7810c42c9f",
+    "categorie": "",
+    "titel": "Vooruitblik: centrale banken en techreuzen bepalen het sentiment",
+    "link": "https://www.iex.nl/artikel/882488/Vooruitblik-centrale-banken-en-techreuzen-bepalen-het-sentiment.aspx",
+    "intro": "",
+    "published_at": "2026-10-24 11:00",
+    "scraped_at": "2026-10-24T12:14:40.401464"
   }
 ]
