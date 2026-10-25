@@ -1,47 +1,38 @@
 [
   {
-    "id": "e5d1327f055f14d51c4b8e56719c4999",
+    "id": "6d49d8a74e218f635ac1a3572f338cd0",
     "categorie": "Beursnieuws",
-    "titel": "AEX neemt gas terug na records",
-    "link": "https://www.beurs.nl/Nieuws/882574/AEX-neemt-gas-terug-na-records.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week gedaald, terwijl de 'chippers' en financiële waarden onder druk stonden als gevolg van de nieuwe zorgen over AI en stijgende rentes.",
-    "published_at": "2026-10-24 17:41",
-    "scraped_at": "2026-10-25T12:29:40.647891"
+    "titel": "Audi investeert miljarden in Amerika",
+    "link": "https://www.beurs.nl/Nieuws/882584/Audi-investeert-miljarden-in-Amerika.aspx",
+    "intro": "Audi is van plan om 4 miljard dollar te investeren in wat de eerste Amerikaanse fabriek moet worden van de Duitse autobouwer. Dit meldde het bedrijf zondag.",
+    "published_at": "2026-10-25 16:16",
+    "scraped_at": "2026-10-25T16:51:32.726784"
   },
   {
-    "id": "6c476fdb2d9cd15d8e15d30f3cb11b2c",
+    "id": "7187c8b065bfcf0c347797b099e9c3d4",
     "categorie": "Beursnieuws",
-    "titel": "Trump versoepelt importheffingen Canada gedeeltelijk",
-    "link": "https://www.beurs.nl/Nieuws/882572/Trump-versoepelt-importheffingen-Canada-gedeeltelijk.aspx",
-    "intro": "De Verenigde Staten hebben vrijdag maatregelen genomen om bepaalde Canadese producten vrij te stellen van invoerheffingen van 50 procent, in een poging om senator Susan Collins uit Maine en andere Republikeinen te steunen bij de komende tussentijdse verkiezingen. Dit blijkt uit documenten op de website van het Witte Huis.",
-    "published_at": "2026-10-24 12:27",
-    "scraped_at": "2026-10-25T12:29:40.647891"
+    "titel": "Centrale banken sluiten volatiele oktobermaand af",
+    "link": "https://www.beurs.nl/Nieuws/882582/Centrale-banken-sluiten-volatiele-oktobermaand-af.aspx",
+    "intro": "Het belooft een drukke laatste beursweek van oktober te worden, met rentebesluiten van de grote centrale banken, groeicijfers over het derde kwartaal, inflatiedata en een aantal grote technamen dat met resultaten komt.",
+    "published_at": "2026-10-25 15:58",
+    "scraped_at": "2026-10-25T16:51:32.726784"
   },
   {
-    "id": "9a60bcbf5de1b4805a49137a889a69fa",
+    "id": "3308d5b200cb74f180b4691d61c9cdb9",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882571/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag zes van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam. Unilever en Shell stegen wel en zo bleef de schade voor de AEX beperkt.",
-    "published_at": "2026-10-24 12:14",
-    "scraped_at": "2026-10-25T12:29:40.647891"
+    "titel": "Beursblik: wat zijn de goedkoopste en duurste aandelen op het Damrak",
+    "link": "https://www.beurs.nl/Nieuws/882581/Beursblik-wat-zijn-de-goedkoopste-en-duurste-aandelen-op-het-Damrak.aspx",
+    "intro": "Wat zijn de goedkoopste en duurste aandelen op het Amsterdamse Damrak? Op die vraag van ABM Financial News geeft analist Corné van Zeijl van Cardano antwoord.",
+    "published_at": "2026-10-25 15:10",
+    "scraped_at": "2026-10-25T16:51:32.726784"
   },
   {
-    "id": "5e2398a2d22dedf21c0c0975bb25791e",
+    "id": "03fe4f0b62ad1dcd174582c6cd89ab86",
     "categorie": "Beursnieuws",
-    "titel": "Moody's handhaaft kredietrating Frankrijk",
-    "link": "https://www.beurs.nl/Nieuws/882570/Moodys-handhaaft-kredietrating-Frankrijk.aspx",
-    "intro": "Moody's heeft vrijdagavond de kredietrating van Frankrijk ongewijzigd gelaten, maar benadrukte dat de vooruitzichten negatief blijven.",
-    "published_at": "2026-10-24 11:59",
-    "scraped_at": "2026-10-25T12:29:40.647891"
-  },
-  {
-    "id": "d5598107a8d21879e0ac4a7810c42c9f",
-    "categorie": "",
-    "titel": "Vooruitblik: centrale banken en techreuzen bepalen het sentiment",
-    "link": "https://www.iex.nl/artikel/882488/Vooruitblik-centrale-banken-en-techreuzen-bepalen-het-sentiment.aspx",
-    "intro": "",
-    "published_at": "2026-10-24 11:00",
-    "scraped_at": "2026-10-25T12:29:40.647891"
+    "titel": "Chippers beleven slechte week op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/882580/Chippers-beleven-slechte-week-op-Damrak.aspx",
+    "intro": "Na de recente records op het Damrak, moest de AEX afgelopen week gas terugnemen. Halfgeleideraandelen waren de gebeten hond en belanden dan ook in de onderste regionen van de hoofdindex. ASMI, ASML en Besi verloren 7,0, 4,7 en 6,7 procent.",
+    "published_at": "2026-10-25 14:25",
+    "scraped_at": "2026-10-25T16:51:32.726784"
   }
 ]
