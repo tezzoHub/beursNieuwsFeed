@@ -1,38 +1,92 @@
 [
   {
-    "id": "6d49d8a74e218f635ac1a3572f338cd0",
+    "id": "329a089500e7079c9ad61bde2b9a3435",
     "categorie": "Beursnieuws",
-    "titel": "Audi investeert miljarden in Amerika",
-    "link": "https://www.beurs.nl/Nieuws/882584/Audi-investeert-miljarden-in-Amerika.aspx",
-    "intro": "Audi is van plan om 4 miljard dollar te investeren in wat de eerste Amerikaanse fabriek moet worden van de Duitse autobouwer. Dit meldde het bedrijf zondag.",
-    "published_at": "2026-10-25 16:16",
-    "scraped_at": "2026-10-26T05:26:42.593376"
+    "titel": "Verizon verhoogt outlook na recordkwartaal",
+    "link": "https://www.beurs.nl/Nieuws/882646/Verizon-verhoogt-outlook-na-recordkwartaal.aspx",
+    "intro": "Verizon Communications heeft in het derde kwartaal van 2026 recordresultaten geboekt en voor de derde keer op rij de outlook voor dit jaar verhoogd. Dit maakte het Amerikaanse telecombedrijf maandagmiddag bekend.",
+    "published_at": "2026-10-26 12:21",
+    "scraped_at": "2026-10-26T11:34:28.646900"
   },
   {
-    "id": "7187c8b065bfcf0c347797b099e9c3d4",
+    "id": "ea8b426aabed8fd7411cc80e67498b22",
     "categorie": "Beursnieuws",
-    "titel": "Centrale banken sluiten volatiele oktobermaand af",
-    "link": "https://www.beurs.nl/Nieuws/882582/Centrale-banken-sluiten-volatiele-oktobermaand-af.aspx",
-    "intro": "Het belooft een drukke laatste beursweek van oktober te worden, met rentebesluiten van de grote centrale banken, groeicijfers over het derde kwartaal, inflatiedata en een aantal grote technamen dat met resultaten komt.",
-    "published_at": "2026-10-25 15:58",
-    "scraped_at": "2026-10-26T05:26:42.593376"
+    "titel": "Nederland wil 25.000 minder ambtenaren",
+    "link": "https://www.beurs.nl/Nieuws/882645/Nederland-wil-25000-minder-ambtenaren.aspx",
+    "intro": "Nederland denkt door meer te vereenvoudigen en slimmer te werken, dat er de komende tien jaar minder ambtenaren nodig zijn. Dit schreef staatssecretaris van Koninkrijksrelaties en Slagvaardige Overheid Eric van der Burg mandag aan de Tweede Kamer.",
+    "published_at": "2026-10-26 12:14",
+    "scraped_at": "2026-10-26T11:34:28.646900"
   },
   {
-    "id": "3308d5b200cb74f180b4691d61c9cdb9",
+    "id": "197f9ea8cea668943d262df9d478a242",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: wat zijn de goedkoopste en duurste aandelen op het Damrak",
-    "link": "https://www.beurs.nl/Nieuws/882581/Beursblik-wat-zijn-de-goedkoopste-en-duurste-aandelen-op-het-Damrak.aspx",
-    "intro": "Wat zijn de goedkoopste en duurste aandelen op het Amsterdamse Damrak? Op die vraag van ABM Financial News geeft analist Corné van Zeijl van Cardano antwoord.",
-    "published_at": "2026-10-25 15:10",
-    "scraped_at": "2026-10-26T05:26:42.593376"
+    "titel": "EQT neemt branchegenoot Range Resources over",
+    "link": "https://www.beurs.nl/Nieuws/882644/EQT-neemt-branchegenoot-Range-Resources-over.aspx",
+    "intro": "EQT Corporation en Range Resources Corporation hebben een definitieve fusieovereenkomst gesloten, waarbij EQT Range zal overnemen in een transactie die volledig in aandelen wordt voldaan. Dat hebben beide bedrijven maandag voorbeurs gemeld.",
+    "published_at": "2026-10-26 12:04",
+    "scraped_at": "2026-10-26T11:34:28.646900"
   },
   {
-    "id": "03fe4f0b62ad1dcd174582c6cd89ab86",
+    "id": "95ad53368bad319cb4452162ad33ad14",
+    "categorie": "Beurs vandaag",
+    "titel": "Beleggers schrikken zich rot van Braziliaanse verkiezingsuitslag",
+    "link": "https://www.iex.nl/artikel/882636/Beleggers-schrikken-zich-rot-van-Braziliaanse-verkiezingsuitslag.aspx",
+    "intro": "De schrik zit er vandaag goed in bij Brazilië-beleggers. Compleet tegen de verwachting in moet Bolsonaro zijn meerdere erkennen in Lula. Wat hij overigens nog niet gedaan heeft.",
+    "published_at": "2026-10-26 11:55",
+    "scraped_at": "2026-10-26T11:34:28.646900"
+  },
+  {
+    "id": "6c7b388c3708eb551060179f5b6d7cc2",
     "categorie": "Beursnieuws",
-    "titel": "Chippers beleven slechte week op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/882580/Chippers-beleven-slechte-week-op-Damrak.aspx",
-    "intro": "Na de recente records op het Damrak, moest de AEX afgelopen week gas terugnemen. Halfgeleideraandelen waren de gebeten hond en belanden dan ook in de onderste regionen van de hoofdindex. ASMI, ASML en Besi verloren 7,0, 4,7 en 6,7 procent.",
-    "published_at": "2026-10-25 14:25",
-    "scraped_at": "2026-10-26T05:26:42.593376"
+    "titel": "AEX houdt adem in voor kwartaalcijfers",
+    "link": "https://www.beurs.nl/Nieuws/882640/AEX-houdt-adem-in-voor-kwartaalcijfers.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandagochtend nipt in de plus, terwijl beleggers het voorzichtig aandeden in aanloop naar een reeks rentebesluiten en kwartaalcijfers later in de week.",
+    "published_at": "2026-10-26 11:21",
+    "scraped_at": "2026-10-26T11:34:28.646900"
+  },
+  {
+    "id": "ea614e588c82daff26223e3830e1472b",
+    "categorie": "Beursnieuws",
+    "titel": "Duitse Ifo-index verder omhoog",
+    "link": "https://www.beurs.nl/Nieuws/882638/Duitse-Ifo-index-verder-omhoog.aspx",
+    "intro": "De Ifo index voor het ondernemersklimaat in Duitsland is in oktober verder gestegen. Dit bleek maandag uit cijfers van het Duitse onderzoeksinstituut Ifo.",
+    "published_at": "2026-10-26 11:06",
+    "scraped_at": "2026-10-26T11:34:28.646900"
+  },
+  {
+    "id": "f1462ddadc18d76a387bdc5f1e95fb62",
+    "categorie": "Beursnieuws",
+    "titel": "Volkswagen en NXP slaan handen ineen",
+    "link": "https://www.beurs.nl/Nieuws/882635/Volkswagen-en-NXP-slaan-handen-ineen.aspx",
+    "intro": "Volkswagen Group en chipmaker NXP Semiconductors gaan nauwer samenwerken op het gebied van chips voor auto's. Dit maakten de twee bedrijven maandag bekend, voorafgaand aan een beurs in Wolfsburg.",
+    "published_at": "2026-10-26 10:48",
+    "scraped_at": "2026-10-26T11:34:28.646900"
+  },
+  {
+    "id": "2c69a0866a4f4488e5072519a62a3024",
+    "categorie": "Beursnieuws",
+    "titel": "UBS verhoogt koersdoel RELX",
+    "link": "https://www.beurs.nl/Nieuws/882633/UBS-verhoogt-koersdoel-RELX.aspx",
+    "intro": "UBS heeft maandag het koersdoel voor RELX verhoogd van 36,00 naar 37,80 Britse pond, met handhaving van het koopadvies. Dit bleek uit een analistenrapport van de Zwitserse bank.",
+    "published_at": "2026-10-26 10:37",
+    "scraped_at": "2026-10-26T11:34:28.646900"
+  },
+  {
+    "id": "f61b01f9665bce19c9d1384403836849",
+    "categorie": "Beursnieuws",
+    "titel": "Degroof Petercam verhoogt koersdoel Corbion",
+    "link": "https://www.beurs.nl/Nieuws/882631/Degroof-Petercam-verhoogt-koersdoel-Corbion.aspx",
+    "intro": "Degroof Petercam heeft het koersdoel voor Corbion verhoogd van 26,00 naar 34,00 euro, met handhaving van het Kopen-advies. Dit bleek maandagochtend uit een analistenrapport van Fernand de Boer.",
+    "published_at": "2026-10-26 10:12",
+    "scraped_at": "2026-10-26T11:34:28.646900"
+  },
+  {
+    "id": "26d451d51362ceed67217f568997586d",
+    "categorie": "Must read",
+    "titel": "Must read: Daling goudprijs is logisch",
+    "link": "https://www.iex.nl/artikel/882272/Must-read-Daling-goudprijs-is-logisch.aspx",
+    "intro": "Plus: beurs bereikt cruciaal punt, AI-onrust gaat om financiering, dividendbelegger wordt impactbelegger, PE-fondsen blijven flink achter, en veel meer.",
+    "published_at": "2026-10-26 10:00",
+    "scraped_at": "2026-10-26T11:34:28.646900"
   }
 ]
