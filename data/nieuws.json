@@ -1,92 +1,56 @@
 [
   {
-    "id": "e1929a1da438e6358c21975765f7b576",
+    "id": "f9e77faa5032777097954461eef95a3d",
     "categorie": "Beursnieuws",
-    "titel": "Applied Materials wil belang in Besi flink opvoeren",
-    "link": "https://www.beurs.nl/Nieuws/882730/Applied-Materials-wil-belang-in-Besi-flink-opvoeren.aspx",
-    "intro": "Applied Materials gaat zijn belang in BE Semiconductor Industries opvoeren van de huidige 9 procent naar ongeveer 20 procent. Dit maakte Applied Materials maandagavond bekend in een persbericht.",
-    "published_at": "2026-10-26 22:30",
-    "scraped_at": "2026-10-27T01:16:26.364926"
+    "titel": "Zwarte cijfers voor Pharming",
+    "link": "https://www.beurs.nl/Nieuws/882744/Zwarte-cijfers-voor-Pharming.aspx",
+    "intro": "Pharming heeft in het derde kwartaal meer omzet en winst behaald, wat na de outlookverhoging van vorige week niet mag verrassen. Dit bleek dinsdag uit de definitieve cijfers van het Leidse biotechbedrijf.",
+    "published_at": "2026-10-27 07:21",
+    "scraped_at": "2026-10-27T06:27:58.122246"
   },
   {
-    "id": "43d420a71ea859903f4b2c3b5f4d3dc2",
+    "id": "0bb73d8199522f689a61d0dd7abcada1",
     "categorie": "Beursnieuws",
-    "titel": "Staalproducent Nucor overtreft eigen winstverwachting",
-    "link": "https://www.beurs.nl/Nieuws/882725/Staalproducent-Nucor-overtreft-eigen-winstverwachting.aspx",
-    "intro": "Nucor heeft in het derde kwartaal de eigen winstverwachting overtroffen. Dit bleek maandagavond uit de kwartaalcijfers van de Amerikaanse staalproducent.",
-    "published_at": "2026-10-26 21:45",
-    "scraped_at": "2026-10-27T01:16:26.364926"
+    "titel": "Aziatische beurzen overwegend hoger na hernieuwd AI-optimisme",
+    "link": "https://www.beurs.nl/Nieuws/882740/Aziatische-beurzen-overwegend-hoger-na-hernieuwd-AI-optimisme.aspx",
+    "intro": "De Aziatische beurzen noteerden dinsdagochtend overwegend hoger, aangevoerd door techaandelen. De aanvraag voor een IPO door Anthropic gaf het vertrouwen in kunstmatige intelligentie een impuls.",
+    "published_at": "2026-10-27 07:11",
+    "scraped_at": "2026-10-27T06:27:58.122246"
   },
   {
-    "id": "b68e51790317eeee9988f294821f5c5b",
+    "id": "96e3e4acc90e369b385dd9e0080480fc",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/882724/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag zes van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-10-26 21:22",
-    "scraped_at": "2026-10-27T01:16:26.364926"
+    "titel": "Europese beurzen openen lager",
+    "link": "https://www.beurs.nl/Nieuws/882738/Europese-beurzen-openen-lager.aspx",
+    "intro": "De aandelenmarkten in Europa gaan dinsdag een rode opening tegemoet, in afwachting van een stroom aan internationale bedrijfscijfers.",
+    "published_at": "2026-10-27 06:48",
+    "scraped_at": "2026-10-27T06:27:58.122246"
   },
   {
-    "id": "ac4cd55875c9709ce0fe4961b52cd450",
+    "id": "347867059eee0ff133944ccfbf6be0cb",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit hoger met steun van chippers",
-    "link": "https://www.beurs.nl/Nieuws/882723/Wall-Street-sluit-hoger-met-steun-van-chippers.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag hoger geëindigd, terwijl beleggers wachtten op het rentebesluit van de Federal Reserve en verder vooral AI-nieuws verwerkten.",
-    "published_at": "2026-10-26 21:18",
-    "scraped_at": "2026-10-27T01:16:26.364926"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/882736/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 3 november 2026:",
+    "published_at": "2026-10-27 06:42",
+    "scraped_at": "2026-10-27T06:27:58.122246"
   },
   {
-    "id": "f36faa4013174e4c4bb964ffa47fabe1",
+    "id": "67ff250e2698f6179a599049c7bfff25",
     "categorie": "Beursnieuws",
-    "titel": "Media: DoorDash wil Instacart overnemen",
-    "link": "https://www.beurs.nl/Nieuws/882722/Media-DoorDash-wil-Instacart-overnemen.aspx",
-    "intro": "DoorDash voert vergevorderde onderhandelingen om concurrent Instacart over te nemen in een deal met een waarde van 17 miljard dollar. Dit meldde The Wall Street Journal maandagavond op basis van bronnen.",
-    "published_at": "2026-10-26 21:07",
-    "scraped_at": "2026-10-27T01:16:26.364926"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/882737/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 3 november 2026:",
+    "published_at": "2026-10-27 06:42",
+    "scraped_at": "2026-10-27T06:27:58.122246"
   },
   {
-    "id": "cf5bb920e748b84b2e91e6635e45a82b",
+    "id": "a4313cbda6990123e14a4f2233a009eb",
     "categorie": "Beursnieuws",
-    "titel": "KLM vliegt tot eind maart niet op Dubai",
-    "link": "https://www.beurs.nl/Nieuws/882719/KLM-vliegt-tot-eind-maart-niet-op-Dubai.aspx",
-    "intro": "KLM zal gedurende het komende winterseizoen, tot en met 27 maart 2027, niet tussen Amsterdam en Dubai vliegen, als gevolg van de onrust in het Midden-Oosten. Dit meldde het onderdeel van Air France-KLM maandag op zijn website.",
-    "published_at": "2026-10-26 20:30",
-    "scraped_at": "2026-10-27T01:16:26.364926"
-  },
-  {
-    "id": "e1398d175d69f9fb04c820fa454c1731",
-    "categorie": "Beursnieuws",
-    "titel": "Besi rondt aandeleninkoop af",
-    "link": "https://www.beurs.nl/Nieuws/882718/Besi-rondt-aandeleninkoop-af.aspx",
-    "intro": "Besi start vanaf dinsdag een nieuw aandeleninkoopprogramma, nu het oude is afgerond. Dit meldde de toeleverancier van de halfgeleiderindustrie maandagavond.",
-    "published_at": "2026-10-26 20:13",
-    "scraped_at": "2026-10-27T01:16:26.364926"
-  },
-  {
-    "id": "5cb7dab5e6039cb27b2e1f798107a06b",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen staken opmars",
-    "link": "https://www.beurs.nl/Nieuws/882717/Olieprijzen-staken-opmars.aspx",
-    "intro": "De olieprijzen zijn maandag gedaald na een flinke stijging vorige week. De settlement van West Texas Intermediate was 101,76 dollar, waarmee een vat 1,5 procent goedkoper werd dan vrijdag. Een vat Brent kostte maandagavond 115,81 dollar en was daarmee 0,8 procent goedkoper dan voor het weekend.",
-    "published_at": "2026-10-26 20:01",
-    "scraped_at": "2026-10-27T01:16:26.364926"
-  },
-  {
-    "id": "16924b5924fb78f67fe2bc8e534d7723",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Microsoft biedt tienduizenden werknemers afvloeiingsregeling",
-    "link": "https://www.beurs.nl/Nieuws/882715/Media-Microsoft-biedt-tienduizenden-werknemers-afvloeiingsregeling.aspx",
-    "intro": "Microsoft zal aan ongeveer 60.000 werknemers een afvloeiingsregeling aanbieden, als onderdeel van de inspanningen van het bedrijf om kosten te besparen en zich voor te bereiden op het AI-tijdperk. Dit meldde persbureau Bloomberg maandag.",
-    "published_at": "2026-10-26 19:51",
-    "scraped_at": "2026-10-27T01:16:26.364926"
-  },
-  {
-    "id": "c28d2a97dbad65b1d6315203f57fb61b",
-    "categorie": "Beursnieuws",
-    "titel": "Omzetdaling voor MotorK",
-    "link": "https://www.beurs.nl/Nieuws/882713/Omzetdaling-voor-MotorK.aspx",
-    "intro": "MotorK heeft in de eerste negen maanden van het jaar minder omzet geboekt, terwijl de winstgevendheid wel verbeterde. Dit bleek maandag nabeurs uit de kwartaalcijfers van het in Amsterdam genoteerde bedrijf.",
-    "published_at": "2026-10-26 19:42",
-    "scraped_at": "2026-10-27T01:16:26.364926"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/882735/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 3 november 2026:",
+    "published_at": "2026-10-27 06:41",
+    "scraped_at": "2026-10-27T06:27:58.122246"
   }
 ]
