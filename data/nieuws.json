@@ -1,12 +1,66 @@
 [
   {
+    "id": "8015730ebc37f193a4f2daf6d3a6b5e8",
+    "categorie": "Beursnieuws",
+    "titel": "Visa verslaat verwachtingen in vierde kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/882899/Visa-verslaat-verwachtingen-in-vierde-kwartaal.aspx",
+    "intro": "Visa heeft in het vierde kwartaal van het boekjaar een hogere winst en omzet geboekt dan verwacht, gedreven door meer betalingsvolumes en verwerkte transacties. Het betalingsbedrijf maakte de cijfers dinsdag bekend.",
+    "published_at": "2026-10-27 22:24",
+    "scraped_at": "2026-10-27T22:27:18.286689"
+  },
+  {
+    "id": "b2580232ec6e44ca9281237c9ff65399",
+    "categorie": "Beursnieuws",
+    "titel": "NXP groeit dankzij auto en industrie",
+    "link": "https://www.beurs.nl/Nieuws/882900/NXP-groeit-dankzij-auto-en-industrie.aspx",
+    "intro": "NXP Semiconductors heeft in het derde kwartaal een omzetgroei geboekt van 19 procent op jaarbasis, gedreven door een versnelling in de groeipijlers automotive en industrie, evenals aanhoudende momentum in datacenterinfrastructuur. Dit maakte de Nederlandse chipmaker dinsdag bekend.",
+    "published_at": "2026-10-27 22:23",
+    "scraped_at": "2026-10-27T22:27:18.286689"
+  },
+  {
+    "id": "b9b78934d519babbaffcd50ffb89b856",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street hoger richting Fed en resultaten beursgiganten",
+    "link": "https://www.beurs.nl/Nieuws/882896/Wall-Street-hoger-richting-Fed-en-resultaten-beursgiganten.aspx",
+    "intro": "Een herstel in technologiebedrijven zorgde dinsdag voor een stijging van de aandelenkoersen op Wall Street in aanloop naar de resultaten van industriereuzen met een gezamenlijke marktwaarde van meer dan 10 biljoen dollar. Beleggers hielden zich ook in gezien het rentebesluit van de Federal Reserve dat morgenavond staat geagendeerd.",
+    "published_at": "2026-10-27 22:01",
+    "scraped_at": "2026-10-27T22:27:18.286689"
+  },
+  {
+    "id": "dac6ad8ca13535cef041d9c3e2bc751e",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: sterke kwartaalupdate van ASMI",
+    "link": "https://www.beurs.nl/Nieuws/882888/Beursblik-sterke-kwartaalupdate-van-ASMI.aspx",
+    "intro": "De kwartaalcijfers van ASMI waren beter dan verwacht en dat gold ook voor de outlook voor het vierde kwartaal. Dit stelden analisten van Citi Research dinsdagavond in een reactie op de kwartaalupdate van de Nederlandse halfgeleiderspecialist.",
+    "published_at": "2026-10-27 19:59",
+    "scraped_at": "2026-10-27T22:27:18.286689"
+  },
+  {
+    "id": "9aa6f868217dc8a73708e07c0137a506",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen dalen op diplomatiek overleg",
+    "link": "https://www.beurs.nl/Nieuws/882889/Olieprijzen-dalen-op-diplomatiek-overleg.aspx",
+    "intro": "De olieprijzen zijn dinsdag gedaald, nu een hernieuwd diplomatiek initiatief hoop geeft op een afname van de spanningen in het Midden-Oosten.",
+    "published_at": "2026-10-27 19:57",
+    "scraped_at": "2026-10-27T22:27:18.286689"
+  },
+  {
+    "id": "71741ff8f525552570b6d7bf1ceffe75",
+    "categorie": "Beursnieuws",
+    "titel": "Techherstel tilt Wall Street hoger",
+    "link": "https://www.beurs.nl/Nieuws/882886/Techherstel-tilt-Wall-Street-hoger.aspx",
+    "intro": "Een herstel in technologiebedrijven zorgde dinsdag voor een stijging van de aandelenkoersen op Wall Street in aanloop naar de resultaten van industriereuzen later deze week met een gezamenlijke marktwaarde van meer dan 10 biljoen dollar. Beleggers hielden zich ook in gezien het rentebesluit van de Federal Reserve dat morgenavond staat geagendeerd.",
+    "published_at": "2026-10-27 19:32",
+    "scraped_at": "2026-10-27T22:27:18.286689"
+  },
+  {
     "id": "0268a919c8eeba714a0a276b4ad5a1bc",
     "categorie": "Beursnieuws",
     "titel": "Olieprijs en AI-herstel stuwen beurzen",
     "link": "https://www.beurs.nl/Nieuws/882880/Olieprijs-en-AI-herstel-stuwen-beurzen.aspx",
     "intro": "De Europese beurzen zijn dinsdag overwegend hoger gesloten, geholpen door een dalende olieprijs en een herstel van de AI-gerelateerde aandelen.",
     "published_at": "2026-10-27 18:51",
-    "scraped_at": "2026-10-27T18:21:49.505470"
+    "scraped_at": "2026-10-27T22:27:18.286689"
   },
   {
     "id": "d91ab6129a90562c7350516409e25cd7",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/882876/ASMI-boekt-recordomzet-dankzij-AI-vraag.aspx",
     "intro": "ASM International heeft in het derde kwartaal beter gepresteerd dan analisten hadden voorzien, met een recordomzet, een hogere brutomarge en meer winst dan verwacht. Dit bleek dinsdagavond uit cijfers van de halfgeleiderspecialist.",
     "published_at": "2026-10-27 18:21",
-    "scraped_at": "2026-10-27T18:21:49.505470"
+    "scraped_at": "2026-10-27T22:27:18.286689"
   },
   {
     "id": "4f9a2afe26b2be5c560a9b4362b8bec5",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/882872/Besi-en-Corbion-uitblinkers-in-Amsterdam-dankzij-overnamefantasie.aspx",
     "intro": "De Amsterdamse beurs is dinsdag hoger geëindigd, gesteund door de 'chippers' die profiteerden van overnamefantasie rond Besi. Corbion schoot om dezelfde reden omhoog.",
     "published_at": "2026-10-27 17:53",
-    "scraped_at": "2026-10-27T18:21:49.505470"
+    "scraped_at": "2026-10-27T22:27:18.286689"
   },
   {
     "id": "a6a986c63e44911d013c474d7bd810e6",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/882867/Oracle-verankert-OpenAI-in-bedrijfssoftware.aspx",
     "intro": "Oracle heeft dinsdag een uitgebreide samenwerking met OpenAI aangekondigd. Dat gebeurde op het evenement Oracle AI World in Las Vegas.",
     "published_at": "2026-10-27 17:17",
-    "scraped_at": "2026-10-27T18:21:49.505470"
-  },
-  {
-    "id": "7240a9a0ebcac4228f9367b5f61cfb28",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/882859/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 4 november 2026:",
-    "published_at": "2026-10-27 16:34",
-    "scraped_at": "2026-10-27T18:21:49.505470"
-  },
-  {
-    "id": "41d3fedc7816687b937043703f565b08",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/882860/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 4 november 2026:",
-    "published_at": "2026-10-27 16:34",
-    "scraped_at": "2026-10-27T18:21:49.505470"
-  },
-  {
-    "id": "dda4fc335a7981314ae5281d34c5218a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/882861/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 4 november 2026:",
-    "published_at": "2026-10-27 16:34",
-    "scraped_at": "2026-10-27T18:21:49.505470"
-  },
-  {
-    "id": "0fb85b98a0019ad7ae9c308cfce56d2f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: haalbaarheid outlook Adyen getest",
-    "link": "https://www.beurs.nl/Nieuws/882862/Beursblik-haalbaarheid-outlook-Adyen-getest.aspx",
-    "intro": "Adyen zal in het derde kwartaal vermoedelijk een betere volumegroei rapporteren dan de eigen doelstelling voor dit jaar. Dit is de verwachting van analisten in aanloop naar de resultaten van het betaalbedrijf op woensdag.",
-    "published_at": "2026-10-27 16:33",
-    "scraped_at": "2026-10-27T18:21:49.505470"
-  },
-  {
-    "id": "6ca2c097d86c27298b8d4170ccf7f331",
-    "categorie": "Beursnieuws",
-    "titel": "CEO Besi: uitbreidingsplan Applied Materials bevestiging hybrid bonding",
-    "link": "https://www.beurs.nl/Nieuws/882856/CEO-Besi-uitbreidingsplan-Applied-Materials-bevestiging-hybrid-bonding.aspx",
-    "intro": "De keuze van Applied Materials om het belang in BE Semiconductor Industries te vergroten van 9 naar circa 20 procent is welkom. Dit zei CEO Richard Blickman dinsdag in een reactie op het nieuws.",
-    "published_at": "2026-10-27 16:19",
-    "scraped_at": "2026-10-27T18:21:49.505470"
-  },
-  {
-    "id": "26d12c4cfba9af4fb2aca9eef5aec013",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: omzetstijging bij KPN verwacht",
-    "link": "https://www.beurs.nl/Nieuws/882854/Beursblik-omzetstijging-bij-KPN-verwacht.aspx",
-    "intro": "KPN heeft in het derde kwartaal naar verwachting een hogere omzet geboekt, maar wel met een daling van de aangepaste EBITDA. Dit bleek uit een analistenconsensus die het telecombedrijf op zijn website plaatste.",
-    "published_at": "2026-10-27 16:14",
-    "scraped_at": "2026-10-27T18:21:49.505470"
+    "scraped_at": "2026-10-27T22:27:18.286689"
   }
 ]
