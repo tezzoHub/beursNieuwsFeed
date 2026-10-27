@@ -1,56 +1,92 @@
 [
   {
-    "id": "f9e77faa5032777097954461eef95a3d",
+    "id": "7a9a178e16ed3f801565e26e467de9ef",
     "categorie": "Beursnieuws",
-    "titel": "Zwarte cijfers voor Pharming",
-    "link": "https://www.beurs.nl/Nieuws/882744/Zwarte-cijfers-voor-Pharming.aspx",
-    "intro": "Pharming heeft in het derde kwartaal meer omzet en winst behaald, wat na de outlookverhoging van vorige week niet mag verrassen. Dit bleek dinsdag uit de definitieve cijfers van het Leidse biotechbedrijf.",
-    "published_at": "2026-10-27 07:21",
-    "scraped_at": "2026-10-27T06:27:58.122246"
+    "titel": "Meer orders voor duurzame goederen in VS",
+    "link": "https://www.beurs.nl/Nieuws/882827/Meer-orders-voor-duurzame-goederen-in-VS.aspx",
+    "intro": "De orders voor duurzame goederen in de VS zijn in september zoals verwacht toegenomen, dankzij meer vraag naar transportmiddelen. Dit bleek dinsdag cijfers van de Amerikaanse overheid.",
+    "published_at": "2026-10-27 13:39",
+    "scraped_at": "2026-10-27T12:44:22.398327"
   },
   {
-    "id": "0bb73d8199522f689a61d0dd7abcada1",
+    "id": "4f5b28252fc8ed4d2bf23ad0010ad2f3",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen overwegend hoger na hernieuwd AI-optimisme",
-    "link": "https://www.beurs.nl/Nieuws/882740/Aziatische-beurzen-overwegend-hoger-na-hernieuwd-AI-optimisme.aspx",
-    "intro": "De Aziatische beurzen noteerden dinsdagochtend overwegend hoger, aangevoerd door techaandelen. De aanvraag voor een IPO door Anthropic gaf het vertrouwen in kunstmatige intelligentie een impuls.",
-    "published_at": "2026-10-27 07:11",
-    "scraped_at": "2026-10-27T06:27:58.122246"
+    "titel": "Beursblik: keuze Applied Materials positief voor Besi",
+    "link": "https://www.beurs.nl/Nieuws/882826/Beursblik-keuze-Applied-Materials-positief-voor-Besi.aspx",
+    "intro": "Het is goed nieuws dat Applied Materials het belang in BE Semiconductor Industries vergroot van 9 naar 20 procent. Dit stelde analist Marc Hesselink van ING dinsdag in een rapport.",
+    "published_at": "2026-10-27 13:21",
+    "scraped_at": "2026-10-27T12:44:22.398327"
   },
   {
-    "id": "96e3e4acc90e369b385dd9e0080480fc",
+    "id": "b25ef8bc54ed97e94f1b7b9d70978848",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen lager",
-    "link": "https://www.beurs.nl/Nieuws/882738/Europese-beurzen-openen-lager.aspx",
-    "intro": "De aandelenmarkten in Europa gaan dinsdag een rode opening tegemoet, in afwachting van een stroom aan internationale bedrijfscijfers.",
-    "published_at": "2026-10-27 06:48",
-    "scraped_at": "2026-10-27T06:27:58.122246"
+    "titel": "Boeing weet verlies flink terug te dringen",
+    "link": "https://www.beurs.nl/Nieuws/882824/Boeing-weet-verlies-flink-terug-te-dringen.aspx",
+    "intro": "Boeing is in het derde kwartaal zoals verwacht in de rode cijfers gedoken, maar het resultaat was een stuk beter dan een jaar eerder, hoewel het verlies nog wel wat groter was dan verwacht. Dit bleek dinsdag uit de cijfers van de Amerikaanse vliegtuigbouwer.",
+    "published_at": "2026-10-27 12:54",
+    "scraped_at": "2026-10-27T12:44:22.398327"
   },
   {
-    "id": "347867059eee0ff133944ccfbf6be0cb",
+    "id": "68bae156c1a2da93952ea82510006138",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/882736/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 3 november 2026:",
-    "published_at": "2026-10-27 06:42",
-    "scraped_at": "2026-10-27T06:27:58.122246"
+    "titel": "PayPal verhoogt outlook",
+    "link": "https://www.beurs.nl/Nieuws/882823/PayPal-verhoogt-outlook.aspx",
+    "intro": "PayPal Holdings heeft de outlook voor het hele jaar verhoogd, nadat de aangepaste winst in het derde kwartaal steeg, net als de omzet. Dit maakte het Amerikaanse betaalbedrijf dinsdag bekend.",
+    "published_at": "2026-10-27 12:50",
+    "scraped_at": "2026-10-27T12:44:22.398327"
   },
   {
-    "id": "67ff250e2698f6179a599049c7bfff25",
+    "id": "84f2c6cbb3d323589c817e8418b229df",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/882737/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 3 november 2026:",
-    "published_at": "2026-10-27 06:42",
-    "scraped_at": "2026-10-27T06:27:58.122246"
+    "titel": "Coca-Cola verhoogt outlook opnieuw",
+    "link": "https://www.beurs.nl/Nieuws/882817/Coca-Cola-verhoogt-outlook-opnieuw.aspx",
+    "intro": "Coca-Cola heeft in het derde kwartaal een hogere omzet geboekt, terwijl de groei ook sterker was dan de markt had verwacht. Dit bleek dinsdag uit de cijfers van de Amerikaanse frisdrankreus, die ook de outlook opnieuw verhoogde.",
+    "published_at": "2026-10-27 12:22",
+    "scraped_at": "2026-10-27T12:44:22.398327"
   },
   {
-    "id": "a4313cbda6990123e14a4f2233a009eb",
+    "id": "23a2e9a4b252b39a2e2e34842d71c24d",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/882735/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 3 november 2026:",
-    "published_at": "2026-10-27 06:41",
-    "scraped_at": "2026-10-27T06:27:58.122246"
+    "titel": "Wall Street richting hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/882816/Wall-Street-richting-hogere-opening.aspx",
+    "intro": "Wall Street gaat dinsdag een hogere opening tegemoet, na de winsten op maandag. Futures op de SP stegen rond lunchtijd met 0,2 procent en die voor de Nasdaq stegen met 0,3 procent.",
+    "published_at": "2026-10-27 12:21",
+    "scraped_at": "2026-10-27T12:44:22.398327"
+  },
+  {
+    "id": "cb418c5d221e1e375b60d9c4a331e4c8",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen doen het rustig aan",
+    "link": "https://www.beurs.nl/Nieuws/882814/Europese-beurzen-doen-het-rustig-aan.aspx",
+    "intro": "De Europese beurzen noteerden dinsdag rond lunchtijd verdeeld, zodat het herstel dat maandag werd ingezet, geen duidelijk vervolg kreeg.",
+    "published_at": "2026-10-27 12:08",
+    "scraped_at": "2026-10-27T12:44:22.398327"
+  },
+  {
+    "id": "e3cbfc6bf09de76eec07308e07880359",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: meer kans op biedingsoorlog om Corbion",
+    "link": "https://www.beurs.nl/Nieuws/882809/Beursblik-meer-kans-op-biedingsoorlog-om-Corbion.aspx",
+    "intro": "De kans op een biedingsoorlog om Corbion is toegenomen, met het bericht van persbureau Bloomberg dat naast Lesaffre ook CVC Capital een bod op het bedrijf overweegt. Dit stelde Barclays dinsdag in een analistenrapport.",
+    "published_at": "2026-10-27 12:04",
+    "scraped_at": "2026-10-27T12:44:22.398327"
+  },
+  {
+    "id": "fd0293b4ec54e6d4fb2ae530727eca44",
+    "categorie": "Beursnieuws",
+    "titel": "UPS trekt outlook op",
+    "link": "https://www.beurs.nl/Nieuws/882808/UPS-trekt-outlook-op.aspx",
+    "intro": "UPS heeft dinsdag de outlook voor dit jaar verhoogd, bij de presentatie van de cijfers over het derde kwartaal.",
+    "published_at": "2026-10-27 11:56",
+    "scraped_at": "2026-10-27T12:44:22.398327"
+  },
+  {
+    "id": "682358f576877f5c266229939c8aa913",
+    "categorie": "Beursnieuws",
+    "titel": "\"CVC overweegt overname van Corbion\"",
+    "link": "https://www.beurs.nl/Nieuws/882805/CVC-overweegt-overname-van-Corbion.aspx",
+    "intro": "CVC Capital Partners overweegt een overname van Corbion. Dit meldde persbureau Bloomberg dinsdag. Het kan leiden tot een biedingsoorlog om de Nederlandse producent van voedingsingrediënten.",
+    "published_at": "2026-10-27 11:39",
+    "scraped_at": "2026-10-27T12:44:22.398327"
   }
 ]
