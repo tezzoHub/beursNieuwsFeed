@@ -1,12 +1,75 @@
 [
   {
+    "id": "a246d215fe2856abe0129518df58ad78",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/883082/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag vier van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-10-28 23:04",
+    "scraped_at": "2026-10-28T23:54:42.275450"
+  },
+  {
+    "id": "f2baa9db27750ef118504e23c853e957",
+    "categorie": "Beursnieuws",
+    "titel": "Ford positiever over de winst",
+    "link": "https://www.beurs.nl/Nieuws/883081/Ford-positiever-over-de-winst.aspx",
+    "intro": "Ford Motor Company is positiever gestemd over de winst over het hele jaar. Dit bleek woensdagavond nabeurs uit de resultaten van de Amerikaanse autofabrikant.",
+    "published_at": "2026-10-28 22:38",
+    "scraped_at": "2026-10-28T23:54:42.275450"
+  },
+  {
+    "id": "6ab9be8102ed679a56c2f20dbf41f48a",
+    "categorie": "Beursnieuws",
+    "titel": "eBay overtreft verwachtingen Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/883061/eBay-overtreft-verwachtingen-Wall-Street.aspx",
+    "intro": "eBay heeft een hogere kwartaalomzet behaald doordat klanten massaal naar het e-commerceplatform trekken voor artikelen zoals ruilkaarten, sportmemorabilia en munten. Dat meldde de uitbater van online-marktplaatsen woensdag nabeurs.",
+    "published_at": "2026-10-28 22:01",
+    "scraped_at": "2026-10-28T23:54:42.275450"
+  },
+  {
+    "id": "39b253b705cbdcfcd2a8e2c0b88dc0f5",
+    "categorie": "Beursnieuws",
+    "titel": "Alphabet blijft hard groeien",
+    "link": "https://www.beurs.nl/Nieuws/883060/Alphabet-blijft-hard-groeien.aspx",
+    "intro": "Alphabet heeft in het derde kwartaal, ondanks een hogere omzet, de winst zien dalen, terwijl de investeringen hard stegen en de kasstroom opnieuw negatief was. Dit bleek woensdag uit de kwartaalcijfers van het moederbedrijf van onder meer Google en Youtube.",
+    "published_at": "2026-10-28 21:36",
+    "scraped_at": "2026-10-28T23:54:42.275450"
+  },
+  {
+    "id": "3ae070facaa16346af1d0a81cb41b3d9",
+    "categorie": "Beursnieuws",
+    "titel": "FedEx boekt hogere kwartaalwinst",
+    "link": "https://www.beurs.nl/Nieuws/883059/FedEx-boekt-hogere-kwartaalwinst.aspx",
+    "intro": "FedEx heeft over het afgelopen derde kwartaal een omzetstijging en hogere winstcijfers gerapporteerd. Dat maakte de Amerikaanse pakketbezorger woensdag nabeurs bekend.",
+    "published_at": "2026-10-28 21:35",
+    "scraped_at": "2026-10-28T23:54:42.275450"
+  },
+  {
+    "id": "c61a611c53fb71b5179454ccdc9ba203",
+    "categorie": "Beursnieuws",
+    "titel": "Meer omzet en winst voor Microsoft",
+    "link": "https://www.beurs.nl/Nieuws/883058/Meer-omzet-en-winst-voor-Microsoft.aspx",
+    "intro": "Microsoft heeft in het eerste kwartaal van dit boekjaar meer omzet en winst behaald dan verwacht. Dit bleek woensdagavond uit cijfers van de Amerikaanse techgigant.",
+    "published_at": "2026-10-28 21:16",
+    "scraped_at": "2026-10-28T23:54:42.275450"
+  },
+  {
+    "id": "d2bafd142aaa13d3aed3c591d4b62652",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street schokvrij na rentebesluit Fed",
+    "link": "https://www.beurs.nl/Nieuws/883057/Wall-Street-schokvrij-na-rentebesluit-Fed.aspx",
+    "intro": "De ongewijzigde rentestand na het besluit van de Federal Reserve maakte woensdag weinig indruk op Wall Street. Beleggers reageerden lauw.",
+    "published_at": "2026-10-28 21:10",
+    "scraped_at": "2026-10-28T23:54:42.275450"
+  },
+  {
     "id": "a521c7a75d890bfe7a54aca48da65908",
     "categorie": "Beursnieuws",
     "titel": "Olieprijzen omhoog door dreigende Amerikaanse escalatie",
     "link": "https://www.beurs.nl/Nieuws/883055/Olieprijzen-omhoog-door-dreigende-Amerikaanse-escalatie.aspx",
     "intro": "De olieprijzen zijn woensdag gestegen door bezorgdheid op de markt over een mogelijke Amerikaanse militaire escalatie tegen Iran na de tussentijdse verkiezingen van volgende week.",
     "published_at": "2026-10-28 20:31",
-    "scraped_at": "2026-10-28T19:54:35.033893"
+    "scraped_at": "2026-10-28T23:54:42.275450"
   },
   {
     "id": "e4cc4cd2d7784dc4494033fdd0d5feb3",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/883054/Wall-Street-reageert-lauw-op-ongewijzigde-rente-Fed.aspx",
     "intro": "De belangrijkste aandelenindices op Wall Street reageerden woensdag nauwelijks op een ongewijzigde rentestand na het besluit van de Federal Reserve.",
     "published_at": "2026-10-28 20:06",
-    "scraped_at": "2026-10-28T19:54:35.033893"
+    "scraped_at": "2026-10-28T23:54:42.275450"
   },
   {
     "id": "f3ae22c2d7f4c54172f080f3e35fd88e",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/883053/Minder-Amerikaanse-rentebesluiten-in-2027.aspx",
     "intro": "De Amerikaanse Federal Reserve gaat minder vaak samenkomen om over het rentebeleid te stemmen. Dit zei voorzitter Kevin Warsh woensdagavond in een toelichting op het rentebesluit van oktober.",
     "published_at": "2026-10-28 19:59",
-    "scraped_at": "2026-10-28T19:54:35.033893"
-  },
-  {
-    "id": "3dc64dd381253f8028183c253ee61a46",
-    "categorie": "Beursnieuws",
-    "titel": "Fed laat rente onveranderd",
-    "link": "https://www.beurs.nl/Nieuws/883052/Fed-laat-rente-onveranderd.aspx",
-    "intro": "De Federal Reserve heeft de rente woensdag ongewijzigd gelaten, in aanloop naar de tussentijdse verkiezingen in de Verenigde Staten op 3 november, zoals analisten ook al hadden verwacht.",
-    "published_at": "2026-10-28 19:03",
-    "scraped_at": "2026-10-28T19:54:35.033893"
-  },
-  {
-    "id": "cf6d118dcdc32824cc33e7ff3732bf13",
-    "categorie": "Beursnieuws",
-    "titel": "Meeste Europese beurzen sluiten in het lichtgroen",
-    "link": "https://www.beurs.nl/Nieuws/883050/Meeste-Europese-beurzen-sluiten-in-het-lichtgroen.aspx",
-    "intro": "De Europese beurzen zijn woensdag hoofdzakelijk in het lichtgroen gesloten, terwijl beleggers uitkeken naar het Amerikaanse rentebesluit vanavond en zij gematigd optimistisch gestemd waren over de vooruitzichten voor de techsector. Over het brede front toonden chippers toch een verdeeld beeld.",
-    "published_at": "2026-10-28 18:58",
-    "scraped_at": "2026-10-28T19:54:35.033893"
-  },
-  {
-    "id": "703dacfe070711d5f6b9c32b9efeff08",
-    "categorie": "Beursnieuws",
-    "titel": "Meer winst ondanks lagere omzet bij Airbus",
-    "link": "https://www.beurs.nl/Nieuws/883049/Meer-winst-ondanks-lagere-omzet-bij-Airbus.aspx",
-    "intro": "Airbus heeft in het derde kwartaal meer winst geboekt dan een jaar eerder, hoewel de omzet licht daalde doordat er minder vliegtuigen werden afgeleverd. Dit bleek woensdagavond bij een update van de Europese vliegtuigfabrikant.",
-    "published_at": "2026-10-28 18:44",
-    "scraped_at": "2026-10-28T19:54:35.033893"
-  },
-  {
-    "id": "59b2da5737d5826d22da7c4ba1eeec82",
-    "categorie": "Beursnieuws",
-    "titel": "Britse opdracht voor Envipco",
-    "link": "https://www.beurs.nl/Nieuws/883047/Britse-opdracht-voor-Envipco.aspx",
-    "intro": "Envipco is dichtbij een contract van een grote Britse retailer voor het leveren van statiegeldmachines. Dit maakte het bedrijf uit Amersfoort woensdagavond bekend zonder financiële details te geven.",
-    "published_at": "2026-10-28 17:59",
-    "scraped_at": "2026-10-28T19:54:35.033893"
-  },
-  {
-    "id": "46ae04d5b8da85249000fcd483adb800",
-    "categorie": "Beursnieuws",
-    "titel": "Koersval Adyen duwt AEX in het rood",
-    "link": "https://www.beurs.nl/Nieuws/883046/Koersval-Adyen-duwt-AEX-in-het-rood.aspx",
-    "intro": "De Amsterdamse beurs noteerde woensdag aan het einde van de ochtend in het rood, na een reeks resultaten van grote Nederlandse bedrijven, waarvan Adyen de meeste aandacht trok door een forse koersval.",
-    "published_at": "2026-10-28 17:56",
-    "scraped_at": "2026-10-28T19:54:35.033893"
-  },
-  {
-    "id": "5977917c2e486abe1793a44fc244f6db",
-    "categorie": "IEX",
-    "titel": "Slotcall: topdrukte op het Damrak, Adyen verpest het voor de rest",
-    "link": "https://www.iex.nl/artikel/883044/Slotcall-topdrukte-op-het-Damrak-Adyen-verpest-het-voor-de-rest.aspx",
-    "intro": "De AEX sluit 0,4% lager op 1.135 punten. ASMI en KPN hielden de schade beperkt, maar tegen de koersdreun bij Adyen viel nauwelijks op te boksen. Ondertussen maakt Wall Street zich op voor een minstens zo drukke avond.",
-    "published_at": "2026-10-28 17:40",
-    "scraped_at": "2026-10-28T19:54:35.033893"
-  },
-  {
-    "id": "66797faf8779eea443a9309be7cd1578",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: groeiversnelling bij Magnum Ice verwacht",
-    "link": "https://www.beurs.nl/Nieuws/883042/Beursblik-groeiversnelling-bij-Magnum-Ice-verwacht.aspx",
-    "intro": "The Magnum Ice Cream Company heeft in het derde kwartaal de groei zien aantrekken op jaarbasis, maar in vergelijking tot de eerste helft van dit jaar bleef de groei min of meer stabiel. Dit bleek uit een analistenconsensus die het ijsbedrijf zelf samenstelde.",
-    "published_at": "2026-10-28 16:53",
-    "scraped_at": "2026-10-28T19:54:35.033893"
+    "scraped_at": "2026-10-28T23:54:42.275450"
   }
 ]
