@@ -1,92 +1,92 @@
 [
   {
-    "id": "1e93a823779a5c02201d953beb5e296c",
+    "id": "8a3ee84db1f25de6837a4948956db4c4",
     "categorie": "Beursnieuws",
-    "titel": "Eurocommercial Properties boekt meer winst",
-    "link": "https://www.beurs.nl/Nieuws/883274/Eurocommercial-Properties-boekt-meer-winst.aspx",
-    "intro": "Eurocommercial Properties heeft in de eerste negen maanden van 2026 een direct beleggingsresultaat gerapporteerd van 102,3 miljoen euro, tegenover 100,0 miljoen euro in dezelfde periode een jaar eerder. Dit bleek donderdag nabeurs uit een update van het vastgoedbedrijf waarin het ook iets positiever werd ten aanzien van het jaarresultaat.",
-    "published_at": "2026-10-29 18:18",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Starbucks groeit sterk in de VS",
+    "link": "https://www.beurs.nl/Nieuws/883300/Starbucks-groeit-sterk-in-de-VS.aspx",
+    "intro": "Starbucks boekte afgelopen kwartaal meer omzet in bestaande winkels, dankzij een reorganisatie die de omzet in de VS stimuleert. Dit bleek donderdag bij kwartaalcijfers van de koffieketen.",
+    "published_at": "2026-10-29 21:51",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "f710fc5c242b1712ab1e614e97a5dd20",
+    "id": "e85535edcaac7b3c338eea1fc6573c77",
     "categorie": "Beursnieuws",
-    "titel": "NX Filtration lanceert emissie",
-    "link": "https://www.beurs.nl/Nieuws/883269/NX-Filtration-lanceert-emissie.aspx",
-    "intro": "NX Filtration heeft donderdagavond een kapitaalverhoging aangekondigd.",
-    "published_at": "2026-10-29 18:05",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Zwakte bij Alphabet duwt Wall Street in het rood",
+    "link": "https://www.beurs.nl/Nieuws/883299/Zwakte-bij-Alphabet-duwt-Wall-Street-in-het-rood.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag lager gesloten, nadat kwartaalcijfers van Alphabet beleggers teleurstelden. Farmaceuten Eli Lilly en Merck kregen een positievere reactie van beleggers.",
+    "published_at": "2026-10-29 21:37",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "3a8601aad8226642adc4b5522451d6dc",
+    "id": "e0476decf39be342d38d917eaaebd6f1",
     "categorie": "Beursnieuws",
-    "titel": "Groen slot in Amsterdam op Superdonderdag",
-    "link": "https://www.beurs.nl/Nieuws/883265/Groen-slot-in-Amsterdam-op-Superdonderdag.aspx",
-    "intro": "De Amsterdamse beurs is donderdag met winst gesloten, na een flinke cijferlawine, Amerikaanse macrocijfers en twee rentebesluiten.",
-    "published_at": "2026-10-29 17:51",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "SanDisk boekt meer winst dan verwacht",
+    "link": "https://www.beurs.nl/Nieuws/883298/SanDisk-boekt-meer-winst-dan-verwacht.aspx",
+    "intro": "Sandisk heeft meer winst geboekt dan verwacht en gaf een omzetverwachting af die overeenkwam met de analistenverwachtingen. Dat bleek donderdag nabeurs uit de resultaten van de producent van NAND-flashgeheugen.",
+    "published_at": "2026-10-29 21:26",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "83680f8d0f02dcd52f0ca848f6cb38e3",
+    "id": "b7a2d26be6e8beb7d1ae482ce6d208ac",
     "categorie": "Beursnieuws",
-    "titel": "Media: aandeelhouders Monte dei Paschi wijzen overnames af",
-    "link": "https://www.beurs.nl/Nieuws/883263/Media-aandeelhouders-Monte-dei-Paschi-wijzen-overnames-af.aspx",
-    "intro": "(ABM FN-Dow Jones) De aandeelhoudersvergadering van Monte dei Paschi di Siena heeft vandaag de overnameplannen voor Banco BPM en Banca Generali afgewezen, terwijl de aandeelhouders ook de fusieplannen met Mediobanca afkeurden. Dit meldde de Italiaanse krant Il Sole 24 Ore donderdag.",
-    "published_at": "2026-10-29 17:35",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Amazon ziet omzet AWS harder groeien dan voorzien",
+    "link": "https://www.beurs.nl/Nieuws/883297/Amazon-ziet-omzet-AWS-harder-groeien-dan-voorzien.aspx",
+    "intro": "Amazon heeft in het derde kwartaal van 2026 de omzet conform verwachting zien stijgen, terwijl de operationele winst hoger uitviel dan voorzien, maar de vrije kasstroom zakte nog verder in het rood. Dit bleek donderdagavond uit de cijfers van de Amerikaanse e-commercereus.",
+    "published_at": "2026-10-29 21:16",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "6a16400b2b5648b13fd339ca764351ad",
+    "id": "f5a18c2eaa63b8a2dbb1a3e9ed9fb22c",
     "categorie": "Beursnieuws",
-    "titel": "Citi: bemoedigend kwartaal voor CVC Capital",
-    "link": "https://www.beurs.nl/Nieuws/883254/Citi-bemoedigend-kwartaal-voor-CVC-Capital.aspx",
-    "intro": "De aanhoudend sterke ontwikkeling bij CVC Capital Partners in het derde kwartaal stemt positief en zou moeten leiden tot licht hogere taxaties voor het bedrijfsresultaat in 2027. Dit stelden analisten van Citi Reseaarch donderdag in een rapport.",
-    "published_at": "2026-10-29 16:49",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Minder winst maar betere marge voor Intel",
+    "link": "https://www.beurs.nl/Nieuws/883296/Minder-winst-maar-betere-marge-voor-Intel.aspx",
+    "intro": "Intel heeft in het derde kwartaal van 2026 de marge verbeterd terwijl de groei aan de verwachtingen voldeed. Dit bleek donderdag nabeurs uit de cijfers van de Amerikaanse chipreus.",
+    "published_at": "2026-10-29 21:13",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "10abf8d6ed63fd093adc956cc44bb4f5",
+    "id": "6530411414a645bd5465fcd0ba858272",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/883243/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 6 november 2026:",
-    "published_at": "2026-10-29 15:30",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Zoeken in AI-modus bezorgt Alphabet slechtste beursdag ooit",
+    "link": "https://www.beurs.nl/Nieuws/883289/Zoeken-in-AI-modus-bezorgt-Alphabet-slechtste-beursdag-ooit.aspx",
+    "intro": "De aandelen van Alphabet beleefden donderdag hun slechtste dag ooit, nadat het bedrijf teleurstelde met de omzet van Google's zoekmachine.",
+    "published_at": "2026-10-29 20:47",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "317a86803668916a1d8847f9bc68bb84",
+    "id": "c888fc1163b56b53dc37d004cdacf360",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/883242/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor België tot en met vrijdag 6 november 2026:",
-    "published_at": "2026-10-29 15:26",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Zwak Alphabet duwt Wall Street in het rood",
+    "link": "https://www.beurs.nl/Nieuws/883288/Zwak-Alphabet-duwt-Wall-Street-in-het-rood.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag lager, nadat kwartaalcijfers van Alphabet beleggers teleurstelden. Farmaceuten Eli Lilly en Merck kregen een positievere reactie van beleggers.",
+    "published_at": "2026-10-29 20:19",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "7edbf5d231d5cf0d504c9d4925a4fdae",
+    "id": "705f13144322513b012c531d156f823f",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/883240/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 6 november 2026:",
-    "published_at": "2026-10-29 15:23",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Europese beurzen sluiten hoger",
+    "link": "https://www.beurs.nl/Nieuws/883282/Europese-beurzen-sluiten-hoger.aspx",
+    "intro": "De Europese beurzen zijn donderdag hoger gesloten, na de rentebesluiten van de Fed en de ECB en veel kwartaalcijfers van grote bedrijven.",
+    "published_at": "2026-10-29 19:04",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "2b99cc1231330cdff20a71f2310e71ed",
+    "id": "e8ec94adbd1054fd3d583b3382a25ba9",
     "categorie": "Beursnieuws",
-    "titel": "ECB handhaaft rente",
-    "link": "https://www.beurs.nl/Nieuws/883229/ECB-handhaaft-rente.aspx",
-    "intro": "De Europese Centrale Bank heeft donderdagmiddag de rente onveranderd gelaten.",
-    "published_at": "2026-10-29 14:21",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Eurocommercial Properties koopt groot winkelcentrum in Mons, België",
+    "link": "https://www.beurs.nl/Nieuws/883277/Eurocommercial-Properties-koopt-groot-winkelcentrum-in-Mons-Belgie.aspx",
+    "intro": "Eurocommercial koopt het winkelcentrum Les Grands Prés in het Belgische Mons en haalt tegelijk vers kapitaal op met de uitgifte van 5,2 miljoen nieuwe aandelen. Dit maakte het vastgoedbedrijf donderdagavond bekend.",
+    "published_at": "2026-10-29 18:50",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   },
   {
-    "id": "609d28bf781ec04827f06193c0c609b4",
+    "id": "12074d9f7c480089994ac0d800a9ea01",
     "categorie": "Beursnieuws",
-    "titel": "Theon International rondt overname Merio af",
-    "link": "https://www.beurs.nl/Nieuws/883223/Theon-International-rondt-overname-Merio-af.aspx",
-    "intro": "Theon International heeft alle vereiste goedkeuringen ontvangen en de voorbereidende stappen afgerond voor de overname van een belang van 80 procent in Merio. Dit maakte het defensie- en technologiebedrijf donderdag bekend.",
-    "published_at": "2026-10-29 13:58",
-    "scraped_at": "2026-10-29T17:28:14.985666"
+    "titel": "Universal Music ziet marge licht dalen door Downtown",
+    "link": "https://www.beurs.nl/Nieuws/883275/Universal-Music-ziet-marge-licht-dalen-door-Downtown.aspx",
+    "intro": "Universal Music Group heeft in het derde kwartaal fors meer omzet geboekt, mede dankzij de consolidatie van DownTown, maar de marge daalde wel iets. Dit bleek donderdag uit de cijfers van het Amerikaanse muziekbedrijf met een beursnotering in Amsterdam.",
+    "published_at": "2026-10-29 18:30",
+    "scraped_at": "2026-10-29T22:02:16.635418"
   }
 ]
