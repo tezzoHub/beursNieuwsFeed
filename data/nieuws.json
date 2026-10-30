@@ -1,92 +1,92 @@
 [
   {
-    "id": "6290cabce1309e93e1534ac31c1c75d9",
+    "id": "eef9434d484df6f8ae796384ed91c672",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/883301/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag drie van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-10-29 22:04",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "Nederlandse economie blijft op koers",
+    "link": "https://www.beurs.nl/Nieuws/883367/Nederlandse-economie-blijft-op-koers.aspx",
+    "intro": "De Nederlandse economie bleef in het derde kwartaal op koers met een groei van het bruto binnenlands product van 0,6 procent op kwartaalbasis. Dit bleek vrijdag uit eerste cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-10-30 09:43",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "8a3ee84db1f25de6837a4948956db4c4",
+    "id": "526b2058163fe2bc39163e22a8053cbf",
     "categorie": "Beursnieuws",
-    "titel": "Starbucks groeit sterk in de VS",
-    "link": "https://www.beurs.nl/Nieuws/883300/Starbucks-groeit-sterk-in-de-VS.aspx",
-    "intro": "Starbucks boekte afgelopen kwartaal meer omzet in bestaande winkels, dankzij een reorganisatie die de omzet in de VS stimuleert. Dit bleek donderdag bij kwartaalcijfers van de koffieketen.",
-    "published_at": "2026-10-29 21:51",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "Beursblik: Heijmans verrast met outlookverhoging",
+    "link": "https://www.beurs.nl/Nieuws/883364/Beursblik-Heijmans-verrast-met-outlookverhoging.aspx",
+    "intro": "Heijmans heeft vrijdag verrast met een verhoging van de margeverwachting voor 2026. Dit zei analist Martijn den Drijver van ABN AMRO Oddo.",
+    "published_at": "2026-10-30 09:38",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "e85535edcaac7b3c338eea1fc6573c77",
-    "categorie": "Beursnieuws",
-    "titel": "Zwakte bij Alphabet duwt Wall Street in het rood",
-    "link": "https://www.beurs.nl/Nieuws/883299/Zwakte-bij-Alphabet-duwt-Wall-Street-in-het-rood.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdag lager gesloten, nadat kwartaalcijfers van Alphabet beleggers teleurstelden. Farmaceuten Eli Lilly en Merck kregen een positievere reactie van beleggers.",
-    "published_at": "2026-10-29 21:37",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "id": "b2bd8f283b3b845557d6152b6b3e94bb",
+    "categorie": "Beleggen",
+    "titel": "\"Water is spotgoedkoop. Nu nog\"",
+    "link": "https://www.ieximpact.nl/artikel/882340/Water-is-spotgoedkoop-Nu-nog.aspx",
+    "intro": "Droogte, vervuiling en de groei van AI zetten de watervoorziening steeds meer onder druk. Voor bedrijven kan dat leiden tot productieverlies, hogere kosten en extra investeringen. Tegelijkertijd groeit de markt voor technologie die water bespaart, zuivert en hergebruikt, schrijft Alix Chosson, hoofd Klimaattransitie en Impact Investing bij Candriam. Wat betekent dit voor beleggers?",
+    "published_at": "2026-10-30 09:25",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "e0476decf39be342d38d917eaaebd6f1",
+    "id": "fd58d096a77a790bc66cf3e3cad3e380",
     "categorie": "Beursnieuws",
-    "titel": "SanDisk boekt meer winst dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/883298/SanDisk-boekt-meer-winst-dan-verwacht.aspx",
-    "intro": "Sandisk heeft meer winst geboekt dan verwacht en gaf een omzetverwachting af die overeenkwam met de analistenverwachtingen. Dat bleek donderdag nabeurs uit de resultaten van de producent van NAND-flashgeheugen.",
-    "published_at": "2026-10-29 21:26",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "Jefferies: winst Fugro valt fors tegen",
+    "link": "https://www.beurs.nl/Nieuws/883359/Jefferies-winst-Fugro-valt-fors-tegen.aspx",
+    "intro": "Fugro heeft in het derde kwartaal een fors lager bedrijfsresultaat geboekt dan Jefferies had verwacht. Dit stelde analist David Kerstens vrijdag in een rapport naar aanleiding van de cijferrapportage van de bodemonderzoeker voorbeurs.",
+    "published_at": "2026-10-30 09:16",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "b7a2d26be6e8beb7d1ae482ce6d208ac",
+    "id": "f51d0cd2400c6d89897e87956376b3b4",
     "categorie": "Beursnieuws",
-    "titel": "Amazon ziet omzet AWS harder groeien dan voorzien",
-    "link": "https://www.beurs.nl/Nieuws/883297/Amazon-ziet-omzet-AWS-harder-groeien-dan-voorzien.aspx",
-    "intro": "Amazon heeft in het derde kwartaal van 2026 de omzet conform verwachting zien stijgen, terwijl de operationele winst hoger uitviel dan voorzien, maar de vrije kasstroom zakte nog verder in het rood. Dit bleek donderdagavond uit de cijfers van de Amerikaanse e-commercereus.",
-    "published_at": "2026-10-29 21:16",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "Chippers diep in het rood maar UMG blinkt uit",
+    "link": "https://www.beurs.nl/Nieuws/883356/Chippers-diep-in-het-rood-maar-UMG-blinkt-uit.aspx",
+    "intro": "De Amsterdamse beurs is vrijdag met een klein verlies van 0,2 procent gestart, door stevige verliezen voor de chippers.",
+    "published_at": "2026-10-30 09:11",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "f5a18c2eaa63b8a2dbb1a3e9ed9fb22c",
+    "id": "121c0c2995faa7aa3e9503c7a1c1a398",
     "categorie": "Beursnieuws",
-    "titel": "Minder winst maar betere marge voor Intel",
-    "link": "https://www.beurs.nl/Nieuws/883296/Minder-winst-maar-betere-marge-voor-Intel.aspx",
-    "intro": "Intel heeft in het derde kwartaal van 2026 de marge verbeterd terwijl de groei aan de verwachtingen voldeed. Dit bleek donderdag nabeurs uit de cijfers van de Amerikaanse chipreus.",
-    "published_at": "2026-10-29 21:13",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "NX Filtration rondt kapitaalverhoging af",
+    "link": "https://www.beurs.nl/Nieuws/883354/NX-Filtration-rondt-kapitaalverhoging-af.aspx",
+    "intro": "NX Filtration heeft vrijdag de kapitaalverhoging afgerond die het donderdagavond aankondigde.",
+    "published_at": "2026-10-30 08:57",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "6530411414a645bd5465fcd0ba858272",
+    "id": "906f06f1bad02d8d5c1182d87c67da1f",
     "categorie": "Beursnieuws",
-    "titel": "Zoeken in AI-modus bezorgt Alphabet slechtste beursdag ooit",
-    "link": "https://www.beurs.nl/Nieuws/883289/Zoeken-in-AI-modus-bezorgt-Alphabet-slechtste-beursdag-ooit.aspx",
-    "intro": "De aandelen van Alphabet beleefden donderdag hun slechtste dag ooit, nadat het bedrijf teleurstelde met de omzet van Google's zoekmachine.",
-    "published_at": "2026-10-29 20:47",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "Afzetprijzen Nederlandse industrie sterker gestegen",
+    "link": "https://www.beurs.nl/Nieuws/883352/Afzetprijzen-Nederlandse-industrie-sterker-gestegen.aspx",
+    "intro": "De afzetprijzen van de Nederlandse industrie zijn in september sterker gestegen dan een maand eerder. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-10-30 08:49",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "c888fc1163b56b53dc37d004cdacf360",
+    "id": "993df9a59d898c581540612740d8d9f4",
     "categorie": "Beursnieuws",
-    "titel": "Zwak Alphabet duwt Wall Street in het rood",
-    "link": "https://www.beurs.nl/Nieuws/883288/Zwak-Alphabet-duwt-Wall-Street-in-het-rood.aspx",
-    "intro": "De Amerikaanse beurzen noteerden donderdag lager, nadat kwartaalcijfers van Alphabet beleggers teleurstelden. Farmaceuten Eli Lilly en Merck kregen een positievere reactie van beleggers.",
-    "published_at": "2026-10-29 20:19",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "Ahold koopt Tsjechische en Slowaakse activiteiten van Tesco",
+    "link": "https://www.beurs.nl/Nieuws/883350/Ahold-koopt-Tsjechische-en-Slowaakse-activiteiten-van-Tesco.aspx",
+    "intro": "Ahold Delhaize heeft overeenstemming bereikt over de acquisitie van de Tsjechische en Slowaakse activiteiten van Tesco. Dit maakte Ahold vrijdagochtend bekend.",
+    "published_at": "2026-10-30 08:45",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "705f13144322513b012c531d156f823f",
+    "id": "d0b37d7403d49e76deadf6bd0e3dd14f",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten hoger",
-    "link": "https://www.beurs.nl/Nieuws/883282/Europese-beurzen-sluiten-hoger.aspx",
-    "intro": "De Europese beurzen zijn donderdag hoger gesloten, na de rentebesluiten van de Fed en de ECB en veel kwartaalcijfers van grote bedrijven.",
-    "published_at": "2026-10-29 19:04",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "Wolters Kluwer verkoopt Duitse belastingtak voor 40 miljoen euro",
+    "link": "https://www.beurs.nl/Nieuws/883346/Wolters-Kluwer-verkoopt-Duitse-belastingtak-voor-40-miljoen-euro.aspx",
+    "intro": "Wolters Kluwer verkoopt zijn Duitse belastingactiviteiten voor consumenten voor 40 miljoen euro aan Buhl Data Service. Dit maakte het Nederlandse informatie- en softwarebedrijf vrijdagochtend bekend.",
+    "published_at": "2026-10-30 08:30",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   },
   {
-    "id": "e8ec94adbd1054fd3d583b3382a25ba9",
+    "id": "f1d5ed519fcfbc4b632bf1c8f42bcd4c",
     "categorie": "Beursnieuws",
-    "titel": "Eurocommercial Properties koopt groot winkelcentrum in Mons, België",
-    "link": "https://www.beurs.nl/Nieuws/883277/Eurocommercial-Properties-koopt-groot-winkelcentrum-in-Mons-Belgie.aspx",
-    "intro": "Eurocommercial koopt het winkelcentrum Les Grands Prés in het Belgische Mons en haalt tegelijk vers kapitaal op met de uitgifte van 5,2 miljoen nieuwe aandelen. Dit maakte het vastgoedbedrijf donderdagavond bekend.",
-    "published_at": "2026-10-29 18:50",
-    "scraped_at": "2026-10-30T02:02:16.892454"
+    "titel": "AEX wacht lagere opening na nieuwe AI-zorgen",
+    "link": "https://www.beurs.nl/Nieuws/883341/AEX-wacht-lagere-opening-na-nieuwe-AI-zorgen.aspx",
+    "intro": "De Amsterdamse beurs gaat vrijdag naar verwachting lager van start. De openingsindicatie voor de AEX wees op een verlies van circa 0,3 procent, nadat zorgen over de opbrengsten van de omvangrijke AI-investeringen opnieuw oplaaiden.",
+    "published_at": "2026-10-30 08:15",
+    "scraped_at": "2026-10-30T08:55:20.483417"
   }
 ]
