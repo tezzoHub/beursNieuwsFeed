@@ -1,12 +1,21 @@
 [
   {
+    "id": "6290cabce1309e93e1534ac31c1c75d9",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/883301/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag drie van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-10-29 22:04",
+    "scraped_at": "2026-10-30T02:02:16.892454"
+  },
+  {
     "id": "8a3ee84db1f25de6837a4948956db4c4",
     "categorie": "Beursnieuws",
     "titel": "Starbucks groeit sterk in de VS",
     "link": "https://www.beurs.nl/Nieuws/883300/Starbucks-groeit-sterk-in-de-VS.aspx",
     "intro": "Starbucks boekte afgelopen kwartaal meer omzet in bestaande winkels, dankzij een reorganisatie die de omzet in de VS stimuleert. Dit bleek donderdag bij kwartaalcijfers van de koffieketen.",
     "published_at": "2026-10-29 21:51",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   },
   {
     "id": "e85535edcaac7b3c338eea1fc6573c77",
@@ -15,7 +24,7 @@
     "link": "https://www.beurs.nl/Nieuws/883299/Zwakte-bij-Alphabet-duwt-Wall-Street-in-het-rood.aspx",
     "intro": "De Amerikaanse beurzen zijn donderdag lager gesloten, nadat kwartaalcijfers van Alphabet beleggers teleurstelden. Farmaceuten Eli Lilly en Merck kregen een positievere reactie van beleggers.",
     "published_at": "2026-10-29 21:37",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   },
   {
     "id": "e0476decf39be342d38d917eaaebd6f1",
@@ -24,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/883298/SanDisk-boekt-meer-winst-dan-verwacht.aspx",
     "intro": "Sandisk heeft meer winst geboekt dan verwacht en gaf een omzetverwachting af die overeenkwam met de analistenverwachtingen. Dat bleek donderdag nabeurs uit de resultaten van de producent van NAND-flashgeheugen.",
     "published_at": "2026-10-29 21:26",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   },
   {
     "id": "b7a2d26be6e8beb7d1ae482ce6d208ac",
@@ -33,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/883297/Amazon-ziet-omzet-AWS-harder-groeien-dan-voorzien.aspx",
     "intro": "Amazon heeft in het derde kwartaal van 2026 de omzet conform verwachting zien stijgen, terwijl de operationele winst hoger uitviel dan voorzien, maar de vrije kasstroom zakte nog verder in het rood. Dit bleek donderdagavond uit de cijfers van de Amerikaanse e-commercereus.",
     "published_at": "2026-10-29 21:16",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   },
   {
     "id": "f5a18c2eaa63b8a2dbb1a3e9ed9fb22c",
@@ -42,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/883296/Minder-winst-maar-betere-marge-voor-Intel.aspx",
     "intro": "Intel heeft in het derde kwartaal van 2026 de marge verbeterd terwijl de groei aan de verwachtingen voldeed. Dit bleek donderdag nabeurs uit de cijfers van de Amerikaanse chipreus.",
     "published_at": "2026-10-29 21:13",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   },
   {
     "id": "6530411414a645bd5465fcd0ba858272",
@@ -51,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/883289/Zoeken-in-AI-modus-bezorgt-Alphabet-slechtste-beursdag-ooit.aspx",
     "intro": "De aandelen van Alphabet beleefden donderdag hun slechtste dag ooit, nadat het bedrijf teleurstelde met de omzet van Google's zoekmachine.",
     "published_at": "2026-10-29 20:47",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   },
   {
     "id": "c888fc1163b56b53dc37d004cdacf360",
@@ -60,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/883288/Zwak-Alphabet-duwt-Wall-Street-in-het-rood.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag lager, nadat kwartaalcijfers van Alphabet beleggers teleurstelden. Farmaceuten Eli Lilly en Merck kregen een positievere reactie van beleggers.",
     "published_at": "2026-10-29 20:19",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   },
   {
     "id": "705f13144322513b012c531d156f823f",
@@ -69,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/883282/Europese-beurzen-sluiten-hoger.aspx",
     "intro": "De Europese beurzen zijn donderdag hoger gesloten, na de rentebesluiten van de Fed en de ECB en veel kwartaalcijfers van grote bedrijven.",
     "published_at": "2026-10-29 19:04",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   },
   {
     "id": "e8ec94adbd1054fd3d583b3382a25ba9",
@@ -78,15 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/883277/Eurocommercial-Properties-koopt-groot-winkelcentrum-in-Mons-Belgie.aspx",
     "intro": "Eurocommercial koopt het winkelcentrum Les Grands Prés in het Belgische Mons en haalt tegelijk vers kapitaal op met de uitgifte van 5,2 miljoen nieuwe aandelen. Dit maakte het vastgoedbedrijf donderdagavond bekend.",
     "published_at": "2026-10-29 18:50",
-    "scraped_at": "2026-10-29T22:02:16.635418"
-  },
-  {
-    "id": "12074d9f7c480089994ac0d800a9ea01",
-    "categorie": "Beursnieuws",
-    "titel": "Universal Music ziet marge licht dalen door Downtown",
-    "link": "https://www.beurs.nl/Nieuws/883275/Universal-Music-ziet-marge-licht-dalen-door-Downtown.aspx",
-    "intro": "Universal Music Group heeft in het derde kwartaal fors meer omzet geboekt, mede dankzij de consolidatie van DownTown, maar de marge daalde wel iets. Dit bleek donderdag uit de cijfers van het Amerikaanse muziekbedrijf met een beursnotering in Amsterdam.",
-    "published_at": "2026-10-29 18:30",
-    "scraped_at": "2026-10-29T22:02:16.635418"
+    "scraped_at": "2026-10-30T02:02:16.892454"
   }
 ]
