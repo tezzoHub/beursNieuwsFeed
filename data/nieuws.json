@@ -1,12 +1,30 @@
 [
   {
+    "id": "c3bfd2c923ed3deee4261ff9577dd137",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/883466/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag zeven van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-10-30 21:33",
+    "scraped_at": "2026-10-30T23:36:40.145933"
+  },
+  {
+    "id": "9f19663ef239f78ff2e69c1e0c1145fe",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit oktober fors lager af",
+    "link": "https://www.beurs.nl/Nieuws/883465/Wall-Street-sluit-oktober-fors-lager-af.aspx",
+    "intro": "De Amerikaanse beurzen zijn de laatste dag van oktober fors lager gesloten, aangewakkerd door een uitverkoop van technologieaandelen en oplaaiende zorgen over de waardering van AI-bedrijven en hun kredietwaardigheid. Opvallendste daler was Intel, dat vrijdag bijna 29 procent van zijn waarde verloor, nadat de outlook die het bedrijf donderdag afgaf flink tekortschoot bij beleggers.",
+    "published_at": "2026-10-30 21:25",
+    "scraped_at": "2026-10-30T23:36:40.145933"
+  },
+  {
     "id": "5ed412156383ec517473b65248abf4ec",
     "categorie": "Beursnieuws",
     "titel": "Olie in oktober 15 procent duurder geworden",
     "link": "https://www.beurs.nl/Nieuws/883462/Olie-in-oktober-15-procent-duurder-geworden.aspx",
     "intro": "De olieprijzen zijn in oktober met ongeveer 15 procent gestegen. Beleggers houden steeds meer rekening met een escalatie van het conflict tussen de VS en Iran na de Amerikaanse tussentijdse verkiezingen van volgende week. Vrijdag liepen de prijzen verder op, nadat een aanval op een tanker in de Straat van Hormuz opnieuw liet zien hoe kwetsbaar de olieaanvoer is.",
     "published_at": "2026-10-30 20:05",
-    "scraped_at": "2026-10-30T19:58:21.155067"
+    "scraped_at": "2026-10-30T23:36:40.145933"
   },
   {
     "id": "7d7f45681cb3f14744bfecc1d9ed645b",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/883461/Wereldhave-verkoopt-Eggert-Center.aspx",
     "intro": "Wereldhave heeft het Eggert Center in Purmerend verkocht aan het Franse vastgoedfonds Transitions Europe, beheerd door Arkéa REIM, voor 62,8 miljoen euro exclusief overdrachtsbelasting. Wereldhave blijft als asset-, property- en leasingmanager bij het winkelcentrum betrokken via zijn Nederlandse managementplatform en LifeCentral-strategie.",
     "published_at": "2026-10-30 19:20",
-    "scraped_at": "2026-10-30T19:58:21.155067"
+    "scraped_at": "2026-10-30T23:36:40.145933"
   },
   {
     "id": "cdfeb70cd8eee1d349596c8d9f386961",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/883460/Wall-Street-dieprood-gekleurd.aspx",
     "intro": "De Amerikaanse beurzen stevenen af op een fors verlies op de laatste dag van oktober, aangewakkerd door een uitverkoop van technologieaandelen en oplaaiende zorgen over de waardering van AI-bedrijven en hun kredietwaardigheid. Opvallendste daler is Intel, dat vandaag 30 procent van zijn waarde kwijtraakt. De outlook die Intel donderdag afgaf schoot flink tekort bij beleggers.",
     "published_at": "2026-10-30 19:15",
-    "scraped_at": "2026-10-30T19:58:21.155067"
+    "scraped_at": "2026-10-30T23:36:40.145933"
   },
   {
     "id": "94ce70b2beb9d3aa272d70cd83b3cb0b",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/883459/Europese-beurzen-sluiten-onstuimige-maand-overwegend-lager-af.aspx",
     "intro": "De Europese beurzen zijn de turbulente maand oktober overwegend lager geëindigd. Vooral indexen met veel technamen hadden het vrijdag moeilijk.",
     "published_at": "2026-10-30 18:41",
-    "scraped_at": "2026-10-30T19:58:21.155067"
+    "scraped_at": "2026-10-30T23:36:40.145933"
   },
   {
     "id": "2706f9718a7ed0781c21c9a46ec195a4",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/883458/Heineken-haalt-miljard-euro-op.aspx",
     "intro": "Heineken heeft met een obligatie-uitgifte een miljard euro opgehaald. Dit maakte de Amsterdamse brouwer vrijdagavond bekend.",
     "published_at": "2026-10-30 18:27",
-    "scraped_at": "2026-10-30T19:58:21.155067"
+    "scraped_at": "2026-10-30T23:36:40.145933"
   },
   {
     "id": "b402b274acdb90158ba2b71d1e9d7f9f",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/883457/Aandeelhouders-OCI-akkoord-met-combinatie-Orascom.aspx",
     "intro": "Aandeelhouders van OCI hebben vrijdag tijdens een buitengewone aandeelhoudersvergadering ingestemd met alle voorstellen rond de voorgenomen combinatie met Orascom Construction. De aandeelhouders keurden eveneens de verkoop van OCI Nitrogen goed.",
     "published_at": "2026-10-30 18:08",
-    "scraped_at": "2026-10-30T19:58:21.155067"
+    "scraped_at": "2026-10-30T23:36:40.145933"
   },
   {
     "id": "55c57c454ff830f308de66a9db164438",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/883455/Chipaandelen-zorgen-voor-rood-slot-van-de-AEX.aspx",
     "intro": "De Amsterdamse beurs is vrijdag in het rood gesloten door stevige koersverliezen van chipaandelen. In Amerika is het een techbloedbad; Intel -30%.",
     "published_at": "2026-10-30 17:54",
-    "scraped_at": "2026-10-30T19:58:21.155067"
+    "scraped_at": "2026-10-30T23:36:40.145933"
   },
   {
     "id": "da8fc3457883367a58b630dee3dca48e",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/883448/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 9 november 2026:",
     "published_at": "2026-10-30 16:26",
-    "scraped_at": "2026-10-30T19:58:21.155067"
-  },
-  {
-    "id": "0a9d3b01686a7304cc91d071d8c1c1f2",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/883447/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 9 november 2026:",
-    "published_at": "2026-10-30 16:24",
-    "scraped_at": "2026-10-30T19:58:21.155067"
-  },
-  {
-    "id": "9fd31cc64213c9df13d77e7a23d70fc9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/883445/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 9 november 2026:",
-    "published_at": "2026-10-30 16:20",
-    "scraped_at": "2026-10-30T19:58:21.155067"
+    "scraped_at": "2026-10-30T23:36:40.145933"
   }
 ]
