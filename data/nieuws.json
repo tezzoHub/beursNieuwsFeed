@@ -1,20 +1,29 @@
 [
   {
-    "id": "2e57ed6e52bc12b8ecec5795a806612c",
-    "categorie": "",
-    "titel": "Vooruitblik: Midterms, Crackgate, cijfers van AMD en IMCD",
-    "link": "https://www.iex.nl/artikel/882971/Vooruitblik-Midterms-Crackgate-cijfers-van-AMD-en-IMCD.aspx",
-    "intro": "",
-    "published_at": "2026-10-31 10:20",
-    "scraped_at": "2026-11-01T08:11:46.386050"
+    "id": "a1873154138cd0b860a1de4af45ce16a",
+    "categorie": "Beursnieuws",
+    "titel": "Komende beursweek in teken van PMI, banencijfers en midterms",
+    "link": "https://www.beurs.nl/Nieuws/883491/Komende-beursweek-in-teken-van-PMI-banencijfers-en-midterms.aspx",
+    "intro": "De beursweek begint maandag met de PMI-cijfers voor de mondiale industrie. Woensdag volgen die voor de dienstensector.",
+    "published_at": "2026-11-01 13:10",
+    "scraped_at": "2026-11-01T15:19:22.116646"
   },
   {
-    "id": "bfc1a88e333cebcd678ff5f3e3132f8e",
+    "id": "cc277d0a953a4c158f3c385218011127",
     "categorie": "Beursnieuws",
-    "titel": "Acadian iets kleiner in TomTom",
-    "link": "https://www.beurs.nl/Nieuws/883478/Acadian-iets-kleiner-in-TomTom.aspx",
-    "intro": "Acadian Asset Management heeft een kleiner belang in TomTom gemeld. Dit bleek uit een melding in het kader van de Wet op het financieel toezicht, gedateerd op 29 oktober 2026.",
-    "published_at": "2026-10-31 09:16",
-    "scraped_at": "2026-11-01T08:11:46.386050"
+    "titel": "Positieve oktobermaand op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/883489/Positieve-oktobermaand-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week nauwelijks van zijn plek gekomen. De AEX sloot vrijdag op 1.134 punten. Een week eerder was de slotstand 1.132 punten. De maand oktober leverde evenwel een koerswinst op van bijna twee procent.",
+    "published_at": "2026-11-01 11:07",
+    "scraped_at": "2026-11-01T15:19:22.116646"
+  },
+  {
+    "id": "70c21be9ea667e25fc9b40b640ef12ea",
+    "categorie": "Beursnieuws",
+    "titel": "Koersduikeling van Adyen in vlakke AEX",
+    "link": "https://www.beurs.nl/Nieuws/883487/Koersduikeling-van-Adyen-in-vlakke-AEX.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week per saldo nauwelijks van zijn plaats gekomen, maar dit verhulde dat sommige aandelen wel degelijk hard bewogen.",
+    "published_at": "2026-11-01 09:55",
+    "scraped_at": "2026-11-01T15:19:22.116646"
   }
 ]
