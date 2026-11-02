@@ -1,29 +1,92 @@
 [
   {
-    "id": "a1873154138cd0b860a1de4af45ce16a",
+    "id": "c7ad903f5dc67823699a460d9f207781",
     "categorie": "Beursnieuws",
-    "titel": "Komende beursweek in teken van PMI, banencijfers en midterms",
-    "link": "https://www.beurs.nl/Nieuws/883491/Komende-beursweek-in-teken-van-PMI-banencijfers-en-midterms.aspx",
-    "intro": "De beursweek begint maandag met de PMI-cijfers voor de mondiale industrie. Woensdag volgen die voor de dienstensector.",
-    "published_at": "2026-11-01 13:10",
-    "scraped_at": "2026-11-02T02:37:22.349997"
+    "titel": "Britse industrie groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/883567/Britse-industrie-groeit-harder.aspx",
+    "intro": "De industrie in het Verenigd Koninkrijk is in oktober sterker gegroeid. Dit bleek maandag uit de inkoopmanagersindex van SP Global.",
+    "published_at": "2026-11-02 10:37",
+    "scraped_at": "2026-11-02T10:03:56.663675"
   },
   {
-    "id": "cc277d0a953a4c158f3c385218011127",
+    "id": "9254984c0aa2ce5e867c2e817fe98584",
     "categorie": "Beursnieuws",
-    "titel": "Positieve oktobermaand op Damrak",
-    "link": "https://www.beurs.nl/Nieuws/883489/Positieve-oktobermaand-op-Damrak.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week nauwelijks van zijn plek gekomen. De AEX sloot vrijdag op 1.134 punten. Een week eerder was de slotstand 1.132 punten. De maand oktober leverde evenwel een koerswinst op van bijna twee procent.",
-    "published_at": "2026-11-01 11:07",
-    "scraped_at": "2026-11-02T02:37:22.349997"
+    "titel": "IT-incident in koelsystemen Delhaize",
+    "link": "https://www.beurs.nl/Nieuws/883565/IT-incident-in-koelsystemen-Delhaize.aspx",
+    "intro": "Een aantal Delhaize-winkels heeft last van een IT-incident met zijn koelsystemen. Dit bevestigde een woordvoerder van moederbedrijf Ahold Delhaize maandag aan ABM Financial News.",
+    "published_at": "2026-11-02 10:34",
+    "scraped_at": "2026-11-02T10:03:56.663675"
   },
   {
-    "id": "70c21be9ea667e25fc9b40b640ef12ea",
+    "id": "ce0ee505b67af486f3c764a6ae0faa3f",
     "categorie": "Beursnieuws",
-    "titel": "Koersduikeling van Adyen in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/883487/Koersduikeling-van-Adyen-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week per saldo nauwelijks van zijn plaats gekomen, maar dit verhulde dat sommige aandelen wel degelijk hard bewogen.",
-    "published_at": "2026-11-01 09:55",
-    "scraped_at": "2026-11-02T02:37:22.349997"
+    "titel": "ING verlaagt koersdoel Besi stevig",
+    "link": "https://www.beurs.nl/Nieuws/883560/ING-verlaagt-koersdoel-Besi-stevig.aspx",
+    "intro": "ING heeft maandag het koersdoel voor BE Semiconductor Industries verlaagd van 310 naar 240 euro, maar handhaafde het koopadvies. Dit bleek uit een rapport van analist Marc Hesselink.",
+    "published_at": "2026-11-02 10:29",
+    "scraped_at": "2026-11-02T10:03:56.663675"
+  },
+  {
+    "id": "d1947a3618db8344301595139668c0b1",
+    "categorie": "Beursnieuws",
+    "titel": "TKH neemt Wolkabout over",
+    "link": "https://www.beurs.nl/Nieuws/883557/TKH-neemt-Wolkabout-over.aspx",
+    "intro": "TKH Group heeft Wolkabout overgenomen. Dit maakte het bedrijf uit Haaksbergen maandag bekend.",
+    "published_at": "2026-11-02 10:16",
+    "scraped_at": "2026-11-02T10:03:56.663675"
+  },
+  {
+    "id": "8d84a0b735412f728c9a918180a834dc",
+    "categorie": "Must read",
+    "titel": "Must read: Wie durft nog te beleggen in de game-industrie?",
+    "link": "https://www.iex.nl/artikel/883540/Must-read-Wie-durft-nog-te-beleggen-in-de-game-industrie.aspx",
+    "intro": "Plus: er is meer dan tech, Nederlandse huishoudens in crypto's, stijgende vraag naar cybersecurity, AI is duur en winstgevend, waterprijs moet wel stijgen, en meer.",
+    "published_at": "2026-11-02 10:00",
+    "scraped_at": "2026-11-02T10:03:56.663675"
+  },
+  {
+    "id": "99592578c87caeddec7077845895314f",
+    "categorie": "Beursnieuws",
+    "titel": "Krimp in Franse industrie",
+    "link": "https://www.beurs.nl/Nieuws/883552/Krimp-in-Franse-industrie.aspx",
+    "intro": "De Franse industrie is in oktober gekrompen, maar de vertraging was iets minder groot dan aanvankelijk verwacht. Dit bleek maandag uit definitieve cijfers van SP Global.",
+    "published_at": "2026-11-02 09:54",
+    "scraped_at": "2026-11-02T10:03:56.663675"
+  },
+  {
+    "id": "b94434b70dc86c864654c97d3d6f3219",
+    "categorie": "Beursnieuws",
+    "titel": "Italiaanse industrie krimpt",
+    "link": "https://www.beurs.nl/Nieuws/883551/Italiaanse-industrie-krimpt.aspx",
+    "intro": "De industrie in Italië is in oktober gekrompen. Dit bleek maandag uit cijfers van SP Global.",
+    "published_at": "2026-11-02 09:48",
+    "scraped_at": "2026-11-02T10:03:56.663675"
+  },
+  {
+    "id": "48165fa22f1779d61d2541a71a5ce0cf",
+    "categorie": "Beursnieuws",
+    "titel": "KBC Securities haalt NX Filtration van de verkooplijst",
+    "link": "https://www.beurs.nl/Nieuws/883550/KBC-Securities-haalt-NX-Filtration-van-de-verkooplijst.aspx",
+    "intro": "KBC Securities heeft maandag het advies voor NX Filtration verhoogd van Verkopen naar Houden en het koersdoel van 1,80 naar 2,40 euro. Dit bleek uit een rapport van analist Kristof Samoy.",
+    "published_at": "2026-11-02 09:28",
+    "scraped_at": "2026-11-02T10:03:56.663675"
+  },
+  {
+    "id": "e6135483624d763ae03167ee2127a306",
+    "categorie": "Beursnieuws",
+    "titel": "Spaanse industrie groeit harder",
+    "link": "https://www.beurs.nl/Nieuws/883547/Spaanse-industrie-groeit-harder.aspx",
+    "intro": "De Spaanse industrie is in oktober sterker gegroeid. Dit bleek maandag uit cijfers van SP Global.",
+    "published_at": "2026-11-02 09:21",
+    "scraped_at": "2026-11-02T10:03:56.663675"
+  },
+  {
+    "id": "3b47793b77cd629058105856800cb57f",
+    "categorie": "Opinie",
+    "titel": "Niet de techniek maar geld maakte zon- en windenergie groot",
+    "link": "https://www.ieximpact.nl/artikel/882693/Niet-de-techniek-maar-geld-maakte-zon-en-windenergie-groot.aspx",
+    "intro": "Wat Peter Blom, bijna 25 jaar directievoorzitter van Triodos Bank, leerde over het financieren van de energietransitie. Hij blikt in de videopodcast Stroomversnellers van Zonhub terug op veertig jaar pionieren en vertelt wat er nu nodig is om op te schalen.",
+    "published_at": "2026-11-02 09:17",
+    "scraped_at": "2026-11-02T10:03:56.663675"
   }
 ]
