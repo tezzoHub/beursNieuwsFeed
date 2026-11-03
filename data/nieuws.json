@@ -1,12 +1,75 @@
 [
   {
+    "id": "f02c6450ccd064d063522dcfcb68845f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/883799/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag zes van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-11-03 22:44",
+    "scraped_at": "2026-11-03T23:00:01.587813"
+  },
+  {
+    "id": "9a1cd79c9e053f9ed846d280a9490c1c",
+    "categorie": "Beursnieuws",
+    "titel": "Supermicro verrast opnieuw met cijfers",
+    "link": "https://www.beurs.nl/Nieuws/883798/Supermicro-verrast-opnieuw-met-cijfers.aspx",
+    "intro": "Supermicro heeft in het eerste kwartaal van boekjaar 2027 zelfs de eigen, onlangs naar boven bijgestelde omzetverwachting overtroffen. Dit maakte het bedrijf dinsdag bekend.",
+    "published_at": "2026-11-03 22:37",
+    "scraped_at": "2026-11-03T23:00:01.587813"
+  },
+  {
+    "id": "1a22eaa8fee9d066dba3af742f60daa0",
+    "categorie": "Beursnieuws",
+    "titel": "AMD boekt recordomzet door datacenters",
+    "link": "https://www.beurs.nl/Nieuws/883797/AMD-boekt-recordomzet-door-datacenters.aspx",
+    "intro": "Chipmaker AMD heeft in het derde kwartaal meer omzet geboekt dan ooit tevoren. De groei komt vooral door de grote vraag naar AI-chips voor datacenters. Het bedrijf denkt dat de groei in het vierde kwartaal nog harder gaat. Dit maakte het bedrijf dinsdag nabeurs bekend.",
+    "published_at": "2026-11-03 22:26",
+    "scraped_at": "2026-11-03T23:00:01.587813"
+  },
+  {
+    "id": "ea524d1be32fb26bf4a38a9cd180f3ef",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit verdeeld voor verkiezingsuitslag",
+    "link": "https://www.beurs.nl/Nieuws/883796/Wall-Street-sluit-verdeeld-voor-verkiezingsuitslag.aspx",
+    "intro": "De Amerikaanse beurzen sloten dinsdag verdeeld, in afwachting van de uitslag op woensdag van de Amerikaanse verkiezingen. De technologiesector zorgde wel voor wat lucht, doordat beleggers na de recente koersdruk opnieuw instapten in vooral de grote technologienamen.",
+    "published_at": "2026-11-03 22:12",
+    "scraped_at": "2026-11-03T23:00:01.587813"
+  },
+  {
+    "id": "57077063d5b64520e8668f40222bb1f7",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen licht lager gesloten",
+    "link": "https://www.beurs.nl/Nieuws/883795/Olieprijzen-licht-lager-gesloten.aspx",
+    "intro": "De prijzen voor ruwe olie daalden dinsdag voor de tweede dag op rij. De markt hoopt dat de Verenigde Staten en Iran tot een diplomatieke oplossing komen voor het conflict, dat inmiddels al acht maanden voor verstoringen zorgt in de wereldwijde energievoorziening.",
+    "published_at": "2026-11-03 21:03",
+    "scraped_at": "2026-11-03T23:00:01.587813"
+  },
+  {
+    "id": "7d22cac5e8c2cf84a8f1af3079816a71",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Rode AEX wacht op Amerikaanse verkiezingsuitslag",
+    "link": "https://www.beurs.nl/Nieuws/883794/Update-Rode-AEX-wacht-op-Amerikaanse-verkiezingsuitslag.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag met verlies gesloten, in afwachting van de uitkomst van de Amerikaanse 'midterms'.",
+    "published_at": "2026-11-03 20:45",
+    "scraped_at": "2026-11-03T23:00:01.587813"
+  },
+  {
+    "id": "aa7a49c423cbff91357c66dfa152cf08",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street verdeeld op dag van Amerikaanse verkiezingen",
+    "link": "https://www.beurs.nl/Nieuws/883792/Wall-Street-verdeeld-op-dag-van-Amerikaanse-verkiezingen.aspx",
+    "intro": "De Amerikaanse technologieaandelen stegen dinsdag, nu beleggers na de recente koersdruk opnieuw instapten in grote namen en zich voorbereidden op de uitslag van de Amerikaanse tussentijdse verkiezingen.",
+    "published_at": "2026-11-03 19:34",
+    "scraped_at": "2026-11-03T23:00:01.587813"
+  },
+  {
     "id": "4e57b7e26ccbf198f5799b09b3630a3f",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten lager",
     "link": "https://www.beurs.nl/Nieuws/883790/Europese-beurzen-sluiten-lager.aspx",
     "intro": "De Europese aandelenmarkten waren dinsdag lager gesloten, waarbij een herstel van de AI-gerelateerde aandelen vooralsnog uitbleef en het wachten is op de uitslag van de Amerikaanse verkiezingen.",
     "published_at": "2026-11-03 18:47",
-    "scraped_at": "2026-11-03T17:55:46.186990"
+    "scraped_at": "2026-11-03T23:00:01.587813"
   },
   {
     "id": "fc12b80560eda3f235228807f3298585",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/883788/Unilever-wil-door-meer-focus-beter-presteren.aspx",
     "intro": "Unilever heeft dinsdag aangekondigd dat het woensdag tijdens een beleggersdag een nieuwe bedrijfsstructuur presenteert, inclusief een reeks wisselingen van de wacht in de top van het bedrijf, en een besparingsprogramma ter waarde van een miljard euro tot eind 2029.",
     "published_at": "2026-11-03 18:08",
-    "scraped_at": "2026-11-03T17:55:46.186990"
+    "scraped_at": "2026-11-03T23:00:01.587813"
   },
   {
     "id": "d833136d16aa93c485d4a090604a13d9",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/883786/Rode-AEX-wacht-op-Amerikaanse-verkiezingsuitslag.aspx",
     "intro": "De Amsterdamse beurs is dinsdag met verlies gesloten, in afwachting van de uitkomst van de Amerikaanse 'midterms'.",
     "published_at": "2026-11-03 17:54",
-    "scraped_at": "2026-11-03T17:55:46.186990"
-  },
-  {
-    "id": "50a4638a18d61b445bed8835cef74860",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: winstgevendheid Alfen vermoedelijk onder druk",
-    "link": "https://www.beurs.nl/Nieuws/883782/Beursblik-winstgevendheid-Alfen-vermoedelijk-onder-druk.aspx",
-    "intro": "Alfen heeft in het derde kwartaal iets minder omzet behaald dan in dezelfde periode vorig jaar en dat resulteerde in een duidelijk lagere winstgevendheid. Dit bleek uit een analistenconsensus die het bedrijf zelf samenstelde.",
-    "published_at": "2026-11-03 17:09",
-    "scraped_at": "2026-11-03T17:55:46.186990"
-  },
-  {
-    "id": "bb214e9080ca55737dfb7aef9a0fd83a",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/883780/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 11 november 2026:",
-    "published_at": "2026-11-03 16:46",
-    "scraped_at": "2026-11-03T17:55:46.186990"
-  },
-  {
-    "id": "16c10cb1110b43ac7450bf1fdb4d5575",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/883779/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 11 november 2026:",
-    "published_at": "2026-11-03 16:44",
-    "scraped_at": "2026-11-03T17:55:46.186990"
-  },
-  {
-    "id": "65cc87299d81559f657dd4d5ee2da740",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/883777/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 11 november 2026:",
-    "published_at": "2026-11-03 16:40",
-    "scraped_at": "2026-11-03T17:55:46.186990"
-  },
-  {
-    "id": "78ec732ab8e0484ddd9781c41a81e092",
-    "categorie": "Beursnieuws",
-    "titel": "Nico Bakker: beleggers in chippers moeten geduld hebben",
-    "link": "https://www.beurs.nl/Nieuws/883776/Nico-Bakker-beleggers-in-chippers-moeten-geduld-hebben.aspx",
-    "intro": "Beleggers in halfgeleideraandelen moeten nog even geduld hebben. Dat is het advies van technisch analist Nico Bakker namens BNP Paribas.",
-    "published_at": "2026-11-03 16:31",
-    "scraped_at": "2026-11-03T17:55:46.186990"
-  },
-  {
-    "id": "b27c95a387a17c444d62a07ec3d4dbe2",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse fabrieksorders harder gestegen dan verwacht",
-    "link": "https://www.beurs.nl/Nieuws/883774/Amerikaanse-fabrieksorders-harder-gestegen-dan-verwacht.aspx",
-    "intro": "De Amerikaanse fabrieksorders zijn in september harder gestegen dan verwacht. Dit bleek dinsdag uit cijfers van de Amerikaanse overheid.",
-    "published_at": "2026-11-03 16:07",
-    "scraped_at": "2026-11-03T17:55:46.186990"
-  },
-  {
-    "id": "52c5dc08c1d5335b1db1716015017640",
-    "categorie": "Beursnieuws",
-    "titel": "Meer vacatures in de VS",
-    "link": "https://www.beurs.nl/Nieuws/883773/Meer-vacatures-in-de-VS.aspx",
-    "intro": "Het aantal vacatures in de Verenigde Staten is in september duidelijk toegenomen. Dit bleek dinsdag uit cijfers van het Amerikaanse ministerie van arbeid.",
-    "published_at": "2026-11-03 16:06",
-    "scraped_at": "2026-11-03T17:55:46.186990"
+    "scraped_at": "2026-11-03T23:00:01.587813"
   }
 ]
