@@ -1,12 +1,57 @@
 [
   {
+    "id": "c53ff263a419b1d548b473b2e7aaed2c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/883998/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn woensdag vier van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-11-04 23:06",
+    "scraped_at": "2026-11-04T23:47:53.171436"
+  },
+  {
+    "id": "dbf4928a90e98df5175581c604af8151",
+    "categorie": "Beursnieuws",
+    "titel": "Qualcomm boekt lagere omzet, maar hogere winst",
+    "link": "https://www.beurs.nl/Nieuws/883993/Qualcomm-boekt-lagere-omzet-maar-hogere-winst.aspx",
+    "intro": "Qualcomm heeft in het vierde kwartaal van zijn gebroken boekjaar een lagere omzet, maar tegelijkertijd ook een hogere nettowinst geboekt. Dat heeft de Amerikaanse chipgigant woensdag nabeurs bekend gemaakt.",
+    "published_at": "2026-11-04 22:40",
+    "scraped_at": "2026-11-04T23:47:53.171436"
+  },
+  {
+    "id": "9d2d0e5c543c491118f294693c5a5a96",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street schiet omhoog na verkiezingen",
+    "link": "https://www.beurs.nl/Nieuws/883992/Wall-Street-schiet-omhoog-na-verkiezingen.aspx",
+    "intro": "De Amerikaanse beurzen zijn woensdag overtuigend hoger gesloten, dankzij een goede stemming onder beleggers na de overduidelijke verkiezingsuitslag van de Democraten in de Verenigde Staten.",
+    "published_at": "2026-11-04 22:11",
+    "scraped_at": "2026-11-04T23:47:53.171436"
+  },
+  {
+    "id": "bdf0868839a055d6aceea09eee04e471",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen dalen fors na overwinning Democraten",
+    "link": "https://www.beurs.nl/Nieuws/883985/Olieprijzen-dalen-fors-na-overwinning-Democraten.aspx",
+    "intro": "De olieprijzen zijn woensdag flink gedaald toen beleggers de gevolgen afwogen van de aanpak van president Donald Trump ten aanzien van Iran, te midden van onzekerheid over de vraag of Washington diplomatie zal nastreven of de militaire aanvallen zal hervatten.",
+    "published_at": "2026-11-04 21:05",
+    "scraped_at": "2026-11-04T23:47:53.171436"
+  },
+  {
+    "id": "740a6dd41ae29cdfb7bc397486dba7a9",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street reageert positief op verkiezingsuitslag",
+    "link": "https://www.beurs.nl/Nieuws/883983/Wall-Street-reageert-positief-op-verkiezingsuitslag.aspx",
+    "intro": "Op de Amerikaanse beurzen heerste woensdag een goede stemming na de overduidelijke verkiezingsuitslag van de Democraten in de Verenigde Staten.",
+    "published_at": "2026-11-04 20:15",
+    "scraped_at": "2026-11-04T23:47:53.171436"
+  },
+  {
     "id": "8ab9a58a3ae4d1e28e88752643cfa065",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen opgelucht na verkiezingsuitslag VS",
     "link": "https://www.beurs.nl/Nieuws/883981/Europese-beurzen-opgelucht-na-verkiezingsuitslag-VS.aspx",
     "intro": "De Europese aandelenmarkten zijn woensdag hoger gesloten na een positieve reactie op de Amerikaanse verkiezingsuitslag. Beleggers voelden zich gesteund door de verzoenende woorden van de Republikeinse president Donald Trump.",
     "published_at": "2026-11-04 19:05",
-    "scraped_at": "2026-11-04T18:14:36.290587"
+    "scraped_at": "2026-11-04T23:47:53.171436"
   },
   {
     "id": "c6d01f01ad6b40990df30b29ff53c000",
@@ -15,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/883973/Nieuwe-commissaris-Heijmans-benoemd.aspx",
     "intro": "Na goedkeuring door een buitengewone aandeelhoudersvergadering is Annemarie Manger benoemd tot commissaris van Heijmans. Dit meldde de bouwer na afloop van de vergadering.",
     "published_at": "2026-11-04 17:59",
-    "scraped_at": "2026-11-04T18:14:36.290587"
+    "scraped_at": "2026-11-04T23:47:53.171436"
   },
   {
     "id": "7a0726dca517b7d0e31ec6ecf0ba6296",
@@ -24,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/883974/AEX-sluit-hoger-na-overtuigende-verkiezingsuitslag-VS.aspx",
     "intro": "De Amsterdamse beurs reageerde woensdagmiddag positief op de Amerikaanse verkiezingsuitslag en sloot hoger. Beleggers werden gerustgesteld door de Republikeinse president Donald Trump, die aangaf de uitslag te accepteren en open te staan voor samenwerking met de Democraten.",
     "published_at": "2026-11-04 17:59",
-    "scraped_at": "2026-11-04T18:14:36.290587"
+    "scraped_at": "2026-11-04T23:47:53.171436"
   },
   {
     "id": "7b7774919965c6a3d038504ba94044f1",
@@ -33,7 +78,7 @@
     "link": "https://www.iex.nl/artikel/883954/Slotcall-een-winstwaarschuwing-en-toch-66-hoger-chapeau-Ahold.aspx",
     "intro": "De AEX sluit zojuist 1,3% hoger op 1.136 punten en daarmee doet Amsterdam volop mee aan de Europese beursrally.",
     "published_at": "2026-11-04 17:35",
-    "scraped_at": "2026-11-04T18:14:36.290587"
+    "scraped_at": "2026-11-04T23:47:53.171436"
   },
   {
     "id": "f6bd5e06f1c4a9be8d5c9d9736015182",
@@ -42,51 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/883965/Beursblik-Jefferies-verlaagt-koersdoel-Alfen.aspx",
     "intro": "Jefferies heeft woensdagmiddag het koersdoel voor Alfen verlaagd van 14,00 naar 12,00 euro met een onveranderd Houden advies. Dit bleek uit een rapport van analist David Kerstens.",
     "published_at": "2026-11-04 17:20",
-    "scraped_at": "2026-11-04T18:14:36.290587"
-  },
-  {
-    "id": "2e0c395c950e8062fcc8a9fa7dc522d7",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden dalen opnieuw",
-    "link": "https://www.beurs.nl/Nieuws/883960/Amerikaanse-olievoorraden-dalen-opnieuw.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week opnieuw gedaald, terwijl ook de benzinevoorraden licht afnamen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-11-04 16:42",
-    "scraped_at": "2026-11-04T18:14:36.290587"
-  },
-  {
-    "id": "47af3f9884d9d351f91210b4c3901b68",
-    "categorie": "Beursnieuws",
-    "titel": "ABN AMRO krijgt deels gelijk in zaak over Europees bankenfonds",
-    "link": "https://www.beurs.nl/Nieuws/883958/ABN-AMRO-krijgt-deels-gelijk-in-zaak-over-Europees-bankenfonds.aspx",
-    "intro": "ABN AMRO heeft in een rechtszaak over zijn bijdrage aan een Europees noodfonds voor banken deels gelijk gekregen. Dat heeft het Gerecht van de Europese Unie woensdag bepaald. Toch pakt de uitspraak financieel nadelig uit voor de bank.",
-    "published_at": "2026-11-04 16:30",
-    "scraped_at": "2026-11-04T18:14:36.290587"
-  },
-  {
-    "id": "47c28d99c2aa99077d270037b0214f30",
-    "categorie": "Beursnieuws",
-    "titel": "ISM: Amerikaanse dienstensector groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/883957/ISM-Amerikaanse-dienstensector-groeit-minder-hard.aspx",
-    "intro": "De activiteit in de Amerikaanse dienstensector is in oktober minder hard gegroeid. Dit bleek woensdag uit cijfers van het Institute for Supply Management.",
-    "published_at": "2026-11-04 16:18",
-    "scraped_at": "2026-11-04T18:14:36.290587"
-  },
-  {
-    "id": "1687cec1bc30a06fcb8d7f783170b172",
-    "categorie": "Beursnieuws",
-    "titel": "S&P Global: sterke groei Amerikaanse dienstensector houdt aan",
-    "link": "https://www.beurs.nl/Nieuws/883952/SP-Global-sterke-groei-Amerikaanse-dienstensector-houdt-aan.aspx",
-    "intro": "De groei van de Amerikaanse dienstensector hield in oktober in een sterk tempo aan. De instroom van nieuwe orders steeg opnieuw scherp door berichten over een positieve marktvraag, en bedrijven bleven in merkbare mate extra personeel aannemen. Dit bleek woensdag uit definitieve cijfers van SP Global.",
-    "published_at": "2026-11-04 16:00",
-    "scraped_at": "2026-11-04T18:14:36.290587"
-  },
-  {
-    "id": "ef048325c82608395e947a6012cee1cc",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/883948/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 12 november 2026:",
-    "published_at": "2026-11-04 15:52",
-    "scraped_at": "2026-11-04T18:14:36.290587"
+    "scraped_at": "2026-11-04T23:47:53.171436"
   }
 ]
