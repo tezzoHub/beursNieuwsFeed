@@ -1,92 +1,92 @@
 [
   {
-    "id": "bc48533b09f7ef9673e5fe4363eb6711",
+    "id": "210768e246951038b99f2ffafcfa36d5",
     "categorie": "Beursnieuws",
-    "titel": "Rheinmetall keldert op groene Europese beurzen",
-    "link": "https://www.beurs.nl/Nieuws/884082/Rheinmetall-keldert-op-groene-Europese-beurzen.aspx",
-    "intro": "De Europese beurzen stonden donderdag rond het middaguur hoger, nadat de verkiezingsuitslag in de Verenigde Staten de markten duidelijkheid bood.",
-    "published_at": "2026-11-05 12:22",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "titel": "Wall Street kleurt donkerrood",
+    "link": "https://www.beurs.nl/Nieuws/884160/Wall-Street-kleurt-donkerrood.aspx",
+    "intro": "De Amerikaanse beurzen noteerden donderdag flink lager, terwijl beleggers nog steeds de uitslag van de tussentijdse verkiezingen in de VS verwerkten en chipaandelen duidelijk de gebeten hond waren.",
+    "published_at": "2026-11-05 19:43",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "9e4af42d841303a1e648a6afd2bd99d8",
+    "id": "11a759e03c0abaf4dd320eb0e0f954dc",
     "categorie": "Beursnieuws",
-    "titel": "UBS verhoogt koersdoel DSM-Firmenich",
-    "link": "https://www.beurs.nl/Nieuws/884079/UBS-verhoogt-koersdoel-DSM-Firmenich.aspx",
-    "intro": "UBS heeft het koersdoel voor DSM-Firmenich verhoogd van 104,00 naar 125,00 euro, na de kwartaalcijfers van woensdag. Dit bleek uit een analistenrapport van de Zwitserse bank.",
-    "published_at": "2026-11-05 11:55",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "titel": "Beursblik: Euronext blijft beloftes inlossen",
+    "link": "https://www.beurs.nl/Nieuws/884159/Beursblik-Euronext-blijft-beloftes-inlossen.aspx",
+    "intro": "Euronext levert precies wat beleggers willen. Dit stelden analisten van Jefferies, nadat het beursbedrijf donderdagavond met cijfers over het derde kwartaal kwam.",
+    "published_at": "2026-11-05 19:14",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "c6d5260af21a760aa847cef728634a7d",
+    "id": "fc3a4323a7afa4b874b8bc7cf5a29402",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: opwaartse trend Euronext zet waarschijnlijk door",
-    "link": "https://www.beurs.nl/Nieuws/884074/Beursblik-opwaartse-trend-Euronext-zet-waarschijnlijk-door.aspx",
-    "intro": "Euronext heeft ook in het derde kwartaal van 2026 de omzet en winstgevendheid zien stijgen. Dit verwachten analisten die bijdroegen aan de consensus.",
-    "published_at": "2026-11-05 11:36",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "titel": "Belastingdienst oneens met belastingaangifte Bever",
+    "link": "https://www.beurs.nl/Nieuws/884156/Belastingdienst-oneens-met-belastingaangifte-Bever.aspx",
+    "intro": "Bever Holding heeft een formeel verschil van inzicht met de Belastingdienst omtrent de aangifte vennootschapsbelasting over het boekjaar 2022. Dit maakte het vastgoedfonds donderdagavond bekend.",
+    "published_at": "2026-11-05 18:42",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "47c8d97bc1081afd2a49de6a9e56f41d",
+    "id": "77e12d38e6bde70e553b3def7ff2d84c",
     "categorie": "Beursnieuws",
-    "titel": "Air France-KLM straalt op groen Damrak",
-    "link": "https://www.beurs.nl/Nieuws/884071/Air-France-KLM-straalt-op-groen-Damrak.aspx",
-    "intro": "De Amsterdamse beurs koerste donderdagochtend richting het jaarrecord, maar ondervond hierbij tegenwind van de koersverliezen bij halfgeleiders. Rond de klok van elf uur won de AEX 0,3 procent op 1.140,04 punten.",
-    "published_at": "2026-11-05 11:16",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "titel": "Europese beurzen verspelen winst terwijl AI-zorgen verder oplaaien",
+    "link": "https://www.beurs.nl/Nieuws/884155/Europese-beurzen-verspelen-winst-terwijl-AI-zorgen-verder-oplaaien.aspx",
+    "intro": "De Europese beurzen hebben donderdag hun winst verspeeld, nadat een hernieuwde uitverkoop van techaandelen Wall Street flink onder druk zette. Chipaandelen in Europa gingen ook hard onderuit, net als defensie-aandelen die reageerden op een waarschuwing van Rheinmetall.",
+    "published_at": "2026-11-05 18:36",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "e3cf0f1e72644f7975693b07ba031daf",
+    "id": "3bec1b5103014252cb15c15ccb92538c",
     "categorie": "Beursnieuws",
-    "titel": "Dure energie jaagt producentenprijzen op in de eurozone",
-    "link": "https://www.beurs.nl/Nieuws/884068/Dure-energie-jaagt-producentenprijzen-op-in-de-eurozone.aspx",
-    "intro": "De producentenprijzen in de eurozone zijn in september harder gestegen dan in de maand ervoor, door de steeds hogere energieprijzen. Dit bleek donderdag uit cijfers van Eurostat, het Europese bureau voor de statistiek.",
-    "published_at": "2026-11-05 11:13",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "titel": "Update: AEX sluit in het rood na techuitverkoop op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/884142/Update-AEX-sluit-in-het-rood-na-techuitverkoop-op-Wall-Street.aspx",
+    "intro": "De Amsterdamse beurs is donderdag uiteindelijk toch in de min geëindigd. Dat was voor een belangrijk deel te wijten aan de rode cijfers op Wall Street en stevige koersverliezen bij de halfgeleiders. Beleggers zochten liever hun heil in meer traditionele hoeken van de markt.",
+    "published_at": "2026-11-05 18:06",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "05f3cb4303477d4e9f9bef05a2a09f15",
+    "id": "5a5fae3e002b0d7368804cb947fed8f9",
     "categorie": "Beursnieuws",
-    "titel": "Degroof Petercam verhoogt koersdoel IMCD",
-    "link": "https://www.beurs.nl/Nieuws/884061/Degroof-Petercam-verhoogt-koersdoel-IMCD.aspx",
-    "intro": "Degroof Petercam heeft het koersdoel voor IMCD verhoogd van 115 naar 125 euro, met handhaving van het Houden advies, na de kwartaalcijfers die conform verwachting waren. Dit bleek donderdag uit een rapport van analist Luuk van Beek.",
-    "published_at": "2026-11-05 10:33",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "titel": "Sterkste kwartaal voor Euronext sinds beursgang",
+    "link": "https://www.beurs.nl/Nieuws/884144/Sterkste-kwartaal-voor-Euronext-sinds-beursgang.aspx",
+    "intro": "Euronext heeft in het derde kwartaal van 2026 de omzet en winstgevendheid opnieuw zien stijgen. Dit bleek donderdagavond uit de resultaten van de beursuitbater, waarbij ook een nieuw aandeleninkoopprogramma werd aangekondigd.",
+    "published_at": "2026-11-05 18:01",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "4806305b5defc0268c0d8d0c7063fb96",
+    "id": "3101dff7d4e36b2f31f478a9d35da4c3",
     "categorie": "Beursnieuws",
-    "titel": "\"Air France-KLM verslaat verwachtingen fors\"",
-    "link": "https://www.beurs.nl/Nieuws/884058/Air-France-KLM-verslaat-verwachtingen-fors.aspx",
-    "intro": "Air France-KLM heeft in het derde kwartaal van dit jaar de verwachtingen ruimschoots overtroffen. Dit oordeelden analisten van Citi Research donderdag in een rapport.",
-    "published_at": "2026-11-05 10:22",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "titel": "Beursupdate: Nasdaq in correctie",
+    "link": "https://www.beurs.nl/Nieuws/884132/Beursupdate-Nasdaq-in-correctie.aspx",
+    "intro": "De Amerikaanse beurzen stonden donderdagmiddag stevig onder druk.",
+    "published_at": "2026-11-05 17:16",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "d017fabb65d1f48c05502c0faa87fd92",
-    "categorie": "Beursnieuws",
-    "titel": "Noorse centrale bank handhaaft rente",
-    "link": "https://www.beurs.nl/Nieuws/884057/Noorse-centrale-bank-handhaaft-rente.aspx",
-    "intro": "De Noorse centrale bank heeft donderdag de rente gehandhaafd op 4,50 procent, nadat de rente bij de vorige vergadering nog met 25 basispunten werd verhoogd. Dit bleek vanochtend uit een persbericht van de Norges Bank.",
-    "published_at": "2026-11-05 10:15",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "id": "d1beaf4ec9a9fcb3edd264f5485c0ebb",
+    "categorie": "Beleggen",
+    "titel": "Infrastructuur: de onmisbare schakel tussen duurzame ambitie en realiteit",
+    "link": "https://www.ieximpact.nl/artikel/884069/Infrastructuur-de-onmisbare-schakel-tussen-duurzame-ambitie-en-realiteit.aspx",
+    "intro": "De noodzaak om onze wereld te verduurzamen is groter dan ooit, maar achter de grote ambities schuilt een weerbarstige realiteit: onze huidige infrastructuur is simpelweg niet ontworpen voor de toekomst. Om de transitie te laten slagen, is een gigantische golf van kapitaal nodig om verouderde systemen te vernieuwen en te verduurzamen, schrijft duurzaamheidsanalist Guirec Thouement bij Allianz Global Investors. En ja, dat biedt beleggingskansen.",
+    "published_at": "2026-11-05 16:45",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "09bc87c45d62b980c99da58f36966a76",
-    "categorie": "Must read",
-    "titel": "Must read: Amerikaanse verkiezingsuitslag doet de beurs goed",
-    "link": "https://www.iex.nl/artikel/883598/Must-read-Amerikaanse-verkiezingsuitslag-doet-de-beurs-goed.aspx",
-    "intro": "Plus: wat de blue wave betekent voor beleggers, gelijk hebben leidt tot slechte beursresultaten, KOSPI in vrije val, steeds minder particuliere verhuurders en meer.",
-    "published_at": "2026-11-05 10:10",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "id": "12141bc0e5c76d3899af918faef8bb3f",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/884124/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 13 november 2026:",
+    "published_at": "2026-11-05 16:33",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   },
   {
-    "id": "089639583a086dd302545e88fd2a1245",
+    "id": "bba6ebd5363b4ac9daf805a33fb65288",
     "categorie": "Beursnieuws",
-    "titel": "Krimp in Franse industriële productie",
-    "link": "https://www.beurs.nl/Nieuws/884053/Krimp-in-Franse-industriele-productie.aspx",
-    "intro": "De Franse industriële productie is in september gedaald tot het laagste niveau sinds mei 2025. Dit bleek donderdag uit cijfers van het Franse statistiekbureau Insee.",
-    "published_at": "2026-11-05 09:57",
-    "scraped_at": "2026-11-05T11:37:43.493087"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/884125/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 13 november 2026:",
+    "published_at": "2026-11-05 16:33",
+    "scraped_at": "2026-11-05T19:02:58.763040"
   }
 ]
