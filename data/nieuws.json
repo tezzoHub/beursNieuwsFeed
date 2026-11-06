@@ -1,12 +1,75 @@
 [
   {
+    "id": "a73d09b2e7570ecd7326584f04333a5b",
+    "categorie": "Beursnieuws",
+    "titel": "Airbnb overtreft verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/884176/Airbnb-overtreft-verwachtingen.aspx",
+    "intro": "Airbnb heeft in het derde kwartaal de winst- en omzetverwachting verslagen. Dit bleek donderdagavond uit de kwartaalcijfers van het Amerikaanse vakantieverhuurbedrijf.",
+    "published_at": "2026-11-05 23:15",
+    "scraped_at": "2026-11-06T00:26:19.645891"
+  },
+  {
+    "id": "d54be55ea744794e9ba0b3daccbd0fe4",
+    "categorie": "Beursnieuws",
+    "titel": "AMG verhoogt outlook opnieuw",
+    "link": "https://www.beurs.nl/Nieuws/884173/AMG-verhoogt-outlook-opnieuw.aspx",
+    "intro": "AMG Critical Materials heeft in het derde kwartaal van 2026 een hogere omzet geboekt, terwijl de winst ook verbeterde. Dit bleek donderdagavond laat uit de cijfers van het bedrijf, waarbij ook de outlook opnieuw werd verhoogd.",
+    "published_at": "2026-11-05 23:09",
+    "scraped_at": "2026-11-06T00:26:19.645891"
+  },
+  {
+    "id": "4bd35ee470366820bd62e1b995f36d53",
+    "categorie": "Beursnieuws",
+    "titel": "Lyft weet verlies sterk terug te dringen",
+    "link": "https://www.beurs.nl/Nieuws/884172/Lyft-weet-verlies-sterk-terug-te-dringen.aspx",
+    "intro": "Lyft heeft in het derde kwartaal meer ritten uitgevoerd, terwijl het aantal boekingen steeg en de taxidienst ook meer actieve gebruikers had. Dit bleek donderdagavond uit de cijfers van het Amerikaanse bedrijf.",
+    "published_at": "2026-11-05 22:53",
+    "scraped_at": "2026-11-06T00:26:19.645891"
+  },
+  {
+    "id": "f6ec5b83b07662e4077545cb47501863",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/884170/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag alle acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-11-05 22:20",
+    "scraped_at": "2026-11-06T00:26:19.645891"
+  },
+  {
+    "id": "ccc1a014ecc5670faae553d669e83044",
+    "categorie": "Beursnieuws",
+    "titel": "Nasdaq belandt in correctie te midden van AI-vrees op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/884169/Nasdaq-belandt-in-correctie-te-midden-van-AI-vrees-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdag hard onderuit gegaan, na een forse uitverkoop van AI-aandelen.",
+    "published_at": "2026-11-05 22:15",
+    "scraped_at": "2026-11-06T00:26:19.645891"
+  },
+  {
+    "id": "9de167f2c8edeefcf34ffc8123579d61",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen veren op",
+    "link": "https://www.beurs.nl/Nieuws/884164/Olieprijzen-veren-op.aspx",
+    "intro": "De WTI-olieprijs is donderdag deels hersteld van de uitverkoop een dag eerder.",
+    "published_at": "2026-11-05 21:07",
+    "scraped_at": "2026-11-06T00:26:19.645891"
+  },
+  {
+    "id": "553e5b2eacab09fa0babbad9cec10a24",
+    "categorie": "Beursnieuws",
+    "titel": "Mexico verlaagt rente",
+    "link": "https://www.beurs.nl/Nieuws/884163/Mexico-verlaagt-rente.aspx",
+    "intro": "De centrale bank in Mexico heeft de rente donderdag met 25 basispunten verlaagd tot 6,25 procent.",
+    "published_at": "2026-11-05 20:33",
+    "scraped_at": "2026-11-06T00:26:19.645891"
+  },
+  {
     "id": "210768e246951038b99f2ffafcfa36d5",
     "categorie": "Beursnieuws",
     "titel": "Wall Street kleurt donkerrood",
     "link": "https://www.beurs.nl/Nieuws/884160/Wall-Street-kleurt-donkerrood.aspx",
     "intro": "De Amerikaanse beurzen noteerden donderdag flink lager, terwijl beleggers nog steeds de uitslag van de tussentijdse verkiezingen in de VS verwerkten en chipaandelen duidelijk de gebeten hond waren.",
     "published_at": "2026-11-05 19:43",
-    "scraped_at": "2026-11-05T19:02:58.763040"
+    "scraped_at": "2026-11-06T00:26:19.645891"
   },
   {
     "id": "11a759e03c0abaf4dd320eb0e0f954dc",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/884159/Beursblik-Euronext-blijft-beloftes-inlossen.aspx",
     "intro": "Euronext levert precies wat beleggers willen. Dit stelden analisten van Jefferies, nadat het beursbedrijf donderdagavond met cijfers over het derde kwartaal kwam.",
     "published_at": "2026-11-05 19:14",
-    "scraped_at": "2026-11-05T19:02:58.763040"
+    "scraped_at": "2026-11-06T00:26:19.645891"
   },
   {
     "id": "fc3a4323a7afa4b874b8bc7cf5a29402",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/884156/Belastingdienst-oneens-met-belastingaangifte-Bever.aspx",
     "intro": "Bever Holding heeft een formeel verschil van inzicht met de Belastingdienst omtrent de aangifte vennootschapsbelasting over het boekjaar 2022. Dit maakte het vastgoedfonds donderdagavond bekend.",
     "published_at": "2026-11-05 18:42",
-    "scraped_at": "2026-11-05T19:02:58.763040"
-  },
-  {
-    "id": "77e12d38e6bde70e553b3def7ff2d84c",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen verspelen winst terwijl AI-zorgen verder oplaaien",
-    "link": "https://www.beurs.nl/Nieuws/884155/Europese-beurzen-verspelen-winst-terwijl-AI-zorgen-verder-oplaaien.aspx",
-    "intro": "De Europese beurzen hebben donderdag hun winst verspeeld, nadat een hernieuwde uitverkoop van techaandelen Wall Street flink onder druk zette. Chipaandelen in Europa gingen ook hard onderuit, net als defensie-aandelen die reageerden op een waarschuwing van Rheinmetall.",
-    "published_at": "2026-11-05 18:36",
-    "scraped_at": "2026-11-05T19:02:58.763040"
-  },
-  {
-    "id": "3bec1b5103014252cb15c15ccb92538c",
-    "categorie": "Beursnieuws",
-    "titel": "Update: AEX sluit in het rood na techuitverkoop op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/884142/Update-AEX-sluit-in-het-rood-na-techuitverkoop-op-Wall-Street.aspx",
-    "intro": "De Amsterdamse beurs is donderdag uiteindelijk toch in de min geëindigd. Dat was voor een belangrijk deel te wijten aan de rode cijfers op Wall Street en stevige koersverliezen bij de halfgeleiders. Beleggers zochten liever hun heil in meer traditionele hoeken van de markt.",
-    "published_at": "2026-11-05 18:06",
-    "scraped_at": "2026-11-05T19:02:58.763040"
-  },
-  {
-    "id": "5a5fae3e002b0d7368804cb947fed8f9",
-    "categorie": "Beursnieuws",
-    "titel": "Sterkste kwartaal voor Euronext sinds beursgang",
-    "link": "https://www.beurs.nl/Nieuws/884144/Sterkste-kwartaal-voor-Euronext-sinds-beursgang.aspx",
-    "intro": "Euronext heeft in het derde kwartaal van 2026 de omzet en winstgevendheid opnieuw zien stijgen. Dit bleek donderdagavond uit de resultaten van de beursuitbater, waarbij ook een nieuw aandeleninkoopprogramma werd aangekondigd.",
-    "published_at": "2026-11-05 18:01",
-    "scraped_at": "2026-11-05T19:02:58.763040"
-  },
-  {
-    "id": "3101dff7d4e36b2f31f478a9d35da4c3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: Nasdaq in correctie",
-    "link": "https://www.beurs.nl/Nieuws/884132/Beursupdate-Nasdaq-in-correctie.aspx",
-    "intro": "De Amerikaanse beurzen stonden donderdagmiddag stevig onder druk.",
-    "published_at": "2026-11-05 17:16",
-    "scraped_at": "2026-11-05T19:02:58.763040"
-  },
-  {
-    "id": "d1beaf4ec9a9fcb3edd264f5485c0ebb",
-    "categorie": "Beleggen",
-    "titel": "Infrastructuur: de onmisbare schakel tussen duurzame ambitie en realiteit",
-    "link": "https://www.ieximpact.nl/artikel/884069/Infrastructuur-de-onmisbare-schakel-tussen-duurzame-ambitie-en-realiteit.aspx",
-    "intro": "De noodzaak om onze wereld te verduurzamen is groter dan ooit, maar achter de grote ambities schuilt een weerbarstige realiteit: onze huidige infrastructuur is simpelweg niet ontworpen voor de toekomst. Om de transitie te laten slagen, is een gigantische golf van kapitaal nodig om verouderde systemen te vernieuwen en te verduurzamen, schrijft duurzaamheidsanalist Guirec Thouement bij Allianz Global Investors. En ja, dat biedt beleggingskansen.",
-    "published_at": "2026-11-05 16:45",
-    "scraped_at": "2026-11-05T19:02:58.763040"
-  },
-  {
-    "id": "12141bc0e5c76d3899af918faef8bb3f",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/884124/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 13 november 2026:",
-    "published_at": "2026-11-05 16:33",
-    "scraped_at": "2026-11-05T19:02:58.763040"
-  },
-  {
-    "id": "bba6ebd5363b4ac9daf805a33fb65288",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/884125/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 13 november 2026:",
-    "published_at": "2026-11-05 16:33",
-    "scraped_at": "2026-11-05T19:02:58.763040"
+    "scraped_at": "2026-11-06T00:26:19.645891"
   }
 ]
