@@ -1,12 +1,30 @@
 [
   {
+    "id": "7978d8985639f00ef716625edb08563d",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/884350/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn vrijdag alle acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-11-06 22:16",
+    "scraped_at": "2026-11-07T00:50:06.691554"
+  },
+  {
+    "id": "44b03ff4f600e7205440c8bbd2f64d79",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street herstelt na AI-uitverkoop",
+    "link": "https://www.beurs.nl/Nieuws/884349/Wall-Street-herstelt-na-AI-uitverkoop.aspx",
+    "intro": "De Amerikaanse beurzen zijn vrijdag overwegend hoger geëindigd, maar op weekbasis resteerden verliezen van gemiddeld 3 procent voor de SP 500 en Nasdaq na de uitverkoop van tech- en AI-aandelen in reactie op de uitslag van de \"midterms\" in de VS.",
+    "published_at": "2026-11-06 22:10",
+    "scraped_at": "2026-11-07T00:50:06.691554"
+  },
+  {
     "id": "f0728aaba14d8c6f1ce84dd1d99bb2fa",
     "categorie": "Beursnieuws",
     "titel": "Forse daling olieprijzen na midterms",
     "link": "https://www.beurs.nl/Nieuws/884348/Forse-daling-olieprijzen-na-midterms.aspx",
     "intro": "De WTI-olieprijs is vrijdag gestabiliseerd aan het einde van een week waarin de olieprijzen hard daalden na de \"midterms\" in de VS.",
     "published_at": "2026-11-06 21:12",
-    "scraped_at": "2026-11-06T20:58:40.912021"
+    "scraped_at": "2026-11-07T00:50:06.691554"
   },
   {
     "id": "907ccbd183f99929e138908467a16155",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/884347/Consumentenkrediet-VS-stijgt-veel-harder.aspx",
     "intro": "Het consumentenkrediet in de Verenigde Staten is in september veel harder gestegen dan in de maand ervoor. Dit maakte de Federal Reserve vrijdagavond bekend.",
     "published_at": "2026-11-06 21:06",
-    "scraped_at": "2026-11-06T20:58:40.912021"
+    "scraped_at": "2026-11-07T00:50:06.691554"
   },
   {
     "id": "f3e700302f8c990e609de8097f1cdd84",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/884344/Wall-Street-koerst-hoger.aspx",
     "intro": "De Amerikaanse beurzen noteerden vrijdag overwegend hoger, na de uitverkoop van tech- en AI-aandelen een dag eerder. Verder was er vanmiddag aandacht voor het Amerikaanse banenrapport dat veel sterker was dan verwacht.",
     "published_at": "2026-11-06 19:39",
-    "scraped_at": "2026-11-06T20:58:40.912021"
+    "scraped_at": "2026-11-07T00:50:06.691554"
   },
   {
     "id": "2c2d81caef8126a7dca60fb2cc01bc7a",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/884336/Europese-beurzen-onderuit-na-AI-verkoopgolf.aspx",
     "intro": "De Europese beurzen zijn vrijdag onderuit gegaan, na de verkoopgolf van AI-aandelen op Wall Street donderdag. Wel sloten de indices boven het dieptepunt van de dag.",
     "published_at": "2026-11-06 18:36",
-    "scraped_at": "2026-11-06T20:58:40.912021"
+    "scraped_at": "2026-11-07T00:50:06.691554"
   },
   {
     "id": "aa80c8dd811d7007dc83b9a525b94cbf",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/884335/Euronext-meldt-hogere-volumes.aspx",
     "intro": "De handelsvolumes van contante effecten op Euronext zijn in oktober gestegen, maar minder hard dan in september. Dit maakte de Europese beursuitbater vrijdagavond bekend.",
     "published_at": "2026-11-06 18:04",
-    "scraped_at": "2026-11-06T20:58:40.912021"
+    "scraped_at": "2026-11-07T00:50:06.691554"
   },
   {
     "id": "d710a50c1f875da1623c62ded3c9d59f",
@@ -51,7 +69,7 @@
     "link": "https://www.iex.nl/artikel/884321/Slotcall-AEX-daalt-verder-chipherstel-valt-toch-wat-tegen.aspx",
     "intro": "",
     "published_at": "2026-11-06 17:50",
-    "scraped_at": "2026-11-06T20:58:40.912021"
+    "scraped_at": "2026-11-07T00:50:06.691554"
   },
   {
     "id": "f63bb410af264940159b66a20419ac14",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/884331/AEX-sluit-turbulente-week-lager-af.aspx",
     "intro": "De Amsterdamse beurs is vrijdag lager gesloten, ondanks dat de chippers een voorzichtige herstelpoging waagden.",
     "published_at": "2026-11-06 17:49",
-    "scraped_at": "2026-11-06T20:58:40.912021"
+    "scraped_at": "2026-11-07T00:50:06.691554"
   },
   {
     "id": "37479474b8a0a01ac817e676adcd5524",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/884332/Beursblik-Mistral-AI-helpt-ASML-beter-te-presteren.aspx",
     "intro": "ASML presteert beter dankzij de technologie van Mistral AI. Dit concludeerde analist Janardan Menon van Jefferies vrijdag in een rapport.",
     "published_at": "2026-11-06 17:48",
-    "scraped_at": "2026-11-06T20:58:40.912021"
-  },
-  {
-    "id": "1c5e555ecc0239401d02c5580ccd25cc",
-    "categorie": "Beursnieuws",
-    "titel": "Brussel keurt fusie tussen AkzoNobel en Axalta voorwaardelijk goed",
-    "link": "https://www.beurs.nl/Nieuws/884327/Brussel-keurt-fusie-tussen-AkzoNobel-en-Axalta-voorwaardelijk-goed.aspx",
-    "intro": "De Europese Commissie gaat voorwaardelijk akkoord met de voorgenomen fusie tussen de coatingfabrikanten AkzoNobel en Axalta. Dit meldde de toezichthouder van de Europese Unie vrijdagmiddag.",
-    "published_at": "2026-11-06 17:43",
-    "scraped_at": "2026-11-06T20:58:40.912021"
-  },
-  {
-    "id": "f30b7de4c9aaabd68f84ef87f69ff57f",
-    "categorie": "Beursnieuws",
-    "titel": "Media: techcorrectie raakt ook waardering Anthropic",
-    "link": "https://www.beurs.nl/Nieuws/884326/Media-techcorrectie-raakt-ook-waardering-Anthropic.aspx",
-    "intro": "De wereldwijde druk op techaandelen is niet gunstig voor Anthropic, dat mogelijk nog deze maand een beursnotering wil.",
-    "published_at": "2026-11-06 17:02",
-    "scraped_at": "2026-11-06T20:58:40.912021"
+    "scraped_at": "2026-11-07T00:50:06.691554"
   }
 ]
