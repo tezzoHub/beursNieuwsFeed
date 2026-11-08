@@ -1,47 +1,20 @@
 [
   {
-    "id": "e65e495e7fc5e0fc1553f7964c8dc1f9",
+    "id": "ed54fb303aa9a08126e4a14204ea8991",
     "categorie": "Beursnieuws",
-    "titel": "Damrak kent turbulent begin van november",
-    "link": "https://www.beurs.nl/Nieuws/884361/Damrak-kent-turbulent-begin-van-november.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week gedaald, terwijl techaandelen hard onderuit gingen.",
-    "published_at": "2026-11-07 18:42",
-    "scraped_at": "2026-11-08T08:01:09.539478"
+    "titel": "Focus op inflatiecijfers en chippers",
+    "link": "https://www.beurs.nl/Nieuws/884368/Focus-op-inflatiecijfers-en-chippers.aspx",
+    "intro": "Na een enerverende beursweek die in het teken stond van de Amerikaanse 'midterms', die resulteerde in een verkoopgolf van techaandelen nadat de Democraten glansrijk wonnen, is het komende week wat rustiger.",
+    "published_at": "2026-11-08 12:15",
+    "scraped_at": "2026-11-08T15:24:56.831551"
   },
   {
-    "id": "8aa5d96a0d077bdd1e3466660bbe26a8",
+    "id": "7a3e064c641fa7227e770c4d40347e53",
     "categorie": "Beursnieuws",
-    "titel": "Minder winst voor Berkshire Hathaway",
-    "link": "https://www.beurs.nl/Nieuws/884360/Minder-winst-voor-Berkshire-Hathaway.aspx",
-    "intro": "Berkshire Hathaway heeft in het derde kwartaal een lagere winst geboekt, terwijl de inkomsten uit de verzekeringsactiviteiten en beleggingen bij de grote verzekeringsdivisies daalden. Dit bleek zaterdag uit de resultaten van het Amerikaanse investeringvehikel.",
-    "published_at": "2026-11-07 14:36",
-    "scraped_at": "2026-11-08T08:01:09.539478"
-  },
-  {
-    "id": "14bcd81d715793bcd1c487df1897f4b8",
-    "categorie": "Beursnieuws",
-    "titel": "Alleen Knot en Hernández de Cos in de running om Lagarde op te volgen",
-    "link": "https://www.beurs.nl/Nieuws/884357/Alleen-Knot-en-Hernandez-de-Cos-in-de-running-om-Lagarde-op-te-volgen.aspx",
-    "intro": "De Eurogroep heeft twee sollicitaties ontvangen voor de opvolging van Christine Lagarde als voorzitter van de Europese Centrale Bank. Dit werd vrijdag bevestigd.",
-    "published_at": "2026-11-07 13:36",
-    "scraped_at": "2026-11-08T08:01:09.539478"
-  },
-  {
-    "id": "80ad3867a1cbf8b42a6d1b27d1917f8f",
-    "categorie": "Beursnieuws",
-    "titel": "Media: Anthropic zet beursgang door ondanks techmalaise",
-    "link": "https://www.beurs.nl/Nieuws/884356/Media-Anthropic-zet-beursgang-door-ondanks-techmalaise.aspx",
-    "intro": "Anthropic mikt nog steeds op een beursgang vóór Thanksgiving, zelfs nu een meedogenloze verkoopgolf in de technologiesector de markten op hun kop zet. Dit meldde de Financial Times vrijdagavond op basis van bronnen.",
-    "published_at": "2026-11-07 12:50",
-    "scraped_at": "2026-11-08T08:01:09.539478"
-  },
-  {
-    "id": "179fe17a5305e51fbf2867537350bc35",
-    "categorie": "",
-    "titel": "Vooruitblik: uitgerekend nu komen hypervolatiele neoclouds met cijfers",
-    "link": "https://www.iex.nl/artikel/883532/Vooruitblik-uitgerekend-nu-komen-hypervolatiele-neoclouds-met-cijfers.aspx",
-    "intro": "",
-    "published_at": "2026-11-07 12:30",
-    "scraped_at": "2026-11-08T08:01:09.539478"
+    "titel": "Chippers afgestraft op Damrak door hernieuwde AI-vrees",
+    "link": "https://www.beurs.nl/Nieuws/884366/Chippers-afgestraft-op-Damrak-door-hernieuwde-AI-vrees.aspx",
+    "intro": "De Amsterdamse beurs stond afgelopen week onder druk, terwijl de halfgeleideraandelen werden afgestraft na de uitslag van de Amerikaanse 'midterms' die werden gewonnen door de Democraten. In reactie daarop namen de AI-zorgen weer toe, omdat wordt gevreesd voor een strengere regulering.",
+    "published_at": "2026-11-08 11:00",
+    "scraped_at": "2026-11-08T15:24:56.831551"
   }
 ]
