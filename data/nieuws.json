@@ -1,20 +1,92 @@
 [
   {
-    "id": "ed54fb303aa9a08126e4a14204ea8991",
+    "id": "06909851509146a27268457b8f5bc80b",
     "categorie": "Beursnieuws",
-    "titel": "Focus op inflatiecijfers en chippers",
-    "link": "https://www.beurs.nl/Nieuws/884368/Focus-op-inflatiecijfers-en-chippers.aspx",
-    "intro": "Na een enerverende beursweek die in het teken stond van de Amerikaanse 'midterms', die resulteerde in een verkoopgolf van techaandelen nadat de Democraten glansrijk wonnen, is het komende week wat rustiger.",
-    "published_at": "2026-11-08 12:15",
-    "scraped_at": "2026-11-09T03:01:27.030259"
+    "titel": "Europese beurzen veren op",
+    "link": "https://www.beurs.nl/Nieuws/884466/Europese-beurzen-veren-op.aspx",
+    "intro": "De Europese beurzen noteerden maandag rond het middaguur hoger, na twee dagen met verliezen. De olieprijs liep terug, terwijl banken en technologieaandelen herstelden van de tumultueuze handel van vorige week.",
+    "published_at": "2026-11-09 12:40",
+    "scraped_at": "2026-11-09T11:52:54.386234"
   },
   {
-    "id": "7a3e064c641fa7227e770c4d40347e53",
+    "id": "650903c91991020ef3ae246ce6407235",
     "categorie": "Beursnieuws",
-    "titel": "Chippers afgestraft op Damrak door hernieuwde AI-vrees",
-    "link": "https://www.beurs.nl/Nieuws/884366/Chippers-afgestraft-op-Damrak-door-hernieuwde-AI-vrees.aspx",
-    "intro": "De Amsterdamse beurs stond afgelopen week onder druk, terwijl de halfgeleideraandelen werden afgestraft na de uitslag van de Amerikaanse 'midterms' die werden gewonnen door de Democraten. In reactie daarop namen de AI-zorgen weer toe, omdat wordt gevreesd voor een strengere regulering.",
-    "published_at": "2026-11-08 11:00",
-    "scraped_at": "2026-11-09T03:01:27.030259"
+    "titel": "Beursblik: ASML en ASMI koopwaardig maar pas op met Besi",
+    "link": "https://www.beurs.nl/Nieuws/884467/Beursblik-ASML-en-ASMI-koopwaardig-maar-pas-op-met-Besi.aspx",
+    "intro": "De aandelen ASML en ASMI behoren nog altijd tot de favoriete Europese halfgeleideraandelen van Bank of America, dat waarschuwt om voorzichtig te zijn met BE Semiconductor Industries. Dit bleek maandag uit een analistenrapport van de Amerikaanse bank.",
+    "published_at": "2026-11-09 12:40",
+    "scraped_at": "2026-11-09T11:52:54.386234"
+  },
+  {
+    "id": "519748df89e9878ba8dcb31efcbffa6c",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Crédit Agricole oppert fusie Italiaanse tak met Banco BPM",
+    "link": "https://www.beurs.nl/Nieuws/884454/Media-Credit-Agricole-oppert-fusie-Italiaanse-tak-met-Banco-BPM.aspx",
+    "intro": "De Franse bank Crédit Agricole heeft zijn Italiaanse tegenhanger Banco BPM voorgesteld om de Italiaanse activiteiten van de Franse bank te fuseren met de Italiaanse bank, zonder dat er sprake is van een overnamebod. Dat meldde Franse bank maandagochtend, waarna de aandelenkoers van de Banco BPM fors steeg.",
+    "published_at": "2026-11-09 11:18",
+    "scraped_at": "2026-11-09T11:52:54.386234"
+  },
+  {
+    "id": "e484a36cc4f911ab8dff6a4146ff37ec",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers en financials aan kop in AEX",
+    "link": "https://www.beurs.nl/Nieuws/884448/Chippers-en-financials-aan-kop-in-AEX.aspx",
+    "intro": "De Amsterdamse beurs noteerde maandag richting het einde van de ochtend licht hoger, aangevoerd door de chippers en bankaandelen.",
+    "published_at": "2026-11-09 10:50",
+    "scraped_at": "2026-11-09T11:52:54.386234"
+  },
+  {
+    "id": "7ec44ba52af5017f9bbb906c68a49361",
+    "categorie": "Beursnieuws",
+    "titel": "Heerema verlengt samenwerking met Fugro",
+    "link": "https://www.beurs.nl/Nieuws/884447/Heerema-verlengt-samenwerking-met-Fugro.aspx",
+    "intro": "Heerema Marine Contractors heeft de samenwerking met Fugro verlengd met vier jaar tot en met 2030. Dit maakte Fugro maandagochtend bekend.",
+    "published_at": "2026-11-09 10:46",
+    "scraped_at": "2026-11-09T11:52:54.386234"
+  },
+  {
+    "id": "7338b912f4aa1a0220acfc88d82e4ea2",
+    "categorie": "Must read",
+    "titel": "Must read: Tech-correctie is niet het einde van het AI-thema",
+    "link": "https://www.iex.nl/artikel/884039/Must-read-Tech-correctie-is-niet-het-einde-van-het-AI-thema.aspx",
+    "intro": "Plus: pas op met obligaties, 10 Europese aandelenkoopjes, nieuwe klimaattop van start, de miljardenhack bij cryptobeurs Binance, en meer.",
+    "published_at": "2026-11-09 10:00",
+    "scraped_at": "2026-11-09T11:52:54.386234"
+  },
+  {
+    "id": "fa866196873742b9ae641f0b48d9fa45",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies: dure en twijfelachtige overname CTP",
+    "link": "https://www.beurs.nl/Nieuws/884432/Jefferies-dure-en-twijfelachtige-overname-CTP.aspx",
+    "intro": "CTP heeft een dure overname gedaan in Vietnam, met een twijfelachtige verhouding tussen risico en rendement. Dit oordeelde zakenbank Jefferies maandagochtend in reactie op het nieuws van het Nederlandse logistieke vastgoedbedrijf.",
+    "published_at": "2026-11-09 09:17",
+    "scraped_at": "2026-11-09T11:52:54.386234"
+  },
+  {
+    "id": "2c1d754ce1553fedb759bb28c13cf50a",
+    "categorie": "Beursnieuws",
+    "titel": "AEX licht lager na beursgong",
+    "link": "https://www.beurs.nl/Nieuws/884433/AEX-licht-lager-na-beursgong.aspx",
+    "intro": "De Amsterdamse beurs is maandag licht lager van start gegaan, na een turbulente handelsweek waarin vooral technologieaandelen onder druk stonden.",
+    "published_at": "2026-11-09 09:16",
+    "scraped_at": "2026-11-09T11:52:54.386234"
+  },
+  {
+    "id": "5926f4eaeaa70cf63d7d06dd80536c7d",
+    "categorie": "Beurs vandaag",
+    "titel": "Rabobank wil voor €1 miljard certificaten inkopen",
+    "link": "https://www.beurs.nl/Artikel/884427/Rabobank-wil-voor-1-miljard-certificaten-inkopen.aspx",
+    "intro": "Rabobank wil voor maximaal €1 miljard eigen Rabobank Certificaten inkopen. Met de vrijwillige terugkoop wil de bank de kapitaalstructuur efficiënter maken, aldus het persbericht dat Rabo vanmorgen uitstuurde. Certificaathouders kunnen hun stukken van 9 tot en met 20 november aanbieden.",
+    "published_at": "2026-11-09 09:00",
+    "scraped_at": "2026-11-09T11:52:54.386234"
+  },
+  {
+    "id": "8643170024f7adba6b094b438ba7e78e",
+    "categorie": "Beursnieuws",
+    "titel": "Rabobank lanceert bod op eigen certificaten",
+    "link": "https://www.beurs.nl/Nieuws/884430/Rabobank-lanceert-bod-op-eigen-certificaten.aspx",
+    "intro": "Rabobank lanceert een bod op zijn eigen certificaten ter waarde van maximaal 1 miljard euro. Dit meldde de bank maandagochtend.",
+    "published_at": "2026-11-09 08:59",
+    "scraped_at": "2026-11-09T11:52:54.386234"
   }
 ]
