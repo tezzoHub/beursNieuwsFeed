@@ -1,92 +1,92 @@
 [
   {
-    "id": "7562ec620634b65fa653ce4192c43c05",
+    "id": "5afc9b40a9a5029f0737cf7bb70cd304",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/884527/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag zes van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-11-09 23:45",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "Voorzichtige opening op Wall Street verwacht",
+    "link": "https://www.beurs.nl/Nieuws/884632/Voorzichtige-opening-op-Wall-Street-verwacht.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag verdeeld van start, maar de koersuitslagen lijken bescheiden te blijven.",
+    "published_at": "2026-11-10 13:03",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "80dc44728c5da9d5a3d793beb2b8f522",
+    "id": "507ba8ddddacde08a694a79a5bfba8ea",
     "categorie": "Beursnieuws",
-    "titel": "Hims & Hers Health scherpt prognose aan",
-    "link": "https://www.beurs.nl/Nieuws/884526/Hims-Hers-Health-scherpt-prognose-aan.aspx",
-    "intro": "Hims  Hers Health heeft zijn omzetprognose voor het volledige jaar vernauwd, nadat de omzet in het derde kwartaal lager uitviel dan verwacht. Dit bleek maandagavond uit de cijfers van het Amerikaanse gezondheidsplatform.",
-    "published_at": "2026-11-09 23:17",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "Chipsector en lagere olieprijs stuwen Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/884627/Chipsector-en-lagere-olieprijs-stuwen-Europese-beurzen.aspx",
+    "intro": "De Europese beurzen noteerden dinsdag rond het middaguur hoger, gesteund door chipfondsen en een lagere olieprijs. De oliefuture zakte tijdelijk onder 90 dollar, voor het eerst in maanden.",
+    "published_at": "2026-11-10 12:37",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "b431b6925632a1203776b46285d441d1",
+    "id": "67496d83083dd722af5525f93a2ed4bd",
     "categorie": "Beursnieuws",
-    "titel": "Skydance gaat 6 miljard dollar bezuinigen na fusiedeal",
-    "link": "https://www.beurs.nl/Nieuws/884521/Skydance-gaat-6-miljard-dollar-bezuinigen-na-fusiedeal.aspx",
-    "intro": "Skydance heeft de omzet in het derde kwartaal van 2026 zien stijgen, maar gaat ook kosten schrappen, aangezien het bedrijf na de fusie van Paramount en Warner Bros. Discovery kampt met een enorme schuldenlast als gevolg van de deal. Dit heeft het bedrijf maandag nabeurs bekendgemaakt.",
-    "published_at": "2026-11-09 22:54",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "Vertrouwen onder kleine Amerikaanse ondernemers licht afgenomen",
+    "link": "https://www.beurs.nl/Nieuws/884626/Vertrouwen-onder-kleine-Amerikaanse-ondernemers-licht-afgenomen.aspx",
+    "intro": "Het vertrouwen onder kleine Amerikaanse ondernemers is in oktober heel licht afgenomen. Dit bleek dinsdag uit cijfers van de National Federation of Independent Business (NFIB).",
+    "published_at": "2026-11-10 12:36",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "931d5c92e0dccdeb69242b37fe5bf7d3",
+    "id": "8dd41bdc503cb9f11dcd9d95179cc603",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit hoger ondanks commotie rond Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/884518/Wall-Street-sluit-hoger-ondanks-commotie-rond-Nvidia.aspx",
-    "intro": "De Amerikaanse beurzen eindigden maandag diep in het groen, na de uitverkoop van tech- en AI-aandelen vorige week. Dissonant was wel de in opspraak geraakte topman van Nvidia vanwege een affaire met een mogelijke Chinese spion.",
-    "published_at": "2026-11-09 22:13",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "Reuters: Microsoft lobbyt tegen verbod op Chinese glasvezeltechnologie",
+    "link": "https://www.beurs.nl/Nieuws/884625/Reuters-Microsoft-lobbyt-tegen-verbod-op-Chinese-glasvezeltechnologie.aspx",
+    "intro": "Microsoft dringt er bij de regering-Trump op aan de import uit China van een belangrijk onderdeel voor AI-datacenters niet te verbieden. Dit meldde Reuters dinsdag.",
+    "published_at": "2026-11-10 12:29",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "6749f780408ff8ebfbc2871abcaacb69",
+    "id": "877e841573dd9fa699dd6ccef2f66e94",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen dalen sterk na hoopvolle uitspraken Trump",
-    "link": "https://www.beurs.nl/Nieuws/884513/Olieprijzen-dalen-sterk-na-hoopvolle-uitspraken-Trump.aspx",
-    "intro": "De olieprijzen daalden maandag flink, nadat president Donald Trump tegen CNN zei dat het \"hoogst onwaarschijnlijk\" is dat de VS de aanvallen op Iran zullen hervatten als de besprekingen vorderingen blijven maken.",
-    "published_at": "2026-11-09 21:08",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "Reuters: Anthropic wil tot 64,4 miljard dollar ophalen",
+    "link": "https://www.beurs.nl/Nieuws/884615/Reuters-Anthropic-wil-tot-644-miljard-dollar-ophalen.aspx",
+    "intro": "Anthropic wil met zijn beursgang maximaal 64,4 miljard dollar ophalen. Dit meldde Reuters dinsdag op basis van de meest recente conceptversie van het prospectus, dat het persbureau heeft ingezien.",
+    "published_at": "2026-11-10 11:59",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "a8068fc5357f8e5a0c507269283eefcc",
+    "id": "8f71d499aaa64abe6cbfd3b52e0669f0",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street schudt verliezen van vorige week van zich af",
-    "link": "https://www.beurs.nl/Nieuws/884508/Wall-Street-schudt-verliezen-van-vorige-week-van-zich-af.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag overtuigend hoger, na de uitverkoop van tech- en AI-aandelen vorige week.",
-    "published_at": "2026-11-09 20:05",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "CEO Van Beurden tevreden over derde kwartaal Kendrion",
+    "link": "https://www.beurs.nl/Nieuws/884607/CEO-Van-Beurden-tevreden-over-derde-kwartaal-Kendrion.aspx",
+    "intro": "Kendrion heeft een sterk kwartaal achter de rug en zit in een positieve dynamiek, ondanks de omzetdaling bij Mobility. Dit zei CEO Joep van Beurden in gesprek met ABM Financial News.",
+    "published_at": "2026-11-10 11:25",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "57f071c2d0c613dccb523d29a66f1c0e",
+    "id": "31d6f8a6645cf174f5ca7f56450c120d",
     "categorie": "Beursnieuws",
-    "titel": "Anne de Jong benoemd als CEO NSI",
-    "link": "https://www.beurs.nl/Nieuws/884507/Anne-de-Jong-benoemd-als-CEO-NSI.aspx",
-    "intro": "NSI heeft Anne de Jong benoemd als CEO. Dit deed het vastgoedbedrijf maandag na afloop van een buitengewone aandeelhoudersvergadering.",
-    "published_at": "2026-11-09 19:36",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "Obligatie: Nederland haalt 3 miljard euro op",
+    "link": "https://www.beurs.nl/Nieuws/884605/Obligatie-Nederland-haalt-3-miljard-euro-op.aspx",
+    "intro": "De Nederlandse Staat heeft dinsdag bijna 3 miljard euro opgehaald met de heropening van een tienjarige lening. Dit meldde het agentschap van het ministerie van Financiën na afloop van de veiling.",
+    "published_at": "2026-11-10 11:24",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "b48551f099eedcdca8a7c8800f89bdf7",
+    "id": "ac5b8529890e6a2e2a3a98652296ff7b",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen herstellen krachtig",
-    "link": "https://www.beurs.nl/Nieuws/884505/Europese-beurzen-herstellen-krachtig.aspx",
-    "intro": "De Europese beurzen sloten maandag hoger, na eerdere verliezen. De olieprijs liep terug en vooral techaandelen en banken wonnen, waarmee ze herstelden van de hectiek van vorige week.",
-    "published_at": "2026-11-09 19:08",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "Lichtgroene AEX dankzij chippers en banken",
+    "link": "https://www.beurs.nl/Nieuws/884604/Lichtgroene-AEX-dankzij-chippers-en-banken.aspx",
+    "intro": "De Amsterdamse beurs noteerde dinsdagochtend licht in het groen, ondanks de koersdruk bij Shell.",
+    "published_at": "2026-11-10 11:11",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "7bdcdf1a60a882f93c58c551a8d94e45",
-    "categorie": "Beursnieuws",
-    "titel": "Theon verhoogt groeidoel middellange termijn",
-    "link": "https://www.beurs.nl/Nieuws/884504/Theon-verhoogt-groeidoel-middellange-termijn.aspx",
-    "intro": "Theon International heeft na een sterk derde kwartaal de doelstelling voor de autonome omzetgroei op middellange termijn verhoogd en de outlook voor heel 2026 bevestigd. Dit bleek maandag uit een handelsupdate van het defensiebedrijf.",
-    "published_at": "2026-11-09 18:30",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "id": "c28011351c3080f0e195d45f804526a2",
+    "categorie": "Beter Beleggen",
+    "titel": "Stop met traden op gevoel. Bouw een waterdicht tradingplan in 4 avonden",
+    "link": "https://www.beurs.nl/Artikel/884600/Stop-met-traden-op-gevoel-Bouw-een-waterdicht-tradingplan-in-4-avonden.aspx",
+    "intro": "Tijdens vier live online avonden helpen doorgewinterde beursexperts André Brouwers, Tom Brouwers en onze eigen Hildo Laman je bij het bouwen van een ijzersterk persoonlijk tradingplan.",
+    "published_at": "2026-11-10 10:50",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   },
   {
-    "id": "43811e981b9f64409f61bf8d114f6e44",
+    "id": "d762b5c9a964c65d662eb105fd9ee795",
     "categorie": "Beursnieuws",
-    "titel": "Brad Davey verlaat bestuur ArcelorMittal",
-    "link": "https://www.beurs.nl/Nieuws/884502/Brad-Davey-verlaat-bestuur-ArcelorMittal.aspx",
-    "intro": "ArcelorMittal-bestuurder Brad Davey gaat op 1 januari 2027 met pensioen. Dit maakte de staalproducent maandagavond bekend.",
-    "published_at": "2026-11-09 18:15",
-    "scraped_at": "2026-11-10T04:11:31.543763"
+    "titel": "ABN Amro: sterk kwartaal belooft mooie opbrengst onderdelen TKH",
+    "link": "https://www.beurs.nl/Nieuws/884601/ABN-Amro-sterk-kwartaal-belooft-mooie-opbrengst-onderdelen-TKH.aspx",
+    "intro": "De sterke resultaten van TKH in het derde kwartaal beloven mooie waarderingen voor de onderdelen die het bedrijf wil afstoten. Dat stelde ABN AMRO dinsdag in een analistenrapport.",
+    "published_at": "2026-11-10 10:43",
+    "scraped_at": "2026-11-10T12:49:10.954808"
   }
 ]
