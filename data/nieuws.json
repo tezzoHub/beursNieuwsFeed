@@ -1,12 +1,30 @@
 [
   {
+    "id": "7562ec620634b65fa653ce4192c43c05",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/884527/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn maandag zes van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-11-09 23:45",
+    "scraped_at": "2026-11-10T04:11:31.543763"
+  },
+  {
+    "id": "80dc44728c5da9d5a3d793beb2b8f522",
+    "categorie": "Beursnieuws",
+    "titel": "Hims & Hers Health scherpt prognose aan",
+    "link": "https://www.beurs.nl/Nieuws/884526/Hims-Hers-Health-scherpt-prognose-aan.aspx",
+    "intro": "Hims  Hers Health heeft zijn omzetprognose voor het volledige jaar vernauwd, nadat de omzet in het derde kwartaal lager uitviel dan verwacht. Dit bleek maandagavond uit de cijfers van het Amerikaanse gezondheidsplatform.",
+    "published_at": "2026-11-09 23:17",
+    "scraped_at": "2026-11-10T04:11:31.543763"
+  },
+  {
     "id": "b431b6925632a1203776b46285d441d1",
     "categorie": "Beursnieuws",
     "titel": "Skydance gaat 6 miljard dollar bezuinigen na fusiedeal",
     "link": "https://www.beurs.nl/Nieuws/884521/Skydance-gaat-6-miljard-dollar-bezuinigen-na-fusiedeal.aspx",
     "intro": "Skydance heeft de omzet in het derde kwartaal van 2026 zien stijgen, maar gaat ook kosten schrappen, aangezien het bedrijf na de fusie van Paramount en Warner Bros. Discovery kampt met een enorme schuldenlast als gevolg van de deal. Dit heeft het bedrijf maandag nabeurs bekendgemaakt.",
     "published_at": "2026-11-09 22:54",
-    "scraped_at": "2026-11-09T22:00:46.147454"
+    "scraped_at": "2026-11-10T04:11:31.543763"
   },
   {
     "id": "931d5c92e0dccdeb69242b37fe5bf7d3",
@@ -15,7 +33,7 @@
     "link": "https://www.beurs.nl/Nieuws/884518/Wall-Street-sluit-hoger-ondanks-commotie-rond-Nvidia.aspx",
     "intro": "De Amerikaanse beurzen eindigden maandag diep in het groen, na de uitverkoop van tech- en AI-aandelen vorige week. Dissonant was wel de in opspraak geraakte topman van Nvidia vanwege een affaire met een mogelijke Chinese spion.",
     "published_at": "2026-11-09 22:13",
-    "scraped_at": "2026-11-09T22:00:46.147454"
+    "scraped_at": "2026-11-10T04:11:31.543763"
   },
   {
     "id": "6749f780408ff8ebfbc2871abcaacb69",
@@ -24,7 +42,7 @@
     "link": "https://www.beurs.nl/Nieuws/884513/Olieprijzen-dalen-sterk-na-hoopvolle-uitspraken-Trump.aspx",
     "intro": "De olieprijzen daalden maandag flink, nadat president Donald Trump tegen CNN zei dat het \"hoogst onwaarschijnlijk\" is dat de VS de aanvallen op Iran zullen hervatten als de besprekingen vorderingen blijven maken.",
     "published_at": "2026-11-09 21:08",
-    "scraped_at": "2026-11-09T22:00:46.147454"
+    "scraped_at": "2026-11-10T04:11:31.543763"
   },
   {
     "id": "a8068fc5357f8e5a0c507269283eefcc",
@@ -33,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/884508/Wall-Street-schudt-verliezen-van-vorige-week-van-zich-af.aspx",
     "intro": "De Amerikaanse beurzen noteerden maandag overtuigend hoger, na de uitverkoop van tech- en AI-aandelen vorige week.",
     "published_at": "2026-11-09 20:05",
-    "scraped_at": "2026-11-09T22:00:46.147454"
+    "scraped_at": "2026-11-10T04:11:31.543763"
   },
   {
     "id": "57f071c2d0c613dccb523d29a66f1c0e",
@@ -42,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/884507/Anne-de-Jong-benoemd-als-CEO-NSI.aspx",
     "intro": "NSI heeft Anne de Jong benoemd als CEO. Dit deed het vastgoedbedrijf maandag na afloop van een buitengewone aandeelhoudersvergadering.",
     "published_at": "2026-11-09 19:36",
-    "scraped_at": "2026-11-09T22:00:46.147454"
+    "scraped_at": "2026-11-10T04:11:31.543763"
   },
   {
     "id": "b48551f099eedcdca8a7c8800f89bdf7",
@@ -51,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/884505/Europese-beurzen-herstellen-krachtig.aspx",
     "intro": "De Europese beurzen sloten maandag hoger, na eerdere verliezen. De olieprijs liep terug en vooral techaandelen en banken wonnen, waarmee ze herstelden van de hectiek van vorige week.",
     "published_at": "2026-11-09 19:08",
-    "scraped_at": "2026-11-09T22:00:46.147454"
+    "scraped_at": "2026-11-10T04:11:31.543763"
   },
   {
     "id": "7bdcdf1a60a882f93c58c551a8d94e45",
@@ -60,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/884504/Theon-verhoogt-groeidoel-middellange-termijn.aspx",
     "intro": "Theon International heeft na een sterk derde kwartaal de doelstelling voor de autonome omzetgroei op middellange termijn verhoogd en de outlook voor heel 2026 bevestigd. Dit bleek maandag uit een handelsupdate van het defensiebedrijf.",
     "published_at": "2026-11-09 18:30",
-    "scraped_at": "2026-11-09T22:00:46.147454"
+    "scraped_at": "2026-11-10T04:11:31.543763"
   },
   {
     "id": "43811e981b9f64409f61bf8d114f6e44",
@@ -69,24 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/884502/Brad-Davey-verlaat-bestuur-ArcelorMittal.aspx",
     "intro": "ArcelorMittal-bestuurder Brad Davey gaat op 1 januari 2027 met pensioen. Dit maakte de staalproducent maandagavond bekend.",
     "published_at": "2026-11-09 18:15",
-    "scraped_at": "2026-11-09T22:00:46.147454"
-  },
-  {
-    "id": "030576b4db607ac5caa31422c1c4ce70",
-    "categorie": "Beursnieuws",
-    "titel": "Chipfondsen en banken stuwen AEX hoger",
-    "link": "https://www.beurs.nl/Nieuws/884499/Chipfondsen-en-banken-stuwen-AEX-hoger.aspx",
-    "intro": "De Amsterdamse beurs is maandag met winst gesloten, waarbij chipfondsen en banken de grootste stijgers waren. Wall Street herstelde eveneens, na een lastige week voor met name techaandelen.",
-    "published_at": "2026-11-09 17:50",
-    "scraped_at": "2026-11-09T22:00:46.147454"
-  },
-  {
-    "id": "9c497b473eab3982c2cabdd15940f178",
-    "categorie": "Beursnieuws",
-    "titel": "Groothandelsvoorraden VS opnieuw gestegen",
-    "link": "https://www.beurs.nl/Nieuws/884493/Groothandelsvoorraden-VS-opnieuw-gestegen.aspx",
-    "intro": "De groothandelsvoorraden in de Verenigde Staten zijn in september opnieuw gestegen. Dit bleek maandag uit de cijfers van het Amerikaanse ministerie van handel.",
-    "published_at": "2026-11-09 16:06",
-    "scraped_at": "2026-11-09T22:00:46.147454"
+    "scraped_at": "2026-11-10T04:11:31.543763"
   }
 ]
