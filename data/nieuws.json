@@ -1,12 +1,66 @@
 [
   {
+    "id": "a983d5c2e8fbed8051feab89b88fc9f3",
+    "categorie": "Beursnieuws",
+    "titel": "Cisco Systems blijft hard groeien",
+    "link": "https://www.beurs.nl/Nieuws/884871/Cisco-Systems-blijft-hard-groeien.aspx",
+    "intro": "Cisco Systems heeft in het vierde kwartaal zijn winst- en omzetdoelen overtroffen, maar zag de marge dalen, terwijl de omzet en aangepaste winst achterbleven bij de analistenverwachtingen. Dat bleek woensdag nabeurs uit de cijfers van het Amerikaanse technologiebdrijf.",
+    "published_at": "2026-11-11 22:50",
+    "scraped_at": "2026-11-11T22:18:18.590626"
+  },
+  {
+    "id": "ba7f9e3d884f8144e708013982c92043",
+    "categorie": "Beursnieuws",
+    "titel": "Winsten op Wall Street na opveren AI-handel",
+    "link": "https://www.beurs.nl/Nieuws/884870/Winsten-op-Wall-Street-na-opveren-AI-handel.aspx",
+    "intro": "De Amerikaanse aandelenbeurzen zijn woensdag hoger gesloten, nadat veel AI-gerelateerde aandelen krachtig opveerden van de nog zwaardere verliezen van de voorgaande dagen. Aan het einde van de handelsdag liepen de koerswinsten wel wat terug.",
+    "published_at": "2026-11-11 22:22",
+    "scraped_at": "2026-11-11T22:18:18.590626"
+  },
+  {
+    "id": "5ac18798b4ab57d8bccc9f5350377261",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs stijgt licht na aanvallen op Qeshm",
+    "link": "https://www.beurs.nl/Nieuws/884864/Olieprijs-stijgt-licht-na-aanvallen-op-Qeshm.aspx",
+    "intro": "De oliefutures zijn woensdag licht gestegen, maar beperkten de winst, ondanks nieuwe militaire aanvallen in het Midden-Oosten, die de hoop van de voorgaande dagen op een diplomatieke uitweg temperden.",
+    "published_at": "2026-11-11 21:41",
+    "scraped_at": "2026-11-11T22:18:18.590626"
+  },
+  {
+    "id": "a1f9c77099a25455b8293114c693f030",
+    "categorie": "Beursnieuws",
+    "titel": "AI trekt de kar weer op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/884861/AI-trekt-de-kar-weer-op-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen stonden woensdagavond fors hoger, nadat AI-gerelateerde aandelen krachtig opveerden, van de nog zwaardere verliezen van de voorgaande dagen.",
+    "published_at": "2026-11-11 20:59",
+    "scraped_at": "2026-11-11T22:18:18.590626"
+  },
+  {
+    "id": "eeaef122a04209f40c770af4fb1d1d6c",
+    "categorie": "Beursnieuws",
+    "titel": "Europese beurzen sluiten hoger",
+    "link": "https://www.beurs.nl/Nieuws/884859/Europese-beurzen-sluiten-hoger.aspx",
+    "intro": "De Europese aandelenbeurzen zijn woensdag hoger gesloten, omdat de AI-hausse weer opleefde na de sterke terugval in de voorgaande week.",
+    "published_at": "2026-11-11 19:13",
+    "scraped_at": "2026-11-11T22:18:18.590626"
+  },
+  {
+    "id": "9b4a38f55aa296b5c88d122c05315458",
+    "categorie": "Beursnieuws",
+    "titel": "Chippers brengen record AEX weer in zicht",
+    "link": "https://www.beurs.nl/Nieuws/884851/Chippers-brengen-record-AEX-weer-in-zicht.aspx",
+    "intro": "De Amsterdamse beurs is woensdag hoger gesloten, vooral dankzij het herstel van de halfgeleiders. Die profiteerden van de goed ontvangen cijfers die CoreWeave, een Amerikaanse aanbieder van AI-cloudcapaciteit en datacenters, dinsdagavond publiceerde.",
+    "published_at": "2026-11-11 17:45",
+    "scraped_at": "2026-11-11T22:18:18.590626"
+  },
+  {
     "id": "3adc57afeb2119be8e614bcbcb57983b",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
     "link": "https://www.beurs.nl/Nieuws/884839/Beursagenda-macro-economisch.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 19 november 2026:",
     "published_at": "2026-11-11 15:41",
-    "scraped_at": "2026-11-11T15:31:36.526601"
+    "scraped_at": "2026-11-11T22:18:18.590626"
   },
   {
     "id": "c97aa54259154b41ccca267a964592d5",
@@ -15,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/884837/Beursagenda-Nederlandse-bedrijven.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 19 november 2026:",
     "published_at": "2026-11-11 15:40",
-    "scraped_at": "2026-11-11T15:31:36.526601"
+    "scraped_at": "2026-11-11T22:18:18.590626"
   },
   {
     "id": "edd3d0f37df107f693eda26fd4cfb341",
@@ -24,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/884838/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 19 november 2026:",
     "published_at": "2026-11-11 15:40",
-    "scraped_at": "2026-11-11T15:31:36.526601"
+    "scraped_at": "2026-11-11T22:18:18.590626"
   },
   {
     "id": "187896ea1cd7924a85007436ea24434f",
@@ -33,60 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/884830/AI-optimisme-helpt-Wall-Street-vermoedelijk-aan-hogere-opening.aspx",
     "intro": "De Amerikaanse beurzen bewegen woensdag richting een hogere opening. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,9 procent in het groen. Technologiebeurs Nasdaq lijkt zelfs 2 procent hoger van start te gaan.",
     "published_at": "2026-11-11 14:50",
-    "scraped_at": "2026-11-11T15:31:36.526601"
-  },
-  {
-    "id": "759b2c00cff634075fc3403c2632ca8c",
-    "categorie": "Beursnieuws",
-    "titel": "OPEC verwacht bescheiden groei olievraag",
-    "link": "https://www.beurs.nl/Nieuws/884828/OPEC-verwacht-bescheiden-groei-olievraag.aspx",
-    "intro": "Op de energiemarkt blijft het beeld voor de wereldwijde olievraag ongewijzigd ten opzichte van vorige maand. Dit meldde oliekartel OPEC woensdag in haar maandrapport.",
-    "published_at": "2026-11-11 14:40",
-    "scraped_at": "2026-11-11T15:31:36.526601"
-  },
-  {
-    "id": "0803ce915947541dfe0a545dcbe4f465",
-    "categorie": "Beursnieuws",
-    "titel": "Optimisme rond halfgeleiders zet AEX hoger",
-    "link": "https://www.beurs.nl/Nieuws/884820/Optimisme-rond-halfgeleiders-zet-AEX-hoger.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdag overtuigend hoger, dankzij koerswinsten bij de halfgeleiders. Rond de klok van twee uur won de AEX 0,8 procent op 1.141,31 punten.",
-    "published_at": "2026-11-11 13:51",
-    "scraped_at": "2026-11-11T15:31:36.526601"
-  },
-  {
-    "id": "d434e336212e56ada954f89ebd9c3367",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street wacht hogere opening dankzij optimisme over AI",
-    "link": "https://www.beurs.nl/Nieuws/884810/Wall-Street-wacht-hogere-opening-dankzij-optimisme-over-AI.aspx",
-    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,8 procent in het groen. Technologiebeurs Nasdaq lijkt zelfs 2 procent hoger van start te gaan.",
-    "published_at": "2026-11-11 13:05",
-    "scraped_at": "2026-11-11T15:31:36.526601"
-  },
-  {
-    "id": "20fb014de05f2d08e44ac70affa8a0d5",
-    "categorie": "Beursnieuws",
-    "titel": "Tech trekt Europese beurzen omhoog, defensie in de min",
-    "link": "https://www.beurs.nl/Nieuws/884804/Tech-trekt-Europese-beurzen-omhoog-defensie-in-de-min.aspx",
-    "intro": "Europese aandelen zaten woensdag rond het middaguur in de lift, aangevoerd door winsten in de technologiesector, waarbij het herstellende sentiment rond kunstmatige intelligentie de markten hielp opveren.",
-    "published_at": "2026-11-11 12:29",
-    "scraped_at": "2026-11-11T15:31:36.526601"
-  },
-  {
-    "id": "2d390423df64aca85f28dbd4605d1949",
-    "categorie": "Beursnieuws",
-    "titel": "Obligatie: Nederland wil tot 4 miljard lenen",
-    "link": "https://www.beurs.nl/Nieuws/884802/Obligatie-Nederland-wil-tot-4-miljard-lenen.aspx",
-    "intro": "De Nederlandse Staat wil aanstaande maandag 16 november tot 4 miljard euro ophalen met twee korte leningen. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
-    "published_at": "2026-11-11 12:25",
-    "scraped_at": "2026-11-11T15:31:36.526601"
-  },
-  {
-    "id": "283ad29c6e43d3fd5104328cecebddbf",
-    "categorie": "Beursnieuws",
-    "titel": "Jefferies verlaagt koersdoel TKH",
-    "link": "https://www.beurs.nl/Nieuws/884801/Jefferies-verlaagt-koersdoel-TKH.aspx",
-    "intro": "Jefferies heeft het koersdoel voor TKH Group verlaagd van 65,00 naar 60,00 euro, maar met handhaving van het koopadvies. Dit bleek woensdag uit een rapport van analist David Kerstens.",
-    "published_at": "2026-11-11 12:17",
-    "scraped_at": "2026-11-11T15:31:36.526601"
+    "scraped_at": "2026-11-11T22:18:18.590626"
   }
 ]
