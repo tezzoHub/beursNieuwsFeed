@@ -1,92 +1,74 @@
 [
   {
-    "id": "a78677e76331d2c44251f6d9d4cd64de",
+    "id": "93bc841cbec9453890ae52fad746aa22",
     "categorie": "Beursnieuws",
-    "titel": "Opnieuw recordomzet voor CoreWeave",
-    "link": "https://www.beurs.nl/Nieuws/884724/Opnieuw-recordomzet-voor-CoreWeave.aspx",
-    "intro": "CoreWeave heeft in het derde kwartaal opnieuw een recordomzet en ook hogere marges geboekt, terwijl de kosten stegen en het verlies toenam. Dit bleek dinsdagavond uit de resultaten van het Amerikaanse bedrijf met datacenters voor kunstmatige intelligentie en cloudcomputingtoepassingen.",
-    "published_at": "2026-11-10 22:45",
-    "scraped_at": "2026-11-11T00:43:05.000489"
+    "titel": "Hogere opening AEX voorzien",
+    "link": "https://www.beurs.nl/Nieuws/884762/Hogere-opening-AEX-voorzien.aspx",
+    "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,7 procent in het groen. Dinsdag eindigde de hoofdgraadmeter 0,2 procent hoger op 1.132,44 punten, circa 10 punten onder de recordstand.",
+    "published_at": "2026-11-11 08:09",
+    "scraped_at": "2026-11-11T07:15:00.932830"
   },
   {
-    "id": "8ca3512ff995ccbdfa9dcc8b31bfe29f",
+    "id": "f6dba8793b57d0da61b79249c8032b2b",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/884723/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn dinsdag zes van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-11-10 22:16",
-    "scraped_at": "2026-11-11T00:43:05.000489"
+    "titel": "Envipco kondigt reorganisatielast van 3 miljoen euro aan",
+    "link": "https://www.beurs.nl/Nieuws/884753/Envipco-kondigt-reorganisatielast-van-3-miljoen-euro-aan.aspx",
+    "intro": "Envipco heeft een reorganisatielast van 3 miljoen euro aangekondigd voor het vierde kwartaal van 2026. Dit meldde de leverancier van recyclingsystemen woensdagochtend bij de presentatie over de resultaten over het derde kwartaal.",
+    "published_at": "2026-11-11 07:34",
+    "scraped_at": "2026-11-11T07:15:00.932830"
   },
   {
-    "id": "c72033b2a99b3e2958498f01694a5a11",
+    "id": "ae4f99f188e92d724e12608a42dbb078",
     "categorie": "Beursnieuws",
-    "titel": "Rentevrees zet Wall Street lager",
-    "link": "https://www.beurs.nl/Nieuws/884722/Rentevrees-zet-Wall-Street-lager.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdag lager geëindigd, na tegenvallende inflatiecijfers die een renteverhoging door de Federal Reserve in december zo goed als bevestigden. Nvidia stond opnieuw onder druk.",
-    "published_at": "2026-11-10 22:11",
-    "scraped_at": "2026-11-11T00:43:05.000489"
+    "titel": "Japanse en Zuid-Koreaanse beurzen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/884752/Japanse-en-Zuid-Koreaanse-beurzen-in-het-groen.aspx",
+    "intro": "De Aziatische beurzen koersten woensdag overwegend hoger, met de Japanse Nikkei-index en Zuid-Koreaanse Kospi-index aan kop.",
+    "published_at": "2026-11-11 07:33",
+    "scraped_at": "2026-11-11T07:15:00.932830"
   },
   {
-    "id": "da752982ed47561bf0338d68bd384bbe",
+    "id": "673aa3cc4d06ee4c0adcf2ae5814e5ca",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen dalen verder",
-    "link": "https://www.beurs.nl/Nieuws/884717/Olieprijzen-dalen-verder.aspx",
-    "intro": "De olieprijzen zijn dinsdag verder gedaald, nu de hoop op een diplomatieke oplossing in het Midden-Oosten steeds verder toeneemt.",
-    "published_at": "2026-11-10 21:01",
-    "scraped_at": "2026-11-11T00:43:05.000489"
+    "titel": "ABN Amro verhoogt outlook na meevallend derde kwartaal",
+    "link": "https://www.beurs.nl/Nieuws/884750/ABN-Amro-verhoogt-outlook-na-meevallend-derde-kwartaal.aspx",
+    "intro": "ABN AMRO heeft in het derde kwartaal de verwachtingen overtroffen en zag ruimte om de outlook voor 2026 opnieuw te verhogen. Dit bleek woensdag voorbeurs uit de cijfers van de bank.",
+    "published_at": "2026-11-11 07:19",
+    "scraped_at": "2026-11-11T07:15:00.932830"
   },
   {
-    "id": "00870a7b719c6034c22dd37c9f5214b4",
+    "id": "4e5d7f204e0e930b44c73a09addebbb8",
     "categorie": "Beursnieuws",
-    "titel": "Siemens Energy gaat nog meer aandelen inkopen",
-    "link": "https://www.beurs.nl/Nieuws/884714/Siemens-Energy-gaat-nog-meer-aandelen-inkopen.aspx",
-    "intro": "Siemens Energy is van plan om tot het einde van boekjaar 2030 voor maximaal 9 miljard euro aan eigen aandelen in te kopen, bovenop een al bestaand programma. Dit meldde het Duitse bedrijf dinsdagavond.",
-    "published_at": "2026-11-10 20:28",
-    "scraped_at": "2026-11-11T00:43:05.000489"
+    "titel": "Europese beurzen openen in het groen",
+    "link": "https://www.beurs.nl/Nieuws/884746/Europese-beurzen-openen-in-het-groen.aspx",
+    "intro": "De aandelenmarkten in Europa gaan woensdag een hogere opening tegemoet, na een lager slot op Wall Street dinsdagavond.",
+    "published_at": "2026-11-11 06:58",
+    "scraped_at": "2026-11-11T07:15:00.932830"
   },
   {
-    "id": "6c923d61dabae132d5ea38f397af26a0",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street koerst lager",
-    "link": "https://www.beurs.nl/Nieuws/884713/Wall-Street-koerst-lager.aspx",
-    "intro": "De Amerikaanse beurzen noteerden dinsdag lager, na tegenvallende inflatiecijfers die een renteverhoging door de Federal Reserve in december zo goed als bevestigden. Nvidia stond opnieuw onder druk.",
-    "published_at": "2026-11-10 19:51",
-    "scraped_at": "2026-11-11T00:43:05.000489"
-  },
-  {
-    "id": "831b9f59b1fba70594b23c0727153185",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen houden winst vast",
-    "link": "https://www.beurs.nl/Nieuws/884707/Europese-beurzen-houden-winst-vast.aspx",
-    "intro": "De Europese beurzen zijn dinsdag overwegend hoger geëindigd, met hulp van halfgeleideraandelen en banken, terwijl de olieprijzen verder daalden. Na de lagere opening van Wall Street liepen de winsten in Europa wel terug.",
-    "published_at": "2026-11-10 18:36",
-    "scraped_at": "2026-11-11T00:43:05.000489"
-  },
-  {
-    "id": "4cdd9ecd595a7e19ee2908c9fa1e99ac",
-    "categorie": "Beursnieuws",
-    "titel": "Meer omzet en winst voor Recordati",
-    "link": "https://www.beurs.nl/Nieuws/884703/Meer-omzet-en-winst-voor-Recordati.aspx",
-    "intro": "Recordati heeft in de eerste negen maanden van 2026 meer omzet en winst behaald. Dit maakte het Italiaanse bedrijf waarop CVC en GBL een bod hebben uitstaan dinsdagavond bekend.",
-    "published_at": "2026-11-10 18:16",
-    "scraped_at": "2026-11-11T00:43:05.000489"
-  },
-  {
-    "id": "a42979635e7014cf2265d839de335a40",
-    "categorie": "Beursnieuws",
-    "titel": "Shell drukt winst AEX",
-    "link": "https://www.beurs.nl/Nieuws/884699/Shell-drukt-winst-AEX.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag met een kleine winst gesloten. De meeste aandelen eindigden hoger, maar een koersdaling van Shell beperkte de winst van de AEX.",
-    "published_at": "2026-11-10 17:51",
-    "scraped_at": "2026-11-11T00:43:05.000489"
-  },
-  {
-    "id": "400d9323caddc6e4541f5c0757e39e8a",
+    "id": "d4c67ad6b35a7825e09650e5330c5639",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/884684/Beursagenda-buitenlandse-fondsen.aspx",
+    "link": "https://www.beurs.nl/Nieuws/884743/Beursagenda-buitenlandse-fondsen.aspx",
     "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 november 2026:",
-    "published_at": "2026-11-10 16:31",
-    "scraped_at": "2026-11-11T00:43:05.000489"
+    "published_at": "2026-11-11 06:50",
+    "scraped_at": "2026-11-11T07:15:00.932830"
+  },
+  {
+    "id": "3db50032d35d7a9321981aad75bd8325",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/884744/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 november 2026:",
+    "published_at": "2026-11-11 06:50",
+    "scraped_at": "2026-11-11T07:15:00.932830"
+  },
+  {
+    "id": "ab06a724d059093d971467df7dc8b8d0",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/884742/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 18 november 2026:",
+    "published_at": "2026-11-11 06:49",
+    "scraped_at": "2026-11-11T07:15:00.932830"
   }
 ]
