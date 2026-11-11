@@ -1,74 +1,92 @@
 [
   {
-    "id": "93bc841cbec9453890ae52fad746aa22",
-    "categorie": "Beursnieuws",
-    "titel": "Hogere opening AEX voorzien",
-    "link": "https://www.beurs.nl/Nieuws/884762/Hogere-opening-AEX-voorzien.aspx",
-    "intro": "De Amsterdamse beurs gaat woensdag een hogere opening tegemoet. Futures op de AEX noteerden ruim een half uur voor de openingsgong 0,7 procent in het groen. Dinsdag eindigde de hoofdgraadmeter 0,2 procent hoger op 1.132,44 punten, circa 10 punten onder de recordstand.",
-    "published_at": "2026-11-11 08:09",
-    "scraped_at": "2026-11-11T07:15:00.932830"
-  },
-  {
-    "id": "f6dba8793b57d0da61b79249c8032b2b",
-    "categorie": "Beursnieuws",
-    "titel": "Envipco kondigt reorganisatielast van 3 miljoen euro aan",
-    "link": "https://www.beurs.nl/Nieuws/884753/Envipco-kondigt-reorganisatielast-van-3-miljoen-euro-aan.aspx",
-    "intro": "Envipco heeft een reorganisatielast van 3 miljoen euro aangekondigd voor het vierde kwartaal van 2026. Dit meldde de leverancier van recyclingsystemen woensdagochtend bij de presentatie over de resultaten over het derde kwartaal.",
-    "published_at": "2026-11-11 07:34",
-    "scraped_at": "2026-11-11T07:15:00.932830"
-  },
-  {
-    "id": "ae4f99f188e92d724e12608a42dbb078",
-    "categorie": "Beursnieuws",
-    "titel": "Japanse en Zuid-Koreaanse beurzen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/884752/Japanse-en-Zuid-Koreaanse-beurzen-in-het-groen.aspx",
-    "intro": "De Aziatische beurzen koersten woensdag overwegend hoger, met de Japanse Nikkei-index en Zuid-Koreaanse Kospi-index aan kop.",
-    "published_at": "2026-11-11 07:33",
-    "scraped_at": "2026-11-11T07:15:00.932830"
-  },
-  {
-    "id": "673aa3cc4d06ee4c0adcf2ae5814e5ca",
-    "categorie": "Beursnieuws",
-    "titel": "ABN Amro verhoogt outlook na meevallend derde kwartaal",
-    "link": "https://www.beurs.nl/Nieuws/884750/ABN-Amro-verhoogt-outlook-na-meevallend-derde-kwartaal.aspx",
-    "intro": "ABN AMRO heeft in het derde kwartaal de verwachtingen overtroffen en zag ruimte om de outlook voor 2026 opnieuw te verhogen. Dit bleek woensdag voorbeurs uit de cijfers van de bank.",
-    "published_at": "2026-11-11 07:19",
-    "scraped_at": "2026-11-11T07:15:00.932830"
-  },
-  {
-    "id": "4e5d7f204e0e930b44c73a09addebbb8",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het groen",
-    "link": "https://www.beurs.nl/Nieuws/884746/Europese-beurzen-openen-in-het-groen.aspx",
-    "intro": "De aandelenmarkten in Europa gaan woensdag een hogere opening tegemoet, na een lager slot op Wall Street dinsdagavond.",
-    "published_at": "2026-11-11 06:58",
-    "scraped_at": "2026-11-11T07:15:00.932830"
-  },
-  {
-    "id": "d4c67ad6b35a7825e09650e5330c5639",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/884743/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 18 november 2026:",
-    "published_at": "2026-11-11 06:50",
-    "scraped_at": "2026-11-11T07:15:00.932830"
-  },
-  {
-    "id": "3db50032d35d7a9321981aad75bd8325",
+    "id": "3adc57afeb2119be8e614bcbcb57983b",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/884744/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 18 november 2026:",
-    "published_at": "2026-11-11 06:50",
-    "scraped_at": "2026-11-11T07:15:00.932830"
+    "link": "https://www.beurs.nl/Nieuws/884839/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 19 november 2026:",
+    "published_at": "2026-11-11 15:41",
+    "scraped_at": "2026-11-11T15:31:36.526601"
   },
   {
-    "id": "ab06a724d059093d971467df7dc8b8d0",
+    "id": "c97aa54259154b41ccca267a964592d5",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/884742/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 18 november 2026:",
-    "published_at": "2026-11-11 06:49",
-    "scraped_at": "2026-11-11T07:15:00.932830"
+    "link": "https://www.beurs.nl/Nieuws/884837/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 19 november 2026:",
+    "published_at": "2026-11-11 15:40",
+    "scraped_at": "2026-11-11T15:31:36.526601"
+  },
+  {
+    "id": "edd3d0f37df107f693eda26fd4cfb341",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/884838/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 19 november 2026:",
+    "published_at": "2026-11-11 15:40",
+    "scraped_at": "2026-11-11T15:31:36.526601"
+  },
+  {
+    "id": "187896ea1cd7924a85007436ea24434f",
+    "categorie": "Beursnieuws",
+    "titel": "AI-optimisme helpt Wall Street vermoedelijk aan hogere opening",
+    "link": "https://www.beurs.nl/Nieuws/884830/AI-optimisme-helpt-Wall-Street-vermoedelijk-aan-hogere-opening.aspx",
+    "intro": "De Amerikaanse beurzen bewegen woensdag richting een hogere opening. Futures op de toonaangevende SP 500 index noteren circa een half uur voor opening tot 0,9 procent in het groen. Technologiebeurs Nasdaq lijkt zelfs 2 procent hoger van start te gaan.",
+    "published_at": "2026-11-11 14:50",
+    "scraped_at": "2026-11-11T15:31:36.526601"
+  },
+  {
+    "id": "759b2c00cff634075fc3403c2632ca8c",
+    "categorie": "Beursnieuws",
+    "titel": "OPEC verwacht bescheiden groei olievraag",
+    "link": "https://www.beurs.nl/Nieuws/884828/OPEC-verwacht-bescheiden-groei-olievraag.aspx",
+    "intro": "Op de energiemarkt blijft het beeld voor de wereldwijde olievraag ongewijzigd ten opzichte van vorige maand. Dit meldde oliekartel OPEC woensdag in haar maandrapport.",
+    "published_at": "2026-11-11 14:40",
+    "scraped_at": "2026-11-11T15:31:36.526601"
+  },
+  {
+    "id": "0803ce915947541dfe0a545dcbe4f465",
+    "categorie": "Beursnieuws",
+    "titel": "Optimisme rond halfgeleiders zet AEX hoger",
+    "link": "https://www.beurs.nl/Nieuws/884820/Optimisme-rond-halfgeleiders-zet-AEX-hoger.aspx",
+    "intro": "De Amsterdamse beurs koerste woensdag overtuigend hoger, dankzij koerswinsten bij de halfgeleiders. Rond de klok van twee uur won de AEX 0,8 procent op 1.141,31 punten.",
+    "published_at": "2026-11-11 13:51",
+    "scraped_at": "2026-11-11T15:31:36.526601"
+  },
+  {
+    "id": "d434e336212e56ada954f89ebd9c3367",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street wacht hogere opening dankzij optimisme over AI",
+    "link": "https://www.beurs.nl/Nieuws/884810/Wall-Street-wacht-hogere-opening-dankzij-optimisme-over-AI.aspx",
+    "intro": "De Amerikaanse beurzen gaan woensdag een hogere opening tegemoet. Futures op de toonaangevende SP 500 index noteren rond lunchtijd tot 0,8 procent in het groen. Technologiebeurs Nasdaq lijkt zelfs 2 procent hoger van start te gaan.",
+    "published_at": "2026-11-11 13:05",
+    "scraped_at": "2026-11-11T15:31:36.526601"
+  },
+  {
+    "id": "20fb014de05f2d08e44ac70affa8a0d5",
+    "categorie": "Beursnieuws",
+    "titel": "Tech trekt Europese beurzen omhoog, defensie in de min",
+    "link": "https://www.beurs.nl/Nieuws/884804/Tech-trekt-Europese-beurzen-omhoog-defensie-in-de-min.aspx",
+    "intro": "Europese aandelen zaten woensdag rond het middaguur in de lift, aangevoerd door winsten in de technologiesector, waarbij het herstellende sentiment rond kunstmatige intelligentie de markten hielp opveren.",
+    "published_at": "2026-11-11 12:29",
+    "scraped_at": "2026-11-11T15:31:36.526601"
+  },
+  {
+    "id": "2d390423df64aca85f28dbd4605d1949",
+    "categorie": "Beursnieuws",
+    "titel": "Obligatie: Nederland wil tot 4 miljard lenen",
+    "link": "https://www.beurs.nl/Nieuws/884802/Obligatie-Nederland-wil-tot-4-miljard-lenen.aspx",
+    "intro": "De Nederlandse Staat wil aanstaande maandag 16 november tot 4 miljard euro ophalen met twee korte leningen. Dit meldde het agentschap van het ministerie van Financiën woensdag.",
+    "published_at": "2026-11-11 12:25",
+    "scraped_at": "2026-11-11T15:31:36.526601"
+  },
+  {
+    "id": "283ad29c6e43d3fd5104328cecebddbf",
+    "categorie": "Beursnieuws",
+    "titel": "Jefferies verlaagt koersdoel TKH",
+    "link": "https://www.beurs.nl/Nieuws/884801/Jefferies-verlaagt-koersdoel-TKH.aspx",
+    "intro": "Jefferies heeft het koersdoel voor TKH Group verlaagd van 65,00 naar 60,00 euro, maar met handhaving van het koopadvies. Dit bleek woensdag uit een rapport van analist David Kerstens.",
+    "published_at": "2026-11-11 12:17",
+    "scraped_at": "2026-11-11T15:31:36.526601"
   }
 ]
