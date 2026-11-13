@@ -1,92 +1,92 @@
 [
   {
-    "id": "da6a5e6d56dfbdbe040011c63fd05c54",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/885047/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag vijf van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam. Shell was de sterkste stijger.",
-    "published_at": "2026-11-12 23:10",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "id": "5400493f9c843658ba6c5f75d5df1fca",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent lager en het voelt onecht, maar tijdperk-Huang is klaar",
+    "link": "https://www.iex.nl/artikel/884994/AEX-opent-lager-en-het-voelt-onecht-maar-tijdperk-Huang-is-klaar.aspx",
+    "intro": "\"The king is dead, long live the king\", kopt Investing.com. We doen het vandaag met een saaie beursagenda en wie schrijft er in voor Anthropic-aandelen?",
+    "published_at": "2026-11-13 08:00",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "325580f7f4659685c950fc53c4f66772",
-    "categorie": "Beursnieuws",
-    "titel": "Cisco Systems verhoogt winstverwachting",
-    "link": "https://www.beurs.nl/Nieuws/885045/Cisco-Systems-verhoogt-winstverwachting.aspx",
-    "intro": "Cisco Systems heeft zijn winstverwachting verhoogd na een sterke omzet- en winstgroei in het afgelopen kwartaal, dankzij sterke vraag in de markt voor AI-agenten. Dat bleek donderdag uit de kwartaalcijfers van het Amerikaanse bedrijf.",
-    "published_at": "2026-11-12 23:03",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "id": "2068459a6b7065e4cadf086e62ea2bdd",
+    "categorie": "Beleggen",
+    "titel": "Financiële ongelijkheid is een risico én kans voor beleggers",
+    "link": "https://www.ieximpact.nl/artikel/884457/Financiele-ongelijkheid-is-een-risico-en-kans-voor-beleggers.aspx",
+    "intro": "Financiële ongelijkheid is niet alleen een maatschappelijk probleem, maar ook een risico voor beleggers. Want waar vermogen zich concentreert bij steeds minder mensen, komen sociale cohesie, economische groei onder druk te staan. Hadewych Kuiper van Triodos Investment Management legt uit hoe impactbeleggers kunnen bijdragen aan meer kansengelijkheid én rendement.",
+    "published_at": "2026-11-13 08:00",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "e32cc9380b3bbf896ed9c58c592c834b",
+    "id": "5781b105d30dd5dc8d53c98ad16800ee",
     "categorie": "Beursnieuws",
-    "titel": "Update: Wall Street sluit lager na ontslag topman Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/885044/Update-Wall-Street-sluit-lager-na-ontslag-topman-Nvidia.aspx",
-    "intro": "De Amerikaanse beurzen zijn donderdagavond licht lager gesloten, nadat Nvidia zijn topman aan de kant schoof.",
-    "published_at": "2026-11-12 22:49",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "titel": "AEX lijkt lager te openen na onrust rond Nvidia",
+    "link": "https://www.beurs.nl/Nieuws/885068/AEX-lijkt-lager-te-openen-na-onrust-rond-Nvidia.aspx",
+    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een lagere opening, nadat Wall Street donderdag terrein verloor door de onrust rond Nvidia en de zorgen over het Amerikaanse rentebeleid.",
+    "published_at": "2026-11-13 07:57",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "28b743fcddf8390df82a2e81a7d02bcb",
+    "id": "e63c5fbc4ef5ba92751c817d8840969d",
     "categorie": "Beursnieuws",
-    "titel": "Applied Materials blijft sterk groeien",
-    "link": "https://www.beurs.nl/Nieuws/885043/Applied-Materials-blijft-sterk-groeien.aspx",
-    "intro": "Applied Materials heeft in het vierde kwartaal opnieuw fors meer winst en omzet geboekt dan een jaar eerder, en deed het daarbij iets beter dan de analistenverwachtingen. Dat bleek donderdagavond uit de resultaten van de Amerikaanse maker van halfgeleiderapparatuur.",
-    "published_at": "2026-11-12 22:46",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "titel": "Jefferies verhoogt koersdoel Magnum Ice",
+    "link": "https://www.beurs.nl/Nieuws/885066/Jefferies-verhoogt-koersdoel-Magnum-Ice.aspx",
+    "intro": "Jefferies heeft vrijdag het koersdoel voor Magnum Ice verhoogd van 15,20 naar 15,70 euro met een onveranderd Houden advies. Dit bleek uit een analistenrapport van de zakenbank.",
+    "published_at": "2026-11-13 07:39",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "36a0fed59dbe0b5e181f834f63125472",
+    "id": "a4996a76d140eb5cb4a1b6003a3b3913",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit lager na ontslag topman Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/885042/Wall-Street-sluit-lager-na-ontslag-topman-Nvidia.aspx",
-    "intro": "De Amerikaanse beurzen zijn dinsdagavond licht lager gesloten, nadat Nvidia zijn topman aan de kant schoof.",
-    "published_at": "2026-11-12 22:23",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "titel": "Retail Estates verhoogt outlook licht",
+    "link": "https://www.beurs.nl/Nieuws/885064/Retail-Estates-verhoogt-outlook-licht.aspx",
+    "intro": "Retail Estates heeft in de eerste zes maanden van het lopende boekjaar meer winst behaald en verhoogde de outlook voor heel dit jaar. Dit maakte het vastgoedbedrijf vrijdagochtend bekend.",
+    "published_at": "2026-11-13 07:21",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "08b527d2019524ad87752caaf444b0bf",
+    "id": "df16c5dadca777d825eeeb623faac90e",
     "categorie": "Beursnieuws",
-    "titel": "Media: onderzoek naar Nvidia-smokkel treft ook Super Micro",
-    "link": "https://www.beurs.nl/Nieuws/885039/Media-onderzoek-naar-Nvidia-smokkel-treft-ook-Super-Micro.aspx",
-    "intro": "De koers van de Amerikaanse serverfabrikant Super Micro Computer ging donderdag onderuit op Wall Street, na mediaberichten dat het bedrijf betrokken is bij het onderzoek van het Amerikaanse ministerie van Justitie naar Alice Huang.",
-    "published_at": "2026-11-12 21:52",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "titel": "Aziatische beurzen overwegend lager",
+    "link": "https://www.beurs.nl/Nieuws/885063/Aziatische-beurzen-overwegend-lager.aspx",
+    "intro": "De Aziatische beurzen noteerden vrijdagochtend overwegend lager, waarbij vooral Hongkong en Seoel onder druk stonden. Tokio wist zich aan de negatieve stemming te onttrekken.",
+    "published_at": "2026-11-13 07:16",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "ba9e86b66c98610028343b5fe0d67d73",
+    "id": "3a8f909cde22a7f25ac0302706a79639",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijs stijgt na afwijzing diplomatie door Trump",
-    "link": "https://www.beurs.nl/Nieuws/885038/Olieprijs-stijgt-na-afwijzing-diplomatie-door-Trump.aspx",
-    "intro": "De olieprijs is dinsdag gestegen nadat president Trump de noodzaak van een diplomatieke oplossing in het Midden-Oosten van tafel veegde.",
-    "published_at": "2026-11-12 20:58",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "titel": "Europese beurzen openen in het rood",
+    "link": "https://www.beurs.nl/Nieuws/885062/Europese-beurzen-openen-in-het-rood.aspx",
+    "intro": "De Europese beurzen gaan vrijdag een lagere opening tegemoet, na een lager slot op Wall Street.",
+    "published_at": "2026-11-13 06:58",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "130ef98cff7e3c6a663178f75b24f537",
+    "id": "4e97f2c42f060984966184dbbf92a215",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street krabbelt op na afscheid Nvidia-topman",
-    "link": "https://www.beurs.nl/Nieuws/885035/Wall-Street-krabbelt-op-na-afscheid-Nvidia-topman.aspx",
-    "intro": "De Amerikaanse beurzen stonden dinsdagavond licht hoger, nadat techbeurs Nasdaq herstelde van de schrik dat Nvidia zijn topman aan de kant schoof.",
-    "published_at": "2026-11-12 20:04",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/885059/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 20 november 2026:",
+    "published_at": "2026-11-13 06:52",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "a019586cc283c2904ac005ad353534b1",
+    "id": "5f425aca7882f11862c215ec21e711ec",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen breken records",
-    "link": "https://www.beurs.nl/Nieuws/885033/Europese-beurzen-breken-records.aspx",
-    "intro": "De Europese beurzen zijn donderdag overwegend hoger gesloten, met enkele nieuwe records, maar halfgeleideraandelen stonden onder druk na het vertrek van Nvidia-topman Jensen Huang.",
-    "published_at": "2026-11-12 19:02",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/885060/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 20 november 2026:",
+    "published_at": "2026-11-13 06:52",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   },
   {
-    "id": "ed9527cbbbfd607d7273ac951da4ba73",
+    "id": "5cb2c44571eeba74e8e5a5da6c7c022f",
     "categorie": "Beursnieuws",
-    "titel": "CSG-dochter sleept Canadees defensiecontract in de wacht",
-    "link": "https://www.beurs.nl/Nieuws/885031/CSG-dochter-sleept-Canadees-defensiecontract-in-de-wacht.aspx",
-    "intro": "Speer Ammunition, onderdeel van The Kinetic Group en lid van de CSG Group, heeft een contract gekregen van het Canadese Ministerie van Defensie. Dit maakte het Tsjechisch-Slowaakse defensie- en munitieconcern, met een notering aan het Amsterdamse Damrak, donderdagavond bekend.",
-    "published_at": "2026-11-12 18:23",
-    "scraped_at": "2026-11-13T00:34:53.185933"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/885061/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 20 november 2026:",
+    "published_at": "2026-11-13 06:52",
+    "scraped_at": "2026-11-13T07:23:39.420881"
   }
 ]
