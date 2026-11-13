@@ -1,92 +1,92 @@
 [
   {
-    "id": "5400493f9c843658ba6c5f75d5df1fca",
-    "categorie": "Voorbeurs",
-    "titel": "AEX opent lager en het voelt onecht, maar tijdperk-Huang is klaar",
-    "link": "https://www.iex.nl/artikel/884994/AEX-opent-lager-en-het-voelt-onecht-maar-tijdperk-Huang-is-klaar.aspx",
-    "intro": "\"The king is dead, long live the king\", kopt Investing.com. We doen het vandaag met een saaie beursagenda en wie schrijft er in voor Anthropic-aandelen?",
-    "published_at": "2026-11-13 08:00",
-    "scraped_at": "2026-11-13T07:23:39.420881"
-  },
-  {
-    "id": "2068459a6b7065e4cadf086e62ea2bdd",
-    "categorie": "Beleggen",
-    "titel": "Financiële ongelijkheid is een risico én kans voor beleggers",
-    "link": "https://www.ieximpact.nl/artikel/884457/Financiele-ongelijkheid-is-een-risico-en-kans-voor-beleggers.aspx",
-    "intro": "Financiële ongelijkheid is niet alleen een maatschappelijk probleem, maar ook een risico voor beleggers. Want waar vermogen zich concentreert bij steeds minder mensen, komen sociale cohesie, economische groei onder druk te staan. Hadewych Kuiper van Triodos Investment Management legt uit hoe impactbeleggers kunnen bijdragen aan meer kansengelijkheid én rendement.",
-    "published_at": "2026-11-13 08:00",
-    "scraped_at": "2026-11-13T07:23:39.420881"
-  },
-  {
-    "id": "5781b105d30dd5dc8d53c98ad16800ee",
+    "id": "cc5dcada97135c8119d3d8008fdb53eb",
     "categorie": "Beursnieuws",
-    "titel": "AEX lijkt lager te openen na onrust rond Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/885068/AEX-lijkt-lager-te-openen-na-onrust-rond-Nvidia.aspx",
-    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een lagere opening, nadat Wall Street donderdag terrein verloor door de onrust rond Nvidia en de zorgen over het Amerikaanse rentebeleid.",
-    "published_at": "2026-11-13 07:57",
-    "scraped_at": "2026-11-13T07:23:39.420881"
+    "titel": "Barclays verhoogt koersdoel Philips",
+    "link": "https://www.beurs.nl/Nieuws/885147/Barclays-verhoogt-koersdoel-Philips.aspx",
+    "intro": "Barclays heeft het koersdoel voor Philips verhoogd van 33,50 naar 35,00 euro, met een ongewijzigd Overwogen advies. Dit bleek vrijdag uit een rapport van de Britse bank.",
+    "published_at": "2026-11-13 15:48",
+    "scraped_at": "2026-11-13T15:33:59.281618"
   },
   {
-    "id": "e63c5fbc4ef5ba92751c817d8840969d",
+    "id": "e81a2e73f590571f5a571594cb5ff1f3",
     "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt koersdoel Magnum Ice",
-    "link": "https://www.beurs.nl/Nieuws/885066/Jefferies-verhoogt-koersdoel-Magnum-Ice.aspx",
-    "intro": "Jefferies heeft vrijdag het koersdoel voor Magnum Ice verhoogd van 15,20 naar 15,70 euro met een onveranderd Houden advies. Dit bleek uit een analistenrapport van de zakenbank.",
-    "published_at": "2026-11-13 07:39",
-    "scraped_at": "2026-11-13T07:23:39.420881"
+    "titel": "Barclays zet Euronext op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/885148/Barclays-zet-Euronext-op-de-kooplijst.aspx",
+    "intro": "Barclays heeft vrijdag het advies voor Euronext verhoogd van Gelijkgewogen naar Overwogen, waarbij het koersdoel van 160 naar 210 euro ging. Dit bleek uit een analistenrapport van de Britse bank.",
+    "published_at": "2026-11-13 15:46",
+    "scraped_at": "2026-11-13T15:33:59.281618"
   },
   {
-    "id": "a4996a76d140eb5cb4a1b6003a3b3913",
+    "id": "776dc90521d2ea29d98efb8ec10b5ba5",
     "categorie": "Beursnieuws",
-    "titel": "Retail Estates verhoogt outlook licht",
-    "link": "https://www.beurs.nl/Nieuws/885064/Retail-Estates-verhoogt-outlook-licht.aspx",
-    "intro": "Retail Estates heeft in de eerste zes maanden van het lopende boekjaar meer winst behaald en verhoogde de outlook voor heel dit jaar. Dit maakte het vastgoedbedrijf vrijdagochtend bekend.",
-    "published_at": "2026-11-13 07:21",
-    "scraped_at": "2026-11-13T07:23:39.420881"
+    "titel": "Wall Street wacht hogere opening na inflatiemeevaller",
+    "link": "https://www.beurs.nl/Nieuws/885141/Wall-Street-wacht-hogere-opening-na-inflatiemeevaller.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden ongeveer een half uur voor de openingsbel 0,6 procent hoger, na een inflatiemeevaller.",
+    "published_at": "2026-11-13 14:55",
+    "scraped_at": "2026-11-13T15:33:59.281618"
   },
   {
-    "id": "df16c5dadca777d825eeeb623faac90e",
+    "id": "5484a6065dd4423f769e11045aef1bc6",
     "categorie": "Beursnieuws",
-    "titel": "Aziatische beurzen overwegend lager",
-    "link": "https://www.beurs.nl/Nieuws/885063/Aziatische-beurzen-overwegend-lager.aspx",
-    "intro": "De Aziatische beurzen noteerden vrijdagochtend overwegend lager, waarbij vooral Hongkong en Seoel onder druk stonden. Tokio wist zich aan de negatieve stemming te onttrekken.",
-    "published_at": "2026-11-13 07:16",
-    "scraped_at": "2026-11-13T07:23:39.420881"
+    "titel": "Amerikaanse producentenprijzen stijgen minder hard",
+    "link": "https://www.beurs.nl/Nieuws/885137/Amerikaanse-producentenprijzen-stijgen-minder-hard.aspx",
+    "intro": "De producentenprijzen in de Verenigde Staten zijn in oktober veel minder hard gestegen dan in de maand ervoor. Dit bleek vrijdag uit de cijfers van het Amerikaanse ministerie van arbeid.",
+    "published_at": "2026-11-13 14:36",
+    "scraped_at": "2026-11-13T15:33:59.281618"
   },
   {
-    "id": "3a8f909cde22a7f25ac0302706a79639",
+    "id": "6481892212b20c7adbd069955104720d",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen openen in het rood",
-    "link": "https://www.beurs.nl/Nieuws/885062/Europese-beurzen-openen-in-het-rood.aspx",
-    "intro": "De Europese beurzen gaan vrijdag een lagere opening tegemoet, na een lager slot op Wall Street.",
-    "published_at": "2026-11-13 06:58",
-    "scraped_at": "2026-11-13T07:23:39.420881"
+    "titel": "Rustige middag op Amsterdamse beurs",
+    "link": "https://www.beurs.nl/Nieuws/885133/Rustige-middag-op-Amsterdamse-beurs.aspx",
+    "intro": "De Amsterdamse beurs doet het vrijdagmiddag rustig aan. De AEX noteerde rond de slotstand van donderdag en ook op de omringende beurzen waren de koersbewegingen vrij beperkt.",
+    "published_at": "2026-11-13 13:50",
+    "scraped_at": "2026-11-13T15:33:59.281618"
   },
   {
-    "id": "4e97f2c42f060984966184dbbf92a215",
+    "id": "c370eee0c9724d9fd125bbe3394d2004",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/885059/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 20 november 2026:",
-    "published_at": "2026-11-13 06:52",
-    "scraped_at": "2026-11-13T07:23:39.420881"
+    "titel": "Futures voorspellen lichtgroene opening voor Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/885126/Futures-voorspellen-lichtgroene-opening-voor-Wall-Street.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lichtgroene opening tegemoet. Futures op de SP 500 noteerden rond lunchtijd 0,2 procent hoger.",
+    "published_at": "2026-11-13 12:59",
+    "scraped_at": "2026-11-13T15:33:59.281618"
   },
   {
-    "id": "5f425aca7882f11862c215ec21e711ec",
+    "id": "3f5e6fca544a802986628e0b07e3cf62",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/885060/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 20 november 2026:",
-    "published_at": "2026-11-13 06:52",
-    "scraped_at": "2026-11-13T07:23:39.420881"
+    "titel": "Europese beurzen veren op",
+    "link": "https://www.beurs.nl/Nieuws/885123/Europese-beurzen-veren-op.aspx",
+    "intro": "De beurzen in Europa noteerden vrijdag rond lunchtijd licht hoger, na een rustige ochtendsessie.",
+    "published_at": "2026-11-13 12:27",
+    "scraped_at": "2026-11-13T15:33:59.281618"
   },
   {
-    "id": "5cb2c44571eeba74e8e5a5da6c7c022f",
+    "id": "8b4ee80ab00caa7e14370da557b691bb",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/885061/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 20 november 2026:",
-    "published_at": "2026-11-13 06:52",
-    "scraped_at": "2026-11-13T07:23:39.420881"
+    "titel": "Olievraag daalt dit jaar maar herstel lonkt in 2027",
+    "link": "https://www.beurs.nl/Nieuws/885100/Olievraag-daalt-dit-jaar-maar-herstel-lonkt-in-2027.aspx",
+    "intro": "Het Internationaal Energieagentschap verwacht dat het wereldwijde olieaanbod in 2026 met 4,8 miljoen vaten per dag zal dalen, terwijl ook de vraag lager zal uitkomen. Dit bleek vrijdagochtend uit een nieuw maandrapport van de denktank uit Parijs.",
+    "published_at": "2026-11-13 11:45",
+    "scraped_at": "2026-11-13T15:33:59.281618"
+  },
+  {
+    "id": "7d8b03f0b6f389865c585cc65e708fae",
+    "categorie": "Beursnieuws",
+    "titel": "Envipco verbreedt toegang tot Britse markt",
+    "link": "https://www.beurs.nl/Nieuws/885101/Envipco-verbreedt-toegang-tot-Britse-markt.aspx",
+    "intro": "Envipco heeft een opdracht van een Britse inkooporganisatie ontvangen, waardoor het nog beter in staat is om Britse detailhandelaren te bereiken. Dit meldde de Amersfoortse fabrikant van statiegeldmachines vrijdagochtend.",
+    "published_at": "2026-11-13 11:45",
+    "scraped_at": "2026-11-13T15:33:59.281618"
+  },
+  {
+    "id": "99ac9adb483699dc324e365dabb19f0d",
+    "categorie": "Beursnieuws",
+    "titel": "\"Lage gasvoorraden maken Europa kwetsbaar bij strenge winter\"",
+    "link": "https://www.beurs.nl/Nieuws/885098/Lage-gasvoorraden-maken-Europa-kwetsbaar-bij-strenge-winter.aspx",
+    "intro": "Europa is door een relatief lage gasvoorraad kwetsbaar voor een strenge winter. Dit stelde econoom Koen de Leus van BNP Paribas Fortis in een rapport.",
+    "published_at": "2026-11-13 11:35",
+    "scraped_at": "2026-11-13T15:33:59.281618"
   }
 ]
