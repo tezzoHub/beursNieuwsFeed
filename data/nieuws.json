@@ -1,12 +1,75 @@
 [
   {
+    "id": "da6a5e6d56dfbdbe040011c63fd05c54",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/885047/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag vijf van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam. Shell was de sterkste stijger.",
+    "published_at": "2026-11-12 23:10",
+    "scraped_at": "2026-11-13T00:34:53.185933"
+  },
+  {
+    "id": "325580f7f4659685c950fc53c4f66772",
+    "categorie": "Beursnieuws",
+    "titel": "Cisco Systems verhoogt winstverwachting",
+    "link": "https://www.beurs.nl/Nieuws/885045/Cisco-Systems-verhoogt-winstverwachting.aspx",
+    "intro": "Cisco Systems heeft zijn winstverwachting verhoogd na een sterke omzet- en winstgroei in het afgelopen kwartaal, dankzij sterke vraag in de markt voor AI-agenten. Dat bleek donderdag uit de kwartaalcijfers van het Amerikaanse bedrijf.",
+    "published_at": "2026-11-12 23:03",
+    "scraped_at": "2026-11-13T00:34:53.185933"
+  },
+  {
+    "id": "e32cc9380b3bbf896ed9c58c592c834b",
+    "categorie": "Beursnieuws",
+    "titel": "Update: Wall Street sluit lager na ontslag topman Nvidia",
+    "link": "https://www.beurs.nl/Nieuws/885044/Update-Wall-Street-sluit-lager-na-ontslag-topman-Nvidia.aspx",
+    "intro": "De Amerikaanse beurzen zijn donderdagavond licht lager gesloten, nadat Nvidia zijn topman aan de kant schoof.",
+    "published_at": "2026-11-12 22:49",
+    "scraped_at": "2026-11-13T00:34:53.185933"
+  },
+  {
+    "id": "28b743fcddf8390df82a2e81a7d02bcb",
+    "categorie": "Beursnieuws",
+    "titel": "Applied Materials blijft sterk groeien",
+    "link": "https://www.beurs.nl/Nieuws/885043/Applied-Materials-blijft-sterk-groeien.aspx",
+    "intro": "Applied Materials heeft in het vierde kwartaal opnieuw fors meer winst en omzet geboekt dan een jaar eerder, en deed het daarbij iets beter dan de analistenverwachtingen. Dat bleek donderdagavond uit de resultaten van de Amerikaanse maker van halfgeleiderapparatuur.",
+    "published_at": "2026-11-12 22:46",
+    "scraped_at": "2026-11-13T00:34:53.185933"
+  },
+  {
+    "id": "36a0fed59dbe0b5e181f834f63125472",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit lager na ontslag topman Nvidia",
+    "link": "https://www.beurs.nl/Nieuws/885042/Wall-Street-sluit-lager-na-ontslag-topman-Nvidia.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdagavond licht lager gesloten, nadat Nvidia zijn topman aan de kant schoof.",
+    "published_at": "2026-11-12 22:23",
+    "scraped_at": "2026-11-13T00:34:53.185933"
+  },
+  {
+    "id": "08b527d2019524ad87752caaf444b0bf",
+    "categorie": "Beursnieuws",
+    "titel": "Media: onderzoek naar Nvidia-smokkel treft ook Super Micro",
+    "link": "https://www.beurs.nl/Nieuws/885039/Media-onderzoek-naar-Nvidia-smokkel-treft-ook-Super-Micro.aspx",
+    "intro": "De koers van de Amerikaanse serverfabrikant Super Micro Computer ging donderdag onderuit op Wall Street, na mediaberichten dat het bedrijf betrokken is bij het onderzoek van het Amerikaanse ministerie van Justitie naar Alice Huang.",
+    "published_at": "2026-11-12 21:52",
+    "scraped_at": "2026-11-13T00:34:53.185933"
+  },
+  {
+    "id": "ba9e86b66c98610028343b5fe0d67d73",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs stijgt na afwijzing diplomatie door Trump",
+    "link": "https://www.beurs.nl/Nieuws/885038/Olieprijs-stijgt-na-afwijzing-diplomatie-door-Trump.aspx",
+    "intro": "De olieprijs is dinsdag gestegen nadat president Trump de noodzaak van een diplomatieke oplossing in het Midden-Oosten van tafel veegde.",
+    "published_at": "2026-11-12 20:58",
+    "scraped_at": "2026-11-13T00:34:53.185933"
+  },
+  {
     "id": "130ef98cff7e3c6a663178f75b24f537",
     "categorie": "Beursnieuws",
     "titel": "Wall Street krabbelt op na afscheid Nvidia-topman",
     "link": "https://www.beurs.nl/Nieuws/885035/Wall-Street-krabbelt-op-na-afscheid-Nvidia-topman.aspx",
     "intro": "De Amerikaanse beurzen stonden dinsdagavond licht hoger, nadat techbeurs Nasdaq herstelde van de schrik dat Nvidia zijn topman aan de kant schoof.",
     "published_at": "2026-11-12 20:04",
-    "scraped_at": "2026-11-12T19:11:19.538403"
+    "scraped_at": "2026-11-13T00:34:53.185933"
   },
   {
     "id": "a019586cc283c2904ac005ad353534b1",
@@ -15,7 +78,7 @@
     "link": "https://www.beurs.nl/Nieuws/885033/Europese-beurzen-breken-records.aspx",
     "intro": "De Europese beurzen zijn donderdag overwegend hoger gesloten, met enkele nieuwe records, maar halfgeleideraandelen stonden onder druk na het vertrek van Nvidia-topman Jensen Huang.",
     "published_at": "2026-11-12 19:02",
-    "scraped_at": "2026-11-12T19:11:19.538403"
+    "scraped_at": "2026-11-13T00:34:53.185933"
   },
   {
     "id": "ed9527cbbbfd607d7273ac951da4ba73",
@@ -24,69 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/885031/CSG-dochter-sleept-Canadees-defensiecontract-in-de-wacht.aspx",
     "intro": "Speer Ammunition, onderdeel van The Kinetic Group en lid van de CSG Group, heeft een contract gekregen van het Canadese Ministerie van Defensie. Dit maakte het Tsjechisch-Slowaakse defensie- en munitieconcern, met een notering aan het Amsterdamse Damrak, donderdagavond bekend.",
     "published_at": "2026-11-12 18:23",
-    "scraped_at": "2026-11-12T19:11:19.538403"
-  },
-  {
-    "id": "31a38602bca91060fba3644a415a8b7a",
-    "categorie": "Beursnieuws",
-    "titel": "SpaceX investeert tientallen miljarden in supercomputers",
-    "link": "https://www.beurs.nl/Nieuws/885030/SpaceX-investeert-tientallen-miljarden-in-supercomputers.aspx",
-    "intro": "SpaceX gaat meer dan 74 miljard dollar investeren in de bouw van supercomputerfaciliteiten, in twee projecten in het zuiden van Texas en in Arizona. Dit maakte het bedrijf donderdag bekend.",
-    "published_at": "2026-11-12 18:17",
-    "scraped_at": "2026-11-12T19:11:19.538403"
-  },
-  {
-    "id": "828784cf4712a537fc9ad9a48ed5f0b7",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden stijgen",
-    "link": "https://www.beurs.nl/Nieuws/885028/Amerikaanse-olievoorraden-stijgen.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week gestegen, evenals de voorraden benzine en destillaten, terwijl de raffinaderijen harder werkten. Dit bleek donderdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-11-12 18:11",
-    "scraped_at": "2026-11-12T19:11:19.538403"
-  },
-  {
-    "id": "b308d7265f24df176feb0e6048e7f78c",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit lager na vertrek van Nvidia-topman",
-    "link": "https://www.beurs.nl/Nieuws/885026/AEX-sluit-lager-na-vertrek-van-Nvidia-topman.aspx",
-    "intro": "De Amsterdamse hoofdindex is donderdag lager gesloten. Beleggers volgden de hele dag met aandacht de ontwikkelingen rond Nvidia. In de middag werd uiteindelijk bekend dat Jensen Huang per direct terugtreedt als CEO.",
-    "published_at": "2026-11-12 17:57",
-    "scraped_at": "2026-11-12T19:11:19.538403"
-  },
-  {
-    "id": "c99b13234e8ac17bd98f9a3042b4e606",
-    "categorie": "Beursnieuws",
-    "titel": "Trump stelt Tim Cook voor als nieuwe CEO Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/885023/Trump-stelt-Tim-Cook-voor-als-nieuwe-CEO-Nvidia.aspx",
-    "intro": "Tim Cook, de oud-CEO van Apple, zou volgens de Amerikaanse president Donald Trump een goede opvolger zijn voor Jensen Huang als topman van Nvidia.",
-    "published_at": "2026-11-12 16:58",
-    "scraped_at": "2026-11-12T19:11:19.538403"
-  },
-  {
-    "id": "f99975cae380df52b60d542fd877aeda",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/885016/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met vrijdag 20 november 2026:",
-    "published_at": "2026-11-12 16:27",
-    "scraped_at": "2026-11-12T19:11:19.538403"
-  },
-  {
-    "id": "32ac50c31dca75ac31aee37126a295c7",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/885017/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 20 november 2026:",
-    "published_at": "2026-11-12 16:27",
-    "scraped_at": "2026-11-12T19:11:19.538403"
-  },
-  {
-    "id": "b70866d8a8fe31ac9d3fea32ec020607",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/885018/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 20 november 2026:",
-    "published_at": "2026-11-12 16:27",
-    "scraped_at": "2026-11-12T19:11:19.538403"
+    "scraped_at": "2026-11-13T00:34:53.185933"
   }
 ]
