@@ -1,11 +1,29 @@
 [
   {
-    "id": "a4b509de7708772296156d9206aa7c19",
+    "id": "2acc4c8756b8e60ea72d59fbfffe7c49",
     "categorie": "Beursnieuws",
-    "titel": "AEX kruipt weer richting record",
-    "link": "https://www.beurs.nl/Nieuws/885200/AEX-kruipt-weer-richting-record.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week weer dichter naar het record van 1.147 punten gekropen, ondanks de perikelen bij Nvidia en de hernieuwde rentevrees na tegenvallende inflatiecijfers uit de VS.",
-    "published_at": "2026-11-14 11:01",
-    "scraped_at": "2026-11-15T11:17:03.045311"
+    "titel": "Beursblik: wat brengt kwartaalupdate Nvidia zonder Huang",
+    "link": "https://www.beurs.nl/Nieuws/885215/Beursblik-wat-brengt-kwartaalupdate-Nvidia-zonder-Huang.aspx",
+    "intro": "Nvidia komt dinsdagavond met cijfers, die door het vertrek van CEO Jensen Huang alleen maar meer aandacht zullen krijgen.",
+    "published_at": "2026-11-15 13:56",
+    "scraped_at": "2026-11-15T17:52:48.783103"
+  },
+  {
+    "id": "cc232643eef5154abc69e7f115f5e07e",
+    "categorie": "Beursnieuws",
+    "titel": "Komende week in het teken van Nvidia en beursgang Anthropic",
+    "link": "https://www.beurs.nl/Nieuws/885213/Komende-week-in-het-teken-van-Nvidia-en-beursgang-Anthropic.aspx",
+    "intro": "De komende beursweek kent twee grote events: de cijfers van Nvidia en de langverwachte beursgang van Anthropic.",
+    "published_at": "2026-11-15 13:03",
+    "scraped_at": "2026-11-15T17:52:48.783103"
+  },
+  {
+    "id": "ecaa994d1a6cba8d64153eba824b2d85",
+    "categorie": "Beursnieuws",
+    "titel": "Halfgeleiders houden stand op Damrak ondanks Nvidia-affaire",
+    "link": "https://www.beurs.nl/Nieuws/885211/Halfgeleiders-houden-stand-op-Damrak-ondanks-Nvidia-affaire.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week gestegen, terwijl de chipaandelen goed stand hielden ondanks de spionage-affaire bij Nvidia, die CEO Jensen Huang de kop kostte.",
+    "published_at": "2026-11-15 12:11",
+    "scraped_at": "2026-11-15T17:52:48.783103"
   }
 ]
