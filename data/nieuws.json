@@ -1,29 +1,92 @@
 [
   {
-    "id": "2acc4c8756b8e60ea72d59fbfffe7c49",
+    "id": "a67a76c3604fccc2ceb0e67e43bb0db2",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: wat brengt kwartaalupdate Nvidia zonder Huang",
-    "link": "https://www.beurs.nl/Nieuws/885215/Beursblik-wat-brengt-kwartaalupdate-Nvidia-zonder-Huang.aspx",
-    "intro": "Nvidia komt dinsdagavond met cijfers, die door het vertrek van CEO Jensen Huang alleen maar meer aandacht zullen krijgen.",
-    "published_at": "2026-11-15 13:56",
-    "scraped_at": "2026-11-16T02:24:22.287553"
+    "titel": "Beursupdate: AEX dicht bij huis in afwachting van cijfers Nvidia",
+    "link": "https://www.beurs.nl/Nieuws/885284/Beursupdate-AEX-dicht-bij-huis-in-afwachting-van-cijfers-Nvidia.aspx",
+    "intro": "De Amsterdamse beurs kwam maandagochtend nauwelijks van zijn plek, terwijl beleggers in afwachting zijn van de langverwachte beursgang van Anthropic en de verdere ontwikkelingen rond Nvidia.",
+    "published_at": "2026-11-16 10:55",
+    "scraped_at": "2026-11-16T10:00:56.545930"
   },
   {
-    "id": "cc232643eef5154abc69e7f115f5e07e",
+    "id": "63b781ecb54d559551a5f97388e33751",
     "categorie": "Beursnieuws",
-    "titel": "Komende week in het teken van Nvidia en beursgang Anthropic",
-    "link": "https://www.beurs.nl/Nieuws/885213/Komende-week-in-het-teken-van-Nvidia-en-beursgang-Anthropic.aspx",
-    "intro": "De komende beursweek kent twee grote events: de cijfers van Nvidia en de langverwachte beursgang van Anthropic.",
-    "published_at": "2026-11-15 13:03",
-    "scraped_at": "2026-11-16T02:24:22.287553"
+    "titel": "Beursblik: UBS verlaagt koersdoel Prosus stevig",
+    "link": "https://www.beurs.nl/Nieuws/885282/Beursblik-UBS-verlaagt-koersdoel-Prosus-stevig.aspx",
+    "intro": "UBS heeft het koersdoel voor Prosus verlaagd van 80,00 naar 69,00 euro, maar met behoud van het koopadvies. Dit bleek maandag uit een analistenrapport.",
+    "published_at": "2026-11-16 10:44",
+    "scraped_at": "2026-11-16T10:00:56.545930"
   },
   {
-    "id": "ecaa994d1a6cba8d64153eba824b2d85",
+    "id": "3a4827106a90563d21330293367075b4",
     "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders houden stand op Damrak ondanks Nvidia-affaire",
-    "link": "https://www.beurs.nl/Nieuws/885211/Halfgeleiders-houden-stand-op-Damrak-ondanks-Nvidia-affaire.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week gestegen, terwijl de chipaandelen goed stand hielden ondanks de spionage-affaire bij Nvidia, die CEO Jensen Huang de kop kostte.",
-    "published_at": "2026-11-15 12:11",
-    "scraped_at": "2026-11-16T02:24:22.287553"
+    "titel": "Omzet en marge Baidu onder druk",
+    "link": "https://www.beurs.nl/Nieuws/885280/Omzet-en-marge-Baidu-onder-druk.aspx",
+    "intro": "Baidu heeft in het derde kwartaal zowel de omzet als de marge zien dalen, maar de AI-activiteiten bleven wel hard groeien. Dit bleek maandag uit de cijfers van het Chinese techbedrijf.",
+    "published_at": "2026-11-16 10:31",
+    "scraped_at": "2026-11-16T10:00:56.545930"
+  },
+  {
+    "id": "364155f27c0d0750438a24655981a576",
+    "categorie": "Must read",
+    "titel": "Must read: Koop dus de China-, AI- of Kospidip?",
+    "link": "https://www.iex.nl/artikel/884781/Must-read-Koop-dus-de-China-AI-of-Kospidip.aspx",
+    "intro": "Plus: simpel beleggen in de circulaire economie, duurzaamheidssubsidies vooral naar de rijken, en wat te denken van olie-aandelen?",
+    "published_at": "2026-11-16 10:00",
+    "scraped_at": "2026-11-16T10:00:56.545930"
+  },
+  {
+    "id": "48f12f5562c8f586bb21a7d3145ab557",
+    "categorie": "Beursnieuws",
+    "titel": "Beursblik: Deutsche Bank verhoogt koersdoel Euronext licht",
+    "link": "https://www.beurs.nl/Nieuws/885276/Beursblik-Deutsche-Bank-verhoogt-koersdoel-Euronext-licht.aspx",
+    "intro": "Deutsche Bank heeft maandag het koersdoel voor beursexploitant Euronext licht verhoogd van 192,00 euro naar 193,00 euro, waarbij het koopadvies voor het aandeel werd gehandhaafd. Dit bleek uit een rapport van analist Benjamin Goy.",
+    "published_at": "2026-11-16 09:46",
+    "scraped_at": "2026-11-16T10:00:56.545930"
+  },
+  {
+    "id": "fa01d5b7091b938bd4b1814ed90c6e42",
+    "categorie": "Beursnieuws",
+    "titel": "Deutsche Bank haalt DSM-Firmenich van de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/885273/Deutsche-Bank-haalt-DSM-Firmenich-van-de-kooplijst.aspx",
+    "intro": "Deutsche Bank heeft het advies voor DSM-Firmenich verlaagd van Kopen naar Houden, maar het koersdoel verhoogd van 110 naar 112 euro. Dit bleek maandag uit een sectorrapport van analist Virginie Boucher-Ferte.",
+    "published_at": "2026-11-16 09:23",
+    "scraped_at": "2026-11-16T10:00:56.545930"
+  },
+  {
+    "id": "110efd6ccd073adb699c86b41f8f7a03",
+    "categorie": "Beursnieuws",
+    "titel": "AEX start beursweek nipt in het groen",
+    "link": "https://www.beurs.nl/Nieuws/885272/AEX-start-beursweek-nipt-in-het-groen.aspx",
+    "intro": "De Amsterdamse beurs is maandag licht hoger van start gegaan, ondanks de forse koersverliezen bij technologieaandelen in Azië.",
+    "published_at": "2026-11-16 09:18",
+    "scraped_at": "2026-11-16T10:00:56.545930"
+  },
+  {
+    "id": "c6a35dd31ad4b4a9f553932c42bab22d",
+    "categorie": "Beursnieuws",
+    "titel": "Philips nomineert Dick Boer als commissaris",
+    "link": "https://www.beurs.nl/Nieuws/885270/Philips-nomineert-Dick-Boer-als-commissaris.aspx",
+    "intro": "Philips heeft ex-Ahold-topman Dick Boer genomineerd als lid van de Raad van Commissarissen. Dit maakte het medtechbedrijf maandagochtend bekend.",
+    "published_at": "2026-11-16 09:07",
+    "scraped_at": "2026-11-16T10:00:56.545930"
+  },
+  {
+    "id": "837e11f29421b697a775d7412bbfb707",
+    "categorie": "Beleggen",
+    "titel": "3 ETF's voor de circulaire economie: welke is het meest circulair?",
+    "link": "https://www.ieximpact.nl/artikel/865423/3-ETFs-voor-de-circulaire-economie-welke-is-het-meest-circulair.aspx",
+    "intro": "Beleggen in de circulaire economie is heel eenvoudig, maar de verschillende ETF's waaruit kan worden gekozen hanteren totaal verschillende beleggingsstrategieën en dat leidt dus ook tot verschillende rendementen. We legden drie circulaire thema-ETF's langs de spreekwoordelijke meetlat.",
+    "published_at": "2026-11-16 08:55",
+    "scraped_at": "2026-11-16T10:00:56.545930"
+  },
+  {
+    "id": "55097a08da7294c186bea207919864f0",
+    "categorie": "Beursnieuws",
+    "titel": "Nederlandse detailhandel zet meer om",
+    "link": "https://www.beurs.nl/Nieuws/885267/Nederlandse-detailhandel-zet-meer-om.aspx",
+    "intro": "De Nederlandse detailhandel heeft in het derde kwartaal 3,1 procent meer omgezet dan in dezelfde periode een jaar eerder. Dit bleek maandag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-11-16 08:39",
+    "scraped_at": "2026-11-16T10:00:56.545930"
   }
 ]
