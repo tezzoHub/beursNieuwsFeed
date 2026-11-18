@@ -1,92 +1,92 @@
 [
   {
-    "id": "37856a0279791798dd4f51c82066bfbc",
+    "id": "df825df8e452b2ff3c615cd59042238f",
     "categorie": "Beursnieuws",
-    "titel": "Verdeeld beeld in Europa",
-    "link": "https://www.beurs.nl/Nieuws/885654/Verdeeld-beeld-in-Europa.aspx",
-    "intro": "De Europese beurzen noteerden rond het middaguur verdeeld, waarbij halfgeleiders er goed bij lagen na de resultaten van Nvidia dinsdag nabeurs.",
-    "published_at": "2026-11-18 12:12",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "titel": "Aperam schetst verdubbeling resultaat met marktbescherming",
+    "link": "https://www.beurs.nl/Nieuws/885711/Aperam-schetst-verdubbeling-resultaat-met-marktbescherming.aspx",
+    "intro": "Aperam verwacht dat maatregelen om de Europese markt te verdedigen tot 200 miljoen euro zullen bijdragen aan het EBITDA-resultaat in 2028, dat mede hierdoor kan verdubbelen ten opzichte van 2025. Dat blijkt uit een presentatie die de producent van roestvast staal woensdag gaf tijdens zijn beleggersdag.",
+    "published_at": "2026-11-18 19:33",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   },
   {
-    "id": "53a0165626066762972d53dc9973ee57",
+    "id": "40007e5aacbcbb006e97f1e435b97f47",
     "categorie": "Beursnieuws",
-    "titel": "Inflatie eurozone definitief naar 4 procent",
-    "link": "https://www.beurs.nl/Nieuws/885644/Inflatie-eurozone-definitief-naar-4-procent.aspx",
-    "intro": "De inflatie in de eurozone is in oktober verder opgelopen door een sterkere stijging van de energieprijzen. Dit bleek woensdag uit definitieve cijfers van statistiekbureau Eurostat.",
-    "published_at": "2026-11-18 11:19",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "titel": "Europese beurzen sluiten lager",
+    "link": "https://www.beurs.nl/Nieuws/885708/Europese-beurzen-sluiten-lager.aspx",
+    "intro": "De Europese beurzen zijn woensdag lager gesloten, nadat sterke cijfers van Nvidia niet voor opluchting zorgden op Wall Street, hoewel de Europese sectorgenoten wel terrein wonnen.",
+    "published_at": "2026-11-18 19:00",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   },
   {
-    "id": "27099718a2ed893d444b9a116b2fcdd1",
+    "id": "e03579fd911cdb941fb27b14863bbaf7",
     "categorie": "Beursnieuws",
-    "titel": "Barclays verhoogt koersdoelen verzekeraars Benelux",
-    "link": "https://www.beurs.nl/Nieuws/885642/Barclays-verhoogt-koersdoelen-verzekeraars-Benelux.aspx",
-    "intro": "Barclays heeft de koersdoelen voor verzekeraars in de Benelux verhoogd, terwijl het advies voor de Europese verzekeringssector werd verlaagd naar Negatief. Dit bleek uit een sectorrapport van de Britse bank.",
-    "published_at": "2026-11-18 11:08",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "titel": "AEX sluit lager na negatieve reactie op Nvidia",
+    "link": "https://www.beurs.nl/Nieuws/885704/AEX-sluit-lager-na-negatieve-reactie-op-Nvidia.aspx",
+    "intro": "De Amsterdamse beurs is woensdag lager gesloten. Prosus kreeg een tik na cijfers van Tencent, maar halfgeleiders waren in trek na de resultaten van Nvidia en in aanloop naar de IPO van Anthropic.",
+    "published_at": "2026-11-18 17:57",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   },
   {
-    "id": "65abd4479c248fc3ff7253e7aec082d0",
+    "id": "2695bdbf0f87ca1cc51693a54d499af6",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX weer onder 1.100 punten en hallo...eindejaarsrally?",
+    "link": "https://www.iex.nl/artikel/885697/Slotcall-AEX-weer-onder-1100-punten-en-halloeindejaarsrally.aspx",
+    "intro": "Het wil maar niet vlotten op het Damrak. De AEX zakt vandaag opnieuw weg en sluit 1,0% lager op 1.098,73 punten.",
+    "published_at": "2026-11-18 17:35",
+    "scraped_at": "2026-11-18T19:38:00.931605"
+  },
+  {
+    "id": "e2a644e05e8c4d7d75a7501b716da2b9",
     "categorie": "Beursnieuws",
-    "titel": "Prosus onderuit na cijfers Tencent in vlakke AEX",
-    "link": "https://www.beurs.nl/Nieuws/885639/Prosus-onderuit-na-cijfers-Tencent-in-vlakke-AEX.aspx",
-    "intro": "De Amsterdamse beurs koerste woensdagochtend iets lager, terwijl Prosus onderuit ging na cijfers van Tencent en halfgeleiders juist de weg omhoog vonden na de resultaten van Nvidia dinsdagavond nabeurs. Rond de klok van elf uur daalde de AEX fractioneel tot 1.109,52 punten.",
-    "published_at": "2026-11-18 10:51",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "titel": "Amerikaanse olievoorraden stijgen",
+    "link": "https://www.beurs.nl/Nieuws/885696/Amerikaanse-olievoorraden-stijgen.aspx",
+    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week gestegen, evenals de voorraden benzine en destillaten. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
+    "published_at": "2026-11-18 16:44",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   },
   {
-    "id": "3e94fa61646c9268620e218502ac23e3",
+    "id": "a581c5eff67bbbd9077138c5afe610a4",
     "categorie": "Beursnieuws",
-    "titel": "Jefferies verhoogt koersdoel ABN AMRO",
-    "link": "https://www.beurs.nl/Nieuws/885629/Jefferies-verhoogt-koersdoel-ABN-AMRO.aspx",
-    "intro": "Jefferies heeft woensdag het koersdoel voor ABN AMRO verhoogd van 48,00 naar 50,00 euro, met behoud van het koopadvies. Dit bleek uit een analistenrapport van Jefferies.",
-    "published_at": "2026-11-18 10:13",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "titel": "Aanstaande woningverkopen VS stevig gedaald",
+    "link": "https://www.beurs.nl/Nieuws/885694/Aanstaande-woningverkopen-VS-stevig-gedaald.aspx",
+    "intro": "De aanstaande woningverkopen in de Verenigde Staten zijn in oktober weer hard gedaald. Dit bleek woensdag uit cijfers van makelaarsorganisatie NAR.",
+    "published_at": "2026-11-18 16:13",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   },
   {
-    "id": "e2ad6b4a9897f55d7a53a93417139647",
+    "id": "a1b728ee31e3cd3d6f17d23632be16fc",
     "categorie": "Beursnieuws",
-    "titel": "Winst Tencent daalt ondanks hogere omzet",
-    "link": "https://www.beurs.nl/Nieuws/885624/Winst-Tencent-daalt-ondanks-hogere-omzet.aspx",
-    "intro": "Tencent heeft in het derde kwartaal van dit jaar de omzet zien aantrekken, maar onder de streep restte een lagere operationele winst. Dit bleek woensdag uit cijfers van de Chinese techreus, waarin het in Amsterdam genoteerde Prosus een flink belang heeft.",
-    "published_at": "2026-11-18 10:02",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/885690/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met donderdag 26 november 2026:",
+    "published_at": "2026-11-18 16:02",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   },
   {
-    "id": "948a4bc1f0a38b87aaded68b952f7cc2",
+    "id": "baaf059d7b575c34d4f6e423941e2615",
     "categorie": "Beursnieuws",
-    "titel": "Halfgeleiders zetten AEX wat hoger na cijfers Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/885617/Halfgeleiders-zetten-AEX-wat-hoger-na-cijfers-Nvidia.aspx",
-    "intro": "De Amsterdamse beurs is woensdag iets hoger geopend, dankzij koerswinsten bij de halfgeleiders na de kwartaalupdate van Nvidia.",
-    "published_at": "2026-11-18 09:11",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/885691/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met donderdag 26 november 2026:",
+    "published_at": "2026-11-18 16:01",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   },
   {
-    "id": "0a3cb54d485d8aeac6fa8852b6e929ea",
-    "categorie": "Opinie",
-    "titel": "“Slechts 3 procent van de vermogenden investeert in een betere wereld”",
-    "link": "https://www.ieximpact.nl/artikel/871631/Slechts-3-procent-van-de-vermogenden-investeert-in-een-betere-wereld.aspx",
-    "intro": "Jaren voordat impactinvesteren een begrip werd, zocht gelukskind Frank van Beuningen al naar bedrijven die niet alleen winst maakten, maar ook goed deden voor mens en planeet. Van Beuningen is mede-oprichter van een internationale community van duizenden private vermogenden die hun geld inzetten voor positieve verandering. Dit is zijn verhaal.",
-    "published_at": "2026-11-18 08:52",
-    "scraped_at": "2026-11-18T11:28:00.306057"
-  },
-  {
-    "id": "07ca1abec260c445992eeb36c0beaa7b",
+    "id": "0346023500485fedb50eb3cca28f47cd",
     "categorie": "Beursnieuws",
-    "titel": "Hays denkt winstverwachtingen te overtreffen",
-    "link": "https://www.beurs.nl/Nieuws/885610/Hays-denkt-winstverwachtingen-te-overtreffen.aspx",
-    "intro": "Hays verwacht dat de operationele winst in de eerste helft van boekjaar 2027 aanzienlijk hoger uitkomt dan analisten verwachten. Dit bleek woensdag uit een tussentijdse kwartaalupdate van de Britse uitzender.",
-    "published_at": "2026-11-18 08:50",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/885692/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met donderdag 26 november 2026:",
+    "published_at": "2026-11-18 16:00",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   },
   {
-    "id": "099ecad3ec7c5d5419dc6667d1a1809b",
-    "categorie": "Voorbeurs",
-    "titel": "Voorbeurs: 'Anthropic verhoogt IPO-prijs' en kan Nvidia overtuigen?",
-    "link": "https://www.beurs.nl/Artikel/885593/Voorbeurs-Anthropic-verhoogt-IPO-prijs-en-kan-Nvidia-overtuigen.aspx",
-    "intro": "Cijfers Nvidia beter dan verwacht, maar koerswinst nabeurshandel Nvidia loopt er weer uit. En aftellen tot beursgang Anthropic.",
-    "published_at": "2026-11-18 08:25",
-    "scraped_at": "2026-11-18T11:28:00.306057"
+    "id": "3a16d9dff93bca5aab84af6a5ec2195e",
+    "categorie": "Beursnieuws",
+    "titel": "Veel interesse in beursgang Anthropic",
+    "link": "https://www.beurs.nl/Nieuws/885688/Veel-interesse-in-beursgang-Anthropic.aspx",
+    "intro": "Er lijkt flinke interesse in de beursgang van Anthropic, waardoor de uitgifteprijs mogelijk hoger zal uitvallen dan de bandbreedte die nu door het AI-bedrijf wordt gehanteerd.",
+    "published_at": "2026-11-18 15:56",
+    "scraped_at": "2026-11-18T19:38:00.931605"
   }
 ]
