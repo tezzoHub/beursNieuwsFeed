@@ -1,92 +1,92 @@
 [
   {
-    "id": "309566d7d46a7de0cef50a953798305c",
+    "id": "03279c1d46123f0e073df7bfaa02b6c2",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/885897/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn donderdag zes van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam. ASML was de grootste daler. RELX en Unilever toonden plusjes.",
-    "published_at": "2026-11-19 22:30",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "titel": "Frans ondernemersvertrouwen afgenomen",
+    "link": "https://www.beurs.nl/Nieuws/885937/Frans-ondernemersvertrouwen-afgenomen.aspx",
+    "intro": "Het vertrouwen van Franse ondernemers in de economie is in november gedaald. Dit bleek vrijdag uit data van statistiekbureau Insee.",
+    "published_at": "2026-11-20 08:51",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "0812d3c17abfa20fdf90d0eabb2b11fe",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street sluit flink in het rood na beursgang Anthropic",
-    "link": "https://www.beurs.nl/Nieuws/885895/Wall-Street-sluit-flink-in-het-rood-na-beursgang-Anthropic.aspx",
-    "intro": "Wall Street heeft donderdag een flinke stap teruggedaan. De beursgang van Anthropic kon niet voorkomen dat de Amerikaanse beurzen behoorlijk in het rood doken. Hoewel de koersbepaling aanvankelijk voor optimisme zorgde, sloeg het sentiment om door winstnemingen en twijfels over AI als megatrend, wat ook de chipsector raakte.",
-    "published_at": "2026-11-19 22:11",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "id": "71b4ee8c419056620bfa36ffcd1b277f",
+    "categorie": "Nieuws",
+    "titel": "Van losse potjes naar één groot fonds",
+    "link": "https://www.ieximpact.nl/artikel/885672/Van-losse-potjes-naar-een-groot-fonds.aspx",
+    "intro": "In 2024 ging bijna 5,5 miljard euro naar goede doelen. Volgens Social Finance NL kunnen financiers meer bereiken als ze hun geld samenbrengen in een groot gezamenlijk fonds. Dan kan pas echt het verschil worden gemaakt.",
+    "published_at": "2026-11-20 08:35",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "13f5514905b2eba681dd9abd26f9abb0",
+    "id": "808f70a5e002945c382c10a6cd8b3ad8",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen sluiten nagenoeg vlak",
-    "link": "https://www.beurs.nl/Nieuws/885890/Olieprijzen-sluiten-nagenoeg-vlak.aspx",
-    "intro": "De olieprijzen zijn donderdag zo goed als vlak gesloten na een abrupte daling een dag eerder. Beleggers balanceerden tussen de vrees voor aanhoudende dreigingen voor de scheepvaart in de Perzische Golf en signalen van een groeiend aanbod.",
-    "published_at": "2026-11-19 21:17",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "titel": "Beursblik: Jefferies verhoogt koersdoel Ferrari Group",
+    "link": "https://www.beurs.nl/Nieuws/885934/Beursblik-Jefferies-verhoogt-koersdoel-Ferrari-Group.aspx",
+    "intro": "Jefferies heeft het koersdoel voor Ferrari Group verhoogd van 10,00 naar 11,00 euro, met handhaving van het koopadvies. Dit bleek vrijdag uit een analistenrapport van de zakenbank naar aanleiding van de cijferrapportage op donderdag.",
+    "published_at": "2026-11-20 08:33",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "bd2a20acc40c6855cb7591ccdb275cd3",
+    "id": "f83007bcc846200cc9e11449c74c762e",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street duikt in het rood ondanks spectaculaire beursgang Anthropic",
-    "link": "https://www.beurs.nl/Nieuws/885881/Wall-Street-duikt-in-het-rood-ondanks-spectaculaire-beursgang-Anthropic.aspx",
-    "intro": "De redelijk optimistische stemming die ontstond door de koersbepaling op Wall Street van de beursgang van Anthropic verdampte snel, toen donderdag de belangrijkste beursindices tijdens de handel flink in het rood doken. Er ontstond toch weer twijfel over AI als megatrend.",
-    "published_at": "2026-11-19 20:23",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "titel": "Stijging Britse detailhandelsverkopen",
+    "link": "https://www.beurs.nl/Nieuws/885932/Stijging-Britse-detailhandelsverkopen.aspx",
+    "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in oktober gestegen, na een daling in september. Dit bleek vrijdag uit cijfers van statistiekbureau ONS.",
+    "published_at": "2026-11-20 08:18",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "3d8445a6bbbe432479f047ae50438c66",
+    "id": "6b415b0fc743b8582f8ef6e569ffe56e",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten lager in schaduw van beursgang Anthropic",
-    "link": "https://www.beurs.nl/Nieuws/885879/Europese-beurzen-sluiten-lager-in-schaduw-van-beursgang-Anthropic.aspx",
-    "intro": "De Europese beurzen zijn donderdag lager gesloten, hoewel halfgeleideraandelen de wind mee hadden na een geslaagde beursgang van AI-bedrijf Anthropic op Wall Street.",
-    "published_at": "2026-11-19 19:16",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "titel": "Duitse producentenprijzen blijven hard stijgen",
+    "link": "https://www.beurs.nl/Nieuws/885931/Duitse-producentenprijzen-blijven-hard-stijgen.aspx",
+    "intro": "De producentenprijzen in Duitsland zijn in oktober nog harder gestegen dan in september. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
+    "published_at": "2026-11-20 08:10",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "4fdd94aed61bd9435816a2b0d94f8134",
+    "id": "3af581d6ffbb371593c994a8059beb78",
     "categorie": "Beursnieuws",
-    "titel": "AMD in vizier van shortseller",
-    "link": "https://www.beurs.nl/Nieuws/885875/AMD-in-vizier-van-shortseller.aspx",
-    "intro": "Hunterbrook Capital heeft een shortpositie ingenomen in AMD vanwege zorgen over de zakelijke banden van het Amerikaanse halfgeleiderbedrijf met China. Dit meldde zusterbedrijf Hunterbrook Media donderdag.",
-    "published_at": "2026-11-19 18:21",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "titel": "AEX wacht fors lagere opening na wereldwijde verkoopgolf",
+    "link": "https://www.beurs.nl/Nieuws/885928/AEX-wacht-fors-lagere-opening-na-wereldwijde-verkoopgolf.aspx",
+    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een fors lagere opening, nadat Wall Street donderdag diep in het rood eindigde en de Aziatische aandelenmarkten vanochtend zware verliezen leden.",
+    "published_at": "2026-11-20 08:06",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "4366413416c59e604d97144132f5688b",
-    "categorie": "Beursnieuws",
-    "titel": "Chippers voorkomen verlies AEX niet",
-    "link": "https://www.beurs.nl/Nieuws/885870/Chippers-voorkomen-verlies-AEX-niet.aspx",
-    "intro": "De Amsterdamse beurs is donderdag met verlies gesloten, ondanks een succesvolle IPO van Anthropic.",
-    "published_at": "2026-11-19 17:53",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "id": "efde468bab579ffce9031c2dd4711865",
+    "categorie": "Voorbeurs",
+    "titel": "AEX opent lager en de Black Friday-uitverkoop is nu echt begonnen!",
+    "link": "https://www.iex.nl/artikel/885846/AEX-opent-lager-en-de-Black-Friday-uitverkoop-is-nu-echt-begonnen.aspx",
+    "intro": "De AEX is de afgelopen week ruim 4% kwijtgeraakt en weet al vier handelsdagen op rij niet wat winnen is. Een eindejaarsrally lijkt daarmee verder weg dan ooit en nu moeten we de schade zien te beperken.",
+    "published_at": "2026-11-20 08:00",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "dd8897bbef0dc3e1aa3c725ddfea9da8",
+    "id": "2414b22e870abca82c3e630f76d3f004",
     "categorie": "Beursnieuws",
-    "titel": "Aandeel Anthropic opent op 111,50 dollar",
-    "link": "https://www.beurs.nl/Nieuws/885869/Aandeel-Anthropic-opent-op-11150-dollar.aspx",
-    "intro": "Het aandeel Anthropic heeft donderdag een spectaculaire start op de beurs gemaakt.",
-    "published_at": "2026-11-19 17:52",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "titel": "Citi verlaagt koersdoel voor Aperam",
+    "link": "https://www.beurs.nl/Nieuws/885924/Citi-verlaagt-koersdoel-voor-Aperam.aspx",
+    "intro": "Citi Research heeft vrijdag het koersdoel voor Aperam verlaagd van 42,00 naar 37,00 euro, met handhaving van het Neutraal advies. Dit bleek uit een analistenrapport van de Amerikaanse bank, nadat de roestvaststaalproducent tijdens zijn beleggersdag de EBITDA-doelstelling van 700 tot 800 miljoen euro voor 2028 bevestigde.",
+    "published_at": "2026-11-20 07:54",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "d88fbe9eeaa17aafd691d63413f57073",
-    "categorie": null,
-    "titel": "IEX Slotcall: Chipopleving door enthousiaste beursgang van Anthropic kan verlies AEX niet voorkomen",
-    "link": "https://www.beurs.nl/Artikel/885864/IEX-Slotcall-Chipopleving-door-enthousiaste-beursgang-van-Anthropic-kan-verlies-AEX-niet-voorkomen.aspx",
-    "intro": "",
-    "published_at": "2026-11-19 17:50",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "id": "0d6704306381208b06629bdff3d93ee0",
+    "categorie": "Beursnieuws",
+    "titel": "China handhaaft rente",
+    "link": "https://www.beurs.nl/Nieuws/885922/China-handhaaft-rente.aspx",
+    "intro": "De belangrijkste rentes in China zijn opnieuw gehandhaafd. Dit meldde de People's Bank of China vrijdag.",
+    "published_at": "2026-11-20 07:27",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   },
   {
-    "id": "ef9e5d5a30f250348d3d3319ffeabb10",
+    "id": "b6f1d27d60612bc54c0892d21f1e9a94",
     "categorie": "Beursnieuws",
-    "titel": "Update: Aangepaste winst Prosus groeit met dubbele cijfers",
-    "link": "https://www.beurs.nl/Nieuws/885867/Update-Aangepaste-winst-Prosus-groeit-met-dubbele-cijfers.aspx",
-    "intro": "Prosus zal in de eerste zes maanden van het huidige boekjaar een stijging van de aangepaste winst per aandeel uit de voortgezette activiteiten boeken van 10,1 tot 14,6 procent, vooral dankzij de winstgevendheid van de deelneming in Tencent. Die verwachting gaf het bedrijf donderdag af.",
-    "published_at": "2026-11-19 17:20",
-    "scraped_at": "2026-11-20T00:56:38.147770"
+    "titel": "Lichte stijging consumentenvertrouwen",
+    "link": "https://www.beurs.nl/Nieuws/885921/Lichte-stijging-consumentenvertrouwen.aspx",
+    "intro": "Het Nederlandse consumentenvertrouwen is in november licht verbeterd. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
+    "published_at": "2026-11-20 07:20",
+    "scraped_at": "2026-11-20T08:15:38.484944"
   }
 ]
