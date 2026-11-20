@@ -1,12 +1,48 @@
 [
   {
+    "id": "309566d7d46a7de0cef50a953798305c",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/885897/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn donderdag zes van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam. ASML was de grootste daler. RELX en Unilever toonden plusjes.",
+    "published_at": "2026-11-19 22:30",
+    "scraped_at": "2026-11-20T00:56:38.147770"
+  },
+  {
+    "id": "0812d3c17abfa20fdf90d0eabb2b11fe",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit flink in het rood na beursgang Anthropic",
+    "link": "https://www.beurs.nl/Nieuws/885895/Wall-Street-sluit-flink-in-het-rood-na-beursgang-Anthropic.aspx",
+    "intro": "Wall Street heeft donderdag een flinke stap teruggedaan. De beursgang van Anthropic kon niet voorkomen dat de Amerikaanse beurzen behoorlijk in het rood doken. Hoewel de koersbepaling aanvankelijk voor optimisme zorgde, sloeg het sentiment om door winstnemingen en twijfels over AI als megatrend, wat ook de chipsector raakte.",
+    "published_at": "2026-11-19 22:11",
+    "scraped_at": "2026-11-20T00:56:38.147770"
+  },
+  {
+    "id": "13f5514905b2eba681dd9abd26f9abb0",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijzen sluiten nagenoeg vlak",
+    "link": "https://www.beurs.nl/Nieuws/885890/Olieprijzen-sluiten-nagenoeg-vlak.aspx",
+    "intro": "De olieprijzen zijn donderdag zo goed als vlak gesloten na een abrupte daling een dag eerder. Beleggers balanceerden tussen de vrees voor aanhoudende dreigingen voor de scheepvaart in de Perzische Golf en signalen van een groeiend aanbod.",
+    "published_at": "2026-11-19 21:17",
+    "scraped_at": "2026-11-20T00:56:38.147770"
+  },
+  {
+    "id": "bd2a20acc40c6855cb7591ccdb275cd3",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street duikt in het rood ondanks spectaculaire beursgang Anthropic",
+    "link": "https://www.beurs.nl/Nieuws/885881/Wall-Street-duikt-in-het-rood-ondanks-spectaculaire-beursgang-Anthropic.aspx",
+    "intro": "De redelijk optimistische stemming die ontstond door de koersbepaling op Wall Street van de beursgang van Anthropic verdampte snel, toen donderdag de belangrijkste beursindices tijdens de handel flink in het rood doken. Er ontstond toch weer twijfel over AI als megatrend.",
+    "published_at": "2026-11-19 20:23",
+    "scraped_at": "2026-11-20T00:56:38.147770"
+  },
+  {
     "id": "3d8445a6bbbe432479f047ae50438c66",
     "categorie": "Beursnieuws",
     "titel": "Europese beurzen sluiten lager in schaduw van beursgang Anthropic",
     "link": "https://www.beurs.nl/Nieuws/885879/Europese-beurzen-sluiten-lager-in-schaduw-van-beursgang-Anthropic.aspx",
     "intro": "De Europese beurzen zijn donderdag lager gesloten, hoewel halfgeleideraandelen de wind mee hadden na een geslaagde beursgang van AI-bedrijf Anthropic op Wall Street.",
     "published_at": "2026-11-19 19:16",
-    "scraped_at": "2026-11-19T18:41:34.813521"
+    "scraped_at": "2026-11-20T00:56:38.147770"
   },
   {
     "id": "4fdd94aed61bd9435816a2b0d94f8134",
@@ -15,7 +51,7 @@
     "link": "https://www.beurs.nl/Nieuws/885875/AMD-in-vizier-van-shortseller.aspx",
     "intro": "Hunterbrook Capital heeft een shortpositie ingenomen in AMD vanwege zorgen over de zakelijke banden van het Amerikaanse halfgeleiderbedrijf met China. Dit meldde zusterbedrijf Hunterbrook Media donderdag.",
     "published_at": "2026-11-19 18:21",
-    "scraped_at": "2026-11-19T18:41:34.813521"
+    "scraped_at": "2026-11-20T00:56:38.147770"
   },
   {
     "id": "4366413416c59e604d97144132f5688b",
@@ -24,7 +60,7 @@
     "link": "https://www.beurs.nl/Nieuws/885870/Chippers-voorkomen-verlies-AEX-niet.aspx",
     "intro": "De Amsterdamse beurs is donderdag met verlies gesloten, ondanks een succesvolle IPO van Anthropic.",
     "published_at": "2026-11-19 17:53",
-    "scraped_at": "2026-11-19T18:41:34.813521"
+    "scraped_at": "2026-11-20T00:56:38.147770"
   },
   {
     "id": "dd8897bbef0dc3e1aa3c725ddfea9da8",
@@ -33,7 +69,7 @@
     "link": "https://www.beurs.nl/Nieuws/885869/Aandeel-Anthropic-opent-op-11150-dollar.aspx",
     "intro": "Het aandeel Anthropic heeft donderdag een spectaculaire start op de beurs gemaakt.",
     "published_at": "2026-11-19 17:52",
-    "scraped_at": "2026-11-19T18:41:34.813521"
+    "scraped_at": "2026-11-20T00:56:38.147770"
   },
   {
     "id": "d88fbe9eeaa17aafd691d63413f57073",
@@ -42,7 +78,7 @@
     "link": "https://www.beurs.nl/Artikel/885864/IEX-Slotcall-Chipopleving-door-enthousiaste-beursgang-van-Anthropic-kan-verlies-AEX-niet-voorkomen.aspx",
     "intro": "",
     "published_at": "2026-11-19 17:50",
-    "scraped_at": "2026-11-19T18:41:34.813521"
+    "scraped_at": "2026-11-20T00:56:38.147770"
   },
   {
     "id": "ef9e5d5a30f250348d3d3319ffeabb10",
@@ -51,42 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/885867/Update-Aangepaste-winst-Prosus-groeit-met-dubbele-cijfers.aspx",
     "intro": "Prosus zal in de eerste zes maanden van het huidige boekjaar een stijging van de aangepaste winst per aandeel uit de voortgezette activiteiten boeken van 10,1 tot 14,6 procent, vooral dankzij de winstgevendheid van de deelneming in Tencent. Die verwachting gaf het bedrijf donderdag af.",
     "published_at": "2026-11-19 17:20",
-    "scraped_at": "2026-11-19T18:41:34.813521"
-  },
-  {
-    "id": "a9b459d02a71bd4bc9632deeee77df10",
-    "categorie": "Beursnieuws",
-    "titel": "Aangepaste winst Prosus groeit met dubbele cijfers",
-    "link": "https://www.beurs.nl/Nieuws/885865/Aangepaste-winst-Prosus-groeit-met-dubbele-cijfers.aspx",
-    "intro": "Prosus zal in het derde kwartaal een stijging van de aangepaste winst per aandeel uit de voortgezette activiteiten boeken van 10,1 tot 14,6 procent, vooral dankzij de winstgevendheid van de deelneming in Tencent. Die verwachting gaf het bedrijf donderdag af.",
-    "published_at": "2026-11-19 17:12",
-    "scraped_at": "2026-11-19T18:41:34.813521"
-  },
-  {
-    "id": "217a336f232d7ecaf289e14cfffe1999",
-    "categorie": "Beursnieuws",
-    "titel": "Update: Leidende indicatoren VS wijzen omlaag",
-    "link": "https://www.beurs.nl/Nieuws/885854/Update-Leidende-indicatoren-VS-wijzen-omlaag.aspx",
-    "intro": "De leidende indicatoren voor de Amerikaanse economie zijn in oktober gedaald, door een dip in het aantal bouwvergunningen en een zwakker consumentenvertrouwen. Dit bleek donderdag uit cijfers van The Conference Board.",
-    "published_at": "2026-11-19 16:31",
-    "scraped_at": "2026-11-19T18:41:34.813521"
-  },
-  {
-    "id": "c8851d6d06730e35ef32f7e3bb2b466d",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/885858/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met vrijdag 27 november 2026:",
-    "published_at": "2026-11-19 16:16",
-    "scraped_at": "2026-11-19T18:41:34.813521"
-  },
-  {
-    "id": "552338856e9841c5b530345eed03e2d3",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/885859/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met vrijdag 27 november 2026:",
-    "published_at": "2026-11-19 16:16",
-    "scraped_at": "2026-11-19T18:41:34.813521"
+    "scraped_at": "2026-11-20T00:56:38.147770"
   }
 ]
