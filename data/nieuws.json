@@ -1,92 +1,92 @@
 [
   {
-    "id": "03279c1d46123f0e073df7bfaa02b6c2",
+    "id": "a9fdf3c257f36a25d8b44635a575bbc0",
+    "categorie": "IEX",
+    "titel": "Slotcall: AEX van 1.140 naar 1.067 punten (-6%) in een week tijd..",
+    "link": "https://www.iex.nl/artikel/885992/Slotcall-AEX-van-1140-naar-1067-punten-6-in-een-week-tijd.aspx",
+    "intro": "De AEX krijgt op deze laatste handelsdag van de week opnieuw een flinke opdoffer en sluit zojuist zo'n 2,2% lager op 1.067 punten.",
+    "published_at": "2026-11-20 17:35",
+    "scraped_at": "2026-11-20T17:03:09.807643"
+  },
+  {
+    "id": "7848c0ce9dc69fd481a6e1ca58dac0db",
     "categorie": "Beursnieuws",
-    "titel": "Frans ondernemersvertrouwen afgenomen",
-    "link": "https://www.beurs.nl/Nieuws/885937/Frans-ondernemersvertrouwen-afgenomen.aspx",
-    "intro": "Het vertrouwen van Franse ondernemers in de economie is in november gedaald. Dit bleek vrijdag uit data van statistiekbureau Insee.",
-    "published_at": "2026-11-20 08:51",
-    "scraped_at": "2026-11-20T08:15:38.484944"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/885998/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 30 november 2026:",
+    "published_at": "2026-11-20 16:34",
+    "scraped_at": "2026-11-20T17:03:09.807643"
   },
   {
-    "id": "71b4ee8c419056620bfa36ffcd1b277f",
-    "categorie": "Nieuws",
-    "titel": "Van losse potjes naar één groot fonds",
-    "link": "https://www.ieximpact.nl/artikel/885672/Van-losse-potjes-naar-een-groot-fonds.aspx",
-    "intro": "In 2024 ging bijna 5,5 miljard euro naar goede doelen. Volgens Social Finance NL kunnen financiers meer bereiken als ze hun geld samenbrengen in een groot gezamenlijk fonds. Dan kan pas echt het verschil worden gemaakt.",
-    "published_at": "2026-11-20 08:35",
-    "scraped_at": "2026-11-20T08:15:38.484944"
-  },
-  {
-    "id": "808f70a5e002945c382c10a6cd8b3ad8",
+    "id": "51f1b74f9e7851362b249d2d3f061b25",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: Jefferies verhoogt koersdoel Ferrari Group",
-    "link": "https://www.beurs.nl/Nieuws/885934/Beursblik-Jefferies-verhoogt-koersdoel-Ferrari-Group.aspx",
-    "intro": "Jefferies heeft het koersdoel voor Ferrari Group verhoogd van 10,00 naar 11,00 euro, met handhaving van het koopadvies. Dit bleek vrijdag uit een analistenrapport van de zakenbank naar aanleiding van de cijferrapportage op donderdag.",
-    "published_at": "2026-11-20 08:33",
-    "scraped_at": "2026-11-20T08:15:38.484944"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/885999/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 30 november 2026:",
+    "published_at": "2026-11-20 16:34",
+    "scraped_at": "2026-11-20T17:03:09.807643"
   },
   {
-    "id": "f83007bcc846200cc9e11449c74c762e",
+    "id": "f8f69e0180e868e7c8f5381e92bb4090",
     "categorie": "Beursnieuws",
-    "titel": "Stijging Britse detailhandelsverkopen",
-    "link": "https://www.beurs.nl/Nieuws/885932/Stijging-Britse-detailhandelsverkopen.aspx",
-    "intro": "De detailhandelsverkopen in het Verenigd Koninkrijk zijn in oktober gestegen, na een daling in september. Dit bleek vrijdag uit cijfers van statistiekbureau ONS.",
-    "published_at": "2026-11-20 08:18",
-    "scraped_at": "2026-11-20T08:15:38.484944"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/886000/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 30 november 2026:",
+    "published_at": "2026-11-20 16:34",
+    "scraped_at": "2026-11-20T17:03:09.807643"
   },
   {
-    "id": "6b415b0fc743b8582f8ef6e569ffe56e",
+    "id": "c7c4b485502287049178d69a1275daa1",
     "categorie": "Beursnieuws",
-    "titel": "Duitse producentenprijzen blijven hard stijgen",
-    "link": "https://www.beurs.nl/Nieuws/885931/Duitse-producentenprijzen-blijven-hard-stijgen.aspx",
-    "intro": "De producentenprijzen in Duitsland zijn in oktober nog harder gestegen dan in september. Dit bleek vrijdag uit cijfers van Destatis, het Duitse bureau voor de statistiek.",
-    "published_at": "2026-11-20 08:10",
-    "scraped_at": "2026-11-20T08:15:38.484944"
+    "titel": "Consumentenvertrouwen VS vertoont verwacht herstel",
+    "link": "https://www.beurs.nl/Nieuws/885995/Consumentenvertrouwen-VS-vertoont-verwacht-herstel.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in november inderdaad licht hersteld na een periode van dalingen. Dit bleek vrijdag uit de definitieve cijfers van de Universiteit van Michigan.",
+    "published_at": "2026-11-20 16:13",
+    "scraped_at": "2026-11-20T17:03:09.807643"
   },
   {
-    "id": "3af581d6ffbb371593c994a8059beb78",
+    "id": "fb5ed695fbd1fd8356cdf2e682335bb7",
     "categorie": "Beursnieuws",
-    "titel": "AEX wacht fors lagere opening na wereldwijde verkoopgolf",
-    "link": "https://www.beurs.nl/Nieuws/885928/AEX-wacht-fors-lagere-opening-na-wereldwijde-verkoopgolf.aspx",
-    "intro": "De Amsterdamse beurs maakt zich vrijdag op voor een fors lagere opening, nadat Wall Street donderdag diep in het rood eindigde en de Aziatische aandelenmarkten vanochtend zware verliezen leden.",
-    "published_at": "2026-11-20 08:06",
-    "scraped_at": "2026-11-20T08:15:38.484944"
+    "titel": "Consumentenvertrouwen eurozone verbeterd",
+    "link": "https://www.beurs.nl/Nieuws/885994/Consumentenvertrouwen-eurozone-verbeterd.aspx",
+    "intro": "Het consumentenvertrouwen in de eurozone is in november verbeterd. Dit bleek vrijdag uit voorlopige cijfers van de Europese Commissie.",
+    "published_at": "2026-11-20 16:09",
+    "scraped_at": "2026-11-20T17:03:09.807643"
   },
   {
-    "id": "efde468bab579ffce9031c2dd4711865",
-    "categorie": "Voorbeurs",
-    "titel": "AEX opent lager en de Black Friday-uitverkoop is nu echt begonnen!",
-    "link": "https://www.iex.nl/artikel/885846/AEX-opent-lager-en-de-Black-Friday-uitverkoop-is-nu-echt-begonnen.aspx",
-    "intro": "De AEX is de afgelopen week ruim 4% kwijtgeraakt en weet al vier handelsdagen op rij niet wat winnen is. Een eindejaarsrally lijkt daarmee verder weg dan ooit en nu moeten we de schade zien te beperken.",
-    "published_at": "2026-11-20 08:00",
-    "scraped_at": "2026-11-20T08:15:38.484944"
-  },
-  {
-    "id": "2414b22e870abca82c3e630f76d3f004",
+    "id": "ca667e2137caad4fd7c0c90375d60ee8",
     "categorie": "Beursnieuws",
-    "titel": "Citi verlaagt koersdoel voor Aperam",
-    "link": "https://www.beurs.nl/Nieuws/885924/Citi-verlaagt-koersdoel-voor-Aperam.aspx",
-    "intro": "Citi Research heeft vrijdag het koersdoel voor Aperam verlaagd van 42,00 naar 37,00 euro, met handhaving van het Neutraal advies. Dit bleek uit een analistenrapport van de Amerikaanse bank, nadat de roestvaststaalproducent tijdens zijn beleggersdag de EBITDA-doelstelling van 700 tot 800 miljoen euro voor 2028 bevestigde.",
-    "published_at": "2026-11-20 07:54",
-    "scraped_at": "2026-11-20T08:15:38.484944"
+    "titel": "Verkoopgolf op Wall Street houdt aan",
+    "link": "https://www.beurs.nl/Nieuws/885989/Verkoopgolf-op-Wall-Street-houdt-aan.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, nadat de belangrijkste indices donderdag al 2 procent inleverden.",
+    "published_at": "2026-11-20 14:48",
+    "scraped_at": "2026-11-20T17:03:09.807643"
   },
   {
-    "id": "0d6704306381208b06629bdff3d93ee0",
+    "id": "4b287055a142caa46bfceda38bde3199",
     "categorie": "Beursnieuws",
-    "titel": "China handhaaft rente",
-    "link": "https://www.beurs.nl/Nieuws/885922/China-handhaaft-rente.aspx",
-    "intro": "De belangrijkste rentes in China zijn opnieuw gehandhaafd. Dit meldde de People's Bank of China vrijdag.",
-    "published_at": "2026-11-20 07:27",
-    "scraped_at": "2026-11-20T08:15:38.484944"
+    "titel": "AEX weet niet te herstellen",
+    "link": "https://www.beurs.nl/Nieuws/885985/AEX-weet-niet-te-herstellen.aspx",
+    "intro": "De Amsterdamse beurs noteerde vrijdagmiddag opnieuw sterk lager, vooral door de aanhoudende verkoopgolf bij de halfgeleiders.",
+    "published_at": "2026-11-20 13:48",
+    "scraped_at": "2026-11-20T17:03:09.807643"
   },
   {
-    "id": "b6f1d27d60612bc54c0892d21f1e9a94",
+    "id": "5c8a3a1dac6117fde1e6c927d944f6b8",
     "categorie": "Beursnieuws",
-    "titel": "Lichte stijging consumentenvertrouwen",
-    "link": "https://www.beurs.nl/Nieuws/885921/Lichte-stijging-consumentenvertrouwen.aspx",
-    "intro": "Het Nederlandse consumentenvertrouwen is in november licht verbeterd. Dit bleek vrijdag uit cijfers van het Centraal Bureau voor de Statistiek.",
-    "published_at": "2026-11-20 07:20",
-    "scraped_at": "2026-11-20T08:15:38.484944"
+    "titel": "Futures Wall Street wijzen op verdere daling techaandelen",
+    "link": "https://www.beurs.nl/Nieuws/885980/Futures-Wall-Street-wijzen-op-verdere-daling-techaandelen.aspx",
+    "intro": "De Amerikaanse beurzen gaan vrijdag een lagere opening tegemoet, nadat de belangrijkste indices donderdag ongeveer 2 procent verloren. De eerste handelsdag van Anthropic slaagde er niet in AI-gerelateerde aandelen een impuls te geven.",
+    "published_at": "2026-11-20 13:08",
+    "scraped_at": "2026-11-20T17:03:09.807643"
+  },
+  {
+    "id": "e6bc8781ea0d96b2a462cc9404051a1f",
+    "categorie": "Beursnieuws",
+    "titel": "JPMorgan: hyperscalers best gepositioneerd",
+    "link": "https://www.beurs.nl/Nieuws/885975/JPMorgan-hyperscalers-best-gepositioneerd.aspx",
+    "intro": "Kapitaal voor AI is duurder geworden, wat betekent dat beleggers selectiever moeten zijn. Dit stelde een rapport van JPMorgan Private Bank.",
+    "published_at": "2026-11-20 12:39",
+    "scraped_at": "2026-11-20T17:03:09.807643"
   }
 ]
