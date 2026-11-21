@@ -1,92 +1,38 @@
 [
   {
-    "id": "bfbcbdf6f5ba9a194b646a7266f7a628",
-    "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/886046/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag alle acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-11-20 22:21",
-    "scraped_at": "2026-11-21T04:05:12.762651"
+    "id": "08a3e11335d147c0711fc04ff0431292",
+    "categorie": "",
+    "titel": "Vooruitblik: Prosus, HAL, HP en kan Dell het tij keren voor AI-aandelen?",
+    "link": "https://www.iex.nl/artikel/875334/Vooruitblik-Prosus-HAL-HP-en-kan-Dell-het-tij-keren-voor-AI-aandelen.aspx",
+    "intro": "",
+    "published_at": "2026-11-21 11:10",
+    "scraped_at": "2026-11-21T12:51:01.099467"
   },
   {
-    "id": "c5f5b14b76c56294d666cfbb8b4e841a",
+    "id": "e7246d080d79de1c0d3479d24581be2d",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street belandt in correctie met bloedbad voor Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/886043/Wall-Street-belandt-in-correctie-met-bloedbad-voor-Nvidia.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag keihard onderuit gegaan, terwijl Nvidia kelderde en Anthropic op zijn tweede beursdag ook terrein verloor. Op weekbasis verloren de indices 8 tot 10 procent, waarmee het de slechtste week sinds april 2025 is, toen president Trump zijn omvangrijke importheffingen aankondigde op 'Liberation Day'.",
-    "published_at": "2026-11-20 22:16",
-    "scraped_at": "2026-11-21T04:05:12.762651"
+    "titel": "AEX keldert terwijl AI-zorgen intensiveren",
+    "link": "https://www.beurs.nl/Nieuws/886055/AEX-keldert-terwijl-AI-zorgen-intensiveren.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week flink gedaald en nam daarmee afscheid van zijn recente recordreeks, terwijl de AI-correctie een vervolg kreeg in een beursweek die in het teken stond van de kwartaalcijfers van het geplaagde Nvidia en het beursdebuut van Anthropic.",
+    "published_at": "2026-11-21 11:01",
+    "scraped_at": "2026-11-21T12:51:01.099467"
   },
   {
-    "id": "eb71629db4f3e19f42a783168f93d81b",
+    "id": "f8d85b17999545634712a6109839982f",
     "categorie": "Beursnieuws",
-    "titel": "NEPI Rockcastle geeft groene obligaties uit",
-    "link": "https://www.beurs.nl/Nieuws/886038/NEPI-Rockcastle-geeft-groene-obligaties-uit.aspx",
-    "intro": "NEPI Rockcastle heeft via dochteronderneming NE Property voor 500 miljoen euro aan groene obligaties uitgegeven. Dit meldde het bedrijf vrijdag.",
-    "published_at": "2026-11-20 21:45",
-    "scraped_at": "2026-11-21T04:05:12.762651"
+    "titel": "Media: CVC wil overname Irca afblazen",
+    "link": "https://www.beurs.nl/Nieuws/886054/Media-CVC-wil-overname-Irca-afblazen.aspx",
+    "intro": "CVC Capital probeert zich terug te trekken uit de overeenkomst voor de overname van Irca, de ingrediëntengroep die eigendom is van Advent, nu er bewijs zou zijn dat het bedrijf zijn financiële resultaten mogelijk te gunstig heeft voorgesteld. Dit meldde de Financial Times zaterdag op basis van bronnen.",
+    "published_at": "2026-11-21 10:23",
+    "scraped_at": "2026-11-21T12:51:01.099467"
   },
   {
-    "id": "b0d444da791449eb7048da3aa2f58a14",
+    "id": "c6101a19203cbc6ec5878d8183fa45b8",
     "categorie": "Beursnieuws",
-    "titel": "Media: SEC-onderzoek Nvidia richt zich op boekhouding",
-    "link": "https://www.beurs.nl/Nieuws/886037/Media-SEC-onderzoek-Nvidia-richt-zich-op-boekhouding.aspx",
-    "intro": "De Amerikaanse Securities and Exchange Commission onderzoekt de boekhoudpraktijken van Nvidia. Dit berichtte persbureau Reuters vrijdag op basis van bronnen, nadat The Wall Street Journal eerder deze week al melding maakte van het onderzoek, maar toen nog niet duidelijk was waar dat op gericht is.",
-    "published_at": "2026-11-20 21:19",
-    "scraped_at": "2026-11-21T04:05:12.762651"
-  },
-  {
-    "id": "62e0659ecaeff69c525b0e85885e40c1",
-    "categorie": "Beursnieuws",
-    "titel": "Olieprijzen blijven dalen",
-    "link": "https://www.beurs.nl/Nieuws/886032/Olieprijzen-blijven-dalen.aspx",
-    "intro": "De olieprijzen zijn afgelopen week opnieuw gedaald, nu de olie-export in de Golfregio ondanks aanhoudende spanningen steeds meer toeneemt.",
-    "published_at": "2026-11-20 21:04",
-    "scraped_at": "2026-11-21T04:05:12.762651"
-  },
-  {
-    "id": "3027ad48d52630fa2a55901ccb049c17",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street stevent af op enorm weekverlies",
-    "link": "https://www.beurs.nl/Nieuws/886025/Wall-Street-stevent-af-op-enorm-weekverlies.aspx",
-    "intro": "De Amerikaanse beurzen noteerden vrijdag flink lager, aan het einde van de slechtste week sinds april 2025, toen president Trump zijn omvangrijke importheffingen aankondigde op Liberation Day.",
-    "published_at": "2026-11-20 19:34",
-    "scraped_at": "2026-11-21T04:05:12.762651"
-  },
-  {
-    "id": "e48a9a15867b9463319f7bace81f5460",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen hard onderuit in slechtste week sinds Liberation Day",
-    "link": "https://www.beurs.nl/Nieuws/886016/Europese-beurzen-hard-onderuit-in-slechtste-week-sinds-Liberation-Day.aspx",
-    "intro": "De Europese beurzen zijn vrijdag flink lager gesloten en gingen op weekbasis ook hard onderuit. Halfgeleideraandelen stonden het meest onder druk door de aanhoudende zorgen over Nvidia en het tegenvallende beursdebuut van Anthropic.",
-    "published_at": "2026-11-20 18:42",
-    "scraped_at": "2026-11-21T04:05:12.762651"
-  },
-  {
-    "id": "d6abd210117fa58c3ef94248bebba24e",
-    "categorie": "Beursnieuws",
-    "titel": "New Amsterdam Invest investeert opnieuw in vastgoed in Florida",
-    "link": "https://www.beurs.nl/Nieuws/886014/New-Amsterdam-Invest-investeert-opnieuw-in-vastgoed-in-Florida.aspx",
-    "intro": "New Amsterdam Invest heeft de overname van 100 procent van de belangen in Tamiami Investments 2 afgerond. Dit meldde het vastgoedbedrijf vrijdagavond.",
-    "published_at": "2026-11-20 18:23",
-    "scraped_at": "2026-11-21T04:05:12.762651"
-  },
-  {
-    "id": "6c86d4b9d82d842103a24dcccc8cd691",
-    "categorie": "Beursnieuws",
-    "titel": "Almunda neemt DeZorgBV over",
-    "link": "https://www.beurs.nl/Nieuws/886011/Almunda-neemt-DeZorgBV-over.aspx",
-    "intro": "Almunda Professionals heeft overeenstemming bereikt over de overname van de activiteiten van DeZorgBV, een uitzend- en detacheringsbureau voor de zorgsector. Dit werd vrijdagavond bekend, nadat op 18 november een akkoord werd gesloten.",
-    "published_at": "2026-11-20 18:04",
-    "scraped_at": "2026-11-21T04:05:12.762651"
-  },
-  {
-    "id": "b1efe0bb94c90b44f5ec579f7f0cf151",
-    "categorie": "Beursnieuws",
-    "titel": "AEX sluit dramatische week lager af",
-    "link": "https://www.beurs.nl/Nieuws/886010/AEX-sluit-dramatische-week-lager-af.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag voor de vijfde dag op rij lager gesloten en verloor deze week ruim 6 procent. Vooral technologie- en bankaandelen stonden afgelopen week onder druk.",
-    "published_at": "2026-11-20 17:57",
-    "scraped_at": "2026-11-21T04:05:12.762651"
+    "titel": "Beursblik: slechte week voor metalen",
+    "link": "https://www.beurs.nl/Nieuws/886053/Beursblik-slechte-week-voor-metalen.aspx",
+    "intro": "De goudprijs is afgelopen week gedaald tot het laagste niveau sinds augustus 2025, vanwege de bezorgdheid dat de Federal Reserve de rente zal blijven verhogen.",
+    "published_at": "2026-11-21 10:05",
+    "scraped_at": "2026-11-21T12:51:01.099467"
   }
 ]
