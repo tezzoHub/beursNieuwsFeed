@@ -1,38 +1,47 @@
 [
   {
-    "id": "08a3e11335d147c0711fc04ff0431292",
-    "categorie": "",
-    "titel": "Vooruitblik: Prosus, HAL, HP en kan Dell het tij keren voor AI-aandelen?",
-    "link": "https://www.iex.nl/artikel/875334/Vooruitblik-Prosus-HAL-HP-en-kan-Dell-het-tij-keren-voor-AI-aandelen.aspx",
-    "intro": "",
-    "published_at": "2026-11-21 11:10",
-    "scraped_at": "2026-11-22T07:09:04.986169"
+    "id": "ed36b5df3f554b834108f2035083ff11",
+    "categorie": "Beursnieuws",
+    "titel": "Media: Zuid-Korea neemt maatregelen om beurs te kalmeren",
+    "link": "https://www.beurs.nl/Nieuws/886068/Media-Zuid-Korea-neemt-maatregelen-om-beurs-te-kalmeren.aspx",
+    "intro": "Zuid-Korea heeft maatregelen aangekondigd om de aandelenmarkt in Seoel te kalmeren te midden van toenemende volatiliteit, nadat de KOSPI-index vrijdag met ruim 5 procent daalde en de indices op Wall Street ook kelderden. Dit meldde persbureau Bloomberg vandaag op basis van een verklaring van hooggeplaatste financiële functionarissen, die zondag een spoedvergadering hielden.",
+    "published_at": "2026-11-22 16:19",
+    "scraped_at": "2026-11-22T15:28:58.255122"
   },
   {
-    "id": "e7246d080d79de1c0d3479d24581be2d",
+    "id": "f8d5432fea68133e248e008bf7970c65",
     "categorie": "Beursnieuws",
-    "titel": "AEX keldert terwijl AI-zorgen intensiveren",
-    "link": "https://www.beurs.nl/Nieuws/886055/AEX-keldert-terwijl-AI-zorgen-intensiveren.aspx",
-    "intro": "De Amsterdamse beurs is afgelopen week flink gedaald en nam daarmee afscheid van zijn recente recordreeks, terwijl de AI-correctie een vervolg kreeg in een beursweek die in het teken stond van de kwartaalcijfers van het geplaagde Nvidia en het beursdebuut van Anthropic.",
-    "published_at": "2026-11-21 11:01",
-    "scraped_at": "2026-11-22T07:09:04.986169"
+    "titel": "Media: CrowdStrike overweegt overname van concurrent Zscaler",
+    "link": "https://www.beurs.nl/Nieuws/886067/Media-CrowdStrike-overweegt-overname-van-concurrent-Zscaler.aspx",
+    "intro": "De Amerikaanse cyberbeveiliger CrowdStrike voert gesprekken over de overname van concurrent Zscaler. Dit meldde persbureau Reuters vrijdagavond op basis van bronnen.",
+    "published_at": "2026-11-22 15:52",
+    "scraped_at": "2026-11-22T15:28:58.255122"
   },
   {
-    "id": "f8d85b17999545634712a6109839982f",
+    "id": "5ea513e8a6e4a7554f197da25e93874e",
     "categorie": "Beursnieuws",
-    "titel": "Media: CVC wil overname Irca afblazen",
-    "link": "https://www.beurs.nl/Nieuws/886054/Media-CVC-wil-overname-Irca-afblazen.aspx",
-    "intro": "CVC Capital probeert zich terug te trekken uit de overeenkomst voor de overname van Irca, de ingrediëntengroep die eigendom is van Advent, nu er bewijs zou zijn dat het bedrijf zijn financiële resultaten mogelijk te gunstig heeft voorgesteld. Dit meldde de Financial Times zaterdag op basis van bronnen.",
-    "published_at": "2026-11-21 10:23",
-    "scraped_at": "2026-11-22T07:09:04.986169"
+    "titel": "Rechter VS akkoord met miljardenschikking Bayer",
+    "link": "https://www.beurs.nl/Nieuws/886066/Rechter-VS-akkoord-met-miljardenschikking-Bayer.aspx",
+    "intro": "Een rechtbank in de Amerikaanse staat Missouri heeft vrijdag definitieve goedkeuring verleend aan de landelijke collectieve schikking van Bayer in de Verenigde Staten met gedupeerden in de Roundup-rechtszaken. Dit meldde het Duitse bedrijf in een persbericht.",
+    "published_at": "2026-11-22 15:44",
+    "scraped_at": "2026-11-22T15:28:58.255122"
   },
   {
-    "id": "c6101a19203cbc6ec5878d8183fa45b8",
+    "id": "f018f5dea410f981ebe29685027b9dca",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: slechte week voor metalen",
-    "link": "https://www.beurs.nl/Nieuws/886053/Beursblik-slechte-week-voor-metalen.aspx",
-    "intro": "De goudprijs is afgelopen week gedaald tot het laagste niveau sinds augustus 2025, vanwege de bezorgdheid dat de Federal Reserve de rente zal blijven verhogen.",
-    "published_at": "2026-11-21 10:05",
-    "scraped_at": "2026-11-22T07:09:04.986169"
+    "titel": "Fitch handhaaft kredietrating België",
+    "link": "https://www.beurs.nl/Nieuws/886063/Fitch-handhaaft-kredietrating-Belgie.aspx",
+    "intro": "Fitch Ratings heeft de A+ kredietrating en outlook van België vrijdagavond gehandhaafd, maar waarschuwde voor de hoge schuldenlast en het politieke klimaat in het land. Dit bleek uit een rapport van de Amerikaanse kredietwaardigheidsbeoordelaar.",
+    "published_at": "2026-11-22 12:37",
+    "scraped_at": "2026-11-22T15:28:58.255122"
+  },
+  {
+    "id": "49c99da03786eab4a0ef4c8d27caaaa5",
+    "categorie": "Beursnieuws",
+    "titel": "Slechte week voor chippers en financiële waarden",
+    "link": "https://www.beurs.nl/Nieuws/886061/Slechte-week-voor-chippers-en-financiele-waarden.aspx",
+    "intro": "De Amsterdamse is afgelopen week met ruim 6 procent gedaald, terwijl de halfgeleideraandelen stevig onder druk stonden na de resultaten van Nvidia en de langverwachte beursgang van Anthropic. ASMI verloor op weekbasis 7,9 procent. Besi en ASML daalden met respectievelijk 7,4 en zelfs 12,8 procent.",
+    "published_at": "2026-11-22 11:13",
+    "scraped_at": "2026-11-22T15:28:58.255122"
   }
 ]
