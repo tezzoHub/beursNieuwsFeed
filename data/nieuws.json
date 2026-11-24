@@ -1,47 +1,92 @@
 [
   {
-    "id": "78e06558c1aa8851650a4d12150ee405",
+    "id": "d51b80a39f85bae0607c7cae7620f1bc",
     "categorie": "Beursnieuws",
-    "titel": "Japanse dienstensector groeit minder hard",
-    "link": "https://www.beurs.nl/Nieuws/886260/Japanse-dienstensector-groeit-minder-hard.aspx",
-    "intro": "De Japanse dienstensector is in november in een lager tempo gegroeid. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
-    "published_at": "2026-11-24 06:55",
-    "scraped_at": "2026-11-24T06:09:52.702261"
+    "titel": "Vastned koopt winkelpand in Cordoba",
+    "link": "https://www.beurs.nl/Nieuws/886380/Vastned-koopt-winkelpand-in-Cordoba.aspx",
+    "intro": "Vastned heeft via zijn Spaanse dochteronderneming een winkelpand in het historische centrum van Cordoba in Spanje gekocht. Dit meldde het vastgoedbedrijf dinsdagavond.",
+    "published_at": "2026-11-24 18:23",
+    "scraped_at": "2026-11-24T17:59:11.129709"
   },
   {
-    "id": "ede2da7fef987ff34ff5489999a49e51",
+    "id": "7a12bada8a0eeb54f977fbeb621d7ebf",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/886257/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 1 december 2026:",
-    "published_at": "2026-11-24 06:43",
-    "scraped_at": "2026-11-24T06:09:52.702261"
+    "titel": "NX Filtration ziet chef innovatie Staatsen vertrekken",
+    "link": "https://www.beurs.nl/Nieuws/886379/NX-Filtration-ziet-chef-innovatie-Staatsen-vertrekken.aspx",
+    "intro": "NX Filtration neemt per 31 december aanstaande afscheid van Michiel Staatsen als lid van de raad van bestuur. Dit meldde het bedrijf uit Hengelo dinsdagavond.",
+    "published_at": "2026-11-24 18:21",
+    "scraped_at": "2026-11-24T17:59:11.129709"
   },
   {
-    "id": "7953b63d7909be1b6512150a031426a9",
+    "id": "82cd7224e4f62bbd87958308b63c9dbe",
     "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/886255/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 1 december 2026:",
-    "published_at": "2026-11-24 06:42",
-    "scraped_at": "2026-11-24T06:09:52.702261"
+    "titel": "AEX neemt flink gas terug na 'Jensen'-rally",
+    "link": "https://www.beurs.nl/Nieuws/886375/AEX-neemt-flink-gas-terug-na-Jensen-rally.aspx",
+    "intro": "De Amsterdamse beurs is dinsdag lager geëindigd, na de rally van maandag, toen beleggers zeer positief reageerden op de terugkeer van Jensen Huang als CEO van Nvidia.",
+    "published_at": "2026-11-24 17:52",
+    "scraped_at": "2026-11-24T17:59:11.129709"
   },
   {
-    "id": "ee01e1ecca63e3a1137e9cd1750fd41a",
+    "id": "61346aee9f5efbc3767b1d9232103622",
     "categorie": "Beursnieuws",
     "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/886256/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 1 december 2026:",
-    "published_at": "2026-11-24 06:42",
-    "scraped_at": "2026-11-24T06:09:52.702261"
+    "link": "https://www.beurs.nl/Nieuws/886368/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 2 december 2026:",
+    "published_at": "2026-11-24 16:27",
+    "scraped_at": "2026-11-24T17:59:11.129709"
   },
   {
-    "id": "2929045d18efc664ad715e370ecefb27",
+    "id": "57f690d7c8aa5576a38b3098814e07cb",
     "categorie": "Beursnieuws",
-    "titel": "Ajax en ABN AMRO dicht bij deal over hoofdsponsorschap",
-    "link": "https://www.beurs.nl/Nieuws/886237/Ajax-en-ABN-AMRO-dicht-bij-deal-over-hoofdsponsorschap.aspx",
-    "intro": "Ajax en ABN AMRO zijn in vergaande onderhandelingen over het hoofdsponsorschap, met ingang van komend seizoen. Dit meldde de voetbalclub maandag op zijn website.",
-    "published_at": "2026-11-24 00:11",
-    "scraped_at": "2026-11-24T06:09:52.702261"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/886369/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 2 december 2026:",
+    "published_at": "2026-11-24 16:27",
+    "scraped_at": "2026-11-24T17:59:11.129709"
+  },
+  {
+    "id": "73c2b8b98ed4793e017af509cdfe7519",
+    "categorie": "Beursnieuws",
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/886367/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 2 december 2026:",
+    "published_at": "2026-11-24 16:26",
+    "scraped_at": "2026-11-24T17:59:11.129709"
+  },
+  {
+    "id": "192fcafce8227e6b07edcc7bc49006e4",
+    "categorie": "Beursnieuws",
+    "titel": "Conference Board: Amerikaanse consument heeft meer vertrouwen",
+    "link": "https://www.beurs.nl/Nieuws/886365/Conference-Board-Amerikaanse-consument-heeft-meer-vertrouwen.aspx",
+    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in november sterk verbeterd. Dit bleek dinsdag uit cijfers van The Conference Board.",
+    "published_at": "2026-11-24 16:15",
+    "scraped_at": "2026-11-24T17:59:11.129709"
+  },
+  {
+    "id": "d86eb47ca87a5b6d8268a80332968a4c",
+    "categorie": "Beursnieuws",
+    "titel": "Media: VS willen importheffingen voor China en EU verhogen",
+    "link": "https://www.beurs.nl/Nieuws/886357/Media-VS-willen-importheffingen-voor-China-en-EU-verhogen.aspx",
+    "intro": "De Verenigde Staten kondigen mogelijk spoedig hogere importtarieven aan op goederen uit China, de Europese Unie en meer dan 12 andere landen om zo de eerder door het Hooggerechtshof ongeldig verklaarde heffingen te vervangen. Dit meldden persbureau Bloomberg en The Wall Street Journal dinsdag op basis van bronnen.",
+    "published_at": "2026-11-24 15:41",
+    "scraped_at": "2026-11-24T17:59:11.129709"
+  },
+  {
+    "id": "29838ad114a44b824f64dda859a7ee16",
+    "categorie": "Beursnieuws",
+    "titel": "Amerikaanse huizenprijzen stabiliseren",
+    "link": "https://www.beurs.nl/Nieuws/886353/Amerikaanse-huizenprijzen-stabiliseren.aspx",
+    "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in september gestabiliseerd. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
+    "published_at": "2026-11-24 15:13",
+    "scraped_at": "2026-11-24T17:59:11.129709"
+  },
+  {
+    "id": "645e61412076c8b42323c375f6ff5501",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street neemt gas terug na koersexplosie",
+    "link": "https://www.beurs.nl/Nieuws/886350/Wall-Street-neemt-gas-terug-na-koersexplosie.aspx",
+    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet. Futures op de SP 500 noteerden in aanloop naar de opening in New York tot 1,2 procent lager. De Nasdaq-future stond zelfs 2,1 procent in het rood.",
+    "published_at": "2026-11-24 15:02",
+    "scraped_at": "2026-11-24T17:59:11.129709"
   }
 ]
