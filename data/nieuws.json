@@ -1,92 +1,47 @@
 [
   {
-    "id": "5f0bea0f64a18383204d4e11d66daa70",
+    "id": "78e06558c1aa8851650a4d12150ee405",
     "categorie": "Beursnieuws",
-    "titel": "Flinke outlookverhoging HPE",
-    "link": "https://www.beurs.nl/Nieuws/886229/Flinke-outlookverhoging-HPE.aspx",
-    "intro": "Hewlett Packard Enterprise heeft in het vierde kwartaal een flinke omzetstijging geboekt en verhoogde de outlook voor het lopende boekjaar. Dit maakte het Amerikaanse technologiebedrijf maandag nabeurs bekend.",
-    "published_at": "2026-11-23 22:46",
-    "scraped_at": "2026-11-23T22:09:49.927993"
+    "titel": "Japanse dienstensector groeit minder hard",
+    "link": "https://www.beurs.nl/Nieuws/886260/Japanse-dienstensector-groeit-minder-hard.aspx",
+    "intro": "De Japanse dienstensector is in november in een lager tempo gegroeid. Dit bleek dinsdag uit voorlopige cijfers van SP Global.",
+    "published_at": "2026-11-24 06:55",
+    "scraped_at": "2026-11-24T06:09:52.702261"
   },
   {
-    "id": "ded33a73e6897d55be94e0c996e381f8",
+    "id": "ede2da7fef987ff34ff5489999a49e51",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/886228/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn maandag vijf van de acht AEX-bedrijven lager gesloten ten opzichte van het slot in Amsterdam, terwijl de euro verzwakte.",
-    "published_at": "2026-11-23 22:17",
-    "scraped_at": "2026-11-23T22:09:49.927993"
+    "titel": "Beursagenda: macro-economisch",
+    "link": "https://www.beurs.nl/Nieuws/886257/Beursagenda-macro-economisch.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met dinsdag 1 december 2026:",
+    "published_at": "2026-11-24 06:43",
+    "scraped_at": "2026-11-24T06:09:52.702261"
   },
   {
-    "id": "b44ca11181ed17be6fc39e73b3876cbe",
+    "id": "7953b63d7909be1b6512150a031426a9",
     "categorie": "Beursnieuws",
-    "titel": "Koersexplosie Nvidia geeft Wall Street vleugels",
-    "link": "https://www.beurs.nl/Nieuws/886227/Koersexplosie-Nvidia-geeft-Wall-Street-vleugels.aspx",
-    "intro": "De Amerikaanse beurzen zijn maandag flink hoger geëindigd na het nieuws dat Jensen Huang terugkeert als topman bij Nvidia.",
-    "published_at": "2026-11-23 22:10",
-    "scraped_at": "2026-11-23T22:09:49.927993"
+    "titel": "Beursagenda: Nederlandse bedrijven",
+    "link": "https://www.beurs.nl/Nieuws/886255/Beursagenda-Nederlandse-bedrijven.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met dinsdag 1 december 2026:",
+    "published_at": "2026-11-24 06:42",
+    "scraped_at": "2026-11-24T06:09:52.702261"
   },
   {
-    "id": "9e634f3cc7b1f8f99111dd153ab7be48",
+    "id": "ee01e1ecca63e3a1137e9cd1750fd41a",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen dalen naar laagste punt in maanden",
-    "link": "https://www.beurs.nl/Nieuws/886221/Olieprijzen-dalen-naar-laagste-punt-in-maanden.aspx",
-    "intro": "De olieprijzen zijn maandag verder gedaald, na ook al een daling vorige week, ondanks dat de spanningen in de Golfregio afgelopen weekend weer verder zijn opgelaaid.",
-    "published_at": "2026-11-23 21:23",
-    "scraped_at": "2026-11-23T22:09:49.927993"
+    "titel": "Beursagenda: buitenlandse fondsen",
+    "link": "https://www.beurs.nl/Nieuws/886256/Beursagenda-buitenlandse-fondsen.aspx",
+    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met dinsdag 1 december 2026:",
+    "published_at": "2026-11-24 06:42",
+    "scraped_at": "2026-11-24T06:09:52.702261"
   },
   {
-    "id": "91fa4ce4567bf856243d74fec1bb37f1",
+    "id": "2929045d18efc664ad715e370ecefb27",
     "categorie": "Beursnieuws",
-    "titel": "Media: top Nvidia niet betrokken bij terugkeer Huang",
-    "link": "https://www.beurs.nl/Nieuws/886217/Media-top-Nvidia-niet-betrokken-bij-terugkeer-Huang.aspx",
-    "intro": "Het verrassende besluit van de raad van bestuur van Nvidia om Jensen Huang weer aan te stellen als CEO, werd genomen zonder overleg met de top van het chipbedrijf. Dit meldde persbureau Bloomberg maandagavond op basis van bronnen.",
-    "published_at": "2026-11-23 20:20",
-    "scraped_at": "2026-11-23T22:09:49.927993"
-  },
-  {
-    "id": "457eeaed36421c0be3c0a22ee03c33b9",
-    "categorie": "Beursnieuws",
-    "titel": "Beursblik: vertrek CEO Adyen zorgt niet voor onmiddellijke veranderingen",
-    "link": "https://www.beurs.nl/Nieuws/886216/Beursblik-vertrek-CEO-Adyen-zorgt-niet-voor-onmiddellijke-veranderingen.aspx",
-    "intro": "Het pensioen van mede-CEO Pieter van der Does bij Adyen zal geen onmiddellijke veranderingen met zich meebrengen, maar op termijn wel, gezien de toenemende druk door de dalende aandelenkoers. Dit stelden analisten van Jefferies in een reactie op het nieuws.",
-    "published_at": "2026-11-23 19:58",
-    "scraped_at": "2026-11-23T22:09:49.927993"
-  },
-  {
-    "id": "889c6c94f1f311d75b27a9cc9ddb358c",
-    "categorie": "Beursnieuws",
-    "titel": "Koersexplosie Nvidia op felgroen Wall Street na terugkeer Huang",
-    "link": "https://www.beurs.nl/Nieuws/886215/Koersexplosie-Nvidia-op-felgroen-Wall-Street-na-terugkeer-Huang.aspx",
-    "intro": "De Amerikaanse beurzen noteerden maandag fors hoger, in reactie op het nieuws dat Jensen Huang terugkeert als topman bij Nvidia.",
-    "published_at": "2026-11-23 19:40",
-    "scraped_at": "2026-11-23T22:09:49.927993"
-  },
-  {
-    "id": "55691e7ca2521ff9b96b97ad73651d32",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen herstellen met hulp van Nvidia",
-    "link": "https://www.beurs.nl/Nieuws/886209/Europese-beurzen-herstellen-met-hulp-van-Nvidia.aspx",
-    "intro": "De Europese beurzen zijn maandag flink hoger geëindigd, na een stevig verlies vorige week. Het nieuws dat Jensen Huang terugkeert als CEO bij Nvidia gaf een duidelijke positieve impuls tijdens de middagsessie.",
-    "published_at": "2026-11-23 18:33",
-    "scraped_at": "2026-11-23T22:09:49.927993"
-  },
-  {
-    "id": "d98871ca34d7c40e7c2e6b1c0cf0d597",
-    "categorie": "Beursnieuws",
-    "titel": "CEO Adyen met pensioen",
-    "link": "https://www.beurs.nl/Nieuws/886208/CEO-Adyen-met-pensioen.aspx",
-    "intro": "Medeoprichter en mede-CEO Pieter van der Does van Adyen gaat per 31 december aanstaande men pensioen. Dit meldde het fintechbedrijf maandagavond.",
-    "published_at": "2026-11-23 18:28",
-    "scraped_at": "2026-11-23T22:09:49.927993"
-  },
-  {
-    "id": "556aa416aae782278dac2d31ca201618",
-    "categorie": "Beursnieuws",
-    "titel": "AEX stijgt sterk op hernieuwd AI-optimisme",
-    "link": "https://www.beurs.nl/Nieuws/886202/AEX-stijgt-sterk-op-hernieuwd-AI-optimisme.aspx",
-    "intro": "De Amsterdamse beurs is maandag sterk opgeveerd op het nieuws dat de opgestapte topman van Nvidia, Jensen Huang, weer is aangesteld bij de Amerikaanse fabrikant van AI-chips.",
-    "published_at": "2026-11-23 17:57",
-    "scraped_at": "2026-11-23T22:09:49.927993"
+    "titel": "Ajax en ABN AMRO dicht bij deal over hoofdsponsorschap",
+    "link": "https://www.beurs.nl/Nieuws/886237/Ajax-en-ABN-AMRO-dicht-bij-deal-over-hoofdsponsorschap.aspx",
+    "intro": "Ajax en ABN AMRO zijn in vergaande onderhandelingen over het hoofdsponsorschap, met ingang van komend seizoen. Dit meldde de voetbalclub maandag op zijn website.",
+    "published_at": "2026-11-24 00:11",
+    "scraped_at": "2026-11-24T06:09:52.702261"
   }
 ]
