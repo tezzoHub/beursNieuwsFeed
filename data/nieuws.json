@@ -1,12 +1,84 @@
 [
   {
+    "id": "117d319af83b2b5638c69957eb9fc305",
+    "categorie": "Beursnieuws",
+    "titel": "Beursupdate: AEX op Wall Street",
+    "link": "https://www.beurs.nl/Nieuws/886397/Beursupdate-AEX-op-Wall-Street.aspx",
+    "intro": "Op Wall Street zijn dinsdag zeven van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
+    "published_at": "2026-11-24 22:52",
+    "scraped_at": "2026-11-25T02:14:18.709433"
+  },
+  {
+    "id": "43e787828abe28db9820f0d7d8bfa8da",
+    "categorie": "Beursnieuws",
+    "titel": "Dell overtreft verwachtingen",
+    "link": "https://www.beurs.nl/Nieuws/886396/Dell-overtreft-verwachtingen.aspx",
+    "intro": "Dell Technologies in het derde kwartaal de de verwachtingen van Wall Street ruim overtroffen voor zowel de resultaten als de vooruitzichten. Het aandeel steeg na sluitingstijd veel minder sterk dan het in de reguliere handel was gedaald.",
+    "published_at": "2026-11-24 22:46",
+    "scraped_at": "2026-11-25T02:14:18.709433"
+  },
+  {
+    "id": "026954e5a1fe7c72e86e1e44434fce62",
+    "categorie": "Beursnieuws",
+    "titel": "Hewlett Packard voorzichtig na sterke omzetgroei",
+    "link": "https://www.beurs.nl/Nieuws/886395/Hewlett-Packard-voorzichtig-na-sterke-omzetgroei.aspx",
+    "intro": "Hewlett Packard heeft de omzet in het afgelopen kwartaal sterker dan verwacht laten stijgen,  maar was voorzichtig in zijn vooruitblik in verband met de hoge kostendruk. Dat bleek dinsdag uit de kwartaalcijfers van de Amerikaanse computerfabrikant.",
+    "published_at": "2026-11-24 22:36",
+    "scraped_at": "2026-11-25T02:14:18.709433"
+  },
+  {
+    "id": "1126cd4ecafb2a65a290d0fef69f88cf",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street sluit verdeeld na koersexplosie",
+    "link": "https://www.beurs.nl/Nieuws/886394/Wall-Street-sluit-verdeeld-na-koersexplosie.aspx",
+    "intro": "De Amerikaanse beurzen zijn dinsdag overwegend lager gesloten, na de koersexplosie van maandag.",
+    "published_at": "2026-11-24 22:24",
+    "scraped_at": "2026-11-25T02:14:18.709433"
+  },
+  {
+    "id": "ec472143864cd996d779a341402beb4e",
+    "categorie": "Beursnieuws",
+    "titel": "Olieprijs herstelt",
+    "link": "https://www.beurs.nl/Nieuws/886389/Olieprijs-herstelt.aspx",
+    "intro": "De olieprijs is dinsdag gestegen, herstellend van de verliezen in de vorige handelsdag.",
+    "published_at": "2026-11-24 21:47",
+    "scraped_at": "2026-11-25T02:14:18.709433"
+  },
+  {
+    "id": "685988aaf94ab3dd626a28387d2ec0ad",
+    "categorie": "Beursnieuws",
+    "titel": "Wall Street komt op adem na koersexplosie",
+    "link": "https://www.beurs.nl/Nieuws/886388/Wall-Street-komt-op-adem-na-koersexplosie.aspx",
+    "intro": "De Amerikaanse beurzen stonden dinsdag overwegend lager, terugvallend na de koersexplosie van maandag.",
+    "published_at": "2026-11-24 20:26",
+    "scraped_at": "2026-11-25T02:14:18.709433"
+  },
+  {
+    "id": "50666fe83e06eef722f55328f159396d",
+    "categorie": "Beursnieuws",
+    "titel": "GBL en CVC ronden overname Recordati af",
+    "link": "https://www.beurs.nl/Nieuws/886384/GBL-en-CVC-ronden-overname-Recordati-af.aspx",
+    "intro": "GBL en CVC Capital hebben de overname van de Italiaanse farmaceut Recordati afgerond. Dit meldde GBL dinsdagavond.",
+    "published_at": "2026-11-24 18:58",
+    "scraped_at": "2026-11-25T02:14:18.709433"
+  },
+  {
+    "id": "0cee2ec2fa04364c98926cb23802ae4a",
+    "categorie": "Beursnieuws",
+    "titel": "Rode cijfers op Europese beurzen",
+    "link": "https://www.beurs.nl/Nieuws/886383/Rode-cijfers-op-Europese-beurzen.aspx",
+    "intro": "Europese aandelen deden dinsdag een stap terug, na de euforische reactie van beleggers maandag op het nieuws dat Jensen Huang terugkeert als topman van Nvidia.",
+    "published_at": "2026-11-24 18:52",
+    "scraped_at": "2026-11-25T02:14:18.709433"
+  },
+  {
     "id": "d51b80a39f85bae0607c7cae7620f1bc",
     "categorie": "Beursnieuws",
     "titel": "Vastned koopt winkelpand in Cordoba",
     "link": "https://www.beurs.nl/Nieuws/886380/Vastned-koopt-winkelpand-in-Cordoba.aspx",
     "intro": "Vastned heeft via zijn Spaanse dochteronderneming een winkelpand in het historische centrum van Cordoba in Spanje gekocht. Dit meldde het vastgoedbedrijf dinsdagavond.",
     "published_at": "2026-11-24 18:23",
-    "scraped_at": "2026-11-24T17:59:11.129709"
+    "scraped_at": "2026-11-25T02:14:18.709433"
   },
   {
     "id": "7a12bada8a0eeb54f977fbeb621d7ebf",
@@ -15,78 +87,6 @@
     "link": "https://www.beurs.nl/Nieuws/886379/NX-Filtration-ziet-chef-innovatie-Staatsen-vertrekken.aspx",
     "intro": "NX Filtration neemt per 31 december aanstaande afscheid van Michiel Staatsen als lid van de raad van bestuur. Dit meldde het bedrijf uit Hengelo dinsdagavond.",
     "published_at": "2026-11-24 18:21",
-    "scraped_at": "2026-11-24T17:59:11.129709"
-  },
-  {
-    "id": "82cd7224e4f62bbd87958308b63c9dbe",
-    "categorie": "Beursnieuws",
-    "titel": "AEX neemt flink gas terug na 'Jensen'-rally",
-    "link": "https://www.beurs.nl/Nieuws/886375/AEX-neemt-flink-gas-terug-na-Jensen-rally.aspx",
-    "intro": "De Amsterdamse beurs is dinsdag lager geëindigd, na de rally van maandag, toen beleggers zeer positief reageerden op de terugkeer van Jensen Huang als CEO van Nvidia.",
-    "published_at": "2026-11-24 17:52",
-    "scraped_at": "2026-11-24T17:59:11.129709"
-  },
-  {
-    "id": "61346aee9f5efbc3767b1d9232103622",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/886368/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met woensdag 2 december 2026:",
-    "published_at": "2026-11-24 16:27",
-    "scraped_at": "2026-11-24T17:59:11.129709"
-  },
-  {
-    "id": "57f690d7c8aa5576a38b3098814e07cb",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/886369/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met woensdag 2 december 2026:",
-    "published_at": "2026-11-24 16:27",
-    "scraped_at": "2026-11-24T17:59:11.129709"
-  },
-  {
-    "id": "73c2b8b98ed4793e017af509cdfe7519",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/886367/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met woensdag 2 december 2026:",
-    "published_at": "2026-11-24 16:26",
-    "scraped_at": "2026-11-24T17:59:11.129709"
-  },
-  {
-    "id": "192fcafce8227e6b07edcc7bc49006e4",
-    "categorie": "Beursnieuws",
-    "titel": "Conference Board: Amerikaanse consument heeft meer vertrouwen",
-    "link": "https://www.beurs.nl/Nieuws/886365/Conference-Board-Amerikaanse-consument-heeft-meer-vertrouwen.aspx",
-    "intro": "Het vertrouwen van Amerikaanse consumenten in de economie is in november sterk verbeterd. Dit bleek dinsdag uit cijfers van The Conference Board.",
-    "published_at": "2026-11-24 16:15",
-    "scraped_at": "2026-11-24T17:59:11.129709"
-  },
-  {
-    "id": "d86eb47ca87a5b6d8268a80332968a4c",
-    "categorie": "Beursnieuws",
-    "titel": "Media: VS willen importheffingen voor China en EU verhogen",
-    "link": "https://www.beurs.nl/Nieuws/886357/Media-VS-willen-importheffingen-voor-China-en-EU-verhogen.aspx",
-    "intro": "De Verenigde Staten kondigen mogelijk spoedig hogere importtarieven aan op goederen uit China, de Europese Unie en meer dan 12 andere landen om zo de eerder door het Hooggerechtshof ongeldig verklaarde heffingen te vervangen. Dit meldden persbureau Bloomberg en The Wall Street Journal dinsdag op basis van bronnen.",
-    "published_at": "2026-11-24 15:41",
-    "scraped_at": "2026-11-24T17:59:11.129709"
-  },
-  {
-    "id": "29838ad114a44b824f64dda859a7ee16",
-    "categorie": "Beursnieuws",
-    "titel": "Amerikaanse huizenprijzen stabiliseren",
-    "link": "https://www.beurs.nl/Nieuws/886353/Amerikaanse-huizenprijzen-stabiliseren.aspx",
-    "intro": "De huizenprijzen in de grootste Amerikaanse steden zijn in september gestabiliseerd. Dit bleek dinsdag uit de cijfers van SP Case-Shiller.",
-    "published_at": "2026-11-24 15:13",
-    "scraped_at": "2026-11-24T17:59:11.129709"
-  },
-  {
-    "id": "645e61412076c8b42323c375f6ff5501",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street neemt gas terug na koersexplosie",
-    "link": "https://www.beurs.nl/Nieuws/886350/Wall-Street-neemt-gas-terug-na-koersexplosie.aspx",
-    "intro": "De Amerikaanse beurzen gaan dinsdag een lagere opening tegemoet. Futures op de SP 500 noteerden in aanloop naar de opening in New York tot 1,2 procent lager. De Nasdaq-future stond zelfs 2,1 procent in het rood.",
-    "published_at": "2026-11-24 15:02",
-    "scraped_at": "2026-11-24T17:59:11.129709"
+    "scraped_at": "2026-11-25T02:14:18.709433"
   }
 ]
