@@ -1,92 +1,92 @@
 [
   {
-    "id": "345d886be80e74644ba12169a0ccdfe9",
+    "id": "cd7f88fc124061b1062aaf326f602613",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/886558/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn woensdag alle van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-11-25 22:41",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "titel": "Bank of England wil kapitaaleis voor banken verlagen",
+    "link": "https://www.beurs.nl/Nieuws/886618/Bank-of-England-wil-kapitaaleis-voor-banken-verlagen.aspx",
+    "intro": "De kapitaalvereisten voor grote Britse banken zouden kunnen worden verlaagd op basis van voorstellen van de Bank of England, waardoor meer kapitaal vrijkomt voor dividenden, aandeleninkoop of kredietverlening. Dit bleek donderdag uit een evaluatie van het Comité voor Financieel Beleid van de Britse centrale bank.",
+    "published_at": "2026-11-26 12:41",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "d77299159bc69f5bd14e6598e06cda54",
+    "id": "9e37db9372ef055e580b55aa2bfb7b72",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street eindigt verdeeld na onrust over AI en inflatie",
-    "link": "https://www.beurs.nl/Nieuws/886557/Wall-Street-eindigt-verdeeld-na-onrust-over-AI-en-inflatie.aspx",
-    "intro": "De Amerikaanse beurzen zijn woensdag verdeeld gesloten. Terwijl de Dow Jones-index de sessie met winst wist af te ronden, eindigden de andere belangrijke graadmeters in het rood onder druk van tegenvallende inflatiecijfers en het van de hand doen van technologieaandelen door beleggers.",
-    "published_at": "2026-11-25 22:17",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "titel": "Europese beurzen veren flink op",
+    "link": "https://www.beurs.nl/Nieuws/886615/Europese-beurzen-veren-flink-op.aspx",
+    "intro": "De Europese beurzen zijn donderdag scherp gestegen na van de schrik te zijn bekomen van tegenvallende inflatiecijfers vanuit de Verenigde Staten en doordat het sentiment rond de vooruitzichten voor AI stabiel bleef.",
+    "published_at": "2026-11-26 12:17",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "51b0648b2b588a99900c5537a67bab68",
+    "id": "f5990cd05ec92bba12f3e4e7e1feb1f6",
     "categorie": "Beursnieuws",
-    "titel": "Olieprijzen veren op door spanningen in het Midden-Oosten",
-    "link": "https://www.beurs.nl/Nieuws/886556/Olieprijzen-veren-op-door-spanningen-in-het-Midden-Oosten.aspx",
-    "intro": "De oliemarkt heeft zich woensdag verder hersteld van eerdere verliezen, al blijft de richting van de prijzen onzeker. Beleggers balanceerden tussen de vrees voor een wereldwijd overaanbod en de angst voor een verdere escalatie van de geopolitieke spanningen in het Midden-Oosten.",
-    "published_at": "2026-11-25 21:12",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "titel": "Flinke winsten in groene AEX",
+    "link": "https://www.beurs.nl/Nieuws/886610/Flinke-winsten-in-groene-AEX.aspx",
+    "intro": "De Amsterdamse beurs koerste donderdagochtend overtuigend hoger. Rond de klok van elf uur won de AEX 1,6 procent op 1.080,81 punten.",
+    "published_at": "2026-11-26 10:57",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "96ccc0096d928f59635db17a3e059895",
+    "id": "6d14a5f52ff37b921535a442b0d7b529",
     "categorie": "Beursnieuws",
-    "titel": "Beige Book wijst op gematigde economische groei in VS",
-    "link": "https://www.beurs.nl/Nieuws/886553/Beige-Book-wijst-op-gematigde-economische-groei-in-VS.aspx",
-    "intro": "De Amerikaanse economie heeft de afgelopen periode een licht tot gematigd groeitempo laten zien, al waren er duidelijke regionale verschillen zichtbaar. Dat bleek woensdag uit het meest recente Beige Book van de Federal Reserve.",
-    "published_at": "2026-11-25 20:48",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "titel": "UBS verlaagt koersdoel Prosus",
+    "link": "https://www.beurs.nl/Nieuws/886609/UBS-verlaagt-koersdoel-Prosus.aspx",
+    "intro": "UBS heeft het koersdoel voor het aandeel Prosus verlaagd van 69,00 naar 63,00 euro, maar met behoud van het koopadvies. Dat bleek donderdag uit een analistenrapport.",
+    "published_at": "2026-11-26 10:50",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "59f07c7c230f47e29b8ef3c8a546fb81",
-    "categorie": "Beursnieuws",
-    "titel": "Wall Street voelt druk van hoge inflatie en AI-verkoopgolf",
-    "link": "https://www.beurs.nl/Nieuws/886550/Wall-Street-voelt-druk-van-hoge-inflatie-en-AI-verkoopgolf.aspx",
-    "intro": "De Amerikaanse beurzen noteerden woensdag verdeeld, waarbij de Dow Jones-index het in het groen wist te houden. De andere graadmeters werden echter getroffen door hoger dan verwachte inflatiecijfers en aanhoudende druk op technologieaandelen.",
-    "published_at": "2026-11-25 20:12",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "id": "f333541e214611023872ba770973588b",
+    "categorie": "Must read",
+    "titel": "Must read: Is goud eigenlijk nog wel een veilige haven?",
+    "link": "https://www.iex.nl/artikel/886276/Must-read-Is-goud-eigenlijk-nog-wel-een-veilige-haven.aspx",
+    "intro": "Plus: AI wint razendsnel terrein, koop dus de dip, rekening economische groei loopt op, drie alternatieve tech-ETF's, dollarkracht verklaard, en meer.",
+    "published_at": "2026-11-26 10:00",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "a9c33890114990a1d3b18eb2031a5572",
+    "id": "2e0fc153d44b82f695a6f7534da3e544",
     "categorie": "Beursnieuws",
-    "titel": "Europese beurzen onderuit door AI-zorgen en importheffingen",
-    "link": "https://www.beurs.nl/Nieuws/886546/Europese-beurzen-onderuit-door-AI-zorgen-en-importheffingen.aspx",
-    "intro": "De Europese beurzen zijn woensdag in het rood gesloten, terwijl ook Wall Street een forse stap terug deed. Beleggers bleven zich zorgen maken over de vooruitzichten voor investeringen in AI en over nieuwe importheffingen in de VS, terwijl de inflatie daar maar blijft oplopen. Ze vluchtten in veilige havens, waardoor de prijzen van staatsobligaties stegen en de rentes zakten.",
-    "published_at": "2026-11-25 19:03",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "titel": "HAL ziet intrinsieke waarde fors stijgen",
+    "link": "https://www.beurs.nl/Nieuws/886601/HAL-ziet-intrinsieke-waarde-fors-stijgen.aspx",
+    "intro": "De intrinsieke waarde van HAL is in de eerste negen maanden van 2026 flink gestegen. Dit bleek donderdag uit een update van de beursgenoteerde holding.",
+    "published_at": "2026-11-26 09:28",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "98f9a36e7b8f493d3ccb1c9764f5025f",
+    "id": "ba79fa1b1de82d30b2a3d133384b6fe6",
     "categorie": "Beursnieuws",
-    "titel": "AI-sector trekt AEX omlaag",
-    "link": "https://www.beurs.nl/Nieuws/886535/AI-sector-trekt-AEX-omlaag.aspx",
-    "intro": "De Amsterdamse beurs is woensdag lager gesloten, door aanhoudende zorgen over de hoge waarderingen van AI-aandelen wereldwijd en nieuwe Amerikaanse importheffingen, die beleggers lieten vluchten naar obligaties.",
-    "published_at": "2026-11-25 17:56",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "titel": "Chipaandelen zetten AEX flink hoger",
+    "link": "https://www.beurs.nl/Nieuws/886599/Chipaandelen-zetten-AEX-flink-hoger.aspx",
+    "intro": "De Amsterdamse beurs is donderdag met flinke koerswinsten aan de handelsdag begonnen, waarbij vooral de chipaandelen in trek waren.",
+    "published_at": "2026-11-26 09:16",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "de4bf8a749bcd04878d4cd32cb99f6e1",
+    "id": "eb30a42b49bf6d0514e3ede1ca463e25",
     "categorie": "Beursnieuws",
-    "titel": "Amerikaanse olievoorraden stijgen opnieuw",
-    "link": "https://www.beurs.nl/Nieuws/886527/Amerikaanse-olievoorraden-stijgen-opnieuw.aspx",
-    "intro": "De voorraden ruwe olie in de Verenigde Staten zijn afgelopen week opnieuw gestegen terwijl ook de voorraden benzine en destillaten toenamen. Dit bleek woensdag uit cijfers van het Amerikaanse energieagentschap EIA.",
-    "published_at": "2026-11-25 16:39",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "titel": "FT: Nvidia stopt chipleveringen in Zuidoost-Azië",
+    "link": "https://www.beurs.nl/Nieuws/886597/FT-Nvidia-stopt-chipleveringen-in-Zuidoost-Azie.aspx",
+    "intro": "Nvidia heeft zijn partners, waaronder Dell en Supermicro, opgedragen om geen servers meer te verschepen naar klanten in Maleisië, Singapore, Thailand en Indonesië. Dit meldde de Financial Times donderdag op basis van drie bronnen.",
+    "published_at": "2026-11-26 09:01",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "c4eaa92c436ed1e803d2d4ab56bd4b5b",
+    "id": "b51040630e756eb7dacd5fffe3a61c66",
     "categorie": "Beursnieuws",
-    "titel": "Beursblik: druk op Fed voor renteverhogingen neemt toe",
-    "link": "https://www.beurs.nl/Nieuws/886526/Beursblik-druk-op-Fed-voor-renteverhogingen-neemt-toe.aspx",
-    "intro": "De Federal Reserve staat onder stevige druk om de rente in december opnieuw te verhogen, mogelijk met meer dan 25 basispunten.",
-    "published_at": "2026-11-25 16:32",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "titel": "Berenberg zet Bayer op de kooplijst",
+    "link": "https://www.beurs.nl/Nieuws/886595/Berenberg-zet-Bayer-op-de-kooplijst.aspx",
+    "intro": "Berenberg heeft het advies voor Bayer verhoogd van Houden naar Kopen, met een ongewijzigd koersdoel van 62,00 euro, na de recente koersdaling door winstnemingen. Dat bleek donderdag uit een analistenrapport.",
+    "published_at": "2026-11-26 08:57",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   },
   {
-    "id": "89f24641e6e3eb97a19f2c6942dfec14",
-    "categorie": "Beursnieuws",
-    "titel": "DSM-Firmenich schikt met Europese en Britse toezichthouders",
-    "link": "https://www.beurs.nl/Nieuws/886521/DSM-Firmenich-schikt-met-Europese-en-Britse-toezichthouders.aspx",
-    "intro": "DSM-Firmenich heeft een schikking getroffen met zowel de Europese Commissie als de Britse mededingingsautoriteit. Dat heeft het chemie- en voedingsconcern woensdag bekendgemaakt.",
-    "published_at": "2026-11-25 16:15",
-    "scraped_at": "2026-11-26T03:12:49.310847"
+    "id": "cbb449424358f6736791a9505bd8c94b",
+    "categorie": "Opinie",
+    "titel": "De economie groeit, maar de rekening loopt steeds verder op",
+    "link": "https://www.ieximpact.nl/artikel/886509/De-economie-groeit-maar-de-rekening-loopt-steeds-verder-op.aspx",
+    "intro": "Ondanks klimaatschade, geopolitieke spanningen en oplopende overheidsschulden groeit de economie verder. Maar volgens Hans Stegeman, hoofdeconoom vanTriodos Bank, schuilt achter die ogenschijnlijke veerkracht een kwetsbaar systeem. \"We kopen tijd door problemen voor ons uit te schuiven. Helaas is uitstel de duurste keuze die er is.\"",
+    "published_at": "2026-11-26 08:40",
+    "scraped_at": "2026-11-26T12:55:28.505949"
   }
 ]
