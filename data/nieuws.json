@@ -1,92 +1,29 @@
 [
   {
-    "id": "f12f9838d647f2b5214f12f1429c9735",
+    "id": "68ba4fcc804585e81aace6612a0cbf35",
     "categorie": "Beursnieuws",
-    "titel": "Beursupdate: AEX op Wall Street",
-    "link": "https://www.beurs.nl/Nieuws/886767/Beursupdate-AEX-op-Wall-Street.aspx",
-    "intro": "Op Wall Street zijn vrijdag vijf van de acht AEX-bedrijven hoger gesloten ten opzichte van het slot in Amsterdam.",
-    "published_at": "2026-11-27 19:25",
-    "scraped_at": "2026-11-28T04:20:04.739187"
+    "titel": "Gemengde week voor chippers op Damrak",
+    "link": "https://www.beurs.nl/Nieuws/886777/Gemengde-week-voor-chippers-op-Damrak.aspx",
+    "intro": "De Amsterdamse beurs wist afgelopen week bijna volledig in het groen te blijven. Besi leverde op weekbasis wel 1,6 procent in en ASMI daalde zelfs meer dan 3 procent. ASML won daarentegen 2,6 procent.",
+    "published_at": "2026-11-28 12:24",
+    "scraped_at": "2026-11-28T13:20:50.250607"
   },
   {
-    "id": "bd55b330305b7dcacf4d5cd5615976ff",
+    "id": "a76a167d7377ebaa96c668a7fb36afbf",
     "categorie": "Beursnieuws",
-    "titel": "Wall Street positief het weekend in",
-    "link": "https://www.beurs.nl/Nieuws/886766/Wall-Street-positief-het-weekend-in.aspx",
-    "intro": "De Amerikaanse beurzen zijn vrijdag tijdens een verkorte handelssessie hoger gesloten. Ondanks de volatiliteit boekten de indices op weekbasis stevige winsten, waarmee ze een aanzienlijk deel van het sterke verlies van de week ervoor goedmaakten.",
-    "published_at": "2026-11-27 19:21",
-    "scraped_at": "2026-11-28T04:20:04.739187"
+    "titel": "AEX herstelt dankzij 'Jensen'-rally",
+    "link": "https://www.beurs.nl/Nieuws/886775/AEX-herstelt-dankzij-Jensen-rally.aspx",
+    "intro": "De Amsterdamse beurs is afgelopen week flink opgeveerd na het nieuws dat Jensen Huang weer is aangesteld als topman bij Nvidia. Daardoor namen de zorgen rond AI voor even af.",
+    "published_at": "2026-11-28 12:00",
+    "scraped_at": "2026-11-28T13:20:50.250607"
   },
   {
-    "id": "23c8b0e0bf9cc4cda22dc8992aa5981f",
-    "categorie": "Beursnieuws",
-    "titel": "Europese beurzen sluiten grillige week hoger af",
-    "link": "https://www.beurs.nl/Nieuws/886765/Europese-beurzen-sluiten-grillige-week-hoger-af.aspx",
-    "intro": "De Europese beurzen zijn vrijdag hoger geëindigd en sloten daarmee een grillige week met winst af.",
-    "published_at": "2026-11-27 18:43",
-    "scraped_at": "2026-11-28T04:20:04.739187"
-  },
-  {
-    "id": "39e8930d4473825c59b8f5412b9f3a0e",
-    "categorie": "Beursnieuws",
-    "titel": "AEX blijft net onder 1.100 punten",
-    "link": "https://www.beurs.nl/Nieuws/886762/AEX-blijft-net-onder-1100-punten.aspx",
-    "intro": "De Amsterdamse beurs is vrijdag flink gestegen en kroop zo weer richting de 1.100 punten. De handel was dunner dan normaal vanwege Black Friday.",
-    "published_at": "2026-11-27 17:51",
-    "scraped_at": "2026-11-28T04:20:04.739187"
-  },
-  {
-    "id": "b783bef674bb120c98a417af72f3a1b5",
-    "categorie": "Beursnieuws",
-    "titel": "Lavide verliest twee commissarissen",
-    "link": "https://www.beurs.nl/Nieuws/886760/Lavide-verliest-twee-commissarissen.aspx",
-    "intro": "Lavide Holding heeft twee leden van de raad van commissarissen niet herbenoemd. Dit maakte het bedrijf vrijdag nabeurs bekend.",
-    "published_at": "2026-11-27 17:42",
-    "scraped_at": "2026-11-28T04:20:04.739187"
-  },
-  {
-    "id": "a806c79b4f5f0442f48f4a77c8905032",
-    "categorie": "Beursnieuws",
-    "titel": "Colt CZ benoemt Karel Pražák tot commissaris",
-    "link": "https://www.beurs.nl/Nieuws/886759/Colt-CZ-benoemt-Karel-Prazak-tot-commissaris.aspx",
-    "intro": "Colt CZ Group zal Karel Pražák, oprichter en enig eigenaar van de Kaprain Group, per 30 november toevoegen aan de raad van commissarissen. Dit maakte de Tsjechische wapenfabrikant, die ook een notering heeft in Amsterdam, vrijdag bekend.",
-    "published_at": "2026-11-27 17:11",
-    "scraped_at": "2026-11-28T04:20:04.739187"
-  },
-  {
-    "id": "d471ca15c62a0b5c828714b434d13d13",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: Nederlandse bedrijven",
-    "link": "https://www.beurs.nl/Nieuws/886754/Beursagenda-Nederlandse-bedrijven.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de financiële agenda voor Nederland tot en met maandag 7 december 2026:",
-    "published_at": "2026-11-27 16:25",
-    "scraped_at": "2026-11-28T04:20:04.739187"
-  },
-  {
-    "id": "2cca5c9af04411aa02794fcbaef21a69",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: buitenlandse fondsen",
-    "link": "https://www.beurs.nl/Nieuws/886755/Beursagenda-buitenlandse-fondsen.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de internationale bedrijfsagenda tot en met maandag 7 december 2026:",
-    "published_at": "2026-11-27 16:25",
-    "scraped_at": "2026-11-28T04:20:04.739187"
-  },
-  {
-    "id": "245b8d9de26ad087a81514f158ceb2e5",
-    "categorie": "Beursnieuws",
-    "titel": "Beursagenda: macro-economisch",
-    "link": "https://www.beurs.nl/Nieuws/886756/Beursagenda-macro-economisch.aspx",
-    "intro": "Hieronder volgen de belangrijkste items op de macro-economische agenda tot en met maandag 7 december 2026:",
-    "published_at": "2026-11-27 16:25",
-    "scraped_at": "2026-11-28T04:20:04.739187"
-  },
-  {
-    "id": "47a1d9d8a33e09f6422e4fec12cb8a90",
-    "categorie": "Beursnieuws",
-    "titel": "Bloomberg: Nvidia-chips duiken op in Chinees datacenter dat banden heeft met Alice Huang",
-    "link": "https://www.beurs.nl/Nieuws/886751/Bloomberg-Nvidia-chips-duiken-op-in-Chinees-datacenter-dat-banden-heeft-met-Alice-Huang.aspx",
-    "intro": "Twee Chinese bedrijven hebben de krachtige Blackwell-halfgeleiders van Nvidia geïnstalleerd in een datacentrum in Shanghai dat banden heeft met Alice Huang. Dit meldde persbureau Bloomberg vrijdag op basis van ingeziene documenten.",
-    "published_at": "2026-11-27 15:55",
-    "scraped_at": "2026-11-28T04:20:04.739187"
+    "id": "05dac2d834009a7aa3b7bbb07fe4d3bf",
+    "categorie": "",
+    "titel": "Vooruitblik: Jensen Huang weer onder vuur en nog 3 zaken om op te letten",
+    "link": "https://www.iex.nl/artikel/886740/Vooruitblik-Jensen-Huang-weer-onder-vuur-en-nog-3-zaken-om-op-te-letten.aspx",
+    "intro": "",
+    "published_at": "2026-11-28 06:55",
+    "scraped_at": "2026-11-28T13:20:50.250607"
   }
 ]
